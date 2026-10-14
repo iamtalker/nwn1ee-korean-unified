@@ -12,7 +12,8 @@
 | The Winds of Eremor, Neverwinter Chess | 완료 (번역 CSV → 로컬 `.mod` 재패킹) |
 | Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 완료 (기계번역 + 이름·UI 수동 교정, 긴 문단은 기계번역 위주) |
 | DoD/ToTM/PotSC/DoIWD | 완료 (창작마당 `nwn1ee_dod_kr` 자동 다운로드 후 설치) |
-| 나머지 공식 Extra 3종(Kingmaker/ShadowGuard/Witch's Wake), 프리미엄 3종, 커뮤니티 7종 | **미구현** (설치 창에 "미구현" 표시) |
+| Dark Dreams of Furiae | 완료 (고유 문장 2,568개 기계번역 + 이름·UI 377개 수동 교정, 긴 대사는 기계번역 위주) |
+| 나머지 공식 Extra 3종(Kingmaker/ShadowGuard/Witch's Wake), 프리미엄 2종(Wyvern Crown, Infinite Dungeons), 커뮤니티 7종 | **미구현** (설치 창에 "미구현" 표시) |
 
 ## 구조
 
@@ -36,7 +37,6 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
 
 | 모듈 | 항목 수 |
 |---|---|
-| Dark Dreams of Furiae | 약 4,760 |
 | Witch's Wake | 약 6,160 |
 | ShadowGuard | 약 8,100 |
 | Kingmaker | 약 10,070 |

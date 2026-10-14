@@ -409,10 +409,10 @@ class ExtModule(Item):
 class BuiltMod(Item):
     """게임의 .mod 원본 + 번역 CSV 로 번역본 모듈을 만들어 설치한다."""
 
-    def __init__(self, id_, name, short, filename):
+    def __init__(self, id_, name, short, filename, nwm=False):
         super().__init__(id_, name, "번역 CSV로 로컬 모듈에서 생성", True)
-        self.short, self.filename = short, filename
-        self.dst = MODDIR / filename
+        self.short, self.filename, self.nwm = short, filename, nwm
+        self.dst = (NWM if nwm else MODDIR) / filename
 
     def applied(self):
         b = bak_of(self.dst)
@@ -424,8 +424,9 @@ class BuiltMod(Item):
             raise RuntimeError(f"원본 모듈을 찾을 수 없습니다:\n{self.dst}")
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)
-            (tmp / "base" / "data" / "mod").mkdir(parents=True)
-            shutil.copy2(src, tmp / "base" / "data" / "mod" / self.filename)
+            sub = "nwm" if self.nwm else "mod"
+            (tmp / "base" / "data" / sub).mkdir(parents=True)
+            shutil.copy2(src, tmp / "base" / "data" / sub / self.filename)
             env = dict(os.environ, NWN_BASE=str(tmp / "base"), NWN_BUILD_DIR=str(tmp / "out"),
                        PYTHONIOENCODING="utf-8")
             r = subprocess.run(
@@ -456,7 +457,7 @@ ITEMS = {i.id: i for i in [
     ExtModule("doiwd", "Doom of Icewind Dale", "Doom of Icewind Dale", tlk="doiwd.tlk", hak="doiwd_hak.hak"),
     ExtModule("totms", "Tyrants of the Moonsea", "Tyrants of the Moonsea", tlk="tyrants.tlk"),
     ExtModule("dod", "Darkness over Daggerford", "Darkness over Daggerford", tlk="ossian.tlk"),
-    Todo("ddf", "Dark Dreams of Furiae"),
+    BuiltMod("ddf", "Dark Dreams of Furiae", "ddf", "Neverwinter Nights - Dark Dreams of Furiae.nwm", nwm=True),
     ExtModule("potsc", "Pirates of the Sword Coast", "Pirates of the Sword Coast", tlk="potsc.tlk", hak="potsc_tkr.hak"),
     Todo("wcoc", "Wyvern Crown of Cormyr"),
     Todo("id", "Infinite Dungeons"),
