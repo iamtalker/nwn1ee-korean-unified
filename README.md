@@ -61,6 +61,10 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 - 커뮤니티 캠페인은 게임이 내려받는 방식(NWSync/창작마당)이라 번역 대상 파일을 로컬에서 확보해야 하며, 아직 구현되지 않았습니다.
 - 번역 품질은 각 원 작업물에 따릅니다. 이슈와 제보를 환영합니다.
 
+## 개발 / 기여
+
+개발 현황과 다음 작업은 [DEVELOPMENT.md](DEVELOPMENT.md) 를 참고하세요.
+
 ## 출처 / 라이선스
 
 [NOTICE.md](NOTICE.md) 참고. 이 저장소의 코드는 MIT 라이선스입니다 ([LICENSE](LICENSE)).
