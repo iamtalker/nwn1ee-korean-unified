@@ -19,11 +19,12 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import urllib.request
 import zipfile
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-ROOT = HERE.parent if (HERE.parent / "assets").exists() else HERE
+ROOT = HERE.parent
 ASSETS = ROOT / "assets"
 MODBUILD = HERE / "modbuild"
 
@@ -32,6 +33,10 @@ import engine_patch  # noqa: E402
 
 ORIGINAL_ENGINE_SHA = engine_patch.ORIGINAL_SHA256
 EXT_WORKSHOP_ID = "3437559043"          # Steam 창작마당: nwn1ee_dod_kr (4개 확장 모듈 한글)
+EXT_GDRIVE_ID = "1ru5f-Fy_vbS4vXIqIwP4SgIagmOlqrtw"   # 제작자가 직접 공개한 배포 파일
+EXT_MARK = "kr_nwm/Neverwinter Nights - Doom of Icewind Dale.nwm"
+REPO = "iamtalker/nwn1ee-korean-unified"
+CACHE = Path(os.environ.get("LOCALAPPDATA") or Path.home()) / "nwn1ee-korean"
 
 
 # ----------------------------------------------------------------- 경로 탐색
@@ -148,6 +153,56 @@ def need_docs():
             "(먼저 폴더를 만들어 두면 게임이 다른 이름의 폴더를 새로 만들어 한글이 적용되지 않습니다.)")
 
 
+
+# ----------------------------------------------------------------- 자동 다운로드
+def download(url: str, dest: Path, what: str = "파일") -> Path:
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    tmp = dest.with_name(dest.name + ".part")
+    req = urllib.request.Request(url, headers={"User-Agent": "nwn1ee-korean-installer"})
+    print(f"다운로드: {what} ...", flush=True)
+    with urllib.request.urlopen(req, timeout=60) as r, open(tmp, "wb") as f:
+        shutil.copyfileobj(r, f, 1 << 20)
+    tmp.replace(dest)
+    return dest
+
+
+def ensure_assets():
+    """assets/version.dll, assets/dialog.tlk 가 없으면(소스 저장소로 실행한 경우) 최신 릴리스에서 받는다."""
+    need = [n for n in ("version.dll", "dialog.tlk") if not (ASSETS / n).exists()]
+    if not need:
+        return
+    import json
+    api = f"https://api.github.com/repos/{REPO}/releases/latest"
+    req = urllib.request.Request(api, headers={"User-Agent": "nwn1ee-korean-installer"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        rel = json.load(r)
+    asset = next((a for a in rel.get("assets", []) if a["name"].endswith(".zip")), None)
+    if not asset:
+        raise RuntimeError("릴리스에서 assets 를 찾지 못했습니다.")
+    with tempfile.TemporaryDirectory() as t:
+        z = download(asset["browser_download_url"], Path(t) / asset["name"], "필수 리소스(version.dll, dialog.tlk)")
+        with zipfile.ZipFile(z) as zf:
+            for n in need:
+                ASSETS.mkdir(exist_ok=True)
+                (ASSETS / n).write_bytes(zf.read("assets/" + n))
+
+
+def download_ext() -> "Path | None":
+    """확장 모듈 한글패치(nwn1ee_dod_kr.zip)를 제작자가 공개한 Google Drive 링크에서 받는다."""
+    dest = CACHE / "nwn1ee_dod_kr.zip"
+    base = "https://drive.usercontent.google.com/download?id=%s&export=download&confirm=t" % EXT_GDRIVE_ID
+    try:
+        download(base, dest, "확장 모듈 한글패치 nwn1ee_dod_kr.zip (약 60MB)")
+        with zipfile.ZipFile(dest) as z:
+            z.getinfo(EXT_MARK)
+        return dest
+    except Exception:
+        try:
+            dest.unlink()
+        except OSError:
+            pass
+        return None
+
 # ----------------------------------------------------------------- 외부 확장모듈 한패
 class ExtSource:
     """nwn1ee_dod_kr (Steam 창작마당) 한패를 zip 또는 압축 해제된 폴더로 읽는다."""
@@ -188,6 +243,7 @@ def find_ext(prompt=False):
         cands.append(Path(cfg.read_text(encoding="utf-8").strip()))
     cands += [
         GAME.parent.parent / "workshop" / "content" / "704450" / EXT_WORKSHOP_ID,
+        CACHE / "nwn1ee_dod_kr.zip",
         Path.home() / "Downloads" / "nwn1ee_dod_kr.zip",
         ROOT.parent / "네윈나1 확장캠페인 한글화" / "nwn1ee_dod_kr.zip",
     ]
@@ -201,14 +257,30 @@ def find_ext(prompt=False):
         except (OSError, zipfile.BadZipFile):
             continue
     if prompt:
+        ok = True
+        try:
+            from tkinter import messagebox
+            msg = chr(10).join([
+                "프리미엄 4종(DoD/ToTM/PotSC/DoIWD)의 한글은 제작자가 따로 배포한",
+                "nwn1ee_dod_kr 패치를 사용합니다. 컴퓨터에서 찾지 못했습니다.",
+                "",
+                "제작자가 공개한 링크에서 지금 받을까요? (약 60MB)"])
+            ok = messagebox.askyesno("확장 모듈 한글패치 필요", msg)
+        except Exception:
+            pass
+        if ok:
+            z = download_ext()
+            if z:
+                _ext_cache["src"] = ExtSource(z)
+                return _ext_cache["src"]
         try:
             from tkinter import filedialog
             f = filedialog.askopenfilename(
-                title="nwn1ee_dod_kr.zip (확장 모듈 한글패치) 파일을 선택하세요",
+                title="nwn1ee_dod_kr.zip 파일을 직접 선택하세요 (취소하면 건너뜀)",
                 filetypes=[("zip", "*.zip"), ("all", "*.*")])
             if f:
                 s = ExtSource(Path(f))
-                if s.has("kr_nwm/Neverwinter Nights - Doom of Icewind Dale.nwm"):
+                if s.has(EXT_MARK):
                     (HERE / "external_patch.txt").write_text(f, encoding="utf-8")
                     _ext_cache["src"] = s
                     return s
@@ -413,6 +485,10 @@ LAYOUT = [
 def run_gui():
     import tkinter as tk
     from tkinter import messagebox, ttk
+    try:
+        ensure_assets()
+    except Exception as e:  # noqa: BLE001
+        print("리소스 자동 다운로드 실패:", e)
 
     class App(tk.Tk):
         def __init__(self):
@@ -517,11 +593,17 @@ def main():
         return
     if "--patch-all" in sys.argv or "--restore-all" in sys.argv:
         patch = "--patch-all" in sys.argv
+        if patch:
+            ensure_assets()
         for id_ in ["engine"] + [i for i in ITEMS if i != "engine"]:
             it = ITEMS[id_]
             if not it.ready:
                 continue
             try:
+                if patch and isinstance(it, ExtModule) and not find_ext():
+                    if not download_ext():
+                        raise RuntimeError("확장 모듈 한글패치를 받지 못했습니다.")
+                    _ext_cache.clear()
                 (it.patch if patch else it.restore)()
                 print("OK  ", it.name)
             except Exception as e:  # noqa: BLE001

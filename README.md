@@ -16,17 +16,18 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | 공식 · Classic | The Wailing Death(오리지널), Shadows of Undrentide, Hordes of the Underdark | 구현 (본편 번역 약 99.8%) |
 | 공식 · Extra | The Winds of Eremor, Neverwinter Chess | 구현 |
 | 공식 · Extra | Kingmaker, ShadowGuard, Witch's Wake, Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 미구현 |
-| 프리미엄 | Doom of Icewind Dale, Tyrants of the Moonsea, Darkness over Daggerford, Pirates of the Sword Coast | 구현 ※외부 한패 필요 |
+| 프리미엄 | Doom of Icewind Dale, Tyrants of the Moonsea, Darkness over Daggerford, Pirates of the Sword Coast | 구현 (설치 시 자동 다운로드) |
 | 프리미엄 | Dark Dreams of Furiae, Wyvern Crown of Cormyr, Infinite Dungeons | 미구현 |
 | 커뮤니티 | A Hunt Through The Dark, Eye of the Beholder, Aielund Saga, Auren Saga, Crimson Tides of Tethyr, Siege of Shadowdale, Cult of the Reptile God | 미구현 |
 
 ※ 프리미엄 4종(DoD/ToTM/PotSC/DoIWD)의 번역은 [Steam 창작마당 nwn1ee_dod_kr](https://steamcommunity.com/sharedfiles/filedetails/?id=3437559043)
-제작자의 작업물입니다. 이 저장소는 그 파일을 포함하지 않으며, 설치 프로그램이 사용자가 가진 해당 한패(zip 또는 창작마당 구독 폴더)를 찾아 설치합니다.
+제작자의 작업물이고 유료 모듈 파일을 포함하므로, 이 저장소에는 넣지 않았습니다.
+대신 설치 프로그램이 **제작자가 공개한 링크에서 자동으로 내려받아** 설치합니다(PC에 이미 있으면 그 파일을 사용). 따로 할 일은 없습니다.
 
 ## 사용 방법
 
 1. 게임을 **한 번 실행했다가 종료**합니다 (문서 폴더에 `nwn.ini` 가 만들어져야 합니다).
-2. [Releases](../../releases)에서 zip 을 받아 압축을 풀고 `run_installer.bat` 을 실행합니다. (Python 3.10+ 필요, `py` 런처)
+2. [Releases](../../releases)에서 zip 을 받아 압축을 풀고 `run_installer.bat` 을 실행합니다. (Python 이 없으면 winget 으로 설치할지 물어봅니다)
 3. 항목별 **[패치]** 또는 **[전체 일괄 패치]**.
 4. Steam 에서 평소처럼 게임을 실행합니다. 별도 로더는 필요 없습니다.
 
