@@ -448,7 +448,7 @@ ITEMS = {i.id: i for i in [
     Todo("km", "Kingmaker"),
     Todo("sg", "ShadowGuard"),
     Todo("ww", "Witch's Wake"),
-    Todo("coc", "Contest of Champions"),
+    BuiltMod("coc", "Contest of Champions", "coc", "Contest Of Champions 0492.mod"),
     Todo("darkranger", "The Dark Ranger's Treasure"),
     BuiltMod("eremor", "The Winds of Eremor", "eremor", "The Winds of Eremor.mod"),
     Todo("toheir", "To Heir is Human"),
