@@ -68,3 +68,12 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
 - 테스트는 반드시 `NWN_GAME_DIR`/`NWN_DOCS_DIR` 환경변수로 **격리된 폴더**에서 한다 (빈 값이면 실제 게임에 적용되므로 주의).
 - 릴리스 전: zip 을 풀어 `run_installer.bat` 와 `--list` 까지 확인.
 - 작업 폴더(임시/테스트)와 업로드 폴더(깃 클론)는 분리해서 사용한다.
+
+## 진행 중 작업 메모 (2026-10-14 중단 시점)
+
+- **Witch's Wake** 번역 진행 중이었음: 고유 문장 2,874개, 기계번역은 약 800개까지 진행 후 PC 종료로 중단(결과 미저장).
+  - 재개: `tools/mt_translate.py <inline 폴더> <출력.json>` — 이제 체크포인트(`.partial`)로 이어하기를 지원한다.
+  - 이후: `tools/mt_fix.py`(깨진 항목 재번역) → 이름/UI 교정 JSON 작성 → `tools/apply_mod.py <short> <교정.json>` →
+    `installer/nwn_ko_installer.py` 의 `Todo("ww", ...)` 를 `BuiltMod("ww", "Witch's Wake", "witchswake", "Witch's Wake.mod")` 로 교체 → README/DEVELOPMENT 갱신 → 릴리스.
+- 다음 후보 순서: ShadowGuard(약 8,100) → Kingmaker(약 10,070) → Wyvern Crown(약 17,430) → Infinite Dungeons.
+- 기계번역은 CPU 를 오래 점유하므로(약 4문장/초, 긴 문장은 더 느림) 낮 시간에 돌리는 것이 좋다.

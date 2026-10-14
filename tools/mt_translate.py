@@ -68,10 +68,17 @@ def main():
     tr = ctranslate2.Translator(model, device="cpu", compute_type="int8",
                                 inter_threads=2, intra_threads=6)
 
+    # 이어하기: 이전 중단분(.partial)이 있으면 불러와 건너뛴다
+    partial = out_json + ".partial"
+    done = {}
+    if os.path.exists(partial):
+        done = json.load(open(partial, encoding="utf-8"))
+        print(f"resume: {len(done)} already translated")
+    uniq = [u for u in uniq if u not in done]
     prot = [protect(u) for u in uniq]
     src = [["eng_Latn"] + sp.encode(p[0], out_type=str) + ["</s>"] for p in prot]
     t0 = time.time()
-    out = {}
+    out = dict(done)
     B = 32
     for i in range(0, len(src), B):
         res = tr.translate_batch(src[i:i + B], target_prefix=[["kor_Hang"]] * len(src[i:i + B]),
@@ -83,11 +90,15 @@ def main():
             ko = sp.decode(toks)
             idx = i + j
             out[uniq[idx]] = restore(ko, prot[idx][1])
+        if (i // B) % 10 == 9:   # 체크포인트
+            json.dump(out, open(partial, "w", encoding="utf-8"), ensure_ascii=False)
         if (i // B) % 5 == 0:
             el = time.time() - t0
             print(f"  {i + len(res)}/{len(src)}  {el:.0f}s", flush=True)
     print(f"done {len(out)} in {time.time() - t0:.0f}s")
     json.dump(out, open(out_json, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    if os.path.exists(partial):
+        os.remove(partial)
 
 
 if __name__ == "__main__":
