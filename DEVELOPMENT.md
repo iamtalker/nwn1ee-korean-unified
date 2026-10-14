@@ -9,9 +9,10 @@
 | 엔진·UI 한글 (`nwmain.exe` 바이너리 패치 + `version.dll` 프록시) | 완료, 8193.37 원본 해시 전용 |
 | 캠페인 선택 화면(Nuklear) | 완료 (`width`/`query` 후킹으로 CP949 쌍을 음절 글리프로 묶음) |
 | 본편 OC/SoU/HotU | 완료 (`assets/dialog.tlk`, 번역률 약 99.8%) |
-| The Winds of Eremor, Neverwinter Chess, Contest of Champions | 완료 (번역 CSV → 로컬 `.mod` 재패킹). CoC 는 기계번역 + 수동 교정 |
+| The Winds of Eremor, Neverwinter Chess | 완료 (번역 CSV → 로컬 `.mod` 재패킹) |
+| Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 완료 (기계번역 + 이름·UI 수동 교정, 긴 문단은 기계번역 위주) |
 | DoD/ToTM/PotSC/DoIWD | 완료 (창작마당 `nwn1ee_dod_kr` 자동 다운로드 후 설치) |
-| 나머지 공식 Extra 5종, 프리미엄 3종, 커뮤니티 7종 | **미구현** (설치 창에 "미구현" 표시) |
+| 나머지 공식 Extra 3종(Kingmaker/ShadowGuard/Witch's Wake), 프리미엄 3종, 커뮤니티 7종 | **미구현** (설치 창에 "미구현" 표시) |
 
 ## 구조
 
@@ -35,8 +36,6 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
 
 | 모듈 | 항목 수 |
 |---|---|
-| The Dark Ranger's Treasure | 약 340 |
-| To Heir is Human | 약 520 |
 | Dark Dreams of Furiae | 약 4,760 |
 | Witch's Wake | 약 6,160 |
 | ShadowGuard | 약 8,100 |
