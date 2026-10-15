@@ -15,6 +15,7 @@
 
 import csv
 import importlib
+import zlib
 import importlib.util
 import shutil
 import struct
@@ -27,6 +28,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from gff_tool import GffFile, CExoLocString, CEXOLOCSTRING, STRUCT, LIST
 from csv_to_tlk import CSVToTLKConverter
+import ncs_tool
 from analyze_premium_modules import read_erf_entries, read_resource_data, RES_TYPES
 
 import os
@@ -290,13 +292,54 @@ def build_gff_resource_index(module_path: Path, entries):
     return index
 
 
+NCS_RES_TYPE = 2010
+
+
+def load_ncs_translations(module_name: str) -> dict:
+    """premium/<module>/ncs/ncs.csv (열: Resource,Index,Check,Text) -> {resref: {문자열순번: (crc32, 번역)}}.
+
+    NCS(컴파일된 스크립트) 안의 문자열 상수 번역. 영어 원문은 저장소에 넣지 않으므로 원문의 CRC32 로 대응을 검증한다.
+    """
+    path = Path(__file__).parent / module_name / "ncs" / "ncs.csv"
+    out = {}
+    if not path.exists():
+        return out
+    with open(path, encoding="utf-8-sig", newline="") as f:
+        for r in csv.DictReader(f):
+            out.setdefault(r["Resource"].lower(), {})[int(r["Index"])] = (int(r["Check"]), r["Text"])
+    return out
+
+
+def patch_ncs(path: Path, entries, ncs_map: dict, modified: dict) -> int:
+    """path(ERF) 안의 NCS 리소스에 번역 적용 -> modified[(resref, 2010)] = 새 바이트. 적용한 문자열 수를 돌려준다."""
+    applied = 0
+    for resref, res_type, _res_id, offset, size in entries:
+        if res_type != NCS_RES_TYPE or resref not in ncs_map:
+            continue
+        data = read_resource_data(path, offset, size)
+        try:
+            idx = dict(ncs_tool.indexed_strings(data))
+            repl = {}
+            for i, (crc, text) in ncs_map[resref].items():
+                src = idx.get(i)
+                if src is not None and zlib.crc32(src.encode("latin-1")) == crc:
+                    repl[i] = text
+            if repl:
+                modified[(resref, res_type)] = ncs_tool.rebuild(data, repl, by_index=True)
+                applied += len(repl)
+        except Exception as e:
+            print(f"    Warning: NCS {resref}: {e}")
+    return applied
+
+
 def build_repacked_module(config: dict, module_name: str, output_dir: Path) -> Path:
     """인라인 번역을 적용하여 모듈(.mod/.nwm)을 재패킹.
 
     Returns: 생성된 모듈 파일 경로, 또는 None
     """
     translations = load_inline_translations(module_name)
-    if not translations:
+    ncs_map = load_ncs_translations(module_name)
+    if not translations and not ncs_map:
         print(f"\n  No inline translations found")
         return None
 
@@ -352,13 +395,16 @@ def build_repacked_module(config: dict, module_name: str, output_dir: Path) -> P
             modified_resources[(resref, erf_type_id)] = gff.to_bytes()
             applied += resource_applied
 
+    n_ncs = patch_ncs(module_path, entries, ncs_map, modified_resources) if ncs_map else 0
+    if n_ncs:
+        print(f"  Applied (module scripts): {n_ncs} strings")
     print(f"  Applied (module): {applied} translations to {len(modified_resources)} resources")
 
     # ---- HAK 단계: 모듈에 없던 리소스는 연결된 HAK 에서 찾아 번역본 HAK 를 만든다 ----
     hak_outputs = []
     remaining = dict(missing_in_module)
     for hak_name in config.get("hak", []) or []:
-        if not remaining:
+        if not remaining and not ncs_map:
             break
         hak_path = HAK_DIR / f"{hak_name}.hak"
         if not hak_path.exists():
@@ -387,6 +433,9 @@ def build_repacked_module(config: dict, module_name: str, output_dir: Path) -> P
                 h_modified[(resref, erf_type_id)] = g.to_bytes()
                 h_applied += n
             del remaining[(resref, res_ext)]
+        h_ncs = patch_ncs(hak_path, h_entries, ncs_map, h_modified) if ncs_map else 0
+        if h_ncs:
+            print(f"  Applied (hak {hak_name} scripts): {h_ncs} strings")
         print(f"  Applied (hak {hak_name}): {h_applied} translations to {len(h_modified)} resources")
         if h_modified:
             out_hak = output_dir / f"{hak_name}.hak"

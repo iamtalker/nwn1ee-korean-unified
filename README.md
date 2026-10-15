@@ -41,9 +41,9 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | 엔진·UI | 한글 표시, 캠페인 선택 화면 | 일부 옵션 화면 문구는 게임 자체 번역이 없어 영어 |
 | 본편 OC/SoU/HotU | `dialog.tlk` 약 99.8% | 영문 유지 항목 약 3천 개(고유명사 등), 미번역 약 190개 |
 | DoD/ToTM/PotSC/DoIWD | 외부 한패 제작자의 번역 | 제작자가 영어로 남긴 스크립트 메시지 등 |
-| Eremor/Chess/CoC/Dark Ranger/To Heir is Human | 대사·이름·설명(모듈 내 텍스트) 기계번역 | **스크립트에 박힌 문구**, 2DA 항목, 이미지·영상 속 글자 |
-| Kingmaker/ShadowGuard/Witch's Wake/Wyvern Crown | 모듈 + HAK 안의 대사·이름·설명 기계번역 (v0.1.8~) | 스크립트 문구, 2DA, **Wyvern Crown 커스텀 TLK(354개)** |
-| Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (Infinite Dungeons 28,805개 전부 적용, Furiae 4,761개는 모두 모듈 안) | 스크립트 문구, 2DA |
+| Eremor/Chess/CoC/Dark Ranger/To Heir is Human | 대사·이름·설명(모듈 내 텍스트) 기계번역 | 스크립트 속 문장은 대부분 번역(v0.1.13~, 일부는 조합식 문구라 영어), 2DA 항목, 이미지·영상 속 글자 |
+| Kingmaker/ShadowGuard/Witch's Wake/Wyvern Crown | 모듈 + HAK 안의 대사·이름·설명 기계번역 (v0.1.8~) | 일부 스크립트 조합 문구, 2DA, **Wyvern Crown 커스텀 TLK(354개)** |
+| Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (Infinite Dungeons 28,805개 전부 적용, Furiae 4,761개는 모두 모듈 안) | 일부 스크립트 조합 문구, 2DA |
 | 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(development 폴더 방식, 실험적) | 접두 `nw_` 리소스, 스크립트 문구, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
 | 커뮤니티: Defender of the Crown 등 나머지 | **번역 중/미포함** | 전부 |
 | 커뮤니티: Aielund Saga(1~3부) 등 | **미포함** | 전부 |

@@ -114,3 +114,13 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
 - 커뮤니티에 **Crimson Tides of Tethyr**(7,743행), **Siege of Shadowdale**(3,414행) 추가.
 - 남은 커뮤니티 번역 중: Defender of the Crown, Return of the Ironlord, Aielund 1~3, Almraiven, Cult of the Reptile God 2.0, Shadewood. 끝나면 `community_pack.py` → 복사 → `CommunityModule` 추가.
 - 다음 과제: (1) NCS 문자열 치환(NPC 머리 위 말풍선), (2) 용어집 재번역은 `--retranslate` 가 CPU 를 오래 쓰므로 새 모듈은 번역 직후 한 번에.
+
+## v0.1.13 (NCS 스크립트 문자열 번역)
+NPC 머리 위 말풍선(SpeakString)·시스템 메시지는 컴파일된 `.ncs` 의 문자열 상수라 GFF 번역으로는 닿지 않았다.
+- `installer/modbuild/ncs_tool.py`: NCS 파서/치환기. 문자열 길이가 바뀌면 JMP/JSR/JZ/JNZ 상대 오프셋을 다시 계산한다(왕복 검증: Kingmaker 1,389개 바이트 동일).
+- 저장소에는 영어를 넣지 않는다: `premium/<short>/ncs/ncs.csv` = (스크립트, 문자열 순번, 원문 CRC32, 한글). 적용 시 CRC 가 일치할 때만 치환.
+- 파이프라인: `tools/ncs_extract.py <작업폴더>` → `mt_translate.py <작업폴더> all.json` → `tools/ncs_pack.py ncs_src.csv all.json --glossary glossary.json --corr corr_global.json`.
+  고유 문장 4,432개(전 모듈), 번역 약 11분.
+- 대상 판별: `is_sentence()` (공백 포함, `_`/`***`/`os_` 제외, 3단어 이상 또는 문장부호로 끝남). 앞뒤 공백은 보존(문자열 이어붙이기용).
+- 한계: 문장이 조각으로 쪼개져 조합되는 메시지(`"You have " + IntToString(n) + " gold"`)는 조각별로 번역되어 어색할 수 있음.
+  기본 캠페인(OC/SoU/HotU)과 DoD 4종 스크립트는 이 방식 대상이 아님(별도 작업).
