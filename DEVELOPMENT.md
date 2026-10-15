@@ -92,3 +92,15 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
     `installer/nwn_ko_installer.py` 의 `Todo("ww", ...)` 를 `BuiltMod("ww", "Witch's Wake", "witchswake", "Witch's Wake.mod")` 로 교체 → README/DEVELOPMENT 갱신 → 릴리스.
 - 다음 후보 순서: ShadowGuard(약 8,100) → Kingmaker(약 10,070) → Wyvern Crown(약 17,430) → Infinite Dungeons.
 - 기계번역은 CPU 를 오래 점유하므로(약 4문장/초, 긴 문장은 더 느림) 낮 시간에 돌리는 것이 좋다.
+
+## 용어집 단계 (v0.1.10 진행 중)
+
+토큰 최소화 로드맵 1단계. 본편 `dialog.tlk`(영문/한글) 쌍에서 고유명사형 용어를 뽑아 기계번역에 적용한다. 토큰 비용 0.
+
+1. `tools/build_glossary.py <en dialog.tlk(lang/en/data)> <assets/dialog.tlk> glossary.json` — 12,204쌍 (영문 TLK 는 cp1252, 한글 TLK 는 **cp949**)
+2. `tools/apply_glossary.py glossary.json <all.json...> [--retranslate] [--dry]` — 정확 일치 치환 + (옵션) 문장 속 용어 보호 재번역. `.bak` 자동 보관.
+   - 시험: shadowguard 정확 일치 115, 재번역 80. 전체 모듈 기준 정확 일치 약 2,449개가 기존과 달랐다.
+   - 일반 조각("Talk to", "Thank you")이 용어로 잡히면 오히려 나빠지므로 `proper()` 필터(8자 이상, 마지막 단어가 전치사/대명사 아님)를 둠.
+   - **아직 실제 all.json 에는 적용하지 않음(dry 만 실행)**. 다음 세션: 완료된 all.json 에 적용 → corr_*.json 재적용(apply_mod) → 재빌드 → 릴리스.
+3. 설치 프로그램 GUI: 패치/원복/상태 확인을 작업 스레드로 옮겨 '응답 없음' 해소(v0.1.10). 대화상자는 `_ui_call` 로 메인 스레드에서 띄움.
+- 환경 메모: bash heredoc 으로 `py -` 에 한글 소스를 넘기면 cp949 로 깨진다 → 한글이 든 편집은 파일로 저장해 `py -X utf8 파일` 로 실행할 것. `py` 런처는 공백 든 인자를 쪼갤 수 있으니 환경변수로 경로 전달.

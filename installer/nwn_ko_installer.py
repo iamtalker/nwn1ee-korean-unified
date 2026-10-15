@@ -21,6 +21,7 @@ import subprocess
 import sys
 import tempfile
 import urllib.request
+import threading
 import zipfile
 from pathlib import Path
 
@@ -52,6 +53,8 @@ def find_game() -> Path:
             cands.append(Path(saved))
     except OSError:
         pass
+    for up in (ROOT.parent, ROOT.parent.parent):   # 패치 폴더가 게임 폴더 옆/안에 있는 경우
+        cands += [up / "Neverwinter Nights", up]
     steam_roots = [Path(r"C:\Program Files (x86)\Steam"), Path(r"C:\Program Files\Steam")]
     for root in steam_roots:
         cands.append(root / "steamapps" / "common" / "Neverwinter Nights")
@@ -272,7 +275,7 @@ def find_ext(prompt=False):
                 "nwn1ee_dod_kr 패치를 사용합니다. 컴퓨터에서 찾지 못했습니다.",
                 "",
                 "제작자가 공개한 링크에서 지금 받을까요? (약 60MB)"])
-            ok = messagebox.askyesno("확장 모듈 한글패치 필요", msg)
+            ok = _ui_call(lambda: messagebox.askyesno("확장 모듈 한글패치 필요", msg))
         except Exception:
             pass
         if ok:
@@ -282,9 +285,9 @@ def find_ext(prompt=False):
                 return _ext_cache["src"]
         try:
             from tkinter import filedialog
-            f = filedialog.askopenfilename(
+            f = _ui_call(lambda: filedialog.askopenfilename(
                 title="nwn1ee_dod_kr.zip 파일을 직접 선택하세요 (취소하면 건너뜀)",
-                filetypes=[("zip", "*.zip"), ("all", "*.*")])
+                filetypes=[("zip", "*.zip"), ("all", "*.*")]))
             if f:
                 s = ExtSource(Path(f))
                 if s.has(EXT_MARK):
@@ -294,6 +297,10 @@ def find_ext(prompt=False):
         except Exception:
             pass
     return None
+
+
+# GUI 가 작업 스레드에서 대화상자를 띄울 때 메인 스레드로 넘기는 훅 (CLI 에서는 그대로 호출)
+_ui_call = lambda fn: fn()  # noqa: E731
 
 
 # ----------------------------------------------------------------- 항목 동작
@@ -710,8 +717,14 @@ def run_gui():
 
             bar = ttk.Frame(self, padding=10)
             bar.pack(side="bottom", fill="x")
-            ttk.Button(bar, text="전체 일괄 패치", command=self.all_patch).pack(side="left", padx=4)
-            ttk.Button(bar, text="전체 원복", command=self.all_restore).pack(side="left", padx=4)
+            self.busy = False
+            self.btn_all = ttk.Button(bar, text="전체 일괄 패치", command=self.all_patch)
+            self.btn_all.pack(side="left", padx=4)
+            self.btn_restore = ttk.Button(bar, text="전체 원복", command=self.all_restore)
+            self.btn_restore.pack(side="left", padx=4)
+            self.status = ttk.Label(bar, text="", foreground="#06c")
+            self.status.pack(side="left", padx=10)
+            self.prog = ttk.Progressbar(bar, mode="indeterminate", length=140)
 
             wrap = ttk.Frame(self)
             wrap.pack(fill="both", expand=True, padx=10)
@@ -742,39 +755,102 @@ def run_gui():
                 b2.pack(side="left", padx=2)
                 ttk.Label(r, text=it.desc, foreground="#666").pack(side="left", padx=6)
                 self.rows[it.id] = (lab, b1, b2)
+            global _ui_call
+            _ui_call = self._call_in_main
             self.refresh()
 
+        # ---- 무거운 작업(패치/원복/상태 확인)은 작업 스레드에서 실행해 창이 '응답 없음'이 되지 않게 한다 ----
+        def _call_in_main(self, fn):
+            if threading.current_thread() is threading.main_thread():
+                return fn()
+            ev, box = threading.Event(), []
+
+            def run():
+                try:
+                    box.append(fn())
+                finally:
+                    ev.set()
+            self.after(0, run)
+            ev.wait()
+            return box[0] if box else None
+
+        def _set_busy(self, text):
+            self.busy = bool(text)
+            st = "disabled" if text else "!disabled"
+            for _id, (_lab, b1, b2) in self.rows.items():
+                if ITEMS[_id].ready:
+                    b1.state([st])
+                    b2.state([st])
+            for w in (self.btn_all, self.btn_restore):
+                w.state([st])
+            self.status.config(text=text)
+            if text:
+                self.prog.pack(side="right", padx=6)
+                self.prog.start(12)
+            else:
+                self.prog.stop()
+                self.prog.pack_forget()
+
         def refresh(self):
-            for id_, (lab, b1, b2) in self.rows.items():
-                it = ITEMS[id_]
-                if not it.ready:
+            """상태 확인도 디스크를 읽으므로 스레드에서 계산하고 결과만 메인에서 반영한다."""
+            def work():
+                res = {}
+                for id_ in self.rows:
+                    it = ITEMS[id_]
+                    if not it.ready:
+                        res[id_] = None
+                        continue
+                    try:
+                        res[id_] = bool(it.applied())
+                    except Exception:
+                        res[id_] = False
+                self.after(0, lambda: self._apply_status(res))
+            threading.Thread(target=work, daemon=True).start()
+
+        def _apply_status(self, res):
+            for id_, on in res.items():
+                lab, b1, b2 = self.rows[id_]
+                if on is None:
                     lab.config(text="미구현", foreground="#b00")
                     b1.state(["disabled"])
                     b2.state(["disabled"])
                 else:
-                    try:
-                        on = it.applied()
-                    except Exception:
-                        on = False
                     lab.config(text="적용됨" if on else "미적용", foreground="#080" if on else "#333")
 
-        def act(self, it, do_patch):
-            try:
-                (it.patch if do_patch else it.restore)()
-            except PermissionError as e:
-                messagebox.showerror("권한 오류", f"{e}\n게임을 종료하고 다시 시도하세요.")
-            except Exception as e:  # noqa: BLE001
-                messagebox.showerror("오류", f"{it.name}\n\n{e}")
-                return False
+        def _run_jobs(self, jobs):
+            """jobs: [(item, do_patch)] 를 순서대로 작업 스레드에서 실행."""
+            if self.busy:
+                return
+
+            def work():
+                err = None
+                for it, do_patch in jobs:
+                    self.after(0, lambda n=it.name, p=do_patch: self.status.config(
+                        text=f"{'패치' if p else '원복'} 중: {n} … (잠시 걸릴 수 있습니다)"))
+                    try:
+                        (it.patch if do_patch else it.restore)()
+                    except PermissionError as e:
+                        err = ("권한 오류", f"{e}\n게임을 종료하고 다시 시도하세요.")
+                        break
+                    except Exception as e:  # noqa: BLE001
+                        err = ("오류", f"{it.name}\n\n{e}")
+                        break
+                self.after(0, lambda: self._done(err))
+            self._set_busy("작업 중 …")
+            threading.Thread(target=work, daemon=True).start()
+
+        def _done(self, err):
+            self._set_busy("")
+            if err:
+                messagebox.showerror(*err)
             self.refresh()
-            return True
+
+        def act(self, it, do_patch):
+            self._run_jobs([(it, do_patch)])
 
         def _each(self, patch):
             order = ["engine"] + [i for i in ITEMS if i != "engine"]
-            for id_ in order:
-                it = ITEMS[id_]
-                if it.ready and not self.act(it, patch):
-                    break
+            self._run_jobs([(ITEMS[i], patch) for i in order if ITEMS[i].ready])
 
         def all_patch(self):
             self._each(True)
