@@ -14,7 +14,7 @@ hiddencamp,are,Name,0,숨겨진 캠프
 lookingdownthehi,are,Name,0,언덕을 내려다보며
 thepass,are,Name,0,패스
 thesage,are,Name,0,지혜로운 사람
-thewatchtower,are,Name,0,훼손
+thewatchtower,are,Name,0,폐허
 westernentrance,are,Name,0,서쪽 입구
 youareleavingthe,are,Name,0,당신은 희망의 방을 떠나고 있습니다 ...
 acer_warden,dlg,EntryList/0/Text,0,"""이 악한 곳 을 떠나서 돌아가는 것이 너희 의 이익 이니라 나보다 지혜로운 자여, 이 곳 의 관리자 로 영생토록 노예가 된 내 가 무슨 일이 있었는지 네가 알고 있구나""."
@@ -223,7 +223,7 @@ gario_1,dlg,ReplyList/20/Text,0,"""네, 그 특별한 무기와 갑옷을 보여
 gk_seerene,dlg,EntryList/0/Text,0,"""아빠 드로우, 가서 우른을 깨라""."
 gk_seerene,dlg,EntryList/1/Text,0,"""나는 다시는 한 영혼도 볼 수 없을 것이라고 생각하지 않았어. 나는 몇 천 년 이상 여기에 갇혀있다."
 gk_seerene,dlg,EntryList/2/Text,0,"""그는 반성 - 당신이 알고 있는 어떤 문화보다도 훨씬 나이가 많은 존재""."
-gk_seerene,dlg,EntryList/3/Text,0,"""내성당에 들어가서 내 수납 우른이 있는 방을 찾아야 해""."
+gk_seerene,dlg,EntryList/3/Text,0,"""내부 성소로 들어가서 내 수납 우른이 있는 방을 찾아야 해""."
 gk_seerene,dlg,EntryList/4/Text,0,"""이 마술을 파괴해야 하고 난 내 노예로부터 해방될거야""."
 gk_seerene,dlg,EntryList/5/Text,0,"""대교의 뒷부분에는 잠금 닫힌 문이 있습니다. 네 개의 보석을 올바른 방법으로 아버지와 아들의 상자에 결합하면만 열 수 있습니다""."
 gk_seerene,dlg,EntryList/6/Text,0,"""알지 않아, 사당에서 힌트를 찾아봐""."
@@ -232,7 +232,7 @@ gk_seerene,dlg,EntryList/8/Text,0,"""아버지와 아들의 수수께끼를 풀�
 gk_seerene,dlg,ReplyList/0/Text,0,"""이 아세레라크는 누구야?"""
 gk_seerene,dlg,ReplyList/1/Text,0,"""어디 찾을 수 있어?"""
 gk_seerene,dlg,ReplyList/2/Text,0,[앞으로]
-gk_seerene,dlg,ReplyList/3/Text,0,"""어떻게 이 내성당에 들어갈 수 있을까?"""
+gk_seerene,dlg,ReplyList/3/Text,0,"""어떻게 이 내부 성소 안으로 들어갈 수 있을까?"""
 gk_seerene,dlg,ReplyList/4/Text,0,"""나는 지금 떠나야 한다""."
 gk_seerene,dlg,ReplyList/5/Text,0,"""어떻게 보석들을 조합할 수 있을까?"""
 gk_seerene,dlg,ReplyList/6/Text,0,"""어디 그 보석을 찾을 수 있을까?"""
@@ -552,14 +552,14 @@ acerakcaverns,git,Door List/8/LocName,0,문
 acerakcaverns,git,Encounter List/0/LocalizedName,0,아세라크의 종들
 acerakcaverns,git,Encounter List/1/LocalizedName,0,엘프 (드로우 무리)
 acerakcaverns,git,Encounter List/2/LocalizedName,0,아세라크의 종사자2
-acerakcaverns,git,SoundList/0/LocName,0,바람 은 부드럽다
+acerakcaverns,git,SoundList/0/LocName,0,약한 돌풍
 acerakcaverns,git,SoundList/1/LocName,0,배타기 울음과 박쥐
 acerakcaverns,git,SoundList/2/LocName,0,물 떨어지는 소리
-acerakcaverns,git,SoundList/3/LocName,0,마법의 크리스탈 악
-acerakcaverns,git,SoundList/4/LocName,0,큰 샘
-acerakcaverns,git,TriggerList/0/LocalizedName,0,새로운 일반제
-acerakcaverns,git,TriggerList/1/LocalizedName,0,새로운 일반제
-acerakcaverns,git,TriggerList/2/LocalizedName,0,새로운 일반제
+acerakcaverns,git,SoundList/3/LocName,0,마법 수정 악
+acerakcaverns,git,SoundList/4/LocName,0,큰 분수
+acerakcaverns,git,TriggerList/0/LocalizedName,0,새 일반
+acerakcaverns,git,TriggerList/1/LocalizedName,0,새 일반
+acerakcaverns,git,TriggerList/2/LocalizedName,0,새 일반
 acerakcaverns,git,WaypointList/0/LocalizedName,0,이정표
 acerakcaverns,git,WaypointList/1/MapNote,0,저장장치
 acerakcaverns,git,WaypointList/2/MapNote,0,죄수
@@ -583,9 +583,9 @@ acerakcaverns,git,Placeable List/13/LocName,0,썩은 배럴
 acerakcaverns,git,Placeable List/13/Description,0,두꺼운 금속띠가 배럴판을 둘러싸고 밀폐를 보장합니다.
 acerakcaverns,git,Placeable List/14/LocName,0,썩은 배럴
 acerakcaverns,git,Placeable List/14/Description,0,두꺼운 금속띠가 배럴판을 둘러싸고 밀폐를 보장합니다.
-acerakcaverns,git,Placeable List/16/LocName,0,파괴 된 바그런
+acerakcaverns,git,Placeable List/16/LocName,0,파괴된 마차
 acerakcaverns,git,Placeable List/16/Description,0,여러 곳에서 깨진 이 바퀴는 더 나은 날들을 보았습니다.
-acerakcaverns,git,Placeable List/17/LocName,0,파괴 된 바그런
+acerakcaverns,git,Placeable List/17/LocName,0,파괴된 마차
 acerakcaverns,git,Placeable List/17/Description,0,여러 곳에서 깨진 이 바퀴는 더 나은 날들을 보았습니다.
 acerakcaverns,git,Placeable List/19/LocName,0,썩은 크레이트
 acerakcaverns,git,Placeable List/19/Description,0,느슨하게 못 박힌 이 나무 상자 는 일시적 으로 보관 할 수 있는 것 같습니다.
@@ -618,23 +618,23 @@ acerakentrance,git,Creature List/0/FirstName,0,고라타모르
 acerakentrance,git,Creature List/0/Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
 acerakentrance,git,Creature List/0/ItemList/0/LocalizedName,0,발로의 열쇠
 acerakentrance,git,Creature List/0/ItemList/1/LocalizedName,0,발로의 심장
-acerakentrance,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,발로 로드 검
+acerakentrance,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,발러 군주 검
 acerakentrance,git,Creature List/1/FirstName,0,노예로 된 아크론
 acerakentrance,git,Creature List/1/Description,0,종종 악성적인 윌 오 위스프로 착각되는 랜턴 아코노들은 실제로 천상의 존재입니다. 그들은 매우 친절하고 보통 가능한 모든 도움을 주고 싶어합니다.
 acerakentrance,git,Creature List/2/FirstName,0,네테레스 가디언
 acerakentrance,git,Creature List/2/Description,0,"마법사들에 의해 만들어졌으며 특별한 φυλα개로 제어되는 스킬 경호자들은 전투에서 주로 방어적인 역할을 하며, 흔들리지 않는 충성으로 주인을 보호합니다."
 acerakentrance,git,Creature List/3/FirstName,0,네테레스 가디언
 acerakentrance,git,Creature List/3/Description,0,"마법사들에 의해 만들어졌으며 특별한 φυλα개로 제어되는 스킬 경호자들은 전투에서 주로 방어적인 역할을 하며, 흔들리지 않는 충성으로 주인을 보호합니다."
-acerakentrance,git,Creature List/4/FirstName,0,더 큰 엄마
+acerakentrance,git,Creature List/4/FirstName,0,상급 미라
 acerakentrance,git,Creature List/4/Description,0,"세월이 흐른 그 외모는 수백 년 전의 장례 봉투 아래 숨겨져 있으며, 이 전 왕들과 대제사장들은 이제 죽은 자 아니었고, 여전히 그들의 휴식지를 지키고 있습니다."
-acerakentrance,git,Creature List/5/FirstName,0,골격
+acerakentrance,git,Creature List/5/FirstName,0,해골
 acerakentrance,git,Creature List/5/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
 acerakentrance,git,Creature List/6/FirstName,0,네더레스 거나우트
 acerakentrance,git,Creature List/6/Description,0,단단한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁이 匠이나 괴물 匠의 기술과 숙련이 필요합니다.
-acerakentrance,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,철 고렘 특성
+acerakentrance,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,철 골렘 속성
 acerakentrance,git,Creature List/7/FirstName,0,네더레스 거나우트
 acerakentrance,git,Creature List/7/Description,0,단단한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁이 匠이나 괴물 匠의 기술과 숙련이 필요합니다.
-acerakentrance,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,철 고렘 특성
+acerakentrance,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,철 골렘 속성
 acerakentrance,git,Creature List/8/FirstName,0,아세레라크의 종
 acerakentrance,git,Creature List/9/FirstName,0,아세레라크의 종
 acerakentrance,git,Creature List/10/FirstName,0,아세레라크의 종
@@ -678,43 +678,43 @@ acerakentrance,git,List/0/LocalizedName,0,에म्ब리엘 의 편지
 acerakentrance,git,List/0/Description,0,"임브릴, 우리는 곧 이 해안에서 가장 강력한 엘프 집의 통치에 복무할 것입니다. 나는 당신의 성공에 많은 믿음을 가지고 있습니다. 비록 이 임무의 시기는 우리가 성공적으로"
 acerakentrance,git,SoundList/0/LocName,0,스트 인테리어
 acerakentrance,git,SoundList/1/LocName,0,물 떨어지는 소리
-acerakentrance,git,SoundList/2/LocName,0,좀비 울음소리
-acerakentrance,git,SoundList/3/LocName,0,좀비 울음소리
-acerakentrance,git,SoundList/4/LocName,0,좀비 울음소리
+acerakentrance,git,SoundList/2/LocName,0,좀비 신음소리
+acerakentrance,git,SoundList/3/LocName,0,좀비 신음소리
+acerakentrance,git,SoundList/4/LocName,0,좀비 신음소리
 acerakentrance,git,SoundList/5/LocName,0,사악한 마법 차원문
 acerakentrance,git,SoundList/6/LocName,0,사악한 마법 차원문
-acerakentrance,git,SoundList/7/LocName,0,마법의 빛나는 공
+acerakentrance,git,SoundList/7/LocName,0,마법의 반짝이는 공
 acerakentrance,git,SoundList/8/LocName,0,안에서 들려오는 사내들의 주문 소리
 acerakentrance,git,SoundList/9/LocName,0,안에서 들려오는 사내들의 주문 소리
 acerakentrance,git,SoundList/10/LocName,0,안에서 들려오는 사내들의 주문 소리
-acerakentrance,git,SoundList/11/LocName,0,크립트 비소
-acerakentrance,git,TriggerList/0/LocalizedName,0,치명적 인 가스 함정
-acerakentrance,git,TriggerList/1/LocalizedName,0,치명적 인 스파이크 함정
-acerakentrance,git,TriggerList/2/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/3/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/5/LocalizedName,0,새로운 지역 전환
-acerakentrance,git,TriggerList/6/LocalizedName,0,새로운 지역 전환
-acerakentrance,git,TriggerList/7/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/8/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/10/LocalizedName,0,강한 성적 함정
-acerakentrance,git,TriggerList/11/LocalizedName,0,치명적 인 함정
-acerakentrance,git,TriggerList/12/LocalizedName,0,강한 성적 함정
-acerakentrance,git,TriggerList/15/LocalizedName,0,치명적 인 스파이크 함정
-acerakentrance,git,TriggerList/16/LocalizedName,0,치명적 인 화재 함정
-acerakentrance,git,TriggerList/19/LocalizedName,0,치명적 인 전기 함정
-acerakentrance,git,TriggerList/20/LocalizedName,0,평균 탕글 함정
-acerakentrance,git,TriggerList/21/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/22/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/23/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/24/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/25/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/26/LocalizedName,0,새로운 일반제
-acerakentrance,git,TriggerList/27/LocalizedName,0,치명적 인 화재 함정
-acerakentrance,git,TriggerList/28/LocalizedName,0,강한 산 함정에 의한 덩어리
-acerakentrance,git,TriggerList/29/LocalizedName,0,치명적 인 가스 함정
-acerakentrance,git,TriggerList/30/LocalizedName,0,치명적 인 스파이크 함정
-acerakentrance,git,TriggerList/31/LocalizedName,0,치명적 인 스파이크 함정
-acerakentrance,git,TriggerList/32/LocalizedName,0,새로운 일반제
+acerakentrance,git,SoundList/11/LocName,0,납골당 음산한 소리
+acerakentrance,git,TriggerList/0/LocalizedName,0,살인적인 기체 함정
+acerakentrance,git,TriggerList/1/LocalizedName,0,살인적인 가시못 함정
+acerakentrance,git,TriggerList/2/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/3/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/5/LocalizedName,0,뉴 에이리어 트랜지션
+acerakentrance,git,TriggerList/6/LocalizedName,0,뉴 에이리어 트랜지션
+acerakentrance,git,TriggerList/7/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/8/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/10/LocalizedName,0,강력한 신성 함정
+acerakentrance,git,TriggerList/11/LocalizedName,0,살인적인 덩굴 함정
+acerakentrance,git,TriggerList/12/LocalizedName,0,강력한 신성 함정
+acerakentrance,git,TriggerList/15/LocalizedName,0,살인적인 가시못 함정
+acerakentrance,git,TriggerList/16/LocalizedName,0,살인적인 화염 함정
+acerakentrance,git,TriggerList/19/LocalizedName,0,살인적인 전기 함정
+acerakentrance,git,TriggerList/20/LocalizedName,0,일반 덩굴 함정
+acerakentrance,git,TriggerList/21/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/22/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/23/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/24/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/25/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/26/LocalizedName,0,새 일반
+acerakentrance,git,TriggerList/27/LocalizedName,0,살인적인 화염 함정
+acerakentrance,git,TriggerList/28/LocalizedName,0,강력한 산성 함정
+acerakentrance,git,TriggerList/29/LocalizedName,0,살인적인 기체 함정
+acerakentrance,git,TriggerList/30/LocalizedName,0,살인적인 가시못 함정
+acerakentrance,git,TriggerList/31/LocalizedName,0,살인적인 가시못 함정
+acerakentrance,git,TriggerList/32/LocalizedName,0,새 일반
 acerakentrance,git,WaypointList/0/LocalizedName,0,이정표
 acerakentrance,git,WaypointList/1/LocalizedName,0,이정표
 acerakentrance,git,WaypointList/2/LocalizedName,0,이정표
@@ -755,7 +755,7 @@ acerakentrance,git,WaypointList/32/LocalizedName,0,이정표
 acerakentrance,git,WaypointList/33/LocalizedName,0,이정표
 acerakentrance,git,WaypointList/34/LocalizedName,0,이정표
 acerakentrance,git,WaypointList/35/LocalizedName,0,이정표
-acerakentrance,git,WaypointList/36/MapNote,0,표면으로 나가는 길
+acerakentrance,git,WaypointList/36/MapNote,0,지상으로 나가는 출구
 acerakentrance,git,WaypointList/37/MapNote,0,준비실
 acerakentrance,git,WaypointList/38/MapNote,0,계단 아래로
 acerakentrance,git,WaypointList/39/MapNote,0,고문실
@@ -787,50 +787,50 @@ acerakentrance,git,Placeable List/15/LocName,0,비밀 문 보관자
 acerakentrance,git,Placeable List/15/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 acerakentrance,git,Placeable List/17/LocName,0,뼈
 acerakentrance,git,Placeable List/17/Description,0,땅 위에 비친 인간형 뼈의 슬픈 무리가 있었다.
-acerakentrance,git,Placeable List/19/LocName,0,사코파거
+acerakentrance,git,Placeable List/19/LocName,0,석관
 acerakentrance,git,Placeable List/19/Description,0,"돌의 덮개는 무거운데, 도둑을 밖으로 내보내기 위해서나 죽은 사람을 안쪽으로 묻기 위해서도 설계되었습니다."
-acerakentrance,git,Placeable List/19/ItemList/0/LocalizedName,0,고대 무덤 의 열쇠
-acerakentrance,git,Placeable List/20/LocName,0,사코파거
+acerakentrance,git,Placeable List/19/ItemList/0/LocalizedName,0,고대 무덤 열쇠
+acerakentrance,git,Placeable List/20/LocName,0,석관
 acerakentrance,git,Placeable List/20/Description,0,새혈에 새겨진 불분명한 메시지가 무덤 옆으로 새겨져 있습니다. 이 사르코파거를 어떤 죽은 신자가 고향이라고 부르는지 궁금합니다.
-acerakentrance,git,Placeable List/21/LocName,0,사코파거
+acerakentrance,git,Placeable List/21/LocName,0,석관
 acerakentrance,git,Placeable List/21/Description,0,"돌의 덮개는 무거운데, 도둑을 밖으로 내보내기 위해서나 죽은 사람을 안쪽으로 묻기 위해서도 설계되었습니다."
-acerakentrance,git,Placeable List/22/LocName,0,보이지 않는 물체
+acerakentrance,git,Placeable List/22/LocName,0,투명 물체
 acerakentrance,git,Placeable List/22/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
-acerakentrance,git,Placeable List/30/LocName,0,롤러
+acerakentrance,git,Placeable List/30/LocName,0,바위
 acerakentrance,git,Placeable List/30/Description,0,"큰, 단단한 화석 조각이 땅 밖으로 나오고 있습니다."
-acerakentrance,git,Placeable List/36/LocName,0,바닥 디자인
+acerakentrance,git,Placeable List/36/LocName,0,바닥 도안
 acerakentrance,git,Placeable List/36/Description,0,마법사에게 의미있는 것처럼 보이는 복잡한 룬 시리즈는 처음 만든 마법사에게만 의미 있는 것 같습니다
 acerakentrance,git,Placeable List/38/LocName,0,체인 로프
 acerakentrance,git,Placeable List/38/Description,0,체인 로프 업.
 acerakentrance,git,Placeable List/42/LocName,0,기둥
 acerakentrance,git,Placeable List/42/Description,0,얇은 레버가 석회암 기둥에서 펼쳐진다.
-acerakentrance,git,Placeable List/43/LocName,0,사코파거
+acerakentrance,git,Placeable List/43/LocName,0,석관
 acerakentrance,git,Placeable List/43/Description,0,새혈에 새겨진 불분명한 메시지가 무덤 옆으로 새겨져 있습니다. 이 사르코파거를 어떤 죽은 신자가 고향이라고 부르는지 궁금합니다.
-acerakentrance,git,Placeable List/48/LocName,0,빛의 축
+acerakentrance,git,Placeable List/48/LocName,0,빛줄기
 acerakentrance,git,Placeable List/48/Description,0,오렌지색 빛의 화려한 축이 위에서 보이지 않는 곳에서 내려오고 있습니다.
 acerakentrance,git,Placeable List/50/LocName,0,조각상
 acerakentrance,git,Placeable List/50/Description,0,이 키 의 눈 이 지 않는 것 은 눈 을 게 돌려 준다. 이 인물이 누구 였을 지 알 수 있는 지표 는 없다.
 acerakentrance,git,Placeable List/51/LocName,0,조각상
 acerakentrance,git,Placeable List/51/Description,0,이 키 의 눈 이 지 않는 것 은 눈 을 게 돌려 준다. 이 인물이 누구 였을 지 알 수 있는 지표 는 없다.
-acerakentrance,git,Placeable List/52/LocName,0,기둥
+acerakentrance,git,Placeable List/52/LocName,0,받침대
 acerakentrance,git,Placeable List/52/Description,0,낮은 기둥은 알라바스터 흰색으로 빛나고 그 둥지를 가로질러 그림자가 연주한다.
 acerakentrance,git,Placeable List/52/ItemList/0/LocalizedName,0,아세레라크의 무덤의 열쇠
-acerakentrance,git,Placeable List/55/LocName,0,유르나
+acerakentrance,git,Placeable List/55/LocName,0,단지
 acerakentrance,git,Placeable List/55/Description,0,발자취의 소리가 울려 퍼져나가고 있습니다.
-acerakentrance,git,Placeable List/92/LocName,0,사코파거
+acerakentrance,git,Placeable List/92/LocName,0,석관
 acerakentrance,git,Placeable List/92/Description,0,사코파거의 무거운 덮개는 장식되지 않은 돌로 만들어졌습니다.
 acerakentrance,git,Placeable List/92/ItemList/2/LocalizedName,0,금화
-acerakentrance,git,Placeable List/93/LocName,0,사코파거
+acerakentrance,git,Placeable List/93/LocName,0,석관
 acerakentrance,git,Placeable List/93/Description,0,사코파거의 무거운 덮개는 장식되지 않은 돌로 만들어졌습니다.
 acerakentrance,git,Placeable List/93/ItemList/1/LocalizedName,0,금화
 acerakentrance,git,Placeable List/104/LocName,0,기둥
-acerakentrance,git,Placeable List/105/LocName,0,두개골의 무더기
+acerakentrance,git,Placeable List/105/LocName,0,해골 더미
 acerakentrance,git,Placeable List/105/Description,0,누군가는 이 두개골을 쌓아놨어
-acerakentrance,git,Placeable List/106/LocName,0,두개골의 무더기
+acerakentrance,git,Placeable List/106/LocName,0,해골 더미
 acerakentrance,git,Placeable List/106/Description,0,누군가는 이 두개골을 쌓아놨어
-acerakentrance,git,Placeable List/107/LocName,0,두개골의 무더기
+acerakentrance,git,Placeable List/107/LocName,0,해골 더미
 acerakentrance,git,Placeable List/107/Description,0,누군가는 이 두개골을 쌓아놨어
-acerakentrance,git,Placeable List/108/LocName,0,두개골의 무더기
+acerakentrance,git,Placeable List/108/LocName,0,해골 더미
 acerakentrance,git,Placeable List/108/Description,0,누군가는 이 두개골을 쌓아놨어
 acerakentrance,git,Placeable List/135/LocName,0,조각상
 acerakentrance,git,Placeable List/135/Description,0,"이 구부러진 생물은 암흑암으로 만들어져 있습니다. 눈의 한 구석에서 거의 움직일 것 같지만,"
@@ -860,9 +860,9 @@ acerakentrance,git,Placeable List/189/LocName,0,부패한 재료의 봉투
 acerakentrance,git,Placeable List/189/Description,0,봉투들은 무더운 냄새를 맡고 있습니다. 밀가루가 습기에 서서히 부패하는 것처럼요.
 acerakentrance,git,Placeable List/190/LocName,0,부패한 재료의 봉투
 acerakentrance,git,Placeable List/190/Description,0,봉투들은 무더운 냄새를 맡고 있습니다. 밀가루가 습기에 서서히 부패하는 것처럼요.
-acerakentrance,git,Placeable List/191/LocName,0,폐기물
+acerakentrance,git,Placeable List/191/LocName,0,잔해
 acerakentrance,git,Placeable List/191/Description,0,잔재와 유물들은 불아울한 덩어리에 붙어 있습니다.
-acerakentrance,git,Placeable List/192/LocName,0,폐기물
+acerakentrance,git,Placeable List/192/LocName,0,잔해
 acerakentrance,git,Placeable List/192/Description,0,잔재와 유물들은 불아울한 덩어리에 붙어 있습니다.
 acerakentrance,git,Placeable List/194/LocName,0,오 Ash Urn
 acerakentrance,git,Placeable List/194/Description,0,발자취의 소리가 울려 퍼져나가고 있습니다.
@@ -876,7 +876,7 @@ acerakentrance,git,Placeable List/199/LocName,0,고대 상자
 acerakentrance,git,Placeable List/199/Description,0,"금속 톱니 들 은 이 장식 된 상자 의 목조 를 뚫고 니다. 그 톱니 톱니 톱니 들 은 훌륭 한 기술 으로 판단 해 볼 때, 이 상자 는 대중 에게 전시 하기 위해 고안 된 것 같다."
 acerakentrance,git,Placeable List/200/LocName,0,썩은 배럴
 acerakentrance,git,Placeable List/200/Description,0,두꺼운 금속띠가 배럴판을 둘러싸고 밀폐를 보장합니다.
-acerakentrance,git,Placeable List/201/LocName,0,책상
+acerakentrance,git,Placeable List/201/LocName,0,책장
 acerakentrance,git,Placeable List/201/Description,0,이 책 들 은 여러 가지 다른 언어 로 기록 된 것 처럼 보입니다.
 acerakentrance,git,Placeable List/201/ItemList/0/LocalizedName,0,해체 된 네더레스 책
 acerakentrance,git,Placeable List/201/ItemList/0/Description,0,이 책에는 네테리즈의 미미화 의식의 절차를 설명하는 텍스트와 다이어그램이 포함되어 있습니다.
@@ -902,7 +902,7 @@ acerakentrance,git,Placeable List/217/Description,0,"침대는 깨끗하고 부�
 acerakentrance,git,Placeable List/217/ItemList/0/LocalizedName,0,금화
 acerakentrance,git,Placeable List/218/LocName,0,썩은 침대
 acerakentrance,git,Placeable List/218/Description,0,"침대는 깨끗하고 부드럽고, 깃털 베개와 부드러운 위로가 실 위에 그려져 있습니다."
-acerakentrance,git,Placeable List/221/LocName,0,모티 책 집합
+acerakentrance,git,Placeable List/221/LocName,0,머티 책 더미
 acerakentrance,git,Placeable List/221/Description,0,"책들은 서로 겹쳐서 쌓여 있었고, 마치 누군가가 책들을 돌려보내는 과정에서 방해받았던 것처럼 리임이나 논리적인 요소가 거의 없었다."
 acerakentrance,git,Placeable List/221/ItemList/0/LocalizedName,0,해체 된 네더레스 책
 acerakentrance,git,Placeable List/221/ItemList/0/Description,0,이 책에는 네테리즈의 미미화 의식의 절차를 설명하는 텍스트와 다이어그램이 포함되어 있습니다.
@@ -924,7 +924,7 @@ acerakentrance,git,Placeable List/248/Description,0,"주의 깊게 들으면, �
 acerakentrance,git,Placeable List/257/LocName,0,썩은 나무 강연
 acerakentrance,git,Placeable List/257/Description,0,"이 강좌는 잘 설계되어 있는데, 그 강좌에서 말하는 사람들의 무릎을 꿇는 것을 숨기기 위해서입니다."
 acerakentrance,git,Placeable List/257/ItemList/0/LocalizedName,0,금화
-acerakentrance,git,Placeable List/257/ItemList/3/LocalizedName,0,을 던지는 +3
+acerakentrance,git,Placeable List/257/ItemList/3/LocalizedName,0,투척도끼+3
 acerakentrance,git,Placeable List/257/ItemList/3/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 acerakentrance,git,Placeable List/257/ItemList/4/LocalizedName,0,화려 한 썩은 책
 acerakentrance,git,Placeable List/257/ItemList/4/Description,0,텍스트와 다이어그램은 주인이나 상사들에게 어떻게 제대로 봉사해야 하는지 알려줍니다. 고문과 반박의 많은 장면이 있습니다.
@@ -938,9 +938,9 @@ acerakentrance,git,Placeable List/264/LocName,0,부패 된 나무 갈고리
 acerakentrance,git,Placeable List/264/Description,0,밧줄은 바람에 부드럽게 흔들리고 마치 시체를 찾고 있는 것처럼
 acerakentrance,git,Placeable List/265/LocName,0,고문 장비
 acerakentrance,git,Placeable List/265/Description,0,무기는 나무 래크에 누워서 방출을 기다리고 있습니다.
-acerakentrance,git,Placeable List/266/LocName,0,케이지
+acerakentrance,git,Placeable List/266/LocName,0,우리
 acerakentrance,git,Placeable List/266/Description,0,인간 크기의 생물들을 감금하는 게 아니라
-acerakentrance,git,Placeable List/267/LocName,0,케이지
+acerakentrance,git,Placeable List/267/LocName,0,우리
 acerakentrance,git,Placeable List/267/Description,0,인간 크기의 생물들을 감금하는 게 아니라
 acerakentrance,git,Placeable List/274/LocName,0,조각상
 acerakentrance,git,Placeable List/274/Description,0,"이 구부러진 생물은 암흑암으로 만들어져 있습니다. 눈의 한 구석에서 거의 움직일 것 같지만,"
@@ -950,7 +950,7 @@ acerakentrance,git,Placeable List/314/LocName,0,비밀 기름 문 입장자
 acerakentrance,git,Placeable List/314/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 acerakentrance,git,Placeable List/315/LocName,0,비밀유 문 입장자2
 acerakentrance,git,Placeable List/315/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
-acerakentrance,git,Placeable List/316/LocName,0,보이지 않는 물체
+acerakentrance,git,Placeable List/316/LocName,0,투명 물체
 acerakentrance,git,Placeable List/316/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 acerakentrance,git,Placeable List/317/LocName,0,죽은 탐색자
 acerakentrance,git,Placeable List/317/Description,0,얼굴이 뒤집어있어서 피해자가 남성인지 여인인지 확인하기는 어렵습니다.
@@ -959,23 +959,23 @@ acerakentrance,git,Placeable List/317/ItemList/1/Description,0,"네테레스는 
 acerakentrance,git,Placeable List/317/ItemList/2/LocalizedName,0,금화
 acerakentrance,git,Placeable List/319/LocName,0,상자
 acerakentrance,git,Placeable List/319/Description,0,이 상자 는 낮고 평평 한 곳 으로서 상인의 계좌 를 보관 하고 보관 하기 위해 설계 된 것 같습니다.
-acerakentrance,git,Placeable List/319/ItemList/7/LocalizedName,0,화살
+acerakentrance,git,Placeable List/319/ItemList/7/LocalizedName,0,화염 화살
 acerakentrance,git,Placeable List/319/ItemList/7/DescIdentified,0,"불의 화살는 발사했을 때 불에 튀어나오며, 기름에 담긴 비 마법의 화살와 거의 동일하게 작용합니다."
 acerakentrance,git,Placeable List/319/ItemList/9/LocalizedName,0,금화
 acerakentrance,git,Placeable List/320/LocName,0,상자
 acerakentrance,git,Placeable List/320/Description,0,이 상자 는 낮고 평평 한 곳 으로서 상인의 계좌 를 보관 하고 보관 하기 위해 설계 된 것 같습니다.
 acerakentrance,git,Placeable List/320/ItemList/5/LocalizedName,0,금화
-acerakentrance,git,Placeable List/321/LocName,0,케이지
+acerakentrance,git,Placeable List/321/LocName,0,우리
 acerakentrance,git,Placeable List/321/Description,0,인간 크기의 생물들을 감금하는 게 아니라
-acerakentrance,git,Placeable List/325/LocName,0,사코파거
+acerakentrance,git,Placeable List/325/LocName,0,석관
 acerakentrance,git,Placeable List/325/Description,0,사코파거의 무거운 덮개는 장식되지 않은 돌로 만들어졌습니다.
 acerakentrance,git,Placeable List/325/ItemList/0/LocalizedName,0,네테레즈 시 톤
 acerakentrance,git,Placeable List/325/ItemList/0/Description,0,"이 책 은 훌륭 한 상태 에 있으며, 거의 마법 같은 분위기 를 가지고 있다. 그 안 에 있는 상징 들 을 보면, 문장 을 완전 히 이해 하는 것 처럼 이미지가 머리 를 뚫고 날아간다. 보석 들 과 그 의 색 의 마법적 힘 에 대한 언급 들 도 있다. 한 구절 은 눈 을 사로잡는다. '새 를 환영 하기 위해 녹색 과 파란색, 죽은 자 를 존중 하기 위해 흰색 과 빨간색'이라고 말 한다."
-acerakentrance,git,Placeable List/327/LocName,0,사코파거
+acerakentrance,git,Placeable List/327/LocName,0,석관
 acerakentrance,git,Placeable List/327/Description,0,새혈에 새겨진 불분명한 메시지가 무덤 옆으로 새겨져 있습니다. 이 사르코파거를 어떤 죽은 신자가 고향이라고 부르는지 궁금합니다.
-acerakentrance,git,Placeable List/328/LocName,0,사코파거
+acerakentrance,git,Placeable List/328/LocName,0,석관
 acerakentrance,git,Placeable List/328/Description,0,"돌의 덮개는 무거운데, 도둑을 밖으로 내보내기 위해서나 죽은 사람을 안쪽으로 묻기 위해서도 설계되었습니다."
-acerakentrance,git,Placeable List/329/LocName,0,사코파거
+acerakentrance,git,Placeable List/329/LocName,0,석관
 acerakentrance,git,Placeable List/329/Description,0,"돌의 덮개는 무거운데, 도둑을 밖으로 내보내기 위해서나 죽은 사람을 안쪽으로 묻기 위해서도 설계되었습니다."
 acerakentrance,git,Placeable List/342/LocName,0,화력
 acerakentrance,git,Placeable List/342/Description,0,"강렬한 파동 이 으로 퍼진 불 을 불어넣고, 공기 는 엄청나게 뜨거워서, 자신 이 아닌 사람 이 될 것 을 느끼게 된다."
@@ -984,12 +984,12 @@ acerakentrance,git,Placeable List/343/Description,0,두꺼운 금속띠가 배�
 acerakentrance,git,Placeable List/344/LocName,0,모시 케그
 acerakentrance,git,Placeable List/344/ItemList/0/LocalizedName,0,급한 편지
 acerakentrance,git,Placeable List/344/ItemList/0/Description,0,"이 문장 은 서둘러 이 문장 에 네테르시식 의 상징 을 기록 하고 있으며, 마치 공포 를 품고, 알려지지 않은 채 숨기고 있는 것 처럼 보인다."
-acerakentrance,git,Placeable List/357/LocName,0,두개골의 무더기
+acerakentrance,git,Placeable List/357/LocName,0,해골 더미
 acerakentrance,git,Placeable List/357/Description,0,누군가는 이 두개골을 쌓아놨어
-acerakentrance,git,Placeable List/358/LocName,0,사코파거
+acerakentrance,git,Placeable List/358/LocName,0,석관
 acerakentrance,git,Placeable List/358/Description,0,새혈에 새겨진 불분명한 메시지가 무덤 옆으로 새겨져 있습니다. 이 사르코파거를 어떤 죽은 신자가 고향이라고 부르는지 궁금합니다.
 acerakentrance,git,Placeable List/358/ItemList/0/LocalizedName,0,금화
-acerakentrance,git,Placeable List/359/LocName,0,사코파거
+acerakentrance,git,Placeable List/359/LocName,0,석관
 acerakentrance,git,Placeable List/359/Description,0,새혈에 새겨진 불분명한 메시지가 무덤 옆으로 새겨져 있습니다. 이 사르코파거를 어떤 죽은 신자가 고향이라고 부르는지 궁금합니다.
 acerakentrance,git,Placeable List/359/ItemList/8/LocalizedName,0,금화
 acerakentrance,git,Placeable List/376/LocName,0,썩은 가슴
@@ -1008,7 +1008,7 @@ acerakentrance,git,Placeable List/385/Description,0,소파는 따뜻하고 초�
 acerakentrance,git,Placeable List/388/LocName,0,조각상
 acerakentrance,git,Placeable List/388/Description,0,"이 구부러진 생물은 암흑암으로 만들어져 있습니다. 눈의 한 구석에서 거의 움직일 것 같지만,"
 acerakentrance,git,Placeable List/390/LocName,0,기둥
-acerakentrance,git,Placeable List/391/LocName,0,숨겨진 트래프도어 트리거
+acerakentrance,git,Placeable List/391/LocName,0,숨겨진 뚜껑문 트리거
 acerakentrance,git,Placeable List/391/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 acerakentrance,git,Placeable List/408/ItemList/0/LocalizedName,0,기름 한 잔
 acerakentrance,git,Placeable List/409/LocName,0,장식 된 기둥
@@ -1017,15 +1017,15 @@ area001,git,Creature List/0/FirstName,0,드로 군인
 area001,git,Creature List/0/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/0/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/0/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/0/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/0/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/0/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/0/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/0/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/0/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/0/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/0/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/0/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/0/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/0/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/0/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/0/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/0/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/0/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/0/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/0/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1035,21 +1035,21 @@ area001,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,장작품 롱스wor
 area001,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,칼 + 1
 area001,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,독성 발트
+area001,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/1/FirstName,0,드로 군인
 area001,git,Creature List/1/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/1/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/1/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/1/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/1/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/1/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/1/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/1/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/1/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/1/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/1/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/1/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/1/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/1/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/1/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/1/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/1/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/1/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/1/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/1/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1059,21 +1059,21 @@ area001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,장작품 롱스wor
 area001,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,칼 + 1
 area001,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,독성 발트
+area001,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/2/FirstName,0,드로 군인
 area001,git,Creature List/2/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/2/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/2/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/2/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/2/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/2/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/2/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/2/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/2/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/2/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/2/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/2/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/2/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/2/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/2/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/2/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/2/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/2/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/2/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/2/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1083,21 +1083,21 @@ area001,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,장작품 롱스wor
 area001,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,칼 + 1
 area001,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,독성 발트
+area001,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/3/FirstName,0,드로 군인
 area001,git,Creature List/3/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/3/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/3/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/3/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/3/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/3/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/3/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/3/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/3/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/3/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/3/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/3/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/3/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/3/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/3/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/3/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/3/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/3/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/3/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/3/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1107,21 +1107,21 @@ area001,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,장작품 롱스wor
 area001,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,칼 + 1
 area001,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/3/Equip_ItemList/3/LocalizedName,0,독성 발트
+area001,git,Creature List/3/Equip_ItemList/3/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/3/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/4/FirstName,0,드로 군인
 area001,git,Creature List/4/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/4/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/4/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/4/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/4/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/4/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/4/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/4/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/4/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/4/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/4/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/4/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/4/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/4/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/4/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/4/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/4/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/4/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/4/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/4/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1131,21 +1131,21 @@ area001,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,장작품 롱스wor
 area001,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,칼 + 1
 area001,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,독성 발트
+area001,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/4/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/5/FirstName,0,드로 군인
 area001,git,Creature List/5/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/5/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/5/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/5/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/5/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/5/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/5/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/5/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/5/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/5/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/5/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/5/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/5/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/5/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/5/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/5/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/5/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/5/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/5/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/5/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1155,21 +1155,21 @@ area001,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,장작품 롱스wor
 area001,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,칼 + 1
 area001,git,Creature List/5/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/5/Equip_ItemList/3/LocalizedName,0,독성 발트
+area001,git,Creature List/5/Equip_ItemList/3/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/5/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/6/FirstName,0,드로 군인
 area001,git,Creature List/6/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/6/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/6/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/6/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/6/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/6/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/6/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/6/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/6/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/6/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/6/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/6/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/6/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/6/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/6/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/6/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/6/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/6/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/6/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/6/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1177,21 +1177,21 @@ area001,git,Creature List/6/ItemList/7/LocalizedName,0,장작품 롱스word
 area001,git,Creature List/6/ItemList/7/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,독성 발트
+area001,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/6/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/7/FirstName,0,드로 군인
 area001,git,Creature List/7/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/7/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/7/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/7/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/7/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/7/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/7/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/7/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/7/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/7/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/7/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/7/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/7/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/7/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/7/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/7/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/7/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/7/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/7/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/7/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1199,21 +1199,21 @@ area001,git,Creature List/7/ItemList/7/LocalizedName,0,장작품 롱스word
 area001,git,Creature List/7/ItemList/7/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,독성 발트
+area001,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/8/FirstName,0,드로 군인
 area001,git,Creature List/8/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/8/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/8/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/8/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/8/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/8/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/8/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/8/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/8/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/8/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/8/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/8/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/8/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/8/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/8/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/8/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/8/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/8/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/8/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/8/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1221,21 +1221,21 @@ area001,git,Creature List/8/ItemList/7/LocalizedName,0,장작품 롱스word
 area001,git,Creature List/8/ItemList/7/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,독성 발트
+area001,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/8/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/9/FirstName,0,드로 군인
 area001,git,Creature List/9/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/9/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/9/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/9/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/9/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/9/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/9/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/9/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/9/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/9/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/9/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/9/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/9/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/9/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/9/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/9/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/9/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/9/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/9/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/9/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1243,21 +1243,21 @@ area001,git,Creature List/9/ItemList/7/LocalizedName,0,장작품 롱스word
 area001,git,Creature List/9/ItemList/7/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,독성 발트
+area001,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/10/FirstName,0,드로 군인
 area001,git,Creature List/10/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/10/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/10/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/10/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/10/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/10/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/10/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/10/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/10/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/10/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/10/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/10/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/10/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/10/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/10/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/10/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/10/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/10/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/10/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/10/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1265,22 +1265,22 @@ area001,git,Creature List/10/ItemList/7/LocalizedName,0,장작품 롱스word
 area001,git,Creature List/10/ItemList/7/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 area001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,독성 발트
+area001,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/10/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/11/FirstName,0,알크라날
 area001,git,Creature List/11/LastName,0,'저'ein
 area001,git,Creature List/11/Description,0,알크라날 주니어인 (Al'kranal Jr'ein) 는 멜레 마가테레의 최신 직업의 가장 장식된 날카로운 슈팅 선수 중 한 명이다. 그는 그의 킨스 감각과 칼에 대한 재능으로 잘 알려져 있습니다.
-area001,git,Creature List/11/ItemList/8/LocalizedName,0,루비 크로스보
+area001,git,Creature List/11/ItemList/8/LocalizedName,0,루비 쇠뇌
 area001,git,Creature List/11/ItemList/8/DescIdentified,0,"이 보석 물품의 첫 번째 예는 기념비적인 장식용으로 만들어졌으며, 사용이 의도되지 않았습니다. 그러나 실험은 무기 건설에 사용되는 이상한 루비에서 에너지를 방출함으로써 목표물에 큰 공포를 심어주었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌습니다. 그리고 그 이후 무기도 여러 번 복제되었습니다."
-area001,git,Creature List/11/ItemList/9/LocalizedName,0,속도의 체인메일
+area001,git,Creature List/11/ItemList/9/LocalizedName,0,속도의 사슬갑옷
 area001,git,Creature List/11/ItemList/9/DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳건히 믿었고, 그는 그의 체인메일 오브 스피드의 도움으로 수십 번의 전투에서 그것을 증명했습니다. 비행의 예술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사자의 순위에 결코 멀리 도달하지 못했습니다."
-area001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,속도의 체인메일
+area001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,속도의 사슬갑옷
 area001,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳건히 믿었고, 그는 그의 체인메일 오브 스피드의 도움으로 수십 번의 전투에서 그것을 증명했습니다. 비행의 예술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사자의 순위에 결코 멀리 도달하지 못했습니다."
 area001,git,Creature List/11/Equip_ItemList/3/LocalizedName,0,날카로운
 area001,git,Creature List/11/Equip_ItemList/3/DescIdentified,0,"최근 몇 년 동안, 여러 도둑 조합은 이 칼에 의해 멤버를 잃었다고 보고했습니다. 피해자의 가슴에 잔혹한 서명으로 남겨진 무기. 그 뒤에 있는 공예가 알려지지 않았지만, 그들을 사용하는 집단의 의도는 충분히 분명했습니다. 기존 그룹을 불안정하게 만들고 자신의 확장을 촉진하기 위해. 그러나 마지막 살인 이후 몇 년이 지났지만, 침입이 포기되었거나 폭력적인 수단으로 성공했다는 것을 암시합니다. 지하 공동체의 구성원들은 정보를 제공하지 않았습니다."
-area001,git,Creature List/11/Equip_ItemList/5/LocalizedName,0,마비된 발트
+area001,git,Creature List/11/Equip_ItemList/5/LocalizedName,0,마비의 쇠뇌화살
 area001,git,Creature List/11/Equip_ItemList/5/DescIdentified,0,이 유형의 볼트는 목표물을 놀라게 할 수 있습니다. 하지만 전력과 기간은 볼트의 크리에이터의 힘에 의해 결정됩니다.
-area001,git,Creature List/11/Equip_ItemList/6/LocalizedName,0,Drow 레벨 1의 성질
+area001,git,Creature List/11/Equip_ItemList/6/LocalizedName,0,드로우 레벨 1 속성
 area001,git,Creature List/12/FirstName,0,삼촌
 area001,git,Creature List/12/LastName,0,티레나
 area001,git,Creature List/12/Description,0,트리안다르 티르에나는 멘즈베란잔의 아카데미인 마법사의 가장 유망한 추종자 중 한 명이다. 그는 귀족 품종이 아니더라도 놀라운 경력을 쌓았으며 자신의 재능을 잘 지불하는 주택과 상인들에게 팔았다. 현재 그는 미스터스 피비비엔에게 암흑의 사냥 여행에 도움을 주도록 임명됩니다. 트리안다르는 인내심이 없고 자존심이 있다고 한다. 그는 현재 할 일을 좋아하지 않는다는 것은 분명합니다.
@@ -1289,43 +1289,43 @@ area001,git,Creature List/13/LastName,0,위프탈린
 area001,git,Creature List/13/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/13/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/13/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/13/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/13/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/13/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/13/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/13/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/13/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/13/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/13/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/13/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/13/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/13/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/13/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/13/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/13/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/13/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/13/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/13/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
 area001,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 area001,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,마법 저항 16
-area001,git,Creature List/13/Equip_ItemList/2/LocalizedName,0,독성 발트
+area001,git,Creature List/13/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/13/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/14/FirstName,0,롤미어
 area001,git,Creature List/14/LastName,0,일프키어
 area001,git,Creature List/14/Description,0,드로우는 위험한 언더더크에서 깊은 지하에 살고 있는 악령들의 악성 서브래스이다. 로미어는 피우비엔의 새로운 중위원 중 한 명이다. 그는 최근의 어려움에도 불구하고 테트'네스를 충실히 수용함으로써 계급을 얻었다.
 area001,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/14/Equip_ItemList/4/LocalizedName,0,Drow 레벨 20의 성질
+area001,git,Creature List/14/Equip_ItemList/4/LocalizedName,0,드로우 레벨 20 속성
 area001,git,Creature List/15/FirstName,0,늦은 시간
 area001,git,Creature List/15/LastName,0,마'페인
 area001,git,Creature List/15/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 area001,git,Creature List/15/ItemList/0/LocalizedName,0,Drow 체인메일
 area001,git,Creature List/15/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-area001,git,Creature List/15/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/15/ItemList/1/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/15/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/15/ItemList/2/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/15/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/15/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/15/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/15/ItemList/3/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/15/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/15/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/15/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/15/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/15/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/15/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/15/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/15/ItemList/6/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/15/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1334,146 +1334,146 @@ area001,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,드로우 무장�
 area001,git,Creature List/15/Equip_ItemList/2/LocalizedName,0,칼 + 1
 area001,git,Creature List/15/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 area001,git,Creature List/15/Equip_ItemList/3/LocalizedName,0,마법 저항 16
-area001,git,Creature List/15/Equip_ItemList/4/LocalizedName,0,독성 발트
+area001,git,Creature List/15/Equip_ItemList/4/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/15/Equip_ItemList/4/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,Creature List/16/FirstName,0,바론 프레드리크
 area001,git,Creature List/16/LastName,0,모닝시드
 area001,git,Creature List/16/ItemList/0/LocalizedName,0,기사 방패
 area001,git,Creature List/16/ItemList/0/DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
 area001,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,바론의 기념비적인 갑옷
-area001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
-area001,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,불의 발자국
+area001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
+area001,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,화염의 쇠뇌화살
 area001,git,Creature List/16/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
 area001,git,Creature List/17/FirstName,0,경호 의 기사
 area001,git,Creature List/17/ItemList/0/LocalizedName,0,헬미트 기념식 갑옷
-area001,git,Creature List/17/ItemList/0/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
+area001,git,Creature List/17/ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 area001,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,징계 의 헬멧
 area001,git,Creature List/17/Equip_ItemList/0/Description,0,이 비정상적인 헬멧은 완전히 평범해 보입니다.
-area001,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,"이 헬멧은 실제 본성이 인식될 때까지 평범해 보인다. 화려한 은과 가벼운 강철으로 만든 헬멧은 다이아몬드, 루비, 화염오팔, 오팔로 구성되어 있으며, 각각 크기가 크고 매혹적이다. 밝은 빛에 부딪히면 헬멧은 왕관 모양의 보석 끝의 톱니에서 모든 방향으로 반사선을 발사한다. 보석은 착용자에게 다양한 강력한 주문을 던질 수 있게 해준다. 이러한 사용은 각각 헬멧의 힘을 소모한다. 이러한 특정 능력 외에도 헬멧은 상당한 양의 화재 피해를 흡수할 수 있습니다. 착용자는 또한 불꽃 같은 효과를 생산하기 위해 헬멧의 빛을 집중시킬 수 있습니다. 여전히 존재하는 몇 가지 그러한 헬멧은 랜드더 게이트에서 큰 목회자로부터 다시 추적되었습니다. 에르데 힐즈의 동사들 중 한 명도 볼드리온의 동사들과 함께 북쪽을 돌아가는 것을 본 적이 없다."
+area001,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,"이 헬멧은 실제 본성을 인식할 때까지 평범해 보인다. 화려한 은과 가벼운 철로 만든 광휘의 투구에는 다이아몬드, 루비나 불오팔 및 오발이 있으며 각각 크기가 크고 매혹적입니다. 밝은 빛에 부딪히면 휠체어는 왕자 모양의 보석 끝으로 모든 방향으로 반사선을 발송합니다. 주얼지는 착용자에게 다양한 강력한 주문을 던질 수 있습니다. 이러한 각각의 사용은 지휘봉에서 약간의 힘을 소모한다. 이들 특정 능력 외에도 선두는 상당한 양의 불을 흡수 할 수 있다. 운전자는 또한 손상의 빛을 집중시켜 플라임 타격 효과와 유사한 효과를 낼 것입니다. 아직까지 존재한다고 알려진 몇 가지 그 Helm들은 여전히 볼더스 게이트 (Baldur's Gate) 에서 온 큰 성직자에 거슬러 올라간다."
 area001,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,헬미트 기념식 갑옷
-area001,git,Creature List/17/Equip_ItemList/1/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
-area001,git,Creature List/17/Equip_ItemList/2/LocalizedName,0,법 제정자
+area001,git,Creature List/17/Equip_ItemList/1/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
+area001,git,Creature List/17/Equip_ItemList/2/LocalizedName,0,입법자
 area001,git,Creature List/17/Equip_ItemList/2/DescIdentified,0,"혼란스럽거나 도덕적으로 의심받는 자의 재앙, 입법자 칼은 오직 한 가지 목적: 그 권위가 도전되거나 의문을 제기되는 곳마다 법의 지배를 집행하는 것입니다. ""법""의 개념이 ""정의""의 개념과 일치하는지 여부는 크게 무관합니다. 이러한 무기 소유자들은 종종 세계를 매우 양극화된 방식으로 바라보고 있습니다. 옳고 그름이 있으며 다른 세부 사항은 문제를 혼란스럽게 만듭니다."
 area001,git,Creature List/17/Equip_ItemList/3/LocalizedName,0,기사 방패
 area001,git,Creature List/17/Equip_ItemList/3/DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
-area001,git,Creature List/17/Equip_ItemList/4/LocalizedName,0,불의 발자국
+area001,git,Creature List/17/Equip_ItemList/4/LocalizedName,0,화염의 쇠뇌화살
 area001,git,Creature List/17/Equip_ItemList/4/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
 area001,git,Creature List/18/FirstName,0,경호 의 기사
 area001,git,Creature List/18/ItemList/0/LocalizedName,0,헬미트 기념식 갑옷
-area001,git,Creature List/18/ItemList/0/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
+area001,git,Creature List/18/ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 area001,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,징계 의 헬멧
 area001,git,Creature List/18/Equip_ItemList/0/Description,0,이 비정상적인 헬멧은 완전히 평범해 보입니다.
-area001,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,"이 헬멧은 실제 본성이 인식될 때까지 평범해 보인다. 화려한 은과 가벼운 강철으로 만든 헬멧은 다이아몬드, 루비, 화염오팔, 오팔로 구성되어 있으며, 각각 크기가 크고 매혹적이다. 밝은 빛에 부딪히면 헬멧은 왕관 모양의 보석 끝의 톱니에서 모든 방향으로 반사선을 발사한다. 보석은 착용자에게 다양한 강력한 주문을 던질 수 있게 해준다. 이러한 사용은 각각 헬멧의 힘을 소모한다. 이러한 특정 능력 외에도 헬멧은 상당한 양의 화재 피해를 흡수할 수 있습니다. 착용자는 또한 불꽃 같은 효과를 생산하기 위해 헬멧의 빛을 집중시킬 수 있습니다. 여전히 존재하는 몇 가지 그러한 헬멧은 랜드더 게이트에서 큰 목회자로부터 다시 추적되었습니다. 에르데 힐즈의 동사들 중 한 명도 볼드리온의 동사들과 함께 북쪽을 돌아가는 것을 본 적이 없다."
+area001,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,"이 헬멧은 실제 본성을 인식할 때까지 평범해 보인다. 화려한 은과 가벼운 철로 만든 광휘의 투구에는 다이아몬드, 루비나 불오팔 및 오발이 있으며 각각 크기가 크고 매혹적입니다. 밝은 빛에 부딪히면 휠체어는 왕자 모양의 보석 끝으로 모든 방향으로 반사선을 발송합니다. 주얼지는 착용자에게 다양한 강력한 주문을 던질 수 있습니다. 이러한 각각의 사용은 지휘봉에서 약간의 힘을 소모한다. 이들 특정 능력 외에도 선두는 상당한 양의 불을 흡수 할 수 있다. 운전자는 또한 손상의 빛을 집중시켜 플라임 타격 효과와 유사한 효과를 낼 것입니다. 아직까지 존재한다고 알려진 몇 가지 그 Helm들은 여전히 볼더스 게이트 (Baldur's Gate) 에서 온 큰 성직자에 거슬러 올라간다."
 area001,git,Creature List/18/Equip_ItemList/1/LocalizedName,0,헬미트 기념식 갑옷
-area001,git,Creature List/18/Equip_ItemList/1/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
-area001,git,Creature List/18/Equip_ItemList/2/LocalizedName,0,법 제정자
+area001,git,Creature List/18/Equip_ItemList/1/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
+area001,git,Creature List/18/Equip_ItemList/2/LocalizedName,0,입법자
 area001,git,Creature List/18/Equip_ItemList/2/DescIdentified,0,"혼란스럽거나 도덕적으로 의심받는 자의 재앙, 입법자 칼은 오직 한 가지 목적: 그 권위가 도전되거나 의문을 제기되는 곳마다 법의 지배를 집행하는 것입니다. ""법""의 개념이 ""정의""의 개념과 일치하는지 여부는 크게 무관합니다. 이러한 무기 소유자들은 종종 세계를 매우 양극화된 방식으로 바라보고 있습니다. 옳고 그름이 있으며 다른 세부 사항은 문제를 혼란스럽게 만듭니다."
 area001,git,Creature List/18/Equip_ItemList/3/LocalizedName,0,기사 방패
 area001,git,Creature List/18/Equip_ItemList/3/DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
-area001,git,Creature List/18/Equip_ItemList/4/LocalizedName,0,불의 발자국
+area001,git,Creature List/18/Equip_ItemList/4/LocalizedName,0,화염의 쇠뇌화살
 area001,git,Creature List/18/Equip_ItemList/4/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
 area001,git,Creature List/19/FirstName,0,엘프 아커
-area001,git,Creature List/19/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/19/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/19/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/19/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/19/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/19/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/19/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/19/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/19/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/19/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/19/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/19/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/20/FirstName,0,엘프 아커
-area001,git,Creature List/20/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/20/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/20/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/20/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/20/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/20/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/20/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/20/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/20/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/20/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/20/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/20/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/21/FirstName,0,엘프 아커
-area001,git,Creature List/21/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/21/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/21/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/21/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/21/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/21/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/21/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/21/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/21/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/21/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/21/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/21/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/22/FirstName,0,엘프 아커
-area001,git,Creature List/22/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/22/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/22/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/22/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/22/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/22/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/22/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/22/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/22/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/22/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/22/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/22/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/23/FirstName,0,엘프 아커
-area001,git,Creature List/23/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/23/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/23/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/23/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/23/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/23/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/23/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/23/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/23/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/23/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/23/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/23/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/24/FirstName,0,엘프 아커
-area001,git,Creature List/24/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/24/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/24/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/24/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/24/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/24/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/24/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/24/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/24/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/24/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/24/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/24/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/25/FirstName,0,엘프 아커
-area001,git,Creature List/25/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/25/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/25/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/25/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/25/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/25/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/25/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/25/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/25/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/25/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/25/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/25/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/26/FirstName,0,엘프 아커
-area001,git,Creature List/26/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/26/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/26/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/26/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/26/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/26/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/26/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/26/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/26/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/26/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/26/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/26/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/27/FirstName,0,엘프 아커
-area001,git,Creature List/27/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/27/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/27/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/27/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/27/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/27/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/27/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/27/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/27/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/27/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/27/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/27/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/28/FirstName,0,엘프 아커
-area001,git,Creature List/28/ItemList/0/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/28/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/28/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/28/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/28/ItemList/1/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/28/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/28/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/28/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/28/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/28/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/28/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/28/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/29/FirstName,0,로밀마르
 area001,git,Creature List/29/LastName,0,티레노스키아
 area001,git,Creature List/29/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-area001,git,Creature List/29/ItemList/0/LocalizedName,0,라이트 크로스보 +1
+area001,git,Creature List/29/ItemList/0/LocalizedName,0,경쇠뇌 +1
 area001,git,Creature List/29/ItemList/0/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-area001,git,Creature List/29/ItemList/1/LocalizedName,0,바르크스킨 투약
+area001,git,Creature List/29/ItemList/1/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/29/ItemList/1/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-area001,git,Creature List/29/ItemList/2/LocalizedName,0,황새 의 힘 의 약
+area001,git,Creature List/29/ItemList/2/LocalizedName,0,황소의 근력 물약
 area001,git,Creature List/29/ItemList/2/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Creature List/29/ItemList/3/LocalizedName,0,중요 한 상처 를 치료 하는 약
+area001,git,Creature List/29/ItemList/3/LocalizedName,0,치명적인 상처 치료의 물약
 area001,git,Creature List/29/ItemList/3/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Creature List/29/ItemList/4/LocalizedName,0,중소 한 상처 를 치료 하는 약
+area001,git,Creature List/29/ItemList/4/LocalizedName,0,일반 상처 치료의 물약
 area001,git,Creature List/29/ItemList/4/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Creature List/29/ItemList/5/LocalizedName,0,마법 같은 능력
 area001,git,Creature List/29/ItemList/5/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -1481,10 +1481,10 @@ area001,git,Creature List/29/ItemList/6/LocalizedName,0,칼 + 1
 area001,git,Creature List/29/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 area001,git,Creature List/29/ItemList/7/LocalizedName,0,장작품 롱스word
 area001,git,Creature List/29/ItemList/7/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
-area001,git,Creature List/29/Equip_ItemList/0/LocalizedName,0,가죽 장갑 + 3
-area001,git,Creature List/29/Equip_ItemList/0/DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만, 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 레지온 갑옷과 같은 아이템은 때때로 그들의 관여가 의심되는 사건에서 복구되었습니다."
+area001,git,Creature List/29/Equip_ItemList/0/LocalizedName,0,가죽 갑옷+3
+area001,git,Creature List/29/Equip_ItemList/0/DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 군단 갑옷과 같은 아이템은 때때로 이들의 관여가 의심되는 사건에서 복구되어 왔지만 길드 리더는 결코 소유권을 제한하거나 부인하지 않았습니다."
 area001,git,Creature List/29/Equip_ItemList/1/LocalizedName,0,마법 저항 16
-area001,git,Creature List/29/Equip_ItemList/2/LocalizedName,0,독성 발트
+area001,git,Creature List/29/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 area001,git,Creature List/29/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 area001,git,TriggerList/0/LocalizedName,0,gt05
 area001,git,TriggerList/1/LocalizedName,0,amb_river1
@@ -1808,8 +1808,8 @@ area002,git,Creature List/0/LastName,0,피터
 area002,git,Door List/0/LocName,0,문
 area002,git,Door List/1/LocName,0,문
 area002,git,Door List/2/LocName,0,문
-area002,git,SoundList/0/LocName,0,가장자리 너머의 폭포
-area002,git,SoundList/1/LocName,0,가장자리 너머의 폭포
+area002,git,SoundList/0/LocName,0,큰 절벽의 폭포
+area002,git,SoundList/1/LocName,0,큰 절벽의 폭포
 area002,git,TriggerList/0/LocalizedName,0,유적
 area002,git,TriggerList/1/LocalizedName,0,gt01
 area002,git,TriggerList/2/LocalizedName,0,gt02
@@ -2006,25 +2006,25 @@ area003,git,Creature List/0/FirstName,0,독재자
 area003,git,Creature List/0/ItemList/0/LocalizedName,0,보는 눈
 area003,git,Creature List/1/FirstName,0,네더스 전투 경호
 area003,git,Creature List/1/Description,0,"마법사의 강철 으로 만들어졌으며, 격렬 한 영 으로 가득 차 있는 미노곤 들 은 참으로 위험 한 적 이다. 그들의 야만적 인 외침 은 많은 희생자 들 을 놀라게 해 주었다."
-area003,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,부동산 을 건설
+area003,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,구조물 속성
 area003,git,Creature List/2/FirstName,0,네더스 전투 경호
 area003,git,Creature List/2/Description,0,"마법사의 강철 으로 만들어졌으며, 격렬 한 영 으로 가득 차 있는 미노곤 들 은 참으로 위험 한 적 이다. 그들의 야만적 인 외침 은 많은 희생자 들 을 놀라게 해 주었다."
-area003,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,부동산 을 건설
-area003,git,Creature List/3/FirstName,0,네덜란드 전쟁 공포
+area003,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,구조물 속성
+area003,git,Creature List/3/FirstName,0,네테레스 싸우는 공포
 area003,git,Creature List/3/Description,0,배틀 호러스는 마법에 의해 애니메이션 된 무장입니다. 그들은 그들의 작은 친척인 헬멧 호러보다 더 많은 마법 능력을 가지고 있습니다.
-area003,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,헬드/ 전투 공포 속성
-area003,git,Creature List/4/FirstName,0,네덜란드 전쟁 공포
+area003,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,헬멧/싸우는 공포 특성
+area003,git,Creature List/4/FirstName,0,네테레스 싸우는 공포
 area003,git,Creature List/4/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-area003,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,헬드/ 전투 공포 속성
+area003,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,헬멧/싸우는 공포 특성
 area003,git,Creature List/5/FirstName,0,죽은 네더스족의 혐오
 area003,git,Creature List/6/FirstName,0,불사한 네덜란드 전쟁 마스터
 area003,git,Creature List/6/Description,0,덤의 기사들은 그들이 지배하는 모든 나라의 재앙입니다.
 area003,git,Creature List/7/FirstName,0,네더스 전투 경호
 area003,git,Creature List/7/Description,0,"마법사의 강철 으로 만들어졌으며, 격렬 한 영 으로 가득 차 있는 미노곤 들 은 참으로 위험 한 적 이다. 그들의 야만적 인 외침 은 많은 희생자 들 을 놀라게 해 주었다."
-area003,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,부동산 을 건설
+area003,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,구조물 속성
 area003,git,Creature List/8/FirstName,0,네더스 전투 경호
 area003,git,Creature List/8/Description,0,"마법사의 강철 으로 만들어졌으며, 격렬 한 영 으로 가득 차 있는 미노곤 들 은 참으로 위험 한 적 이다. 그들의 야만적 인 외침 은 많은 희생자 들 을 놀라게 해 주었다."
-area003,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,부동산 을 건설
+area003,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,구조물 속성
 area003,git,Creature List/9/FirstName,0,아세레라크의 종
 area003,git,Creature List/10/FirstName,0,아세레라크의 종
 area003,git,Creature List/11/FirstName,0,아세레라크의 종
@@ -2032,7 +2032,7 @@ area003,git,Creature List/12/FirstName,0,아세레라크의 종
 area003,git,Creature List/13/FirstName,0,아세레라크의 종
 area003,git,Creature List/14/FirstName,0,비클리무라모트
 area003,git,Creature List/14/Description,0,붉은 드래곤은 모든 드래곤들 중 가장 탐욕적인 존재입니다. 예외적으로 헛되이 그들은 항상 다른 생물들이 그들을 추모하도록 만드는 방법을 찾고 있습니다.
-area003,git,Creature List/14/ItemList/1/LocalizedName,0,드래곤 스켈라
+area003,git,Creature List/14/ItemList/1/LocalizedName,0,용의 두개골
 area003,git,Creature List/15/FirstName,0,죽은 네더스족의 혐오
 area003,git,Creature List/16/FirstName,0,죽은 네더스족의 혐오
 area003,git,Creature List/17/FirstName,0,죽은 네더스족의 혐오
@@ -2075,38 +2075,38 @@ area003,git,Door List/17/LocName,0,문
 area003,git,Encounter List/0/LocalizedName,0,아세라크의 종사자2
 area003,git,Encounter List/1/LocalizedName,0,아세라크의 종들
 area003,git,Encounter List/2/LocalizedName,0,악견
-area003,git,List/0/LocalizedName,0,썩은 채식 접시
+area003,git,List/0/LocalizedName,0,썩은 전신 판금 갑옷
 area003,git,List/3/LocalizedName,0,보나르의 헬멧
 area003,git,List/3/Description,0,이 비정상적인 헬멧은 완전히 평범해 보입니다.
 area003,git,List/3/DescIdentified,0,"이 은 인간 디자인 이다. 비록 착용 및 노화 되어 있기는 하지만, 그것은 분명 히 뛰어난 기술 과 강력한 마법 을 보여 준다. 그것은 한때 Acererak의 무덤에서 자신의 종말을 발견 한 용감 한 Bondar에 속해 있었다."
-area003,git,List/4/LocalizedName,0,부패한 규모의 우편
+area003,git,List/4/LocalizedName,0,썩은 비늘 갑옷
 area003,git,SoundList/0/LocName,0,스트 인테리어
-area003,git,SoundList/1/LocName,0,좀비 울음소리
-area003,git,SoundList/2/LocName,0,좀비 울음소리
-area003,git,SoundList/3/LocName,0,마법의 크리스탈 악
-area003,git,SoundList/4/LocName,0,남자들 웃음
-area003,git,SoundList/5/LocName,0,여자 들 이 웃는다
+area003,git,SoundList/1/LocName,0,좀비 신음소리
+area003,git,SoundList/2/LocName,0,좀비 신음소리
+area003,git,SoundList/3/LocName,0,마법 수정 악
+area003,git,SoundList/4/LocName,0,웃는 남자
+area003,git,SoundList/5/LocName,0,웃는 여자
 area003,git,SoundList/6/LocName,0,안에서 들려오는 사내들의 주문 소리
 area003,git,SoundList/7/LocName,0,안에서 들려오는 사내들의 주문 소리
-area003,git,SoundList/8/LocName,0,크립트 비소
-area003,git,TriggerList/0/LocalizedName,0,새로운 지역 전환
-area003,git,TriggerList/1/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/2/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/3/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/4/LocalizedName,0,산 함정에 의한 치명적 인 덩어리
-area003,git,TriggerList/5/LocalizedName,0,치명적 인 전기 함정
-area003,git,TriggerList/16/LocalizedName,0,치명적 인 함정
-area003,git,TriggerList/17/LocalizedName,0,작은 함정
-area003,git,TriggerList/18/LocalizedName,0,치명적 인 가스 함정
-area003,git,TriggerList/19/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/20/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/21/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/22/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/23/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/24/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/25/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/26/LocalizedName,0,새로운 일반제
-area003,git,TriggerList/27/LocalizedName,0,새로운 일반제
+area003,git,SoundList/8/LocName,0,납골당 음산한 소리
+area003,git,TriggerList/0/LocalizedName,0,뉴 에이리어 트랜지션
+area003,git,TriggerList/1/LocalizedName,0,새 일반
+area003,git,TriggerList/2/LocalizedName,0,새 일반
+area003,git,TriggerList/3/LocalizedName,0,새 일반
+area003,git,TriggerList/4/LocalizedName,0,살인적인 산성 함정
+area003,git,TriggerList/5/LocalizedName,0,살인적인 전기 함정
+area003,git,TriggerList/16/LocalizedName,0,살인적인 덩굴 함정
+area003,git,TriggerList/17/LocalizedName,0,약한 덩굴 함정
+area003,git,TriggerList/18/LocalizedName,0,살인적인 기체 함정
+area003,git,TriggerList/19/LocalizedName,0,새 일반
+area003,git,TriggerList/20/LocalizedName,0,새 일반
+area003,git,TriggerList/21/LocalizedName,0,새 일반
+area003,git,TriggerList/22/LocalizedName,0,새 일반
+area003,git,TriggerList/23/LocalizedName,0,새 일반
+area003,git,TriggerList/24/LocalizedName,0,새 일반
+area003,git,TriggerList/25/LocalizedName,0,새 일반
+area003,git,TriggerList/26/LocalizedName,0,새 일반
+area003,git,TriggerList/27/LocalizedName,0,새 일반
 area003,git,WaypointList/0/LocalizedName,0,이정표
 area003,git,WaypointList/1/LocalizedName,0,이정표
 area003,git,WaypointList/2/LocalizedName,0,이정표
@@ -2125,7 +2125,7 @@ area003,git,WaypointList/13/LocalizedName,0,이정표
 area003,git,WaypointList/14/LocalizedName,0,이정표
 area003,git,WaypointList/15/LocalizedName,0,이정표
 area003,git,WaypointList/16/MapNote,0,계단 위로
-area003,git,WaypointList/17/MapNote,0,발교
+area003,git,WaypointList/17/MapNote,0,보도교
 area003,git,WaypointList/18/MapNote,0,보석 방
 area003,git,WaypointList/19/MapNote,0,독재자의 방
 area003,git,WaypointList/20/MapNote,0,용의 방
@@ -2133,13 +2133,13 @@ area003,git,WaypointList/21/MapNote,0,수감실
 area003,git,WaypointList/22/MapNote,0,내부 발자교
 area003,git,WaypointList/23/MapNote,0,아세레라크의 장막
 area003,git,WaypointList/24/MapNote,0,방 방
-area003,git,WaypointList/25/MapNote,0,포털
+area003,git,WaypointList/25/MapNote,0,차원문
 area003,git,Placeable List/16/LocName,0,썩은 먼지 소파
 area003,git,Placeable List/16/Description,0,소파는 따뜻하고 초대형으로 보입니다. 짧은 잠자리에 적합합니다.
 area003,git,Placeable List/19/LocName,0,머티 럭셔리 의자
 area003,git,Placeable List/19/Description,0,황금 의 의자 는 마법 으로든 역사 의 무게 로든 자신감 과 권위 를 발휘 한다. 이 의자 는 자신 의 의자라고 부르는 통치자 들 은 현명 하다.
 area003,git,Placeable List/19/ItemList/1/LocalizedName,0,금화
-area003,git,Placeable List/21/LocName,0,먼지 새의 구리
+area003,git,Placeable List/21/LocName,0,더스티 새장
 area003,git,Placeable List/21/Description,0,"황금으로 된 바는 서로 우아하게 어져 있으며, 야스민 냄새가 나는 저녁, 차가운 바람, 밤새의 노래의 느낌을 불러일으키고 있습니다."
 area003,git,Placeable List/22/LocName,0,썩은 발자국
 area003,git,Placeable List/22/Description,0,낮은 발자국에는 이국적 인 가죽으로 묶여 있습니다. 아마도 그 기원은 괴물일 것입니다.
@@ -2167,17 +2167,17 @@ area003,git,Placeable List/51/LocName,0,기둥
 area003,git,Placeable List/51/Description,0,얇은 레버가 석회암 기둥에서 펼쳐진다.
 area003,git,Placeable List/52/LocName,0,수납 우르나
 area003,git,Placeable List/52/Description,0,발자취의 소리가 울려 퍼져나가고 있습니다.
-area003,git,Placeable List/53/LocName,0,보이지 않는 물체
+area003,git,Placeable List/53/LocName,0,투명 물체
 area003,git,Placeable List/53/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 area003,git,Placeable List/54/LocName,0,제공 웅장
 area003,git,Placeable List/54/Description,0,"석탄은 부드럽고 부드럽고, 물은 어디서 시작되는지 알기 힘들죠."
-area003,git,Placeable List/60/LocName,0,보이지 않는 물체
+area003,git,Placeable List/60/LocName,0,투명 물체
 area003,git,Placeable List/60/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 area003,git,Placeable List/61/LocName,0,워드 페데스탈
 area003,git,Placeable List/61/Description,0,낮은 기둥은 알라바스터 흰색으로 빛나고 그 둥지를 가로질러 그림자가 연주한다.
-area003,git,Placeable List/62/LocName,0,보이지 않는 물체
+area003,git,Placeable List/62/LocName,0,투명 물체
 area003,git,Placeable List/62/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
-area003,git,Placeable List/63/LocName,0,보이지 않는 물체
+area003,git,Placeable List/63/LocName,0,투명 물체
 area003,git,Placeable List/63/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 area003,git,Placeable List/65/LocName,0,조각상
 area003,git,Placeable List/65/Description,0,이 키 의 눈 이 지 않는 것 은 눈 을 게 돌려 준다. 이 인물이 누구 였을 지 알 수 있는 지표 는 없다.
@@ -2191,7 +2191,7 @@ area003,git,Placeable List/70/LocName,0,장식 된 바닥 레버
 area003,git,Placeable List/70/Description,0,얇은 레버가 바닥에서 올라와 아래에서 보이지 않는 메커니즘을 제어합니다.
 area003,git,Placeable List/73/LocName,0,특이한 동상
 area003,git,Placeable List/73/Description,0,이 동상은 특이한 마법의 빛을 가지고 있습니다.
-area003,git,Placeable List/74/LocName,0,보이지 않는 물체
+area003,git,Placeable List/74/LocName,0,투명 물체
 area003,git,Placeable List/74/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 area003,git,Placeable List/75/LocName,0,브리지 레버
 area003,git,Placeable List/75/Description,0,무거운 레버가 바닥에서 튀어나와 아래에서 보이지 않는 메커니즘을 제어합니다.
@@ -2213,7 +2213,7 @@ area003,git,Placeable List/81/LocName,0,먼지 둥글
 area003,git,Placeable List/81/Description,0,"주의 깊게 들으면, 청동의 둥글이 당신의 존재를 인정하는 것처럼 당신의 모든 걸음으로 부드럽게 울리는 소리를 들을 수 있습니다."
 area003,git,Placeable List/89/LocName,0,염색 된 제단
 area003,git,Placeable List/89/Description,0,당신 앞에 작은 제단이 서 있습니다. 오래전부터 소멸된 불에서 남긴 화석과 섞여 있는 오래된 혈액 얼룩이 돌에 침투했습니다.
-area003,git,Placeable List/89/ItemList/0/LocalizedName,0,찢어진 표기
+area003,git,Placeable List/89/ItemList/0/LocalizedName,0,너덜너덜한 쪽지
 area003,git,Placeable List/89/ItemList/0/DescIdentified,0,"아버지께 피와 뼈, 아들께 보라색과 녹색..."
 area003,git,Placeable List/115/LocName,0,제단
 area003,git,Placeable List/115/Description,0,"작은 제단이 당신 앞에 서 있습니다. 당신은 그 빛의 반사에서 자신을 발견하고, 어떤 식으로든 그 존재 안에서 평화로운 느낌입니다."
@@ -2228,11 +2228,11 @@ area003,git,Placeable List/123/Description,0,낮은 기둥은 알라바스터 �
 area003,git,Placeable List/124/LocName,0,작은 얼룩 한 제단
 area003,git,Placeable List/124/Description,0,"작은 바람은 물 표면을 파묻고, 당신의 반사체에 자신만의 생명을 부여합니다."
 area003,git,Placeable List/124/ItemList/0/LocalizedName,0,관람자 의 열쇠
-area003,git,Placeable List/126/LocName,0,사코파거
+area003,git,Placeable List/126/LocName,0,석관
 area003,git,Placeable List/126/Description,0,사코파거의 무거운 덮개는 장식되지 않은 돌로 만들어졌습니다.
-area003,git,Placeable List/127/LocName,0,사코파거
+area003,git,Placeable List/127/LocName,0,석관
 area003,git,Placeable List/127/Description,0,사코파거의 무거운 덮개는 장식되지 않은 돌로 만들어졌습니다.
-area003,git,Placeable List/130/LocName,0,사코파거
+area003,git,Placeable List/130/LocName,0,석관
 area003,git,Placeable List/130/Description,0,새혈에 새겨진 불분명한 메시지가 무덤 옆으로 새겨져 있습니다. 이 사르코파거를 어떤 죽은 신자가 고향이라고 부르는지 궁금합니다.
 area003,git,Placeable List/130/ItemList/0/LocalizedName,0,금화
 area003,git,Placeable List/133/LocName,0,먼지 있는 상자
@@ -2275,7 +2275,7 @@ area003,git,Placeable List/180/LocName,0,썩은 배럴
 area003,git,Placeable List/180/Description,0,두꺼운 금속띠가 배럴판을 둘러싸고 밀폐를 보장합니다.
 area003,git,Placeable List/202/LocName,0,썩은 테이블
 area003,git,Placeable List/202/Description,0,"농촌 테이블은 칼의 흔적, 희미한 석탄 조각, 그리고 흘린 음식의 얼룩으로 가득합니다."
-area003,git,Placeable List/202/ItemList/0/LocalizedName,0,찢어진 표기
+area003,git,Placeable List/202/ItemList/0/LocalizedName,0,너덜너덜한 쪽지
 area003,git,Placeable List/202/ItemList/0/DescIdentified,0,이 메모는 일종의 경고처럼 보입니다. 일부 부분은 부패하지만 몇 줄을 해독할 수 있습니다. ... 나는 그의 존재를 여기 느낄 수 있습니다. Acererak은 지난 세기 동안 매우 강력해졌습니다. [...] 그의 힘이 dec[...]와 함께 사라질 것이라고 생각했지만 그의 체육의 한계를 넘어 자신의 삶을 연장하는 방법을 찾았습니다. [...] ... 그의 힘의 원천은 이 아래의 신화 돌 중 하나입니다. 그 돌들은 도시를 하늘로 끌어올리고 군대를 물리치고 ... 심지어 영원한 생명을 부여 할 수있는 힘을 가지고 있습니다. [...] Acererak은 왜곡된 유머 감각을 개발했습니다. 그는 자신의 유리를 죽음의 함정으로 바꾸었습니다. 우리의 존재는 그에게 장난이 아닙니다 [...] ... 강력한 생물들을 그의 봉사에 유혹했습니다 ... [...] ... ... 그러나 ... 눈 공을 쥐고 있습니다 ... 드래곤의 열쇠 중 하나는 ... 당신을 도울 수 있습니다 ... 경고 할 수 있습니다 ...
 area003,git,Placeable List/221/LocName,0,책상
 area003,git,Placeable List/221/Description,0,"반짝이는 탁자 아래에는 작은 드래이어가 펼쳐져 있고, 필요할 때 책상처럼 두 배가 될 것입니다."
@@ -2341,9 +2341,9 @@ area003,git,Placeable List/289/LocName,0,장식된 상자
 area003,git,Placeable List/289/Description,0,"금속 톱니 들 은 이 장식 된 상자 의 목조 를 뚫고 니다. 그 톱니 톱니 톱니 들 은 훌륭 한 기술 으로 판단 해 볼 때, 이 상자 는 대중 에게 전시 하기 위해 고안 된 것 같다."
 area003,git,Placeable List/290/LocName,0,상자
 area003,git,Placeable List/290/Description,0,"금속 톱니 들 은 이 장식 된 상자 의 목조 를 뚫고 니다. 그 톱니 톱니 톱니 들 은 훌륭 한 기술 으로 판단 해 볼 때, 이 상자 는 대중 에게 전시 하기 위해 고안 된 것 같다."
-area003,git,Placeable List/290/ItemList/1/LocalizedName,0,더 큰 매술 장갑
+area003,git,Placeable List/290/ItemList/1/LocalizedName,0,상급 주문숙련의 장갑
 area003,git,Placeable List/290/ItemList/1/DescIdentified,0,"무르홀란드 신주의의 확산을 막기 위해, 티의 여러 붉은 마법사들이 함께 협력하여 앙테르를 통제하는 마고크라시를 돕기 위해 이 장갑을 만들었습니다. 장갑은 마법사들이 cast되는 강력한 마법을 인식하는 데 도움을 주지만, 무르홀란드 마법사의 우수한 숫자는 여전히 그들에게 이점을 제공합니다."
-area003,git,Placeable List/291/LocName,0,보이지 않는 물체
+area003,git,Placeable List/291/LocName,0,투명 물체
 area003,git,Placeable List/291/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 area003,git,Placeable List/292/LocName,0,흥미로운 그림
 area003,git,Placeable List/292/Description,0,이 먼지 같은 그림은 마법사와 야만적인 악마와의 전투를 묘사하고 있습니다.
@@ -2363,11 +2363,11 @@ area003,git,Placeable List/299/LocName,0,나무 기둥 을 훼손
 area003,git,Placeable List/299/Description,0,무작위로 깎은 빔은 수많은 땀이 나는 손과 어깨가 그 위에 누워있는 얼룩을 보여줍니다.
 area003,git,Placeable List/300/LocName,0,나무 기둥 을 훼손
 area003,git,Placeable List/300/Description,0,무작위로 깎은 빔은 수많은 땀이 나는 손과 어깨가 그 위에 누워있는 얼룩을 보여줍니다.
-area003,git,Placeable List/301/LocName,0,보이지 않는 물체
+area003,git,Placeable List/301/LocName,0,투명 물체
 area003,git,Placeable List/301/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
-area003,git,Placeable List/303/LocName,0,데미 리치 먼지
+area003,git,Placeable List/303/LocName,0,데미 리치 가루
 area003,git,Placeable List/303/Description,0,"그 연기가 독한 냄새를 맡고 있는데, 마치 뭔가 불쾌한 것이 그 기지에서 튀어나오는 것 같다."
-area003,git,Placeable List/304/LocName,0,데미 리치 먼지
+area003,git,Placeable List/304/LocName,0,데미 리치 가루
 area003,git,Placeable List/304/Description,0,"그 연기가 독한 냄새를 맡고 있는데, 마치 뭔가 불쾌한 것이 그 기지에서 튀어나오는 것 같다."
 area003,git,Placeable List/305/LocName,0,숨겨진 벽 문 트리거
 area003,git,Placeable List/305/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
@@ -2389,11 +2389,11 @@ area003,git,Placeable List/326/LocName,0,하그리드의 뼈
 area003,git,Placeable List/326/Description,0,땅 위에 비친 인간형 뼈의 슬픈 무리가 있었다.
 area003,git,Placeable List/326/ItemList/0/LocalizedName,0,하그리드의 일기
 area003,git,Placeable List/326/ItemList/0/DescIdentified,0,이것은 하그리드라는 인간 모험가의 일기입니다. 그는 그의 친구들과 함께 보물을 찾기 위해 이 무덤에 들어갔다. 마지막 항목은 다음과 같다: ... 나는 보너에게 나의 서적들이 남쪽으로 티란트로부터 우리를 보호할 것이라고 말했다. 이것은 사실입니다. 그러나 그는 알지 못합니다. 우리는 여기에 갇혀있다. 서적들이 그의 마법으로부터 우리를 보호하더라도 그는 우리를 쪼개 줄 충분한 종들을 가지고 있습니다. 우리 둘은 우리 그룹에서 남은 유일한 사람이고 우리는 아세레라크의 무덤의 내부 지역으로도 들어가지 않았습니다. 우리는 휴식을 취해야합니다. 그리고 밤이 끝날 때 우리가 여전히 살아 있다면 나는 다시 표면에 돌아갈 것입니다 ...
-area003,git,Placeable List/326/ItemList/1/LocalizedName,0,마법 에 대한 보호
-area003,git,Placeable List/326/ItemList/1/DescIdentified,0,"카스터 레벨 (s): 마법사/마술가 7 선천적인 레벨: 7 학교: 매혹 설명자 (s): 구성원 (s): 언어적, 소마틱 범위: 촉각 영역 / 목표: 큰, 1 생물 / 4 레벨 기간: 1 회전 / 레벨 추가 카운터 마술: 저장: 유해한 마술 저항: 없습니다. 효과 영역 내에서, 4 개의 카스터 레벨에 한 동맹국까지 마술에 대한 모든 저장 던지기 +8 보너스를 받는다."
-area003,git,Placeable List/326/ItemList/2/LocalizedName,0,마법 에 대한 보호
-area003,git,Placeable List/326/ItemList/2/DescIdentified,0,"카스터 레벨 (s): 마법사/마술가 7 선천적인 레벨: 7 학교: 매혹 설명자 (s): 구성원 (s): 언어적, 소마틱 범위: 촉각 영역 / 목표: 큰, 1 생물 / 4 레벨 기간: 1 회전 / 레벨 추가 카운터 마술: 저장: 유해한 마술 저항: 없습니다. 효과 영역 내에서, 4 개의 카스터 레벨에 한 동맹국까지 마술에 대한 모든 저장 던지기 +8 보너스를 받는다."
-area003,git,Placeable List/327/LocName,0,미탈러
+area003,git,Placeable List/326/ItemList/1/LocalizedName,0,주문으로부터 보호
+area003,git,Placeable List/326/ItemList/1/DescIdentified,0,"시전자 레벨 (s): 마법사 / 마술가 7 선천적인 수준: 7 학교: 매혹 설명자 ((s): 구성원(s): 말성, 소마틱 범위: 터치 효과 범위/목적: 큰 1 생물 / 4 레벨 기간: 1 회전 / 수준의 추가 카운터 주문: 저장: 유해한 주문 저항: 없습니다 효과 영역 내에서 4 개의 캐스터 계층에서 최대 한 동맹은 모든 구제 투자에 대해 +8 보너스를 받는다."
+area003,git,Placeable List/326/ItemList/2/LocalizedName,0,주문으로부터 보호
+area003,git,Placeable List/326/ItemList/2/DescIdentified,0,"시전자 레벨 (s): 마법사 / 마술가 7 선천적인 수준: 7 학교: 매혹 설명자 ((s): 구성원(s): 말성, 소마틱 범위: 터치 효과 범위/목적: 큰 1 생물 / 4 레벨 기간: 1 회전 / 수준의 추가 카운터 주문: 저장: 유해한 주문 저항: 없습니다 효과 영역 내에서 4 개의 캐스터 계층에서 최대 한 동맹은 모든 구제 투자에 대해 +8 보너스를 받는다."
+area003,git,Placeable List/327/LocName,0,미살라
 area003,git,Placeable List/337/LocName,0,금
 area003,git,Placeable List/337/Description,0,불특정 가치가 있는 작은 덩어리.
 area003,git,Placeable List/337/ItemList/0/LocalizedName,0,금화
@@ -2457,7 +2457,7 @@ area003,git,Placeable List/359/LocName,0,바빌론 스피어맨
 area003,git,Placeable List/359/Description,0,"바빌론 스피어맨 모자이크, 실제 벽 이미지로 구성된"
 area004,git,Door List/1/LocName,0,문
 area004,git,Door List/1/Description,0,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-area004,git,TriggerList/0/LocalizedName,0,작은 함정
+area004,git,TriggerList/0/LocalizedName,0,약한 덩굴 함정
 area004,git,WaypointList/0/LocalizedName,0,이정표
 area005,git,Creature List/0/FirstName,0,아세레라크
 area005,git,Creature List/1/FirstName,0,아세레라크의 종
@@ -2495,19 +2495,19 @@ area005,git,Placeable List/11/LocName,0,상자
 area005,git,Placeable List/11/Description,0,"금속 톱니가 이 장식 된 상자 의 목조 를 뚫고 니다. 이 우수한 공작품 을 보면, 이 상자 는 대중 에게 전시 하기 위해 고안 된 것 같다."
 area005,git,Placeable List/12/LocName,0,상자
 area005,git,Placeable List/12/Description,0,"금속 톱니가 이 장식 된 상자 의 목조 를 뚫고 니다. 이 우수한 공작품 을 보면, 이 상자 는 대중 에게 전시 하기 위해 고안 된 것 같다."
-area005,git,Placeable List/13/LocName,0,보이지 않는 물체
+area005,git,Placeable List/13/LocName,0,투명 물체
 area005,git,Placeable List/13/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
-crystalchamber,git,TriggerList/0/LocalizedName,0,새로운 일반제
+crystalchamber,git,TriggerList/0/LocalizedName,0,새 일반
 crystalchamber,git,WaypointList/0/LocalizedName,0,이정표
-crystalchamber,git,Placeable List/0/LocName,0,크리스탈
+crystalchamber,git,Placeable List/0/LocName,0,수정
 deeperinthefores,git,Door List/0/LocName,0,산림 캠프
 deeperinthefores,git,SoundList/0/LocName,0,큰 폭포
 deeperinthefores,git,SoundList/1/LocName,0,큰 폭포
 deeperinthefores,git,SoundList/2/LocName,0,큰 폭포
 deeperinthefores,git,SoundList/3/LocName,0,큰 폭포
 deeperinthefores,git,TriggerList/0/LocalizedName,0,더 깊은 숲
-deeperinthefores,git,TriggerList/1/LocalizedName,0,새로운 일반제
-deeperinthefores,git,WaypointList/0/MapNote,0,훼손
+deeperinthefores,git,TriggerList/1/LocalizedName,0,새 일반
+deeperinthefores,git,WaypointList/0/MapNote,0,폐허
 deeperinthefores,git,Placeable List/0/LocName,0,TN_Bramble_Lrg_Unwalkable
 deeperinthefores,git,Placeable List/1/LocName,0,TN_Bramble_Lrg_Unwalkable
 deeperinthefores,git,Placeable List/2/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -2628,7 +2628,7 @@ forest,git,Creature List/0/LastName,0,일프키어
 forest,git,Creature List/0/Description,0,드로우는 위험한 언더더크에서 깊은 지하에 살고 있는 악령들의 악성 서브래스이다. 로미어는 피우비엔의 새로운 중위원 중 한 명이다. 그는 최근의 어려움에도 불구하고 테트'네스를 충실히 수용함으로써 계급을 얻었다.
 forest,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 forest,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-forest,git,Creature List/0/Equip_ItemList/8/LocalizedName,0,Drow 레벨 20의 성질
+forest,git,Creature List/0/Equip_ItemList/8/LocalizedName,0,드로우 레벨 20 속성
 forest,git,Encounter List/0/LocalizedName,0,화살꾼
 forest,git,Encounter List/1/LocalizedName,0,화살꾼
 forest,git,Encounter List/2/LocalizedName,0,화살꾼
@@ -2777,7 +2777,7 @@ forest002,git,Encounter List/0/LocalizedName,0,화살꾼
 forest002,git,TriggerList/0/LocalizedName,0,숲2토루인
 forest002,git,TriggerList/1/LocalizedName,0,gt03
 forest002,git,WaypointList/0/LocalizedName,0,wp_3_flee
-forest002,git,WaypointList/1/MapNote,0,훼손
+forest002,git,WaypointList/1/MapNote,0,폐허
 forest002,git,Placeable List/0/LocName,0,TN_Bramble_Lrg_Unwalkable
 forest002,git,Placeable List/1/LocName,0,TN_Bramble_Lrg_Unwalkable
 forest002,git,Placeable List/2/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -2908,13 +2908,13 @@ forest002,git,Placeable List/109/Description,0,잔디의 덩어리가 다른 덩
 hiddencamp,git,Creature List/0/FirstName,0,로밀마르
 hiddencamp,git,Creature List/0/LastName,0,티레노스키아
 hiddencamp,git,Creature List/0/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-hiddencamp,git,Creature List/0/ItemList/0/LocalizedName,0,바르크스킨 투약
+hiddencamp,git,Creature List/0/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 hiddencamp,git,Creature List/0/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-hiddencamp,git,Creature List/0/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+hiddencamp,git,Creature List/0/ItemList/1/LocalizedName,0,황소의 근력 물약
 hiddencamp,git,Creature List/0/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-hiddencamp,git,Creature List/0/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+hiddencamp,git,Creature List/0/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 hiddencamp,git,Creature List/0/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-hiddencamp,git,Creature List/0/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+hiddencamp,git,Creature List/0/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 hiddencamp,git,Creature List/0/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 hiddencamp,git,Creature List/0/ItemList/4/LocalizedName,0,마법 같은 능력
 hiddencamp,git,Creature List/0/ItemList/4/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -2922,49 +2922,49 @@ hiddencamp,git,Creature List/0/ItemList/5/LocalizedName,0,칼 + 1
 hiddencamp,git,Creature List/0/ItemList/5/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 hiddencamp,git,Creature List/0/ItemList/6/LocalizedName,0,장작품 롱스word
 hiddencamp,git,Creature List/0/ItemList/6/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
-hiddencamp,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,가죽 장갑 + 3
-hiddencamp,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만, 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 레지온 갑옷과 같은 아이템은 때때로 그들의 관여가 의심되는 사건에서 복구되었습니다."
-hiddencamp,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+hiddencamp,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,가죽 갑옷+3
+hiddencamp,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 군단 갑옷과 같은 아이템은 때때로 이들의 관여가 의심되는 사건에서 복구되어 왔지만 길드 리더는 결코 소유권을 제한하거나 부인하지 않았습니다."
+hiddencamp,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 hiddencamp,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 hiddencamp,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,마법 저항 16
-hiddencamp,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,독성 발트
+hiddencamp,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,독 쇠뇌화살
 hiddencamp,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 hiddencamp,git,Creature List/1/FirstName,0,가리오
 hiddencamp,git,Creature List/1/LastName,0,위프탈린
 hiddencamp,git,Creature List/1/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 hiddencamp,git,Creature List/1/ItemList/0/LocalizedName,0,Drow 체인메일
 hiddencamp,git,Creature List/1/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-hiddencamp,git,Creature List/1/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+hiddencamp,git,Creature List/1/ItemList/1/LocalizedName,0,경쇠뇌 +1
 hiddencamp,git,Creature List/1/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-hiddencamp,git,Creature List/1/ItemList/2/LocalizedName,0,바르크스킨 투약
+hiddencamp,git,Creature List/1/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 hiddencamp,git,Creature List/1/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-hiddencamp,git,Creature List/1/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+hiddencamp,git,Creature List/1/ItemList/3/LocalizedName,0,황소의 근력 물약
 hiddencamp,git,Creature List/1/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-hiddencamp,git,Creature List/1/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+hiddencamp,git,Creature List/1/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 hiddencamp,git,Creature List/1/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-hiddencamp,git,Creature List/1/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+hiddencamp,git,Creature List/1/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 hiddencamp,git,Creature List/1/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 hiddencamp,git,Creature List/1/ItemList/6/LocalizedName,0,마법 같은 능력
 hiddencamp,git,Creature List/1/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
 hiddencamp,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 hiddencamp,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 hiddencamp,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,마법 저항 16
-hiddencamp,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,독성 발트
+hiddencamp,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,독 쇠뇌화살
 hiddencamp,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 hiddencamp,git,Creature List/2/FirstName,0,늦은 시간
 hiddencamp,git,Creature List/2/LastName,0,마'페인
 hiddencamp,git,Creature List/2/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 hiddencamp,git,Creature List/2/ItemList/0/LocalizedName,0,Drow 체인메일
 hiddencamp,git,Creature List/2/ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-hiddencamp,git,Creature List/2/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+hiddencamp,git,Creature List/2/ItemList/1/LocalizedName,0,경쇠뇌 +1
 hiddencamp,git,Creature List/2/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-hiddencamp,git,Creature List/2/ItemList/2/LocalizedName,0,바르크스킨 투약
+hiddencamp,git,Creature List/2/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 hiddencamp,git,Creature List/2/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-hiddencamp,git,Creature List/2/ItemList/3/LocalizedName,0,황새 의 힘 의 약
+hiddencamp,git,Creature List/2/ItemList/3/LocalizedName,0,황소의 근력 물약
 hiddencamp,git,Creature List/2/ItemList/3/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-hiddencamp,git,Creature List/2/ItemList/4/LocalizedName,0,중요 한 상처 를 치료 하는 약
+hiddencamp,git,Creature List/2/ItemList/4/LocalizedName,0,치명적인 상처 치료의 물약
 hiddencamp,git,Creature List/2/ItemList/4/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-hiddencamp,git,Creature List/2/ItemList/5/LocalizedName,0,중소 한 상처 를 치료 하는 약
+hiddencamp,git,Creature List/2/ItemList/5/LocalizedName,0,일반 상처 치료의 물약
 hiddencamp,git,Creature List/2/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 hiddencamp,git,Creature List/2/ItemList/6/LocalizedName,0,마법 같은 능력
 hiddencamp,git,Creature List/2/ItemList/6/Description,0,이것은 하루에 한 번 어둠의 지구를 만드는 마법 같은 능력입니다.
@@ -2973,26 +2973,26 @@ hiddencamp,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,드로우 무�
 hiddencamp,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,칼 + 1
 hiddencamp,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 hiddencamp,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,마법 저항 16
-hiddencamp,git,Creature List/2/Equip_ItemList/4/LocalizedName,0,독성 발트
+hiddencamp,git,Creature List/2/Equip_ItemList/4/LocalizedName,0,독 쇠뇌화살
 hiddencamp,git,Creature List/2/Equip_ItemList/4/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 hiddencamp,git,Door List/0/LocName,0,숲에 숨겨진 캠프
 hiddencamp,git,SoundList/1/LocName,0,큰 폭포
 hiddencamp,git,StoreList/0/LocName,0,가리온 트레이더
-hiddencamp,git,StoreList/0/StoreList/0/ItemList/1/LocalizedName,0,체인 셔츠 +1
+hiddencamp,git,StoreList/0/StoreList/0/ItemList/1/LocalizedName,0,사슬 상의 +1
 hiddencamp,git,StoreList/0/StoreList/0/ItemList/1/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 hiddencamp,git,StoreList/0/StoreList/0/ItemList/2/LocalizedName,0,Drow 체인메일
 hiddencamp,git,StoreList/0/StoreList/0/ItemList/2/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-hiddencamp,git,StoreList/0/StoreList/0/ItemList/3/LocalizedName,0,속도의 체인메일
+hiddencamp,git,StoreList/0/StoreList/0/ItemList/3/LocalizedName,0,속도의 사슬갑옷
 hiddencamp,git,StoreList/0/StoreList/0/ItemList/3/DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳건히 믿었고, 그는 그의 체인메일 오브 스피드의 도움으로 수십 번의 전투에서 그것을 증명했습니다. 비행의 예술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사자의 순위에 결코 멀리 도달하지 못했습니다."
-hiddencamp,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,루비 크로스보
+hiddencamp,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,루비 쇠뇌
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,"이 보석 물품의 첫 번째 예는 기념비적인 장식용으로 만들어졌으며, 사용이 의도되지 않았습니다. 그러나 실험은 무기 건설에 사용되는 이상한 루비에서 에너지를 방출함으로써 목표물에 큰 공포를 심어주었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌습니다. 그리고 그 이후 무기도 여러 번 복제되었습니다."
-hiddencamp,git,StoreList/0/StoreList/1/ItemList/1/LocalizedName,0,라이트 크로스보 +1
+hiddencamp,git,StoreList/0/StoreList/1/ItemList/1/LocalizedName,0,경쇠뇌 +1
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-hiddencamp,git,StoreList/0/StoreList/1/ItemList/2/LocalizedName,0,엘프 궁전 Bow
+hiddencamp,git,StoreList/0/StoreList/1/ItemList/2/LocalizedName,0,엘프 궁정 활
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/2/DescIdentified,0,"이 이브 활은 전쟁 의 무기 보다 더 예술 작품 이다. 화려한 조각 은 청료 된 나무 위 에 춤추고 있으며, 활줄 은 금 으로 빛나고 있으며, 그림 을 할 때 거의 노래 한다. 한 번 에 엘프 공예 의 독특하고 독창적 인 예 를 생각 한 이 이론 은, 학자들이 드란너 신화 의 유적 들 에서 반 12 개의 동일 한 활 을 검증 할 때 폐기 되었다."
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/4/LocalizedName,0,장작품 롱스word
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/4/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
-hiddencamp,git,StoreList/0/StoreList/1/ItemList/7/LocalizedName,0,하느님 의 분노
+hiddencamp,git,StoreList/0/StoreList/1/ItemList/7/LocalizedName,0,신성한 격분
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/7/DescIdentified,0,"""...밤에 불의 비가 내렸고, 돌의 눈진처럼 무너져 내렸다. 광장에는 크레이터들이 있었고, 내부에는 별들이 있었고, 그로부터 우리는 복수를 만들어서 우리 조상들의 땅을 되찾았다"". Kaa Mihnd의 글은 가난한 어촌이 그들의 부유한 지배자에게 도전하기 위해 무기를 어떻게 소유할 수 있는지 설명합니다."
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/8/LocalizedName,0,D'Alginur
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/8/Description,0,"이 칼은 완벽하게 균형 잡혀 있고, 선명하게 걸작으로 인식될 수 있습니다."
@@ -3000,81 +3000,81 @@ hiddencamp,git,StoreList/0/StoreList/1/ItemList/8/DescIdentified,0,"델바스 (D
 hiddencamp,git,StoreList/0/StoreList/1/ItemList/9/LocalizedName,0,방어 의 검
 hiddencamp,git,StoreList/1/LocName,0,로밀마르 트레이더
 hiddencamp,git,StoreList/2/LocName,0,늦은 거래자
-hiddencamp,git,TriggerList/0/LocalizedName,0,새로운 일반제
+hiddencamp,git,TriggerList/0/LocalizedName,0,새 일반
 lookingdownthehi,git,Creature List/0/FirstName,0,경호 의 기사
 lookingdownthehi,git,Creature List/0/ItemList/0/LocalizedName,0,헬미트 기념식 갑옷
-lookingdownthehi,git,Creature List/0/ItemList/0/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
+lookingdownthehi,git,Creature List/0/ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 lookingdownthehi,git,Creature List/0/ItemList/1/LocalizedName,0,기사 방패
 lookingdownthehi,git,Creature List/0/ItemList/1/DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
-lookingdownthehi,git,Creature List/0/ItemList/2/LocalizedName,0,법 제정자
+lookingdownthehi,git,Creature List/0/ItemList/2/LocalizedName,0,입법자
 lookingdownthehi,git,Creature List/0/ItemList/2/DescIdentified,0,"혼란스럽거나 도덕적으로 의심받는 자의 재앙, 입법자 칼은 오직 한 가지 목적: 그 권위가 도전되거나 의문을 제기되는 곳마다 법의 지배를 집행하는 것입니다. ""법""의 개념이 ""정의""의 개념과 일치하는지 여부는 크게 무관합니다. 이러한 무기 소유자들은 종종 세계를 매우 양극화된 방식으로 바라보고 있습니다. 옳고 그름이 있으며 다른 세부 사항은 문제를 혼란스럽게 만듭니다."
 lookingdownthehi,git,Creature List/0/ItemList/3/LocalizedName,0,징계 의 헬멧
 lookingdownthehi,git,Creature List/0/ItemList/3/Description,0,이 비정상적인 헬멧은 완전히 평범해 보입니다.
-lookingdownthehi,git,Creature List/0/ItemList/3/DescIdentified,0,"이 헬멧은 실제 본성이 인식될 때까지 평범해 보인다. 화려한 은과 가벼운 강철으로 만든 헬멧은 다이아몬드, 루비, 화염오팔, 오팔로 구성되어 있으며, 각각 크기가 크고 매혹적이다. 밝은 빛에 부딪히면 헬멧은 왕관 모양의 보석 끝의 톱니에서 모든 방향으로 반사선을 발사한다. 보석은 착용자에게 다양한 강력한 주문을 던질 수 있게 해준다. 이러한 사용은 각각 헬멧의 힘을 소모한다. 이러한 특정 능력 외에도 헬멧은 상당한 양의 화재 피해를 흡수할 수 있습니다. 착용자는 또한 불꽃 같은 효과를 생산하기 위해 헬멧의 빛을 집중시킬 수 있습니다. 여전히 존재하는 몇 가지 그러한 헬멧은 랜드더 게이트에서 큰 목회자로부터 다시 추적되었습니다. 에르데 힐즈의 동사들 중 한 명도 볼드리온의 동사들과 함께 북쪽을 돌아가는 것을 본 적이 없다."
+lookingdownthehi,git,Creature List/0/ItemList/3/DescIdentified,0,"이 헬멧은 실제 본성을 인식할 때까지 평범해 보인다. 화려한 은과 가벼운 철로 만든 광휘의 투구에는 다이아몬드, 루비나 불오팔 및 오발이 있으며 각각 크기가 크고 매혹적입니다. 밝은 빛에 부딪히면 휠체어는 왕자 모양의 보석 끝으로 모든 방향으로 반사선을 발송합니다. 주얼지는 착용자에게 다양한 강력한 주문을 던질 수 있습니다. 이러한 각각의 사용은 지휘봉에서 약간의 힘을 소모한다. 이들 특정 능력 외에도 선두는 상당한 양의 불을 흡수 할 수 있다. 운전자는 또한 손상의 빛을 집중시켜 플라임 타격 효과와 유사한 효과를 낼 것입니다. 아직까지 존재한다고 알려진 몇 가지 그 Helm들은 여전히 볼더스 게이트 (Baldur's Gate) 에서 온 큰 성직자에 거슬러 올라간다."
 lookingdownthehi,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,헬미트 기념식 갑옷
-lookingdownthehi,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
-lookingdownthehi,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,불의 발자국
+lookingdownthehi,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
+lookingdownthehi,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,화염의 쇠뇌화살
 lookingdownthehi,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
 lookingdownthehi,git,Creature List/1/FirstName,0,경호 의 기사
 lookingdownthehi,git,Creature List/1/ItemList/0/LocalizedName,0,헬미트 기념식 갑옷
-lookingdownthehi,git,Creature List/1/ItemList/0/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
+lookingdownthehi,git,Creature List/1/ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 lookingdownthehi,git,Creature List/1/ItemList/1/LocalizedName,0,기사 방패
 lookingdownthehi,git,Creature List/1/ItemList/1/DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
-lookingdownthehi,git,Creature List/1/ItemList/2/LocalizedName,0,법 제정자
+lookingdownthehi,git,Creature List/1/ItemList/2/LocalizedName,0,입법자
 lookingdownthehi,git,Creature List/1/ItemList/2/DescIdentified,0,"혼란스럽거나 도덕적으로 의심받는 자의 재앙, 입법자 칼은 오직 한 가지 목적: 그 권위가 도전되거나 의문을 제기되는 곳마다 법의 지배를 집행하는 것입니다. ""법""의 개념이 ""정의""의 개념과 일치하는지 여부는 크게 무관합니다. 이러한 무기 소유자들은 종종 세계를 매우 양극화된 방식으로 바라보고 있습니다. 옳고 그름이 있으며 다른 세부 사항은 문제를 혼란스럽게 만듭니다."
 lookingdownthehi,git,Creature List/1/ItemList/3/LocalizedName,0,징계 의 헬멧
 lookingdownthehi,git,Creature List/1/ItemList/3/Description,0,이 비정상적인 헬멧은 완전히 평범해 보입니다.
-lookingdownthehi,git,Creature List/1/ItemList/3/DescIdentified,0,"이 헬멧은 실제 본성이 인식될 때까지 평범해 보인다. 화려한 은과 가벼운 강철으로 만든 헬멧은 다이아몬드, 루비, 화염오팔, 오팔로 구성되어 있으며, 각각 크기가 크고 매혹적이다. 밝은 빛에 부딪히면 헬멧은 왕관 모양의 보석 끝의 톱니에서 모든 방향으로 반사선을 발사한다. 보석은 착용자에게 다양한 강력한 주문을 던질 수 있게 해준다. 이러한 사용은 각각 헬멧의 힘을 소모한다. 이러한 특정 능력 외에도 헬멧은 상당한 양의 화재 피해를 흡수할 수 있습니다. 착용자는 또한 불꽃 같은 효과를 생산하기 위해 헬멧의 빛을 집중시킬 수 있습니다. 여전히 존재하는 몇 가지 그러한 헬멧은 랜드더 게이트에서 큰 목회자로부터 다시 추적되었습니다. 에르데 힐즈의 동사들 중 한 명도 볼드리온의 동사들과 함께 북쪽을 돌아가는 것을 본 적이 없다."
+lookingdownthehi,git,Creature List/1/ItemList/3/DescIdentified,0,"이 헬멧은 실제 본성을 인식할 때까지 평범해 보인다. 화려한 은과 가벼운 철로 만든 광휘의 투구에는 다이아몬드, 루비나 불오팔 및 오발이 있으며 각각 크기가 크고 매혹적입니다. 밝은 빛에 부딪히면 휠체어는 왕자 모양의 보석 끝으로 모든 방향으로 반사선을 발송합니다. 주얼지는 착용자에게 다양한 강력한 주문을 던질 수 있습니다. 이러한 각각의 사용은 지휘봉에서 약간의 힘을 소모한다. 이들 특정 능력 외에도 선두는 상당한 양의 불을 흡수 할 수 있다. 운전자는 또한 손상의 빛을 집중시켜 플라임 타격 효과와 유사한 효과를 낼 것입니다. 아직까지 존재한다고 알려진 몇 가지 그 Helm들은 여전히 볼더스 게이트 (Baldur's Gate) 에서 온 큰 성직자에 거슬러 올라간다."
 lookingdownthehi,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,헬미트 기념식 갑옷
-lookingdownthehi,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
-lookingdownthehi,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,불의 발자국
+lookingdownthehi,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
+lookingdownthehi,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,화염의 쇠뇌화살
 lookingdownthehi,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
 lookingdownthehi,git,Creature List/2/FirstName,0,바론 프레드리크
 lookingdownthehi,git,Creature List/2/LastName,0,모닝시드
 lookingdownthehi,git,Creature List/2/ItemList/0/LocalizedName,0,기사 방패
 lookingdownthehi,git,Creature List/2/ItemList/0/DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
 lookingdownthehi,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,바론의 기념비적인 갑옷
-lookingdownthehi,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
-lookingdownthehi,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,불의 발자국
+lookingdownthehi,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
+lookingdownthehi,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,화염의 쇠뇌화살
 lookingdownthehi,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
 lookingdownthehi,git,Creature List/3/FirstName,0,엘프 아커
-lookingdownthehi,git,Creature List/3/ItemList/0/LocalizedName,0,바르크스킨 투약
+lookingdownthehi,git,Creature List/3/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 lookingdownthehi,git,Creature List/3/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-lookingdownthehi,git,Creature List/3/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+lookingdownthehi,git,Creature List/3/ItemList/1/LocalizedName,0,황소의 근력 물약
 lookingdownthehi,git,Creature List/3/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-lookingdownthehi,git,Creature List/3/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+lookingdownthehi,git,Creature List/3/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 lookingdownthehi,git,Creature List/3/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-lookingdownthehi,git,Creature List/3/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+lookingdownthehi,git,Creature List/3/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 lookingdownthehi,git,Creature List/3/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 lookingdownthehi,git,Creature List/4/FirstName,0,엘프 아커
-lookingdownthehi,git,Creature List/4/ItemList/0/LocalizedName,0,바르크스킨 투약
+lookingdownthehi,git,Creature List/4/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 lookingdownthehi,git,Creature List/4/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-lookingdownthehi,git,Creature List/4/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+lookingdownthehi,git,Creature List/4/ItemList/1/LocalizedName,0,황소의 근력 물약
 lookingdownthehi,git,Creature List/4/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-lookingdownthehi,git,Creature List/4/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+lookingdownthehi,git,Creature List/4/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 lookingdownthehi,git,Creature List/4/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-lookingdownthehi,git,Creature List/4/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+lookingdownthehi,git,Creature List/4/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 lookingdownthehi,git,Creature List/4/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 lookingdownthehi,git,Creature List/5/FirstName,0,엘프 아커
-lookingdownthehi,git,Creature List/5/ItemList/0/LocalizedName,0,바르크스킨 투약
+lookingdownthehi,git,Creature List/5/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 lookingdownthehi,git,Creature List/5/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-lookingdownthehi,git,Creature List/5/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+lookingdownthehi,git,Creature List/5/ItemList/1/LocalizedName,0,황소의 근력 물약
 lookingdownthehi,git,Creature List/5/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-lookingdownthehi,git,Creature List/5/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+lookingdownthehi,git,Creature List/5/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 lookingdownthehi,git,Creature List/5/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-lookingdownthehi,git,Creature List/5/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+lookingdownthehi,git,Creature List/5/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 lookingdownthehi,git,Creature List/5/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
 lookingdownthehi,git,Creature List/6/FirstName,0,엘프 아커
-lookingdownthehi,git,Creature List/6/ItemList/0/LocalizedName,0,바르크스킨 투약
+lookingdownthehi,git,Creature List/6/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 lookingdownthehi,git,Creature List/6/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-lookingdownthehi,git,Creature List/6/ItemList/1/LocalizedName,0,황새 의 힘 의 약
+lookingdownthehi,git,Creature List/6/ItemList/1/LocalizedName,0,황소의 근력 물약
 lookingdownthehi,git,Creature List/6/ItemList/1/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-lookingdownthehi,git,Creature List/6/ItemList/2/LocalizedName,0,중요 한 상처 를 치료 하는 약
+lookingdownthehi,git,Creature List/6/ItemList/2/LocalizedName,0,치명적인 상처 치료의 물약
 lookingdownthehi,git,Creature List/6/ItemList/2/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-lookingdownthehi,git,Creature List/6/ItemList/3/LocalizedName,0,중소 한 상처 를 치료 하는 약
+lookingdownthehi,git,Creature List/6/ItemList/3/LocalizedName,0,일반 상처 치료의 물약
 lookingdownthehi,git,Creature List/6/ItemList/3/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
-lookingdownthehi,git,TriggerList/0/LocalizedName,0,새로운 일반제
-lookingdownthehi,git,TriggerList/1/LocalizedName,0,새로운 지역 전환
+lookingdownthehi,git,TriggerList/0/LocalizedName,0,새 일반
+lookingdownthehi,git,TriggerList/1/LocalizedName,0,뉴 에이리어 트랜지션
 lookingdownthehi,git,WaypointList/0/LocalizedName,0,wp_cutscene_1
 lookingdownthehi,git,Placeable List/0/LocName,0,TN_Bramble_Lrg_Unwalkable
 lookingdownthehi,git,Placeable List/1/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -3149,11 +3149,11 @@ thepass,git,SoundList/0/LocName,0,늑대 울음
 thepass,git,TriggerList/0/LocalizedName,0,파스스토루인
 thepass,git,TriggerList/1/LocalizedName,0,파스토텀
 thepass,git,TriggerList/2/LocalizedName,0,파스토힐
-thepass,git,TriggerList/3/LocalizedName,0,새로운 일반제
+thepass,git,TriggerList/3/LocalizedName,0,새 일반
 thepass,git,WaypointList/0/MapNote,0,평야
-thepass,git,WaypointList/1/MapNote,0,훼손
+thepass,git,WaypointList/1/MapNote,0,폐허
 thepass,git,WaypointList/2/LocalizedName,0,WP_passtohills
-thepass,git,WaypointList/2/MapNote,0,클리프
+thepass,git,WaypointList/2/MapNote,0,절벽
 thepass,git,Placeable List/0/LocName,0,TN_Bramble_Lrg_Unwalkable
 thepass,git,Placeable List/1/LocName,0,TN_Bramble_Lrg_Unwalkable
 thepass,git,Placeable List/2/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -3408,7 +3408,7 @@ thewatchtower,git,Encounter List/0/LocalizedName,0,화살꾼
 thewatchtower,git,TriggerList/0/LocalizedName,0,숲의 파괴
 thewatchtower,git,TriggerList/1/LocalizedName,0,웨스턴클리프의 훼손
 thewatchtower,git,TriggerList/2/LocalizedName,0,파손
-thewatchtower,git,TriggerList/3/LocalizedName,0,새로운 일반제
+thewatchtower,git,TriggerList/3/LocalizedName,0,새 일반
 thewatchtower,git,WaypointList/0/MapNote,0,듀아탐퍼 강
 thewatchtower,git,WaypointList/1/MapNote,0,숲 속 깊은 곳
 thewatchtower,git,WaypointList/2/MapNote,0,통과
@@ -3590,14 +3590,14 @@ westernentrance,git,Door List/0/LocName,0,문
 westernentrance,git,Door List/0/Description,0,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
 westernentrance,git,Door List/1/LocName,0,문
 westernentrance,git,Door List/1/Description,0,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-westernentrance,git,TriggerList/0/LocalizedName,0,작은 함정
+westernentrance,git,TriggerList/0/LocalizedName,0,약한 덩굴 함정
 westernentrance,git,WaypointList/0/LocalizedName,0,wp_pit_up
 westernentrance,git,Placeable List/0/LocName,0,TN_Ivy_H_Red
 westernentrance,git,Placeable List/1/LocName,0,TN_Ivy_H_Red
 westernentrance,git,Placeable List/2/LocName,0,TN_Ivy_C_Red
 westernentrance,git,Placeable List/3/LocName,0,더러스파일
 westernentrance,git,Placeable List/3/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
-youareleavingthe,git,TriggerList/0/LocalizedName,0,새로운 일반제
+youareleavingthe,git,TriggerList/0/LocalizedName,0,새 일반
 youareleavingthe,git,WaypointList/0/LocalizedName,0,덫_기둥
 module,ifo,Mod_Name,0,AHTD 5 - Acererak
 module,ifo,Mod_Description,0,5장 - Acererak 신화 탐구에서 Thriandir를 따르십시오. 이 모듈은 레벨 15 - 16 캐릭터들을 위해 설계되었습니다.
@@ -3628,7 +3628,7 @@ acererak2,utc,FirstName,0,Acererak2
 alkranal003,utc,FirstName,0,알크라날
 alkranal003,utc,LastName,0,'저'ein
 alkranal003,utc,Description,0,알크라날 주니어인 (Al'kranal Jr'ein) 는 멜레 마가테레의 최신 직업의 가장 장식된 날카로운 슈팅 선수 중 한 명이다. 그는 그의 킨스 감각과 칼에 대한 재능으로 잘 알려져 있습니다.
-areana_s,utc,FirstName,0,아레나
+areana_s,utc,FirstName,0,아라네아
 areana_s,utc,Description,0,"마법의 힘을 가진 지능적이고 모양을 변화시키는 거미들은, 아라냐는 물리적인 전투를 피하고 그 대신 그들의 웹과 주문에 의존하는 것을 선호합니다."
 ashimar001,utc,FirstName,0,아시마르
 ashimar001,utc,LastName,0,승려
@@ -3636,11 +3636,11 @@ avataroflolth,utc,FirstName,0,롯의 아바타르
 avatarofmielikki,utc,FirstName,0,미엘리키의 아바타르
 avatarofvhaeraun,utc,FirstName,0,바에런의 아바타르
 bandit006,utc,FirstName,0,인간 마법사
-beardire001,utc,FirstName,0,디어 베어
+beardire001,utc,FirstName,0,흉포한 곰
 beardire001,utc,Description,0,디어 베어 (Dire Bears) 는 보통의 사촌들의 더 크고 악성적인 버전이다. 그들은 종종 강력한 레인저나 드루이드의 동반자로 발견된다.
 beastxvim001,utc,FirstName,0,고라타모르의 개
 beastxvim001,utc,Description,0,악의 신인 이야흐투 엑스비먼이 만져버린 이 반려견은 끔찍한 변신을 겪으며 그의 지옥의 의지의 요원이 되었습니다.
-beholder,utc,FirstName,0,관찰자
+beholder,utc,FirstName,0,주시자
 beholder,utc,Description,0,"그 사람 들 은 외딴 곳 과 황폐 한 지역 에서 살고 있는 잔인 한 생명체 들 이다. 그 들 은 다른 인종 에 대해 동정심 을 갖지 않으며, 보통 그 들 을 본 바로 에 죽인다."
 calulith,utc,FirstName,0,칼루리트
 calulith,utc,LastName,0,테레쉬
@@ -3653,8 +3653,8 @@ doomkghtboss001,utc,FirstName,0,불사한 네덜란드 전쟁 마스터
 doomkghtboss001,utc,Description,0,덤의 기사들은 그들이 지배하는 모든 나라의 재앙입니다.
 dras001,utc,FirstName,0,Dras
 dras001,utc,LastName,0,마을사람
-drider,utc,FirstName,0,마이너
-drider001,utc,FirstName,0,마이너
+drider,utc,FirstName,0,드라이더
+drider001,utc,FirstName,0,드라이더
 drow021,utc,FirstName,0,드로우 민병대
 drow021,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 drow022,utc,FirstName,0,드로우 민병대
@@ -3669,13 +3669,13 @@ drow028,utc,FirstName,0,드로우 암살자
 drow028,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 drow23,utc,FirstName,0,드로우 민병대
 drow23,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowfight005,utc,FirstName,0,무사 드로 미리샤
+drowfight005,utc,FirstName,0,죽은 드로우 민병대
 drowfight005,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 drowfight017,utc,FirstName,0,드로우 보병
 drowfight017,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 drowrogue010,utc,FirstName,0,드로우 암살자
 drowrogue010,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowrogue021,utc,FirstName,0,유독 암살자
+drowrogue021,utc,FirstName,0,죽은 드로우 암살자
 drowrogue021,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 drowsoldier,utc,FirstName,0,드로 군인
 drowsoldier,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
@@ -3694,9 +3694,9 @@ drowsoldier005,utc,LastName,0,티레노스키아
 drowsoldier005,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 dvaern001,utc,FirstName,0,D'vaernon
 dvaern001,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-earthhuge001,utc,FirstName,0,거대한 지구 원자
+earthhuge001,utc,FirstName,0,거대한 대지의 원소 정령
 earthhuge001,utc,Description,0,지구 에레멘탈들은 엄청나게 강하고 견고하며 거의 모든 것을 잔해로 부딪힐 수 있습니다. 그들은 종종 큰 도시를 포위하는 군대에 의해 소집됩니다.
-earthhuge002,utc,FirstName,0,거대한 지구 원자
+earthhuge002,utc,FirstName,0,거대한 대지의 원소 정령
 earthhuge002,utc,Description,0,지구 에레멘탈들은 엄청나게 강하고 견고하며 거의 모든 것을 잔해로 부딪힐 수 있습니다. 그들은 종종 큰 도시를 포위하는 군대에 의해 소집됩니다.
 elthales001,utc,FirstName,0,엘탈레스
 elthales001,utc,LastName,0,시스'바릴로
@@ -3704,15 +3704,15 @@ elvenarcher,utc,FirstName,0,엘프 아커
 elvenarcher001,utc,FirstName,0,엘프 아커
 elvenarcher003,utc,FirstName,0,엘프 아커
 elvenarcher004,utc,FirstName,0,엘프 아커
-gobchiefa001,utc,FirstName,0,고블린 엘리트
+gobchiefa001,utc,FirstName,0,고블린 정예
 gobchiefa001,utc,Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
 hellhound001,utc,FirstName,0,고라타모르의 개
-hellhound001,utc,Description,0,지옥 개들은 공격적이고 불에 숨쉬는 개들이며 악주들을 섬기기 위해 애비스 깊은 곳에서 원자물계로 데려온 개들입니다.
+hellhound001,utc,Description,0,"알도 (지옥 사냥개) 는 공격적인, 불에 숨쉬는 개들이며 악주들을 섬기기 위해 애비시스의 깊숙한 곳에서 원자물 평면으로 끌려온다."
 humanmerc002,utc,FirstName,0,인간 검수
 humanmerc003,utc,FirstName,0,인간 쏘기
 humanmerc004,utc,FirstName,0,마을 경비
 humanmerc005,utc,FirstName,0,레인저
-humanmerc006,utc,FirstName,0,스미스
+humanmerc006,utc,FirstName,0,대장장이
 humanmerc007,utc,FirstName,0,경비대장
 humanmerc008,utc,FirstName,0,웰빙
 humanmerc008,utc,LastName,0,피터
@@ -3740,7 +3740,7 @@ neladdrider,utc,FirstName,0,휘어진 나라드
 neladdrider,utc,Description,0,한 때 자랑스럽고 강력했던 네라드 티레린은 왜곡하고 끔찍한 존재로 변했습니다. 반은 거미이고 반은 익사했습니다. 분명히 그는 믿을 수 없는 고통을 겪고 있습니다. 그리고 그의 눈은 미친듯이 불고 있습니다. 그의 얼굴에 한눈에 볼 때 그는 모든 것에 대한 끝없는 증오로 분노하고 있습니다.
 netheresemummy,utc,FirstName,0,네테레스 마미
 npcstatue,utc,FirstName,0,NPC 동상은
-oldwarb001,utc,FirstName,0,해조리 군인
+oldwarb001,utc,FirstName,0,도마뱀인 전사
 oldwarb001,utc,Description,0,"원시적이고 야생적인 이 파충류 인형물들은 자극을 받으면 매우 위험할 수 있습니다. 그들은 격렬하게 영토를 차지하고, 그들이 거주하는 습지를 보호하기 위해 연합합니다."
 ormus001,utc,FirstName,0,오르무스
 ormus001,utc,LastName,0,지혜로운
@@ -3759,28 +3759,28 @@ spectre002,utc,FirstName,0,엘프 스펙터
 spectre002,utc,Description,0,"유령들은 무신 없는 죽은 존재로 종종 귀신으로 착각합니다. 그들은 죽은 곳을 괴롭히고, 그들의 감각을 유지하지만 지금은 모든 살아있는 것을 미워합니다."
 statue,utc,FirstName,0,왜성상
 statue001,utc,FirstName,0,인간 동상은
-statue002,utc,FirstName,0,엘프 동상은
+statue002,utc,FirstName,0,엘프제 조각상
 statue003,utc,FirstName,0,스비르프네블린 동상
 summonedminion,utc,FirstName,0,소환된 기니온
-svirfneblin,utc,FirstName,0,스비르프네블린
-svirfneblin,utc,LastName,0,전투기
+svirfneblin,utc,FirstName,0,스버프네블린
+svirfneblin,utc,LastName,0,전사
 svirfneblin,utc,Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
-svirfneblin001,utc,FirstName,0,스비르프네블린
+svirfneblin001,utc,FirstName,0,스버프네블린
 svirfneblin001,utc,LastName,0,전쟁 지휘관
 svirfneblin001,utc,Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
 sywyn,utc,FirstName,0,시윈
 sywyn,utc,LastName,0,스텔스
 tarnes,utc,FirstName,0,타르네
 tarnes,utc,LastName,0,타인
-tb_goblina,utc,FirstName,0,괴물
+tb_goblina,utc,FirstName,0,고블린
 tb_goblina,utc,Description,0,"많은 모험가들은 고블린을 더 이상 '벨리스티거'처럼 볼 수 없습니다. 그러나 사람이 그것을 발견하지 못하면, 그들은 급속히 증가할 수 있으며, 따라서 문명화된 지역은 엄청난 위협으로 변할 수 있습니다."
-test_crt_1,utc,FirstName,0,거
+test_crt_1,utc,FirstName,0,쿠거
 test_crt_1,utc,Description,0,크고 강력한 야생 고양이인 쿠가르는 산악 지역에 살고 있습니다. 종종 황색이고 표지되지 않은 털로 식별됩니다.
-test_crt_2,utc,FirstName,0,갈색 곰
+test_crt_2,utc,FirstName,0,불곰
 test_crt_2,utc,Description,0,작은 검은 곰보다 더 공격적이고 육식적인 갈색 곰은 일반적으로 매우 악성적이고 영토적인 것으로 간주됩니다.
-test_crt_3,utc,FirstName,0,말라 팬더
+test_crt_3,utc,FirstName,0,말라의 표범
 test_crt_3,utc,Description,0,"야생 사냥의 신에게 성스러운 말라 동물은 먹이를 죽이기 위해 많은 노력을 기울인다. 실제 동물과 달리 말라 동물은 사냥과 학살을 위해만 존재한다. 사망하면 동물은 사냥이 잘 진행되면 보상이 되고 재탄생되는 그의 집에 다시 신에게 합류합니다. 말라 동물들은 모두 콧수염, 다리, 어깨에 붉은 흔적로 뿌려있는 빛나는 검은 털을 가지고 있습니다. 붉은 표시는 피를 뿌리면서 남겨진 패턴과 비슷합니다."
-test_crt_4,utc,FirstName,0,디어 베어
+test_crt_4,utc,FirstName,0,흉포한 곰
 test_crt_4,utc,Description,0,디어 베어 (Dire Bears) 는 보통의 사촌들의 더 크고 악성적인 버전이다. 그들은 종종 강력한 레인저나 드루이드의 동반자로 발견된다.
 thriandir004,utc,FirstName,0,삼촌
 thriandir004,utc,LastName,0,티레나
@@ -3792,7 +3792,7 @@ archerspawn,ute,LocalizedName,0,화살꾼
 areana_lair,ute,LocalizedName,0,Areana_Lair
 earth2,ute,LocalizedName,0,지구 2
 elvenspectres,ute,LocalizedName,0,엘프 스펙트럼
-fighters,ute,LocalizedName,0,전투기
+fighters,ute,LocalizedName,0,전사
 gasbeetles,ute,LocalizedName,0,가스 딱정벌레
 hierophant,ute,LocalizedName,0,기어오항
 hulkambush,ute,LocalizedName,0,헐크 함정
@@ -3800,10 +3800,10 @@ humandefenders,ute,LocalizedName,0,인간 옹호자
 mohrgspawn,ute,LocalizedName,0,모르그 스파운
 soldiers,ute,LocalizedName,0,군인
 spiderspawnin,ute,LocalizedName,0,스파이더 스파윈
-summonedearthele,ute,LocalizedName,0,부른 지구 원자
+summonedearthele,ute,LocalizedName,0,소환된 대지의 원소 정령
 undeadall001,ute,LocalizedName,0,무사 스켈
 warcommander,ute,LocalizedName,0,전쟁 지휘관
-aarcl013,uti,LocalizedName,0,체인 셔츠
+aarcl013,uti,LocalizedName,0,사슬 상의
 ability,uti,LocalizedName,0,마법 같은 능력
 ability,uti,Description,0,이것은 하루에 한 번 죽음의 마법으로부터 자신을 보호하는 마법 같은 능력입니다.
 ability001,uti,LocalizedName,0,마법 같은 능력
@@ -3817,29 +3817,29 @@ arhe004,uti,LocalizedName,0,팔린의 헬멧
 arhe004,uti,DescIdentified,0,발린 리븐스톤은 독특한 헬멧으로 잘 알려져 있었습니다.
 aring001,uti,LocalizedName,0,산 저항 반지
 aring001,uti,DescIdentified,0,"가레바르 대담은 평범한 적들로 지쳤을 때, 그는 애비스를 침략하기로 결정했다. 그는 자신의 재산을 모든 형태의 원자적 손해에 대한 증거가 된 반지를 사용했다. 이 유형의 첫 번째 반지. 아무도 반지가 яму의 666 층에서 그를 보호했는지 알지 못합니다. 그의 사람들은 열린 포털에서 반란을 일으켰고 그의 장비 없이 그를 밀어 넣었습니다. 그 이후로 그는 아무도 듣지 않았습니다."
-armhe011,uti,LocalizedName,0,황금 회로
+armhe011,uti,LocalizedName,0,황금 관
 armhe011,uti,DescIdentified,0,"정신 을 공격 하는 생물 들 은 악몽 의 물질 이므로 그것 들 을 보호 하는 물건 들 이 그 들 의 명예 를 훼손 할 수 있다는 것 은 놀라운 일 이 아니다. 예를 들어, 골든 서클트 들 은 그 들 이 처음 땅 아래로 물러나자면, 지성 을 삼는 동물 들 을 먹으며, 그런 생물 을 먹으면, 서클레트를 착용 하지 않고 마음 을 날개 하는 사람 을 낳았다고 주장 하는 것 과 연관 되어 왔다. 물론 이 모든 것 은 유신적 인 타버른 이야기 를 지나지 않는다."
 armhe013,uti,LocalizedName,0,징계 의 헬멧
 armhe013,uti,Description,0,이 비정상적인 헬멧은 완전히 평범해 보입니다.
-armhe013,uti,DescIdentified,0,"이 헬멧은 실제 본성이 인식될 때까지 평범해 보인다. 화려한 은과 가벼운 강철으로 만든 헬멧은 다이아몬드, 루비, 화염오팔, 오팔로 구성되어 있으며, 각각 크기가 크고 매혹적이다. 밝은 빛에 부딪히면 헬멧은 왕관 모양의 보석 끝의 톱니에서 모든 방향으로 반사선을 발사한다. 보석은 착용자에게 다양한 강력한 주문을 던질 수 있게 해준다. 이러한 사용은 각각 헬멧의 힘을 소모한다. 이러한 특정 능력 외에도 헬멧은 상당한 양의 화재 피해를 흡수할 수 있습니다. 착용자는 또한 불꽃 같은 효과를 생산하기 위해 헬멧의 빛을 집중시킬 수 있습니다. 여전히 존재하는 몇 가지 그러한 헬멧은 랜드더 게이트에서 큰 목회자로부터 다시 추적되었습니다. 에르데 힐즈의 동사들 중 한 명도 볼드리온의 동사들과 함께 북쪽을 돌아가는 것을 본 적이 없다."
-armhe014,uti,LocalizedName,0,경호자 헬멧
+armhe013,uti,DescIdentified,0,"이 헬멧은 실제 본성을 인식할 때까지 평범해 보인다. 화려한 은과 가벼운 철로 만든 광휘의 투구에는 다이아몬드, 루비나 불오팔 및 오발이 있으며 각각 크기가 크고 매혹적입니다. 밝은 빛에 부딪히면 휠체어는 왕자 모양의 보석 끝으로 모든 방향으로 반사선을 발송합니다. 주얼지는 착용자에게 다양한 강력한 주문을 던질 수 있습니다. 이러한 각각의 사용은 지휘봉에서 약간의 힘을 소모한다. 이들 특정 능력 외에도 선두는 상당한 양의 불을 흡수 할 수 있다. 운전자는 또한 손상의 빛을 집중시켜 플라임 타격 효과와 유사한 효과를 낼 것입니다. 아직까지 존재한다고 알려진 몇 가지 그 Helm들은 여전히 볼더스 게이트 (Baldur's Gate) 에서 온 큰 성직자에 거슬러 올라간다."
+armhe014,uti,LocalizedName,0,감시자의 투구
 armhe014,uti,DescIdentified,0,"이 마법 의 헤드 피스 는 보호자 신 인 헬름 의 신자 들 이 만든 것 인가, 아니면 그 들 이 그 이름 을 더 편리한 상황 으로 얻었는지는 분명 하지 않습니다. 어떤 상황 이든, 그 들 은 경호자 들 과 경호자 들 에게 매우 소중 히 여긴다. 그 들 은 모두 그 어떤 종류 의 가시적 인 빛 을 낸다. 그리고 많은 사람 들 은 마법 으로 착용 하는 사람 의 감각 을 고르게 한다. 말할 필요 없이, 악당 들 은 그 들 을 착용 하기 시작 해 왔으며, '구스 에게 좋은 것 은 똥구멍 에 좋은 것'이라는 옛 속담 을 증명 한다."
 armhe015,uti,LocalizedName,0,주교의 헬멧
 armhe015,uti,Description,0,이 비정상적인 헬멧은 완전히 평범해 보입니다.
-armhe015,uti,DescIdentified,0,"이 헬멧은 실제 본성이 인식될 때까지 평범해 보인다. 화려한 은과 가벼운 강철으로 만든 헬멧은 다이아몬드, 루비, 화염오팔, 오팔로 구성되어 있으며, 각각 크기가 크고 매혹적이다. 밝은 빛에 부딪히면 헬멧은 왕관 모양의 보석 끝의 톱니에서 모든 방향으로 반사선을 발사한다. 보석은 착용자에게 다양한 강력한 주문을 던질 수 있게 해준다. 이러한 사용은 각각 헬멧의 힘을 소모한다. 이러한 특정 능력 외에도 헬멧은 상당한 양의 화재 피해를 흡수할 수 있습니다. 착용자는 또한 불꽃 같은 효과를 생산하기 위해 헬멧의 빛을 집중시킬 수 있습니다. 여전히 존재하는 몇 가지 그러한 헬멧은 랜드더 게이트에서 큰 목회자로부터 다시 추적되었습니다. 에르데 힐즈의 동사들 중 한 명도 볼드리온의 동사들과 함께 북쪽을 돌아가는 것을 본 적이 없다."
+armhe015,uti,DescIdentified,0,"이 헬멧은 실제 본성을 인식할 때까지 평범해 보인다. 화려한 은과 가벼운 철로 만든 광휘의 투구에는 다이아몬드, 루비나 불오팔 및 오발이 있으며 각각 크기가 크고 매혹적입니다. 밝은 빛에 부딪히면 휠체어는 왕자 모양의 보석 끝으로 모든 방향으로 반사선을 발송합니다. 주얼지는 착용자에게 다양한 강력한 주문을 던질 수 있습니다. 이러한 각각의 사용은 지휘봉에서 약간의 힘을 소모한다. 이들 특정 능력 외에도 선두는 상당한 양의 불을 흡수 할 수 있다. 운전자는 또한 손상의 빛을 집중시켜 플라임 타격 효과와 유사한 효과를 낼 것입니다. 아직까지 존재한다고 알려진 몇 가지 그 Helm들은 여전히 볼더스 게이트 (Baldur's Gate) 에서 온 큰 성직자에 거슬러 올라간다."
 armhe016,uti,LocalizedName,0,보나르의 헬멧
 armhe016,uti,Description,0,이 비정상적인 헬멧은 완전히 평범해 보입니다.
-armhe016,uti,DescIdentified,0,"이 헬멧은 실제 본성이 인식될 때까지 평범해 보인다. 화려한 은과 가벼운 강철으로 만든 헬멧은 다이아몬드, 루비, 화염오팔, 오팔로 구성되어 있으며, 각각 크기가 크고 매혹적이다. 밝은 빛에 부딪히면 헬멧은 왕관 모양의 보석 끝의 톱니에서 모든 방향으로 반사선을 발사한다. 보석은 착용자에게 다양한 강력한 주문을 던질 수 있게 해준다. 이러한 사용은 각각 헬멧의 힘을 소모한다. 이러한 특정 능력 외에도 헬멧은 상당한 양의 화재 피해를 흡수할 수 있습니다. 착용자는 또한 불꽃 같은 효과를 생산하기 위해 헬멧의 빛을 집중시킬 수 있습니다. 여전히 존재하는 몇 가지 그러한 헬멧은 랜드더 게이트에서 큰 목회자로부터 다시 추적되었습니다. 에르데 힐즈의 동사들 중 한 명도 볼드리온의 동사들과 함께 북쪽을 돌아가는 것을 본 적이 없다."
-arrows001,uti,LocalizedName,0,인간 의 을 뚫는 화살
+armhe016,uti,DescIdentified,0,"이 헬멧은 실제 본성을 인식할 때까지 평범해 보인다. 화려한 은과 가벼운 철로 만든 광휘의 투구에는 다이아몬드, 루비나 불오팔 및 오발이 있으며 각각 크기가 크고 매혹적입니다. 밝은 빛에 부딪히면 휠체어는 왕자 모양의 보석 끝으로 모든 방향으로 반사선을 발송합니다. 주얼지는 착용자에게 다양한 강력한 주문을 던질 수 있습니다. 이러한 각각의 사용은 지휘봉에서 약간의 힘을 소모한다. 이들 특정 능력 외에도 선두는 상당한 양의 불을 흡수 할 수 있다. 운전자는 또한 손상의 빛을 집중시켜 플라임 타격 효과와 유사한 효과를 낼 것입니다. 아직까지 존재한다고 알려진 몇 가지 그 Helm들은 여전히 볼더스 게이트 (Baldur's Gate) 에서 온 큰 성직자에 거슬러 올라간다."
+arrows001,uti,LocalizedName,0,관통 화살 휴먼의 방언
 arrows001,uti,DescIdentified,0,이 화살는 목표물에 깊숙이 찔러 타격을 당하면 추가적인 뚫는 손상을 입게 됩니다.
-ashmlw011,uti,LocalizedName,0,큰 방패 +1
+ashmlw011,uti,LocalizedName,0,대형 방패 +1
 ashmlw011,uti,DescIdentified,0,이 마법의 방패는 착용자에게 추가적인 보호를 제공하지만 특정 제조업체의 특징을 가지고 있지 않습니다.
 ashmto012,uti,LocalizedName,0,기사 방패
 ashmto012,uti,DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
 ashmto013,uti,LocalizedName,0,주교 의 방패
 ashmto013,uti,DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
-beholdereye,uti,LocalizedName,0,보는 사람 (마치한 사람)
-beholdereye001,uti,LocalizedName,0,관측자 눈 (Charm Monster)
+beholdereye,uti,LocalizedName,0,관찰자 눈 (사람 현혹)
+beholdereye001,uti,LocalizedName,0,관찰자 눈 (괴물 현혹)
 beholdereye002,uti,LocalizedName,0,보는 눈 (분해)
 beholdereye003,uti,LocalizedName,0,관측자 눈 (석화)
 beholdereye004,uti,LocalizedName,0,보는 눈 (죽음)
@@ -3871,13 +3871,13 @@ dmilichfist,uti,LocalizedName,0,Dmi Lich Fist
 dmilichfist001,uti,LocalizedName,0,Dmi Lich Fist
 dmilichhead,uti,LocalizedName,0,Dmi Lich 헤드
 dmilichskin,uti,LocalizedName,0,Dmi Lich 피부
-dragonskull,uti,LocalizedName,0,드래곤 스켈라
+dragonskull,uti,LocalizedName,0,용의 두개골
 drowheart,uti,LocalizedName,0,건조한 마음
 foolkiller,uti,LocalizedName,0,멍청한 살인자
 gnurmachsplai001,uti,LocalizedName,0,일리시드 던전 키
 hagridsdiary,uti,LocalizedName,0,하그리드의 일기
 hagridsdiary,uti,DescIdentified,0,이것은 하그리드라는 인간 모험가의 일기입니다. 그는 그의 친구들과 함께 보물을 찾기 위해 이 무덤에 들어갔다. 마지막 항목은 다음과 같습니다: ... 나는 보너에게 나의 서적들이 남쪽의 티란트로부터 우리를 보호할 것이라고 말했다. 이것은 사실입니다. 그러나 그는 알지 못합니다. 우리는 여기에 갇혀있다. 서적들이 그의 마술으로부터 우리를 보호하더라도 그는 우리를 쪼개 줄 수 있는 충분한 종들을 가지고 있습니다. 우리 둘은 우리 그룹에서 남은 유일한 사람이고 우리는 아세레라크의 무덤의 내부 지역에도 들어가지 않았습니다. 우리는 휴식을 취할 필요가 있으며 밤이 끝날 때 우리가 여전히 살아 있다면 나는 표면에 돌아갈 것입니다 ...
-helm001,uti,LocalizedName,0,말 머리 헬멧
+helm001,uti,LocalizedName,0,말갈기 투구
 illithidsbrain,uti,LocalizedName,0,일리티드의 뇌
 illithidtentacle,uti,LocalizedName,0,일리티드 텐택
 innersanctumkey,uti,LocalizedName,0,내부 성소 열쇠
@@ -3944,43 +3944,43 @@ iounstonevibrant,uti,LocalizedName,0,이온 스톤
 iounstonevibrant,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 한다. 사용될 때, 이 돌들은 사용자의 머리에 대한 순환 궤도를 취한다고 한다. 그 후, 돌을 붙잡거나 그 소유자로부터 분리하기 위해 망을 매아야 한다. 이 돌은 비브란트 보라색이며, 프리즘 모양이다."
 iounstonevibrant,uti,DescIdentified,0,"이 돌은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 한다. 이 돌은 사용되면 사용자의 머리에 1~3피트까지 순환 궤도를 취한다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 망을 잡아야 한다. 소유자는 자발적으로 돌을 잡고 보관할 수 있지만, 그 동안 돌의 혜택을 잃게 된다. 이 특정 돌은 비브란트 보라색이며, 프리즘의 모양을 가지고 있다. 이 특정 돌은 6 레벨까지 마법을 저장할 수 있다. 마법을 던지는 사람만이 돌을 하나 이상의 마법을 넣을 수 있지만, 돌에 저장된 마법을 풀어낼 수 있는 사람이라면 누구나 돌을 활성화할 수 있다. 돌은 소유자가 돌을 마법을 넣거나 저장된 마법을 풀어낼 수 있는 돌을 궤도에서 돌을 돌을 돌을 돌고 돌을 돌고 돌을 돌고 돌을 돌고 돌을 돌고 돌을 돌고 돌고 돌을 돌고 돌고 돌을 돌고 돌고 돌을 돌고 돌고 돌고 돌을 돌고 돌고 돌고 돌고 돌고 돌은 실제로 마법을 저장할 수 있다."
 irirdescentlight,uti,DescIdentified,0,이 빛은 이리데스젠트 스핀드 이온 스톤의 빛입니다.
-it_creitem002,uti,LocalizedName,0,Drow 레벨 20의 성질
-it_creitem009,uti,LocalizedName,0,Drow 레벨 15의 특성
-it_creitem010,uti,LocalizedName,0,Drow 레벨 1의 성질
+it_creitem002,uti,LocalizedName,0,드로우 레벨 20 속성
+it_creitem009,uti,LocalizedName,0,드로우 레벨 15 속성
+it_creitem010,uti,LocalizedName,0,드로우 레벨 1 속성
 it_creitem046,uti,LocalizedName,0,롯의 숨기는 곳
-it_creitemcon001,uti,LocalizedName,0,부동산 을 건설
-it_creitemdr004,uti,LocalizedName,0,성인 블랙 드래곤의 특성
-it_crewps003,uti,LocalizedName,0,1d4
+it_creitemcon001,uti,LocalizedName,0,구조물 속성
+it_creitemdr004,uti,LocalizedName,0,성체 흑룡 속성
+it_crewps003,uti,LocalizedName,0,물기1d4
 it_mbelt029,uti,LocalizedName,0,가동성 벨트 +2
 it_mbelt029,uti,DescIdentified,0,성공적 인 상인 로저 델포스는 도둑 반신조합을 결성하려고 도둑들에게 돈을 지불하여 워터디프의 상인들을 지키기 위해 보안 전문가가 될 수 있도록 했다. 경비자들은 강도들을 수사하기 위해 홀드 페르슨 주문을 사용하여 막대를 사용하도록 훈련받았다. 이 보안 조치에 대항하기 위해 강도 협회는 마법 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 협회 사이의 격상하는 전쟁에서 이러한 벨트 중 상당수는 보석점과 장비 매장으로 진입했다.
-it_mmidmisc009,uti,LocalizedName,0,찢어진 표기
+it_mmidmisc009,uti,LocalizedName,0,너덜너덜한 쪽지
 it_mmidmisc009,uti,DescIdentified,0,"아버지께 피와 뼈, 아들께 보라색과 녹색..."
-it_mmidmisc010,uti,LocalizedName,0,찢어진 표기
+it_mmidmisc010,uti,LocalizedName,0,너덜너덜한 쪽지
 it_mmidmisc010,uti,DescIdentified,0,이 메모는 일종의 경고처럼 보입니다. 일부 부분은 부패하지만 몇 줄을 해독할 수 있습니다. ... 나는 그의 존재를 여기 느낄 수 있습니다. Acererak은 지난 세기 동안 매우 강력해졌습니다. [...] 그의 힘은 dec[...]와 함께 사라질 것이라고 생각했지만 그의 체육의 한계를 넘어서도 자신의 삶을 연장하는 방법을 찾았습니다. [...] ... 그의 힘의 원천은 내세 미탈러 돌 중 하나입니다. 그 돌들은 도시를 하늘로 끌어올리고 군대를 물리치고 ... 심지어 영원한 생명을 부여 할 수있는 힘을 가지고 있습니다. [...] Acererak은 왜곡된 유머 감각을 개발했습니다. 그는 자신의 유리를 죽음의 함정으로 바꾸었습니다.
-it_mpotion025,uti,LocalizedName,0,중요 한 상처 를 치료 하는 약
+it_mpotion025,uti,LocalizedName,0,치명적인 상처 치료의 물약
 it_mpotion025,uti,DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-it_mpotion026,uti,LocalizedName,0,중소 한 상처 를 치료 하는 약
+it_mpotion026,uti,LocalizedName,0,일반 상처 치료의 물약
 it_mpotion026,uti,DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
-it_mpotion027,uti,LocalizedName,0,황새 의 힘 의 약
+it_mpotion027,uti,LocalizedName,0,황소의 근력 물약
 it_mpotion027,uti,DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-it_mpotion028,uti,LocalizedName,0,바르크스킨 투약
+it_mpotion028,uti,LocalizedName,0,나무껍질 피부의 물약
 it_mpotion028,uti,DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-it_mring006,uti,LocalizedName,0,마법의 반지 방어
+it_mring006,uti,LocalizedName,0,마법 방어의 반지
 it_mring006,uti,DescIdentified,0,이 강력 한 방어 반지 들 은 불행 히 경쟁적 인 마법사 들 사이 의 대결 이 흔히 벌어지는 도시 지역 에서 많은 수요 를 받고 있습니다. 이 일 들 중 하나 를 장악 한 비교적 경험 이 없는 마법사 들 도 - 단 한 시간 에 가지만 - 대장 의 공격 을 견딜 수 있습니다.
-it_mring035,uti,LocalizedName,0,작은 권력의 반지
+it_mring035,uti,LocalizedName,0,하급 권능의 반지
 it_mring035,uti,DescIdentified,0,"마인세릴 로스트본 (Mynseril Lostbone) 은 마라르의 강력한 사제였으며, 많은 피의 싸움이나 전투를 즐겼지만, 그러한 전투가 너무 조기에 끝났다고 느꼈다. 마인세릴은 트롤의 재생 능력을 연구하면서 일반 전투장보다 재생 전사장에서 더 많은 엔터테인먼트 가치를 얻을 수 있다고 확신했다. 그래서 그는 여러 강력한 반지의 제작을 위탁했습니다. 반지가 완료되면, 그는 특히 악의적인 전사들에게 배포했습니다."
-it_sparscr803,uti,LocalizedName,0,마법 에 대한 보호
-it_sparscr803,uti,DescIdentified,0,"카스터 레벨 (s): 마법사/마술가 7 선천적인 레벨: 7 학교: 매혹 설명자 (s): 구성원 (s): 언어적, 소마틱 범위: 촉각 영역 / 목표: 큰, 1 생물 / 4 레벨 기간: 1 회전 / 레벨 추가 카운터 마술: 저장: 유해한 마술 저항: 없습니다. 효과 영역 내에서, 4 개의 카스터 레벨에 한 동맹국까지 마술에 대한 모든 저장 던지기 +8 보너스를 받는다."
+it_sparscr803,uti,LocalizedName,0,주문으로부터 보호
+it_sparscr803,uti,DescIdentified,0,"시전자 레벨 (s): 마법사 / 마술가 7 선천적인 수준: 7 학교: 매혹 설명자 ((s): 구성원(s): 말성, 소마틱 범위: 터치 효과 범위/목적: 큰 1 생물 / 4 레벨 기간: 1 회전 / 수준의 추가 카운터 주문: 저장: 유해한 주문 저항: 없습니다 효과 영역 내에서 4 개의 캐스터 계층에서 최대 한 동맹은 모든 구제 투자에 대해 +8 보너스를 받는다."
 it_wpwhip001,uti,LocalizedName,0,피우비안의 지팡이
 item,uti,LocalizedName,0,레인저의 열쇠
 item001,uti,LocalizedName,0,발로의 심장
 jarofoil,uti,LocalizedName,0,기름 한 잔
 lieutenantaraksd,uti,LocalizedName,0,아락스 중위 일기
-maarcl005,uti,LocalizedName,0,가죽 장갑 + 5
+maarcl005,uti,LocalizedName,0,가죽 갑옷 + 5
 maarcl005,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-maarcl006,uti,LocalizedName,0,가죽 장갑 + 3
-maarcl006,uti,DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만, 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 레지온 갑옷과 같은 아이템은 때때로 그들의 관여가 의심되는 사건에서 복구되었습니다."
-maarcl035,uti,LocalizedName,0,악성 링크
+maarcl006,uti,LocalizedName,0,가죽 갑옷+3
+maarcl006,uti,DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 군단 갑옷과 같은 아이템은 때때로 이들의 관여가 의심되는 사건에서 복구되어 왔지만 길드 리더는 결코 소유권을 제한하거나 부인하지 않았습니다."
+maarcl035,uti,LocalizedName,0,도적 고리
 maarcl035,uti,DescIdentified,0,"이 유형의 갑옷은 1020년 DR (Smoldering Spells Year, 1020 DR) 에서 Thay 인접한 땅에서 나타나기 시작하였다. 지각할 수 없는 재의 코팅이 그것을 흑색하게 하여 움직임의 소음을 둔화시키고 은밀한 시도에 이상하게 만들었다. 그러나 면밀히 조사한 결과, 차링은 외부로 가공된 열의 결과였지는 않았으며, 원래 소유자는 어떤 종류의 Thayvian-induced 화상을 겪었다는 것을 시사한다. 이것은 슈트에 매우 병병적 인 느낌을 준다."
 maarcl036,uti,LocalizedName,0,GNOME 체인메일
 maarcl036,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
@@ -3999,19 +3999,19 @@ maarcl044,uti,LocalizedName,0,Drow 체인메일
 maarcl044,uti,DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 maarcl045,uti,LocalizedName,0,Drow 체인메일
 maarcl045,uti,DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-maarcl047,uti,LocalizedName,0,체인 셔츠 +1
+maarcl047,uti,LocalizedName,0,사슬 상의 +1
 maarcl047,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 maarcl064,uti,LocalizedName,0,헬미트 기념식 갑옷
-maarcl064,uti,DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
+maarcl064,uti,DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 maarcl065,uti,LocalizedName,0,암흑 된 의식 의 장갑
 maarcl065,uti,DescIdentified,0,이 갑옷은 원래 헬름의 주교를 위해 만들어졌습니다. 그러나 주교의 패배로 갑옷은 하우스 Jaelre Drow의 손에 떨어졌습니다. 그들은 한때 빛나는 갑옷을 어두운 검은색으로 치료했습니다.
 maarcl066,uti,LocalizedName,0,바론의 기념비적인 갑옷
-maarcl066,uti,DescIdentified,0,이 의복은 베오루나 우울의 우스그르트 마을에서 임시 도금에서 일했던 왜성 바룬의 흔적을 지니고 있습니다. 그는 1373년 DR 후반에 도금했다. 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해.
+maarcl066,uti,DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 maarcl067,uti,LocalizedName,0,검게 된 의식 의 무장
 maarcl067,uti,DescIdentified,0,이 갑옷은 한때 헤미트 이일트 기사에게 속해 있었다. 전투 후에 한때 빛나는 밝은 갑옷은 Jaelre가 익사하고 검은색으로 처리되었습니다.
 maarcl069,uti,LocalizedName,0,보라색 드래곤 기념식 갑옷
 maarcl069,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-maarcl108,uti,LocalizedName,0,가죽 장갑 +1
+maarcl108,uti,LocalizedName,0,가죽 갑옷 +1
 maarcl108,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 maarcl109,uti,LocalizedName,0,피우비엔의 갑옷
 maarcl109,uti,Description,0,이 체인메일 의복은 하우스 테트니스의 높은 계급의 귀족들을 위해 만들어졌다는 것을 분명히 알 수 있습니다.
@@ -4020,22 +4020,22 @@ maarcl110,uti,LocalizedName,0,피우비엔스 피우비엔스
 maarcl110,uti,DescIdentified,0,이 피와프위 (Piwafwi) 는 익사 귀족의 표시로 분명하게 인식됩니다. 그것은 롤스의 사제인 피우비엔 테트네스 (Piwiewien Te'tness) 에 속했습니다. 다른 귀족들 앞에서 이 모자를 착용하는 것은 위험할 수 있습니다.
 maarcl111,uti,LocalizedName,0,방패 의 덮개
 maarcl111,uti,DescIdentified,0,이 피와프위 (Piwafwi) 는 익사 귀족의 표시로 분명하게 인식됩니다. 그것은 롤스의 사제인 피우비엔 테트네스 (Piwiewien Te'tness) 에 속했습니다. 다른 귀족들 앞에서 이 모자를 착용하는 것은 위험할 수 있습니다.
-maarcl112,uti,LocalizedName,0,속도의 체인메일
+maarcl112,uti,LocalizedName,0,속도의 사슬갑옷
 maarcl112,uti,DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳건히 믿었고, 그는 그의 체인메일 오브 스피드의 도움으로 수십 번의 전투에서 그것을 증명했습니다. 비행의 예술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사자의 순위에 결코 멀리 도달하지 못했습니다."
-mcloth002,uti,LocalizedName,0,베크나 의복
+mcloth002,uti,LocalizedName,0,베크나의 로브
 mcloth002,uti,DescIdentified,0,"고대 리히와 연관 된 여러 가지 물건 중 하나 인, 이 종류 의 의복 은 더 잘 알려진 독특 한 눈 또는 손 의 힘 에 비해 희미 한 것 이다. 그럼에도 불구하고, 단지 그의 존재 에 보관 하는 것만으로도 상당한 마법 의 에너지를 전달 할 수 있었다."
-mcloth003,uti,LocalizedName,0,베크나 의복
+mcloth003,uti,LocalizedName,0,베크나의 로브
 mcloth003,uti,DescIdentified,0,"고대 리히와 연관 된 여러 가지 물건 중 하나 인, 이 종류 의 의복 은 더 잘 알려진 독특 한 눈 또는 손 의 힘 에 비해 희미 한 것 이다. 그럼에도 불구하고, 단지 그의 존재 에 보관 하는 것만으로도 상당한 마법 의 에너지를 전달 할 수 있었다."
 mcloth015,uti,LocalizedName,0,트리안데르의 전투복
 mcloth015,uti,DescIdentified,0,"엘미스터, 블랙스태프, 그리고 타이의 붉은 마법사의 능력에 대해 듣기 때문에 죽을 정도로 아픈 클라펜 포티어 (Klaphen Fortier) 는 강력하지만 비교적 알려지지 않은 마법사였다. 그의 희망은 젊고 무관심한 마법사들이 자신들에게 이름을 알리려는 희망으로 더 강력한 마법사들을 도전하도록 격려 될 수 있다는 것이었다."
-mindflayerprop,uti,LocalizedName,0,정신 플레이어 특성
+mindflayerprop,uti,LocalizedName,0,마인드 플레이어 속성
 monumentkey,uti,LocalizedName,0,기념물 열쇠
-mythallar,uti,LocalizedName,0,미탈러
-mythallarlolth,uti,LocalizedName,0,미탈러
+mythallar,uti,LocalizedName,0,미살라
+mythallarlolth,uti,LocalizedName,0,미살라
 mythallarlolth,uti,Description,0,"이 미탈라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 마취의 집단에 의해 패배했다. 미탈라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
-mythallarmiel,uti,LocalizedName,0,미탈러
+mythallarmiel,uti,LocalizedName,0,미살라
 mythallarmiel,uti,Description,0,"이 미탈라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 마취의 집단에 의해 패배했다. 미탈라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
-mythallarvhaer,uti,LocalizedName,0,미탈러
+mythallarvhaer,uti,LocalizedName,0,미살라
 mythallarvhaer,uti,Description,0,"이 미탈라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 마취의 집단에 의해 패배했다. 미탈라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
 normalskin,uti,DescIdentified,0,이것은 PC의 정상적인 피부입니다.
 pieceofparchment,uti,LocalizedName,0,펄크먼트 조각
@@ -4049,7 +4049,7 @@ poisonamplifi002,uti,LocalizedName,0,독성 증폭기
 poisonamplifi002,uti,Description,0,이 이상한 모양의 메커니즘은 분명히 일종의 증폭기입니다. 그것은 화산의 증기를 매우 독성적인 가스로 변환합니다.
 poisonamplifier,uti,LocalizedName,0,독성 증폭기
 poisonamplifier,uti,Description,0,이 이상한 모양의 메커니즘은 분명히 일종의 증폭기입니다. 그것은 화산의 증기를 매우 독성적인 가스로 변환합니다.
-sash001,uti,LocalizedName,0,스미머링의 셰스
+sash001,uti,LocalizedName,0,희미한 빛의 띠
 sash001,uti,DescIdentified,0,"마법사 중밤이 그녀의 능력이 신들 사이에서 자리를 차지할 정도로 커지는 것을 보았을 때, 그녀의 영혼은 직결의 조직에서 마법을 마셨다. 그녀는 상승하여, 그녀의 필사적 자아와 재산을 많이 버렸지만, 그들은 또한 변형되었습니다. 그녀가 착용한 벨트는 너무 많은 에너지를 흡수하여 갈라지고, 많은 조각들 중 하나마다 독자적으로 강력한 아이템이 되었고, 마법 공격으로부터 휘두르는 자를 보호했습니다."
 sei_sla_1,uti,LocalizedName,0,마법 같은 능력
 sei_sla_1,uti,Description,0,이것은 하루에 한 번 맹성을 일으키는 마법 같은 능력입니다.
@@ -4060,7 +4060,7 @@ shield001,uti,LocalizedName,0,번개 방패
 shield001,uti,DescIdentified,0,이 마법의 방패는 착용자에게 추가적인 보호를 제공하지만 특정 제조업체의 특징을 가지고 있지 않습니다.
 spellresist001,uti,LocalizedName,0,마법 저항 14
 spellresist18,uti,LocalizedName,0,마법 저항 16
-ssword001,uti,LocalizedName,0,운이 좋은 사람
+ssword001,uti,LocalizedName,0,운 좋은 이
 ssword001,uti,DescIdentified,0,"이 칼은 누구든 발신한 ""큰 거""에 대한 대전에서 끝없는 사용이 된 스와시벅러의 칼입니다. 럭키 오네스 용병 회사 는 이 칼을 마지막 큰 점수를 통해 여전히 빨아들여서 주문했습니다. 그들의 무사한 후에 그들은 단지 그 흥분을 위해 모험을 했습니다. 점점 더 큰 용기있는 악행을 하기 위해 서로 도전했습니다. 왜 이 무기들은 더 이상 그들과 함께 있지 않습니까? 때로는 ""큰 거""가 승리합니다."
 summoningbowl,uti,LocalizedName,0,죽은 자 들 이 부르짖는 그릇
 summoningbowl,uti,Description,0,이 그릇은 악의 희미한 분위기를 나타냅니다.
@@ -4079,61 +4079,61 @@ wammar013,uti,LocalizedName,0,화살 +2
 wammar013,uti,DescIdentified,0,이 마법 탄약은 손상을 입는 부너스를 가지고 있지만 특정 제조업체의 특징은 없습니다.
 wammar014,uti,LocalizedName,0,화살 +1
 wammar014,uti,DescIdentified,0,이 마법 탄약은 손상을 입는 부너스를 가지고 있지만 특정 제조업체의 특징은 없습니다.
-wammbo005,uti,LocalizedName,0,피어싱의
+wammbo005,uti,LocalizedName,0,관통의 쇠뇌화살
 wammbo005,uti,DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
-wammbo006,uti,LocalizedName,0,불의 발자국
+wammbo006,uti,LocalizedName,0,화염의 쇠뇌화살
 wammbo006,uti,DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
-wammbo008,uti,LocalizedName,0,독성 발트
+wammbo008,uti,LocalizedName,0,독 쇠뇌화살
 wammbo008,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo009,uti,LocalizedName,0,가벼운 독성 발작
+wammbo009,uti,LocalizedName,0,약한 독 쇠뇌화살
 wammbo009,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo010,uti,LocalizedName,0,불의 발자국
+wammbo010,uti,LocalizedName,0,화염의 쇠뇌화살
 wammbo010,uti,DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
-wammbo011,uti,LocalizedName,0,마비된 발트
+wammbo011,uti,LocalizedName,0,마비의 쇠뇌화살
 wammbo011,uti,DescIdentified,0,이 유형의 볼트는 목표물을 놀라게 할 수 있습니다. 하지만 전력과 기간은 볼트의 크리에이터의 힘에 의해 결정됩니다.
-wammbo012,uti,LocalizedName,0,독성 발트
+wammbo012,uti,LocalizedName,0,독 쇠뇌화살
 wammbo012,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo013,uti,LocalizedName,0,독성 발트
+wammbo013,uti,LocalizedName,0,독 쇠뇌화살
 wammbo013,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo014,uti,LocalizedName,0,독성 발트
+wammbo014,uti,LocalizedName,0,독 쇠뇌화살
 wammbo014,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo015,uti,LocalizedName,0,가벼운 독성 발작
+wammbo015,uti,LocalizedName,0,약한 독 쇠뇌화살
 wammbo015,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 wandx,uti,LocalizedName,0,추방 의 막대
 ward,uti,LocalizedName,0,부문
 waxmhn009,uti,LocalizedName,0,아이스 리버 +1
-waxmhn009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기와 갑옷의 마크스메이트 마록의 표적을 지니고 있습니다. 그는 1373 DR 초기에 그것을 만들어, 그의 격리된 도시를 이른바 울음소리 죽음의 독성적인 포수로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
+waxmhn009,uti,DescIdentified,0,"이 무기는 네버윈터의 알도 (Neverwinter's 빛나는 기사 무기점) 의 마크스메이트, 왜로인 마르록의 표적을 가지고 있다. 그는 1373년 DR 초반에 동굴을 만들어서 그의 격리된 도시를 이른바 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblfl003,uti,LocalizedName,0,피우비안의 불꽃
 wblfl003,uti,DescIdentified,0,이 무기는 다른 생명체들에게 고통과 고통을 가져다 주는 즐거움을 느끼는 익사여성들 사이에서 가장 좋아하는 무기 중 하나입니다.
-wblmcl013,uti,LocalizedName,0,스미팅 클럽
+wblmcl013,uti,LocalizedName,0,강타의 곤봉
 wblmcl013,uti,DescIdentified,0,이 구단은 큰 힘을 가지고 있고 고렘을 때면 건물이 완전히 즉시 파괴될 가능성이 높습니다.
 wblmfh009,uti,LocalizedName,0,수확기 +1
-wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기와 갑옷의 마크스메이트 마록의 표적을 지니고 있습니다. 그는 1373 DR 초기에 그것을 만들어, 그의 격리된 도시를 이른바 울음소리 죽음의 독성적인 포수로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
+wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 알도 (Neverwinter's 빛나는 기사 무기점) 의 마크스메이트, 왜로인 마르록의 표적을 가지고 있다. 그는 1373년 DR 초반에 동굴을 만들어서 그의 격리된 도시를 이른바 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblmhw003,uti,LocalizedName,0,기놈 워햄어
 wblmhw003,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 wblmhw012,uti,LocalizedName,0,'드로우 돔'
 wblmhw012,uti,DescIdentified,0,이 무기는 드로우를 죽이기 위해 특별히 설계되었습니다.
-wblmml009,uti,LocalizedName,0,병사 의 능력
+wblmml009,uti,LocalizedName,0,병사의 힘
 wblmml009,uti,DescIdentified,0,"알가로운드 군대의 중위원 들 은 이 무기 를 받았다고 한다. 하지만 그 무기 의 설계 에 대한 결점 에 대해 알려지지 않았다. 많은 와일더 들 은 죽었지만 모두 용감 하게 싸웠으며, 왕국 의 영웅 들 의 명예 를 받았다. 이 결함적 인 무기 에 대한 책임자 인 장군 들 은 처벌 을 피할 수 있었고, 오늘날 에는 존경 받는 죽은 사람 가운데 에 기억 을 받고 있다."
 wblmml010,uti,LocalizedName,0,장애의 메이스 +2
-wblmml010,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기와 갑옷의 마크스메이트 마록의 표적을 지니고 있습니다. 그는 1373 DR 초기에 그것을 만들어, 그의 격리된 도시를 이른바 울음소리 죽음의 독성적인 포수로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
-wbwmln005,uti,LocalizedName,0,엘프 궁전 Bow
+wblmml010,uti,DescIdentified,0,"이 무기는 네버윈터의 알도 (Neverwinter's 빛나는 기사 무기점) 의 마크스메이트, 왜로인 마르록의 표적을 가지고 있다. 그는 1373년 DR 초반에 동굴을 만들어서 그의 격리된 도시를 이른바 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
+wbwmln005,uti,LocalizedName,0,엘프 궁정 활
 wbwmln005,uti,DescIdentified,0,"이 이브 활은 전쟁 의 무기 보다 더 예술 작품 이다. 화려한 조각 은 청료 된 나무 위 에 춤추고 있으며, 활줄 은 금 으로 빛나고 있으며, 그림 을 할 때 거의 노래 한다. 한 번 에 엘프 공예 의 독특하고 독창적 인 예 를 생각 한 이 이론 은, 학자들이 드란너 신화 의 유적 들 에서 반 12 개의 동일 한 활 을 검증 할 때 폐기 되었다."
 wbwmxl003,uti,LocalizedName,0,기종 크로스보
 wbwmxl003,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wbwmxl004,uti,LocalizedName,0,라이트 크로스보 +1
+wbwmxl004,uti,LocalizedName,0,경쇠뇌 +1
 wbwmxl004,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wbwmxl011,uti,LocalizedName,0,루비 크로스보
+wbwmxl011,uti,LocalizedName,0,루비 쇠뇌
 wbwmxl011,uti,DescIdentified,0,"이 보석 물품의 첫 번째 예는 기념비적인 장식용으로 만들어졌으며, 사용이 의도되지 않았습니다. 그러나 실험은 무기 건설에 사용되는 이상한 루비에서 에너지를 방출함으로써 목표물에 큰 공포를 심어주었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌습니다. 그리고 그 이후 무기도 여러 번 복제되었습니다."
-wbwxl003,uti,LocalizedName,0,가벼운 크로스보
-wbwxl003,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
-wbwxl004,uti,LocalizedName,0,가벼운 크로스보
-wbwxl004,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
-wbwxl005,uti,LocalizedName,0,가벼운 크로스보
-wbwxl005,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
-wdbmax007,uti,LocalizedName,0,아스코리아 두 개의 도끼
-wdbmax007,uti,DescIdentified,0,"셰어 근처에 주장을 하는 신흥 강도 왕의 유배 희생자들에게 아스코리아의 두 개의 도끼는 단순한 원주민의 독재자가 몇 십 개의 조상의 해적 금 상자, 신임 용병들의 개인 군대, 그리고 그림자 조직에 훈련된 여러 인형 마법사들로 성취할 수 있는 것의 상징입니다. 그리고 그들은 한 사람이 더 이상 차이를 만들 수 없다고 말합니다."
-wmgst004,uti,LocalizedName,0,마법사 들 의 직원
+wbwxl003,uti,LocalizedName,0,경쇠뇌
+wbwxl003,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
+wbwxl004,uti,LocalizedName,0,경쇠뇌
+wbwxl004,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
+wbwxl005,uti,LocalizedName,0,경쇠뇌
+wbwxl005,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
+wdbmax007,uti,LocalizedName,0,아스코리아산 쌍날도끼
+wdbmax007,uti,DescIdentified,0,"셰어 근처에 주장하는 신흥 강도 왕의 유배 피해자들에게 아스코리아산 쌍날도끼는 단순한 원주민 독재자가 몇 십 개의 조상의 해적 금 상자, 새로 고용된 용병들의 개인 군대와 그림자의 매개체에서 교육을 받은 여러 인형 마법사의 상징입니다."
+wmgst004,uti,LocalizedName,0,마법 학자의 지팡이
 wmgst004,uti,DescIdentified,0,"이 종류 의 스태프 는 예술가의 공예 의 최고점 이며, 각각의 스태프 는 매술가 의 수십 년 의 연구 의 최고점 을 나타낸다. 그 들 의 창조 의 비밀 은 거의 사라진 것 으로서, 그러한 스태프 들 은 살아있는 마법사 들 의 손 보다 고대 용 들 의 무리 에서 더 많이 발견 된다."
 wswls003,uti,LocalizedName,0,장작품 롱스word
 wswls003,uti,DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
@@ -4141,18 +4141,18 @@ wswls004,uti,LocalizedName,0,장작품 롱스word
 wswls004,uti,DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 wswls005,uti,LocalizedName,0,장작품 롱스word
 wswls005,uti,DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
-wswmbs006,uti,LocalizedName,0,법 제정자
+wswmbs006,uti,LocalizedName,0,입법자
 wswmbs006,uti,DescIdentified,0,"혼란스럽거나 도덕적으로 의심받는 자의 재앙, 입법자 칼은 오직 한 가지 목적: 그 권위가 도전되거나 의문을 제기되는 곳마다 법의 지배를 집행하는 것입니다. ""법""의 개념이 ""정의""의 개념과 일치하는지 여부는 크게 무관합니다. 이러한 무기 소유자들은 종종 세계를 매우 양극화된 방식으로 바라보고 있습니다. 옳고 그름이 있으며 다른 세부 사항은 문제를 혼란스럽게 만듭니다."
-wswmbs007,uti,LocalizedName,0,경호자
+wswmbs007,uti,LocalizedName,0,수호자
 wswmbs007,uti,DescIdentified,0,"혼란스럽거나 도덕적으로 의심받는 자의 재앙, 입법자 칼은 오직 한 가지 목적: 그 권위가 도전되거나 의문을 제기되는 곳마다 법의 지배를 집행하는 것입니다. ""법""의 개념이 ""정의""의 개념과 일치하는지 여부는 크게 무관합니다. 이러한 무기 소유자들은 종종 세계를 매우 양극화된 방식으로 바라보고 있습니다. 옳고 그름이 있으며 다른 세부 사항은 문제를 혼란스럽게 만듭니다."
 wswmdg011,uti,LocalizedName,0,칼 + 1
 wswmdg011,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 wswmdg012,uti,LocalizedName,0,칼 + 1
 wswmdg012,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wswmka005,uti,LocalizedName,0,하느님 의 분노
+wswmka005,uti,LocalizedName,0,신성한 격분
 wswmka005,uti,DescIdentified,0,"""...밤에 불의 비가 내렸고, 돌의 눈진처럼 무너져 내렸다. 광장에는 크레이터들이 있었고, 내부에는 별들이 있었고, 그로부터 우리는 복수를 만들어서 우리 조상들의 땅을 되찾았다"". Kaa Mihnd의 글은 가난한 어촌이 그들의 부유한 지배자에게 도전하기 위해 무기를 어떻게 소유할 수 있는지 설명합니다."
 wswmka010,uti,LocalizedName,0,검 성자의 유산 +4
-wswmka010,uti,DescIdentified,0,"이 무기는 1373년 DR 후반에 베오루나의 우스그르트 마을에서 임시 도금에서 일하던 왜성 바룬의 표적을 지니고 있으며, 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해 만들어졌다."
+wswmka010,uti,DescIdentified,0,이 무기는 1373년 DR 후반에 베오룬나의 우물의 우스그르트 마을에서 improvised forge 에서 일했던 쟁이 바룬 (Barun) 의 마크를 지니고 있습니다. 그는 그 당시 북부 도시 네버윈터와 Lords' Alliance 에 대항하여 행진하던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 그것을 만들어냈다.
 wswmrp013,uti,LocalizedName,0,날카로운
 wswmrp013,uti,DescIdentified,0,"최근 몇 년 동안, 여러 도둑 조합은 이 칼에 의해 멤버를 잃었다고 보고했습니다. 피해자의 가슴에 잔혹한 서명으로 남겨진 무기. 그 뒤에 있는 공예가 알려지지 않았지만, 그들을 사용하는 집단의 의도는 충분히 분명했습니다. 기존 그룹을 불안정하게 만들고 자신의 확장을 촉진하기 위해. 그러나 마지막 살인 이후 몇 년이 지났지만, 침입이 포기되었거나 폭력적인 수단으로 성공했다는 것을 암시합니다. 지하 공동체의 구성원들은 정보를 제공하지 않았습니다."
 wswmsc003,uti,LocalizedName,0,스키미터 +1
@@ -4166,7 +4166,7 @@ wswmss004,uti,Description,0,"이 짧은 칼은 뛰어난 작품이고, 칼은 �
 wswmss004,uti,DescIdentified,0,"이 솜씨 좋은 짧은 검은 강력한 마법의 독으로 어져 있었습니다. 칼에 맞은 생명체는 짧은 시간 동안 눈부신 상태가 될 가능성이 높습니다. 이것은 너무 위험하지 않은 것처럼 들리지만, 그것은 확실히 생명과 죽음 사이의 차이점이 될 수 있습니다."
 wthmdt011,uti,LocalizedName,0,Dart+1
 wthmdt011,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wthmdt012,uti,LocalizedName,0,아시드 다트
+wthmdt012,uti,LocalizedName,0,산성 표창
 wthmdt012,uti,DescIdentified,0,"이 비늘 들 은 그 들 의 주위 에서 찌르는, 설명 할 수 없는 냄새 를 가지고 있으며, 그 들 의 끝 에서 찌는 소음 이 나오는 것 처럼 보인다."
 beholderstock,utm,LocName,0,관측자
 deladetrader,utm,LocName,0,늦은 거래자
@@ -4182,7 +4182,7 @@ babylonox,utp,LocName,0,바빌론 오크스
 babylonox,utp,Description,0,이스타르 게이트 의 황소 모자이크
 babylonspearmen,utp,LocName,0,바빌론 스피어맨
 babylonspearmen,utp,Description,0,"바빌론 스피어맨 모자이크, 실제 벽 이미지로 구성된"
-bearskinrug002,utp,LocName,0,곰 피부 카펫
+bearskinrug002,utp,LocName,0,곰 가죽 융단
 bearskinrug002,utp,Description,0,"이 강력한 동물의 피부가 매력적인 카펫으로 변해왔고, 마치 당신을 바라보고 있는 것처럼 느껴집니다."
 bearskinrug003,utp,LocName,0,피부 폴
 bearskinrug003,utp,Description,0,"이 강력한 동물의 피부가 매력적인 카펫으로 변해왔고, 마치 당신을 바라보고 있는 것처럼 느껴집니다."
@@ -4216,32 +4216,33 @@ bearskinrug017,utp,LocName,0,두 개의 침대
 bearskinrug017,utp,Description,0,"이 강력한 동물의 피부가 매력적인 카펫으로 변해왔고, 마치 당신을 바라보고 있는 것처럼 느껴집니다."
 bearskinrug018,utp,LocName,0,침대
 bearskinrug018,utp,Description,0,"이 강력한 동물의 피부가 매력적인 카펫으로 변해왔고, 마치 당신을 바라보고 있는 것처럼 느껴집니다."
-bookcase004,utp,LocName,0,책상
+bookcase004,utp,LocName,0,책장
 bookcase004,utp,Description,0,이 잘 만들어진 책상에는 웅장하고 호기심 많은 고대 서적들이 있습니다.
-brokenchair002,utp,LocName,0,부러진 의자
+brokenchair002,utp,LocName,0,부서진 의자
 brokenchair002,utp,Description,0,누군가 또는 무언가가 이 의자를 무너뜨렸어.
-brokenchair003,utp,LocName,0,부러진 의자
+brokenchair003,utp,LocName,0,부서진 의자
 brokenchair003,utp,Description,0,누군가 또는 무언가가 이 의자를 무너뜨렸어.
-brokenchair004,utp,LocName,0,부러진 의자
+brokenchair004,utp,LocName,0,부서진 의자
 brokenchair004,utp,Description,0,누군가 또는 무언가가 이 의자를 무너뜨렸어.
 brokenchair005,utp,LocName,0,깨진 판
 brokenchair005,utp,Description,0,누군가 또는 무언가가 이 의자를 무너뜨렸어.
-brokenfurnit002,utp,LocName,0,깨진 테이블
+brokenfurnit002,utp,LocName,0,부서진 탁자
 brokenfurnit002,utp,Description,0,누군가 또는 무언가가 이 가구들을 불타는 것 외에는 아무 것도 할 수 없는 엉망이 되게 만들었습니다.
-brokenfurnit003,utp,LocName,0,깨진 가구
+brokenfurnit003,utp,LocName,0,부서진 가구
 brokenfurnit003,utp,Description,0,누군가 또는 무언가가 이 가구들을 불타는 것 외에는 아무 것도 할 수 없는 엉망이 되게 만들었습니다.
-brokenfurnit004,utp,LocName,0,깨진 가구
+brokenfurnit004,utp,LocName,0,부서진 가구
 brokenfurnit004,utp,Description,0,누군가 또는 무언가가 이 가구들을 불타는 것 외에는 아무 것도 할 수 없는 엉망이 되게 만들었습니다.
 corpse,utp,LocName,0,시체
-el_cleaner,utp,LocName,0,청소기
-el_cleaner,utp,Description,0,불행한 존재의 시체
+el_cleaner,utp,LocName,0,청소부
+el_cleaner,utp,Description,0,불운한 생명체의 시체
 el_corpsetoloot,utp,LocName,0,시체
-el_corpsetoloot,utp,Description,0,불행한 존재의 시체
+el_corpsetoloot,utp,Description,0,불운한 생명체의 시체
 fireflies_v100,utp,LocName,0,발광_v100
 fireplacable,utp,LocName,0,소화재
-fireplacable001,utp,LocName,0,우천
+fireplacable001,utp,LocName,0,분수
 fireplacable002,utp,LocName,0,루니스톤 Lg
-fireplacable003,utp,LocName,0,크리스탈
+fireplacable003,utp,LocName,0,수정
+grasstuft001,utp,LocName,0,고사리
 grasstuft001,utp,Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 grasstuft002,utp,LocName,0,2
 grasstuft002,utp,Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
@@ -4369,7 +4370,7 @@ tirnanog_tree088,utp,LocName,0,TN_StandingStone_Lrg
 tirnanog_tree089,utp,LocName,0,TN_StandingStone_Mdm
 tirnanog_tree090,utp,LocName,0,TN_StandingStone_Sml
 tirnanog_treepac,utp,LocName,0,TN_Tree_Spruce_A_Lrg
-vampire_shad001,utp,LocName,0,상자
+vampire_shad001,utp,LocName,0,관
 vampire_shad001,utp,Description,0,사코파거의 무거운 덮개는 장식되지 않은 돌로 만들어졌습니다.
 vibrantpurplepri,utp,LocName,0,비브란트 보라색 프리즘 이온 스톤
 vibrantpurplepri,utp,Description,0,활기찬 보라색 프리즘 이온 돌
@@ -4392,7 +4393,7 @@ cavemaze,utt,LocalizedName,0,동굴 Maze
 cavernstoblocked,utt,LocalizedName,0,동굴가 막힌
 createparty,utt,LocalizedName,0,파티를 만들
 destroyparty,utt,LocalizedName,0,파괴당
-dgastrap002,utt,LocalizedName,0,치명적 인 가스 함정
+dgastrap002,utt,LocalizedName,0,살인적인 기체 함정
 driders_camp,utt,LocalizedName,0,driders_camp
 enter_nelad,utt,LocalizedName,0,엔터_네라드
 magetocamp2,utt,LocalizedName,0,마그 2 캠프
@@ -4405,7 +4406,7 @@ spiderstocamp,utt,LocalizedName,0,아나운서는
 start_gas,utt,LocalizedName,0,시작_가스
 start_gas001,utt,LocalizedName,0,start_fire
 teleport_to_star,utt,LocalizedName,0,텔레포트_투_start
-toamysteriouscav,utt,LocalizedName,0,신비 한 동굴
+toamysteriouscav,utt,LocalizedName,0,신비한 동굴
 toblockedleft,utt,LocalizedName,0,좌측으로 차단
 toblockedright,utt,LocalizedName,0,바로 차단
 tradewaytobattle,utt,LocalizedName,0,전투 장소로 가는 교역

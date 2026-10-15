@@ -48,11 +48,11 @@ ct_comm_evil_so5,utc,FirstName,0,-1,악한 군인
 ct_comm_evil_so6,utc,FirstName,0,-1,악한 군인
 ct_comm_gc_cons,utc,FirstName,0,-1,제국 건설
 ct_comm_hs_cons,utc,FirstName,0,-1,전투 건설
-ct_comm_hs_dark,utc,FirstName,0,-1,타락 한 사람
-ct_comm_hs_dasp,utc,FirstName,0,-1,타락 한 사람
+ct_comm_hs_dark,utc,FirstName,0,-1,타락한 자
+ct_comm_hs_dasp,utc,FirstName,0,-1,타락한 자
 ct_comm_im_prka,utc,FirstName,0,-1,가라크 제국 경비
 ct_comm_nt_ghcm,utc,FirstName,0,-1,가라크 일반
-ct_comm_nt_ghtg,utc,FirstName,0,-1,악당
+ct_comm_nt_ghtg,utc,FirstName,0,-1,깡패
 ct_comm_nt_glow,utc,Description,0,12813,"이상한 마법의 존재, 광석은 샤라칸 제국의 마법사들이 어두운 곳에 빛을 발하도록 사용한다."
 ct_comm_nt_glow,utc,FirstName,0,12814,글로스톤
 ct_comm_nt_mrbm,utc,FirstName,0,-1,블랙 마켓 상인
@@ -62,7 +62,7 @@ ct_comm_nt_mrme,utc,FirstName,0,-1,식료품 거래자
 ct_comm_nt_mrpo,utc,FirstName,0,-1,약품 거래자
 ct_comm_nt_mrwp,utc,FirstName,0,-1,무기 거래자
 ct_comm_nt_swwr,utc,FirstName,0,-1,하수도 홍수 승무원
-ct_comm_nt_wait,utc,FirstName,0,-1,웨이터
+ct_comm_nt_wait,utc,FirstName,0,-1,여종업원
 ct_comm_pers_1a,utc,FirstName,0,12393,평민
 ct_comm_pers_1b,utc,FirstName,0,12393,평민
 ct_comm_pers_1c,utc,FirstName,0,12393,평민
@@ -83,7 +83,7 @@ ct_comm_sh_cit_2,utc,FirstName,0,-1,제국 시민
 ct_comm_sh_cit_3,utc,FirstName,0,-1,제국 시민
 ct_comm_sh_cit_4,utc,FirstName,0,-1,제국 시민
 ct_comm_sh_citi,utc,FirstName,0,-1,제국 시민
-ct_comm_sh_dkwr,utc,FirstName,0,-1,왜성 항구 노동자
+ct_comm_sh_dkwr,utc,FirstName,0,-1,왜성 항만 일꾼
 ct_comm_sh_gdrc,utc,FirstName,0,-1,제국 군인
 ct_comm_sh_ghgd,utc,FirstName,0,-1,가라크 제국 경비
 ct_comm_sh_guar,utc,FirstName,0,-1,샤라칸 제국 경비
@@ -111,10 +111,10 @@ ct_nw_noblfemale,utc,FirstName,0,12659,알타레아 여신
 ct_nw_noblfemale,utc,LastName,0,-1,하릴
 ct_nw_noblmale,utc,FirstName,0,12660,스톤 경
 ct_nw_noblmale,utc,LastName,0,-1,하릴
-ct_nw_oldman1,utc,FirstName,0,12670,늙은 남자
-ct_nw_oldman2,utc,FirstName,0,12670,늙은 남자
-ct_nw_oldwoman1,utc,FirstName,0,12672,늙은 여자
-ct_nw_oldwoman2,utc,FirstName,0,12672,늙은 여자
+ct_nw_oldman1,utc,FirstName,0,12670,노인
+ct_nw_oldman2,utc,FirstName,0,12670,노인
+ct_nw_oldwoman1,utc,FirstName,0,12672,노파
+ct_nw_oldwoman2,utc,FirstName,0,12672,노파
 ct_op_hench_bruk,utc,FirstName,0,-1,브루쿠스
 ct_op_hench_bruk,utc,LastName,0,-1,블러드햄어
 ct_op_hench_kara,utc,Description,0,-1,다이네시 왕조의 마지막인 이 까마귀 털이 있는 엘프의 아름다움은 죽은 사람들과 이야기 할 수 있는 그녀의 가족의 능력을 지니고 있습니다. 이것은 아카나 여신으로부터 그들에게 주어졌지만 사제들로부터 질투로 욕되게 된 선물입니다. 이제 그녀는 황제에 봉사하고 그의 그림자에서 안전을 찾습니다.
@@ -122,7 +122,7 @@ ct_op_hench_kara,utc,FirstName,0,-1,카라
 ct_op_hench_kara,utc,LastName,0,-1,다이네시
 ct_op_hench_lyen,utc,Description,0,-1,황제의 눈과 귀는 그 그림자 안에서 거의 놓치지 않고 덜 드러낸다.
 ct_op_hench_lyen,utc,FirstName,0,-1,리엔
-ct_op_hench_lyen,utc,LastName,0,-1,실버 블레이드
+ct_op_hench_lyen,utc,LastName,0,-1,실버블레이드
 ct_op_hench_mark,utc,Description,0,-1,"이 전직 노예 는 이제 황제의 비밀 사령관 으로 활동 하고 있습니다. 일부분 전사, 일부분 대사, 일부분 복수 요원 으로 제국 을 자신 에게서 보호 합니다."
 ct_op_hench_mark,utc,FirstName,0,-1,마키오스
 ct_op_hench_mark,utc,LastName,0,-1,알브라이트
@@ -159,8 +159,8 @@ ct_uniq_nt_dl_0,utc,FirstName,0,-1,저주를 받은 카그림 왕
 ct_uniq_nt_dl_01,utc,FirstName,0,-1,저주를 받은 카그림 왕
 ct_uniq_nt_dl_02,utc,FirstName,0,-1,저주를 받은 카그림 왕
 ct_uniq_nt_drby,utc,FirstName,0,12525,소년
-ct_uniq_nt_drgr,utc,FirstName,0,12525,여자
-ct_uniq_nt_drsp,utc,FirstName,0,-1,영
+ct_uniq_nt_drgr,utc,FirstName,0,12525,소녀
+ct_uniq_nt_drsp,utc,FirstName,0,-1,영혼
 ct_uniq_nt_egba,utc,FirstName,0,-1,에그바르
 ct_uniq_nt_etsp,utc,FirstName,0,-1,영원 한 영
 ct_uniq_nt_ghan,utc,FirstName,0,-1,칸
@@ -181,10 +181,10 @@ ct_uniq_nt_rd_0,utc,FirstName,0,-1,수수께끼
 ct_uniq_nt_rfow,utc,FirstName,0,-1,장다르
 ct_uniq_nt_rfow,utc,LastName,0,-1,숙소 관리자
 ct_uniq_nt_rvow,utc,FirstName,0,-1,루크나르
-ct_uniq_nt_rvow,utc,LastName,0,-1,술집 관리자
+ct_uniq_nt_rvow,utc,LastName,0,-1,주점 주인
 ct_uniq_nt_s0dr,utc,Description,0,12439,"일반적으로 자연에 순종하는 이 야생, 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기 껍데기"
-ct_uniq_nt_s0dr,utc,FirstName,0,12440,오리
-ct_uniq_nt_s0wr,utc,FirstName,0,-1,래프트
+ct_uniq_nt_s0dr,utc,FirstName,0,12440,사슴
+ct_uniq_nt_s0wr,utc,FirstName,0,-1,망령
 ct_uniq_nt_serv,utc,FirstName,0,-1,라카의 종
 ct_uniq_nt_stms,utc,FirstName,0,-1,이상한 선지자
 ct_uniq_nt_xant,utc,FirstName,0,-1,타르
@@ -231,7 +231,7 @@ gemli,utc,FirstName,0,-1,제밀리
 gemli,utc,LastName,0,-1,컨퍼런스
 hench_bruk,utc,Description,0,-1,황제의 눈과 귀는 그 그림자 안에서 거의 놓치지 않고 덜 드러낸다.
 hench_bruk,utc,FirstName,0,-1,리엔
-hench_bruk,utc,LastName,0,-1,실버 블레이드
+hench_bruk,utc,LastName,0,-1,실버블레이드
 hench_kara,utc,Description,0,-1,다이네시 왕조의 마지막인 이 까마귀 털이 있는 엘프의 아름다움은 죽은 사람들과 이야기 할 수 있는 그녀의 가족의 능력을 지니고 있습니다. 이것은 아카나 여신으로부터 그들에게 주어졌지만 사제들로부터 질투로 욕되게 된 선물입니다. 이제 그녀는 황제에 봉사하고 그의 그림자에서 안전을 찾습니다.
 hench_kara,utc,FirstName,0,-1,카라
 hench_kara,utc,LastName,0,-1,다이네시

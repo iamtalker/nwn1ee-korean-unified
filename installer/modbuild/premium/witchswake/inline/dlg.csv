@@ -759,7 +759,7 @@ ww1_firestatue,dlg,EntryList/5/Text,0,-1,손을 뚫고 들어가서 마법의 �
 ww1_firestatue,dlg,EntryList/6/Text,0,-1,"<StartAction>[무효한 전술]</Start> 죄송합니다, 마법 기기를 사용하는 기술에 대한 훈련이 없습니다."
 ww1_firestatue,dlg,ReplyList/0/Text,0,-1,가자
 ww1_firestatue,dlg,ReplyList/1/Text,0,-1,손 좀 뚫어 넣어요
-ww1_firestatue,dlg,ReplyList/2/Text,0,-1,<StartAction>[마술 기기를 사용]</Start> 마법을 이용하려고 노력하세요.
+ww1_firestatue,dlg,ReplyList/2/Text,0,-1,<StartAction>[마법 기구 사용]</Start> 마법을 이용하려고 노력하세요.
 ww1_firestatue,dlg,ReplyList/3/Text,0,-1,에너지가 가라앉게 해
 ww1_firestatue,dlg,ReplyList/4/Text,0,-1,에너지를 풀어주십시오.
 ww1_firestatue,dlg,ReplyList/6/Text,0,-1,손 좀 뚫어 넣어요
@@ -1302,10 +1302,10 @@ ww1_morrius,dlg,ReplyList/21/Text,0,-1,"""그래, 내가 죽었을 때 봤어"".
 ww1_morrius,dlg,ReplyList/22/Text,0,-1,"""네, 죽었네"""
 ww1_morrius,dlg,ReplyList/23/Text,0,-1,- 그만둬
 ww1_morrius,dlg,ReplyList/24/Text,0,-1,<StartAction>[평화]</Start># 왜성과 그의 두려움을 완화시키려고 노력합니다.
-ww1_morrius,dlg,ReplyList/25/Text,0,-1,"<StartAction>[평화: 캐스트 제거 공포]</Start> ""보아라, 여기서 무서운 게 없어요?"
+ww1_morrius,dlg,ReplyList/25/Text,0,-1,"<StartAction> [Pacify: Cast 공포 해제]</Start> ""보아라, 여기서 무서운 게 없어요""."
 ww1_morrius,dlg,ReplyList/26/Text,0,-1,"<StartAction>[Pacify: Cast Charm Person]</Start> ""유, 이제 모두 진정해""."
 ww1_morrius,dlg,ReplyList/27/Text,0,-1,"<StartAction>[평화: 설득]</Start> ""우, 내가 틀렸지. 모든 게 괜찮아""."
-ww1_morrius,dlg,ReplyList/28/Text,0,-1,"<StartAction>[평화: 캐스트 제거 공포]</Start> ""잠깐, 두려워할 게 없다""."
+ww1_morrius,dlg,ReplyList/28/Text,0,-1,"<StartAction>[Pacify: Cast 공포 해제]</Start> ""잠깐만, 두려워할 게 없다""."
 ww1_morrius,dlg,ReplyList/3/Text,0,-1,"""내가 위험에 처해있었나?"
 ww1_morrius,dlg,ReplyList/30/Text,0,-1,"<StartAction>[평화: 캐스트 매력은 사람]</Start> ""그래, 진정해""."
 ww1_morrius,dlg,ReplyList/32/Text,0,-1,"<StartAction>[평화: 설득]</Start> ""아마도 틀렸어. 모든 게 괜찮아""."
@@ -1778,7 +1778,7 @@ ww1_nimmermaer,dlg,EntryList/64/Text,0,-1,"""나처럼 머지않아 너한테 �
 ww1_nimmermaer,dlg,EntryList/65/Text,0,-1,"이 어미는 허약하고 늙은 것처럼 숨쉬고 있습니다. ""만약 그 늙은 소녀가 발견된 것에 부끄러움을 느끼지 못한다면, 아마도 곧 다시 집에 올 것입니다."
 ww1_nimmermaer,dlg,EntryList/66/Text,0,-1,<StartAction>[DC: 13]</Start> 용기를 얻기 위한 전술을 선택하세요.
 ww1_nimmermaer,dlg,EntryList/67/Text,0,-1,"<StartAction> [실패] </Start> ""아니, 아가씨. 네 손가락이 이렇게 쪼그려있지 않아! 캐스팅 중 중간쯤에 마찰을 당할 수 있다!"""
-ww1_nimmermaer,dlg,EntryList/68/Text,0,-1,"<StartAction>[성공]</Start> 늙은 마법사는 웃는다. ""단순한 마법을, 매혹적인 인자, 하지만 당신은 충분히 잘 던졌어. 오, 현명한 캐스터는 항상 내 최고의 가격을 얻을 것이다""."
+ww1_nimmermaer,dlg,EntryList/68/Text,0,-1,"<StartAction>[Success]</Start> 늙은 마법사는 미소를 짓습니다. ""단순한 주문, 사람 현혹, 하지만 당신은 충분히 잘 던졌어요. 오세요, 현명한 캐스터는 항상 내 최고의 가격을 얻을 것입니다""."
 ww1_nimmermaer,dlg,EntryList/69/Text,0,-1,"<StartAction>[무효한 전술]</Start> 죄송합니다, 현재 매혹적인 인물을 캐스팅할 수 없습니다."
 ww1_nimmermaer,dlg,EntryList/7/Text,0,-1,"회색 된 늙은 왜성 은 그 페이지 에 있는 그림 을 흥미 로 보고 있다. ""예, 그것은 요정 의 언어로 쓰여졌지만, 그 에 관해 더 많은 것 은 거의 알려 줄 수 없다""."
 ww1_nimmermaer,dlg,EntryList/70/Text,0,-1,"<StartAction>[실패]</Start> ""더 많은 이유 때문에 추가로 요금을 부과해야 한다""고 늙은이가 계산한다."
@@ -1899,7 +1899,7 @@ ww1_princeahmed,dlg,EntryList/26/Text,0,-1,"마침내 은 끝났습니다. 안�
 ww1_princeahmed,dlg,EntryList/27/Text,0,-1,"늙은 여인이 긴장해서 쳐다보죠. ""그 사람? 아니, 나 아니. 내가 그를 보고 있을 때 이미 벗겨져 있고, 그렇게 뚫려져있었지."
 ww1_princeahmed,dlg,EntryList/28/Text,0,-1,아흐메드 왕자가 죽은 곳에 바위가 쌓여 있어 그 밑바닥에 안개가 모여 있습니다.
 ww1_princeahmed,dlg,EntryList/29/Text,0,-1,"당신은 돌 밑에 묻혀 있는 사람과 함께 있는 것처럼 느껴집니다. 그 여행에 그의 영혼의 안전을 위해 기도하는 동안. 당신이 기도하는 동안, 왕자가 당신을 위해 어떻게든 똑같이하는 이상한 느낌을 경험합니다."
-ww1_princeahmed,dlg,EntryList/3/Text,0,-1,<StartAction>[Will Save: 실패]</Start> 공황이 당신 안에 들어갑니다. 당신은 이 남자를 한때 알고 있었습니다. 당신은 그를 당신의 왕자라고 불렀습니다. 그리고 이제 그는 군인의 톱니 끝에서 당신 앞에 매달리고 있습니다.
+ww1_princeahmed,dlg,EntryList/3/Text,0,-1,<StartAction> [의지굴림: 실패]</Start> 공황이 당신 안에 솟아오르고 있습니다. 당신은 이 남자를 한 번 알고 있었습니다.
 ww1_princeahmed,dlg,EntryList/4/Text,0,-1,찢어진 사람의 눈은 파란색이고 강렬하고 그의 뚫고 있는 시선은 기억에 불타고 서서히 깜박이는 것
 ww1_princeahmed,dlg,EntryList/5/Text,0,-1,"""당신은 기억하지 않나요?"" 왕자는 피를 흘린 그의 말을 속삭이고 ""우리는 스스로에게 해냈어요""... ""그는 기침을 하고, 눈은 땀을 흘리고, 흰색을 벗겨야 한다"". ""당신은..."
 ww1_princeahmed,dlg,EntryList/6/Text,0,-1,"왕자의 눈은 더 밝게 빛나고, 그의 죽음을 선포하는 것을 용기하는 것처럼. ""왕에게 말해야 한다"". 그는 속삭인다. 그러나 고통은 그의 눈을 뒤집어 그들의 흰색을 벗고, 그의 입에서 피가 흐르고 있습니다."
@@ -2030,7 +2030,7 @@ ww1_ragpicker,dlg,ReplyList/34/Text,0,-1,"""나도 그렇게 생각하지 않아
 ww1_ragpicker,dlg,ReplyList/35/Text,0,-1,"""알지 않아요, 그렇게 생각하지 않아요""."
 ww1_ragpicker,dlg,ReplyList/38/Text,0,-1,"""좋아, 내가 해줘""."
 ww1_ragpicker,dlg,ReplyList/39/Text,0,-1,"""좋아, 내가 해줄게""."
-ww1_ragpicker,dlg,ReplyList/4/Text,0,-1,<StartAction> [반응 저장]</Start> 손을 움직여보아라.
+ww1_ragpicker,dlg,ReplyList/4/Text,0,-1,<StartAction>[반사굴림]</Start> 손을 움직일 수 있도록 노력하세요.
 ww1_ragpicker,dlg,ReplyList/40/Text,0,-1,"""왜 내가 이 나이트 헤그를 봐야 하는가?"""
 ww1_ragpicker,dlg,ReplyList/41/Text,0,-1,"""왜 내가 이 나이트 헤그를 봐야 하는가?"""
 ww1_ragpicker,dlg,ReplyList/43/Text,0,-1,"""나는 죽은 사람에게 도둑질하지 않는다. 그건 옳지 않다""."
@@ -2053,7 +2053,7 @@ ww1_ragpicker,dlg,ReplyList/65/Text,0,-1,"""좋아요, 거래용 물건이 있�
 ww1_ragpicker,dlg,ReplyList/66/Text,0,-1,"""좋아요, 교환용 물건들을 모아놨어요""..."
 ww1_ragpicker,dlg,ReplyList/67/Text,0,-1,<StartAction>[혜택을 얻으세요]</Start> 더 공정한 가격을 요청하세요.
 ww1_ragpicker,dlg,ReplyList/68/Text,0,-1,<StartAction> 다른 접근법을 시도해 보세요. </Start>
-ww1_ragpicker,dlg,ReplyList/69/Text,0,-1,"<StartAction>[좋아요: 캐스트 매스 Person]</Start> ""우, 내가 할인 받을 수 있어?"
+ww1_ragpicker,dlg,ReplyList/69/Text,0,-1,"<StartAction>[Get Favour: Cast 사람 현혹]</Start> ""우, 저 할인해?"
 ww1_ragpicker,dlg,ReplyList/70/Text,0,-1,"<StartAction>[혜택을 얻으세요: 설득]</Start> ""제만해 주세요""."
 ww1_ragpicker,dlg,ReplyList/71/Text,0,-1,"<StartAction>[혜택을 얻으세요: 플러트]</Start> ""뭐? 아름다운 여자는 자비를 보이지 않나요?"""
 ww1_ragpicker,dlg,ReplyList/72/Text,0,-1,"<StartAction>[혜택을 얻으세요: 캐스트 매크 인]</Start> ""나는 할인 혜택을 받고 있다고 생각합니다""."
@@ -2161,7 +2161,7 @@ ww1_sorrowselk,dlg,ReplyList/16/Text,0,-1,"""나는 또한 숭고한 사유로 �
 ww1_sorrowselk,dlg,ReplyList/17/Text,0,-1,"""누가 여기 기다리고 있어?"""
 ww1_sorrowselk,dlg,ReplyList/18/Text,0,-1,"""누가 여기 기다리고 있어?"""
 ww1_sorrowselk,dlg,ReplyList/19/Text,0,-1,"""그게 무슨 뜻이야?"""
-ww1_sorrowselk,dlg,ReplyList/2/Text,0,-1,<StartAction>[동물 공감대]</Start> 유령 엘킨비스트에게 속삭여
+ww1_sorrowselk,dlg,ReplyList/2/Text,0,-1,<StartAction>[동물 감응]</Start> 유령 엘킨비스트에게 속삭인다.
 ww1_sorrowselk,dlg,ReplyList/20/Text,0,-1,"""그게 무슨 뜻이야?"""
 ww1_sorrowselk,dlg,ReplyList/3/Text,0,-1,"""내가 도울 수 있는 방법이 있나요?"""
 ww1_sorrowselk,dlg,ReplyList/4/Text,0,-1,"""내가 도와줄 수 있는 게 있나요?"""
@@ -2256,18 +2256,18 @@ ww_abilityuse,dlg,EntryList/7/Text,0,-1,<StartAction>[성공]</Start> NPC는 정
 ww_abilityuse,dlg,EntryList/8/Text,0,-1,<StartAction>[실패]</Start> NPC는 플레이어를 꾸짖고 협조력이 떨어집니다.
 ww_abilityuse,dlg,EntryList/9/Text,0,-1,<StartAction>[성공]</Start> NPC는 정보를 공개하거나 의도하지 않은 행동을 하도록 자극됩니다.
 ww_abilityuse,dlg,ReplyList/1/Text,0,-1,<StartAction>[provoke]</Start>
-ww_abilityuse,dlg,ReplyList/10/Text,0,-1,<StartAction>[평화: 캐스트를 제거하라]</Start> 부지런한 반응
-ww_abilityuse,dlg,ReplyList/11/Text,0,-1,<StartAction>[평화: 캐스트 매치 인스]</Start> 부지런한 반응
+ww_abilityuse,dlg,ReplyList/10/Text,0,-1,<StartAction>[Pacify: 캐스트 공포 해제]</Start> 부지런한 반응
+ww_abilityuse,dlg,ReplyList/11/Text,0,-1,<StartAction>[Pacify: 캐스트 사람 현혹]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/12/Text,0,-1,<StartAction>[평화: 설득]</Start> 부지런한 반응
-ww_abilityuse,dlg,ReplyList/13/Text,0,-1,<StartAction>[평화: 캐스트 제거 공포]</Start> 지능적인 반응
-ww_abilityuse,dlg,ReplyList/15/Text,0,-1,<StartAction>[평화: 캐스트 매크 인스]</Start> 지능적인 반응
+ww_abilityuse,dlg,ReplyList/13/Text,0,-1,<StartAction>[Pacify: 캐스트 공포 해제]</Start> 지능형 응답
+ww_abilityuse,dlg,ReplyList/15/Text,0,-1,<StartAction>[Pacify: 캐스트 사람 현혹]</Start> 지능형 응답
 ww_abilityuse,dlg,ReplyList/17/Text,0,-1,<StartAction>[평화: 설득]</Start> 지능적인 반응
 ww_abilityuse,dlg,ReplyList/18/Text,0,-1,<StartAction> (Bluff) </Start>
-ww_abilityuse,dlg,ReplyList/19/Text,0,-1,<StartAction>[블러프: 매혹적인 사람]</Start> 부지런한 반응
+ww_abilityuse,dlg,ReplyList/19/Text,0,-1,<StartAction>[Bluff: 사람 현혹]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/2/Text,0,-1,<StartAction>[provoke: 캐스트 혼란]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/20/Text,0,-1,<StartAction>[블러프: 수행]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/21/Text,0,-1,<StartAction>[블러프: 설득]</Start> 부지런한 반응
-ww_abilityuse,dlg,ReplyList/22/Text,0,-1,<StartAction>[블러프: 캐스트 매임 인스]</Start> 지능적인 반응
+ww_abilityuse,dlg,ReplyList/22/Text,0,-1,<StartAction>[Bluff: 캐스트 사람 현혹]</Start> 지능형 응답
 ww_abilityuse,dlg,ReplyList/24/Text,0,-1,<StartAction>[블러프: 수행]</Start> 지능적인 응답
 ww_abilityuse,dlg,ReplyList/25/Text,0,-1,<StartAction>[블러프: 설득]</Start> 지능적인 반응
 ww_abilityuse,dlg,ReplyList/26/Text,0,-1,<StartAction>[혜택을 얻으세요]</Start>
@@ -2284,7 +2284,7 @@ ww_abilityuse,dlg,ReplyList/38/Text,0,-1,<StartAction> </Start>
 ww_abilityuse,dlg,ReplyList/39/Text,0,-1,<StartAction>[음성: 캐스트 홀드 인스]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/4/Text,0,-1,<StartAction> [provoke: 지혜]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/40/Text,0,-1,<StartAction>[음성: 캐스트 침묵]</Start> 부지런한 반응
-ww_abilityuse,dlg,ReplyList/41/Text,0,-1,<StartAction>[음성: 스탠딩 펀스]</Start> 부지런한 반응
+ww_abilityuse,dlg,ReplyList/41/Text,0,-1,<StartAction>[음성: 경직권]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/42/Text,0,-1,<StartAction> [성명: 성실함]</Start> 그 사람이 울기 전에 목을 어요.
 ww_abilityuse,dlg,ReplyList/43/Text,0,-1,<StartAction>[음성: 캐스트 홀드 인스]</Start> 지능적인 반응
 ww_abilityuse,dlg,ReplyList/45/Text,0,-1,<StartAction>[음성: 캐스트 침묵]</Start> 지능적인 반응

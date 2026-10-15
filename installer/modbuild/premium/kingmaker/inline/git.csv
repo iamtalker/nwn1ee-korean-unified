@@ -1,8 +1,8 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
 bastionoftheenem,git,Creature List/15/ItemList/2/LocalizedName,0,-1,오크 키
 bastionoftheenem,git,Creature List/27/ItemList/0/LocalizedName,0,-1,듀어거 키
-bastionoftheenem,git,Creature List/34/FirstName,0,2924,코볼드
-bastionoftheenem,git,Creature List/42/FirstName,0,2925,코볼드 험
+bastionoftheenem,git,Creature List/34/FirstName,0,2924,코볼트
+bastionoftheenem,git,Creature List/42/FirstName,0,2925,코볼트 깡패
 bastionoftheenem,git,Creature List/42/ItemList/0/LocalizedName,0,-1,코볼드 키
 bastionoftheenem,git,Creature List/44/ItemList/0/LocalizedName,0,-1,드로우의 열쇠
 bastionoftheenem,git,Creature List/53/Description,0,64101,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
@@ -10,8 +10,8 @@ bastionoftheenem,git,Creature List/6/FirstName,0,3100,호브글린 장군
 bastionoftheenem,git,Creature List/6/ItemList/0/LocalizedName,0,-1,도블린 키
 bastionoftheenem,git,Door List/0/LocName,0,5349,문
 bastionoftheenem,git,Encounter List/1/LocalizedName,0,14506,"오크, 낮은 집단"
-bastionoftheenem,git,Encounter List/2/LocalizedName,0,91343,듀어거 만남
-bastionoftheenem,git,Encounter List/3/LocalizedName,0,91348,코볼드 만남
+bastionoftheenem,git,Encounter List/2/LocalizedName,0,91343,듀에르가 인카운터
+bastionoftheenem,git,Encounter List/3/LocalizedName,0,91348,코볼트 인카운터
 bastionoftheenem,git,Placeable List/0/Description,0,14703,작은 압력판은 아래에서 숨겨진 메커니즘을 활성화하는 것 같습니다.
 bastionoftheenem,git,Placeable List/0/LocName,0,14704,신비한 브래킷
 bastionoftheenem,git,Placeable List/1/LocName,0,14704,신비한 브래킷
@@ -111,18 +111,18 @@ bastionoftheenem,git,TriggerList/2/LocalizedName,0,14759,치먼 선거 종료
 bastionoftheenem,git,TriggerList/3/LocalizedName,0,14759,보이지 않는 일리티드 트리거
 bastionoftheenem,git,TriggerList/4/LocalizedName,0,14759,보이지 않는 일리티드 트리거
 bastionoftheenem,git,TriggerList/5/LocalizedName,0,14759,치맨 미친 놈
-bastionoftheenem,git,WaypointList/4/LocalizedName,0,14817,지도표: 출구 지표
+bastionoftheenem,git,WaypointList/4/LocalizedName,0,14817,지도표: 출구 웨이포인트
 bastionoftheenem,git,WaypointList/4/MapNote,0,-1,출구
 bastionoftheenem,git,WaypointList/5/LocalizedName,0,14817,웨이포인트 캡틴
 bastionoftheenem,git,WaypointList/7/LocalizedName,0,14817,q3_way_henchfleeX
 ccaves,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,슬램 1d6+4 (+1d6 산 + 마비)
-ccaves,git,Creature List/1/FirstName,0,-1,젤라닌스 큐브
+ccaves,git,Creature List/1/FirstName,0,-1,젤리같은 육면체
 ccaves,git,Creature List/4/FirstName,0,-1,죽어가는 여자
 ccaves,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,178,듀어거 해머
 ccaves,git,Creature List/5/ItemList/0/LocalizedName,0,-1,심성 보석
 ccaves,git,Creature List/5/ItemList/1/LocalizedName,0,-1,듀어거 헤드
 ccaves,git,Door List/3/LocName,0,5349,문
-ccaves,git,Door List/7/LocName,0,5349,동굴 출구
+ccaves,git,Door List/7/LocName,0,5349,던전 출구
 ccaves,git,Placeable List/0/Description,0,14595,빨간색: 녹색 노란색의 북쪽: 빨간색 파란색의 동쪽: 보라색 보라색의 동쪽: 황색 녹색의 남쪽: 보라색 오렌지의 서쪽: 파란색의 북쪽
 ccaves,git,Placeable List/0/ItemList/0/LocalizedName,0,-1,톱니 키
 ccaves,git,Placeable List/0/ItemList/1/LocalizedName,0,-1,구리 열쇠
@@ -140,20 +140,20 @@ ccaves,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
 ccaves,git,WaypointList/0/LocalizedName,0,14817,셸 키 로그 포인트
 ccaves,git,WaypointList/1/LocalizedName,0,14817,발톱 의 핵심 방향
 ccaves,git,WaypointList/2/LocalizedName,0,14817,황금 의 핵심 방향
-ccaves,git,WaypointList/3/LocalizedName,0,14817,두개골의 핵심 방향
+ccaves,git,WaypointList/3/LocalizedName,0,14817,두개골 열쇠 웨이포인트
 ccaves,git,WaypointList/4/LocalizedName,0,14817,치아 의 핵심 방향
 ccaves,git,WaypointList/5/LocalizedName,0,14817,구리 핵심 경로
-ccaves,git,WaypointList/6/LocalizedName,0,14817,실버 키 웨이포인트
-ccaves,git,WaypointList/7/LocalizedName,0,14817,불의 원자 방향
+ccaves,git,WaypointList/6/LocalizedName,0,14817,은 열쇠 웨이포인트
+ccaves,git,WaypointList/7/LocalizedName,0,14817,불의 원소 정령 웨이포인트
 ecumenicaltemple,git,Creature List/0/Description,0,-1,라파엘은 상가 신 칼라히의 사제입니다.
 ecumenicaltemple,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,13798,금판
 ecumenicaltemple,git,Creature List/0/FirstName,0,-1,라파엘
 ecumenicaltemple,git,Creature List/0/LastName,0,-1,레오날로멘
 ecumenicaltemple,git,Creature List/1/Description,0,-1,이 사람은 라보스입니다. 죽음의 신부 여신입니다.
-ecumenicaltemple,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,13759,블랙 드래곤 갑옷
+ecumenicaltemple,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,13759,흑룡 갑옷
 ecumenicaltemple,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,발자국 부츠 +6
 ecumenicaltemple,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,-1,장갑 브레이커 +6
-ecumenicaltemple,git,Creature List/1/Equip_ItemList/7/LocalizedName,0,-1,클라우드 거대 강대
+ecumenicaltemple,git,Creature List/1/Equip_ItemList/7/LocalizedName,0,-1,구름 거인 근력의 허리띠
 ecumenicaltemple,git,Creature List/1/FirstName,0,-1,라보스
 ecumenicaltemple,git,Creature List/1/LastName,0,-1,갈리아어
 ecumenicaltemple,git,Creature List/2/Description,0,-1,이것은 경건한 보호자들 가운데 하나라
@@ -179,7 +179,7 @@ ecumenicaltemple,git,Placeable List/15/LocName,0,14541,야세스 신장
 ecumenicaltemple,git,Placeable List/16/Description,0,84167,아름다움의 신을 숭배하는 성당이 거울이라는 것은 놀라운 일이 아닙니다.
 ecumenicaltemple,git,Placeable List/16/LocName,0,83421,타모세 의 성당
 ecumenicaltemple,git,Placeable List/9/LocName,0,14734,쿨르 의 성당
-ecumenicaltemple,git,StoreList/0/LocName,0,-1,템플 스토어
+ecumenicaltemple,git,StoreList/0/LocName,0,-1,신전 상점
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,13809,오래전부터 멸종 된 생물 의 뼈 를 이용 하여 만들어진 이 종류 의 갑옷 은 드물고 많은 사람 들 이 찾는 것 이다. 소문 은 발라타 북쪽 에서 최근 발견 된 것 을 알려 준다. 이 생물 의 여러 골격 을 발견 한 곳 은 그 곳 이다.
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,67761,"칼라기 신 은 자기 추종자 들 에게 다른 사람 들 과 대우 할 때 ""꿀 혀""가 필요하다고 기대 한다. 자연스럽게 그렇게 하지 않는 사람 들 에게는 항상 마법적 인 증진 이 있다. 많은 사람 들 은 그러한 증진 을 단순한 헛된 것 이라고 생각 하는 반면, 많은 상인 들 은 그러한 도움 으로서 자기 들 의 이익 을 두 배 로 증가 시켰다고 맹세 한다."
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/28/DescIdentified,0,67769,수힐리 자신 은 그 들 의 가장 위대한 사제인 셀두나 라이 가 그녀의 명예 를 위해 일주일 동안 목회 한 때 이 벨트를 축복 한 것 이라고 한다. 수힐리의 추종자들은 이 벨트를 죽은 자 들 과 싸운 전쟁 에서 계속 사용 한다.
@@ -190,9 +190,9 @@ ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/35/DescIdentified,0,56651,
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/36/DescIdentified,0,56657,9명의 신들의 성전은 그들의 광범위한 신념의 추종자들이 사용할 수 있는 다양한 옷장에 시간과 에너지를 투자했습니다.
 ecumenicaltemple,git,StoreList/0/StoreList/3/ItemList/2/DescIdentified,0,56634,페로스의 예배당에서 위대한 지도자였던 테베의 힘은 그녀의 생명을 기리기 위해 매년 그녀의 사망일을 축하합니다.
 ecumenicaltemple,git,StoreList/0/StoreList/3/ItemList/3/DescIdentified,0,56634,페로스의 예배당에서 위대한 지도자였던 테베의 힘은 그녀의 생명을 기리기 위해 매년 그녀의 사망일을 축하합니다.
-ecumenicaltemple,git,StoreList/0/StoreList/4/ItemList/1/DescIdentified,0,48889,"이 보상은 금속 보석으로 보인 것 같습니다. 이 평범한 작업 이외에도, 쉴딩의 브루치는 착용자를 둘러싼 보이지 않는 힘 분야를 배치하여 마법 미사일에 추가적인 보호 및 면역력을 부여 할 수 있습니다."
+ecumenicaltemple,git,StoreList/0/StoreList/4/ItemList/1/DescIdentified,0,48889,이 보석 은 단순한 금 의 장신 으로 보인다. 그 밖 에 차폐의 브로치 는 일상적 인 과제 와 더불어 착용자 를 둘러싼 보이지 않는 힘 필드 을 배치 하여 마법 로켓 에게 추가적인 보호 및 면역력 을 부여 할 수 있다.
 ecumenicaltemple,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
-ecumenicaltemple,git,WaypointList/0/LocalizedName,0,14817,다이노스 홈 웨이포인트
+ecumenicaltemple,git,WaypointList/0/LocalizedName,0,14817,다이노스 집 웨이포인트
 ecumenicaltemple,git,WaypointList/1/LocalizedName,0,14817,노예 와이포인트
 emptybtlthree,git,Creature List/0/Description,0,-1,이 엘프 쌍둥이는 상인 카라반의 지도자들이죠.
 emptybtlthree,git,Creature List/0/FirstName,0,-1,알레노르
@@ -202,23 +202,23 @@ emptybtlthree,git,Creature List/1/FirstName,0,-1,알렉시스
 emptybtlthree,git,Creature List/1/LastName,0,-1,킨탈리스
 emptybtlthree,git,Creature List/16/FirstName,0,12457,개
 emptybtlthree,git,Creature List/2/Description,0,-1,이것은 경호자들 중 하나라
-emptybtlthree,git,Creature List/2/FirstName,0,-1,경비
+emptybtlthree,git,Creature List/2/FirstName,0,-1,경비병
 emptybtlthree,git,Creature List/3/Description,0,-1,이것은 경호자들 중 하나라
-emptybtlthree,git,Creature List/3/FirstName,0,-1,경비
+emptybtlthree,git,Creature List/3/FirstName,0,-1,경비병
 emptybtlthree,git,Creature List/4/Description,0,-1,이것은 경호자들 중 하나라
-emptybtlthree,git,Creature List/4/FirstName,0,-1,경비
+emptybtlthree,git,Creature List/4/FirstName,0,-1,경비병
 emptybtlthree,git,Creature List/5/Description,0,-1,이것은 경호자들 중 하나라
-emptybtlthree,git,Creature List/5/FirstName,0,-1,경비
+emptybtlthree,git,Creature List/5/FirstName,0,-1,경비병
 emptybtlthree,git,Door List/0/LocName,0,5349,동굴 통과
 emptybtlthree,git,Door List/3/LocName,0,5349,철문
-emptybtlthree,git,Placeable List/0/LocName,0,5699,브레이지어
-emptybtlthree,git,Placeable List/1/LocName,0,5699,브레이지어
-emptybtlthree,git,Placeable List/2/LocName,0,5699,브레이지어
-emptybtlthree,git,Placeable List/3/LocName,0,5699,브레이지어
-emptybtlthree,git,Placeable List/4/LocName,0,5699,브레이지어
-emptybtlthree,git,Placeable List/5/LocName,0,5699,브레이지어
-emptybtlthree,git,Placeable List/6/LocName,0,5699,브레이지어
-emptybtlthree,git,Placeable List/7/LocName,0,5699,브레이지어
+emptybtlthree,git,Placeable List/0/LocName,0,5699,화로
+emptybtlthree,git,Placeable List/1/LocName,0,5699,화로
+emptybtlthree,git,Placeable List/2/LocName,0,5699,화로
+emptybtlthree,git,Placeable List/3/LocName,0,5699,화로
+emptybtlthree,git,Placeable List/4/LocName,0,5699,화로
+emptybtlthree,git,Placeable List/5/LocName,0,5699,화로
+emptybtlthree,git,Placeable List/6/LocName,0,5699,화로
+emptybtlthree,git,Placeable List/7/LocName,0,5699,화로
 emptybtlthree,git,StoreList/0/LocName,0,-1,카라반
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/29/DescIdentified,0,67729,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/30/DescIdentified,0,40655,이 헬멧은 착용자의 눈 위에 두 개의 특별한 크리스탈 렌즈를 장착하여 스팟 체크에 +5 보너스를 부여합니다.
@@ -245,7 +245,7 @@ emptybtlthree,git,WaypointList/3/MapNote,0,14815,사이언을 조심하라
 faction1area,git,Creature List/0/FirstName,0,-1,q2_사실 남자
 faction2,git,Creature List/0/FirstName,0,-1,q2_사실 남자2
 fcaves,git,Creature List/0/ItemList/0/LocalizedName,0,-1,보라색 유리
-fcaves,git,Creature List/1/FirstName,0,56579,좀비 왕
+fcaves,git,Creature List/1/FirstName,0,56579,좀비 군주
 fcaves,git,Creature List/1/ItemList/0/LocalizedName,0,-1,파란색 유리
 fcaves,git,Creature List/10/FirstName,0,12567,도블린 시체
 fcaves,git,Creature List/11/FirstName,0,12567,도블린 시체
@@ -257,7 +257,7 @@ fcaves,git,Creature List/16/FirstName,0,12567,도블린 시체
 fcaves,git,Creature List/17/FirstName,0,12567,도블린 시체
 fcaves,git,Creature List/18/FirstName,0,12567,도블린 시체
 fcaves,git,Creature List/19/FirstName,0,12567,도블린 시체
-fcaves,git,Creature List/2/FirstName,0,56570,"엄마, 주님"
+fcaves,git,Creature List/2/FirstName,0,56570,미라 군주
 fcaves,git,Creature List/2/ItemList/0/LocalizedName,0,-1,심성 보석
 fcaves,git,Creature List/20/FirstName,0,12567,도블린 시체
 fcaves,git,Creature List/21/FirstName,0,12567,도블린 시체
@@ -274,8 +274,8 @@ fcaves,git,Creature List/7/FirstName,0,12567,도블린 시체
 fcaves,git,Creature List/8/FirstName,0,12567,도블린 시체
 fcaves,git,Creature List/9/FirstName,0,12567,도블린 시체
 fcaves,git,Door List/0/LocName,0,5349,보석 문
-fcaves,git,Door List/7/LocName,0,5349,암호 출구
-fcaves,git,Encounter List/0/LocalizedName,0,14513,좀비 그룹
+fcaves,git,Door List/7/LocName,0,5349,납골당 출구
+fcaves,git,Encounter List/0/LocalizedName,0,14513,좀비 무리
 fcaves,git,Encounter List/1/LocalizedName,0,14513,스켈레톤 그룹
 fcaves,git,Encounter List/2/LocalizedName,0,14513,구울 그룹
 fcaves,git,Encounter List/3/LocalizedName,0,14513,알립 그룹
@@ -305,13 +305,13 @@ fcaves,git,Placeable List/8/ItemList/0/LocalizedName,0,-1,붉은 유리
 fcaves,git,Placeable List/9/Description,0,14594,"철로 묶여서 무거운 잠금으로, 이 무거운 상자 는 분명 가치 있는 무언가를 보호하기 위한 것이었다."
 fcaves,git,Placeable List/9/ItemList/0/LocalizedName,0,-1,녹색 유리
 fcaves,git,Placeable List/9/ItemList/1/DescIdentified,0,-1,"이것은 매우 무거운 헬멧입니다. 밀고 있고 내구성이 강한 금속으로 만들어졌습니다. 헬멧 내부에 작은 글씨가 있습니다. ""스테틀러에서 만들어졌습니다""."
-fcaves,git,SoundList/2/LocName,0,-1,체인 래틀
-fcaves,git,SoundList/3/LocName,0,-1,문 소음
-fcaves,git,SoundList/4/LocName,0,-1,귀신
+fcaves,git,SoundList/2/LocName,0,-1,쇠사슬이 덜그럭거리는 소리
+fcaves,git,SoundList/3/LocName,0,-1,문 소리
+fcaves,git,SoundList/4/LocName,0,-1,유령
 fcaves,git,TriggerList/0/LocalizedName,0,14759,오하이오는 트리거를 시작합니다
 fcaves,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 무작위"
 fcaves,git,TriggerList/2/LocalizedName,0,14759,오하이오가 트리거 2를 시작
-fcaves,git,WaypointList/0/LocalizedName,0,14817,지도표: 출구 지표
+fcaves,git,WaypointList/0/LocalizedName,0,14817,지도표: 출구 웨이포인트
 fcaves,git,WaypointList/0/MapNote,0,-1,출구
 fcaves,git,WaypointList/1/LocalizedName,0,14817,죽은 자 없는 웨이포인트
 forest,git,Creature List/0/Description,0,-1,"이 남자는 언제든 특이한 것처럼 보이지만, 그의 이상하게 비추는 눈과 결정적인 거무는 그를 미친 사람처럼 보이게 한다."
@@ -341,25 +341,25 @@ gcaves,git,Creature List/0/ItemList/0/LocalizedName,0,-1,도블린 헤드
 gcaves,git,Creature List/0/ItemList/1/LocalizedName,0,-1,심성 보석
 gcaves,git,Creature List/1/Description,0,-1,이들은 지역 농장에서 가져온 노예들입니다.
 gcaves,git,Creature List/1/FirstName,0,-1,노예 농부
-gcaves,git,Creature List/10/FirstName,0,12567,고블린 아커
+gcaves,git,Creature List/10/FirstName,0,12567,고블린 궁수
 gcaves,git,Creature List/11/FirstName,0,12567,고블린 폭격자
 gcaves,git,Creature List/12/FirstName,0,12567,고블린 폭격자
-gcaves,git,Creature List/13/FirstName,0,12567,괴물
-gcaves,git,Creature List/14/FirstName,0,12567,괴물
-gcaves,git,Creature List/15/FirstName,0,12567,괴물
-gcaves,git,Creature List/16/FirstName,0,12567,괴물
-gcaves,git,Creature List/17/FirstName,0,12567,괴물
-gcaves,git,Creature List/18/FirstName,0,12567,괴물
-gcaves,git,Creature List/19/FirstName,0,12567,괴물
+gcaves,git,Creature List/13/FirstName,0,12567,고블린
+gcaves,git,Creature List/14/FirstName,0,12567,고블린
+gcaves,git,Creature List/15/FirstName,0,12567,고블린
+gcaves,git,Creature List/16/FirstName,0,12567,고블린
+gcaves,git,Creature List/17/FirstName,0,12567,고블린
+gcaves,git,Creature List/18/FirstName,0,12567,고블린
+gcaves,git,Creature List/19/FirstName,0,12567,고블린
 gcaves,git,Creature List/2/Description,0,-1,이들은 지역 농장에서 가져온 노예들입니다.
 gcaves,git,Creature List/2/FirstName,0,-1,노예 농부
 gcaves,git,Creature List/20/ItemList/0/LocalizedName,0,-1,도블린 키
 gcaves,git,Creature List/21/FirstName,0,12566,도블린 경비자
 gcaves,git,Creature List/22/FirstName,0,12566,도블린 경비자
 gcaves,git,Creature List/23/FirstName,0,12566,도블린 경비자
-gcaves,git,Creature List/24/FirstName,0,12567,고블린 아커
-gcaves,git,Creature List/25/FirstName,0,12567,고블린 아커
-gcaves,git,Creature List/26/FirstName,0,12567,고블린 아커
+gcaves,git,Creature List/24/FirstName,0,12567,고블린 궁수
+gcaves,git,Creature List/25/FirstName,0,12567,고블린 궁수
+gcaves,git,Creature List/26/FirstName,0,12567,고블린 궁수
 gcaves,git,Creature List/3/Description,0,-1,이들은 지역 농장에서 가져온 노예들입니다.
 gcaves,git,Creature List/3/FirstName,0,-1,노예 농부
 gcaves,git,Creature List/4/Description,0,-1,이들은 지역 농장에서 가져온 노예들입니다.
@@ -371,29 +371,29 @@ gcaves,git,Creature List/9/Description,0,12565,고블린은 종종 귀찮게 여
 gcaves,git,Creature List/9/FirstName,0,12567,고블린 폭격자
 gcaves,git,Door List/0/LocName,0,5349,동굴 출구
 gcaves,git,Door List/6/Description,0,-1,봉쇄 된 다리 문
-gcaves,git,Door List/8/LocName,0,5349,케이지 문
-gcaves,git,Encounter List/1/LocalizedName,0,14513,고블린 엘리트
+gcaves,git,Door List/8/LocName,0,5349,우리 문
+gcaves,git,Encounter List/1/LocalizedName,0,14513,고블린 정예
 gcaves,git,Placeable List/0/LocName,0,5738,느슨한 돌
 gcaves,git,Placeable List/1/LocName,0,-1,상자
 gcaves,git,Placeable List/13/Description,0,14597,이 상자 는 낮고 평평 한 곳 으로서 상인의 계좌 를 보관 하고 보관 하기 위해 설계 된 것 같습니다.
 gcaves,git,Placeable List/13/ItemList/0/DescIdentified,0,-1,"이 노트는 거칠고 괴물 한 손으로 쓴 편지입니다. ""오그레들이 군대에 합류하기 때문에 남은 금이 전부입니다. 만약 마스터가 더 많은 물건을 고용하기를 원한다면, 야만족이나 용처럼, 우리는 더 많은 금을 필요로 할 것입니다!"
 gcaves,git,Placeable List/13/ItemList/0/Description,0,-1,"이 노트는 거칠고 괴물 한 손으로 쓴 편지입니다. ""오그레들이 군대에 합류하기 때문에 남은 금이 전부입니다. 만약 마스터가 더 많은 물건을 고용하기를 원한다면, 야만족이나 용처럼, 우리는 더 많은 금을 필요로 할 것입니다!"
-gcaves,git,Placeable List/13/ItemList/0/LocalizedName,0,-1,돌고래 노트
+gcaves,git,Placeable List/13/ItemList/0/LocalizedName,0,-1,고블린 쪽지
 gcaves,git,Placeable List/14/Description,0,66885,"큰, 단단한 화석 조각이 땅 밖으로 나오고 있습니다."
 gcaves,git,Placeable List/2/LocName,0,-1,상장 상자 - 밖으로 나가라!
-gcaves,git,SoundList/2/LocName,0,-1,동굴 드립
+gcaves,git,SoundList/2/LocName,0,-1,동굴 물떨어지는 소리
 gcaves,git,SoundList/7/LocName,0,-1,동굴 박쥐
 gcaves,git,TriggerList/0/LocalizedName,0,14759,노예 출구 트리거
 gcaves,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 무작위"
 gcaves,git,TriggerList/2/LocalizedName,0,14759,스맨 고블린
 gcaves,git,TriggerList/5/LocalizedName,0,14759,노예 가 촉발 을 시작 시킨다
-gcaves,git,TriggerList/7/LocalizedName,0,14759,도블린 사장은 트리거를 시작
+gcaves,git,TriggerList/7/LocalizedName,0,14759,고블린 족장은 트리거를 시작합니다
 gcaves,git,WaypointList/0/LocalizedName,0,14817,느슨한 돌 1 방향
-gcaves,git,WaypointList/1/LocalizedName,0,14817,지도표: 출구 지표
+gcaves,git,WaypointList/1/LocalizedName,0,14817,지도표: 출구 웨이포인트
 gcaves,git,WaypointList/1/MapNote,0,-1,출구
 granaryroom,git,Creature List/0/Description,0,-1,이 사람은 제불론입니다. 마법사 엔나의 친숙자입니다.
 granaryroom,git,Creature List/0/FirstName,0,-1,세불론
-granaryroom,git,WaypointList/0/LocalizedName,0,14817,비밀 스카트 로그 포인트
+granaryroom,git,WaypointList/0/LocalizedName,0,14817,비밀 격자 웨이포인트
 graveyard001,git,Door List/0/LocName,0,5349,강 출구
 graveyard001,git,Encounter List/0/LocalizedName,0,14513,곰 그룹
 graveyard001,git,Placeable List/0/Description,0,66749,"빛나는, 건강한 녹색 잎과 줄기는 바람에 조금씩 변합니다."
@@ -410,13 +410,13 @@ graveyard001,git,Placeable List/3/LocName,0,-1,다니엘 의 머리 돌
 graveyard001,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
 graveyard001,git,WaypointList/0/LocalizedName,0,14814,코리 의 방향
 graveyard001,git,WaypointList/1/LocalizedName,0,14814,댄 의 방향
-graveyard001,git,WaypointList/2/LocalizedName,0,14817,지도표: 출구 지표
+graveyard001,git,WaypointList/2/LocalizedName,0,14817,지도표: 출구 웨이포인트
 graveyard001,git,WaypointList/2/MapNote,0,-1,출구
 hcaves,git,Creature List/0/FirstName,0,2865,만티코어
 hcaves,git,Creature List/0/ItemList/0/DescIdentified,0,-1,이것은 당신이 죽인 맨티코어의 피부입니다.
 hcaves,git,Creature List/0/ItemList/0/Description,0,-1,이것은 당신이 죽인 맨티코어의 피부입니다.
 hcaves,git,Creature List/0/ItemList/0/LocalizedName,0,-1,맨티코어 스카이드
-hcaves,git,Creature List/1/FirstName,0,12566,괴물
+hcaves,git,Creature List/1/FirstName,0,12566,고블린
 hcaves,git,Creature List/1/ItemList/0/LocalizedName,0,-1,독성 크리스탈
 hcaves,git,Creature List/1/ItemList/1/LocalizedName,0,-1,심성 보석
 hcaves,git,Door List/0/LocName,0,5349,출구
@@ -454,8 +454,8 @@ hcaves,git,Placeable List/7/Description,0,14632,이 긴 레버는 근처의 돌 
 hcaves,git,Placeable List/7/LocName,0,14633,레버
 hcaves,git,Placeable List/8/Description,0,14632,이 긴 레버는 근처의 돌 문을 작동시키는 것 같습니다.
 hcaves,git,Placeable List/8/LocName,0,14633,레버
-hcaves,git,SoundList/1/LocName,0,-1,문 소음
-hcaves,git,TriggerList/0/LocalizedName,0,14759,맨티코어 트래프 트리거
+hcaves,git,SoundList/1/LocName,0,-1,문 소리
+hcaves,git,TriggerList/0/LocalizedName,0,14759,만티코어 함정 트리거
 hcaves,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 무작위"
 hcaves,git,TriggerList/2/LocalizedName,0,14759,스맨 맨티코어
 hcaves,git,TriggerList/3/LocalizedName,0,14759,도블린이 트리거를 시작
@@ -466,31 +466,31 @@ hcaves,git,WaypointList/3/LocalizedName,0,14817,유령 경로 점프
 hcaves,git,WaypointList/4/LocalizedName,0,14817,유령 경로 점프
 hcaves,git,WaypointList/5/LocalizedName,0,14817,맨티코어 레버 웨이포인트
 hcaves,git,WaypointList/6/LocalizedName,0,14817,맨티코어 레버 웨이포인트
-hcaves,git,WaypointList/7/LocalizedName,0,14817,지도표: 출구 지표
+hcaves,git,WaypointList/7/LocalizedName,0,14817,지도표: 출구 웨이포인트
 hcaves,git,WaypointList/7/MapNote,0,-1,출구
-hillside,git,Door List/1/LocName,0,5349,농촌 출구
-hillside,git,Door List/10/LocName,0,5349,암호 입구
+hillside,git,Door List/1/LocName,0,5349,시골 출구
+hillside,git,Door List/10/LocName,0,5349,납골당 입구
 hillside,git,Door List/11/LocName,0,5349,숲 출구
 hillside,git,Door List/12/LocName,0,5349,동굴 입구
 hillside,git,Door List/2/LocName,0,5349,동굴 입구
-hillside,git,Door List/4/LocName,0,5349,암호 입구
+hillside,git,Door List/4/LocName,0,5349,납골당 입구
 hillside,git,Door List/5/LocName,0,5349,동굴 입구
-hillside,git,Door List/6/LocName,0,5349,문
-hillside,git,Door List/8/LocName,0,5349,문
+hillside,git,Door List/6/LocName,0,5349,관문
+hillside,git,Door List/8/LocName,0,5349,관문
 hillside,git,Door List/9/LocName,0,5349,동굴 입구
 hillside,git,Encounter List/0/LocalizedName,0,14513,늑대 그룹
-hillside,git,Encounter List/1/LocalizedName,0,14525,좀비 그룹
-hillside,git,Encounter List/10/LocalizedName,0,-1,코볼드 만남
-hillside,git,Encounter List/11/LocalizedName,0,14487,고블린 그룹
-hillside,git,Encounter List/12/LocalizedName,0,14487,고블린 그룹
-hillside,git,Encounter List/13/LocalizedName,0,14487,고블린 그룹
-hillside,git,Encounter List/2/LocalizedName,0,14525,좀비 그룹
-hillside,git,Encounter List/4/LocalizedName,0,91343,듀어거 만남
-hillside,git,Encounter List/5/LocalizedName,0,91343,듀어거 만남
+hillside,git,Encounter List/1/LocalizedName,0,14525,좀비 무리
+hillside,git,Encounter List/10/LocalizedName,0,-1,코볼트 인카운터
+hillside,git,Encounter List/11/LocalizedName,0,14487,고블린 무리
+hillside,git,Encounter List/12/LocalizedName,0,14487,고블린 무리
+hillside,git,Encounter List/13/LocalizedName,0,14487,고블린 무리
+hillside,git,Encounter List/2/LocalizedName,0,14525,좀비 무리
+hillside,git,Encounter List/4/LocalizedName,0,91343,듀에르가 인카운터
+hillside,git,Encounter List/5/LocalizedName,0,91343,듀에르가 인카운터
 hillside,git,Encounter List/6/LocalizedName,0,91343,마법 의 만남
 hillside,git,Encounter List/7/LocalizedName,0,91343,마법 의 만남
-hillside,git,Encounter List/8/LocalizedName,0,-1,코볼드 만남
-hillside,git,Encounter List/9/LocalizedName,0,-1,코볼드 만남
+hillside,git,Encounter List/8/LocalizedName,0,-1,코볼트 인카운터
+hillside,git,Encounter List/9/LocalizedName,0,-1,코볼트 인카운터
 hillside,git,Placeable List/19/LocName,0,14561,블랙핸드 홈스테드
 hillside,git,TriggerList/0/LocalizedName,0,14759,알리아스가 트리거를 시작합니다
 hillside,git,TriggerList/1/LocalizedName,0,14759,알리아스가 트리거를 시작합니다
@@ -511,10 +511,10 @@ hillside,git,WaypointList/5/LocalizedName,0,14817,지도 표: 죽은 자 들 의
 hillside,git,WaypointList/5/MapNote,0,-1,죽은 자 들 의 훼손
 hillside,git,WaypointList/6/LocalizedName,0,14814,지도 참고: 일리티드 동굴
 hillside,git,WaypointList/6/MapNote,0,14815,일리티드 동굴
-hillside,git,WaypointList/7/LocalizedName,0,14817,지도표: 출구 지표
+hillside,git,WaypointList/7/LocalizedName,0,14817,지도표: 출구 웨이포인트
 hillside,git,WaypointList/7/MapNote,0,-1,공허한 전투장에
 hillside,git,WaypointList/8/LocalizedName,0,14814,지도 참고: 그로브
-hillside,git,WaypointList/8/MapNote,0,14815,그로브
+hillside,git,WaypointList/8/MapNote,0,14815,숲
 neutral,git,Creature List/0/FirstName,0,-1,중립적인 남자
 neutral,git,List/0/DescIdentified,0,-1,이 작은 손 거울은 레이디 레한의 귀신이 남겼어요
 neutral,git,List/0/LocalizedName,0,-1,레이디 레한의 거울
@@ -536,15 +536,15 @@ prisondungeon,git,Encounter List/5/LocalizedName,0,-1,감옥 침입자
 prisondungeon,git,Encounter List/6/LocalizedName,0,-1,감옥 침입자
 prisondungeon,git,Encounter List/7/LocalizedName,0,-1,감옥 침입자
 prisondungeon,git,Placeable List/14/LocName,0,14601,죽은 죄수
-prisondungeon,git,Placeable List/31/ItemList/0/LocalizedName,0,-1,셀 키
+prisondungeon,git,Placeable List/31/ItemList/0/LocalizedName,0,-1,감방 열쇠
 prisondungeon,git,Placeable List/31/LocName,0,14551,화살이 가득한 경비
-prisondungeon,git,SoundList/0/LocName,0,-1,체인 래틀
+prisondungeon,git,SoundList/0/LocName,0,-1,쇠사슬이 덜그럭거리는 소리
 prisondungeon,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
 prisondungeon,git,TriggerList/2/LocalizedName,0,14759,호브글린_트리거
-prisondungeon,git,WaypointList/0/LocalizedName,0,14817,지도 참고: 비밀 입구
+prisondungeon,git,WaypointList/0/LocalizedName,0,14817,지도 설명: 비밀 입구
 prisondungeon,git,WaypointList/0/MapNote,0,-1,비밀 입구
-prisondungeon,git,WaypointList/1/LocalizedName,0,14817,교도소 출구
-prisondungeon,git,WaypointList/1/MapNote,0,-1,동굴 출구
+prisondungeon,git,WaypointList/1/LocalizedName,0,14817,감옥 던전 출구
+prisondungeon,git,WaypointList/1/MapNote,0,-1,던전 출구
 prisondungeon,git,WaypointList/2/LocalizedName,0,14817,포로 와이포인트
 q1e,git,Door List/0/LocName,0,5349,동굴 출구
 q1e,git,Placeable List/13/Description,0,68824,"먼지 덩어리, 썩거나 진흙을 만드는 것 외에는 거의 모든 것에 적합하지 않습니다."
@@ -552,14 +552,14 @@ q1e,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
 q1e,git,TriggerList/1/LocalizedName,0,14759,헨치먼 그로브
 q1e,git,WaypointList/0/LocalizedName,0,14814,카이달라 홈
 q1e,git,WaypointList/1/LocalizedName,0,14814,화염 괴물 경로
-q1e,git,WaypointList/2/LocalizedName,0,14817,지도표: 출구 지표
+q1e,git,WaypointList/2/LocalizedName,0,14817,지도표: 출구 웨이포인트
 q1e,git,WaypointList/2/MapNote,0,-1,출구
 q2b001,git,Creature List/0/Description,0,-1,이건 경호원 중 하나야
-q2b001,git,Creature List/0/FirstName,0,-1,경비
+q2b001,git,Creature List/0/FirstName,0,-1,경비병
 q2b001,git,Creature List/1/Description,0,-1,"이 상장 관리자는 눈을 매우 미묘하게 바라보고 있고, 고객과 대면할 때 코가 떨고 있습니다."
 q2b001,git,Creature List/10/FirstName,0,-1,거지
 q2b001,git,Creature List/11/Description,0,-1,이건 경호원 중 하나야
-q2b001,git,Creature List/11/FirstName,0,-1,경비
+q2b001,git,Creature List/11/FirstName,0,-1,경비병
 q2b001,git,Creature List/12/FirstName,0,-1,지역 경비
 q2b001,git,Creature List/13/FirstName,0,12457,길거리 개
 q2b001,git,Creature List/2/Description,0,-1,이 가게 관리자는 많은 나쁜 날들을 본 것 같습니다.
@@ -574,7 +574,7 @@ q2b001,git,Creature List/6/FirstName,0,12422,평민
 q2b001,git,Creature List/7/FirstName,0,-1,지역 경비
 q2b001,git,Creature List/8/FirstName,0,-1,거지
 q2b001,git,Creature List/9/FirstName,0,-1,거지
-q2b001,git,Door List/0/LocName,0,5349,시티 게이트
+q2b001,git,Door List/0/LocName,0,5349,도시 관문
 q2b001,git,Door List/1/LocName,0,5349,숙소 입구
 q2b001,git,Door List/12/LocName,0,5349,도시 문
 q2b001,git,Door List/2/LocName,0,5349,숙소 입구
@@ -583,7 +583,7 @@ q2b001,git,Door List/4/LocName,0,5349,술집 출입구
 q2b001,git,Door List/7/LocName,0,5349,쿼터마스터 입구
 q2b001,git,Door List/9/LocName,0,5349,스미티 입구
 q2b001,git,Placeable List/14/LocName,0,14561,쿼터마스터의 가게
-q2b001,git,Placeable List/15/LocName,0,14561,스미티
+q2b001,git,Placeable List/15/LocName,0,14561,대장간
 q2b001,git,Placeable List/16/LocName,0,14561,모시 나무
 q2b001,git,Placeable List/17/LocName,0,14561,모시 나무
 q2b001,git,Placeable List/18/LocName,0,14561,황폐화된 탱커드
@@ -604,32 +604,32 @@ q2b001,git,TriggerList/6/LocalizedName,0,14759,헨치먼 탱커드
 q2b001,git,TriggerList/7/LocalizedName,0,14759,헨치맨 투표 트리거
 q2b001,git,TriggerList/8/LocalizedName,0,14759,헨치맨 투표 트리거
 q2b001,git,TriggerList/9/LocalizedName,0,14759,헨치맨 투표 트리거
-q2b001,git,WaypointList/0/LocalizedName,0,14817,애니메이션 홈 웨이포인트
+q2b001,git,WaypointList/0/LocalizedName,0,14817,집 웨이포인트
 q2b001,git,WaypointList/1/LocalizedName,0,14817,암살자 1 웨이포인트
 q2b001,git,WaypointList/10/LocalizedName,0,14814,파운스샵
 q2b001,git,WaypointList/10/MapNote,0,14815,파운스샵
 q2b001,git,WaypointList/11/LocalizedName,0,14814,쿼터마스터
 q2b001,git,WaypointList/11/MapNote,0,14815,쿼터마스터
-q2b001,git,WaypointList/12/LocalizedName,0,14814,스미티
-q2b001,git,WaypointList/12/MapNote,0,14815,스미티
+q2b001,git,WaypointList/12/LocalizedName,0,14814,대장간
+q2b001,git,WaypointList/12/MapNote,0,14815,대장간
 q2b001,git,WaypointList/13/LocalizedName,0,14814,황폐화된 탱커드
 q2b001,git,WaypointList/13/MapNote,0,14815,황폐화된 탱커드
 q2b001,git,WaypointList/14/LocalizedName,0,14814,시안의 문으로
 q2b001,git,WaypointList/14/MapNote,0,14815,주요 문 으로
-q2b001,git,WaypointList/15/LocalizedName,0,14817,경비 방향
+q2b001,git,WaypointList/15/LocalizedName,0,14817,경비병 웨이포인트
 q2b001,git,WaypointList/16/LocalizedName,0,14817,암살자 3 웨이포인트
-q2b001,git,WaypointList/17/LocalizedName,0,14817,남방 경비원
-q2b001,git,WaypointList/18/LocalizedName,0,14817,남방 경비원
-q2b001,git,WaypointList/19/LocalizedName,0,14817,남방 경비원
+q2b001,git,WaypointList/17/LocalizedName,0,14817,남쪽 경비병 웨이포인트
+q2b001,git,WaypointList/18/LocalizedName,0,14817,남쪽 경비병 웨이포인트
+q2b001,git,WaypointList/19/LocalizedName,0,14817,남쪽 경비병 웨이포인트
 q2b001,git,WaypointList/2/LocalizedName,0,14817,암살자 2 웨이포인트
-q2b001,git,WaypointList/20/LocalizedName,0,14817,남방 경비원
-q2b001,git,WaypointList/21/LocalizedName,0,14817,남방 경비원
-q2b001,git,WaypointList/22/LocalizedName,0,14817,남방 경비원
-q2b001,git,WaypointList/23/LocalizedName,0,14817,남방 경비원
-q2b001,git,WaypointList/24/LocalizedName,0,14817,남방 경비원
+q2b001,git,WaypointList/20/LocalizedName,0,14817,남쪽 경비병 웨이포인트
+q2b001,git,WaypointList/21/LocalizedName,0,14817,남쪽 경비병 웨이포인트
+q2b001,git,WaypointList/22/LocalizedName,0,14817,남쪽 경비병 웨이포인트
+q2b001,git,WaypointList/23/LocalizedName,0,14817,남쪽 경비병 웨이포인트
+q2b001,git,WaypointList/24/LocalizedName,0,14817,남쪽 경비병 웨이포인트
 q2b001,git,WaypointList/3/LocalizedName,0,14817,젤라니 웨이포인트를 살해하라
 q2b001,git,WaypointList/4/LocalizedName,0,14817,아기 탈출 경로
-q2b001,git,WaypointList/5/LocalizedName,0,14817,모마지 홈 웨이포인트
+q2b001,git,WaypointList/5/LocalizedName,0,14817,모마지 집 웨이포인트
 q2b001,git,WaypointList/6/LocalizedName,0,14814,시장 광장
 q2b001,git,WaypointList/6/MapNote,0,14815,시장 광장
 q2b001,git,WaypointList/7/LocalizedName,0,14814,시안 북쪽
@@ -652,7 +652,7 @@ q2b11,git,Door List/0/LocName,0,5349,파운즈샵 출구
 q2b11,git,StoreList/0/LocName,0,-1,도둑 가게
 q2b11,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,40659,"이 금속 기술자 의 스레임 은 찌꺼기 의 특징 을 가지고 있다. 이 스레임 은 특히 착용자 의 눈 에 걸쳐 복잡 한 일련 의 렌즈 가 회전 할 수 있도록 만들어졌다. 이 스레임 은 근접 시야 를 훨씬 향상 시키며, 작은 톱, 흔적, 균열, 불완전성 등의 특징 을 찾아내거나 식별 하는 데 매우 유용 하다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,40661,"이 헬멧은 착용자의 눈 위에 어두운 결정의 두 개의 렌즈를 장착한다. 렌즈는 불투명하지만, 착용자의 눈 위에 배치되면 정상적인 시력을 가능하게 하고 어두운 시력을 부여한다. 깊은 동굴과 지하 유적을 탐색하는 모험을 좋아하는 모험가들에게 일반적인 장비로, 이 헬멧은 또한 인간이 ""큰 평평""으로 칭송 받고 있으며 인간 악당들 사이에서 매우 인기가 있습니다."
-q2b11,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,67773,"성공적 인 상인 로저 델포스 는 도둑 반대 협회 를 결성 하기 위해 도둑 들 에게 보안 전문가 가 되기 위해 돈을 지불 하였다. 경호 는 도둑 들 을 검문 을 위해 잡기 위해 '홀드 인스' 마법 을 사용 하기 위해 훈련 을 받았다. 이 보안 조치 를 견제 하기 위해 도둑 협회 는 마법 벨트를 구입 하여 그러한 마법 의 영향 을 무효화 하였다. 두 협회 사이 에 벌어지고 있는 전쟁 에서, 이 벨트 들 의 상당수는 보금점 과 장비 매장 에 진입 하였다."
+q2b11,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,67773,"로저 델포스 (Ronger Delphos) 는 성공적 인 상인으로서 도둑 반대 협회를 결성하기 위해 보안 전문가가 되기 위하여 돈을 지불했다. 경비자들은 사람 포박 마법으로 막대기를 사용하도록 훈련받았으며, 이 수사 조치를 견제하기 위해서 도둑협회가 마술 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 교단 사이의 격상되는 전쟁에서 이러한 벨트 중 상당수는 보금점과 장비 매장에 진입하였다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,56609,"춤추는 도둑 은 전설적 인 인 인물이었습니다. 그 는 일련 의 화려 한 함정을 세우고, 그 후 그 들 을 통해 춤을 추고, 폭발 과 효과 를 통해 관객 을 즐겁게 하고 즐겁게 하기 위한 공연 을 만들어 냈습니다. 관중 들 이 주의 를 기울이면서, 그의 추종자 들 은 젊은 주머니잡이 들 이 군중 을 거쳐, 할 수 있는 것 을 가져다가 빠져나갔습니다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/13/LocalizedName,0,56610,댄스 부츠 +1
 q2b11,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,56609,"춤추는 도둑 은 전설적 인 인 인물이었습니다. 그 는 일련 의 화려 한 함정을 세우고, 그 후 그 들 을 통해 춤을 추고, 폭발 과 효과 를 통해 관객 을 즐겁게 하고 즐겁게 하기 위한 공연 을 만들어 냈습니다. 관중 들 이 주의 를 기울이면서, 그의 추종자 들 은 젊은 주머니잡이 들 이 군중 을 거쳐, 할 수 있는 것 을 가져다가 빠져나갔습니다."
@@ -669,7 +669,7 @@ q2b11,git,StoreList/0/StoreList/3/ItemList/6/DescIdentified,0,48923,"이 반지�
 q2b11,git,StoreList/1/LocName,0,-1,도둑 가게
 q2b11,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,40659,"이 금속 기술자 의 스레임 은 찌꺼기 의 특징 을 가지고 있다. 이 스레임 은 특히 착용자 의 눈 에 걸쳐 복잡 한 일련 의 렌즈 가 회전 할 수 있도록 만들어졌다. 이 스레임 은 근접 시야 를 훨씬 향상 시키며, 작은 톱, 흔적, 균열, 불완전성 등의 특징 을 찾아내거나 식별 하는 데 매우 유용 하다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,40661,"이 헬멧은 착용자의 눈 위에 어두운 결정의 두 개의 렌즈를 장착한다. 렌즈는 불투명하지만, 착용자의 눈 위에 배치되면 정상적인 시력을 가능하게 하고 어두운 시력을 부여한다. 깊은 동굴과 지하 유적을 탐색하는 모험을 좋아하는 모험가들에게 일반적인 장비로, 이 헬멧은 또한 인간이 ""큰 평평""으로 칭송 받고 있으며 인간 악당들 사이에서 매우 인기가 있습니다."
-q2b11,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,67773,"성공적 인 상인 로저 델포스 는 도둑 반대 협회 를 결성 하기 위해 도둑 들 에게 보안 전문가 가 되기 위해 돈을 지불 하였다. 경호 는 도둑 들 을 검문 을 위해 잡기 위해 '홀드 인스' 마법 을 사용 하기 위해 훈련 을 받았다. 이 보안 조치 를 견제 하기 위해 도둑 협회 는 마법 벨트를 구입 하여 그러한 마법 의 영향 을 무효화 하였다. 두 협회 사이 에 벌어지고 있는 전쟁 에서, 이 벨트 들 의 상당수는 보금점 과 장비 매장 에 진입 하였다."
+q2b11,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,67773,"로저 델포스 (Ronger Delphos) 는 성공적 인 상인으로서 도둑 반대 협회를 결성하기 위해 보안 전문가가 되기 위하여 돈을 지불했다. 경비자들은 사람 포박 마법으로 막대기를 사용하도록 훈련받았으며, 이 수사 조치를 견제하기 위해서 도둑협회가 마술 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 교단 사이의 격상되는 전쟁에서 이러한 벨트 중 상당수는 보금점과 장비 매장에 진입하였다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/13/DescIdentified,0,56609,"춤추는 도둑 은 전설적 인 인 인물이었습니다. 그 는 일련 의 화려 한 함정을 세우고, 그 후 그 들 을 통해 춤을 추고, 폭발 과 효과 를 통해 관객 을 즐겁게 하고 즐겁게 하기 위한 공연 을 만들어 냈습니다. 관중 들 이 주의 를 기울이면서, 그의 추종자 들 은 젊은 주머니잡이 들 이 군중 을 거쳐, 할 수 있는 것 을 가져다가 빠져나갔습니다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/13/LocalizedName,0,56610,댄스 부츠 +1
 q2b11,git,StoreList/1/StoreList/0/ItemList/14/DescIdentified,0,56609,"춤추는 도둑 은 전설적 인 인 인물이었습니다. 그 는 일련 의 화려 한 함정을 세우고, 그 후 그 들 을 통해 춤을 추고, 폭발 과 효과 를 통해 관객 을 즐겁게 하고 즐겁게 하기 위한 공연 을 만들어 냈습니다. 관중 들 이 주의 를 기울이면서, 그의 추종자 들 은 젊은 주머니잡이 들 이 군중 을 거쳐, 할 수 있는 것 을 가져다가 빠져나갔습니다."
@@ -705,15 +705,15 @@ q2b14a,git,Creature List/2/Description,0,-1,이 왜성 바드는 자존심과 �
 q2b14a,git,Creature List/2/FirstName,0,-1,커티스 경
 q2b14a,git,Creature List/2/LastName,0,-1,바르드
 q2b14a,git,Creature List/3/Description,0,-1,여기 술집 하녀가 있습니다.
-q2b14a,git,Creature List/3/FirstName,0,-1,술집 하녀
+q2b14a,git,Creature List/3/FirstName,0,-1,바텐더
 q2b14a,git,Creature List/4/Description,0,-1,여기 술집 하녀가 있습니다.
-q2b14a,git,Creature List/4/FirstName,0,-1,술집 하녀
+q2b14a,git,Creature List/4/FirstName,0,-1,바텐더
 q2b14a,git,Creature List/5/FirstName,0,-1,지역 경비
 q2b14a,git,Creature List/6/FirstName,0,-1,지역 경비
 q2b14a,git,Creature List/7/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-q2b14a,git,Creature List/7/FirstName,0,-1,경비
+q2b14a,git,Creature List/7/FirstName,0,-1,경비병
 q2b14a,git,Creature List/8/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-q2b14a,git,Creature List/8/FirstName,0,-1,경비
+q2b14a,git,Creature List/8/FirstName,0,-1,경비병
 q2b14a,git,Creature List/9/Description,0,-1,이 사람은 경기도의 일반인입니다.
 q2b14a,git,Creature List/9/FirstName,0,12422,평민
 q2b14a,git,Door List/0/LocName,0,5349,숙소 출구
@@ -729,7 +729,7 @@ q2b14a,git,WaypointList/5/LocalizedName,0,14817,웨이포인트 웨이터스
 q2b14a,git,WaypointList/6/LocalizedName,0,14817,웨이포인트 웨이터스
 q2b14a,git,WaypointList/7/LocalizedName,0,14817,웨이포인트 웨이터스
 q2b14a,git,WaypointList/8/LocalizedName,0,14817,웨이포인트 웨이터스
-q2b14a,git,WaypointList/9/LocalizedName,0,14817,헨치먼 홈 웨이포인트
+q2b14a,git,WaypointList/9/LocalizedName,0,14817,헨치맨 집 웨이포인트
 q2b14b,git,Door List/0/LocName,0,5349,문
 q2b14b,git,Door List/1/LocName,0,5349,문
 q2b9,git,Creature List/0/FirstName,0,-1,레비오'사
@@ -751,7 +751,7 @@ q2b9,git,Creature List/7/FirstName,0,12423,평민
 q2b9,git,Door List/0/LocName,0,5349,쿼터마스터 출구
 q2b9,git,Placeable List/16/Description,0,14599,"덩어리 머리와 짚으로 가득한 가슴으로, 전투 도미는 위협적인 것 같지 않습니다."
 q2b9,git,StoreList/0/LocName,0,-1,잡화점
-q2b9,git,StoreList/0/StoreList/0/ItemList/12/LocalizedName,0,13711,늑대 의 작은 갑옷
+q2b9,git,StoreList/0/StoreList/0/ItemList/12/LocalizedName,0,13711,작은 늑대의 갑옷
 q2b9,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,40655,이 헬멧은 착용자의 눈 위에 두 개의 특별한 크리스탈 렌즈를 장착하여 스팟 체크에 +5 보너스를 부여합니다.
 q2b9,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,56605,"5년 전쯤에 카레 산악 마을에서 비정상적인 전통이 생겨났는데, 마을 주민들은 두 개의 줄이 형성되어 서로 맞대편으로 총을 쏘아 올리는데, 다른 사람이 지휘를 받으며 총을 쏘아 올릴 수 있었다. 타격을 받지 않은 사람은 남았지만, 다른 사람들은 모두 뒤로 물러나서서, 한 사람이 일어서게 될 때까지 마을로 가는 여행자들은 게임을 ""보고하는 것은 멋진 재미가 있지만, 참여하기 위해 당신은 멍청한 바보가 되어야 한다""라고 보고했다. 몇 년 후 몇 가지 불행한 사망 후 마을 주민들은 다시 꽉 차있는 목표물을 쏘아 올렸다."
 q2b9,git,StoreList/0/StoreList/0/ItemList/15/DescIdentified,0,56605,"5년 전쯤에 카레 산악 마을에서 비정상적인 전통이 생겨났는데, 마을 주민들은 두 개의 줄이 형성되어 서로 맞대편으로 총을 쏘아 올리는데, 다른 사람이 지휘를 받으며 총을 쏘아 올릴 수 있었다. 타격을 받지 않은 사람은 남았지만, 다른 사람들은 모두 뒤로 물러나서서, 한 사람이 일어서게 될 때까지 마을로 가는 여행자들은 게임을 ""보고하는 것은 멋진 재미가 있지만, 참여하기 위해 당신은 멍청한 바보가 되어야 한다""라고 보고했다. 몇 년 후 몇 가지 불행한 사망 후 마을 주민들은 다시 꽉 차있는 목표물을 쏘아 올렸다."
@@ -766,7 +766,7 @@ q2b9,git,StoreList/0/StoreList/1/ItemList/37/LocalizedName,0,14052,차가운 혀
 q2b9,git,StoreList/0/StoreList/3/ItemList/3/DescIdentified,0,56645,"이 반지는 발라타 에서 바다 를 건너 있는 땅 에서 만들어졌다는 소문 이 있습니다. 그 어느 선박도 그러한 바다 를 넘기면서 살아남지 못했기 때문에, 이 이야기 를 믿는 사람은 거의 없습니다."
 q2b9,git,StoreList/0/StoreList/3/ItemList/4/DescIdentified,0,56645,"이 반지는 발라타 에서 바다 를 건너 있는 땅 에서 만들어졌다는 소문 이 있습니다. 그 어느 선박도 그러한 바다 를 넘기면서 살아남지 못했기 때문에, 이 이야기 를 믿는 사람은 거의 없습니다."
 q2b9,git,StoreList/1/LocName,0,-1,잡화점
-q2b9,git,StoreList/1/StoreList/0/ItemList/16/LocalizedName,0,13711,늑대 의 작은 갑옷
+q2b9,git,StoreList/1/StoreList/0/ItemList/16/LocalizedName,0,13711,작은 늑대의 갑옷
 q2b9,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,40655,이 헬멧은 착용자의 눈 위에 두 개의 특별한 크리스탈 렌즈를 장착하여 스팟 체크에 +5 보너스를 부여합니다.
 q2b9,git,StoreList/1/StoreList/0/ItemList/18/DescIdentified,0,56605,"5년 전쯤에 카레 산악 마을에서 비정상적인 전통이 생겨났는데, 마을 주민들은 두 개의 줄이 형성되어 서로 맞대편으로 총을 쏘아 올리는데, 다른 사람이 지휘를 받으며 총을 쏘아 올릴 수 있었다. 타격을 받지 않은 사람은 남았지만, 다른 사람들은 모두 뒤로 물러나서서, 한 사람이 일어서게 될 때까지 마을로 가는 여행자들은 게임을 ""보고하는 것은 멋진 재미가 있지만, 참여하기 위해 당신은 멍청한 바보가 되어야 한다""라고 보고했다. 몇 년 후 몇 가지 불행한 사망 후 마을 주민들은 다시 꽉 차있는 목표물을 쏘아 올렸다."
 q2b9,git,StoreList/1/StoreList/0/ItemList/19/DescIdentified,0,56605,"5년 전쯤에 카레 산악 마을에서 비정상적인 전통이 생겨났는데, 마을 주민들은 두 개의 줄이 형성되어 서로 맞대편으로 총을 쏘아 올리는데, 다른 사람이 지휘를 받으며 총을 쏘아 올릴 수 있었다. 타격을 받지 않은 사람은 남았지만, 다른 사람들은 모두 뒤로 물러나서서, 한 사람이 일어서게 될 때까지 마을로 가는 여행자들은 게임을 ""보고하는 것은 멋진 재미가 있지만, 참여하기 위해 당신은 멍청한 바보가 되어야 한다""라고 보고했다. 몇 년 후 몇 가지 불행한 사망 후 마을 주민들은 다시 꽉 차있는 목표물을 쏘아 올렸다."
@@ -814,7 +814,7 @@ q2c,git,Creature List/4/FirstName,0,12423,평민
 q2c,git,Creature List/5/FirstName,0,-1,지역 경비
 q2c,git,Creature List/6/FirstName,0,-1,지역 경비
 q2c,git,Creature List/7/FirstName,0,12634,소년
-q2c,git,Creature List/8/FirstName,0,12525,여자
+q2c,git,Creature List/8/FirstName,0,12525,소녀
 q2c,git,Creature List/9/Description,0,-1,이건 세번째 경비대 지휘관이야
 q2c,git,Creature List/9/FirstName,0,-1,딜런
 q2c,git,Creature List/9/LastName,0,-1,오그더
@@ -841,14 +841,14 @@ q2c,git,WaypointList/0/LocalizedName,0,14814,마지의 탑
 q2c,git,WaypointList/0/MapNote,0,14815,마지의 탑
 q2c,git,WaypointList/1/LocalizedName,0,14814,실버톤게 맨어
 q2c,git,WaypointList/1/MapNote,0,14815,실버톤게 맨어
-q2c,git,WaypointList/10/LocalizedName,0,14817,북경 경비 경로
-q2c,git,WaypointList/11/LocalizedName,0,14817,북경 경비 경로
-q2c,git,WaypointList/12/LocalizedName,0,14817,북경 경비 경로
-q2c,git,WaypointList/13/LocalizedName,0,14817,북경 경비 경로
-q2c,git,WaypointList/14/LocalizedName,0,14817,북경 경비 경로
-q2c,git,WaypointList/15/LocalizedName,0,14817,북경 경비 경로
+q2c,git,WaypointList/10/LocalizedName,0,14817,북부 경비병 웨이포인트
+q2c,git,WaypointList/11/LocalizedName,0,14817,북부 경비병 웨이포인트
+q2c,git,WaypointList/12/LocalizedName,0,14817,북부 경비병 웨이포인트
+q2c,git,WaypointList/13/LocalizedName,0,14817,북부 경비병 웨이포인트
+q2c,git,WaypointList/14/LocalizedName,0,14817,북부 경비병 웨이포인트
+q2c,git,WaypointList/15/LocalizedName,0,14817,북부 경비병 웨이포인트
 q2c,git,WaypointList/16/LocalizedName,0,14814,카이달라 집에 있어
-q2c,git,WaypointList/18/LocalizedName,0,14817,북경 경비 경로
+q2c,git,WaypointList/18/LocalizedName,0,14817,북부 경비병 웨이포인트
 q2c,git,WaypointList/19/LocalizedName,0,14817,PC 복사 와이포인트
 q2c,git,WaypointList/2/LocalizedName,0,14814,비켓 경의 숙소
 q2c,git,WaypointList/2/MapNote,0,14815,비켓 경의 숙소
@@ -864,7 +864,7 @@ q2c,git,WaypointList/7/LocalizedName,0,14814,은 나뭇가지
 q2c,git,WaypointList/7/MapNote,0,14815,은 나뭇가지
 q2c,git,WaypointList/8/LocalizedName,0,14814,지도 참고: 유령 집
 q2c,git,WaypointList/8/MapNote,0,14815,유령 집
-q2c,git,WaypointList/9/LocalizedName,0,14817,북경 경비 경로
+q2c,git,WaypointList/9/LocalizedName,0,14817,북부 경비병 웨이포인트
 q2c013,git,Creature List/0/Description,0,-1,"은 요새의 마법사이며, 가장 강력한 인중의 한 사람이어서, 그녀는 오직 한 명의 멤버로 구성된 길드 마스터가 되었습니다."
 q2c013,git,Creature List/0/FirstName,0,-1,웬나
 q2c013,git,Placeable List/0/Description,0,84167,여러분은 이 거대한 돌로 구성된 거울의 빛나는 표면으로 만들어지는 자신의 반사에 되돌아보게 됩니다.
@@ -905,7 +905,7 @@ q2c013,git,StoreList/1/StoreList/3/ItemList/22/DescIdentified,0,13464,"라빈 �
 q2c013,git,StoreList/1/StoreList/3/ItemList/23/DescIdentified,0,56645,"이 반지는 발라타 에서 바다 를 건너 있는 땅 에서 만들어졌다는 소문 이 있습니다. 그 어느 선박도 그러한 바다 를 넘기면서 살아남지 못했기 때문에, 이 이야기 를 믿는 사람은 거의 없습니다."
 q2c013,git,StoreList/1/StoreList/3/ItemList/24/DescIdentified,0,40089,이 반지는 몇 개만 존재 하고 거의 모든 반지는 매우 강력한 마법사 들 의 소유 이다. 그러한 반지를 소유 하는 것 은 정권 상징 이다.
 q2c013,git,StoreList/1/StoreList/3/ItemList/25/DescIdentified,0,40089,이 반지는 몇 개만 존재 하고 거의 모든 반지는 매우 강력한 마법사 들 의 소유 이다. 그러한 반지를 소유 하는 것 은 정권 상징 이다.
-q2c013,git,TriggerList/0/LocalizedName,0,14759,마법 의 무기가 트리거 를 시작 시킨다
+q2c013,git,TriggerList/0/LocalizedName,0,14759,마법 무기는 트리거를 시작합니다
 q2c013,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 무작위"
 q2c013,git,TriggerList/2/LocalizedName,0,14759,인
 q2c013,git,TriggerList/3/LocalizedName,0,14759,치먼 예나 트립
@@ -919,15 +919,15 @@ q2c22a,git,Creature List/0/FirstName,0,-1,엘리시아
 q2c22a,git,Creature List/0/LastName,0,-1,은어
 q2c22a,git,Door List/0/LocName,0,5349,매너 출구
 q2c22a,git,Placeable List/0/Description,0,76380,"그릴은 단단히 봉쇄되어 있습니다. 그러나 당신은 당신의 손을 그릴을 통해 넣을 수 있다고 의심하고, 아래에 있는 것을 느낄 수 있습니다."
-q2c22a,git,Placeable List/0/LocName,0,68907,감사
+q2c22a,git,Placeable List/0/LocName,0,68907,쇠살대
 q2c22a,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
 q2c23,git,Creature List/0/Description,0,-1,이 사람은 벡트 경입니다. 그의 야망은 그가 한때 겪었던 모든 의욕을 훨씬 뛰어넘습니다.
 q2c23,git,Creature List/0/FirstName,0,-1,벡트 경
 q2c23,git,Creature List/1/FirstName,0,-1,하녀
-q2c23,git,Placeable List/0/LocName,0,68906,감사
-q2c23,git,SoundList/2/LocName,0,-1,동굴 드립
+q2c23,git,Placeable List/0/LocName,0,68906,쇠살대
+q2c23,git,SoundList/2/LocName,0,-1,동굴 물떨어지는 소리
 q2c23,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
-q2c23,git,WaypointList/0/LocalizedName,0,14817,비밀 스카트 로그 포인트
+q2c23,git,WaypointList/0/LocalizedName,0,14817,비밀 격자 웨이포인트
 q2c24a,git,Creature List/0/Description,0,-1,이 경호원들은 지역 민병대이고 훈련도 잘 받은 것 같지도 않고 매우 능숙한 것 같지도 모릅니다.
 q2c24a,git,Creature List/0/FirstName,0,-1,지역 경비
 q2c24a,git,Creature List/1/Description,0,-1,이 경호원들은 지역 민병대이고 훈련도 잘 받은 것 같지도 않고 매우 능숙한 것 같지도 모릅니다.
@@ -944,7 +944,7 @@ q2c24a,git,Creature List/5/LastName,0,-1,오그더
 q2c24a,git,Door List/0/LocName,0,5349,감옥 문
 q2c24a,git,Door List/1/LocName,0,5349,문
 q2c24a,git,Placeable List/34/Description,0,14600,그 사람이 소유한 것은 거의 없었을 수도 있고 그 사람이 가진 모든 것을 빼앗겼을 수도 있습니다.
-q2c24a,git,Placeable List/41/LocName,0,5681,갑옷 기둥
+q2c24a,git,Placeable List/41/LocName,0,5681,갑옷 거치대
 q2c24a,git,TriggerList/0/LocalizedName,0,14759,딜런이 트리거를 시작
 q2c24a,git,TriggerList/1/LocalizedName,0,14759,헨치먼 감옥
 q2c24a,git,WaypointList/0/LocalizedName,0,14817,감옥 입국 시점
@@ -959,9 +959,9 @@ q2c25,git,Creature List/1/LastName,0,-1,블랙핸드
 q2c25,git,Creature List/2/Description,0,-1,스탠은 반 오크의 전직 모험가입니다. 그는 모험가들에게 가장 잘하는 일을 위해 돈을 지불하는 고용 사업을 운영하고 있습니다. 그는 또한 트레이드들의 길드 마스터입니다.
 q2c25,git,Creature List/2/FirstName,0,-1,스탠
 q2c25,git,Creature List/3/Description,0,-1,이건 경호원 중 하나야
-q2c25,git,Creature List/3/FirstName,0,-1,경비
+q2c25,git,Creature List/3/FirstName,0,-1,경비병
 q2c25,git,Creature List/4/Description,0,-1,이건 경호원 중 하나야
-q2c25,git,Creature List/4/FirstName,0,-1,경비
+q2c25,git,Creature List/4/FirstName,0,-1,경비병
 q2c25,git,Creature List/5/Description,0,-1,이 사람은 현지 사냥꾼 중 한 명입니다.
 q2c25,git,Creature List/5/FirstName,0,-1,지역 전사
 q2c25,git,Creature List/6/Description,0,-1,이 사람은 경기도의 일반인입니다.
@@ -970,7 +970,7 @@ q2c25,git,Creature List/7/Description,0,-1,고구려의 평범한 사람들은 �
 q2c25,git,Creature List/7/FirstName,0,12423,평민
 q2c25,git,Door List/0/LocName,0,5349,성 출구
 q2c25,git,Placeable List/27/Description,0,84167,여러분은 이 거대한 돌로 구성된 거울의 빛나는 표면으로 만들어지는 자신의 반사에 되돌아보게 됩니다.
-q2c25,git,Placeable List/40/LocName,0,5800,빛의 축
+q2c25,git,Placeable List/40/LocName,0,5800,빛줄기
 q2c25,git,TriggerList/0/LocalizedName,0,14759,별명: 트리거를 유지
 q2c25,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 무작위"
 q2c25,git,TriggerList/2/LocalizedName,0,14759,세라의 후손
@@ -1016,40 +1016,40 @@ q2c25,git,WaypointList/33/LocalizedName,0,14817,왕좌 PC2 웨이포인트
 q2c25,git,WaypointList/34/LocalizedName,0,14817,방향 을 유지 하라
 q2c25,git,WaypointList/35/LocalizedName,0,14817,이명: 캐슬 웨이포인트
 q2c25,git,WaypointList/4/LocalizedName,0,14817,투표 방향 을 유지 하십시오
-q2c25,git,WaypointList/5/LocalizedName,0,14817,출구 방향 을 유지 하라
+q2c25,git,WaypointList/5/LocalizedName,0,14817,출구 웨이포인트만 유지해
 q2c25,git,WaypointList/6/LocalizedName,0,14817,이명: 캐슬 웨이포인트
 q2c25,git,WaypointList/7/LocalizedName,0,14817,베켓 성 웨이포인트
-q2c25,git,WaypointList/8/LocalizedName,0,14817,에니비드 홈 웨이포인트
+q2c25,git,WaypointList/8/LocalizedName,0,14817,에니비드 집 웨이포인트
 q2c25,git,WaypointList/9/LocalizedName,0,14817,페란의 일
 q2c5,git,Creature List/0/Description,0,-1,베켓 경의 경비관들은 의심의 여지를 가지고 당신을 보고 있습니다.
-q2c5,git,Creature List/0/FirstName,0,-1,경비
+q2c5,git,Creature List/0/FirstName,0,-1,경비병
 q2c5,git,Creature List/1/Description,0,-1,베켓 경의 경비관들은 의심의 여지를 가지고 당신을 보고 있습니다.
-q2c5,git,Creature List/1/FirstName,0,-1,경비
+q2c5,git,Creature List/1/FirstName,0,-1,경비병
 q2c5,git,Door List/0/LocName,0,5349,매너 출구
 q2c5,git,Placeable List/0/Description,0,68862,단단한 나무 책상
 q2c5,git,Placeable List/0/ItemList/0/DescIdentified,0,-1,이 조각은 찢어졌던 것처럼 보입니다. 아래쪽에 있는 단어들 중 일부는 찢어졌기 때문입니다. 당신이 다른 반을 가지고 있다면...
 q2c5,git,Placeable List/0/ItemList/0/Description,0,-1,이 조각은 찢어졌던 것처럼 보입니다. 아래쪽에 있는 단어들 중 일부는 찢어졌기 때문입니다. 당신이 다른 반을 가지고 있다면...
 q2c5,git,Placeable List/0/ItemList/0/LocalizedName,0,-1,참고문헌
 q2c5,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
-q2c5,git,WaypointList/0/LocalizedName,0,14817,벡트 홈 로이포인트
+q2c5,git,WaypointList/0/LocalizedName,0,14817,벡트 집 웨이포인트
 q3d,git,Creature List/0/FirstName,0,90385,듀어거 헤드 워리어
 q3d,git,Creature List/1/FirstName,0,12508,듀어거 헤드 마이너
 q3d,git,Door List/0/LocName,0,5349,동굴 출구
 q3d,git,Door List/1/Description,0,-1,봉쇄 된 다리 문
 q3d,git,Door List/2/LocName,0,5349,동굴 출구
-q3d,git,Encounter List/0/LocalizedName,0,91343,듀어거 만남
-q3d,git,Encounter List/1/LocalizedName,0,91343,듀어거 만남
-q3d,git,Encounter List/2/LocalizedName,0,91343,듀어거 만남
-q3d,git,Encounter List/3/LocalizedName,0,91343,듀어거 만남
-q3d,git,Encounter List/4/LocalizedName,0,91343,듀어거 만남
+q3d,git,Encounter List/0/LocalizedName,0,91343,듀에르가 인카운터
+q3d,git,Encounter List/1/LocalizedName,0,91343,듀에르가 인카운터
+q3d,git,Encounter List/2/LocalizedName,0,91343,듀에르가 인카운터
+q3d,git,Encounter List/3/LocalizedName,0,91343,듀에르가 인카운터
+q3d,git,Encounter List/4/LocalizedName,0,91343,듀에르가 인카운터
 q3d,git,Placeable List/0/Description,0,14632,레비오사 음모를 함정 없이 완료하도록 설정
 q3d,git,Placeable List/1/LocName,0,5738,폭발성 배럴
 q3d,git,Placeable List/16/ItemList/0/LocalizedName,0,-1,채굴자 벨트
 q3d,git,Placeable List/16/ItemList/1/DescIdentified,0,14242,"브라이어스파이크는 어떤 거대한 깃털로 덮인 짐승에서 뽑아낸 것 처럼 보이지만, 그 방법들은 매우 정교합니다."
 q3d,git,Placeable List/2/LocName,0,5738,폭발성 배럴
-q3d,git,SoundList/6/LocName,0,-1,동굴 드립
+q3d,git,SoundList/6/LocName,0,-1,동굴 물떨어지는 소리
 q3d,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
-q3d,git,WaypointList/0/LocalizedName,0,14817,지도표: 출구 지표
+q3d,git,WaypointList/0/LocalizedName,0,14817,지도표: 출구 웨이포인트
 q3d,git,WaypointList/0/MapNote,0,-1,출구
 q3d,git,WaypointList/1/LocalizedName,0,14817,지도 표: 왜성홀
 q3d,git,WaypointList/1/MapNote,0,-1,출구
@@ -1059,17 +1059,17 @@ q3e,git,Door List/0/LocName,0,5349,나무 출구
 q3e,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
 q3e,git,TriggerList/1/LocalizedName,0,14759,앙크먼 에르미트
 q3e,git,WaypointList/0/LocalizedName,0,69063,에르미트 가옥
-q3j,git,Creature List/0/FirstName,0,12428,소
-q3j,git,Creature List/1/FirstName,0,12428,소
-q3j,git,Creature List/2/FirstName,0,12428,소
-q3j,git,Creature List/3/FirstName,0,12428,소
+q3j,git,Creature List/0/FirstName,0,12428,암소
+q3j,git,Creature List/1/FirstName,0,12428,암소
+q3j,git,Creature List/2/FirstName,0,12428,암소
+q3j,git,Creature List/3/FirstName,0,12428,암소
 q3j,git,Creature List/4/FirstName,0,2926,코볼드 장군
 q3j,git,Creature List/9/FirstName,0,-1,스니벨
 q3j,git,Door List/0/LocName,0,5349,동굴 출구
-q3j,git,Encounter List/0/LocalizedName,0,-1,코볼드 만남
-q3j,git,Encounter List/1/LocalizedName,0,-1,코볼드 만남
-q3j,git,Encounter List/2/LocalizedName,0,-1,코볼드 만남
-q3j,git,Encounter List/3/LocalizedName,0,-1,코볼드 만남
+q3j,git,Encounter List/0/LocalizedName,0,-1,코볼트 인카운터
+q3j,git,Encounter List/1/LocalizedName,0,-1,코볼트 인카운터
+q3j,git,Encounter List/2/LocalizedName,0,-1,코볼트 인카운터
+q3j,git,Encounter List/3/LocalizedName,0,-1,코볼트 인카운터
 q3j,git,Placeable List/0/ItemList/0/LocalizedName,0,-1,심성 보석
 q3j,git,Placeable List/0/ItemList/1/DescIdentified,0,-1,"이 책에 있는 일부 거칠고 어려운 스크래치들은 코볼드 장군이 자신의 삶을 기록하려고 시도하고 있다고 믿게 합니다. 하지만 대부분은 읽을 수 없습니다. 당신이 알아낼 수 있는 것 중 하나는 코볼드들이 ""마스터""에게 일하는 것을 정말로 좋아하지 않는다는 것입니다. 그러나 그들이 그만두려고 할 때마다, 그는 머리를 아프게 합니다. 책의 나머지 부분은 어떤 종류의 숲에서 살고 다양한 모험을 하는 이상한 동물들의 스크래치를 가지고 있습니다. 주인공은 다소 둥근하고 꿀 페티쉬를 가지고있는 것 같습니다."
 q3j,git,Placeable List/0/ItemList/1/LocalizedName,0,-1,코볼드 저널
@@ -1084,7 +1084,7 @@ q3j,git,TriggerList/0/LocalizedName,0,14759,코볼드 적대 트리거
 q3j,git,TriggerList/1/LocalizedName,0,14759,스니벨이 트리거를 시작
 q3j,git,TriggerList/2/LocalizedName,0,14759,소 출구 트리거
 q3j,git,TriggerList/3/LocalizedName,0,-1,"OS 일 라인, 무작위"
-q3j,git,WaypointList/0/LocalizedName,0,14817,지도표: 출구 지표
+q3j,git,WaypointList/0/LocalizedName,0,14817,지도표: 출구 웨이포인트
 q3j,git,WaypointList/0/MapNote,0,-1,출구
 q3j,git,WaypointList/1/LocalizedName,0,14817,소 해머
 q3j,git,WaypointList/10/LocalizedName,0,14817,소 해머
@@ -1106,28 +1106,28 @@ q3j,git,WaypointList/9/LocalizedName,0,14817,소 해머
 q3k2,git,Door List/1/LocName,0,5349,동굴 문
 q3k2,git,Door List/2/LocName,0,5349,문
 q3k2,git,Door List/3/LocName,0,5349,문
-q3k2,git,TriggerList/0/LocalizedName,0,14759,마법 의 무기가 트리거 를 시작 시킨다
+q3k2,git,TriggerList/0/LocalizedName,0,14759,마법 무기는 트리거를 시작합니다
 q3k2,git,TriggerList/1/LocalizedName,0,14759,항복은 트리거를 시작시킵니다
 q3k2,git,WaypointList/0/LocalizedName,0,14817,칼리바스트 웨이포인트
 q3k2,git,WaypointList/1/LocalizedName,0,14817,카이달라 웨이포인트
 q3k2,git,WaypointList/2/LocalizedName,0,14817,자볼리 웨이포인트
 q3k2,git,WaypointList/3/LocalizedName,0,14817,트립 웨이포인트
-q3k2,git,WaypointList/4/LocalizedName,0,14817,지도표: 출구 지표
+q3k2,git,WaypointList/4/LocalizedName,0,14817,지도표: 출구 웨이포인트
 q3k2,git,WaypointList/4/MapNote,0,-1,출구
-q3k3,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,-1,마인드플라이어 텐테클
-q3k3,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,-1,정신 플레이어 특성
+q3k3,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,-1,마인드 플레이어 촉수
+q3k3,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,-1,마인드 플레이어 속성
 q3k3,git,Creature List/0/FirstName,0,-1,일리시드
-q3k3,git,Creature List/2/FirstName,0,12445,지능을 삼는
+q3k3,git,Creature List/2/FirstName,0,12445,지성 포식귀
 q3k3,git,Door List/0/LocName,0,5349,문
 q3k3,git,Door List/1/LocName,0,5349,문
 q3k3,git,Placeable List/0/ItemList/3/LocalizedName,0,62349,수히리의 황금 잔
-q3k3,git,Placeable List/2/ItemList/0/DescIdentified,0,67773,"성공적 인 상인 로저 델포스 는 도둑 반대 협회 를 결성 하기 위해 도둑 들 에게 보안 전문가 가 되기 위해 돈을 지불 하였다. 경호 는 도둑 들 을 검문 을 위해 잡기 위해 '홀드 인스' 마법 을 사용 하기 위해 훈련 을 받았다. 이 보안 조치 를 견제 하기 위해 도둑 협회 는 마법 벨트를 구입 하여 그러한 마법 의 영향 을 무효화 하였다. 두 협회 사이 에 벌어지고 있는 전쟁 에서, 이 벨트 들 의 상당수는 보금점 과 장비 매장 에 진입 하였다."
+q3k3,git,Placeable List/2/ItemList/0/DescIdentified,0,67773,"로저 델포스 (Ronger Delphos) 는 성공적 인 상인으로서 도둑 반대 협회를 결성하기 위해 보안 전문가가 되기 위하여 돈을 지불했다. 경비자들은 사람 포박 마법으로 막대기를 사용하도록 훈련받았으며, 이 수사 조치를 견제하기 위해서 도둑협회가 마술 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 교단 사이의 격상되는 전쟁에서 이러한 벨트 중 상당수는 보금점과 장비 매장에 진입하였다."
 q3k3,git,Placeable List/2/ItemList/1/DescIdentified,0,13334,"이 부츠 는 상자 와 여행 의 신인 칼라히 의 사제 들 의 축복 을 받아 가장 힘든 여행 을 더 쉽고 더 쾌적 하게 해 주는 것 같습니다. 이것은 착용자 의 속도를 높이는 것 이 아니라 더 견고 하고 더 고통 을 견딜 수 있게 해 주는 것 이다. 이 부츠 의 수많은 버전 은 존재 하고 있으며, 그 힘 은 크게 축복 한 사제 에 따라 다양 하다."
-q3k3,git,SoundList/1/LocName,0,-1,일리티드 어르신 뇌
-q3k3,git,SoundList/2/LocName,0,-1,동굴 드립
+q3k3,git,SoundList/1/LocName,0,-1,일리시드 엘더 브레인
+q3k3,git,SoundList/2/LocName,0,-1,동굴 물떨어지는 소리
 q3k3,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 무작위"
 q3k3,git,WaypointList/0/LocalizedName,0,14817,할아버지 웨이포인트
-q3k3,git,WaypointList/1/LocalizedName,0,14817,지도표: 출구 지표
+q3k3,git,WaypointList/1/LocalizedName,0,14817,지도표: 출구 웨이포인트
 q3k3,git,WaypointList/1/MapNote,0,-1,출구
 q3k3,git,WaypointList/2/LocalizedName,0,14817,할아버지 웨이포인트
 q3k3,git,WaypointList/3/LocalizedName,0,14817,할아버지 웨이포인트
@@ -1137,8 +1137,8 @@ smithy,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,14012,글래시의 �
 smithy,git,Creature List/0/FirstName,0,-1,"발레스 ""글라시"""
 smithy,git,Creature List/0/LastName,0,-1,호퍼
 smithy,git,Door List/0/LocName,0,5349,스미시 출구
-smithy,git,StoreList/0/LocName,0,14812,무기 및 장갑 매장
-smithy,git,StoreList/1/LocName,0,14812,무기 및 장갑 매장
+smithy,git,StoreList/0/LocName,0,14812,무기 및 방어구 상점
+smithy,git,StoreList/1/LocName,0,14812,무기 및 방어구 상점
 start_woodsedge,git,Creature List/0/Description,0,-1,칼리바스트는 5명의 강렬한 군대를 이끌었던 화염의 아저씨입니다.
 start_woodsedge,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,"칼리바스트 의 스레임 은 오랜 시간 죽은 부모 를 기억 하는 가족 의 유산 이다. 비록 그는 그 들 에 대해 거의 이야기 하지 않음에도 불구하고, 그의 간헐적 애정 의 경우 는 종종 그의 어린 시절 에 대한 회상 때문 이다. 명백 히 사자 들 은 그의 불타는 머리 에서 스레임 을 빼앗아갈 수 없었다."
 start_woodsedge,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,칼리바스트의 헬멧
@@ -1176,9 +1176,9 @@ tarnishedtankard,git,Creature List/14/FirstName,0,12423,평민
 tarnishedtankard,git,Creature List/2/Description,0,-1,이건 다크린 탱커드의 경비원 중 한 명입니다.
 tarnishedtankard,git,Creature List/2/FirstName,0,-1,맥
 tarnishedtankard,git,Creature List/3/Description,0,-1,여기 술집 하녀가 있습니다.
-tarnishedtankard,git,Creature List/3/FirstName,0,-1,술집 하녀
+tarnishedtankard,git,Creature List/3/FirstName,0,-1,바텐더
 tarnishedtankard,git,Creature List/4/Description,0,-1,여기 술집 하녀가 있습니다.
-tarnishedtankard,git,Creature List/4/FirstName,0,-1,술집 하녀
+tarnishedtankard,git,Creature List/4/FirstName,0,-1,바텐더
 tarnishedtankard,git,Creature List/5/Description,0,-1,고구려의 평범한 사람들은 긴장이 넘치는 삶을 살고 있습니다. 그들을 지도할 강력한 지도자를 절실히 찾습니다.
 tarnishedtankard,git,Creature List/5/FirstName,0,12423,평민
 tarnishedtankard,git,Creature List/6/Description,0,-1,이 사람은 경기도의 일반인입니다.
@@ -1190,18 +1190,18 @@ tarnishedtankard,git,Creature List/8/FirstName,0,12422,평민
 tarnishedtankard,git,Creature List/9/Description,0,-1,이 사람은 경기도의 일반인입니다.
 tarnishedtankard,git,Creature List/9/FirstName,0,12423,평민
 tarnishedtankard,git,Door List/0/LocName,0,5349,술집 출구
-tarnishedtankard,git,SoundList/3/LocName,0,-1,로디 타버네
+tarnishedtankard,git,SoundList/3/LocName,0,-1,시끄러운 술집
 tarnishedtankard,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
 tarnishedtankard,git,WaypointList/1/LocalizedName,0,14817,웨이포인트 웨이터스
 tarnishedtankard,git,WaypointList/2/LocalizedName,0,14817,웨이포인트 웨이터스
 tarnishedtankard,git,WaypointList/3/LocalizedName,0,14817,웨이포인트 웨이터스
 tarnishedtankard,git,WaypointList/4/LocalizedName,0,14817,웨이포인트 웨이터스
 thanlormanor001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,램피의 빛
-thanlormanor001,git,Creature List/0/FirstName,0,-1,캔들라브라
+thanlormanor001,git,Creature List/0/FirstName,0,-1,가지달린 촛대
 thanlormanor001,git,Creature List/1/FirstName,0,-1,갑옷
 thanlormanor001,git,Door List/3/LocName,0,5349,매너 출구
-thanlormanor001,git,Encounter List/0/LocalizedName,0,14493,무신 없는 죽은 집단
-thanlormanor001,git,Encounter List/1/LocalizedName,0,14493,무신 없는 죽은 집단
+thanlormanor001,git,Encounter List/0/LocalizedName,0,14493,형체가 없는 언데드 무리
+thanlormanor001,git,Encounter List/1/LocalizedName,0,14493,형체가 없는 언데드 무리
 thanlormanor001,git,Placeable List/0/Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 thanlormanor001,git,Placeable List/0/LocName,0,5800,보이지 않는 크레이드 객체
 thanlormanor001,git,Placeable List/27/LocName,0,5800,km_ghostseat
@@ -1216,11 +1216,11 @@ thanlormanor001,git,Placeable List/36/LocName,0,5800,km_ghostblood
 thanlormanor001,git,Placeable List/37/LocName,0,5800,km_ghostblood
 thanlormanor001,git,Placeable List/38/LocName,0,5800,km_ghostblood
 thanlormanor001,git,Placeable List/39/LocName,0,5800,km_ghostblood
-thanlormanor001,git,SoundList/3/LocName,0,-1,체인 래틀
-thanlormanor001,git,SoundList/4/LocName,0,-1,귀신
+thanlormanor001,git,SoundList/3/LocName,0,-1,쇠사슬이 덜그럭거리는 소리
+thanlormanor001,git,SoundList/4/LocName,0,-1,유령
 thanlormanor001,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
-thanlormanor001,git,WaypointList/0/LocalizedName,0,14817,비밀 스카트 로그 포인트
-thanlormanor001,git,WaypointList/1/LocalizedName,0,14817,지도표: 출구 지표
+thanlormanor001,git,WaypointList/0/LocalizedName,0,14817,비밀 격자 웨이포인트
+thanlormanor001,git,WaypointList/1/LocalizedName,0,14817,지도표: 출구 웨이포인트
 thanlormanor001,git,WaypointList/1/MapNote,0,-1,출구
 thanlormanor001,git,WaypointList/2/LocalizedName,0,14817,이정표
 thebattleatthe02,git,Creature List/0/FirstName,0,-1,칼리바스트 의 정신
@@ -1240,41 +1240,41 @@ thebattleatthe02,git,Creature List/6/FirstName,0,-1,죽은 오크시 군인
 thebattleatthe02,git,Creature List/7/FirstName,0,-1,죽은 오크시 군인
 thebattleatthe02,git,Creature List/8/FirstName,0,-1,죽은 오크시 군인
 thebattleatthe02,git,Creature List/9/FirstName,0,-1,죽은 오크시 군인
-thebattleatthe02,git,Door List/0/LocName,0,5349,장벽 문
+thebattleatthe02,git,Door List/0/LocName,0,5349,빗장지른 문
 thebattleatthe02,git,Placeable List/3/Description,0,14579,"그 은 뜨거운 빛 을 내 낸다. 그 을 향해 나아갈 때, 손 손 손 에 땀 이 솟아 있는 것 을 느낄 수 있습니다."
 thebattleatthe02,git,SoundList/13/LocName,0,-1,km1_weapon019
-thebattleatthega,git,Creature List/0/FirstName,0,12503,마우
-thebattleatthega,git,Creature List/1/FirstName,0,12503,마우
+thebattleatthega,git,Creature List/0/FirstName,0,12503,드로우
+thebattleatthega,git,Creature List/1/FirstName,0,12503,드로우
 thebattleatthega,git,Creature List/10/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/10/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/10/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/11/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/11/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/11/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/12/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/12/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/12/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/13/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/13/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/13/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/14/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/14/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/14/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/15/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/15/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/15/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/16/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/16/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/16/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/17/Description,0,-1,이건 세번째 경비대 지휘관이야
 thebattleatthega,git,Creature List/17/FirstName,0,-1,딜런
 thebattleatthega,git,Creature List/17/LastName,0,-1,오그더
-thebattleatthega,git,Creature List/2/FirstName,0,12503,마우
-thebattleatthega,git,Creature List/3/FirstName,0,12503,마우
-thebattleatthega,git,Creature List/4/FirstName,0,12502,마우
-thebattleatthega,git,Creature List/5/FirstName,0,12502,마우
+thebattleatthega,git,Creature List/2/FirstName,0,12503,드로우
+thebattleatthega,git,Creature List/3/FirstName,0,12503,드로우
+thebattleatthega,git,Creature List/4/FirstName,0,12502,드로우
+thebattleatthega,git,Creature List/5/FirstName,0,12502,드로우
 thebattleatthega,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,마스크 된 헬멧
 thebattleatthega,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,-1,어두운 담요
 thebattleatthega,git,Creature List/6/FirstName,0,-1,마스크 입은 남자
 thebattleatthega,git,Creature List/7/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/7/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/7/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/8/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/8/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/8/FirstName,0,-1,경비병
 thebattleatthega,git,Creature List/9/Description,0,-1,이 사람은 도시 경비원 중 한 명입니다.
-thebattleatthega,git,Creature List/9/FirstName,0,-1,경비
+thebattleatthega,git,Creature List/9/FirstName,0,-1,경비병
 thebattleatthega,git,SoundList/10/LocName,0,-1,km1_dylan002
 thebattleatthega,git,SoundList/11/LocName,0,-1,km1_dylan003
 thebattleatthega,git,SoundList/7/LocName,0,67790,km1_masked001
@@ -1290,5 +1290,5 @@ thesilverlily,git,Creature List/4/Description,0,-1,이 사람은 구석의 평�
 thesilverlily,git,Creature List/4/FirstName,0,12423,평민
 thesilverlily,git,Door List/0/LocName,0,5349,숙소 출구
 thesilverlily,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 무작위"
-thesilverlily,git,WaypointList/0/LocalizedName,0,14817,가로트 홈 웨이포인트
+thesilverlily,git,WaypointList/0/LocalizedName,0,14817,가로트 집 웨이포인트
 thesilverlilyups,git,Door List/1/LocName,0,5349,문

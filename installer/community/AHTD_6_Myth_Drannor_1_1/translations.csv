@@ -42,9 +42,9 @@ castlecormant002,are,Name,0,코르망토르 성 - 기하급수
 castlecormant003,are,Name,0,코르망토르 성 - 본당
 castlecormant004,are,Name,0,코르망토르 성 - 도서관 타워
 castlecormanthor,are,Name,0,코르망토르 성
-centralsewerp001,are,Name,0,중앙 하수도 파이프
+centralsewerp001,are,Name,0,중앙 하수관
 cultlair001,are,Name,0,컬트 라이어
-destroyedcenter,are,Name,0,파괴 된 도시 핵심
+destroyedcenter,are,Name,0,망한 도시 중심부
 floodedtunnel001,are,Name,0,홍수 터널
 gargoylelair,are,Name,0,가르고일 래어
 glembauntisle,are,Name,0,게블라운트 섬
@@ -64,11 +64,11 @@ maintainancetunn,are,Name,0,유지관리 터널
 northernoutsk001,are,Name,0,북부 외곽 지역
 northgatetownhal,are,Name,0,노스게이트 타운홀
 parking,are,Name,0,주차장
-planeofshadow,are,Name,0,그림자의 비행
-planeofshadow001,are,Name,0,그림자의 비행
-planeofshadow002,are,Name,0,그림자의 비행
-planeofshadow003,are,Name,0,그림자의 비행
-planeofshadow004,are,Name,0,그림자의 비행
+planeofshadow,are,Name,0,그림자의 차원
+planeofshadow001,are,Name,0,그림자의 차원
+planeofshadow002,are,Name,0,그림자의 차원
+planeofshadow003,are,Name,0,그림자의 차원
+planeofshadow004,are,Name,0,그림자의 차원
 sewerarea,are,Name,0,하수도 지역
 snowymountainpea,are,Name,0,스노이 산 정상
 southernoutskirt,are,Name,0,남부 외곽 지역
@@ -144,7 +144,7 @@ amenduil,dlg,ReplyList/2/Text,0,여기서 무슨 일이 벌어지고 있어요?
 amenduil,dlg,ReplyList/3/Text,0,난 <FullName>입니다.
 amenduil,dlg,ReplyList/4/Text,0,이 곳은 뭐죠?
 amenduil,dlg,ReplyList/6/Text,0,마지막 전투 후에 모든 마법사들이 죽었으면 왜 아직도 여기 있지?
-amenduil,dlg,ReplyList/9/Text,0,스톤 골렘의 외계인들과 전투를 봤어요
+amenduil,dlg,ReplyList/9/Text,0,알도 (돌 골렘) 가 플래너 외계인들과 싸웠어요
 amenduil,dlg,ReplyList/12/Text,0,귀신과 악마는 내 고향에서 흔하지만 그들을 통제하는 것은 매우 중요합니다.
 amenduil,dlg,ReplyList/14/Text,0,악마와 일한 경험이 있어 그들의 패배를 위해 무엇을 제공해?
 amenduil,dlg,ReplyList/15/Text,0,저는 이것을 고려할 것입니다.
@@ -687,7 +687,7 @@ deekin,dlg,ReplyList/20/Text,0,메모를 살펴볼 시간이 필요해요.
 deekin,dlg,ReplyList/22/Text,0,"""나랑 함께 모험을 하면서 새로운 것을 배웠나요?"""
 deekin,dlg,ReplyList/24/Text,0,"""나는 당신의 전술을 바꾸고 싶다""."
 deekin,dlg,ReplyList/39/Text,0,"""제 장비를 알아낼 수 있나요?"""
-deekin,dlg,ReplyList/41/Text,0,"""바드송을 쓰세요""."
+deekin,dlg,ReplyList/41/Text,0,"""음유시인의 노래'를 사용하세요""."
 deekin,dlg,ReplyList/43/Text,0,"""마술이 필요해""."
 deekin,dlg,ReplyList/75/Text,0,"""잠깐 멈추고 얘기해 보자""."
 deekin,dlg,ReplyList/76/Text,0,"""말은 끝났어""."
@@ -1707,8 +1707,8 @@ kaldura,dlg,ReplyList/5/Text,0,"""내가 그 맹수들을 도와주지 않았나
 kaldura,dlg,ReplyList/7/Text,0,"""많은 졸음들은 악이지만, 일부는 다른 것"". ""나는 그들 중 하나다""."
 lauric,dlg,EntryList/0/Text,0,그래서 당신은 우리 캠프의 새로운 매력입니다. 우리 세력에 추가로 진짜 살아있는 익사 군인입니다. 어둠의 태양의 영광의 징후입니다.
 lauric,dlg,EntryList/1/Text,0,"저는 로릭입니다. 어둠의 태양의 대사, 드란너 신화의 어두운 주교. 무릎을 꿇고 신들의 신이 된 필사자 사이릭에 대한 말을 들어보세요."
-lauric,dlg,EntryList/2/Text,0,신자들이 모여서 거짓말의 왕자 키릭의 이야기를 들어보세요.
-lauric,dlg,EntryList/4/Text,0,"모욕 , 무릎을 꿇고 거짓말의 왕자의 영광을 찬양하라"
+lauric,dlg,EntryList/2/Text,0,신자들이 모여서 거짓의 대공 시릭의 이야기를 들어보세요.
+lauric,dlg,EntryList/4/Text,0,발걸음 치고 거짓의 대공의 영광을 찬양하라
 lauric,dlg,EntryList/5/Text,0,"넌 운명을 봉인해버렸어, 무신한 쓰레기"
 lauric,dlg,ReplyList/0/Text,0,당신은 누구이고 이 어두운 태양은 뭐죠?
 lauric,dlg,ReplyList/1/Text,0,<StartAction>[ 무릎을 꿇고]</Start>
@@ -2592,7 +2592,7 @@ lolth,dlg,ReplyList/6/Text,0,"""내가 좀 물어볼 수 있을까?"""
 lolth,dlg,ReplyList/10/Text,0,<StartAction> [잠잠]</Start>
 lolth,dlg,ReplyList/13/Text,0,<StartAction>[행위를 정당화하려고 노력]</Start>
 lolth,dlg,ReplyList/16/Text,0,"""나는... 난 몰라..."
-lolth,dlg,ReplyList/17/Text,0,"""아, 이건 샤운드칼의 거룩한 물입니다. 전 그의 옛 성전의 유적한 동굴에서 찾았습니다""."
+lolth,dlg,ReplyList/17/Text,0,"""아, 이건 샤운다클의 성수입니다. 전 그의 옛 사원의 유적한 동굴에서 찾았어요""."
 lolth,dlg,ReplyList/19/Text,0,"""특별한 게 없어요, 제가 사용하려고 할 때 터져버렸어요""."
 lolth,dlg,ReplyList/20/Text,0,"""나는 그것을 사용하여 표면 주민들에게 혼란과 파괴를 가져왔고, 표면 신 라탄더의 신성한 유물을 파괴했습니다."
 lolth,dlg,ReplyList/21/Text,0,"""Morninglord 의 추종자 들 은 유적 들 의 남쪽 가장자리 에 있는 큰 탑 에 본부 를 두고 있었다. 저는 그 탑 위 에 들어가기 위한 방법을 찾아서 그 탑 위 에 도착 하였습니다. 그 곳 에서 그 들 의 귀중 한 유물 을 발견 하였습니다""."
@@ -3155,14 +3155,14 @@ mielikki,dlg,ReplyList/52/Text,0,"""주님 감사합니다. 저는 신들의 친
 mielikki,dlg,ReplyList/53/Text,0,"""내 여신, 언제 다시 볼까요?"""
 mielikki,dlg,ReplyList/56/Text,0,"""당신이 한 번 나에게 내가 내 결정을 내릴 자유라고 말했지""."
 mirror,dlg,EntryList/0/Text,0,"""내 포털을 통과하고 Dawnstone를 파괴하라!"""
-mirror,dlg,EntryList/1/Text,0,"""당신은 그림자의 비행기에 준비되어 있습니까?"""
-mirror,dlg,EntryList/2/Text,0,"""당신은 갇혀 있습니다. 당신을 다시 데려오지 못합니다. 제가 발견한 유일한 출구는 그림자의 비행으로 가는 것입니다""."
-mirror,dlg,EntryList/3/Text,0,그림자의 평면은 우리 세계를 덮고 있습니다. 페룬에 있는 모든 것이 다른 것을 가지고 있습니다.
+mirror,dlg,EntryList/1/Text,0,"""그림자의 차원'를 준비해?"""
+mirror,dlg,EntryList/2/Text,0,"""당신은 갇혀 있습니다. 나는 당신을 다시 데려오지 못합니다. 내가 발견한 유일한 탈출구는 그림자의 차원로 가는 것입니다""."
+mirror,dlg,EntryList/3/Text,0,"""그림자의 차원""는 우리 세계를 덮고 있습니다. 파룬에 있는 모든 것이 다른 것을 가지고 있지만..."
 mirror,dlg,EntryList/4/Text,0,"""당신은 말할 수 없습니다. 모든 것이 어둡고 왜곡되어 있습니다. 당신은 항상 우리의 세계에서 알고있는 랜드마크를 찾을 수 있지만, 당신은 그들이 어떻게 보이는지 말할 수 없습니다. 나는 당신을 Dawnspire - 또는 적어도 그 비늘의 평면에서의 견본자와 연결했습니다""."
 mirror,dlg,EntryList/5/Text,0,"""진짜, 저는 이미 거기에 물품들을 담은 상자를 배치하고 있습니다. 그리고 그 탑의 꼭대기에 다른 포털을 열려고 노력하겠습니다."
-mirror,dlg,EntryList/6/Text,0,"""선택이 없어 이제 거울의 유리를 만져 그림자의 평면으로 들어가라""."
+mirror,dlg,EntryList/6/Text,0,이제 거울의 유리를 만져 그림자의 차원 안으로 들어가라
 mirror,dlg,EntryList/7/Text,0,<StartAction>[글라스와 거울 모양의 폭은 모든 시도를 깨고 있습니다. 당신은 먼 곳에서 웃음을 듣습니다...]</Start>
-mirror,dlg,EntryList/8/Text,0,"""당신이 원하는 것은 중요하지 않습니다. 내 포털을 통과하고 새벽 돌을 파괴하고 당신이 원하는 곳으로 자유롭게 갈 수 있습니다. 다른 선택은 없습니다. 이제 거울의 유리를 만져 그림자의 비행에 들어갈 수 있습니다!"""
+mirror,dlg,EntryList/8/Text,0,"""당신이 원하는 것은 중요하지 않습니다. 내 포털을 통과하고 Dawnstone를 파괴하면 당신이 자유롭게 갈 수 있습니다 당신은 다른 선택의 여지가 없습니다"". 이제 거울 안경을 만져 그림자의 차원에 들어갈!"""
 mirror,dlg,EntryList/9/Text,0,"""엘민스터와 싸웠을 걸 봤는데 그 늙은 놈은 당신들을 속이고 있습니다."
 mirror,dlg,EntryList/10/Text,0,"""림보 는 순수한 혼돈, 불안정 과 끊임없이 변화 하는 것 이다. 하지만 림보 는 엘minster 와 같은 힘 있는 마법사 들 에게 큰 기회 를 제공한다. 이 비행기의 일부 를 자신 의 개인적 영역 으로 형성 할 수 있다""."
 mirror,dlg,EntryList/11/Text,0,"""당신은 엘민스터의 림보에 있습니다""."
@@ -3174,7 +3174,7 @@ mirror,dlg,EntryList/16/Text,0,"""그 비행기에 올라갈 준비를 해, 그 
 mirror,dlg,EntryList/17/Text,0,"""다운스파이어에 침투해 다운스톤을 파괴하라""."
 mirror,dlg,EntryList/18/Text,0,"""전송기를 통과하라! """
 mirror,dlg,ReplyList/0/Text,0,"""잠깐, 난 거기 가고 싶지 않아, 그냥 파룬으로 데려와!"""
-mirror,dlg,ReplyList/1/Text,0,"그림자의 평면이란 무엇인가?"""
+mirror,dlg,ReplyList/1/Text,0,"그림자의 차원란 무엇인가?"""
 mirror,dlg,ReplyList/2/Text,0,"""이건 무슨 뜻이야, 다른 것?"""
 mirror,dlg,ReplyList/3/Text,0,"""이건 내가 당신의 포털을 사용할 때 Dawnspire의 그림자 변종에 있는 것을 의미합니까?"""
 mirror,dlg,ReplyList/4/Text,0,"""나는 이 모든 것을 좋아하지 않는다, 인간""."
@@ -3552,12 +3552,12 @@ sei_subraces,dlg,EntryList/7/Text,0,여러분이 괴물이기 때문에 다음 �
 sei_subraces,dlg,EntryList/8/Text,0,당신이 엘프이기 때문에 다음과 같은 하위 종족이 있습니다.
 sei_subraces,dlg,EntryList/9/Text,0,당신이 왜성이기 때문에 다음과 같은 종족들이 당신을 위해 준비되어 있습니다.
 sei_subraces,dlg,ReplyList/2/Text,0,인간
-sei_subraces,dlg,ReplyList/3/Text,0,반 오르크
-sei_subraces,dlg,ReplyList/4/Text,0,반아
-sei_subraces,dlg,ReplyList/5/Text,0,반 엘프
-sei_subraces,dlg,ReplyList/6/Text,0,기종
-sei_subraces,dlg,ReplyList/7/Text,0,11번
-sei_subraces,dlg,ReplyList/8/Text,0,난쟁이
+sei_subraces,dlg,ReplyList/3/Text,0,하프오크
+sei_subraces,dlg,ReplyList/4/Text,0,하플링
+sei_subraces,dlg,ReplyList/5/Text,0,하프엘프
+sei_subraces,dlg,ReplyList/6/Text,0,노움
+sei_subraces,dlg,ReplyList/7/Text,0,엘프
+sei_subraces,dlg,ReplyList/8/Text,0,드워프
 sei_subraces,dlg,ReplyList/9/Text,0,표준 인간
 sei_subraces,dlg,ReplyList/10/Text,0,강심한 반성
 sei_subraces,dlg,ReplyList/11/Text,0,반발의 반발
@@ -4044,7 +4044,7 @@ vhaeraun,dlg,ReplyList/21/Text,0,"""나는 이미 몇 가지 선택지를 고려
 vhaeraun,dlg,ReplyList/22/Text,0,"""표면 세계 는 너무 넓다. 일반적 인 규칙 을 찾을 수 없다. 적극적 인 조치를 취할 수 있기 전 에 그 에 대해 더 많은 것을 배우기 위해 더 많은 시간이 걸릴 것 이다""."
 vhaeraun,dlg,ReplyList/23/Text,0,"""그건 복잡해요. 저는 수면세계에서 익사하는 것을 더 받아들이는 것이 최선이라고 생각했습니다. 최대한 많은 친구를 사귀려고 노력했습니다""."
 vhaeraun,dlg,ReplyList/26/Text,0,"""나는... 난 몰라..."
-vhaeraun,dlg,ReplyList/27/Text,0,"""아, 이건 샤운드칼의 거룩한 물입니다. 전 그의 옛 성전의 유적한 동굴에서 찾았습니다""."
+vhaeraun,dlg,ReplyList/27/Text,0,"""아, 이건 샤운다클의 성수입니다. 전 그의 옛 사원의 유적한 동굴에서 찾았어요""."
 vhaeraun,dlg,ReplyList/29/Text,0,"""특별한 게 없어요, 제가 사용하려고 할 때 터져버렸어요""."
 vhaeraun,dlg,ReplyList/30/Text,0,"""나는 그것을 사용해서 표면 신 라탄더의 신성한 유물을 파괴했습니다."
 vhaeraun,dlg,ReplyList/31/Text,0,"""Morninglord 의 추종자 들 은 유적 들 의 남쪽 가장자리 에 있는 큰 탑 에 본부 를 두고 있었다. 저는 그 탑 위 에 들어가기 위한 방법을 찾아서 그 탑 위 에 도착 하였습니다. 그 곳 에서 그 들 의 귀중 한 유물 을 발견 하였습니다""."
@@ -4167,39 +4167,39 @@ zhent_grd_cpt_1,dlg,EntryList/2/Text,0,"""그래서, 당신은 <his/her> 이름�
 zhent_grd_cpt_1,dlg,EntryList/3/Text,0,"""네 얼굴을 좀 더 자세히 살펴볼게요""..."
 zhent_grd_cpt_1,dlg,EntryList/4/Text,0,"""드루, 얼마나 이상하냐? 세멘몬 경이 가장 관심이 있을 거야""."
 zhent_grd_cpt_1,dlg,EntryList/5/Text,0,"""지금 이 일 은 시간이 걸릴 것 이다. 홀 에서 기다리거나 동쪽 날개 의 한 방 에서 잠시 쉬어라. 당신 의 옛 동반자 는 가장 남쪽 한 방 에 머물고 있다. 당신 은 그 옆 한 방 을 취할 수 있지만 가장 북쪽 한 방 에서 멀리 떨어져 있을 것 이다""."
-abyssalplane,git,Creature List/0/FirstName,0,'비빌리스'
+abyssalplane,git,Creature List/0/FirstName,0,베빌리스
 abyssalplane,git,Creature List/0/Description,0,"베빌리스는 거대한 맹수, 다른 악마를 사냥하는 거미귀의 악마입니다. 그들의 가장 좋아하는 먹이는 타나리이지만 그들은 선택적이지 않습니다. 그들은 어떤 것도 추적하고 공격합니다."
-abyssalplane,git,Creature List/1/FirstName,0,'비빌리스'
+abyssalplane,git,Creature List/1/FirstName,0,베빌리스
 abyssalplane,git,Creature List/1/Description,0,"베빌리스는 거대한 맹수, 다른 악마를 사냥하는 거미귀의 악마입니다. 그들의 가장 좋아하는 먹이는 타나리이지만 그들은 선택적이지 않습니다. 그들은 어떤 것도 추적하고 공격합니다."
-abyssalplane,git,Creature List/2/FirstName,0,'비빌리스'
+abyssalplane,git,Creature List/2/FirstName,0,베빌리스
 abyssalplane,git,Creature List/2/Description,0,"베빌리스는 거대한 맹수, 다른 악마를 사냥하는 거미귀의 악마입니다. 그들의 가장 좋아하는 먹이는 타나리이지만 그들은 선택적이지 않습니다. 그들은 어떤 것도 추적하고 공격합니다."
-abyssalplane,git,Creature List/3/FirstName,0,'비빌리스'
+abyssalplane,git,Creature List/3/FirstName,0,베빌리스
 abyssalplane,git,Creature List/3/Description,0,"베빌리스는 거대한 맹수, 다른 악마를 사냥하는 거미귀의 악마입니다. 그들의 가장 좋아하는 먹이는 타나리이지만 그들은 선택적이지 않습니다. 그들은 어떤 것도 추적하고 공격합니다."
-abyssalplane,git,Creature List/4/FirstName,0,록
+abyssalplane,git,Creature List/4/FirstName,0,브록
 abyssalplane,git,Creature List/4/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-abyssalplane,git,Creature List/5/FirstName,0,록
+abyssalplane,git,Creature List/5/FirstName,0,브록
 abyssalplane,git,Creature List/5/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-abyssalplane,git,Creature List/6/FirstName,0,록
+abyssalplane,git,Creature List/6/FirstName,0,브록
 abyssalplane,git,Creature List/6/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-abyssalplane,git,Creature List/7/FirstName,0,록
+abyssalplane,git,Creature List/7/FirstName,0,브록
 abyssalplane,git,Creature List/7/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-abyssalplane,git,Creature List/8/FirstName,0,록
+abyssalplane,git,Creature List/8/FirstName,0,브록
 abyssalplane,git,Creature List/8/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-abyssalplane,git,Creature List/9/FirstName,0,록
+abyssalplane,git,Creature List/9/FirstName,0,브록
 abyssalplane,git,Creature List/9/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-abyssalplane,git,Creature List/10/FirstName,0,록
+abyssalplane,git,Creature List/10/FirstName,0,브록
 abyssalplane,git,Creature List/10/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-abyssalplane,git,Creature List/11/FirstName,0,발로
+abyssalplane,git,Creature List/11/FirstName,0,발러
 abyssalplane,git,Creature List/11/Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
-abyssalplane,git,Creature List/12/FirstName,0,발로
+abyssalplane,git,Creature List/12/FirstName,0,발러
 abyssalplane,git,Creature List/12/Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
-abyssalplane,git,Creature List/13/FirstName,0,발로
+abyssalplane,git,Creature List/13/FirstName,0,발러
 abyssalplane,git,Creature List/13/Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
-abyssalplane,git,Creature List/14/FirstName,0,발로
+abyssalplane,git,Creature List/14/FirstName,0,발러
 abyssalplane,git,Creature List/14/Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
-abyssalplane,git,Creature List/15/FirstName,0,발로
+abyssalplane,git,Creature List/15/FirstName,0,발러
 abyssalplane,git,Creature List/15/Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
-abyssalplane,git,Creature List/16/FirstName,0,발로
+abyssalplane,git,Creature List/16/FirstName,0,발러
 abyssalplane,git,Creature List/16/Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
 abyssalplane,git,Encounter List/0/LocalizedName,0,악마 표준
 antechamber,git,Creature List/0/FirstName,0,보라색을 착용하는 사람
@@ -4226,7 +4226,7 @@ antechamber,git,WaypointList/1/LocalizedName,0,이정표
 antechamber,git,WaypointList/1/MapNote,0,컬트 레이어 문
 antechamber,git,Placeable List/0/LocName,0,타페스트리
 antechamber,git,Placeable List/1/LocName,0,타페스트리
-antechamber,git,Placeable List/12/LocName,0,왕좌
+antechamber,git,Placeable List/12/LocName,0,옥좌
 antechamber,git,Placeable List/12/Description,0,높은 뒷받침의 왕좌는 그림자에서 나오고 주의를 끌고 있습니다. 그 디자인에 있는 무언가가 당신의 마음을 공포로 가득 차 있습니다.
 antechamber,git,Placeable List/27/LocName,0,타페스트리
 antechamber,git,Placeable List/28/LocName,0,타페스트리
@@ -4237,7 +4237,7 @@ area,git,Creature List/2/FirstName,0,말라의 짐승
 area,git,Creature List/3/FirstName,0,말라의 짐승
 area,git,Creature List/4/FirstName,0,야만적인 톤
 area,git,Creature List/4/Description,0,드는 그의 삶을 말라르의 야만적인 길에 바쳤다. 한때 북부의 부족들 사이에서 어느 정도의 명성을 가진 전사였을 때 그는 최근 자신의 집과 부족을 버리고 끝없는 사냥의 즐거움을 누렸다.
-area,git,Creature List/4/ItemList/1/LocalizedName,0,말라르의 신성 상징
+area,git,Creature List/4/ItemList/1/LocalizedName,0,말라르의 신성한 상징
 area,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,학살의 스카이트
 area001,git,TriggerList/1/LocalizedName,0,덤투웨스트풀
 area001,git,WaypointList/0/MapNote,0,서쪽 수영장
@@ -4456,7 +4456,7 @@ area002,git,TriggerList/4/LocalizedName,0,타르샤일로센터
 area002,git,WaypointList/0/MapNote,0,티린타르의 홀
 area002,git,WaypointList/1/MapNote,0,스펙럼
 area002,git,WaypointList/2/MapNote,0,새벽 스파이어
-area002,git,WaypointList/3/MapNote,0,파괴 된 도시 핵심
+area002,git,WaypointList/3/MapNote,0,망한 도시 중심부
 area002,git,WaypointList/4/MapNote,0,코르망토르 성
 area002,git,WaypointList/5/MapNote,0,이리틀륨
 area002,git,WaypointList/6/LocalizedName,0,T_sp_bucklal
@@ -4779,43 +4779,43 @@ area003,git,TriggerList/0/LocalizedName,0,ds_1st_conv_prior
 area003,git,WaypointList/0/LocalizedName,0,입구
 area003,git,WaypointList/0/MapNote,0,드라너 신화에 대한 출구
 area003,git,WaypointList/1/LocalizedName,0,이정표
-area003,git,Placeable List/0/LocName,0,벤치
+area003,git,Placeable List/0/LocName,0,긴의자
 area003,git,Placeable List/0/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/1/LocName,0,벤치
+area003,git,Placeable List/1/LocName,0,긴의자
 area003,git,Placeable List/1/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/2/LocName,0,벤치
+area003,git,Placeable List/2/LocName,0,긴의자
 area003,git,Placeable List/2/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/3/LocName,0,벤치
+area003,git,Placeable List/3/LocName,0,긴의자
 area003,git,Placeable List/3/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/4/LocName,0,벤치
+area003,git,Placeable List/4/LocName,0,긴의자
 area003,git,Placeable List/4/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/5/LocName,0,벤치
+area003,git,Placeable List/5/LocName,0,긴의자
 area003,git,Placeable List/5/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/6/LocName,0,벤치
+area003,git,Placeable List/6/LocName,0,긴의자
 area003,git,Placeable List/6/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/7/LocName,0,벤치
+area003,git,Placeable List/7/LocName,0,긴의자
 area003,git,Placeable List/7/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/8/LocName,0,벤치
+area003,git,Placeable List/8/LocName,0,긴의자
 area003,git,Placeable List/8/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/9/LocName,0,벤치
+area003,git,Placeable List/9/LocName,0,긴의자
 area003,git,Placeable List/9/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/10/LocName,0,벤치
+area003,git,Placeable List/10/LocName,0,긴의자
 area003,git,Placeable List/10/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/11/LocName,0,벤치
+area003,git,Placeable List/11/LocName,0,긴의자
 area003,git,Placeable List/11/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/12/LocName,0,벤치
+area003,git,Placeable List/12/LocName,0,긴의자
 area003,git,Placeable List/12/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/13/LocName,0,벤치
+area003,git,Placeable List/13/LocName,0,긴의자
 area003,git,Placeable List/13/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/14/LocName,0,벤치
+area003,git,Placeable List/14/LocName,0,긴의자
 area003,git,Placeable List/14/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/15/LocName,0,벤치
+area003,git,Placeable List/15/LocName,0,긴의자
 area003,git,Placeable List/15/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/35/LocName,0,왕좌
+area003,git,Placeable List/35/LocName,0,옥좌
 area003,git,Placeable List/35/Description,0,황금 의 의자 는 마법 으로든 역사 의 무게 로든 자신감 과 권위 를 발휘 한다. 이 의자 는 자신 의 의자라고 부르는 통치자 들 은 현명 하다.
-area003,git,Placeable List/36/LocName,0,벤치
+area003,git,Placeable List/36/LocName,0,긴의자
 area003,git,Placeable List/36/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area003,git,Placeable List/37/LocName,0,벤치
+area003,git,Placeable List/37/LocName,0,긴의자
 area003,git,Placeable List/37/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 area003,git,Placeable List/38/LocName,0,의자
 area003,git,Placeable List/38/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
@@ -4831,14 +4831,14 @@ area004,git,TriggerList/0/LocalizedName,0,트리거 다롤이 작동합니다
 area004,git,TriggerList/1/LocalizedName,0,트리거 다롤이 온다
 area004,git,WaypointList/0/LocalizedName,0,입구
 area004,git,WaypointList/0/MapNote,0,드라너 신화에 대한 출구
-area004,git,Placeable List/3/LocName,0,앵빌
+area004,git,Placeable List/3/LocName,0,모루
 area005,git,TriggerList/0/LocalizedName,0,BL_터널_아웃
 area005,git,Placeable List/64/Description,0,"큰, 단단한 화석 조각이 땅 밖으로 나오고 있습니다."
 area006,git,Creature List/0/FirstName,0,고독
-area006,git,Creature List/1/FirstName,0,관찰자
-area006,git,Creature List/2/FirstName,0,관찰자
-area006,git,Creature List/3/FirstName,0,관찰자
-area006,git,Creature List/4/FirstName,0,관찰자
+area006,git,Creature List/1/FirstName,0,주시자
+area006,git,Creature List/2/FirstName,0,주시자
+area006,git,Creature List/3/FirstName,0,주시자
+area006,git,Creature List/4/FirstName,0,주시자
 area006,git,List/11/LocalizedName,0,일곱 명 중 한 명 (광)
 area006,git,List/12/LocalizedName,0,완전 한 키모노
 area007,git,TriggerList/0/LocalizedName,0,웨스턴필드에서 웨스턴나우츠크
@@ -4940,12 +4940,12 @@ area007,git,Placeable List/101/LocName,0,TN_Tree_Oak_A_Lrg
 area007,git,Placeable List/102/LocName,0,TN_Tree_Oak_A_ExLrg
 area007,git,Placeable List/103/LocName,0,TN_Tree_Spruce_A_Lrg
 area007,git,Placeable List/104/LocName,0,TN_Tree_Oak_B_Lrg
-area008,git,TriggerList/0/LocalizedName,0,새로운 지역 전환
-area008,git,Placeable List/0/LocName,0,계단
+area008,git,TriggerList/0/LocalizedName,0,뉴 에이리어 트랜지션
+area008,git,Placeable List/0/LocName,0,사다리
 area010,git,Creature List/0/FirstName,0,페린
 area010,git,Creature List/0/LastName,0,모더쉬
 area010,git,Creature List/0/ItemList/7/LocalizedName,0,안빌 - 방 5
-area010,git,Creature List/1/FirstName,0,아토
+area010,git,Creature List/1/FirstName,0,알토
 area010,git,Creature List/1/LastName,0,마쉬비
 area010,git,Creature List/1/ItemList/1/LocalizedName,0,아토스 갑옷
 area010,git,Creature List/1/ItemList/1/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
@@ -4953,14 +4953,14 @@ area010,git,Creature List/1/ItemList/2/LocalizedName,0,앵무새 - 방 3
 area010,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,아토스 갑옷
 area010,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 area010,git,List/0/LocalizedName,0,모데인 증기
-area010,git,List/0/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브의 대략 지은 잎으로 만들어지는 모다인은 끓는 물에 약간의 양을 담아내고 그 결과 차의 증기를 흡입하여 만들어지는 만큼 강력하다. 원료 모다인 파워와 모다인 은 물은 치명적인 독이다. 파우더를 직접 섭취하거나 차를 마시는 것은 즉각적인 과다 복용을 일으킨다. 꿈의 안개는 아름다운 비전을 유발하고, 치명적인 위험성을 포옹하는 것으로 유명하다. 유형: 흡입 DC17 초기 효과: 외상적인 비전은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또한 비전은 사용자가 자신이 원하는 양을 잃게 만들 수 있는 50%의 확률이 있습니다."
+area010,git,List/0/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브를 대략 지은 잎으로 만들어져 있는 모르데이인은 끓는 물에 약간의 양을 담아내고 그 결과 나오는 차의 증기를 흡입하여 만들어진 만큼 강력하다. 원료 모르테인 파워와 모르데이인이 마른 물이 치명적인 독이다; 먼지를 직접 섭취하거나 차를 마시는 것은 즉각적으로 과다 복용을 일으킨다. 꿈의 안개가 아름다운 비전을 유발하고, 그것이 포옹하는 치명적 위험성 때문에 유명합니다. 타입: 호흡된 창 DC17 초기 효과: 외상적인 환상은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또 50%의 확률로 사용자들이 원하는 양의 아름다움을 잃게 만들 수 있다 (저주 부여larary에 대한 의사결정)."
 area010,git,List/1/LocalizedName,0,모데인 증기
-area010,git,List/1/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브의 대략 지은 잎으로 만들어지는 모다인은 끓는 물에 약간의 양을 담아내고 그 결과 차의 증기를 흡입하여 만들어지는 만큼 강력하다. 원료 모다인 파워와 모다인 은 물은 치명적인 독이다. 파우더를 직접 섭취하거나 차를 마시는 것은 즉각적인 과다 복용을 일으킨다. 꿈의 안개는 아름다운 비전을 유발하고, 치명적인 위험성을 포옹하는 것으로 유명하다. 유형: 흡입 DC17 초기 효과: 외상적인 비전은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또한 비전은 사용자가 자신이 원하는 양을 잃게 만들 수 있는 50%의 확률이 있습니다."
+area010,git,List/1/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브를 대략 지은 잎으로 만들어져 있는 모르데이인은 끓는 물에 약간의 양을 담아내고 그 결과 나오는 차의 증기를 흡입하여 만들어진 만큼 강력하다. 원료 모르테인 파워와 모르데이인이 마른 물이 치명적인 독이다; 먼지를 직접 섭취하거나 차를 마시는 것은 즉각적으로 과다 복용을 일으킨다. 꿈의 안개가 아름다운 비전을 유발하고, 그것이 포옹하는 치명적 위험성 때문에 유명합니다. 타입: 호흡된 창 DC17 초기 효과: 외상적인 환상은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또 50%의 확률로 사용자들이 원하는 양의 아름다움을 잃게 만들 수 있다 (저주 부여larary에 대한 의사결정)."
 area010,git,List/2/LocalizedName,0,모데인 증기
-area010,git,List/2/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브의 대략 지은 잎으로 만들어지는 모다인은 끓는 물에 약간의 양을 담아내고 그 결과 차의 증기를 흡입하여 만들어지는 만큼 강력하다. 원료 모다인 파워와 모다인 은 물은 치명적인 독이다. 파우더를 직접 섭취하거나 차를 마시는 것은 즉각적인 과다 복용을 일으킨다. 꿈의 안개는 아름다운 비전을 유발하고, 치명적인 위험성을 포옹하는 것으로 유명하다. 유형: 흡입 DC17 초기 효과: 외상적인 비전은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또한 비전은 사용자가 자신이 원하는 양을 잃게 만들 수 있는 50%의 확률이 있습니다."
+area010,git,List/2/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브를 대략 지은 잎으로 만들어져 있는 모르데이인은 끓는 물에 약간의 양을 담아내고 그 결과 나오는 차의 증기를 흡입하여 만들어진 만큼 강력하다. 원료 모르테인 파워와 모르데이인이 마른 물이 치명적인 독이다; 먼지를 직접 섭취하거나 차를 마시는 것은 즉각적으로 과다 복용을 일으킨다. 꿈의 안개가 아름다운 비전을 유발하고, 그것이 포옹하는 치명적 위험성 때문에 유명합니다. 타입: 호흡된 창 DC17 초기 효과: 외상적인 환상은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또 50%의 확률로 사용자들이 원하는 양의 아름다움을 잃게 만들 수 있다 (저주 부여larary에 대한 의사결정)."
 area010,git,List/3/LocalizedName,0,모데인 증기
-area010,git,List/3/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브의 대략 지은 잎으로 만들어지는 모다인은 끓는 물에 약간의 양을 담아내고 그 결과 차의 증기를 흡입하여 만들어지는 만큼 강력하다. 원료 모다인 파워와 모다인 은 물은 치명적인 독이다. 파우더를 직접 섭취하거나 차를 마시는 것은 즉각적인 과다 복용을 일으킨다. 꿈의 안개는 아름다운 비전을 유발하고, 치명적인 위험성을 포옹하는 것으로 유명하다. 유형: 흡입 DC17 초기 효과: 외상적인 비전은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또한 비전은 사용자가 자신이 원하는 양을 잃게 만들 수 있는 50%의 확률이 있습니다."
-area010,git,Placeable List/4/LocName,0,배설기
+area010,git,List/3/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브를 대략 지은 잎으로 만들어져 있는 모르데이인은 끓는 물에 약간의 양을 담아내고 그 결과 나오는 차의 증기를 흡입하여 만들어진 만큼 강력하다. 원료 모르테인 파워와 모르데이인이 마른 물이 치명적인 독이다; 먼지를 직접 섭취하거나 차를 마시는 것은 즉각적으로 과다 복용을 일으킨다. 꿈의 안개가 아름다운 비전을 유발하고, 그것이 포옹하는 치명적 위험성 때문에 유명합니다. 타입: 호흡된 창 DC17 초기 효과: 외상적인 환상은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또 50%의 확률로 사용자들이 원하는 양의 아름다움을 잃게 만들 수 있다 (저주 부여larary에 대한 의사결정)."
+area010,git,Placeable List/4/LocName,0,등받이 없는 의자
 area010,git,Placeable List/4/Description,0,"한 다리가 약간 느슨해 보이는데, 배설기가 얼마나 오래 지속될지 궁금합니다."
 area010,git,Placeable List/34/LocName,0,병
 area010,git,Placeable List/35/LocName,0,병
@@ -5007,11 +5007,11 @@ area011,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,젠타림 판
 area011,git,Encounter List/0/LocalizedName,0,SYM_skelspawn
 area011,git,Placeable List/25/LocName,0,주문목표
 area011,git,Placeable List/26/LocName,0,주문목표
-area012,git,WaypointList/0/MapNote,0,주요 출구
+area012,git,WaypointList/0/MapNote,0,주 출구
 area012,git,WaypointList/1/MapNote,0,경성으로 가는 계단
-area012,git,Placeable List/29/LocName,0,소화장
+area012,git,Placeable List/29/LocName,0,벽난로
 area012,git,Placeable List/29/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
-area012,git,Placeable List/30/LocName,0,소화장
+area012,git,Placeable List/30/LocName,0,벽난로
 area012,git,Placeable List/30/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 area012,git,Placeable List/35/LocName,0,떨어진 기둥
 area012,git,Placeable List/36/LocName,0,떨어진 기둥
@@ -5019,17 +5019,17 @@ area012,git,Placeable List/37/LocName,0,떨어진 기둥
 area012,git,Placeable List/41/LocName,0,떨어진 기둥
 area012,git,Placeable List/69/LocName,0,더리트 로드
 area012,git,Placeable List/70/LocName,0,더리트 로드
-area012,git,Placeable List/100/LocName,0,벤치
+area012,git,Placeable List/100/LocName,0,긴의자
 area012,git,Placeable List/100/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area012,git,Placeable List/101/LocName,0,벤치
+area012,git,Placeable List/101/LocName,0,긴의자
 area012,git,Placeable List/101/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area012,git,Placeable List/102/LocName,0,벤치
+area012,git,Placeable List/102/LocName,0,긴의자
 area012,git,Placeable List/102/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area012,git,Placeable List/103/LocName,0,벤치
+area012,git,Placeable List/103/LocName,0,긴의자
 area012,git,Placeable List/103/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area012,git,Placeable List/104/LocName,0,벤치
+area012,git,Placeable List/104/LocName,0,긴의자
 area012,git,Placeable List/104/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area012,git,Placeable List/105/LocName,0,벤치
+area012,git,Placeable List/105/LocName,0,긴의자
 area012,git,Placeable List/105/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 area013,git,Encounter List/0/LocalizedName,0,와이프스파운
 area013,git,Placeable List/27/LocName,0,마법의 힘원
@@ -5068,15 +5068,15 @@ area014,git,Placeable List/43/LocName,0,물
 area014,git,Placeable List/44/LocName,0,물
 area014,git,Placeable List/67/LocName,0,샤운다쿨의 제단
 area015,git,Creature List/0/Description,0,"이 거대한 골렘은 다른 생물들보다 높고 대부분의 물리적, 마법적인 공격에 저항합니다."
-area015,git,Creature List/0/ItemList/0/LocalizedName,0,오나그림 밸브 키
+area015,git,Creature List/0/ItemList/0/LocalizedName,0,오나그림 금고 열쇠
 area015,git,Creature List/1/Description,0,"이 거대한 골렘은 다른 생물들보다 높고 대부분의 물리적, 마법적인 공격에 저항합니다."
 area015,git,Creature List/2/Description,0,"이 거대한 골렘은 다른 생물들보다 높고 대부분의 물리적, 마법적인 공격에 저항합니다."
-area015,git,Creature List/2/ItemList/0/LocalizedName,0,오나그림 밸브 키
+area015,git,Creature List/2/ItemList/0/LocalizedName,0,오나그림 금고 열쇠
 area015,git,Creature List/3/Description,0,"이 거대한 골렘은 다른 생물들보다 높고 대부분의 물리적, 마법적인 공격에 저항합니다."
 area015,git,Creature List/4/Description,0,"이 거대한 골렘은 다른 생물들보다 높고 대부분의 물리적, 마법적인 공격에 저항합니다."
-area015,git,Creature List/4/ItemList/0/LocalizedName,0,오나그림 밸브 키
+area015,git,Creature List/4/ItemList/0/LocalizedName,0,오나그림 금고 열쇠
 area015,git,Creature List/5/Description,0,"이 거대한 골렘은 다른 생물들보다 높고 대부분의 물리적, 마법적인 공격에 저항합니다."
-area015,git,Creature List/5/ItemList/0/LocalizedName,0,오나그림 밸브 키
+area015,git,Creature List/5/ItemList/0/LocalizedName,0,오나그림 금고 열쇠
 area015,git,Creature List/6/Description,0,"이 거대한 골렘은 다른 생물들보다 높고 대부분의 물리적, 마법적인 공격에 저항합니다."
 area015,git,Creature List/7/Description,0,"이 거대한 골렘은 다른 생물들보다 높고 대부분의 물리적, 마법적인 공격에 저항합니다."
 area015,git,Placeable List/42/Description,0,금속 톱니가 이 장식 된 상자 의 목조 를 뚫고 니다. 그 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱
@@ -5436,14 +5436,14 @@ area020,git,Creature List/8/ItemList/0/DescIdentified,0,이 두개골은 이상�
 area020,git,Creature List/8/ItemList/1/LocalizedName,0,머리골
 area020,git,Creature List/8/ItemList/1/DescIdentified,0,이 두개골은 이상한 미스터리한 표적을 가지고 있습니다.
 area020,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,바네고레름 갈고리
-area020,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,골름 스카이드
+area020,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,뼈 골렘 히드
 area020,git,Creature List/9/FirstName,0,뼈 골렘
 area020,git,Creature List/9/ItemList/0/LocalizedName,0,머리골
 area020,git,Creature List/9/ItemList/0/DescIdentified,0,이 두개골은 이상한 미스터리한 표적을 가지고 있습니다.
 area020,git,Creature List/9/ItemList/1/LocalizedName,0,머리골
 area020,git,Creature List/9/ItemList/1/DescIdentified,0,이 두개골은 이상한 미스터리한 표적을 가지고 있습니다.
 area020,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,바네고레름 갈고리
-area020,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,골름 스카이드
+area020,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,뼈 골렘 히드
 area020,git,Placeable List/31/LocName,0,네크로노미콘
 area020,git,Placeable List/31/Description,0,마법사나 학자 같은 너무 큰 책들이 그들의 연구에서 사용할 수 있습니다. 이 책은 악의 압도적인 분위기를 내포합니다.
 area020,git,Placeable List/31/ItemList/0/LocalizedName,0,네크로노미콘
@@ -5456,17 +5456,17 @@ area020,git,Placeable List/69/LocName,0,시체
 area020,git,Placeable List/70/LocName,0,시체
 area020,git,Placeable List/71/LocName,0,시체
 area020,git,Placeable List/72/LocName,0,시체
-area020,git,Placeable List/202/LocName,0,벤치
+area020,git,Placeable List/202/LocName,0,긴의자
 area020,git,Placeable List/202/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area020,git,Placeable List/203/LocName,0,벤치
+area020,git,Placeable List/203/LocName,0,긴의자
 area020,git,Placeable List/203/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area020,git,Placeable List/204/LocName,0,벤치
+area020,git,Placeable List/204/LocName,0,긴의자
 area020,git,Placeable List/204/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area020,git,Placeable List/205/LocName,0,벤치
+area020,git,Placeable List/205/LocName,0,긴의자
 area020,git,Placeable List/205/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area020,git,Placeable List/206/LocName,0,벤치
+area020,git,Placeable List/206/LocName,0,긴의자
 area020,git,Placeable List/206/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area020,git,Placeable List/207/LocName,0,벤치
+area020,git,Placeable List/207/LocName,0,긴의자
 area020,git,Placeable List/207/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 area020,git,Placeable List/309/LocName,0,야만적 인 표지판
 area020,git,Placeable List/309/Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
@@ -5520,16 +5520,16 @@ area022,git,Placeable List/87/LocName,0,시체
 area022,git,Placeable List/88/LocName,0,시체
 area022,git,Placeable List/89/LocName,0,시체
 area022,git,Placeable List/90/LocName,0,시체
-area022,git,Placeable List/95/LocName,0,왕좌
+area022,git,Placeable List/95/LocName,0,옥좌
 area022,git,Placeable List/95/Description,0,높은 뒷받침의 왕좌는 그림자에서 나오고 주의를 끌고 있습니다. 그 디자인에 있는 무언가가 당신의 마음을 공포로 가득 차 있습니다.
 area022,git,Placeable List/96/LocName,0,더리트 로드
-area022,git,Placeable List/97/LocName,0,벤치
+area022,git,Placeable List/97/LocName,0,긴의자
 area022,git,Placeable List/97/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area022,git,Placeable List/98/LocName,0,벤치
+area022,git,Placeable List/98/LocName,0,긴의자
 area022,git,Placeable List/98/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area022,git,Placeable List/99/LocName,0,벤치
+area022,git,Placeable List/99/LocName,0,긴의자
 area022,git,Placeable List/99/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area022,git,Placeable List/100/LocName,0,벤치
+area022,git,Placeable List/100/LocName,0,긴의자
 area022,git,Placeable List/100/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 area023,git,Creature List/0/FirstName,0,나흐노투
 area023,git,Creature List/0/ItemList/0/LocalizedName,0,나흐노투 의복
@@ -5540,7 +5540,7 @@ area023,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,비중적 인 공�
 area023,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,이 브레저들은 한때 드라너 신화의 뱀파이어 신부인 나흐노투에 속해 있었다.
 area023,git,Placeable List/19/LocName,0,타페스트리
 area023,git,Placeable List/24/LocName,0,골든 컵
-area023,git,Placeable List/65/LocName,0,왕좌
+area023,git,Placeable List/65/LocName,0,옥좌
 area023,git,Placeable List/65/Description,0,높은 뒷받침의 왕좌는 그림자에서 나오고 주의를 끌고 있습니다. 그 디자인에 있는 무언가가 당신의 마음을 공포로 가득 차 있습니다.
 area023,git,Placeable List/68/LocName,0,타페스트리
 area024,git,Door List/1/LocName,0,문
@@ -5926,16 +5926,16 @@ area027,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,코너곤 손톱
 area027,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,코너곤 손톱
 area027,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,코너곤 꼬리
 area027,git,Creature List/6/Equip_ItemList/4/LocalizedName,0,코너곤 숨기기
-area027,git,Creature List/7/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/8/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/9/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/10/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/11/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/12/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/13/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/14/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/15/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/16/FirstName,0,지옥의 사냥꾼
+area027,git,Creature List/7/FirstName,0,지옥 사냥개
+area027,git,Creature List/8/FirstName,0,지옥 사냥개
+area027,git,Creature List/9/FirstName,0,지옥 사냥개
+area027,git,Creature List/10/FirstName,0,지옥 사냥개
+area027,git,Creature List/11/FirstName,0,지옥 사냥개
+area027,git,Creature List/12/FirstName,0,지옥 사냥개
+area027,git,Creature List/13/FirstName,0,지옥 사냥개
+area027,git,Creature List/14/FirstName,0,지옥 사냥개
+area027,git,Creature List/15/FirstName,0,지옥 사냥개
+area027,git,Creature List/16/FirstName,0,지옥 사냥개
 area027,git,Creature List/23/FirstName,0,델리트고르크
 area027,git,Creature List/24/FirstName,0,오루바르가
 area027,git,Creature List/25/FirstName,0,코르누노
@@ -5966,17 +5966,17 @@ area027,git,Creature List/28/Equip_ItemList/1/LocalizedName,0,코너곤 손톱
 area027,git,Creature List/28/Equip_ItemList/2/LocalizedName,0,코너곤 손톱
 area027,git,Creature List/28/Equip_ItemList/3/LocalizedName,0,코너곤 꼬리
 area027,git,Creature List/28/Equip_ItemList/4/LocalizedName,0,코너곤 숨기기
-area027,git,Creature List/29/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/30/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/31/FirstName,0,지옥의 사냥꾼
-area027,git,Creature List/32/FirstName,0,지옥의 사냥꾼
+area027,git,Creature List/29/FirstName,0,지옥 사냥개
+area027,git,Creature List/30/FirstName,0,지옥 사냥개
+area027,git,Creature List/31/FirstName,0,지옥 사냥개
+area027,git,Creature List/32/FirstName,0,지옥 사냥개
 area027,git,Door List/16/LocName,0,문
 area027,git,Door List/19/LocName,0,문
 area027,git,TriggerList/0/LocalizedName,0,"발사 함정 트리거, 어둠"
 area027,git,TriggerList/1/LocalizedName,0,"발사 함정 트리거, 어둠"
-area027,git,Placeable List/84/LocName,0,왕좌
+area027,git,Placeable List/84/LocName,0,옥좌
 area027,git,Placeable List/84/Description,0,황금 의 의자 는 마법 으로든 역사 의 무게 로든 자신감 과 권위 를 발휘 한다. 이 의자 는 자신 의 의자라고 부르는 통치자 들 은 현명 하다.
-area027,git,Placeable List/85/LocName,0,왕좌
+area027,git,Placeable List/85/LocName,0,옥좌
 area027,git,Placeable List/85/Description,0,황금 의 의자 는 마법 으로든 역사 의 무게 로든 자신감 과 권위 를 발휘 한다. 이 의자 는 자신 의 의자라고 부르는 통치자 들 은 현명 하다.
 area027,git,Placeable List/151/LocName,0,하위 비행에 대한 포털
 area028,git,Placeable List/23/LocName,0,병
@@ -6071,7 +6071,7 @@ area029,git,Creature List/6/Description,0,"Dawnspire는 14명의 모험적인 �
 area029,git,Creature List/6/ItemList/0/LocalizedName,0,아침의 주인 의 갑옷
 area029,git,Creature List/6/ItemList/0/Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
 area029,git,Creature List/6/ItemList/7/LocalizedName,0,Dawnspire 경비 열쇠
-area029,git,Creature List/6/ItemList/8/LocalizedName,0,거룩 한 자 의 작은 방패
+area029,git,Creature List/6/ItemList/8/LocalizedName,0,작은 성령의 방패
 area029,git,Creature List/6/ItemList/9/LocalizedName,0,아침의 주인 (Mace)
 area029,git,Creature List/6/ItemList/9/DescIdentified,0,아마도 라탄다르의 사제들 중 가장 인기 있는 무기가 될 수도 있습니다. 아침주님의 mace는 죽은 자들의 재앙입니다.
 area029,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,아침의 주인 의 갑옷
@@ -6080,7 +6080,7 @@ area029,git,Creature List/7/FirstName,0,아침 주 의 모험적 인 사제
 area029,git,Creature List/7/Description,0,"Dawnspire는 14명의 모험적인 사제들로 구성되어 있습니다. 그들은 모두 잘 훈련되어 있고, 장비가 잘 되어 있으며, 특히 그들의 지도자인 Alaecathra Shuinrond에게 절대적인 충성심을 가지고 봉사합니다."
 area029,git,Creature List/7/ItemList/3/LocalizedName,0,아침의 주인 의 갑옷
 area029,git,Creature List/7/ItemList/3/Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
-area029,git,Creature List/7/ItemList/4/LocalizedName,0,거룩 한 자 의 작은 방패
+area029,git,Creature List/7/ItemList/4/LocalizedName,0,작은 성령의 방패
 area029,git,Creature List/7/ItemList/5/LocalizedName,0,아침주사의 작은 마이스
 area029,git,Creature List/7/ItemList/5/DescIdentified,0,아마도 라탄다르의 사제들 중 가장 인기 있는 무기가 될 수도 있습니다. 아침주님의 mace는 죽은 자들의 재앙입니다.
 area029,git,Creature List/7/ItemList/6/LocalizedName,0,Dawnspire 경비 열쇠
@@ -6090,7 +6090,7 @@ area029,git,Creature List/8/FirstName,0,아침 주 의 모험적 인 사제
 area029,git,Creature List/8/Description,0,"Dawnspire는 14명의 모험적인 사제들로 구성되어 있습니다. 그들은 모두 잘 훈련되어 있고, 장비가 잘 되어 있으며, 특히 그들의 지도자인 Alaecathra Shuinrond에게 절대적인 충성심을 가지고 봉사합니다."
 area029,git,Creature List/8/ItemList/3/LocalizedName,0,아침의 주인 의 갑옷
 area029,git,Creature List/8/ItemList/3/Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
-area029,git,Creature List/8/ItemList/4/LocalizedName,0,거룩 한 자 의 작은 방패
+area029,git,Creature List/8/ItemList/4/LocalizedName,0,작은 성령의 방패
 area029,git,Creature List/8/ItemList/5/LocalizedName,0,아침주사의 작은 마이스
 area029,git,Creature List/8/ItemList/5/DescIdentified,0,아마도 라탄다르의 사제들 중 가장 인기 있는 무기가 될 수도 있습니다. 아침주님의 mace는 죽은 자들의 재앙입니다.
 area029,git,Creature List/8/ItemList/6/LocalizedName,0,Dawnspire 경비 열쇠
@@ -6116,77 +6116,77 @@ area029,git,Creature List/13/FirstName,0,새벽 을 찾는 사람
 area029,git,Creature List/13/Description,0,"모험을 하지 않는 형제들은 어떤 교회나 수도원 사회의 척추입니다. ""태양의 수색자""들 중 작은 형제들은 모두 숙련된 정원장과 포식자이며, Dawnspire에게 음식과 공예품을 제공합니다."
 area029,git,Creature List/13/ItemList/0/LocalizedName,0,일반 사람 의 옷
 area029,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,일반 사람 의 옷
-area029,git,Placeable List/0/LocName,0,벤치
+area029,git,Placeable List/0/LocName,0,긴의자
 area029,git,Placeable List/0/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/1/LocName,0,벤치
+area029,git,Placeable List/1/LocName,0,긴의자
 area029,git,Placeable List/1/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/2/LocName,0,벤치
+area029,git,Placeable List/2/LocName,0,긴의자
 area029,git,Placeable List/2/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/3/LocName,0,벤치
+area029,git,Placeable List/3/LocName,0,긴의자
 area029,git,Placeable List/3/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/4/LocName,0,벤치
+area029,git,Placeable List/4/LocName,0,긴의자
 area029,git,Placeable List/4/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/5/LocName,0,벤치
+area029,git,Placeable List/5/LocName,0,긴의자
 area029,git,Placeable List/5/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/6/LocName,0,벤치
+area029,git,Placeable List/6/LocName,0,긴의자
 area029,git,Placeable List/6/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/7/LocName,0,벤치
+area029,git,Placeable List/7/LocName,0,긴의자
 area029,git,Placeable List/7/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/8/LocName,0,벤치
+area029,git,Placeable List/8/LocName,0,긴의자
 area029,git,Placeable List/8/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/9/LocName,0,벤치
+area029,git,Placeable List/9/LocName,0,긴의자
 area029,git,Placeable List/9/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/10/LocName,0,벤치
+area029,git,Placeable List/10/LocName,0,긴의자
 area029,git,Placeable List/10/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/11/LocName,0,벤치
+area029,git,Placeable List/11/LocName,0,긴의자
 area029,git,Placeable List/11/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/12/LocName,0,벤치
+area029,git,Placeable List/12/LocName,0,긴의자
 area029,git,Placeable List/12/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/13/LocName,0,벤치
+area029,git,Placeable List/13/LocName,0,긴의자
 area029,git,Placeable List/13/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/14/LocName,0,벤치
+area029,git,Placeable List/14/LocName,0,긴의자
 area029,git,Placeable List/14/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/15/LocName,0,벤치
+area029,git,Placeable List/15/LocName,0,긴의자
 area029,git,Placeable List/15/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/16/LocName,0,벤치
+area029,git,Placeable List/16/LocName,0,긴의자
 area029,git,Placeable List/16/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/17/LocName,0,벤치
+area029,git,Placeable List/17/LocName,0,긴의자
 area029,git,Placeable List/17/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/18/LocName,0,벤치
+area029,git,Placeable List/18/LocName,0,긴의자
 area029,git,Placeable List/18/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/19/LocName,0,벤치
+area029,git,Placeable List/19/LocName,0,긴의자
 area029,git,Placeable List/19/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/20/LocName,0,벤치
+area029,git,Placeable List/20/LocName,0,긴의자
 area029,git,Placeable List/20/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/21/LocName,0,벤치
+area029,git,Placeable List/21/LocName,0,긴의자
 area029,git,Placeable List/21/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/22/LocName,0,벤치
+area029,git,Placeable List/22/LocName,0,긴의자
 area029,git,Placeable List/22/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/23/LocName,0,벤치
+area029,git,Placeable List/23/LocName,0,긴의자
 area029,git,Placeable List/23/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/24/LocName,0,벤치
+area029,git,Placeable List/24/LocName,0,긴의자
 area029,git,Placeable List/24/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/25/LocName,0,벤치
+area029,git,Placeable List/25/LocName,0,긴의자
 area029,git,Placeable List/25/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/26/LocName,0,벤치
+area029,git,Placeable List/26/LocName,0,긴의자
 area029,git,Placeable List/26/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/27/LocName,0,벤치
+area029,git,Placeable List/27/LocName,0,긴의자
 area029,git,Placeable List/27/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/46/LocName,0,벤치
+area029,git,Placeable List/46/LocName,0,긴의자
 area029,git,Placeable List/46/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/47/LocName,0,벤치
+area029,git,Placeable List/47/LocName,0,긴의자
 area029,git,Placeable List/47/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/48/LocName,0,벤치
+area029,git,Placeable List/48/LocName,0,긴의자
 area029,git,Placeable List/48/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/49/LocName,0,벤치
+area029,git,Placeable List/49/LocName,0,긴의자
 area029,git,Placeable List/49/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/50/LocName,0,벤치
+area029,git,Placeable List/50/LocName,0,긴의자
 area029,git,Placeable List/50/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/51/LocName,0,벤치
+area029,git,Placeable List/51/LocName,0,긴의자
 area029,git,Placeable List/51/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/52/LocName,0,벤치
+area029,git,Placeable List/52/LocName,0,긴의자
 area029,git,Placeable List/52/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area029,git,Placeable List/53/LocName,0,벤치
+area029,git,Placeable List/53/LocName,0,긴의자
 area029,git,Placeable List/53/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 area029,git,Placeable List/54/LocName,0,보울
 area029,git,Placeable List/55/LocName,0,보울
@@ -6200,8 +6200,8 @@ area029,git,Placeable List/62/LocName,0,사과
 area029,git,Placeable List/63/LocName,0,병
 area029,git,Placeable List/64/LocName,0,사과
 area029,git,Placeable List/65/LocName,0,치즈
-area029,git,Placeable List/66/LocName,0,접시
-area029,git,Placeable List/67/LocName,0,접시
+area029,git,Placeable List/66/LocName,0,판금
+area029,git,Placeable List/67/LocName,0,판금
 area029,git,Placeable List/76/LocName,0,사과
 area029,git,Placeable List/77/LocName,0,사과
 area029,git,Placeable List/78/LocName,0,사과
@@ -6213,9 +6213,9 @@ area029,git,Placeable List/83/LocName,0,치즈
 area029,git,Placeable List/84/LocName,0,치즈
 area029,git,Placeable List/85/LocName,0,치즈
 area029,git,Placeable List/86/LocName,0,치즈
-area029,git,Placeable List/87/LocName,0,접시
-area029,git,Placeable List/88/LocName,0,접시
-area029,git,Placeable List/89/LocName,0,접시
+area029,git,Placeable List/87/LocName,0,판금
+area029,git,Placeable List/88/LocName,0,판금
+area029,git,Placeable List/89/LocName,0,판금
 area029,git,Placeable List/95/LocName,0,병
 area029,git,Placeable List/96/LocName,0,병
 area029,git,Placeable List/97/LocName,0,병
@@ -6223,7 +6223,7 @@ area029,git,Placeable List/98/LocName,0,병
 area029,git,Placeable List/99/LocName,0,병
 area029,git,Placeable List/100/LocName,0,병
 area029,git,Placeable List/101/LocName,0,병
-area029,git,Placeable List/108/LocName,0,소화장
+area029,git,Placeable List/108/LocName,0,벽난로
 area029,git,Placeable List/108/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 area029,git,Placeable List/112/LocName,0,사과
 area029,git,Placeable List/113/LocName,0,사과
@@ -6269,19 +6269,19 @@ area030,git,Creature List/5/Equip_ItemList/0/Description,0,이 갑옷의 은은 
 area030,git,Creature List/6/FirstName,0,랜서일
 area030,git,Creature List/6/LastName,0,스노우만트
 area030,git,Creature List/6/Description,0,"랜서일은 다그더데일 북쪽의 국경 숲의 가장자리에 있는 작은 마을 스노먼틀에서 태어났다. 랜서일의 아버지는 라우나엘리 로즈 (Raunaeril the Rose) 는 엘프였다. 랜서일의 어머니는 마을의 아름다운 인간 여동생이었으며, 래븐의 성당의 군대와의 피난에서 사망했다. 랜서일은 여섯 살 때 랜서일을 남기고 떠났다. 친근한 드루이드가 랜서일을 키우고 실바누스 숭배에 교육했다. 나중에 그의 교사가 늑대의 먹이로 쓰러졌을 때, 랜서일은 델핑데일 시로 가서 보병 경주로 일했다. 그곳에서 그는 신화의 기사들을 만났다. 랜서일은 오랫동안 마키아스트이자 외교관으로 활동하면서 마키아스트가 되고, 예전에 등장한 이름과 현상과 대화에 대한 기억을 쌓았다."
-area030,git,Placeable List/0/LocName,0,벤치
+area030,git,Placeable List/0/LocName,0,긴의자
 area030,git,Placeable List/0/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area030,git,Placeable List/1/LocName,0,벤치
+area030,git,Placeable List/1/LocName,0,긴의자
 area030,git,Placeable List/1/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area030,git,Placeable List/2/LocName,0,벤치
+area030,git,Placeable List/2/LocName,0,긴의자
 area030,git,Placeable List/2/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area030,git,Placeable List/3/LocName,0,벤치
+area030,git,Placeable List/3/LocName,0,긴의자
 area030,git,Placeable List/3/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area030,git,Placeable List/4/LocName,0,벤치
+area030,git,Placeable List/4/LocName,0,긴의자
 area030,git,Placeable List/4/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area030,git,Placeable List/5/LocName,0,벤치
+area030,git,Placeable List/5/LocName,0,긴의자
 area030,git,Placeable List/5/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-area030,git,Placeable List/6/LocName,0,벤치
+area030,git,Placeable List/6/LocName,0,긴의자
 area030,git,Placeable List/6/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 area030,git,Placeable List/14/LocName,0,골든 컵
 area030,git,Placeable List/20/LocName,0,타페스트리
@@ -6341,9 +6341,9 @@ area033,git,Placeable List/7/Description,0,붉은 빛의 화려한 축이 위에
 area033,git,Placeable List/8/LocName,0,마법의 봉인
 area033,git,Placeable List/9/LocName,0,하위 비행에 대한 포털
 area033,git,Placeable List/11/LocName,0,마법의 봉인
-beholderlair,git,Creature List/0/FirstName,0,보는 마법사
-beholderlair,git,Creature List/1/FirstName,0,관찰자
-beholderlair,git,Creature List/2/FirstName,0,관찰자
+beholderlair,git,Creature List/0/FirstName,0,주시자 마법학자
+beholderlair,git,Creature List/1/FirstName,0,주시자
+beholderlair,git,Creature List/2/FirstName,0,주시자
 beholderlair,git,Creature List/3/FirstName,0,눈알
 beholderlair,git,Creature List/4/FirstName,0,눈알
 beholderlair,git,Creature List/5/FirstName,0,눈알
@@ -6364,9 +6364,9 @@ beholderlair,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,코너곤 손
 beholderlair,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,코너곤 손톱
 beholderlair,git,Creature List/10/Equip_ItemList/3/LocalizedName,0,코너곤 꼬리
 beholderlair,git,Creature List/10/Equip_ItemList/4/LocalizedName,0,코너곤 숨기기
-beholderlair,git,Creature List/11/FirstName,0,록
+beholderlair,git,Creature List/11/FirstName,0,브록
 beholderlair,git,Creature List/11/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-beholderlair,git,Creature List/12/FirstName,0,록
+beholderlair,git,Creature List/12/FirstName,0,브록
 beholderlair,git,Creature List/12/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
 beholderlair,git,TriggerList/0/LocalizedName,0,BL_입구_입구
 beholderlair,git,WaypointList/7/MapNote,0,하우스 오글러 카타콤브
@@ -6642,19 +6642,19 @@ castlecormant001,git,Placeable List/30/LocName,0,TN_Flower_Shamrock_B
 castlecormant001,git,Placeable List/48/LocName,0,물
 castlecormant002,git,Creature List/0/FirstName,0,가르고일 가디언
 castlecormant002,git,Creature List/0/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-castlecormant002,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormant002,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormant002,git,Creature List/1/FirstName,0,가르고일 가디언
 castlecormant002,git,Creature List/1/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-castlecormant002,git,Creature List/1/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormant002,git,Creature List/1/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormant002,git,Creature List/2/FirstName,0,가르고일 가디언
 castlecormant002,git,Creature List/2/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-castlecormant002,git,Creature List/2/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormant002,git,Creature List/2/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormant002,git,Creature List/3/FirstName,0,가르고일 가디언
 castlecormant002,git,Creature List/3/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-castlecormant002,git,Creature List/3/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormant002,git,Creature List/3/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormant002,git,Creature List/4/FirstName,0,가르고일 가디언
 castlecormant002,git,Creature List/4/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-castlecormant002,git,Creature List/4/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormant002,git,Creature List/4/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormant002,git,Encounter List/0/LocalizedName,0,스파운
 castlecormant002,git,Encounter List/1/LocalizedName,0,거고일스 유적
 castlecormant002,git,Encounter List/2/LocalizedName,0,거고일스 유적
@@ -6664,12 +6664,12 @@ castlecormant002,git,Placeable List/0/LocName,0,가르고일 래어 게이트
 castlecormant002,git,Placeable List/0/Description,0,포털은 부드럽게 빛나고 어디로 가는지 궁금합니다.
 castlecormant002,git,Placeable List/19/LocName,0,병
 castlecormant002,git,Placeable List/20/LocName,0,병
-castlecormant002,git,Placeable List/22/LocName,0,배설기
+castlecormant002,git,Placeable List/22/LocName,0,등받이 없는 의자
 castlecormant002,git,Placeable List/22/Description,0,"한 다리가 약간 느슨해 보이는데, 배설기가 얼마나 오래 지속될지 궁금합니다."
 castlecormant002,git,Placeable List/76/LocName,0,시체
 castlecormant002,git,Placeable List/77/LocName,0,시체
 castlecormant002,git,Placeable List/78/LocName,0,시체
-castlecormant002,git,Placeable List/96/LocName,0,소화장
+castlecormant002,git,Placeable List/96/LocName,0,벽난로
 castlecormant002,git,Placeable List/96/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 castlecormant002,git,Placeable List/118/LocName,0,의자
 castlecormant002,git,Placeable List/118/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
@@ -6677,25 +6677,25 @@ castlecormant002,git,Placeable List/119/LocName,0,의자
 castlecormant002,git,Placeable List/119/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
 castlecormant002,git,Placeable List/120/LocName,0,의자
 castlecormant002,git,Placeable List/120/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
-castlecormant002,git,Placeable List/121/LocName,0,벤치
+castlecormant002,git,Placeable List/121/LocName,0,긴의자
 castlecormant002,git,Placeable List/121/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/122/LocName,0,벤치
+castlecormant002,git,Placeable List/122/LocName,0,긴의자
 castlecormant002,git,Placeable List/122/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/123/LocName,0,벤치
+castlecormant002,git,Placeable List/123/LocName,0,긴의자
 castlecormant002,git,Placeable List/123/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/124/LocName,0,벤치
+castlecormant002,git,Placeable List/124/LocName,0,긴의자
 castlecormant002,git,Placeable List/124/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/178/LocName,0,벤치
+castlecormant002,git,Placeable List/178/LocName,0,긴의자
 castlecormant002,git,Placeable List/178/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/179/LocName,0,벤치
+castlecormant002,git,Placeable List/179/LocName,0,긴의자
 castlecormant002,git,Placeable List/179/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/180/LocName,0,벤치
+castlecormant002,git,Placeable List/180/LocName,0,긴의자
 castlecormant002,git,Placeable List/180/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/181/LocName,0,벤치
+castlecormant002,git,Placeable List/181/LocName,0,긴의자
 castlecormant002,git,Placeable List/181/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/182/LocName,0,벤치
+castlecormant002,git,Placeable List/182/LocName,0,긴의자
 castlecormant002,git,Placeable List/182/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-castlecormant002,git,Placeable List/183/LocName,0,벤치
+castlecormant002,git,Placeable List/183/LocName,0,긴의자
 castlecormant002,git,Placeable List/183/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 castlecormant002,git,Placeable List/187/LocName,0,보울
 castlecormant002,git,Placeable List/188/LocName,0,보울
@@ -6704,7 +6704,7 @@ castlecormant002,git,Placeable List/190/LocName,0,병
 castlecormant002,git,Placeable List/191/LocName,0,병
 castlecormant002,git,Placeable List/192/LocName,0,병
 castlecormant002,git,Placeable List/193/LocName,0,병
-castlecormant002,git,Placeable List/238/LocName,0,소화장
+castlecormant002,git,Placeable List/238/LocName,0,벽난로
 castlecormant002,git,Placeable List/238/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 castlecormant002,git,Placeable List/260/LocName,0,불타진 캐비네트
 castlecormant002,git,Placeable List/260/ItemList/0/LocalizedName,0,파워스톤
@@ -6712,17 +6712,17 @@ castlecormant002,git,Placeable List/260/ItemList/1/LocalizedName,0,파워스톤
 castlecormant002,git,Placeable List/260/ItemList/15/LocalizedName,0,하수도 열쇠
 castlecormant003,git,Creature List/0/FirstName,0,가르고일 가디언
 castlecormant003,git,Creature List/0/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-castlecormant003,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormant003,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormant003,git,Creature List/1/FirstName,0,더 큰 거고일
-castlecormant003,git,Creature List/1/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormant003,git,Creature List/1/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormant003,git,Creature List/2/FirstName,0,더 큰 거고일
-castlecormant003,git,Creature List/2/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormant003,git,Creature List/2/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormant003,git,Creature List/3/FirstName,0,신화 드란난 가르고일
-castlecormant003,git,Creature List/3/Equip_ItemList/4/LocalizedName,0,MD 가르고일 성질
+castlecormant003,git,Creature List/3/Equip_ItemList/4/LocalizedName,0,MD 가고일 속성
 castlecormant003,git,Creature List/4/FirstName,0,신화 드란난 가르고일
-castlecormant003,git,Creature List/4/Equip_ItemList/4/LocalizedName,0,MD 가르고일 성질
+castlecormant003,git,Creature List/4/Equip_ItemList/4/LocalizedName,0,MD 가고일 속성
 castlecormant003,git,Door List/0/LocName,0,문
-castlecormant003,git,TriggerList/0/LocalizedName,0,새로운 일반제
+castlecormant003,git,TriggerList/0/LocalizedName,0,새 일반
 castlecormant003,git,Placeable List/42/LocName,0,의자
 castlecormant003,git,Placeable List/42/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
 castlecormant003,git,Placeable List/69/LocName,0,의자
@@ -6737,7 +6737,7 @@ castlecormant004,git,Creature List/4/FirstName,0,도서관 관리자
 castlecormant004,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,신화 귀신 손톱
 castlecormant004,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,신화 귀신 손톱
 castlecormant004,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,도서관자 재산
-castlecormant004,git,Door List/0/LocName,0,힘 현장
+castlecormant004,git,Door List/0/LocName,0,역장
 castlecormant004,git,Placeable List/0/LocName,0,소파
 castlecormant004,git,Placeable List/0/Description,0,소파는 따뜻하고 초대형으로 보입니다. 짧은 잠자리에 적합합니다.
 castlecormant004,git,Placeable List/1/LocName,0,타페스트리
@@ -6748,7 +6748,7 @@ castlecormant004,git,Placeable List/3/Description,0,소파는 따뜻하고 초�
 castlecormant004,git,Placeable List/4/LocName,0,타페스트리
 castlecormant004,git,Placeable List/5/LocName,0,타페스트리
 castlecormanthor,git,Creature List/0/FirstName,0,더 큰 거고일
-castlecormanthor,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+castlecormanthor,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 castlecormanthor,git,Creature List/1/FirstName,0,코르누노
 castlecormanthor,git,Creature List/1/Description,0,"두려움 없는 전투자인 코누노들은 바테즈오의 엘리트 쇼크 군인이다. 끔찍한 척도로 덮여 있는 이 생물들은 적들을 지팡이와 꼬리 등으로 밧줄로 깎을 수 있고, 희생자들도 지옥의 상처로 피를 흘려 죽게 된다."
 castlecormanthor,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,코너곤 와이프
@@ -6756,7 +6756,7 @@ castlecormanthor,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,코너곤 
 castlecormanthor,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,코너곤 손톱
 castlecormanthor,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,코너곤 꼬리
 castlecormanthor,git,Creature List/1/Equip_ItemList/4/LocalizedName,0,코너곤 숨기기
-castlecormanthor,git,Creature List/2/FirstName,0,불 메피트
+castlecormanthor,git,Creature List/2/FirstName,0,화염 메피트
 castlecormanthor,git,Creature List/2/Description,0,혼란스럽고 파괴적인 메피트는 다양한 형태와 다양한 능력을 가지고 있습니다. 대부분은 다양한 원자 및 거의 원자 평면에서 유래됩니다.
 castlecormanthor,git,Creature List/3/Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
 castlecormanthor,git,Creature List/4/Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
@@ -6891,17 +6891,17 @@ cultlair001,git,Creature List/5/ItemList/2/LocalizedName,0,드래곤 헬멧
 cultlair001,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,드래곤 헬멧
 cultlair001,git,Creature List/5/Equip_ItemList/4/LocalizedName,0,드래곤의 방패
 cultlair001,git,Creature List/5/Equip_ItemList/9/LocalizedName,0,드라코닉 화살
-cultlair001,git,Creature List/7/FirstName,0,검은 드래곤의 보호자
-cultlair001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,블랙 드래곤 헬멧
+cultlair001,git,Creature List/7/FirstName,0,흑룡 보호자
+cultlair001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,흑룡 헬름
 cultlair001,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,블랙 드래곤랜스
-cultlair001,git,Creature List/8/FirstName,0,푸른 드래곤의 보호자
-cultlair001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,블루 드래곤 헬멧
+cultlair001,git,Creature List/8/FirstName,0,청룡 보호자
+cultlair001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,청룡 헬름
 cultlair001,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,블루 드래곤랜스
 cultlair001,git,Creature List/9/FirstName,0,붉은 용 의 보호자
 cultlair001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,레드 드래곤 헬멧
 cultlair001,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,레드 드래곤랜스
-cultlair001,git,Creature List/10/FirstName,0,고대 푸른 드래곤
-cultlair001,git,Creature List/11/FirstName,0,고대 붉은 용
+cultlair001,git,Creature List/10/FirstName,0,고대의 청룡
+cultlair001,git,Creature List/11/FirstName,0,고대의 적룡
 cultlair001,git,Door List/0/LocName,0,문
 cultlair001,git,Placeable List/0/LocName,0,타페스트리
 cultlair001,git,Placeable List/1/LocName,0,타페스트리
@@ -6945,14 +6945,14 @@ destroyedcenter,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,아침의 �
 destroyedcenter,git,Creature List/5/Equip_ItemList/0/Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
 destroyedcenter,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,아침주사의 작은 마이스
 destroyedcenter,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,아마도 라탄다르의 사제들 중 가장 인기 있는 무기가 될 수도 있습니다. 아침주님의 mace는 죽은 자들의 재앙입니다.
-destroyedcenter,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,거룩 한 자 의 작은 방패
-destroyedcenter,git,Creature List/6/FirstName,0,관찰자
-destroyedcenter,git,Creature List/7/FirstName,0,관찰자
-destroyedcenter,git,Creature List/8/FirstName,0,관찰자
+destroyedcenter,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,작은 성령의 방패
+destroyedcenter,git,Creature List/6/FirstName,0,주시자
+destroyedcenter,git,Creature List/7/FirstName,0,주시자
+destroyedcenter,git,Creature List/8/FirstName,0,주시자
 destroyedcenter,git,Creature List/9/FirstName,0,눈알
 destroyedcenter,git,Creature List/10/FirstName,0,눈알
-destroyedcenter,git,Encounter List/0/LocalizedName,0,시청자 만남
-destroyedcenter,git,Encounter List/1/LocalizedName,0,시청자 만남
+destroyedcenter,git,Encounter List/0/LocalizedName,0,주시자 인카운터
+destroyedcenter,git,Encounter List/1/LocalizedName,0,주시자 인카운터
 destroyedcenter,git,TriggerList/0/LocalizedName,0,파괴된중심
 destroyedcenter,git,TriggerList/1/LocalizedName,0,파괴된 센터~밤의 별
 destroyedcenter,git,TriggerList/4/LocalizedName,0,파괴된 센터
@@ -7067,9 +7067,9 @@ floodedtunnel001,git,Encounter List/0/LocalizedName,0,수생물
 floodedtunnel001,git,Encounter List/1/LocalizedName,0,수생물
 floodedtunnel001,git,Encounter List/2/LocalizedName,0,수생물
 floodedtunnel001,git,Encounter List/3/LocalizedName,0,하수도
-floodedtunnel001,git,List/0/LocalizedName,0,샤운다쿨의 거룩한 물
+floodedtunnel001,git,List/0/LocalizedName,0,샤운드칼의 성수
 floodedtunnel001,git,List/0/DescIdentified,0,이 의식적 수용용은 바람의 라이더인 선두쿨의 상징으로 덮여 있습니다.
-floodedtunnel001,git,TriggerList/0/LocalizedName,0,새로운 일반제
+floodedtunnel001,git,TriggerList/0/LocalizedName,0,새 일반
 floodedtunnel001,git,Placeable List/0/LocName,0,물
 floodedtunnel001,git,Placeable List/1/LocName,0,물
 floodedtunnel001,git,Placeable List/2/LocName,0,물
@@ -7088,33 +7088,33 @@ floodedtunnel001,git,Placeable List/37/LocName,0,물
 floodedtunnel001,git,Placeable List/39/LocName,0,물
 gargoylelair,git,Creature List/0/FirstName,0,가르고일 가디언
 gargoylelair,git,Creature List/0/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-gargoylelair,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/1/FirstName,0,가르고일 가디언
 gargoylelair,git,Creature List/1/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-gargoylelair,git,Creature List/1/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/1/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/2/FirstName,0,가르고일 가디언
 gargoylelair,git,Creature List/2/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-gargoylelair,git,Creature List/2/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/2/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/3/FirstName,0,가르고일 가디언
 gargoylelair,git,Creature List/3/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-gargoylelair,git,Creature List/3/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/3/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/4/FirstName,0,가르고일 가디언
 gargoylelair,git,Creature List/4/Description,0,거고일 들 은 더 약한 생명체 들 을 고문 하는 것 을 즐겨 하는 잔인 한 맹수 들 이다. 그 들 의 무기한 동안 움직이지 않고 서 있는 능력 은 모험가 들 이 종종 그 들 을 동상 으로 착각 하게 한다.
-gargoylelair,git,Creature List/4/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/4/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/5/FirstName,0,더 큰 거고일
-gargoylelair,git,Creature List/5/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/5/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/6/FirstName,0,더 큰 거고일
-gargoylelair,git,Creature List/6/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/6/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/7/FirstName,0,더 큰 거고일
-gargoylelair,git,Creature List/7/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/7/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/8/FirstName,0,더 큰 거고일
-gargoylelair,git,Creature List/8/Equip_ItemList/5/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/8/Equip_ItemList/5/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/9/FirstName,0,신화 드란난 가르고일
-gargoylelair,git,Creature List/9/Equip_ItemList/4/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/9/Equip_ItemList/4/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/10/FirstName,0,신화 드란난 가르고일
-gargoylelair,git,Creature List/10/Equip_ItemList/4/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/10/Equip_ItemList/4/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Creature List/11/FirstName,0,신화 드란난 가르고일
-gargoylelair,git,Creature List/11/Equip_ItemList/4/LocalizedName,0,MD 가르고일 성질
+gargoylelair,git,Creature List/11/Equip_ItemList/4/LocalizedName,0,MD 가고일 속성
 gargoylelair,git,Encounter List/0/LocalizedName,0,가르고일
 gargoylelair,git,Placeable List/0/LocName,0,캐슬에 대한 포털
 gargoylelair,git,Placeable List/0/Description,0,포털은 부드럽게 빛나고 어디로 가는지 궁금합니다.
@@ -7226,17 +7226,17 @@ guildofnatura001,git,Door List/13/LocName,0,문
 guildofnatura001,git,Door List/14/LocName,0,문
 guildofnatura001,git,List/0/LocalizedName,0,거울
 guildofnatura001,git,List/0/DescIdentified,0,이 전설적인 방패는 한때 페르세우스가 전설적인 메두사와의 전투에서 사용했습니다. 이 고대 전설은 마법의 짐승들이 꽤 흔한 시대에 약간 이상하게 들리지만 여전히 방패는 모든 암석 공격으로부터 큰 보호를 제공합니다.
-guildofnatura001,git,Placeable List/6/LocName,0,소화장
+guildofnatura001,git,Placeable List/6/LocName,0,벽난로
 guildofnatura001,git,Placeable List/6/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
-guildofnatura001,git,Placeable List/7/LocName,0,소화장
+guildofnatura001,git,Placeable List/7/LocName,0,벽난로
 guildofnatura001,git,Placeable List/7/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 guildofnatura001,git,Placeable List/8/LocName,0,더리트 로드
 guildofnatura001,git,Placeable List/9/LocName,0,더리트 로드
-guildofnatura001,git,Placeable List/81/ItemList/1/LocalizedName,0,기름 돌 을 육신 에 넣는 것
-guildofnatura001,git,Placeable List/81/ItemList/2/LocalizedName,0,기름 돌 을 육신 에 넣는 것
-guildofnatura001,git,Placeable List/81/ItemList/3/LocalizedName,0,기름 돌 을 육신 에 넣는 것
-guildofnatura001,git,Placeable List/81/ItemList/4/LocalizedName,0,기름 돌 을 육신 에 넣는 것
-guildofnatura001,git,Placeable List/81/ItemList/5/LocalizedName,0,기름 돌 을 육신 에 넣는 것
+guildofnatura001,git,Placeable List/81/ItemList/1/LocalizedName,0,석화 해제 기름
+guildofnatura001,git,Placeable List/81/ItemList/2/LocalizedName,0,석화 해제 기름
+guildofnatura001,git,Placeable List/81/ItemList/3/LocalizedName,0,석화 해제 기름
+guildofnatura001,git,Placeable List/81/ItemList/4/LocalizedName,0,석화 해제 기름
+guildofnatura001,git,Placeable List/81/ItemList/5/LocalizedName,0,석화 해제 기름
 guildofnatura003,git,Creature List/0/FirstName,0,벨루베르
 guildofnatura003,git,Creature List/0/Description,0,"배테즈의 무분별한 지도자들은 거대하고 강력한 인간형이고, 잔혹한 치아와 잔혹한 녹색 액체로 흘러나간다."
 guildofnatura003,git,Creature List/1/FirstName,0,코르누노
@@ -7267,17 +7267,17 @@ guildofnatura003,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,코너곤 
 guildofnatura003,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,코너곤 손톱
 guildofnatura003,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,코너곤 꼬리
 guildofnatura003,git,Creature List/4/Equip_ItemList/4/LocalizedName,0,코너곤 숨기기
-guildofnatura003,git,Creature List/5/FirstName,0,반반의 전사
+guildofnatura003,git,Creature List/5/FirstName,0,혼혈마족 전사
 guildofnatura003,git,Creature List/5/Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
-guildofnatura003,git,Creature List/6/FirstName,0,반반의 전사
+guildofnatura003,git,Creature List/6/FirstName,0,혼혈마족 전사
 guildofnatura003,git,Creature List/6/Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
-guildofnatura003,git,Creature List/7/FirstName,0,반반의 전사
+guildofnatura003,git,Creature List/7/FirstName,0,혼혈마족 전사
 guildofnatura003,git,Creature List/7/Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
-guildofnatura003,git,Creature List/8/FirstName,0,반반의 전사
+guildofnatura003,git,Creature List/8/FirstName,0,혼혈마족 전사
 guildofnatura003,git,Creature List/8/Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
-guildofnatura003,git,Creature List/9/FirstName,0,반반의 전사
+guildofnatura003,git,Creature List/9/FirstName,0,혼혈마족 전사
 guildofnatura003,git,Creature List/9/Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
-guildofnatura003,git,Creature List/10/FirstName,0,반반의 전사
+guildofnatura003,git,Creature List/10/FirstName,0,혼혈마족 전사
 guildofnatura003,git,Creature List/10/Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
 guildofnatura003,git,Door List/9/LocName,0,돌 문
 guildofnatura003,git,Placeable List/29/ItemList/0/LocalizedName,0,미르마르의 직원
@@ -7285,7 +7285,7 @@ guildofnatura003,git,Placeable List/29/ItemList/1/LocalizedName,0,미리마르�
 guildofnatura003,git,Placeable List/29/ItemList/1/Description,0,"이 시체는 래퍼 마그 미리마르의 시체입니다. 그는 미스 드라너의 유적에 들어가면서 함정에 갇혔습니다. 두 친구 모두, 미스 드라너의 기사와 그의 적은 다른 목적을 위해 그것을 손에 넣고 싶어합니다."
 guildofnaturalis,git,Creature List/0/FirstName,0,메두사
 guildofnaturalis,git,Creature List/3/FirstName,0,고르곤
-guildofnaturalis,git,Creature List/4/ItemList/0/LocalizedName,0,케이지 키
+guildofnaturalis,git,Creature List/4/ItemList/0/LocalizedName,0,우리 열쇠
 guildofnaturalis,git,Creature List/5/FirstName,0,바실리스크
 guildofnaturalis,git,Door List/8/LocName,0,문
 guildofnaturalis,git,SoundList/0/LocName,0,문 잠금
@@ -7452,19 +7452,19 @@ hallsofosiris001,git,Placeable List/36/LocName,0,바빌론 경호
 hallsofosiris001,git,Placeable List/37/LocName,0,바빌론 드래곤
 hallsofosiris001,git,Placeable List/40/LocName,0,바빌론 드래곤
 hallsofosiris001,git,Placeable List/41/LocName,0,바빌론 드래곤
-hallsofosiris001,git,Placeable List/46/LocName,0,표기판
+hallsofosiris001,git,Placeable List/46/LocName,0,펼침막
 hallsofosiris001,git,Placeable List/46/Description,0,이 표지판은 고대 글리프와 그림으로 덮여 있습니다.
 hallsofosiris001,git,Placeable List/48/LocName,0,바빌론 경호
 hallsofosiris001,git,Placeable List/49/LocName,0,바빌론 경호
-hallsofosiris001,git,Placeable List/50/LocName,0,벤치
+hallsofosiris001,git,Placeable List/50/LocName,0,긴의자
 hallsofosiris001,git,Placeable List/50/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-hallsofosiris001,git,Placeable List/51/LocName,0,벤치
+hallsofosiris001,git,Placeable List/51/LocName,0,긴의자
 hallsofosiris001,git,Placeable List/51/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-hallsofosiris001,git,Placeable List/52/LocName,0,벤치
+hallsofosiris001,git,Placeable List/52/LocName,0,긴의자
 hallsofosiris001,git,Placeable List/52/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-hallsofosiris001,git,Placeable List/53/LocName,0,벤치
+hallsofosiris001,git,Placeable List/53/LocName,0,긴의자
 hallsofosiris001,git,Placeable List/53/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-houseauglorcatac,git,Encounter List/0/LocalizedName,0,시청자 만남
+houseauglorcatac,git,Encounter List/0/LocalizedName,0,주시자 인카운터
 houseauglorcatac,git,Placeable List/13/Description,0,"큰, 단단한 화석 조각이 땅 밖으로 나오고 있습니다."
 househammerfist,git,Creature List/0/FirstName,0,해머피스트 가디언
 househammerfist,git,Creature List/1/FirstName,0,해머피스트 가디언
@@ -7481,7 +7481,7 @@ househammerfist,git,Placeable List/14/LocName,0,소파
 househammerfist,git,Placeable List/14/Description,0,소파는 따뜻하고 초대형으로 보입니다. 짧은 잠자리에 적합합니다.
 househammerfist,git,Placeable List/16/LocName,0,골든 컵
 househammerfist,git,Placeable List/17/LocName,0,골든 컵
-househammerfist,git,Placeable List/18/LocName,0,소화장
+househammerfist,git,Placeable List/18/LocName,0,벽난로
 househammerfist,git,Placeable List/18/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 househammerfist,git,Placeable List/21/LocName,0,소파
 househammerfist,git,Placeable List/21/Description,0,소파는 따뜻하고 초대형으로 보입니다. 짧은 잠자리에 적합합니다.
@@ -7491,13 +7491,13 @@ househammerfist,git,Placeable List/23/LocName,0,소파
 househammerfist,git,Placeable List/23/Description,0,소파는 따뜻하고 초대형으로 보입니다. 짧은 잠자리에 적합합니다.
 househammerfist,git,Placeable List/24/LocName,0,소파
 househammerfist,git,Placeable List/24/Description,0,소파는 따뜻하고 초대형으로 보입니다. 짧은 잠자리에 적합합니다.
-househammerfist,git,Placeable List/25/LocName,0,소화장
+househammerfist,git,Placeable List/25/LocName,0,벽난로
 househammerfist,git,Placeable List/25/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
-househammerfist,git,Placeable List/67/LocName,0,소화장
+househammerfist,git,Placeable List/67/LocName,0,벽난로
 househammerfist,git,Placeable List/67/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 househammerfist,git,Placeable List/68/ItemList/0/LocalizedName,0,바르 의 골렘 에 관한 기록
 househammerfist,git,Placeable List/68/ItemList/0/DescIdentified,0,오나글림의 고렘들은 끝났습니다. 재판관은 중앙 전력원이라는 생각을 좋아하지 않았습니다. 그들은 각 고렘에 대한 개별 전력원을 주장했습니다. 이것은 그들이 여전히 물리적 및 마법적 공격에 취약할 것이라는 것을 의미합니다. 중앙 전력 고렘은 완전히 손상되지 않습니다.
-househammerfist,git,Placeable List/101/LocName,0,배설기
+househammerfist,git,Placeable List/101/LocName,0,등받이 없는 의자
 househammerfist,git,Placeable List/101/Description,0,"한 다리가 약간 느슨해 보이는데, 배설기가 얼마나 오래 지속될지 궁금합니다."
 knightsofmythdra,git,Creature List/0/FirstName,0,일리스틸
 knightsofmythdra,git,Creature List/0/LastName,0,엘벤트리
@@ -7533,7 +7533,7 @@ knightsofmythdra,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,젤데의 
 knightsofmythdra,git,Creature List/6/Equip_ItemList/0/Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
 knightsofmythdra,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,새벽 의 축복
 knightsofmythdra,git,Creature List/6/Equip_ItemList/3/DescIdentified,0,"새벽의 축복은 아침주인 라탄더에게 전념되어 있습니다. 라탄더의 특별한 적들과, 죽은 자들과 악한 피조물들과 싸우기 위해 특별한 매력을 가지고 있습니다."
-knightsofmythdra,git,Creature List/6/Equip_ItemList/4/LocalizedName,0,거룩 한 자 의 작은 방패
+knightsofmythdra,git,Creature List/6/Equip_ItemList/4/LocalizedName,0,작은 성령의 방패
 knightsofmythdra,git,Creature List/7/FirstName,0,나르름
 knightsofmythdra,git,Creature List/7/LastName,0,타마라이트
 knightsofmythdra,git,Creature List/7/Description,0,"나름은 11살 때 경쟁자와의 싸움을 벌이는 마법사가 던진 방황하는 불구로 고아되었다. 마법을 만들고 부모를 살해한 사람에게 복수를 받기 위해 맹세한 그는 미림마르라는 쓴색하고 게으른 늙은 마사의 연습생이 되었다. 마우스 드래너의 악마가 뒤덮은 유해를 탐구하던 중 그의 멘토가 사망한 후, 그는 성드릴 셰샤이르가 드래곤의 종파에 의해 포로로 잡혀있는 것을 보았다."
@@ -7543,13 +7543,13 @@ knightsofmythdra,git,Placeable List/35/LocName,0,의자
 knightsofmythdra,git,Placeable List/35/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
 knightsofmythdra,git,Placeable List/36/LocName,0,의자
 knightsofmythdra,git,Placeable List/36/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
-knightsofmythdra,git,Placeable List/70/LocName,0,벤치
+knightsofmythdra,git,Placeable List/70/LocName,0,긴의자
 knightsofmythdra,git,Placeable List/70/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-knightsofmythdra,git,Placeable List/71/LocName,0,벤치
+knightsofmythdra,git,Placeable List/71/LocName,0,긴의자
 knightsofmythdra,git,Placeable List/71/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-knightsofmythdra,git,Placeable List/72/LocName,0,벤치
+knightsofmythdra,git,Placeable List/72/LocName,0,긴의자
 knightsofmythdra,git,Placeable List/72/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-knightsofmythdra,git,Placeable List/73/LocName,0,벤치
+knightsofmythdra,git,Placeable List/73/LocName,0,긴의자
 knightsofmythdra,git,Placeable List/73/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 maintainancetunn,git,TriggerList/0/LocalizedName,0,중앙관류관리
 maintainancetunn,git,TriggerList/1/LocalizedName,0,MT_trapdoordown
@@ -7746,7 +7746,7 @@ northgatetownhal,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,신화 귀
 northgatetownhal,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,신화 귀신 손톱
 northgatetownhal,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,신화적인 유령 피부
 northgatetownhal,git,Door List/0/LocName,0,문
-northgatetownhal,git,Placeable List/4/LocName,0,소화장
+northgatetownhal,git,Placeable List/4/LocName,0,벽난로
 northgatetownhal,git,Placeable List/4/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 northgatetownhal,git,Placeable List/36/LocName,0,의자
 northgatetownhal,git,Placeable List/36/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
@@ -8139,8 +8139,8 @@ southernpoolside,git,Creature List/5/Description,0,"한때 세베니아의 부�
 southernpoolside,git,TriggerList/0/LocalizedName,0,웨스턴폴트다임
 southernpoolside,git,TriggerList/1/LocalizedName,0,웨스턴풀투이스
 southernpoolside,git,TriggerList/2/LocalizedName,0,서부풀에서 새벽에
-southernpoolside,git,TriggerList/3/LocalizedName,0,새로운 일반제
-southernpoolside,git,TriggerList/4/LocalizedName,0,새로운 일반제
+southernpoolside,git,TriggerList/3/LocalizedName,0,새 일반
+southernpoolside,git,TriggerList/4/LocalizedName,0,새 일반
 southernpoolside,git,WaypointList/0/MapNote,0,게블라운트 섬
 southernpoolside,git,WaypointList/1/MapNote,0,틸버의
 southernpoolside,git,WaypointList/2/MapNote,0,새벽스파이어로 가는 길
@@ -8480,7 +8480,7 @@ streetoftheeveni,git,Creature List/18/Equip_ItemList/1/LocalizedName,0,키릭의
 streetoftheeveni,git,Creature List/18/Equip_ItemList/4/LocalizedName,0,배너스워드
 streetoftheeveni,git,Creature List/18/Equip_ItemList/4/DescIdentified,0,"이 특별 한 긴 검 들 은 헌신적 인 바니트 들 의 손에 더 많은 수의 에 나타나고 있습니다. 이 칼 들 은 바니 의 상징 으로 장식 되어 있기 때문 에, 좋은 사람 들 은 검은 주 의 숭배자 들 의 살해 된 시체 에서 가져오자 그 들 을 휘두르는 데 의 의 의심을 기울였습니다."
 streetoftheeveni,git,Creature List/18/Equip_ItemList/5/LocalizedName,0,키릭의 방패
-streetoftheeveni,git,Creature List/19/FirstName,0,텐톤
+streetoftheeveni,git,Creature List/19/FirstName,0,렌튼
 streetoftheeveni,git,Creature List/19/LastName,0,눈
 streetoftheeveni,git,Creature List/19/Description,0,"튼 은 모뉴스 지역 에서 비정상적 인 외모 와 전투 능력 으로도 잘 알려져 있다. 하지만 다른 한편 으로, 전직 고용주 들 은 그 의 충성 에 대해 이야기 할 것 이다."
 streetoftheeveni,git,Creature List/19/ItemList/0/LocalizedName,0,레튼의 마스크
@@ -8699,7 +8699,7 @@ streetoftheeveni,git,Placeable List/262/LocName,0,TN_Tree_Oak_A_ExLrg
 streetoftheeveni,git,Placeable List/263/LocName,0,TN_Tree_Oak_A_ExLrg
 streetoftheeveni,git,Placeable List/264/LocName,0,TN_Tree_Oak_A_ExLrg
 streetoftheeveni,git,Placeable List/268/Description,0,"이 아주 기본적인 텐트는 밤에 머물기 위한 가장 편안한 장소는 아니지만, 비가 내리는 것을 막기 위해 아무것도 없는 것보다 훨씬 낫습니다."
-streetoftheeveni,git,Placeable List/275/LocName,0,벤치
+streetoftheeveni,git,Placeable List/275/LocName,0,긴의자
 streetoftheeveni,git,Placeable List/275/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 streetoftheeveni,git,Placeable List/289/LocName,0,TN_Bramble_Lrg_Unwalkable
 streetoftheeveni,git,Placeable List/290/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -8972,13 +8972,13 @@ templeofcyric,git,Creature List/6/Description,0,암흑 태양 의 성직자 들 
 templeofcyric,git,Creature List/6/ItemList/3/LocalizedName,0,거짓말 의 무장
 templeofcyric,git,Creature List/6/ItemList/4/LocalizedName,0,키릭의 방패
 templeofcyric,git,Creature List/6/ItemList/5/LocalizedName,0,래저의 가장자리
-templeofcyric,git,Creature List/6/ItemList/5/DescIdentified,0,이 종류의 긴 검은 거짓의 왕자 키릭의 추종자들의 특별한 무기입니다. 모든 종류의 암살에 완벽하게 균형 잡힌 것입니다.
+templeofcyric,git,Creature List/6/ItemList/5/DescIdentified,0,이런 긴 검은 키릭의 추종자인 거짓의 대공들의 특별한 무기입니다.
 templeofcyric,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,거짓말 의 무장
 templeofcyric,git,Creature List/7/FirstName,0,만슨 경
 templeofcyric,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,맨슨의 헬멧
 templeofcyric,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,맨슨 의복
 templeofcyric,git,Creature List/7/Equip_ItemList/9/LocalizedName,0,맨슈온 속성
-templeofcyric,git,Placeable List/43/LocName,0,왕좌
+templeofcyric,git,Placeable List/43/LocName,0,옥좌
 templeofcyric,git,Placeable List/43/Description,0,높은 뒷받침의 왕좌는 그림자에서 나오고 주의를 끌고 있습니다. 그 디자인에 있는 무언가가 당신의 마음을 공포로 가득 차 있습니다.
 templeofcyric,git,Placeable List/44/LocName,0,타페스트리
 templeofcyric,git,Placeable List/45/LocName,0,타페스트리
@@ -9042,18 +9042,18 @@ templeofsune,git,Placeable List/41/LocName,0,TN_Tree_Oak_A_ExLrg
 templeofsune,git,Placeable List/42/LocName,0,TN_Tree_Oak_A_ExLrg
 templeofsune,git,Placeable List/43/LocName,0,TN_Tree_Oak_A_ExLrg
 templeofsune,git,Placeable List/44/LocName,0,TN_Tree_Oak_A_ExLrg
-templeofsune,git,Placeable List/46/LocName,0,도로
-templeofsune,git,Placeable List/47/LocName,0,도로
-templeofsune,git,Placeable List/48/LocName,0,도로
-templeofsune,git,Placeable List/49/LocName,0,도로
+templeofsune,git,Placeable List/46/LocName,0,길
+templeofsune,git,Placeable List/47/LocName,0,길
+templeofsune,git,Placeable List/48/LocName,0,길
+templeofsune,git,Placeable List/49/LocName,0,길
 templeofsune,git,Placeable List/51/LocName,0,TN_Bramble_Lrg_Unwalkable
 templeofsune,git,Placeable List/52/LocName,0,TN_Bramble_Lrg_Unwalkable
 templeofsune,git,Placeable List/53/LocName,0,TN_Bramble_Lrg_Unwalkable
 templeofsune,git,Placeable List/54/LocName,0,TN_Bramble_Lrg_Unwalkable
 templeofsune,git,Placeable List/55/LocName,0,TN_Flower_Shamrock_A
-theanvil,git,Creature List/0/FirstName,0,술집 하녀
+theanvil,git,Creature List/0/FirstName,0,바텐더
 theanvil,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,술집 하녀 의복
-theanvil,git,Creature List/1/FirstName,0,술집 하녀
+theanvil,git,Creature List/1/FirstName,0,바텐더
 theanvil,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,술집 하녀 의복
 theanvil,git,Creature List/2/FirstName,0,카틀린드라
 theanvil,git,Creature List/2/LastName,0,뱀
@@ -9101,12 +9101,12 @@ theanvil,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,에머록의 갈�
 theanvil,git,Creature List/13/FirstName,0,데빈
 theanvil,git,Creature List/13/LastName,0,롯
 theanvil,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,데빈의 갈비
-theanvil,git,Creature List/14/FirstName,0,아토
+theanvil,git,Creature List/14/FirstName,0,알토
 theanvil,git,Creature List/14/LastName,0,마쉬비
 theanvil,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,아토스 갑옷
 theanvil,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-theanvil,git,Creature List/15/FirstName,0,창녀
-theanvil,git,Creature List/16/FirstName,0,창녀
+theanvil,git,Creature List/15/FirstName,0,매춘부
+theanvil,git,Creature List/16/FirstName,0,매춘부
 theanvil,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,스카트 가 있는 뜨거운 옷
 theanvil,git,Creature List/17/FirstName,0,신비 한 사람
 theanvil,git,Creature List/18/FirstName,0,네오메
@@ -9131,7 +9131,7 @@ theanvil,git,WaypointList/0/MapNote,0,드라너 신화에 대한 출구
 theanvil,git,WaypointList/2/LocalizedName,0,이정표
 theanvil,git,Placeable List/3/LocName,0,의자
 theanvil,git,Placeable List/3/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
-theanvil,git,Placeable List/4/LocName,0,벤치
+theanvil,git,Placeable List/4/LocName,0,긴의자
 theanvil,git,Placeable List/4/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 theanvil,git,Placeable List/16/LocName,0,의자
 theanvil,git,Placeable List/16/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
@@ -9163,15 +9163,15 @@ theanvil,git,Placeable List/56/LocName,0,의자
 theanvil,git,Placeable List/56/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
 theanvil,git,Placeable List/57/LocName,0,의자
 theanvil,git,Placeable List/57/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
-theanvil,git,Placeable List/58/LocName,0,벤치
+theanvil,git,Placeable List/58/LocName,0,긴의자
 theanvil,git,Placeable List/58/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-theanvil,git,Placeable List/59/LocName,0,벤치
+theanvil,git,Placeable List/59/LocName,0,긴의자
 theanvil,git,Placeable List/59/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 theanvil,git,Placeable List/60/LocName,0,소파
 theanvil,git,Placeable List/60/Description,0,소파는 따뜻하고 초대형으로 보입니다. 짧은 잠자리에 적합합니다.
 theanvil,git,Placeable List/61/LocName,0,소파
 theanvil,git,Placeable List/61/Description,0,소파는 따뜻하고 초대형으로 보입니다. 짧은 잠자리에 적합합니다.
-theanvil,git,Placeable List/71/LocName,0,배설기
+theanvil,git,Placeable List/71/LocName,0,등받이 없는 의자
 theanvil,git,Placeable List/71/Description,0,"한 다리가 약간 느슨해 보이는데, 배설기가 얼마나 오래 지속될지 궁금합니다."
 theanvil,git,Placeable List/74/LocName,0,의자
 theanvil,git,Placeable List/74/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
@@ -9191,18 +9191,18 @@ theanvil,git,Placeable List/81/LocName,0,의자
 theanvil,git,Placeable List/81/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
 theanvil,git,Placeable List/82/LocName,0,의자
 theanvil,git,Placeable List/82/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
-theanvil,git,Placeable List/83/LocName,0,벤치
+theanvil,git,Placeable List/83/LocName,0,긴의자
 theanvil,git,Placeable List/83/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-theanvil,git,Placeable List/84/LocName,0,벤치
+theanvil,git,Placeable List/84/LocName,0,긴의자
 theanvil,git,Placeable List/84/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-theanvil,git,Placeable List/120/LocName,0,소화장
+theanvil,git,Placeable List/120/LocName,0,벽난로
 theanvil,git,Placeable List/120/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 theanvil,git,Placeable List/121/LocName,0,보울
 theanvil,git,Placeable List/122/LocName,0,보울
-theanvil,git,Placeable List/123/LocName,0,접시
-theanvil,git,Placeable List/124/LocName,0,접시
+theanvil,git,Placeable List/123/LocName,0,판금
+theanvil,git,Placeable List/124/LocName,0,판금
 theanvil,git,Placeable List/125/LocName,0,보울
-theanvil,git,Placeable List/126/LocName,0,접시
+theanvil,git,Placeable List/126/LocName,0,판금
 theanvil,git,Placeable List/127/LocName,0,치즈
 theanvil,git,Placeable List/128/LocName,0,치즈
 theanvil,git,Placeable List/129/LocName,0,치즈
@@ -9211,13 +9211,13 @@ theanvil,git,Placeable List/131/LocName,0,사과
 theanvil,git,Placeable List/132/LocName,0,사과
 theanvil,git,Placeable List/133/LocName,0,보울
 theanvil,git,Placeable List/134/LocName,0,보울
-theanvil,git,Placeable List/135/LocName,0,접시
-theanvil,git,Placeable List/136/LocName,0,접시
+theanvil,git,Placeable List/135/LocName,0,판금
+theanvil,git,Placeable List/136/LocName,0,판금
 theanvil,git,Placeable List/137/LocName,0,보울
 theanvil,git,Placeable List/138/LocName,0,보울
 theanvil,git,Placeable List/139/LocName,0,보울
-theanvil,git,Placeable List/140/LocName,0,접시
-theanvil,git,Placeable List/141/LocName,0,접시
+theanvil,git,Placeable List/140/LocName,0,판금
+theanvil,git,Placeable List/141/LocName,0,판금
 theanvil,git,Placeable List/142/LocName,0,병
 theanvil,git,Placeable List/143/LocName,0,병
 theanvil,git,Placeable List/144/LocName,0,병
@@ -9275,7 +9275,7 @@ thedawnspire,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,아침의 주�
 thedawnspire,git,Creature List/9/Equip_ItemList/0/Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
 thedawnspire,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,아침주사의 작은 마이스
 thedawnspire,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,아마도 라탄다르의 사제들 중 가장 인기 있는 무기가 될 수도 있습니다. 아침주님의 mace는 죽은 자들의 재앙입니다.
-thedawnspire,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,거룩 한 자 의 작은 방패
+thedawnspire,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,작은 성령의 방패
 thedawnspire,git,Creature List/10/FirstName,0,새벽 스파리의 경호자
 thedawnspire,git,Creature List/10/Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있습니다. 그들은 모두 잘 훈련하고, 장비를 갖추고 있으며, 그들의 교회와 특히 그들의 지도자 Alaecathra Shuinrond를 절대적인 충성으로 봉사합니다."
 thedawnspire,git,Creature List/10/ItemList/3/LocalizedName,0,새벽 경호 의 갑옷
@@ -9300,7 +9300,7 @@ thedawnspire,git,Creature List/13/LastName,0,세미비아인
 thedawnspire,git,Creature List/14/FirstName,0,노리언스
 thedawnspire,git,Creature List/14/LastName,0,알렌
 thedawnspire,git,Creature List/15/FirstName,0,모험가
-thedawnspire,git,Creature List/17/FirstName,0,종파 회원
+thedawnspire,git,Creature List/17/FirstName,0,사교 단원
 thedawnspire,git,Creature List/22/FirstName,0,새벽 스파리의 경호자
 thedawnspire,git,Creature List/22/Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있습니다. 그들은 모두 잘 훈련하고, 장비를 갖추고 있으며, 그들의 교회와 특히 그들의 지도자 Alaecathra Shuinrond를 절대적인 충성으로 봉사합니다."
 thedawnspire,git,Creature List/22/ItemList/3/LocalizedName,0,새벽 경호 의 갑옷
@@ -9368,8 +9368,8 @@ thedawnspire,git,Door List/0/LocName,0,문
 thedawnspire,git,StoreList/0/LocName,0,노리언스 스토어
 thedawnspire,git,StoreList/0/StoreList/0/ItemList/22/LocalizedName,0,패션 드레스
 thedawnspire,git,StoreList/0/StoreList/1/ItemList/14/LocalizedName,0,스톰보
-thedawnspire,git,StoreList/0/StoreList/1/ItemList/16/LocalizedName,0,더 큰 추방 의 화살
-thedawnspire,git,StoreList/0/StoreList/1/ItemList/17/LocalizedName,0,더 큰 추방 의 화살
+thedawnspire,git,StoreList/0/StoreList/1/ItemList/16/LocalizedName,0,상급 주문해제 의 화살
+thedawnspire,git,StoreList/0/StoreList/1/ItemList/17/LocalizedName,0,상급 주문해제 의 화살
 thedawnspire,git,StoreList/0/StoreList/1/ItemList/18/LocalizedName,0,드라코닉 화살
 thedawnspire,git,StoreList/0/StoreList/1/ItemList/19/LocalizedName,0,추방 의 화살
 thedawnspire,git,StoreList/0/StoreList/1/ItemList/20/LocalizedName,0,거룩함 의
@@ -9396,12 +9396,12 @@ thedawnspire,git,WaypointList/13/MapNote,0,글리리일의 수영장으로 가�
 thedawnspire,git,WaypointList/18/LocalizedName,0,이정표
 thedawnspire,git,Placeable List/0/LocName,0,태양탑
 thedawnspire,git,Placeable List/1/LocName,0,버려진 棚
-thedawnspire,git,Placeable List/2/LocName,0,버려진 집
+thedawnspire,git,Placeable List/2/LocName,0,폐가
 thedawnspire,git,Placeable List/3/LocName,0,다롤의 스미티
-thedawnspire,git,Placeable List/4/LocName,0,버려진 집
+thedawnspire,git,Placeable List/4/LocName,0,폐가
 thedawnspire,git,Placeable List/5/LocName,0,앵무새
 thedawnspire,git,Placeable List/6/LocName,0,Dawnspire 입구
-thedawnspire,git,Placeable List/7/LocName,0,버려진 집
+thedawnspire,git,Placeable List/7/LocName,0,폐가
 thedawnspire,git,Placeable List/28/LocName,0,TN_Bramble_Lrg_Unwalkable
 thedawnspire,git,Placeable List/29/LocName,0,TN_Bramble_Lrg_Unwalkable
 thedawnspire,git,Placeable List/30/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -9605,58 +9605,58 @@ thedawnstone,git,Creature List/8/FirstName,0,아베스 알레카트라 슈인론
 thedawnstone,git,Creature List/8/Description,0,"알레카트라는 신화 드라너의 ""태양의 수색자""를 이끌고 있다. 라탄더의 교회 이 지부는 오전주인 라탄더의 전설적인 신화 드라너의 수리 및 재건에 헌신한다. 알레카트라는 빛나는, 열정적인, 친절한, 미미니셔티브하지만 지휘하는 지도자이며, 두려움이 없다. 그녀는 라탄더에게 그렇게 최선을 다할 수 있다면 의문의 여지가 없이 자신을 희생시킬 것입니다."
 thedawnstone,git,Creature List/8/ItemList/0/LocalizedName,0,아비스의 갑옷
 thedawnstone,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,아비스의 갑옷
-thedawnstone,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,거룩 한 곳 의 방패
+thedawnstone,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,성령의 방패
 thedawnstone,git,Placeable List/0/LocName,0,다운스톤
 thehouseofsong,git,Creature List/0/FirstName,0,진
 thehouseofsong,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,진의 갑옷
 thehouseofsong,git,Door List/0/LocName,0,문
 thehouseofsong,git,WaypointList/1/LocalizedName,0,이정표
 thehouseofsong,git,WaypointList/7/LocalizedName,0,이정표
-thehouseofsong,git,Placeable List/9/LocName,0,벤치
+thehouseofsong,git,Placeable List/9/LocName,0,긴의자
 thehouseofsong,git,Placeable List/9/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/10/LocName,0,벤치
+thehouseofsong,git,Placeable List/10/LocName,0,긴의자
 thehouseofsong,git,Placeable List/10/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/11/LocName,0,벤치
+thehouseofsong,git,Placeable List/11/LocName,0,긴의자
 thehouseofsong,git,Placeable List/11/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/12/LocName,0,벤치
+thehouseofsong,git,Placeable List/12/LocName,0,긴의자
 thehouseofsong,git,Placeable List/12/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/13/LocName,0,벤치
+thehouseofsong,git,Placeable List/13/LocName,0,긴의자
 thehouseofsong,git,Placeable List/13/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/14/LocName,0,벤치
+thehouseofsong,git,Placeable List/14/LocName,0,긴의자
 thehouseofsong,git,Placeable List/14/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 thehouseofsong,git,Placeable List/34/LocName,0,의자
 thehouseofsong,git,Placeable List/34/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
-thehouseofsong,git,Placeable List/35/LocName,0,배설기
+thehouseofsong,git,Placeable List/35/LocName,0,등받이 없는 의자
 thehouseofsong,git,Placeable List/35/Description,0,"한 다리가 약간 느슨해 보이는데, 배설기가 얼마나 오래 지속될지 궁금합니다."
-thehouseofsong,git,Placeable List/67/LocName,0,벤치
+thehouseofsong,git,Placeable List/67/LocName,0,긴의자
 thehouseofsong,git,Placeable List/67/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/68/LocName,0,벤치
+thehouseofsong,git,Placeable List/68/LocName,0,긴의자
 thehouseofsong,git,Placeable List/68/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/69/LocName,0,벤치
+thehouseofsong,git,Placeable List/69/LocName,0,긴의자
 thehouseofsong,git,Placeable List/69/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/70/LocName,0,벤치
+thehouseofsong,git,Placeable List/70/LocName,0,긴의자
 thehouseofsong,git,Placeable List/70/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/71/LocName,0,벤치
+thehouseofsong,git,Placeable List/71/LocName,0,긴의자
 thehouseofsong,git,Placeable List/71/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/72/LocName,0,벤치
+thehouseofsong,git,Placeable List/72/LocName,0,긴의자
 thehouseofsong,git,Placeable List/72/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/73/LocName,0,벤치
+thehouseofsong,git,Placeable List/73/LocName,0,긴의자
 thehouseofsong,git,Placeable List/73/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/74/LocName,0,벤치
+thehouseofsong,git,Placeable List/74/LocName,0,긴의자
 thehouseofsong,git,Placeable List/74/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/75/LocName,0,벤치
+thehouseofsong,git,Placeable List/75/LocName,0,긴의자
 thehouseofsong,git,Placeable List/75/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/76/LocName,0,벤치
+thehouseofsong,git,Placeable List/76/LocName,0,긴의자
 thehouseofsong,git,Placeable List/76/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/77/LocName,0,벤치
+thehouseofsong,git,Placeable List/77/LocName,0,긴의자
 thehouseofsong,git,Placeable List/77/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/78/LocName,0,벤치
+thehouseofsong,git,Placeable List/78/LocName,0,긴의자
 thehouseofsong,git,Placeable List/78/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/79/LocName,0,벤치
+thehouseofsong,git,Placeable List/79/LocName,0,긴의자
 thehouseofsong,git,Placeable List/79/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/80/LocName,0,벤치
+thehouseofsong,git,Placeable List/80/LocName,0,긴의자
 thehouseofsong,git,Placeable List/80/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thehouseofsong,git,Placeable List/81/LocName,0,벤치
+thehouseofsong,git,Placeable List/81/LocName,0,긴의자
 thehouseofsong,git,Placeable List/81/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 thehouseofsong,git,Placeable List/97/LocName,0,타페스트리
 thehouseofsong,git,Placeable List/98/LocName,0,타페스트리
@@ -9677,9 +9677,9 @@ thelundlath,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,오르키스 �
 thelundlath,git,Creature List/3/FirstName,0,반 오크 용병
 thelundlath,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,오르키스 스피크 체인
 thelundlath,git,Encounter List/0/LocalizedName,0,스파운
-thelundlath,git,List/3/LocalizedName,0,다스 미러 스킬드
+thelundlath,git,List/3/LocalizedName,0,룰다스 거울 방패
 thelundlath,git,TriggerList/2/LocalizedName,0,"발사 함정 트리거, 태양 폭발 (사망)"
-thelundlath,git,Placeable List/0/LocName,0,계단
+thelundlath,git,Placeable List/0/LocName,0,사다리
 thelundlath,git,Placeable List/13/LocName,0,병
 thelundlath,git,Placeable List/14/LocName,0,병
 thelundlath,git,Placeable List/15/LocName,0,병
@@ -9694,7 +9694,7 @@ thelundlath,git,Placeable List/59/ItemList/0/LocalizedName,0,방어 머리띠
 thelundlath,git,Placeable List/59/ItemList/0/DescIdentified,0,"이 아이템은 처음에는 단순한 헤드밴드처럼 보이지만, 겉으로 보이지 않는 힘 필드로 착용자를 둘러싸고 있으며, 평범한 갑옷처럼 보호를 제공합니다."
 thelundlath,git,Placeable List/66/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
 thelundlath,git,Placeable List/67/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
-thelundlath,git,Placeable List/72/LocName,0,벤치
+thelundlath,git,Placeable List/72/LocName,0,긴의자
 thelundlath,git,Placeable List/72/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 thelundlath,git,Placeable List/118/LocName,0,병
 thelundlath,git,Placeable List/119/LocName,0,병
@@ -9724,9 +9724,9 @@ thelundlath,git,Placeable List/223/LocName,0,타페스트리
 thelundlath,git,Placeable List/224/LocName,0,타페스트리
 thelundlath,git,Placeable List/238/ItemList/0/LocalizedName,0,찢어진 노트
 thelundlath,git,Placeable List/238/ItemList/0/DescIdentified,0,"마지막 스탠드에서 만나세요. "" ENEDH""라는 단어를 사용해서 빨리 가세요. 하지만 서둘러요."
-theneirdrecrypt,git,Creature List/0/FirstName,0,철 고렘
-theneirdrecrypt,git,Creature List/1/FirstName,0,철 고렘
-theneirdrecrypt,git,Creature List/2/FirstName,0,철 고렘
+theneirdrecrypt,git,Creature List/0/FirstName,0,철 골렘
+theneirdrecrypt,git,Creature List/1/FirstName,0,철 골렘
+theneirdrecrypt,git,Creature List/2/FirstName,0,철 골렘
 theneirdrecrypt,git,Creature List/3/FirstName,0,아사마스 네이드레
 theneirdrecrypt,git,Creature List/3/ItemList/0/LocalizedName,0,아사마스의 갑옷
 theneirdrecrypt,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,아사마스의 갑옷
@@ -9758,13 +9758,13 @@ theneirdrecrypt,git,Placeable List/305/LocName,0,바빌론 사자
 theonaglym,git,Door List/0/LocName,0,문
 theonaglym,git,TriggerList/0/LocalizedName,0,그림토루인센터
 theonaglym,git,TriggerList/1/LocalizedName,0,오나그림토코르망토르
-theonaglym,git,TriggerList/3/LocalizedName,0,새로운 지역 전환
+theonaglym,git,TriggerList/3/LocalizedName,0,뉴 에이리어 트랜지션
 theonaglym,git,WaypointList/0/MapNote,0,오나그림
 theonaglym,git,WaypointList/1/MapNote,0,심베른 하우스
 theonaglym,git,WaypointList/2/MapNote,0,노스게이트 타운홀
 theonaglym,git,WaypointList/3/MapNote,0,미술의 광장
 theonaglym,git,WaypointList/4/MapNote,0,노래의 집
-theonaglym,git,WaypointList/5/MapNote,0,파괴 된 도시 핵심
+theonaglym,git,WaypointList/5/MapNote,0,망한 도시 중심부
 theonaglym,git,WaypointList/6/MapNote,0,오래된 문
 theonaglym,git,WaypointList/8/MapNote,0,숲으로 가는 길
 theonaglym,git,Placeable List/0/LocName,0,벽돌 타워
@@ -10100,9 +10100,9 @@ theonaglym,git,Placeable List/433/LocName,0,TN_Bramble_Lrg_Unwalkable
 theonaglym,git,Placeable List/434/LocName,0,TN_Bramble_Lrg_Unwalkable
 theonaglym,git,Placeable List/435/LocName,0,TN_Bramble_Lrg_Unwalkable
 theonaglym,git,Placeable List/436/LocName,0,TN_Bramble_Lrg_Unwalkable
-theonaglym,git,Placeable List/451/LocName,0,도로
-theonaglym,git,Placeable List/452/LocName,0,도로
-theonaglym,git,Placeable List/453/LocName,0,도로
+theonaglym,git,Placeable List/451/LocName,0,길
+theonaglym,git,Placeable List/452/LocName,0,길
+theonaglym,git,Placeable List/453/LocName,0,길
 theonaglym,git,Placeable List/454/LocName,0,TN_Bramble_Lrg_Unwalkable
 theonaglym,git,Placeable List/455/LocName,0,TN_Bramble_Lrg_Unwalkable
 theonaglym,git,Placeable List/456/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -10121,9 +10121,9 @@ thethelaeneumcry,git,Creature List/7/FirstName,0,쿼시트
 thethelaeneumcry,git,Creature List/7/Description,0,겁쟁이이지만 속임수 있는 이 작은 악마적 인형물들은 종종 마법사와 마법사의 뜻에 따라 그들의 명령을 따르도록 만들어집니다.
 thethelaeneumcry,git,Creature List/8/FirstName,0,쿼시트
 thethelaeneumcry,git,Creature List/8/Description,0,겁쟁이이지만 속임수 있는 이 작은 악마적 인형물들은 종종 마법사와 마법사의 뜻에 따라 그들의 명령을 따르도록 만들어집니다.
-thethelaeneumcry,git,Creature List/9/FirstName,0,록
+thethelaeneumcry,git,Creature List/9/FirstName,0,브록
 thethelaeneumcry,git,Creature List/9/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-thethelaeneumcry,git,Creature List/10/FirstName,0,록
+thethelaeneumcry,git,Creature List/10/FirstName,0,브록
 thethelaeneumcry,git,Creature List/10/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
 thethelaeneumcry,git,Creature List/11/FirstName,0,젠타림 전투 마지
 thethelaeneumcry,git,Creature List/11/Description,0,"흑네트워크라고도 불리는 젠타림족은 상인들의 그룹으로 시작되었으나, 암살자, 스파이 등으로 군대를 포함하고 있다. 현재 젠타림족은 문스아 강 주변 절반을 통제하고 있으며, 대륙 전역에서 영향력을 높이고 페룬의 서부와 남부 지역에서 입지를 굳혔다. 잘 무장하고 공급되어 있는 젠타림족은 강력한 마법사와 사교가 지원하고 있으며, 대장과 바네의 선출된 선임자가 이끌고 있다."
@@ -10139,11 +10139,11 @@ thethelaeneumcry,git,Creature List/14/FirstName,0,젠타림 엘리트 기사
 thethelaeneumcry,git,Creature List/14/Description,0,"흑네트워크라고도 불리는 젠타림족은 상인들의 그룹으로 시작되었으나, 암살자, 스파이 등으로 군대를 포함하고 있다. 현재 젠타림족은 문스아 강 주변 절반을 통제하고 있으며, 대륙 전역에서 영향력을 높이고 페룬의 서부와 남부 지역에서 입지를 굳혔다. 잘 무장하고 공급되어 있는 젠타림족은 강력한 마법사와 사교가 지원하고 있으며, 대장과 바네의 선출된 선임자가 이끌고 있다."
 thethelaeneumcry,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,젠타림 헬멧
 thethelaeneumcry,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,젠타림 판
-thethelaeneumcry,git,Creature List/15/FirstName,0,발로
+thethelaeneumcry,git,Creature List/15/FirstName,0,발러
 thethelaeneumcry,git,Creature List/15/Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
-thethelaeneumcry,git,Creature List/16/FirstName,0,록
+thethelaeneumcry,git,Creature List/16/FirstName,0,브록
 thethelaeneumcry,git,Creature List/16/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-thethelaeneumcry,git,Creature List/17/FirstName,0,록
+thethelaeneumcry,git,Creature List/17/FirstName,0,브록
 thethelaeneumcry,git,Creature List/17/Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
 thethelaeneumcry,git,Creature List/18/FirstName,0,쿼시트
 thethelaeneumcry,git,Creature List/18/Description,0,겁쟁이이지만 속임수 있는 이 작은 악마적 인형물들은 종종 마법사와 마법사의 뜻에 따라 그들의 명령을 따르도록 만들어집니다.
@@ -10169,7 +10169,7 @@ thethelaeneumcry,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,엘레스
 thethelaeneumcry,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,이 의복은 한때 드란너 신화의 테레니움 크립트의 발너너인 엘레스트리얼 엘렌의 의복이었습니다.
 thethelaeneumcry,git,Creature List/23/Equip_ItemList/2/LocalizedName,0,엘레스트리엘의 직원
 thethelaeneumcry,git,Creature List/23/Equip_ItemList/2/DescIdentified,0,"이 종류 의 스태프 는 미묘 한 마법사 들 에게 매우 필요 한 보호 를 제공한다. 각 예 를 따라 방어 수준 은 달라지지만, 모두 유용 하다. 대부분 은 사용 이 아닌 악명 을 위해 만들어진 특정 제작자 의 표지 를 가지고 있지 않다."
-thethelaeneumcry,git,Door List/3/LocName,0,힘 현장
+thethelaeneumcry,git,Door List/3/LocName,0,역장
 thethelaeneumcry,git,Encounter List/0/LocalizedName,0,악마 표준
 thethelaeneumcry,git,Encounter List/1/LocalizedName,0,악마 표준
 thethelaeneumcry,git,Encounter List/2/LocalizedName,0,악마 표준
@@ -10211,9 +10211,9 @@ thethelaeneumcry,git,Placeable List/201/Description,0,"단순한 의자이지만
 thethelaeneumcry,git,Placeable List/202/LocName,0,의자
 thethelaeneumcry,git,Placeable List/202/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
 thethelaeneumcry,git,Placeable List/273/LocName,0,바빌론 드래곤
-thethelaeneumcry,git,Placeable List/276/LocName,0,왕좌
+thethelaeneumcry,git,Placeable List/276/LocName,0,옥좌
 thethelaeneumcry,git,Placeable List/276/Description,0,황금 의 의자 는 마법 으로든 역사 의 무게 로든 자신감 과 권위 를 발휘 한다. 이 의자 는 자신 의 의자라고 부르는 통치자 들 은 현명 하다.
-thethelaeneumcry,git,Placeable List/277/LocName,0,왕좌
+thethelaeneumcry,git,Placeable List/277/LocName,0,옥좌
 thethelaeneumcry,git,Placeable List/277/Description,0,황금 의 의자 는 마법 으로든 역사 의 무게 로든 자신감 과 권위 를 발휘 한다. 이 의자 는 자신 의 의자라고 부르는 통치자 들 은 현명 하다.
 thethelaeneumcry,git,Placeable List/312/ItemList/0/LocalizedName,0,일곱 명 중 한 명 (신성)
 thethelaeneumcry,git,Placeable List/312/ItemList/1/LocalizedName,0,찢어진 노트
@@ -10285,21 +10285,21 @@ thetreasurehole,git,Creature List/8/ItemList/3/LocalizedName,0,젠타림 방패
 thetreasurehole,git,Creature List/8/ItemList/4/LocalizedName,0,배너스워드
 thetreasurehole,git,Creature List/8/ItemList/4/DescIdentified,0,"이 특별 한 긴 검 들 은 헌신적 인 바니트 들 의 손에 더 많은 수의 에 나타나고 있습니다. 이 칼 들 은 바니 의 상징 으로 장식 되어 있기 때문 에, 좋은 사람 들 은 검은 주 의 숭배자 들 의 살해 된 시체 에서 가져오자 그 들 을 휘두르는 데 의 의 의심을 기울였습니다."
 thetreasurehole,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,젠타림 판
-thetreasurehole,git,Creature List/9/FirstName,0,네이탄
+thetreasurehole,git,Creature List/9/FirstName,0,네이선
 thetreasurehole,git,Creature List/9/LastName,0,베네스
-thetreasurehole,git,Creature List/10/FirstName,0,창녀
-thetreasurehole,git,Creature List/11/FirstName,0,창녀
+thetreasurehole,git,Creature List/10/FirstName,0,매춘부
+thetreasurehole,git,Creature List/11/FirstName,0,매춘부
 thetreasurehole,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,뜨거운 옷
-thetreasurehole,git,Creature List/12/FirstName,0,창녀
+thetreasurehole,git,Creature List/12/FirstName,0,매춘부
 thetreasurehole,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,뜨거운 옷
-thetreasurehole,git,Creature List/13/FirstName,0,창녀
+thetreasurehole,git,Creature List/13/FirstName,0,매춘부
 thetreasurehole,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,스카트 가 있는 뜨거운 옷
-thetreasurehole,git,Creature List/14/FirstName,0,창녀
+thetreasurehole,git,Creature List/14/FirstName,0,매춘부
 thetreasurehole,git,Creature List/15/FirstName,0,제어스
 thetreasurehole,git,Creature List/15/LastName,0,애쉬비
-thetreasurehole,git,Creature List/16/FirstName,0,술집 하녀
+thetreasurehole,git,Creature List/16/FirstName,0,바텐더
 thetreasurehole,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,술집 하녀 의복
-thetreasurehole,git,Creature List/17/FirstName,0,술집 하녀
+thetreasurehole,git,Creature List/17/FirstName,0,바텐더
 thetreasurehole,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,술집 하녀 의복
 thetreasurehole,git,Creature List/18/FirstName,0,가루르다르
 thetreasurehole,git,Creature List/18/LastName,0,래븐핸드
@@ -10330,7 +10330,7 @@ thetreasurehole,git,StoreList/0/StoreList/1/ItemList/41/DescIdentified,0,"이 �
 thetreasurehole,git,StoreList/0/StoreList/4/ItemList/7/LocalizedName,0,로프 (50피트)
 thetreasurehole,git,StoreList/1/LocName,0,나단 의 약점
 thetreasurehole,git,StoreList/1/StoreList/2/ItemList/0/LocalizedName,0,일드
-thetreasurehole,git,StoreList/1/StoreList/2/ItemList/0/DescIdentified,0,"""트롤웨인""이라고도 불리는 쥬일드 (Jhuild) 은 서마르쉬 근처에서 자라는 특정 포도, 과일 및 허브로 만든 어두운 붉은색 음료입니다. 노예 소유자와 감독은 이 음료를 사용하여 포로들이 열심히 일하는 동안 그들의 의지와 마음을 둔화시키는 것을 강화합니다. 섭취: DC-15 초기 효과: 1 포인트 무지한 지혜의 손해 2차 효과: 섭취자는 1d3 시간 동안 힘에 +2 보너스를 얻습니다. 부작용: 사용자는 효과의 기간 동안 제안에 대해 의심할 수 있습니다. 이것은 의지 절약과 정신에 대한 의심의 효과를 감소시킵니다. 과다 복용: 중독: 없습니다."
+thetreasurehole,git,StoreList/1/StoreList/2/ItemList/0/DescIdentified,0,"트롤웨인 (Thrullwine) 이라고도 불리는 쥬일드는 수르마쉬 근처에서 자라는 특정 포도, 과일 및 허브로 만든 어두운 붉은색의 맥주입니다. 노예 소유자와 감독은 이 음료를 사용하여 포로가 열심히 일하는 동안 그들의 의지와 마음을 둔화시키는 것을 강화합니다. 섭취: DC-15 초기 효과: 1 포인트 무지한 지혜 손해 2차적 효과가: 투입자는 1d3 시간 동안 힘에 +2 보너스를 얻습니다. 부작용: 사용자는 효과를 지속하는 기간 동안 제안에 대해 의심 할 것입니다. 이것은 의사 절약이 감소하고 정신영향에 대한 의혹을 유발한다. 과다 복용량: 중독: 아무 것도 없습니다"
 thetreasurehole,git,StoreList/1/StoreList/2/ItemList/1/DescIdentified,0,쓴 후 맛을 가진 매운 붉은 액체인 (Battle Wine) 는 주의와 민첩성의 희생으로 신체적 능력과 공격력을 증가시키는 원인이 된다. 유형: 삼켜진 DC15 초기 효과: 사용자는 힘과 헌법에 +4 보너스를 얻지만 1d20 + 20 분 동안 AC에 -2 벌금을 당한다.
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/0/LocalizedName,0,하운스피어
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/0/DescIdentified,0,네버윈터 마법사의 이름을 따서 이름 붙여진 햄스페이어는 담배와 비슷한 페이스트로 판매되거나 약 형태로 건조된다. 마법사와 다른 사람들이 빠르게 자신의 지능을 자랑해야 한다. 타입: 섭취된 DC12 초기 효과: 1d4 포인트 피해 2차 효과: 1d4 + 1 부너스 인텔리전스 1d10 + 15 분 동안. 부작용: 목표에 대한 모든 절단 및 피어싱 피해는 추가 포인트를 얻습니다. 과다 복용량: 24 시간 이내에 1 개 이상 복용하면 목표가 즉각적으로 2d4 포인트 피해를 겪습니다 (보유하지 않습니다) 중독: 낮은
@@ -10339,33 +10339,33 @@ thetreasurehole,git,StoreList/1/StoreList/4/ItemList/1/DescIdentified,0,"파워 
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/2/LocalizedName,0,카타쿠다
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/2/DescIdentified,0,멀리 있는 카라-투르에서 수입된 이 약은 그 나라의 승려들의 전투에 의해 개발되었다. 그것은 사용자의 피부를 가혹시키는 갈색 페이스트입니다. 부작용으로 인해 드물게 듀링 훈련으로 사용되었지만 승려들이 큰 전투를 예상했을 때 저장되었습니다. 타입: DC18 연락처 초기 효과: 부속 효과: 1 시간 동안 +3 자연 장갑 보너스를 얻습니다. 부작용: 2 번째 효과 종료되면 사용자는 근육 경련을 겪으며 1d4 포인트 Dexterity 1d10 분 동안 손상됩니다. 과다 복용량: 두 번째 복용량은 자연 장갑에 +2 보너스를 유발합니다. 중독: 아무
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/3/LocalizedName,0,모데인 증기
-thetreasurehole,git,StoreList/1/StoreList/4/ItemList/3/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브의 대략 지은 잎으로 만들어지는 모다인은 끓는 물에 약간의 양을 담아내고 그 결과 차의 증기를 흡입하여 만들어지는 만큼 강력하다. 원료 모다인 파워와 모다인 은 물은 치명적인 독이다. 파우더를 직접 섭취하거나 차를 마시는 것은 즉각적인 과다 복용을 일으킨다. 꿈의 안개는 아름다운 비전을 유발하고, 치명적인 위험성을 포옹하는 것으로 유명하다. 유형: 흡입 DC17 초기 효과: 외상적인 비전은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또한 비전은 사용자가 자신이 원하는 양을 잃게 만들 수 있는 50%의 확률이 있습니다."
+thetreasurehole,git,StoreList/1/StoreList/4/ItemList/3/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브를 대략 지은 잎으로 만들어져 있는 모르데이인은 끓는 물에 약간의 양을 담아내고 그 결과 나오는 차의 증기를 흡입하여 만들어진 만큼 강력하다. 원료 모르테인 파워와 모르데이인이 마른 물이 치명적인 독이다; 먼지를 직접 섭취하거나 차를 마시는 것은 즉각적으로 과다 복용을 일으킨다. 꿈의 안개가 아름다운 비전을 유발하고, 그것이 포옹하는 치명적 위험성 때문에 유명합니다. 타입: 호흡된 창 DC17 초기 효과: 외상적인 환상은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또 50%의 확률로 사용자들이 원하는 양의 아름다움을 잃게 만들 수 있다 (저주 부여larary에 대한 의사결정)."
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/4/LocalizedName,0,세자라드 뿌리
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/4/DescIdentified,0,세자라드는 짧고 생생한 뿌리를 가진 넓은 생동감 있는 꽃이다. 재는 때 뿌리가 부드러운 조각으로 갈라진다. 생명력을 증가시킨다. 유형: 섭취된 DC14 초기 효과: 사용자는 1d8 임시 타격 포인트를 얻는다. 제2 효과: 부작용이 없습니다: 1d4 임시 지혜 손상 과다 복용량: 중독이 없습니다: 낮은
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/5/LocalizedName,0,지란
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/5/DescIdentified,0,"이 지방, 붉은 잎은 씹을 때 우유 汁을 방출한다. 汁은 통증제이며, 때로는 극심하거나 만성 통증을 앓고있는 사람들에게 사용됩니다. 감각을 마비시키고 약물로 유발된 에 빠져있는 중독자들은 더 큰 복용량으로 사용합니다. 타입: 섭취된 DC17 초기 효과: 사용자가 1 라운드 동안 두 번째 효과: 사용자는 1d3 시간 동안 더 많은 1d4 포인트를 얻습니다. 부작용: 2 번째 효과가 발생하면 사용자가 1 시간 동안 -2을 앓습니다. 이것은 사용자가 스스로 행동하는 것을 보는 외부 경험을 가지고 있기 때문입니다. 과다 복용량: 중독성: 높습니다."
-thetreasurehole,git,Placeable List/18/LocName,0,소화장
+thetreasurehole,git,Placeable List/18/LocName,0,벽난로
 thetreasurehole,git,Placeable List/18/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
-thetreasurehole,git,Placeable List/23/LocName,0,벤치
+thetreasurehole,git,Placeable List/23/LocName,0,긴의자
 thetreasurehole,git,Placeable List/23/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thetreasurehole,git,Placeable List/24/LocName,0,벤치
+thetreasurehole,git,Placeable List/24/LocName,0,긴의자
 thetreasurehole,git,Placeable List/24/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thetreasurehole,git,Placeable List/25/LocName,0,벤치
+thetreasurehole,git,Placeable List/25/LocName,0,긴의자
 thetreasurehole,git,Placeable List/25/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thetreasurehole,git,Placeable List/26/LocName,0,벤치
+thetreasurehole,git,Placeable List/26/LocName,0,긴의자
 thetreasurehole,git,Placeable List/26/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 thetreasurehole,git,Placeable List/27/LocName,0,병
 thetreasurehole,git,Placeable List/28/LocName,0,보울
-thetreasurehole,git,Placeable List/29/LocName,0,접시
+thetreasurehole,git,Placeable List/29/LocName,0,판금
 thetreasurehole,git,Placeable List/30/LocName,0,병
 thetreasurehole,git,Placeable List/31/LocName,0,치즈
-thetreasurehole,git,Placeable List/32/LocName,0,벤치
+thetreasurehole,git,Placeable List/32/LocName,0,긴의자
 thetreasurehole,git,Placeable List/32/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thetreasurehole,git,Placeable List/33/LocName,0,벤치
+thetreasurehole,git,Placeable List/33/LocName,0,긴의자
 thetreasurehole,git,Placeable List/33/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thetreasurehole,git,Placeable List/34/LocName,0,벤치
+thetreasurehole,git,Placeable List/34/LocName,0,긴의자
 thetreasurehole,git,Placeable List/34/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-thetreasurehole,git,Placeable List/35/LocName,0,벤치
+thetreasurehole,git,Placeable List/35/LocName,0,긴의자
 thetreasurehole,git,Placeable List/35/Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 thetreasurehole,git,Placeable List/84/LocName,0,보울
 thetreasurehole,git,Placeable List/85/LocName,0,보울
@@ -10412,8 +10412,8 @@ thetreasurehole,git,Placeable List/133/LocName,0,의자
 thetreasurehole,git,Placeable List/133/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
 thetreasurehole,git,Placeable List/134/LocName,0,의자
 thetreasurehole,git,Placeable List/134/Description,0,"단순한 의자이지만, 그 선의 아름다움은 그 공예품의 질에 대해 말해줍니다."
-thetreasurehole,git,Placeable List/135/LocName,0,접시
-thetreasurehole,git,Placeable List/136/LocName,0,접시
+thetreasurehole,git,Placeable List/135/LocName,0,판금
+thetreasurehole,git,Placeable List/136/LocName,0,판금
 thetreasurehole,git,Placeable List/137/LocName,0,병
 thetreasurehole,git,Placeable List/138/LocName,0,병
 thetreasurehole,git,Placeable List/139/LocName,0,병
@@ -10467,7 +10467,7 @@ towertop001,git,Placeable List/9/Description,0,벼룩이 피아신 시체를 돌
 towertop001,git,Placeable List/9/ItemList/0/LocalizedName,0,찢어진 노트
 towertop001,git,Placeable List/9/ItemList/0/DescIdentified,0,"난 여기 갇혀 있어, 내려갈 길이 없어 벽에 있는 글씨를 해독해봤어. 마법의 단어가 있었다:"
 towertop001,git,Placeable List/43/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
-westernoutskirts,git,Door List/0/LocName,0,시티 게이트
+westernoutskirts,git,Door List/0/LocName,0,도시 관문
 westernoutskirts,git,Encounter List/0/LocalizedName,0,무사 스켈
 westernoutskirts,git,TriggerList/0/LocalizedName,0,서부부부부부부
 westernoutskirts,git,TriggerList/1/LocalizedName,0,서부나츠크 남부나츠크
@@ -10524,7 +10524,7 @@ westernoutskirts,git,Placeable List/158/LocName,0,TN_Bramble_Lrg_Unwalkable
 westernoutskirts,git,Placeable List/159/LocName,0,TN_Bramble_Lrg_Unwalkable
 westernoutskirts,git,Placeable List/160/LocName,0,TN_Tree_Oak_B_ExLrg
 westernoutskirts,git,Placeable List/161/LocName,0,TN_Tree_Oak_A_ExLrg
-westernoutskirts,git,Placeable List/162/LocName,0,도로
+westernoutskirts,git,Placeable List/162/LocName,0,길
 westernoutskirts,git,Placeable List/163/LocName,0,TN_Bramble_Lrg_Unwalkable
 westernoutskirts,git,Placeable List/164/LocName,0,TN_Bramble_Lrg_Unwalkable
 westernoutskirts,git,Placeable List/165/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -10609,13 +10609,13 @@ westernoutskirts,git,Placeable List/316/LocName,0,TN_Tree_Oak_Broots_Mdm
 youfeelyourse001,git,Creature List/0/FirstName,0,바에라운
 youfeelyourse002,git,Creature List/0/FirstName,0,미엘리키
 youfeelyourselff,git,Creature List/0/FirstName,0,롤트
-youfeelyourselff,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,가죽 장갑 + 5
+youfeelyourselff,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,가죽 갑옷 + 5
 youfeelyourselff,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 youfeelyourselff,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,피우비안의 지팡이
-youfeelyourselff,git,Creature List/1/FirstName,0,마이너
-youfeelyourselff,git,Creature List/2/FirstName,0,마이너
-youfeelyourselff,git,Creature List/3/FirstName,0,마이너
-youfeelyourselff,git,Creature List/4/FirstName,0,마이너
+youfeelyourselff,git,Creature List/1/FirstName,0,드라이더
+youfeelyourselff,git,Creature List/2/FirstName,0,드라이더
+youfeelyourselff,git,Creature List/3/FirstName,0,드라이더
+youfeelyourselff,git,Creature List/4/FirstName,0,드라이더
 zhentarimarmoury,git,Creature List/0/FirstName,0,야리스
 zhentarimarmoury,git,Creature List/0/Description,0,"흑네트워크라고도 불리는 젠타림족은 상인들의 그룹으로 시작되었으나, 암살자, 스파이 등으로 군대를 포함하고 있다. 현재 젠타림족은 문스아 강 주변 절반을 통제하고 있으며, 대륙 전역에서 영향력을 높이고 페룬의 서부와 남부 지역에서 입지를 굳혔다. 잘 무장하고 공급되어 있는 젠타림족은 강력한 마법사와 사교가 지원하고 있으며, 대장과 바네의 선출된 선임자가 이끌고 있다."
 zhentarimarmoury,git,Creature List/0/ItemList/1/LocalizedName,0,젠타림 판
@@ -10705,7 +10705,7 @@ zhentarimarmoury,git,Creature List/11/Equip_ItemList/3/DescIdentified,0,"""고�
 zhentarimarmoury,git,Creature List/12/FirstName,0,나르비어
 zhentarimarmoury,git,Creature List/12/LastName,0,비틀바람
 zhentarimarmoury,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,기노메 로브
-zhentarimarmoury,git,StoreList/0/LocName,0,빅린의 일반 매장
+zhentarimarmoury,git,StoreList/0/LocName,0,빅린의 일반 상점
 zhentarimarmoury,git,StoreList/0/StoreList/0/ItemList/0/LocalizedName,0,란탄네스 갑옷
 zhentarimarmoury,git,StoreList/0/StoreList/0/ItemList/0/Description,0,"""고드 의 숭배 와 마법 을 피 하는 곳""인 란탄 의 이야기 를 들 을 수 있습니다. 란탄 은 시계 기계 와 지옥 의 장치 들 이 그 를 만드는 사람 들 의 지시 를 받아 큰 기적 과 공포 를 일으키는 이상한 그리고 위험 한 곳 이라고 하는 소문 을 넘어서 대부분의 사람 들 은 거의 알지 못한다."
 zhentarimarmoury,git,StoreList/0/StoreList/0/ItemList/0/DescIdentified,0,"""고드 의 숭배 를 받고 마법 을 피 하는 곳""이라는 란탄 의 이야기 를 들 을 수 있다. 대부분의 사람 들 은 란탄 은 시계 기계 와 지옥 의 장치 들 이 제작자 들 의 지시 를 따라 큰 기적 과 공포 를 일으키는 이상한 그리고 위험 한 곳 이라고 하는 소문 을 넘어서 거의 알지 못한다. 이 마법 이 없는 란탄 의 장갑 의 의복 은 부딪히고 절단 하는 무기 와 대부분의 요소적 손해 를 막는 데 매우 좋은 보호 를 준다. 하지만 이 의복 은 무거운 것 이며 딱딱 하 고 약점 을 가지고 있다."
@@ -10734,9 +10734,9 @@ zhentarimarmoury,git,StoreList/3/LocName,0,나르비어 매장
 zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/0/LocalizedName,0,켈벤의 침묵은 중단되었습니다
 zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/0/DescIdentified,0,이 작은 총알은 그들의 취약한 상자 안에 침묵의 주문을 지니고 있습니다.
 zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/1/LocalizedName,0,추방 의 화살
-zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/2/LocalizedName,0,더 큰 추방 의 화살
+zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/2/LocalizedName,0,상급 주문해제 의 화살
 zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/3/LocalizedName,0,거룩함 의
-zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/4/LocalizedName,0,피어싱의
+zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/4/LocalizedName,0,관통의 쇠뇌화살
 zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/4/DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
 zhentarimarmoury,git,StoreList/3/StoreList/1/ItemList/5/LocalizedName,0,슬리퍼링의 롤
 zhentarimarmoury,git,Placeable List/90/LocName,0,실험적인 워카논
@@ -10746,7 +10746,7 @@ zhentarimheadqua,git,Creature List/0/FirstName,0,세메몬
 zhentarimheadqua,git,Creature List/0/Description,0,"세메몬은 수 년 동안 마슈온의 유능한 중위였다. 세메몬은 수년 동안 다크홀드의 주로 봉사했다. 그는 마슈온, 푸울 브릴과 다양한 젠타림 관측자들의 명령서에 불완전하게 예민하고 능통하며 순종함으로써 그 계급에 올랐다. 그의 조용한 예민함 아래, 그는 고 계산하고, 수년 동안 적대함을 견뎌낼 수 있습니다. 그는 항상 위험한 상황으로부터 탈출할 준비가되어 있으며 그것을 사용하는 데 주저하지 않습니다."
 zhentarimheadqua,git,Creature List/0/ItemList/0/LocalizedName,0,세메몬 의복
 zhentarimheadqua,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,세메몬 의복
-zhentarimheadqua,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,보호 의 브루치
+zhentarimheadqua,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,차폐의 브로치
 zhentarimheadqua,git,Creature List/1/FirstName,0,젠타림 엘리트 기사
 zhentarimheadqua,git,Creature List/1/Description,0,"흑네트워크라고도 불리는 젠타림족은 상인들의 그룹으로 시작되었으나, 암살자, 스파이 등으로 군대를 포함하고 있다. 현재 젠타림족은 문스아 강 주변 절반을 통제하고 있으며, 대륙 전역에서 영향력을 높이고 페룬의 서부와 남부 지역에서 입지를 굳혔다. 잘 무장하고 공급되어 있는 젠타림족은 강력한 마법사와 사교가 지원하고 있으며, 대장과 바네의 선출된 선임자가 이끌고 있다."
 zhentarimheadqua,git,Creature List/1/ItemList/0/LocalizedName,0,젠타림 판
@@ -10789,15 +10789,15 @@ zhentarimheadqua,git,Creature List/5/Equip_ItemList/4/LocalizedName,0,배너스�
 zhentarimheadqua,git,Creature List/5/Equip_ItemList/4/DescIdentified,0,"이 특별 한 긴 검 들 은 헌신적 인 바니트 들 의 손에 더 많은 수의 에 나타나고 있습니다. 이 칼 들 은 바니 의 상징 으로 장식 되어 있기 때문 에, 좋은 사람 들 은 검은 주 의 숭배자 들 의 살해 된 시체 에서 가져오자 그 들 을 휘두르는 데 의 의 의심을 기울였습니다."
 zhentarimheadqua,git,Creature List/5/Equip_ItemList/5/LocalizedName,0,젠타림 방패
 zhentarimheadqua,git,Door List/6/LocName,0,문
-zhentarimheadqua,git,Placeable List/32/LocName,0,소화장
+zhentarimheadqua,git,Placeable List/32/LocName,0,벽난로
 zhentarimheadqua,git,Placeable List/32/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 zhentarimheadqua,git,Placeable List/33/LocName,0,골든 컵
 zhentarimheadqua,git,Placeable List/40/LocName,0,병
-zhentarimheadqua,git,Placeable List/42/LocName,0,배설기
+zhentarimheadqua,git,Placeable List/42/LocName,0,등받이 없는 의자
 zhentarimheadqua,git,Placeable List/42/Description,0,"한 다리가 약간 느슨해 보이는데, 배설기가 얼마나 오래 지속될지 궁금합니다."
-zhentarimheadqua,git,Placeable List/50/LocName,0,배설기
+zhentarimheadqua,git,Placeable List/50/LocName,0,등받이 없는 의자
 zhentarimheadqua,git,Placeable List/50/Description,0,"한 다리가 약간 느슨해 보이는데, 배설기가 얼마나 오래 지속될지 궁금합니다."
-zhentarimheadqua,git,Placeable List/57/LocName,0,소화장
+zhentarimheadqua,git,Placeable List/57/LocName,0,벽난로
 zhentarimheadqua,git,Placeable List/57/Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 module,ifo,Mod_Name,0,AHTD 6 - 드라너 신화
 module,ifo,Mod_Description,0,"6장 - 신화 드라너 신들이 빛의 번개 속에서 사라지는 동안, 당신은 다시 이상한 표면 세계로 돌아갑니다. 당신의 것이 아닌 세계에서 잃어버린 것과 혼란스러워하는 것은, 당신의 머릿속에는 한 가지 질문만 있습니다. 이제 어떻게 될까요? 당신의 손들은 주머니에 빛나는 신화의 표면을 따라 신중하게 슬라이드됩니다. 당신이 숲으로 오디시스를 계속하는 동안 ... VERSION v.1.1 최종"
@@ -10816,7 +10816,7 @@ module,jrl,Categories/2/EntryList/4/Text,0,베란트 죽고 죽은 죽은 위협
 module,jrl,Categories/3/Name,0,새벽 스파이어를 방어하는 것
 module,jrl,Categories/3/EntryList/0/Text,0,달르 사제는 내가 수색자군에 합류해 Tyrintar's Hall에서 죽은 생물들의 공격으로부터 Dawnspire를 방어하기를 원한다.
 module,jrl,Categories/3/EntryList/1/Text,0,리바르는 다음 날 밤 티린타르의 홀에 순찰을 보내서 죽은자가 없는 상황을 조사할 계획입니다.
-module,jrl,Categories/3/EntryList/2/Text,0,우리 순찰은 함정에 빠졌어요. 이토록 똑똑하게 행동하는 지각이 없는 골격들을 본 적도 없었어요. 우리는 거의 그들의 공격에 빠졌어요.
+module,jrl,Categories/3/EntryList/2/Text,0,우리 순찰은 함정에 휩싸였습니다. 저는 미식 스켈레톤이 이렇게 똑똑하게 행동하는 것을 본 적이 없습니다. 우리는 거의 그들의 공격에 빠졌습니다. 이상하지만 그들은 정말로 거대한 뼈 골렘이 이끌었던 것처럼 보였죠.
 module,jrl,Categories/3/EntryList/3/Text,0,저는 사제에게 보고하고 티린타르의 홀에 대한 배신에 대해 말씀드렸습니다. 그는 불안하고 긴장한 것 같았습니다.
 module,jrl,Categories/4/Name,0,테레네움 동굴 에 있는 악마
 module,jrl,Categories/4/EntryList/0/Text,0,침입자들이 낮은 계층에 게이트를 열고 악마들이 오고 있습니다. 테레네움의 수호자들은 그들을 물리치는데 제 도움이 필요합니다.
@@ -10887,8 +10887,8 @@ module,jrl,Categories/13/Name,0,새벽석
 module,jrl,Categories/13/EntryList/0/Text,0,만슈온은 피를 흘린 악당이다. 나는 멘조베라잔에서 그의 많은 사람들을 만났지만 우연히 그는 그들의 주인이 될 수 있습니다. 그는 나를 위해 또 다른 임무를 하도록 강요했습니다. 나는 Dawnspire로 돌아가 젠타림이 티린타르의 홀에서 오락을 만들어가는 동안 탑에 들어가야 합니다. 이 악당은 내가 신성한 유물인 Dawnstone를 찾을 수 있는 최고 수준으로 도달하기를 원합니다. 만슈온은 이 유물을 파괴하고 싶어합니다. 자살 임무를 수행하지만 나는 거절할 기회가 없습니다. 인간은 이제 티랄 지점에서 만난 악마인 인 인 인 인 앙트라크스와 동맹을 맺고 있습니다. 악마는 자신의 계획을 훼손하고 내 영혼을 원합니다. 이 임무를 수행하는 것은 내 삶의 대가입니다. 만슈온은 나에게 마법의 거울을 제공했습니다. 그와 접촉하고 내 모든 단계를 제어하기 위해.
 module,jrl,Categories/13/EntryList/1/Text,0,만슈온의 계획은 효과가 있어 타이린타르의 홀에 그의 세력의 공격은 대부분의 수색자 경호자들을 유혹해 버렸습니다. 어쨌든 행운이 더 오래 지속될지 의심합니다.
 module,jrl,Categories/13/EntryList/2/Text,0,"스파이어 정상에 도달할 뻔 했습니다. 이 마법사인 엘민스터를 다시 만났을 때. 그는 저를 쓰러뜨리기 위해 최선을 다했지만 결국 저는 더 강했습니다. 하지만 그 늙은 저자는 한 가지 속임수를 남겼습니다. 바로 그 순간에 마법사가 무살히 바닥에 떨어졌을 때, 격도가 열려 저를 다른 곳으로 끌어내었습니다. 이상한 장소. 그는 저를 기다리고 있었습니다. 다시 부상을 입지 않고 저를 비웃었습니다. 저는 지금 갇혀 있고 마법사가 사라졌습니다. 나는 아무것도 볼 수 없습니다. 이 장소가 페런 어딘가에 있는지 의심합니다."
-module,jrl,Categories/13/EntryList/3/Text,0,이 곳은 리모 비행기입니다. 원자적인 혼돈의 비행기입니다. 엘민스터는 이 지역을 통제하고 파룬으로의 모든 연결을 차단합니다. 저는 그림자의 비행기를 통해 회전도로 가야 합니다. 맨쇼는 거울을 준비했습니다. 저를 거기에 데려갈 수 있습니다. 그 흰색 피부의 새끼를 속이는 마지막 기회는 사라졌습니다.
-module,jrl,Categories/13/EntryList/4/Text,0,난 그림자의 평면으로 들어왔어요. 저는 언더더크를 떠난 이후로 돌아가지 않았다고 말할 수 없습니다. 이 곳은 어떻게든 Dawnspire를 모방하지만 모든 것이 왜곡되고 다릅니다. 맨슨의 물품 상자는 유용하지만 그 모든 그림자를 물리치는 것은 불가능합니다.
+module,jrl,Categories/13/EntryList/3/Text,0,"이 곳은 림보 비행기, 초원적인 혼돈의 비행기입니다. 엘민스터는이 지역을 통제하고 그는 페룬에 대한 모든 연결을 차단합니다. 나는 그림자의 차원을 통해 회전 경로를 가야 할 것입니다. 맨슈온은 그것을 만져 나를 데려갈 거울을 준비했습니다"
+module,jrl,Categories/13/EntryList/4/Text,0,"난 그림자의 차원에 들어갔어요. 언더다크를 떠난 이후로 내가 돌아가지 못한다고 말할 수는 없습니다. 이 곳은 어떻게든 다운스파이어를 모방하지만 모든 것이 왜곡되어 있고 다릅니다. 맨슨의 물품 상자는 유용합니다, 하지만 그 그림자들에 맞서 싸우는 것은 불가능할 것입니다. 나의 유일한 기회는 최고 수준까지 도달하는 것 입니다."
 module,jrl,Categories/13/EntryList/5/Text,0,"난 암흑의 다운스파이어의 최상위 수준에 도달했어 만슈온의 포털은 여기 있어 모든 것이 잘 됐다면, 그것은 나를 다운스톤으로 데려갈거야. 난 아직도 어떻게 다운스톤이 파괴되는지 몰라요. 그리고 그것이 무방비될지 의심하고 있어. 나는 조심스럽게 준비해야 한다. 이 인간은 얼마나 똑똑한 자식인가. 탈출할 기회가 없다. 난 만슈온이 원하는 대로 해야 한다."
 module,jrl,Categories/13/EntryList/6/Text,0,"난 드디어 새벽석에 도착했어요. 수색자들이 여기 있어, 이곳을 지키고, 그들의 신성한 유물을 그들의 삶으로 광적으로 지키고 있습니다. 저는 새벽석에 해당하는 미탈러를 느낄 수 있습니다. 어쩌면 이것이 유물을 파괴하는 방법일지도 모릅니다."
 module,jrl,Categories/14/Name,0,리바르 의 죽음
@@ -10941,7 +10941,7 @@ module,jrl,Categories/25/EntryList/2/Text,0,"무덤 밑에 티란트라크스를
 module,jrl,Categories/25/EntryList/3/Text,0,"이 모든 것들이 어떻게 결합되는지는 이상합니다. 저는 거의 이 악마와 다시 마주칠 것이라는 것을 알고 있었습니다. 저는 그 표면 주민들의 행동에 놀랐습니다. 제가 교단의 굴에서 돌아왔을 때 그들은 친절하고 친절합니다. 모든 사람들이 저에게 항상 그들에게 속한 것처럼 대우합니다. 그들은 저를 속였을 수도 있지만, 실제로 그들이 지금 저를 신뢰한다고 생각합니다. 내가 본 것에서 판단하면, 표면 주민들의 진정한 힘은 그들의 무기의 힘이 아닙니다. 그것은 그들이 서로를 돕고 협력하는 방식입니다. 마법사 엘민스터는 다시 티란트라크스를 함락하려는 시도에서 그들과 함께 하라고 요청했습니다. 나는 준비가 될 때 북쪽 외곽에서 그들을 만날 것입니다."
 module,jrl,Categories/25/EntryList/4/Text,0,"제 동료들은 이 장소의 외모에 대해 걱정하고 있습니다. 그들은 이 도시의 마지막 날에 티란트라크스스를 갇힌 곳인 인드라나스 타워를 점검할 것입니다. 저는 타워 옆에 있는 건물, 생각의 왕좌를 점검할 것입니다. 그들은 나에게 조심하라고 말했습니다. 이 지역에서 악마들이 목격되었습니다."
 module,jrl,Categories/25/EntryList/5/Text,0,악마들의 군중들을 거쳐 싸웠어요 이 건물은 그들의 유적으로 바뀌었습니다. 아래층의 안개가 래바의 바다로 가득했습니다.
-module,jrl,Categories/25/EntryList/6/Text,0,"엘미스터와 그의 친구들은 생각의 왕좌에 있는 포털을 발견한 후 달려왔다. 악마는 그의 감옥 비행기와의 오래된 연결을 차단했지만, 라바 호수에서의 포털도 그의 장소와 연결되어 있는 것으로 보인다. 마법사는 우리에게 뒷문을 찾기 위해 그림자 비행기와의 연결을 열려고 시도했지만, 그는 마법을 마칠 수 있기 전에 악마들에 의해 공격을 받았습니다."
+module,jrl,Categories/25/EntryList/6/Text,0,"엘미스터와 그의 친구들은 생각의 왕좌에 있는 포털을 발견한 후에 달려왔다. 악마는 감옥 비행기와 오래된 연결이 차단됐지만, 래바 호수에서의 포털도 그와 연결되어 있을 것으로 보인다. 마지스는 우리에게 뒷문을 찾기 위해 그림자의 차원에 대한 연결을 열려고 했지만 그는 주문을 끝내기 전에 마귀들에 의해 공격당했다."
 module,jrl,Categories/25/EntryList/7/Text,0,"난 티란트라크스 감옥에 있습니다. 악마는 여전히 힘 필드 안에 갇혀 있지만 그는 나에게 말을 하기 위해 환상을 보내고 있습니다. 나는 지평선에서 보는 빛에서 판단하면, 세 개의 봉호는 여전히 작동하고 있지만, 한 봉호는 비활성입니다. 엘민스터는 옳았어요. 그는 그것을 재활성화 할 계획을 가지고 있었지만 나는 이유를 모른다. 나는 미탈러의 힘을 반응하는 것을 느낄 수 있습니다. 내가 직접 할 수있는 방법이 있습니까?"
 module,jrl,Categories/26/Name,0,티린타르의 홀 에 있는 악당
 module,jrl,Categories/26/EntryList/0/Text,0,"로릴을 설득해 왔어요. 그는 티린타르 홀에서 나쁜 주머니잡이를 찾으려고 해왔고, 아직도 내가 여기에 관여했다고 생각하죠. 왜 그를 데리고 갔는지 모르겠지만,"
@@ -10954,19 +10954,19 @@ module,jrl,Categories/28/Name,0,지금까지 무슨 일이 있었는지
 module,jrl,Categories/28/EntryList/0/Text,0,"저하 암흑의 익숙한 터널을 떠난 후 평생처럼 느껴집니다. 하하 암흑의 익숙한 터널을 떠나고, 스윙프네블린 전두엽과 오래된 무역 경로를 통해, 그녀는 괴물 노예들을 사냥하는 단순한 사냥은 표면으로 가는 길을 찾는 데의 전두엽이되었습니다. 하이비웨인 대사녀의 진정한 탐구입니다. 롤트 부인 스스로 제재한 후, 매우 빨리 피비웨인이 덜 역량있는 지도자라는 것이 분명해졌습니다. 그녀는 나와 나의 기술에 점점 더 의존했습니다. 하하 암흑, 스윙프네블린 전두엽과 오래된 무역 경로를 통해, 그녀는 나를 사용하여 사냥 그룹의 모든 단계를 주도했습니다. 우리는 헤비웨인의 진정한 탐구로 나아갈 때, 그녀의 비능력은 점점 더 명백해지고 희생자가 증가했습니다. 그녀는 피비웨인 대사녀의 호응을 얻으면서, 그녀는 열린 반란을 해결하기 위해 그녀의 속죄소였다. 그러나 그녀는 피비웨인의 새로운 그룹이 되었어요. 그리고 그녀는 그녀의 암흑의 암흑에 대한 그녀의 능력과 기술을 더 많이 의존했습니다. 그리고 나는 피비웨이 여왕의 암흑에 의해 그녀의 암흑에 의해 죽은"
 module,jrl,Categories/29/Name,0,지금까지 일어난 일 II
 module,jrl,Categories/29/EntryList/0/Text,0,"리더의 변화는 톨미르와 나 둘 다 계급을 잃게 되었다. 하지만, 톨미르의 목표는 그대로 남아 있었다. 신화에 대한 탐구는 계속되었다. 그러나, 톨미르의 방법은 피우비엔보다 약간 더 낫다는 것을 증명했다. 다시 한 번, 나는 그의 세력들을 위해 길을 가도록 보낸 사람이었다. 결국, 단순한 인간 주제는 톨미르의 세력을 표면 엘프들의 함정에 속였으며, 수만 한 마리가 빠져나갔지만, 톨미르와 나는 순전히 우연히 인간과 엘프들 사이에서 등장한 챔피언을 들었고, 따라서 인물이 근처에 있는 다른 미술품이 있다는 것을 알게 되었다. 톨미르의 톨미르와 다른 선택이 없었고, 우리 둘은 그 장소와 싸웠고, 무궁무진한 보호자와 함락들을 싸웠고, 마침내 이 미술품이 사라지는 것을 알게 되었으며, 결국 이 미술품이 사라지는 것을 알게 되었으며, 이 미술품이 사라지는 것을 알 수 없었고, 이 미술품이 사라지는 것을 알 수 없었고, 그리고 마침내 이 미술품이 사라지는 것을 알 수"
-module,jrl,Categories/30/Name,0,힘의 말씀 새벽에
+module,jrl,Categories/30/Name,0,권능의 언령 다운스파이어
 module,jrl,Categories/30/EntryList/0/Text,0,Dawnspire의 힘의 단어는 BANGA입니다.
-module,jrl,Categories/31/Name,0,권력의 말씀 동부 외곽 지역
+module,jrl,Categories/31/Name,0,권능의 언령 동부 외곽 지역
 module,jrl,Categories/31/EntryList/0/Text,0,동부 외곽지역의 권력의 단어는 TAWAR입니다.
-module,jrl,Categories/32/Name,0,힘의 말씀 오나그림
+module,jrl,Categories/32/Name,0,권능의 언령 오나그림
 module,jrl,Categories/32/EntryList/0/Text,0,오나그림의 강력한 단어는 MIR입니다.
-module,jrl,Categories/33/Name,0,힘의 말씀 훼손된 센터
+module,jrl,Categories/33/Name,0,권능의 언령 파괴 센터
 module,jrl,Categories/33/EntryList/0/Text,0,파괴된 도시의 핵심에 대한 힘의 단어는 ENEDH입니다.
-module,jrl,Categories/34/Name,0,권세 의 말씀 남부 외곽 지역
+module,jrl,Categories/34/Name,0,권능의 언령 남부 외곽 지역
 module,jrl,Categories/34/EntryList/0/Text,0,남쪽 외곽지역의 권력의 단어는 DORTHA입니다.
-module,jrl,Categories/35/Name,0,힘의 말씀 델레네움
+module,jrl,Categories/35/Name,0,권능의 언령 테레네움
 module,jrl,Categories/35/EntryList/0/Text,0,테레네움의 힘의 단어는 ANGOL입니다.
-module,jrl,Categories/36/Name,0,힘의 말씀 타림 수용소
+module,jrl,Categories/36/Name,0,권능의 언령 젠타림 캠프
 module,jrl,Categories/36/EntryList/0/Text,0,젠타림 캠프의 권력 단어는 LOSTA입니다.
 adventuringpr001,utc,FirstName,0,로리크
 adventuringpr001,utc,LastName,0,어둠의 태양의
@@ -10984,17 +10984,17 @@ avatarofmielikki,utc,FirstName,0,미엘리키
 avatarofvhaeraun,utc,FirstName,0,바에런의 아바타르
 baerant,utc,FirstName,0,베란트 텔차르
 baerant,utc,Description,0,바에란트 텔차르는 드라너 신화에 대한 많은 전투의 추운 지도자였습니다. 그는 그의 순찰과 함께 사라지기 전까지 새벽 수사자들의 고위급 멤버였습니다. 그는 급격히 변화했으며 그의 충성도는 더 이상 새벽의 신에게 소속되지 않는다는 것은 분명합니다.
-barmaid,utc,FirstName,0,술집 하녀
+barmaid,utc,FirstName,0,바텐더
 basilisk001,utc,FirstName,0,바실리스크
 beastmalar003,utc,FirstName,0,말라의 짐승
-bebilith,utc,FirstName,0,'비빌리스'
+bebilith,utc,FirstName,0,베빌리스
 bebilith,utc,Description,0,"베빌리스는 거대한 맹수, 다른 악마를 사냥하는 거미귀의 악마입니다. 그들의 가장 좋아하는 먹이는 타나리이지만 그들은 선택적이지 않습니다. 그들은 어떤 것도 추적하고 공격합니다."
-beggmale001,utc,FirstName,0,아토
+beggmale001,utc,FirstName,0,알토
 beggmale001,utc,LastName,0,마쉬비
 beggmale002,utc,FirstName,0,마샬
 beggmale002,utc,LastName,0,자르드
-blackdragguard,utc,FirstName,0,검은 드래곤의 보호자
-bluedragguard,utc,FirstName,0,푸른 드래곤의 보호자
+blackdragguard,utc,FirstName,0,흑룡 보호자
+bluedragguard,utc,FirstName,0,청룡 보호자
 catlindra,utc,FirstName,0,카틀린드라
 catlindra,utc,LastName,0,뱀
 catlindra,utc,Description,0,"카틀린드라는 임필투르에서 무역 부모로 태어났으며, 그녀의 어린 시절을 내해와 그 주변의 먼지 많은 도로에 배를 싣고 보냈습니다. 그녀의 부모는 사람들이 가장 필요로하는 모든 것을 현명한 방법으로 처리하는 재산을 쌓았으며, 그녀의 부모님은 왕국을 보았으며, 카틀린드라는 그들이 떨어지는 곳마다 지역 어린이들에 의해 항상 괴롭혔다. 카틀린드라는 격렬한 성격과 스크래핑에 많은 기술을 개발했습니다. 그녀의 어머니는 이중범에게 살해당했을 때, 카틀린드라는 속임수를 발견한 사람이었습니다. 그녀의 아버지의 눈앞에서 그녀의 거짓 어머니를 피로 살해했습니다. 충격은 그의 정신을 빼앗아, 카틀린드라는 카틀린드 아버지에 대한 돌봄 이외에도 할 수있는 일을 찾게되었습니다. 그녀는 그녀의 돈을 사용하여 모험 회사인 카틀린드 컴퍼니를 설립했습니다."
@@ -11014,14 +11014,14 @@ dalor,utc,LastName,0,발염
 dalor,utc,Description,0,다롤은 그의 초기 시절의 유명한 모험가였다. 그는 세스페이크의 자유를 위해 싸우는 빌론 리치의 영웅 중 한 명이다. 다롤은 유명한 화염의 부족의 작은 후손이며 템푸스의 헌신적인 추종자이다. 그의 가장 큰 즐거움은 전투 중이면서 힘든 모험의 날에도 불구하고 그는 여전히 유능한 상대가다. 다롤은 그의 제작 기술로 잘 알려져 있습니다.
 delin,utc,FirstName,0,데빈
 delin,utc,LastName,0,롯
-demon,utc,FirstName,0,피트 피엔드
+demon,utc,FirstName,0,나락의 마귀
 dlithgorkh,utc,FirstName,0,델리트고르크
 dracolich002,utc,FirstName,0,라우글로트고르
 dragoncultist,utc,FirstName,0,드래곤 숭배자
 dragoncultist001,utc,FirstName,0,드래곤 숭배자
-drgblue004,utc,FirstName,0,고대 푸른 드래곤
-drgred004,utc,FirstName,0,고대 붉은 용
-drider005,utc,FirstName,0,마이너
+drgblue004,utc,FirstName,0,고대의 청룡
+drgred004,utc,FirstName,0,고대의 적룡
+drider005,utc,FirstName,0,드라이더
 drowfight021,utc,FirstName,0,롤미어
 drowfight021,utc,LastName,0,일프키어
 drowfight021,utc,Description,0,"미르 일푸키어 (Llomir Ilphukiir) 는 피우비엔의 중위원 중 한 명이었다. 그는 테트'네스 (Tet'ness) 에 충실히 충성하면서 계급을 얻었고, 표면과 그 너머로 여행하는 동안 많은 어려움에서 살아남았다. 어둠의 엘프는 심지어 아세레크의 무덤에서의 마지막 모험에 당신과 함께 있었고, 데미리치와의 마지막 전투에서 당신과 함께했다."
@@ -11053,7 +11053,7 @@ guardianofthe001,utc,FirstName,0,로릴
 guardianofthe001,utc,Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있습니다. 그들은 모두 잘 훈련하고, 장비를 갖추고 있으며, 그들의 교회와 특히 그들의 지도자 Alaecathra Shuinrond를 절대적인 충성으로 봉사합니다."
 guardianofthedaw,utc,FirstName,0,새벽 스파리의 경호자
 guardianofthedaw,utc,Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있습니다. 그들은 모두 잘 훈련하고, 장비를 갖추고 있으며, 그들의 교회와 특히 그들의 지도자 Alaecathra Shuinrond를 절대적인 충성으로 봉사합니다."
-gypsy007,utc,FirstName,0,네이탄
+gypsy007,utc,FirstName,0,네이선
 gypsy007,utc,LastName,0,베네스
 halffnd002,utc,Description,0,악마와 악마는 때때로 그들의 자손들을 물질계로 데려와 세상에 내보내...
 halforcmerc,utc,FirstName,0,반 오크 용병
@@ -11061,7 +11061,7 @@ halforcmercleade,utc,FirstName,0,반 오크 용병 지도자
 hammerfistgolem,utc,FirstName,0,해머피스트 가디언
 harpy002,utc,FirstName,0,하피
 harpy002,utc,Description,0,해피 보다 더 악성적이고 비참 한 존재 를 상상 하는 것 은 어렵다. 고통 과 죽음 을 일으키는 데 큰 기쁨 을 가지고 있는 사디스트 해피 는 항상 새로운 희생자 를 찾고 있다.
-hellhound001,utc,FirstName,0,지옥의 사냥꾼
+hellhound001,utc,FirstName,0,지옥 사냥개
 illistyl,utc,FirstName,0,일리스틸
 illistyl,utc,LastName,0,엘벤트리
 illistyl,utc,Description,0,"신화 드래너의 기사들은 샤도데일과 달랜드의 모험가들과 보호자들로 구성되어 있습니다. 그들은 거침없는, 재미를 사랑하는 집단으로, 그들의 날카로운 지성과 검으로 신화 드래너의 유적의 엄청난 힘과 끝없는 위험으로부터 왕국을 보호합니다. 신화 드래너의 기사들은 도시 내부의 말할 수 없는 몬스터들을 탈출하고 순진한 모험가들이 도시에 들어서 상처를 입지 않도록 보호합니다. 그들은 또한 젠타림의 위협에 대한 달랜드의 첫 번째 및 마지막 방어선입니다. 엘민스터와 스ਿਲ버 스톰핸드는 기사들에게 도움을 줄 수 있습니다. 그들은 극한 직선에있을 때 해퍼들과 긴밀하게 동맹을 맺고 있습니다."
@@ -11099,11 +11099,11 @@ kaldura,utc,Description,0,"칼두라는 악성적이고 거칠고 전투의 열�
 kazin,utc,FirstName,0,카진
 kazin,utc,LastName,0,엘베나로
 khelben,utc,FirstName,0,켈벤
-khelben,utc,LastName,0,블랙스태프
+khelben,utc,LastName,0,검은지팡이
 lanseril,utc,FirstName,0,랜서일
 lanseril,utc,LastName,0,스노우만트
 lanseril,utc,Description,0,"랜서일은 다그더데일 북쪽의 국경 숲의 가장자리에 있는 작은 마을 스노먼틀에서 태어났다. 랜서일의 아버지는 라우나엘리 로즈 (Raunaeril the Rose) 는 엘프였다. 랜서일의 어머니는 마을의 아름다운 인간 여동생이었으며, 래븐의 성당의 군대와의 피난에서 사망했다. 랜서일은 여섯 살 때 랜서일을 남기고 떠났다. 친근한 드루이드가 랜서일을 키우고 실바누스 숭배에 교육했다. 나중에 그의 교사가 늑대의 먹이로 쓰러졌을 때, 랜서일은 델핑데일 시로 가서 보병 경주로 일했다. 그곳에서 그는 신화의 기사들을 만났다. 랜서일은 오랫동안 마키아스트이자 외교관으로 활동하면서 마키아스트가 되고, 예전에 등장한 이름과 현상과 대화에 대한 기억을 쌓았다."
-lenton,utc,FirstName,0,텐톤
+lenton,utc,FirstName,0,렌튼
 lenton,utc,LastName,0,눈
 lenton,utc,Description,0,"튼 은 모뉴스 지역 에서 비정상적 인 외모 와 전투 능력 으로도 잘 알려져 있다. 하지만 다른 한편 으로, 전직 고용주 들 은 그 의 충성 에 대해 이야기 할 것 이다."
 librarian,utc,FirstName,0,도서관 관리자
@@ -11121,34 +11121,34 @@ malekid002,utc,Description,0,"이슬리프 루렐렉과 도스트 솔우드의 �
 manshoonwyrm,utc,FirstName,0,맨슨의 윙어
 mata,utc,FirstName,0,마타
 mata,utc,LastName,0,자르샬루드
-md_beh_mage,utc,FirstName,0,보는 마법사
-md_beholder,utc,FirstName,0,관찰자
+md_beh_mage,utc,FirstName,0,주시자 마법학자
+md_beholder,utc,FirstName,0,주시자
 md_beholder001,utc,FirstName,0,고독
-md_direspider,utc,FirstName,0,'디어 스파이더'
+md_direspider,utc,FirstName,0,흉포한 거미
 md_eyeball,utc,FirstName,0,눈알
-md_mephit,utc,FirstName,0,불 메피트
+md_mephit,utc,FirstName,0,화염 메피트
 md_mephit,utc,Description,0,혼란스럽고 파괴적인 메피트는 다양한 형태와 다양한 능력을 가지고 있습니다. 대부분은 다양한 원자 및 거의 원자 평면에서 유래됩니다.
-mdbalor,utc,FirstName,0,발로
+mdbalor,utc,FirstName,0,발러
 mdbalor,utc,Description,0,"불타는 날개와 두개골 모양의 얼굴로, 이 악마들은 그 종류 중 가장 크고 가장 두려워하는 사람들 중 하나입니다."
 mdbonegolem,utc,FirstName,0,뼈 골렘
 mddirerat,utc,Description,0,많은 사람들이 끔찍한 쥐의 위험을 무시하지만 그 물은 치명적일 수 있습니다.
-mdirongolem,utc,FirstName,0,철 고렘
+mdirongolem,utc,FirstName,0,철 골렘
 mdquasit,utc,FirstName,0,쿼시트
 mdrat,utc,FirstName,0,돌연변이 쥐
-mdskelwar,utc,FirstName,0,스켈레톤 전사
-mdvrock,utc,FirstName,0,록
+mdskelwar,utc,FirstName,0,해골 전사
+mdvrock,utc,FirstName,0,브록
 mdvrock,utc,Description,0,"뼈, 새우와 같은 생물, 은 애비시스의 보병입니다. 악명 높은 헛소리, 그들은 전투에서 돌아다니며, 그들의 날카로운 손톱과 콧수를 감상합니다."
-mdwerrat,utc,FirstName,0,레트
+mdwerrat,utc,FirstName,0,시궁쥐인간
 mdwerrat,utc,Description,0,"하이브리드 형태로, 베레라트는 비밀스럽고 신뢰할 수 없습니다. 하지만 두 배로 배신될 위험을 감수할 수 있다면, 그들은 훌륭한 도둑과 스파이입니다."
-mdwisp,utc,FirstName,0,윌 오 위스프
+mdwisp,utc,FirstName,0,도깨비불
 mdwisp,utc,Description,0,"공포, 공포, 죽음과 관련된 강력한 감정으로 먹이는 사악한 피조물들인 윌 오 위스프는 여행자들을 치명적인 위험에 빠뜨리는 데 즐거움을 준다."
 medusa001,utc,FirstName,0,메두사
 merith,utc,FirstName,0,메리스
 merith,utc,LastName,0,강구
 merith,utc,Description,0,"메리트 (Merith) 는 라에루네 (Laerune) 와 라이언트혼 (Lianthorn) 스롱보우 (Strongbow) 의 아들이다. 코르망토르의 듀아담퍼 강변에서 자랐다. 전투 방법과 마술 예술에 대해 교육받은 메리트 (Merith) 는 부모의 죽음 후 엘프 법원에서 쉐도우데일 (Shadowdale) 의 모험가 그룹에 합류하여 엘프 숲과 길을 보호하기 위해 영향을 주도록 요청되었다. 메리트 (Merith) 는 그렇게 했고 오늘날 ""마이트 드란노르의 기사""의 일원이다. 메리트 (Merith) 는 아내 제셜 실버트리 (Jheassial Silvertree) 와 결혼하여 딸 - 벨루틸 실버보우 (Veluthil Silverbow) 를 가졌다. 엘프 법원을 떠난 이후, 메리트 (Merith) 는 전투에서 무관심하게 행동하고 있으며, 젤로프 (Zhentarim) 에 대한 증오가 증가하고 있다."
-mindflayer004,utc,FirstName,0,알호온
-mindflayer005,utc,FirstName,0,알호온
-mummyboss001,utc,FirstName,0,"엄마, 주님"
+mindflayer004,utc,FirstName,0,알훈
+mindflayer005,utc,FirstName,0,알훈
+mummyboss001,utc,FirstName,0,미라 군주
 mythalghost,utc,FirstName,0,신화 귀신
 nachnotu_shad,utc,FirstName,0,뱀파이어 박쥐
 nachnotu_shad001,utc,FirstName,0,뱀파이어 박쥐
@@ -11189,11 +11189,11 @@ sharantyr,utc,Description,0,"신화 드래너의 기사들은 샤도데일과 �
 skeldevour001,utc,Description,0,악 마법사들이 다시 힘을 되찾은 이 죽은 지성을 삼는 사람들은 아직 살아 있는 형제들보다 더 탄력적이고 더 강한 정신을 가지고 있습니다.
 skelelitewar,utc,FirstName,0,스켈레톤 엘리트 워리어
 summonedminion,utc,FirstName,0,소환된 기니온
-tart,utc,LastName,0,스미스
+tart,utc,LastName,0,대장장이
 taruele,utc,FirstName,0,타루엘
 taruele,utc,LastName,0,엘프로스트
 taruele,utc,Description,0,"한때 세베니아의 부유한 상인 귀족의 여부였던 타루엘은 야운에서 중요한 세베니아 상인과 결혼하지 않고 태어났다. 그가 죽었을 때, 그녀의 다른 인간 가족은 즉시 그녀를 쫓아냈다. 형제의 손에 의한 살인에서 좁게 탈출하면서 그녀는 딥딩데일에서 하이문에서 도망쳤고, 그곳에서 엘프 마녀인 세베니스클스의 일리테라를 만났다. 타루엘은 일리테라의 연습생이자 집녀로 그녀가 착용한 보석과 함께 장소를 샀고, 학문과 공부의 조용한 삶에 정착했다. 일리테라가 모험가 집단에 의해 살해당할 때까지 20 년의 여름이 흘렀습니다. 일리테라의 마법의 타루엘은 살인자들을 사냥하고 다시 모험가의 삶을 선택했습니다."
-tavern,utc,FirstName,0,창녀
+tavern,utc,FirstName,0,매춘부
 th_golem,utc,FirstName,0,뼈 골렘
 thesage,utc,FirstName,0,지혜로운 사람
 theshadosil,utc,FirstName,0,그림자 실
@@ -11204,7 +11204,7 @@ undeadguard,utc,Description,0,"Dawnspire는 헌신적인 보호자들을 보유�
 undeadzhentarim,utc,FirstName,0,죽은 자 젠타림 엘리트 기사
 undeadzhentarim,utc,Description,0,"흑네트워크라고도 불리는 젠타림족은 상인들의 그룹으로 시작되었으나, 암살자, 스파이 등으로 군대를 포함하고 있다. 현재 젠타림족은 문스아 강 주변 절반을 통제하고 있으며, 대륙 전역에서 영향력을 높이고 페룬의 서부와 남부 지역에서 입지를 굳혔다. 잘 무장하고 공급되어 있는 젠타림족은 강력한 마법사와 사교가 지원하고 있으며, 대장과 바네의 선출된 선임자가 이끌고 있다."
 vampire001,utc,FirstName,0,나흐노투
-vampire002,utc,FirstName,0,뱀파이어
+vampire002,utc,FirstName,0,흡혈귀
 watelder001,utc,FirstName,0,바다 짐승
 whitedragguard,utc,FirstName,0,백색 드래곤 의 보호자
 yaris,utc,FirstName,0,야리스
@@ -11226,15 +11226,15 @@ zhentarimelitekn,utc,FirstName,0,젠타림 엘리트 기사
 zhentarimelitekn,utc,Description,0,"흑네트워크라고도 불리는 젠타림족은 상인들의 그룹으로 시작되었으나, 암살자, 스파이 등으로 군대를 포함하고 있다. 현재 젠타림족은 문스아 강 주변 절반을 통제하고 있으며, 대륙 전역에서 영향력을 높이고 페룬의 서부와 남부 지역에서 입지를 굳혔다. 잘 무장하고 공급되어 있는 젠타림족은 강력한 마법사와 사교가 지원하고 있으며, 대장과 바네의 선출된 선임자가 이끌고 있다."
 zombieboss001,utc,FirstName,0,호르나타스
 zombtyrant001,utc,Description,0,"악의 신들의 사제들과 숭배자들의 유골, 이 좀비들의 부패한 시체들은 불쾌한 녹색 안개가 방출됩니다."
-door_grate001,utd,LocName,0,힘 현장
+door_grate001,utd,LocName,0,역장
 pass_door_rusted,utd,LocName,0,비밀번호로 된 금속 문
 areana_lair,ute,LocalizedName,0,Areana_Lair
 baatezustandard,ute,LocalizedName,0,바테즈 표준
-beholder002,ute,LocalizedName,0,시청자 만남
+beholder002,ute,LocalizedName,0,주시자 인카운터
 demonsstandard,ute,LocalizedName,0,악마 표준
 dragoncultists,ute,LocalizedName,0,용 숭배자
 earth2,ute,LocalizedName,0,지구 2
-fighters,ute,LocalizedName,0,전투기
+fighters,ute,LocalizedName,0,전사
 gargoyles,ute,LocalizedName,0,가르고일
 gargoylesstan001,ute,LocalizedName,0,거고일스 유적
 gargoylesstandar,ute,LocalizedName,0,가르고일스 표준
@@ -11247,7 +11247,7 @@ predators,ute,LocalizedName,0,맹수
 sewerrats,ute,LocalizedName,0,하수도
 spider_spawn,ute,LocalizedName,0,스파운
 spiderspawnin,ute,LocalizedName,0,스파이더 스파윈
-summonedearthele,ute,LocalizedName,0,부른 지구 원자
+summonedearthele,ute,LocalizedName,0,소환된 대지의 원소 정령
 undeadall001,ute,LocalizedName,0,무사 스켈
 undeadzhentarim,ute,LocalizedName,0,죽은 자 젠타림
 warcommander,ute,LocalizedName,0,전쟁 지휘관
@@ -11261,9 +11261,9 @@ ancientnote,uti,Description,0,"이 책에는 ""전화의 검인 엔일로""에 �
 arhe002,uti,LocalizedName,0,기종 헬멧
 arhe004,uti,LocalizedName,0,팔린의 헬멧
 arhe004,uti,DescIdentified,0,발린 리븐스톤은 독특한 헬멧으로 잘 알려져 있었습니다.
-armhe011,uti,LocalizedName,0,황금 회로
+armhe011,uti,LocalizedName,0,황금 관
 armhe011,uti,DescIdentified,0,"정신 을 공격 하는 생물 들 은 악몽 의 물질 이므로 그것 들 을 보호 하는 물건 들 이 그 들 의 명예 를 훼손 할 수 있다는 것 은 놀라운 일 이 아니다. 예를 들어, 골든 서클트 들 은 그 들 이 처음 땅 아래로 물러나자면, 지성 을 삼는 동물 들 을 먹으며, 그런 생물 을 먹으면, 서클레트를 착용 하지 않고 마음 을 날개 하는 사람 을 낳았다고 주장 하는 것 과 연관 되어 왔다. 물론 이 모든 것 은 유신적 인 타버른 이야기 를 지나지 않는다."
-armhe014,uti,LocalizedName,0,경호자 헬멧
+armhe014,uti,LocalizedName,0,감시자의 투구
 armhe014,uti,DescIdentified,0,"이 마법 의 헤드 피스 는 보호자 신 인 헬름 의 신자 들 이 만든 것 인가, 아니면 그 들 이 그 이름 을 더 편리한 상황 으로 얻었는지는 분명 하지 않습니다. 어떤 상황 이든, 그 들 은 경호자 들 과 경호자 들 에게 매우 소중 히 여긴다. 그 들 은 모두 그 어떤 종류 의 가시적 인 빛 을 낸다. 그리고 많은 사람 들 은 마법 으로 착용 하는 사람 의 감각 을 고르게 한다. 말할 필요 없이, 악당 들 은 그 들 을 착용 하기 시작 해 왔으며, '구스 에게 좋은 것 은 똥구멍 에 좋은 것'이라는 옛 속담 을 증명 한다."
 armorofdguard,uti,LocalizedName,0,새벽 경호 의 갑옷
 armorofdguard,uti,Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
@@ -11277,12 +11277,12 @@ armorofluck,uti,DescIdentified,0,이 무장 은 신 들 이 축복 받은 형 �
 armoroftheabbess,uti,LocalizedName,0,아비스의 갑옷
 armourofjinn,uti,LocalizedName,0,진의 갑옷
 arrowofdispellin,uti,LocalizedName,0,추방 의 화살
-arrowofgreaterdi,uti,LocalizedName,0,더 큰 추방 의 화살
+arrowofgreaterdi,uti,LocalizedName,0,상급 주문해제 의 화살
 artosarmor,uti,LocalizedName,0,아토스 갑옷
 artosarmor,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 artoskey,uti,LocalizedName,0,앵무새 - 방 3
-ashmlw006,uti,LocalizedName,0,다스 미러 스킬드
-ashmlw011,uti,LocalizedName,0,큰 방패 +1
+ashmlw006,uti,LocalizedName,0,룰다스 거울 방패
+ashmlw011,uti,LocalizedName,0,대형 방패 +1
 ashmlw011,uti,DescIdentified,0,이 마법의 방패는 착용자에게 추가적인 보호를 제공하지만 특정 제조업체의 특징을 가지고 있지 않습니다.
 ashmsw008,uti,LocalizedName,0,메리스의 방패
 assamasarmour,uti,LocalizedName,0,아사마스의 갑옷
@@ -11294,19 +11294,19 @@ banesword,uti,LocalizedName,0,배너스워드
 banesword,uti,DescIdentified,0,"이 특별 한 긴 검 들 은 헌신적 인 바니트 들 의 손에 더 많은 수의 에 나타나고 있습니다. 이 칼 들 은 바니 의 상징 으로 장식 되어 있기 때문 에, 좋은 사람 들 은 검은 주 의 숭배자 들 의 살해 된 시체 에서 가져오자 그 들 을 휘두르는 데 의 의 의심을 기울였습니다."
 barmaidsoutfit,uti,LocalizedName,0,술집 하녀 의복
 barmaidsoutfit2,uti,LocalizedName,0,술집 하녀 의복
-blackdragonhelm,uti,LocalizedName,0,블랙 드래곤 헬멧
+blackdragonhelm,uti,LocalizedName,0,흑룡 헬름
 blackdragonlance,uti,LocalizedName,0,블랙 드래곤랜스
 blessingofdawn,uti,LocalizedName,0,새벽 의 축복
 blessingofdawn,uti,DescIdentified,0,"새벽의 축복은 아침주인 라탄더에게 전념되어 있습니다. 라탄더의 특별한 적들과, 죽은 자들과 악한 피조물들과 싸우기 위해 특별한 매력을 가지고 있습니다."
-bludragonhelm,uti,LocalizedName,0,블루 드래곤 헬멧
+bludragonhelm,uti,LocalizedName,0,청룡 헬름
 bluedragonlance,uti,LocalizedName,0,블루 드래곤랜스
 bo,uti,LocalizedName,0,보
 boltofholiness,uti,LocalizedName,0,거룩함 의
 boltofslippering,uti,LocalizedName,0,슬리퍼링의 롤
-broochshielding,uti,LocalizedName,0,보호 의 브루치
+broochshielding,uti,LocalizedName,0,차폐의 브로치
 bucklalsgarb,uti,LocalizedName,0,버클라의 갈브
 calandosstaff,uti,LocalizedName,0,캐스탄도 직원
-calmdimingatekey,uti,LocalizedName,0,Calmdimin 게이트 키
+calmdimingatekey,uti,LocalizedName,0,Calmdimin 관문 열쇠
 cellarerrobe,uti,LocalizedName,0,베일러의 옷
 chair,uti,LocalizedName,0,의자
 chair,uti,DescIdentified,0,"이 의자는 별로 무겁지 않지만, 꽤 무겁습니다. 움직일 수 있지만, 다른 것을 들고 다니는 것은 불가능합니다."
@@ -11355,20 +11355,20 @@ fallofmythdranno,uti,LocalizedName,0,드라너 신화의 타락
 fallofmythdranno,uti,Description,0,"어둠의 군대는 그들을 공격했다. 붉은 전쟁은 나무를 통해 격렬했다. 무궁무진한 수의 오크, 호브글린, 그리고 더 나쁜 사람들이 와서 가장 용감한 전사까지 압도했습니다. 방패가 사라지기 전까지. 모든 전사들은 경고를 가져온 몇몇을 제외하고는 살해되었습니다. 헬름그로브 남쪽에는 숲의 불타는 지역이 있었고, 숲의 화살이 있었고, 신화 드란나 마지스가 실제로 파괴적인 주문을 던질 수있었습니다. 이 불타는 언덕에서 도시의 많은 마법사들이 입장을 두었다. 어둠의 군대가 진전하면서, 마법이 그들을 쓰러뜨렸다. 그러나 수백 명씩 쓰러진 경우, 다른 수천 명이 여전히 일어났습니다. 그리고 결국 마지들은 피곤하고, 시골에서 도망쳤고, 오래된 군대가 사라졌습니다. 그러나 어둠의 군대가 도시를 급히 탈출하기 시작했고, 그것을 망치거나 파괴할 수 있는 수천 명의 병사들이 도시와 싸우기 위해 너무 느리거나 너무 느리거나, 약해졌거나, 약해졌거나, 그 동안 철거하거나 철거하는 수천 명의 전사꾼들이 도시를 파괴할 수 밖에 없었습니다."
 fflarsnote,uti,LocalizedName,0,에닐라에 대한 Fflar의 논문
 fflarsnote,uti,Description,0,"""이제 우리 포위 의 이 마지막 시간 에 에닐라 는 아직도 내 를 위해 - 그리고 나 에게 대항 하여 많은 전투 를 벌인 칼 에 대한 마지막 노트 를 남기고 싶습니다. 에닐라 는 공예 와 창의력 에서 태어나지 않았습니다. 그의 부모 는 필요 와 의논 이었습니다. 우리 의 적 들 의 수 가 매일 증가 하고 있다는 것 이 분명 하게 되었을 때, 장로 는 강변 을 우리 편 으로 되돌릴 수 있는 강력한 무기를 만들기로 결정 했습니다. 에닐라 는 그렇게 한 시간 동안 하였다. 그러나 이 미술품 의 창조 는 그 의 대가를 내렸습니다. 그 대상은 기꺼이 지불 한 대가를 내렸습니다. 그들은 단어 를 강화 하기 위해 강력한 영 을 가져갔습니다. 매우 강력한 영, 악한 영. 그리고 이 영 으로, 어둠 의 세 군대의 영 중 한 명 의 영 은 그 칼 의 힘 으로 가져온 좋은 것 이 망하고 부패 된 것 같았습니다. 이제 에닐라 는 우리가 잃어버린 것 이다. 그러나 이 미술품 은 이 날 에 승리 할 수 있는 악의 손 을 잡을 수 있습니다. 그러나 그들은 승리 할 수 있는 악의 손 을 잡을 수 있습니다."
-firebomb,uti,LocalizedName,0,지옥 불 폭탄
+firebomb,uti,LocalizedName,0,지옥의 화염 폭탄
 gasgren,uti,LocalizedName,0,가스 기뢰
 goldenidol,uti,LocalizedName,0,골든 아이돌
 greasebomb,uti,LocalizedName,0,기름 폭탄
 greasebomb,uti,DescIdentified,0,이 작은 병은 지방 같은 액체로 가득 차 있습니다.
-guild_cage_key,uti,LocalizedName,0,케이지 키
+guild_cage_key,uti,LocalizedName,0,우리 열쇠
 gundlarsarmuor,uti,LocalizedName,0,군들러의 갑옷
 gundlarsarmuor,uti,Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
 haunspeir,uti,LocalizedName,0,하운스피어
 haunspeir,uti,DescIdentified,0,네버윈터 마법사의 이름을 따서 이름 붙여진 햄스페이어는 담배와 비슷한 페이스트로 판매되거나 약 형태로 건조된다. 마법사와 다른 사람들이 빠르게 자신의 지능을 자랑해야 한다. 타입: 섭취된 DC12 초기 효과: 1d4 포인트 피해 2차 효과: 1d4 + 1 부너스 인텔리전스 1d10 + 15 분 동안. 부작용: 목표에 대한 모든 절단 및 피어싱 피해는 추가 포인트를 얻습니다. 과다 복용량: 24 시간 이내에 1 개 이상 복용하면 목표가 즉각적으로 2d4 포인트 피해를 겪습니다 (보유하지 않습니다) 중독: 낮은
 headdefense,uti,LocalizedName,0,방어 머리띠
 headdefense,uti,DescIdentified,0,"이 아이템은 처음에는 단순한 헤드밴드처럼 보이지만, 겉으로 보이지 않는 힘 필드로 착용자를 둘러싸고 있으며, 평범한 갑옷처럼 보호를 제공합니다."
-holysymbolofmala,uti,LocalizedName,0,말라르의 신성 상징
-holywaterofshaun,uti,LocalizedName,0,샤운다쿨의 거룩한 물
+holysymbolofmala,uti,LocalizedName,0,말라르의 신성한 상징
+holywaterofshaun,uti,LocalizedName,0,샤운드칼의 성수
 holywaterofshaun,uti,DescIdentified,0,이 의식적 수용용은 바람의 라이더인 선두쿨의 상징으로 덮여 있습니다.
 hotclothes,uti,LocalizedName,0,뜨거운 옷
 hotclothes001,uti,LocalizedName,0,뜨거운 옷
@@ -11389,29 +11389,29 @@ ironskel,uti,LocalizedName,0,레넌의 갑옷
 ironskel,uti,Description,0,이 갑옷은 가죽 위에 금속 뼈의 집합이 될 것 같습니다.
 islifsshield,uti,LocalizedName,0,이슬리프의 방패
 islifsshield001,uti,LocalizedName,0,카지프의 방패
-it_creitem031,uti,LocalizedName,0,MD 가르고일 성질
-it_creitemdr017,uti,LocalizedName,0,튀어나오는 검은 드래곤의 특성
-it_creitemdr018,uti,LocalizedName,0,튀어나오는 푸른 드래곤의 특성
-it_creitemdr019,uti,LocalizedName,0,래곤 특성
-it_creitemdr020,uti,LocalizedName,0,은 드래곤 속성
-it_creitemdr021,uti,LocalizedName,0,튀어나오는 녹색 드래곤의 특성
-it_creitemdr022,uti,LocalizedName,0,튀어나오는 붉은 드래곤 특성
-it_creitemdr023,uti,LocalizedName,0,튀어나오는 백색 드래곤의 특성
-it_creitemdr024,uti,LocalizedName,0,구리 드래곤 속성
-it_creitemdr025,uti,LocalizedName,0,기 금 드래곤 속성
-it_creitemdr026,uti,LocalizedName,0,은 드래곤 속성
+it_creitem031,uti,LocalizedName,0,MD 가고일 속성
+it_creitemdr017,uti,LocalizedName,0,흑룡 에르치링 재산
+it_creitemdr018,uti,LocalizedName,0,청룡 에르치링 재산
+it_creitemdr019,uti,LocalizedName,0,튀어나온 청동 용 속성
+it_creitemdr020,uti,LocalizedName,0,울창한 청동기 용 속성
+it_creitemdr021,uti,LocalizedName,0,초록색 용 속성
+it_creitemdr022,uti,LocalizedName,0,튀어나오는 레드 용 속성
+it_creitemdr023,uti,LocalizedName,0,튀어나오는 흰 용 속성
+it_creitemdr024,uti,LocalizedName,0,구리 용 속성
+it_creitemdr025,uti,LocalizedName,0,용 속성 골드
+it_creitemdr026,uti,LocalizedName,0,울창한 은 용 속성
 it_crewps013,uti,LocalizedName,0,배아 드래곤 가 물린 것
 it_crewpsp012,uti,LocalizedName,0,웅덩어리 드래곤 클라
-it_crewpsp013,uti,LocalizedName,0,MD 윌 오 위스 쇼크
+it_crewpsp013,uti,LocalizedName,0,MD 도깨비불 충격
 it_mbracer012,uti,LocalizedName,0,비중적 인 공격의 브레이커
 it_mbracer012,uti,DescIdentified,0,이 브레저들은 한때 드라너 신화의 뱀파이어 신부인 나흐노투에 속해 있었다.
-it_mpotion025,uti,LocalizedName,0,중요 한 상처 를 치료 하는 약
+it_mpotion025,uti,LocalizedName,0,치명적인 상처 치료의 물약
 it_mpotion025,uti,DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-it_mpotion026,uti,LocalizedName,0,중소 한 상처 를 치료 하는 약
+it_mpotion026,uti,LocalizedName,0,일반 상처 치료의 물약
 it_mpotion026,uti,DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
-it_mpotion027,uti,LocalizedName,0,황새 의 힘 의 약
+it_mpotion027,uti,LocalizedName,0,황소의 근력 물약
 it_mpotion027,uti,DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-it_mpotion028,uti,LocalizedName,0,바르크스킨 투약
+it_mpotion028,uti,LocalizedName,0,나무껍질 피부의 물약
 it_mpotion028,uti,DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
 it_mring006,uti,LocalizedName,0,죽은 자들의 반지
 it_mring007,uti,LocalizedName,0,에보커의 반지
@@ -11430,7 +11430,7 @@ jhessailsrobe,uti,LocalizedName,0,제사일 의복
 jhessailsstaff,uti,LocalizedName,0,제사일의 직원들
 jhessailsstaff,uti,DescIdentified,0,"이 종류 의 스태프 는 미묘 한 마법사 들 에게 매우 필요 한 보호 를 제공한다. 각 예 를 따라 방어 수준 은 달라지지만, 모두 유용 하다. 대부분 은 사용 이 아닌 악명 을 위해 만들어진 특정 제작자 의 표지 를 가지고 있지 않다."
 jhuild,uti,LocalizedName,0,일드
-jhuild,uti,DescIdentified,0,"""트롤웨인""이라고도 불리는 쥬일드 (Jhuild) 은 서마르쉬 근처에서 자라는 특정 포도, 과일 및 허브로 만든 어두운 붉은색 음료입니다. 노예 소유자와 감독은 이 음료를 사용하여 포로들이 열심히 일하는 동안 그들의 의지와 마음을 둔화시키는 것을 강화합니다. 섭취: DC-15 초기 효과: 1 포인트 무지한 지혜의 손해 2차 효과: 섭취자는 1d3 시간 동안 힘에 +2 보너스를 얻습니다. 부작용: 사용자는 효과의 기간 동안 제안에 대해 의심할 수 있습니다. 이것은 의지 절약과 정신에 대한 의심의 효과를 감소시킵니다. 과다 복용: 중독: 없습니다."
+jhuild,uti,DescIdentified,0,"트롤웨인 (Thrullwine) 이라고도 불리는 쥬일드는 수르마쉬 근처에서 자라는 특정 포도, 과일 및 허브로 만든 어두운 붉은색의 맥주입니다. 노예 소유자와 감독은 이 음료를 사용하여 포로가 열심히 일하는 동안 그들의 의지와 마음을 둔화시키는 것을 강화합니다. 섭취: DC-15 초기 효과: 1 포인트 무지한 지혜 손해 2차적 효과가: 투입자는 1d3 시간 동안 힘에 +2 보너스를 얻습니다. 부작용: 사용자는 효과를 지속하는 기간 동안 제안에 대해 의심 할 것입니다. 이것은 의사 절약이 감소하고 정신영향에 대한 의혹을 유발한다. 과다 복용량: 중독: 아무 것도 없습니다"
 kammarth,uti,LocalizedName,0,카마르트
 kammarth,uti,DescIdentified,0,"파워 또는 베이지 색 젤리로 판매되는 캄마르트는 희귀한 숲 뿌리와 언더더크 곰팡이의 조합으로 만들어집니다. 그것은 일시적으로 속도와 반응 시간을 증가시킵니다. 타입: 접촉 DC10 초기 효과: 표적이 1d4+1분 동안 공포 주문의 영향 아래있는 것처럼 행동합니다. 2차 효과: 1d10+20분 동안 Dexterity에 +2 보너스 부작용: 캄마르트는 자극제이며, 따라서 사용자에게 무한한 에너지와 행복감을 제공합니다. 그러나 2차 효과 감소하면, 표적이 1d10분 동안 -1에서 Dexterity로 고통받습니다. 과다 복용: 8시간 동안 더 이상 복용하면 표적이 1d4 포인트 이상 손상되어 2분 동안 마비됩니다."
 katakuda,uti,LocalizedName,0,카타쿠다
@@ -11454,11 +11454,11 @@ lantanesewarcann,uti,Description,0,"""고드 의 숭배 와 마법 을 피 하�
 lantanesewarcann,uti,DescIdentified,0,"""고드 의 숭배 를 받고 마법 을 피 하는 곳""이라는 란탄 의 이야기 를 들 수 있다. 대부분의 사람 들 은 란탄 은 시계 기계 와 지옥 의 장치 들 이 제작자 들 의 지시 를 따라 큰 기적 과 공포 를 일으키는 이상한 그리고 위험 한 곳 이라고 하는 소문 을 넘어서 거의 알지 못한다. 이 마법 이 없는 크로스bow 같은 전포 는 금속 총 을 발사 한다. 이 무기 는 매우 정확 하지 않음에도 불구하고 성공 한 타격 은 큰 피해 를 초래 한다."
 lessermaceoflath,uti,LocalizedName,0,아침주사의 작은 마이스
 lessermaceoflath,uti,DescIdentified,0,아마도 라탄다르의 사제들 중 가장 인기 있는 무기가 될 수도 있습니다. 아침주님의 mace는 죽은 자들의 재앙입니다.
-lessershieldh001,uti,LocalizedName,0,거룩 한 자 의 작은 방패
-lessershieldholy,uti,LocalizedName,0,거룩 한 자 의 작은 방패
+lessershieldh001,uti,LocalizedName,0,작은 성령의 방패
+lessershieldholy,uti,LocalizedName,0,작은 성령의 방패
 librarianhide,uti,LocalizedName,0,도서관자 재산
 llurellasgarb,uti,LocalizedName,0,류렐라스의 골프
-maarcl005,uti,LocalizedName,0,가죽 장갑 + 5
+maarcl005,uti,LocalizedName,0,가죽 갑옷 + 5
 maarcl005,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 maarcl036,uti,LocalizedName,0,GNOME 체인메일
 maarcl036,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
@@ -11470,7 +11470,7 @@ maarcl041,uti,LocalizedName,0,Drow 체인메일
 maarcl041,uti,DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 maarcl043,uti,LocalizedName,0,Drow 체인메일
 maarcl043,uti,DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-maarcl108,uti,LocalizedName,0,가죽 장갑 +1
+maarcl108,uti,LocalizedName,0,가죽 갑옷 +1
 maarcl108,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 maarcl109,uti,LocalizedName,0,피우비엔의 갑옷
 maarcl109,uti,Description,0,이 체인메일 의복은 하우스 테트니스의 높은 계급의 귀족들을 위해 만들어졌다는 것을 분명히 알 수 있습니다.
@@ -11488,7 +11488,7 @@ matasoutfit,uti,LocalizedName,0,마타의 옷
 mcloth015,uti,LocalizedName,0,트리안데르의 전투복
 mcloth015,uti,DescIdentified,0,"엘미스터, 블랙스태프, 그리고 타이의 붉은 마법사의 능력에 대해 듣기 때문에 죽을 정도로 아픈 클라펜 포티어 (Klaphen Fortier) 는 강력하지만 비교적 알려지지 않은 마법사였다. 그의 희망은 젊고 무관심한 마법사들이 자신들에게 이름을 알리려는 희망으로 더 강력한 마법사들을 도전하도록 격려 될 수 있다는 것이었다."
 mdbonegolemclaw,uti,LocalizedName,0,바네고레름 갈고리
-mdbonegolemhide,uti,LocalizedName,0,골름 스카이드
+mdbonegolemhide,uti,LocalizedName,0,뼈 골렘 히드
 mechanicalclock,uti,LocalizedName,0,기계 시계
 mechanicalclock,uti,DescIdentified,0,이 이상한 기계 장치 는 시간을 계산 합니다. 마법 이 없으나 여러 바퀴와 움직이는 부분 을 가지고 있습니다.
 merithsrapier,uti,LocalizedName,0,메리스의 래피어
@@ -11498,29 +11498,29 @@ mirimarsbody,uti,LocalizedName,0,미리마르의 시체가
 mirimarsbody,uti,Description,0,"이 시체는 래퍼 마그 미리마르의 시체입니다. 그는 미스 드라너의 유적에 들어가면서 함정에 갇혔습니다. 두 친구 모두, 미스 드라너의 기사와 그의 적은 다른 목적을 위해 그것을 손에 넣고 싶어합니다."
 mirimarsstaff,uti,LocalizedName,0,미르마르의 직원
 mordaynvapor,uti,LocalizedName,0,모데인 증기
-mordaynvapor,uti,DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브의 대략 지은 잎으로 만들어지는 모다인은 끓는 물에 약간의 양을 담아내고 그 결과 차의 증기를 흡입하여 만들어지는 만큼 강력하다. 원료 모다인 파워와 모다인 은 물은 치명적인 독이다. 파우더를 직접 섭취하거나 차를 마시는 것은 즉각적인 과다 복용을 일으킨다. 꿈의 안개는 아름다운 비전을 유발하고, 치명적인 위험성을 포옹하는 것으로 유명하다. 유형: 흡입 DC17 초기 효과: 외상적인 비전은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또한 비전은 사용자가 자신이 원하는 양을 잃게 만들 수 있는 50%의 확률이 있습니다."
+mordaynvapor,uti,DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브를 대략 지은 잎으로 만들어져 있는 모르데이인은 끓는 물에 약간의 양을 담아내고 그 결과 나오는 차의 증기를 흡입하여 만들어진 만큼 강력하다. 원료 모르테인 파워와 모르데이인이 마른 물이 치명적인 독이다; 먼지를 직접 섭취하거나 차를 마시는 것은 즉각적으로 과다 복용을 일으킨다. 꿈의 안개가 아름다운 비전을 유발하고, 그것이 포옹하는 치명적 위험성 때문에 유명합니다. 타입: 호흡된 창 DC17 초기 효과: 외상적인 환상은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또 50%의 확률로 사용자들이 원하는 양의 아름다움을 잃게 만들 수 있다 (저주 부여larary에 대한 의사결정)."
 mordaynvapor10d,uti,LocalizedName,0,텐데이 부분 모데인 증기
-mordaynvapor10d,uti,DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브의 대략 지은 잎으로 만들어지는 모다인은 끓는 물에 약간의 양을 담아내고 그 결과 차의 증기를 흡입하여 만들어지는 만큼 강력하다. 원료 모다인 파워와 모다인 은 물은 치명적인 독이다. 파우더를 직접 섭취하거나 차를 마시는 것은 즉각적인 과다 복용을 일으킨다. 꿈의 안개는 아름다운 비전을 유발하고, 치명적인 위험성을 포옹하는 것으로 유명하다. 유형: 흡입 DC17 초기 효과: 외상적인 비전은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또한 비전은 사용자가 자신이 원하는 양을 잃게 만들 수 있는 50%의 확률이 있습니다."
+mordaynvapor10d,uti,DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브를 대략 지은 잎으로 만들어져 있는 모르데이인은 끓는 물에 약간의 양을 담아내고 그 결과 나오는 차의 증기를 흡입하여 만들어진 만큼 강력하다. 원료 모르테인 파워와 모르데이인이 마른 물이 치명적인 독이다; 먼지를 직접 섭취하거나 차를 마시는 것은 즉각적으로 과다 복용을 일으킨다. 꿈의 안개가 아름다운 비전을 유발하고, 그것이 포옹하는 치명적 위험성 때문에 유명합니다. 타입: 호흡된 창 DC17 초기 효과: 외상적인 환상은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또 50%의 확률로 사용자들이 원하는 양의 아름다움을 잃게 만들 수 있다 (저주 부여larary에 대한 의사결정)."
 mythalghostclaw,uti,LocalizedName,0,신화 귀신 손톱
 mythalghostskin,uti,LocalizedName,0,신화적인 유령 피부
-mythallar,uti,LocalizedName,0,미탈러
-mythallarlolt02,uti,LocalizedName,0,미탈러
+mythallar,uti,LocalizedName,0,미살라
+mythallarlolt02,uti,LocalizedName,0,미살라
 mythallarlolt02,uti,Description,0,"이 미탈라를 창조한 것은 네테릴의 아크메가 아세레라크에 의해 만들어졌으며 그는 마침내 졸음의 집단에 의해 패배할 때까지 수천 년 동안 자연스럽지 않은 삶을 유지했습니다. 미탈라를 사용하는 것은 어렵고 그것에 대한 많은 지식은 시간의 깊이에 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 세 가지 능력을 가지고 있습니다."
-mythallarlolt03,uti,LocalizedName,0,미탈러
+mythallarlolt03,uti,LocalizedName,0,미살라
 mythallarlolt03,uti,Description,0,"이 미탈라르는 네테릴의 아크메이지 아세레라크가 만들어 냈고, 마침내 마취의 집단에 의해 패배할 때까지 수천 년 동안 자연스럽지 않은 삶을 유지했습니다. 미탈라르의 사용은 어렵고 그에 대한 많은 지식은 시간의 깊이에 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 네 가지 능력을 가지고 있습니다."
-mythallarlolth,uti,LocalizedName,0,미탈러
+mythallarlolth,uti,LocalizedName,0,미살라
 mythallarlolth,uti,Description,0,"이 미탈라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 마취의 집단에 의해 패배했다. 미탈라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
-mythallarmiel,uti,LocalizedName,0,미탈러
+mythallarmiel,uti,LocalizedName,0,미살라
 mythallarmiel,uti,Description,0,"이 미탈라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 마취의 집단에 의해 패배했다. 미탈라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
-mythallarmiel02,uti,LocalizedName,0,미탈러
+mythallarmiel02,uti,LocalizedName,0,미살라
 mythallarmiel02,uti,Description,0,"이 미탈라를 창조한 것은 네테릴의 아크메가 아세레라크에 의해 만들어졌으며 그는 마침내 졸음의 집단에 의해 패배할 때까지 수천 년 동안 자연스럽지 않은 삶을 유지했습니다. 미탈라를 사용하는 것은 어렵고 그것에 대한 많은 지식은 시간의 깊이에 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 세 가지 능력을 가지고 있습니다."
-mythallarmiel03,uti,LocalizedName,0,미탈러
+mythallarmiel03,uti,LocalizedName,0,미살라
 mythallarmiel03,uti,Description,0,"이 미탈라르는 네테릴의 아크메이지 아세레라크가 만들어 냈고, 마침내 마취의 집단에 의해 패배할 때까지 수천 년 동안 자연스럽지 않은 삶을 유지했습니다. 미탈라르의 사용은 어렵고 그에 대한 많은 지식은 시간의 깊이에 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 네 가지 능력을 가지고 있습니다."
-mythallarvhae02,uti,LocalizedName,0,미탈러
+mythallarvhae02,uti,LocalizedName,0,미살라
 mythallarvhae02,uti,Description,0,"이 미탈라를 창조한 것은 네테릴의 아크메가 아세레라크에 의해 만들어졌으며 그는 마침내 졸음의 집단에 의해 패배할 때까지 수천 년 동안 자연스럽지 않은 삶을 유지했습니다. 미탈라를 사용하는 것은 어렵고 그것에 대한 많은 지식은 시간의 깊이에 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 세 가지 능력을 가지고 있습니다."
-mythallarvhae03,uti,LocalizedName,0,미탈러
+mythallarvhae03,uti,LocalizedName,0,미살라
 mythallarvhae03,uti,Description,0,"이 미탈라르는 네테릴의 아크메이지 아세레라크가 만들어 냈고, 마침내 마취의 집단에 의해 패배할 때까지 수천 년 동안 자연스럽지 않은 삶을 유지했습니다. 미탈라르의 사용은 어렵고 그에 대한 많은 지식은 시간의 깊이에 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 네 가지 능력을 가지고 있습니다."
-mythallarvhaer,uti,LocalizedName,0,미탈러
+mythallarvhaer,uti,LocalizedName,0,미살라
 mythallarvhaer,uti,Description,0,"이 미탈라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 마취의 집단에 의해 패배했다. 미탈라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
 nachnoturobe,uti,LocalizedName,0,나흐노투 의복
 nachnoturobe,uti,DescIdentified,0,이 옷은 신화 드라너의 뱀파이어 왕인 나흐노투의 옷이었는데
@@ -11528,10 +11528,10 @@ necronomicon,uti,LocalizedName,0,네크로노미콘
 necronomicon,uti,Description,0,이 큰 책에는 악의 압도적인 분위기가 담겨 있습니다. 파란트 파린은 그의 힘을 이용해
 neomersrobe,uti,LocalizedName,0,네오미 의복
 nooblesgoodarmor,uti,LocalizedName,0,귀족 의 좋은 무장
-onaglymvaultkey,uti,LocalizedName,0,오나그림 밸브 키
-onaglymvaultkey2,uti,LocalizedName,0,오나그림 밸브 키
-onaglymvaultkey3,uti,LocalizedName,0,오나그림 밸브 키
-onaglymvaultkey4,uti,LocalizedName,0,오나그림 밸브 키
+onaglymvaultkey,uti,LocalizedName,0,오나그림 금고 열쇠
+onaglymvaultkey2,uti,LocalizedName,0,오나그림 금고 열쇠
+onaglymvaultkey3,uti,LocalizedName,0,오나그림 금고 열쇠
+onaglymvaultkey4,uti,LocalizedName,0,오나그림 금고 열쇠
 oneofsevenacid,uti,LocalizedName,0,일곱 명 중 한 명 (산)
 oneofsevencold,uti,LocalizedName,0,일곱 명 중 한 명 (냉다)
 oneofsevenenergy,uti,LocalizedName,0,7명 중 1명 (에너지)
@@ -11554,7 +11554,7 @@ raggenote,uti,LocalizedName,0,찢어진 노트
 raggenote,uti,DescIdentified,0,"난 여기 갇혀 있어, 내려갈 길이 없어 벽에 있는 글씨를 해독해봤어. 마법의 단어가 있었다:"
 rashemni,uti,LocalizedName,0,랜턴의 칼
 razorsedge,uti,LocalizedName,0,래저의 가장자리
-razorsedge,uti,DescIdentified,0,이 종류의 긴 검은 거짓의 왕자 키릭의 추종자들의 특별한 무기입니다. 모든 종류의 암살에 완벽하게 균형 잡힌 것입니다.
+razorsedge,uti,DescIdentified,0,이런 긴 검은 키릭의 추종자인 거짓의 대공들의 특별한 무기입니다.
 reddragonhelm,uti,LocalizedName,0,레드 드래곤 헬멧
 reddragonlance,uti,LocalizedName,0,레드 드래곤랜스
 rhul,uti,DescIdentified,0,쓴 후 맛을 가진 매운 붉은 액체인 (Battle Wine) 는 주의와 민첩성의 희생으로 신체적 능력과 공격력을 증가시키는 원인이 된다. 유형: 삼켜진 DC15 초기 효과: 사용자는 힘과 헌법에 +4 보너스를 얻지만 1d20 + 20 분 동안 AC에 -2 벌금을 당한다.
@@ -11590,13 +11590,13 @@ staffofdarkness,uti,LocalizedName,0,어둠의 막대
 staffofdarkness,uti,DescIdentified,0,"이 종류 의 스태프 는 미묘 한 마법사 들 에게 매우 필요 한 보호 를 제공한다. 각 예 를 따라 방어 수준 은 달라지지만, 모두 유용 하다. 대부분 은 사용 이 아닌 악명 을 위해 만들어진 특정 제작자 의 표지 를 가지고 있지 않다."
 staffofsage,uti,LocalizedName,0,지혜 의 직원
 staffofthedragon,uti,LocalizedName,0,드래곤의 직원
-stonetoflesh,uti,LocalizedName,0,기름 돌 을 육신 에 넣는 것
-stool,uti,LocalizedName,0,배설기
+stonetoflesh,uti,LocalizedName,0,석화 해제 기름
+stool,uti,LocalizedName,0,등받이 없는 의자
 stool,uti,DescIdentified,0,대변은 가볍지만 다리가 계속 방해를 받습니다.
 stormbow,uti,LocalizedName,0,스톰보
 swordofshadows,uti,LocalizedName,0,그림자의 검
 swordofshadows,uti,DescIdentified,0,"이 검은 바람의 라이더인 샤운다쿨의 아바타르에 의해 부여되었다. 샤운다쿨은 한때 북부의 인간들 사이에서 매우 인기를 끌었고, ""지원하는 손""으로 잘 알려져 있었다. 그는 급한 눈을 가진 지도자였으며, 북부의 숨겨진 도리와 길을 지적했으며, 행운과 전투 가치를 필요로 하는 예배자들에게 가져다 주었다."
-symbaerncryptkey,uti,LocalizedName,0,심베른 암호 열쇠
+symbaerncryptkey,uti,LocalizedName,0,심베른 납골당 열쇠
 thecatlash,uti,LocalizedName,0,캐틀라시
 thelaeneumkey,uti,LocalizedName,0,테레네움 키
 themirror,uti,LocalizedName,0,거울
@@ -11605,29 +11605,29 @@ trappersgauntlet,uti,LocalizedName,0,트래퍼 장갑
 trappersgauntlet,uti,DescIdentified,0,이 장갑은 익사 선구자의 함정을 설정하는 능력을 향상시키기 위해 만들어졌습니다.
 twistedarmordawn,uti,LocalizedName,0,새벽 경호 의 왜곡 된 갑옷
 twistedarmordawn,uti,Description,0,이 갑옷의 은은 진정성 있는 빛으로 빛나는 것 같습니다.
-wammbo005,uti,LocalizedName,0,피어싱의
+wammbo005,uti,LocalizedName,0,관통의 쇠뇌화살
 wammbo005,uti,DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
-wammbo009,uti,LocalizedName,0,가벼운 독성 발작
+wammbo009,uti,LocalizedName,0,약한 독 쇠뇌화살
 wammbo009,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo012,uti,LocalizedName,0,독성 발트
+wammbo012,uti,LocalizedName,0,독 쇠뇌화살
 wammbo012,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo013,uti,LocalizedName,0,독성 발트
+wammbo013,uti,LocalizedName,0,독 쇠뇌화살
 wammbo013,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo014,uti,LocalizedName,0,독성 발트
+wammbo014,uti,LocalizedName,0,독 쇠뇌화살
 wammbo014,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 water001,uti,LocalizedName,0,물
 waxmbt010,uti,LocalizedName,0,센티널+5
 waxmhn009,uti,LocalizedName,0,아이스 리버 +1
-waxmhn009,uti,DescIdentified,0,이 무기에는 왜성 마로크의 표적이 있습니다.
+waxmhn009,uti,DescIdentified,0,이 무기는 네버윈터의 빛나는 기사 무기점 스미스 마로크 쟁이의 표적을 가지고 있습니다.
 wblfl003,uti,LocalizedName,0,뱀 들 의 불꽃
 wblfl003,uti,DescIdentified,0,이 무기 는 익사자 들 에게만 사용 되는 독특한 무기 중 하나 이다. 성공적 인 히트 는 타오르는 산 을 목표 에 주입 하여 끔찍한 고통 을 초래 하지만 너무 많은 상처를 입지 않는다. 이 무기 는 다른 생명체 들 에게 고통 과 고통 을 가져다 주는 즐거움 을 발견 하는 익사자 여성 들 가운데 가장 좋아하는 무기 중 하나 이다.
 wblmfh009,uti,LocalizedName,0,수확기 +1
-wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기와 갑옷의 마크스미트 마록의 표적을 지니고 있습니다. 그는 1373 DR 초기에 그것을 만들어, 그의 격리된 도시를 이른바 울음소리 죽음의 독성적인 포수로부터 해방시키려는 영웅들을 돕기 위해 만들었습니다."
+wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 알도 (Neverwinter's 빛나는 기사 무기점) 의 마크스메이트, 왜로인 마르록의 표적을 가지고 있다. 그는 1373년 DR 초반에 동굴을 만들어서 그의 격리된 도시를 이른바 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblmhw003,uti,LocalizedName,0,기놈 워햄어
 wblmhw003,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 wblmhw012,uti,LocalizedName,0,'드로우 돔'
 wblmhw012,uti,DescIdentified,0,이 무기는 드로우를 죽이기 위해 특별히 설계되었습니다.
-wblmml009,uti,LocalizedName,0,병사 의 능력
+wblmml009,uti,LocalizedName,0,병사의 힘
 wblmml009,uti,DescIdentified,0,"알가로운드 군대의 중위원 들 은 이 무기 를 받았다고 한다. 하지만 그 무기 의 설계 에 대한 결점 에 대해 알려지지 않았다. 많은 와일더 들 은 죽었지만 모두 용감 하게 싸웠으며, 왕국 의 영웅 의 명예를 받았다. 이 결함적 인 무기 에 대한 책임 있는 장군 들 은 처벌 을 피할 수 있었고, 오늘날 그들은 존경 받는 죽은 사람 가운데 기억된다."
 wblmml010,uti,LocalizedName,0,장애의 메이스 +2
 wblmml010,uti,DescIdentified,0,아마도 라탄더의 사제들 사이에서 가장 인기 있는 무기가 될 수도 있습니다. 파괴의 mace는 죽은 자들의 재앙입니다. Thay에서 그러한 무기를 들고 있던 마지막 사제자는 Szazz Tam에 의해 잡혀 비 종으로 변하기 전에 살아서 죽었다고 한다.
@@ -11636,12 +11636,12 @@ wblmms010,uti,DescIdentified,0,이 Morningstar은 드라너 신화의 네이드�
 wbwln002,uti,LocalizedName,0,노블의 롱보
 wbwmxl003,uti,LocalizedName,0,기종 크로스보
 wbwmxl003,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wbwxl003,uti,LocalizedName,0,가벼운 크로스보
-wbwxl003,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
-wbwxl004,uti,LocalizedName,0,가벼운 크로스보
-wbwxl004,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
-wbwxl005,uti,LocalizedName,0,가벼운 크로스보
-wbwxl005,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+wbwxl003,uti,LocalizedName,0,경쇠뇌
+wbwxl003,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
+wbwxl004,uti,LocalizedName,0,경쇠뇌
+wbwxl004,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
+wbwxl005,uti,LocalizedName,0,경쇠뇌
+wbwxl005,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 westerncitygatek,uti,LocalizedName,0,웨스턴 시티게이트 키
 whitedragonhelm,uti,LocalizedName,0,화이트 드래곤 헬멧
 whitedragonlance,uti,LocalizedName,0,백색 드래곤랜스
@@ -11660,14 +11660,14 @@ wswmdg011,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이�
 wswmdg012,uti,LocalizedName,0,칼 + 1
 wswmdg012,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 wswmka010,uti,LocalizedName,0,검 성자의 유산 +4
-wswmka010,uti,DescIdentified,0,이 무기는 베오루나의 우스그르트 마을의 임시 도금에서 일하는 쟁기 바룬의 표적을 가지고 있습니다.
+wswmka010,uti,DescIdentified,0,이 무기는 베오룬나의 우물 우스그르트 마을의 임시 도금융장에서 일했던 쟁기 바룬 (Barun) 의 표적을 지니고 있습니다.
 wswmls012,uti,LocalizedName,0,아스트랄 블레이드 +4
 wswmrp006,uti,LocalizedName,0,나마라 (잠자 없는 사람) +6
 wswmsc004,uti,LocalizedName,0,스키미터 +1
 wswmsc004,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 wthmdt011,uti,LocalizedName,0,Dart+1
 wthmdt011,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wthmdt012,uti,LocalizedName,0,아시드 다트
+wthmdt012,uti,LocalizedName,0,산성 표창
 wthmdt012,uti,DescIdentified,0,"이 도살 들 은 그 들 의 주위 에 고 말 할 수 없는 냄새 를 맡고 있으며, 그 끝 에서 는 소음 이 들리기도 합니다."
 zhentarimhelmcp,uti,LocalizedName,0,젠타림 헬멧
 zhentarimhelmet,uti,LocalizedName,0,젠타림 헬멧
@@ -11678,7 +11678,7 @@ zhq_lab_entry,uti,LocalizedName,0,Z 본부
 ziran,uti,LocalizedName,0,지란
 ziran,uti,DescIdentified,0,"이 지방, 붉은 잎은 씹을 때 우유 汁을 방출한다. 汁은 통증제이며, 때로는 극심하거나 만성 통증을 앓고있는 사람들에게 사용됩니다. 감각을 마비시키고 약물로 유발된 에 빠져있는 중독자들은 더 큰 복용량으로 사용합니다. 타입: 섭취된 DC17 초기 효과: 사용자가 1 라운드 동안 두 번째 효과: 사용자는 1d3 시간 동안 더 많은 1d4 포인트를 얻습니다. 부작용: 2 번째 효과가 발생하면 사용자가 1 시간 동안 -2을 앓습니다. 이것은 사용자가 스스로 행동하는 것을 보는 외부 경험을 가지고 있기 때문입니다. 과다 복용량: 중독성: 높습니다."
 blueprint,utm,LocName,0,자르너의 책 가게
-blueprint001,utm,LocName,0,빅린의 일반 매장
+blueprint001,utm,LocName,0,빅린의 일반 상점
 blueprint002,utm,LocName,0,나단 의 약점
 dalorstore,utm,LocName,0,다롤 매장
 emrocksgemstore,utm,LocName,0,에마크스 보석점
@@ -11687,9 +11687,9 @@ nathansstore,utm,LocName,0,네이탄 스토어
 noriancestore,utm,LocName,0,노리언스 스토어
 storeweap002,utm,LocName,0,나텔의 표준 매장
 storeweap003,utm,LocName,0,나텔의 특별 매장
-bench001,utp,LocName,0,벤치
+bench001,utp,LocName,0,긴의자
 bench001,utp,Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
-bench002,utp,LocName,0,벤치
+bench002,utp,LocName,0,긴의자
 bench002,utp,Description,0,이 벤치의 탄탄한 보드들은 수년 동안 사용되어 부드럽게 사용되었습니다.
 bloodstain001,utp,LocName,0,피의 얼룩1
 bloodstain001,utp,Description,0,피의 웅덩이가 이 곳에 흔적을 남깁니다.
@@ -11730,18 +11730,19 @@ impledhead005,utp,LocName,0,바구니
 impledhead005,utp,Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
 impledhead006,utp,LocName,0,4테일러
 impledhead006,utp,Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
-impledhead007,utp,LocName,0,스파이크
+impledhead007,utp,LocName,0,가시못
 impledhead007,utp,Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
 impledhead008,utp,LocName,0,스파이크 A
 impledhead008,utp,Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
 impledhead009,utp,LocName,0,2
 impledhead009,utp,Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
+impledhead010,utp,LocName,0,고사리
 impledhead010,utp,Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
 impledhead011,utp,LocName,0,드럼
 impledhead011,utp,Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
 impledhead012,utp,LocName,0,부시퍼렌
 impledhead012,utp,Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
-invisobj001,utp,LocName,0,앉아요
+invisobj001,utp,LocName,0,앉다
 invisobj001,utp,Description,0,주의 깊게 보면 앉을 수 있는 장소를 볼 수 있습니다.
 moveablewater,utp,LocName,0,이동수
 movechair,utp,LocName,0,이동식 의자
@@ -11750,16 +11751,16 @@ movestool,utp,LocName,0,움직일 수 있는 대변
 movestool,utp,Description,0,이 대변은 충분히 가벼워 보이지만 적어도 바닥에 묶여 있지 않습니다.
 pl_hiddendr005,utp,LocName,0,특수 트래프ドア 트리거
 plate001,utp,LocName,0,보울
-plate002,utp,LocName,0,접시
+plate002,utp,LocName,0,판금
 plate003,utp,LocName,0,치즈
 plate004,utp,LocName,0,사과
 plate005,utp,LocName,0,골든 컵
 plate006,utp,LocName,0,보울
-plate007,utp,LocName,0,접시
-plc_phylact001,utp,LocName,0,미탈러
+plate007,utp,LocName,0,판금
+plc_phylact001,utp,LocName,0,미살라
 roundrugorien008,utp,LocName,0,타페스트리
 roundrugorien010,utp,LocName,0,타페스트리
-roundrugorien017,utp,LocName,0,목재
+roundrugorien017,utp,LocName,0,나무
 roundrugorien019,utp,LocName,0,타페스트리
 roundrugorien023,utp,LocName,0,병
 roundrugorien029,utp,LocName,0,사과
@@ -11780,7 +11781,7 @@ roundrugorien043,utp,LocName,0,도로 교차
 roundrugorien044,utp,LocName,0,도로 교차
 roundrugorien045,utp,LocName,0,도로 곡선
 roundrugorien046,utp,LocName,0,도로 곡선
-roundrugorien047,utp,LocName,0,도로
+roundrugorien047,utp,LocName,0,길
 roundrugorien048,utp,LocName,0,돌
 roundrugorien049,utp,LocName,0,바빌론 드래곤
 roundrugorien050,utp,LocName,0,바빌론 사자
@@ -11788,12 +11789,12 @@ roundrugorien051,utp,LocName,0,바빌론 경호
 spelltarget,utp,LocName,0,주문목표
 spikea,utp,LocName,0,스파이크 A
 spikea001,utp,LocName,0,스파이크 B
-stool001,utp,LocName,0,배설기
+stool001,utp,LocName,0,등받이 없는 의자
 stool001,utp,Description,0,"한 다리가 약간 느슨해 보이는데, 배설기가 얼마나 오래 지속될지 궁금합니다."
 teleport_active,utp,Description,0,파란색 빛의 화려한 축이 위에서 보이지 않는 곳에서 내려오고 있습니다.
-throneevil001,utp,LocName,0,왕좌
+throneevil001,utp,LocName,0,옥좌
 throneevil001,utp,Description,0,높은 뒷받침의 왕좌는 그림자에서 나오고 주의를 끌고 있습니다. 그 디자인에 있는 무언가가 당신의 마음을 공포로 가득 차 있습니다.
-thronegood001,utp,LocName,0,왕좌
+thronegood001,utp,LocName,0,옥좌
 thronegood001,utp,Description,0,황금 의 의자 는 마법 으로든 역사 의 무게 로든 자신감 과 권위 를 발휘 한다. 이 의자 는 자신 의 의자라고 부르는 통치자 들 은 현명 하다.
 tirnanog_tree001,utp,LocName,0,TN_Tree_Spruce_A_Mdm
 tirnanog_tree002,utp,LocName,0,TN_Tree_Spruce_A_Sml
@@ -11890,9 +11891,9 @@ tirnanog_treepac,utp,LocName,0,TN_Tree_Spruce_A_Lrg
 tres_goldmed002,utp,LocName,0,보물
 water,utp,LocName,0,물
 woodgrate001,utp,LocName,0,비밀 저장소
-woodoven001,utp,LocName,0,소화장
+woodoven001,utp,LocName,0,벽난로
 woodoven001,utp,Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
-woodoven002,utp,LocName,0,소화장
+woodoven002,utp,LocName,0,벽난로
 woodoven002,utp,Description,0,고구려 연기와 신선한 빵의 냄새가 흙의 오븐에서 솟아오르고 입에 물을 내리게 됩니다.
 sewergloops001,uts,LocName,0,문 잠금
 0weak001,utt,LocalizedName,0,맹성 함정
@@ -11919,4 +11920,4 @@ intro,utt,LocalizedName,0,인트로
 intro001,utt,LocalizedName,0,호랑이 동굴
 intro002,utt,LocalizedName,0,호랑이
 intro003,utt,LocalizedName,0,가스 터널
-toamysteriouscav,utt,LocalizedName,0,신비 한 동굴
+toamysteriouscav,utt,LocalizedName,0,신비한 동굴

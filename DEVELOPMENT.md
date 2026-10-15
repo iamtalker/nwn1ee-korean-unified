@@ -108,3 +108,9 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
 - **v0.1.11 수정**: 커뮤니티 캠페인 번역은 `override/` 가 아니라 `문서\development/` 에 설치한다. 게임 문서(패치노트 v79)에 따르면 override 는
   HAK 같은 ERF 컨테이너 **아래**라 모듈/NWSync 리소스를 덮지 못하고, development 가 검색 경로 최상단이다. (v0.1.7~0.1.10 의 커뮤니티 번역은 그래서 영어로 나왔음)
 - 알려진 한계: NPC 머리 위 말풍선(SpeakString)·스크립트 메시지는 컴파일된 `.ncs` 안에 있어 아직 영어다. 다음 과제: NCS 문자열 상수 치환(점프 오프셋 재계산 필요).
+
+## v0.1.12 (용어집 적용 완료)
+- 용어집(`tools/build_glossary.py`, `apply_glossary.py`)을 premium 9종 + 커뮤니티 10종에 적용(정확 일치 약 2,400, 문장 속 용어 재번역 약 1,400). 교정(`corr_global/ddf/darkranger/toheirishuman`)은 그 위에 다시 적용.
+- 커뮤니티에 **Crimson Tides of Tethyr**(7,743행), **Siege of Shadowdale**(3,414행) 추가.
+- 남은 커뮤니티 번역 중: Defender of the Crown, Return of the Ironlord, Aielund 1~3, Almraiven, Cult of the Reptile God 2.0, Shadewood. 끝나면 `community_pack.py` → 복사 → `CommunityModule` 추가.
+- 다음 과제: (1) NCS 문자열 치환(NPC 머리 위 말풍선), (2) 용어집 재번역은 `--retranslate` 가 CPU 를 오래 쓰므로 새 모듈은 번역 직후 한 번에.

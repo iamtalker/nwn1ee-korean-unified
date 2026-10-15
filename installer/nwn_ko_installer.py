@@ -659,8 +659,8 @@ ITEMS = {i.id: i for i in [
     CommunityModule("c_nature", "Nature Abhors a Vacuum", "Nature_Abhors_a_Vacuum"),
     Todo("c_aielund", "Aielund Saga"),
     Todo("c_auren", "Auren Saga"),
-    Todo("c_tethyr", "Crimson Tides of Tethyr"),
-    Todo("c_shadowdale", "Siege of Shadowdale"),
+    CommunityModule("c_tethyr", "Crimson Tides of Tethyr", "Crimson_Tides_of_Tethyr_Enhanced_Edition"),
+    CommunityModule("c_shadowdale", "Siege of Shadowdale", "Siege_of_Shadowdale_Enhanced_Edition"),
     Todo("c_reptile", "Cult of the Reptile God"),
 ]}
 

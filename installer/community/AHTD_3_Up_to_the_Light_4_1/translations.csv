@@ -4,14 +4,14 @@ battlesite001,are,Name,0,북부 무역도
 beholdercave,are,Name,0,보너스 동굴
 blockedtunnels,are,Name,0,차단된 터널
 caverns,are,Name,0,동굴
-corridor,are,Name,0,통로
+corridor,are,Name,0,복도
 driderlair,are,Name,0,드라이더 래어
-drowcamp,are,Name,0,드로 캠프
-drowcamp001,are,Name,0,드로 캠프
+drowcamp,are,Name,0,드로우 야영지
+drowcamp001,are,Name,0,드로우 야영지
 dwarvenmaze,are,Name,0,난쟁이 Maze
 greathall,are,Name,0,위대한 홀
 hobgoblinlair,are,Name,0,버그베어 라어
-illithidlair,are,Name,0,포털
+illithidlair,are,Name,0,차원문
 illithidlair002,are,Name,0,일리티드 라어
 innermaze001,are,Name,0,내부 Maze
 spidercave,are,Name,0,스파이더 동굴
@@ -337,7 +337,7 @@ hanxam_1,dlg,EntryList/4/Text,0,"""그놈을 본 적 없어 전투장에서 찾�
 hanxam_1,dlg,EntryList/5/Text,0,"""바다를 따라가면 뼈가 가득한 넓은 곳을 발견하게 될 것이며 이 곳은 익사자와 그들의 적들 사이의 마지막 전투의 장소가 될 것이다""."
 hanxam_1,dlg,EntryList/6/Text,0,"""나는 그곳에 들어본 적 없어. 하지만 svirfneblin은 모든 비용으로 그것을 피한다. 이 내가 아는 것뿐입니다. 다른 어떤?"""
 hanxam_1,dlg,EntryList/7/Text,0,"<StartAction>[ 지루하게 되는 것]</Start>#""불더크의 일반적인 혼합물"""
-hanxam_1,dlg,EntryList/8/Text,0,<StartAction>[숨]</Start>######################################################################################################################################################################################################################################################
+hanxam_1,dlg,EntryList/8/Text,0,"<StartAction>[Sighs]</Start> ""내 숨기는 곳의 서쪽에는 움버 헐크 유적이 있습니다. 남쪽에 건조꾼들이 있고, 스윙프네블린들은 이 동굴들을 일종의 무역도로로 사용하고 있어요""."
 hanxam_1,dlg,EntryList/9/Text,0,"""너 돌아왔어, 그 무시무시한 미지개미의 뇌를 가져 오겠니?"""
 hanxam_1,dlg,EntryList/10/Text,0,마인드플레이어가 끝나면 돌아오세요.
 hanxam_1,dlg,EntryList/11/Text,0,"""거래소, 내가 썩은 상인처럼 보이시나요?"""
@@ -781,9 +781,9 @@ nelad_2,dlg,ReplyList/53/Text,0,"""이 마법의 수련 체인 셔츠 +1""는 �
 nelad_2,dlg,ReplyList/54/Text,0,"""이 천연자료 아뮬렛+3은 어때?"""
 nelad_2,dlg,ReplyList/55/Text,0,"""그래서 가져가라. 하지만 내가 경고한다. 이 동굴에서 우리가 발견한 모든 것 중 이 것은 네 몫이다."
 nelad_2,dlg,ReplyList/56/Text,0,"""자연적인 아미렛+2은 어떨까요?"""
-nelad_2,dlg,ReplyList/57/Text,0,"""보호 반지+3은 어때?"""
+nelad_2,dlg,ReplyList/57/Text,0,"""이 보호의 반지+3은 어때?"""
 nelad_2,dlg,ReplyList/58/Text,0,"""그래서 가져가라. 하지만 내가 경고하네. 이 터널에서 발견되는 모든 것 중 이건 네 몫이야""."
-nelad_2,dlg,ReplyList/60/Text,0,"""보호 반지+2은 어때?"""
+nelad_2,dlg,ReplyList/60/Text,0,"""이 보호의 반지+2는 어때?"""
 nelad_2,dlg,ReplyList/61/Text,0,"""그래서 가져가라. 하지만 내가 경고하네. 이 터널에서 발견되는 모든 것 중 이건 네 몫이야""."
 nelad_2,dlg,ReplyList/63/Text,0,"""그래서 뭘 원하냐?"""
 ormus_1,dlg,EntryList/0/Text,0,"""일마테르가 그들의 방황한 영혼들에게 자비를 베풀어 주옵소서""."
@@ -1107,12 +1107,12 @@ thriandir_4,dlg,ReplyList/57/Text,0,우리는 표면에 향하고 있을 것 같
 thriandir_4,dlg,ReplyList/59/Text,0,"지금은 모르겠지만, 정해진 시간에 지도자가 알려줄 겁니다."
 astrangevisio001,git,Creature List/0/FirstName,0,롤트
 astrangevisio001,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,롯의 숨기는 곳
-astrangevisio001,git,Creature List/1/FirstName,0,마이너
-astrangevisio001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,1d4
-astrangevisio001,git,Creature List/2/FirstName,0,마이너
-astrangevisio001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,1d4
-astrangevisio001,git,Creature List/3/FirstName,0,마이너
-astrangevisio001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,1d4
+astrangevisio001,git,Creature List/1/FirstName,0,드라이더
+astrangevisio001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,물기1d4
+astrangevisio001,git,Creature List/2/FirstName,0,드라이더
+astrangevisio001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,물기1d4
+astrangevisio001,git,Creature List/3/FirstName,0,드라이더
+astrangevisio001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,물기1d4
 astrangevisio001,git,TriggerList/0/LocalizedName,0,trigger_area0_monsters
 astrangevisio001,git,WaypointList/0/LocalizedName,0,이정표
 astrangevisio001,git,WaypointList/1/LocalizedName,0,이정표
@@ -1127,25 +1127,25 @@ astrangevisio001,git,WaypointList/9/LocalizedName,0,l_webcenter3
 astrangevisio001,git,WaypointList/10/LocalizedName,0,l_webcenter4
 battlesite001,git,Creature List/0/FirstName,0,시움
 battlesite001,git,Creature List/0/LastName,0,네트
-battlesite001,git,Creature List/1/FirstName,0,스켈레톤 전사
+battlesite001,git,Creature List/1/FirstName,0,해골 전사
 battlesite001,git,Creature List/1/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/2/FirstName,0,스켈레톤 전사
+battlesite001,git,Creature List/2/FirstName,0,해골 전사
 battlesite001,git,Creature List/2/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/3/FirstName,0,스켈레톤 마지
+battlesite001,git,Creature List/3/FirstName,0,해골 마법사
 battlesite001,git,Creature List/3/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/4/FirstName,0,스켈레톤 마지
+battlesite001,git,Creature List/4/FirstName,0,해골 마법사
 battlesite001,git,Creature List/4/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/5/FirstName,0,스켈레톤 전사
+battlesite001,git,Creature List/5/FirstName,0,해골 전사
 battlesite001,git,Creature List/5/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/6/FirstName,0,스켈레톤 전사
+battlesite001,git,Creature List/6/FirstName,0,해골 전사
 battlesite001,git,Creature List/6/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/7/FirstName,0,스켈레톤 전사
+battlesite001,git,Creature List/7/FirstName,0,해골 전사
 battlesite001,git,Creature List/7/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/8/FirstName,0,스켈레톤 전사
+battlesite001,git,Creature List/8/FirstName,0,해골 전사
 battlesite001,git,Creature List/8/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/9/FirstName,0,스켈레톤 전사
+battlesite001,git,Creature List/9/FirstName,0,해골 전사
 battlesite001,git,Creature List/9/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
-battlesite001,git,Creature List/10/FirstName,0,스켈레톤 전사
+battlesite001,git,Creature List/10/FirstName,0,해골 전사
 battlesite001,git,Creature List/10/Description,0,죽은 자들의 뼈는 암흑 마술에 의해 생동감받으며 스켈레톤은 자신만의 정신이 없습니다. 그들은 그들의 주인 의지의 확장물일 뿐입니다.
 battlesite001,git,Encounter List/1/LocalizedName,0,무사 스켈
 battlesite001,git,Encounter List/2/LocalizedName,0,무사 스켈
@@ -1168,7 +1168,7 @@ battlesite001,git,Placeable List/8/LocName,0,뼈
 battlesite001,git,Placeable List/8/Description,0,땅 위에 비친 인간형 뼈의 슬픈 무리가 있었다.
 battlesite001,git,Placeable List/9/LocName,0,뼈
 battlesite001,git,Placeable List/9/Description,0,땅 위에 비친 인간형 뼈의 슬픈 무리가 있었다.
-battlesite001,git,Placeable List/15/LocName,0,바퀴
+battlesite001,git,Placeable List/15/LocName,0,마차 바퀴
 battlesite001,git,Placeable List/15/Description,0,"바퀴는 어디까지나 갈 곳이 없고, 거기까지 갈 수단도 없다."
 battlesite001,git,Placeable List/17/LocName,0,뼈
 battlesite001,git,Placeable List/17/Description,0,땅 위에 비친 인간형 뼈의 슬픈 무리가 있었다.
@@ -1346,23 +1346,23 @@ battlesite001,git,Placeable List/106/LocName,0,뼈
 battlesite001,git,Placeable List/106/Description,0,땅 위에 비친 인간형 뼈의 슬픈 무리가 있었다.
 battlesite001,git,Placeable List/107/LocName,0,뼈
 battlesite001,git,Placeable List/107/Description,0,땅 위에 비친 인간형 뼈의 슬픈 무리가 있었다.
-battlesite001,git,Placeable List/131/LocName,0,피라클레리
+battlesite001,git,Placeable List/131/LocName,0,성구함
 battlesite001,git,Placeable List/131/Description,0,낮은 기둥은 알라바스터 흰색으로 빛나고 그 둥지를 가로질러 그림자가 연주한다.
-battlesite001,git,Placeable List/132/LocName,0,사코파거
+battlesite001,git,Placeable List/132/LocName,0,석관
 battlesite001,git,Placeable List/132/Description,0,사코파거의 무거운 덮개는 장식되지 않은 돌로 만들어졌습니다.
 battlesite001,git,Placeable List/132/ItemList/5/LocalizedName,0,추방 의 막대
 battlesite001,git,Placeable List/132/ItemList/6/LocalizedName,0,시움의 두개골
 battlesite001,git,Placeable List/132/ItemList/6/DescIdentified,0,이것은 메노베르란잔의 대장인 시움 넷의 두개골입니다.
-battlesite001,git,Placeable List/133/LocName,0,바퀴
+battlesite001,git,Placeable List/133/LocName,0,마차 바퀴
 battlesite001,git,Placeable List/133/Description,0,"바퀴는 어디까지나 갈 곳이 없고, 거기까지 갈 수단도 없다."
-battlesite001,git,Placeable List/134/LocName,0,바퀴
+battlesite001,git,Placeable List/134/LocName,0,마차 바퀴
 battlesite001,git,Placeable List/134/Description,0,"바퀴는 어디까지나 갈 곳이 없고, 거기까지 갈 수단도 없다."
-battlesite001,git,Placeable List/135/LocName,0,바퀴
+battlesite001,git,Placeable List/135/LocName,0,마차 바퀴
 battlesite001,git,Placeable List/135/Description,0,"바퀴는 어디까지나 갈 곳이 없고, 거기까지 갈 수단도 없다."
-battlesite001,git,Placeable List/136/LocName,0,바퀴
+battlesite001,git,Placeable List/136/LocName,0,마차 바퀴
 battlesite001,git,Placeable List/136/Description,0,"바퀴는 어디까지나 갈 곳이 없고, 거기까지 갈 수단도 없다."
-beholdercave,git,Creature List/0/FirstName,0,스비르프네블린
-beholdercave,git,Creature List/0/LastName,0,전투기
+beholdercave,git,Creature List/0/FirstName,0,스버프네블린
+beholdercave,git,Creature List/0/LastName,0,전사
 beholdercave,git,Creature List/0/Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
 beholdercave,git,Creature List/0/ItemList/3/LocalizedName,0,기종 크로스보
 beholdercave,git,Creature List/0/ItemList/3/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
@@ -1374,10 +1374,10 @@ beholdercave,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,GNOME 체인�
 beholdercave,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 beholdercave,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,기놈 워햄어
 beholdercave,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-beholdercave,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,피어싱의
+beholdercave,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,관통의 쇠뇌화살
 beholdercave,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
-beholdercave,git,Creature List/1/FirstName,0,스비르프네블린
-beholdercave,git,Creature List/1/LastName,0,전투기
+beholdercave,git,Creature List/1/FirstName,0,스버프네블린
+beholdercave,git,Creature List/1/LastName,0,전사
 beholdercave,git,Creature List/1/Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
 beholdercave,git,Creature List/1/ItemList/3/LocalizedName,0,기종 크로스보
 beholdercave,git,Creature List/1/ItemList/3/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
@@ -1389,28 +1389,28 @@ beholdercave,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,GNOME 체인�
 beholdercave,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 beholdercave,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,기놈 워햄어
 beholdercave,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-beholdercave,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,피어싱의
+beholdercave,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,관통의 쇠뇌화살
 beholdercave,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
-beholdercave,git,Creature List/2/FirstName,0,고블린 엘리트
+beholdercave,git,Creature List/2/FirstName,0,고블린 정예
 beholdercave,git,Creature List/2/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-beholdercave,git,Creature List/3/FirstName,0,마이너
+beholdercave,git,Creature List/3/FirstName,0,드라이더
 beholdercave,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,장작품 롱스word
 beholdercave,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
-beholdercave,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,1d4
-beholdercave,git,Creature List/4/FirstName,0,마이너
+beholdercave,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,물기1d4
+beholdercave,git,Creature List/4/FirstName,0,드라이더
 beholdercave,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,장작품 롱스word
 beholdercave,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
-beholdercave,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,1d4
-beholdercave,git,Creature List/5/FirstName,0,마이너
+beholdercave,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,물기1d4
+beholdercave,git,Creature List/5/FirstName,0,드라이더
 beholdercave,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,장작품 롱스word
 beholdercave,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
-beholdercave,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,1d4
-beholdercave,git,Creature List/6/FirstName,0,마이너
+beholdercave,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,물기1d4
+beholdercave,git,Creature List/6/FirstName,0,드라이더
 beholdercave,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,장작품 롱스word
 beholdercave,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
-beholdercave,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,1d4
-beholdercave,git,Creature List/7/FirstName,0,스비르프네블린
-beholdercave,git,Creature List/7/LastName,0,전투기
+beholdercave,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,물기1d4
+beholdercave,git,Creature List/7/FirstName,0,스버프네블린
+beholdercave,git,Creature List/7/LastName,0,전사
 beholdercave,git,Creature List/7/Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
 beholdercave,git,Creature List/7/ItemList/3/LocalizedName,0,기종 크로스보
 beholdercave,git,Creature List/7/ItemList/3/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
@@ -1422,10 +1422,10 @@ beholdercave,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,GNOME 체인�
 beholdercave,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 beholdercave,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,기놈 워햄어
 beholdercave,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-beholdercave,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,피어싱의
+beholdercave,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,관통의 쇠뇌화살
 beholdercave,git,Creature List/7/Equip_ItemList/3/DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
-beholdercave,git,Creature List/8/FirstName,0,스비르프네블린
-beholdercave,git,Creature List/8/LastName,0,전투기
+beholdercave,git,Creature List/8/FirstName,0,스버프네블린
+beholdercave,git,Creature List/8/LastName,0,전사
 beholdercave,git,Creature List/8/Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
 beholdercave,git,Creature List/8/ItemList/3/LocalizedName,0,기종 크로스보
 beholdercave,git,Creature List/8/ItemList/3/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
@@ -1437,27 +1437,27 @@ beholdercave,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,GNOME 체인�
 beholdercave,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 beholdercave,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,기놈 워햄어
 beholdercave,git,Creature List/8/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-beholdercave,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,피어싱의
+beholdercave,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,관통의 쇠뇌화살
 beholdercave,git,Creature List/8/Equip_ItemList/3/DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
-beholdercave,git,Creature List/9/FirstName,0,고블린 엘리트
+beholdercave,git,Creature List/9/FirstName,0,고블린 정예
 beholdercave,git,Creature List/9/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-beholdercave,git,Creature List/10/FirstName,0,고블린 엘리트
+beholdercave,git,Creature List/10/FirstName,0,고블린 정예
 beholdercave,git,Creature List/10/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-beholdercave,git,Creature List/11/FirstName,0,도블린 장군
+beholdercave,git,Creature List/11/FirstName,0,고블린 족장
 beholdercave,git,Creature List/11/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-beholdercave,git,Creature List/12/FirstName,0,괴물
+beholdercave,git,Creature List/12/FirstName,0,고블린
 beholdercave,git,Creature List/12/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-beholdercave,git,Creature List/13/FirstName,0,괴물
+beholdercave,git,Creature List/13/FirstName,0,고블린
 beholdercave,git,Creature List/13/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-beholdercave,git,Creature List/14/FirstName,0,괴물
+beholdercave,git,Creature List/14/FirstName,0,고블린
 beholdercave,git,Creature List/14/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
 beholdercave,git,Creature List/15/FirstName,0,움버 헐크
-beholdercave,git,Creature List/15/Description,0,거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들은 옴버 헐크가 어디로 가든 파괴의 흔적을 남깁니다.
+beholdercave,git,Creature List/15/Description,0,"거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들, 움버 헐크는 어디로 가든 파괴적인 흔적을 남깁니다."
 beholdercave,git,Creature List/16/FirstName,0,움버 헐크
-beholdercave,git,Creature List/16/Description,0,거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들은 옴버 헐크가 어디로 가든 파괴의 흔적을 남깁니다.
+beholdercave,git,Creature List/16/Description,0,"거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들, 움버 헐크는 어디로 가든 파괴적인 흔적을 남깁니다."
 beholdercave,git,Creature List/17/FirstName,0,한산
-beholdercave,git,Creature List/17/ItemList/0/LocalizedName,0,관측자 눈 (Charm Monster)
-beholdercave,git,Creature List/17/ItemList/1/LocalizedName,0,보는 사람 (마치한 사람)
+beholdercave,git,Creature List/17/ItemList/0/LocalizedName,0,관찰자 눈 (괴물 현혹)
+beholdercave,git,Creature List/17/ItemList/1/LocalizedName,0,관찰자 눈 (사람 현혹)
 beholdercave,git,Creature List/17/ItemList/2/LocalizedName,0,보는 눈 (죽음)
 beholdercave,git,Creature List/17/ItemList/3/LocalizedName,0,보는 눈 (분해)
 beholdercave,git,Creature List/17/ItemList/4/LocalizedName,0,보는 사람 의 눈 (경악)
@@ -1503,13 +1503,13 @@ blockedtunnels,git,TriggerList/2/LocalizedName,0,동굴에 차단
 blockedtunnels,git,TriggerList/3/LocalizedName,0,차단된 사진
 blockedtunnels,git,TriggerList/4/LocalizedName,0,enter_nelad2
 blockedtunnels,git,TriggerList/5/LocalizedName,0,enter_nelad1
-blockedtunnels,git,WaypointList/0/MapNote,0,드로 캠프
+blockedtunnels,git,WaypointList/0/MapNote,0,드로우 야영지
 blockedtunnels,git,WaypointList/1/MapNote,0,동굴
 blockedtunnels,git,WaypointList/2/MapNote,0,발광 노드
-blockedtunnels,git,WaypointList/5/MapNote,0,드로 캠프
+blockedtunnels,git,WaypointList/5/MapNote,0,드로우 야영지
 caverns,git,Creature List/0/FirstName,0,Dras
 caverns,git,Creature List/0/LastName,0,마을사람
-caverns,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,말 머리 헬멧
+caverns,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,말갈기 투구
 caverns,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,롱스워드 +2 파이어버른
 caverns,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 caverns,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,번개 방패
@@ -1518,13 +1518,13 @@ caverns,git,Creature List/1/FirstName,0,네들빈
 caverns,git,Creature List/1/LastName,0,비틀바람
 caverns,git,Creature List/1/ItemList/1/LocalizedName,0,쇼트보 +1 인간 배네
 caverns,git,Creature List/1/ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-caverns,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,운이 좋은 사람
+caverns,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,운 좋은 이
 caverns,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,"이 칼은 누구든 발신한 ""큰 거""에 대한 대전에서 끝없는 사용이 된 스와시벅러의 칼입니다. 럭키 오네스 용병 회사 는 이 칼을 마지막 큰 점수를 통해 여전히 빨아들여서 주문했습니다. 그들의 무사한 후에 그들은 단지 그 흥분을 위해 모험을 했습니다. 점점 더 큰 용기있는 악행을 하기 위해 서로 도전했습니다. 왜 이 무기들은 더 이상 그들과 함께 있지 않습니까? 때로는 ""큰 거""가 승리합니다."
 caverns,git,Creature List/1/Equip_ItemList/7/LocalizedName,0,산 저항 반지
 caverns,git,Creature List/1/Equip_ItemList/7/DescIdentified,0,"가레바르 대담은 평범한 적들로 지쳤을 때, 그는 애비스를 침략하기로 결정했다. 그는 자신의 재산을 모든 형태의 원자적 손해에 대한 증거가 된 반지를 사용했다. 이 유형의 첫 번째 반지. 아무도 반지가 яму의 666 층에서 그를 보호했는지 모른다. 그의 사람들은 열린 포털에서 반란을 일으켰고 그의 장비 없이 그를 밀어 넣었습니다. 그 이후로 그는 아무도 듣지 않았습니다."
-caverns,git,Creature List/1/Equip_ItemList/9/LocalizedName,0,스미머링의 셰스
+caverns,git,Creature List/1/Equip_ItemList/9/LocalizedName,0,희미한 빛의 띠
 caverns,git,Creature List/1/Equip_ItemList/9/DescIdentified,0,"마법사 중밤이 그녀의 능력이 신들 사이에서 자리를 차지할 정도로 커지는 것을 보았을 때, 그녀의 영혼은 직결의 조직에서 마법을 마셨다. 그녀는 상승하여, 그녀의 필사적 자아와 재산을 많이 버렸지만, 그들은 또한 변형되었습니다. 그녀가 착용한 벨트는 너무 많은 에너지를 흡수하여 갈라지고, 많은 조각들 중 하나마다 독자적으로 강력한 아이템이 되었고, 마법 공격으로부터 휘두르는 자를 보호했습니다."
-caverns,git,Creature List/1/Equip_ItemList/10/LocalizedName,0,인간 의 을 뚫는 화살
+caverns,git,Creature List/1/Equip_ItemList/10/LocalizedName,0,관통 화살 휴먼의 방언
 caverns,git,Creature List/1/Equip_ItemList/10/DescIdentified,0,이 화살는 목표물에 깊숙이 찔러 타격을 당하면 추가적인 뚫는 손상을 입게 됩니다.
 caverns,git,Creature List/2/FirstName,0,아시마르
 caverns,git,Creature List/2/LastName,0,승려
@@ -1571,37 +1571,37 @@ corridor,git,WaypointList/1/LocalizedName,0,DST_secret_exit
 corridor,git,WaypointList/1/MapNote,0,홀 출구
 corridor,git,Placeable List/0/LocName,0,숨겨진 벽 문 트리거
 corridor,git,Placeable List/0/Description,0,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
-driderlair,git,Creature List/0/FirstName,0,마이너
-driderlair,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/1/FirstName,0,마이너
-driderlair,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/2/FirstName,0,마이너
-driderlair,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/3/FirstName,0,마이너
-driderlair,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/4/FirstName,0,마이너
-driderlair,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/5/FirstName,0,마이너
-driderlair,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/6/FirstName,0,마이너
-driderlair,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/7/FirstName,0,마이너
-driderlair,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/8/FirstName,0,마이너
-driderlair,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/9/FirstName,0,마이너
-driderlair,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,1d4
+driderlair,git,Creature List/0/FirstName,0,드라이더
+driderlair,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/1/FirstName,0,드라이더
+driderlair,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/2/FirstName,0,드라이더
+driderlair,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/3/FirstName,0,드라이더
+driderlair,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/4/FirstName,0,드라이더
+driderlair,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/5/FirstName,0,드라이더
+driderlair,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/6/FirstName,0,드라이더
+driderlair,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/7/FirstName,0,드라이더
+driderlair,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/8/FirstName,0,드라이더
+driderlair,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/9/FirstName,0,드라이더
+driderlair,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,물기1d4
 driderlair,git,Creature List/10/FirstName,0,이름 없는 지도자
-driderlair,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/11/FirstName,0,마이너
-driderlair,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/12/FirstName,0,마이너
-driderlair,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,1d4
-driderlair,git,Creature List/13/FirstName,0,마이너
-driderlair,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,1d4
+driderlair,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/11/FirstName,0,드라이더
+driderlair,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/12/FirstName,0,드라이더
+driderlair,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,물기1d4
+driderlair,git,Creature List/13/FirstName,0,드라이더
+driderlair,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,물기1d4
 driderlair,git,TriggerList/0/LocalizedName,0,driders_camp
 driderlair,git,TriggerList/1/LocalizedName,0,trigger_driders_start
-driderlair,git,WaypointList/1/MapNote,0,드로 캠프
+driderlair,git,WaypointList/1/MapNote,0,드로우 야영지
 driderlair,git,WaypointList/2/LocalizedName,0,이정표
 driderlair,git,WaypointList/3/LocalizedName,0,이정표
 driderlair,git,WaypointList/4/LocalizedName,0,이정표
@@ -1609,19 +1609,19 @@ driderlair,git,WaypointList/5/LocalizedName,0,이정표
 driderlair,git,WaypointList/6/LocalizedName,0,이정표
 driderlair,git,WaypointList/7/LocalizedName,0,dr_webcenter
 driderlair,git,WaypointList/8/LocalizedName,0,dr_webcenter2
-driderlair,git,Placeable List/0/LocName,0,파손된 카타폴트
+driderlair,git,Placeable List/0/LocName,0,망가진 투석기
 driderlair,git,Placeable List/0/Description,0,이 대폭은 그 자리에 무너진 것 같습니다. 아마도 그 대폭을 원하지 않는 세력들이 물러나서서 그랬을 것입니다.
-driderlair,git,Placeable List/1/LocName,0,파손 된 배팅 램
+driderlair,git,Placeable List/1/LocName,0,망가진 공성 망치
 driderlair,git,Placeable List/1/Description,0,"한 축이 어 버렸는데, 이 은 이 쓸모없어"
-driderlair,git,Placeable List/2/LocName,0,파손된 발리스타
+driderlair,git,Placeable List/2/LocName,0,망가진 노포
 driderlair,git,Placeable List/2/Description,0,이 발리스트의 유해들은 전투장에서 버려져 있었습니다.
-driderlair,git,Placeable List/34/LocName,0,파손된 카타폴트
+driderlair,git,Placeable List/34/LocName,0,망가진 투석기
 driderlair,git,Placeable List/34/Description,0,이 대폭은 그 자리에 무너진 것 같습니다. 아마도 그 대폭을 원하지 않는 세력들이 물러나서서 그랬을 것입니다.
-driderlair,git,Placeable List/35/LocName,0,파손된 발리스타
+driderlair,git,Placeable List/35/LocName,0,망가진 노포
 driderlair,git,Placeable List/35/Description,0,이 발리스트의 유해들은 전투장에서 버려져 있었습니다.
-driderlair,git,Placeable List/36/LocName,0,파손된 카타폴트
+driderlair,git,Placeable List/36/LocName,0,망가진 투석기
 driderlair,git,Placeable List/36/Description,0,이 대폭은 그 자리에 무너진 것 같습니다. 아마도 그 대폭을 원하지 않는 세력들이 물러나서서 그랬을 것입니다.
-driderlair,git,Placeable List/37/LocName,0,파손된 발리스타
+driderlair,git,Placeable List/37/LocName,0,망가진 노포
 driderlair,git,Placeable List/37/Description,0,이 발리스트의 유해들은 전투장에서 버려져 있었습니다.
 driderlair,git,Placeable List/38/LocName,0,버섯Lg
 driderlair,git,Placeable List/39/LocName,0,버섯Lg
@@ -1662,42 +1662,42 @@ driderlair,git,Placeable List/73/LocName,0,버섯Sml
 drowcamp,git,Creature List/0/FirstName,0,피우비엔
 drowcamp,git,Creature List/0/LastName,0,텐스
 drowcamp,git,Creature List/0/Description,0,"피우비엔은 멘조베란잔의 귀족 가문 테트니스의 후손이다. 곤경기 때 이 가문은 멘조베란잔의 첫 귀족 가문인 베엔레 가문과 동맹을 맺었기 때문에 고통받았다. 베엔레 가문의 생존을 위해 대부분의 민병대를 희생하고 재원을 사용하게 된 피우비엔은 현재 매우 취약하고 약하다고 한다. 피우비엔은 야망과 성질과 속임수로 잘 알려져 있다. 이 사냥 여행은 그녀의 치크렐 - 그녀의 ""거짓의 시험""의 일부라고 한다. 당신은 평소보다 더 많은 발걸음을 지켜야합니다."
-drowcamp,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,가죽 장갑 +1
+drowcamp,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,가죽 갑옷 +1
 drowcamp,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,피우비안의 지팡이
-drowcamp,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,큰 방패 +1
+drowcamp,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,대형 방패 +1
 drowcamp,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,이 마법의 방패는 착용자에게 추가적인 보호를 제공하지만 특정 제조업체의 특징을 가지고 있지 않습니다.
 drowcamp,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,피우비엔의 갑옷
 drowcamp,git,Creature List/0/Equip_ItemList/3/Description,0,이 체인메일 의복은 하우스 테트니스의 높은 계급의 귀족들을 위해 만들어졌다는 것을 분명히 알 수 있습니다.
 drowcamp,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"Piewiewiens Chainmail. 이 의복은 가장 훌륭한 아담아티트로 만들어져 있으며, 착용자에게 높은 수준의 보호를 제공하며, 특이한 가볍고 유연하다. 이 의복은 하우스 테트니스의 높은 계급의 귀족들을 위해 만들어진 것으로 분명하게 인식된다."
 drowcamp,git,Creature List/1/FirstName,0,드로우 암살자
 drowcamp,git,Creature List/1/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp,git,Creature List/1/ItemList/5/LocalizedName,0,체인 셔츠 +1
+drowcamp,git,Creature List/1/ItemList/5/LocalizedName,0,사슬 상의 +1
 drowcamp,git,Creature List/1/ItemList/5/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp,git,Creature List/1/ItemList/6/LocalizedName,0,스키미터 +1
 drowcamp,git,Creature List/1/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+drowcamp,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 drowcamp,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+drowcamp,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 drowcamp,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,독성 발트
+drowcamp,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 drowcamp,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp,git,Creature List/2/FirstName,0,드로우 암살자
 drowcamp,git,Creature List/2/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp,git,Creature List/2/ItemList/5/LocalizedName,0,체인 셔츠 +1
+drowcamp,git,Creature List/2/ItemList/5/LocalizedName,0,사슬 상의 +1
 drowcamp,git,Creature List/2/ItemList/5/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp,git,Creature List/2/ItemList/6/LocalizedName,0,스키미터 +1
 drowcamp,git,Creature List/2/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+drowcamp,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 drowcamp,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+drowcamp,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 drowcamp,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,독성 발트
+drowcamp,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 drowcamp,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp,git,Creature List/3/FirstName,0,드로우 민병대
 drowcamp,git,Creature List/3/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp,git,Creature List/3/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp,git,Creature List/3/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp,git,Creature List/3/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp,git,Creature List/3/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp,git,Creature List/3/ItemList/1/LocalizedName,0,장작품 롱스word
 drowcamp,git,Creature List/3/ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 drowcamp,git,Creature List/3/ItemList/2/LocalizedName,0,칼 + 1
@@ -1705,12 +1705,12 @@ drowcamp,git,Creature List/3/ItemList/2/DescIdentified,0,이 마법 무기는 �
 drowcamp,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,마법 저항 14
-drowcamp,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,가벼운 독성 발작
+drowcamp,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp,git,Creature List/4/FirstName,0,드로우 민병대
 drowcamp,git,Creature List/4/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp,git,Creature List/4/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp,git,Creature List/4/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp,git,Creature List/4/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp,git,Creature List/4/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp,git,Creature List/4/ItemList/1/LocalizedName,0,장작품 롱스word
 drowcamp,git,Creature List/4/ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 drowcamp,git,Creature List/4/ItemList/2/LocalizedName,0,칼 + 1
@@ -1718,12 +1718,12 @@ drowcamp,git,Creature List/4/ItemList/2/DescIdentified,0,이 마법 무기는 �
 drowcamp,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,마법 저항 14
-drowcamp,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,가벼운 독성 발작
+drowcamp,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp,git,Creature List/5/FirstName,0,드로우 민병대
 drowcamp,git,Creature List/5/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp,git,Creature List/5/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp,git,Creature List/5/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp,git,Creature List/5/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp,git,Creature List/5/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp,git,Creature List/5/ItemList/1/LocalizedName,0,장작품 롱스word
 drowcamp,git,Creature List/5/ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 drowcamp,git,Creature List/5/ItemList/2/LocalizedName,0,칼 + 1
@@ -1731,12 +1731,12 @@ drowcamp,git,Creature List/5/ItemList/2/DescIdentified,0,이 마법 무기는 �
 drowcamp,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,마법 저항 14
-drowcamp,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,가벼운 독성 발작
+drowcamp,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp,git,Creature List/5/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp,git,Creature List/6/FirstName,0,드로우 민병대
 drowcamp,git,Creature List/6/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp,git,Creature List/6/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp,git,Creature List/6/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp,git,Creature List/6/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp,git,Creature List/6/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp,git,Creature List/6/ItemList/1/LocalizedName,0,장작품 롱스word
 drowcamp,git,Creature List/6/ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 drowcamp,git,Creature List/6/ItemList/2/LocalizedName,0,칼 + 1
@@ -1744,7 +1744,7 @@ drowcamp,git,Creature List/6/ItemList/2/DescIdentified,0,이 마법 무기는 �
 drowcamp,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,마법 저항 14
-drowcamp,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,가벼운 독성 발작
+drowcamp,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp,git,Creature List/6/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp,git,Creature List/7/FirstName,0,롤미어
 drowcamp,git,Creature List/7/LastName,0,일프키어
@@ -1756,38 +1756,38 @@ drowcamp,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,드로우 무장�
 drowcamp,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,아나셀보
 drowcamp,git,Creature List/7/Equip_ItemList/1/Description,0,"이 칼은 완벽하게 균형 잡혀 있고, 선명하게 걸작으로 인식될 수 있습니다."
 drowcamp,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,드림다릴은 한때 테샤네벨의 가장 선호하는 무기였다. 테샤네벨은 스비르프네블린 세력에 대한 습격 중에 실종되기 전까지 용기와 뛰어난 전투 기술을 가진 무기의 주인이었다.
-drowcamp,git,Creature List/7/Equip_ItemList/4/LocalizedName,0,Drow 레벨 20의 성질
+drowcamp,git,Creature List/7/Equip_ItemList/4/LocalizedName,0,드로우 레벨 20 속성
 drowcamp,git,Creature List/8/FirstName,0,알크라날
 drowcamp,git,Creature List/8/LastName,0,'저'ein
 drowcamp,git,Creature List/8/Description,0,알크라날 주니어인 (Al'kranal Jr'ein) 는 멜레 마가테레의 최신 직업의 가장 장식된 날카로운 슈팅 선수 중 한 명이다. 그는 그의 킨스 감각과 칼에 대한 재능으로 잘 알려져 있습니다.
-drowcamp,git,Creature List/8/ItemList/8/LocalizedName,0,루비 크로스보
+drowcamp,git,Creature List/8/ItemList/8/LocalizedName,0,루비 쇠뇌
 drowcamp,git,Creature List/8/ItemList/8/DescIdentified,0,"이 보석 물품의 첫 번째 예는 기념비적인 장식용으로 만들어졌으며, 사용이 의도되지 않았습니다. 그러나 실험은 무기 건설에 사용되는 이상한 루비에서 에너지를 방출함으로써 목표물에 큰 공포를 심어주었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌습니다. 그리고 그 이후 무기도 여러 번 복제되었습니다."
-drowcamp,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,속도의 체인메일
+drowcamp,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,속도의 사슬갑옷
 drowcamp,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳건히 믿었고, 그는 그의 체인메일 오브 스피드의 도움으로 수십 번의 전투에서 그것을 증명했습니다. 비행의 예술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사자의 순위에 결코 멀리 도달하지 못했습니다."
 drowcamp,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,날카로운
 drowcamp,git,Creature List/8/Equip_ItemList/3/DescIdentified,0,"최근 몇 년 동안, 몇몇 도둑 조합은 이 칼에 의해 멤버를 잃었다고 보고했다. 피해자의 가슴에 잔혹한 서명으로 남겨진 무기. 그 뒤에 있는 공예가 알려지지 않았지만, 그들을 사용하는 집단의 의도는 충분히 분명했다: 자신의 확장을 촉진하기 위해 기존 그룹을 불안정화하기 위해. 그러나 마지막 살인 이후 몇 년이 지났고, 침입이 포기되었거나 폭력적인 수단으로 성공했다는 것을 암시합니다. 지하 지역 사회의 구성원들은 정보를 제공하지 않았습니다."
 drowcamp,git,Creature List/8/Equip_ItemList/4/LocalizedName,0,마법 저항 16
-drowcamp,git,Creature List/8/Equip_ItemList/6/LocalizedName,0,마비된 발트
+drowcamp,git,Creature List/8/Equip_ItemList/6/LocalizedName,0,마비의 쇠뇌화살
 drowcamp,git,Creature List/8/Equip_ItemList/6/DescIdentified,0,이 유형의 볼트는 목표물을 놀라게 할 수 있습니다. 하지만 전력과 기간은 볼트의 크리에이터의 힘에 의해 결정됩니다.
-drowcamp,git,Creature List/8/Equip_ItemList/7/LocalizedName,0,Drow 레벨 1의 성질
+drowcamp,git,Creature List/8/Equip_ItemList/7/LocalizedName,0,드로우 레벨 1 속성
 drowcamp,git,Creature List/9/FirstName,0,드로우 암살자
 drowcamp,git,Creature List/9/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp,git,Creature List/9/ItemList/5/LocalizedName,0,체인 셔츠 +1
+drowcamp,git,Creature List/9/ItemList/5/LocalizedName,0,사슬 상의 +1
 drowcamp,git,Creature List/9/ItemList/5/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp,git,Creature List/9/ItemList/6/LocalizedName,0,스키미터 +1
 drowcamp,git,Creature List/9/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+drowcamp,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 drowcamp,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+drowcamp,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 drowcamp,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,독성 발트
+drowcamp,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 drowcamp,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp,git,TriggerList/0/LocalizedName,0,거미들의 캠프
 drowcamp,git,TriggerList/1/LocalizedName,0,좌측으로 차단
 drowcamp,git,TriggerList/2/LocalizedName,0,trigger_question
-drowcamp,git,TriggerList/3/LocalizedName,0,새로운 지역 전환
-drowcamp,git,TriggerList/4/LocalizedName,0,새로운 일반제
-drowcamp,git,WaypointList/0/MapNote,0,드로 캠프
+drowcamp,git,TriggerList/3/LocalizedName,0,뉴 에이리어 트랜지션
+drowcamp,git,TriggerList/4/LocalizedName,0,새 일반
+drowcamp,git,WaypointList/0/MapNote,0,드로우 야영지
 drowcamp,git,WaypointList/1/MapNote,0,차단된 터널
 drowcamp,git,WaypointList/2/MapNote,0,차단된 터널
 drowcamp,git,WaypointList/3/MapNote,0,버그베어 라어
@@ -1801,28 +1801,28 @@ drowcamp,git,WaypointList/10/LocalizedName,0,wp_5_piew2
 drowcamp,git,WaypointList/11/LocalizedName,0,wp_5_g6
 drowcamp,git,WaypointList/12/LocalizedName,0,wp_5_g7
 drowcamp,git,WaypointList/13/LocalizedName,0,이정표
-drowcamp,git,Placeable List/0/LocName,0,스파이크
-drowcamp,git,Placeable List/1/LocName,0,스파이크
-drowcamp,git,Placeable List/2/LocName,0,스파이크
-drowcamp,git,Placeable List/3/LocName,0,스파이크
-drowcamp,git,Placeable List/4/LocName,0,스파이크
-drowcamp,git,Placeable List/5/LocName,0,스파이크
-drowcamp,git,Placeable List/6/LocName,0,스파이크
-drowcamp,git,Placeable List/7/LocName,0,스파이크
-drowcamp,git,Placeable List/8/LocName,0,스파이크
-drowcamp,git,Placeable List/9/LocName,0,스파이크
-drowcamp,git,Placeable List/10/LocName,0,스파이크
-drowcamp,git,Placeable List/11/LocName,0,스파이크
-drowcamp,git,Placeable List/12/LocName,0,스파이크
-drowcamp,git,Placeable List/13/LocName,0,스파이크
-drowcamp,git,Placeable List/14/LocName,0,스파이크
-drowcamp,git,Placeable List/15/LocName,0,스파이크
-drowcamp,git,Placeable List/16/LocName,0,스파이크
-drowcamp,git,Placeable List/17/LocName,0,스파이크
+drowcamp,git,Placeable List/0/LocName,0,가시못
+drowcamp,git,Placeable List/1/LocName,0,가시못
+drowcamp,git,Placeable List/2/LocName,0,가시못
+drowcamp,git,Placeable List/3/LocName,0,가시못
+drowcamp,git,Placeable List/4/LocName,0,가시못
+drowcamp,git,Placeable List/5/LocName,0,가시못
+drowcamp,git,Placeable List/6/LocName,0,가시못
+drowcamp,git,Placeable List/7/LocName,0,가시못
+drowcamp,git,Placeable List/8/LocName,0,가시못
+drowcamp,git,Placeable List/9/LocName,0,가시못
+drowcamp,git,Placeable List/10/LocName,0,가시못
+drowcamp,git,Placeable List/11/LocName,0,가시못
+drowcamp,git,Placeable List/12/LocName,0,가시못
+drowcamp,git,Placeable List/13/LocName,0,가시못
+drowcamp,git,Placeable List/14/LocName,0,가시못
+drowcamp,git,Placeable List/15/LocName,0,가시못
+drowcamp,git,Placeable List/16/LocName,0,가시못
+drowcamp,git,Placeable List/17/LocName,0,가시못
 drowcamp001,git,Creature List/0/FirstName,0,드로우 민병대
 drowcamp001,git,Creature List/0/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/0/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp001,git,Creature List/0/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp001,git,Creature List/0/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp001,git,Creature List/0/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp001,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,장작품 롱스word
@@ -1830,12 +1830,12 @@ drowcamp001,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,이 롱스워�
 drowcamp001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,칼 + 1
 drowcamp001,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,마법 저항 14
-drowcamp001,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,가벼운 독성 발작
+drowcamp001,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp001,git,Creature List/0/Equip_ItemList/4/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/1/FirstName,0,드로우 민병대
 drowcamp001,git,Creature List/1/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/1/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp001,git,Creature List/1/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp001,git,Creature List/1/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp001,git,Creature List/1/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,장작품 롱스word
@@ -1843,12 +1843,12 @@ drowcamp001,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,이 롱스워�
 drowcamp001,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,칼 + 1
 drowcamp001,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,마법 저항 14
-drowcamp001,git,Creature List/1/Equip_ItemList/4/LocalizedName,0,가벼운 독성 발작
+drowcamp001,git,Creature List/1/Equip_ItemList/4/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp001,git,Creature List/1/Equip_ItemList/4/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/2/FirstName,0,드로우 민병대
 drowcamp001,git,Creature List/2/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/2/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp001,git,Creature List/2/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp001,git,Creature List/2/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp001,git,Creature List/2/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp001,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp001,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,장작품 롱스word
@@ -1856,12 +1856,12 @@ drowcamp001,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,이 롱스워�
 drowcamp001,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,칼 + 1
 drowcamp001,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,마법 저항 14
-drowcamp001,git,Creature List/2/Equip_ItemList/4/LocalizedName,0,가벼운 독성 발작
+drowcamp001,git,Creature List/2/Equip_ItemList/4/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp001,git,Creature List/2/Equip_ItemList/4/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/3/FirstName,0,드로우 민병대
 drowcamp001,git,Creature List/3/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/3/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp001,git,Creature List/3/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp001,git,Creature List/3/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp001,git,Creature List/3/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp001,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp001,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,장작품 롱스word
@@ -1869,60 +1869,60 @@ drowcamp001,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,이 롱스워�
 drowcamp001,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,칼 + 1
 drowcamp001,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/3/Equip_ItemList/3/LocalizedName,0,마법 저항 14
-drowcamp001,git,Creature List/3/Equip_ItemList/4/LocalizedName,0,가벼운 독성 발작
+drowcamp001,git,Creature List/3/Equip_ItemList/4/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp001,git,Creature List/3/Equip_ItemList/4/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/4/FirstName,0,드로우 암살자
 drowcamp001,git,Creature List/4/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/4/ItemList/5/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/4/ItemList/5/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/4/ItemList/5/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/4/ItemList/6/LocalizedName,0,스키미터 +1
 drowcamp001,git,Creature List/4/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+drowcamp001,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 drowcamp001,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,독성 발트
+drowcamp001,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 drowcamp001,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/5/FirstName,0,드로우 암살자
 drowcamp001,git,Creature List/5/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/5/ItemList/5/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/5/ItemList/5/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/5/ItemList/5/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/5/ItemList/6/LocalizedName,0,스키미터 +1
 drowcamp001,git,Creature List/5/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+drowcamp001,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 drowcamp001,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,독성 발트
+drowcamp001,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 drowcamp001,git,Creature List/5/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/6/FirstName,0,드로우 암살자
 drowcamp001,git,Creature List/6/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/6/ItemList/5/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/6/ItemList/5/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/6/ItemList/5/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/6/ItemList/6/LocalizedName,0,스키미터 +1
 drowcamp001,git,Creature List/6/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+drowcamp001,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 drowcamp001,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,독성 발트
+drowcamp001,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 drowcamp001,git,Creature List/6/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/7/FirstName,0,드로우 암살자
 drowcamp001,git,Creature List/7/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/7/ItemList/5/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/7/ItemList/5/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/7/ItemList/5/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/7/ItemList/6/LocalizedName,0,스키미터 +1
 drowcamp001,git,Creature List/7/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+drowcamp001,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 drowcamp001,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,독성 발트
+drowcamp001,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 drowcamp001,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/8/FirstName,0,드로우 민병대
 drowcamp001,git,Creature List/8/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/8/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp001,git,Creature List/8/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp001,git,Creature List/8/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp001,git,Creature List/8/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,장작품 롱스word
@@ -1930,12 +1930,12 @@ drowcamp001,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,이 롱스워�
 drowcamp001,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,칼 + 1
 drowcamp001,git,Creature List/8/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,마법 저항 14
-drowcamp001,git,Creature List/8/Equip_ItemList/4/LocalizedName,0,가벼운 독성 발작
+drowcamp001,git,Creature List/8/Equip_ItemList/4/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp001,git,Creature List/8/Equip_ItemList/4/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/9/FirstName,0,드로우 민병대
 drowcamp001,git,Creature List/9/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/9/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp001,git,Creature List/9/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp001,git,Creature List/9/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp001,git,Creature List/9/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp001,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,장작품 롱스word
@@ -1943,15 +1943,15 @@ drowcamp001,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,이 롱스워�
 drowcamp001,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,칼 + 1
 drowcamp001,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,마법 저항 14
-drowcamp001,git,Creature List/9/Equip_ItemList/4/LocalizedName,0,가벼운 독성 발작
+drowcamp001,git,Creature List/9/Equip_ItemList/4/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp001,git,Creature List/9/Equip_ItemList/4/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/10/FirstName,0,피우비엔
 drowcamp001,git,Creature List/10/LastName,0,텐스
 drowcamp001,git,Creature List/10/Description,0,"피우비엔은 멘조베란잔의 귀족 가문 테트니스의 후손이다. 곤경기 때 이 가문은 멘조베란잔의 첫 귀족 가문인 베엔레 가문과 동맹을 맺었기 때문에 고통받았다. 베엔레 가문의 생존을 위해 대부분의 민병대를 희생하고 재원을 사용하게 된 피우비엔은 현재 매우 취약하고 약하다고 한다. 피우비엔은 야망과 성질과 속임수로 잘 알려져 있다. 이 사냥 여행은 그녀의 치크렐 - 그녀의 ""거짓의 시험""의 일부라고 한다. 당신은 평소보다 더 많은 발걸음을 지켜야합니다."
-drowcamp001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,가죽 장갑 +1
+drowcamp001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,가죽 갑옷 +1
 drowcamp001,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,피우비안의 지팡이
-drowcamp001,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,큰 방패 +1
+drowcamp001,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,대형 방패 +1
 drowcamp001,git,Creature List/10/Equip_ItemList/2/DescIdentified,0,이 마법의 방패는 착용자에게 추가적인 보호를 제공하지만 특정 제조업체의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/10/Equip_ItemList/3/LocalizedName,0,피우비엔의 갑옷
 drowcamp001,git,Creature List/10/Equip_ItemList/3/Description,0,이 체인메일 의복은 하우스 테트니스의 높은 계급의 귀족들을 위해 만들어졌다는 것을 분명히 알 수 있습니다.
@@ -1959,32 +1959,32 @@ drowcamp001,git,Creature List/10/Equip_ItemList/3/DescIdentified,0,"Piewiewiens 
 drowcamp001,git,Creature List/11/FirstName,0,넬라드
 drowcamp001,git,Creature List/11/LastName,0,티에이'렌
 drowcamp001,git,Creature List/11/Description,0,넬라드 티레렌은 함정을 찾아내고 무기를 제거하는 데 뛰어난 재능을 가진 숙련된 악당이다. 현재 그는 여주인 피비비언의 사냥 그룹에서 사용할 수 있는 최고의 함정을 찾는 사람이다. 넬라드는 전투 능력으로 잘 알려져 있으며 그의 짧은 검은 항상 심각하게 독이되어 적들을 치명적인 타격으로 놀라게 한다.
-drowcamp001,git,Creature List/11/ItemList/8/LocalizedName,0,라이트 크로스보 +1
+drowcamp001,git,Creature List/11/ItemList/8/LocalizedName,0,경쇠뇌 +1
 drowcamp001,git,Creature List/11/ItemList/8/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,가죽 장갑 + 3
-drowcamp001,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만, 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 레지온 갑옷과 같은 아이템은 때때로 그들의 관여가 의심되는 사건에서 복구되었습니다."
+drowcamp001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,가죽 갑옷+3
+drowcamp001,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 군단 갑옷과 같은 아이템은 때때로 이들의 관여가 의심되는 사건에서 복구되어 왔지만 길드 리더는 결코 소유권을 제한하거나 부인하지 않았습니다."
 drowcamp001,git,Creature List/11/Equip_ItemList/3/LocalizedName,0,독성 검
 drowcamp001,git,Creature List/11/Equip_ItemList/3/Description,0,"이 짧은 칼은 뛰어난 작품이고, 칼은 이상한 녹색색으로 빛난다."
 drowcamp001,git,Creature List/11/Equip_ItemList/3/DescIdentified,0,"이 솜씨 좋은 짧은 검은 강력한 마법의 독으로 어져 있었습니다. 칼에 맞은 생명체는 짧은 시간 동안 눈부신 상태가 될 가능성이 높습니다. 이것은 너무 위험하지 않은 것처럼 들리지만, 그것은 확실히 생명과 죽음 사이의 차이점이 될 수 있습니다."
 drowcamp001,git,Creature List/11/Equip_ItemList/4/LocalizedName,0,마법 저항 16
 drowcamp001,git,Creature List/11/Equip_ItemList/6/LocalizedName,0,가동성 벨트 +2
 drowcamp001,git,Creature List/11/Equip_ItemList/6/DescIdentified,0,"성공적 인 상인 로저 델포스는 도둑 반신조합을 결성하기 위해 도둑들에게 돈을 지불하여 워터디프의 상인들을 지키기 위해 보안 전문가가 될 수 있도록 했다. 경비자들은 강도들을 수사하기 위해 홀드 페르슨 주문을 사용하도록 훈련받았다. 이 보안 조치에 대항하기 위해 도둑들의 조합은 마법 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 조합 사이의 격상되는 전쟁에서, 이들 벨트 중 상당수는 보금점과 장비 매장으로 진입했다."
-drowcamp001,git,Creature List/11/Equip_ItemList/7/LocalizedName,0,마비된 발트
+drowcamp001,git,Creature List/11/Equip_ItemList/7/LocalizedName,0,마비의 쇠뇌화살
 drowcamp001,git,Creature List/11/Equip_ItemList/7/DescIdentified,0,이 유형의 볼트는 목표물을 놀라게 할 수 있습니다. 하지만 전력과 기간은 볼트의 크리에이터의 힘에 의해 결정됩니다.
-drowcamp001,git,Creature List/11/Equip_ItemList/8/LocalizedName,0,Drow 레벨 1의 성질
+drowcamp001,git,Creature List/11/Equip_ItemList/8/LocalizedName,0,드로우 레벨 1 속성
 drowcamp001,git,Creature List/12/FirstName,0,알크라날
 drowcamp001,git,Creature List/12/LastName,0,'저'ein
 drowcamp001,git,Creature List/12/Description,0,알크라날 주니어인 (Al'kranal Jr'ein) 는 멜레 마가테레의 최신 직업의 가장 장식된 날카로운 슈팅 선수 중 한 명이다. 그는 그의 킨스 감각과 칼에 대한 재능으로 잘 알려져 있습니다.
-drowcamp001,git,Creature List/12/ItemList/8/LocalizedName,0,루비 크로스보
+drowcamp001,git,Creature List/12/ItemList/8/LocalizedName,0,루비 쇠뇌
 drowcamp001,git,Creature List/12/ItemList/8/DescIdentified,0,"이 보석 물품의 첫 번째 예는 기념비적인 장식용으로 만들어졌으며, 사용이 의도되지 않았습니다. 그러나 실험은 무기 건설에 사용되는 이상한 루비에서 에너지를 방출함으로써 목표물에 큰 공포를 심어주었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌습니다. 그리고 그 이후 무기도 여러 번 복제되었습니다."
-drowcamp001,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,속도의 체인메일
+drowcamp001,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,속도의 사슬갑옷
 drowcamp001,git,Creature List/12/Equip_ItemList/1/DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳건히 믿었고, 그는 그의 체인메일 오브 스피드의 도움으로 수십 번의 전투에서 그것을 증명했습니다. 비행의 예술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사자의 순위에 결코 멀리 도달하지 못했습니다."
 drowcamp001,git,Creature List/12/Equip_ItemList/3/LocalizedName,0,날카로운
 drowcamp001,git,Creature List/12/Equip_ItemList/3/DescIdentified,0,"최근 몇 년 동안, 몇몇 도둑 조합은 이 칼에 의해 멤버를 잃었다고 보고했다. 피해자의 가슴에 잔혹한 서명으로 남겨진 무기. 그 뒤에 있는 공예가 알려지지 않았지만, 그들을 사용하는 집단의 의도는 충분히 분명했다: 자신의 확장을 촉진하기 위해 기존 그룹을 불안정화하기 위해. 그러나 마지막 살인 이후 몇 년이 지났고, 침입이 포기되었거나 폭력적인 수단으로 성공했다는 것을 암시합니다. 지하 지역 사회의 구성원들은 정보를 제공하지 않았습니다."
 drowcamp001,git,Creature List/12/Equip_ItemList/4/LocalizedName,0,마법 저항 16
-drowcamp001,git,Creature List/12/Equip_ItemList/6/LocalizedName,0,마비된 발트
+drowcamp001,git,Creature List/12/Equip_ItemList/6/LocalizedName,0,마비의 쇠뇌화살
 drowcamp001,git,Creature List/12/Equip_ItemList/6/DescIdentified,0,이 유형의 볼트는 목표물을 놀라게 할 수 있습니다. 하지만 전력과 기간은 볼트의 크리에이터의 힘에 의해 결정됩니다.
-drowcamp001,git,Creature List/12/Equip_ItemList/7/LocalizedName,0,Drow 레벨 1의 성질
+drowcamp001,git,Creature List/12/Equip_ItemList/7/LocalizedName,0,드로우 레벨 1 속성
 drowcamp001,git,Creature List/13/FirstName,0,롤미어
 drowcamp001,git,Creature List/13/LastName,0,일프키어
 drowcamp001,git,Creature List/13/Description,0,드로우는 위험한 언더더크에서 깊은 지하에 살고 있는 악령들의 악성 서브래스이다. 로미어는 피우비엔의 새로운 중위원 중 한 명이다. 그는 최근의 어려움에도 불구하고 테트'네스를 충실히 수용함으로써 계급을 얻었다.
@@ -1995,28 +1995,28 @@ drowcamp001,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,드로우 무
 drowcamp001,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,아나셀보
 drowcamp001,git,Creature List/13/Equip_ItemList/1/Description,0,"이 칼은 완벽하게 균형 잡혀 있고, 선명하게 걸작으로 인식될 수 있습니다."
 drowcamp001,git,Creature List/13/Equip_ItemList/1/DescIdentified,0,드림다릴은 한때 테샤네벨의 가장 선호하는 무기였다. 테샤네벨은 스비르프네블린 세력에 대한 습격 중에 실종되기 전까지 용기와 뛰어난 전투 기술을 가진 무기의 주인이었다.
-drowcamp001,git,Creature List/13/Equip_ItemList/4/LocalizedName,0,Drow 레벨 20의 성질
+drowcamp001,git,Creature List/13/Equip_ItemList/4/LocalizedName,0,드로우 레벨 20 속성
 drowcamp001,git,Creature List/14/FirstName,0,삼촌
 drowcamp001,git,Creature List/14/LastName,0,티레나
 drowcamp001,git,Creature List/14/Description,0,트리안다르 티르에나는 멘즈베란잔의 아카데미인 마법사의 가장 유망한 추종자 중 한 명이다. 그는 귀족 품종이 아니더라도 놀라운 경력을 쌓았으며 자신의 재능을 잘 지불하는 주택과 상인들에게 팔았다. 현재 그는 미스터스 피비웨이언에게 암흑으로 사냥하는 데 도움을 주도록 할당된다. 트리안다르는 인내심이 없고 자존심이 있다고 한다. 그는 현재 할 일을 좋아하지 않는다는 것은 분명하다. 그리고 그의 고용주보다 덜.
-drowcamp001,git,Creature List/14/Equip_ItemList/4/LocalizedName,0,작은 권력의 반지
+drowcamp001,git,Creature List/14/Equip_ItemList/4/LocalizedName,0,하급 권능의 반지
 drowcamp001,git,Creature List/14/Equip_ItemList/4/DescIdentified,0,"마인세릴 로스트본 (Mynseril Lostbone) 은 마라르의 강력한 사제였으며, 많은 피의 싸움이나 전투를 즐겼지만, 그러한 전투가 너무 조기에 끝났다고 느꼈다. 마인세릴은 트롤의 재생 능력을 연구하면서 일반 전투장보다 재생 전사장에서 더 많은 엔터테인먼트 가치를 얻을 수 있다고 확신했다. 그래서 그는 여러 강력한 반지의 제작을 위탁했습니다. 반지가 완성되면, 그는 특히 악의적인 전사들에게 배포했습니다."
 drowcamp001,git,Creature List/15/FirstName,0,드로우 암살자
 drowcamp001,git,Creature List/15/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/15/ItemList/5/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/15/ItemList/5/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/15/ItemList/5/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 drowcamp001,git,Creature List/15/ItemList/6/LocalizedName,0,스키미터 +1
 drowcamp001,git,Creature List/15/ItemList/6/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/15/ItemList/7/LocalizedName,0,라이트 크로스보 +1
+drowcamp001,git,Creature List/15/ItemList/7/LocalizedName,0,경쇠뇌 +1
 drowcamp001,git,Creature List/15/ItemList/7/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+drowcamp001,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 drowcamp001,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-drowcamp001,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,독성 발트
+drowcamp001,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,독 쇠뇌화살
 drowcamp001,git,Creature List/15/Equip_ItemList/1/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 drowcamp001,git,Creature List/16/FirstName,0,드로우 민병대
 drowcamp001,git,Creature List/16/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-drowcamp001,git,Creature List/16/ItemList/0/LocalizedName,0,가벼운 크로스보
-drowcamp001,git,Creature List/16/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+drowcamp001,git,Creature List/16/ItemList/0/LocalizedName,0,경쇠뇌
+drowcamp001,git,Creature List/16/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 drowcamp001,git,Creature List/16/ItemList/1/LocalizedName,0,장작품 롱스word
 drowcamp001,git,Creature List/16/ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 drowcamp001,git,Creature List/16/ItemList/2/LocalizedName,0,칼 + 1
@@ -2024,41 +2024,41 @@ drowcamp001,git,Creature List/16/ItemList/2/DescIdentified,0,이 마법 무기�
 drowcamp001,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp001,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,마법 저항 14
-drowcamp001,git,Creature List/16/Equip_ItemList/2/LocalizedName,0,가벼운 독성 발작
+drowcamp001,git,Creature List/16/Equip_ItemList/2/LocalizedName,0,약한 독 쇠뇌화살
 drowcamp001,git,Creature List/16/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-drowcamp001,git,SoundList/0/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/1/LocName,0,스트림 동굴 터널
+drowcamp001,git,SoundList/0/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/1/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
 drowcamp001,git,SoundList/2/LocName,0,물 떨어지는 소리
-drowcamp001,git,SoundList/3/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/4/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/5/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/6/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/7/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/8/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/9/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/10/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/11/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/12/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/13/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/14/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/15/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/16/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/17/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/18/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/19/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/20/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/21/LocName,0,스트림 동굴 터널
-drowcamp001,git,SoundList/22/LocName,0,스트림 매체
-drowcamp001,git,SoundList/23/LocName,0,스트림 매체
-drowcamp001,git,SoundList/24/LocName,0,스트림 매체
-drowcamp001,git,SoundList/25/LocName,0,스트림 매체
-drowcamp001,git,SoundList/26/LocName,0,스트림 매체
+drowcamp001,git,SoundList/3/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/4/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/5/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/6/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/7/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/8/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/9/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/10/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/11/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/12/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/13/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/14/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/15/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/16/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/17/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/18/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/19/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/20/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/21/LocName,0,동굴 땅굴에서 냇물 흐르는 소리
+drowcamp001,git,SoundList/22/LocName,0,중간 개울
+drowcamp001,git,SoundList/23/LocName,0,중간 개울
+drowcamp001,git,SoundList/24/LocName,0,중간 개울
+drowcamp001,git,SoundList/25/LocName,0,중간 개울
+drowcamp001,git,SoundList/26/LocName,0,중간 개울
 drowcamp001,git,TriggerList/0/LocalizedName,0,시작_가스
 drowcamp001,git,TriggerList/1/LocalizedName,0,시작과 앉기
 drowcamp001,git,TriggerList/2/LocalizedName,0,부활
 drowcamp001,git,TriggerList/3/LocalizedName,0,함정이 비활성
-drowcamp001,git,TriggerList/4/LocalizedName,0,새로운 지역 전환
-drowcamp001,git,TriggerList/5/LocalizedName,0,새로운 지역 전환
+drowcamp001,git,TriggerList/4/LocalizedName,0,뉴 에이리어 트랜지션
+drowcamp001,git,TriggerList/5/LocalizedName,0,뉴 에이리어 트랜지션
 drowcamp001,git,TriggerList/6/LocalizedName,0,캠프_드라이더
 drowcamp001,git,WaypointList/0/LocalizedName,0,이정표
 drowcamp001,git,WaypointList/1/LocalizedName,0,이정표
@@ -2088,21 +2088,21 @@ drowcamp001,git,Placeable List/1/LocName,0,벽 개통
 drowcamp001,git,Placeable List/1/Description,0,"그 연기가 독한 냄새를 맡고 있는데, 마치 뭔가 불쾌한 것이 그 기지에서 튀어나오는 것 같다."
 drowcamp001,git,Placeable List/1/ItemList/0/LocalizedName,0,독성 증폭기
 drowcamp001,git,Placeable List/1/ItemList/0/Description,0,이 이상한 모양의 메커니즘은 분명히 일종의 증폭기입니다. 그것은 화산의 증기를 매우 독성적인 가스로 변환합니다.
-drowcamp001,git,Placeable List/5/LocName,0,침대 롤
+drowcamp001,git,Placeable List/5/LocName,0,침낭
 drowcamp001,git,Placeable List/5/Description,0,잠자리 매트는 얇지만 그 아래의 추운 땅으로부터 어느 정도 보호를 제공합니다.
-drowcamp001,git,Placeable List/6/LocName,0,침대 롤
+drowcamp001,git,Placeable List/6/LocName,0,침낭
 drowcamp001,git,Placeable List/6/Description,0,잠자리 매트는 얇지만 그 아래의 추운 땅으로부터 어느 정도 보호를 제공합니다.
-drowcamp001,git,Placeable List/7/LocName,0,침대 롤
+drowcamp001,git,Placeable List/7/LocName,0,침낭
 drowcamp001,git,Placeable List/7/Description,0,잠자리 매트는 얇지만 그 아래의 추운 땅으로부터 어느 정도 보호를 제공합니다.
-drowcamp001,git,Placeable List/8/LocName,0,침대 롤
+drowcamp001,git,Placeable List/8/LocName,0,침낭
 drowcamp001,git,Placeable List/8/Description,0,잠자리 매트는 얇지만 그 아래의 추운 땅으로부터 어느 정도 보호를 제공합니다.
-drowcamp001,git,Placeable List/9/LocName,0,침대 롤
+drowcamp001,git,Placeable List/9/LocName,0,침낭
 drowcamp001,git,Placeable List/9/Description,0,잠자리 매트는 얇지만 그 아래의 추운 땅으로부터 어느 정도 보호를 제공합니다.
-drowcamp001,git,Placeable List/10/LocName,0,침대 롤
+drowcamp001,git,Placeable List/10/LocName,0,침낭
 drowcamp001,git,Placeable List/10/Description,0,잠자리 매트는 얇지만 그 아래의 추운 땅으로부터 어느 정도 보호를 제공합니다.
-drowcamp001,git,Placeable List/11/LocName,0,침대 롤
+drowcamp001,git,Placeable List/11/LocName,0,침낭
 drowcamp001,git,Placeable List/11/Description,0,잠자리 매트는 얇지만 그 아래의 추운 땅으로부터 어느 정도 보호를 제공합니다.
-drowcamp001,git,Placeable List/12/LocName,0,침대 롤
+drowcamp001,git,Placeable List/12/LocName,0,침낭
 drowcamp001,git,Placeable List/12/Description,0,잠자리 매트는 얇지만 그 아래의 추운 땅으로부터 어느 정도 보호를 제공합니다.
 drowcamp001,git,Placeable List/13/LocName,0,시체
 drowcamp001,git,Placeable List/13/Description,0,벼룩이 피아신 시체를 돌며 피아신 자세로 몸을 고 마치 추운 것 같거나 큰 고통이 느껴지는 것 같습니다.
@@ -2344,9 +2344,9 @@ drowcamp001,git,Placeable List/135/LocName,0,버섯
 drowcamp001,git,Placeable List/135/Description,0,"침대는 깨끗하고 부드럽고, 깃털 베개와 부드러운 위로가 실 위에 그려져 있습니다."
 drowcamp001,git,Placeable List/136/LocName,0,버섯
 drowcamp001,git,Placeable List/136/Description,0,"침대는 깨끗하고 부드럽고, 깃털 베개와 부드러운 위로가 실 위에 그려져 있습니다."
-dwarvenmaze,git,Creature List/0/FirstName,0,철 고렘
+dwarvenmaze,git,Creature List/0/FirstName,0,철 골렘
 dwarvenmaze,git,Creature List/0/Description,0,탄탄한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁기 수강자나 괴물 공작자의 기술과 숙련이 필요 합니다.
-dwarvenmaze,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,철 고렘 특성
+dwarvenmaze,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,철 골렘 속성
 dwarvenmaze,git,Door List/0/LocName,0,첫 문
 dwarvenmaze,git,Door List/1/LocName,0,마세토니어
 dwarvenmaze,git,TriggerList/6/LocalizedName,0,1_r
@@ -2371,20 +2371,20 @@ dwarvenmaze,git,WaypointList/4/LocalizedName,0,d_m_4
 dwarvenmaze,git,WaypointList/6/MapNote,0,내면 로비즈로 나가는 길
 greathall,git,Creature List/0/FirstName,0,왜성상
 greathall,git,Creature List/1/FirstName,0,인간 동상은
-greathall,git,Creature List/2/FirstName,0,엘프 동상은
-greathall,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,체인 셔츠
-greathall,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,엘프 궁전 Bow
+greathall,git,Creature List/2/FirstName,0,엘프제 조각상
+greathall,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,사슬 상의
+greathall,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,엘프 궁정 활
 greathall,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"이 활은 전쟁 의 무기 보다 예술 작품 이다. 화려한 조각 은 청화 된 나무 위에 춤추고 있으며, 끈 은 금 으로 빛나고 있으며, 그림 을 할 때 거의 노래 한다. 한 번 엘프 공예 의 독특하고 독창적인 예 를 생각 한 이 이론 은 학자들이 신화 드란노르의 유적 에서 반 십 개 같은 활 을 검증 할 때 폐기 되었다."
 greathall,git,Creature List/3/FirstName,0,스비르프네블린 동상
 greathall,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,기놈 워햄어
 greathall,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 greathall,git,Door List/1/LocName,0,큰 홀로 코리도르
-greathall,git,TriggerList/0/LocalizedName,0,새로운 일반제
-greathall,git,TriggerList/1/LocalizedName,0,새로운 일반제
+greathall,git,TriggerList/0/LocalizedName,0,새 일반
+greathall,git,TriggerList/1/LocalizedName,0,새 일반
 greathall,git,WaypointList/0/LocalizedName,0,wp_tarn2
 greathall,git,WaypointList/1/LocalizedName,0,wp_tarn2
 greathall,git,WaypointList/2/LocalizedName,0,지도 메모
-greathall,git,WaypointList/2/MapNote,0,표면 출구
+greathall,git,WaypointList/2/MapNote,0,지상으로 나가는 출구
 greathall,git,WaypointList/3/LocalizedName,0,지도 메모
 greathall,git,WaypointList/3/MapNote,0,통로 출구
 greathall,git,WaypointList/4/LocalizedName,0,wp_tarn2
@@ -2430,7 +2430,7 @@ greathall,git,Placeable List/53/LocName,0,소화재
 greathall,git,Placeable List/54/LocName,0,소화재
 greathall,git,Placeable List/55/LocName,0,소화재
 greathall,git,Placeable List/56/LocName,0,소화재
-greathall,git,Placeable List/57/LocName,0,우천
+greathall,git,Placeable List/57/LocName,0,분수
 greathall,git,Placeable List/58/LocName,0,바빌론 스피어맨
 greathall,git,Placeable List/58/Description,0,"바빌론 스피어맨 모자이크, 실제 벽 이미지로 구성된"
 greathall,git,Placeable List/59/LocName,0,바빌론 스피어맨
@@ -2443,17 +2443,17 @@ greathall,git,Placeable List/62/LocName,0,바빌론 스피어맨
 greathall,git,Placeable List/62/Description,0,"바빌론 스피어맨 모자이크, 실제 벽 이미지로 구성된"
 greathall,git,Placeable List/63/LocName,0,바빌론 스피어맨
 greathall,git,Placeable List/63/Description,0,"바빌론 스피어맨 모자이크, 실제 벽 이미지로 구성된"
-hobgoblinlair,git,Creature List/0/FirstName,0,버그베어 히어로
+hobgoblinlair,git,Creature List/0/FirstName,0,버그베어 영웅
 hobgoblinlair,git,Creature List/0/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/1/FirstName,0,곰
+hobgoblinlair,git,Creature List/1/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/1/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/2/FirstName,0,곰
+hobgoblinlair,git,Creature List/2/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/2/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/3/FirstName,0,곰
+hobgoblinlair,git,Creature List/3/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/3/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/4/FirstName,0,곰
+hobgoblinlair,git,Creature List/4/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/4/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/5/FirstName,0,버그베어 히어로
+hobgoblinlair,git,Creature List/5/FirstName,0,버그베어 영웅
 hobgoblinlair,git,Creature List/5/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
 hobgoblinlair,git,Creature List/6/FirstName,0,개
 hobgoblinlair,git,Creature List/6/Description,0,"쉽게 길러지고 훈련된 일반 개는 오랜 시간 동안 인기 있는 경비자, 사냥꾼, 여행 동반자였습니다."
@@ -2461,19 +2461,19 @@ hobgoblinlair,git,Creature List/7/FirstName,0,개
 hobgoblinlair,git,Creature List/7/Description,0,"쉽게 길러지고 훈련된 일반 개는 오랜 시간 동안 인기 있는 경비자, 사냥꾼, 여행 동반자였습니다."
 hobgoblinlair,git,Creature List/8/FirstName,0,개
 hobgoblinlair,git,Creature List/8/Description,0,"쉽게 길러지고 훈련된 일반 개는 오랜 시간 동안 인기 있는 경비자, 사냥꾼, 여행 동반자였습니다."
-hobgoblinlair,git,Creature List/9/FirstName,0,버그베어 상장
+hobgoblinlair,git,Creature List/9/FirstName,0,버그베어 족장
 hobgoblinlair,git,Creature List/9/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/10/FirstName,0,버그베어 샤먼
+hobgoblinlair,git,Creature List/10/FirstName,0,버그베어 주술사
 hobgoblinlair,git,Creature List/10/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/11/FirstName,0,버그베어 샤먼
+hobgoblinlair,git,Creature List/11/FirstName,0,버그베어 주술사
 hobgoblinlair,git,Creature List/11/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/12/FirstName,0,곰
+hobgoblinlair,git,Creature List/12/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/12/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/13/FirstName,0,곰
+hobgoblinlair,git,Creature List/13/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/13/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/14/FirstName,0,곰
+hobgoblinlair,git,Creature List/14/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/14/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/15/FirstName,0,곰
+hobgoblinlair,git,Creature List/15/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/15/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
 hobgoblinlair,git,Creature List/16/FirstName,0,개
 hobgoblinlair,git,Creature List/16/Description,0,"쉽게 길러지고 훈련된 일반 개는 오랜 시간 동안 인기 있는 경비자, 사냥꾼, 여행 동반자였습니다."
@@ -2483,35 +2483,35 @@ hobgoblinlair,git,Creature List/18/FirstName,0,개
 hobgoblinlair,git,Creature List/18/Description,0,"쉽게 길러지고 훈련된 일반 개는 오랜 시간 동안 인기 있는 경비자, 사냥꾼, 여행 동반자였습니다."
 hobgoblinlair,git,Creature List/19/FirstName,0,개
 hobgoblinlair,git,Creature List/19/Description,0,"쉽게 길러지고 훈련된 일반 개는 오랜 시간 동안 인기 있는 경비자, 사냥꾼, 여행 동반자였습니다."
-hobgoblinlair,git,Creature List/20/FirstName,0,곰
+hobgoblinlair,git,Creature List/20/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/20/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/21/FirstName,0,곰
+hobgoblinlair,git,Creature List/21/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/21/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/22/FirstName,0,곰
+hobgoblinlair,git,Creature List/22/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/22/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/23/FirstName,0,곰
+hobgoblinlair,git,Creature List/23/FirstName,0,버그베어
 hobgoblinlair,git,Creature List/23/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/24/FirstName,0,버그베어 히어로
+hobgoblinlair,git,Creature List/24/FirstName,0,버그베어 영웅
 hobgoblinlair,git,Creature List/24/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
-hobgoblinlair,git,Creature List/25/FirstName,0,버그베어 히어로
+hobgoblinlair,git,Creature List/25/FirstName,0,버그베어 영웅
 hobgoblinlair,git,Creature List/25/Description,0,"가장 크고 가장 강한 괴물인 버그베어들은 곰처럼 생긴 코, 강한 상부, 그리고 뚜렷한 냄새를 맡기 때문에 이름을 얻었습니다."
 hobgoblinlair,git,Door List/0/LocName,0,문
 hobgoblinlair,git,Door List/1/LocName,0,문
 hobgoblinlair,git,List/0/LocalizedName,0,버그베어 키
 hobgoblinlair,git,TriggerList/0/LocalizedName,0,유적 캠프
 hobgoblinlair,git,TriggerList/1/LocalizedName,0,setbugbearquest
-hobgoblinlair,git,TriggerList/2/LocalizedName,0,새로운 지역 전환
+hobgoblinlair,git,TriggerList/2/LocalizedName,0,뉴 에이리어 트랜지션
 hobgoblinlair,git,WaypointList/0/LocalizedName,0,이정표
 hobgoblinlair,git,WaypointList/1/MapNote,0,동굴
-hobgoblinlair,git,WaypointList/2/MapNote,0,드로 캠프
+hobgoblinlair,git,WaypointList/2/MapNote,0,드로우 야영지
 hobgoblinlair,git,Placeable List/0/LocName,0,상자
 hobgoblinlair,git,Placeable List/0/Description,0,"철로 묶여서 무거운 잠금으로, 이 무거운 상자 는 분명 가치 있는 무언가를 보호하기 위한 것이었다."
 hobgoblinlair,git,Placeable List/0/ItemList/0/LocalizedName,0,금화
 hobgoblinlair,git,Placeable List/1/LocName,0,상자
 hobgoblinlair,git,Placeable List/1/Description,0,"철로 묶여서 무거운 잠금으로, 이 무거운 상자 는 분명 가치 있는 무언가를 보호하기 위한 것이었다."
-hobgoblinlair,git,Placeable List/1/ItemList/1/LocalizedName,0,도론 의 실수
+hobgoblinlair,git,Placeable List/1/ItemList/1/LocalizedName,0,도론의 실수
 hobgoblinlair,git,Placeable List/1/ItemList/1/DescIdentified,0,"도론 은 쟁이 스미스 마스터 였지만, 마스터 들 도 실수 를 한다. 물론 연구 를 위해 ""무적 인 엘프 체인"" 의 의복 을 해체 할 때, 그는 실수 로 여러 개의 밧줄 을 그의 forg 에 떨어뜨렸으며, 그 미트랄의 흔적 은 그가 만든 모든 것을 위에서 아래까지 닦을 수 있을 때까지 오염 시켰습니다. 이 기간 동안 만들어진 모든 의복은 이상한 마법으로 가득 차 있었지만 도론 은 모든 것을 쓰레기 덩어리에 던져 버렸으며, 한 장을 착용 한 사람을 볼 때 박을 것으로 알려져있었습니다."
-hobgoblinlair,git,Placeable List/2/LocName,0,파손된 카타폴트
+hobgoblinlair,git,Placeable List/2/LocName,0,망가진 투석기
 hobgoblinlair,git,Placeable List/2/Description,0,이 대폭은 그 자리에 무너진 것 같습니다. 아마도 그 대폭을 원하지 않는 세력들이 물러나서서 그랬을 것입니다.
 hobgoblinlair,git,Placeable List/12/LocName,0,스파이크 1
 hobgoblinlair,git,Placeable List/12/Description,0,"물가들은 열려 있고, 부패한 채소 냄새와 인간의 쓰레기가 여전히 그 냄새에 걸려 있습니다."
@@ -2711,17 +2711,17 @@ hobgoblinlair,git,Placeable List/109/LocName,0,스파이크 2
 hobgoblinlair,git,Placeable List/109/Description,0,"물가들은 열려 있고, 부패한 채소 냄새와 인간의 쓰레기가 여전히 그 냄새에 걸려 있습니다."
 hobgoblinlair,git,Placeable List/110/LocName,0,무기 선반
 hobgoblinlair,git,Placeable List/110/Description,0,무기는 나무 래크에 누워서 방출을 기다리고 있습니다.
-hobgoblinlair,git,Placeable List/110/ItemList/1/LocalizedName,0,불의 발자국
+hobgoblinlair,git,Placeable List/110/ItemList/1/LocalizedName,0,화염의 쇠뇌화살
 hobgoblinlair,git,Placeable List/110/ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
 illithidlair,git,TriggerList/0/LocalizedName,0,wp_portal_illithid_lair
 illithidlair,git,TriggerList/1/LocalizedName,0,캠프 로 돌아 가
 illithidlair,git,WaypointList/0/LocalizedName,0,이정표
 illithidlair,git,WaypointList/4/LocalizedName,0,지도 메모
 illithidlair,git,WaypointList/4/MapNote,0,트레이드웨이 출구
-illithidlair002,git,Creature List/0/FirstName,0,마이너
-illithidlair002,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,1d4
-illithidlair002,git,Creature List/1/FirstName,0,스비르프네블린
-illithidlair002,git,Creature List/1/LastName,0,전투기
+illithidlair002,git,Creature List/0/FirstName,0,드라이더
+illithidlair002,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,물기1d4
+illithidlair002,git,Creature List/1/FirstName,0,스버프네블린
+illithidlair002,git,Creature List/1/LastName,0,전사
 illithidlair002,git,Creature List/1/Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
 illithidlair002,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,기종 헬멧
 illithidlair002,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,GNOME 체인메일
@@ -2730,8 +2730,8 @@ illithidlair002,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,기놈 워�
 illithidlair002,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 illithidlair002,git,Creature List/2/FirstName,0,D'vaernon
 illithidlair002,git,Creature List/2/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-illithidlair002,git,Creature List/2/ItemList/0/LocalizedName,0,가벼운 크로스보
-illithidlair002,git,Creature List/2/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+illithidlair002,git,Creature List/2/ItemList/0/LocalizedName,0,경쇠뇌
+illithidlair002,git,Creature List/2/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 illithidlair002,git,Creature List/2/ItemList/1/LocalizedName,0,장작품 롱스word
 illithidlair002,git,Creature List/2/ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 illithidlair002,git,Creature List/2/ItemList/2/LocalizedName,0,칼 + 1
@@ -2739,16 +2739,16 @@ illithidlair002,git,Creature List/2/ItemList/2/DescIdentified,0,이 마법 무�
 illithidlair002,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 illithidlair002,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 illithidlair002,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,마법 저항 14
-illithidlair002,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,가벼운 독성 발작
+illithidlair002,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,약한 독 쇠뇌화살
 illithidlair002,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 illithidlair002,git,Creature List/3/FirstName,0,움버 헐크
-illithidlair002,git,Creature List/3/Description,0,거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들은 옴버 헐크가 어디로 가든 파괴의 흔적을 남깁니다.
+illithidlair002,git,Creature List/3/Description,0,"거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들, 움버 헐크는 어디로 가든 파괴적인 흔적을 남깁니다."
 illithidlair002,git,Creature List/4/FirstName,0,움버 헐크
-illithidlair002,git,Creature List/4/Description,0,거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들은 옴버 헐크가 어디로 가든 파괴의 흔적을 남깁니다.
-illithidlair002,git,Creature List/5/FirstName,0,마이너
-illithidlair002,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,1d4
-illithidlair002,git,Creature List/6/FirstName,0,스비르프네블린
-illithidlair002,git,Creature List/6/LastName,0,전투기
+illithidlair002,git,Creature List/4/Description,0,"거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들, 움버 헐크는 어디로 가든 파괴적인 흔적을 남깁니다."
+illithidlair002,git,Creature List/5/FirstName,0,드라이더
+illithidlair002,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,물기1d4
+illithidlair002,git,Creature List/6/FirstName,0,스버프네블린
+illithidlair002,git,Creature List/6/LastName,0,전사
 illithidlair002,git,Creature List/6/Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
 illithidlair002,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,기종 헬멧
 illithidlair002,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,GNOME 체인메일
@@ -2778,48 +2778,48 @@ illithidlair002,git,Placeable List/3/LocName,0,기둥
 illithidlair002,git,Placeable List/3/Description,0,철과 돌로 만들어진 스타일링 된 기둥.
 illithidlair002,git,Placeable List/4/LocName,0,기둥
 illithidlair002,git,Placeable List/4/Description,0,철과 돌로 만들어진 스타일링 된 기둥.
-illithidlair002,git,Placeable List/6/LocName,0,탐욕 수영장
+illithidlair002,git,Placeable List/6/LocName,0,신성한 웅덩이
 illithidlair002,git,Placeable List/6/Description,0,화석 은 부드럽고 촉각 이 차갑다. 이 수영장은 잃어버린 중요 한 물건 들 이 나타난다.
-illithidlair002,git,Placeable List/7/LocName,0,탐욕 수영장
+illithidlair002,git,Placeable List/7/LocName,0,신성한 웅덩이
 illithidlair002,git,Placeable List/7/Description,0,화석 은 부드럽고 촉각 이 차갑다. 이 수영장은 잃어버린 중요 한 물건 들 이 나타난다.
 illithidlair002,git,Placeable List/9/LocName,0,무성_왕좌
 illithidlair002,git,Placeable List/9/Description,0,황금 의 의자 는 마법 으로든 역사 의 무게 로든 자신감 과 권위 를 발휘 한다. 이 의자 는 자신 의 의자라고 부르는 통치자 들 은 현명 하다.
-innermaze001,git,Creature List/0/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/0/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/0/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/0/ItemList/0/LocalizedName,0,헬멧/전사 공포의 검
-innermaze001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,번개 발자국
+innermaze001,git,Creature List/0/ItemList/0/LocalizedName,0,헬드/싸우는 공포 검
+innermaze001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,번개의 쇠뇌화살
 innermaze001,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,번개가 충돌에 반짝이면서 폭발하여 목표물에 전기적 손상을 입게 됩니다.
-innermaze001,git,Creature List/2/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/2/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/2/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/2/ItemList/0/LocalizedName,0,헬멧/전사 공포의 검
-innermaze001,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,번개 발자국
+innermaze001,git,Creature List/2/ItemList/0/LocalizedName,0,헬드/싸우는 공포 검
+innermaze001,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,번개의 쇠뇌화살
 innermaze001,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,번개가 충돌에 반짝이면서 폭발하여 목표물에 전기적 손상을 입게 됩니다.
-innermaze001,git,Creature List/3/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/3/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/3/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/3/ItemList/0/LocalizedName,0,헬멧/전사 공포의 검
-innermaze001,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,번개 발자국
+innermaze001,git,Creature List/3/ItemList/0/LocalizedName,0,헬드/싸우는 공포 검
+innermaze001,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,번개의 쇠뇌화살
 innermaze001,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,번개가 충돌에 반짝이면서 폭발하여 목표물에 전기적 손상을 입게 됩니다.
-innermaze001,git,Creature List/4/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/4/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/4/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/4/ItemList/0/LocalizedName,0,헬멧/전사 공포의 검
-innermaze001,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,번개 발자국
+innermaze001,git,Creature List/4/ItemList/0/LocalizedName,0,헬드/싸우는 공포 검
+innermaze001,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,번개의 쇠뇌화살
 innermaze001,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,번개가 충돌에 반짝이면서 폭발하여 목표물에 전기적 손상을 입게 됩니다.
-innermaze001,git,Creature List/5/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/5/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/5/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/5/ItemList/0/LocalizedName,0,헬멧/전사 공포의 검
-innermaze001,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,번개 발자국
+innermaze001,git,Creature List/5/ItemList/0/LocalizedName,0,헬드/싸우는 공포 검
+innermaze001,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,번개의 쇠뇌화살
 innermaze001,git,Creature List/5/Equip_ItemList/2/DescIdentified,0,번개가 충돌에 반짝이면서 폭발하여 목표물에 전기적 손상을 입게 됩니다.
-innermaze001,git,Creature List/6/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/6/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/6/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/7/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/7/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/7/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/8/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/8/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/8/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/9/FirstName,0,공포의 헬드
+innermaze001,git,Creature List/9/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/9/Description,0,"헬드 호러스는 마법의 삶과 목적이 풍부한 빈 갑옷입니다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보너스 사냥꾼을 만듭니다."
-innermaze001,git,Creature List/10/FirstName,0,철 고렘
+innermaze001,git,Creature List/10/FirstName,0,철 골렘
 innermaze001,git,Creature List/10/Description,0,탄탄한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁기 수강자나 괴물 공작자의 기술과 숙련이 필요 합니다.
-innermaze001,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,철 고렘 특성
+innermaze001,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,철 골렘 속성
 innermaze001,git,Door List/1/LocName,0,내부마저마저마저
 innermaze001,git,Door List/2/LocName,0,내마저 코디도
 innermaze001,git,Door List/3/LocName,0,번_포트_5
@@ -2862,35 +2862,35 @@ spidercave,git,Placeable List/4/LocName,0,제단
 spidercave,git,Placeable List/4/Description,0,당신 앞에 작은 제단이 서 있습니다. 오래전부터 소멸된 불에서 남긴 화석과 섞여 있는 오래된 혈액 얼룩이 돌에 침투했습니다.
 spidercave,git,Placeable List/5/LocName,0,제단
 spidercave,git,Placeable List/5/Description,0,당신 앞에 작은 제단이 서 있습니다. 오래전부터 소멸된 불에서 남긴 화석과 섞여 있는 오래된 혈액 얼룩이 돌에 침투했습니다.
-spidercave,git,Placeable List/47/LocName,0,브레이지어
+spidercave,git,Placeable List/47/LocName,0,화로
 spidercave,git,Placeable List/47/Description,0,"그 은 뜨거운 빛 을 내 낸다. 그 을 향해 나아갈 때, 손 손 손 에 땀의 껍질 이 형성 되는 것 을 느낄 수 있습니다."
-spidercave,git,Placeable List/48/LocName,0,브레이지어
+spidercave,git,Placeable List/48/LocName,0,화로
 spidercave,git,Placeable List/48/Description,0,"그 은 뜨거운 빛 을 내 낸다. 그 을 향해 나아갈 때, 손 손 손 에 땀의 껍질 이 형성 되는 것 을 느낄 수 있습니다."
-spidercave,git,Placeable List/49/LocName,0,브레이지어
+spidercave,git,Placeable List/49/LocName,0,화로
 spidercave,git,Placeable List/49/Description,0,"그 은 뜨거운 빛 을 내 낸다. 그 을 향해 나아갈 때, 손 손 손 에 땀의 껍질 이 형성 되는 것 을 느낄 수 있습니다."
-spidercave,git,Placeable List/50/LocName,0,브레이지어
+spidercave,git,Placeable List/50/LocName,0,화로
 spidercave,git,Placeable List/50/Description,0,"그 은 뜨거운 빛 을 내 낸다. 그 을 향해 나아갈 때, 손 손 손 에 땀의 껍질 이 형성 되는 것 을 느낄 수 있습니다."
 svirfneblintrade,git,Creature List/0/FirstName,0,움버 헐크
-svirfneblintrade,git,Creature List/0/Description,0,거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들은 옴버 헐크가 어디로 가든 파괴의 흔적을 남깁니다.
+svirfneblintrade,git,Creature List/0/Description,0,"거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들, 움버 헐크는 어디로 가든 파괴적인 흔적을 남깁니다."
 svirfneblintrade,git,Creature List/1/FirstName,0,움버 헐크
-svirfneblintrade,git,Creature List/1/Description,0,거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들은 옴버 헐크가 어디로 가든 파괴의 흔적을 남깁니다.
+svirfneblintrade,git,Creature List/1/Description,0,"거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들, 움버 헐크는 어디로 가든 파괴적인 흔적을 남깁니다."
 svirfneblintrade,git,Creature List/2/FirstName,0,움버 헐크
-svirfneblintrade,git,Creature List/2/Description,0,거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들은 옴버 헐크가 어디로 가든 파괴의 흔적을 남깁니다.
+svirfneblintrade,git,Creature List/2/Description,0,"거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들, 움버 헐크는 어디로 가든 파괴적인 흔적을 남깁니다."
 svirfneblintrade,git,Creature List/3/FirstName,0,움버 헐크
-svirfneblintrade,git,Creature List/3/Description,0,거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들은 옴버 헐크가 어디로 가든 파괴의 흔적을 남깁니다.
-svirfneblintrade,git,Creature List/4/FirstName,0,고블린 엘리트
+svirfneblintrade,git,Creature List/3/Description,0,"거대한 원숭이와 딱정벌레의 교차처럼 보이는 지하 괴물들, 움버 헐크는 어디로 가든 파괴적인 흔적을 남깁니다."
+svirfneblintrade,git,Creature List/4/FirstName,0,고블린 정예
 svirfneblintrade,git,Creature List/4/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-svirfneblintrade,git,Creature List/5/FirstName,0,고블린 엘리트
+svirfneblintrade,git,Creature List/5/FirstName,0,고블린 정예
 svirfneblintrade,git,Creature List/5/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-svirfneblintrade,git,Creature List/6/FirstName,0,고블린 엘리트
+svirfneblintrade,git,Creature List/6/FirstName,0,고블린 정예
 svirfneblintrade,git,Creature List/6/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-svirfneblintrade,git,Creature List/7/FirstName,0,고블린 엘리트
+svirfneblintrade,git,Creature List/7/FirstName,0,고블린 정예
 svirfneblintrade,git,Creature List/7/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-svirfneblintrade,git,Creature List/8/FirstName,0,고블린 엘리트
+svirfneblintrade,git,Creature List/8/FirstName,0,고블린 정예
 svirfneblintrade,git,Creature List/8/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-svirfneblintrade,git,Creature List/9/FirstName,0,고블린 엘리트
+svirfneblintrade,git,Creature List/9/FirstName,0,고블린 정예
 svirfneblintrade,git,Creature List/9/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-svirfneblintrade,git,Creature List/10/FirstName,0,도블린 장군
+svirfneblintrade,git,Creature List/10/FirstName,0,고블린 족장
 svirfneblintrade,git,Creature List/10/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
 svirfneblintrade,git,Door List/0/LocName,0,외면
 svirfneblintrade,git,Door List/0/Description,0,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
@@ -2898,11 +2898,11 @@ svirfneblintrade,git,Encounter List/0/LocalizedName,0,헐크 함정
 svirfneblintrade,git,Encounter List/1/LocalizedName,0,헐크 함정
 svirfneblintrade,git,TriggerList/1/LocalizedName,0,트레이더_캠프
 svirfneblintrade,git,TriggerList/2/LocalizedName,0,전투 장소로 가는 교역
-svirfneblintrade,git,WaypointList/0/MapNote,0,드로 캠프
+svirfneblintrade,git,WaypointList/0/MapNote,0,드로우 야영지
 svirfneblintrade,git,WaypointList/1/MapNote,0,관측 칸막이
 svirfneblintrade,git,WaypointList/2/MapNote,0,북부 무역도
 svirfneblintrade,git,WaypointList/3/LocalizedName,0,지도 메모
-svirfneblintrade,git,WaypointList/3/MapNote,0,드로 캠프
+svirfneblintrade,git,WaypointList/3/MapNote,0,드로우 야영지
 svirfneblintrade,git,Placeable List/8/LocName,0,버섯Lg
 svirfneblintrade,git,Placeable List/9/LocName,0,MushroomMed
 svirfneblintrade,git,Placeable List/10/LocName,0,MushroomMed
@@ -2938,7 +2938,7 @@ themadmage,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,지배 의복
 themadmage,git,Door List/0/LocName,0,태양문
 themadmage,git,SoundList/0/LocName,0,벼랑 위 폭포 (중)
 themadmage,git,StoreList/0/LocName,0,타르네스 가게
-themadmage,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,스미팅 클럽
+themadmage,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,강타의 곤봉
 themadmage,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,이 구단은 큰 힘을 가지고 있고 고렘을 때면 건물이 완전히 즉시 파괴될 가능성이 높습니다.
 themadmage,git,TriggerList/0/LocalizedName,0,매게토캠프2
 themadmage,git,WaypointList/0/MapNote,0,차단된 터널
@@ -2950,7 +2950,7 @@ themadmage,git,Placeable List/8/LocName,0,기둥
 themadmage,git,Placeable List/8/Description,0,철과 돌로 만들어진 스타일링 된 기둥.
 themadmage,git,Placeable List/9/LocName,0,기둥
 themadmage,git,Placeable List/9/Description,0,철과 돌로 만들어진 스타일링 된 기둥.
-themadmage,git,Placeable List/44/LocName,0,일산
+themadmage,git,Placeable List/44/LocName,0,해시계
 themadmage,git,Placeable List/44/Description,0,태양이 빛나는 다이얼에서 빛나는 그림자가 시간을 표시합니다.
 themadmage,git,Placeable List/48/LocName,0,발광_v100
 themadmage,git,Placeable List/49/LocName,0,발광_v100
@@ -2967,40 +2967,67 @@ themadmage,git,Placeable List/59/LocName,0,발광_v100
 themadmage,git,Placeable List/60/LocName,0,발광_v100
 themadmage,git,Placeable List/61/LocName,0,부시퍼렌
 themadmage,git,Placeable List/61/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/62/LocName,0,고사리
 themadmage,git,Placeable List/62/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/63/LocName,0,고사리
 themadmage,git,Placeable List/63/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/64/LocName,0,고사리
 themadmage,git,Placeable List/64/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/65/LocName,0,고사리
 themadmage,git,Placeable List/65/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/66/LocName,0,고사리
 themadmage,git,Placeable List/66/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/67/LocName,0,고사리
 themadmage,git,Placeable List/67/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/68/LocName,0,고사리
 themadmage,git,Placeable List/68/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/69/LocName,0,고사리
 themadmage,git,Placeable List/69/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/70/LocName,0,고사리
 themadmage,git,Placeable List/70/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/71/LocName,0,고사리
 themadmage,git,Placeable List/71/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/72/LocName,0,고사리
 themadmage,git,Placeable List/72/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 themadmage,git,Placeable List/73/LocName,0,부시퍼렌
 themadmage,git,Placeable List/73/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 themadmage,git,Placeable List/74/LocName,0,부시퍼렌
 themadmage,git,Placeable List/74/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/75/LocName,0,고사리
 themadmage,git,Placeable List/75/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/76/LocName,0,고사리
 themadmage,git,Placeable List/76/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/77/LocName,0,고사리
 themadmage,git,Placeable List/77/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/78/LocName,0,고사리
 themadmage,git,Placeable List/78/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/79/LocName,0,고사리
 themadmage,git,Placeable List/79/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/80/LocName,0,고사리
 themadmage,git,Placeable List/80/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 themadmage,git,Placeable List/81/LocName,0,부시퍼렌
 themadmage,git,Placeable List/81/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 themadmage,git,Placeable List/82/LocName,0,부시퍼렌
 themadmage,git,Placeable List/82/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/83/LocName,0,고사리
 themadmage,git,Placeable List/83/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/84/LocName,0,고사리
 themadmage,git,Placeable List/84/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/85/LocName,0,고사리
 themadmage,git,Placeable List/85/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/86/LocName,0,고사리
 themadmage,git,Placeable List/86/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/87/LocName,0,고사리
 themadmage,git,Placeable List/87/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/88/LocName,0,고사리
 themadmage,git,Placeable List/88/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/89/LocName,0,고사리
 themadmage,git,Placeable List/89/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/90/LocName,0,고사리
 themadmage,git,Placeable List/90/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/91/LocName,0,고사리
 themadmage,git,Placeable List/91/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/92/LocName,0,고사리
 themadmage,git,Placeable List/92/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 themadmage,git,Placeable List/93/LocName,0,부시퍼렌
 themadmage,git,Placeable List/93/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
@@ -3008,15 +3035,25 @@ themadmage,git,Placeable List/94/LocName,0,부시퍼렌
 themadmage,git,Placeable List/94/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 themadmage,git,Placeable List/95/LocName,0,부시퍼렌
 themadmage,git,Placeable List/95/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/96/LocName,0,고사리
 themadmage,git,Placeable List/96/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/97/LocName,0,고사리
 themadmage,git,Placeable List/97/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/98/LocName,0,고사리
 themadmage,git,Placeable List/98/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/99/LocName,0,고사리
 themadmage,git,Placeable List/99/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/100/LocName,0,고사리
 themadmage,git,Placeable List/100/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/101/LocName,0,고사리
 themadmage,git,Placeable List/101/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/102/LocName,0,고사리
 themadmage,git,Placeable List/102/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/103/LocName,0,고사리
 themadmage,git,Placeable List/103/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/104/LocName,0,고사리
 themadmage,git,Placeable List/104/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/105/LocName,0,고사리
 themadmage,git,Placeable List/105/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 themadmage,git,Placeable List/106/LocName,0,부시퍼렌
 themadmage,git,Placeable List/106/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
@@ -3050,8 +3087,11 @@ themadmage,git,Placeable List/120/LocName,0,2
 themadmage,git,Placeable List/120/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 themadmage,git,Placeable List/121/LocName,0,2
 themadmage,git,Placeable List/121/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/122/LocName,0,고사리
 themadmage,git,Placeable List/122/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/123/LocName,0,고사리
 themadmage,git,Placeable List/123/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
+themadmage,git,Placeable List/124/LocName,0,고사리
 themadmage,git,Placeable List/124/Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 thesage,git,Creature List/0/FirstName,0,지혜로운 사람
 thesage,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,지혜 의 옷
@@ -3059,12 +3099,12 @@ thesage,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,지혜 의 직원
 waybacktotheoutp,git,Creature List/0/FirstName,0,삼촌
 waybacktotheoutp,git,Creature List/0/LastName,0,티레나
 waybacktotheoutp,git,Creature List/0/Description,0,트리안다르 티르에나는 멘즈베란잔의 아카데미인 마법사의 가장 유망한 추종자 중 한 명이다. 그는 귀족 품종이 아니더라도 놀라운 경력을 쌓았으며 자신의 재능을 잘 지불하는 주택과 상인들에게 팔았다. 현재 그는 미스터스 피비웨이언에게 암흑으로 사냥하는 데 도움을 주도록 할당된다. 트리안다르는 인내심이 없고 자존심이 있다고 한다. 그는 현재 할 일을 좋아하지 않는다는 것은 분명하다. 그리고 그의 고용주보다 덜.
-waybacktotheoutp,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,작은 권력의 반지
+waybacktotheoutp,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,하급 권능의 반지
 waybacktotheoutp,git,Creature List/0/Equip_ItemList/4/DescIdentified,0,"마인세릴 로스트본 (Mynseril Lostbone) 은 마라르의 강력한 사제였으며, 많은 피의 싸움이나 전투를 즐겼지만, 그러한 전투가 너무 조기에 끝났다고 느꼈다. 마인세릴은 트롤의 재생 능력을 연구하면서 일반 전투장보다 재생 전사장에서 더 많은 엔터테인먼트 가치를 얻을 수 있다고 확신했다. 그래서 그는 여러 강력한 반지의 제작을 위탁했습니다. 반지가 완성되면, 그는 특히 악의적인 전사들에게 배포했습니다."
 waybacktotheoutp,git,Creature List/1/FirstName,0,드로우 민병대
 waybacktotheoutp,git,Creature List/1/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-waybacktotheoutp,git,Creature List/1/ItemList/0/LocalizedName,0,가벼운 크로스보
-waybacktotheoutp,git,Creature List/1/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+waybacktotheoutp,git,Creature List/1/ItemList/0/LocalizedName,0,경쇠뇌
+waybacktotheoutp,git,Creature List/1/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 waybacktotheoutp,git,Creature List/1/ItemList/1/LocalizedName,0,장작품 롱스word
 waybacktotheoutp,git,Creature List/1/ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 waybacktotheoutp,git,Creature List/1/ItemList/2/LocalizedName,0,칼 + 1
@@ -3072,12 +3112,12 @@ waybacktotheoutp,git,Creature List/1/ItemList/2/DescIdentified,0,이 마법 무�
 waybacktotheoutp,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 waybacktotheoutp,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 waybacktotheoutp,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,마법 저항 14
-waybacktotheoutp,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,가벼운 독성 발작
+waybacktotheoutp,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,약한 독 쇠뇌화살
 waybacktotheoutp,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 waybacktotheoutp,git,Creature List/2/FirstName,0,드로우 민병대
 waybacktotheoutp,git,Creature List/2/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-waybacktotheoutp,git,Creature List/2/ItemList/0/LocalizedName,0,가벼운 크로스보
-waybacktotheoutp,git,Creature List/2/ItemList/0/DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
+waybacktotheoutp,git,Creature List/2/ItemList/0/LocalizedName,0,경쇠뇌
+waybacktotheoutp,git,Creature List/2/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
 waybacktotheoutp,git,Creature List/2/ItemList/1/LocalizedName,0,장작품 롱스word
 waybacktotheoutp,git,Creature List/2/ItemList/1/DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
 waybacktotheoutp,git,Creature List/2/ItemList/2/LocalizedName,0,칼 + 1
@@ -3085,52 +3125,52 @@ waybacktotheoutp,git,Creature List/2/ItemList/2/DescIdentified,0,이 마법 무�
 waybacktotheoutp,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 waybacktotheoutp,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 waybacktotheoutp,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,마법 저항 14
-waybacktotheoutp,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,가벼운 독성 발작
+waybacktotheoutp,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,약한 독 쇠뇌화살
 waybacktotheoutp,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 waybacktotheoutp,git,Creature List/3/FirstName,0,드로우 암살자
 waybacktotheoutp,git,Creature List/3/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 waybacktotheoutp,git,Creature List/3/ItemList/5/LocalizedName,0,스키미터 +1
 waybacktotheoutp,git,Creature List/3/ItemList/5/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 waybacktotheoutp,git,Creature List/3/ItemList/6/LocalizedName,0,건조한 마음
-waybacktotheoutp,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+waybacktotheoutp,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 waybacktotheoutp,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-waybacktotheoutp,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+waybacktotheoutp,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 waybacktotheoutp,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-waybacktotheoutp,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,독성 발트
+waybacktotheoutp,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 waybacktotheoutp,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 waybacktotheoutp,git,Creature List/4/FirstName,0,드로우 암살자
 waybacktotheoutp,git,Creature List/4/Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 waybacktotheoutp,git,Creature List/4/ItemList/5/LocalizedName,0,스키미터 +1
 waybacktotheoutp,git,Creature List/4/ItemList/5/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 waybacktotheoutp,git,Creature List/4/ItemList/6/LocalizedName,0,건조한 마음
-waybacktotheoutp,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,체인 셔츠 +1
+waybacktotheoutp,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 waybacktotheoutp,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-waybacktotheoutp,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,라이트 크로스보 +1
+waybacktotheoutp,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,경쇠뇌 +1
 waybacktotheoutp,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-waybacktotheoutp,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,독성 발트
+waybacktotheoutp,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,독 쇠뇌화살
 waybacktotheoutp,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-waybacktotheoutp,git,Creature List/5/FirstName,0,고블린 엘리트
+waybacktotheoutp,git,Creature List/5/FirstName,0,고블린 정예
 waybacktotheoutp,git,Creature List/5/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-waybacktotheoutp,git,Creature List/6/FirstName,0,고블린 엘리트
+waybacktotheoutp,git,Creature List/6/FirstName,0,고블린 정예
 waybacktotheoutp,git,Creature List/6/Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
-waybacktotheoutp,git,Creature List/7/FirstName,0,괴물
+waybacktotheoutp,git,Creature List/7/FirstName,0,고블린
 waybacktotheoutp,git,Creature List/7/Description,0,"많은 모험가들은 고블린을 더 이상 '벨리스티거'처럼 볼 수 없습니다. 그러나 사람이 그것을 발견하지 못하면, 그들은 급속히 증가할 수 있으며, 따라서 문명화된 지역은 엄청난 위협으로 변할 수 있습니다."
-waybacktotheoutp,git,Creature List/8/FirstName,0,괴물
+waybacktotheoutp,git,Creature List/8/FirstName,0,고블린
 waybacktotheoutp,git,Creature List/8/Description,0,"많은 모험가들은 고블린을 더 이상 '벨리스티거'처럼 볼 수 없습니다. 그러나 사람이 그것을 발견하지 못하면, 그들은 급속히 증가할 수 있으며, 따라서 문명화된 지역은 엄청난 위협으로 변할 수 있습니다."
 waybacktotheoutp,git,TriggerList/0/LocalizedName,0,트리거 3차 사망
 waybacktotheoutp,git,TriggerList/1/LocalizedName,0,플레이어에 대한 트리거 공격
-waybacktotheoutp,git,TriggerList/2/LocalizedName,0,새로운 지역 전환
+waybacktotheoutp,git,TriggerList/2/LocalizedName,0,뉴 에이리어 트랜지션
 waybacktotheoutp,git,WaypointList/0/LocalizedName,0,이정표
 waybacktotheoutp,git,WaypointList/1/LocalizedName,0,이정표
 waybacktotheoutp,git,WaypointList/2/LocalizedName,0,이정표
 waybacktotheoutp,git,WaypointList/3/LocalizedName,0,이정표
 waybacktotheoutp,git,WaypointList/4/LocalizedName,0,이정표
 waybacktotheoutp,git,WaypointList/5/LocalizedName,0,이정표
-waybacktotheoutp,git,WaypointList/6/LocalizedName,0,드로 캠프
-waybacktotheoutp,git,WaypointList/6/MapNote,0,드로 캠프
+waybacktotheoutp,git,WaypointList/6/LocalizedName,0,드로우 야영지
+waybacktotheoutp,git,WaypointList/6/MapNote,0,드로우 야영지
 module,ifo,Mod_Name,0,AHTD 3 - 빛 까지
 module,ifo,Mod_Description,0,3장 - 빛까지 피우비언의 목표인 표면은 접근할 수 있습니다. 하지만 가장 큰 위험은 여전히 앞으로 ... 이 모듈은 10 - 11 레벨 캐릭터들을 위해 설계되었습니다.
-module,jrl,Categories/0/Name,0,관찰자
+module,jrl,Categories/0/Name,0,주시자
 module,jrl,Categories/0/EntryList/0/Text,0,"미인 플라이어 야라스덴은 북쪽 어딘가에서 ""관객 생물""을 죽이고"
 module,jrl,Categories/0/EntryList/1/Text,0,"저는 관찰자 한산을 죽이고, 그 눈의 한쪽을 유하르스덴에게 가져왔어요. 유하르스덴은 만족했고, 저에게 몇 가지 정보를 주었습니다. 하지만 그는 훨씬 더 많은 것을 알고 있다고 생각합니다."
 module,jrl,Categories/0/EntryList/2/Text,0,난 관찰자를 죽였어 한 을 죽이고 한쪽 눈을 유하르스덴에게 가져왔는데 유하르스덴은 만족했고 바보 같은 듀에른을 풀어줬어
@@ -3145,7 +3185,7 @@ module,jrl,Categories/2/EntryList/1/Text,0,D'vaernon은 Yharasden의 노예로 �
 module,jrl,Categories/2/EntryList/2/Text,0,제 요구에 따라 야라스덴은 D'바에논을 풀어줬어요
 module,jrl,Categories/2/EntryList/3/Text,0,다버논은 죽었어 멍청이야라스덴을 목숨을 바친 뒤 죽었어
 module,jrl,Categories/2/EntryList/4/Text,0,"야라스덴은 죽었고, 더베르논은 다시 자유로웠다."
-module,jrl,Categories/3/Name,0,마인드플레이어
+module,jrl,Categories/3/Name,0,마인드 플레이어
 module,jrl,Categories/3/EntryList/0/Text,0,한산은 내가 마인드플레이어를 죽이고 싶어한다. 마인드플레이어는 매우 현명한 사람이고 위험하다. 보시는 사람이 남쪽으로 빛나는 버섯으로 가득한 동굴을 검색해 그 유적의 입구를 찾으라고 말했다. 비밀 통로는 북쪽 벽에 있는 짧은 무사 터널에서 두 개의 빛나는 버섯 사이에 위치하고 있습니다. 나는 남쪽으로 svirfneblin 무역로를 따라 이 지역에 도달해야합니다. 한산은 성공의 증거로 마인드플레이어의 뇌를 원한다.
 module,jrl,Categories/3/EntryList/1/Text,0,마인드 플레이어는 죽었어 한섬은 야라스덴 뇌를 받아냈고 매우 만족했다
 module,jrl,Categories/3/EntryList/2/Text,0,한산은 죽었어 그의 임무는 더 이상 나에게 중요하지 않아
@@ -3176,33 +3216,33 @@ module,jrl,Categories/11/EntryList/1/Text,0,트리안데르 티레나는 익명�
 alkranal003,utc,FirstName,0,알크라날
 alkranal003,utc,LastName,0,'저'ein
 alkranal003,utc,Description,0,알크라날 주니어인 (Al'kranal Jr'ein) 는 멜레 마가테레의 최신 직업의 가장 장식된 날카로운 슈팅 선수 중 한 명이다. 그는 그의 킨스 감각과 칼에 대한 재능으로 잘 알려져 있습니다.
-areana_s,utc,FirstName,0,아레나
+areana_s,utc,FirstName,0,아라네아
 areana_s,utc,Description,0,"마법의 힘을 가진 지능적이고 모양을 변화시키는 거미들은, 아라냐는 물리적인 전투를 피하고 그 대신 그들의 웹과 주문에 의존하는 것을 선호합니다."
 ashimar001,utc,FirstName,0,아시마르
 ashimar001,utc,LastName,0,승려
-beardire001,utc,FirstName,0,디어 베어
+beardire001,utc,FirstName,0,흉포한 곰
 beardire001,utc,Description,0,디어 베어 (Dire Bears) 는 보통의 사촌들의 더 크고 악성적인 버전이다. 그들은 종종 강력한 레인저나 드루이드의 동반자로 발견된다.
-beholder,utc,FirstName,0,관찰자
+beholder,utc,FirstName,0,주시자
 beholder,utc,Description,0,"그 사람 들 은 외딴 곳 과 황폐 한 지역 에서 살고 있는 잔인 한 생명체 들 이다. 그 들 은 다른 인종 에 대해 동정심 을 갖지 않으며, 보통 그 들 을 본 바로 에 죽인다."
 cedric001,utc,FirstName,0,시드릭
 cedric001,utc,LastName,0,탐욕한 자
 dras001,utc,FirstName,0,Dras
 dras001,utc,LastName,0,마을사람
-drider,utc,FirstName,0,마이너
-drider001,utc,FirstName,0,마이너
+drider,utc,FirstName,0,드라이더
+drider001,utc,FirstName,0,드라이더
 drowfight005,utc,FirstName,0,드로우 민병대
 drowfight005,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 drowrogue010,utc,FirstName,0,드로우 암살자
 drowrogue010,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
 dvaern001,utc,FirstName,0,D'vaernon
 dvaern001,utc,Description,0,드로우들은 악의 속의 엘프들이고 위험한 언더더크에서 지하에 살고 있습니다.
-earthhuge001,utc,FirstName,0,거대한 지구 원자
+earthhuge001,utc,FirstName,0,거대한 대지의 원소 정령
 earthhuge001,utc,Description,0,지구 에레멘탈들은 엄청나게 강하고 견고하며 거의 모든 것을 잔해로 부딪힐 수 있습니다. 그들은 종종 큰 도시를 포위하는 군대에 의해 소집됩니다.
-earthhuge002,utc,FirstName,0,거대한 지구 원자
+earthhuge002,utc,FirstName,0,거대한 대지의 원소 정령
 earthhuge002,utc,Description,0,지구 에레멘탈들은 엄청나게 강하고 견고하며 거의 모든 것을 잔해로 부딪힐 수 있습니다. 그들은 종종 큰 도시를 포위하는 군대에 의해 소집됩니다.
 elthales001,utc,FirstName,0,엘탈레스
 elthales001,utc,LastName,0,시스'바릴로
-gobchiefa001,utc,FirstName,0,고블린 엘리트
+gobchiefa001,utc,FirstName,0,고블린 정예
 gobchiefa001,utc,Description,0,고블린은 종종 귀찮게 여겨지지만 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다.
 illithid001,utc,FirstName,0,일리시드
 illithid001,utc,Description,0,미인드 플레이어라고도 불리는 이리리히드는 너무 속임수적이고 악마적이며 강력한 존재로 어둠의 모든 주민들이 그들을 두려워합니다.
@@ -3217,24 +3257,24 @@ nelad003,utc,LastName,0,티에이'렌
 nelad003,utc,Description,0,넬라드 티레렌은 함정을 찾아내고 무기를 제거하는 데 뛰어난 재능을 가진 숙련된 악당이다. 현재 그는 여주인 피비비언의 사냥 그룹에서 사용할 수 있는 최고의 함정을 찾는 사람이다. 넬라드는 전투 능력으로 잘 알려져 있으며 그의 짧은 검은 항상 심각하게 독이되어 적들을 치명적인 타격으로 놀라게 한다.
 nooblegood,utc,FirstName,0,귀족
 nooblegood,utc,LastName,0,아래
-oldwarb001,utc,FirstName,0,해조리 군인
+oldwarb001,utc,FirstName,0,도마뱀인 전사
 oldwarb001,utc,Description,0,"원시적이고 야생적인 이 파충류 인형물들은 자극을 받으면 매우 위험할 수 있습니다. 그들은 격렬하게 영토를 차지하고, 그들이 거주하는 습지를 보호하기 위해 연합합니다."
 ormus001,utc,FirstName,0,오르무스
 ormus001,utc,LastName,0,지혜로운
 piwiewien004,utc,FirstName,0,피우비엔
 piwiewien004,utc,LastName,0,텐스
 piwiewien004,utc,Description,0,"피우비엔은 멘조베란잔의 귀족 가문 테트니스의 후손이다. 곤경기 때 이 가문은 멘조베란잔의 첫 귀족 가문인 베엔레 가문과 동맹을 맺었기 때문에 고통받았다. 베엔레 가문의 생존을 위해 대부분의 민병대를 희생하고 재원을 사용하게 된 피우비엔은 현재 매우 취약하고 약하다고 한다. 피우비엔은 야망과 성질과 속임수로 잘 알려져 있다. 이 사냥 여행은 그녀의 치크렐 - 그녀의 ""거짓의 시험""의 일부라고 한다. 당신은 평소보다 더 많은 발걸음을 지켜야합니다."
-spiddire001,utc,FirstName,0,'디어 스파이더'
+spiddire001,utc,FirstName,0,흉포한 거미
 spiddire001,utc,Description,0,"비록 진정한 악성 동물이 아니지만, 이 거미들은 여전히 보기에 무서운 존재이며 그들의 더 일반적인 사촌들보다 더 현명한 행동을 하는 것처럼 보입니다."
 statue,utc,FirstName,0,왜성상
 statue001,utc,FirstName,0,인간 동상은
-statue002,utc,FirstName,0,엘프 동상은
+statue002,utc,FirstName,0,엘프제 조각상
 statue003,utc,FirstName,0,스비르프네블린 동상
 summonedminion,utc,FirstName,0,소환된 기니온
-svirfneblin,utc,FirstName,0,스비르프네블린
-svirfneblin,utc,LastName,0,전투기
+svirfneblin,utc,FirstName,0,스버프네블린
+svirfneblin,utc,LastName,0,전사
 svirfneblin,utc,Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
-svirfneblin001,utc,FirstName,0,스비르프네블린
+svirfneblin001,utc,FirstName,0,스버프네블린
 svirfneblin001,utc,LastName,0,전쟁 지휘관
 svirfneblin001,utc,Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
 sywyn,utc,FirstName,0,시윈
@@ -3243,22 +3283,22 @@ tarnes,utc,FirstName,0,타르네
 tarnes,utc,LastName,0,타인
 tarnes002,utc,FirstName,0,타르네
 tarnes002,utc,LastName,0,타인
-tb_goblina,utc,FirstName,0,괴물
+tb_goblina,utc,FirstName,0,고블린
 tb_goblina,utc,Description,0,"많은 모험가들은 고블린을 더 이상 '벨리스티거'처럼 볼 수 없습니다. 그러나 사람이 그것을 발견하지 못하면, 그들은 급속히 증가할 수 있으며, 따라서 문명화된 지역은 엄청난 위협으로 변할 수 있습니다."
 thriandir004,utc,FirstName,0,삼촌
 thriandir004,utc,LastName,0,티레나
 thriandir004,utc,Description,0,트리안다르 티르에나는 멘즈베란잔의 아카데미인 마법사의 가장 유망한 추종자 중 한 명이다. 그는 귀족 품종이 아니더라도 놀라운 경력을 쌓았으며 자신의 재능을 잘 지불하는 주택과 상인들에게 팔았다. 현재 그는 미스터스 피비웨이언에게 암흑으로 사냥하는 데 도움을 주도록 할당된다. 트리안다르는 인내심이 없고 자존심이 있다고 한다. 그는 현재 할 일을 좋아하지 않는다는 것은 분명하다. 그리고 그의 고용주보다 덜.
 areana_lair,ute,LocalizedName,0,Areana_Lair
 earth2,ute,LocalizedName,0,지구 2
-fighters,ute,LocalizedName,0,전투기
+fighters,ute,LocalizedName,0,전사
 gasbeetles,ute,LocalizedName,0,가스 딱정벌레
 hulkambush,ute,LocalizedName,0,헐크 함정
 mohrgspawn,ute,LocalizedName,0,모르그 스파운
 spiderspawnin,ute,LocalizedName,0,스파이더 스파윈
-summonedearthele,ute,LocalizedName,0,부른 지구 원자
+summonedearthele,ute,LocalizedName,0,소환된 대지의 원소 정령
 undeadall001,ute,LocalizedName,0,무사 스켈
 warcommander,ute,LocalizedName,0,전쟁 지휘관
-aarcl013,uti,LocalizedName,0,체인 셔츠
+aarcl013,uti,LocalizedName,0,사슬 상의
 ability,uti,LocalizedName,0,마법 같은 능력
 ability,uti,Description,0,이것은 하루에 한 번 죽음의 마법으로부터 자신을 보호하는 마법 같은 능력입니다.
 arhe002,uti,LocalizedName,0,기종 헬멧
@@ -3266,16 +3306,16 @@ arhe004,uti,LocalizedName,0,팔린의 헬멧
 arhe004,uti,DescIdentified,0,발린 리븐스톤은 독특한 헬멧으로 잘 알려져 있었습니다.
 aring001,uti,LocalizedName,0,산 저항 반지
 aring001,uti,DescIdentified,0,"가레바르 대담은 평범한 적들로 지쳤을 때, 그는 애비스를 침략하기로 결정했다. 그는 자신의 재산을 모든 형태의 원자적 손해에 대한 증거가 된 반지를 사용했다. 이 유형의 첫 번째 반지. 아무도 반지가 яму의 666 층에서 그를 보호했는지 모른다. 그의 사람들은 열린 포털에서 반란을 일으켰고 그의 장비 없이 그를 밀어 넣었습니다. 그 이후로 그는 아무도 듣지 않았습니다."
-armhe011,uti,LocalizedName,0,황금 회로
+armhe011,uti,LocalizedName,0,황금 관
 armhe011,uti,DescIdentified,0,"정신 을 공격 하는 생물 들 은 악몽 의 물질 이므로 그것 들 을 보호 하는 물건 들 이 그 들 의 명예 를 훼손 할 수 있다는 것 은 놀라운 일 이 아니다. 예를 들어, 골든 서클트 들 은 그 들 이 처음 땅 아래로 물러나자면, 지성 을 삼는 동물 들 을 먹으며, 그런 생물 을 먹으면, 서클레트를 착용 하지 않고 마음 을 날개 하는 사람 을 낳았다고 주장 하는 것 과 연관 되어 왔다. 물론 이 모든 것 은 유신적 인 타버른 이야기 를 지나지 않는다."
-armhe014,uti,LocalizedName,0,경호자 헬멧
+armhe014,uti,LocalizedName,0,감시자의 투구
 armhe014,uti,DescIdentified,0,"이 마법 의 헤드 피스 는 보호자 신 인 헬름 의 신자 들 이 만든 것 인가, 아니면 그 들 이 그 이름 을 더 편리한 상황 으로 얻었는지는 분명 하지 않습니다. 어떤 상황 이든, 그 들 은 경호자 들 과 경호자 들 에게 매우 소중 히 여긴다. 그 들 은 모두 그 어떤 종류 의 가시적 인 빛 을 낸다. 그리고 많은 사람 들 은 마법 으로 착용 하는 사람 의 감각 을 고르게 한다. 말할 필요 없이, 악당 들 은 그 들 을 착용 하기 시작 해 왔으며, '구스 에게 좋은 것 은 똥구멍 에 좋은 것'이라는 옛 속담 을 증명 한다."
-arrows001,uti,LocalizedName,0,인간 의 을 뚫는 화살
+arrows001,uti,LocalizedName,0,관통 화살 휴먼의 방언
 arrows001,uti,DescIdentified,0,이 화살는 목표물에 깊숙이 찔러 타격을 당하면 추가적인 뚫는 손상을 입게 됩니다.
-ashmlw011,uti,LocalizedName,0,큰 방패 +1
+ashmlw011,uti,LocalizedName,0,대형 방패 +1
 ashmlw011,uti,DescIdentified,0,이 마법의 방패는 착용자에게 추가적인 보호를 제공하지만 특정 제조업체의 특징을 가지고 있지 않습니다.
-beholdereye,uti,LocalizedName,0,보는 사람 (마치한 사람)
-beholdereye001,uti,LocalizedName,0,관측자 눈 (Charm Monster)
+beholdereye,uti,LocalizedName,0,관찰자 눈 (사람 현혹)
+beholdereye001,uti,LocalizedName,0,관찰자 눈 (괴물 현혹)
 beholdereye002,uti,LocalizedName,0,보는 눈 (분해)
 beholdereye003,uti,LocalizedName,0,관측자 눈 (석화)
 beholdereye004,uti,LocalizedName,0,보는 눈 (죽음)
@@ -3295,32 +3335,32 @@ chain001,uti,LocalizedName,0,미트랄 체인
 chain001,uti,DescIdentified,0,"이 유형의 갑옷은 1020년 DR (Smoldering Spells Year, 1020 DR) 에서 Thay 인접한 땅에서 나타나기 시작하였다. 지각할 수 없는 재의 코팅이 그것을 검게 시켰으며, 움직임의 소음을 둔화시키고 은밀한 시도에 이상하게 만들었습니다. 그러나 면밀한 검토는 차링이 외부에서 적용 된 열의 결과였다는 것을 밝혀내고, 원래 소유자가 어떤 종류의 Thayvian-동동연을 겪었다는 것을 암시합니다. 이것은 슈트에 매우 병병적 인 느낌을 준다."
 drowheart,uti,LocalizedName,0,건조한 마음
 gnurmachsplai001,uti,LocalizedName,0,일리시드 던전 키
-helm001,uti,LocalizedName,0,말 머리 헬멧
+helm001,uti,LocalizedName,0,말갈기 투구
 illithidsbrain,uti,LocalizedName,0,일리티드의 뇌
 illithidtentacle,uti,LocalizedName,0,일리티드 텐택
-it_creitem002,uti,LocalizedName,0,Drow 레벨 20의 성질
-it_creitem010,uti,LocalizedName,0,Drow 레벨 1의 성질
+it_creitem002,uti,LocalizedName,0,드로우 레벨 20 속성
+it_creitem010,uti,LocalizedName,0,드로우 레벨 1 속성
 it_creitem046,uti,LocalizedName,0,롯의 숨기는 곳
-it_creitemdr004,uti,LocalizedName,0,성인 블랙 드래곤의 특성
-it_crewps003,uti,LocalizedName,0,1d4
+it_creitemdr004,uti,LocalizedName,0,성체 흑룡 속성
+it_crewps003,uti,LocalizedName,0,물기1d4
 it_mbelt029,uti,LocalizedName,0,가동성 벨트 +2
 it_mbelt029,uti,DescIdentified,0,"성공적 인 상인 로저 델포스는 도둑 반신조합을 결성하기 위해 도둑들에게 돈을 지불하여 워터디프의 상인들을 지키기 위해 보안 전문가가 될 수 있도록 했다. 경비자들은 강도들을 수사하기 위해 홀드 페르슨 주문을 사용하도록 훈련받았다. 이 보안 조치에 대항하기 위해 도둑들의 조합은 마법 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 조합 사이의 격상되는 전쟁에서, 이들 벨트 중 상당수는 보금점과 장비 매장으로 진입했다."
-it_mpotion025,uti,LocalizedName,0,중요 한 상처 를 치료 하는 약
+it_mpotion025,uti,LocalizedName,0,치명적인 상처 치료의 물약
 it_mpotion025,uti,DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-it_mpotion026,uti,LocalizedName,0,중소 한 상처 를 치료 하는 약
+it_mpotion026,uti,LocalizedName,0,일반 상처 치료의 물약
 it_mpotion026,uti,DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
-it_mpotion027,uti,LocalizedName,0,황새 의 힘 의 약
+it_mpotion027,uti,LocalizedName,0,황소의 근력 물약
 it_mpotion027,uti,DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-it_mpotion028,uti,LocalizedName,0,바르크스킨 투약
+it_mpotion028,uti,LocalizedName,0,나무껍질 피부의 물약
 it_mpotion028,uti,DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
-it_mring006,uti,LocalizedName,0,마법의 반지 방어
+it_mring006,uti,LocalizedName,0,마법 방어의 반지
 it_mring006,uti,DescIdentified,0,이 강력 한 방어 반지 들 은 불행 히 경쟁적 인 마법사 들 사이 의 대결 이 흔히 벌어지는 도시 지역 에서 많은 수요 를 받고 있습니다. 이 일 들 중 하나 를 장악 한 비교적 경험 이 없는 마법사 들 도 - 단 한 시간 에 가지만 - 대장 의 공격 을 견딜 수 있습니다.
-it_mring035,uti,LocalizedName,0,작은 권력의 반지
+it_mring035,uti,LocalizedName,0,하급 권능의 반지
 it_mring035,uti,DescIdentified,0,"마인세릴 로스트본 (Mynseril Lostbone) 은 마라르의 강력한 사제였으며, 많은 피의 싸움이나 전투를 즐겼지만, 그러한 전투가 너무 조기에 끝났다고 느꼈다. 마인세릴은 트롤의 재생 능력을 연구하면서 일반 전투장보다 재생 전사장에서 더 많은 엔터테인먼트 가치를 얻을 수 있다고 확신했다. 그래서 그는 여러 강력한 반지의 제작을 위탁했습니다. 반지가 완성되면, 그는 특히 악의적인 전사들에게 배포했습니다."
 it_wpwhip001,uti,LocalizedName,0,피우비안의 지팡이
 lieutenantaraksd,uti,LocalizedName,0,아락스 중위 일기
-maarcl006,uti,LocalizedName,0,가죽 장갑 + 3
-maarcl006,uti,DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만, 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 레지온 갑옷과 같은 아이템은 때때로 그들의 관여가 의심되는 사건에서 복구되었습니다."
+maarcl006,uti,LocalizedName,0,가죽 갑옷+3
+maarcl006,uti,DescIdentified,0,"아멘의 그림자 도둑들은 깊은 주머니를 가지고 있는 것으로 알려져 있으며, 수많은 배역범들과 작은 사기꾼들을 고용할 수 있지만 그들의 엘리트 핵심 구성원들은 실제로 매우 잘 장비를 갖추고 있습니다. 그림자 군단 갑옷과 같은 아이템은 때때로 이들의 관여가 의심되는 사건에서 복구되어 왔지만 길드 리더는 결코 소유권을 제한하거나 부인하지 않았습니다."
 maarcl036,uti,LocalizedName,0,GNOME 체인메일
 maarcl036,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 maarcl039,uti,LocalizedName,0,Drow 체인메일
@@ -3334,9 +3374,9 @@ maarcl042,uti,Description,0,이 선장은 매우 가볍게 꿰뚫어져 있습�
 maarcl042,uti,DescIdentified,0,파를린 리븐스톤은 스비르프네블린 마을 블링덴스톤의 숙련된 전쟁 지도자였다. 미트랄 홀의 대웅전에서 그를 보호하는 미트랄 스플링트 메일의 특별한 의복을 착용하고 수없이 많은 소규모 전투와 익사 순찰을 할 수 있었다.
 maarcl043,uti,LocalizedName,0,Drow 체인메일
 maarcl043,uti,DescIdentified,0,드로우 무장사들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-maarcl047,uti,LocalizedName,0,체인 셔츠 +1
+maarcl047,uti,LocalizedName,0,사슬 상의 +1
 maarcl047,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
-maarcl108,uti,LocalizedName,0,가죽 장갑 +1
+maarcl108,uti,LocalizedName,0,가죽 갑옷 +1
 maarcl108,uti,DescIdentified,0,이 마법의 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제조사의 특징을 가지고 있지 않습니다.
 maarcl109,uti,LocalizedName,0,피우비엔의 갑옷
 maarcl109,uti,Description,0,이 체인메일 의복은 하우스 테트니스의 높은 계급의 귀족들을 위해 만들어졌다는 것을 분명히 알 수 있습니다.
@@ -3345,14 +3385,14 @@ maarcl110,uti,LocalizedName,0,피우비엔스 피우비엔스
 maarcl110,uti,DescIdentified,0,이 피와프위 (Piwafwi) 는 익사 귀족의 표시로 분명하게 인식됩니다. 그것은 롤스의 사제인 피우비엔 테트네스 (Piwiewien Te'tness) 에 속했습니다. 다른 귀족들 앞에서 이 모자를 착용하는 것은 위험할 수 있습니다.
 maarcl111,uti,LocalizedName,0,방패 의 덮개
 maarcl111,uti,DescIdentified,0,이 피와프위 (Piwafwi) 는 익사 귀족의 표시로 잘 인식된다. 그것은 분명히 오블로드라 가문에 속했으나 그 역사는 알려지지 않았다.
-maarcl112,uti,LocalizedName,0,속도의 체인메일
+maarcl112,uti,LocalizedName,0,속도의 사슬갑옷
 maarcl112,uti,DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳건히 믿었고, 그는 그의 체인메일 오브 스피드의 도움으로 수십 번의 전투에서 그것을 증명했습니다. 비행의 예술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사자의 순위에 결코 멀리 도달하지 못했습니다."
-mcloth002,uti,LocalizedName,0,베크나 의복
+mcloth002,uti,LocalizedName,0,베크나의 로브
 mcloth002,uti,DescIdentified,0,"고대 리히와 연관 된 여러 가지 물건 중 하나 인, 이 종류 의 의복 은 더 잘 알려진 독특 한 눈 또는 손 의 힘 에 비해 희미 한 것 이다. 그럼에도 불구하고, 단지 그의 존재 에 보관 하는 것만으로도 상당한 마법 의 에너지를 전달 할 수 있었다."
 mcloth003,uti,LocalizedName,0,지배 의복
 mcloth015,uti,LocalizedName,0,트리안데르의 전투복
 mcloth015,uti,DescIdentified,0,"엘미스터, 블랙스태프, 그리고 타이의 붉은 마법사의 능력에 대해 듣기 때문에 죽을 정도로 아픈 클라펜 포티어 (Klaphen Fortier) 는 강력하지만 비교적 알려지지 않은 마법사였다. 그의 희망은 젊고 무관심한 마법사들이 자신들에게 이름을 알리려는 희망으로 더 강력한 마법사들을 도전하도록 격려 될 수 있다는 것이었다."
-mindflayerprop,uti,LocalizedName,0,정신 플레이어 특성
+mindflayerprop,uti,LocalizedName,0,마인드 플레이어 속성
 nooblesgoodarmor,uti,LocalizedName,0,노블의 좋은 갑옷
 piwiewienshea001,uti,LocalizedName,0,발린의 머리
 piwiewienshea001,uti,Description,0,이 사람은 피우비안 테트니스의 무살의 머리입니다.
@@ -3364,7 +3404,7 @@ poisonamplifi002,uti,LocalizedName,0,독성 증폭기
 poisonamplifi002,uti,Description,0,이 이상한 모양의 메커니즘은 분명히 일종의 증폭기입니다. 그것은 화산의 증기를 매우 독성적인 가스로 변환합니다.
 poisonamplifier,uti,LocalizedName,0,독성 증폭기
 poisonamplifier,uti,Description,0,이 이상한 모양의 메커니즘은 분명히 일종의 증폭기입니다. 그것은 화산의 증기를 매우 독성적인 가스로 변환합니다.
-sash001,uti,LocalizedName,0,스미머링의 셰스
+sash001,uti,LocalizedName,0,희미한 빛의 띠
 sash001,uti,DescIdentified,0,"마법사 중밤이 그녀의 능력이 신들 사이에서 자리를 차지할 정도로 커지는 것을 보았을 때, 그녀의 영혼은 직결의 조직에서 마법을 마셨다. 그녀는 상승하여, 그녀의 필사적 자아와 재산을 많이 버렸지만, 그들은 또한 변형되었습니다. 그녀가 착용한 벨트는 너무 많은 에너지를 흡수하여 갈라지고, 많은 조각들 중 하나마다 독자적으로 강력한 아이템이 되었고, 마법 공격으로부터 휘두르는 자를 보호했습니다."
 sei_sla_1,uti,LocalizedName,0,마법 같은 능력
 sei_sla_1,uti,Description,0,이것은 하루에 한 번 맹성을 일으키는 마법 같은 능력입니다.
@@ -3375,7 +3415,7 @@ shield001,uti,LocalizedName,0,번개 방패
 shield001,uti,DescIdentified,0,이 마법의 방패는 착용자에게 추가적인 보호를 제공하지만 특정 제조업체의 특징을 가지고 있지 않습니다.
 spellresist001,uti,LocalizedName,0,마법 저항 14
 spellresist18,uti,LocalizedName,0,마법 저항 16
-ssword001,uti,LocalizedName,0,운이 좋은 사람
+ssword001,uti,LocalizedName,0,운 좋은 이
 ssword001,uti,DescIdentified,0,"이 칼은 누구든 발신한 ""큰 거""에 대한 대전에서 끝없는 사용이 된 스와시벅러의 칼입니다. 럭키 오네스 용병 회사 는 이 칼을 마지막 큰 점수를 통해 여전히 빨아들여서 주문했습니다. 그들의 무사한 후에 그들은 단지 그 흥분을 위해 모험을 했습니다. 점점 더 큰 용기있는 악행을 하기 위해 서로 도전했습니다. 왜 이 무기들은 더 이상 그들과 함께 있지 않습니까? 때로는 ""큰 거""가 승리합니다."
 summoningbowl,uti,LocalizedName,0,죽은 자 들 이 부르짖는 그릇
 summoningbowl,uti,Description,0,이 그릇은 악의 희미한 분위기를 나타냅니다.
@@ -3386,55 +3426,55 @@ sywymsskull,uti,LocalizedName,0,시움의 두개골
 sywymsskull,uti,DescIdentified,0,이것은 메노베르란잔의 대장인 시움 넷의 두개골입니다.
 trappersgauntlet,uti,LocalizedName,0,트래퍼 장갑
 trappersgauntlet,uti,DescIdentified,0,이 장갑은 익사 선구자의 함정을 설정하는 능력을 향상시키기 위해 만들어졌습니다.
-wammbo005,uti,LocalizedName,0,피어싱의
+wammbo005,uti,LocalizedName,0,관통의 쇠뇌화살
 wammbo005,uti,DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
-wammbo008,uti,LocalizedName,0,독성 발트
+wammbo008,uti,LocalizedName,0,독 쇠뇌화살
 wammbo008,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo009,uti,LocalizedName,0,가벼운 독성 발작
+wammbo009,uti,LocalizedName,0,약한 독 쇠뇌화살
 wammbo009,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo011,uti,LocalizedName,0,마비된 발트
+wammbo011,uti,LocalizedName,0,마비의 쇠뇌화살
 wammbo011,uti,DescIdentified,0,이 유형의 볼트는 목표물을 놀라게 할 수 있습니다. 하지만 전력과 기간은 볼트의 크리에이터의 힘에 의해 결정됩니다.
-wammbo012,uti,LocalizedName,0,독성 발트
+wammbo012,uti,LocalizedName,0,독 쇠뇌화살
 wammbo012,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo013,uti,LocalizedName,0,독성 발트
+wammbo013,uti,LocalizedName,0,독 쇠뇌화살
 wammbo013,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo014,uti,LocalizedName,0,독성 발트
+wammbo014,uti,LocalizedName,0,독 쇠뇌화살
 wammbo014,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-wammbo015,uti,LocalizedName,0,가벼운 독성 발작
+wammbo015,uti,LocalizedName,0,약한 독 쇠뇌화살
 wammbo015,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 wandx,uti,LocalizedName,0,추방 의 막대
 waxmhn009,uti,LocalizedName,0,아이스 리버 +1
-waxmhn009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기와 갑옷의 마크스메이트 마록의 표적을 지니고 있습니다. 그는 1373 DR 초기에 그것을 만들어, 그의 격리된 도시를 이른바 울음소리 죽음의 독성적인 포수로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
+waxmhn009,uti,DescIdentified,0,"이 무기는 네버윈터의 알도 (Neverwinter's 빛나는 기사 무기점) 의 마크스메이트, 왜로인 마르록의 표적을 가지고 있다. 그는 1373년 DR 초반에 동굴을 만들어서 그의 격리된 도시를 이른바 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblfl003,uti,LocalizedName,0,뱀 들 의 불꽃
 wblfl003,uti,DescIdentified,0,이 무기 는 익사자 들 에게만 사용 되는 독특한 무기 중 하나 이다. 성공적 인 히트 는 타오르는 산 을 목표 에 주입 하여 끔찍한 고통 을 초래 하지만 너무 많은 상처를 입지 않는다. 이 무기 는 다른 생명체 들 에게 고통 과 고통 을 가져다 주는 즐거움 을 발견 하는 익사자 여성 들 가운데 가장 좋아하는 무기 중 하나 이다.
-wblmcl013,uti,LocalizedName,0,스미팅 클럽
+wblmcl013,uti,LocalizedName,0,강타의 곤봉
 wblmcl013,uti,DescIdentified,0,이 구단은 큰 힘을 가지고 있고 고렘을 때면 건물이 완전히 즉시 파괴될 가능성이 높습니다.
 wblmfh009,uti,LocalizedName,0,수확기 +1
-wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기와 갑옷의 마크스메이트 마록의 표적을 지니고 있습니다. 그는 1373 DR 초기에 그것을 만들어, 그의 격리된 도시를 이른바 울음소리 죽음의 독성적인 포수로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
+wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 알도 (Neverwinter's 빛나는 기사 무기점) 의 마크스메이트, 왜로인 마르록의 표적을 가지고 있다. 그는 1373년 DR 초반에 동굴을 만들어서 그의 격리된 도시를 이른바 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblmhw003,uti,LocalizedName,0,기놈 워햄어
 wblmhw003,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 wblmhw012,uti,LocalizedName,0,'드로우 돔'
 wblmhw012,uti,DescIdentified,0,이 무기는 드로우를 죽이기 위해 특별히 설계되었습니다.
-wblmml009,uti,LocalizedName,0,병사 의 능력
+wblmml009,uti,LocalizedName,0,병사의 힘
 wblmml009,uti,DescIdentified,0,"알가로운드 군대의 중위원 들 은 이 무기 를 받았다고 한다. 하지만 그 무기 의 설계 에 대한 결함 에 대해 알려지지 않았다. 많은 와일더 들 은 사망 하였지만, 모두 용감 하게 싸웠으며, 왕국 의 영웅 의 명예를 받았다. 이 결함적 인 무기 에 대한 책임 있는 장군 들 은 처벌 을 피할 수 있었고, 오늘날 그들은 존경 받는 죽은 사람 가운데 기억된다."
 wblmml010,uti,LocalizedName,0,장애의 메이스 +2
-wblmml010,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기와 갑옷의 마크스메이트 마록의 표적을 지니고 있습니다. 그는 1373 DR 초기에 그것을 만들어, 그의 격리된 도시를 이른바 울음소리 죽음의 독성적인 포수로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
+wblmml010,uti,DescIdentified,0,"이 무기는 네버윈터의 알도 (Neverwinter's 빛나는 기사 무기점) 의 마크스메이트, 왜로인 마르록의 표적을 가지고 있다. 그는 1373년 DR 초반에 동굴을 만들어서 그의 격리된 도시를 이른바 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wbwln002,uti,LocalizedName,0,노블의 롱보
-wbwmln005,uti,LocalizedName,0,엘프 궁전 Bow
+wbwmln005,uti,LocalizedName,0,엘프 궁정 활
 wbwmln005,uti,DescIdentified,0,"이 활은 전쟁 의 무기 보다 예술 작품 이다. 화려한 조각 은 청화 된 나무 위에 춤추고 있으며, 끈 은 금 으로 빛나고 있으며, 그림 을 할 때 거의 노래 한다. 한 번 엘프 공예 의 독특하고 독창적인 예 를 생각 한 이 이론 은 학자들이 신화 드란노르의 유적 에서 반 십 개 같은 활 을 검증 할 때 폐기 되었다."
 wbwmxl003,uti,LocalizedName,0,기종 크로스보
 wbwmxl003,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wbwmxl004,uti,LocalizedName,0,라이트 크로스보 +1
+wbwmxl004,uti,LocalizedName,0,경쇠뇌 +1
 wbwmxl004,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wbwmxl011,uti,LocalizedName,0,루비 크로스보
+wbwmxl011,uti,LocalizedName,0,루비 쇠뇌
 wbwmxl011,uti,DescIdentified,0,"이 보석 물품의 첫 번째 예는 기념비적인 장식용으로 만들어졌으며, 사용이 의도되지 않았습니다. 그러나 실험은 무기 건설에 사용되는 이상한 루비에서 에너지를 방출함으로써 목표물에 큰 공포를 심어주었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌습니다. 그리고 그 이후 무기도 여러 번 복제되었습니다."
-wbwxl003,uti,LocalizedName,0,가벼운 크로스보
-wbwxl003,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
-wbwxl004,uti,LocalizedName,0,가벼운 크로스보
-wbwxl004,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
-wbwxl005,uti,LocalizedName,0,가벼운 크로스보
-wbwxl005,uti,DescIdentified,0,이 라이트 크로스보이는 특별한 품질입니다.
-wmgst004,uti,LocalizedName,0,마법사 들 의 직원
+wbwxl003,uti,LocalizedName,0,경쇠뇌
+wbwxl003,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
+wbwxl004,uti,LocalizedName,0,경쇠뇌
+wbwxl004,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
+wbwxl005,uti,LocalizedName,0,경쇠뇌
+wbwxl005,uti,DescIdentified,0,이 경쇠뇌는 특별한 품질이 있습니다.
+wmgst004,uti,LocalizedName,0,마법 학자의 지팡이
 wmgst004,uti,DescIdentified,0,"이 종류 의 스태프 는 예술가의 공예 의 최고점 이며, 각각의 스태프 는 매술가 의 수십 년 의 연구 의 최고점 을 나타낸다. 그 들 의 창조 의 비밀 은 거의 사라진 것 으로서, 그러한 스태프 들 은 살아있는 마법사 들 의 손 보다 고대 용 들 의 무리 에서 더 많이 발견 된다."
 wswls003,uti,LocalizedName,0,장작품 롱스word
 wswls003,uti,DescIdentified,0,이 롱스워드는 특별한 품질이 있습니다.
@@ -3447,7 +3487,7 @@ wswmdg011,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이�
 wswmdg012,uti,LocalizedName,0,칼 + 1
 wswmdg012,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
 wswmka010,uti,LocalizedName,0,검 성자의 유산 +4
-wswmka010,uti,DescIdentified,0,"이 무기는 1373년 DR 후반에 베오루나의 우스그르트 마을에서 임시 도금에서 일하던 왜성 바룬의 표적을 지니고 있으며, 당시 북부 도시 네버윈터와 로더스 동맹에 대항하는 배신자 레이디 아리베스와의 전쟁에 도움을 주기 위해 만들어졌다."
+wswmka010,uti,DescIdentified,0,이 무기는 1373년 DR 후반에 베오룬나의 우물의 우스그르트 마을에서 improvised forge 에서 일했던 쟁이 바룬 (Barun) 의 마크를 지니고 있습니다. 그는 그 당시 북부 도시 네버윈터와 Lords' Alliance 에 대항하여 행진하던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 그것을 만들어냈다.
 wswmrp013,uti,LocalizedName,0,날카로운
 wswmrp013,uti,DescIdentified,0,"최근 몇 년 동안, 몇몇 도둑 조합은 이 칼에 의해 멤버를 잃었다고 보고했다. 피해자의 가슴에 잔혹한 서명으로 남겨진 무기. 그 뒤에 있는 공예가 알려지지 않았지만, 그들을 사용하는 집단의 의도는 충분히 분명했다: 자신의 확장을 촉진하기 위해 기존 그룹을 불안정화하기 위해. 그러나 마지막 살인 이후 몇 년이 지났고, 침입이 포기되었거나 폭력적인 수단으로 성공했다는 것을 암시합니다. 지하 지역 사회의 구성원들은 정보를 제공하지 않았습니다."
 wswmsc003,uti,LocalizedName,0,스키미터 +1
@@ -3461,7 +3501,7 @@ wswmss004,uti,Description,0,"이 짧은 칼은 뛰어난 작품이고, 칼은 �
 wswmss004,uti,DescIdentified,0,"이 솜씨 좋은 짧은 검은 강력한 마법의 독으로 어져 있었습니다. 칼에 맞은 생명체는 짧은 시간 동안 눈부신 상태가 될 가능성이 높습니다. 이것은 너무 위험하지 않은 것처럼 들리지만, 그것은 확실히 생명과 죽음 사이의 차이점이 될 수 있습니다."
 wthmdt011,uti,LocalizedName,0,Dart+1
 wthmdt011,uti,DescIdentified,0,이 마법 무기는 공격과 피해를 보이기 위한 보너스를 가지고 있지만 특정 제조사의 특징을 가지고 있지 않습니다.
-wthmdt012,uti,LocalizedName,0,아시드 다트
+wthmdt012,uti,LocalizedName,0,산성 표창
 wthmdt012,uti,DescIdentified,0,"이 비늘 들 은 그 들 의 주위 에서 찌르는, 설명 할 수 없는 냄새 를 가지고 있으며, 그 들 의 끝 에서 찌는 소음 이 나오는 것 처럼 보인다."
 beholderstock,utm,LocName,0,관측자
 mageinventory,utm,LocName,0,마지 인벤토리
@@ -3475,14 +3515,15 @@ babylonox,utp,Description,0,이스타르 게이트 의 황소 모자이크
 babylonspearmen,utp,LocName,0,바빌론 스피어맨
 babylonspearmen,utp,Description,0,"바빌론 스피어맨 모자이크, 실제 벽 이미지로 구성된"
 corpse,utp,LocName,0,시체
-corpse001,utp,LocName,0,스파이크
-el_cleaner,utp,LocName,0,청소기
-el_cleaner,utp,Description,0,불행한 존재의 시체
+corpse001,utp,LocName,0,가시못
+el_cleaner,utp,LocName,0,청소부
+el_cleaner,utp,Description,0,불운한 생명체의 시체
 el_corpsetoloot,utp,LocName,0,시체
-el_corpsetoloot,utp,Description,0,불행한 존재의 시체
+el_corpsetoloot,utp,Description,0,불운한 생명체의 시체
 fireflies_v100,utp,LocName,0,발광_v100
 fireplacable,utp,LocName,0,소화재
-fireplacable001,utp,LocName,0,우천
+fireplacable001,utp,LocName,0,분수
+grasstuft001,utp,LocName,0,고사리
 grasstuft001,utp,Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
 grasstuft002,utp,LocName,0,2
 grasstuft002,utp,Description,0,잔디의 덩어리가 다른 덩어리 위에 펼쳐져 눈길을 끌고 있습니다.
@@ -3517,7 +3558,7 @@ cavemaze,utt,LocalizedName,0,동굴 Maze
 cavernstoblocked,utt,LocalizedName,0,동굴가 막힌
 createparty,utt,LocalizedName,0,파티를 만들
 destroyparty,utt,LocalizedName,0,파괴당
-dgastrap002,utt,LocalizedName,0,치명적 인 가스 함정
+dgastrap002,utt,LocalizedName,0,살인적인 기체 함정
 driders_camp,utt,LocalizedName,0,driders_camp
 enter_nelad,utt,LocalizedName,0,엔터_네라드
 magetocamp2,utt,LocalizedName,0,마그 2 캠프
@@ -3530,7 +3571,7 @@ spiderstocamp,utt,LocalizedName,0,아나운서는
 start_gas,utt,LocalizedName,0,시작_가스
 start_gas001,utt,LocalizedName,0,start_fire
 teleport_to_star,utt,LocalizedName,0,텔레포트_투_start
-toamysteriouscav,utt,LocalizedName,0,신비 한 동굴
+toamysteriouscav,utt,LocalizedName,0,신비한 동굴
 toblockedleft,utt,LocalizedName,0,좌측으로 차단
 toblockedright,utt,LocalizedName,0,바로 차단
 tradewaytobattle,utt,LocalizedName,0,전투 장소로 가는 교역

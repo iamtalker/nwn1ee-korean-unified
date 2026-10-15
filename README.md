@@ -17,8 +17,8 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | 공식 · Extra | Kingmaker, ShadowGuard, Witch's Wake, The Winds of Eremor, Neverwinter Chess, Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 구현 (기계번역 위주) |
 | 프리미엄 | Doom of Icewind Dale, Tyrants of the Moonsea, Darkness over Daggerford, Pirates of the Sword Coast | 구현 (설치 시 자동 다운로드) |
 | 프리미엄 | Dark Dreams of Furiae, Wyvern Crown of Cormyr, Infinite Dungeons | 구현 (기계번역 위주) |
-| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1~6장), Nature Abhors a Vacuum, Eye of the Beholder I·II | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
-| 커뮤니티 | Aielund Saga, Auren Saga, Crimson Tides of Tethyr, Siege of Shadowdale, Cult of the Reptile God | 미구현 (게임에서 내려받은 뒤 가능) |
+| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1~6장), Nature Abhors a Vacuum, Eye of the Beholder I·II, Crimson Tides of Tethyr, Siege of Shadowdale | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
+| 커뮤니티 | Aielund Saga, Auren Saga, Cult of the Reptile God | 미구현 (게임에서 내려받은 뒤 가능) |
 
 ※ 프리미엄 4종(DoD/ToTM/PotSC/DoIWD)의 번역은 [Steam 창작마당 nwn1ee_dod_kr](https://steamcommunity.com/sharedfiles/filedetails/?id=3437559043)
 제작자의 작업물이고 유료 모듈 파일을 포함하므로, 이 저장소에는 넣지 않았습니다.
