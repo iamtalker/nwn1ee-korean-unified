@@ -13,7 +13,8 @@
 | Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 완료 (기계번역 + 이름·UI 수동 교정, 긴 문단은 기계번역 위주) |
 | DoD/ToTM/PotSC/DoIWD | 완료 (창작마당 `nwn1ee_dod_kr` 자동 다운로드 후 설치) |
 | Dark Dreams of Furiae | 완료 (고유 문장 2,568개 기계번역 + 이름·UI 377개 수동 교정, 긴 대사는 기계번역 위주) |
-| 나머지 공식 Extra 3종(Kingmaker/ShadowGuard/Witch's Wake), 프리미엄 2종(Wyvern Crown, Infinite Dungeons), 커뮤니티 7종 | **미구현** (설치 창에 "미구현" 표시) |
+| Witch's Wake, ShadowGuard, Kingmaker, Wyvern Crown, Infinite Dungeons | 완료(v0.1.6): 기계번역 + 전역 용어 교정(557개) 자동 적용. 이름·UI 개별 검수는 **미완** |
+| 커뮤니티 7종 | **미구현**. NWSync 캐시에서 텍스트 추출·기계번역은 가능(`tools/nwsync_extract.py`), 적용 방식 미정 | **미구현** (설치 창에 "미구현" 표시) |
 
 ## 구조
 
@@ -69,7 +70,7 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
 - 릴리스 전: zip 을 풀어 `run_installer.bat` 와 `--list` 까지 확인.
 - 작업 폴더(임시/테스트)와 업로드 폴더(깃 클론)는 분리해서 사용한다.
 
-## 진행 중 작업 메모 (2026-10-14 중단 시점)
+## 작업 메모 (이전 중단 시점 기록, 참고용)
 
 - **Witch's Wake** 번역 진행 중이었음: 고유 문장 2,874개, 기계번역은 약 800개까지 진행 후 PC 종료로 중단(결과 미저장).
   - 재개: `tools/mt_translate.py <inline 폴더> <출력.json>` — 이제 체크포인트(`.partial`)로 이어하기를 지원한다.

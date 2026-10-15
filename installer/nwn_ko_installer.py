@@ -45,6 +45,12 @@ def find_game() -> Path:
     if env:
         return Path(env)
     cands = []
+    try:                                   # 이전에 사용자가 직접 지정한 경로
+        saved = (CACHE / "game_dir.txt").read_text(encoding="utf-8").strip()
+        if saved:
+            cands.append(Path(saved))
+    except OSError:
+        pass
     steam_roots = [Path(r"C:\Program Files (x86)\Steam"), Path(r"C:\Program Files\Steam")]
     for root in steam_roots:
         cands.append(root / "steamapps" / "common" / "Neverwinter Nights")
@@ -446,9 +452,9 @@ ITEMS = {i.id: i for i in [
     BaseTlk("oc", "The Wailing Death (오리지널 캠페인)", "본편 번역 (dialog.tlk 공용)", True),
     BaseTlk("sou", "Shadows of Undrentide", "본편 번역 (dialog.tlk 공용)", True),
     BaseTlk("hotu", "Hordes of the Underdark", "본편 번역 (dialog.tlk 공용)", True),
-    Todo("km", "Kingmaker"),
-    Todo("sg", "ShadowGuard"),
-    Todo("ww", "Witch's Wake"),
+    BuiltMod("km", "Kingmaker", "kingmaker", "Kingmaker.mod"),
+    BuiltMod("sg", "ShadowGuard", "shadowguard", "ShadowGuard.mod"),
+    BuiltMod("ww", "Witch's Wake", "witchswake", "Witch's Wake.mod"),
     BuiltMod("coc", "Contest of Champions", "coc", "Contest Of Champions 0492.mod"),
     BuiltMod("darkranger", "The Dark Ranger's Treasure", "darkranger", "The Dark Ranger's Treasure.mod"),
     BuiltMod("eremor", "The Winds of Eremor", "eremor", "The Winds of Eremor.mod"),
@@ -459,8 +465,8 @@ ITEMS = {i.id: i for i in [
     ExtModule("dod", "Darkness over Daggerford", "Darkness over Daggerford", tlk="ossian.tlk"),
     BuiltMod("ddf", "Dark Dreams of Furiae", "ddf", "Neverwinter Nights - Dark Dreams of Furiae.nwm", nwm=True),
     ExtModule("potsc", "Pirates of the Sword Coast", "Pirates of the Sword Coast", tlk="potsc.tlk", hak="potsc_tkr.hak"),
-    Todo("wcoc", "Wyvern Crown of Cormyr"),
-    Todo("id", "Infinite Dungeons"),
+    BuiltMod("wcoc", "Wyvern Crown of Cormyr", "wcoc", "Neverwinter Nights - Wyvern Crown of Cormyr.nwm", nwm=True),
+    BuiltMod("id", "Infinite Dungeons", "id", "Neverwinter Nights - Infinite Dungeons.nwm", nwm=True),
     Todo("c_hunt", "A Hunt Through The Dark"),
     Todo("c_eotb", "Eye of the Beholder"),
     Todo("c_aielund", "Aielund Saga"),
@@ -485,7 +491,31 @@ LAYOUT = [
 # ----------------------------------------------------------------- GUI
 def run_gui():
     import tkinter as tk
-    from tkinter import messagebox, ttk
+    from tkinter import filedialog, messagebox, ttk
+
+    # 게임 폴더를 자동으로 못 찾았으면 폴더 선택 창을 띄우고, 고른 경로를 기억한 뒤 다시 시작한다.
+    if not (GAME / "bin" / "win32" / "nwmain.exe").exists():
+        root = tk.Tk()
+        root.withdraw()
+        messagebox.showinfo(
+            "게임 폴더 선택",
+            "Neverwinter Nights 설치 폴더를 자동으로 찾지 못했습니다." + chr(10) +
+            "nwmain.exe 가 들어 있는 게임 폴더(Neverwinter Nights)를 선택해 주세요.")
+        chosen = filedialog.askdirectory(title="Neverwinter Nights 게임 폴더 선택")
+        root.destroy()
+        if chosen:
+            p = Path(chosen)
+            for cand in (p, p.parent.parent if p.name.lower() == "win32" else p):
+                if (cand / "bin" / "win32" / "nwmain.exe").exists():
+                    CACHE.mkdir(parents=True, exist_ok=True)
+                    (CACHE / "game_dir.txt").write_text(str(cand), encoding="utf-8")
+                    os.execv(sys.executable, [sys.executable] + sys.argv)   # 새 경로로 재시작
+            r2 = tk.Tk()
+            r2.withdraw()
+            messagebox.showerror("경로 오류", "선택한 폴더에서 bin\\win32\\nwmain.exe 를 찾지 못했습니다.")
+            r2.destroy()
+        return
+
     try:
         ensure_assets()
     except Exception as e:  # noqa: BLE001
