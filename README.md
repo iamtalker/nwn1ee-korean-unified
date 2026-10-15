@@ -17,8 +17,8 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | 공식 · Extra | Kingmaker, ShadowGuard, Witch's Wake, The Winds of Eremor, Neverwinter Chess, Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 구현 (기계번역 위주) |
 | 프리미엄 | Doom of Icewind Dale, Tyrants of the Moonsea, Darkness over Daggerford, Pirates of the Sword Coast | 구현 (설치 시 자동 다운로드) |
 | 프리미엄 | Dark Dreams of Furiae, Wyvern Crown of Cormyr, Infinite Dungeons | 구현 (기계번역 위주) |
-| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1~6장), Nature Abhors a Vacuum, Eye of the Beholder I·II, Crimson Tides of Tethyr, Siege of Shadowdale | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
-| 커뮤니티 | Aielund Saga, Auren Saga, Cult of the Reptile God | 미구현 (게임에서 내려받은 뒤 가능) |
+| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1~6장), Nature Abhors a Vacuum, Eye of the Beholder I·II, Crimson Tides of Tethyr, Siege of Shadowdale, The Fall of Aielund Pt.1, Cult of the Reptile God 2.0 | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
+| 커뮤니티 | Aielund 2·3부, Auren Saga, Defender of the Crown, Return of the Ironlord, Almraiven, Shadewood | 번역 중/미구현 (게임에서 내려받은 뒤 가능) |
 
 ※ 프리미엄 4종(DoD/ToTM/PotSC/DoIWD)의 번역은 [Steam 창작마당 nwn1ee_dod_kr](https://steamcommunity.com/sharedfiles/filedetails/?id=3437559043)
 제작자의 작업물이고 유료 모듈 파일을 포함하므로, 이 저장소에는 넣지 않았습니다.
@@ -44,9 +44,9 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | Eremor/Chess/CoC/Dark Ranger/To Heir is Human | 대사·이름·설명(모듈 내 텍스트) 기계번역 | 스크립트 속 문장은 대부분 번역(v0.1.13~, 일부는 조합식 문구라 영어), 2DA 항목, 이미지·영상 속 글자 |
 | Kingmaker/ShadowGuard/Witch's Wake/Wyvern Crown | 모듈 + HAK 안의 대사·이름·설명 기계번역 (v0.1.8~) | 일부 스크립트 조합 문구, 2DA, **Wyvern Crown 커스텀 TLK(354개)** |
 | Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (Infinite Dungeons 28,805개 전부 적용, Furiae 4,761개는 모두 모듈 안) | 일부 스크립트 조합 문구, 2DA |
-| 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(development 폴더 방식, 실험적) | 접두 `nw_` 리소스, 스크립트 문구, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
+| 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(development 폴더 방식, 실험적, 스크립트 속 문장 포함 v0.1.14~) | 접두 `nw_` 리소스, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
 | 커뮤니티: Defender of the Crown 등 나머지 | **번역 중/미포함** | 전부 |
-| 커뮤니티: Aielund Saga(1~3부) 등 | **미포함** | 전부 |
+| 커뮤니티: 위 목록 외 | **미포함** | 전부 |
 
 공통 사항:
 - 위 모듈의 번역은 **기계번역이 기본이며 이름·UI 일부만 사람이 교정**했습니다. 문장이 어색하거나 존대·반말이 섞일 수 있습니다.

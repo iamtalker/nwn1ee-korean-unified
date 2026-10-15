@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """ncs_extract.py 결과 + 기계번역(all.json) -> premium/<short>/ncs/ncs.csv (한국어만, 영어 원문 없음)
 
-usage: py ncs_pack.py <ncs_src.csv> <all.json> [--glossary glossary.json] [--corr corr.json ...]
+usage: py ncs_pack.py <ncs_src.csv> <all.json> [--glossary glossary.json] [--corr corr.json ...] [--community]
 열: Resource,Index,Check,Text
 적용 순서: 교정(corr) > 용어집 정확 일치 > 기계번역(청소 후)
 버리는 경우: 번역 없음 / 한글 없음 / 토큰(<..>)·서식(%s 등) 불일치 / CP949 로 인코딩 불가
@@ -46,6 +46,7 @@ def main(argv):
             i += 2
         else:
             i += 1
+    community = "--community" in argv
     mt = json.load(open(allj, encoding="utf-8"))
     out = {}
     stat = {}
@@ -64,13 +65,20 @@ def main(argv):
             st[0] += 1
             out.setdefault(r["Short"], []).append((r["Resource"].lower(), r["Index"], r["Check"], lead + ko + trail))
     for short, rows in out.items():
-        d = PREM / short / "ncs"
-        d.mkdir(parents=True, exist_ok=True)
+        if community:       # installer/community/<slug>/ncs.csv (번역 CSV 가 있는 캠페인만)
+            d = ROOT / "installer" / "community" / short
+            if not d.exists():
+                continue
+            fn = "ncs.csv"
+        else:
+            d = PREM / short / "ncs"
+            d.mkdir(parents=True, exist_ok=True)
+            fn = "ncs.csv"
         buf = io.StringIO()
         w = csv.writer(buf, lineterminator="\n")
         w.writerow(["Resource", "Index", "Check", "Text"])
         w.writerows(rows)
-        (d / "ncs.csv").write_bytes(buf.getvalue().encode("utf-8"))
+        (d / fn).write_bytes(buf.getvalue().encode("utf-8"))
     for short, (a, b) in sorted(stat.items()):
         print(f"{short}: {a}/{b} strings packed")
 

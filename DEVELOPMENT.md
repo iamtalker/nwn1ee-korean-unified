@@ -124,3 +124,10 @@ NPC 머리 위 말풍선(SpeakString)·시스템 메시지는 컴파일된 `.ncs
 - 대상 판별: `is_sentence()` (공백 포함, `_`/`***`/`os_` 제외, 3단어 이상 또는 문장부호로 끝남). 앞뒤 공백은 보존(문자열 이어붙이기용).
 - 한계: 문장이 조각으로 쪼개져 조합되는 메시지(`"You have " + IntToString(n) + " gold"`)는 조각별로 번역되어 어색할 수 있음.
   기본 캠페인(OC/SoU/HotU)과 DoD 4종 스크립트는 이 방식 대상이 아님(별도 작업).
+
+## v0.1.14 (커뮤니티 NCS + 추가 캠페인)
+- 커뮤니티 캠페인의 스크립트 문장: `tools/ncs_extract_community.py`(NWSync 캐시에서 NCS 추출) → `mt_translate.py` → `tools/ncs_pack.py ... --community` → `installer/community/<slug>/ncs.csv`.
+  설치 시 `CommunityModule.patch` 가 CRC 일치 NCS 를 재빌드해 `development/<resref>.ncs` 로 둔다. 고유 문장 7,109개(20개 캠페인 전체)는 이미 번역됨.
+- 번역 CSV(translations.csv)가 없는 캠페인 폴더에는 ncs.csv 를 만들지 않는다 → 캠페인 번역이 끝나 폴더가 생기면 `ncs_pack.py --community` 를 다시 실행하면 된다(번역은 재실행 불필요, 스크래치 `ncs_comm_all.json`).
+- 추가: The Fall of Aielund Pt.1, Against the Cult of the Reptile God 2.0.
+- 아직 번역 중: Defender of the Crown, Return of the Ironlord, Aielund Pt.2·3, Almraiven, Shadewood.

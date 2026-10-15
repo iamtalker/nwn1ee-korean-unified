@@ -611,6 +611,35 @@ class CommunityModule(Item):
                 dst = DEV / f"{resref}.{ext}"
                 put_bytes(gff.to_bytes(), dst)
                 written.append(str(dst))
+        # 컴파일된 스크립트(NCS) 안의 문장 (NPC 말풍선, 시스템 메시지): ncs.csv = Resource,Index,Check,Text
+        ncs_csv = HERE / "community" / self.slug / "ncs.csv"
+        if ncs_csv.exists():
+            import zlib
+            import ncs_tool  # noqa: E402
+            ncs = {}
+            with open(ncs_csv, "rb") as f:
+                for r in csv.DictReader(io.StringIO(f.read().decode("utf-8-sig"))):
+                    ncs.setdefault(r["Resource"].lower(), {})[int(r["Index"])] = (int(r["Check"]), r["Text"])
+            for resref, items in ncs.items():
+                q = meta.execute(
+                    "select resref_sha1 from manifest_resrefs where manifest_sha1=? and lower(resref)=? and restype=2010",
+                    (manifest, resref)).fetchone()
+                b = data.execute("select data from resrefs where sha1=?", (q[0],)).fetchone() if q else None
+                if not b:
+                    continue
+                blob = b[0]
+                i = blob.find(b"\x28\xb5\x2f\xfd")
+                try:
+                    raw = decompress(blob[i:]) if i >= 0 else blob
+                    idx = dict(ncs_tool.indexed_strings(raw))
+                    repl = {k: t for k, (crc, t) in items.items()
+                            if k in idx and zlib.crc32(idx[k].encode("latin-1")) == crc}
+                    if repl:
+                        dst = DEV / f"{resref}.ncs"
+                        put_bytes(ncs_tool.rebuild(raw, repl, by_index=True), dst)
+                        written.append(str(dst))
+                except Exception:
+                    continue
         CACHE.mkdir(parents=True, exist_ok=True)
         self.marker.write_text(json.dumps({"module": name, "dir": "development", "files": written}, ensure_ascii=False),
                                encoding="utf-8")
@@ -657,11 +686,12 @@ ITEMS = {i.id: i for i in [
     CommunityModule("c_eotb", "Eye of the Beholder", "Eye_of_the_Beholder"),
     CommunityModule("c_eotb2", "Eye of the Beholder II: Legend of Darkmoon", "Eye_of_the_Beholder_II_Legend_of_Darkmoon"),
     CommunityModule("c_nature", "Nature Abhors a Vacuum", "Nature_Abhors_a_Vacuum"),
-    Todo("c_aielund", "Aielund Saga"),
+    CommunityModule("c_aielund1", "The Fall of Aielund Pt.1", "The_Fall_of_Aielund_Pt_1"),
+    Todo("c_aielund", "Aielund Saga 2·3부"),
     Todo("c_auren", "Auren Saga"),
     CommunityModule("c_tethyr", "Crimson Tides of Tethyr", "Crimson_Tides_of_Tethyr_Enhanced_Edition"),
     CommunityModule("c_shadowdale", "Siege of Shadowdale", "Siege_of_Shadowdale_Enhanced_Edition"),
-    Todo("c_reptile", "Cult of the Reptile God"),
+    CommunityModule("c_reptile", "Against the Cult of the Reptile God 2.0", "Against_the_Cult_of_the_Reptile_God_2_0"),
 ]}
 
 # 게임 캠페인 선택 화면 분류/순서
@@ -671,7 +701,7 @@ LAYOUT = [
     ("#", "공식 - Extra Content"), "km", "sg", "ww", "coc", "darkranger", "eremor", "toheir", "chess",
     ("#", "프리미엄"), "doiwd", "totms", "dod", "ddf", "potsc", "wcoc", "id",
     ("#", "커뮤니티  (모듈 파일 확보 후 번역 가능)"),
-    "c_hunt0", "c_hunt1", "c_hunt2", "c_hunt3", "c_hunt4", "c_hunt5", "c_hunt6", "c_eotb", "c_eotb2", "c_nature", "c_aielund", "c_auren", "c_tethyr", "c_shadowdale", "c_reptile",
+    "c_hunt0", "c_hunt1", "c_hunt2", "c_hunt3", "c_hunt4", "c_hunt5", "c_hunt6", "c_eotb", "c_eotb2", "c_nature", "c_aielund1", "c_aielund", "c_auren", "c_tethyr", "c_shadowdale", "c_reptile",
     ("#", "로컬  (직접 설치한 모듈 - 번역 대상 아님)"),
 ]
 
