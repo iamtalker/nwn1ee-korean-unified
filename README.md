@@ -44,7 +44,7 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | Eremor/Chess/CoC/Dark Ranger/To Heir is Human | 대사·이름·설명(모듈 내 텍스트) 기계번역 | **스크립트에 박힌 문구**, 2DA 항목, 이미지·영상 속 글자 |
 | Kingmaker/ShadowGuard/Witch's Wake/Wyvern Crown | 모듈 + HAK 안의 대사·이름·설명 기계번역 (v0.1.8~) | 스크립트 문구, 2DA, **Wyvern Crown 커스텀 TLK(354개)** |
 | Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (Infinite Dungeons 28,805개 전부 적용, Furiae 4,761개는 모두 모듈 안) | 스크립트 문구, 2DA |
-| 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(override 방식, 실험적) | 접두 `nw_` 리소스, 스크립트 문구, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
+| 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(development 폴더 방식, 실험적) | 접두 `nw_` 리소스, 스크립트 문구, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
 | 커뮤니티: Defender of the Crown 등 나머지 | **번역 중/미포함** | 전부 |
 | 커뮤니티: Aielund Saga(1~3부) 등 | **미포함** | 전부 |
 
@@ -81,7 +81,8 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 
 ## 커뮤니티 캠페인 (실험적)
 
-게임이 NWSync 로 내려받은 캐시(문서 폴더의 `nwsync`)의 텍스트를 번역해 `override` 폴더에 설치합니다.
+게임이 NWSync 로 내려받은 캐시(문서 폴더의 `nwsync`)의 텍스트를 번역해 문서 폴더의 `development` 폴더에 설치합니다.
+(`override` 는 모듈·NWSync 보다 우선순위가 낮아 번역이 적용되지 않았습니다. **v0.1.10 이하에서 커뮤니티 캠페인을 패치했다면 v0.1.11 에서 다시 [패치]하세요.**)
 
 - **게임의 커뮤니티 탭에서 해당 캠페인을 먼저 내려받아야** 합니다.
 - 같은 리소스 이름을 쓰는 다른 모듈에도 영향을 줄 수 있으니 **플레이할 캠페인만 패치**하고, 끝나면 [원복]하세요.

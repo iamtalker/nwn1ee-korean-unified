@@ -106,6 +106,9 @@ BIN = GAME / "bin" / "win32"
 NWM = GAME / "data" / "nwm"
 MODDIR = GAME / "data" / "mod"
 OVR = DOCS / "override"
+# 문서\development: 리소스 검색 경로의 최상단 (override 는 HAK/모듈/NWSync 같은 ERF 컨테이너보다 아래라서
+# 모듈 안의 리소스를 덮지 못한다). 커뮤니티 캠페인 번역은 여기에 설치한다.
+DEV = DOCS / "development"
 HAK = DOCS / "hak"
 FONT_SRC = Path(os.environ.get("WINDIR", r"C:\Windows")) / "Fonts" / "malgun.ttf"
 FONT_NAMES = ["fnt_default.ttf", "fnt_default_hr.ttf", "fnt_maintext.ttf"]
@@ -524,8 +527,10 @@ class CommunityModule(Item):
 
     def applied(self):
         try:
-            files = json.loads(self.marker.read_text(encoding="utf-8"))["files"]
-            return bool(files) and Path(files[0]).exists()
+            m = json.loads(self.marker.read_text(encoding="utf-8"))
+            files = m["files"]
+            # v0.1.10 까지는 override 에 설치했으나 모듈 리소스를 덮지 못해 동작하지 않았다 -> 미적용으로 취급
+            return m.get("dir") == "development" and bool(files) and Path(files[0]).exists()
         except Exception:
             return False
 
@@ -541,6 +546,7 @@ class CommunityModule(Item):
         if not (mdb.exists() and ddb.exists()):
             raise RuntimeError(
                 "NWSync 캐시를 찾지 못했습니다.\n게임의 커뮤니티 탭에서 이 캠페인을 먼저 내려받으세요.\n" + str(nws))
+        self.restore()      # 예전 override 설치분/이전 적용분을 먼저 정리
         name = (HERE / "community" / self.slug / "NAME.txt").read_text(encoding="utf-8").strip()
         meta = sqlite3.connect(str(mdb))
         data = sqlite3.connect(str(ddb))
@@ -602,11 +608,12 @@ class CommunityModule(Item):
                 continue
             n = sum(1 for p, lang, t in items if set_text(gff.root, p, lang, t))
             if n:
-                dst = OVR / f"{resref}.{ext}"
+                dst = DEV / f"{resref}.{ext}"
                 put_bytes(gff.to_bytes(), dst)
                 written.append(str(dst))
         CACHE.mkdir(parents=True, exist_ok=True)
-        self.marker.write_text(json.dumps({"module": name, "files": written}, ensure_ascii=False), encoding="utf-8")
+        self.marker.write_text(json.dumps({"module": name, "dir": "development", "files": written}, ensure_ascii=False),
+                               encoding="utf-8")
         if not written:
             raise RuntimeError("적용된 리소스가 없습니다 (캠페인 버전이 다를 수 있습니다).")
 
