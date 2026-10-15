@@ -17,8 +17,7 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | 공식 · Extra | Kingmaker, ShadowGuard, Witch's Wake, The Winds of Eremor, Neverwinter Chess, Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 구현 (기계번역 위주) |
 | 프리미엄 | Doom of Icewind Dale, Tyrants of the Moonsea, Darkness over Daggerford, Pirates of the Sword Coast | 구현 (설치 시 자동 다운로드) |
 | 프리미엄 | Dark Dreams of Furiae, Wyvern Crown of Cormyr, Infinite Dungeons | 구현 (기계번역 위주) |
-| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1~6장), Nature Abhors a Vacuum | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
-| 커뮤니티 | Eye of the Beholder I·II | 번역 진행 중 |
+| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1~6장), Nature Abhors a Vacuum, Eye of the Beholder I·II | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
 | 커뮤니티 | Aielund Saga, Auren Saga, Crimson Tides of Tethyr, Siege of Shadowdale, Cult of the Reptile God | 미구현 (게임에서 내려받은 뒤 가능) |
 
 ※ 프리미엄 4종(DoD/ToTM/PotSC/DoIWD)의 번역은 [Steam 창작마당 nwn1ee_dod_kr](https://steamcommunity.com/sharedfiles/filedetails/?id=3437559043)
@@ -44,9 +43,8 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | DoD/ToTM/PotSC/DoIWD | 외부 한패 제작자의 번역 | 제작자가 영어로 남긴 스크립트 메시지 등 |
 | Eremor/Chess/CoC/Dark Ranger/To Heir is Human | 대사·이름·설명(모듈 내 텍스트) 기계번역 | **스크립트에 박힌 문구**, 2DA 항목, 이미지·영상 속 글자 |
 | Kingmaker/ShadowGuard/Witch's Wake/Wyvern Crown | 모듈 + HAK 안의 대사·이름·설명 기계번역 (v0.1.8~) | 스크립트 문구, 2DA, **Wyvern Crown 커스텀 TLK(354개)** |
-| Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (v0.1.8~, 대용량 HAK 빌드는 시험 전) | 스크립트 문구, 2DA |
-| 커뮤니티(AHTD, Nature Abhors a Vacuum) | 대사·이름·설명(override 방식, 실험적) | 접두 `nw_` 리소스, 스크립트 문구, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
-| 커뮤니티: Eye of the Beholder I·II | **아직 설치 프로그램에 미포함** (번역은 완료) | 전부 |
+| Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (Infinite Dungeons 28,805개 전부 적용, Furiae 4,761개는 모두 모듈 안) | 스크립트 문구, 2DA |
+| 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(override 방식, 실험적) | 접두 `nw_` 리소스, 스크립트 문구, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
 | 커뮤니티: Defender of the Crown 등 나머지 | **번역 중/미포함** | 전부 |
 | 커뮤니티: Aielund Saga(1~3부) 등 | **미포함** | 전부 |
 
