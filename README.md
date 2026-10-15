@@ -17,7 +17,9 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | 공식 · Extra | Kingmaker, ShadowGuard, Witch's Wake, The Winds of Eremor, Neverwinter Chess, Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 구현 (기계번역 위주) |
 | 프리미엄 | Doom of Icewind Dale, Tyrants of the Moonsea, Darkness over Daggerford, Pirates of the Sword Coast | 구현 (설치 시 자동 다운로드) |
 | 프리미엄 | Dark Dreams of Furiae, Wyvern Crown of Cormyr, Infinite Dungeons | 구현 (기계번역 위주) |
-| 커뮤니티 | A Hunt Through The Dark, Eye of the Beholder, Aielund Saga, Auren Saga, Crimson Tides of Tethyr, Siege of Shadowdale, Cult of the Reptile God | 미구현 |
+| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1~6장), Nature Abhors a Vacuum | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
+| 커뮤니티 | Eye of the Beholder I·II | 번역 진행 중 |
+| 커뮤니티 | Aielund Saga, Auren Saga, Crimson Tides of Tethyr, Siege of Shadowdale, Cult of the Reptile God | 미구현 (게임에서 내려받은 뒤 가능) |
 
 ※ 프리미엄 4종(DoD/ToTM/PotSC/DoIWD)의 번역은 [Steam 창작마당 nwn1ee_dod_kr](https://steamcommunity.com/sharedfiles/filedetails/?id=3437559043)
 제작자의 작업물이고 유료 모듈 파일을 포함하므로, 이 저장소에는 넣지 않았습니다.
@@ -51,6 +53,14 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 
 `assets/dialog.tlk` 는 [wonilclone/nwn_ee_korean](https://github.com/wonilclone/nwn_ee_korean)(MIT)의
 번역 CSV 를 같은 저장소의 `translate/merge_dialog_files.py` 로 빌드한 것입니다(이 저장소에는 원문 영어가 포함된 CSV 를 넣지 않았습니다).
+
+## 커뮤니티 캠페인 (실험적)
+
+게임이 NWSync 로 내려받은 캐시(문서 폴더의 `nwsync`)의 텍스트를 번역해 `override` 폴더에 설치합니다.
+
+- **게임의 커뮤니티 탭에서 해당 캠페인을 먼저 내려받아야** 합니다.
+- 같은 리소스 이름을 쓰는 다른 모듈에도 영향을 줄 수 있으니 **플레이할 캠페인만 패치**하고, 끝나면 [원복]하세요.
+- 게임 내 동작은 아직 충분히 검증되지 않았습니다. 문제가 있으면 [원복] 후 알려 주세요.
 
 ## 알려진 제한
 
