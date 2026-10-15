@@ -13,6 +13,7 @@
 환경변수(선택): NWN_GAME_DIR, NWN_DOCS_DIR, NWN_EXT_KR(외부 확장모듈 한패 zip/폴더)
 """
 import hashlib
+import json
 import os
 import re
 import shutil
@@ -447,6 +448,144 @@ class BuiltMod(Item):
         unput(self.dst)
 
 
+# ----------------------------------------------------------------- 커뮤니티 캠페인 (NWSync)
+_GFF_EXT = {"dlg": 2029, "utc": 2027, "uti": 2025, "utp": 2044, "utd": 2042, "utm": 2051,
+            "ute": 2040, "uts": 2035, "utt": 2032, "jrl": 2056, "are": 2012}
+
+
+def _zstd_decompress():
+    """zstd 해제 함수를 돌려준다 (Python 3.14 표준 / zstandard 패키지 / 자동 설치 순)."""
+    try:
+        from compression import zstd as _z          # Python 3.14+
+        return lambda b: _z.decompress(b)
+    except Exception:
+        pass
+    try:
+        import zstandard as _zs
+    except ImportError:
+        subprocess.run([sys.executable, "-m", "pip", "install", "--user", "-q", "zstandard"], check=False)
+        import importlib
+        importlib.invalidate_caches()
+        import zstandard as _zs
+    d = _zs.ZstdDecompressor()
+    return lambda b: d.decompress(b, max_output_size=64_000_000)
+
+
+class CommunityModule(Item):
+    """NWSync 로 내려받은 커뮤니티 캠페인의 텍스트를 번역해 override 폴더에 설치한다.
+
+    게임이 내려받은 캐시(문서\nwsync)의 리소스 + translations.csv(한국어만) 로 번역본 GFF 를 만든다.
+    같은 리소스 이름을 쓰는 다른 모듈에도 영향을 줄 수 있으므로, 플레이하는 캠페인만 패치하세요.
+    """
+
+    def __init__(self, id_, name, slug):
+        super().__init__(id_, name, "실험적: 내려받은 캠페인에 번역 적용 (override)", True)
+        self.slug = slug
+        self.csv = HERE / "community" / slug / "translations.csv"
+        self.ready = self.csv.exists()          # 번역 파일이 아직 없으면 "미구현"
+        self.marker = CACHE / f"community_{id_}.json"
+
+    def _nwsync(self):
+        return Path(os.environ.get("NWN_NWSYNC_DIR") or (DOCS / "nwsync"))
+
+    def applied(self):
+        try:
+            files = json.loads(self.marker.read_text(encoding="utf-8"))["files"]
+            return bool(files) and Path(files[0]).exists()
+        except Exception:
+            return False
+
+    def patch(self):
+        import csv
+        import io
+        import sqlite3
+        need_docs()
+        if not self.csv.exists():
+            raise RuntimeError("이 캠페인의 번역 파일이 아직 없습니다 (translations.csv).")
+        nws = self._nwsync()
+        mdb, ddb = nws / "nwsyncmeta.sqlite3", nws / "nwsyncdata_0.sqlite3"
+        if not (mdb.exists() and ddb.exists()):
+            raise RuntimeError(
+                "NWSync 캐시를 찾지 못했습니다.\n게임의 커뮤니티 탭에서 이 캠페인을 먼저 내려받으세요.\n" + str(nws))
+        name = (HERE / "community" / self.slug / "NAME.txt").read_text(encoding="utf-8").strip()
+        meta = sqlite3.connect(str(mdb))
+        data = sqlite3.connect(str(ddb))
+        row = meta.execute("select manifest_sha1 from manifest_metadata where module_name=?", (name,)).fetchone()
+        if not row:
+            raise RuntimeError(f"'{name}' 캠페인이 내려받아져 있지 않습니다.\n게임의 커뮤니티 탭에서 먼저 내려받으세요.")
+        manifest = row[0]
+        sys.path.insert(0, str(MODBUILD))
+        from gff_tool import GffFile, CEXOLOCSTRING, STRUCT, LIST, CExoLocString  # noqa: E402
+        decompress = _zstd_decompress()
+
+        def set_text(st, path, lang, text):
+            cur = st
+            parts = path.split("/")
+            for part in parts[:-1]:
+                if part.isdigit():
+                    i = int(part)
+                    if isinstance(cur, list) and i < len(cur):
+                        cur = cur[i]
+                    else:
+                        return False
+                else:
+                    if part not in cur:
+                        return False
+                    ft, val = cur.fields[part]
+                    if ft not in (STRUCT, LIST):
+                        return False
+                    cur = val
+            if parts[-1] not in cur:
+                return False
+            ft, val = cur.fields[parts[-1]]
+            if ft != CEXOLOCSTRING or not isinstance(val, CExoLocString):
+                return False
+            val.set_text(text, lang)
+            return True
+
+        groups = {}
+        with open(self.csv, "rb") as f:
+            for r in csv.DictReader(io.StringIO(f.read().decode("utf-8-sig"))):
+                groups.setdefault((r["Resource"], r["ResType"]), []).append((r["FieldPath"], int(r["LangID"]), r["Text"]))
+        written = []
+        for (resref, ext), items in groups.items():
+            rtype = _GFF_EXT.get(ext)
+            if not rtype:
+                continue
+            q = meta.execute(
+                "select resref_sha1 from manifest_resrefs where manifest_sha1=? and lower(resref)=? and restype=?",
+                (manifest, resref, rtype)).fetchone()
+            if not q:
+                continue
+            b = data.execute("select data from resrefs where sha1=?", (q[0],)).fetchone()
+            if not b:
+                continue
+            blob = b[0]
+            i = blob.find(b"\x28\xb5\x2f\xfd")
+            try:
+                gff = GffFile.from_bytes(decompress(blob[i:]))
+            except Exception:
+                continue
+            n = sum(1 for p, lang, t in items if set_text(gff.root, p, lang, t))
+            if n:
+                dst = OVR / f"{resref}.{ext}"
+                put_bytes(gff.to_bytes(), dst)
+                written.append(str(dst))
+        CACHE.mkdir(parents=True, exist_ok=True)
+        self.marker.write_text(json.dumps({"module": name, "files": written}, ensure_ascii=False), encoding="utf-8")
+        if not written:
+            raise RuntimeError("적용된 리소스가 없습니다 (캠페인 버전이 다를 수 있습니다).")
+
+    def restore(self):
+        try:
+            files = json.loads(self.marker.read_text(encoding="utf-8"))["files"]
+        except Exception:
+            return
+        for f in files:
+            unput(Path(f))
+        self.marker.unlink()
+
+
 ITEMS = {i.id: i for i in [
     Engine(),
     BaseTlk("oc", "The Wailing Death (오리지널 캠페인)", "본편 번역 (dialog.tlk 공용)", True),
@@ -467,8 +606,16 @@ ITEMS = {i.id: i for i in [
     ExtModule("potsc", "Pirates of the Sword Coast", "Pirates of the Sword Coast", tlk="potsc.tlk", hak="potsc_tkr.hak"),
     BuiltMod("wcoc", "Wyvern Crown of Cormyr", "wcoc", "Neverwinter Nights - Wyvern Crown of Cormyr.nwm", nwm=True),
     BuiltMod("id", "Infinite Dungeons", "id", "Neverwinter Nights - Infinite Dungeons.nwm", nwm=True),
-    Todo("c_hunt", "A Hunt Through The Dark"),
-    Todo("c_eotb", "Eye of the Beholder"),
+    CommunityModule("c_hunt0", "A Hunt Through The Dark - 캐릭터 생성기", "AHTD_Character_Generator_1_0"),
+    CommunityModule("c_hunt1", "A Hunt Through The Dark 1 - The Hunt Begins", "AHTD_1_The_Hunt_begins_4_1"),
+    CommunityModule("c_hunt2", "A Hunt Through The Dark 2 - Into The Unknown", "AHTD_2_Into_The_Unknown_4_1"),
+    CommunityModule("c_hunt3", "A Hunt Through The Dark 3 - Up to the Light", "AHTD_3_Up_to_the_Light_4_1"),
+    CommunityModule("c_hunt4", "A Hunt Through The Dark 4 - Cormanthor", "AHTD_4_Cormanthor_4_1"),
+    CommunityModule("c_hunt5", "A Hunt Through The Dark 5 - Acererak", "AHTD_5_Acererak_4_1"),
+    CommunityModule("c_hunt6", "A Hunt Through The Dark 6 - Myth Drannor", "AHTD_6_Myth_Drannor_1_1"),
+    CommunityModule("c_eotb", "Eye of the Beholder", "Eye_of_the_Beholder"),
+    CommunityModule("c_eotb2", "Eye of the Beholder II: Legend of Darkmoon", "Eye_of_the_Beholder_II_Legend_of_Darkmoon"),
+    CommunityModule("c_nature", "Nature Abhors a Vacuum", "Nature_Abhors_a_Vacuum"),
     Todo("c_aielund", "Aielund Saga"),
     Todo("c_auren", "Auren Saga"),
     Todo("c_tethyr", "Crimson Tides of Tethyr"),
@@ -483,7 +630,7 @@ LAYOUT = [
     ("#", "공식 - Extra Content"), "km", "sg", "ww", "coc", "darkranger", "eremor", "toheir", "chess",
     ("#", "프리미엄"), "doiwd", "totms", "dod", "ddf", "potsc", "wcoc", "id",
     ("#", "커뮤니티  (모듈 파일 확보 후 번역 가능)"),
-    "c_hunt", "c_eotb", "c_aielund", "c_auren", "c_tethyr", "c_shadowdale", "c_reptile",
+    "c_hunt0", "c_hunt1", "c_hunt2", "c_hunt3", "c_hunt4", "c_hunt5", "c_hunt6", "c_eotb", "c_eotb2", "c_nature", "c_aielund", "c_auren", "c_tethyr", "c_shadowdale", "c_reptile",
     ("#", "로컬  (직접 설치한 모듈 - 번역 대상 아님)"),
 ]
 
