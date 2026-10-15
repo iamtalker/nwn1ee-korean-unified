@@ -35,6 +35,33 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 원복: 설치 프로그램의 **[원복]** / **[전체 원복]** (덮어쓴 파일은 `*.orig` 로 백업됨),
 또는 Steam 의 "게임 파일 무결성 검사".
 
+## 번역 범위와 번역되지 않은 부분 (정직한 표기)
+
+| 구분 | 번역 범위 | **번역되지 않은 것** |
+|---|---|---|
+| 엔진·UI | 한글 표시, 캠페인 선택 화면 | 일부 옵션 화면 문구는 게임 자체 번역이 없어 영어 |
+| 본편 OC/SoU/HotU | `dialog.tlk` 약 99.8% | 영문 유지 항목 약 3천 개(고유명사 등), 미번역 약 190개 |
+| DoD/ToTM/PotSC/DoIWD | 외부 한패 제작자의 번역 | 제작자가 영어로 남긴 스크립트 메시지 등 |
+| Eremor/Chess/CoC/Dark Ranger/To Heir is Human | 대사·이름·설명(모듈 내 텍스트) 기계번역 | **스크립트에 박힌 문구**, 2DA 항목, 이미지·영상 속 글자 |
+| Kingmaker/ShadowGuard/Witch's Wake/Wyvern Crown | 모듈 + HAK 안의 대사·이름·설명 기계번역 (v0.1.8~) | 스크립트 문구, 2DA, **Wyvern Crown 커스텀 TLK(354개)** |
+| Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (v0.1.8~, 대용량 HAK 빌드는 시험 전) | 스크립트 문구, 2DA |
+| 커뮤니티(AHTD, Nature Abhors a Vacuum) | 대사·이름·설명(override 방식, 실험적) | 접두 `nw_` 리소스, 스크립트 문구, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
+| 커뮤니티: Eye of the Beholder I·II | **아직 설치 프로그램에 미포함** (번역은 완료) | 전부 |
+| 커뮤니티: Defender of the Crown 등 나머지 | **번역 중/미포함** | 전부 |
+| 커뮤니티: Aielund Saga(1~3부) 등 | **미포함** | 전부 |
+
+공통 사항:
+- 위 모듈의 번역은 **기계번역이 기본이며 이름·UI 일부만 사람이 교정**했습니다. 문장이 어색하거나 존대·반말이 섞일 수 있습니다.
+- **v0.1.3~v0.1.6 으로 설치한 Kingmaker, ShadowGuard, Witch's Wake, Wyvern Crown, Infinite Dungeons, Furiae 는 번역이 일부만 적용**되어
+  있습니다(HAK 안의 텍스트가 빠져 있었음). v0.1.8 에서 다시 [패치]하세요.
+
+## HAK 번역 (v0.1.8)
+
+Kingmaker, ShadowGuard, Witch's Wake, Infinite Dungeons, Wyvern Crown, Dark Dreams of Furiae 는 아이템·크리처·대화 대부분이
+모듈 파일이 아니라 **HAK 파일**(예: `km_resources.hak`)에 들어 있습니다. v0.1.8 부터 설치 프로그램이 HAK 안의 리소스도 번역해서
+번역된 HAK 를 **문서 폴더의 `hak` 폴더**에 설치합니다(게임 원본 HAK 는 건드리지 않고, 문서 폴더의 HAK 가 우선합니다).
+[원복]하면 번역된 HAK 도 함께 제거됩니다. 이전 버전(v0.1.3~v0.1.6)에서 설치한 모듈은 번역이 일부만 적용되어 있으니 다시 [패치]하세요.
+
 ## 동작 원리
 
 - `installer/engine_patch.py` : 로컬 `nwmain.exe` 에 CP949 텍스트 디코더, 글리프 한도 확장, 텍스처 확장 등을 바이너리 패치로 적용합니다.

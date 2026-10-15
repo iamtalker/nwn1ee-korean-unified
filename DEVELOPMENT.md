@@ -70,6 +70,19 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
 - 릴리스 전: zip 을 풀어 `run_installer.bat` 와 `--list` 까지 확인.
 - 작업 폴더(임시/테스트)와 업로드 폴더(깃 클론)는 분리해서 사용한다.
 
+## 인수인계 (v0.1.8 시점, 새 세션용)
+
+- **v0.1.8**: 번역을 모듈 파일뿐 아니라 연결된 HAK 에도 적용(`installer/modbuild/premium/build_premium.py` 의 HAK 단계,
+  `NWN_HAK_DIR` 환경변수, `BuiltMod` 이 HAK 를 `문서/hak` 에 설치·원복). Kingmaker 로 검증(적용 10,068개 중 모듈 1,390 + HAK 8,678).
+  ShadowGuard/Witch's Wake/Wyvern Crown 도 격리 시험 통과. **Infinite Dungeons(id_resources 193MB), Dark Dreams of Furiae(ddf.hak 708MB)는 HAK 빌드 시험 미실시**(시간/메모리 확인 필요).
+- **커뮤니티**: NWSync 캐시에 20개 모듈 확인. 앞 10개(AHTD 0~6, Nature Abhors a Vacuum, EotB I·II)는 기계번역 완료,
+  나머지 10개(Defender of the Crown, Return of the Ironlord, The Fall of Aielund Pt.1~3, Almraiven, Crimson Tides of Tethyr EE,
+  Siege of Shadowdale EE, Against the Cult of the Reptile God 2.0, Shadewood)는 `scratchpad/mt/community_run.py` 로 백그라운드 번역 중이었음(약 9만 문장).
+  완료되면 `mt/community_pack.py community ../pub/installer/community` 로 CSV 를 만들고 `CommunityModule` 항목(id/이름/slug)을 추가, 릴리스.
+  EotB I·II 의 `translations.csv` 는 아직 설치 프로그램에 포함되지 않았음.
+- 알려진 문제: 번역 품질은 기계번역 위주(이름·UI 만 일부 교정). 커뮤니티 override 방식은 게임 내 검증 전(실험적).
+- 사용량 팁: 대화가 길어지면 요청마다 전체를 다시 읽어 한도가 빨리 줄어듦 → 새 세션에서 이 문서를 읽고 시작할 것.
+
 ## 작업 메모 (이전 중단 시점 기록, 참고용)
 
 - **Witch's Wake** 번역 진행 중이었음: 고유 문장 2,874개, 기계번역은 약 800개까지 진행 후 PC 종료로 중단(결과 미저장).

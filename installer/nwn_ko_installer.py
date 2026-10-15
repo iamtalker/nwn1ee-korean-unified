@@ -421,11 +421,22 @@ class BuiltMod(Item):
         self.short, self.filename, self.nwm = short, filename, nwm
         self.dst = (NWM if nwm else MODDIR) / filename
 
+    def _marker(self):
+        return CACHE / f"built_{self.id}.json"
+
     def applied(self):
         b = bak_of(self.dst)
-        return self.dst.exists() and b.exists() and sha_file(self.dst) != sha_file(b)
+        mod_ok = self.dst.exists() and b.exists() and sha_file(self.dst) != sha_file(b)
+        hak_ok = False
+        try:                               # 번역된 HAK 가 실제로 설치되어 있어야 함
+            haks = json.loads(self._marker().read_text(encoding="utf-8")).get("haks", [])
+            hak_ok = bool(haks) and all(Path(h).exists() for h in haks)
+        except Exception:
+            pass
+        return mod_ok or hak_ok
 
     def patch(self):
+        need_docs()
         src = bak_of(self.dst) if bak_of(self.dst).exists() else self.dst
         if not src.exists():
             raise RuntimeError(f"원본 모듈을 찾을 수 없습니다:\n{self.dst}")
@@ -435,17 +446,33 @@ class BuiltMod(Item):
             (tmp / "base" / "data" / sub).mkdir(parents=True)
             shutil.copy2(src, tmp / "base" / "data" / sub / self.filename)
             env = dict(os.environ, NWN_BASE=str(tmp / "base"), NWN_BUILD_DIR=str(tmp / "out"),
-                       PYTHONIOENCODING="utf-8")
+                       NWN_HAK_DIR=str(GAME / "data" / "hk"), PYTHONIOENCODING="utf-8")
             r = subprocess.run(
                 [sys.executable, str(MODBUILD / "premium" / "build_premium.py"), self.short],
                 cwd=str(MODBUILD), env=env, capture_output=True, text=True, encoding="utf-8", errors="replace")
-            out = tmp / "out" / self.short / self.filename
-            if r.returncode != 0 or not out.exists():
+            outdir = tmp / "out" / self.short
+            out = outdir / self.filename
+            haks = sorted(outdir.glob("*.hak")) if outdir.exists() else []
+            if r.returncode != 0 or not (out.exists() or haks):
                 raise RuntimeError("모듈 빌드 실패:\n" + (r.stdout + r.stderr)[-800:])
-            put_file(out, self.dst)
+            if out.exists():
+                put_file(out, self.dst)
+            placed = []
+            for h in haks:                       # 번역된 HAK 는 문서 폴더의 hak 에 설치(게임 원본보다 우선)
+                dst = HAK / h.name
+                put_file(h, dst)
+                placed.append(str(dst))
+            CACHE.mkdir(parents=True, exist_ok=True)
+            self._marker().write_text(json.dumps({"haks": placed}, ensure_ascii=False), encoding="utf-8")
 
     def restore(self):
         unput(self.dst)
+        try:
+            for f in json.loads(self._marker().read_text(encoding="utf-8")).get("haks", []):
+                unput(Path(f))
+            self._marker().unlink()
+        except Exception:
+            pass
 
 
 # ----------------------------------------------------------------- 커뮤니티 캠페인 (NWSync)
