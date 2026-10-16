@@ -45,7 +45,7 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (Infinite Dungeons 28,805개 전부 적용, Furiae 4,761개는 모두 모듈 안) | 일부 스크립트 조합 문구, 2DA |
 | 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(development 폴더 방식, 실험적, 스크립트 속 문장 포함 v0.1.14~) | 접두 `nw_` 리소스, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
 | 커뮤니티: Defender of the Crown 등 나머지 | **번역 중/미포함** | 전부 |
-| 커뮤니티: 위 목록 외(예: Auren Saga) | **미포함** | 전부 |
+| 커뮤니티: 위 목록 외 | **미포함** | 전부 |
 
 공통 사항:
 - 위 모듈의 번역은 **기계번역이 기본이며 이름·UI 일부만 사람이 교정**했습니다. 문장이 어색하거나 존대·반말이 섞일 수 있습니다.
