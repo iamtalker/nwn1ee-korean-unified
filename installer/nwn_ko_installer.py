@@ -343,6 +343,14 @@ class Item:
         raise NotImplementedError
 
 
+class _Call:
+    """일괄 작업용: 이름과 동작 하나만 가진 작업 항목."""
+
+    def __init__(self, name, fn):
+        self.name = name
+        self.patch = self.restore = fn
+
+
 class Todo(Item):
     def __init__(self, id_, name):
         super().__init__(id_, name, "", False)
@@ -543,15 +551,27 @@ def _zstd_decompress():
     return lambda b: d.decompress(b, max_output_size=64_000_000)
 
 
-class CommunityModule(Item):
-    """NWSync 로 내려받은 커뮤니티 캠페인의 텍스트를 번역해 override 폴더에 설치한다.
+_progress = None            # GUI 가 설정: 현재 항목 안에서의 진행률(0~1)을 받는 함수
 
-    게임이 내려받은 캐시(문서\nwsync)의 리소스 + translations.csv(한국어만) 로 번역본 GFF 를 만든다.
-    같은 리소스 이름(module.ifo 등)을 여러 캠페인이 공유하므로 한 번에 하나만 설치된다(다른 캠페인은 자동 원복).
+
+def report(frac):
+    if _progress:
+        try:
+            _progress(max(0.0, min(1.0, frac)))
+        except Exception:
+            pass
+
+
+class CommunityModule(Item):
+    """NWSync 로 내려받은 커뮤니티 캠페인의 텍스트를 번역해 캠페인별 폴더에 보관하고, 플레이할 캠페인만 development 에 연결한다.
+
+    게임이 내려받은 캐시(문서/nwsync)의 리소스 + translations.csv(한국어만) 로 번역본 GFF 를 만든다.
+    같은 리소스 이름(module.ifo 등)을 여러 캠페인이 공유하고 게임은 development 폴더 하나만 읽으므로,
+    번역본은 문서/ko_campaigns/<캠페인>/ 에 각각 만들어 두고 [패치]=그 캠페인으로 전환(다른 캠페인은 자동 해제)한다.
     """
 
     def __init__(self, id_, name, slug):
-        super().__init__(id_, name, "실험적: 내려받은 캠페인에 번역 적용 (override)", True)
+        super().__init__(id_, name, "내려받은 캠페인에 번역 적용 (캠페인별 폴더에 보관, 패치=전환)", True)
         self.slug = slug
         self.csv = HERE / "community" / slug / "translations.csv"
         self.ready = self.csv.exists()          # 번역 파일이 아직 없으면 "미구현"
@@ -559,6 +579,12 @@ class CommunityModule(Item):
 
     def _nwsync(self):
         return Path(os.environ.get("NWN_NWSYNC_DIR") or (DOCS / "nwsync"))
+
+    def lib(self):
+        return DOCS / "ko_campaigns" / self.slug
+
+    def built(self):
+        return (self.lib() / "_complete.json").exists()
 
     def applied(self):
         try:
@@ -569,40 +595,68 @@ class CommunityModule(Item):
         except Exception:
             return False
 
+    def _inputs_stamp(self):
+        h = hashlib.sha256()
+        for f in (self.csv, HERE / "community" / self.slug / "ncs.csv"):
+            if f.exists():
+                h.update(f.read_bytes())
+        return h.hexdigest()
+
+    def prepare(self):
+        """일괄 패치용: 게임에서 내려받은 캠페인이면 번역본을 미리 만들어 두고(활성화는 안 함), 아니면 조용히 건너뛴다."""
+        self.build(skip_missing=True)
+
     def patch(self):
-        import csv
-        import io
-        import sqlite3
         need_docs()
-        # 같은 이름의 리소스(module.ifo, area001 등)를 여러 캠페인이 공유하므로, 동시에 설치하면 서로 덮어써서
-        # 모듈 손상/멈춤이 난다. 그래서 커뮤니티 캠페인은 한 번에 하나만 설치한다.
+        self.build()                              # 실패해도 지금 적용된 캠페인은 건드리지 않는다
         others = [it for it in ITEMS.values() if isinstance(it, CommunityModule) and it is not self and it.applied()]
         for it in others:
             it.restore()
         if others:
-            names = ", ".join(it.name for it in others)
-            try:
-                if _ui_call is _UI_DEFAULT:
-                    raise RuntimeError("no gui")
-                from tkinter import messagebox as _mb
-                _ui_call(lambda: _mb.showinfo("커뮤니티 캠페인은 한 번에 하나만", "다른 캠페인(" + names + ")의 번역을 원복했습니다.\n\n같은 이름의 파일이 겹쳐 게임이 멈추거나 모듈이 손상될 수 있어서, 선택한 캠페인만 설치합니다."))
-            except Exception:
-                print("원복(충돌 방지):", names)
+            print("전환:", ", ".join(it.name for it in others), "->", self.name)
+        self.restore()
+        written = []
+        for f in sorted(self.lib().iterdir()):
+            if f.name.startswith("_"):
+                continue
+            dst = DEV / f.name
+            put_dev(f.read_bytes(), dst)
+            written.append(str(dst))
+        CACHE.mkdir(parents=True, exist_ok=True)
+        self.marker.write_text(json.dumps({"module": self.name, "dir": "development", "files": written}, ensure_ascii=False),
+                               encoding="utf-8")
+
+    def build(self, skip_missing=False):
+        import csv
+        import io
+        import sqlite3
         if not self.csv.exists():
             raise RuntimeError("이 캠페인의 번역 파일이 아직 없습니다 (translations.csv).")
         nws = self._nwsync()
         mdb, ddb = nws / "nwsyncmeta.sqlite3", nws / "nwsyncdata_0.sqlite3"
         if not (mdb.exists() and ddb.exists()):
+            if skip_missing:
+                return False
             raise RuntimeError(
                 "NWSync 캐시를 찾지 못했습니다.\n게임의 커뮤니티 탭에서 이 캠페인을 먼저 내려받으세요.\n" + str(nws))
-        self.restore()      # 예전 override 설치분/이전 적용분을 먼저 정리
         name = (HERE / "community" / self.slug / "NAME.txt").read_text(encoding="utf-8").strip()
         meta = sqlite3.connect(str(mdb))
         data = sqlite3.connect(str(ddb))
         row = meta.execute("select manifest_sha1 from manifest_metadata where module_name=?", (name,)).fetchone()
         if not row:
+            if skip_missing:
+                return False
             raise RuntimeError(f"'{name}' 캠페인이 내려받아져 있지 않습니다.\n게임의 커뮤니티 탭에서 먼저 내려받으세요.")
         manifest = row[0]
+        stamp = {"manifest": manifest, "inputs": self._inputs_stamp()}
+        try:
+            if json.loads((self.lib() / "_complete.json").read_text(encoding="utf-8")).get("stamp") == stamp:
+                return True                 # 이미 만들어 둔 번역본이 최신
+        except Exception:
+            pass
+        out = self.lib().with_name(self.slug + ".tmp")
+        shutil.rmtree(out, ignore_errors=True)
+        out.mkdir(parents=True)
         sys.path.insert(0, str(MODBUILD))
         from gff_tool import GffFile, CEXOLOCSTRING, STRUCT, LIST, CExoLocString  # noqa: E402
         decompress = _zstd_decompress()
@@ -637,7 +691,8 @@ class CommunityModule(Item):
             for r in csv.DictReader(io.StringIO(f.read().decode("utf-8-sig"))):
                 groups.setdefault((r["Resource"], r["ResType"]), []).append((r["FieldPath"], int(r["LangID"]), r["Text"]))
         written = []
-        for (resref, ext), items in groups.items():
+        for gi, ((resref, ext), items) in enumerate(groups.items()):
+            report(0.7 * gi / max(1, len(groups)))
             rtype = _GFF_EXT.get(ext)
             if not rtype:
                 continue
@@ -657,8 +712,8 @@ class CommunityModule(Item):
                 continue
             n = sum(1 for p, lang, t in items if set_text(gff.root, p, lang, t))
             if n:
-                dst = DEV / f"{resref}.{ext}"
-                put_dev(gff.to_bytes(), dst)
+                dst = out / f"{resref}.{ext}"
+                dst.write_bytes(gff.to_bytes())
                 written.append(str(dst))
         # 컴파일된 스크립트(NCS) 안의 문장 (NPC 말풍선, 시스템 메시지): ncs.csv = Resource,Index,Check,Text
         ncs_csv = HERE / "community" / self.slug / "ncs.csv"
@@ -669,7 +724,8 @@ class CommunityModule(Item):
             with open(ncs_csv, "rb") as f:
                 for r in csv.DictReader(io.StringIO(f.read().decode("utf-8-sig"))):
                     ncs.setdefault(r["Resource"].lower(), {})[int(r["Index"])] = (int(r["Check"]), r["Text"])
-            for resref, items in ncs.items():
+            for ni, (resref, items) in enumerate(ncs.items()):
+                report(0.7 + 0.3 * ni / max(1, len(ncs)))
                 q = meta.execute(
                     "select resref_sha1 from manifest_resrefs where manifest_sha1=? and lower(resref)=? and restype=2010",
                     (manifest, resref)).fetchone()
@@ -684,16 +740,21 @@ class CommunityModule(Item):
                     repl = {k: t for k, (crc, t) in items.items()
                             if k in idx and zlib.crc32(idx[k].encode("latin-1")) == crc}
                     if repl:
-                        dst = DEV / f"{resref}.ncs"
-                        put_dev(ncs_tool.rebuild(raw, repl, by_index=True), dst)
+                        dst = out / f"{resref}.ncs"
+                        dst.write_bytes(ncs_tool.rebuild(raw, repl, by_index=True))
                         written.append(str(dst))
                 except Exception:
                     continue
-        CACHE.mkdir(parents=True, exist_ok=True)
-        self.marker.write_text(json.dumps({"module": name, "dir": "development", "files": written}, ensure_ascii=False),
-                               encoding="utf-8")
+        report(1.0)
         if not written:
+            shutil.rmtree(out, ignore_errors=True)
+            if skip_missing:
+                return False
             raise RuntimeError("적용된 리소스가 없습니다 (캠페인 버전이 다를 수 있습니다).")
+        (out / "_complete.json").write_text(json.dumps({"stamp": stamp, "module": name, "files": len(written)}), encoding="utf-8")
+        shutil.rmtree(self.lib(), ignore_errors=True)
+        out.rename(self.lib())
+        return True
 
     def restore(self):
         try:
@@ -703,6 +764,11 @@ class CommunityModule(Item):
         for f in files:
             unput_dev(Path(f))
         self.marker.unlink()
+
+    def purge(self):
+        """완전 원복: 적용 해제 + 캠페인별 번역본 폴더 삭제."""
+        self.restore()
+        shutil.rmtree(self.lib(), ignore_errors=True)
 
 
 ITEMS = {i.id: i for i in [
@@ -760,7 +826,7 @@ LAYOUT = [
     ("#", "공식 - Classic Campaigns"), "oc", "sou", "hotu",
     ("#", "공식 - Extra Content"), "km", "sg", "ww", "coc", "darkranger", "eremor", "toheir", "chess",
     ("#", "프리미엄"), "doiwd", "totms", "dod", "ddf", "potsc", "wcoc", "id",
-    ("#", "커뮤니티  (알파벳순 · [전체 일괄 패치]에 포함되지 않음 - 플레이할 캠페인 하나만 [패치])"),
+    ("#", "커뮤니티  (알파벳순 · [전체 일괄 패치]는 번역본을 캠페인별 폴더에 미리 만들어 둠 · [패치] = 그 캠페인으로 전환)"),
     *_community_ids(),
     ("#", "로컬  (직접 설치한 모듈 - 번역 대상 아님)"),
 ]
@@ -860,7 +926,8 @@ def run_gui():
             self.btn_restore.pack(side="left", padx=4)
             self.status = ttk.Label(bar, text="", foreground="#06c")
             self.status.pack(side="left", padx=10)
-            self.prog = ttk.Progressbar(bar, mode="indeterminate", length=140)
+            self.prog = ttk.Progressbar(bar, mode="determinate", length=220, maximum=100)
+            self.pct = ttk.Label(bar, text="", width=6)
 
             wrap = ttk.Frame(self)
             wrap.pack(fill="both", expand=True, padx=10)
@@ -922,11 +989,17 @@ def run_gui():
                 w.state([st])
             self.status.config(text=text)
             if text:
+                self.prog["value"] = 0
+                self.pct.config(text="0%")
+                self.pct.pack(side="right")
                 self.prog.pack(side="right", padx=6)
-                self.prog.start(12)
             else:
-                self.prog.stop()
                 self.prog.pack_forget()
+                self.pct.pack_forget()
+
+        def _set_prog(self, frac):
+            self.prog["value"] = frac * 100
+            self.pct.config(text=f"{int(frac * 100)}%")
 
         def refresh(self):
             """상태 확인도 디스크를 읽으므로 스레드에서 계산하고 결과만 메인에서 반영한다."""
@@ -939,6 +1012,8 @@ def run_gui():
                         continue
                     try:
                         res[id_] = bool(it.applied())
+                        if not res[id_] and isinstance(it, CommunityModule) and it.built():
+                            res[id_] = "ready"
                     except Exception:
                         res[id_] = False
                 self.after(0, lambda: self._apply_status(res))
@@ -958,6 +1033,8 @@ def run_gui():
                     lab.config(text=ITEMS[id_].na_text, foreground="#b00")
                     b1.state(["disabled"])
                     b2.state(["disabled"])
+                elif on == "ready":
+                    lab.config(text="준비됨", foreground="#06c")
                 else:
                     lab.config(text="적용됨" if on else "미적용", foreground="#080" if on else "#333")
 
@@ -968,7 +1045,10 @@ def run_gui():
 
             def work():
                 err = None
-                for it, do_patch in jobs:
+                global _progress
+                for ji, (it, do_patch) in enumerate(jobs):
+                    _progress = lambda f, ji=ji: self.after(0, lambda: self._set_prog((ji + f) / len(jobs)))
+                    self.after(0, lambda ji=ji: self._set_prog(ji / len(jobs)))
                     self.after(0, lambda n=it.name, p=do_patch: self.status.config(
                         text=f"{'패치' if p else '원복'} 중: {n} … (잠시 걸릴 수 있습니다)"))
                     try:
@@ -994,9 +1074,17 @@ def run_gui():
 
         def _each(self, patch):
             order = ["engine"] + [i for i in ITEMS if i != "engine"]
-            # 커뮤니티 캠페인은 서로 충돌하므로 일괄 패치에서 제외 (일괄 원복은 포함)
-            self._run_jobs([(ITEMS[i], patch) for i in order
-                            if ITEMS[i].ready and not (patch and isinstance(ITEMS[i], CommunityModule))])
+            # 커뮤니티 캠페인: 일괄 패치 = 번역본을 캠페인별 폴더에 미리 만들어 둠(전환은 각 [패치]), 일괄 원복 = 해제 + 폴더 삭제
+            jobs = []
+            for i in order:
+                it = ITEMS[i]
+                if not it.ready:
+                    continue
+                if isinstance(it, CommunityModule):
+                    jobs.append((_Call(it.name + " (번역본 준비)", it.prepare) if patch else _Call(it.name, it.purge), patch))
+                else:
+                    jobs.append((it, patch))
+            self._run_jobs([(it, True) if isinstance(it, _Call) else (it, p) for it, p in jobs])
 
         def all_patch(self):
             self._each(True)
@@ -1016,7 +1104,7 @@ def main():
                 print(f"[{ent[1]}]")
                 continue
             it = ITEMS[ent]
-            st = ("적용됨" if it.applied() else "미적용") if it.ready else it.na_text
+            st = ("적용됨" if it.applied() else ("준비됨" if isinstance(it, CommunityModule) and it.built() else "미적용")) if it.ready else it.na_text
             print(f"  {it.name:<40} {st}")
         return
     if "--restore-community" in sys.argv:
@@ -1031,14 +1119,17 @@ def main():
             ensure_assets()
         for id_ in ["engine"] + [i for i in ITEMS if i != "engine"]:
             it = ITEMS[id_]
-            if not it.ready or (patch and isinstance(it, CommunityModule)):
+            if not it.ready:
                 continue
             try:
                 if patch and isinstance(it, ExtModule) and not find_ext():
                     if not download_ext():
                         raise RuntimeError("확장 모듈 한글패치를 받지 못했습니다.")
                     _ext_cache.clear()
-                (it.patch if patch else it.restore)()
+                if isinstance(it, CommunityModule):
+                    (it.prepare if patch else it.purge)()
+                else:
+                    (it.patch if patch else it.restore)()
                 print("OK  ", it.name)
             except Exception as e:  # noqa: BLE001
                 print("FAIL", it.name, "-", str(e).splitlines()[0])

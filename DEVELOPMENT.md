@@ -102,7 +102,7 @@ NWN1 EE(8193.37) 통합 한글패치. 모든 캠페인(본편·확장·프리미
 ### 구조 (자세한 건 위쪽 "구조" 절)
 - `installer/nwn_ko_installer.py` GUI+CLI(`--list`, `--patch-all`, `--restore-all`, `--restore-community`), 작업은 스레드로 실행(응답 없음 방지).
 - 확장 모듈: `installer/modbuild/premium/<short>/inline/*.csv` + `ncs/ncs.csv`(스크립트 문장, CRC 검증) → `build_premium.py`가 모듈/HAK 재패킹.
-- 커뮤니티: `installer/community/<slug>/translations.csv` + `ncs.csv` → NWSync 캐시에서 리소스를 꺼내 번역본을 **`문서\development`**(override는 컨테이너보다 우선순위가 낮아 무효)에 설치. **한 번에 하나만** 설치(캠페인끼리 같은 이름 파일 6천여 개 충돌), 전체 일괄 패치에서 제외.
+- 커뮤니티: `installer/community/<slug>/translations.csv` + `ncs.csv` → NWSync 캐시에서 리소스를 꺼내 번역본을 **`문서\development`**(override는 컨테이너보다 우선순위가 낮아 무효)에 설치. 캠페인별 번역본은 `문서\ko_campaigns\<slug>\`(v0.1.24~, `_complete.json` 에 NWSync manifest+번역 csv 해시를 기록해 바뀌면 자동 재생성)에 두고, [패치]는 그 폴더를 development 에 복사해 전환(활성은 항상 하나 — 같은 이름 파일 6천여 개 충돌 때문). 일괄 패치는 번역본만 미리 만든다(`CommunityModule.prepare`), 일괄 원복은 `purge`.
 - NCS 문자열 번역: `installer/modbuild/ncs_tool.py`(점프 오프셋 재계산). 파이프라인 `tools/ncs_extract*.py` → `mt_translate.py` → `tools/ncs_pack.py`.
 - 용어집: `tools/build_glossary.py`(본편 TLK 12,204쌍), `tools/apply_glossary.py`.
 - 새 캠페인을 내려받으면 목록 맨 아래 "번역 없음" 묶음에 표시된다(번역은 개발자가 추가).
