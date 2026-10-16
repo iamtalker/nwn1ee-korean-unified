@@ -304,6 +304,7 @@ def find_ext(prompt=False):
 
 # GUI 가 작업 스레드에서 대화상자를 띄울 때 메인 스레드로 넘기는 훅 (CLI 에서는 그대로 호출)
 _ui_call = lambda fn: fn()  # noqa: E731
+_UI_DEFAULT = _ui_call                       # GUI 가 아니면(CLI/시험) 이 값 그대로 -> 대화상자를 띄우지 않는다
 
 
 # ----------------------------------------------------------------- 항목 동작
@@ -512,7 +513,7 @@ class CommunityModule(Item):
     """NWSync 로 내려받은 커뮤니티 캠페인의 텍스트를 번역해 override 폴더에 설치한다.
 
     게임이 내려받은 캐시(문서\nwsync)의 리소스 + translations.csv(한국어만) 로 번역본 GFF 를 만든다.
-    같은 리소스 이름을 쓰는 다른 모듈에도 영향을 줄 수 있으므로, 플레이하는 캠페인만 패치하세요.
+    같은 리소스 이름(module.ifo 등)을 여러 캠페인이 공유하므로 한 번에 하나만 설치된다(다른 캠페인은 자동 원복).
     """
 
     def __init__(self, id_, name, slug):
@@ -539,6 +540,20 @@ class CommunityModule(Item):
         import io
         import sqlite3
         need_docs()
+        # 같은 이름의 리소스(module.ifo, area001 등)를 여러 캠페인이 공유하므로, 동시에 설치하면 서로 덮어써서
+        # 모듈 손상/멈춤이 난다. 그래서 커뮤니티 캠페인은 한 번에 하나만 설치한다.
+        others = [it for it in ITEMS.values() if isinstance(it, CommunityModule) and it is not self and it.applied()]
+        for it in others:
+            it.restore()
+        if others:
+            names = ", ".join(it.name for it in others)
+            try:
+                if _ui_call is _UI_DEFAULT:
+                    raise RuntimeError("no gui")
+                from tkinter import messagebox as _mb
+                _ui_call(lambda: _mb.showinfo("커뮤니티 캠페인은 한 번에 하나만", "다른 캠페인(" + names + ")의 번역을 원복했습니다.\n\n같은 이름의 파일이 겹쳐 게임이 멈추거나 모듈이 손상될 수 있어서, 선택한 캠페인만 설치합니다."))
+            except Exception:
+                print("원복(충돌 방지):", names)
         if not self.csv.exists():
             raise RuntimeError("이 캠페인의 번역 파일이 아직 없습니다 (translations.csv).")
         nws = self._nwsync()
@@ -801,6 +816,7 @@ def run_gui():
             global _ui_call
             _ui_call = self._call_in_main
             self.refresh()
+            self.after(1500, self._check_multi)
 
         # ---- 무거운 작업(패치/원복/상태 확인)은 작업 스레드에서 실행해 창이 '응답 없음'이 되지 않게 한다 ----
         def _call_in_main(self, fn):
@@ -850,6 +866,13 @@ def run_gui():
                 self.after(0, lambda: self._apply_status(res))
             threading.Thread(target=work, daemon=True).start()
 
+        def _check_multi(self):
+            act = [it for it in ITEMS.values() if isinstance(it, CommunityModule) and it.applied()]
+            if len(act) > 1 and messagebox.askyesno(
+                    "커뮤니티 캠페인이 여러 개 적용돼 있습니다",
+                    "커뮤니티 캠페인 " + str(len(act)) + "개가 동시에 적용돼 있습니다. 같은 이름의 파일이 겹쳐 게임이 멈추거나\n모듈이 손상될 수 있습니다.\n\n모두 원복하고, 플레이할 캠페인 하나만 다시 패치할까요?"""):
+                self._run_jobs([(it, False) for it in act])
+
         def _apply_status(self, res):
             for id_, on in res.items():
                 lab, b1, b2 = self.rows[id_]
@@ -893,7 +916,9 @@ def run_gui():
 
         def _each(self, patch):
             order = ["engine"] + [i for i in ITEMS if i != "engine"]
-            self._run_jobs([(ITEMS[i], patch) for i in order if ITEMS[i].ready])
+            # 커뮤니티 캠페인은 서로 충돌하므로 일괄 패치에서 제외 (일괄 원복은 포함)
+            self._run_jobs([(ITEMS[i], patch) for i in order
+                            if ITEMS[i].ready and not (patch and isinstance(ITEMS[i], CommunityModule))])
 
         def all_patch(self):
             self._each(True)
@@ -915,13 +940,19 @@ def main():
             st = ("적용됨" if it.applied() else "미적용") if it.ready else "미구현"
             print(f"  {it.name:<40} {st}")
         return
+    if "--restore-community" in sys.argv:
+        for it in ITEMS.values():
+            if isinstance(it, CommunityModule) and it.applied():
+                it.restore()
+                print("원복", it.name)
+        return
     if "--patch-all" in sys.argv or "--restore-all" in sys.argv:
         patch = "--patch-all" in sys.argv
         if patch:
             ensure_assets()
         for id_ in ["engine"] + [i for i in ITEMS if i != "engine"]:
             it = ITEMS[id_]
-            if not it.ready:
+            if not it.ready or (patch and isinstance(it, CommunityModule)):
                 continue
             try:
                 if patch and isinstance(it, ExtModule) and not find_ext():

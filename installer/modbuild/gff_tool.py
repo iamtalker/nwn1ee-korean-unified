@@ -327,7 +327,13 @@ class GffFile:
             substr_data = bytearray()
             for lang_id in sorted(loc.substrings.keys()):
                 text = loc.substrings[lang_id]
-                encoded = text.encode('cp949', errors='replace')
+                try:                                     # 한글은 CP949, 악센트 문자(û 등)만 있는 영문은 CP1252 로 보존
+                    encoded = text.encode('cp949')
+                except UnicodeEncodeError:
+                    try:
+                        encoded = text.encode('cp1252')
+                    except UnicodeEncodeError:
+                        encoded = text.encode('cp949', errors='replace')
                 substr_data.extend(struct.pack('<II', lang_id, len(encoded)))
                 substr_data.extend(encoded)
             total_len = 8 + len(substr_data)  # strref(4) + count(4) + substrings
