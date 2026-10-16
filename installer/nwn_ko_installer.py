@@ -688,8 +688,13 @@ ITEMS = {i.id: i for i in [
     CommunityModule("c_nature", "Nature Abhors a Vacuum", "Nature_Abhors_a_Vacuum"),
     CommunityModule("c_aielund1", "The Fall of Aielund Pt.1", "The_Fall_of_Aielund_Pt_1"),
     CommunityModule("c_aielund2", "The Fall of Aielund Pt.2", "The_Fall_of_Aielund_Pt_2"),
-    Todo("c_aielund", "The Fall of Aielund Pt.3"),
+    CommunityModule("c_aielund", "The Fall of Aielund Pt.3", "The_Fall_of_Aielund_Pt_3"),
+    CommunityModule("c_defender", "Defender of the Crown", "Defender_of_the_Crown"),
+    CommunityModule("c_ironlord", "Return of the Ironlord", "Return_of_the_Ironlord"),
+    CommunityModule("c_almraiven", "Almraiven", "Almraiven"),
+    CommunityModule("c_shadewood", "Shadewood", "Shadewood"),
     Todo("c_auren", "Auren Saga"),
+
     CommunityModule("c_tethyr", "Crimson Tides of Tethyr", "Crimson_Tides_of_Tethyr_Enhanced_Edition"),
     CommunityModule("c_shadowdale", "Siege of Shadowdale", "Siege_of_Shadowdale_Enhanced_Edition"),
     CommunityModule("c_reptile", "Against the Cult of the Reptile God 2.0", "Against_the_Cult_of_the_Reptile_God_2_0"),
@@ -702,7 +707,7 @@ LAYOUT = [
     ("#", "공식 - Extra Content"), "km", "sg", "ww", "coc", "darkranger", "eremor", "toheir", "chess",
     ("#", "프리미엄"), "doiwd", "totms", "dod", "ddf", "potsc", "wcoc", "id",
     ("#", "커뮤니티  (모듈 파일 확보 후 번역 가능)"),
-    "c_hunt0", "c_hunt1", "c_hunt2", "c_hunt3", "c_hunt4", "c_hunt5", "c_hunt6", "c_eotb", "c_eotb2", "c_nature", "c_aielund1", "c_aielund2", "c_aielund", "c_auren", "c_tethyr", "c_shadowdale", "c_reptile",
+    "c_hunt0", "c_hunt1", "c_hunt2", "c_hunt3", "c_hunt4", "c_hunt5", "c_hunt6", "c_eotb", "c_eotb2", "c_nature", "c_aielund1", "c_aielund2", "c_aielund", "c_defender", "c_ironlord", "c_almraiven", "c_shadewood", "c_auren", "c_tethyr", "c_shadowdale", "c_reptile",
     ("#", "로컬  (직접 설치한 모듈 - 번역 대상 아님)"),
 ]
 

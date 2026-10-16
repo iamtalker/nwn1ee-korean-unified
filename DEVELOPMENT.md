@@ -131,3 +131,7 @@ NPC 머리 위 말풍선(SpeakString)·시스템 메시지는 컴파일된 `.ncs
 - 번역 CSV(translations.csv)가 없는 캠페인 폴더에는 ncs.csv 를 만들지 않는다 → 캠페인 번역이 끝나 폴더가 생기면 `ncs_pack.py --community` 를 다시 실행하면 된다(번역은 재실행 불필요, 스크래치 `ncs_comm_all.json`).
 - 추가: The Fall of Aielund Pt.1, Against the Cult of the Reptile God 2.0.
 - 아직 번역 중: Defender of the Crown, Return of the Ironlord, Aielund Pt.2·3, Almraiven, Shadewood.
+
+## v0.1.15
+- 커뮤니티 20개 캠페인 번역·스크립트 문장 모두 포함(20/20). 설치 프로그램 항목은 Auren Saga 만 미구현(Todo).
+- 새로 번역 의뢰할 커뮤니티 모듈이 생기면: `mt/community_run.py` 방식(이름→NWSync 추출→mt_translate→apply_glossary→community_pack→ncs_*).
