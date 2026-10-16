@@ -324,6 +324,8 @@ _UI_DEFAULT = _ui_call                       # GUI 가 아니면(CLI/시험) 이
 
 # ----------------------------------------------------------------- 항목 동작
 class Item:
+    na_text = "미구현"                      # ready 가 False 일 때 목록에 보이는 문구
+
     def __init__(self, id_, name, desc="", ready=False):
         self.id, self.name, self.desc, self.ready = id_, name, desc, ready
 
@@ -340,6 +342,14 @@ class Item:
 class Todo(Item):
     def __init__(self, id_, name):
         super().__init__(id_, name, "", False)
+
+
+class UnsupportedModule(Item):
+    """게임이 내려받았지만 한글 번역이 아직 없는 커뮤니티 캠페인 (목록에 안내만 표시)."""
+    na_text = "번역 없음"
+
+    def __init__(self, id_, name):
+        super().__init__(id_, name, "게임에서 내려받았지만 한글 번역이 아직 없습니다 (개발자에게 이름을 알려 주세요)", False)
 
 
 class Engine(Item):
@@ -729,16 +739,58 @@ ITEMS = {i.id: i for i in [
     CommunityModule("c_reptile", "Against the Cult of the Reptile God 2.0", "Against_the_Cult_of_the_Reptile_God_2_0"),
 ]}
 
+def _community_ids():
+    """커뮤니티 캠페인 id 를 이름의 알파벳순으로."""
+    return [i.id for i in sorted((x for x in ITEMS.values() if isinstance(x, CommunityModule)),
+                                 key=lambda x: x.name.lower())]
+
+
 # 게임 캠페인 선택 화면 분류/순서
 LAYOUT = [
     ("#", "공통 (필수)"), "engine",
     ("#", "공식 - Classic Campaigns"), "oc", "sou", "hotu",
     ("#", "공식 - Extra Content"), "km", "sg", "ww", "coc", "darkranger", "eremor", "toheir", "chess",
     ("#", "프리미엄"), "doiwd", "totms", "dod", "ddf", "potsc", "wcoc", "id",
-    ("#", "커뮤니티  (모듈 파일 확보 후 번역 가능)"),
-    "c_hunt0", "c_hunt1", "c_hunt2", "c_hunt3", "c_hunt4", "c_hunt5", "c_hunt6", "c_eotb", "c_eotb2", "c_nature", "c_aielund1", "c_aielund2", "c_aielund", "c_defender", "c_ironlord", "c_almraiven", "c_shadewood", "c_tethyr", "c_shadowdale", "c_reptile",
+    ("#", "커뮤니티  (알파벳순 · 게임에서 내려받은 뒤 패치)"),
+    *_community_ids(),
     ("#", "로컬  (직접 설치한 모듈 - 번역 대상 아님)"),
 ]
+
+
+def detect_unsupported():
+    """게임이 NWSync 로 내려받은 캠페인 중 이 설치 프로그램에 번역이 없는 것의 이름 목록."""
+    db = Path(os.environ.get("NWN_NWSYNC_DIR") or (DOCS / "nwsync")) / "nwsyncmeta.sqlite3"
+    if not db.exists():
+        return []
+    import sqlite3
+    known = set()
+    for it in ITEMS.values():
+        if isinstance(it, CommunityModule):
+            try:
+                known.add((HERE / "community" / it.slug / "NAME.txt").read_text(encoding="utf-8").strip())
+            except OSError:
+                pass
+    try:
+        con = sqlite3.connect(db.as_uri() + "?mode=ro", uri=True)
+        names = [r[0] for r in con.execute("select module_name from manifest_metadata")]
+        con.close()
+    except Exception:
+        return []
+    return sorted({n for n in names if n and n not in known}, key=str.lower)
+
+
+def register_unsupported():
+    """번역이 없는 캠페인을 목록의 '번역 없음' 묶음에 추가한다 (GUI / --list 시작 시 한 번)."""
+    names = detect_unsupported()
+    if not names:
+        return
+    ids = []
+    for n in names:
+        i = "x_" + re.sub(r"[^A-Za-z0-9]+", "_", n)
+        ITEMS[i] = UnsupportedModule(i, n)
+        ids.append(i)
+    pos = next(k for k, e in enumerate(LAYOUT) if isinstance(e, tuple) and e[1].startswith("로컬"))
+    LAYOUT[pos:pos] = [("#", "커뮤니티 - 번역 없음 (내려받았지만 한글 패치가 없는 캠페인)")] + ids
 
 
 # ----------------------------------------------------------------- GUI
@@ -773,6 +825,8 @@ def run_gui():
         ensure_assets()
     except Exception as e:  # noqa: BLE001
         print("리소스 자동 다운로드 실패:", e)
+
+    register_unsupported()
 
     class App(tk.Tk):
         def __init__(self):
@@ -891,7 +945,7 @@ def run_gui():
             for id_, on in res.items():
                 lab, b1, b2 = self.rows[id_]
                 if on is None:
-                    lab.config(text="미구현", foreground="#b00")
+                    lab.config(text=ITEMS[id_].na_text, foreground="#b00")
                     b1.state(["disabled"])
                     b2.state(["disabled"])
                 else:
@@ -945,13 +999,14 @@ def run_gui():
 
 def main():
     if "--list" in sys.argv:
+        register_unsupported()
         print("GAME:", GAME, "\nDOCS:", DOCS)
         for ent in LAYOUT:
             if isinstance(ent, tuple):
                 print(f"[{ent[1]}]")
                 continue
             it = ITEMS[ent]
-            st = ("적용됨" if it.applied() else "미적용") if it.ready else "미구현"
+            st = ("적용됨" if it.applied() else "미적용") if it.ready else it.na_text
             print(f"  {it.name:<40} {st}")
         return
     if "--restore-community" in sys.argv:
