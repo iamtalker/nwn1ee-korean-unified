@@ -496,7 +496,12 @@ class BuiltMod(Item):
             placed = []
             for h in haks:                       # 번역된 HAK 는 문서 폴더의 hak 에 설치(게임 원본보다 우선)
                 dst = HAK / h.name
-                put_file(h, dst)
+                # 문서\hak 에는 원래 이 이름의 HAK 가 없다(우리가 만든 번역본뿐) -> 백업(.orig) 없이 덮어쓴다.
+                # (.orig 를 만들면 다음 원복 때 순정이 아니라 이전 번역본이 되살아난다)
+                dst.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(h, dst)
+                if bak_of(dst).exists():
+                    bak_of(dst).unlink()
                 placed.append(str(dst))
             CACHE.mkdir(parents=True, exist_ok=True)
             self._marker().write_text(json.dumps({"haks": placed}, ensure_ascii=False), encoding="utf-8")
@@ -505,7 +510,7 @@ class BuiltMod(Item):
         unput(self.dst)
         try:
             for f in json.loads(self._marker().read_text(encoding="utf-8")).get("haks", []):
-                unput(Path(f))
+                unput_dev(Path(f))             # 번역 HAK 와 예전 .orig 를 함께 삭제
             self._marker().unlink()
         except Exception:
             pass
@@ -751,7 +756,7 @@ LAYOUT = [
     ("#", "공식 - Classic Campaigns"), "oc", "sou", "hotu",
     ("#", "공식 - Extra Content"), "km", "sg", "ww", "coc", "darkranger", "eremor", "toheir", "chess",
     ("#", "프리미엄"), "doiwd", "totms", "dod", "ddf", "potsc", "wcoc", "id",
-    ("#", "커뮤니티  (알파벳순 · 게임에서 내려받은 뒤 패치)"),
+    ("#", "커뮤니티  (알파벳순 · [전체 일괄 패치]에 포함되지 않음 - 플레이할 캠페인 하나만 [패치])"),
     *_community_ids(),
     ("#", "로컬  (직접 설치한 모듈 - 번역 대상 아님)"),
 ]

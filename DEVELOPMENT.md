@@ -70,7 +70,72 @@ assets/                         version.dll, dialog.tlk  (git 제외, 릴리스 
 - 릴리스 전: zip 을 풀어 `run_installer.bat` 와 `--list` 까지 확인.
 - 작업 폴더(임시/테스트)와 업로드 폴더(깃 클론)는 분리해서 사용한다.
 
-## 인수인계 (v0.1.8 시점, 새 세션용)
+## 인수인계 (v0.1.21 시점, 새 세션용) — 가장 먼저 읽을 것
+
+### 한 줄 요약
+NWN1 EE(8193.37) 통합 한글패치. 모든 캠페인(본편·확장·프리미엄·커뮤니티 20개)에 **기계번역 + 용어 정리**가 들어가 있고, 지금은 "다듬는 단계"(로컬 Qwen 후편집) + "실제 게임에서 확인하는 단계"다.
+
+### 위치 (모두 이 PC)
+| 용도 | 경로 |
+|---|---|
+| 깃 저장소(업로드용) | `C:\Program Files (x86)\Steam\steamapps\common\한글패치\nwn1ee-korean-unified` → GitHub `iamtalker/nwn1ee-korean-unified` |
+| 번역 작업 데이터 백업 (영어 원문 포함, **깃에 올리지 말 것**) | `...\common\한글패치\번역작업백업\` (mt/ community/ ncs/ llm/) |
+| 로컬 LLM 일체 | `C:\claude program\1. 개발중\local-llm` (bin, models, *.bat, room/) |
+| 순정 게임 폴더 백업 zip | `...\common\Neverwinter Nights.zip` (6.8GB, 현재 게임 폴더와 파일 단위로 일치 확인됨) |
+| 문서 폴더 | `C:\Users\misti\Documents\Neverwinter Nights` (nwsync 4GB = 내려받은 커뮤니티 캠페인) |
+| 스크래치(세션마다 사라짐) | `...\scratchpad` — 중요한 것은 위 백업 폴더에 있음 |
+
+### 사용자 선호 / 규칙 (꼭 지킬 것)
+- 컨텍스트 사용률은 **사용자가 알아서 본다. 새 세션 전환을 권하는 말을 하지 말 것.**
+- 토큰을 아끼고 싶어 한다. 큰 일은 로컬 Qwen에 맡기고 Claude는 검증·판정만(아래 "보정 작업").
+- 소음에 민감(그래픽카드 팬). 서버·보정을 켜기 전에 사용자가 PC를 쓰는 중인지 고려.
+- 마일스톤마다 커밋 + 릴리스까지 한다(`tools/build_release.py vX.Y.Z` → `gh release create`). 커밋 메시지 끝에 Co-Authored-By 줄.
+- 삭제·공개 등 되돌리기 어려운 일, 시스템/전원 설정 변경, 파일 다운로드는 먼저 허락을 받는다.
+- 게임 바이너리·유료 모듈·영어 원문은 저장소/릴리스에 넣지 않는다.
+
+### 도구 환경 함정
+- 이 PC에서 `python`은 Store 스텁 → **`py -X utf8`** 사용(heredoc 로 한글 소스를 넘길 때 `-X utf8` 필수). `py` 런처는 공백 든 인자를 쪼갤 수 있으니 환경변수로 경로 전달.
+- 이 도구 환경에서 bash/py 코드 안의 `\\`가 한 번 풀려 `\n`이 실제 개행이 되거나 `\b`가 백스페이스가 된다 → 개행·역슬래시가 필요한 코드는 `chr(92)`를 쓰거나 Write 도구로 파일을 만든다.
+- 한글 경로에서 `cmd /c 상대경로.bat` 실행이 안 된다(전체 경로로). `Start-Process -ArgumentList`는 공백 든 인자를 따옴표로 감싼다 → 한 문자열로.
+- 설치 테스트는 반드시 격리: `NWN_GAME_DIR`/`NWN_DOCS_DIR`(+`LOCALAPPDATA`, `NWN_NWSYNC_DIR`) 환경변수. 비면 실제 게임에 적용된다.
+
+### 구조 (자세한 건 위쪽 "구조" 절)
+- `installer/nwn_ko_installer.py` GUI+CLI(`--list`, `--patch-all`, `--restore-all`, `--restore-community`), 작업은 스레드로 실행(응답 없음 방지).
+- 확장 모듈: `installer/modbuild/premium/<short>/inline/*.csv` + `ncs/ncs.csv`(스크립트 문장, CRC 검증) → `build_premium.py`가 모듈/HAK 재패킹.
+- 커뮤니티: `installer/community/<slug>/translations.csv` + `ncs.csv` → NWSync 캐시에서 리소스를 꺼내 번역본을 **`문서\development`**(override는 컨테이너보다 우선순위가 낮아 무효)에 설치. **한 번에 하나만** 설치(캠페인끼리 같은 이름 파일 6천여 개 충돌), 전체 일괄 패치에서 제외.
+- NCS 문자열 번역: `installer/modbuild/ncs_tool.py`(점프 오프셋 재계산). 파이프라인 `tools/ncs_extract*.py` → `mt_translate.py` → `tools/ncs_pack.py`.
+- 용어집: `tools/build_glossary.py`(본편 TLK 12,204쌍), `tools/apply_glossary.py`.
+- 새 캠페인을 내려받으면 목록 맨 아래 "번역 없음" 묶음에 표시된다(번역은 개발자가 추가).
+
+### 상태 (릴리스 v0.1.20 → 이 문서가 들어간 v0.1.21)
+| 항목 | 상태 |
+|---|---|
+| 엔진·UI·본편 | 완료(사용자 확인) |
+| 확장·프리미엄 | 번역 포함. Kingmaker 대사는 게임에서 확인됨, 나머지 미확인 |
+| 커뮤니티 20개 | 번역 포함. v0.1.16에서 충돌 수정(구조 검증 통과), **게임 안 확인은 사용자 대기 중** |
+| Qwen 후편집 | 약 2.6만 / 8.55만 문장 처리(승인 ok 약 1.9만). **설치 프로그램에는 아직 연결 안 됨** |
+
+### 남은 일 (우선순위)
+1. **사용자가 "패치 후 게임 실행하니 에러"를 보고함** — 정확한 에러 문구·시점 확인 필요. 크래시 파일: `문서\...\crashreport\*.nwcrash.txt`. 확인된 패턴: 크래시가 쌍으로 생김(하나는 `nwsync: database is locked` = 게임이 거의 동시에 두 번 실행되거나 이전 nwmain.exe 가 남아 있을 때), 다른 하나는 `exception=16`이며 10-15·10-16 오전(정상 동작하던 때)에도 같은 주소로 있었음 → 종료 시/실행 직후 크래시일 수 있음. 순정 상태에서 같은 에러가 나는지(전체 원복 후 실행)부터 비교할 것.
+2. 커뮤니티 5건(Reptile God 일부 영어, Crimson Tides 멈춤, Almraiven 손상, Shadewood·Ironlord 에러 종료)의 **게임 내 확인**. Reptile God 는 안전 검사로 제외된 334행(토큰 불일치 296, 한자 27)이 영어로 남음 → 재번역 필요.
+3. **Qwen 후편집 결과를 번역에 연결**: `번역작업백업\llm\all.llm.json`(게이트 v2 통과분, {영문:한글})을 `apply_mod.py`/`community_pack.py`/ncs 포장에서 우선 적용하도록 하고(원본 `all.json`은 불변), 재빌드·릴리스. 채택 기준은 아래 "연구" 절(게이트 v2).
+4. 보정 계속: `local-llm\run-postedit-max.bat`(출근 전 켜 두는 용도, 이어하기·자동 재시작). 병렬 4/8/12 모두 초당 약 2.4~2.5문장(GPU 한계) → 나머지는 10시간 이상. 로그: `번역작업백업\llm\run.log, bat.log, server.log`.
+5. 본편(OC/SoU/HotU)·DoD 4종 스크립트 문장: `.nwm` 재패킹 방식이 필요(development 방식은 캠페인 간 충돌 위험).
+6. 새 커뮤니티 캠페인 추가 절차: 사용자가 게임에서 내려받음 → `tools/ncs_extract_community.py`, `mt/community_run.py` 방식으로 번역 → `apply_glossary.py` → `community_pack.py` → `ncs_pack.py --community` → `CommunityModule` 항목 추가 → 릴리스.
+
+### 로컬 LLM / 공동 작업방
+- 서버: `start-server.bat`(채팅 http://127.0.0.1:8080), `stop-server.bat`. 보정: `run-postedit.bat [병렬수]`, `-quiet`(2), `-max`(8, 절전 방지 포함). 서버가 소리 없이 죽은 적이 있어 실행기는 연속 실패 12회에 종료코드 2로 끝나고 배치가 서버를 재시작(최대 5회).
+- 공동 작업방(의뢰인/Claude/Qwen): `start-room.bat` → http://127.0.0.1:8090. 방마다 Claude·Qwen 세션 기억, 받는 사람 체크박스. 사용자가 부를 때만 `claude -p`(읽기 전용 도구, 호출 부담 약 3.7천 토큰으로 최적화), `[[ORDER qwen]]`/`[[RUN postedit]]`(승인 필요).
+- 맡길 일: 대량 번역·정리·분류. 맡기지 말 일: 사실 확인, 코드 설계. Qwen 출력은 반드시 자동 검증.
+
+### 알려진 함정 (이미 한 번 겪음)
+- `.orig` 백업이 오염되면 원복해도 순정이 안 된다: 우리 전용 폴더(`development`, 문서 `hak`의 번역 HAK)는 `.orig`를 만들지 않고 삭제하도록 고침(v0.1.17, v0.1.21).
+- 순정 확인: 게임 폴더에 `.orig`·`version.dll` 없음, `nwmain.exe` 해시 `3b7cb125…`, Steam 무결성 검사. 순서는 "전체 원복 → 무결성 검사".
+- `gff_tool` 쓰기 인코딩은 한글 CP949, 악센트 영문 CP1252(고침).
+- 캠페인 업데이트로 이름·내용이 바뀌면 번역 일부가 영어로 남는다(오류 없이).
+
+
+## 이전 인수인계 (v0.1.8 시점, 참고용)
 
 - **v0.1.8**: 번역을 모듈 파일뿐 아니라 연결된 HAK 에도 적용(`installer/modbuild/premium/build_premium.py` 의 HAK 단계,
   `NWN_HAK_DIR` 환경변수, `BuiltMod` 이 HAK 를 `문서/hak` 에 설치·원복). Kingmaker 로 검증(적용 10,068개 중 모듈 1,390 + HAK 8,678).
