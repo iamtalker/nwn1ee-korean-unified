@@ -26,6 +26,10 @@ import zipfile
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+try:
+    VERSION = (HERE / "VERSION.txt").read_text(encoding="utf-8").strip() or "개발판"
+except OSError:
+    VERSION = "개발판"
 ROOT = HERE.parent
 ASSETS = ROOT / "assets"
 MODBUILD = HERE / "modbuild"
@@ -836,13 +840,14 @@ def run_gui():
     class App(tk.Tk):
         def __init__(self):
             super().__init__()
-            self.title("네버윈터 나이츠 EE 통합 한글 패치")
+            self.title(f"네버윈터 나이츠 EE 통합 한글 패치 {VERSION}")
             self.geometry("880x700")
             self.minsize(740, 420)
             self.rows = {}
 
             head = ttk.Frame(self, padding=(10, 10, 10, 4))
             head.pack(fill="x")
+            ttk.Label(head, text=f"통합 한글패치 {VERSION}", font=("", 11, "bold")).pack(anchor="w")
             ttk.Label(head, text=f"게임 경로: {GAME}", foreground="#666").pack(anchor="w")
             ttk.Label(head, text=f"문서 경로: {DOCS}", foreground="#666").pack(anchor="w")
 

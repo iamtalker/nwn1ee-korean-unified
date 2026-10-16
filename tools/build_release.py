@@ -8,6 +8,7 @@ root = Path(__file__).resolve().parent.parent
 ver = sys.argv[1] if len(sys.argv) > 1 else "dev"
 out = root / "dist" / f"nwn1ee-korean-unified-{ver}.zip"
 out.parent.mkdir(exist_ok=True)
+(root / "installer" / "VERSION.txt").write_text(ver, encoding="utf-8")
 
 include = ["README.md", "LICENSE", "NOTICE.md", "run_installer.bat", "installer", "hook", "assets"]
 with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
