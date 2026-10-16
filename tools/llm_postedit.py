@@ -98,6 +98,17 @@ def main():
                 pass
     good_path = os.path.join(out_dir, "all.llm.json")
     good = json.load(open(good_path, encoding="utf-8")) if os.path.exists(good_path) else {}
+    # 강제 종료로 all.llm.json 에 못 들어간 통과분을 기록 파일에서 복구한다
+    for en, d in done.items():
+        if d.get("status") == "ok" and d.get("ko") and en not in good:
+            good[en] = d["ko"]
+    # 통과했다고 기록됐지만 번역문이 남지 않은 것(예전 결함으로 유실)은 다시 처리한다
+    done = {en: d for en, d in done.items() if not (d.get("status") == "ok" and en not in good)}
+
+    def save_good():
+        tmp = good_path + ".tmp"
+        json.dump(good, open(tmp, "w", encoding="utf-8"), ensure_ascii=False)
+        os.replace(tmp, good_path)
 
     todo = []
     for c in cats:
@@ -154,7 +165,7 @@ def main():
                     errs += 1
                     if errs >= 12:
                         print("SERVER ERROR: 연속 실패 12회 - 중단합니다(이어하기 가능)", flush=True)
-                        json.dump(good, open(good_path, "w", encoding="utf-8"), ensure_ascii=False)
+                        save_good()
                         sf.flush()
                         os._exit(2)
                     continue
@@ -165,17 +176,20 @@ def main():
                     passed, why = gate(en, mt, llm)
                     rec = {"en": en, "status": "ok" if passed else "rejected", "why": why}
                     if passed:
+                        rec["ko"] = llm
+                    if passed:
                         good[en] = llm
                         ok += 1
                 sf.write(json.dumps(rec, ensure_ascii=False) + "\n")
                 n += 1
             sf.flush()
-            if n % 200 < len(dn):
-                json.dump(good, open(good_path, "w", encoding="utf-8"), ensure_ascii=False)
+            os.fsync(sf.fileno())
+            if n % 20 < len(dn):
+                save_good()
                 el = time.time() - t0
                 print(f"{n}/{len(todo)} accepted {ok} | {n/el:.2f}/s | eta {(len(todo)-n)/max(n/el,0.01)/3600:.1f}h", flush=True)
             submit_more()
-    json.dump(good, open(good_path, "w", encoding="utf-8"), ensure_ascii=False)
+    save_good()
     print(f"DONE {n} processed, {ok} accepted in {(time.time()-t0)/60:.0f} min", flush=True)
 
 
