@@ -117,11 +117,12 @@ NWN1 EE(8193.37) 통합 한글패치. 모든 캠페인(본편·확장·프리미
 
 ### 남은 일 (우선순위)
 1. **사용자가 "패치 후 게임 실행하니 에러"를 보고함** — 정확한 에러 문구·시점 확인 필요. 크래시 파일: `문서\...\crashreport\*.nwcrash.txt`. 확인된 패턴: 크래시가 쌍으로 생김(하나는 `nwsync: database is locked` = 게임이 거의 동시에 두 번 실행되거나 이전 nwmain.exe 가 남아 있을 때), 다른 하나는 `exception=16`이며 10-15·10-16 오전(정상 동작하던 때)에도 같은 주소로 있었음 → 종료 시/실행 직후 크래시일 수 있음. 순정 상태에서 같은 에러가 나는지(전체 원복 후 실행)부터 비교할 것.
-2. 커뮤니티 5건(Reptile God 일부 영어, Crimson Tides 멈춤, Almraiven 손상, Shadewood·Ironlord 에러 종료)의 **게임 내 확인**. Reptile God 영어 잔존분은 v0.1.22에서 330행 추가(Qwen 352 + 직접 165, 토큰 검증 통과)로 해결 — 게임 내 확인 대기. 기존 행은 배포본 그대로 유지(백업 all.json 은 배포본과 달라 그대로 재생성하면 안 됨).
+2. (해결됨: 5건 모두 단독 설치 시 정상 확인, Shadewood·Ironlord 의 메시지는 '이전 캠페인 먼저' 안내) 커뮤니티 5건(Reptile God 일부 영어, Crimson Tides 멈춤, Almraiven 손상, Shadewood·Ironlord 에러 종료)의 **게임 내 확인**. Reptile God 영어 잔존분은 v0.1.22에서 330행 추가(Qwen 352 + 직접 165, 토큰 검증 통과)로 해결 — 게임 내 확인 대기. 기존 행은 배포본 그대로 유지(백업 all.json 은 배포본과 달라 그대로 재생성하면 안 됨).
    보정 스크립트(`llm_postedit.py`)는 v0.1.22에서 강제 종료해도 번역이 유실되지 않게 고침(기록 파일에 번역문 저장·복구, 20건마다 저장). 예전 결함으로 유실된 367건은 이어하기 때 자동 재처리됨.
 3. **Qwen 후편집 결과를 번역에 연결**: `번역작업백업\llm\all.llm.json`(게이트 v2 통과분, {영문:한글})을 `apply_mod.py`/`community_pack.py`/ncs 포장에서 우선 적용하도록 하고(원본 `all.json`은 불변), 재빌드·릴리스. 채택 기준은 아래 "연구" 절(게이트 v2).
 4. 보정 계속: `local-llm\run-postedit-max.bat`(출근 전 켜 두는 용도, 이어하기·자동 재시작). 병렬 4/8/12 모두 초당 약 2.4~2.5문장(GPU 한계) → 나머지는 10시간 이상. 로그: `번역작업백업\llm\run.log, bat.log, server.log`.
 5. 본편(OC/SoU/HotU)·DoD 4종 스크립트 문장: `.nwm` 재패킹 방식이 필요(development 방식은 캠페인 간 충돌 위험).
+7. **(로드맵, 사용자 요청) 커뮤니티 캠페인 자동 전환**: 지금은 캠페인을 바꿀 때마다 설치 프로그램 [패치]로 전환해야 해서 폴더 방식의 이득이 속도뿐. 1순위 조사: 엔진 후킹(`hook/nwn_korean_hook.c`)으로 모듈 로드 시점에 모듈 이름을 얻어 `development` 검색 경로를 해당 캠페인 폴더(`문서/ko_campaigns/<slug>`)로 바꾸기 → 20개 동시 설치. 안 되면 `.nwm`/HAK 재패킹. 사용자는 캠페인 5건 모두 단독 설치 시 정상임을 확인함(충돌이 원인으로 확정).
 6. 새 커뮤니티 캠페인 추가 절차: 사용자가 게임에서 내려받음 → `tools/ncs_extract_community.py`, `mt/community_run.py` 방식으로 번역 → `apply_glossary.py` → `community_pack.py` → `ncs_pack.py --community` → `CommunityModule` 항목 추가 → 릴리스.
 
 ### 로컬 LLM / 공동 작업방
