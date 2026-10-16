@@ -158,6 +158,21 @@ def unput(dst: Path):
         dst.unlink()
 
 
+def put_dev(data: bytes, dst: Path):
+    # development 폴더는 원래 비어 있는 우리 전용 폴더다. 다른 캠페인 파일을 '백업(.orig)'으로 남기면 원복 때 오염되므로 백업 없이 쓴다.
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    dst.write_bytes(data)
+
+
+def unput_dev(dst: Path):
+    for f in (dst, bak_of(dst)):               # 예전 버전이 남긴 .orig 도 함께 정리
+        try:
+            if f.exists():
+                f.unlink()
+        except OSError:
+            pass
+
+
 def need_docs():
     if not DOCS_READY:
         raise RuntimeError(
@@ -624,7 +639,7 @@ class CommunityModule(Item):
             n = sum(1 for p, lang, t in items if set_text(gff.root, p, lang, t))
             if n:
                 dst = DEV / f"{resref}.{ext}"
-                put_bytes(gff.to_bytes(), dst)
+                put_dev(gff.to_bytes(), dst)
                 written.append(str(dst))
         # 컴파일된 스크립트(NCS) 안의 문장 (NPC 말풍선, 시스템 메시지): ncs.csv = Resource,Index,Check,Text
         ncs_csv = HERE / "community" / self.slug / "ncs.csv"
@@ -651,7 +666,7 @@ class CommunityModule(Item):
                             if k in idx and zlib.crc32(idx[k].encode("latin-1")) == crc}
                     if repl:
                         dst = DEV / f"{resref}.ncs"
-                        put_bytes(ncs_tool.rebuild(raw, repl, by_index=True), dst)
+                        put_dev(ncs_tool.rebuild(raw, repl, by_index=True), dst)
                         written.append(str(dst))
                 except Exception:
                     continue
@@ -667,7 +682,7 @@ class CommunityModule(Item):
         except Exception:
             return
         for f in files:
-            unput(Path(f))
+            unput_dev(Path(f))
         self.marker.unlink()
 
 
