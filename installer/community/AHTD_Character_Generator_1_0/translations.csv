@@ -1,53 +1,53 @@
 Resource,ResType,FieldPath,LangID,Text
-area001,are,Name,0,지혜로운 사람
-epgiver,dlg,EntryList/1/Text,0,그래서 주변을 둘러보세요. 아마도 제 옆방에 있는 가슴이 당신을 흥미롭게 할 수 있을지도 모릅니다.
-epgiver,dlg,EntryList/2/Text,0,당신은 약간의 튜터링을 선택할 수 있습니다. 이것은 당신이 Underdark의 위험에 직면 할 필요가 있는 경험을 줄 것입니다. 당신은 레벨 4에서 5에 주위에 있어야 합니다.
+area001,are,Name,0,마법사
+epgiver,dlg,EntryList/1/Text,0,그래서 주변을 둘러보세요. 아마 그릇들 사이에 있는 가방들이 당신에게 흥미로울지도 몰라. 매운 당신의 여행이 부드러워지길.
+epgiver,dlg,EntryList/2/Text,0,당신은 튜터링을 받을 수 있습니다. 이것은 언더다크의 위험을 맞서는 데 필요한 경험을 얻을 수 있게 해줍니다. 당신은 대략 4레벨에서 5레벨 사이의 능력을 갖추고 있어야 합니다. 무엇을 원하시나요?
 epgiver,dlg,EntryList/3/Text,0,"자, 마법과 약물을 사용하여 전투 능력을 강화하십시오. 좋은 선택은 Bulls Power, Cats Grace, Barkskin 및 Speed의 약물입니다. 조율과 축복으로부터 보호는 매우 유용한 마법입니다."
-epgiver,dlg,EntryList/4/Text,0,"어둠 속에서 살아남을 수 있는 기본 규칙 중 하나는 항상 경계하고, 보는 것을 절대 믿지 말고, 혼자 걷지 않는 것이 좋습니다."
-epgiver,dlg,EntryList/5/Text,0,최고의 갑옷과 최고의 무기를 갖추고 항상 빛과 몇 가지 치료약을 가지고 가세요.
-epgiver,dlg,ReplyList/0/Text,0,미안하지만 그냥 쳐다봤어요
-epgiver,dlg,ReplyList/1/Text,0,작별인사를 전합니다.
-epgiver,dlg,ReplyList/2/Text,0,"그래, 세이지, 내가 할 수 있는 방법은?"
-epgiver,dlg,ReplyList/3/Text,0,저는 거의 신입생이고 모든 교육이 필요할 것 같습니다.
-epgiver,dlg,ReplyList/4/Text,0,"고마워요, 아직은 충분해요"
-epgiver,dlg,ReplyList/5/Text,0,더 많은 교육이 필요해
-epgiver,dlg,ReplyList/6/Text,0,저는 강좌가 매우 필요해요 (2000 ep)
-epgiver,dlg,ReplyList/7/Text,0,"고마워요, 아직은 충분해요"
-epgiver,dlg,ReplyList/8/Text,0,더 많은 교육이 필요해
-epgiver,dlg,ReplyList/9/Text,0,저는 약간의 가벼운 튜터링을 선택합니다.
-epgiver,dlg,ReplyList/10/Text,0,"고마워요, 아직은 충분해요"
-epgiver,dlg,ReplyList/11/Text,0,더 많은 교육이 필요해
+epgiver,dlg,EntryList/4/Text,0,"어둠 속에서 살아남을 수 있는 기본 규칙 중 하나는 항상 경계하고, 봤던 것을 절대 믿지 말고, 혼자 걷지 않는 것이 좋습니다."
+epgiver,dlg,EntryList/5/Text,0,최고의 갑옷과 최고의 무기를 장비하고 항상 빛과 몇 가지 치유 포션을 가지고 가세요.
+epgiver,dlg,ReplyList/0/Text,0,미안하지만 그냥 봤어.
+epgiver,dlg,ReplyList/1/Text,0,작별 인사를 드립니다.
+epgiver,dlg,ReplyList/2/Text,0,"네, 세이지님. 제가 선택할 수 있는 방법은 무엇인가요?"
+epgiver,dlg,ReplyList/3/Text,0,저는 거의 신인이라 모든 가르침이 필요할 것 같습니다. (4000 에픽 포인트)
+epgiver,dlg,ReplyList/4/Text,0,고마워. 지금은 충분해.
+epgiver,dlg,ReplyList/5/Text,0,더 많은 가르침이 필요해.
+epgiver,dlg,ReplyList/6/Text,0,저는 심각한 필요로 인해 튜토리얼이 필요해요 (2000 ep)
+epgiver,dlg,ReplyList/7/Text,0,고마워. 지금은 충분해.
+epgiver,dlg,ReplyList/8/Text,0,더 많은 가르침이 필요해.
+epgiver,dlg,ReplyList/9/Text,0,저는 약간의 가벼운 튜토리얼을 선택합니다. (1000 에픽 포인트)
+epgiver,dlg,ReplyList/10/Text,0,고마워. 지금은 충분해.
+epgiver,dlg,ReplyList/11/Text,0,더 많은 가르침이 필요해.
 goodbye,dlg,EntryList/0/Text,0,"<FullName>, 당신은 ""어둠의 사냥""을 시작하기 위한 준비를 마쳤는지 확신하십니까?"
 goodbye,dlg,EntryList/1/Text,0,지금부터 모험을 시작해 밤 아래로 들어갈 준비를 해
-goodbye,dlg,ReplyList/0/Text,0,"잠깐, 한 걸 잊어버렸어"
+goodbye,dlg,ReplyList/0/Text,0,"잠깐, 뭔가를 잊어버렸다."
 goodbye,dlg,ReplyList/1/Text,0,"예, 준비됐어요"
-area001,git,Creature List/0/FirstName,0,지혜로운 사람
-area001,git,Creature List/0/Description,0,이 이상한 졸음 마법사는 강한 마법의 아우라를 가지고 있습니다.
+area001,git,Creature List/0/FirstName,0,마법사
+area001,git,Creature List/0/Description,0,이 이상한 드루이 마법사는 강한 마법의 아우라를 뿜어내고 있습니다.
 area001,git,Placeable List/1/LocName,0,상자
-area001,git,Placeable List/1/Description,0,이 상자 는 낮고 평평 한 곳 으로서 상인의 계좌 를 보관 하고 보관 하기 위해 설계 된 것 같습니다.
+area001,git,Placeable List/1/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 area001,git,Placeable List/2/LocName,0,상자
-area001,git,Placeable List/2/Description,0,이 상자 는 낮고 평평 한 곳 으로서 상인의 계좌 를 보관 하고 보관 하기 위해 설계 된 것 같습니다.
+area001,git,Placeable List/2/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 area001,git,Placeable List/3/LocName,0,상자
-area001,git,Placeable List/3/Description,0,이 상자 는 낮고 평평 한 곳 으로서 상인의 계좌 를 보관 하고 보관 하기 위해 설계 된 것 같습니다.
+area001,git,Placeable List/3/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 area001,git,Placeable List/3/ItemList/0/LocalizedName,0,사슬갑옷
 area001,git,Placeable List/3/ItemList/1/LocalizedName,0,사슬 상의
 area001,git,Placeable List/4/LocName,0,상자
-area001,git,Placeable List/4/Description,0,이 상자 는 낮고 평평 한 곳 으로서 상인의 계좌 를 보관 하고 보관 하기 위해 설계 된 것 같습니다.
+area001,git,Placeable List/4/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 area001,git,Placeable List/4/ItemList/0/LocalizedName,0,해독의 물약
-area001,git,Placeable List/4/ItemList/0/DescIdentified,0,"이 도닉은 독, 무기 독, 질병, 그리고 모든 종류의 독에 대해 강력합니다."
+area001,git,Placeable List/4/ItemList/0/DescIdentified,0,"이 도닉은 모든 종류의 독, 무기독, 질병에 대해 효과적입니다."
 area001,git,Placeable List/4/ItemList/1/LocalizedName,0,나무껍질 피부의 물약
-area001,git,Placeable List/4/ItemList/1/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새가 나고 무더운 냄새가 나고, 강수 이후의 숲처럼."
+area001,git,Placeable List/4/ItemList/1/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
 area001,git,Placeable List/4/ItemList/2/LocalizedName,0,황소의 근력 물약
 area001,git,Placeable List/4/ItemList/2/DescIdentified,0,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
-area001,git,Placeable List/4/ItemList/3/LocalizedName,0,치명적인 상처 치료의 물약
-area001,git,Placeable List/4/ItemList/3/DescIdentified,0,"죽음을 앞두고 있는 사람들을 다시 살릴 수 있는 힘으로, 이 술은 저렴하지 않습니다."
-area001,git,Placeable List/4/ItemList/4/LocalizedName,0,일반 상처 치료의 물약
-area001,git,Placeable List/4/ItemList/4/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸고, 거의 전용적으로 군인과 모험가들에 의해 사용됩니다."
+area001,git,Placeable List/4/ItemList/3/LocalizedName,0,치명상처 치료의 물약
+area001,git,Placeable List/4/ItemList/3/DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+area001,git,Placeable List/4/ItemList/4/LocalizedName,0,일반 중상 치료의 물약
+area001,git,Placeable List/4/ItemList/4/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸서, 거의 전적으로 군인과 모험가들에 의해 사용됩니다."
 area001,git,Placeable List/4/ItemList/5/LocalizedName,0,전승지식의 물약
-area001,git,Placeable List/4/ItemList/5/DescIdentified,0,"이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며, 페룬의 동굴에서 많이 사용되고 있습니다."
+area001,git,Placeable List/4/ItemList/5/DescIdentified,0,"이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며, 페룬의 동굴에서 자주 사용됩니다."
 area001,git,Placeable List/5/LocName,0,차원문
-area001,git,Placeable List/5/Description,0,포털은 부드럽게 빛나고 어디로 가는지 궁금합니다.
+area001,git,Placeable List/5/Description,0,앞에 당신은 부드럽게 빛나는 포털이 있습니다. 어디로 연결되는지 궁금합니다.
 area001,git,Placeable List/28/LocName,0,분포된 종이
-module,ifo,Mod_Name,0,AHTD - 캐릭터 생성자
+module,ifo,Mod_Name,0,AHTD - 캐릭터 생성기
 module,ifo,Mod_Description,0,"제0장 - 준비 ""어둠을 통해 사냥""을 하고 싶지만 플레이하기에 적합한 캐릭터가 없습니까? 문제 없습니다. Drow 소속으로 새로운 엘프 캐릭터를 만들고 이 모듈을 사용하여 요구 사항에 부합하도록 홍보하고 장비를 갖춰주세요. 참고: 이기지 못할 영웅을 만들어서 재미를 낭비하지 마십시오. 그냥 Lvl 4-5에 진출하고 공급 상자에서 몇 가지 기본 장비로 장착하십시오. 재미있게하십시오."
 spdcocoon001,utp,LocName,0,분포된 종이

@@ -1,28 +1,28 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
 arrow_plc,utp,LocName,0,14629,화살
 bluearrow,utp,LocName,0,-1,푸른 화살
-bossitemmarker,utp,Description,0,14720,시안 빛의 화려한 축이 위에서 보이지 않는 곳에서 내려오고 있습니다.
+bossitemmarker,utp,Description,0,14720,시안색 빛이 시원하게 내려오는 것처럼 보입니다. 위에서 보이지 않는 곳에서요.
 bossitemmarker,utp,LocName,0,14719,보스ItemMarker
-brazier_plc,utp,Description,0,14579,"그 은 뜨거운 빛 을 내 낸다. 그 을 향해 나아갈 때, 손 손 손 에 땀 이 솟아 있는 것 을 느낄 수 있습니다."
-catalogspeaker,utp,Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
+brazier_plc,utp,Description,0,14579,"번나리가 뜨거운 빛을 내뿜는다. 손을 뻗어 다가갈 때, 손바닥에 땀이 맺히는 것을 느낄 수 있다."
+catalogspeaker,utp,Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 catalogspeaker,utp,LocName,0,5800,카탈로그
 color_plc_1,utp,LocName,0,5800,블루 룬
 color_plc_2,utp,LocName,0,5800,시안 루네
-color_plc_3,utp,LocName,0,5800,그린 루네
-color_plc_4,utp,LocName,0,5800,오렌지 룬
+color_plc_3,utp,LocName,0,5800,녹색 루네
+color_plc_4,utp,LocName,0,5800,주황 룬
 color_plc_5,utp,LocName,0,5800,보라색 룬
-color_plc_6,utp,LocName,0,5800,레드 루나
-color_plc_7,utp,LocName,0,5800,화이트 루나
-color_plc_8,utp,LocName,0,5800,황색 룬
+color_plc_6,utp,LocName,0,5800,레드 루니
+color_plc_7,utp,LocName,0,5800,백색 룬
+color_plc_8,utp,LocName,0,5800,노랑 룬
 cpu,utp,LocName,0,5800,CPU
-crystal_plc,utp,Description,0,84183,구구의 차가운 크리스탈 표면에서 당신 자신의 왜곡된 반사가 당신을 쳐다보고 있습니다.
+crystal_plc,utp,Description,0,84183,구슬의 차가운 크리스탈 표면에서 당신 자신의 왜곡된 반사가 당신을 쳐다보고 있습니다.
 crystal_plc,utp,LocName,0,83438,크리스탈을 불러오
-crystalmech,utp,LocName,0,84569,크리스탈 메커니즘
-globe_plc,utp,LocName,0,84569,크리스탈 글로브
+crystalmech,utp,LocName,0,84569,수정 메커니즘
+globe_plc,utp,LocName,0,84569,수정구체
 greenarrow,utp,LocName,0,-1,녹색 화살
-id1_bactel,utp,LocName,0,-1,로드 앤투안의 동굴으로 이동할 수 있습니다
+id1_bactel,utp,LocName,0,-1,로드 앤투안 던전으로 순간이동기 사용
 id1_bossinv,utp,LocName,0,5800,보스 인벤토리
-id1_bosstel,utp,LocName,0,-1,던전 입구로 통신
+id1_bosstel,utp,LocName,0,-1,던전 입구로 순간이동
 id1_con001,utp,LocName,0,-1,통
 id1_con002,utp,LocName,0,-1,검은 통
 id1_con003,utp,LocName,0,-1,검은 궤찍
@@ -37,18 +37,18 @@ id1_con011,utp,LocName,0,-1,상자
 id1_con012,utp,LocName,0,-1,상자
 id1_con013,utp,LocName,0,-1,상자
 id1_con014,utp,LocName,0,-1,자루
-id1_corpse_plc,utp,LocName,0,5763,시체 집합
-id1_gzboulder,utp,Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
+id1_corpse_plc,utp,LocName,0,5763,시체 쌓임
+id1_gzboulder,utp,Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
 id1_gzbtel,utp,LocName,0,-1,지조르브의 동굴으로 이동할 수 있습니다
-id1_gzhorb_chasm,utp,LocName,0,5800,떨어지는 바위
-id1_hagtel,utp,LocName,0,-1,헤가타 과부 의 집 에 텔레포터
-id1_halasterport,utp,Description,0,14533,포털은 부드럽게 빛나고 어디로 가는지 궁금합니다.
-id1_haltel,utp,LocName,0,-1,할래스터의 영역으로 이동
-id1_hartel,utp,LocName,0,-1,해라트의 성소로 이동할 수 있습니다
-id1_magtel,utp,LocName,0,-1,매그리스 매그리스 매그리스 매그리스
-id1_mastel,utp,LocName,0,-1,마스테리우스 동굴으로 이동할 수 있는 통신기
+id1_gzhorb_chasm,utp,LocName,0,5800,떨어지는 돌
+id1_hagtel,utp,LocName,0,-1,헤가타 과부 집으로 텔레포터
+id1_halasterport,utp,Description,0,14533,앞에 당신은 부드럽게 빛나는 포털이 있습니다. 어디로 연결되는지 궁금합니다.
+id1_haltel,utp,LocName,0,-1,할라스터의 영역으로 순간이동기로 이동
+id1_hartel,utp,LocName,0,-1,해라트의 성소로 순간이동기 사용
+id1_magtel,utp,LocName,0,-1,매그리스의 벌레굴로 순간이동기
+id1_mastel,utp,LocName,0,-1,마스테리우스 납골당으로 순간이동기
 id1_mysticforge,utp,Description,0,-1,"지혜로운 사람 은 ""조금 의 영 이 강력 할 때, 그 영 이 내리는 불꽃 을 보라. 영 이 기뻐하고 수행 할 준비가 되어 있다""고 말 한다. 어리석은 사람 은 ""이것이 내게 금 을 줄 것 인가?""라고 말 한다. 지혜로운 사람 은 ""조금 의 영 에 매료 하고 말 하고 도금 의 영 에 말 하라. 조금 의 영 은 친절 하고 네 욕망 을 충족 시키실 수 있다""고 말 한다. 어리석은 사람 은 ""나는 영 들 의 도움 이 필요 없다""고 말 한다. 지혜로운 사람 은 ""정확 한 요리법 을 발견 하고 그 구성 요소 가 당신 이라면, 조금 의 영 은 강력 한 매료 를 만들 것 이다""고 말 한다. 어리석은 사람 은 ""아쩌면 그 모든 보석 을 팔지 않았을 것 이다""고 말 한다."
-id1_mysticforge,utp,LocName,0,-1,미스틱 앤빌
+id1_mysticforge,utp,LocName,0,-1,미스틱 모루
 id1_plc001,utp,LocName,0,-1,연금술사의 기구
 id1_plc002,utp,LocName,0,-1,제단
 id1_plc003,utp,LocName,0,-1,제단
@@ -62,8 +62,8 @@ id1_plc010,utp,LocName,0,-1,화살이 꽂힌 시체
 id1_plc011,utp,LocName,0,-1,기
 id1_plc012,utp,LocName,0,-1,통
 id1_plc013,utp,LocName,0,-1,긴의자
-id1_plc014,utp,LocName,0,-1,큰 구멍
-id1_plc015,utp,LocName,0,-1,큰 버섯
+id1_plc014,utp,LocName,0,-1,거구의 구멍
+id1_plc015,utp,LocName,0,-1,거구 버섯
 id1_plc016,utp,LocName,0,-1,새 욕조
 id1_plc017,utp,LocName,0,-1,새장
 id1_plc018,utp,LocName,0,-1,검은 통
@@ -83,31 +83,31 @@ id1_plc031,utp,LocName,0,-1,상자
 id1_plc032,utp,LocName,0,-1,상자
 id1_plc033,utp,LocName,0,-1,상자
 id1_plc034,utp,LocName,0,-1,화로
-id1_plc035,utp,LocName,0,-1,부서진 책꽃이
+id1_plc035,utp,LocName,0,-1,부서진 책장
 id1_plc036,utp,LocName,0,-1,부서진 가구
 id1_plc037,utp,LocName,0,-1,부서진 가구
 id1_plc038,utp,LocName,0,-1,부서진 탁자
 id1_plc039,utp,LocName,0,-1,부서진 탁자
 id1_plc040,utp,LocName,0,-1,나비
 id1_plc041,utp,LocName,0,-1,보관장
-id1_plc042,utp,LocName,0,-1,작은 덩어리
+id1_plc042,utp,LocName,0,-1,소형 사막가시풀
 id1_plc043,utp,LocName,0,-1,대형 선인장
 id1_plc044,utp,LocName,0,-1,모닥불
 id1_plc045,utp,LocName,0,-1,모닥불
 id1_plc046,utp,LocName,0,-1,모닥불
 id1_plc047,utp,LocName,0,-1,가지달린 촛대
 id1_plc048,utp,LocName,0,-1,가마솥
-id1_plc049,utp,LocName,0,-1,큰 의자
+id1_plc049,utp,LocName,0,-1,거구의 의자
 id1_plc050,utp,LocName,0,-1,샹들리에
 id1_plc051,utp,LocName,0,-1,상자
 id1_plc052,utp,LocName,0,-1,상자
 id1_plc053,utp,LocName,0,-1,상자
 id1_plc054,utp,LocName,0,-1,상자
 id1_plc055,utp,LocName,0,-1,서랍장
-id1_plc056,utp,LocName,0,-1,시체
-id1_plc057,utp,LocName,0,-1,시체
-id1_plc058,utp,LocName,0,-1,시체
-id1_plc059,utp,LocName,0,-1,시체
+id1_plc056,utp,LocName,0,-1,시체 쌓임
+id1_plc057,utp,LocName,0,-1,시체 쌓임
+id1_plc058,utp,LocName,0,-1,시체 쌓임
+id1_plc059,utp,LocName,0,-1,시체 쌓임
 id1_plc060,utp,LocName,0,-1,소파
 id1_plc061,utp,LocName,0,-1,수정
 id1_plc062,utp,LocName,0,-1,잔해
@@ -115,7 +115,7 @@ id1_plc063,utp,LocName,0,-1,사막의 표석
 id1_plc064,utp,LocName,0,-1,사막의 표석
 id1_plc065,utp,LocName,0,-1,사막의 바위
 id1_plc066,utp,LocName,0,-1,책상
-id1_plc067,utp,LocName,0,-1,큰 책상
+id1_plc067,utp,LocName,0,-1,거구 책상
 id1_plc068,utp,LocName,0,-1,작은 책상
 id1_plc069,utp,LocName,0,-1,수영장
 id1_plc070,utp,LocName,0,-1,용의 두개골
@@ -136,7 +136,7 @@ id1_plc084,utp,LocName,0,-1,기
 id1_plc085,utp,LocName,0,-1,불타는 조각상
 id1_plc086,utp,LocName,0,-1,바닥 도안
 id1_plc087,utp,LocName,0,-1,바닥에 고정된 쇠고랑
-id1_plc088,utp,LocName,0,-1,파리로 뒤덮인 역병 시체
+id1_plc088,utp,LocName,0,-1,파리로 뒤덮인 역병 희생자 시체
 id1_plc089,utp,LocName,0,-1,대장간
 id1_plc090,utp,LocName,0,-1,분수
 id1_plc091,utp,LocName,0,-1,횃불
@@ -181,7 +181,7 @@ id1_plc129,utp,LocName,0,-1,이끼
 id1_plc130,utp,LocName,0,-1,버섯
 id1_plc131,utp,LocName,0,-1,버섯
 id1_plc132,utp,LocName,0,-1,오벨리스크
-id1_plc133,utp,LocName,0,-1,자갈 조각
+id1_plc133,utp,LocName,0,-1,자갈 덩이
 id1_plc134,utp,LocName,0,-1,받침대
 id1_plc135,utp,LocName,0,-1,해골 더미
 id1_plc136,utp,LocName,0,-1,기둥
@@ -214,8 +214,8 @@ id1_plc162,utp,LocName,0,-1,관목
 id1_plc163,utp,LocName,0,-1,표지판
 id1_plc164,utp,LocName,0,-1,표지판
 id1_plc165,utp,LocName,0,-1,가시못에 걸린 두개골
-id1_plc166,utp,LocName,0,-1,작은 구멍
-id1_plc167,utp,LocName,0,-1,눈 더미
+id1_plc166,utp,LocName,0,-1,소형 구덩이
+id1_plc167,utp,LocName,0,-1,눈더미
 id1_plc168,utp,LocName,0,-1,거미줄 고치
 id1_plc169,utp,LocName,0,-1,조각상
 id1_plc170,utp,LocName,0,-1,조각상
@@ -225,11 +225,11 @@ id1_plc173,utp,LocName,0,-1,조각상
 id1_plc174,utp,LocName,0,-1,조각상
 id1_plc175,utp,LocName,0,-1,돌의 원진
 id1_plc176,utp,LocName,0,-1,돌 부분
-id1_plc177,utp,LocName,0,-1,돌
+id1_plc177,utp,LocName,0,-1,돌살대
 id1_plc178,utp,LocName,0,-1,칼에 찔린 시체
 id1_plc179,utp,LocName,0,-1,탁자
 id1_plc180,utp,LocName,0,-1,무덤
-id1_plc181,utp,LocName,0,-1,토마스 덩어리
+id1_plc181,utp,LocName,0,-1,권의 쌓인 쌓임
 id1_plc182,utp,LocName,0,-1,고문 도구
 id1_plc183,utp,LocName,0,-1,죽은 나무
 id1_plc184,utp,LocName,0,-1,단지
@@ -245,8 +245,8 @@ id1_plc193,utp,LocName,0,-1,나무 상자
 id1_plc194,utp,LocName,0,-1,나무 상자
 id1_plc195,utp,LocName,0,-1,나무 상자
 id1_plc196,utp,LocName,0,-1,나무 상자
-id1_plc197,utp,LocName,0,-1,쓰레기
-id1_plc198,utp,LocName,0,-1,건초 더미
+id1_plc197,utp,LocName,0,-1,쓰레기 쌓임
+id1_plc198,utp,LocName,0,-1,건초 비계
 id1_plc199,utp,LocName,0,-1,작은통
 id1_plc200,utp,LocName,0,-1,소형 융단
 id1_plc201,utp,LocName,0,-1,톱모탕
@@ -257,37 +257,37 @@ id1_plc205,utp,LocName,0,-1,마차
 id1_plc206,utp,LocName,0,-1,마차
 id1_plc207,utp,LocName,0,-1,마차
 id1_plc208,utp,LocName,0,-1,마차 바퀴
-id1_plc209,utp,LocName,0,-1,바그니 트로
-id1_plc210,utp,LocName,0,-1,무기 선반
-id1_plotplc001,utp,Description,0,-1,이 변기는 최근에 사용된 것으로 보이며 장식적인 목적 이외의 목적이 있을 수 있습니다.
+id1_plc209,utp,LocName,0,-1,마차 트로프
+id1_plc210,utp,LocName,0,-1,무기 거치대
+id1_plotplc001,utp,Description,0,-1,"이 변기는 최근에 사용된 것 같고, 장식적인 목적 이외의 다른 목적을 가질 수 있습니다."
 id1_plotplc001,utp,LocName,0,-1,제단
-id1_plotplc002,utp,Description,0,-1,이 변기는 최근에 사용된 것으로 보이며 장식적인 목적 이외의 목적이 있을 수 있습니다.
+id1_plotplc002,utp,Description,0,-1,"이 변기는 최근에 사용된 것 같고, 장식적인 목적 이외의 다른 목적을 가질 수 있습니다."
 id1_plotplc002,utp,LocName,0,-1,제단
-id1_plotplc003,utp,Description,0,-1,이 변기는 최근에 사용된 것으로 보이며 장식적인 목적 이외의 목적이 있을 수 있습니다.
+id1_plotplc003,utp,Description,0,-1,"이 변기는 최근에 사용된 것 같고, 장식적인 목적 이외의 다른 목적을 가질 수 있습니다."
 id1_plotplc003,utp,LocName,0,-1,제단
-id1_plotplc004,utp,Description,0,-1,이 변기는 최근에 사용된 것으로 보이며 장식적인 목적 이외의 목적이 있을 수 있습니다.
+id1_plotplc004,utp,Description,0,-1,"이 변기는 최근에 사용된 것 같고, 장식적인 목적 이외의 다른 목적을 가질 수 있습니다."
 id1_plotplc004,utp,LocName,0,-1,제단
 id1_plotplc005,utp,Description,0,-1,분명히 누군가가 새 욕실을 깨끗하고 물로 가득 채우고 있습니다. 언더마운틴에서 노래하는 새들이 부족하다는 점을 고려하면 의심스러운 것입니다.
 id1_plotplc005,utp,LocName,0,-1,새 욕조
-id1_plotplc006,utp,Description,0,-1,이 물체의 크리스탈은 거의 힘으로 니다
+id1_plotplc006,utp,Description,0,-1,"이 물체의 크리스탈은 거의 힘으로 진동하고 있으며, 그 사용 목적은 아무나 추측할 수 있다."
 id1_plotplc006,utp,LocName,0,-1,수정
-id1_plotplc007,utp,Description,0,-1,"이 샘의 물은 추운 것 같고 신선한 것 같지만, 이곳의 대부분의 거나 흐릿한 샘과는 달리"
+id1_plotplc007,utp,Description,0,-1,"이 샘의 물은 차고 신선해 보이지만, 이곳의 대부분은 어둡고 탁한 샘과는 다르다."
 id1_plotplc007,utp,LocName,0,-1,분수
-id1_plotplc008,utp,Description,0,-1,이동할 수 있는 부분들을 가진 거고일 조각은 언더마운틴을 제외하고는 거의 없습니다.
+id1_plotplc008,utp,Description,0,-1,이동 가능한 부품을 갖춘 가고일 조각은 언더마운틴을 제외하고는 거의 없습니다.
 id1_plotplc008,utp,LocName,0,-1,가고일 조각상
-id1_plotplc009,utp,Description,0,-1,"이 콩의 옆쪽에 있는 표적에 따르면, 이 콩은 평생 많은 사용이 있었다."
+id1_plotplc009,utp,Description,0,-1,"이 종이 옆쪽에 있는 표시에 따르면, 이 종은 평생 많은 사용을 받았던 것 같다."
 id1_plotplc009,utp,LocName,0,-1,징
-id1_plotplc010,utp,Description,0,-1,이 무덤을 두 번째로 살펴보면 그 밑부분에 이 있는 것을 알 수 있습니다. 그래서 모든 것을 밀어 넣거나 끌어낼 수 있습니다.
+id1_plotplc010,utp,Description,0,-1,이 무덤을 두 번째로 살펴보면 아래부분에 핀이 있어 전체가 레버처럼 밀거나 당길 수 있습니다.
 id1_plotplc010,utp,LocName,0,-1,비석
 id1_plotplc011,utp,Description,0,-1,"어떤 것 이 이 거울 에 가까울 때마다, 약간 빛 을 내는 것 이 있습니다. 명백 히 이것은 평범한 일상 에 있는 거울 이 아닙니다."
 id1_plotplc011,utp,LocName,0,-1,큰 거울
-id1_plotplc012,utp,Description,0,-1,이 광물 우물은 몇 개의 작동 부품이 남아있는 것으로 보입니다.
+id1_plotplc012,utp,Description,0,-1,이 광산 우물은 여전히 몇 가지 작동 부품이 남아 있는 것 같습니다.
 id1_plotplc012,utp,LocName,0,-1,광산 우물
 id1_plotplc013,utp,Description,0,-1,"어떤 것 이 이 거울 에 가까울 때마다, 약간 빛 을 내는 것 이 있습니다. 명백 히 이것은 평범한 일상 에 있는 거울 이 아닙니다."
 id1_plotplc013,utp,LocName,0,-1,거울
-id1_plotplc014,utp,Description,0,-1,움직이는 부분들이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
+id1_plotplc014,utp,Description,0,-1,움직이는 부분이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
 id1_plotplc014,utp,LocName,0,-1,괴물 조각상
-id1_plotplc015,utp,Description,0,-1,이 돌의 룬은 어떤 것이 그들을 만질 때마다 빛납니다.
+id1_plotplc015,utp,Description,0,-1,이 돌의 룬은 어떤 것이 접촉할 때마다 빛나게 됩니다.
 id1_plotplc015,utp,LocName,0,-1,오벨리스크
 id1_plotplc016,utp,Description,0,-1,평범한 기둥처럼 보이지만 겉모습은 속일 수 있습니다.
 id1_plotplc016,utp,LocName,0,-1,받침대
@@ -297,11 +297,11 @@ id1_plotplc018,utp,Description,0,-1,평범한 기둥처럼 보이지만 겉모�
 id1_plotplc018,utp,LocName,0,-1,기둥
 id1_plotplc019,utp,Description,0,-1,"이 수영장의 물은 추운 것 같고 신선한 것 같지만, 이곳의 대부분의 습하거나 흐릿한 수영장과는 달리"
 id1_plotplc019,utp,LocName,0,-1,수영장
-id1_plotplc020,utp,Description,0,-1,이 돌의 룬은 어떤 것이 그들을 만질 때마다 빛납니다.
+id1_plotplc020,utp,Description,0,-1,이 돌의 룬은 어떤 것이 접촉할 때마다 빛나게 됩니다.
 id1_plotplc020,utp,LocName,0,-1,룬석
-id1_plotplc021,utp,Description,0,-1,이 돌의 룬은 어떤 것이 그들을 만질 때마다 빛납니다.
+id1_plotplc021,utp,Description,0,-1,이 돌의 룬은 어떤 것이 접촉할 때마다 빛나게 됩니다.
 id1_plotplc021,utp,LocName,0,-1,룬석
-id1_plotplc022,utp,Description,0,-1,이 돌의 룬은 어떤 것이 그들을 만질 때마다 빛납니다.
+id1_plotplc022,utp,Description,0,-1,이 돌의 룬은 어떤 것이 접촉할 때마다 빛나게 됩니다.
 id1_plotplc022,utp,LocName,0,-1,룬석
 id1_plotplc023,utp,Description,0,-1,이 사르코파거가 최근에 열렸던 것 처럼 보인다는 것은 조금 불편합니다.
 id1_plotplc023,utp,LocName,0,-1,석관
@@ -309,47 +309,47 @@ id1_plotplc024,utp,Description,0,-1,이 사르코파거가 최근에 열렸던 �
 id1_plotplc024,utp,LocName,0,-1,석관
 id1_plotplc025,utp,Description,0,-1,이 사르코파거가 최근에 열렸던 것 처럼 보인다는 것은 조금 불편합니다.
 id1_plotplc025,utp,LocName,0,-1,석관
-id1_plotplc026,utp,Description,0,-1,움직이는 부분들이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
+id1_plotplc026,utp,Description,0,-1,움직이는 부분이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
 id1_plotplc026,utp,LocName,0,-1,조각상
-id1_plotplc027,utp,Description,0,-1,움직이는 부분들이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
+id1_plotplc027,utp,Description,0,-1,움직이는 부분이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
 id1_plotplc027,utp,LocName,0,-1,조각상
-id1_plotplc028,utp,Description,0,-1,움직이는 부분들이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
+id1_plotplc028,utp,Description,0,-1,움직이는 부분이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
 id1_plotplc028,utp,LocName,0,-1,조각상
-id1_plotplc029,utp,Description,0,-1,움직이는 부분들이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
+id1_plotplc029,utp,Description,0,-1,움직이는 부분이 있는 동상은 언더마운틴을 제외하고는 거의 없습니다.
 id1_plotplc029,utp,LocName,0,-1,조각상
-id1_plotplc030,utp,Description,0,-1,이 무덤이 최근에 열렸던 것 처럼 보인다는 것은 다소 불편한 사실입니다.
+id1_plotplc030,utp,Description,0,-1,이 무덤이 최근에 열린 것처럼 보이는 것은 다소 불편한 사실입니다.
 id1_plotplc030,utp,LocName,0,-1,무덤
-id1_plotplc031,utp,Description,0,-1,이 우른에는 뭔가 다른 것이 있습니다. 그것은 그 같은 다른 것들과 구별됩니다.
+id1_plotplc031,utp,Description,0,-1,이 유리병에는 뭔가 다른 것이 있습니다. 다른 유리병들과 비교해 눈에 띕니다.
 id1_plotplc031,utp,LocName,0,-1,단지
-id1_plotplc032,utp,Description,0,-1,이 우물은 좋은 상태이며 자주 사용되고 있는 것 같습니다.
+id1_plotplc032,utp,Description,0,-1,이 우물은 상태가 좋고 자주 사용되는 것 같습니다.
 id1_plotplc032,utp,LocName,0,-1,우물
-id1_puzport,utp,Description,0,14533,포털은 부드럽게 빛나고 어디로 가는지 궁금합니다.
+id1_puzport,utp,Description,0,14533,앞에 당신은 부드럽게 빛나는 포털이 있습니다. 어디로 연결되는지 궁금합니다.
 id1_puzport,utp,LocName,0,5670,비밀 차원문
 id1_sdoor001,utp,LocName,0,-1,비밀 문
 id1_sdoor002,utp,LocName,0,-1,비밀 문
 id1_sdoor003,utp,LocName,0,-1,비밀 문
 id1_skullpole,utp,LocName,0,68910,두개골 토템
-interact_plc,utp,Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
+interact_plc,utp,Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 interact_plc,utp,LocName,0,5800,화살
 inventory,utp,LocName,0,5800,인벤토리
 lever,utp,LocName,0,-1,레버
 map,utp,LocName,0,5800,지도
-node_plc,utp,Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
+node_plc,utp,Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 node_plc,utp,LocName,0,5800,종료 노드
 pedastel_plc,utp,LocName,0,5718,받침대
 phl_switch_plc,utp,LocName,0,14704,활성화 스위치
 pillar_plc_1,utp,LocName,0,68900,블루 룬 기둥
 pillar_plc_2,utp,LocName,0,68900,시안 룬 기둥
 pillar_plc_3,utp,LocName,0,68900,녹색 룬 기둥
-pillar_plc_4,utp,LocName,0,68900,오렌지 룬 기둥
+pillar_plc_4,utp,LocName,0,68900,주황 룬 기둥
 pillar_plc_5,utp,LocName,0,68900,보라색 룬 기둥
 pillar_plc_6,utp,LocName,0,68900,레드 룬 기둥
-pillar_plc_7,utp,LocName,0,68900,화이트 룬 기둥
-pillar_plc_8,utp,LocName,0,68900,황색 룬 기둥
-puzzlepanel,utp,LocName,0,84570,프리즘 제어
+pillar_plc_7,utp,LocName,0,68900,백색 룬 기둥
+pillar_plc_8,utp,LocName,0,68900,노랑 룬 기둥
+puzzlepanel,utp,LocName,0,84570,프리즘 조절
 puzzleplate,utp,LocName,0,14704,퍼즐 타일
 redarrow,utp,LocName,0,-1,붉은 화살
-rubbleblocker,utp,Description,0,84577,이 동굴은 무너져 내렸습니다.
+rubbleblocker,utp,Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 rubbleblocker,utp,LocName,0,84564,자갈
 rune_plc_1,utp,LocName,0,14704,스위치
 rune_plc_11,utp,LocName,0,14704,스위치
@@ -360,33 +360,33 @@ rune_plc_5,utp,LocName,0,14704,스위치
 rune_plc_7,utp,LocName,0,14704,스위치
 rune_plc_9,utp,LocName,0,14704,스위치
 solblue,utp,LocName,0,14719,블루 빛줄기
-solcyan,utp,Description,0,14720,시안 빛의 화려한 축이 위에서 보이지 않는 곳에서 내려오고 있습니다.
-solcyan,utp,LocName,0,14719,시안 빛줄기
-solgreen,utp,LocName,0,14719,그린 빛줄기
-solorange,utp,LocName,0,14719,오렌지 빛줄기
+solcyan,utp,Description,0,14720,시안색 빛이 시원하게 내려오는 것처럼 보입니다. 위에서 보이지 않는 곳에서요.
+solcyan,utp,LocName,0,14719,시안의 빛줄기
+solgreen,utp,LocName,0,14719,녹색 빛줄기
+solorange,utp,LocName,0,14719,주황색 빛줄기
 solpurple,utp,LocName,0,14724,보라색 빛줄기
 solred,utp,LocName,0,14719,레드 빛줄기
-solwhite,utp,LocName,0,14719,화이트 빛줄기
-solyellow,utp,LocName,0,14719,황색 빛줄기
+solwhite,utp,LocName,0,14719,백색 빛줄기
+solyellow,utp,LocName,0,14719,노랑 빛줄기
 sparks_plc_1,utp,LocName,0,14673,푸른 스파크
 sparks_plc_2,utp,LocName,0,14673,시안 스파크스
 sparks_plc_3,utp,Description,0,14675,녹색의 스파크가 추운 밤의 공중에서 윙즈처럼 지상에서 올라온다.
 sparks_plc_3,utp,LocName,0,14673,녹색 스파크
-sparks_plc_4,utp,LocName,0,14673,오렌지 스파크
-sparks_plc_5,utp,Description,0,14677,보라색 스파크가 추운 밤의 공중에서 윙즈처럼 지상에서 올라온다.
-sparks_plc_5,utp,LocName,0,14673,보라색 스파크
-sparks_plc_6,utp,LocName,0,14673,붉은 스파크
-sparks_plc_7,utp,LocName,0,14673,백색 스파크
-sparks_plc_8,utp,Description,0,14680,맑은 밤의 공중에서 윙크처럼 지상에서 금빛의 스파크가 올라온다.
-sparks_plc_8,utp,LocName,0,14673,황색 스파크
-sphere_plc,utp,LocName,0,84569,활력 을 더 하는 지구
-statue_plc,utp,Description,0,84170,이 동상은 숭배하는 자세를 가진 인간형 생물을 묘사합니다. 그것은 화염에 영향을 받지 않은 어떤 종류의 돌로 만들어져야 합니다.
+sparks_plc_4,utp,LocName,0,14673,주황 스파크
+sparks_plc_5,utp,Description,0,14677,보라색 스파크가 추운 밤 공기에서 윙즈처럼 지상으로 솟아난다.
+sparks_plc_5,utp,LocName,0,14673,보라색 번개
+sparks_plc_6,utp,LocName,0,14673,붉은 번지기
+sparks_plc_7,utp,LocName,0,14673,백색 번개
+sparks_plc_8,utp,Description,0,14680,맑은 밤 공기에서 지상에서 금빛 스파크가 윙크처럼 올라간다.
+sparks_plc_8,utp,LocName,0,14673,노랑 스파크
+sphere_plc,utp,LocName,0,84569,화력된 구체
+statue_plc,utp,Description,0,84170,"이 동상은 숭배하는 자세를 취한 인간형 생물을 묘사하고 있으며, 화염에 의해 다른 동상의 머리와 손이 손상되는 것과는 달리 어떤 종류의 돌로 만들어져야 합니다."
 stdown,utp,LocName,0,-1,StDown
 stup,utp,LocName,0,-1,스터프
-switch_plc,utp,Description,0,14579,"그 은 뜨거운 빛 을 내 낸다. 그 을 향해 나아갈 때, 손 손 손 에 땀 이 솟아 있는 것 을 느낄 수 있습니다."
-switchtemplate,utp,LocName,0,14704,전환 템플릿
-temporaryblocker,utp,Description,0,84577,이 석회 책상에는 먼지 같은 오래된 책들이 가득합니다.
-temporaryblocker,utp,LocName,0,84564,임시 차단기
+switch_plc,utp,Description,0,14579,"번나리가 뜨거운 빛을 내뿜는다. 손을 뻗어 다가갈 때, 손바닥에 땀이 맺히는 것을 느낄 수 있다."
+switchtemplate,utp,LocName,0,14704,템플릿 변경
+temporaryblocker,utp,Description,0,84577,이 마블 책장에는 먼지투성의 오래된 책들이 가득합니다.
+temporaryblocker,utp,LocName,0,84564,임시 장애물
 tile00,utp,LocName,0,-1,타일00
 tile01,utp,LocName,0,-1,타일01
 tile02,utp,LocName,0,-1,타일02

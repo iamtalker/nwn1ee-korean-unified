@@ -1,20 +1,20 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
-innofthelasthope,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,여관 주인의 튜닉
+innofthelasthope,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,여관 주인의 티넥스
 innofthelasthope,git,Creature List/0/FirstName,0,12374,탈리아스
 innofthelasthope,git,Creature List/0/LastName,0,-1,알렌텔
 innofthelasthope,git,Encounter List/0/LocalizedName,0,-1,페린스파운
-innofthelasthope,git,SoundList/0/LocName,0,-1,벽난로와 냄비
+innofthelasthope,git,SoundList/0/LocName,0,-1,벽난로와 팬티스
 innofthelasthope,git,SoundList/1/LocName,0,-1,화로
 innofthelasthope,git,SoundList/2/LocName,0,-1,하품하는 남자
 innofthelasthope,git,SoundList/3/LocName,0,-1,횃불 불꽃 (소)
 innofthelasthope,git,SoundList/4/LocName,0,-1,횃불 불꽃 (소)
 innofthelasthope,git,SoundList/5/LocName,0,-1,횃불 불꽃 (소)
 innofthelasthope,git,SoundList/6/LocName,0,-1,횃불 불꽃 (소)
-innofthelasthope,git,SoundList/7/LocName,0,-1,냄비 부딪히는 소리
+innofthelasthope,git,SoundList/7/LocName,0,-1,단지 부딪히는 소리
 innofthelasthope,git,TriggerList/0/LocalizedName,0,14759,페린트리거1
 innofthelasthope,git,TriggerList/1/LocalizedName,0,14759,페린트리거 2
-innofthelasthope,git,WaypointList/2/LocalizedName,0,14817,사망 시 부활 지점 (여관)
-swampofthedarkra,git,Door List/2/Description,0,-1,이 은 다리는 멀리 떨어진 가든스펠트 마을로 돌아갑니다. 탈리아스는 술에 취한 손님들 중 어느 누구도 아래의 는 격곡에 떨어지지 않도록 밤에 잠겨 보호하고 있습니다. 새벽까지 다시 열리지 않으므로 모험을 계속하는 것이 좋습니다.
+innofthelasthope,git,WaypointList/2/LocalizedName,0,14817,사망 재시작 지점 (여관)
+swampofthedarkra,git,Door List/2/Description,0,-1,이 흉터진 다리는 멀리 떨어진 가든스펠트 마을로 돌아갑니다. 탈리아스는 술에 취한 손님들을 막기 위해 밤에 잠그고 보호막을 쳐둡니다. 새벽까지는 다시 열리지 않으므로 모험을 계속하는 것이 좋습니다.
 swampofthedarkra,git,Encounter List/0/LocalizedName,0,-1,인간형 생물
 swampofthedarkra,git,Encounter List/1/LocalizedName,0,-1,인간형 생물
 swampofthedarkra,git,Encounter List/10/LocalizedName,0,-1,요정
@@ -38,56 +38,56 @@ swampofthedarkra,git,Encounter List/6/LocalizedName,0,-1,인간형 생물
 swampofthedarkra,git,Encounter List/7/LocalizedName,0,-1,인간형 생물
 swampofthedarkra,git,Encounter List/8/LocalizedName,0,-1,요정
 swampofthedarkra,git,Encounter List/9/LocalizedName,0,-1,요정
-swampofthedarkra,git,SoundList/0/LocName,0,-1,협곡의 돌풍
-swampofthedarkra,git,SoundList/1/LocName,0,-1,협곡의 돌풍
-swampofthedarkra,git,SoundList/10/LocName,0,-1,바위 무너지는 소리 (대)
-swampofthedarkra,git,SoundList/11/LocName,0,-1,바위 무너지는 소리 (소)
-swampofthedarkra,git,SoundList/12/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/13/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/14/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/15/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/16/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/17/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/18/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/19/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/2/LocName,0,-1,협곡의 돌풍
-swampofthedarkra,git,SoundList/20/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/21/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/22/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/23/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/24/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/25/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/26/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/27/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/28/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/29/LocName,0,-1,작은 물웅덩이
+swampofthedarkra,git,SoundList/0/LocName,0,-1,바람 틈 돌풍
+swampofthedarkra,git,SoundList/1/LocName,0,-1,바람 틈 돌풍
+swampofthedarkra,git,SoundList/10/LocName,0,-1,큰 바위 부서지는 소리
+swampofthedarkra,git,SoundList/11/LocName,0,-1,작은 바위 부서지는 소리
+swampofthedarkra,git,SoundList/12/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/13/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/14/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/15/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/16/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/17/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/18/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/19/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/2/LocName,0,-1,바람 틈 돌풍
+swampofthedarkra,git,SoundList/20/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/21/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/22/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/23/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/24/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/25/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/26/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/27/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/28/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/29/LocName,0,-1,작은 물 웅덩이
 swampofthedarkra,git,SoundList/3/LocName,0,-1,벼랑 위 폭포 (중)
-swampofthedarkra,git,SoundList/30/LocName,0,-1,작은 물웅덩이
-swampofthedarkra,git,SoundList/31/LocName,0,-1,바위 무너지는 소리 (소)
-swampofthedarkra,git,SoundList/32/LocName,0,-1,바위 무너지는 소리 (소)
-swampofthedarkra,git,SoundList/33/LocName,0,-1,나뭇가지 부러지는 소리
-swampofthedarkra,git,SoundList/34/LocName,0,-1,나뭇가지 부러지는 소리
-swampofthedarkra,git,SoundList/35/LocName,0,-1,나뭇가지 부러지는 소리
-swampofthedarkra,git,SoundList/36/LocName,0,-1,나뭇가지 부러지는 소리
+swampofthedarkra,git,SoundList/30/LocName,0,-1,작은 물 웅덩이
+swampofthedarkra,git,SoundList/31/LocName,0,-1,작은 바위 부서지는 소리
+swampofthedarkra,git,SoundList/32/LocName,0,-1,작은 바위 부서지는 소리
+swampofthedarkra,git,SoundList/33/LocName,0,-1,나뭇가지가 부러지는 소리
+swampofthedarkra,git,SoundList/34/LocName,0,-1,나뭇가지가 부러지는 소리
+swampofthedarkra,git,SoundList/35/LocName,0,-1,나뭇가지가 부러지는 소리
+swampofthedarkra,git,SoundList/36/LocName,0,-1,나뭇가지가 부러지는 소리
 swampofthedarkra,git,SoundList/37/LocName,0,-1,마법의 숲 소리
-swampofthedarkra,git,SoundList/38/LocName,0,-1,밤 짐승 울음소리
-swampofthedarkra,git,SoundList/39/LocName,0,-1,밤 짐승 울음소리
+swampofthedarkra,git,SoundList/38/LocName,0,-1,동물 울음 밤
+swampofthedarkra,git,SoundList/39/LocName,0,-1,동물 울음 밤
 swampofthedarkra,git,SoundList/4/LocName,0,-1,벼랑 위 폭포 (중)
-swampofthedarkra,git,SoundList/40/LocName,0,-1,밤 짐승 울음소리
-swampofthedarkra,git,SoundList/41/LocName,0,-1,밤 짐승 울음소리
-swampofthedarkra,git,SoundList/42/LocName,0,-1,밤 짐승 울음소리
-swampofthedarkra,git,SoundList/43/LocName,0,-1,밤 짐승 울음소리
+swampofthedarkra,git,SoundList/40/LocName,0,-1,동물 울음 밤
+swampofthedarkra,git,SoundList/41/LocName,0,-1,동물 울음 밤
+swampofthedarkra,git,SoundList/42/LocName,0,-1,동물 울음 밤
+swampofthedarkra,git,SoundList/43/LocName,0,-1,동물 울음 밤
 swampofthedarkra,git,SoundList/44/LocName,0,-1,올빼미 울음
 swampofthedarkra,git,SoundList/45/LocName,0,-1,올빼미 울음
 swampofthedarkra,git,SoundList/46/LocName,0,-1,올빼미 울음
 swampofthedarkra,git,SoundList/47/LocName,0,-1,올빼미 울음
 swampofthedarkra,git,SoundList/48/LocName,0,-1,늑대 울음
-swampofthedarkra,git,SoundList/49/LocName,0,-1,두꺼비 울음 (반복)
+swampofthedarkra,git,SoundList/49/LocName,0,-1,두꺼비 루프
 swampofthedarkra,git,SoundList/5/LocName,0,-1,벼랑 위 폭포 (중)
-swampofthedarkra,git,SoundList/50/LocName,0,-1,새의 섬뜩한 울음
-swampofthedarkra,git,SoundList/51/LocName,0,-1,새의 섬뜩한 울음
-swampofthedarkra,git,SoundList/52/LocName,0,-1,새의 섬뜩한 울음
-swampofthedarkra,git,SoundList/53/LocName,0,-1,새의 섬뜩한 울음
+swampofthedarkra,git,SoundList/50/LocName,0,-1,새의 공포스런 울음소리
+swampofthedarkra,git,SoundList/51/LocName,0,-1,새의 공포스런 울음소리
+swampofthedarkra,git,SoundList/52/LocName,0,-1,새의 공포스런 울음소리
+swampofthedarkra,git,SoundList/53/LocName,0,-1,새의 공포스런 울음소리
 swampofthedarkra,git,SoundList/54/LocName,0,-1,까마귀 울음
 swampofthedarkra,git,SoundList/55/LocName,0,-1,올빼미 울음
 swampofthedarkra,git,SoundList/56/LocName,0,-1,올빼미 울음
@@ -101,24 +101,24 @@ swampofthedarkra,git,TriggerList/0/LocalizedName,0,14759,페린트리거3
 swampofthedarkra,git,TriggerList/1/LocalizedName,0,14759,페린트리거 5
 swampofthedarkra,git,TriggerList/2/LocalizedName,0,14759,페린트리거6
 swampofthedarkra,git,TriggerList/3/LocalizedName,0,14759,페린트리거7
-swampofthedarkra,git,WaypointList/0/MapNote,0,14815,어둠의 레인저의 폐허
+swampofthedarkra,git,WaypointList/0/MapNote,0,14815,어둠의 순찰자의 폐허
 swampofthedarkra,git,WaypointList/1/MapNote,0,14815,가든스펠트로 가는 길
-swampofthedarkra,git,WaypointList/2/MapNote,0,14815,창 여관
-thedarkrangersru,git,Placeable List/0/ItemList/2/DescIdentified,0,-1,"이 글을 읽고 있는 모든 분들에게, 이 글이 잘 알려주세요. 저는 여러분들의 삶을 지옥으로 만들겠습니다. 제 무덤을 방해하고 지갑을 훔친 사람들은"
+swampofthedarkra,git,WaypointList/2/MapNote,0,14815,거창 여관
+thedarkrangersru,git,Placeable List/0/ItemList/2/DescIdentified,0,-1,"이 글을 읽고 있는 모든 분들에게, 이 글을 잘 기억해 두세요. 저는 여러분들의 삶을 살아있는 지옥으로 만들 것입니다. 제 무덤을 방해하고 지갑을 훔친 사람들은 어둠의 순찰자들의 저주를 받게 될 것입니다..."
 thedarkrangersru,git,Placeable List/0/ItemList/2/LocalizedName,0,-1,묘비명
-thedarkrangersru,git,SoundList/0/LocName,0,-1,마법 주문 읊는 소리
-thedarkrangersru,git,SoundList/1/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/10/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/11/LocName,0,-1,종소리
-thedarkrangersru,git,SoundList/12/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/13/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/2/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/3/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/4/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/5/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/6/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/7/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/8/LocName,0,-1,횃불 불꽃 (중)
-thedarkrangersru,git,SoundList/9/LocName,0,-1,횃불 불꽃 (중)
+thedarkrangersru,git,SoundList/0/LocName,0,-1,마법 영창
+thedarkrangersru,git,SoundList/1/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/10/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/11/LocName,0,-1,벨 울림
+thedarkrangersru,git,SoundList/12/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/13/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/2/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/3/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/4/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/5/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/6/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/7/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/8/LocName,0,-1,중간 횃불
+thedarkrangersru,git,SoundList/9/LocName,0,-1,중간 횃불
 thedarkrangersru,git,TriggerList/0/LocalizedName,0,14759,페린트리거8
-thedarkrangersru,git,WaypointList/0/LocalizedName,0,14817,사망 시 부활 지점 (폐허)
+thedarkrangersru,git,WaypointList/0/LocalizedName,0,14817,죽음 재시작 지점 (폐허)

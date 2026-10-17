@@ -4,7 +4,7 @@ antoine,git,Door List/1/LocName,0,5349,지역 문
 antoine,git,Door List/2/LocName,0,5349,지역 문
 antoine,git,Door List/3/LocName,0,5349,지역 문
 antoine,git,WaypointList/14/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-antoine,git,WaypointList/14/MapNote,0,-1,던전 입구로 통신
+antoine,git,WaypointList/14/MapNote,0,-1,던전 입구로 순간이동
 antoine,git,WaypointList/23/LocalizedName,0,-1,cs_camera_pos_1
 antoine,git,WaypointList/36/LocalizedName,0,-1,cs_camera_pos_2
 antoine,git,WaypointList/37/LocalizedName,0,-1,cs_camera_pos_3
@@ -85,7 +85,7 @@ area001,git,WaypointList/67/LocalizedName,0,-1,WP_DECOR_WALL
 area001,git,WaypointList/68/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area001,git,WaypointList/69/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area001,git,WaypointList/7/LocalizedName,0,-1,WP_PLOT
-area001,git,WaypointList/7/MapNote,0,-1,음반 제공자
+area001,git,WaypointList/7/MapNote,0,-1,플롯 제공자
 area001,git,WaypointList/8/LocalizedName,0,-1,WP_TREASURE
 area001,git,WaypointList/9/LocalizedName,0,-1,WP_TREASURE
 area002,git,Door List/0/LocName,0,5349,지역 문
@@ -203,7 +203,7 @@ area003,git,WaypointList/13/MapNote,0,-1,야영지
 area003,git,WaypointList/14/LocalizedName,0,-1,WP_DECOR_OPEN
 area003,git,WaypointList/15/LocalizedName,0,-1,WP_DECOR_WALL
 area003,git,WaypointList/16/LocalizedName,0,-1,WP_PLOT
-area003,git,WaypointList/16/MapNote,0,-1,음반 제공자
+area003,git,WaypointList/16/MapNote,0,-1,플롯 제공자
 area003,git,WaypointList/17/LocalizedName,0,-1,WP_DECOR_WALL
 area003,git,WaypointList/18/LocalizedName,0,-1,WP_DECOR_OPEN
 area003,git,WaypointList/19/LocalizedName,0,-1,WP_DECOR_WALL
@@ -323,7 +323,7 @@ area004,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_TREASURE
 area004,git,WaypointList/7/LocalizedName,0,-1,WP_PUZZLE
 area004,git,WaypointList/7/MapNote,0,-1,야영지
 area004,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area004,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area004,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area004,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET
 area005,git,Door List/0/LocName,0,5349,지역 문
 area005,git,Door List/1/LocName,0,5349,내려가는 계단
@@ -381,13 +381,13 @@ area005,git,WaypointList/53/LocalizedName,0,-1,WP_ENCOUNTER
 area005,git,WaypointList/6/LocalizedName,0,-1,WP_BOSS_GUARD
 area005,git,WaypointList/7/LocalizedName,0,-1,WP_TREASURE
 area005,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area005,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area005,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area005,git,WaypointList/9/LocalizedName,0,-1,WP_DECOR_OPEN
 area006,git,Door List/0/LocName,0,5349,지역 문
 area006,git,Door List/1/LocName,0,-1,문
 area006,git,Door List/2/LocName,0,-1,문
 area006,git,Door List/3/LocName,0,-1,문
-area006,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area006,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area006,git,Placeable List/0/LocName,0,84564,자갈
 area006,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area006,git,WaypointList/0/MapNote,0,-1,야영지
@@ -435,7 +435,7 @@ area006,git,WaypointList/6/LocalizedName,0,-1,WP_DECOR_WALL
 area006,git,WaypointList/7/LocalizedName,0,-1,WP_DECOR_WALL
 area006,git,WaypointList/8/LocalizedName,0,-1,WP_DECOR_WALL
 area006,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area006,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area006,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area007,git,Door List/0/LocName,0,-1,문
 area007,git,Door List/1/LocName,0,-1,문
 area007,git,Door List/2/LocName,0,-1,문
@@ -480,7 +480,7 @@ area007,git,WaypointList/4/LocalizedName,0,-1,WP_DECOR_WALL
 area007,git,WaypointList/40/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area007,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_OPEN
 area007,git,WaypointList/42/LocalizedName,0,-1,WP_PLOT
-area007,git,WaypointList/42/MapNote,0,-1,음반 제공자
+area007,git,WaypointList/42/MapNote,0,-1,플롯 제공자
 area007,git,WaypointList/5/LocalizedName,0,-1,WP_DECOR_WALL
 area007,git,WaypointList/6/LocalizedName,0,-1,WP_DECOR_WALL
 area007,git,WaypointList/7/LocalizedName,0,-1,WP_DECOR_WALL
@@ -490,7 +490,7 @@ area007,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET
 area008,git,Door List/0/LocName,0,5349,지역 문
 area008,git,WaypointList/0/LocalizedName,0,-1,WP_ENCOUNTER
 area008,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area008,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area008,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area008,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area008,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS
 area008,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -581,7 +581,7 @@ area009,git,WaypointList/31/LocalizedName,0,-1,WP_TREASURE
 area009,git,WaypointList/32/LocalizedName,0,-1,WP_TREASURE
 area009,git,WaypointList/4/LocalizedName,0,-1,WP_DECOR_OPEN
 area009,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area009,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area009,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area009,git,WaypointList/6/LocalizedName,0,-1,WP_TREASURE
 area009,git,WaypointList/7/LocalizedName,0,-1,WP_TREASURE
 area009,git,WaypointList/8/LocalizedName,0,-1,WP_ENCOUNTER
@@ -644,7 +644,7 @@ area010,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area010,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area010,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area010,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area010,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area010,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area010,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area010,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_OPEN
 area010,git,WaypointList/52/LocalizedName,0,-1,WP_DECOR_WALL
@@ -714,7 +714,7 @@ area011,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area011,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_OPEN
 area011,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area011,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area011,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area011,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area011,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area011,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_WALL
 area011,git,WaypointList/52/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -749,7 +749,7 @@ area012,git,Door List/4/LocName,0,-1,문
 area012,git,Door List/5/LocName,0,-1,문
 area012,git,WaypointList/0/LocalizedName,0,-1,WP_ENCOUNTER
 area012,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area012,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area012,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area012,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_WALL
 area012,git,WaypointList/11/LocalizedName,0,-1,WP_DECOR_WALL
 area012,git,WaypointList/12/LocalizedName,0,-1,WP_DECOR_WALL
@@ -862,7 +862,7 @@ area013,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area013,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_OPEN
 area013,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area013,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area013,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area013,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area013,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area013,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_WALL
 area013,git,WaypointList/52/LocalizedName,0,-1,WP_DECOR_WALL
@@ -902,7 +902,7 @@ area013,git,WaypointList/9/LocalizedName,0,-1,WP_DECOR_WALL
 area014,git,Door List/0/LocName,0,5349,지역 문
 area014,git,Door List/1/LocName,0,5349,지역 문
 area014,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area014,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area014,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area014,git,WaypointList/1/LocalizedName,0,-1,WP_TREASURE
 area014,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_WALL
 area014,git,WaypointList/11/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -1021,7 +1021,7 @@ area016,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area016,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area016,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area016,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area016,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area016,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area016,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area016,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area016,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -1088,7 +1088,7 @@ area017,git,WaypointList/4/LocalizedName,0,-1,WP_SECRET_TREASURE
 area017,git,WaypointList/40/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area017,git,WaypointList/41/LocalizedName,0,-1,WP_TREASURE
 area017,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area017,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area017,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area017,git,WaypointList/6/LocalizedName,0,-1,WP_DECOR_WALL
 area017,git,WaypointList/7/LocalizedName,0,-1,WP_DECOR_WALL
 area017,git,WaypointList/8/LocalizedName,0,-1,WP_PUZZLE
@@ -1108,7 +1108,7 @@ area018,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area018,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area018,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area018,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area018,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area018,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area018,git,WaypointList/16/LocalizedName,0,-1,WP_DECOR_WALL
 area018,git,WaypointList/17/LocalizedName,0,-1,WP_DECOR_OPEN
 area018,git,WaypointList/18/LocalizedName,0,-1,WP_DECOR_WALL
@@ -1200,7 +1200,7 @@ area019,git,Door List/2/LocName,0,5349,지역 문
 area019,git,Door List/3/LocName,0,-1,문
 area019,git,Door List/4/LocName,0,-1,문
 area019,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area019,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area019,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area019,git,WaypointList/1/LocalizedName,0,-1,WP_ENCOUNTER
 area019,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_WALL
 area019,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
@@ -1310,7 +1310,7 @@ area020,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area020,git,WaypointList/38/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area020,git,WaypointList/39/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area020,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area020,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area020,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area020,git,WaypointList/40/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area020,git,WaypointList/5/LocalizedName,0,-1,WP_ENCOUNTER
 area020,git,WaypointList/6/LocalizedName,0,-1,WP_TREASURE
@@ -1481,7 +1481,7 @@ area022,git,WaypointList/67/LocalizedName,0,-1,WP_DECOR_WALL
 area022,git,WaypointList/68/LocalizedName,0,-1,WP_DECOR_WALL
 area022,git,WaypointList/69/LocalizedName,0,-1,WP_DECOR_WALL
 area022,git,WaypointList/7/LocalizedName,0,-1,WP_PLOT
-area022,git,WaypointList/7/MapNote,0,-1,음반 제공자
+area022,git,WaypointList/7/MapNote,0,-1,플롯 제공자
 area022,git,WaypointList/70/LocalizedName,0,-1,WP_DECOR_OPEN
 area022,git,WaypointList/71/LocalizedName,0,-1,WP_DECOR_WALL
 area022,git,WaypointList/72/LocalizedName,0,-1,WP_DECOR_WALL
@@ -1520,7 +1520,7 @@ area023,git,Door List/7/LocName,0,-1,문
 area023,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area023,git,WaypointList/0/MapNote,0,-1,야영지
 area023,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area023,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area023,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area023,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
 area023,git,WaypointList/11/LocalizedName,0,-1,WP_DECOR_OPEN
 area023,git,WaypointList/12/LocalizedName,0,-1,WP_DECOR_WALL
@@ -1581,7 +1581,7 @@ area024,git,Door List/8/LocName,0,-1,문
 area024,git,Door List/9/LocName,0,5349,내려가는 계단
 area024,git,WaypointList/0/LocalizedName,0,-1,WP_SECRET
 area024,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area024,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area024,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area024,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
 area024,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area024,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS
@@ -1669,7 +1669,7 @@ area025,git,Door List/5/LocName,0,-1,문
 area025,git,Door List/6/LocName,0,-1,문
 area025,git,Door List/7/LocName,0,-1,문
 area025,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area025,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area025,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area025,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area025,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_WALL
 area025,git,WaypointList/11/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -1732,7 +1732,7 @@ area026,git,Door List/3/LocName,0,-1,문
 area026,git,Door List/4/LocName,0,-1,문
 area026,git,Door List/5/LocName,0,-1,문
 area026,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area026,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area026,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area026,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area026,git,WaypointList/1/MapNote,0,-1,야영지
 area026,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -1819,7 +1819,7 @@ area027,git,WaypointList/19/LocalizedName,0,-1,WP_DECOR_OPEN
 area027,git,WaypointList/2/LocalizedName,0,-1,WP_TREASURE
 area027,git,WaypointList/20/LocalizedName,0,-1,WP_ENCOUNTER
 area027,git,WaypointList/21/LocalizedName,0,-1,WP_PLOT
-area027,git,WaypointList/21/MapNote,0,-1,음반 제공자
+area027,git,WaypointList/21/MapNote,0,-1,플롯 제공자
 area027,git,WaypointList/22/LocalizedName,0,-1,WP_SECRET_DOOR
 area027,git,WaypointList/23/LocalizedName,0,-1,WP_SECRET_DOOR
 area027,git,WaypointList/24/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -1875,7 +1875,7 @@ area028,git,Door List/4/LocName,0,-1,문
 area028,git,Door List/5/LocName,0,-1,문
 area028,git,Door List/6/LocName,0,-1,문
 area028,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area028,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area028,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area028,git,WaypointList/1/LocalizedName,0,-1,WP_ENCOUNTER
 area028,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_OPEN
 area028,git,WaypointList/11/LocalizedName,0,-1,WP_ENCOUNTER
@@ -1961,7 +1961,7 @@ area029,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area029,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area029,git,WaypointList/19/LocalizedName,0,-1,WP_DECOR_WALL
 area029,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area029,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area029,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area029,git,WaypointList/20/LocalizedName,0,-1,WP_DECOR_WALL
 area029,git,WaypointList/21/LocalizedName,0,-1,WP_DECOR_WALL
 area029,git,WaypointList/22/LocalizedName,0,-1,WP_DECOR_WALL
@@ -2065,7 +2065,7 @@ area030,git,Door List/9/LocName,0,-1,문
 area030,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area030,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area030,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area030,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area030,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area030,git,WaypointList/100/LocalizedName,0,-1,WP_TREASURE
 area030,git,WaypointList/101/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area030,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
@@ -2263,7 +2263,7 @@ area031,git,WaypointList/83/LocalizedName,0,-1,WP_ENCOUNTER
 area031,git,WaypointList/84/LocalizedName,0,-1,WP_ENCOUNTER
 area031,git,WaypointList/85/LocalizedName,0,-1,WP_TREASURE
 area031,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area031,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area031,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area032,git,Door List/0/LocName,0,5349,지역 문
 area032,git,Door List/1/LocName,0,5349,지역 문
 area032,git,Door List/2/LocName,0,-1,문
@@ -2319,7 +2319,7 @@ area032,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area032,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area032,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area032,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area032,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area032,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area032,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area032,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_WALL
 area032,git,WaypointList/52/LocalizedName,0,-1,WP_TREASURE
@@ -2351,7 +2351,7 @@ area033,git,Door List/6/LocName,0,-1,문
 area033,git,Door List/7/LocName,0,-1,문
 area033,git,Door List/8/LocName,0,-1,문
 area033,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area033,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area033,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area033,git,WaypointList/1/LocalizedName,0,-1,WP_ENCOUNTER
 area033,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_WALL
 area033,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS
@@ -2445,9 +2445,9 @@ area034,git,Door List/6/LocName,0,-1,문
 area034,git,Door List/7/LocName,0,-1,문
 area034,git,Door List/8/LocName,0,-1,문
 area034,git,Door List/9/LocName,0,-1,문
-area034,git,SoundList/11/LocName,0,67971,여자 들 을 굽히게
+area034,git,SoundList/11/LocName,0,67971,여자를 굽히는 여성들
 area034,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area034,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area034,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area034,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area034,git,WaypointList/1/MapNote,0,-1,야영지
 area034,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
@@ -2548,7 +2548,7 @@ area035,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_OPEN
 area035,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_WALL
 area035,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_WALL
 area035,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area035,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area035,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area035,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
 area035,git,WaypointList/31/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area035,git,WaypointList/32/LocalizedName,0,-1,WP_SECRET_DOOR
@@ -2641,7 +2641,7 @@ area036,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area036,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET
 area036,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_TREASURE
 area036,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area036,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area036,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area036,git,WaypointList/13/LocalizedName,0,-1,WP_DECOR_WALL
 area036,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area036,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
@@ -2729,7 +2729,7 @@ area037,git,WaypointList/13/LocalizedName,0,-1,WP_DECOR_OPEN
 area037,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area037,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area037,git,WaypointList/16/LocalizedName,0,-1,WP_PLOT
-area037,git,WaypointList/16/MapNote,0,-1,음반 제공자
+area037,git,WaypointList/16/MapNote,0,-1,플롯 제공자
 area037,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area037,git,WaypointList/18/LocalizedName,0,-1,WP_DECOR_WALL
 area037,git,WaypointList/19/LocalizedName,0,-1,WP_DECOR_WALL
@@ -2830,7 +2830,7 @@ area038,git,Door List/6/LocName,0,-1,문
 area038,git,Door List/7/LocName,0,-1,문
 area038,git,Door List/8/LocName,0,-1,문
 area038,git,Door List/9/LocName,0,-1,문
-area038,git,SoundList/16/LocName,0,67971,여자 들 을 굽히게
+area038,git,SoundList/16/LocName,0,67971,여자를 굽히는 여성들
 area038,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area038,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area038,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_TREASURE
@@ -2877,7 +2877,7 @@ area038,git,WaypointList/47/LocalizedName,0,-1,WP_TRAP
 area038,git,WaypointList/48/LocalizedName,0,-1,WP_SECRET_TREASURE
 area038,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area038,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area038,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area038,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area038,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area038,git,WaypointList/51/LocalizedName,0,-1,WP_TREASURE
 area038,git,WaypointList/52/LocalizedName,0,-1,WP_DECOR_WALL
@@ -2939,7 +2939,7 @@ area039,git,Door List/7/LocName,0,-1,문
 area039,git,Door List/8/LocName,0,-1,문
 area039,git,Door List/9/LocName,0,-1,문
 area039,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area039,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area039,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area039,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area039,git,WaypointList/1/MapNote,0,-1,야영지
 area039,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
@@ -3073,7 +3073,7 @@ area040,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_OPEN
 area040,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_WALL
 area040,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_WALL
 area040,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area040,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area040,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area040,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
 area040,git,WaypointList/31/LocalizedName,0,-1,WP_DECOR_OPEN
 area040,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -3183,7 +3183,7 @@ area042,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_OPEN
 area042,git,WaypointList/38/LocalizedName,0,-1,WP_TREASURE
 area042,git,WaypointList/39/LocalizedName,0,-1,WP_ENCOUNTER
 area042,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area042,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area042,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area042,git,WaypointList/40/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area042,git,WaypointList/41/LocalizedName,0,-1,WP_TREASURE
 area042,git,WaypointList/42/LocalizedName,0,-1,WP_TREASURE
@@ -3220,7 +3220,7 @@ area043,git,WaypointList/2/LocalizedName,0,-1,WP_PUZZLE
 area043,git,WaypointList/2/MapNote,0,-1,야영지
 area043,git,WaypointList/20/LocalizedName,0,-1,WP_DECOR_WALL
 area043,git,WaypointList/21/LocalizedName,0,-1,WP_PLOT
-area043,git,WaypointList/21/MapNote,0,-1,음반 제공자
+area043,git,WaypointList/21/MapNote,0,-1,플롯 제공자
 area043,git,WaypointList/22/LocalizedName,0,-1,WP_SECRET_DOOR
 area043,git,WaypointList/23/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area043,git,WaypointList/24/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -3283,7 +3283,7 @@ area044,git,WaypointList/33/LocalizedName,0,-1,WP_ENCOUNTER
 area044,git,WaypointList/34/LocalizedName,0,-1,WP_TREASURE
 area044,git,WaypointList/4/LocalizedName,0,-1,WP_ENCOUNTER
 area044,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area044,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area044,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area044,git,WaypointList/6/LocalizedName,0,-1,WP_ENCOUNTER
 area044,git,WaypointList/7/LocalizedName,0,-1,WP_TREASURE
 area044,git,WaypointList/8/LocalizedName,0,-1,WP_TREASURE
@@ -3346,7 +3346,7 @@ area045,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area045,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area045,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area045,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area045,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area045,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area045,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_OPEN
 area045,git,WaypointList/51/LocalizedName,0,-1,WP_TREASURE
 area045,git,WaypointList/52/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
@@ -3376,7 +3376,7 @@ area046,git,Door List/9/LocName,0,5349,지역 문
 area046,git,WaypointList/0/LocalizedName,0,-1,WP_SECRET
 area046,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET_TREASURE
 area046,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area046,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area046,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area046,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET
 area046,git,WaypointList/12/LocalizedName,0,-1,WP_PUZZLE
 area046,git,WaypointList/12/MapNote,0,-1,야영지
@@ -3474,7 +3474,7 @@ area047,git,WaypointList/37/LocalizedName,0,-1,WP_TREASURE
 area047,git,WaypointList/38/LocalizedName,0,-1,WP_ENCOUNTER
 area047,git,WaypointList/39/LocalizedName,0,-1,WP_TREASURE
 area047,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area047,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area047,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area047,git,WaypointList/40/LocalizedName,0,-1,WP_TREASURE
 area047,git,WaypointList/5/LocalizedName,0,-1,WP_PUZZLE
 area047,git,WaypointList/5/MapNote,0,-1,야영지
@@ -3530,7 +3530,7 @@ area048,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area048,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area048,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area048,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area048,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area048,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area048,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area048,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_WALL
 area048,git,WaypointList/52/LocalizedName,0,-1,WP_DECOR_WALL
@@ -3563,9 +3563,9 @@ area049,git,Door List/6/LocName,0,-1,문
 area049,git,Door List/7/LocName,0,-1,문
 area049,git,Door List/8/LocName,0,-1,문
 area049,git,Door List/9/LocName,0,-1,문
-area049,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area049,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area049,git,Placeable List/0/LocName,0,84564,자갈
-area049,git,Placeable List/1/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area049,git,Placeable List/1/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area049,git,Placeable List/1/LocName,0,84564,자갈
 area049,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area049,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -3602,7 +3602,7 @@ area049,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_OPEN
 area049,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_OPEN
 area049,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area049,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area049,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area049,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area049,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area049,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area049,git,WaypointList/42/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
@@ -3652,7 +3652,7 @@ area050,git,WaypointList/27/LocalizedName,0,-1,WP_SECRET_DOOR
 area050,git,WaypointList/28/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area050,git,WaypointList/29/LocalizedName,0,-1,WP_TRAP
 area050,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area050,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area050,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area050,git,WaypointList/30/LocalizedName,0,-1,WP_TRAP
 area050,git,WaypointList/31/LocalizedName,0,-1,WP_TRAP
 area050,git,WaypointList/32/LocalizedName,0,-1,WP_SECRET_TREASURE
@@ -3738,7 +3738,7 @@ area051,git,WaypointList/37/LocalizedName,0,-1,WP_TRAP
 area051,git,WaypointList/38/LocalizedName,0,-1,WP_TRAP
 area051,git,WaypointList/39/LocalizedName,0,-1,WP_SECRET_DOOR
 area051,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area051,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area051,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area051,git,WaypointList/40/LocalizedName,0,-1,WP_SECRET_TREASURE
 area051,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area051,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -3781,7 +3781,7 @@ area052,git,Door List/6/LocName,0,-1,문
 area052,git,Door List/7/LocName,0,-1,문
 area052,git,Door List/8/LocName,0,-1,문
 area052,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area052,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area052,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area052,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area052,git,WaypointList/1/MapNote,0,-1,야영지
 area052,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -3907,7 +3907,7 @@ area053,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area053,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area053,git,WaypointList/49/LocalizedName,0,-1,WP_ENCOUNTER
 area053,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area053,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area053,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area053,git,WaypointList/50/LocalizedName,0,-1,WP_TREASURE
 area053,git,WaypointList/51/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area053,git,WaypointList/52/LocalizedName,0,-1,WP_ENCOUNTER
@@ -3924,7 +3924,7 @@ area054,git,Door List/1/LocName,0,5349,지역 문
 area054,git,Door List/2/LocName,0,5349,지역 문
 area054,git,Door List/3/LocName,0,5349,지역 문
 area054,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area054,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area054,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area054,git,WaypointList/1/LocalizedName,0,-1,WP_ENCOUNTER
 area054,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
 area054,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
@@ -4004,7 +4004,7 @@ area055,git,Door List/9/LocName,0,-1,문
 area055,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area055,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area055,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area055,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area055,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area055,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area055,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area055,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
@@ -4141,7 +4141,7 @@ area056,git,WaypointList/57/LocalizedName,0,-1,WP_DECOR_WALL
 area056,git,WaypointList/58/LocalizedName,0,-1,WP_DECOR_WALL
 area056,git,WaypointList/59/LocalizedName,0,-1,WP_DECOR_WALL
 area056,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area056,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area056,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area056,git,WaypointList/60/LocalizedName,0,-1,WP_DECOR_WALL
 area056,git,WaypointList/61/LocalizedName,0,-1,WP_DECOR_WALL
 area056,git,WaypointList/62/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -4225,7 +4225,7 @@ area057,git,WaypointList/59/LocalizedName,0,-1,WP_TREASURE
 area057,git,WaypointList/6/LocalizedName,0,-1,WP_PUZZLE
 area057,git,WaypointList/6/MapNote,0,-1,야영지
 area057,git,WaypointList/7/LocalizedName,0,-1,WP_PLOT
-area057,git,WaypointList/7/MapNote,0,-1,음반 제공자
+area057,git,WaypointList/7/MapNote,0,-1,플롯 제공자
 area057,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET
 area057,git,WaypointList/9/LocalizedName,0,-1,WP_ENCOUNTER
 area058,git,Door List/0/LocName,0,5349,지역 문
@@ -4292,7 +4292,7 @@ area058,git,WaypointList/56/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area058,git,WaypointList/57/LocalizedName,0,-1,WP_ENCOUNTER
 area058,git,WaypointList/58/LocalizedName,0,-1,WP_TREASURE
 area058,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area058,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area058,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area058,git,WaypointList/7/LocalizedName,0,-1,WP_PUZZLE
 area058,git,WaypointList/7/MapNote,0,-1,야영지
 area058,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET
@@ -4347,7 +4347,7 @@ area059,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area059,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area059,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area059,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area059,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area059,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area059,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area059,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area059,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -4395,7 +4395,7 @@ area060,git,Door List/7/LocName,0,-1,문
 area060,git,Door List/8/LocName,0,-1,문
 area060,git,Door List/9/LocName,0,-1,문
 area060,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area060,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area060,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area060,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET_TREASURE
 area060,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_OPEN
 area060,git,WaypointList/11/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -4519,7 +4519,7 @@ area061,git,WaypointList/52/LocalizedName,0,-1,WP_TREASURE
 area061,git,WaypointList/53/LocalizedName,0,-1,WP_ENCOUNTER
 area061,git,WaypointList/54/LocalizedName,0,-1,WP_TREASURE
 area061,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area061,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area061,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area061,git,WaypointList/7/LocalizedName,0,-1,WP_PUZZLE
 area061,git,WaypointList/7/MapNote,0,-1,야영지
 area061,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET
@@ -4582,7 +4582,7 @@ area062,git,WaypointList/6/LocalizedName,0,-1,WP_PUZZLE
 area062,git,WaypointList/6/MapNote,0,-1,야영지
 area062,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET
 area062,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area062,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area062,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area062,git,WaypointList/9/LocalizedName,0,-1,WP_ENCOUNTER
 area063,git,Door List/0/LocName,0,5349,지역 문
 area063,git,Door List/1/LocName,0,-1,문
@@ -4627,7 +4627,7 @@ area063,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area063,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area063,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_OPEN
 area063,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area063,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area063,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area063,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area063,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area063,git,WaypointList/42/LocalizedName,0,-1,WP_TREASURE
@@ -4678,7 +4678,7 @@ area064,git,WaypointList/27/LocalizedName,0,-1,WP_TREASURE
 area064,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_WALL
 area064,git,WaypointList/29/LocalizedName,0,-1,WP_SECRET_DOOR
 area064,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area064,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area064,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area064,git,WaypointList/30/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area064,git,WaypointList/31/LocalizedName,0,-1,WP_SECRET_DOOR
 area064,git,WaypointList/32/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -4760,7 +4760,7 @@ area065,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
 area065,git,WaypointList/31/LocalizedName,0,-1,WP_DECOR_WALL
 area065,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_WALL
 area065,git,WaypointList/33/LocalizedName,0,-1,WP_PLOT
-area065,git,WaypointList/33/MapNote,0,-1,음반 제공자
+area065,git,WaypointList/33/MapNote,0,-1,플롯 제공자
 area065,git,WaypointList/34/LocalizedName,0,-1,WP_SECRET_DOOR
 area065,git,WaypointList/35/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area065,git,WaypointList/36/LocalizedName,0,-1,WP_SECRET_DOOR
@@ -4859,7 +4859,7 @@ area066,git,WaypointList/57/LocalizedName,0,-1,WP_ENCOUNTER
 area066,git,WaypointList/58/LocalizedName,0,-1,WP_TREASURE
 area066,git,WaypointList/59/LocalizedName,0,-1,WP_ENCOUNTER
 area066,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area066,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area066,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area066,git,WaypointList/60/LocalizedName,0,-1,WP_TREASURE
 area066,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET
 area066,git,WaypointList/8/LocalizedName,0,-1,WP_PUZZLE
@@ -4877,9 +4877,9 @@ area067,git,Door List/17/LocName,0,-1,문
 area067,git,Door List/18/LocName,0,-1,문
 area067,git,Door List/8/LocName,0,5349,지역 문
 area067,git,Door List/9/LocName,0,5349,지역 문
-area067,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area067,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area067,git,Placeable List/0/LocName,0,84564,자갈
-area067,git,Placeable List/1/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area067,git,Placeable List/1/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area067,git,Placeable List/1/LocName,0,84564,자갈
 area067,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area067,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -4901,7 +4901,7 @@ area067,git,WaypointList/22/LocalizedName,0,-1,WP_DECOR_WALL
 area067,git,WaypointList/23/LocalizedName,0,-1,WP_DECOR_WALL
 area067,git,WaypointList/24/LocalizedName,0,-1,WP_DECOR_WALL
 area067,git,WaypointList/25/LocalizedName,0,-1,WP_PLOT
-area067,git,WaypointList/25/MapNote,0,-1,음반 제공자
+area067,git,WaypointList/25/MapNote,0,-1,플롯 제공자
 area067,git,WaypointList/26/LocalizedName,0,-1,WP_TREASURE
 area067,git,WaypointList/27/LocalizedName,0,-1,WP_ENCOUNTER
 area067,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -4989,7 +4989,7 @@ area068,git,WaypointList/4/LocalizedName,0,-1,WP_SECRET_TREASURE
 area068,git,WaypointList/40/LocalizedName,0,-1,WP_ENCOUNTER
 area068,git,WaypointList/41/LocalizedName,0,-1,WP_TREASURE
 area068,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area068,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area068,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area068,git,WaypointList/6/LocalizedName,0,-1,WP_ENCOUNTER
 area068,git,WaypointList/7/LocalizedName,0,-1,WP_ENCOUNTER
 area068,git,WaypointList/8/LocalizedName,0,-1,WP_PUZZLE
@@ -5045,7 +5045,7 @@ area069,git,WaypointList/47/LocalizedName,0,-1,WP_TREASURE
 area069,git,WaypointList/48/LocalizedName,0,-1,WP_TREASURE
 area069,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_OPEN
 area069,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area069,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area069,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area069,git,WaypointList/6/LocalizedName,0,-1,WP_PUZZLE
 area069,git,WaypointList/6/MapNote,0,-1,야영지
 area069,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET
@@ -5064,7 +5064,7 @@ area070,git,Door List/7/LocName,0,-1,문
 area070,git,Door List/8/LocName,0,-1,문
 area070,git,Door List/9/LocName,0,5349,지역 문
 area070,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area070,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area070,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area070,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area070,git,WaypointList/1/MapNote,0,-1,야영지
 area070,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
@@ -5166,9 +5166,9 @@ area071,git,Door List/6/LocName,0,-1,문
 area071,git,Door List/7/LocName,0,-1,문
 area071,git,Door List/8/LocName,0,-1,문
 area071,git,Door List/9/LocName,0,-1,문
-area071,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area071,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area071,git,Placeable List/0/LocName,0,84564,자갈
-area071,git,SoundList/18/LocName,0,67971,여자 들 을 굽히게
+area071,git,SoundList/18/LocName,0,67971,여자를 굽히는 여성들
 area071,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area071,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area071,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
@@ -5245,7 +5245,7 @@ area071,git,WaypointList/73/LocalizedName,0,-1,WP_ENCOUNTER
 area071,git,WaypointList/74/LocalizedName,0,-1,WP_TREASURE
 area071,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area071,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area071,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area071,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area072,git,Door List/0/LocName,0,5349,지역 문
 area072,git,Door List/1/LocName,0,5349,지역 문
 area072,git,Door List/2/LocName,0,5349,지역 문
@@ -5253,7 +5253,7 @@ area072,git,Door List/3/LocName,0,-1,문
 area072,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area072,git,WaypointList/0/MapNote,0,-1,야영지
 area072,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area072,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area072,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area072,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR
 area072,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR
 area072,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -5331,7 +5331,7 @@ area073,git,Door List/7/LocName,0,-1,문
 area073,git,Door List/8/LocName,0,-1,문
 area073,git,Door List/9/LocName,0,-1,문
 area073,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area073,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area073,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area073,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area073,git,WaypointList/1/MapNote,0,-1,야영지
 area073,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -5435,7 +5435,7 @@ area074,git,Door List/6/LocName,0,-1,문
 area074,git,Door List/7/LocName,0,-1,문
 area074,git,Door List/8/LocName,0,-1,문
 area074,git,Door List/9/LocName,0,-1,문
-area074,git,SoundList/0/LocName,0,67971,여자 들 을 굽히게
+area074,git,SoundList/0/LocName,0,67971,여자를 굽히는 여성들
 area074,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area074,git,WaypointList/0/MapNote,0,-1,야영지
 area074,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
@@ -5455,7 +5455,7 @@ area074,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area074,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area074,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area074,git,WaypointList/16/LocalizedName,0,-1,WP_PLOT
-area074,git,WaypointList/16/MapNote,0,-1,음반 제공자
+area074,git,WaypointList/16/MapNote,0,-1,플롯 제공자
 area074,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area074,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area074,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
@@ -5605,7 +5605,7 @@ area075,git,WaypointList/54/LocalizedName,0,-1,WP_TREASURE
 area075,git,WaypointList/55/LocalizedName,0,-1,WP_DECOR_WALL
 area075,git,WaypointList/56/LocalizedName,0,-1,WP_DECOR_WALL
 area075,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area075,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area075,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area075,git,WaypointList/7/LocalizedName,0,-1,WP_BOSS
 area075,git,WaypointList/8/LocalizedName,0,-1,WP_BOSS_GUARD
 area075,git,WaypointList/9/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -5614,7 +5614,7 @@ area076,git,Door List/1/LocName,0,5349,내려가는 계단
 area076,git,Door List/2/LocName,0,-1,문
 area076,git,Door List/3/LocName,0,-1,문
 area076,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area076,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area076,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area076,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area076,git,WaypointList/1/MapNote,0,-1,야영지
 area076,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -5730,7 +5730,7 @@ area077,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area077,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area077,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area077,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area077,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area077,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area077,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area077,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area077,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -5799,7 +5799,7 @@ area078,git,Door List/6/LocName,0,-1,문
 area078,git,Door List/7/LocName,0,-1,문
 area078,git,Door List/8/LocName,0,-1,문
 area078,git,Door List/9/LocName,0,-1,문
-area078,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area078,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area078,git,Placeable List/0/LocName,0,84564,자갈
 area078,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area078,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -5825,7 +5825,7 @@ area078,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_WALL
 area078,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_WALL
 area078,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_WALL
 area078,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area078,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area078,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area078,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
 area078,git,WaypointList/31/LocalizedName,0,-1,WP_DECOR_WALL
 area078,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_WALL
@@ -5898,7 +5898,7 @@ area079,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area079,git,WaypointList/11/LocalizedName,0,-1,WP_ENCOUNTER
 area079,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
 area079,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area079,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area079,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area079,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area079,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area079,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
@@ -5991,7 +5991,7 @@ area080,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
 area080,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area080,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area080,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area080,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area080,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area080,git,WaypointList/16/LocalizedName,0,-1,WP_DECOR_OPEN
 area080,git,WaypointList/17/LocalizedName,0,-1,WP_DECOR_OPEN
 area080,git,WaypointList/18/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -6144,14 +6144,14 @@ area081,git,WaypointList/57/LocalizedName,0,-1,WP_TREASURE
 area081,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area081,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area081,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area081,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area081,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area081,git,WaypointList/9/LocalizedName,0,-1,WP_TREASURE
 area082,git,Door List/0/LocName,0,5349,지역 문
 area082,git,Door List/1/LocName,0,-1,문
 area082,git,Door List/2/LocName,0,-1,문
 area082,git,Door List/3/LocName,0,-1,문
 area082,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area082,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area082,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area082,git,WaypointList/1/LocalizedName,0,-1,WP_ENCOUNTER
 area082,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
 area082,git,WaypointList/11/LocalizedName,0,-1,WP_DECOR_WALL
@@ -6223,7 +6223,7 @@ area083,git,WaypointList/29/LocalizedName,0,-1,WP_TREASURE
 area083,git,WaypointList/3/LocalizedName,0,-1,WP_TRAP
 area083,git,WaypointList/30/LocalizedName,0,-1,WP_TREASURE
 area083,git,WaypointList/31/LocalizedName,0,-1,WP_PLOT
-area083,git,WaypointList/31/MapNote,0,-1,음반 제공자
+area083,git,WaypointList/31/MapNote,0,-1,플롯 제공자
 area083,git,WaypointList/32/LocalizedName,0,-1,WP_TREASURE
 area083,git,WaypointList/33/LocalizedName,0,-1,WP_BOSS
 area083,git,WaypointList/34/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -6292,7 +6292,7 @@ area084,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area084,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area084,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area084,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area084,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area084,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area084,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area084,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area084,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
@@ -6435,7 +6435,7 @@ area085,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area085,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area085,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area085,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area085,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area085,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area085,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area085,git,WaypointList/41/LocalizedName,0,-1,WP_SECRET_TREASURE
 area085,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -6565,7 +6565,7 @@ area086,git,WaypointList/57/LocalizedName,0,-1,WP_DECOR_WALL
 area086,git,WaypointList/58/LocalizedName,0,-1,WP_DECOR_WALL
 area086,git,WaypointList/59/LocalizedName,0,-1,WP_DECOR_WALL
 area086,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area086,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area086,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area086,git,WaypointList/60/LocalizedName,0,-1,WP_DECOR_WALL
 area086,git,WaypointList/61/LocalizedName,0,-1,WP_DECOR_WALL
 area086,git,WaypointList/62/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -6605,9 +6605,9 @@ area087,git,Door List/23/LocName,0,-1,문
 area087,git,Door List/24/LocName,0,-1,문
 area087,git,Door List/25/LocName,0,-1,문
 area087,git,Door List/9/LocName,0,5349,지역 문
-area087,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area087,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area087,git,Placeable List/0/LocName,0,84564,자갈
-area087,git,Placeable List/1/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area087,git,Placeable List/1/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area087,git,Placeable List/1/LocName,0,84564,자갈
 area087,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area087,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -6647,7 +6647,7 @@ area087,git,WaypointList/4/LocalizedName,0,-1,WP_ENCOUNTER
 area087,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area087,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area087,git,WaypointList/42/LocalizedName,0,-1,WP_PLOT
-area087,git,WaypointList/42/MapNote,0,-1,음반 제공자
+area087,git,WaypointList/42/MapNote,0,-1,플롯 제공자
 area087,git,WaypointList/43/LocalizedName,0,-1,WP_DECOR_WALL
 area087,git,WaypointList/44/LocalizedName,0,-1,WP_SECRET_DOOR
 area087,git,WaypointList/45/LocalizedName,0,-1,WP_SECRET_DOOR
@@ -6768,7 +6768,7 @@ area088,git,WaypointList/57/LocalizedName,0,-1,WP_DECOR_WALL
 area088,git,WaypointList/58/LocalizedName,0,-1,WP_DECOR_WALL
 area088,git,WaypointList/59/LocalizedName,0,-1,WP_DECOR_OPEN
 area088,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area088,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area088,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area088,git,WaypointList/60/LocalizedName,0,-1,WP_DECOR_WALL
 area088,git,WaypointList/61/LocalizedName,0,-1,WP_DECOR_WALL
 area088,git,WaypointList/62/LocalizedName,0,-1,WP_DECOR_WALL
@@ -6812,7 +6812,7 @@ area089,git,WaypointList/21/LocalizedName,0,-1,WP_SECRET_TREASURE
 area089,git,WaypointList/22/LocalizedName,0,-1,WP_SECRET_TREASURE
 area089,git,WaypointList/23/LocalizedName,0,-1,WP_SECRET
 area089,git,WaypointList/24/LocalizedName,0,-1,WP_PLOT
-area089,git,WaypointList/24/MapNote,0,-1,음반 제공자
+area089,git,WaypointList/24/MapNote,0,-1,플롯 제공자
 area089,git,WaypointList/25/LocalizedName,0,-1,WP_DECOR_WALL
 area089,git,WaypointList/26/LocalizedName,0,-1,WP_DECOR_WALL
 area089,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_WALL
@@ -6864,7 +6864,7 @@ area090,git,Door List/7/LocName,0,-1,문
 area090,git,Door List/8/LocName,0,-1,문
 area090,git,Door List/9/LocName,0,-1,문
 area090,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area090,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area090,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area090,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area090,git,WaypointList/1/MapNote,0,-1,야영지
 area090,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
@@ -6960,7 +6960,7 @@ area091,git,Door List/3/LocName,0,-1,문
 area091,git,Door List/4/LocName,0,-1,문
 area091,git,Door List/5/LocName,0,-1,문
 area091,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area091,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area091,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area091,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS
 area091,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_OPEN
 area091,git,WaypointList/11/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -7081,7 +7081,7 @@ area092,git,WaypointList/61/LocalizedName,0,-1,WP_TREASURE
 area092,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_TREASURE
 area092,git,WaypointList/8/LocalizedName,0,-1,WP_ENCOUNTER
 area092,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area092,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area092,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area093,git,Door List/10/LocName,0,5349,지역 문
 area093,git,Door List/11/LocName,0,-1,문
 area093,git,Door List/12/LocName,0,-1,문
@@ -7102,7 +7102,7 @@ area093,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area093,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
 area093,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area093,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area093,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area093,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area093,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area093,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area093,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
@@ -7206,7 +7206,7 @@ area094,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area094,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area094,git,WaypointList/39/LocalizedName,0,-1,WP_ENCOUNTER
 area094,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area094,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area094,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area094,git,WaypointList/40/LocalizedName,0,-1,WP_TREASURE
 area094,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area094,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -7250,7 +7250,7 @@ area095,git,Door List/1/LocName,0,5349,지역 문
 area095,git,Door List/2/LocName,0,5349,지역 문
 area095,git,Door List/3/LocName,0,5349,지역 문
 area095,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area095,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area095,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area095,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area095,git,WaypointList/1/MapNote,0,-1,야영지
 area095,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -7335,7 +7335,7 @@ area096,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area096,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area096,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area096,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area096,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area096,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area096,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area096,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area096,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
@@ -7442,7 +7442,7 @@ area097,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area097,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area097,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
 area097,git,WaypointList/11/LocalizedName,0,-1,WP_PLOT
-area097,git,WaypointList/11/MapNote,0,-1,음반 제공자
+area097,git,WaypointList/11/MapNote,0,-1,플롯 제공자
 area097,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area097,git,WaypointList/13/LocalizedName,0,-1,WP_SECRET_DOOR
 area097,git,WaypointList/14/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -7583,7 +7583,7 @@ area098,git,WaypointList/57/LocalizedName,0,-1,WP_DECOR_WALL
 area098,git,WaypointList/58/LocalizedName,0,-1,WP_DECOR_WALL
 area098,git,WaypointList/59/LocalizedName,0,-1,WP_DECOR_WALL
 area098,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area098,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area098,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area098,git,WaypointList/60/LocalizedName,0,-1,WP_DECOR_WALL
 area098,git,WaypointList/61/LocalizedName,0,-1,WP_ENCOUNTER
 area098,git,WaypointList/62/LocalizedName,0,-1,WP_TREASURE
@@ -7636,7 +7636,7 @@ area099,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area099,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area099,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area099,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area099,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area099,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area099,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area099,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area099,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -7682,11 +7682,11 @@ area100,git,Door List/6/LocName,0,-1,문
 area100,git,Door List/7/LocName,0,-1,문
 area100,git,Door List/8/LocName,0,-1,문
 area100,git,Door List/9/LocName,0,-1,문
-area100,git,Placeable List/1/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area100,git,Placeable List/1/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area100,git,Placeable List/1/LocName,0,84564,자갈
-area100,git,SoundList/19/LocName,0,67971,여자 들 을 굽히게
+area100,git,SoundList/19/LocName,0,67971,여자를 굽히는 여성들
 area100,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area100,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area100,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area100,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area100,git,WaypointList/1/MapNote,0,-1,야영지
 area100,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET
@@ -7876,7 +7876,7 @@ area101,git,WaypointList/77/LocalizedName,0,-1,WP_DECOR_OPEN
 area101,git,WaypointList/78/LocalizedName,0,-1,WP_TREASURE
 area101,git,WaypointList/79/LocalizedName,0,-1,WP_DECOR_WALL
 area101,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area101,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area101,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area101,git,WaypointList/80/LocalizedName,0,-1,WP_DECOR_WALL
 area101,git,WaypointList/81/LocalizedName,0,-1,WP_DECOR_WALL
 area101,git,WaypointList/82/LocalizedName,0,-1,WP_DECOR_WALL
@@ -7957,7 +7957,7 @@ area102,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area102,git,WaypointList/49/LocalizedName,0,-1,WP_TRAP
 area102,git,WaypointList/5/LocalizedName,0,-1,WP_SECRET
 area102,git,WaypointList/50/LocalizedName,0,-1,WP_PLOT
-area102,git,WaypointList/50/MapNote,0,-1,음반 제공자
+area102,git,WaypointList/50/MapNote,0,-1,플롯 제공자
 area102,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_WALL
 area102,git,WaypointList/52/LocalizedName,0,-1,WP_DECOR_WALL
 area102,git,WaypointList/53/LocalizedName,0,-1,WP_DECOR_WALL
@@ -8014,7 +8014,7 @@ area103,git,Door List/7/LocName,0,-1,문
 area103,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area103,git,WaypointList/0/MapNote,0,-1,야영지
 area103,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area103,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area103,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area103,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area103,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS
 area103,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
@@ -8088,7 +8088,7 @@ area104,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
 area104,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area104,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area104,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area104,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area104,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area104,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area104,git,WaypointList/17/LocalizedName,0,-1,WP_DECOR_OPEN
 area104,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
@@ -8160,9 +8160,9 @@ area105,git,Door List/6/LocName,0,-1,문
 area105,git,Door List/7/LocName,0,-1,문
 area105,git,Door List/8/LocName,0,-1,문
 area105,git,Door List/9/LocName,0,-1,문
-area105,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area105,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area105,git,Placeable List/0/LocName,0,84564,자갈
-area105,git,SoundList/8/LocName,0,67971,여자 들 을 굽히게
+area105,git,SoundList/8/LocName,0,67971,여자를 굽히는 여성들
 area105,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area105,git,WaypointList/0/MapNote,0,-1,야영지
 area105,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
@@ -8198,7 +8198,7 @@ area105,git,WaypointList/36/LocalizedName,0,-1,WP_DECOR_WALL
 area105,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area105,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area105,git,WaypointList/39/LocalizedName,0,-1,WP_PLOT
-area105,git,WaypointList/39/MapNote,0,-1,음반 제공자
+area105,git,WaypointList/39/MapNote,0,-1,플롯 제공자
 area105,git,WaypointList/4/LocalizedName,0,-1,WP_BOSS
 area105,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area105,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
@@ -8365,7 +8365,7 @@ area106,git,WaypointList/77/LocalizedName,0,-1,WP_DECOR_WALL
 area106,git,WaypointList/78/LocalizedName,0,-1,WP_DECOR_WALL
 area106,git,WaypointList/79/LocalizedName,0,-1,WP_DECOR_WALL
 area106,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area106,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area106,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area106,git,WaypointList/80/LocalizedName,0,-1,WP_DECOR_WALL
 area106,git,WaypointList/81/LocalizedName,0,-1,WP_DECOR_OPEN
 area106,git,WaypointList/82/LocalizedName,0,-1,WP_DECOR_WALL
@@ -8481,7 +8481,7 @@ area107,git,WaypointList/77/LocalizedName,0,-1,WP_DECOR_OPEN
 area107,git,WaypointList/78/LocalizedName,0,-1,WP_DECOR_OPEN
 area107,git,WaypointList/79/LocalizedName,0,-1,WP_DECOR_WALL
 area107,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area107,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area107,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area107,git,WaypointList/80/LocalizedName,0,-1,WP_DECOR_WALL
 area107,git,WaypointList/81/LocalizedName,0,-1,WP_ENCOUNTER
 area107,git,WaypointList/82/LocalizedName,0,-1,WP_TREASURE
@@ -8501,7 +8501,7 @@ area108,git,Door List/2/LocName,0,5349,지역 문
 area108,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area108,git,WaypointList/0/MapNote,0,-1,야영지
 area108,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area108,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area108,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area108,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area108,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area108,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
@@ -8571,9 +8571,9 @@ area109,git,Door List/6/LocName,0,-1,문
 area109,git,Door List/7/LocName,0,-1,문
 area109,git,Door List/8/LocName,0,-1,문
 area109,git,Door List/9/LocName,0,-1,문
-area109,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area109,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area109,git,Placeable List/0/LocName,0,84564,자갈
-area109,git,SoundList/22/LocName,0,67971,여자 들 을 굽히게
+area109,git,SoundList/22/LocName,0,67971,여자를 굽히는 여성들
 area109,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area109,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area109,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -8601,7 +8601,7 @@ area109,git,WaypointList/3/LocalizedName,0,-1,WP_TREASURE
 area109,git,WaypointList/30/LocalizedName,0,-1,WP_TREASURE
 area109,git,WaypointList/31/LocalizedName,0,-1,WP_TREASURE
 area109,git,WaypointList/32/LocalizedName,0,-1,WP_PLOT
-area109,git,WaypointList/32/MapNote,0,-1,음반 제공자
+area109,git,WaypointList/32/MapNote,0,-1,플롯 제공자
 area109,git,WaypointList/33/LocalizedName,0,-1,WP_TREASURE
 area109,git,WaypointList/34/LocalizedName,0,-1,WP_DECOR_OPEN
 area109,git,WaypointList/35/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -8694,7 +8694,7 @@ area110,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area110,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area110,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area110,git,WaypointList/18/LocalizedName,0,-1,WP_PLOT
-area110,git,WaypointList/18/MapNote,0,-1,음반 제공자
+area110,git,WaypointList/18/MapNote,0,-1,플롯 제공자
 area110,git,WaypointList/19/LocalizedName,0,-1,WP_ENCOUNTER
 area110,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area110,git,WaypointList/20/LocalizedName,0,-1,WP_TREASURE
@@ -8829,7 +8829,7 @@ area111,git,WaypointList/27/LocalizedName,0,-1,WP_TRAP
 area111,git,WaypointList/28/LocalizedName,0,-1,WP_TRAP
 area111,git,WaypointList/29/LocalizedName,0,-1,WP_TRAP
 area111,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area111,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area111,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area111,git,WaypointList/30/LocalizedName,0,-1,WP_TRAP
 area111,git,WaypointList/31/LocalizedName,0,-1,WP_TRAP
 area111,git,WaypointList/32/LocalizedName,0,-1,WP_TRAP
@@ -8963,7 +8963,7 @@ area112,git,WaypointList/47/LocalizedName,0,-1,WP_TRAP
 area112,git,WaypointList/48/LocalizedName,0,-1,WP_SECRET_TREASURE
 area112,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area112,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area112,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area112,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area112,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area112,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_OPEN
 area112,git,WaypointList/52/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -9015,7 +9015,7 @@ area113,git,WaypointList/17/LocalizedName,0,-1,WP_TRAP
 area113,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
 area113,git,WaypointList/19/LocalizedName,0,-1,WP_TRAP
 area113,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area113,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area113,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area113,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area113,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area113,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -9078,7 +9078,7 @@ area114,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area114,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area114,git,WaypointList/19/LocalizedName,0,-1,WP_ENCOUNTER
 area114,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area114,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area114,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area114,git,WaypointList/20/LocalizedName,0,-1,WP_TREASURE
 area114,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area114,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -9222,7 +9222,7 @@ area115,git,WaypointList/55/LocalizedName,0,-1,WP_TREASURE
 area115,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area115,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area115,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area115,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area115,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area115,git,WaypointList/9/LocalizedName,0,-1,WP_BOSS
 area116,git,Door List/0/LocName,0,5349,지역 문
 area116,git,Door List/1/LocName,0,5349,지역 문
@@ -9231,7 +9231,7 @@ area116,git,Door List/3/LocName,0,-1,문
 area116,git,Door List/4/LocName,0,-1,문
 area116,git,Door List/5/LocName,0,-1,문
 area116,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area116,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area116,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area116,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS
 area116,git,WaypointList/10/LocalizedName,0,-1,WP_DECOR_OPEN
 area116,git,WaypointList/11/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -9279,7 +9279,7 @@ area117,git,Door List/1/LocName,0,5349,지역 문
 area117,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area117,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area117,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area117,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area117,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area117,git,WaypointList/11/LocalizedName,0,-1,WP_ENCOUNTER
 area117,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area117,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
@@ -9338,7 +9338,7 @@ area118,git,Door List/4/LocName,0,-1,문
 area118,git,WaypointList/0/LocalizedName,0,-1,WP_ENCOUNTER
 area118,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS
 area118,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area118,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area118,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area118,git,WaypointList/11/LocalizedName,0,-1,WP_ENCOUNTER
 area118,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area118,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
@@ -9462,7 +9462,7 @@ area119,git,WaypointList/65/LocalizedName,0,-1,WP_ENCOUNTER
 area119,git,WaypointList/7/LocalizedName,0,-1,WP_ENCOUNTER
 area119,git,WaypointList/8/LocalizedName,0,-1,WP_ENCOUNTER
 area119,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area119,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area119,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area120,git,Door List/0/LocName,0,5349,지역 문
 area120,git,Door List/1/LocName,0,-1,문
 area120,git,Door List/10/LocName,0,-1,문
@@ -9474,7 +9474,7 @@ area120,git,Door List/6/LocName,0,-1,문
 area120,git,Door List/7/LocName,0,-1,문
 area120,git,Door List/8/LocName,0,-1,문
 area120,git,Door List/9/LocName,0,-1,문
-area120,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area120,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area120,git,Placeable List/0/LocName,0,84564,자갈
 area120,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area120,git,WaypointList/0/MapNote,0,-1,야영지
@@ -9556,7 +9556,7 @@ area120,git,WaypointList/77/LocalizedName,0,-1,WP_DECOR_WALL
 area120,git,WaypointList/78/LocalizedName,0,-1,WP_DECOR_WALL
 area120,git,WaypointList/79/LocalizedName,0,-1,WP_DECOR_WALL
 area120,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area120,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area120,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area120,git,WaypointList/80/LocalizedName,0,-1,WP_DECOR_WALL
 area120,git,WaypointList/81/LocalizedName,0,-1,WP_DECOR_WALL
 area120,git,WaypointList/82/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
@@ -9613,7 +9613,7 @@ area121,git,WaypointList/27/LocalizedName,0,-1,WP_TRAP
 area121,git,WaypointList/28/LocalizedName,0,-1,WP_TRAP
 area121,git,WaypointList/29/LocalizedName,0,-1,WP_TRAP
 area121,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area121,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area121,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area121,git,WaypointList/30/LocalizedName,0,-1,WP_TRAP
 area121,git,WaypointList/31/LocalizedName,0,-1,WP_TRAP
 area121,git,WaypointList/32/LocalizedName,0,-1,WP_TRAP
@@ -9683,7 +9683,7 @@ area122,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area122,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area122,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area122,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area122,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area122,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area122,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area122,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area122,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
@@ -9754,7 +9754,7 @@ area123,git,Door List/6/LocName,0,-1,문
 area123,git,Door List/7/LocName,0,-1,문
 area123,git,Door List/8/LocName,0,-1,문
 area123,git,Door List/9/LocName,0,-1,문
-area123,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area123,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area123,git,Placeable List/0/LocName,0,84564,자갈
 area123,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area123,git,WaypointList/0/MapNote,0,-1,야영지
@@ -9763,7 +9763,7 @@ area123,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area123,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area123,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
 area123,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area123,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area123,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area123,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area123,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area123,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
@@ -9875,7 +9875,7 @@ area124,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area124,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area124,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area124,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area124,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area124,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area124,git,WaypointList/40/LocalizedName,0,-1,WP_SECRET_TREASURE
 area124,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area124,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -10010,7 +10010,7 @@ area125,git,WaypointList/77/LocalizedName,0,-1,WP_TREASURE
 area125,git,WaypointList/78/LocalizedName,0,-1,WP_TREASURE
 area125,git,WaypointList/79/LocalizedName,0,-1,WP_DECOR_OPEN
 area125,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area125,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area125,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area125,git,WaypointList/80/LocalizedName,0,-1,WP_ENCOUNTER
 area125,git,WaypointList/81/LocalizedName,0,-1,WP_DECOR_OPEN
 area125,git,WaypointList/82/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
@@ -10037,7 +10037,7 @@ area126,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area126,git,WaypointList/0/MapNote,0,-1,야영지
 area126,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area126,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area126,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area126,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area126,git,WaypointList/11/LocalizedName,0,-1,WP_ENCOUNTER
 area126,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area126,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -10153,7 +10153,7 @@ area127,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area127,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area127,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area127,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area127,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area127,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area127,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area127,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area127,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -10181,7 +10181,7 @@ area128,git,Door List/4/LocName,0,-1,문
 area128,git,Door List/5/LocName,0,-1,문
 area128,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area128,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area128,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area128,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area128,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
 area128,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area128,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_DOOR
@@ -10242,7 +10242,7 @@ area129,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area129,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area129,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area129,git,WaypointList/16/LocalizedName,0,-1,WP_PLOT
-area129,git,WaypointList/16/MapNote,0,-1,음반 제공자
+area129,git,WaypointList/16/MapNote,0,-1,플롯 제공자
 area129,git,WaypointList/17/LocalizedName,0,-1,WP_SECRET_DOOR
 area129,git,WaypointList/18/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area129,git,WaypointList/19/LocalizedName,0,-1,WP_SECRET_DOOR
@@ -10321,7 +10321,7 @@ area130,git,Door List/6/LocName,0,-1,문
 area130,git,Door List/7/LocName,0,-1,문
 area130,git,Door List/8/LocName,0,-1,문
 area130,git,Door List/9/LocName,0,-1,문
-area130,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area130,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area130,git,Placeable List/0/LocName,0,84564,자갈
 area130,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area130,git,WaypointList/0/MapNote,0,-1,야영지
@@ -10329,7 +10329,7 @@ area130,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area130,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area130,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area130,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area130,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area130,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area130,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area130,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area130,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
@@ -10433,7 +10433,7 @@ area131,git,WaypointList/27/LocalizedName,0,-1,WP_TRAP
 area131,git,WaypointList/28/LocalizedName,0,-1,WP_TRAP
 area131,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_OPEN
 area131,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area131,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area131,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area131,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
 area131,git,WaypointList/31/LocalizedName,0,-1,WP_DECOR_OPEN
 area131,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -10503,7 +10503,7 @@ area132,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area132,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area132,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area132,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area132,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area132,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area132,git,WaypointList/20/LocalizedName,0,-1,WP_DECOR_OPEN
 area132,git,WaypointList/21/LocalizedName,0,-1,WP_DECOR_OPEN
 area132,git,WaypointList/22/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -10596,7 +10596,7 @@ area133,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area133,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area133,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area133,git,WaypointList/19/LocalizedName,0,-1,WP_PLOT
-area133,git,WaypointList/19/MapNote,0,-1,음반 제공자
+area133,git,WaypointList/19/MapNote,0,-1,플롯 제공자
 area133,git,WaypointList/2/LocalizedName,0,-1,WP_BOSS
 area133,git,WaypointList/20/LocalizedName,0,-1,WP_ENCOUNTER
 area133,git,WaypointList/21/LocalizedName,0,-1,WP_TREASURE
@@ -10709,7 +10709,7 @@ area134,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
 area134,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS_GUARD
 area134,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area134,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area134,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area134,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area134,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area134,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area134,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
@@ -10814,7 +10814,7 @@ area135,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area135,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area135,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR
 area135,git,WaypointList/11/LocalizedName,0,-1,WP_PLOT
-area135,git,WaypointList/11/MapNote,0,-1,음반 제공자
+area135,git,WaypointList/11/MapNote,0,-1,플롯 제공자
 area135,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_TREASURE
 area135,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area135,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
@@ -10896,7 +10896,7 @@ area136,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area136,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area136,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_TREASURE
 area136,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area136,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area136,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area136,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area136,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area136,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
@@ -10976,7 +10976,7 @@ area137,git,Door List/1/LocName,0,5349,내려가는 계단
 area137,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area137,git,WaypointList/0/MapNote,0,-1,야영지
 area137,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area137,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area137,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area137,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
 area137,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area137,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -11065,7 +11065,7 @@ area138,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_TREASURE
 area138,git,WaypointList/13/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area138,git,WaypointList/14/LocalizedName,0,-1,WP_SECRET_DOOR
 area138,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area138,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area138,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area138,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area138,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area138,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
@@ -11118,9 +11118,9 @@ area139,git,Door List/1/LocName,0,5349,지역 문
 area139,git,Door List/2/LocName,0,5349,지역 문
 area139,git,Door List/3/LocName,0,5349,지역 문
 area139,git,Door List/4/LocName,0,5349,올라가는 계단
-area139,git,SoundList/20/LocName,0,67971,여자 들 을 굽히게
+area139,git,SoundList/20/LocName,0,67971,여자를 굽히는 여성들
 area139,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area139,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area139,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area139,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area139,git,WaypointList/1/MapNote,0,-1,야영지
 area139,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
@@ -11212,7 +11212,7 @@ area140,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area140,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_TREASURE
 area140,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
 area140,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area140,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area140,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area140,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area140,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area140,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
@@ -11354,7 +11354,7 @@ area141,git,WaypointList/68/LocalizedName,0,-1,WP_TREASURE
 area141,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_TREASURE
 area141,git,WaypointList/8/LocalizedName,0,-1,WP_ENCOUNTER
 area141,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area141,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area141,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area142,git,Door List/0/LocName,0,5349,지역 문
 area142,git,Door List/1/LocName,0,-1,문
 area142,git,Door List/2/LocName,0,-1,문
@@ -11382,7 +11382,7 @@ area142,git,WaypointList/21/LocalizedName,0,-1,WP_ENCOUNTER
 area142,git,WaypointList/22/LocalizedName,0,-1,WP_TREASURE
 area142,git,WaypointList/23/LocalizedName,0,-1,WP_TRAP
 area142,git,WaypointList/24/LocalizedName,0,-1,WP_PLOT
-area142,git,WaypointList/24/MapNote,0,-1,음반 제공자
+area142,git,WaypointList/24/MapNote,0,-1,플롯 제공자
 area142,git,WaypointList/25/LocalizedName,0,-1,WP_TRAP
 area142,git,WaypointList/26/LocalizedName,0,-1,WP_TRAP
 area142,git,WaypointList/27/LocalizedName,0,-1,WP_TRAP
@@ -11449,7 +11449,7 @@ area143,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area143,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area143,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area143,git,WaypointList/16/LocalizedName,0,-1,WP_PLOT
-area143,git,WaypointList/16/MapNote,0,-1,음반 제공자
+area143,git,WaypointList/16/MapNote,0,-1,플롯 제공자
 area143,git,WaypointList/17/LocalizedName,0,-1,WP_TRAP
 area143,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
 area143,git,WaypointList/19/LocalizedName,0,-1,WP_TRAP
@@ -11523,7 +11523,7 @@ area144,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_TREASURE
 area144,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET
 area144,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area144,git,WaypointList/14/LocalizedName,0,-1,WP_PLOT
-area144,git,WaypointList/14/MapNote,0,-1,음반 제공자
+area144,git,WaypointList/14/MapNote,0,-1,플롯 제공자
 area144,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area144,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area144,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
@@ -11635,7 +11635,7 @@ area145,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_WALL
 area145,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_WALL
 area145,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_WALL
 area145,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area145,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area145,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area145,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
 area145,git,WaypointList/31/LocalizedName,0,-1,WP_DECOR_WALL
 area145,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_WALL
@@ -11672,7 +11672,7 @@ area146,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area146,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area146,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area146,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area146,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area146,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area146,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area146,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area146,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
@@ -11747,7 +11747,7 @@ area147,git,Door List/6/LocName,0,-1,문
 area147,git,Door List/7/LocName,0,-1,문
 area147,git,Door List/8/LocName,0,-1,문
 area147,git,Door List/9/LocName,0,-1,문
-area147,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area147,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area147,git,Placeable List/0/LocName,0,84564,자갈
 area147,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area147,git,WaypointList/0/MapNote,0,-1,야영지
@@ -11840,7 +11840,7 @@ area147,git,WaypointList/87/LocalizedName,0,-1,WP_TREASURE
 area147,git,WaypointList/88/LocalizedName,0,-1,WP_ENCOUNTER
 area147,git,WaypointList/89/LocalizedName,0,-1,WP_ENCOUNTER
 area147,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area147,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area147,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area147,git,WaypointList/90/LocalizedName,0,-1,WP_DECOR_OPEN
 area147,git,WaypointList/91/LocalizedName,0,-1,WP_TREASURE
 area147,git,WaypointList/92/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
@@ -11892,7 +11892,7 @@ area148,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area148,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_OPEN
 area148,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_OPEN
 area148,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area148,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area148,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area148,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area148,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area148,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -11952,7 +11952,7 @@ area149,git,WaypointList/15/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area149,git,WaypointList/16/LocalizedName,0,-1,WP_SECRET_DOOR
 area149,git,WaypointList/17/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area149,git,WaypointList/18/LocalizedName,0,-1,WP_PLOT
-area149,git,WaypointList/18/MapNote,0,-1,음반 제공자
+area149,git,WaypointList/18/MapNote,0,-1,플롯 제공자
 area149,git,WaypointList/19/LocalizedName,0,-1,WP_TRAP
 area149,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area149,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
@@ -12055,7 +12055,7 @@ area150,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area150,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area150,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area150,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area150,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area150,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area150,git,WaypointList/50/LocalizedName,0,-1,WP_ENCOUNTER
 area150,git,WaypointList/51/LocalizedName,0,-1,WP_TREASURE
 area150,git,WaypointList/52/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
@@ -12089,7 +12089,7 @@ area151,git,Door List/6/LocName,0,-1,문
 area151,git,Door List/7/LocName,0,-1,문
 area151,git,Door List/8/LocName,0,-1,문
 area151,git,Door List/9/LocName,0,-1,문
-area151,git,SoundList/3/LocName,0,67971,여자 들 을 굽히게
+area151,git,SoundList/3/LocName,0,67971,여자를 굽히는 여성들
 area151,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area151,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area151,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -12168,7 +12168,7 @@ area151,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area152,git,Door List/0/LocName,0,5349,지역 문
 area152,git,Door List/1/LocName,0,5349,지역 문
 area152,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area152,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area152,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area152,git,WaypointList/1/LocalizedName,0,-1,WP_ENCOUNTER
 area152,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_TREASURE
 area152,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR
@@ -12254,7 +12254,7 @@ area153,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area153,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS
 area153,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area153,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area153,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area153,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area153,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area153,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area153,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
@@ -12328,14 +12328,14 @@ area154,git,Door List/19/LocName,0,-1,문
 area154,git,Door List/20/LocName,0,-1,문
 area154,git,Door List/8/LocName,0,5349,지역 문
 area154,git,Door List/9/LocName,0,5349,지역 문
-area154,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area154,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area154,git,Placeable List/0/LocName,0,84564,자갈
 area154,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area154,git,WaypointList/0/MapNote,0,-1,야영지
 area154,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area154,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_TREASURE
 area154,git,WaypointList/11/LocalizedName,0,-1,WP_PLOT
-area154,git,WaypointList/11/MapNote,0,-1,음반 제공자
+area154,git,WaypointList/11/MapNote,0,-1,플롯 제공자
 area154,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area154,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area154,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
@@ -12465,7 +12465,7 @@ area155,git,WaypointList/73/LocalizedName,0,-1,WP_ENCOUNTER
 area155,git,WaypointList/74/LocalizedName,0,-1,WP_TREASURE
 area155,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_TREASURE
 area155,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area155,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area155,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area156,git,Door List/0/LocName,0,5349,지역 문
 area156,git,Door List/1/LocName,0,5349,내려가는 계단
 area156,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
@@ -12530,7 +12530,7 @@ area156,git,WaypointList/60/LocalizedName,0,-1,WP_TREASURE
 area156,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area156,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_TREASURE
 area156,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area156,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area156,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area157,git,Door List/0/LocName,0,5349,지역 문
 area157,git,Door List/1/LocName,0,-1,문
 area157,git,Door List/2/LocName,0,-1,문
@@ -12550,7 +12550,7 @@ area157,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area157,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area157,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area157,git,WaypointList/17/LocalizedName,0,-1,WP_PLOT
-area157,git,WaypointList/17/MapNote,0,-1,음반 제공자
+area157,git,WaypointList/17/MapNote,0,-1,플롯 제공자
 area157,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area157,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area157,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
@@ -12680,7 +12680,7 @@ area158,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area158,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area158,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area158,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area158,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area158,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area158,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area158,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_WALL
 area158,git,WaypointList/52/LocalizedName,0,-1,WP_ENCOUNTER
@@ -12709,7 +12709,7 @@ area159,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area159,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area159,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR
 area159,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area159,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area159,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area159,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area159,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area159,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
@@ -12805,9 +12805,9 @@ area160,git,Door List/6/LocName,0,-1,문
 area160,git,Door List/7/LocName,0,-1,문
 area160,git,Door List/8/LocName,0,-1,문
 area160,git,Door List/9/LocName,0,-1,문
-area160,git,SoundList/21/LocName,0,67971,여자 들 을 굽히게
+area160,git,SoundList/21/LocName,0,67971,여자를 굽히는 여성들
 area160,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area160,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area160,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area160,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area160,git,WaypointList/1/MapNote,0,-1,야영지
 area160,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
@@ -12966,7 +12966,7 @@ area161,git,WaypointList/56/LocalizedName,0,-1,WP_TREASURE
 area161,git,WaypointList/57/LocalizedName,0,-1,WP_ENCOUNTER
 area161,git,WaypointList/58/LocalizedName,0,-1,WP_TREASURE
 area161,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area161,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area161,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area161,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area161,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area161,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -12981,7 +12981,7 @@ area162,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
 area162,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS_GUARD
 area162,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area162,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area162,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area162,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area162,git,WaypointList/16/LocalizedName,0,-1,WP_TRAP
 area162,git,WaypointList/17/LocalizedName,0,-1,WP_TRAP
 area162,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
@@ -13061,7 +13061,7 @@ area163,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_WALL
 area163,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_WALL
 area163,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_WALL
 area163,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area163,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area163,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area163,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
 area163,git,WaypointList/31/LocalizedName,0,-1,WP_DECOR_WALL
 area163,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_WALL
@@ -13115,7 +13115,7 @@ area164,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area164,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area164,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area164,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area164,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area164,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area164,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area164,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area164,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
@@ -13173,7 +13173,7 @@ area165,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area165,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area165,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area165,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area165,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area165,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area165,git,WaypointList/16/LocalizedName,0,-1,WP_TRAP
 area165,git,WaypointList/17/LocalizedName,0,-1,WP_TRAP
 area165,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
@@ -13249,7 +13249,7 @@ area166,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
 area166,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS_GUARD
 area166,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area166,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area166,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area166,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area166,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area166,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area166,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
@@ -13332,7 +13332,7 @@ area167,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area167,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area167,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area167,git,WaypointList/17/LocalizedName,0,-1,WP_PLOT
-area167,git,WaypointList/17/MapNote,0,-1,음반 제공자
+area167,git,WaypointList/17/MapNote,0,-1,플롯 제공자
 area167,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area167,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area167,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
@@ -13463,7 +13463,7 @@ area168,git,WaypointList/5/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area168,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR
 area168,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area168,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area168,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area168,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area168,git,WaypointList/9/LocalizedName,0,-1,WP_BOSS
 area169,git,Door List/10/LocName,0,-1,문
 area169,git,Door List/11/LocName,0,-1,문
@@ -13481,7 +13481,7 @@ area169,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area169,git,WaypointList/0/MapNote,0,-1,야영지
 area169,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area169,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area169,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area169,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area169,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR
 area169,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_DOOR
 area169,git,WaypointList/13/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -13579,7 +13579,7 @@ area170,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area170,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area170,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area170,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area170,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area170,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area170,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area170,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_OPEN
 area170,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -13627,7 +13627,7 @@ area171,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area171,git,WaypointList/19/LocalizedName,0,-1,WP_ENCOUNTER
 area171,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area171,git,WaypointList/20/LocalizedName,0,-1,WP_PLOT
-area171,git,WaypointList/20/MapNote,0,-1,음반 제공자
+area171,git,WaypointList/20/MapNote,0,-1,플롯 제공자
 area171,git,WaypointList/21/LocalizedName,0,-1,WP_TREASURE
 area171,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
 area171,git,WaypointList/23/LocalizedName,0,-1,WP_TRAP
@@ -13770,7 +13770,7 @@ area172,git,WaypointList/70/LocalizedName,0,-1,WP_TREASURE
 area172,git,WaypointList/71/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area172,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area172,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area172,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area172,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area173,git,Door List/0/LocName,0,5349,지역 문
 area173,git,Door List/1/LocName,0,5349,지역 문
 area173,git,Door List/10/LocName,0,-1,문
@@ -13797,7 +13797,7 @@ area173,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area173,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area173,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area173,git,WaypointList/17/LocalizedName,0,-1,WP_PLOT
-area173,git,WaypointList/17/MapNote,0,-1,음반 제공자
+area173,git,WaypointList/17/MapNote,0,-1,플롯 제공자
 area173,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area173,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area173,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
@@ -13921,7 +13921,7 @@ area174,git,WaypointList/20/LocalizedName,0,-1,WP_TREASURE
 area174,git,WaypointList/21/LocalizedName,0,-1,WP_ENCOUNTER
 area174,git,WaypointList/22/LocalizedName,0,-1,WP_TREASURE
 area174,git,WaypointList/23/LocalizedName,0,-1,WP_PLOT
-area174,git,WaypointList/23/MapNote,0,-1,음반 제공자
+area174,git,WaypointList/23/MapNote,0,-1,플롯 제공자
 area174,git,WaypointList/24/LocalizedName,0,-1,WP_DECOR_OPEN
 area174,git,WaypointList/25/LocalizedName,0,-1,WP_DECOR_OPEN
 area174,git,WaypointList/26/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -14022,7 +14022,7 @@ area175,git,Door List/7/LocName,0,-1,문
 area175,git,Door List/8/LocName,0,-1,문
 area175,git,Door List/9/LocName,0,-1,문
 area175,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area175,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area175,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area175,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area175,git,WaypointList/1/MapNote,0,-1,야영지
 area175,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
@@ -14121,7 +14121,7 @@ area176,git,Door List/6/LocName,0,-1,문
 area176,git,Door List/7/LocName,0,-1,문
 area176,git,Door List/8/LocName,0,-1,문
 area176,git,Door List/9/LocName,0,-1,문
-area176,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area176,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area176,git,Placeable List/0/LocName,0,84564,자갈
 area176,git,WaypointList/0/LocalizedName,0,-1,WP_BOSS
 area176,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -14133,7 +14133,7 @@ area176,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area176,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area176,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area176,git,WaypointList/17/LocalizedName,0,-1,WP_PLOT
-area176,git,WaypointList/17/MapNote,0,-1,음반 제공자
+area176,git,WaypointList/17/MapNote,0,-1,플롯 제공자
 area176,git,WaypointList/18/LocalizedName,0,-1,WP_DECOR_OPEN
 area176,git,WaypointList/19/LocalizedName,0,-1,WP_DECOR_OPEN
 area176,git,WaypointList/2/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -14206,7 +14206,7 @@ area177,git,WaypointList/17/LocalizedName,0,-1,WP_BOSS_GUARD
 area177,git,WaypointList/18/LocalizedName,0,-1,WP_BOSS_GUARD
 area177,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area177,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area177,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area177,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area177,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area177,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area177,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -14278,7 +14278,7 @@ area178,git,Door List/6/LocName,0,-1,문
 area178,git,Door List/7/LocName,0,-1,문
 area178,git,Door List/8/LocName,0,-1,문
 area178,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area178,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area178,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area178,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area178,git,WaypointList/1/MapNote,0,-1,야영지
 area178,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
@@ -14336,7 +14336,7 @@ area179,git,Door List/0/LocName,0,5349,지역 문
 area179,git,Door List/1/LocName,0,5349,내려가는 계단
 area179,git,WaypointList/0/LocalizedName,0,-1,WP_ENCOUNTER
 area179,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area179,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area179,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area179,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
 area179,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area179,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
@@ -14433,7 +14433,7 @@ area180,git,WaypointList/25/LocalizedName,0,-1,WP_DECOR_WALL
 area180,git,WaypointList/26/LocalizedName,0,-1,WP_DECOR_WALL
 area180,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_WALL
 area180,git,WaypointList/28/LocalizedName,0,-1,WP_PLOT
-area180,git,WaypointList/28/MapNote,0,-1,음반 제공자
+area180,git,WaypointList/28/MapNote,0,-1,플롯 제공자
 area180,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_WALL
 area180,git,WaypointList/3/LocalizedName,0,-1,WP_TREASURE
 area180,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
@@ -14454,7 +14454,7 @@ area180,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_TREASURE
 area180,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area181,git,Door List/0/LocName,0,5349,지역 문
 area181,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area181,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area181,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area181,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area181,git,WaypointList/1/MapNote,0,-1,야영지
 area181,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
@@ -14520,7 +14520,7 @@ area182,git,Door List/3/LocName,0,-1,문
 area182,git,Door List/4/LocName,0,5349,지역 문
 area182,git,Door List/5/LocName,0,-1,문
 area182,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area182,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area182,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area182,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area182,git,WaypointList/1/MapNote,0,-1,야영지
 area182,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
@@ -14625,7 +14625,7 @@ area183,git,WaypointList/6/LocalizedName,0,-1,WP_PUZZLE
 area183,git,WaypointList/6/MapNote,0,-1,야영지
 area183,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET
 area183,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area183,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area183,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area183,git,WaypointList/9/LocalizedName,0,-1,WP_ENCOUNTER
 area184,git,Door List/0/LocName,0,5349,지역 문
 area184,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
@@ -14683,7 +14683,7 @@ area184,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area184,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area184,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area184,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area184,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area184,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area185,git,Door List/0/LocName,0,5349,지역 문
 area185,git,Door List/1/LocName,0,5349,지역 문
 area185,git,Door List/2/LocName,0,-1,문
@@ -14702,7 +14702,7 @@ area185,git,WaypointList/17/LocalizedName,0,-1,WP_SECRET_DOOR
 area185,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
 area185,git,WaypointList/19/LocalizedName,0,-1,WP_TRAP
 area185,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area185,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area185,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area185,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area185,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area185,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -14779,7 +14779,7 @@ area186,git,WaypointList/20/LocalizedName,0,-1,WP_TREASURE
 area186,git,WaypointList/21/LocalizedName,0,-1,WP_ENCOUNTER
 area186,git,WaypointList/22/LocalizedName,0,-1,WP_TREASURE
 area186,git,WaypointList/23/LocalizedName,0,-1,WP_PLOT
-area186,git,WaypointList/23/MapNote,0,-1,음반 제공자
+area186,git,WaypointList/23/MapNote,0,-1,플롯 제공자
 area186,git,WaypointList/24/LocalizedName,0,-1,WP_DECOR_OPEN
 area186,git,WaypointList/25/LocalizedName,0,-1,WP_DECOR_OPEN
 area186,git,WaypointList/26/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -14853,7 +14853,7 @@ area187,git,Door List/7/LocName,0,-1,문
 area187,git,Door List/8/LocName,0,-1,문
 area187,git,Door List/9/LocName,0,-1,문
 area187,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area187,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area187,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area187,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area187,git,WaypointList/1/MapNote,0,-1,야영지
 area187,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR
@@ -14933,7 +14933,7 @@ area188,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area188,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area188,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area188,git,WaypointList/17/LocalizedName,0,-1,WP_PLOT
-area188,git,WaypointList/17/MapNote,0,-1,음반 제공자
+area188,git,WaypointList/17/MapNote,0,-1,플롯 제공자
 area188,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
 area188,git,WaypointList/19/LocalizedName,0,-1,WP_TRAP
 area188,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
@@ -15088,7 +15088,7 @@ area189,git,WaypointList/84/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area189,git,WaypointList/85/LocalizedName,0,-1,WP_ENCOUNTER
 area189,git,WaypointList/86/LocalizedName,0,-1,WP_TREASURE
 area189,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area189,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area189,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area190,git,Door List/0/LocName,0,5349,지역 문
 area190,git,Door List/1/LocName,0,-1,문
 area190,git,Door List/2/LocName,0,-1,문
@@ -15100,7 +15100,7 @@ area190,git,Door List/7/LocName,0,5349,지역 문
 area190,git,Door List/8/LocName,0,-1,문
 area190,git,Door List/9/LocName,0,-1,문
 area190,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area190,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area190,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area190,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area190,git,WaypointList/1/MapNote,0,-1,야영지
 area190,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
@@ -15235,7 +15235,7 @@ area191,git,WaypointList/62/LocalizedName,0,-1,WP_ENCOUNTER
 area191,git,WaypointList/63/LocalizedName,0,-1,WP_TREASURE
 area191,git,WaypointList/7/LocalizedName,0,-1,WP_TREASURE
 area191,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area191,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area191,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area191,git,WaypointList/9/LocalizedName,0,-1,WP_ENCOUNTER
 area192,git,Door List/0/LocName,0,5349,지역 문
 area192,git,Door List/1/LocName,0,5349,지역 문
@@ -15300,7 +15300,7 @@ area192,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area192,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area192,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area192,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area192,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area192,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area193,git,Door List/0/LocName,0,5349,지역 문
 area193,git,Door List/1/LocName,0,5349,지역 문
 area193,git,Door List/10/LocName,0,-1,문
@@ -15399,7 +15399,7 @@ area193,git,WaypointList/82/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area193,git,WaypointList/83/LocalizedName,0,-1,WP_ENCOUNTER
 area193,git,WaypointList/84/LocalizedName,0,-1,WP_TREASURE
 area193,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area193,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area193,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area194,git,Door List/0/LocName,0,5349,지역 문
 area194,git,Door List/1/LocName,0,5349,지역 문
 area194,git,Door List/10/LocName,0,-1,문
@@ -15421,7 +15421,7 @@ area194,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area194,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area194,git,WaypointList/11/LocalizedName,0,-1,WP_ENCOUNTER
 area194,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area194,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area194,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area194,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area194,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area194,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
@@ -15493,7 +15493,7 @@ area195,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area195,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area195,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area195,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area195,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area195,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area195,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area195,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area195,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
@@ -15574,7 +15574,7 @@ area196,git,Door List/15/LocName,0,-1,문
 area196,git,Door List/7/LocName,0,5349,지역 문
 area196,git,Door List/8/LocName,0,5349,내려가는 계단
 area196,git,Door List/9/LocName,0,-1,문
-area196,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area196,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area196,git,Placeable List/0/LocName,0,84564,자갈
 area196,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area196,git,WaypointList/0/MapNote,0,-1,야영지
@@ -15627,7 +15627,7 @@ area196,git,WaypointList/50/LocalizedName,0,-1,WP_TREASURE
 area196,git,WaypointList/51/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area196,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_TREASURE
 area196,git,WaypointList/7/LocalizedName,0,-1,WP_PLOT
-area196,git,WaypointList/7/MapNote,0,-1,음반 제공자
+area196,git,WaypointList/7/MapNote,0,-1,플롯 제공자
 area196,git,WaypointList/8/LocalizedName,0,-1,WP_TREASURE
 area196,git,WaypointList/9/LocalizedName,0,-1,WP_BOSS
 area197,git,Door List/0/LocName,0,5349,지역 문
@@ -15688,12 +15688,12 @@ area197,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area197,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area197,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area197,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area197,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area197,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area198,git,Door List/0/LocName,0,5349,지역 문
 area198,git,Door List/1/LocName,0,5349,내려가는 계단
 area198,git,Door List/2/LocName,0,-1,문
 area198,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area198,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area198,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area198,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area198,git,WaypointList/1/MapNote,0,-1,야영지
 area198,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
@@ -15776,7 +15776,7 @@ area199,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area199,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area199,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area199,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area199,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area199,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area199,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area199,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area199,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
@@ -15883,7 +15883,7 @@ area200,git,WaypointList/17/LocalizedName,0,-1,WP_DECOR_OPEN
 area200,git,WaypointList/18/LocalizedName,0,-1,WP_DECOR_OPEN
 area200,git,WaypointList/19/LocalizedName,0,-1,WP_DECOR_WALL
 area200,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area200,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area200,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area200,git,WaypointList/20/LocalizedName,0,-1,WP_DECOR_WALL
 area200,git,WaypointList/21/LocalizedName,0,-1,WP_DECOR_WALL
 area200,git,WaypointList/22/LocalizedName,0,-1,WP_DECOR_WALL
@@ -16023,7 +16023,7 @@ area201,git,WaypointList/5/LocalizedName,0,-1,WP_SECRET_DOOR
 area201,git,WaypointList/50/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area201,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area201,git,WaypointList/7/LocalizedName,0,-1,WP_PLOT
-area201,git,WaypointList/7/MapNote,0,-1,음반 제공자
+area201,git,WaypointList/7/MapNote,0,-1,플롯 제공자
 area201,git,WaypointList/8/LocalizedName,0,-1,WP_BOSS
 area201,git,WaypointList/9/LocalizedName,0,-1,WP_BOSS_GUARD
 area202,git,Door List/1/LocName,0,5349,지역 문
@@ -16054,7 +16054,7 @@ area202,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
 area202,git,WaypointList/23/LocalizedName,0,-1,WP_TRAP
 area202,git,WaypointList/24/LocalizedName,0,-1,WP_TRAP
 area202,git,WaypointList/25/LocalizedName,0,-1,WP_PLOT
-area202,git,WaypointList/25/MapNote,0,-1,음반 제공자
+area202,git,WaypointList/25/MapNote,0,-1,플롯 제공자
 area202,git,WaypointList/26/LocalizedName,0,-1,WP_DECOR_WALL
 area202,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_WALL
 area202,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_WALL
@@ -16089,7 +16089,7 @@ area203,git,WaypointList/0/MapNote,0,-1,야영지
 area203,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area203,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
 area203,git,WaypointList/11/LocalizedName,0,-1,WP_PLOT
-area203,git,WaypointList/11/MapNote,0,-1,음반 제공자
+area203,git,WaypointList/11/MapNote,0,-1,플롯 제공자
 area203,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
 area203,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area203,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
@@ -16169,7 +16169,7 @@ area204,git,WaypointList/19/LocalizedName,0,-1,WP_TRAP
 area204,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area204,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area204,git,WaypointList/21/LocalizedName,0,-1,WP_PLOT
-area204,git,WaypointList/21/MapNote,0,-1,음반 제공자
+area204,git,WaypointList/21/MapNote,0,-1,플롯 제공자
 area204,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
 area204,git,WaypointList/23/LocalizedName,0,-1,WP_TRAP
 area204,git,WaypointList/24/LocalizedName,0,-1,WP_TRAP
@@ -16220,7 +16220,7 @@ area205,git,Door List/6/LocName,0,-1,문
 area205,git,Door List/7/LocName,0,-1,문
 area205,git,Door List/8/LocName,0,-1,문
 area205,git,Door List/9/LocName,0,-1,문
-area205,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area205,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area205,git,Placeable List/0/LocName,0,84564,자갈
 area205,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area205,git,WaypointList/0/MapNote,0,-1,야영지
@@ -16235,7 +16235,7 @@ area205,git,WaypointList/16/LocalizedName,0,-1,WP_BOSS_GUARD
 area205,git,WaypointList/17/LocalizedName,0,-1,WP_BOSS_GUARD
 area205,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area205,git,WaypointList/19/LocalizedName,0,-1,WP_PLOT
-area205,git,WaypointList/19/MapNote,0,-1,음반 제공자
+area205,git,WaypointList/19/MapNote,0,-1,플롯 제공자
 area205,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET_DOOR
 area205,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area205,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
@@ -16334,7 +16334,7 @@ area206,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area206,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area206,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area206,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area206,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area206,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area206,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area206,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area206,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -16375,7 +16375,7 @@ area207,git,Door List/6/LocName,0,-1,문
 area207,git,Door List/7/LocName,0,-1,문
 area207,git,Door List/8/LocName,0,-1,문
 area207,git,Door List/9/LocName,0,-1,문
-area207,git,SoundList/3/LocName,0,67971,여자 들 을 굽히게
+area207,git,SoundList/3/LocName,0,67971,여자를 굽히는 여성들
 area207,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area207,git,WaypointList/0/MapNote,0,-1,야영지
 area207,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
@@ -16385,7 +16385,7 @@ area207,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area207,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area207,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area207,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area207,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area207,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area207,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area207,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area207,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
@@ -16508,7 +16508,7 @@ area208,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area208,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area208,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area208,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area208,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area208,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area209,git,Door List/0/LocName,0,5349,지역 문
 area209,git,Door List/1/LocName,0,5349,지역 문
 area209,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
@@ -16547,7 +16547,7 @@ area209,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area209,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area209,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area209,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area209,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area209,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area209,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area209,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area209,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -16600,7 +16600,7 @@ area210,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area210,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area210,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area210,git,WaypointList/19/LocalizedName,0,-1,WP_PLOT
-area210,git,WaypointList/19/MapNote,0,-1,음반 제공자
+area210,git,WaypointList/19/MapNote,0,-1,플롯 제공자
 area210,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area210,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area210,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
@@ -16667,7 +16667,7 @@ area211,git,Door List/6/LocName,0,-1,문
 area211,git,Door List/7/LocName,0,-1,문
 area211,git,Door List/8/LocName,0,-1,문
 area211,git,Door List/9/LocName,0,-1,문
-area211,git,SoundList/1/LocName,0,67971,여자 들 을 굽히게
+area211,git,SoundList/1/LocName,0,67971,여자를 굽히는 여성들
 area211,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area211,git,WaypointList/0/MapNote,0,-1,야영지
 area211,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
@@ -16761,7 +16761,7 @@ area211,git,WaypointList/87/LocalizedName,0,-1,WP_DECOR_WALL
 area211,git,WaypointList/88/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area211,git,WaypointList/89/LocalizedName,0,-1,WP_TREASURE
 area211,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area211,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area211,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area211,git,WaypointList/90/LocalizedName,0,-1,WP_ENCOUNTER
 area211,git,WaypointList/91/LocalizedName,0,-1,WP_TREASURE
 area211,git,WaypointList/92/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
@@ -16785,7 +16785,7 @@ area212,git,Door List/9/LocName,0,-1,문
 area212,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area212,git,WaypointList/0/MapNote,0,-1,야영지
 area212,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area212,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area212,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area212,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
 area212,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area212,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -16912,7 +16912,7 @@ area213,git,WaypointList/66/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area213,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_TREASURE
 area213,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET
 area213,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area213,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area213,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area214,git,Door List/0/LocName,0,5349,지역 문
 area214,git,Door List/1/LocName,0,5349,지역 문
 area214,git,Door List/2/LocName,0,5349,지역 문
@@ -16925,7 +16925,7 @@ area214,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_DOOR
 area214,git,WaypointList/13/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area214,git,WaypointList/14/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area214,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area214,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area214,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area214,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area214,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area214,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
@@ -17018,7 +17018,7 @@ area215,git,Door List/7/LocName,0,-1,문
 area215,git,Door List/8/LocName,0,-1,문
 area215,git,Door List/9/LocName,0,-1,문
 area215,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area215,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area215,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area215,git,WaypointList/1/LocalizedName,0,-1,WP_TREASURE
 area215,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area215,git,WaypointList/100/LocalizedName,0,-1,WP_TREASURE
@@ -17202,7 +17202,7 @@ area216,git,WaypointList/65/LocalizedName,0,-1,WP_ENCOUNTER
 area216,git,WaypointList/66/LocalizedName,0,-1,WP_TREASURE
 area216,git,WaypointList/67/LocalizedName,0,-1,WP_TREASURE
 area216,git,WaypointList/7/LocalizedName,0,-1,WP_PLOT
-area216,git,WaypointList/7/MapNote,0,-1,음반 제공자
+area216,git,WaypointList/7/MapNote,0,-1,플롯 제공자
 area216,git,WaypointList/8/LocalizedName,0,-1,WP_BOSS
 area216,git,WaypointList/9/LocalizedName,0,-1,WP_BOSS_GUARD
 area217,git,Door List/10/LocName,0,-1,문
@@ -17218,7 +17218,7 @@ area217,git,Door List/9/LocName,0,5349,내려가는 계단
 area217,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area217,git,WaypointList/0/MapNote,0,-1,야영지
 area217,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area217,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area217,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area217,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area217,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area217,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
@@ -17312,7 +17312,7 @@ area218,git,WaypointList/27/LocalizedName,0,-1,WP_TRAP
 area218,git,WaypointList/28/LocalizedName,0,-1,WP_TRAP
 area218,git,WaypointList/29/LocalizedName,0,-1,WP_TREASURE
 area218,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area218,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area218,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area218,git,WaypointList/30/LocalizedName,0,-1,WP_TRAP
 area218,git,WaypointList/31/LocalizedName,0,-1,WP_DECOR_WALL
 area218,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_WALL
@@ -17418,7 +17418,7 @@ area219,git,WaypointList/47/LocalizedName,0,-1,WP_DECOR_WALL
 area219,git,WaypointList/48/LocalizedName,0,-1,WP_DECOR_WALL
 area219,git,WaypointList/49/LocalizedName,0,-1,WP_DECOR_WALL
 area219,git,WaypointList/5/LocalizedName,0,-1,WP_PLOT
-area219,git,WaypointList/5/MapNote,0,-1,음반 제공자
+area219,git,WaypointList/5/MapNote,0,-1,플롯 제공자
 area219,git,WaypointList/50/LocalizedName,0,-1,WP_DECOR_WALL
 area219,git,WaypointList/51/LocalizedName,0,-1,WP_DECOR_WALL
 area219,git,WaypointList/52/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -17469,7 +17469,7 @@ area220,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area220,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area220,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area220,git,WaypointList/16/LocalizedName,0,-1,WP_PLOT
-area220,git,WaypointList/16/MapNote,0,-1,음반 제공자
+area220,git,WaypointList/16/MapNote,0,-1,플롯 제공자
 area220,git,WaypointList/17/LocalizedName,0,-1,WP_TRAP
 area220,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
 area220,git,WaypointList/19/LocalizedName,0,-1,WP_TRAP
@@ -17562,7 +17562,7 @@ area221,git,Door List/3/LocName,0,-1,문
 area221,git,Door List/4/LocName,0,-1,문
 area221,git,Door List/5/LocName,0,-1,문
 area221,git,Door List/6/LocName,0,-1,문
-area221,git,SoundList/0/LocName,0,67971,여자 들 을 굽히게
+area221,git,SoundList/0/LocName,0,67971,여자를 굽히는 여성들
 area221,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area221,git,WaypointList/0/MapNote,0,-1,야영지
 area221,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
@@ -17571,7 +17571,7 @@ area221,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area221,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
 area221,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area221,git,WaypointList/14/LocalizedName,0,-1,WP_PLOT
-area221,git,WaypointList/14/MapNote,0,-1,음반 제공자
+area221,git,WaypointList/14/MapNote,0,-1,플롯 제공자
 area221,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area221,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area221,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
@@ -17635,7 +17635,7 @@ area222,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area222,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area222,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area222,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area222,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area222,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area222,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area222,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area222,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
@@ -17734,7 +17734,7 @@ area223,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_WALL
 area223,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_WALL
 area223,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
 area223,git,WaypointList/4/LocalizedName,0,-1,WP_PLOT
-area223,git,WaypointList/4/MapNote,0,-1,음반 제공자
+area223,git,WaypointList/4/MapNote,0,-1,플롯 제공자
 area223,git,WaypointList/40/LocalizedName,0,-1,WP_DECOR_WALL
 area223,git,WaypointList/41/LocalizedName,0,-1,WP_DECOR_WALL
 area223,git,WaypointList/42/LocalizedName,0,-1,WP_DECOR_WALL
@@ -17820,7 +17820,7 @@ area224,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area224,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area224,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area224,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area224,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area224,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area225,git,Door List/0/LocName,0,5349,지역 문
 area225,git,Door List/1/LocName,0,5349,지역 문
 area225,git,Door List/10/LocName,0,-1,문
@@ -17847,7 +17847,7 @@ area225,git,WaypointList/17/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area225,git,WaypointList/18/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area225,git,WaypointList/19/LocalizedName,0,-1,WP_SECRET_DOOR
 area225,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area225,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area225,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area225,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area225,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area225,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -17912,7 +17912,7 @@ area226,git,Door List/1/LocName,0,5349,지역 문
 area226,git,Door List/2/LocName,0,-1,문
 area226,git,Door List/3/LocName,0,-1,문
 area226,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area226,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area226,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area226,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area226,git,WaypointList/1/MapNote,0,-1,야영지
 area226,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
@@ -18005,7 +18005,7 @@ area227,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area227,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area227,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area227,git,WaypointList/17/LocalizedName,0,-1,WP_PLOT
-area227,git,WaypointList/17/MapNote,0,-1,음반 제공자
+area227,git,WaypointList/17/MapNote,0,-1,플롯 제공자
 area227,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area227,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area227,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
@@ -18107,7 +18107,7 @@ area228,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area228,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area228,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area228,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area228,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area228,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area228,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area228,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area228,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
@@ -18177,7 +18177,7 @@ area229,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area229,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area229,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area229,git,WaypointList/17/LocalizedName,0,-1,WP_PLOT
-area229,git,WaypointList/17/MapNote,0,-1,음반 제공자
+area229,git,WaypointList/17/MapNote,0,-1,플롯 제공자
 area229,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area229,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area229,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
@@ -18247,7 +18247,7 @@ area229,git,WaypointList/9/LocalizedName,0,-1,WP_BOSS
 area230,git,Door List/0/LocName,0,5349,지역 문
 area230,git,Door List/1/LocName,0,5349,지역 문
 area230,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area230,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area230,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area230,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area230,git,WaypointList/1/MapNote,0,-1,야영지
 area230,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
@@ -18338,7 +18338,7 @@ area231,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area231,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area231,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area231,git,WaypointList/15/LocalizedName,0,-1,WP_PLOT
-area231,git,WaypointList/15/MapNote,0,-1,음반 제공자
+area231,git,WaypointList/15/MapNote,0,-1,플롯 제공자
 area231,git,WaypointList/16/LocalizedName,0,-1,WP_BOSS
 area231,git,WaypointList/17/LocalizedName,0,-1,WP_BOSS_GUARD
 area231,git,WaypointList/18/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -18426,12 +18426,12 @@ area232,git,Door List/6/LocName,0,-1,문
 area232,git,Door List/7/LocName,0,-1,문
 area232,git,Door List/8/LocName,0,-1,문
 area232,git,Door List/9/LocName,0,-1,문
-area232,git,SoundList/18/LocName,0,67971,여자 들 을 굽히게
+area232,git,SoundList/18/LocName,0,67971,여자를 굽히는 여성들
 area232,git,WaypointList/0/LocalizedName,0,-1,WP_SECRET_DOOR
 area232,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area232,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
 area232,git,WaypointList/11/LocalizedName,0,-1,WP_PLOT
-area232,git,WaypointList/11/MapNote,0,-1,음반 제공자
+area232,git,WaypointList/11/MapNote,0,-1,플롯 제공자
 area232,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS
 area232,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS_GUARD
 area232,git,WaypointList/14/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -18614,7 +18614,7 @@ area233,git,WaypointList/77/LocalizedName,0,-1,WP_DECOR_WALL
 area233,git,WaypointList/78/LocalizedName,0,-1,WP_DECOR_WALL
 area233,git,WaypointList/79/LocalizedName,0,-1,WP_DECOR_WALL
 area233,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area233,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area233,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area233,git,WaypointList/80/LocalizedName,0,-1,WP_DECOR_WALL
 area233,git,WaypointList/81/LocalizedName,0,-1,WP_DECOR_WALL
 area233,git,WaypointList/82/LocalizedName,0,-1,WP_DECOR_WALL
@@ -18663,7 +18663,7 @@ area234,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area234,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area234,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area234,git,WaypointList/19/LocalizedName,0,-1,WP_PLOT
-area234,git,WaypointList/19/MapNote,0,-1,음반 제공자
+area234,git,WaypointList/19/MapNote,0,-1,플롯 제공자
 area234,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area234,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area234,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
@@ -18873,7 +18873,7 @@ area235,git,WaypointList/87/LocalizedName,0,-1,WP_DECOR_WALL
 area235,git,WaypointList/88/LocalizedName,0,-1,WP_DECOR_WALL
 area235,git,WaypointList/89/LocalizedName,0,-1,WP_DECOR_WALL
 area235,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area235,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area235,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area235,git,WaypointList/90/LocalizedName,0,-1,WP_DECOR_WALL
 area235,git,WaypointList/91/LocalizedName,0,-1,WP_DECOR_WALL
 area235,git,WaypointList/92/LocalizedName,0,-1,WP_DECOR_WALL
@@ -18900,7 +18900,7 @@ area236,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR
 area236,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_TREASURE
 area236,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area236,git,WaypointList/14/LocalizedName,0,-1,WP_PLOT
-area236,git,WaypointList/14/MapNote,0,-1,음반 제공자
+area236,git,WaypointList/14/MapNote,0,-1,플롯 제공자
 area236,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area236,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area236,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
@@ -19019,7 +19019,7 @@ area237,git,WaypointList/59/LocalizedName,0,-1,WP_ENCOUNTER
 area237,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area237,git,WaypointList/60/LocalizedName,0,-1,WP_TREASURE
 area237,git,WaypointList/61/LocalizedName,0,-1,WP_PLOT
-area237,git,WaypointList/61/MapNote,0,-1,음반 제공자
+area237,git,WaypointList/61/MapNote,0,-1,플롯 제공자
 area237,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area237,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area237,git,WaypointList/9/LocalizedName,0,-1,WP_ENCOUNTER
@@ -19034,7 +19034,7 @@ area238,git,Door List/7/LocName,0,-1,문
 area238,git,Door List/8/LocName,0,-1,문
 area238,git,Door List/9/LocName,0,-1,문
 area238,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area238,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area238,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area238,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area238,git,WaypointList/1/MapNote,0,-1,야영지
 area238,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS
@@ -19102,9 +19102,9 @@ area239,git,Door List/6/LocName,0,-1,문
 area239,git,Door List/7/LocName,0,-1,문
 area239,git,Door List/8/LocName,0,-1,문
 area239,git,Door List/9/LocName,0,-1,문
-area239,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area239,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area239,git,Placeable List/0/LocName,0,84564,자갈
-area239,git,Placeable List/1/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area239,git,Placeable List/1/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area239,git,Placeable List/1/LocName,0,84564,자갈
 area239,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area239,git,WaypointList/0/MapNote,0,-1,야영지
@@ -19113,7 +19113,7 @@ area239,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
 area239,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area239,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area239,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area239,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area239,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area239,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area239,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area239,git,WaypointList/16/LocalizedName,0,-1,WP_BOSS
@@ -19282,7 +19282,7 @@ area240,git,WaypointList/87/LocalizedName,0,-1,WP_BOSS_GUARD
 area240,git,WaypointList/88/LocalizedName,0,-1,WP_DECOR_WALL
 area240,git,WaypointList/89/LocalizedName,0,-1,WP_DECOR_WALL
 area240,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area240,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area240,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area240,git,WaypointList/90/LocalizedName,0,-1,WP_DECOR_WALL
 area240,git,WaypointList/91/LocalizedName,0,-1,WP_DECOR_OPEN
 area240,git,WaypointList/92/LocalizedName,0,-1,WP_TREASURE
@@ -19309,7 +19309,7 @@ area241,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area241,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area241,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area241,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area241,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area241,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area241,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area241,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area241,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
@@ -19387,7 +19387,7 @@ area242,git,WaypointList/17/LocalizedName,0,-1,WP_SECRET_TREASURE
 area242,git,WaypointList/18/LocalizedName,0,-1,WP_SECRET
 area242,git,WaypointList/19/LocalizedName,0,-1,WP_SECRET_TREASURE
 area242,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area242,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area242,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area242,git,WaypointList/20/LocalizedName,0,-1,WP_SECRET_DOOR
 area242,git,WaypointList/21/LocalizedName,0,-1,WP_SECRET_DOOR
 area242,git,WaypointList/22/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -19449,7 +19449,7 @@ area243,git,Door List/6/LocName,0,-1,문
 area243,git,Door List/7/LocName,0,-1,문
 area243,git,Door List/8/LocName,0,-1,문
 area243,git,Door List/9/LocName,0,-1,문
-area243,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area243,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area243,git,Placeable List/0/LocName,0,84564,자갈
 area243,git,WaypointList/0/LocalizedName,0,-1,WP_SECRET
 area243,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
@@ -19464,7 +19464,7 @@ area243,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area243,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area243,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area243,git,WaypointList/19/LocalizedName,0,-1,WP_PLOT
-area243,git,WaypointList/19/MapNote,0,-1,음반 제공자
+area243,git,WaypointList/19/MapNote,0,-1,플롯 제공자
 area243,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area243,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area243,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
@@ -19538,7 +19538,7 @@ area244,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_DOOR
 area244,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR
 area244,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_TREASURE
 area244,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area244,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area244,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area244,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area244,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area244,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
@@ -19695,7 +19695,7 @@ area245,git,WaypointList/69/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area245,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area245,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area245,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area245,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area245,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area246,git,Door List/0/LocName,0,5349,지역 문
 area246,git,Door List/1/LocName,0,5349,지역 문
 area246,git,Door List/10/LocName,0,-1,문
@@ -19708,7 +19708,7 @@ area246,git,Door List/7/LocName,0,-1,문
 area246,git,Door List/8/LocName,0,-1,문
 area246,git,Door List/9/LocName,0,-1,문
 area246,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area246,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area246,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area246,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area246,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
 area246,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_TREASURE
@@ -19801,7 +19801,7 @@ area247,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area247,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area247,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area247,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area247,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area247,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area247,git,WaypointList/20/LocalizedName,0,-1,WP_ENCOUNTER
 area247,git,WaypointList/21/LocalizedName,0,-1,WP_TREASURE
 area247,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -19948,7 +19948,7 @@ area248,git,WaypointList/6/LocalizedName,0,-1,WP_ENCOUNTER
 area248,git,WaypointList/7/LocalizedName,0,-1,WP_ENCOUNTER
 area248,git,WaypointList/8/LocalizedName,0,-1,WP_ENCOUNTER
 area248,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area248,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area248,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area249,git,Door List/0/LocName,0,5349,지역 문
 area249,git,Door List/1/LocName,0,5349,지역 문
 area249,git,Door List/2/LocName,0,-1,문
@@ -19956,7 +19956,7 @@ area249,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area249,git,WaypointList/0/MapNote,0,-1,야영지
 area249,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area249,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area249,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area249,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area249,git,WaypointList/11/LocalizedName,0,-1,WP_ENCOUNTER
 area249,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area249,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS
@@ -20036,7 +20036,7 @@ area250,git,Door List/6/LocName,0,-1,문
 area250,git,Door List/7/LocName,0,-1,문
 area250,git,Door List/8/LocName,0,-1,문
 area250,git,Door List/9/LocName,0,-1,문
-area250,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area250,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area250,git,Placeable List/0/LocName,0,84564,자갈
 area250,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area250,git,WaypointList/0/MapNote,0,-1,야영지
@@ -20044,7 +20044,7 @@ area250,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area250,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area250,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area250,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area250,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area250,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area250,git,WaypointList/13/LocalizedName,0,-1,WP_TREASURE
 area250,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area250,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
@@ -20156,7 +20156,7 @@ area251,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area251,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area251,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area251,git,WaypointList/19/LocalizedName,0,-1,WP_PLOT
-area251,git,WaypointList/19/MapNote,0,-1,음반 제공자
+area251,git,WaypointList/19/MapNote,0,-1,플롯 제공자
 area251,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area251,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area251,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
@@ -20301,7 +20301,7 @@ area252,git,WaypointList/70/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area252,git,WaypointList/71/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area252,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area252,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area252,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area252,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area253,git,Door List/0/LocName,0,5349,지역 문
 area253,git,Door List/1/LocName,0,5349,지역 문
 area253,git,Door List/10/LocName,0,-1,문
@@ -20330,7 +20330,7 @@ area253,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area253,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area253,git,WaypointList/19/LocalizedName,0,-1,WP_ENCOUNTER
 area253,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area253,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area253,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area253,git,WaypointList/20/LocalizedName,0,-1,WP_DECOR_OPEN
 area253,git,WaypointList/21/LocalizedName,0,-1,WP_DECOR_OPEN
 area253,git,WaypointList/22/LocalizedName,0,-1,WP_DECOR_OPEN
@@ -20391,7 +20391,7 @@ area254,git,Door List/1/LocName,0,5349,지역 문
 area254,git,Door List/2/LocName,0,5349,지역 문
 area254,git,Door List/3/LocName,0,-1,문
 area254,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area254,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area254,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area254,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area254,git,WaypointList/1/MapNote,0,-1,야영지
 area254,git,WaypointList/10/LocalizedName,0,-1,WP_TREASURE
@@ -20476,7 +20476,7 @@ area255,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS
 area255,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
 area255,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS_GUARD
 area255,git,WaypointList/14/LocalizedName,0,-1,WP_PLOT
-area255,git,WaypointList/14/MapNote,0,-1,음반 제공자
+area255,git,WaypointList/14/MapNote,0,-1,플롯 제공자
 area255,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area255,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area255,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
@@ -20651,7 +20651,7 @@ area256,git,WaypointList/78/LocalizedName,0,-1,WP_ENCOUNTER
 area256,git,WaypointList/79/LocalizedName,0,-1,WP_TREASURE
 area256,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area256,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area256,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area256,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area257,git,Door List/0/LocName,0,5349,지역 문
 area257,git,Door List/1/LocName,0,5349,내려가는 계단
 area257,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
@@ -20711,7 +20711,7 @@ area257,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area257,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area257,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area257,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area257,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area257,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area258,git,Door List/1/LocName,0,5349,지역 문
 area258,git,Door List/10/LocName,0,-1,문
 area258,git,Door List/11/LocName,0,5349,내려가는 계단
@@ -20737,7 +20737,7 @@ area258,git,WaypointList/17/LocalizedName,0,-1,WP_DECOR_OPEN
 area258,git,WaypointList/18/LocalizedName,0,-1,WP_DECOR_OPEN
 area258,git,WaypointList/19/LocalizedName,0,-1,WP_DECOR_OPEN
 area258,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area258,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area258,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area258,git,WaypointList/20/LocalizedName,0,-1,WP_DECOR_OPEN
 area258,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area258,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -20800,7 +20800,7 @@ area259,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area259,git,WaypointList/18/LocalizedName,0,-1,WP_TRAP
 area259,git,WaypointList/19/LocalizedName,0,-1,WP_TRAP
 area259,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area259,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area259,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area259,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area259,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area259,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -20878,7 +20878,7 @@ area260,git,Door List/6/LocName,0,-1,문
 area260,git,Door List/7/LocName,0,-1,문
 area260,git,Door List/8/LocName,0,-1,문
 area260,git,Door List/9/LocName,0,-1,문
-area260,git,SoundList/1/LocName,0,67971,여자 들 을 굽히게
+area260,git,SoundList/1/LocName,0,67971,여자를 굽히는 여성들
 area260,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area260,git,WaypointList/0/MapNote,0,-1,야영지
 area260,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
@@ -20903,7 +20903,7 @@ area260,git,WaypointList/17/LocalizedName,0,-1,WP_SECRET_TREASURE
 area260,git,WaypointList/18/LocalizedName,0,-1,WP_SECRET
 area260,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area260,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area260,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area260,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area260,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area260,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area260,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -21002,7 +21002,7 @@ area261,git,Door List/7/LocName,0,-1,문
 area261,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area261,git,WaypointList/0/MapNote,0,-1,야영지
 area261,git,WaypointList/1/LocalizedName,0,-1,WP_PLOT
-area261,git,WaypointList/1/MapNote,0,-1,음반 제공자
+area261,git,WaypointList/1/MapNote,0,-1,플롯 제공자
 area261,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
 area261,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET
 area261,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_TREASURE
@@ -21092,7 +21092,7 @@ area262,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area262,git,WaypointList/12/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area262,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area262,git,WaypointList/14/LocalizedName,0,-1,WP_PLOT
-area262,git,WaypointList/14/MapNote,0,-1,음반 제공자
+area262,git,WaypointList/14/MapNote,0,-1,플롯 제공자
 area262,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area262,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
 area262,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
@@ -21158,7 +21158,7 @@ area263,git,Door List/6/LocName,0,-1,문
 area263,git,Door List/7/LocName,0,-1,문
 area263,git,Door List/8/LocName,0,-1,문
 area263,git,Door List/9/LocName,0,-1,문
-area263,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area263,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area263,git,Placeable List/0/LocName,0,84564,자갈
 area263,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area263,git,WaypointList/0/MapNote,0,-1,야영지
@@ -21218,7 +21218,7 @@ area263,git,WaypointList/57/LocalizedName,0,-1,WP_DECOR_WALL
 area263,git,WaypointList/58/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area263,git,WaypointList/59/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area263,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area263,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area263,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area263,git,WaypointList/60/LocalizedName,0,-1,WP_DECOR_WALL
 area263,git,WaypointList/61/LocalizedName,0,-1,WP_DECOR_WALL
 area263,git,WaypointList/62/LocalizedName,0,-1,WP_ENCOUNTER
@@ -21293,7 +21293,7 @@ area264,git,WaypointList/6/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area264,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area264,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area264,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area264,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area264,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area265,git,Door List/0/LocName,0,5349,지역 문
 area265,git,Door List/1/LocName,0,5349,지역 문
 area265,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
@@ -21349,7 +21349,7 @@ area265,git,WaypointList/52/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area265,git,WaypointList/6/LocalizedName,0,-1,WP_ENCOUNTER
 area265,git,WaypointList/7/LocalizedName,0,-1,WP_TREASURE
 area265,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area265,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area265,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area265,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET_TREASURE
 area266,git,Door List/10/LocName,0,5349,지역 문
 area266,git,Door List/11/LocName,0,-1,문
@@ -21363,9 +21363,9 @@ area266,git,Door List/18/LocName,0,-1,문
 area266,git,Door List/19/LocName,0,-1,문
 area266,git,Door List/20/LocName,0,-1,문
 area266,git,Door List/9/LocName,0,5349,지역 문
-area266,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area266,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area266,git,Placeable List/0/LocName,0,84564,자갈
-area266,git,Placeable List/1/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area266,git,Placeable List/1/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area266,git,Placeable List/1/LocName,0,84564,자갈
 area266,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area266,git,WaypointList/0/MapNote,0,-1,야영지
@@ -21392,7 +21392,7 @@ area266,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_OPEN
 area266,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_OPEN
 area266,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_OPEN
 area266,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area266,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area266,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area266,git,WaypointList/30/LocalizedName,0,-1,WP_TREASURE
 area266,git,WaypointList/31/LocalizedName,0,-1,WP_TREASURE
 area266,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_WALL
@@ -21442,7 +21442,7 @@ area267,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area267,git,WaypointList/12/LocalizedName,0,-1,WP_ENCOUNTER
 area267,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area267,git,WaypointList/14/LocalizedName,0,-1,WP_PLOT
-area267,git,WaypointList/14/MapNote,0,-1,음반 제공자
+area267,git,WaypointList/14/MapNote,0,-1,플롯 제공자
 area267,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area267,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area267,git,WaypointList/17/LocalizedName,0,-1,WP_TRAP
@@ -21501,7 +21501,7 @@ area268,git,Door List/5/LocName,0,-1,문
 area268,git,Door List/6/LocName,0,-1,문
 area268,git,Door List/7/LocName,0,-1,문
 area268,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area268,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area268,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area268,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area268,git,WaypointList/1/MapNote,0,-1,야영지
 area268,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
@@ -21585,7 +21585,7 @@ area269,git,WaypointList/0/MapNote,0,-1,야영지
 area269,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area269,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
 area269,git,WaypointList/11/LocalizedName,0,-1,WP_PLOT
-area269,git,WaypointList/11/MapNote,0,-1,음반 제공자
+area269,git,WaypointList/11/MapNote,0,-1,플롯 제공자
 area269,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area269,git,WaypointList/13/LocalizedName,0,-1,WP_ENCOUNTER
 area269,git,WaypointList/14/LocalizedName,0,-1,WP_BOSS
@@ -21688,7 +21688,7 @@ area270,git,Door List/21/LocName,0,-1,문
 area270,git,Door List/8/LocName,0,5349,지역 문
 area270,git,Door List/9/LocName,0,5349,지역 문
 area270,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area270,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area270,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area270,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area270,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_TREASURE
 area270,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_DOOR
@@ -21861,7 +21861,7 @@ area271,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET
 area271,git,WaypointList/80/LocalizedName,0,-1,WP_TREASURE
 area271,git,WaypointList/81/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area271,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area271,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area271,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area272,git,Door List/0/LocName,0,5349,지역 문
 area272,git,Door List/1/LocName,0,5349,지역 문
 area272,git,Door List/2/LocName,0,-1,문
@@ -21881,7 +21881,7 @@ area272,git,WaypointList/17/LocalizedName,0,-1,WP_TREASURE
 area272,git,WaypointList/18/LocalizedName,0,-1,WP_ENCOUNTER
 area272,git,WaypointList/19/LocalizedName,0,-1,WP_TREASURE
 area272,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area272,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area272,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area272,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area272,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area272,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -21957,7 +21957,7 @@ area273,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area273,git,WaypointList/0/MapNote,0,-1,야영지
 area273,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area273,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area273,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area273,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area273,git,WaypointList/11/LocalizedName,0,-1,WP_TREASURE
 area273,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS_GUARD
 area273,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -22054,7 +22054,7 @@ area274,git,WaypointList/17/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area274,git,WaypointList/18/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area274,git,WaypointList/19/LocalizedName,0,-1,WP_SECRET_DOOR
 area274,git,WaypointList/2/LocalizedName,0,-1,WP_PLOT
-area274,git,WaypointList/2/MapNote,0,-1,음반 제공자
+area274,git,WaypointList/2/MapNote,0,-1,플롯 제공자
 area274,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area274,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
 area274,git,WaypointList/22/LocalizedName,0,-1,WP_TRAP
@@ -22115,9 +22115,9 @@ area275,git,Door List/0/LocName,0,5349,지역 문
 area275,git,Door List/1/LocName,0,-1,문
 area275,git,Door List/2/LocName,0,-1,문
 area275,git,Door List/3/LocName,0,-1,문
-area275,git,SoundList/12/LocName,0,67971,여자 들 을 굽히게
+area275,git,SoundList/12/LocName,0,67971,여자를 굽히는 여성들
 area275,git,WaypointList/0/LocalizedName,0,-1,WP_PLOT
-area275,git,WaypointList/0/MapNote,0,-1,음반 제공자
+area275,git,WaypointList/0/MapNote,0,-1,플롯 제공자
 area275,git,WaypointList/1/LocalizedName,0,-1,WP_PUZZLE
 area275,git,WaypointList/1/MapNote,0,-1,야영지
 area275,git,WaypointList/10/LocalizedName,0,-1,WP_ENCOUNTER
@@ -22279,7 +22279,7 @@ area276,git,WaypointList/61/LocalizedName,0,-1,WP_DECOR_WALL
 area276,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area276,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR
 area276,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area276,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area276,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area277,git,Door List/0/LocName,0,5349,지역 문
 area277,git,Door List/1/LocName,0,5349,지역 문
 area277,git,Door List/10/LocName,0,-1,문
@@ -22367,7 +22367,7 @@ area277,git,WaypointList/73/LocalizedName,0,-1,WP_ENCOUNTER
 area277,git,WaypointList/74/LocalizedName,0,-1,WP_TREASURE
 area277,git,WaypointList/75/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area277,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area277,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area277,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area277,git,WaypointList/9/LocalizedName,0,-1,WP_TREASURE
 area278,git,Door List/0/LocName,0,5349,지역 문
 area278,git,Door List/1/LocName,0,5349,지역 문
@@ -22462,7 +22462,7 @@ area278,git,WaypointList/78/LocalizedName,0,-1,WP_ENCOUNTER
 area278,git,WaypointList/79/LocalizedName,0,-1,WP_TREASURE
 area278,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area278,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area278,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area278,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area279,git,Door List/0/LocName,0,5349,지역 문
 area279,git,Door List/1/LocName,0,5349,지역 문
 area279,git,Door List/2/LocName,0,-1,문
@@ -22486,7 +22486,7 @@ area279,git,WaypointList/16/LocalizedName,0,-1,WP_TREASURE
 area279,git,WaypointList/17/LocalizedName,0,-1,WP_ENCOUNTER
 area279,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area279,git,WaypointList/19/LocalizedName,0,-1,WP_PLOT
-area279,git,WaypointList/19/MapNote,0,-1,음반 제공자
+area279,git,WaypointList/19/MapNote,0,-1,플롯 제공자
 area279,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET
 area279,git,WaypointList/20/LocalizedName,0,-1,WP_TRAP
 area279,git,WaypointList/21/LocalizedName,0,-1,WP_TRAP
@@ -22615,7 +22615,7 @@ area280,git,WaypointList/69/LocalizedName,0,-1,WP_TREASURE
 area280,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area280,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
 area280,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area280,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area280,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area281,git,Door List/0/LocName,0,5349,지역 문
 area281,git,Door List/1/LocName,0,-1,문
 area281,git,Door List/2/LocName,0,-1,문
@@ -22651,7 +22651,7 @@ area281,git,WaypointList/27/LocalizedName,0,-1,WP_DECOR_OPEN
 area281,git,WaypointList/28/LocalizedName,0,-1,WP_DECOR_OPEN
 area281,git,WaypointList/29/LocalizedName,0,-1,WP_DECOR_WALL
 area281,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area281,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area281,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area281,git,WaypointList/30/LocalizedName,0,-1,WP_DECOR_WALL
 area281,git,WaypointList/31/LocalizedName,0,-1,WP_DECOR_WALL
 area281,git,WaypointList/32/LocalizedName,0,-1,WP_DECOR_WALL
@@ -22766,7 +22766,7 @@ area282,git,WaypointList/66/LocalizedName,0,-1,WP_ENCOUNTER
 area282,git,WaypointList/67/LocalizedName,0,-1,WP_TREASURE
 area282,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR
 area282,git,WaypointList/8/LocalizedName,0,-1,WP_PLOT
-area282,git,WaypointList/8/MapNote,0,-1,음반 제공자
+area282,git,WaypointList/8/MapNote,0,-1,플롯 제공자
 area282,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET_DOOR
 area283,git,Door List/1/LocName,0,5349,지역 문
 area283,git,Door List/10/LocName,0,-1,문
@@ -22784,7 +22784,7 @@ area283,git,Door List/6/LocName,0,-1,문
 area283,git,Door List/7/LocName,0,-1,문
 area283,git,Door List/8/LocName,0,-1,문
 area283,git,Door List/9/LocName,0,-1,문
-area283,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area283,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area283,git,Placeable List/0/LocName,0,84564,자갈
 area283,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area283,git,WaypointList/0/MapNote,0,-1,야영지
@@ -22793,7 +22793,7 @@ area283,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area283,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area283,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area283,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area283,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area283,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area283,git,WaypointList/14/LocalizedName,0,-1,WP_TREASURE
 area283,git,WaypointList/15/LocalizedName,0,-1,WP_ENCOUNTER
 area283,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
@@ -22868,9 +22868,9 @@ area284,git,Door List/6/LocName,0,-1,문
 area284,git,Door List/7/LocName,0,-1,문
 area284,git,Door List/8/LocName,0,-1,문
 area284,git,Door List/9/LocName,0,-1,문
-area284,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area284,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area284,git,Placeable List/0/LocName,0,84564,자갈
-area284,git,SoundList/11/LocName,0,67971,여자 들 을 굽히게
+area284,git,SoundList/11/LocName,0,67971,여자를 굽히는 여성들
 area284,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area284,git,WaypointList/0/MapNote,0,-1,야영지
 area284,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
@@ -22878,7 +22878,7 @@ area284,git,WaypointList/10/LocalizedName,0,-1,WP_BOSS_GUARD
 area284,git,WaypointList/11/LocalizedName,0,-1,WP_BOSS_GUARD
 area284,git,WaypointList/12/LocalizedName,0,-1,WP_TREASURE
 area284,git,WaypointList/13/LocalizedName,0,-1,WP_PLOT
-area284,git,WaypointList/13/MapNote,0,-1,음반 제공자
+area284,git,WaypointList/13/MapNote,0,-1,플롯 제공자
 area284,git,WaypointList/14/LocalizedName,0,-1,WP_ENCOUNTER
 area284,git,WaypointList/15/LocalizedName,0,-1,WP_TREASURE
 area284,git,WaypointList/16/LocalizedName,0,-1,WP_ENCOUNTER
@@ -23049,7 +23049,7 @@ area285,git,WaypointList/84/LocalizedName,0,-1,WP_TREASURE
 area285,git,WaypointList/85/LocalizedName,0,-1,WP_TREASURE
 area285,git,WaypointList/86/LocalizedName,0,-1,WP_TREASURE
 area285,git,WaypointList/9/LocalizedName,0,-1,WP_PLOT
-area285,git,WaypointList/9/MapNote,0,-1,음반 제공자
+area285,git,WaypointList/9/MapNote,0,-1,플롯 제공자
 area286,git,Door List/0/LocName,0,5349,지역 문
 area286,git,Door List/1/LocName,0,5349,지역 문
 area286,git,Door List/10/LocName,0,-1,문
@@ -23111,7 +23111,7 @@ area286,git,WaypointList/27/LocalizedName,0,-1,WP_ENCOUNTER
 area286,git,WaypointList/28/LocalizedName,0,-1,WP_ENCOUNTER
 area286,git,WaypointList/29/LocalizedName,0,-1,WP_TREASURE
 area286,git,WaypointList/3/LocalizedName,0,-1,WP_PLOT
-area286,git,WaypointList/3/MapNote,0,-1,음반 제공자
+area286,git,WaypointList/3/MapNote,0,-1,플롯 제공자
 area286,git,WaypointList/30/LocalizedName,0,-1,WP_TREASURE
 area286,git,WaypointList/31/LocalizedName,0,-1,WP_TREASURE
 area286,git,WaypointList/32/LocalizedName,0,-1,WP_TRAP
@@ -23212,7 +23212,7 @@ area287,git,WaypointList/1/LocalizedName,0,-1,WP_BOSS_GUARD
 area287,git,WaypointList/10/LocalizedName,0,-1,WP_SECRET_ENCOUNTER
 area287,git,WaypointList/11/LocalizedName,0,-1,WP_SECRET_TREASURE
 area287,git,WaypointList/12/LocalizedName,0,-1,WP_PLOT
-area287,git,WaypointList/12/MapNote,0,-1,음반 제공자
+area287,git,WaypointList/12/MapNote,0,-1,플롯 제공자
 area287,git,WaypointList/13/LocalizedName,0,-1,WP_SECRET_DOOR
 area287,git,WaypointList/14/LocalizedName,0,-1,WP_SECRET_DOOR
 area287,git,WaypointList/15/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT
@@ -23317,7 +23317,7 @@ area288,git,WaypointList/100/LocalizedName,0,-1,WP_DECOR_WALL
 area288,git,WaypointList/101/LocalizedName,0,-1,WP_DECOR_WALL
 area288,git,WaypointList/102/LocalizedName,0,-1,WP_DECOR_WALL
 area288,git,WaypointList/11/LocalizedName,0,-1,WP_PLOT
-area288,git,WaypointList/11/MapNote,0,-1,음반 제공자
+area288,git,WaypointList/11/MapNote,0,-1,플롯 제공자
 area288,git,WaypointList/12/LocalizedName,0,-1,WP_BOSS
 area288,git,WaypointList/13/LocalizedName,0,-1,WP_BOSS_GUARD
 area288,git,WaypointList/14/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -23589,7 +23589,7 @@ area290,git,WaypointList/18/LocalizedName,0,-1,WP_TREASURE
 area290,git,WaypointList/19/LocalizedName,0,-1,WP_ENCOUNTER
 area290,git,WaypointList/2/LocalizedName,0,-1,WP_SECRET_DOOR
 area290,git,WaypointList/20/LocalizedName,0,-1,WP_PLOT
-area290,git,WaypointList/20/MapNote,0,-1,음반 제공자
+area290,git,WaypointList/20/MapNote,0,-1,플롯 제공자
 area290,git,WaypointList/21/LocalizedName,0,-1,WP_TREASURE
 area290,git,WaypointList/22/LocalizedName,0,-1,WP_ENCOUNTER
 area290,git,WaypointList/23/LocalizedName,0,-1,WP_TREASURE
@@ -23739,7 +23739,7 @@ area291,git,WaypointList/57/LocalizedName,0,-1,WP_TRAP
 area291,git,WaypointList/58/LocalizedName,0,-1,WP_TRAP
 area291,git,WaypointList/59/LocalizedName,0,-1,WP_TRAP
 area291,git,WaypointList/6/LocalizedName,0,-1,WP_PLOT
-area291,git,WaypointList/6/MapNote,0,-1,음반 제공자
+area291,git,WaypointList/6/MapNote,0,-1,플롯 제공자
 area291,git,WaypointList/60/LocalizedName,0,-1,WP_DECOR_WALL
 area291,git,WaypointList/61/LocalizedName,0,-1,WP_DECOR_WALL
 area291,git,WaypointList/62/LocalizedName,0,-1,WP_DECOR_WALL
@@ -23799,7 +23799,7 @@ area292,git,WaypointList/25/LocalizedName,0,-1,WP_TREASURE
 area292,git,WaypointList/26/LocalizedName,0,-1,WP_TREASURE
 area292,git,WaypointList/27/LocalizedName,0,-1,WP_TREASURE
 area292,git,WaypointList/28/LocalizedName,0,-1,WP_PLOT
-area292,git,WaypointList/28/MapNote,0,-1,음반 제공자
+area292,git,WaypointList/28/MapNote,0,-1,플롯 제공자
 area292,git,WaypointList/29/LocalizedName,0,-1,WP_ENCOUNTER
 area292,git,WaypointList/3/LocalizedName,0,-1,WP_SECRET_TREASURE
 area292,git,WaypointList/30/LocalizedName,0,-1,WP_TREASURE
@@ -23947,7 +23947,7 @@ area293,git,WaypointList/25/LocalizedName,0,-1,WP_TREASURE
 area293,git,WaypointList/26/LocalizedName,0,-1,WP_ENCOUNTER
 area293,git,WaypointList/27/LocalizedName,0,-1,WP_TREASURE
 area293,git,WaypointList/28/LocalizedName,0,-1,WP_PLOT
-area293,git,WaypointList/28/MapNote,0,-1,음반 제공자
+area293,git,WaypointList/28/MapNote,0,-1,플롯 제공자
 area293,git,WaypointList/29/LocalizedName,0,-1,WP_ENCOUNTER
 area293,git,WaypointList/3/LocalizedName,0,-1,WP_SECRET_TREASURE
 area293,git,WaypointList/30/LocalizedName,0,-1,WP_ENCOUNTER
@@ -24049,7 +24049,7 @@ area294,git,Door List/6/LocName,0,-1,문
 area294,git,Door List/7/LocName,0,-1,문
 area294,git,Door List/8/LocName,0,-1,문
 area294,git,Door List/9/LocName,0,-1,문
-area294,git,Placeable List/0/Description,0,84577,이 동굴은 무너져 내렸습니다.
+area294,git,Placeable List/0/Description,0,84577,이 구간의 동굴이 무너져 내렸습니다.
 area294,git,Placeable List/0/LocName,0,84564,자갈
 area294,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area294,git,WaypointList/0/MapNote,0,-1,야영지
@@ -24070,7 +24070,7 @@ area294,git,WaypointList/110/LocalizedName,0,-1,WP_DECOR_WALL
 area294,git,WaypointList/12/LocalizedName,0,-1,WP_DECOR_WALL
 area294,git,WaypointList/13/LocalizedName,0,-1,WP_DECOR_WALL
 area294,git,WaypointList/14/LocalizedName,0,-1,WP_PLOT
-area294,git,WaypointList/14/MapNote,0,-1,음반 제공자
+area294,git,WaypointList/14/MapNote,0,-1,플롯 제공자
 area294,git,WaypointList/15/LocalizedName,0,-1,WP_BOSS
 area294,git,WaypointList/16/LocalizedName,0,-1,WP_BOSS_GUARD
 area294,git,WaypointList/17/LocalizedName,0,-1,WP_BOSS_GUARD
@@ -24202,7 +24202,7 @@ area295,git,WaypointList/21/LocalizedName,0,-1,WP_ENCOUNTER
 area295,git,WaypointList/22/LocalizedName,0,-1,WP_TREASURE
 area295,git,WaypointList/23/LocalizedName,0,-1,WP_TREASURE
 area295,git,WaypointList/24/LocalizedName,0,-1,WP_PLOT
-area295,git,WaypointList/24/MapNote,0,-1,음반 제공자
+area295,git,WaypointList/24/MapNote,0,-1,플롯 제공자
 area295,git,WaypointList/25/LocalizedName,0,-1,WP_ENCOUNTER
 area295,git,WaypointList/26/LocalizedName,0,-1,WP_ENCOUNTER
 area295,git,WaypointList/27/LocalizedName,0,-1,WP_TREASURE
@@ -24468,7 +24468,7 @@ area297,git,WaypointList/33/LocalizedName,0,-1,WP_ENCOUNTER
 area297,git,WaypointList/34/LocalizedName,0,-1,WP_TREASURE
 area297,git,WaypointList/35/LocalizedName,0,-1,WP_TREASURE
 area297,git,WaypointList/36/LocalizedName,0,-1,WP_PLOT
-area297,git,WaypointList/36/MapNote,0,-1,음반 제공자
+area297,git,WaypointList/36/MapNote,0,-1,플롯 제공자
 area297,git,WaypointList/37/LocalizedName,0,-1,WP_DECOR_OPEN
 area297,git,WaypointList/38/LocalizedName,0,-1,WP_DECOR_OPEN
 area297,git,WaypointList/39/LocalizedName,0,-1,WP_DECOR_WALL
@@ -24542,7 +24542,7 @@ area298,git,WaypointList/0/LocalizedName,0,-1,WP_PUZZLE
 area298,git,WaypointList/0/MapNote,0,-1,야영지
 area298,git,WaypointList/1/LocalizedName,0,-1,WP_SECRET
 area298,git,WaypointList/10/LocalizedName,0,-1,WP_PLOT
-area298,git,WaypointList/10/MapNote,0,-1,음반 제공자
+area298,git,WaypointList/10/MapNote,0,-1,플롯 제공자
 area298,git,WaypointList/100/LocalizedName,0,-1,WP_DECOR_WALL
 area298,git,WaypointList/101/LocalizedName,0,-1,WP_DECOR_WALL
 area298,git,WaypointList/102/LocalizedName,0,-1,WP_DECOR_WALL
@@ -24657,7 +24657,7 @@ cavernlair,git,WaypointList/2/LocalizedName,0,-1,WP_BOSS_GUARD
 cavernlair,git,WaypointList/3/LocalizedName,0,-1,WP_BOSS_GUARD
 cavernlair,git,WaypointList/4/LocalizedName,0,-1,WP_BOSS_GUARD
 cavernlair,git,WaypointList/5/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-cavernlair,git,WaypointList/5/MapNote,0,-1,던전 입구로 통신
+cavernlair,git,WaypointList/5/MapNote,0,-1,던전 입구로 순간이동
 dragon,git,Door List/0/LocName,0,5349,지역 문
 dragon,git,Door List/1/LocName,0,5349,지역 문
 dragon,git,Door List/2/LocName,0,5349,지역 문
@@ -24666,17 +24666,17 @@ dungeonentrance,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,13850,엔�
 dungeonentrance,git,Creature List/0/FirstName,0,-1,에리카
 dungeonentrance,git,Creature List/1/Description,0,12348,이건 그냥 늙은 고양이야.
 dungeonentrance,git,Creature List/1/FirstName,0,5991,
-dungeonentrance,git,Creature List/2/Description,0,12348,"스킨클스는 애정을 좋아하는 고양이이고, 너한테 친절하면 어디든 따라갈 거야."
+dungeonentrance,git,Creature List/2/Description,0,12348,"스킨클스는 애정을 좋아하는 고양이이고, 너를 친절하게 대하면 어디든 따라갈 거야."
 dungeonentrance,git,Creature List/2/FirstName,0,5991,
-dungeonentrance,git,Creature List/3/Description,0,-1,"이 이상한 작은 소년은 혼란스럽고, 겁에 질리고 동시에 자부심을 가진 것처럼 보입니다."
-dungeonentrance,git,Creature List/3/FirstName,0,12634,작은 티미
+dungeonentrance,git,Creature List/3/Description,0,-1,이 이상한 작은 소년은 혼란스럽고 두려움에 떨면서도 자부심 가득한 것처럼 보인다.
+dungeonentrance,git,Creature List/3/FirstName,0,12634,작은 팀미
 dungeonentrance,git,Door List/0/LocName,0,-1,문
 dungeonentrance,git,Door List/2/LocName,0,5349,시험2
 dungeonentrance,git,Door List/3/LocName,0,-1,문
 dungeonentrance,git,Door List/4/LocName,0,5349,던전 입구
-dungeonentrance,git,Placeable List/30/Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
+dungeonentrance,git,Placeable List/30/Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 dungeonentrance,git,Placeable List/30/LocName,0,5800,카탈로그
-dungeonentrance,git,SoundList/0/LocName,0,67942,"스토리텔러, 장면 1, 선 1"
+dungeonentrance,git,SoundList/0/LocName,0,67942,"스토리텔러, 장면 1, 라인 1"
 dungeonentrance,git,SoundList/1/LocName,0,67942,"스토리텔러, 장면 1, 라인 2"
 dungeonentrance,git,SoundList/2/LocName,0,67942,"스토리텔러, 장면 1, 줄 3"
 dungeonentrance,git,SoundList/3/LocName,0,67942,"스토리텔러, 장면 1, 라인 4"
@@ -24712,7 +24712,7 @@ dungeonlair,git,WaypointList/4/LocalizedName,0,-1,WP_BOSS_GUARD
 dungeonlair,git,WaypointList/5/LocalizedName,0,-1,WP_BOSS_GUARD
 dungeonlair,git,WaypointList/6/LocalizedName,0,-1,WP_BOSS_GUARD
 dungeonlair,git,WaypointList/7/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-dungeonlair,git,WaypointList/7/MapNote,0,-1,던전 입구로 통신
+dungeonlair,git,WaypointList/7/MapNote,0,-1,던전 입구로 순간이동
 emergencydown,git,Door List/0/LocName,0,5349,지역 문
 emergencydown,git,Door List/1/LocName,0,5349,지역 문
 emergencydown,git,Door List/2/LocName,0,5349,지역 문
@@ -24729,26 +24729,26 @@ gzhorb,git,Door List/0/LocName,0,5349,지역 문
 gzhorb,git,Door List/1/LocName,0,5349,지역 문
 gzhorb,git,Door List/2/LocName,0,5349,지역 문
 gzhorb,git,Door List/3/LocName,0,5349,지역 문
-gzhorb,git,Placeable List/113/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/114/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/115/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/116/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/117/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/118/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/119/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/120/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/121/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/122/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/123/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/124/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/125/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/126/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/127/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,Placeable List/128/Description,0,66885,"땅 에서 크고 단단 한 화석 조각 이 솟아 나는데, 그 돌 은 동굴 의 천장 의 일부 를 지지 하는 것 같다."
-gzhorb,git,SoundList/0/LocName,0,67942,G'Zhorb-Rocks1
-gzhorb,git,SoundList/1/LocName,0,67942,'지조브-록스' 2
+gzhorb,git,Placeable List/113/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/114/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/115/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/116/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/117/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/118/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/119/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/120/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/121/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/122/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/123/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/124/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/125/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/126/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/127/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,Placeable List/128/Description,0,66885,"땅에서 큰 단단한 바위가 솟아나며, 그 돌은 동굴 천장의 일부를 지지하고 있는 것 같다."
+gzhorb,git,SoundList/0/LocName,0,67942,G'조르브-로크스1
+gzhorb,git,SoundList/1/LocName,0,67942,'지조브-록스2'
 gzhorb,git,WaypointList/48/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-gzhorb,git,WaypointList/48/MapNote,0,-1,던전 입구로 통신
+gzhorb,git,WaypointList/48/MapNote,0,-1,던전 입구로 순간이동
 gzhorb,git,WaypointList/53/LocalizedName,0,-1,cs_camera_pos_1
 gzhorb,git,WaypointList/54/LocalizedName,0,-1,cs_camera_pos_2
 gzhorb,git,WaypointList/60/LocalizedName,0,-1,cs_camera_pos_3
@@ -24758,7 +24758,7 @@ hagatha,git,Door List/1/LocName,0,5349,지역 문
 hagatha,git,Door List/2/LocName,0,5349,지역 문
 hagatha,git,Door List/3/LocName,0,5349,지역 문
 hagatha,git,SoundList/0/LocName,0,67942,하가타-토테임브레이크
-hagatha,git,SoundList/1/LocName,0,67942,하가타-스펠
+hagatha,git,SoundList/1/LocName,0,67942,하가타-마법
 hagatha,git,WaypointList/28/LocalizedName,0,-1,cs_camera_pos_1
 hagatha,git,WaypointList/29/LocalizedName,0,-1,cs_camera_pos_2
 hagatha,git,WaypointList/31/LocalizedName,0,-1,cs_camera_pos_5
@@ -24766,17 +24766,17 @@ hagatha,git,WaypointList/32/LocalizedName,0,-1,cs_camera_pos_4
 hagatha,git,WaypointList/33/LocalizedName,0,-1,cs_camera_pos_3
 hagatha,git,WaypointList/34/LocalizedName,0,-1,cs_camera_pos_6
 hagatha,git,WaypointList/5/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-hagatha,git,WaypointList/5/MapNote,0,-1,던전 입구로 통신
+hagatha,git,WaypointList/5/MapNote,0,-1,던전 입구로 순간이동
 halaster,git,Door List/0/LocName,0,5349,지역 문
 halaster,git,Door List/1/LocName,0,5349,지역 문
 halaster,git,Door List/2/LocName,0,5349,지역 문
 halaster,git,Door List/3/LocName,0,5349,지역 문
-halaster,git,SoundList/0/LocName,0,67942,할래스터 웃음 1
-halaster,git,SoundList/1/LocName,0,67942,하러스터 웃음 2
-halaster,git,SoundList/2/LocName,0,67942,하러스터 웃음 3
-halaster,git,SoundList/3/LocName,0,67942,"하러스터 항복, 라인 1"
-halaster,git,SoundList/4/LocName,0,67942,"하러스터 항복, 라인 2"
-halaster,git,SoundList/5/LocName,0,67942,"하러스터 항복, 라인 3"
+halaster,git,SoundList/0/LocName,0,67942,할라스터가 웃으며 1
+halaster,git,SoundList/1/LocName,0,67942,할라스터의 웃음 2
+halaster,git,SoundList/2/LocName,0,67942,할라스터의 웃음 3
+halaster,git,SoundList/3/LocName,0,67942,"할라스터가 항복, 라인 1"
+halaster,git,SoundList/4/LocName,0,67942,"할라스터가 항복했음, 라인 2"
+halaster,git,SoundList/5/LocName,0,67942,"할라스터가 항복, 라인 3"
 halaster,git,WaypointList/19/LocalizedName,0,-1,cs_camera_pos_3
 halaster,git,WaypointList/20/LocalizedName,0,-1,cs_camera_pos_2
 halaster,git,WaypointList/21/LocalizedName,0,-1,cs_camera_pos_4
@@ -24790,33 +24790,33 @@ harat,git,Door List/0/LocName,0,5349,지역 문
 harat,git,Door List/1/LocName,0,5349,지역 문
 harat,git,Door List/2/LocName,0,5349,지역 문
 harat,git,Door List/3/LocName,0,5349,지역 문
-harat,git,Placeable List/10/LocName,0,5800,연쇄 원천 13
-harat,git,Placeable List/11/LocName,0,5800,연쇄 원천 14
-harat,git,Placeable List/12/LocName,0,5800,체인 소스 3
-harat,git,Placeable List/13/LocName,0,5800,체인 소스 4
-harat,git,Placeable List/14/LocName,0,5800,체인 소스 8
-harat,git,Placeable List/15/LocName,0,5800,체인 소스 7
-harat,git,Placeable List/16/LocName,0,5800,체인 소스 11
-harat,git,Placeable List/17/LocName,0,5800,체인 소스 12
-harat,git,Placeable List/18/LocName,0,5800,체인 소스 15
-harat,git,Placeable List/19/LocName,0,5800,체인 소스 16
-harat,git,Placeable List/4/LocName,0,5800,체인 소스 1
-harat,git,Placeable List/5/LocName,0,5800,체인 소스 2
-harat,git,Placeable List/6/LocName,0,5800,체인 소스 5
-harat,git,Placeable List/7/LocName,0,5800,체인 소스 6
-harat,git,Placeable List/8/LocName,0,5800,체인 소스 9
-harat,git,Placeable List/9/LocName,0,5800,체인 소스 10
-harat,git,TriggerList/0/LocalizedName,0,14759,체인 트리거
-harat,git,TriggerList/1/LocalizedName,0,14759,체인 트리거
-harat,git,TriggerList/2/LocalizedName,0,14759,체인 트리거
-harat,git,TriggerList/3/LocalizedName,0,14759,체인 트리거
+harat,git,Placeable List/10/LocName,0,5800,사슬 원천 13
+harat,git,Placeable List/11/LocName,0,5800,사슬 원천 14
+harat,git,Placeable List/12/LocName,0,5800,사슬 소스 3
+harat,git,Placeable List/13/LocName,0,5800,사슬 소스 4
+harat,git,Placeable List/14/LocName,0,5800,사슬 소스 8
+harat,git,Placeable List/15/LocName,0,5800,사슬 소스 7
+harat,git,Placeable List/16/LocName,0,5800,사슬 소스 11
+harat,git,Placeable List/17/LocName,0,5800,사슬 소스 12
+harat,git,Placeable List/18/LocName,0,5800,사슬 소스 15
+harat,git,Placeable List/19/LocName,0,5800,사슬 소스 16
+harat,git,Placeable List/4/LocName,0,5800,사슬 소스 1
+harat,git,Placeable List/5/LocName,0,5800,사슬 소스 2
+harat,git,Placeable List/6/LocName,0,5800,사슬 소스 5
+harat,git,Placeable List/7/LocName,0,5800,사슬 소스 6
+harat,git,Placeable List/8/LocName,0,5800,사슬 소스 9
+harat,git,Placeable List/9/LocName,0,5800,사슬 소스 10
+harat,git,TriggerList/0/LocalizedName,0,14759,사슬 트리거
+harat,git,TriggerList/1/LocalizedName,0,14759,사슬 트리거
+harat,git,TriggerList/2/LocalizedName,0,14759,사슬 트리거
+harat,git,TriggerList/3/LocalizedName,0,14759,사슬 트리거
 harat,git,WaypointList/13/LocalizedName,0,-1,cs_camera_pos_2
 harat,git,WaypointList/14/LocalizedName,0,-1,cs_camera_pos_3
 harat,git,WaypointList/18/LocalizedName,0,-1,cs_camera_pos_5
 harat,git,WaypointList/31/LocalizedName,0,-1,cs_camera_pos_4
 harat,git,WaypointList/37/LocalizedName,0,-1,cs_camera_pos_6
 harat,git,WaypointList/6/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-harat,git,WaypointList/6/MapNote,0,-1,던전 입구로 통신
+harat,git,WaypointList/6/MapNote,0,-1,던전 입구로 순간이동
 harat,git,WaypointList/7/LocalizedName,0,-1,cs_camera_pos_1
 maggris,git,Door List/0/LocName,0,5349,지역 문
 maggris,git,Door List/1/LocName,0,5349,지역 문
@@ -24825,32 +24825,32 @@ maggris,git,Door List/3/LocName,0,5349,지역 문
 maggris,git,WaypointList/67/LocalizedName,0,-1,cs_camera_pos_1
 maggris,git,WaypointList/73/LocalizedName,0,-1,cs_camera_pos_2
 maggris,git,WaypointList/80/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-maggris,git,WaypointList/80/MapNote,0,-1,던전 입구로 통신
+maggris,git,WaypointList/80/MapNote,0,-1,던전 입구로 순간이동
 masterius,git,Door List/0/LocName,0,5349,지역 문
 masterius,git,Door List/1/LocName,0,5349,지역 문
 masterius,git,Door List/2/LocName,0,5349,지역 문
 masterius,git,Door List/3/LocName,0,5349,지역 문
 masterius,git,WaypointList/1/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-masterius,git,WaypointList/1/MapNote,0,-1,던전 입구로 통신
+masterius,git,WaypointList/1/MapNote,0,-1,던전 입구로 순간이동
 masterius,git,WaypointList/10/LocalizedName,0,-1,cs_camera_pos_3
 masterius,git,WaypointList/4/LocalizedName,0,-1,cs_camera_pos_1
 masterius,git,WaypointList/9/LocalizedName,0,-1,cs_camera_pos_2
-narrator,git,SoundList/0/LocName,0,67942,할래스터 웃음 1
+narrator,git,SoundList/0/LocName,0,67942,할라스터가 웃으며 1
 narrator,git,SoundList/1/LocName,0,67942,"스토리텔러, 장면 2, 라인 1"
 narrator,git,SoundList/10/LocName,0,67942,"스토리텔러, 장면 4, 라인 3"
 narrator,git,SoundList/11/LocName,0,67942,"스토리텔러, 장면 4, 라인 4"
-narrator,git,SoundList/12/LocName,0,67942,"스토리텔러, 장면 4, 줄 5"
+narrator,git,SoundList/12/LocName,0,67942,"스토리텔러, 장면 4, 라인 5"
 narrator,git,SoundList/13/LocName,0,67942,"스토리텔러, 장면 4, 라인 6"
-narrator,git,SoundList/14/LocName,0,67942,"스토리텔러, 장면 5, 선 1"
-narrator,git,SoundList/15/LocName,0,67942,"스토리텔러, 장면 5, 라인 2"
+narrator,git,SoundList/14/LocName,0,67942,"스토리텔러, 장면 5, 라인 1"
+narrator,git,SoundList/15/LocName,0,67942,"스토리텔러, 장면 5, 줄 2"
 narrator,git,SoundList/16/LocName,0,67942,"스토리텔러, 장면 5, 라인 3"
 narrator,git,SoundList/2/LocName,0,67942,"스토리텔러, 장면 2, 라인 2"
 narrator,git,SoundList/3/LocName,0,67942,"스토리텔러, 장면 2, 라인 3"
 narrator,git,SoundList/4/LocName,0,67942,"스토리텔러, 장면 2, 라인 4"
-narrator,git,SoundList/5/LocName,0,67942,"스토리텔러, 장면 3, 선 1"
+narrator,git,SoundList/5/LocName,0,67942,"스토리텔러, 장면 3, 라인 1"
 narrator,git,SoundList/6/LocName,0,67942,"스토리텔러, 장면 3, 라인 2"
 narrator,git,SoundList/7/LocName,0,67942,"스토리텔러, 장면 3, 라인 3"
-narrator,git,SoundList/8/LocName,0,67942,"스토리텔러, 장면 4, 선 1"
+narrator,git,SoundList/8/LocName,0,67942,"스토리텔러, 장면 4, 라인 1"
 narrator,git,SoundList/9/LocName,0,67942,"스토리텔러, 장면 4, 라인 2"
 narrator,git,WaypointList/10/LocalizedName,0,-1,cs_camera_pos_22
 narrator,git,WaypointList/11/LocalizedName,0,-1,cs_camera_pos_41
@@ -24862,13 +24862,13 @@ narrator,git,WaypointList/34/LocalizedName,0,-1,cs_camera_pos_51
 narrator,git,WaypointList/37/LocalizedName,0,-1,cs_camera_pos_52
 narrator,git,WaypointList/38/LocalizedName,0,-1,cs_camera_pos_53
 narrator,git,WaypointList/52/LocalizedName,0,14817,이정표
-narrator,git,WaypointList/52/MapNote,0,-1,지역 출구
+narrator,git,WaypointList/52/MapNote,0,-1,지역 출입구
 narrator,git,WaypointList/53/LocalizedName,0,14817,이정표
-narrator,git,WaypointList/53/MapNote,0,-1,지역 출구
+narrator,git,WaypointList/53/MapNote,0,-1,지역 출입구
 narrator,git,WaypointList/54/LocalizedName,0,14817,이정표
-narrator,git,WaypointList/54/MapNote,0,-1,지역 출구
+narrator,git,WaypointList/54/MapNote,0,-1,지역 출입구
 narrator,git,WaypointList/55/LocalizedName,0,14817,이정표
-narrator,git,WaypointList/55/MapNote,0,-1,지역 출구
+narrator,git,WaypointList/55/MapNote,0,-1,지역 출입구
 narrator,git,WaypointList/8/LocalizedName,0,-1,cs_camera_pos_21
 ruinslair,git,Door List/0/LocName,0,-1,문
 ruinslair,git,Door List/1/LocName,0,-1,문
@@ -24883,4 +24883,4 @@ ruinslair,git,WaypointList/2/LocalizedName,0,-1,WP_BOSS_GUARD
 ruinslair,git,WaypointList/3/LocalizedName,0,-1,WP_BOSS_GUARD
 ruinslair,git,WaypointList/4/LocalizedName,0,-1,WP_BOSS_GUARD
 ruinslair,git,WaypointList/5/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER
-ruinslair,git,WaypointList/5/MapNote,0,-1,던전 입구로 통신
+ruinslair,git,WaypointList/5/MapNote,0,-1,던전 입구로 순간이동

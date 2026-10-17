@@ -1,8 +1,8 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
-area,git,Door List/3/Description,0,9078,전형적인 나무 문.
-area,git,Door List/4/Description,0,9078,전형적인 나무 문.
+area,git,Door List/3/Description,0,9078,일반적인 나무 문.
+area,git,Door List/4/Description,0,9078,일반적인 나무 문.
 area,git,Placeable List/28/LocName,0,5656,배낭
-area,git,Placeable List/31/LocName,0,66692,시든 꽃
+area,git,Placeable List/31/LocName,0,66692,죽은 꽃
 area,git,Placeable List/40/Description,0,84574,다양한 종이 조각.
 area,git,Placeable List/40/LocName,0,84561,문서
 area,git,Placeable List/41/Description,0,84574,다양한 종이 조각.
@@ -12,29 +12,29 @@ area,git,Placeable List/43/LocName,0,84561,서류
 area,git,Placeable List/44/Description,0,84574,다양한 종이 조각.
 area,git,Placeable List/44/LocName,0,84561,공연 전단
 area,git,Placeable List/46/LocName,0,5800,일지
-area002,git,Placeable List/79/Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
+area002,git,Placeable List/79/Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 area002,git,Placeable List/79/LocName,0,5800,운명
-area002,git,Placeable List/80/Description,0,14533,포털은 부드럽게 빛나고 어디로 가는지 궁금합니다.
+area002,git,Placeable List/80/Description,0,14533,앞에 당신은 부드럽게 빛나는 포털이 있습니다. 어디로 연결되는지 궁금합니다.
 area003,git,Creature List/0/FirstName,0,12574,남은 음식
 area003,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,남성 수술 노예
 area003,git,Creature List/1/FirstName,0,-1,노예
-area003,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,여성 수술 노예
+area003,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,여성 수술 노비
 area003,git,Creature List/2/FirstName,0,-1,노예
 area003,git,Creature List/3/FirstName,0,-1,노예
 area003,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,여성 수술 노예 2
 area003,git,Creature List/4/FirstName,0,-1,노예
-area003,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,여성 수술 노예
+area003,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,여성 수술 노비
 area003,git,Creature List/5/FirstName,0,-1,노예
 area003,git,Creature List/6/Description,0,-1,이 여자 는 시야자 의 모습 이다. 그녀의 긴 암흑 머리카락 은 얽힌 말 꼬리 에 묶여 있다. 그녀는 혈전 이 은 회색 의복 을 입고 있다. 그녀의 시야 는 지 않은 눈 으로 찢어지고 찢어지고 찢어지고 있다. 그녀의 목 에 찌른 珠 과 덩어리 들 의 집합 은 움직일 때 부드러운 클릭 소리 를 내는 것 이다.
 area003,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,알라다라의 갑옷
-area003,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,-1,보내기 위한 반지
-area003,git,Creature List/6/Equip_ItemList/1/Description,0,-1,평형 은 반지.
-area003,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,-1,전언의 반지
+area003,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,-1,전송 반지
+area003,git,Creature List/6/Equip_ItemList/1/Description,0,-1,평범한 은 반지.
+area003,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,-1,전송의 반지
 area003,git,Creature List/6/FirstName,0,-1,알라다라
 area003,git,Door List/1/LocName,0,5349,문
 area003,git,Door List/2/LocName,0,5349,문
 area003,git,Placeable List/12/LocName,0,5737,노예
-area003,git,Placeable List/23/Description,0,14600,그 사람이 소유한 것은 거의 없었을 수도 있고 그 사람이 가진 모든 것을 빼앗겼을 수도 있습니다.
+area003,git,Placeable List/23/Description,0,14600,"그 사람이 처음에는 거의 소유하고 있지 않았거나, 그 사람의 모든 것이 빼앗겼을 수도 있습니다."
 area003,git,Placeable List/23/LocName,0,14601,피투성이 시체
 area003,git,Placeable List/5/LocName,0,5737,노예
 area003,git,Placeable List/58/Description,0,14662,끔찍한 해부학적 다이어그램을 담은 유혈 노트북
@@ -43,179 +43,179 @@ area003,git,Placeable List/58/ItemList/0/Description,0,-1,"이렇게 명백하�
 area003,git,Placeable List/58/ItemList/0/LocalizedName,0,-1,피 묻은 장부
 area003,git,Placeable List/58/LocName,0,5800,장부
 area003,git,Placeable List/59/Description,0,14662,주목할 만한 병입니다.
-area003,git,Placeable List/59/ItemList/0/DescIdentified,0,-1,"소규모, 약간 피가 있는 반응물 패키지입니다. 그 중 대부분은 무엇인지는 확실하지 않습니다. 식물, 먼지, 더 끔찍한 것들이죠. 어쨌든, 어떻게든, 결국에는 이 것들이 세계 와인을 만드는 데 사용될 수 있습니다. 현재는 대부분 무해한 것 같습니다."
-area003,git,Placeable List/59/ItemList/0/Description,0,-1,"소규모, 약간 피가 있는 반응물 패키지입니다. 그 중 대부분은 무엇인지는 확실하지 않습니다. 식물, 먼지, 더 끔찍한 것들이죠. 어쨌든, 어떻게든, 결국에는 이 것들이 세계 와인을 만드는 데 사용될 수 있습니다. 현재는 대부분 무해한 것 같습니다."
-area003,git,Placeable List/59/ItemList/0/LocalizedName,0,-1,가공하지 않은 월드와인 물약
+area003,git,Placeable List/59/ItemList/0/DescIdentified,0,-1,"소규모, 약간 피가 묻은 재료 패키지입니다. 그 중 대부분은 무엇인지 확실하지 않습니다 -- 식물, 가루, 더 끔찍한 것들일지도 모릅니다. 어쨌든, 어떻게든, 결국에는 이러한 재료들이 세계와인을 만들 수 있습니다. 현재로선 대부분 무해해 보이지만, 어떤 효과를 끼칠지 누가 알 수 있을까요."
+area003,git,Placeable List/59/ItemList/0/Description,0,-1,"소규모, 약간 피가 묻은 재료 패키지입니다. 그 중 대부분은 무엇인지 확실하지 않습니다 -- 식물, 가루, 더 끔찍한 것들일지도 모릅니다. 어쨌든, 어떻게든, 결국에는 이러한 재료들이 세계와인을 만들 수 있습니다. 현재로선 대부분 무해해 보이지만, 어떤 효과를 끼칠지 누가 알 수 있을까요."
+area003,git,Placeable List/59/ItemList/0/LocalizedName,0,-1,가공하지 않은 세계와인 물약
 area003,git,Placeable List/59/LocName,0,5800,병
-area003,git,Placeable List/67/Description,0,14572,건조한 피의 희미한 윤곽은 가까운 벽으로 향하고 마치 무언가가 그 벽을 통해 끌려가는 것처럼 보입니다.
+area003,git,Placeable List/67/Description,0,14572,"건조한 피의 희미한 흔적은 가까운 벽으로 향하며, 마치 무언가가 그 벽을 통해 끌려간 것처럼 보입니다."
 area003,git,Placeable List/68/Description,0,14752,잘 정비된 와인 래프가 여기 있습니다. 놀랍게도 희귀한 빈타지와 함께 있습니다.
-area003,git,Placeable List/68/LocName,0,5748,와인 선반
+area003,git,Placeable List/68/LocName,0,5748,와인 서랍장
 area003,git,Placeable List/69/LocName,0,14549,식료품 저장고
-area003,git,Placeable List/7/Description,0,6792,이 물체에는 특별한 것이 없습니다.
+area003,git,Placeable List/7/Description,0,6792,이 물체는 특별한 것이 없습니다.
 area003,git,Placeable List/7/LocName,0,5737,노예
 area003,git,TriggerList/1/LocalizedName,0,14759,알라다라 대화
 area003,git,TriggerList/3/LocalizedName,0,14759,비밀 문
 area004,git,Door List/0/LocName,0,5349,문
-area004,git,Door List/2/Description,0,9078,전형적인 나무 문.
-area004,git,Placeable List/5/Description,0,14708,모든 플라노에서 온 차의 다양한 종류와 함께 더 나은 날을 본 차 이 있습니다.
+area004,git,Door List/2/Description,0,9078,일반적인 나무 문.
+area004,git,Placeable List/5/Description,0,14708,플레인에서 온 다양한 차와 함께 더 나은 날을 보낸 차솥이 있습니다.
 area004,git,Placeable List/5/LocName,0,14709,천 가방
-area004,git,Placeable List/52/Description,0,76386,손로 짜여진 장식품들이 벽을 장식하고 있습니다. 보석과 작은 뼈로 만든 것 같습니다. 아마 동물에서 만든 것 같습니다.
-area004,git,Placeable List/53/Description,0,68880,"해상시장 장면을 그린 그림. 프레임의 왼쪽 아래쪽에는 ""테디로부터""라는 글이 새겨져 있습니다."
+area004,git,Placeable List/52/Description,0,76386,손으로 짜여진 장식품들이 벽을 장식하고 있습니다. 보석과 작은 뼈로 만들어진 것 같습니다. 아마도 동물에서 나온 것 같습니다.
+area004,git,Placeable List/53/Description,0,68880,"해상 시장 장면을 그린 그림입니다. 프레임의 왼쪽 아래에는 ""테디로부터""라고 새겨져 있습니다."
 area004,git,Placeable List/8/Description,0,14756,이 오븐은 잘 사용되고 순수한 깨끗합니다. 분명히 많은 보살핌을 받고 있습니다.
 area004,git,WaypointList/0/LocalizedName,0,14817,AladaraAptTeddy
 area004,git,WaypointList/1/LocalizedName,0,14817,알라다라AptTeddySentry
-area005,git,Creature List/0/Description,0,-1,"상인 은 눈 이 은 흰 눈 으로 모든 미소 와 따뜻 한 빛 을 가지고 당신 앞 에 서 있습니다. 만약 당신 이 넓은 어깨 를 가진 인간 을 묘사 한다면, 그 는 이렇게 말 들 을 사용 할 것 이다: 잘 유지. 그의 짧은 갈색 머리카락 은 잘 자린 에 완벽하게 흐르게 하기 위해 잘 자르고 있습니다. 그의 옷 은 흠 이 없는 것 으로 뭉쳐져 있지만, 그 는 간편 하게, 거의 힘 없이 착용 합니다. 쉬운 업적 은 아닙니다."
+area005,git,Creature List/0/Description,0,-1,"상인은 당신 앞에 서서 모든 미소와 따뜻한 빛을 뿜어내고 있지만, 그의 눈은 흰색으로, 어두운 빛을 비추지 못한다. 넓은 어깨를 가진 인간을 묘사한다면, '잘 유지된'이라는 말을 사용할 것이다. 그의 짧고 갈색 머리는 잘 자른 바람에 턱수염과 자연스럽게 어울린다. 그의 옷은 깔끔하게 차려입었지만, 그는 그것들을 편안하게, 거의 자연스럽게 입고 있다. 이는 결코 쉬운 업적은 아닐 것이다."
 area005,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,포보르의 갑옷
 area005,git,Creature List/0/FirstName,0,-1,포보르
 area005,git,Creature List/1/Description,0,-1,"반 엘프는 분명히 그의 유산의 엘프 측면을 선호합니다. 키가 높고 밝고, 그는 미끄러지는 것만큼 움직이지 않습니다. 그의 긴 어두운 머리카락은 따라잡으려고 노력하는 것처럼 뒤에서 움직입니다. 그의 의상은 낮은 절단 베일트, 셔츠와 똑같이 한 바지를 입은 화려한 것을 선호합니다. 거의 모든 인종의 표준에 의해 아름다운 그의 특징은 어느 순간에 관심과 즐거움을 가진 동등한 부분을 포함합니다. 왼쪽 눈 은 주어진 순간에 얼굴에서 떠날 것이라고 위협합니다."
 area005,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,루이실의 갑옷
 area005,git,Creature List/1/FirstName,0,-1,루이실
-area005,git,Door List/0/LocName,0,5349,당신의 동네로 가는 문
+area005,git,Door List/0/LocName,0,5349,당신의 동네로의 문
 area005,git,StoreList/0/LocName,0,14813,상인포버
 area006,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,카르쿠알리의 발톱
 area006,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,-1,카르쿠알리의 발톱
-area006,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,-1,카르쿠알리의 이빨
+area006,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,-1,카르쿠알리의 물림
 area006,git,Creature List/3/FirstName,0,-1,모그
-area006,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,광신도 복장
+area006,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,사교도 의복
 area006,git,Creature List/4/FirstName,0,-1,광신도
-area006,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,광신도 복장
+area006,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,사교도 의복
 area006,git,Creature List/5/FirstName,0,-1,광신도
-area006,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,광신도 복장
+area006,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,사교도 의복
 area006,git,Creature List/6/FirstName,0,-1,광신도
-area006,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,광신도 복장
+area006,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,사교도 의복
 area006,git,Creature List/7/FirstName,0,-1,광신도
-area006,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,광신도 복장
+area006,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,사교도 의복
 area006,git,Creature List/8/FirstName,0,-1,광신도
-area006,git,Door List/0/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-area006,git,Door List/0/LocName,0,5349,두꺼운 돌문
-area006,git,Placeable List/103/Description,0,6792,이 물체에는 특별한 것이 없습니다.
-area006,git,Placeable List/73/Description,0,14596,금속 톱니가 이 장식 된 상자 의 목조 를 뚫고 니다. 그 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱니 톱
+area006,git,Door List/0/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+area006,git,Door List/0/LocName,0,5349,두꺼운 돌 문
+area006,git,Placeable List/103/Description,0,6792,이 물체는 특별한 것이 없습니다.
+area006,git,Placeable List/73/Description,0,14596,금속 장식이 이 장식된 가구의 목재 작업을 관통하고 있습니다. 이 강함을 자랑하는 상자가 공개에 사용될 목적으로 제작되었다는 점에서 뛰어난 제작 기술이 보입니다.
 area006,git,Placeable List/74/LocName,0,68939,통
 area006,git,Placeable List/81/LocName,0,68869,장식된 상자
 area006,git,TriggerList/4/LocalizedName,0,14759,1.DDF_NPC_Karkualii_FINAL
-area006,git,WaypointList/0/MapNote,0,14815,지하 도시로
-area006,git,WaypointList/1/MapNote,0,14815,월드와인 단지
-area006,git,WaypointList/2/LocalizedName,0,14817,알라다라는 랩에서 시작된다
+area006,git,WaypointList/0/MapNote,0,14815,지하도시로
+area006,git,WaypointList/1/MapNote,0,14815,월드와인 병
+area006,git,WaypointList/2/LocalizedName,0,14817,알라다라는 랩에서 시작하세요
 area007,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,13798,도시 경비병 갑옷
-area007,git,Creature List/0/FirstName,0,-1,도시 경비대 서기
-area007,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+area007,git,Creature List/0/FirstName,0,-1,도시 경비병 서기
+area007,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 area007,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 area007,git,Creature List/1/FirstName,0,-1,도시 경비병
 area007,git,Creature List/1/ItemList/4/LocalizedName,0,13798,도시 경비병 갑옷
-area007,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+area007,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 area007,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 area007,git,Creature List/2/FirstName,0,-1,도시 경비병
 area007,git,Creature List/2/ItemList/4/LocalizedName,0,13798,도시 경비병 갑옷
-area007,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,테라나 클랭크의 옷
+area007,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,테라나 클랭크의 옷옷
 area007,git,Creature List/3/FirstName,0,-1,테라나
 area007,git,Creature List/3/LastName,0,-1,클랭크
 area007,git,Door List/5/LocName,0,5349,문
 area007,git,Door List/6/LocName,0,5349,문
 area007,git,Placeable List/21/Description,0,14577,무기를 저장할 수 있는 탄탄한 래크
-area007,git,Placeable List/21/LocName,0,14578,무기 선반
+area007,git,Placeable List/21/LocName,0,14578,무기 거치대
 area007,git,Placeable List/22/Description,0,14577,무기를 저장할 수 있는 탄탄한 래크
-area007,git,Placeable List/22/LocName,0,14578,무기 선반
+area007,git,Placeable List/22/LocName,0,14578,무기 거치대
 area007,git,Placeable List/23/Description,0,14577,무기를 저장할 수 있는 탄탄한 래크
-area007,git,Placeable List/23/LocName,0,14578,무기 선반
+area007,git,Placeable List/23/LocName,0,14578,무기 거치대
 area007,git,WaypointList/2/LocalizedName,0,14817,시마켓2에서
 area007,git,WaypointList/3/LocalizedName,0,14817,시마켓에서
-area008,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+area008,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 area008,git,Creature List/0/FirstName,0,-1,노예
-area008,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성복
+area008,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성 옷 입은 자들
 area008,git,Creature List/1/FirstName,0,-1,노예
-area008,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+area008,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 area008,git,Creature List/10/FirstName,0,-1,노예
-area008,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+area008,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 area008,git,Creature List/2/FirstName,0,-1,노예
-area008,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성복
+area008,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성 옷 입은 자들
 area008,git,Creature List/3/FirstName,0,-1,노예
-area008,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+area008,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 area008,git,Creature List/4/FirstName,0,-1,노예
-area008,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성복
+area008,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성 옷 입은 자들
 area008,git,Creature List/5/FirstName,0,-1,노예
-area008,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+area008,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 area008,git,Creature List/6/FirstName,0,-1,노예
-area008,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성복
+area008,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성 옷 입은 자들
 area008,git,Creature List/7/FirstName,0,-1,노예
-area008,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+area008,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 area008,git,Creature List/8/FirstName,0,-1,노예
-area008,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+area008,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 area008,git,Creature List/9/FirstName,0,-1,노예
 area008,git,Door List/4/LocName,0,5349,문
-area008,git,Door List/5/LocName,0,5349,잠긴 경비 초소 문
-area008,git,Door List/6/LocName,0,5349,잠긴 경비 초소 문
+area008,git,Door List/5/LocName,0,5349,잠긴 경비병 주둔지 문
+area008,git,Door List/6/LocName,0,5349,잠긴 경비병 주둔지 문
 area008,git,Door List/7/LocName,0,5349,문
-area008,git,Encounter List/0/LocalizedName,0,-1,울란의 창고 조우
-area008,git,Placeable List/103/Description,0,84576,이 문서는 3번의 형조회에서 승인되어 이 창고가 코라노 하우스에게 팔린 것을 상세히 설명하고 있습니다.
-area008,git,Placeable List/103/LocName,0,84563,매매 증서
-area008,git,Placeable List/104/Description,0,14662,"손톱, 체인, 그리고 금속 작업 해마르는 이 상자와 함께 아주 많은 손잡이를 채웁니다."
+area008,git,Encounter List/0/LocalizedName,0,-1,울란 창고 인카운터
+area008,git,Placeable List/103/Description,0,84576,이 문서는 형제단의 3부 승인을 받고 이 창고가 코라노 집에 판매된 것을 상세히 설명하고 있습니다.
+area008,git,Placeable List/103/LocName,0,84563,매매증서
+area008,git,Placeable List/104/Description,0,14662,"손톱, 체인, 그리고 금속 작업용 망치가 이 상자들에 가득 차 있으며, 손실구속도 상당수 포함되어 있습니다."
 area008,git,Placeable List/104/LocName,0,5800,나무 상자
-area008,git,Placeable List/105/Description,0,84576,"""고기 매매자""라는 배의 물품의 상세한 목록."
-area008,git,Placeable List/105/LocName,0,84563,선적 목록
-area008,git,Placeable List/108/Description,0,14653,이 잔디 덩어리 는 노예 들 의 침대를 교체 하기 위해 사용 된 것 같습니다. 그 들 은 사용 되지 않은 것 처럼 보이며 썩는 냄새가 나고 있습니다.
-area008,git,Placeable List/108/LocName,0,14654,건초 더미
-area008,git,Placeable List/80/Description,0,68936,책들이 쌓여서 무관하게 버려졌어요.
+area008,git,Placeable List/105/Description,0,84576,"""고기 매매자""라는 배의 물품 상세 목록은 노예들의 수와 상태, 손실 등을 포함하며, 승객 명단과 추가로 실린 화물 정보도 기재되어 있습니다."
+area008,git,Placeable List/105/LocName,0,84563,선적 명단
+area008,git,Placeable List/108/Description,0,14653,"이 품목들은 노예들의 침대를 교체하기 위해 사용된 것 같아 보입니다. 아직 사용되지 않은 것처럼 보이고, 약간의 썩은 냄새가 납니다."
+area008,git,Placeable List/108/LocName,0,14654,건초 비계
+area008,git,Placeable List/80/Description,0,68936,책들이 무단으로 버려진 쌓인 쌓임.
 area008,git,Placeable List/80/ItemList/0/DescIdentified,0,-1,"여러 항목이 풀고 흐르는 손으로 이 책장을 채웁니다. 한 항목은 우란이 자신에게 쓴 노트입니다. 그것은 저장소의 뒷부분의 비밀 문을 더 많이 사용해야 한다는 것을 언급합니다. 이제 코라노가 더 이상 그들을 ""세탁""하지 않았으므로 노예들은 ""처리""를 위해 알라다라라는 여성에게 직접 전달되어야했습니다. 그는 노예를 회개하는 것처럼 ""영리 조언자""에게 속죄하는 과정에서 번거리와 효율성이 없다는 것을 저주합니다. 또 다른 항목은 노예들에게 물품을 얻기 위해 사제와 치료자를 찾는 데의 어려움에 대해 자세히 언급합니다. 그는 ""이 바보들은 그가 일을 얻기 위해 얼마나 많은 시간을 보냈는지 이해하지 못한다""에 대해 이야기합니다. 그는 블랙 메일과 놀라움의 목록이 무엇이며, 그는 ""오라다라와 더 큰 수익을 얻기 위해 많은 돈을 벌 수 있는지에 대한 자세한 정보를 공유하고 있습니다. 하라노는 이미 ""그보다 더 큰 수익을 얻거나 더 큰 수익을 창출하기 위해 해운전""에 대해 언급하고 있습니다."
 area008,git,Placeable List/80/ItemList/0/Description,0,-1,"여러 항목이 풀고 흐르는 손으로 이 책장을 채웁니다. 한 항목은 우란이 자신에게 쓴 노트입니다. 그것은 저장소의 뒷부분의 비밀 문을 더 많이 사용해야 한다는 것을 언급합니다. 이제 코라노가 더 이상 그들을 ""세탁""하지 않았으므로 노예들은 ""처리""를 위해 알라다라라는 여성에게 직접 전달되어야했습니다. 그는 노예를 회개하는 것처럼 ""영리 조언자""에게 속죄하는 과정에서 번거리와 효율성이 없다는 것을 저주합니다. 또 다른 항목은 노예들에게 물품을 얻기 위해 사제와 치료자를 찾는 데의 어려움에 대해 자세히 언급합니다. 그는 ""이 바보들은 그가 일을 얻기 위해 얼마나 많은 시간을 보냈는지 이해하지 못한다""에 대해 이야기합니다. 그는 블랙 메일과 놀라움의 목록이 무엇이며, 그는 ""오라다라와 더 큰 수익을 얻기 위해 많은 돈을 벌 수 있는지에 대한 자세한 정보를 공유하고 있습니다. 하라노는 이미 ""그보다 더 큰 수익을 얻거나 더 큰 수익을 창출하기 위해 해운전""에 대해 언급하고 있습니다."
-area008,git,Placeable List/80/ItemList/0/LocalizedName,0,-1,때 묻은 장부
+area008,git,Placeable List/80/ItemList/0/LocalizedName,0,-1,때 묻은 재무일지
 area008,git,Placeable List/82/LocName,0,68939,상자
-area008,git,Placeable List/90/ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
-area008,git,Placeable List/90/ItemList/1/LocalizedName,0,-1,울란의 노예 여성복
-area008,git,Placeable List/91/ItemList/0/LocalizedName,0,-1,노예상 복장
+area008,git,Placeable List/90/ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
+area008,git,Placeable List/90/ItemList/1/LocalizedName,0,-1,울란의 노예 여성 옷 입은 자들
+area008,git,Placeable List/91/ItemList/0/LocalizedName,0,-1,노예복장
 area008,git,SoundList/0/LocName,0,67827,기침
 area008,git,WaypointList/0/LocalizedName,0,14817,우란스 웨어하우스 라이벌프론트
 area008,git,WaypointList/1/LocalizedName,0,14817,우란웨이포인트
 area008,git,WaypointList/2/LocalizedName,0,14817,노예 출구
-area008,git,WaypointList/3/MapNote,0,14815,지역 출구
-area009,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,파튼 낡은 옷
+area008,git,WaypointList/3/MapNote,0,14815,지역 출입구
+area009,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,파튼 낡은 옷 입은 것
 area009,git,Creature List/0/FirstName,0,-1,단골손님
-area009,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,파튼 낡은 옷
+area009,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,파튼 낡은 옷 입은 것
 area009,git,Creature List/1/FirstName,0,-1,단골손님
-area009,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,파턴 낡은 옷 3
+area009,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,파턴 낡은 옷 세 벌
 area009,git,Creature List/2/FirstName,0,-1,단골손님
 area009,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,랭크비키퍼
 area009,git,Creature List/3/FirstName,0,-1,여관 주인
-area009,git,Creature List/4/FirstName,0,-1,멍한 단골손님
-area009,git,Creature List/4/ItemList/0/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
-area009,git,Creature List/4/ItemList/0/Description,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
+area009,git,Creature List/4/FirstName,0,-1,혼미한 고객
+area009,git,Creature List/4/ItemList/0/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
+area009,git,Creature List/4/ItemList/0/Description,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
 area009,git,Creature List/4/ItemList/0/LocalizedName,0,-1,월드와인 물약
-area009,git,Door List/1/Description,0,9078,전형적인 나무 문.
-area009,git,Door List/2/Description,0,9078,전형적인 나무 문.
-area009,git,Encounter List/0/LocalizedName,0,-1,쥐구멍 NPC 1
-area009,git,StoreList/0/LocName,0,14813,잡화점
-area010,git,Creature List/1/FirstName,0,2925,전투단 깡패
+area009,git,Door List/1/Description,0,9078,일반적인 나무 문.
+area009,git,Door List/2/Description,0,9078,일반적인 나무 문.
+area009,git,Encounter List/0/LocalizedName,0,-1,쥐굴 NPC 1
+area009,git,StoreList/0/LocName,0,14813,일반 상점
+area010,git,Creature List/1/FirstName,0,2925,전투단 놈
 area010,git,Creature List/10/FirstName,0,2933,전투단 잠입자
 area010,git,Creature List/11/FirstName,0,2933,전투단 잠입자
-area010,git,Creature List/12/FirstName,0,110637,전투단 학살자
-area010,git,Creature List/13/FirstName,0,110637,전투단 학살자
-area010,git,Creature List/14/FirstName,0,110637,전투단 학살자
+area010,git,Creature List/12/FirstName,0,110637,전투단 살인자
+area010,git,Creature List/13/FirstName,0,110637,전투단 살인자
+area010,git,Creature List/14/FirstName,0,110637,전투단 살인자
 area010,git,Creature List/15/FirstName,0,2933,전투단 잠입자
 area010,git,Creature List/16/FirstName,0,2926,전투단 영혼 대화자
 area010,git,Creature List/17/FirstName,0,2926,전투단 영혼 대화자
-area010,git,Creature List/18/FirstName,0,12668,전투단 우두머리
-area010,git,Creature List/2/FirstName,0,2925,전투단 깡패
-area010,git,Creature List/3/FirstName,0,2925,전투단 깡패
-area010,git,Creature List/4/FirstName,0,2925,전투단 깡패
-area010,git,Creature List/5/FirstName,0,2934,전투단 해결사
-area010,git,Creature List/6/FirstName,0,2934,전투단 해결사
+area010,git,Creature List/18/FirstName,0,12668,전투단 주인
+area010,git,Creature List/2/FirstName,0,2925,전투단 놈
+area010,git,Creature List/3/FirstName,0,2925,전투단 놈
+area010,git,Creature List/4/FirstName,0,2925,전투단 놈
+area010,git,Creature List/5/FirstName,0,2934,전장 수리사
+area010,git,Creature List/6/FirstName,0,2934,전장 수리사
 area010,git,Creature List/7/FirstName,0,2933,전투단 잠입자
 area010,git,Creature List/8/FirstName,0,2933,전투단 잠입자
 area010,git,Creature List/9/FirstName,0,2933,전투단 잠입자
-area010,git,Door List/2/Description,0,-1,중앙 열쇠 구멍이 있는 돌의 단단한 문으로 바닥에 긁힌 흔적은 최근에 사용되었을 가능성이 있습니다.
-area010,git,Door List/3/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-area010,git,Door List/3/LocName,0,5349,두꺼운 돌문
-area010,git,Encounter List/0/LocalizedName,0,-1,밀수업자 터널의 황토 젤리
-area010,git,Encounter List/1/LocalizedName,0,-1,밀수업자 터널의 황토 젤리
-area010,git,Encounter List/2/LocalizedName,0,-1,밀수꾼들의 터널에서 냄새가 나는 딱정벌레
-area010,git,Encounter List/3/LocalizedName,0,-1,악취 딱정벌레
-area010,git,Encounter List/4/LocalizedName,0,-1,워밴드 NPC
-area010,git,Encounter List/5/LocalizedName,0,-1,워밴드 NPC
-area010,git,Encounter List/6/LocalizedName,0,-1,워밴드 NPC
-area010,git,Placeable List/13/ItemList/0/Description,0,-1,고 노화 된 철 열쇠.
-area010,git,Placeable List/13/ItemList/0/LocalizedName,0,-1,쇠 열쇠
+area010,git,Door List/2/Description,0,-1,"중앙에 열쇠 구멍이 있는 단단한 돌 문이 있으며, 바닥에 있는 긁힌 흔적은 최근에 사용되었을 가능성이 있습니다."
+area010,git,Door List/3/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+area010,git,Door List/3/LocName,0,5349,두꺼운 돌 문
+area010,git,Encounter List/0/LocalizedName,0,-1,밀수업자 동굴의 황토 젤리
+area010,git,Encounter List/1/LocalizedName,0,-1,밀수업자 동굴의 황토 젤리
+area010,git,Encounter List/2/LocalizedName,0,-1,밀수꾼들의 터널에서 냄새 나는 딱정벌레
+area010,git,Encounter List/3/LocalizedName,0,-1,악취를 내는 딱정벌레
+area010,git,Encounter List/4/LocalizedName,0,-1,워병단 NPC
+area010,git,Encounter List/5/LocalizedName,0,-1,워병단 NPC
+area010,git,Encounter List/6/LocalizedName,0,-1,워병단 NPC
+area010,git,Placeable List/13/ItemList/0/Description,0,-1,고 노화된 철제 키.
+area010,git,Placeable List/13/ItemList/0/LocalizedName,0,-1,철 키
 area010,git,Placeable List/21/LocName,0,68869,상자
-area010,git,Placeable List/29/ItemList/0/Description,0,-1,고 노화 된 철 열쇠.
-area010,git,Placeable List/29/ItemList/0/LocalizedName,0,-1,쇠 열쇠
+area010,git,Placeable List/29/ItemList/0/Description,0,-1,고 노화된 철제 키.
+area010,git,Placeable List/29/ItemList/0/LocalizedName,0,-1,철 키
 area010,git,Placeable List/35/Description,0,14531,"이 더러운, 영양실조한 사람은 최근 썰매 상처로 사망한 것으로 보인다."
 area010,git,Placeable List/37/Description,0,12330,3발의 발자국들이 어둠 속으로 사라져
 area010,git,Placeable List/39/Description,0,12330,3발의 발자국들이 어둠 속으로 사라져
@@ -226,168 +226,168 @@ area010,git,Placeable List/53/LocName,0,68938,통
 area010,git,Placeable List/55/Description,0,14708,"기름진 봉투로 가득 차있죠. 쉽게 망가지는 않지만, 아주 건조합니다."
 area010,git,Placeable List/55/LocName,0,14709,자루
 area010,git,Placeable List/65/Description,0,14635,이 철 고리 들 은 돌 에 휩싸인 이어서 선박 을 로프 로 항구 로 묶는 데 사용 됩니다. 선박 을 안전하게 하기 위해 필요 보다 훨씬 더 많은 고리 들 이 있는 것 같습니다.
-area010,git,Placeable List/65/LocName,0,14636,쇠고리
+area010,git,Placeable List/65/LocName,0,14636,철 반지
 area010,git,Placeable List/66/Description,0,14635,이 연쇄와 손잡이 집합은 한쪽으로 던져졌습니다. 손잡이의 내부는 노화나 혈액으로 붉어졌습니다.
-area010,git,Placeable List/66/LocName,0,14636,버려진 쇠사슬
-area010,git,Placeable List/67/Description,0,14662,"배는 공허한 것처럼 보이는데, 바빠서 방출된 지적이 있습니다."
-area010,git,Placeable List/67/LocName,0,5800,"""붉은 물"""
-area010,git,WaypointList/2/MapNote,0,14815,지하 도시로
-area011,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,바텐더의 옷
+area010,git,Placeable List/66/LocName,0,14636,버려진 사슬
+area010,git,Placeable List/67/Description,0,14662,"배는 공허한 것처럼 보이는데, 서두르며 빈 곳으로 비운 징후가 있습니다."
+area010,git,Placeable List/67/LocName,0,5800,붉은 파도
+area010,git,WaypointList/2/MapNote,0,14815,지하도시로
+area011,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,바텐더의 옷옷
 area011,git,Creature List/0/FirstName,0,-1,바텐더
 area011,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,샤반의 갑옷
 area011,git,Creature List/1/FirstName,0,-1,샤반
 area011,git,Creature List/10/FirstName,0,-1,켈튼
 area011,git,Creature List/11/FirstName,0,-1,스케치
 area011,git,Creature List/12/FirstName,0,-1,흔적
-area011,git,Creature List/13/Description,0,-1,스터의 고객들을 경계로 유지하기 위한 방출자.
+area011,git,Creature List/13/Description,0,-1,스터의 손님들을 규칙에 따라 유지하기 위한 보안원.
 area011,git,Creature List/13/FirstName,0,12372,문지기
-area011,git,Creature List/14/Description,0,-1,호스터의 후원자를 줄기 위해 고용된 용병.
+area011,git,Creature List/14/Description,0,-1,호스터의 손님들을 통제하기 위해 고용된 용병.
 area011,git,Creature List/14/FirstName,0,12372,용병 경비병
-area011,git,Creature List/15/Description,0,-1,호스터의 후원자를 줄기 위해 고용된 용병.
+area011,git,Creature List/15/Description,0,-1,호스터의 손님들을 통제하기 위해 고용된 용병.
 area011,git,Creature List/15/FirstName,0,12372,용병 경비병
 area011,git,Creature List/2/FirstName,0,-1,보쉬
-area011,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,드라비엔의 옷
+area011,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,드라비엔 의류
 area011,git,Creature List/3/FirstName,0,-1,드라비엔
-area011,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,필위트의 옷
+area011,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,필위트의 의류
 area011,git,Creature List/4/FirstName,0,-1,필위트
 area011,git,Creature List/5/FirstName,0,-1,잉그모라
-area011,git,Creature List/5/ItemList/4/LocalizedName,0,-1,잡동사니 상인의 옷
+area011,git,Creature List/5/ItemList/4/LocalizedName,0,-1,잡동사니 상인의 옷옷
 area011,git,Creature List/5/ItemList/5/LocalizedName,0,-1,카리나의 평민 옷
-area011,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,바텐더의 옷
+area011,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,바텐더의 옷옷
 area011,git,Creature List/6/FirstName,0,-1,프렌티스
-area011,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,평민 옷 1
+area011,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 1
 area011,git,Creature List/7/FirstName,0,-1,졸린 평민
-area011,git,Creature List/7/ItemList/2/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
-area011,git,Creature List/7/ItemList/2/Description,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
+area011,git,Creature List/7/ItemList/2/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
+area011,git,Creature List/7/ItemList/2/Description,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
 area011,git,Creature List/7/ItemList/2/LocalizedName,0,-1,월드와인 물약
-area011,git,Creature List/8/Description,0,-1,이 여자는 집 주인처럼 여기 누워있어요. 그녀의 눈은 방의 모든 활동을 보고 있는 것처럼 날아다니고 있어요.
+area011,git,Creature List/8/Description,0,-1,"이 여자는 여기서 주인처럼 누워있어, 눈을 번쩍 뜨고 방 안의 활동을 살피는 것처럼 보여. 네가 다가오자 그녀의 눈이 좁혀진다."
 area011,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,카일라의 옷
 area011,git,Creature List/8/FirstName,0,-1,카일라
-area011,git,Creature List/8/ItemList/1/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
-area011,git,Creature List/8/ItemList/1/Description,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
+area011,git,Creature List/8/ItemList/1/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
+area011,git,Creature List/8/ItemList/1/Description,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
 area011,git,Creature List/8/ItemList/1/LocalizedName,0,-1,월드와인 물약
-area011,git,Creature List/8/ItemList/2/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
-area011,git,Creature List/8/ItemList/2/Description,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
+area011,git,Creature List/8/ItemList/2/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
+area011,git,Creature List/8/ItemList/2/Description,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
 area011,git,Creature List/8/ItemList/2/LocalizedName,0,-1,월드와인 물약
 area011,git,Creature List/9/Description,0,12415,"이 날 수 없는, 집집 새 는 부드러운 육류 와 거의 매일 튀는 달걀 으로서 모두 소중 히 여긴다."
-area011,git,Creature List/9/FirstName,0,12416,오징어 오징어
+area011,git,Creature List/9/FirstName,0,12416,수탉 수탉
 area011,git,Placeable List/0/LocName,0,84565,서랍장
 area011,git,Placeable List/23/LocName,0,68861,술집 카운터
-area011,git,Placeable List/37/LocName,0,5800,보이지 않는 상호작용 물체
-area011,git,Placeable List/38/LocName,0,5800,보이지 않는 상호작용 물체
+area011,git,Placeable List/37/LocName,0,5800,투명한 상호작용 물체
+area011,git,Placeable List/38/LocName,0,5800,투명한 상호작용 물체
 area011,git,Placeable List/39/ItemList/1/Description,0,13026,"이 노트 및 리저 세부 사항은 카일라는 이름의 여성이 자신의 수익의 일부를 로스터의 루스트 소유자들과 함께 방을, 게시판을 주고, 누군가가 묻으면 항상 카일라를 본 적이 없다는 것을 언급하겠다는 약속입니다. 카일라가 그녀의 운영의 모든 부분을 루스트에서 운영하는 것처럼 보입니다. 노트 메모에 첨부된 리저에는 등록된 소득 총에서 수 이상한 필기 변경에 이르기까지 여러 가지 불균형이 있습니다. 누군가가 리저를 조작하고있는 것처럼 보입니다. 아무도 주목하지 않았기 때문에 그들은 바닥 라인에만 관심을 기울이는 것처럼 보입니다. 그러한 오류로부터 이익을 얻을 수있는 유일한 사람은 카일라입니다. 그녀는 이것을 사용하여 카일라의 루스트 소유자에게 지불하는 비용을 줄일 수 있습니다."
-area011,git,Placeable List/39/ItemList/1/LocalizedName,0,13025,호스트의 호스트 레저
+area011,git,Placeable List/39/ItemList/1/LocalizedName,0,13025,수탉의 간이 재무일지
 area011,git,Placeable List/39/LocName,0,68938,상자
-area011,git,Placeable List/5/Description,0,14700,"노란색, 염색 된 표지판: ""자신 앉으세요!"""
-area011,git,Placeable List/5/LocName,0,14701,"""앉아!"""
+area011,git,Placeable List/5/Description,0,14700,"노란색이고 오염된 표지판: ""자신에게 앉으세요!"""
+area011,git,Placeable List/5/LocName,0,14701,"""자리를 차리세요!"""
 area011,git,Placeable List/9/LocName,0,84565,서랍장
 area011,git,StoreList/0/LocName,0,-1,상인 바키퍼
-area011,git,WaypointList/1/MapNote,0,14815,지역 출구
+area011,git,WaypointList/1/MapNote,0,14815,지역 출입구
 area011,git,WaypointList/2/MapNote,0,14815,하라시의 아파트
-coranovilla001,git,Creature List/0/Description,0,-1,"이 거친 왜기는 돌과 더 작은 남자 들 을 깨뜨릴 수 있는 표정을 입는다. 그녀의 평평한 집 의 옷 은 밀가루 또는 먼지, 또는 둘 다로 층화 되어 있다. 그녀는 머리 위 에 보관 하는 느슨한 빵 처럼, 다른 경우도 잘 유지된다. 유일한 다른 경우 눈에 띄는 특징 은 목걸이 이며, 그녀를 노예 로 표시 한다."
-coranovilla001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,이본의 복장
+coranovilla001,git,Creature List/0/Description,0,-1,"이 거친 드워프는 돌과 더 작은 남자들을 깨뜨릴 수 있는 표정을 내보내고 있다. 그녀의 평범한 집사복은 밀가루나 먼지, 혹은 둘 다로 층층이 쌓여 있다. 그녀는 머리 위에 놓은 느슨한 묶음처럼 잘 관리되고 있지만, 유일하게 눈에 띄는 특징은 목에 걸린 목걸이로, 노예임을 나타내고 있다."
+coranovilla001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,이브온의 의상
 coranovilla001,git,Creature List/0/FirstName,0,-1,이본
-coranovilla001,git,Creature List/0/ItemList/2/DescIdentified,0,-1,보내기 위한 반지
-coranovilla001,git,Creature List/0/ItemList/2/Description,0,-1,평형 은 반지.
-coranovilla001,git,Creature List/0/ItemList/2/LocalizedName,0,-1,전언의 반지
-coranovilla001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,파라사노 코렐라노의 복장
+coranovilla001,git,Creature List/0/ItemList/2/DescIdentified,0,-1,전송 반지
+coranovilla001,git,Creature List/0/ItemList/2/Description,0,-1,평범한 은 반지.
+coranovilla001,git,Creature List/0/ItemList/2/LocalizedName,0,-1,전송의 반지
+coranovilla001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,파라사노 코렐라노의 의복
 coranovilla001,git,Creature List/1/FirstName,0,-1,파라사노
 coranovilla001,git,Creature List/1/LastName,0,-1,코라노
-coranovilla001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 6
+coranovilla001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 6
 coranovilla001,git,Creature List/10/FirstName,0,-1,머피
-coranovilla001,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 8
+coranovilla001,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 8
 coranovilla001,git,Creature List/11/FirstName,0,-1,귀족 시민
-coranovilla001,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 7
+coranovilla001,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 7
 coranovilla001,git,Creature List/12/FirstName,0,-1,귀족 시민
-coranovilla001,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 7
+coranovilla001,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 7
 coranovilla001,git,Creature List/13/FirstName,0,-1,귀족 시민
-coranovilla001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+coranovilla001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 coranovilla001,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 coranovilla001,git,Creature List/2/FirstName,0,-1,도시 경비병
-coranovilla001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+coranovilla001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 coranovilla001,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 coranovilla001,git,Creature List/3/FirstName,0,-1,도시 경비병
-coranovilla001,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+coranovilla001,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 coranovilla001,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 coranovilla001,git,Creature List/4/FirstName,0,-1,도시 경비병
-coranovilla001,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+coranovilla001,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 coranovilla001,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 coranovilla001,git,Creature List/5/FirstName,0,-1,도시 경비병
-coranovilla001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+coranovilla001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 coranovilla001,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 coranovilla001,git,Creature List/6/FirstName,0,-1,도시 경비병
-coranovilla001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+coranovilla001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 coranovilla001,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 coranovilla001,git,Creature List/7/FirstName,0,-1,도시 경비병
-coranovilla001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+coranovilla001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 coranovilla001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 coranovilla001,git,Creature List/8/FirstName,0,-1,도시 경비병
-coranovilla001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 5
+coranovilla001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 5
 coranovilla001,git,Creature List/9/FirstName,0,-1,윈스럽
 coranovilla001,git,Door List/3/LocName,0,5349,문
 coranovilla001,git,Door List/4/LocName,0,5349,뒷문
-coranovilla001,git,Placeable List/0/Description,0,68936,책과 문서의 집합이
+coranovilla001,git,Placeable List/0/Description,0,68936,책과 문서의 쌓임
 coranovilla001,git,Placeable List/0/LocName,0,68935,쌓인 책
 coranovilla001,git,Placeable List/1/ItemList/0/Description,0,-1,이 문서 컬렉션에는 북부시장 구역에 있는 건물의 증명이 포함되어 있습니다. 꿈꾸는 알라다라가 빌려주는 건물입니다.
-coranovilla001,git,Placeable List/1/ItemList/0/LocalizedName,0,-1,북부 시장 부동산 권리증
-coranovilla001,git,Placeable List/1/ItemList/3/Description,0,-1,이 문서들은 해상시장 지역에 있는 여러 창고의 행위와 소유권을 상세히 설명하고 있습니다. 그 중 하나는 울란 아우린타르라는 노예에게 임대되어 있습니다. 여기에 울란에서 매우 많은 노예를 구입한 영수증을 첨부하고 있습니다.
-coranovilla001,git,Placeable List/1/ItemList/3/LocalizedName,0,-1,해상 시장 창고 권리증
-coranovilla001,git,Placeable List/28/Description,0,14572,이렇게 큰 피의 웅덩이에서 한 남자가 벌어진 끔찍한 싸움의 이야기를 들려준다.
+coranovilla001,git,Placeable List/1/ItemList/0/LocalizedName,0,-1,북부 시장 부동산 권리증서
+coranovilla001,git,Placeable List/1/ItemList/3/Description,0,-1,"이 문서들은 해상시장 지역의 몇몇 창고의 행위와 소유권을 상세히 기록하고 있으며, 그 중 하나는 노예 거래인 울란 아우린타르에게 임대되어 있는 창고도 포함되어 있습니다. 첨부된 영수증에는 울란에서 구입한 매우 많은 노예들에 대한 내용이 포함되어 있으며, 노예들의 상태가 ""복구 후""에 대한 노트도 포함되어 있습니다. 그러나 그들이 복구하는 대상에 대해서는 구체적으로 언급되어 있지 않습니다."
+coranovilla001,git,Placeable List/1/ItemList/3/LocalizedName,0,-1,해상 시장 창고 증권
+coranovilla001,git,Placeable List/28/Description,0,14572,이렇게 큰 피의 웅덩이는 누군가가 한판 치열한 싸움을 벌였음을 말해준다.
 coranovilla001,git,Placeable List/28/LocName,0,5789,핏웅덩이
-coranovilla001,git,Placeable List/33/Description,0,84598,"그 잔해들 가운데 액체 금처럼 보인 알코올을 담고 있는 디칸터도 있고, 그 냄새도 비싼 것 같습니다."
-coranovilla001,git,Placeable List/33/LocName,0,84592,부서진 선반
-coranovilla001,git,Placeable List/70/Description,0,14597,이 상자는 매우 값비싼 달콤한 냄새가 나는 파이프초로 가득합니다.
+coranovilla001,git,Placeable List/33/Description,0,84598,"그 잔해들 사이에는 액체 금처럼 보이는 알코올이 담긴 디칸터가 있으며, 그 냄새는 매우 비싸 보입니다."
+coranovilla001,git,Placeable List/33/LocName,0,84592,부서진 서랍장
+coranovilla001,git,Placeable List/70/Description,0,14597,이 상자는 매우 값비싼 달콤한 냄새가 나는 파이프우드로 가득합니다.
 coranovilla001,git,Placeable List/70/LocName,0,5348,담배 상자
-coranovilla001,git,Placeable List/71/Description,0,68936,책 중 하나는 내부와 외부 비행기의 이론적 레이아웃을 상세히 설명합니다.
+coranovilla001,git,Placeable List/71/Description,0,68936,책 중 하나는 내부와 외부 평면의 이론적 배치를 상세히 설명합니다.
 coranovilla001,git,Placeable List/71/LocName,0,68935,쌓인 책
 coranovilla001,git,Placeable List/72/Description,0,14572,피와 단 한 발자국으로 한 명의 암살자 출입구였다는 걸 알 수 있습니다.
 coranovilla001,git,Placeable List/72/LocName,0,5789,피 묻은 발자국
-coranovilla001,git,SoundList/6/LocName,0,67826,기침과 속삭임
-coranovilla001,git,TriggerList/0/LocalizedName,0,14759,테디를 림보로 보낸다
+coranovilla001,git,SoundList/6/LocName,0,67826,기침하고 속삭임
+coranovilla001,git,TriggerList/0/LocalizedName,0,14759,테디를 불확실한 곳으로 보낸다
 firstnightmare,git,Creature List/1/Description,0,-1,이 여자 는 시야자 의 모습 이다. 그녀의 긴 암흑 머리카락 은 얽힌 말 꼬리 에 묶여 있다. 그녀는 혈전 이 은 회색 의복 을 입고 있다. 그녀의 시야 는 지 않은 눈 으로 찢어지고 찢어지고 찢어지고 있다. 그녀의 목 에 찌른 珠 과 덩어리 들 의 집합 은 움직일 때 부드러운 클릭 소리 를 내는 것 이다.
 firstnightmare,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,알라다라의 갑옷
 firstnightmare,git,Creature List/1/FirstName,0,-1,알라다라
 firstnightmare,git,Creature List/10/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/10/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/10/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/11/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/11/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/11/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/12/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/12/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/12/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/13/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/13/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/13/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/14/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/14/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/14/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/15/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/15/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/15/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/16/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/16/FirstName,0,-1,악몽의 그림자
-firstnightmare,git,Creature List/2/Description,0,-1,"이 넥타이는 머리부터 발자국까지 상상할 수 있는 모든 텍스처의 얇은 검은 실크로 장식되어 있으며, 금 목걸이와 그의 액세서리 역할을 하는 반지를 보완한다. 그의 긴 얼굴은 두 개의 뿔으로 왕관되어 있으며, 옆으로 어 있으며, 거의 영구적인 조롱을 틀고 있다. 울란에 관한 모든 것은 그를 보는 사람들이 그가 그 당시 어떤 활동에 종사하는 것보다 더 낫다고 믿는 것을 확실히 하기 위해 특별히 제작된 것 같습니다."
+firstnightmare,git,Creature List/16/FirstName,0,-1,악몽 그림자
+firstnightmare,git,Creature List/2/Description,0,-1,"이 네크타인은 머리부터 발까지 상상할 수 있는 모든 텍스처의 검은 실크로 장식되어 있으며, 금 목걸이와 반지가 그의 액세서리 역할을 한다. 긴 얼굴 위에는 두 개의 코브라처럼 굽은 뿔이 있어, 볼을 감싸며 거의 영구적인 조롱을 틀고 있다. 울란은 모든 것이 특별히 제작되어, 그를 보는 사람들에게 그가 현재 어떤 활동을 하더라도 더 나은 존재임을 확실히 전달하려는 듯 보인다."
 firstnightmare,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,울란의 갑옷
 firstnightmare,git,Creature List/2/FirstName,0,-1,울란
 firstnightmare,git,Creature List/2/LastName,0,-1,아우린타르
 firstnightmare,git,Creature List/3/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/3/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/3/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/4/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/4/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/4/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/5/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/5/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/5/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/6/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/6/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/6/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/7/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/7/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/7/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/8/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/8/FirstName,0,-1,악몽의 그림자
+firstnightmare,git,Creature List/8/FirstName,0,-1,악몽 그림자
 firstnightmare,git,Creature List/9/Description,0,-1,끔찍한 그림자
-firstnightmare,git,Creature List/9/FirstName,0,-1,악몽의 그림자
-firstnightmare,git,Placeable List/0/Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
-firstnightmare,git,Placeable List/0/LocName,0,5800,정체불명의 목소리
+firstnightmare,git,Creature List/9/FirstName,0,-1,악몽 그림자
+firstnightmare,git,Placeable List/0/Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
+firstnightmare,git,Placeable List/0/LocName,0,5800,수수께끼의 목소리
 firstnightmare,git,TriggerList/0/LocalizedName,0,14759,1.P_N1_MYSTERIOUS_VOICE.nmys_001
 firstnightmare,git,TriggerList/1/LocalizedName,0,14759,1.DDF_NPC_Aladara 폭발
 firstnightmare,git,TriggerList/2/LocalizedName,0,14759,1.DDF_NPC_Ulan_FN
 firstnightmare,git,WaypointList/0/LocalizedName,0,-1,ddf_SpawnPoint_FirstNightmare01
-harasissoulapt,git,Encounter List/0/LocalizedName,0,-1,하라시의 영혼 거래 아파트
+harasissoulapt,git,Encounter List/0/LocalizedName,0,-1,하라시의 영혼 교환 아파트
 harasissoulapt,git,Placeable List/17/LocName,0,5656,배낭
-harasissoulapt,git,Placeable List/20/LocName,0,66692,시든 꽃
+harasissoulapt,git,Placeable List/20/LocName,0,66692,죽은 꽃
 harasissoulapt,git,Placeable List/28/Description,0,84574,다양한 종이 조각.
 harasissoulapt,git,Placeable List/28/LocName,0,84561,문서
 harasissoulapt,git,Placeable List/29/Description,0,84574,다양한 종이 조각.
@@ -395,7 +395,7 @@ harasissoulapt,git,Placeable List/29/LocName,0,84561,문서
 harasissoulapt,git,Placeable List/30/LocName,0,84563,쪽지
 harasissoulapt,git,Placeable List/31/Description,0,84574,다양한 종이 조각.
 harasissoulapt,git,Placeable List/31/LocName,0,84561,서류
-harasissoulapt,git,Placeable List/32/Description,0,84576,단순한 종이 한 장
+harasissoulapt,git,Placeable List/32/Description,0,84576,단순한 종이
 harasissoulapt,git,Placeable List/32/LocName,0,84563,영수증
 harasissoulapt,git,Placeable List/67/Description,0,84574,다양한 종이 조각.
 harasissoulapt,git,Placeable List/67/LocName,0,84561,영수증
@@ -405,21 +405,21 @@ harasissoulapt,git,Placeable List/69/Description,0,84574,다양한 종이 조각
 harasissoulapt,git,Placeable List/69/LocName,0,84561,문서
 harasissoulapt,git,TriggerList/0/LocalizedName,0,14759,TriggerHarasiSoulApt
 limbo,git,Creature List/0/Description,0,-1,"델디 는 둥근, 둥근, 행복 한 사람 이다. 그의 특징 은 둥근 이며, 그의 끊임없는 미소는 그 들 을 더욱 둥근 하게 한다. 당신은 그가 귀여운 아기 였을 것 같을 것 을 느낍니다. 그는 자부심 으로 그의 종 의 옷을 입고 있으며, 그의 은 갈색 머리카락 을 잘 유지 합니다."
-limbo,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,테디의 복장
+limbo,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,테디의 의상
 limbo,git,Creature List/0/FirstName,0,-1,테디
 limbo,git,Creature List/1/Description,0,-1,"루첸나 의 외모 에 관한 모든 것 은 ""능력""이라고 외치는 것 이다. ""높은 인간 여성 은 참전 군인 의 편리 와 편안 함 으로 그녀의 불결 한 완전한 미트릴 판 을 착용 한다. 푸른 반 뚜 을 허리 에 뱉고, 푸른 금발 한 말 꼬리 를 깎아 깎아 뜯는다. 그녀는 한 톱니 에 의지 하고, 그녀의 손 은 두 개의 칼 한 가지 의 손잡이에 달려 있으며, 그녀의 부드럽지만 전투 에 지친 얼굴 에 혼란 스러운 표정 이다."
 limbo,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,13798,루센나의 갑옷
 limbo,git,Creature List/1/FirstName,0,-1,루센나
-limbo,git,Creature List/2/Description,0,-1,"인간 모양의 칼인 하라시 는 한 심한 여성 이다. 그녀 의 모든 것 은 가장자리에 있다. 그녀의 긴 검은 머리카락 의 날카로운 절단 은 그녀의 피부 의 갈색 톤 으로 대조된다. 그녀는 암흑 에서 껍데기를 닦는 칼 처럼 부드럽고 조용 하게 움직인다. 그녀의 눈 은 거의 끊임없이 그녀가 보고 있는 모든 것에 좁아지고 있으며, 마치 전 세계가 그녀에게 거짓말을 하고 있다고 의심 하는 것 처럼."
-limbo,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,13717,하라시의 경갑
+limbo,git,Creature List/2/Description,0,-1,"하라시는 인간 모양의 칼로, 매우 냉정한 여성이었다. 그녀의 모든 것이 날카로운 경계를 띠고 있었다. 긴 검은 머리카락의 선명한 끝은 그녀의 갈색 피부와 대조되었다. 그녀는 어둠 속에서 검을 껍데기에서 닦는 것처럼 부드럽고 조용하게 움직였다. 그녀의 눈은 거의 항상 좁혀져 있었고, 그녀가 바라보는 모든 것에 대해 세상이 자신에게 거짓말을 하고 있다고 의심하고 있었다."
+limbo,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,13717,하라시의 빛 갑옷
 limbo,git,Creature List/2/FirstName,0,-1,하라시
-limbo,git,Creature List/2/ItemList/7/DescIdentified,0,-1,보내기 위한 반지
-limbo,git,Creature List/2/ItemList/7/Description,0,-1,평형 은 반지.
-limbo,git,Creature List/2/ItemList/7/LocalizedName,0,-1,전언의 반지
+limbo,git,Creature List/2/ItemList/7/DescIdentified,0,-1,전송 반지
+limbo,git,Creature List/2/ItemList/7/Description,0,-1,평범한 은 반지.
+limbo,git,Creature List/2/ItemList/7/LocalizedName,0,-1,전송의 반지
 limbo,git,Creature List/2/LastName,0,-1,고기
-limbo,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,노예상 복장
-limbo,git,Creature List/3/FirstName,0,-1,노예상 경비병
-midtownmunicipal,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+limbo,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,노예복장
+limbo,git,Creature List/3/FirstName,0,-1,노예 상경비병
+midtownmunicipal,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 midtownmunicipal,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 midtownmunicipal,git,Creature List/0/FirstName,0,-1,도시 경비병
 midtownmunicipal,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,하모니움 경비병 투구
@@ -433,161 +433,161 @@ midtownmunicipal,git,Creature List/3/FirstName,0,-1,캄비온
 midtownmunicipal,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,12928,바테주 경비병 갑옷
 midtownmunicipal,git,Creature List/4/FirstName,0,-1,캄비온
 midtownmunicipal,git,Creature List/5/FirstName,0,-1,사업가
-midtownmunicipal,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
-midtownmunicipal,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,13798,거브너 경비병 갑옷
-midtownmunicipal,git,Creature List/6/FirstName,0,-1,질서 형제단 경비병
+midtownmunicipal,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
+midtownmunicipal,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,13798,경비병 갑옷
+midtownmunicipal,git,Creature List/6/FirstName,0,-1,질서 형제단의 경비병
 midtownmunicipal,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,하모니움 경비병 투구
 midtownmunicipal,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,13798,하모니움 경비병 갑옷
 midtownmunicipal,git,Creature List/7/FirstName,0,-1,하모니움 경비병
-midtownmunicipal,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 1
+midtownmunicipal,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 1
 midtownmunicipal,git,Creature List/8/FirstName,0,-1,시민
-midtownmunicipal,git,Door List/4/Description,0,-1,여기서 볼만한 게 없어요
-midtownmunicipal,git,Door List/4/LocName,0,-1,사용할 수 없는 문
-midtownmunicipal,git,Encounter List/0/LocalizedName,0,-1,시내 중부 NPC
-midtownmunicipal,git,Placeable List/0/LocName,0,14688,"""기록 을 쌓는 것"""
-midtownmunicipal,git,Placeable List/12/Description,0,-1,문 앞 깔개
-midtownmunicipal,git,Placeable List/12/LocName,0,-1,기록관 입구
-midtownmunicipal,git,Placeable List/15/LocName,0,14616,"""해수시장"""
-midtownmunicipal,git,Placeable List/16/LocName,0,14616,"""해수시장"""
-midtownmunicipal,git,Placeable List/2/Description,0,41263,나무 문.
-midtownmunicipal,git,Placeable List/2/LocName,0,63463,기록관 문
-midtownmunicipal,git,Placeable List/22/Description,0,6792,덩어리 있는 바구니.
-midtownmunicipal,git,Placeable List/22/LocName,0,111668,빵 바구니
+midtownmunicipal,git,Door List/4/Description,0,-1,여기서 볼 게 없어.
+midtownmunicipal,git,Door List/4/LocName,0,-1,사용 불가능한 문
+midtownmunicipal,git,Encounter List/0/LocalizedName,0,-1,중부 시내 NPC
+midtownmunicipal,git,Placeable List/0/LocName,0,14688,"""기록 건물"""
+midtownmunicipal,git,Placeable List/12/Description,0,-1,문 앞 매트
+midtownmunicipal,git,Placeable List/12/LocName,0,-1,기록 건물 입구
+midtownmunicipal,git,Placeable List/15/LocName,0,14616,해상 시장
+midtownmunicipal,git,Placeable List/16/LocName,0,14616,해상 시장
+midtownmunicipal,git,Placeable List/2/Description,0,41263,나무 문입니다.
+midtownmunicipal,git,Placeable List/2/LocName,0,63463,기록 건물 문
+midtownmunicipal,git,Placeable List/22/Description,0,6792,가루가 묻은 바구니.
+midtownmunicipal,git,Placeable List/22/LocName,0,111668,빵 상자
 midtownmunicipal,git,Placeable List/23/LocName,0,5656,천 가방
-midtownmunicipal,git,Placeable List/24/Description,0,84576,"밀가루가 담긴 종이 조각에 ""두 개의 벨을 내면 몇 개를 내면 된다""라고 써있죠."
-midtownmunicipal,git,Placeable List/24/LocName,0,84563,손으로 쓴 쪽지
-midtownmunicipal,git,Placeable List/37/Description,0,-1,Furiae의 깃발.
-midtownmunicipal,git,Placeable List/37/LocName,0,-1,DDF 깃발 C01
-midtownmunicipal,git,Placeable List/38/Description,0,-1,Furiae의 깃발.
-midtownmunicipal,git,Placeable List/38/LocName,0,-1,DDF 깃발 C01
-midtownmunicipal,git,Placeable List/5/Description,0,14662,신선한 빵의 향이 이 창 뒤에 갇혀 있습니다.
+midtownmunicipal,git,Placeable List/24/Description,0,84576,"밀가루가 묻은 종이 조각에 ""2분 후에... 약간의 오차는 있겠지만.""라고 적혀 있다."
+midtownmunicipal,git,Placeable List/24/LocName,0,84563,손으로 쓴 노트
+midtownmunicipal,git,Placeable List/37/Description,0,-1,파루아의 깃발.
+midtownmunicipal,git,Placeable List/37/LocName,0,-1,DDF 표지 C01
+midtownmunicipal,git,Placeable List/38/Description,0,-1,파루아의 깃발.
+midtownmunicipal,git,Placeable List/38/LocName,0,-1,DDF 표지 C01
+midtownmunicipal,git,Placeable List/5/Description,0,14662,신선한 빵의 향이 이 창 너머로 풍겨옵니다.
 midtownmunicipal,git,Placeable List/5/LocName,0,5800,빵집 창문
-midtownmunicipal,git,Placeable List/9/LocName,0,14616,"""보그가트 베이커리"""
+midtownmunicipal,git,Placeable List/9/LocName,0,14616,보그가트 베이커리
 midtownmunicipal,git,TriggerList/0/LocalizedName,0,14759,새 일반
-midtownmunicipal,git,WaypointList/13/MapNote,0,14815,지역 출구
-midtownmunicipal,git,WaypointList/14/MapNote,0,14815,시립 기록관
-midtownmunicipal,git,WaypointList/15/LocalizedName,0,14814,지도 메모
+midtownmunicipal,git,WaypointList/13/MapNote,0,14815,지역 출입구
+midtownmunicipal,git,WaypointList/14/MapNote,0,14815,시립 건물
+midtownmunicipal,git,WaypointList/15/LocalizedName,0,14814,지도 설명
 midtownmunicipal,git,WaypointList/15/MapNote,0,14815,시립 기록 건물 뒷문
-midtownmunicipal,git,WaypointList/16/LocalizedName,0,14814,지도 메모
+midtownmunicipal,git,WaypointList/16/LocalizedName,0,14814,지도 설명
 midtownmunicipal,git,WaypointList/16/MapNote,0,14815,빵집
-northmarket,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+northmarket,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 northmarket,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 northmarket,git,Creature List/0/FirstName,0,-1,도시 경비병
-northmarket,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
-northmarket,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,시티 경비 갑옷 시립
+northmarket,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
+northmarket,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,시티 경비병 갑옷
 northmarket,git,Creature List/1/FirstName,0,-1,도시 경비병
-northmarket,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+northmarket,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 northmarket,git,Creature List/2/FirstName,0,-1,시민
-northmarket,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+northmarket,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 northmarket,git,Creature List/3/FirstName,0,-1,시민
-northmarket,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+northmarket,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 northmarket,git,Creature List/4/FirstName,0,-1,시민
-northmarket,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+northmarket,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 northmarket,git,Creature List/5/FirstName,0,-1,시민
-northmarket,git,Door List/2/Description,0,-1,여기서 볼만한 게 없어요
-northmarket,git,Door List/2/LocName,0,-1,사용할 수 없는 문
-northmarket,git,Door List/3/Description,0,-1,여기서 볼만한 게 없어요
-northmarket,git,Door List/3/LocName,0,-1,사용할 수 없는 문
-northmarket,git,Door List/4/Description,0,-1,여기서 볼만한 게 없어요
-northmarket,git,Door List/4/LocName,0,-1,사용할 수 없는 문
-northmarket,git,Door List/5/Description,0,-1,여기서 볼만한 게 없어요
-northmarket,git,Door List/5/LocName,0,-1,사용할 수 없는 문
+northmarket,git,Door List/2/Description,0,-1,여기서 볼 게 없어.
+northmarket,git,Door List/2/LocName,0,-1,사용 불가능한 문
+northmarket,git,Door List/3/Description,0,-1,여기서 볼 게 없어.
+northmarket,git,Door List/3/LocName,0,-1,사용 불가능한 문
+northmarket,git,Door List/4/Description,0,-1,여기서 볼 게 없어.
+northmarket,git,Door List/4/LocName,0,-1,사용 불가능한 문
+northmarket,git,Door List/5/Description,0,-1,여기서 볼 게 없어.
+northmarket,git,Door List/5/LocName,0,-1,사용 불가능한 문
 northmarket,git,Encounter List/0/LocalizedName,0,-1,노스 마켓 NPC 1
-northmarket,git,Encounter List/1/LocalizedName,0,-1,노스 마켓 NPCs 2
+northmarket,git,Encounter List/1/LocalizedName,0,-1,북 마켓 NPCs 2
 northmarket,git,Placeable List/0/Description,0,68960,이 창은 뚫려있어요.
 northmarket,git,Placeable List/0/LocName,0,68959,반쯤 열린 창문
-northmarket,git,Placeable List/20/ItemList/0/LocalizedName,0,-1,평민 복장
-northmarket,git,Placeable List/20/ItemList/1/LocalizedName,0,-1,평민 복장
-northmarket,git,Placeable List/20/ItemList/2/LocalizedName,0,-1,평민 복장
-northmarket,git,Placeable List/3/Description,0,14619,이웃의 입구를 표시하는 깃발
-northmarket,git,Placeable List/4/Description,0,14619,이웃의 입구를 표시하는 깃발
-northmarket,git,Placeable List/5/Description,0,-1,문 앞 깔개
+northmarket,git,Placeable List/20/ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+northmarket,git,Placeable List/20/ItemList/1/LocalizedName,0,-1,평민의 옷 입은 것
+northmarket,git,Placeable List/20/ItemList/2/LocalizedName,0,-1,평민의 옷 입은 것
+northmarket,git,Placeable List/3/Description,0,14619,이웃 구역 입구를 표시하는 깃발
+northmarket,git,Placeable List/4/Description,0,14619,이웃 구역 입구를 표시하는 깃발
+northmarket,git,Placeable List/5/Description,0,-1,문 앞 매트
 northmarket,git,Placeable List/5/LocName,0,-1,아파트 입구
-northmarket,git,WaypointList/2/MapNote,0,14815,지역 출구
-northmarket,git,WaypointList/3/MapNote,0,14815,알라다라의 아파트
-ratholestreets,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+northmarket,git,WaypointList/2/MapNote,0,14815,지역 출입구
+northmarket,git,WaypointList/3/MapNote,0,14815,알라다라의 아파트방
+ratholestreets,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 ratholestreets,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 ratholestreets,git,Creature List/0/FirstName,0,-1,도시 경비병
-ratholestreets,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+ratholestreets,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 ratholestreets,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 ratholestreets,git,Creature List/1/FirstName,0,-1,도시 경비병
 ratholestreets,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,트리나 모닝듀의 옷
 ratholestreets,git,Creature List/2/FirstName,0,-1,트리나
-ratholestreets,git,Creature List/2/ItemList/2/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
-ratholestreets,git,Creature List/2/ItemList/2/Description,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
+ratholestreets,git,Creature List/2/ItemList/2/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
+ratholestreets,git,Creature List/2/ItemList/2/Description,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
 ratholestreets,git,Creature List/2/ItemList/2/LocalizedName,0,-1,월드와인 물약
-ratholestreets,git,Creature List/2/ItemList/3/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
-ratholestreets,git,Creature List/2/ItemList/3/Description,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
+ratholestreets,git,Creature List/2/ItemList/3/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
+ratholestreets,git,Creature List/2/ItemList/3/Description,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
 ratholestreets,git,Creature List/2/ItemList/3/LocalizedName,0,-1,월드와인 물약
 ratholestreets,git,Creature List/2/LastName,0,-1,모닝듀
-ratholestreets,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,텔레스의 옷
+ratholestreets,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,텔레스의 옷옷
 ratholestreets,git,Creature List/3/FirstName,0,-1,텔레스
-ratholestreets,git,Creature List/3/ItemList/3/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
-ratholestreets,git,Creature List/3/ItemList/3/Description,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
+ratholestreets,git,Creature List/3/ItemList/3/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
+ratholestreets,git,Creature List/3/ItemList/3/Description,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
 ratholestreets,git,Creature List/3/ItemList/3/LocalizedName,0,-1,월드와인 물약
-ratholestreets,git,Creature List/3/ItemList/4/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
-ratholestreets,git,Creature List/3/ItemList/4/Description,0,-1,"두꺼운 달콤한 보라색 액체 의 병. 월드 와인은 필사자들에게 꿈 같은 상태 를 일으키는 것 이라고 한다. 물질 이 본래 어디에서 왔든, * 컨테이너*는 호스트 로스트 라는 술집 에서 재사용 된 술 병 처럼 보인다."
+ratholestreets,git,Creature List/3/ItemList/4/DescIdentified,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
+ratholestreets,git,Creature List/3/ItemList/4/Description,0,-1,"두꺼운 달콤한 보라색 액체의 병입니다. 월드 와인은 필사자들에게 꿈 같은 상태를 일으키는 것으로 알려져 있습니다. 물질이 본래 어디에서 왔든, *컨테이너*는 호스트 룸스라는 술집에서 재사용된 수탉의 집 병처럼 보입니다."
 ratholestreets,git,Creature List/3/ItemList/4/LocalizedName,0,-1,월드와인 물약
 ratholestreets,git,Creature List/3/LastName,0,-1,호너
-ratholestreets,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+ratholestreets,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 ratholestreets,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 ratholestreets,git,Creature List/4/FirstName,0,-1,도시 경비병
-ratholestreets,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+ratholestreets,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 ratholestreets,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 ratholestreets,git,Creature List/5/FirstName,0,-1,도시 경비병
 ratholestreets,git,Door List/0/LocName,0,5349,여관 문
 ratholestreets,git,Door List/1/LocName,0,5349,관문
 ratholestreets,git,Door List/2/LocName,0,5349,문
-ratholestreets,git,Door List/3/Description,0,-1,"이건 별다른 사적지, 안 들어올 수 없어요."
-ratholestreets,git,Door List/3/LocName,0,-1,사용할 수 없는 문
-ratholestreets,git,Door List/4/Description,0,-1,"이건 별다른 사적지, 안 들어올 수 없어요."
-ratholestreets,git,Door List/4/LocName,0,-1,사용할 수 없는 문
-ratholestreets,git,Door List/5/Description,0,-1,"이건 별다른 사적지, 안 들어올 수 없어요."
-ratholestreets,git,Door List/5/LocName,0,-1,사용할 수 없는 문
-ratholestreets,git,Door List/6/Description,0,-1,"이건 별다른 사적지, 안 들어올 수 없어요."
-ratholestreets,git,Door List/6/LocName,0,-1,사용할 수 없는 문
-ratholestreets,git,Encounter List/0/LocalizedName,0,-1,쥐구멍 불량배 조우
+ratholestreets,git,Door List/3/Description,0,-1,이곳은 중요하지 않은 사적인 거처입니다; 들어갈 수 없습니다.
+ratholestreets,git,Door List/3/LocName,0,-1,사용 불가능한 문
+ratholestreets,git,Door List/4/Description,0,-1,이곳은 중요하지 않은 사적인 거처입니다; 들어갈 수 없습니다.
+ratholestreets,git,Door List/4/LocName,0,-1,사용 불가능한 문
+ratholestreets,git,Door List/5/Description,0,-1,이곳은 중요하지 않은 사적인 거처입니다; 들어갈 수 없습니다.
+ratholestreets,git,Door List/5/LocName,0,-1,사용 불가능한 문
+ratholestreets,git,Door List/6/Description,0,-1,이곳은 중요하지 않은 사적인 거처입니다; 들어갈 수 없습니다.
+ratholestreets,git,Door List/6/LocName,0,-1,사용 불가능한 문
+ratholestreets,git,Encounter List/0/LocalizedName,0,-1,쥐구멍 불한당 인카운터
 ratholestreets,git,Encounter List/1/LocalizedName,0,-1,쥐에 대한 만남
 ratholestreets,git,Encounter List/2/LocalizedName,0,-1,쥐에 대한 만남
-ratholestreets,git,Encounter List/3/LocalizedName,0,-1,쥐구멍 NPC 2
-ratholestreets,git,Encounter List/4/LocalizedName,0,-1,쥐구멍 NPC 1
+ratholestreets,git,Encounter List/3/LocalizedName,0,-1,쥐굴 NPC 2
+ratholestreets,git,Encounter List/4/LocalizedName,0,-1,쥐굴 NPC 1
 ratholestreets,git,Encounter List/5/LocalizedName,0,-1,쥐에 대한 만남
-ratholestreets,git,Placeable List/0/Description,0,68926,래트홀의 다른 부분으로 이어지는 단단한 돌문.
-ratholestreets,git,Placeable List/1/Description,0,14717,"""악마의 콧수염 숙소"""
-ratholestreets,git,Placeable List/2/Description,0,-1,문 앞 깔개
+ratholestreets,git,Placeable List/0/Description,0,68926,"래트홀의 다른 부분으로 이어지는 단단한 돌문이 있으며, 다른 쪽에서 잠겨 있습니다."
+ratholestreets,git,Placeable List/1/Description,0,14717,"""마귀의 콧수염 숙소"""
+ratholestreets,git,Placeable List/2/Description,0,-1,문 앞 매트
 ratholestreets,git,Placeable List/2/LocName,0,-1,여관 입구
 ratholestreets,git,Placeable List/20/Description,0,110864,오어스의 자유의 신인 트리테레온의 작은 성당
-ratholestreets,git,Placeable List/20/LocName,0,110794,트리테레온의 사당
-ratholestreets,git,Placeable List/22/Description,0,-1,Furiae의 깃발.
-ratholestreets,git,Placeable List/22/LocName,0,-1,DDF 깃발 B01
-ratholestreets,git,Placeable List/23/Description,0,-1,Furiae의 깃발.
-ratholestreets,git,Placeable List/23/LocName,0,-1,DDF 깃발 C01
-ratholestreets,git,Placeable List/24/Description,0,-1,Furiae의 깃발.
-ratholestreets,git,Placeable List/24/LocName,0,-1,DDF 깃발 C01
-ratholestreets,git,Placeable List/9/Description,0,-1,문 앞 깔개
+ratholestreets,git,Placeable List/20/LocName,0,110794,트리테레온 성지
+ratholestreets,git,Placeable List/22/Description,0,-1,파루아의 깃발.
+ratholestreets,git,Placeable List/22/LocName,0,-1,DDF 표지 B01
+ratholestreets,git,Placeable List/23/Description,0,-1,파루아의 깃발.
+ratholestreets,git,Placeable List/23/LocName,0,-1,DDF 표지 C01
+ratholestreets,git,Placeable List/24/Description,0,-1,파루아의 깃발.
+ratholestreets,git,Placeable List/24/LocName,0,-1,DDF 표지 C01
+ratholestreets,git,Placeable List/9/Description,0,-1,문 앞 매트
 ratholestreets,git,Placeable List/9/LocName,0,-1,아파트 입구
 ratholestreets,git,WaypointList/11/LocalizedName,0,-1,NW_STOP
-ratholestreets,git,WaypointList/5/MapNote,0,14815,지역 출구
+ratholestreets,git,WaypointList/5/MapNote,0,14815,지역 출입구
 ratholestreets,git,WaypointList/6/MapNote,0,14815,여관
 ratholestreets,git,WaypointList/7/MapNote,0,14815,하라시의 아파트
-recordbuilding,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
-recordbuilding,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,거브너 경비병 갑옷
-recordbuilding,git,Creature List/0/FirstName,0,-1,질서 형제단 경비병
-recordbuilding,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
-recordbuilding,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,거브너 경비병 갑옷
-recordbuilding,git,Creature List/1/FirstName,0,-1,질서 형제단 경비병
-recordbuilding,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,13798,거브너 경비병 갑옷
-recordbuilding,git,Creature List/2/FirstName,0,-1,질서 형제단 서기
+recordbuilding,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
+recordbuilding,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,경비병 갑옷
+recordbuilding,git,Creature List/0/FirstName,0,-1,질서 형제단의 경비병
+recordbuilding,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
+recordbuilding,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,경비병 갑옷
+recordbuilding,git,Creature List/1/FirstName,0,-1,질서 형제단의 경비병
+recordbuilding,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,13798,경비병 갑옷
+recordbuilding,git,Creature List/2/FirstName,0,-1,질서 형제단 회장
 recordbuilding,git,Door List/2/LocName,0,5349,문
 recordbuilding,git,Placeable List/27/Description,0,68936,음반책들이 다시 채워질 때까지 기다리고 있습니다.
 recordbuilding,git,Placeable List/27/LocName,0,68935,쌓인 책
-recordbuilding,git,Placeable List/28/Description,0,68934,"""The Care and Keeping of Records"" 기록 을 보관 하는 데 관한 좋은 관습 을 거듭 나면서 전해 내려온 아주 오래 된 책."
+recordbuilding,git,Placeable List/28/Description,0,68934,"""기록 관리에 관한 The Care and Keeping of Records"" 이라는 아주 오래된 책으로, 기록 보관의 오랜 관습이 전해져 내려온 내용을 담고 있다."
 recordbuilding,git,Placeable List/28/LocName,0,68933,고서
 recordbuilding,git,Placeable List/5/Description,0,66696,모든 형태와 크기의 책자들로 가득 차 있는 이 책상 은 풍부한 지식 을 저장 합니다.
 seamarket,git,Creature List/0/Description,0,-1,"퀴리안은 몇 시간 동안 일하면서 몸을 굽히고 당신 앞에 서 있습니다. 그의 갈색 피부는 먼지와 먼지에 덮여 있습니다. 그는 부재로 지우지 않습니다. 그것은 도움이 없습니다. 파란색 머리카락은 그의 밋밋한 모자에서 튀어나옵니다. 또한 불확실한 성격의 더러운 것으로 니다. 그의 벨트에는 봉투로 묶여 있으며 다른 옷을 입고있는 것처럼 보입니다. 그의 반복에서 자켓까지 그의 벨트까지, 주머니로 만들어졌습니다. 그는 끊임없이 돌아보고 당신은 당신의 눈 모퉁이에서 그의 이미지를 윙윙하고 흔들고 맹세합니다."
-seamarket,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,사용하지 않는 갑옷
+seamarket,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,미사용 갑옷
 seamarket,git,Creature List/0/FirstName,0,-1,퀼리언
-seamarket,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/1/FirstName,0,-1,도시 경비병
 seamarket,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,일반 셰일 윙어 옷
@@ -599,198 +599,199 @@ seamarket,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,샤일리아�
 seamarket,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,-1,샤일리아의 갑옷
 seamarket,git,Creature List/12/Equip_ItemList/2/LocalizedName,0,-1,사슬 채찍
 seamarket,git,Creature List/12/FirstName,0,-1,시리아
-seamarket,git,Creature List/12/LastName,0,-1,족쇄들
+seamarket,git,Creature List/12/LastName,0,-1,족쇄
 seamarket,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,-1,카리나의 평민 옷
 seamarket,git,Creature List/13/FirstName,0,-1,카리나
 seamarket,git,Creature List/14/FirstName,0,-1,빌방
-seamarket,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+seamarket,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 seamarket,git,Creature List/15/FirstName,0,-1,노예
-seamarket,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성복
+seamarket,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성 옷 입은 자들
 seamarket,git,Creature List/16/FirstName,0,-1,노예
-seamarket,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+seamarket,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 seamarket,git,Creature List/17/FirstName,0,-1,노예
-seamarket,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성복
+seamarket,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 여성 옷 입은 자들
 seamarket,git,Creature List/18/FirstName,0,-1,노예
-seamarket,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 남성복
+seamarket,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,-1,울란의 노예 옷 입은 남자들
 seamarket,git,Creature List/19/FirstName,0,-1,노예
-seamarket,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/2/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,-1,노예상 복장
+seamarket,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,-1,노예복장
 seamarket,git,Creature List/20/FirstName,0,-1,노예 경매인
-seamarket,git,Creature List/21/Description,0,-1,"이 넥타이는 머리부터 발자국까지 상상할 수 있는 모든 텍스처의 얇은 검은 실크로 장식되어 있으며, 금 목걸이와 그의 액세서리 역할을 하는 반지를 보완한다. 그의 긴 얼굴은 두 개의 뿔으로 왕관되어 있으며, 옆으로 어 있으며, 거의 영구적인 조롱을 틀고 있다. 울란에 관한 모든 것은 그를 보는 사람들이 그가 그 당시 어떤 활동에 종사하는 것보다 더 낫다고 믿는 것을 확실히 하기 위해 특별히 제작된 것 같습니다."
+seamarket,git,Creature List/21/Description,0,-1,"이 네크타인은 머리부터 발까지 상상할 수 있는 모든 텍스처의 검은 실크로 장식되어 있으며, 금 목걸이와 반지가 그의 액세서리 역할을 한다. 긴 얼굴 위에는 두 개의 코브라처럼 굽은 뿔이 있어, 볼을 감싸며 거의 영구적인 조롱을 틀고 있다. 울란은 모든 것이 특별히 제작되어, 그를 보는 사람들에게 그가 현재 어떤 활동을 하더라도 더 나은 존재임을 확실히 전달하려는 듯 보인다."
 seamarket,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,-1,울란의 갑옷
 seamarket,git,Creature List/21/FirstName,0,-1,울란
-seamarket,git,Creature List/21/ItemList/10/DescIdentified,0,-1,보내기 위한 반지
-seamarket,git,Creature List/21/ItemList/10/Description,0,-1,평형 은 반지.
-seamarket,git,Creature List/21/ItemList/10/LocalizedName,0,-1,전언의 반지
+seamarket,git,Creature List/21/ItemList/10/DescIdentified,0,-1,전송 반지
+seamarket,git,Creature List/21/ItemList/10/Description,0,-1,평범한 은 반지.
+seamarket,git,Creature List/21/ItemList/10/LocalizedName,0,-1,전송의 반지
 seamarket,git,Creature List/21/LastName,0,-1,아우린타르
-seamarket,git,Creature List/22/Description,0,-1,당신 앞에 있는 반 오크는 근육과 눈빛이 가득하다. 그의 오른눈은 항상 현상을 받아들이고 힘으로 바라보고 있다. 그의 영구적인 눈 은 두 개의 짧은 발톱으로 뚫려져 있다. 하나는 깨졌지만 오크시스 글리프로 새겨진 황금 모자와 완성되어 있다. 그는 모자와 느슨한 셔츠와 자켓으로 자신을 장식했다. 그의 손은 손가락없는 가죽 장갑으로 싸여있다. 손목은 약간 착용한 것처럼 보입니다.
-seamarket,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,-1,크레시의 옷
+seamarket,git,Creature List/22/Description,0,-1,"당신 앞에 있는 반오크는 근육질이고 노려보는 눈빛이 있다. 그의 오른쪽 눈은 힘차게 현장을 바라보며 항상 주위를 살피고 있다. 영구적인 찌푸린 얼굴에는 두 개의 짧고 뾰족한 치아가 뚫려 있으며, 하나는 깨져 있지만 금속으로 만든 모자로 덮여 있으며 그 모자에는 오크 글자가 새겨져 있다. 그는 모자, 느슨한 셔츠, 그리고 베스트로 자신을 장식했으며, 손은 손가락 없는 가죽 장갑으로 감싸져 있다. 손가락은 약간 닳아 보인다."
+seamarket,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,-1,크레시의 의류
 seamarket,git,Creature List/22/FirstName,0,-1,크레시
 seamarket,git,Creature List/22/LastName,0,-1,사슬 파괴자
-seamarket,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,-1,노예상 복장
-seamarket,git,Creature List/23/FirstName,0,-1,노예상 경비병
+seamarket,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,-1,노예복장
+seamarket,git,Creature List/23/FirstName,0,-1,노예 상경비병
 seamarket,git,Creature List/26/FirstName,0,12618,시민
-seamarket,git,Creature List/29/FirstName,0,12416,말라빠진 닭
-seamarket,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/29/FirstName,0,12416,왜소한 닭
+seamarket,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 seamarket,git,Creature List/3/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/30/Description,0,12456,이 개는 콧물고 고개를 숙이고 있습니다. 당신은 그가 마지막으로 본 장소에서 주인이 찾고 있다고 가정합니다.
-seamarket,git,Creature List/30/FirstName,0,12457,잃어버린 개
+seamarket,git,Creature List/30/Description,0,12456,이 개는 냄새를 맡고 울부짖고 있습니다. 당신은 그가 마지막으로 본 장소에서 주인을 찾고 있다고 가정합니다.
+seamarket,git,Creature List/30/FirstName,0,12457,잃어버린 강아지
 seamarket,git,Creature List/34/Description,0,-1,이 생물은 사람데르입니다. 뱀의 하부와 사람의 상부와 같은 불의 원소입니다. 그는 가공자나 기계자의 무거운 가면을 착용하고 있습니다.
 seamarket,git,Creature List/34/FirstName,0,-1,스래퍼
 seamarket,git,Creature List/35/Description,0,-1,이 생물은 사람데르입니다. 뱀의 하부와 사람의 상부와 같은 불의 원소입니다. 그는 가공자나 기계자의 무거운 가면을 착용하고 있습니다.
 seamarket,git,Creature List/35/FirstName,0,-1,발진
 seamarket,git,Creature List/36/Description,0,-1,이 생물은 사람데르입니다. 뱀의 하부와 사람의 상부와 같은 불의 원소입니다. 그는 가공자나 기계자의 무거운 가면을 착용하고 있습니다.
 seamarket,git,Creature List/36/FirstName,0,-1,스키스
-seamarket,git,Creature List/37/Description,0,-1,"바에서 있는 여성은 특별한 지루함으로 오는 침체종을 운동한다. 그녀의 행동은 그녀의 특징에 반대되는 것으로, 그녀의 모든 다른 모든 것이 커리어 장교라고 말한다. 잘 근육화된 형태는 은 가죽 갑옷의 층 아래에 놓여있다. 그녀의 음료를 잡고 있는 손은 잘 수직하지만 유지된다. 그녀의 머리카락은 긴 꼬리로 끌어당겨서 그녀의 특징을 더욱 날카롭게합니다. 지루한 숨쉬는 소리가 때때로 그녀의 입에서 빠져나오는 것을 들 수 있습니다."
-seamarket,git,Creature List/37/Equip_ItemList/0/LocalizedName,0,-1,코크레인의 갑옷
+seamarket,git,Creature List/37/Description,0,-1,"바에서 있는 여성은 특별한 지루함으로 인한 침울한 표정을 짓고 있다. 그녀의 태도는 그녀의 특징과 대조를 이룬다. 그녀의 모든 다른 부분은 커리어 장교임을 나타내고 있다. 잘 근육발달된 몸매는 가죽 갑옷의 겉옷 아래에 숨어 있다. 그녀가 음료를 잡고 있는 손은 잘 콩팥이 있지만, 여전히 깨끗하다. 머리카락은 끈으로 끌어당겨 깁스처럼 땋아져 있어 그녀의 특징을 더욱 날카롭게 한다. 때때로 그녀의 입에서 지루한 한숨이 새어나온다."
+seamarket,git,Creature List/37/Equip_ItemList/0/LocalizedName,0,-1,코크레인 갑옷
 seamarket,git,Creature List/37/FirstName,0,-1,코크레인
-seamarket,git,Creature List/38/Equip_ItemList/0/LocalizedName,0,-1,북쪽 끝 상인의 옷
+seamarket,git,Creature List/38/Equip_ItemList/0/LocalizedName,0,-1,북쪽 끝 상인의 옷옷
 seamarket,git,Creature List/38/FirstName,0,-1,시민
-seamarket,git,Creature List/39/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+seamarket,git,Creature List/39/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 seamarket,git,Creature List/39/FirstName,0,-1,시민
-seamarket,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/4/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/40/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+seamarket,git,Creature List/40/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 seamarket,git,Creature List/40/FirstName,0,-1,시민
-seamarket,git,Creature List/41/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+seamarket,git,Creature List/41/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 seamarket,git,Creature List/41/FirstName,0,-1,시민
-seamarket,git,Creature List/42/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/42/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/42/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/42/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/43/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/43/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/43/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/43/FirstName,0,-1,도시 경비병
 seamarket,git,Creature List/43/ItemList/4/LocalizedName,0,13798,도시 경비병 갑옷
-seamarket,git,Creature List/44/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/44/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/44/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/44/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/45/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/45/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/45/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/45/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/46/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/46/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/46/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/46/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/47/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/47/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/47/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/47/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/48/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/48/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/48/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/48/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/49/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/49/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/49/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/49/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,보석상의 옷
-seamarket,git,Creature List/5/FirstName,0,-1,보석상
-seamarket,git,Creature List/50/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,보석상의 옷품
+seamarket,git,Creature List/5/FirstName,0,-1,보석 상인
+seamarket,git,Creature List/50/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/50/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/50/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/51/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/51/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/51/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/51/FirstName,0,-1,도시 경비병
 seamarket,git,Creature List/51/ItemList/4/LocalizedName,0,13798,도시 경비병 갑옷
-seamarket,git,Creature List/52/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/52/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/52/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/52/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/53/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/53/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/53/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/53/FirstName,0,-1,도시 경비병
 seamarket,git,Creature List/53/ItemList/4/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/54/Equip_ItemList/0/LocalizedName,0,-1,평민 옷 2
 seamarket,git,Creature List/54/FirstName,0,-1,바텐더
-seamarket,git,Creature List/55/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/55/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/55/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/55/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/56/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarket,git,Creature List/56/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/56/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/56/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,잡동사니 상인의 옷
+seamarket,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,잡동사니 상인의 옷옷
 seamarket,git,Creature List/6/FirstName,0,-1,잡동사니 상인
 seamarket,git,Creature List/62/Description,0,-1,"이 사람 은 작고 튼튼 이지만, 당신 이 가까이 갈 때 까지 그 사람 의 주변 에 무슨 일 이 일어나고 있는지 자세히 관찰 합니다. 검은색 과 보라색 의 가죽 은 언제든 튀어나갈 나 도망갈 준비가 되어 있는 것 처럼 보이는 몸 을 입고 있으며, 그 옆 에는 잘 짜여진 래피어가 매달리고 있습니다."
 seamarket,git,Creature List/62/FirstName,0,-1,리안
 seamarket,git,Creature List/63/Description,0,-1,키가 크고 강하고 무서운 이 여성은 완벽한 군사 용병처럼 생겼습니다. 그리고 그녀는 이렇게 비열한 환경에서 오랫동안 전사로서 살아남았을 것입니다.
 seamarket,git,Creature List/63/FirstName,0,-1,스카일러
-seamarket,git,Creature List/64/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+seamarket,git,Creature List/64/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 seamarket,git,Creature List/64/FirstName,0,-1,시민
-seamarket,git,Creature List/65/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+seamarket,git,Creature List/65/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 seamarket,git,Creature List/65/FirstName,0,-1,시민
 seamarket,git,Creature List/7/FirstName,0,-1,시민
 seamarket,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,평민 옷 2
 seamarket,git,Creature List/8/FirstName,0,-1,시민
-seamarket,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,평민 옷 1
+seamarket,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 1
 seamarket,git,Creature List/9/FirstName,0,-1,시민
-seamarket,git,Door List/11/Description,0,-1,여기서 볼만한 게 없어요
-seamarket,git,Door List/11/LocName,0,-1,사용할 수 없는 문
-seamarket,git,Door List/12/Description,0,-1,여기서 볼만한 게 없어요
-seamarket,git,Door List/12/LocName,0,-1,사용할 수 없는 문
-seamarket,git,Door List/13/Description,0,-1,여기서 볼만한 게 없어요
-seamarket,git,Door List/13/LocName,0,-1,사용할 수 없는 문
-seamarket,git,Door List/14/Description,0,-1,여기서 볼만한 게 없어요
-seamarket,git,Door List/14/LocName,0,-1,사용할 수 없는 문
-seamarket,git,Door List/15/Description,0,-1,여기서 볼만한 게 없어요
-seamarket,git,Door List/15/LocName,0,-1,사용할 수 없는 문
-seamarket,git,Door List/16/Description,0,-1,여기서 볼만한 게 없어요
-seamarket,git,Door List/16/LocName,0,-1,사용할 수 없는 문
+seamarket,git,Door List/11/Description,0,-1,여기서 볼 게 없어.
+seamarket,git,Door List/11/LocName,0,-1,사용 불가능한 문
+seamarket,git,Door List/12/Description,0,-1,여기서 볼 게 없어.
+seamarket,git,Door List/12/LocName,0,-1,사용 불가능한 문
+seamarket,git,Door List/13/Description,0,-1,여기서 볼 게 없어.
+seamarket,git,Door List/13/LocName,0,-1,사용 불가능한 문
+seamarket,git,Door List/14/Description,0,-1,여기서 볼 게 없어.
+seamarket,git,Door List/14/LocName,0,-1,사용 불가능한 문
+seamarket,git,Door List/15/Description,0,-1,여기서 볼 게 없어.
+seamarket,git,Door List/15/LocName,0,-1,사용 불가능한 문
+seamarket,git,Door List/16/Description,0,-1,여기서 볼 게 없어.
+seamarket,git,Door List/16/LocName,0,-1,사용 불가능한 문
 seamarket,git,Door List/5/LocName,0,5349,문
-seamarket,git,Encounter List/0/LocalizedName,0,-1,울란스 창고 밖의 경비
-seamarket,git,Encounter List/1/LocalizedName,0,-1,울란스 창고 밖의 경비
-seamarket,git,Encounter List/2/LocalizedName,0,-1,해상시장 상인 일반인
-seamarket,git,Encounter List/3/LocalizedName,0,-1,해상시장 상인 일반인2
-seamarket,git,Encounter List/4/LocalizedName,0,-1,시마켓 상인 시민 북부
-seamarket,git,Encounter List/5/LocalizedName,0,-1,해상시장 노예 지역 일반인1
-seamarket,git,Encounter List/6/LocalizedName,0,-1,시마켓 상인 시민 북부
+seamarket,git,Encounter List/0/LocalizedName,0,-1,울란스 창고 밖의 경비원
+seamarket,git,Encounter List/1/LocalizedName,0,-1,울란스 창고 밖의 경비원
+seamarket,git,Encounter List/2/LocalizedName,0,-1,해상시장 상인 평민
+seamarket,git,Encounter List/3/LocalizedName,0,-1,해상시장 상인 평민2
+seamarket,git,Encounter List/4/LocalizedName,0,-1,해시장 상인 시민 북쪽
+seamarket,git,Encounter List/5/LocalizedName,0,-1,해상시장 노예 지역 평민1
+seamarket,git,Encounter List/6/LocalizedName,0,-1,해시장 상인 시민 북쪽
 seamarket,git,Placeable List/147/LocName,0,5800,해상 시장
-seamarket,git,Placeable List/173/Description,0,6792,더러운 옷 한 바구니
-seamarket,git,Placeable List/173/LocName,0,111668,더러운 빨래 바구니
-seamarket,git,Placeable List/175/Description,0,14563,사우드라의 세탁소 문이 잠겨있다면 지 마세요.
-seamarket,git,Placeable List/175/LocName,0,14561,산드라의 세탁소
+seamarket,git,Placeable List/173/Description,0,6792,더러운 옷이 담긴 바구니
+seamarket,git,Placeable List/173/LocName,0,111668,더러운 옷 바구니
+seamarket,git,Placeable List/175/Description,0,14563,사우드라의 세탁소 문이 잠겨 있다면 두들기지 마세요.
+seamarket,git,Placeable List/175/LocName,0,14561,산드라의 빨래집게 집
 seamarket,git,Placeable List/179/LocName,0,14616,해상 시장 출구
 seamarket,git,Placeable List/180/LocName,0,14616,해상 시장 출구
-seamarket,git,Placeable List/184/Description,0,-1,문 앞 깔개
-seamarket,git,Placeable List/184/LocName,0,-1,도시 경비 초소 입구
-seamarket,git,Placeable List/233/Description,0,14618,바나르 - 꿰매서 염색 - 관심의 지점을 나타내는 표지판
+seamarket,git,Placeable List/184/Description,0,-1,문 앞 매트
+seamarket,git,Placeable List/184/LocName,0,-1,도시 경비병 주둔지 입구
+seamarket,git,Placeable List/233/Description,0,14618,배너 - 꿰매고 염색한 - 관심의 지점을 나타내는 표지판
 seamarket,git,Placeable List/233/LocName,0,14616,해상 시장 출구
-seamarket,git,Placeable List/234/Description,0,14618,바나르 - 꿰매서 염색 - 관심의 지점을 나타내는 표지판
+seamarket,git,Placeable List/234/Description,0,14618,배너 - 꿰매고 염색한 - 관심의 지점을 나타내는 표지판
 seamarket,git,Placeable List/234/LocName,0,14616,해상 시장 출구
-seamarket,git,Placeable List/258/Description,0,6792,이 물체에는 특별한 것이 없습니다.
+seamarket,git,Placeable List/258/Description,0,6792,이 물체는 특별한 것이 없습니다.
 seamarket,git,Placeable List/258/LocName,0,111222,해상 시장 출구
 seamarket,git,Placeable List/259/LocName,0,111222,해상 시장 출구
 seamarket,git,Placeable List/278/LocName,0,14616,해상 시장 출구
 seamarket,git,Placeable List/279/LocName,0,14616,해상 시장 출구
-seamarket,git,Placeable List/289/Description,0,14618,바나르 - 꿰매서 염색 - 관심의 지점을 나타내는 표지판
-seamarket,git,Placeable List/289/LocName,0,14616,남부 시장 현수막
-seamarket,git,Placeable List/290/Description,0,14618,바나르 - 꿰매서 염색 - 관심의 지점을 나타내는 표지판
-seamarket,git,Placeable List/290/LocName,0,14616,남부 시장 현수막
-seamarket,git,Placeable List/294/Description,0,14560,관심의 지점을 표시하는 표시기
-seamarket,git,Placeable List/294/LocName,0,14561,비바람에 낡은 간판
-seamarket,git,Placeable List/298/Description,0,14715,"왼쪽 화살 - ""상가들에게"" 오른쪽 화살 - ""노예 경매, 경비 우정 및 창고에"""
-seamarket,git,Placeable List/364/Description,0,14690,이 샘은 위대한 왕국으로부터 푸리아의 독립을 기념하여 세워졌습니다. 장갑은 오래 지속될 수 있습니다.
-seamarket,git,Placeable List/364/LocName,0,14688,독립수천 - 이 수천은 거대 왕국으로부터 푸리아의 독립을 기념하여 세워졌습니다. 장갑이 오래 지속될 수 있습니다.
-seamarket,git,Placeable List/365/Description,0,14691,통지: 플라너 여행객은 관세와 검사를 받아야 합니다
-seamarket,git,Placeable List/365/LocName,0,14688,세관 공고
-seamarket,git,Placeable List/366/Description,0,14691,통지: 플라너 여행객은 관세와 검사를 받아야 합니다
-seamarket,git,Placeable List/366/LocName,0,14688,세관 공고
-seamarket,git,Placeable List/367/Description,0,14691,통지: 플라너 여행객은 관세와 검사를 받아야 합니다
-seamarket,git,Placeable List/367/LocName,0,14688,세관 공고
-seamarket,git,Placeable List/368/Description,0,14717,퓨리아 관세 및 검사 사무실 모든 플라너 여행자는 관세 및 검사 방문을 해야 합니다
-seamarket,git,Placeable List/368/LocName,0,5732,세관 및 검사소
-seamarket,git,Placeable List/369/Description,0,14691,통지: 플라너 여행객은 관세와 검사를 받아야 합니다
-seamarket,git,Placeable List/369/LocName,0,14688,세관 공고
-seamarket,git,Placeable List/378/Description,0,-1,문 앞 깔개
-seamarket,git,Placeable List/378/LocName,0,-1,도시 경비 초소 입구
-seamarket,git,Placeable List/379/Description,0,-1,Furiae의 깃발.
-seamarket,git,Placeable List/379/LocName,0,-1,DDF 깃발 B01
-seamarket,git,Placeable List/380/Description,0,-1,Furiae의 깃발.
-seamarket,git,Placeable List/380/LocName,0,-1,DDF 깃발 B01
-seamarket,git,Placeable List/381/Description,0,-1,Furiae의 깃발.
-seamarket,git,Placeable List/381/LocName,0,-1,DDF 깃발 D01
-seamarket,git,Placeable List/385/Description,0,14610,"오래된 바퀴는 빈 채로 버려져 있고, 여전히 주인이 집으로 돌아오기를 기다리고 있는 충실한 애완동물처럼요."
+seamarket,git,Placeable List/289/Description,0,14618,배너 - 꿰매고 염색한 - 관심의 지점을 나타내는 표지판
+seamarket,git,Placeable List/289/LocName,0,14616,남부 시장 기
+seamarket,git,Placeable List/290/Description,0,14618,배너 - 꿰매고 염색한 - 관심의 지점을 나타내는 표지판
+seamarket,git,Placeable List/290/LocName,0,14616,남부 시장 기
+seamarket,git,Placeable List/294/Description,0,14560,관심 지점을 표시하는 마커
+seamarket,git,Placeable List/294/LocName,0,14561,비바람에 닳은 간판
+seamarket,git,Placeable List/298/Description,0,14715,"왼쪽 화살 - ""상인으로"" 
+오른쪽 화살 - ""노예 경매장, 경비병 주둔지와 창고로"""
+seamarket,git,Placeable List/364/Description,0,14690,이 샘은 위대한 왕국으로부터 푸리아의 독립을 기념하여 세워졌습니다. 팔목장갑은 오래 지속되었으면 합니다.
+seamarket,git,Placeable List/364/LocName,0,14688,"독립 분수 - 이 분수는 푸리아가 거대 왕국으로부터 독립한 것을 기념하여 세워졌으며, 대형 팔목장갑도 오래 지속되길 바랍니다."
+seamarket,git,Placeable List/365/Description,0,14691,통지: 차원종 여행자들은 관세와 조사를 받아야 합니다.
+seamarket,git,Placeable List/365/LocName,0,14688,세관 고지
+seamarket,git,Placeable List/366/Description,0,14691,통지: 차원종 여행자들은 관세와 조사를 받아야 합니다.
+seamarket,git,Placeable List/366/LocName,0,14688,세관 고지
+seamarket,git,Placeable List/367/Description,0,14691,통지: 차원종 여행자들은 관세와 조사를 받아야 합니다.
+seamarket,git,Placeable List/367/LocName,0,14688,세관 고지
+seamarket,git,Placeable List/368/Description,0,14717,퓨리아 관세 및 조사 사무실 모든 차원종 여행자는 조사에 방문해야 합니다
+seamarket,git,Placeable List/368/LocName,0,5732,세관 및 조사소
+seamarket,git,Placeable List/369/Description,0,14691,통지: 차원종 여행자들은 관세와 조사를 받아야 합니다.
+seamarket,git,Placeable List/369/LocName,0,14688,세관 고지
+seamarket,git,Placeable List/378/Description,0,-1,문 앞 매트
+seamarket,git,Placeable List/378/LocName,0,-1,도시 경비병 주둔지 입구
+seamarket,git,Placeable List/379/Description,0,-1,파루아의 깃발.
+seamarket,git,Placeable List/379/LocName,0,-1,DDF 표지 B01
+seamarket,git,Placeable List/380/Description,0,-1,파루아의 깃발.
+seamarket,git,Placeable List/380/LocName,0,-1,DDF 표지 B01
+seamarket,git,Placeable List/381/Description,0,-1,파루아의 깃발.
+seamarket,git,Placeable List/381/LocName,0,-1,DDF 표지 D01
+seamarket,git,Placeable List/385/Description,0,14610,"오래된 카트는 비어 있으며, 여전히 주인이 돌아오기를 기다리는 충실한 동물처럼 버려져 있다."
 seamarket,git,Placeable List/385/LocName,0,14611,UlanWarehouseCageBlocker
-seamarket,git,SoundList/62/LocName,0,67870,세탁부
-seamarket,git,SoundList/63/LocName,0,67870,세탁부
+seamarket,git,SoundList/62/LocName,0,67870,세탁 여자
+seamarket,git,SoundList/63/LocName,0,67870,세탁 여자
 seamarket,git,SoundList/68/LocName,0,-1,닭
 seamarket,git,SoundList/75/LocName,0,-1,초기_발전
 seamarket,git,StoreList/0/LocName,0,-1,상인 쓰레기
@@ -800,7 +801,7 @@ seamarket,git,StoreList/6/LocName,0,-1,크레쉬_메르체인
 seamarket,git,TriggerList/0/LocalizedName,0,14759,0.ULAN_WHOUSE_DESCRIPTION
 seamarket,git,TriggerList/1/LocalizedName,0,14759,워드 다이어로그
 seamarket,git,TriggerList/2/LocalizedName,0,14759,시작영화사고사고사고
-seamarket,git,TriggerList/3/LocalizedName,0,14760,지역 이동
+seamarket,git,TriggerList/3/LocalizedName,0,14760,지역 전환
 seamarket,git,TriggerList/5/LocalizedName,0,68970,비밀 돌 벽 문
 seamarket,git,WaypointList/0/LocalizedName,0,14817,이정표
 seamarket,git,WaypointList/157/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy
@@ -812,7 +813,7 @@ seamarket,git,WaypointList/41/LocalizedName,0,-1,UlanWGuard2
 seamarket,git,WaypointList/42/LocalizedName,0,-1,UlanWGuard2
 seamarket,git,WaypointList/43/LocalizedName,0,-1,UlanWGuard2
 seamarket,git,WaypointList/44/LocalizedName,0,-1,UlanWGuard2
-seamarket,git,WaypointList/45/LocalizedName,0,14817,울란 비밀 문 경로
+seamarket,git,WaypointList/45/LocalizedName,0,14817,울란 비밀 문 웨이포인트
 seamarket,git,WaypointList/55/LocalizedName,0,-1,UlanWGuardBow
 seamarket,git,WaypointList/56/LocalizedName,0,-1,UlanWGuardBow
 seamarket,git,WaypointList/57/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy
@@ -822,32 +823,32 @@ seamarket,git,WaypointList/60/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy
 seamarket,git,WaypointList/61/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy
 seamarket,git,WaypointList/62/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy
 seamarket,git,WaypointList/63/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy
-seamarket,git,WaypointList/66/LocalizedName,0,14814,지도 메모
+seamarket,git,WaypointList/66/LocalizedName,0,14814,지도 설명
 seamarket,git,WaypointList/66/MapNote,0,14815,울란의 창고
 seamarket,git,WaypointList/67/MapNote,0,14815,파괴된 창고
 seamarket,git,WaypointList/68/LocalizedName,0,14814,도시 경비병
-seamarket,git,WaypointList/68/MapNote,0,14815,도시 경비 전초기지
-seamarket,git,WaypointList/69/LocalizedName,0,14814,지역 출구
-seamarket,git,WaypointList/69/MapNote,0,14815,지역 출구
-seamarket,git,WaypointList/70/LocalizedName,0,14814,지역 출구
-seamarket,git,WaypointList/70/MapNote,0,14815,지역 출구
-seamarket,git,WaypointList/71/LocalizedName,0,14814,지역 출구
-seamarket,git,WaypointList/71/MapNote,0,14815,지역 출구
-seamarket,git,WaypointList/72/LocalizedName,0,14814,지역 출구
-seamarket,git,WaypointList/72/MapNote,0,14815,지역 출구
+seamarket,git,WaypointList/68/MapNote,0,14815,도시 경비대 전초기지
+seamarket,git,WaypointList/69/LocalizedName,0,14814,지역 출입구
+seamarket,git,WaypointList/69/MapNote,0,14815,지역 출입구
+seamarket,git,WaypointList/70/LocalizedName,0,14814,지역 출입구
+seamarket,git,WaypointList/70/MapNote,0,14815,지역 출입구
+seamarket,git,WaypointList/71/LocalizedName,0,14814,지역 출입구
+seamarket,git,WaypointList/71/MapNote,0,14815,지역 출입구
+seamarket,git,WaypointList/72/LocalizedName,0,14814,지역 출입구
+seamarket,git,WaypointList/72/MapNote,0,14815,지역 출입구
 seamarket,git,WaypointList/73/LocalizedName,0,14814,크레시
 seamarket,git,WaypointList/73/MapNote,0,14815,크레시
 seamarket,git,WaypointList/74/LocalizedName,0,14814,코크레인
 seamarket,git,WaypointList/74/MapNote,0,14815,코크레인
 seamarket,git,WaypointList/75/LocalizedName,0,-1,코크레인 바
 seamarket,git,WaypointList/99/LocalizedName,0,14816,주둔지
-seamarketguar001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarketguar001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarketguar001,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarketguar001,git,Creature List/0/FirstName,0,-1,도시 경비병
-seamarketguar001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarketguar001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarketguar001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarketguar001,git,Creature List/1/FirstName,0,-1,도시 경비병
-seamarketguar001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+seamarketguar001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarketguar001,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarketguar001,git,Creature List/2/FirstName,0,-1,도시 경비병
 secondnightmare,git,Creature List/0/Description,0,12826,"시체들은 시신을 통해 부활시키고, 좀비들은 정신이 없는 죽은 자들로, 그들의 부패하는 장내의 굶주림의 고통에 만족하려고 돌아다니고 있습니다."
@@ -861,8 +862,8 @@ secondnightmare,git,Creature List/13/FirstName,0,12827,노예 좀비
 secondnightmare,git,Creature List/14/Description,0,-1,이 여자 는 시야자 의 모습 이다. 그녀의 긴 암흑 머리카락 은 얽힌 말 꼬리 에 묶여 있다. 그녀는 혈전 이 은 회색 의복 을 입고 있다. 그녀의 시야 는 지 않은 눈 으로 찢어지고 찢어지고 찢어지고 있다. 그녀의 목 에 찌른 珠 과 덩어리 들 의 집합 은 움직일 때 부드러운 클릭 소리 를 내는 것 이다.
 secondnightmare,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,알라다라의 갑옷
 secondnightmare,git,Creature List/14/FirstName,0,-1,알라다라
-secondnightmare,git,Creature List/15/Description,0,-1,"인간 모양의 칼인 하라시 는 한 심한 여성 이다. 그녀 의 모든 것 은 가장자리에 있다. 그녀의 긴 검은 머리카락 의 날카로운 절단 은 그녀의 피부 의 갈색 톤 으로 대조된다. 그녀는 암흑 에서 껍데기를 닦는 칼 처럼 부드럽고 조용 하게 움직인다. 그녀의 눈 은 거의 끊임없이 그녀가 보고 있는 모든 것에 좁아지고 있으며, 마치 전 세계가 그녀에게 거짓말을 하고 있다고 의심 하는 것 처럼."
-secondnightmare,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,13717,하라시의 경갑
+secondnightmare,git,Creature List/15/Description,0,-1,"하라시는 인간 모양의 칼로, 매우 냉정한 여성이었다. 그녀의 모든 것이 날카로운 경계를 띠고 있었다. 긴 검은 머리카락의 선명한 끝은 그녀의 갈색 피부와 대조되었다. 그녀는 어둠 속에서 검을 껍데기에서 닦는 것처럼 부드럽고 조용하게 움직였다. 그녀의 눈은 거의 항상 좁혀져 있었고, 그녀가 바라보는 모든 것에 대해 세상이 자신에게 거짓말을 하고 있다고 의심하고 있었다."
+secondnightmare,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,13717,하라시의 빛 갑옷
 secondnightmare,git,Creature List/15/FirstName,0,-1,하라시
 secondnightmare,git,Creature List/15/LastName,0,-1,고기
 secondnightmare,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,울란의 갑옷
@@ -871,7 +872,7 @@ secondnightmare,git,Creature List/16/LastName,0,-1,아우린타르
 secondnightmare,git,Creature List/17/Description,0,-1,이 생물은 악행과 긴 삶에 대한 생각의 무게로 휘어지고 휘어지는 것처럼 당신의 시선을 채우고 있습니다. 그녀의 피부는 늦은 밤하늘의 깊은 파란색이고 반 정도 크기의 작은 둥근 두개골로 장식된 긴 찢어진 옷으로 옷을 입고 있습니다. 그녀의 얼굴은 미소하는 입을 채우는 치아와 같이 길고 날카롭습니다. 그녀의 눈의 희하고 가혹하고 파동하는 붉은 빛으로 빛납니다. 그녀는 배고픈 채 미친 채로 당신을 돌아보고 있습니다.
 secondnightmare,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,카르쿠알리의 발톱
 secondnightmare,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,-1,카르쿠알리의 발톱
-secondnightmare,git,Creature List/17/Equip_ItemList/2/LocalizedName,0,-1,카르쿠알리의 이빨
+secondnightmare,git,Creature List/17/Equip_ItemList/2/LocalizedName,0,-1,카르쿠알리의 물림
 secondnightmare,git,Creature List/17/FirstName,0,-1,모그
 secondnightmare,git,Creature List/2/Description,0,12826,"시체들은 시신을 통해 부활시키고, 좀비들은 정신이 없는 죽은 자들로, 그들의 부패하는 장내의 굶주림의 고통에 만족하려고 돌아다니고 있습니다."
 secondnightmare,git,Creature List/2/FirstName,0,12827,노예 좀비
@@ -893,120 +894,120 @@ secondnightmare,git,TriggerList/3/LocalizedName,0,14759,1.DDF_NPC_Karkualii_Nigh
 secondnightmare,git,WaypointList/0/LocalizedName,0,-1,ddf_SpawnPoint_SecondNightmare01
 smoothies,git,Creature List/0/Description,0,-1,"검은 머리카락은 덩어리로 뽑아, 흉터와 전투의 몫을 본 엄한 얼굴 위에 서 있다. 디바라는 그 장소가 그녀를 조금 불편하게 만들지라도 그녀의 자리를 얻은 여성처럼 서 있다. 그녀는 그녀의 반판을 편안하게 착용하고 미러 완성까지 가늘게 한다. 그녀의 의류에 관한 모든 것은 그녀의 고경관으로서의 위치에 대해 이야기합니다. 그녀의 신발은 깨끗하지만 잘 착용하고 편안한 것은 그녀의 외모에 대해 약간 이상한 것 같습니다."
 smoothies,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,13798,루센나의 갑옷
-smoothies,git,Creature List/0/FirstName,0,-1,디발라 대장
-smoothies,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+smoothies,git,Creature List/0/FirstName,0,-1,디발라 대령
+smoothies,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 smoothies,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 smoothies,git,Creature List/1/FirstName,0,-1,도시 경비병
-smoothies,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 2
+smoothies,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 2
 smoothies,git,Creature List/10/FirstName,0,-1,귀족
-smoothies,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 2
+smoothies,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 2
 smoothies,git,Creature List/11/FirstName,0,-1,귀족
-smoothies,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,12928,악마 복장 1
+smoothies,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,12928,마귀 1벌 의상
 smoothies,git,Creature List/12/FirstName,0,-1,캄비온
-smoothies,git,Creature List/13/Description,0,111457,"말들은 유익한 무려동물이고, 그 중에서 가장 좋은 말들은 좋은 전쟁마를 만든다."
+smoothies,git,Creature List/13/Description,0,111457,"말들은 유용한 짐동물이며, 그 중에서 가장 좋은 말들은 좋은 전쟁마로도 사용된다."
 smoothies,git,Creature List/13/FirstName,0,111456,말 너깃
-smoothies,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+smoothies,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 smoothies,git,Creature List/14/FirstName,0,-1,시민
-smoothies,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+smoothies,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 smoothies,git,Creature List/15/FirstName,0,-1,시민
-smoothies,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 7
+smoothies,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 7
 smoothies,git,Creature List/16/FirstName,0,-1,귀족 시민
-smoothies,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+smoothies,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 smoothies,git,Creature List/18/FirstName,0,-1,귀족 시민
-smoothies,git,Creature List/19/Description,0,111457,"말들은 유익한 짐 짐승이 되고, 그 중에서 가장 좋은 동물들은 또한 좋은 엔터테인먼트를 한다."
+smoothies,git,Creature List/19/Description,0,111457,"말들은 유용한 짐 동물로 사용되며, 가장 좋은 말들은 또한 좋은 엔터테인먼트를 제공한다."
 smoothies,git,Creature List/19/FirstName,0,111456,말 댄서
-smoothies,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+smoothies,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 smoothies,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 smoothies,git,Creature List/2/FirstName,0,-1,도시 경비병
-smoothies,git,Creature List/20/Description,0,111457,"말들은 유익한 짐동물이고, 그 중 가장 좋은 동물들은 오렌지 먹는 좋은 동물이기도 하다."
+smoothies,git,Creature List/20/Description,0,111457,"말들은 유용한 짐동물이며, 그 중 가장 좋은 것들은 좋은 사료 먹는 동물이기도 하다."
 smoothies,git,Creature List/20/FirstName,0,111456,다리 없는 제임스
-smoothies,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+smoothies,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 smoothies,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 이빨 갑옷
 smoothies,git,Creature List/3/FirstName,0,-1,도시 경비병
-smoothies,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+smoothies,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 smoothies,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 smoothies,git,Creature List/4/FirstName,0,-1,도시 경비병
-smoothies,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+smoothies,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 smoothies,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 smoothies,git,Creature List/5/FirstName,0,-1,도시 경비병
-smoothies,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+smoothies,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 smoothies,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 smoothies,git,Creature List/6/FirstName,0,-1,도시 경비병
-smoothies,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+smoothies,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 smoothies,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 smoothies,git,Creature List/7/FirstName,0,-1,도시 경비병
-smoothies,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 1
+smoothies,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 1
 smoothies,git,Creature List/8/FirstName,0,-1,귀족
-smoothies,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,귀족 예복 1
+smoothies,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 1
 smoothies,git,Creature List/9/FirstName,0,-1,귀족
 smoothies,git,Door List/0/LocName,0,5349,문
-smoothies,git,Door List/3/Description,0,-1,여기서 볼만한 게 없어요
-smoothies,git,Door List/3/LocName,0,-1,사용할 수 없는 문
-smoothies,git,Door List/4/Description,0,-1,여기서 볼만한 게 없어요
-smoothies,git,Door List/4/LocName,0,-1,사용할 수 없는 문
-smoothies,git,Door List/5/Description,0,-1,여기서 볼만한 게 없어요
-smoothies,git,Door List/5/LocName,0,-1,사용할 수 없는 문
-smoothies,git,Door List/6/Description,0,-1,여기서 볼만한 게 없어요
-smoothies,git,Door List/6/LocName,0,-1,사용할 수 없는 문
-smoothies,git,Encounter List/0/LocalizedName,0,-1,치아 NPC 노벨스 2
-smoothies,git,Placeable List/100/Description,0,-1,문 앞 깔개
+smoothies,git,Door List/3/Description,0,-1,여기서 볼 게 없어.
+smoothies,git,Door List/3/LocName,0,-1,사용 불가능한 문
+smoothies,git,Door List/4/Description,0,-1,여기서 볼 게 없어.
+smoothies,git,Door List/4/LocName,0,-1,사용 불가능한 문
+smoothies,git,Door List/5/Description,0,-1,여기서 볼 게 없어.
+smoothies,git,Door List/5/LocName,0,-1,사용 불가능한 문
+smoothies,git,Door List/6/Description,0,-1,여기서 볼 게 없어.
+smoothies,git,Door List/6/LocName,0,-1,사용 불가능한 문
+smoothies,git,Encounter List/0/LocalizedName,0,-1,치아 NPC 노블스 2
+smoothies,git,Placeable List/100/Description,0,-1,문 앞 매트
 smoothies,git,Placeable List/100/LocName,0,-1,저택 입구
-smoothies,git,Placeable List/174/Description,0,84168,"제리엘, 초대 통치자, 분노의 우호자"
-smoothies,git,Placeable List/174/LocName,0,83422,"제리엘, 초대 통치자, 분노의 우호자"
-smoothies,git,Placeable List/195/Description,0,-1,Furiae의 깃발.
-smoothies,git,Placeable List/195/LocName,0,-1,DDF 깃발 B01
-smoothies,git,Placeable List/196/Description,0,-1,Furiae의 깃발.
-smoothies,git,Placeable List/196/LocName,0,-1,DDF 깃발 B01
+smoothies,git,Placeable List/174/Description,0,84168,"제리엘, 첫째 통치자, 분노의 빛나는 동맹"
+smoothies,git,Placeable List/174/LocName,0,83422,"제리엘, 첫째 통치자, 분노의 빛나는 동맹"
+smoothies,git,Placeable List/195/Description,0,-1,파루아의 깃발.
+smoothies,git,Placeable List/195/LocName,0,-1,DDF 표지 B01
+smoothies,git,Placeable List/196/Description,0,-1,파루아의 깃발.
+smoothies,git,Placeable List/196/LocName,0,-1,DDF 표지 B01
 smoothies,git,TriggerList/0/LocalizedName,0,14759,테디 디바 이야기
 smoothies,git,WaypointList/10/MapNote,0,14815,코라노 저택 뒷문
 smoothies,git,WaypointList/5/LocalizedName,0,14817,이정표
-smoothies,git,WaypointList/8/MapNote,0,14815,지역 출구
+smoothies,git,WaypointList/8/MapNote,0,14815,지역 출입구
 smoothies,git,WaypointList/9/MapNote,0,14815,코라노 저택
-soultradeinn,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,하멜의 옷
+soultradeinn,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,하멜의 의류
 soultradeinn,git,Creature List/0/FirstName,0,-1,하멜
 soultradeinn,git,Creature List/1/FirstName,0,-1,램버트
-soultradeinn,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,페스트리나의 옷
+soultradeinn,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,페스트리나의 옷옷
 soultradeinn,git,Creature List/2/FirstName,0,-1,페스트리나
 soultradeinn,git,Creature List/3/Description,0,-1,"이 사람 은 전문적 인 사람 이다. 이 사람 은 ""더러운 찌꺼기 와 깨끗 한 찌꺼기""의 술집 일 이 아니다. 그는 청결 한 시설 을 운영 하고 있으며, 이 도시 의 가장 큰 숙소 이다. 그는 항상 자기 주변 에 일어나는 일 을 지켜본다."
-soultradeinn,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,여관 주인 페데루스
+soultradeinn,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,페데루스 여관주인
 soultradeinn,git,Creature List/3/FirstName,0,-1,페데루스
 soultradeinn,git,Creature List/3/LastName,0,-1,노리알
-soultradeinn,git,Door List/1/Description,0,9078,전형적인 나무 문.
-soultradeinn,git,Door List/2/Description,0,9078,전형적인 나무 문.
+soultradeinn,git,Door List/1/Description,0,9078,일반적인 나무 문.
+soultradeinn,git,Door List/2/Description,0,9078,일반적인 나무 문.
 soultradeinn,git,Door List/4/LocName,0,5349,문
-soultradeinn,git,Door List/5/Description,0,9078,"이 간단한 문은 무작위로 절단된 나무로 만들어져 있으며, 부적절한 에 달린다."
+soultradeinn,git,Door List/5/Description,0,9078,"이 간단한 문은 거친 나무로 만들어져 있으며, 부적절한 핀계에 달려 있다."
 soultradeinn,git,Door List/5/LocName,0,5349,문
-soultradeinn,git,Encounter List/0/LocalizedName,0,-1,NPC 영혼 무역1
+soultradeinn,git,Encounter List/0/LocalizedName,0,-1,NPC 영혼 교환1
 soultradeinn,git,TriggerList/0/LocalizedName,0,14760,문으로 해라시SoulApt
-soultradeinn,git,TriggerList/1/LocalizedName,0,14759,방문 한 날개 깃발 을 설정
-soultradeinn,git,WaypointList/1/MapNote,0,14815,지역 출구
-soultradeinn,git,WaypointList/2/MapNote,0,14815,하라시의 스위트룸
-the_end,git,Placeable List/73/Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
+soultradeinn,git,TriggerList/1/LocalizedName,0,14759,방문한 날개 표시를 설정
+soultradeinn,git,WaypointList/1/MapNote,0,14815,지역 출입구
+soultradeinn,git,WaypointList/2/MapNote,0,14815,하라시의 방
+the_end,git,Placeable List/73/Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 the_end,git,Placeable List/73/LocName,0,5800,운명
 the_end,git,Placeable List/74/LocName,0,5800,해설자
 the_end,git,TriggerList/0/LocalizedName,0,14759,1.end_dialog_object
 the_end,git,WaypointList/0/LocalizedName,0,14817,마지막 도착
 tunnels01,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,111450,물어뜯기 4d6
-tunnels01,git,Creature List/0/FirstName,0,111448,악마 거미
+tunnels01,git,Creature List/0/FirstName,0,111448,악마적 거미
 tunnels01,git,Creature List/1/Description,0,-1,"이 여자 는 사람 보다 더 흉터 껍질 이 있다. 그녀의 우유 껍질 은 팽창 한 근육 위에 팽창 한 채로 뻗어 있으며, 복잡하고 과감 한 문신 을 통해 껍질 을 자르는 흉터들로 겹쳐져 있다. 그녀의 육체 와 얼굴 은 멀리 떨어진 현장에서 벌어진 무수히 많은 전투 의 이야기를 이야기 한다. 그녀의 눈 은 피가 흘리고 항상 야생 한 것 처럼 보입니다. 그녀는 무수히 많은 비행기에서 gladiator 의 의복 으로 묘사 될 것 을 입고 있으며, 마치 그녀의 경기장 처럼 세계를 가로지르는 것 이다."
 tunnels01,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,샤반의 갑옷
 tunnels01,git,Creature List/1/FirstName,0,-1,샤반
-tunnels01,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,노예상 복장
-tunnels01,git,Creature List/10/FirstName,0,-1,노예상 경비병
-tunnels01,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,노예상 복장
-tunnels01,git,Creature List/11/FirstName,0,-1,노예상의 근육
-tunnels01,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,노예상 복장
-tunnels01,git,Creature List/12/FirstName,0,-1,노예상의 그림자
-tunnels01,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,-1,노예상 복장
-tunnels01,git,Creature List/13/FirstName,0,-1,노예상의 그림자
+tunnels01,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,노예복장
+tunnels01,git,Creature List/10/FirstName,0,-1,노예 상경비병
+tunnels01,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,노예복장
+tunnels01,git,Creature List/11/FirstName,0,-1,노예 몸집
+tunnels01,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,노예복장
+tunnels01,git,Creature List/12/FirstName,0,-1,노예 그림자
+tunnels01,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,-1,노예복장
+tunnels01,git,Creature List/13/FirstName,0,-1,노예 그림자
 tunnels01,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,울란의 갑옷
 tunnels01,git,Creature List/14/FirstName,0,-1,울란
-tunnels01,git,Creature List/14/ItemList/11/DescIdentified,0,-1,보내기 위한 반지
-tunnels01,git,Creature List/14/ItemList/11/Description,0,-1,평형 은 반지.
-tunnels01,git,Creature List/14/ItemList/11/LocalizedName,0,-1,전언의 반지
+tunnels01,git,Creature List/14/ItemList/11/DescIdentified,0,-1,전송 반지
+tunnels01,git,Creature List/14/ItemList/11/Description,0,-1,평범한 은 반지.
+tunnels01,git,Creature List/14/ItemList/11/LocalizedName,0,-1,전송의 반지
 tunnels01,git,Creature List/14/ItemList/8/DescIdentified,0,-1,"여러 항목이 풀고 흐르는 손으로 이 책장을 채웁니다. 한 항목은 우란이 자신에게 쓴 노트입니다. 그것은 저장소의 뒷부분의 비밀 문을 더 많이 사용해야 한다는 것을 언급합니다. 이제 코라노가 더 이상 그들을 ""세탁""하지 않았으므로 노예들은 ""처리""를 위해 알라다라라는 여성에게 직접 전달되어야했습니다. 그는 노예를 회개하는 것처럼 ""영리 조언자""에게 속죄하는 과정에서 번거리와 효율성이 없다는 것을 저주합니다. 또 다른 항목은 노예들에게 물품을 얻기 위해 사제와 치료자를 찾는 데의 어려움에 대해 자세히 언급합니다. 그는 ""이 바보들은 그가 일을 얻기 위해 얼마나 많은 시간을 보냈는지 이해하지 못한다""에 대해 이야기합니다. 그는 블랙 메일과 놀라움의 목록이 무엇이며, 그는 ""오라다라와 더 큰 수익을 얻기 위해 많은 돈을 벌 수 있는지에 대한 자세한 정보를 공유하고 있습니다. 하라노는 이미 ""그보다 더 큰 수익을 얻거나 더 큰 수익을 창출하기 위해 해운전""에 대해 언급하고 있습니다."
 tunnels01,git,Creature List/14/ItemList/8/Description,0,-1,"여러 항목이 풀고 흐르는 손으로 이 책장을 채웁니다. 한 항목은 우란이 자신에게 쓴 노트입니다. 그것은 저장소의 뒷부분의 비밀 문을 더 많이 사용해야 한다는 것을 언급합니다. 이제 코라노가 더 이상 그들을 ""세탁""하지 않았으므로 노예들은 ""처리""를 위해 알라다라라는 여성에게 직접 전달되어야했습니다. 그는 노예를 회개하는 것처럼 ""영리 조언자""에게 속죄하는 과정에서 번거리와 효율성이 없다는 것을 저주합니다. 또 다른 항목은 노예들에게 물품을 얻기 위해 사제와 치료자를 찾는 데의 어려움에 대해 자세히 언급합니다. 그는 ""이 바보들은 그가 일을 얻기 위해 얼마나 많은 시간을 보냈는지 이해하지 못한다""에 대해 이야기합니다. 그는 블랙 메일과 놀라움의 목록이 무엇이며, 그는 ""오라다라와 더 큰 수익을 얻기 위해 많은 돈을 벌 수 있는지에 대한 자세한 정보를 공유하고 있습니다. 하라노는 이미 ""그보다 더 큰 수익을 얻거나 더 큰 수익을 창출하기 위해 해운전""에 대해 언급하고 있습니다."
-tunnels01,git,Creature List/14/ItemList/8/LocalizedName,0,-1,때 묻은 장부
+tunnels01,git,Creature List/14/ItemList/8/LocalizedName,0,-1,때 묻은 재무일지
 tunnels01,git,Creature List/14/LastName,0,-1,아우린타르
 tunnels01,git,Creature List/2/FirstName,0,-1,노예
 tunnels01,git,Creature List/3/FirstName,0,-1,노예
@@ -1015,131 +1016,131 @@ tunnels01,git,Creature List/5/FirstName,0,-1,노예
 tunnels01,git,Creature List/6/FirstName,0,-1,노예
 tunnels01,git,Creature List/7/FirstName,0,-1,노예
 tunnels01,git,Creature List/8/FirstName,0,-1,노예
-tunnels01,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,노예상 복장
-tunnels01,git,Creature List/9/FirstName,0,-1,노예상 시전자
+tunnels01,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,노예복장
+tunnels01,git,Creature List/9/FirstName,0,-1,노예판매사용자
 tunnels01,git,Creature List/9/LastName,0,-1,노예상
-tunnels01,git,Door List/1/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-tunnels01,git,Door List/1/LocName,0,5349,두꺼운 돌문
-tunnels01,git,Door List/13/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-tunnels01,git,Door List/13/LocName,0,5349,두꺼운 돌문
-tunnels01,git,Door List/14/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-tunnels01,git,Door List/14/LocName,0,5349,두꺼운 돌문
-tunnels01,git,Door List/15/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-tunnels01,git,Door List/15/LocName,0,5349,두꺼운 돌문
-tunnels01,git,Door List/2/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-tunnels01,git,Door List/2/LocName,0,5349,두꺼운 돌문
-tunnels01,git,Door List/3/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-tunnels01,git,Door List/3/LocName,0,5349,두꺼운 돌문
-tunnels01,git,Door List/4/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-tunnels01,git,Door List/4/LocName,0,5349,두꺼운 돌문
-tunnels01,git,Door List/5/Description,0,9076,철줄로 묶여 있는 이 돌 문은 단단한 갈고리 위에 매달려 있습니다.
-tunnels01,git,Door List/5/LocName,0,5349,두꺼운 돌문
+tunnels01,git,Door List/1/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+tunnels01,git,Door List/1/LocName,0,5349,두꺼운 돌 문
+tunnels01,git,Door List/13/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+tunnels01,git,Door List/13/LocName,0,5349,두꺼운 돌 문
+tunnels01,git,Door List/14/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+tunnels01,git,Door List/14/LocName,0,5349,두꺼운 돌 문
+tunnels01,git,Door List/15/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+tunnels01,git,Door List/15/LocName,0,5349,두꺼운 돌 문
+tunnels01,git,Door List/2/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+tunnels01,git,Door List/2/LocName,0,5349,두꺼운 돌 문
+tunnels01,git,Door List/3/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+tunnels01,git,Door List/3/LocName,0,5349,두꺼운 돌 문
+tunnels01,git,Door List/4/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+tunnels01,git,Door List/4/LocName,0,5349,두꺼운 돌 문
+tunnels01,git,Door List/5/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+tunnels01,git,Door List/5/LocName,0,5349,두꺼운 돌 문
 tunnels01,git,Door List/6/LocName,0,5349,문
 tunnels01,git,Door List/7/LocName,0,5349,문
-tunnels01,git,Encounter List/0/LocalizedName,0,-1,지하 도시의 거미들
-tunnels01,git,Encounter List/1/LocalizedName,0,-1,지하 도시의 거미들
-tunnels01,git,Encounter List/2/LocalizedName,0,-1,지하 도시의 거미들
+tunnels01,git,Encounter List/0/LocalizedName,0,-1,지하도시 거미
+tunnels01,git,Encounter List/1/LocalizedName,0,-1,지하도시 거미
+tunnels01,git,Encounter List/2/LocalizedName,0,-1,지하도시 거미
 tunnels01,git,Placeable List/226/LocName,0,68938,통
 tunnels01,git,Placeable List/227/LocName,0,68938,통
-tunnels01,git,TriggerList/0/LocalizedName,0,14759,샤반 대화 시작
+tunnels01,git,TriggerList/0/LocalizedName,0,14759,시작 샤반 대화
 tunnels01,git,TriggerList/1/LocalizedName,0,-1,일반 트리거 001
-tunnels01,git,WaypointList/1/LocalizedName,0,14817,도시 아래 로그포인트 테스트
-tunnels01,git,WaypointList/2/LocalizedName,0,14814,지도 메모
-tunnels01,git,WaypointList/2/MapNote,0,14815,터널로
-tunnels01,git,WaypointList/3/LocalizedName,0,14814,지도 메모
-tunnels01,git,WaypointList/3/MapNote,0,14815,소굴로
-yourapartment,git,Placeable List/10/Description,0,14756,당신은 이 오븐의 불꽃을 쳐다보고 많은 밤을 보냈습니다.
+tunnels01,git,WaypointList/1/LocalizedName,0,14817,아래 웨이포인트 테스트
+tunnels01,git,WaypointList/2/LocalizedName,0,14814,지도 설명
+tunnels01,git,WaypointList/2/MapNote,0,14815,터널로 가기
+tunnels01,git,WaypointList/3/LocalizedName,0,14814,지도 설명
+tunnels01,git,WaypointList/3/MapNote,0,14815,소굴로 가기
+yourapartment,git,Placeable List/10/Description,0,14756,당신은 이 오븐의 불꽃을 바라보며 많은 밤을 보냈습니다.
 yourapartment,git,Placeable List/10/LocName,0,14757,화덕
-yourapartment,git,Placeable List/28/Description,0,68960,전망은 별로 좋지 않지만 당신네
-yourapartment,git,Placeable List/6/Description,0,68856,잘 만들어진 이 침대는 부드러운 담요로 덮여 있어 왕족들 중 가장 잘 꾸미지 않는 모든 사람들을 편안하게 해주는 것 같습니다.
+yourapartment,git,Placeable List/28/Description,0,68960,전망은 별로 좋지 않지만 당신의 것이죠.
+yourapartment,git,Placeable List/6/Description,0,68856,잘 만들어진 이 침대는 부드러운 담요로 덮여 있어 가장 황실에서도 가장 특별히 다루지 않는 왕족들을도 편안하게 해줄 것 같았다.
 yourapartment,git,Placeable List/67/Description,0,68936,여러분은 많은 메모를 하는 경향이 있습니다. 여러분이 무엇을 하고 있든 상관없이. 여기 오래된 잡지들이 있습니다.
-yourapartment,git,Placeable List/68/Description,0,14585,이 옷차림의 내용을 정리할 때가 될지도 모릅니다.
+yourapartment,git,Placeable List/68/Description,0,14585,이 가구의 내용을 정리할 때가 될지도 모릅니다.
 yourapartment,git,Placeable List/68/LocName,0,5650,서랍장
 yourapartment,git,Placeable List/71/Description,0,14752,신문 가판대
 yourapartment,git,Placeable List/71/LocName,0,5748,신문 가판대
-yourapartment,git,Placeable List/72/Description,0,14662,의심의 여지없이 둘러보지만 아무것도 보이지 않습니다.
+yourapartment,git,Placeable List/72/Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 yourapartment,git,Placeable List/72/LocName,0,5800,해설자
 yourapartment,git,WaypointList/0/LocalizedName,0,14817,이정표
-yourapartmentnm,git,Placeable List/6/Description,0,68856,잘 만들어진 이 침대는 부드러운 담요로 덮여 있어 왕족들 중 가장 잘 꾸미지 않는 모든 사람들을 편안하게 해주는 것 같습니다.
+yourapartmentnm,git,Placeable List/6/Description,0,68856,잘 만들어진 이 침대는 부드러운 담요로 덮여 있어 가장 황실에서도 가장 특별히 다루지 않는 왕족들을도 편안하게 해줄 것 같았다.
 yourapartmentnm,git,Placeable List/74/LocName,0,5748,신문 가판대
 yourneighborhood,git,Creature List/0/FirstName,0,-1,제킨스
 yourneighborhood,git,Creature List/1/FirstName,0,-1,스래시가르
-yourneighborhood,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+yourneighborhood,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 yourneighborhood,git,Creature List/10/FirstName,0,-1,시민
-yourneighborhood,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,테라나 클랭크의 옷
+yourneighborhood,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,테라나 클랭크의 옷옷
 yourneighborhood,git,Creature List/11/FirstName,0,-1,시민
 yourneighborhood,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,평민 옷 2
 yourneighborhood,git,Creature List/12/FirstName,0,-1,시민
-yourneighborhood,git,Creature List/13/Description,0,111457,"말들은 유익한 가축이 되고, 그 중에서 가장 좋은 것은 좋은 가장 친한 친구도 된다."
+yourneighborhood,git,Creature List/13/Description,0,111457,"말들은 유용한 짐꾼이 되며, 그 중에서도 가장 좋은 것은 좋은 친구로도 만족할 만하다."
 yourneighborhood,git,Creature List/13/FirstName,0,111456,로지
-yourneighborhood,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+yourneighborhood,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 yourneighborhood,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 yourneighborhood,git,Creature List/14/FirstName,0,-1,도시 경비병
-yourneighborhood,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+yourneighborhood,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 yourneighborhood,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 yourneighborhood,git,Creature List/15/FirstName,0,-1,도시 경비병
-yourneighborhood,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+yourneighborhood,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 yourneighborhood,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 yourneighborhood,git,Creature List/16/FirstName,0,-1,도시 경비병
-yourneighborhood,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+yourneighborhood,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 yourneighborhood,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 yourneighborhood,git,Creature List/17/FirstName,0,-1,도시 경비병
-yourneighborhood,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병 이빨 투구
+yourneighborhood,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 yourneighborhood,git,Creature List/18/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 yourneighborhood,git,Creature List/18/FirstName,0,-1,도시 경비병
-yourneighborhood,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,월드와인 광신도 복장
+yourneighborhood,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,월드와인 팬티스트 복장
 yourneighborhood,git,Creature List/2/FirstName,0,-1,트리샤나
-yourneighborhood,git,Creature List/3/FirstName,0,-1,넝마 행상
+yourneighborhood,git,Creature List/3/FirstName,0,-1,네가네 판매인
 yourneighborhood,git,Creature List/4/Description,0,12415,이 날 수 없는 집집 새 는 부드러운 육류 와 거의 매일 튀는 달걀 으로서 소중 히 여긴다. 이 새 는 붉은색 이다.
 yourneighborhood,git,Creature List/4/FirstName,0,12416,붉은 암탉
 yourneighborhood,git,Creature List/5/Description,0,-1,"이 인간 은 남자 의 모습 으로 친절 한 사람 이지만, 그 밖 에 주목 할 수 없는 사람 이다. 술집 에서 화려 한 대화 를 하게 하고도 그 후 에 잘 설명 할 수 없는 사람 이다. 그의 둥근 얼굴 에서 발견 된 미소 는 따뜻 하고 대화 를 촉구 한다. 그의 팔 아래 에 뭉친 종이를 꽂고, 평평 한 갈색, 천 의 옷 에 둥지를 틀고 있다. 그의 눈 은 결코 한 시선 에 너무 오래 머물지 않는다."
-yourneighborhood,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,태그의 옷
+yourneighborhood,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,태그 옷
 yourneighborhood,git,Creature List/5/FirstName,0,-1,태그
-yourneighborhood,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,바텐더의 옷
+yourneighborhood,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,바텐더의 옷옷
 yourneighborhood,git,Creature List/6/FirstName,0,-1,시민
-yourneighborhood,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+yourneighborhood,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 yourneighborhood,git,Creature List/7/FirstName,0,-1,시민
 yourneighborhood,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,평민 옷 3
 yourneighborhood,git,Creature List/8/FirstName,0,-1,시민
-yourneighborhood,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,평민 복장
+yourneighborhood,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
 yourneighborhood,git,Creature List/9/FirstName,0,-1,시민
-yourneighborhood,git,Door List/1/LocName,0,5349,포보르의 가게 문
+yourneighborhood,git,Door List/1/LocName,0,5349,포프르의 가게 문
 yourneighborhood,git,Door List/3/LocName,0,5349,당신의 아파트 문
 yourneighborhood,git,Door List/4/Description,0,9071,은 이 금속으로 덮인 문의 한때 부드러운 표면을 습니다.
 yourneighborhood,git,Door List/4/LocName,0,5349,녹슨 철문
-yourneighborhood,git,Door List/6/Description,0,-1,여기서 볼만한 게 없어요
-yourneighborhood,git,Door List/6/LocName,0,-1,사용할 수 없는 문
-yourneighborhood,git,Door List/7/Description,0,-1,여기서 볼만한 게 없어요
-yourneighborhood,git,Door List/7/LocName,0,-1,사용할 수 없는 문
-yourneighborhood,git,Encounter List/0/LocalizedName,0,-1,쥐구멍의 쥐
+yourneighborhood,git,Door List/6/Description,0,-1,여기서 볼 게 없어.
+yourneighborhood,git,Door List/6/LocName,0,-1,사용 불가능한 문
+yourneighborhood,git,Door List/7/Description,0,-1,여기서 볼 게 없어.
+yourneighborhood,git,Door List/7/LocName,0,-1,사용 불가능한 문
+yourneighborhood,git,Encounter List/0/LocalizedName,0,-1,쥐 구멍의 쥐
 yourneighborhood,git,Encounter List/1/LocalizedName,0,-1,6일 중위 대화
 yourneighborhood,git,Placeable List/0/LocName,0,5732,"""라이트홀로"""
 yourneighborhood,git,Placeable List/16/LocName,0,5800,CHAIR_JerkinsSit
 yourneighborhood,git,Placeable List/17/LocName,0,5800,CHAIR_ThrashgarSit
-yourneighborhood,git,Placeable List/18/LocName,0,14561,"""포포르의 호응"""
+yourneighborhood,git,Placeable List/18/LocName,0,14561,포프르의 특혜
 yourneighborhood,git,Placeable List/20/Description,0,14544,이 철자 구석은 위로 올라갈 수 있도록 기조되어 있는 것 같습니다. 그래서 사람이 지나갈 수 있습니다.
-yourneighborhood,git,Placeable List/20/LocName,0,14545,튼튼한 강철 우리
-yourneighborhood,git,Placeable List/23/Description,0,-1,문 앞 깔개
+yourneighborhood,git,Placeable List/20/LocName,0,14545,강력한 강철 갑옷
+yourneighborhood,git,Placeable List/23/Description,0,-1,문 앞 매트
 yourneighborhood,git,Placeable List/23/LocName,0,-1,당신의 아파트 입구
-yourneighborhood,git,Placeable List/24/Description,0,-1,문 앞 깔개
+yourneighborhood,git,Placeable List/24/Description,0,-1,문 앞 매트
 yourneighborhood,git,Placeable List/24/LocName,0,-1,포보르의 가게 입구
-yourneighborhood,git,Placeable List/40/LocName,0,14616,동네 출구
-yourneighborhood,git,Placeable List/41/LocName,0,14616,동네 출구
-yourneighborhood,git,Placeable List/42/LocName,0,14616,동네 출구
-yourneighborhood,git,Placeable List/43/LocName,0,14616,동네 출구
-yourneighborhood,git,WaypointList/10/LocalizedName,0,14814,지도 메모
-yourneighborhood,git,WaypointList/10/MapNote,0,14815,밀수업자 터널 입구
+yourneighborhood,git,Placeable List/40/LocName,0,14616,동네 출입구
+yourneighborhood,git,Placeable List/41/LocName,0,14616,동네 출입구
+yourneighborhood,git,Placeable List/42/LocName,0,14616,동네 출입구
+yourneighborhood,git,Placeable List/43/LocName,0,14616,동네 출입구
+yourneighborhood,git,WaypointList/10/LocalizedName,0,14814,지도 설명
+yourneighborhood,git,WaypointList/10/MapNote,0,14815,밀수업자 통로 입구
 yourneighborhood,git,WaypointList/11/LocalizedName,0,14817,대령 6일
 yourneighborhood,git,WaypointList/2/LocalizedName,0,14817,퀼리언의 아지트
-yourneighborhood,git,WaypointList/4/LocalizedName,0,14814,지도 메모
+yourneighborhood,git,WaypointList/4/LocalizedName,0,14814,지도 설명
 yourneighborhood,git,WaypointList/4/MapNote,0,14815,당신의 아파트
-yourneighborhood,git,WaypointList/5/LocalizedName,0,14814,지도 메모
-yourneighborhood,git,WaypointList/5/MapNote,0,14815,지역 출구
-yourneighborhood,git,WaypointList/6/LocalizedName,0,14814,지도 메모
-yourneighborhood,git,WaypointList/6/MapNote,0,14815,지역 출구
-yourneighborhood,git,WaypointList/7/LocalizedName,0,14814,지도 메모
-yourneighborhood,git,WaypointList/7/MapNote,0,14815,지역 출구
-yourneighborhood,git,WaypointList/8/LocalizedName,0,14814,지도 메모
-yourneighborhood,git,WaypointList/8/MapNote,0,14815,포보르의 호의
-yourneighborhood,git,WaypointList/9/LocalizedName,0,14814,지도 메모
+yourneighborhood,git,WaypointList/5/LocalizedName,0,14814,지도 설명
+yourneighborhood,git,WaypointList/5/MapNote,0,14815,지역 출입구
+yourneighborhood,git,WaypointList/6/LocalizedName,0,14814,지도 설명
+yourneighborhood,git,WaypointList/6/MapNote,0,14815,지역 출입구
+yourneighborhood,git,WaypointList/7/LocalizedName,0,14814,지도 설명
+yourneighborhood,git,WaypointList/7/MapNote,0,14815,지역 출입구
+yourneighborhood,git,WaypointList/8/LocalizedName,0,14814,지도 설명
+yourneighborhood,git,WaypointList/8/MapNote,0,14815,포프르의 은혜
+yourneighborhood,git,WaypointList/9/LocalizedName,0,14814,지도 설명
 yourneighborhood,git,WaypointList/9/MapNote,0,14815,태그

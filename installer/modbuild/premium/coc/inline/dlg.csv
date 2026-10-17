@@ -8,7 +8,7 @@ coc_storerogue,dlg,ReplyList/0/Text,0,-1,물건을 보여 주시오.
 coc_storewarrior,dlg,EntryList/0/Text,0,-1,어서 오세요! 전사 상점입니다... 무엇을 구입하시겠습니까?
 coc_storewarrior,dlg,ReplyList/0/Text,0,-1,물건을 보여 주시오.
 hq00_bluemark,dlg,EntryList/0/Text,0,-1,푸른 팀 플레이어 표식입니다.
-hq00_fightmaster,dlg,EntryList/0/Text,0,-1,팀 시작 구역에 오신 것을 환영합니다.
+hq00_fightmaster,dlg,EntryList/0/Text,0,-1,팀 시작 지역에 오신 것을 환영합니다.
 hq00_fightmaster,dlg,EntryList/1/Text,0,-1,무엇을 바꾸시겠습니까?
 hq00_fightmaster,dlg,EntryList/10/Text,0,-1,기본 레벨 제한: <CUSTOM500>레벨
 hq00_fightmaster,dlg,EntryList/11/Text,0,-1,직업 아이템 가격 제한: <CUSTOM500>gp
@@ -17,13 +17,13 @@ hq00_fightmaster,dlg,EntryList/13/Text,0,-1,어느 팀에 참가하시겠습니�
 hq00_fightmaster,dlg,EntryList/14/Text,0,-1,체크인할 수 없습니다. 팀이 잠겨 있습니다.
 hq00_fightmaster,dlg,EntryList/15/Text,0,-1,체크인할 수 없습니다. 현재 전투가 진행 중입니다.
 hq00_fightmaster,dlg,EntryList/16/Text,0,-1,체크인되었습니다.
-hq00_fightmaster,dlg,EntryList/17/Text,0,-1,"홀의 끝부분에 있는 매장관에서 물건을 구입할 수도 있고, 홀의 반대편에 있는 통계 관리자와 대화를 통해 팀의 통계를 확인할 수도 있습니다."
-hq00_fightmaster,dlg,EntryList/18/Text,0,-1,이 부위의 옆에는 다채로운 깃발이 있습니다. 각 팀의 선수들의 숫자를 나타냅니다.
-hq00_fightmaster,dlg,EntryList/19/Text,0,-1,시작할 준비가 되면 나나 다른 전투 마스터와 얘기하고 체크인하면 다음 경기에 준비됐다는 것을 의미합니다.
+hq00_fightmaster,dlg,EntryList/17/Text,0,-1,"홀의 끝에 있는 매장 주인에서 물건을 사거나, 반대편에 있는 통계 관리자와 대화하여 팀의 상태를 확인할 수 있습니다."
+hq00_fightmaster,dlg,EntryList/18/Text,0,-1,이 지역의 옆면에는 다채로운 깃발들이 있습니다. 각 팀에 참가한 플레이어 수를 나타냅니다.
+hq00_fightmaster,dlg,EntryList/19/Text,0,-1,시작할 준비가 되면 나나 다른 싸움 주인과 대화하고 체크인하면 다음 경기에 준비됐다는 것을 의미합니다.
 hq00_fightmaster,dlg,EntryList/2/Text,0,-1,팀을 몇 개로 하시겠습니까?
-hq00_fightmaster,dlg,EntryList/20/Text,0,-1,"일단 충분한 팀 동료들이 체크인되어 팀에 준비가 되어 있다고 믿으면, 잠금 레버를 끌고 팀에 잠금을 둬야 합니다. 그리고 그 이후 다른 누구도 팀에 체크인할 수 없습니다."
-hq00_fightmaster,dlg,EntryList/21/Text,0,-1,팀의 마지막 순간의 변경 사항에 대한 레버를 여전히 해제할 수 있습니다. 두 팀 모두 잠금되면 10초 후에 게임이 시작됩니다.
-hq00_fightmaster,dlg,EntryList/22/Text,0,-1,"금은 전투에서 살아남은 팀에게 보상되며, 그 금액은 사망한 선수들의 총 수에 따라 결정된다."
+hq00_fightmaster,dlg,EntryList/20/Text,0,-1,"일단 충분한 팀 동료들이 체크인되어 팀이 준비가 되어 있다고 믿으면, 잠금 레버를 당겨 팀을 잠그세요. 그 이후로는 아무도 팀에 체크인할 수 없습니다."
+hq00_fightmaster,dlg,EntryList/21/Text,0,-1,"팀의 마지막 순간 변경을 위해 레버를 여전히 잠금해제할 수 있습니다. 두 팀이 모두 잠그리면, 10초 후에 게임이 시작됩니다."
+hq00_fightmaster,dlg,EntryList/22/Text,0,-1,"금은 전투에서 살아남은 팀에게 보상되며, 금액은 사망한 플레이어들의 수에 따라 결정된다."
 hq00_fightmaster,dlg,EntryList/3/Text,0,-1,팀 수가 변경되었습니다.
 hq00_fightmaster,dlg,EntryList/4/Text,0,-1,무엇으로 바꾸시겠습니까?
 hq00_fightmaster,dlg,EntryList/5/Text,0,-1,무엇으로 바꾸시겠습니까?
@@ -35,7 +35,7 @@ hq00_fightmaster,dlg,ReplyList/0/Text,0,-1,안녕히 계십시오.
 hq00_fightmaster,dlg,ReplyList/1/Text,0,-1,경기를 관전하고 싶소.
 hq00_fightmaster,dlg,ReplyList/10/Text,0,-1,10
 hq00_fightmaster,dlg,ReplyList/11/Text,0,-1,5
-hq00_fightmaster,dlg,ReplyList/12/Text,0,-1,1
+hq00_fightmaster,dlg,ReplyList/12/Text,0,-1,1라운드
 hq00_fightmaster,dlg,ReplyList/13/Text,0,-1,기본 아이템 가격 제한을 변경하고 싶소.
 hq00_fightmaster,dlg,ReplyList/14/Text,0,-1,안녕히 계십시오.
 hq00_fightmaster,dlg,ReplyList/15/Text,0,-1,무제한
@@ -69,7 +69,7 @@ hq00_fightmaster,dlg,ReplyList/4/Text,0,-1,4
 hq00_fightmaster,dlg,ReplyList/40/Text,0,-1,계속
 hq00_fightmaster,dlg,ReplyList/41/Text,0,-1,금은 어떻게 얻습니까?
 hq00_fightmaster,dlg,ReplyList/5/Text,0,-1,3
-hq00_fightmaster,dlg,ReplyList/6/Text,0,-1,2
+hq00_fightmaster,dlg,ReplyList/6/Text,0,-1,2번
 hq00_fightmaster,dlg,ReplyList/7/Text,0,-1,기본 레벨 제한을 변경하고 싶소.
 hq00_fightmaster,dlg,ReplyList/8/Text,0,-1,20
 hq00_fightmaster,dlg,ReplyList/9/Text,0,-1,15
@@ -78,8 +78,8 @@ hq00_lockcheck,dlg,EntryList/0/Text,0,-1,체크인하기 전에는 팀을 잠글
 hq00_lockswitch,dlg,EntryList/0/Text,0,-1,게임이 진행되는 동안에는 팀 잠금을 해제할 수 없습니다...
 hq00_purplemark,dlg,EntryList/0/Text,0,-1,보라 팀 플레이어 표식입니다.
 hq00_redmark,dlg,EntryList/0/Text,0,-1,붉은 팀 플레이어 표식입니다.
-irstrct_enforcer,dlg,EntryList/0/Text,0,-1,챔피언 대회에 오신 것을 환영합니다!
-irstrct_enforcer,dlg,EntryList/1/Text,0,-1,"당신은 거기에 빛나는 포털을 클릭하여 게임에 참여할 수 있습니다, 그것은 당신의 팀 지역으로 이동할 것입니다. 당신은 당신의 총 아이템 가격과 게임 아이템 가격 제한 설정을 기반으로 시작으로 금의 양을 얻을 것입니다."
+irstrct_enforcer,dlg,EntryList/0/Text,0,-1,"환영합니다, 챔피언들의 대회에 참가하신 분들!"
+irstrct_enforcer,dlg,EntryList/1/Text,0,-1,당신은 거기에 빛나는 포털을 클릭하여 게임에 참여할 수 있습니다. 그러면 당신은 팀 지역으로 이동됩니다. 시작할 때 받을 금의 양은 총 아이템 비용과 게임 아이템 비용 제한 설정에 따라 결정됩니다.
 irstrct_enforcer,dlg,EntryList/10/Text,0,-1,무엇으로 바꾸시겠습니까?
 irstrct_enforcer,dlg,EntryList/11/Text,0,-1,무엇으로 바꾸시겠습니까?
 irstrct_enforcer,dlg,EntryList/12/Text,0,-1,현재 접속 중인 모든 플레이어에게 게임 필터를 다시 적용하시겠습니까?
@@ -91,28 +91,28 @@ irstrct_enforcer,dlg,EntryList/17/Text,0,-1,기본 아이템 가격 제한: <CUS
 irstrct_enforcer,dlg,EntryList/18/Text,0,-1,당신의 레벨은 <CUSTOM500>입니다. 캐릭터 시트를 보면 알 수 있었겠지만요...
 irstrct_enforcer,dlg,EntryList/19/Text,0,-1,당신의 아이템 총 가격은 <CUSTOM500>gp입니다.
 irstrct_enforcer,dlg,EntryList/2/Text,0,-1,전체 아이템 가격은 설정된 아이템 가격 한계 이하인: <CUSTOM500>gp까지 게임에 참여할 수 없습니다.
-irstrct_enforcer,dlg,EntryList/20/Text,0,-1,챔피언 대회는 파티 기반의 PvP 모듈입니다. 여기서 당신은 다른 모험가들과 대전에서 죽음을 맞게 경쟁합니다. 당신은 다른 플레이어들을 죽인 금을 수여받습니다. 당신은 장비를 구입하고 다른 다양한 아이템을 사용할 수 있습니다.
-irstrct_enforcer,dlg,EntryList/21/Text,0,-1,"전투자는 주 팀 영역에 한 번 체크인해야 합니다. 각 팀이 잠겨있을 때 전투는 시작될 수 있으며, 한 팀의 모든 구성원들이 사망하거나 재생명되거나 한 지점 아래로 떨어질 때까지 계속될 수 있습니다."
-irstrct_enforcer,dlg,EntryList/22/Text,0,-1,한 타격점 아래로 떨어지는 전투원들은 피를 흘리기 시작합니다. -10 타격점까지 도달하기 전에 팀 동료가 치료하면 전투를 재개할 수 있습니다.
-irstrct_enforcer,dlg,EntryList/23/Text,0,-1,아레나에 들어가면 모든 마법을 제거해 줄 겁니다. 체크인하기 전에 휴식을 취하고
-irstrct_enforcer,dlg,EntryList/24/Text,0,-1,체크인 후 휴식을 취하면 자동으로 체크인이 됩니다.
-irstrct_enforcer,dlg,EntryList/25/Text,0,-1,각 라운드에서 우승팀은 상대 팀의 크기에 따라 변하는 금을 수여받습니다. 한 팀이 5 번 승리하면 경기에서 승리자로 선언됩니다.
-irstrct_enforcer,dlg,EntryList/26/Text,0,-1,"""Check In""하기 위해서는 팀 영역의 전투 마스터와 대화를 하면 다음 라운드 전투에 당신을 체크인할 수 있습니다."
-irstrct_enforcer,dlg,EntryList/27/Text,0,-1,"챔피언 대회에 오신 것을 환영합니다, 배틀마스터!"
-irstrct_enforcer,dlg,EntryList/28/Text,0,-1,"당신은 거기에 빛나는 포털을 클릭하여 게임에 참여할 수 있습니다, 그것은 당신의 팀 지역으로 이동할 것입니다. 당신은 당신의 총 아이템 가격과 게임 아이템 가격 제한 설정을 기반으로 시작으로 금의 양을 얻을 것입니다."
+irstrct_enforcer,dlg,EntryList/20/Text,0,-1,"챔피언 대회는 파티 기반의 PvP 모듈입니다. 여기서 다른 모험가들과 대결하여 죽음을 맞이하는 대전을 벌입니다. 당신은 다른 플레이어를 죽인 보상으로 금을 얻게 되며, 이를 사용하여 장비와 기타 다양한 아이템을 구입할 수 있습니다."
+irstrct_enforcer,dlg,EntryList/21/Text,0,-1,"전투 참가자들은 주 팀 영역에서 한 번씩 체크인해야 합니다. 각 팀이 잠겨있을 때 전투는 시작되며, 한 팀의 모든 구성원이 사망하거나 재생되거나 1포인트 미만으로 떨어질 때까지 계속됩니다."
+irstrct_enforcer,dlg,EntryList/22/Text,0,-1,한 타입점 아래로 떨어지는 전투원들은 피를 흘리기 시작합니다. 팀 동료의 치료를 받아 -10 타입점 전에 도달하지 않으면 전투를 재개할 수 있습니다.
+irstrct_enforcer,dlg,EntryList/23/Text,0,-1,아레나에 들어가면 모든 마법 효과가 제거됩니다. 저는 체크인하기 전에 휴식을 취하고 전투가 시작될 때까지 마법을 사용하지 않는 것이 좋을 것이라 권합니다.
+irstrct_enforcer,dlg,EntryList/24/Text,0,-1,체크인 후 휴식을 취하면 자동으로 체크아웃 됩니다.
+irstrct_enforcer,dlg,EntryList/25/Text,0,-1,"각 라운드마다 우승팀은 상대 팀의 크기에 따라 금을 수여받습니다. 만약 한 팀이 5 번 승리하면, 그 팀은 경기의 승리자로 선언됩니다."
+irstrct_enforcer,dlg,EntryList/26/Text,0,-1,"""Check In""하려면 팀 영역의 싸움 주인과 대화를 하면 다음 라운드 싸움에 당신을 체크인할 수 있습니다."
+irstrct_enforcer,dlg,EntryList/27/Text,0,-1,"환영합니다, 배틀마스터! 챔피언 대회에 참가해주셔서."
+irstrct_enforcer,dlg,EntryList/28/Text,0,-1,당신은 거기에 빛나는 포털을 클릭하여 게임에 참여할 수 있습니다. 그러면 당신은 팀 지역으로 이동됩니다. 시작할 때 받을 금의 양은 총 아이템 비용과 게임 아이템 비용 제한 설정에 따라 결정됩니다.
 irstrct_enforcer,dlg,EntryList/29/Text,0,-1,전체 아이템 가격은 설정된 아이템 가격 한계 이하인: <CUSTOM500>gp까지 게임에 참여할 수 없습니다.
-irstrct_enforcer,dlg,EntryList/3/Text,0,-1,물품 보관소와 장착된 재고에서 물품을 빼내면 전체 아이템 가격을 줄일 수 있습니다.
-irstrct_enforcer,dlg,EntryList/30/Text,0,-1,물품 보관소와 장착된 재고에서 물품을 빼내면 전체 아이템 가격을 줄일 수 있습니다.
-irstrct_enforcer,dlg,EntryList/31/Text,0,-1,"예, 게임이 얼마나 많은 아이템 가치를 (GP) 플레이어가 게임으로 가져올 수 있는지 결정하는 설정을 가지고 있습니다."
-irstrct_enforcer,dlg,EntryList/32/Text,0,-1,당신은 당신의 레벨이 게임 설정 레벨이 될 때까지 게임에 참여할 수 없습니다: 레벨 <CUSTOM500>. 당신은 내가 당신의 레벨을 수정하고 싶습니까?
-irstrct_enforcer,dlg,EntryList/33/Text,0,-1,당신의 레벨이 이제 수정되었습니다. 당신은 당신의 캐릭터에 경험이 추가되었다면 레벨을 올릴 필요가 있습니다. 그렇지 않으면 당신은 포털을 통해 주요 영역으로 진행할 수 있습니다.
+irstrct_enforcer,dlg,EntryList/3/Text,0,-1,물품 보관소와 장착한 물품에서 아이템을 제거하면 전체 아이템 비용을 줄일 수 있습니다.
+irstrct_enforcer,dlg,EntryList/30/Text,0,-1,물품 보관소와 장착한 물품에서 아이템을 제거하면 전체 아이템 비용을 줄일 수 있습니다.
+irstrct_enforcer,dlg,EntryList/31/Text,0,-1,"예, 게임은 플레이어가 게임에 가져올 수 있는 아이템 가치(GP)의 양을 결정하는 설정을 가지고 있습니다."
+irstrct_enforcer,dlg,EntryList/32/Text,0,-1,당신의 레벨이 게임 설정 레벨인 레벨 <CUSTOM500>이 될 때까지 게임에 참여할 수 없습니다. 레벨을 수정하고 싶으신가요?
+irstrct_enforcer,dlg,EntryList/33/Text,0,-1,당신의 레벨이 이제 수정되었습니다. 경험치가 캐릭터에 추가되었다면 레벨업을 해야 합니다. 그렇지 않으면 포털을 통해 주요 지역으로 이동할 수 있습니다.
 irstrct_enforcer,dlg,EntryList/34/Text,0,-1,무엇을 바꾸시겠습니까?
 irstrct_enforcer,dlg,EntryList/35/Text,0,-1,팀을 몇 개로 하시겠습니까?
 irstrct_enforcer,dlg,EntryList/36/Text,0,-1,팀 수가 변경되었습니다.
 irstrct_enforcer,dlg,EntryList/37/Text,0,-1,무엇으로 바꾸시겠습니까?
 irstrct_enforcer,dlg,EntryList/38/Text,0,-1,무엇으로 바꾸시겠습니까?
 irstrct_enforcer,dlg,EntryList/39/Text,0,-1,현재 접속 중인 모든 플레이어에게 게임 필터를 다시 적용하시겠습니까?
-irstrct_enforcer,dlg,EntryList/4/Text,0,-1,"예, 게임이 얼마나 많은 아이템 가치를 (GP) 플레이어가 게임으로 가져올 수 있는지 결정하는 설정을 가지고 있습니다."
+irstrct_enforcer,dlg,EntryList/4/Text,0,-1,"예, 게임은 플레이어가 게임에 가져올 수 있는 아이템 가치(GP)의 양을 결정하는 설정을 가지고 있습니다."
 irstrct_enforcer,dlg,EntryList/40/Text,0,-1,무엇이 궁금하십니까?
 irstrct_enforcer,dlg,EntryList/41/Text,0,-1,배틀마스터: <CUSTOM500>
 irstrct_enforcer,dlg,EntryList/42/Text,0,-1,팀은 <CUSTOM500>개입니다.
@@ -121,28 +121,28 @@ irstrct_enforcer,dlg,EntryList/44/Text,0,-1,기본 아이템 가격 제한: <CUS
 irstrct_enforcer,dlg,EntryList/45/Text,0,-1,직업 아이템 가격 제한: <CUSTOM500>gp
 irstrct_enforcer,dlg,EntryList/46/Text,0,-1,당신의 레벨은 <CUSTOM500>입니다. 캐릭터 시트를 보면 알 수 있었겠지만요...
 irstrct_enforcer,dlg,EntryList/47/Text,0,-1,당신의 아이템 총 가격은 <CUSTOM500>gp입니다.
-irstrct_enforcer,dlg,EntryList/48/Text,0,-1,"배틀마스터는 게임 옵션을 수정할 수 있는 플레이어입니다. 배틀마스터 또는 규칙 집행자에게 이야기 할 때, 그들은 게임 옵션을 수정할 수 있습니다."
-irstrct_enforcer,dlg,EntryList/49/Text,0,-1,챔피언 대회는 파티 기반의 PvP 모듈입니다. 여기서 당신은 다른 모험가들과 대전에서 죽음을 맞게 경쟁합니다. 당신은 다른 플레이어들을 죽인 금을 수여받습니다. 당신은 장비를 구입하고 다른 다양한 아이템을 사용할 수 있습니다.
-irstrct_enforcer,dlg,EntryList/5/Text,0,-1,당신은 당신의 레벨이 게임 설정 레벨이 될 때까지 게임에 참여할 수 없습니다: 레벨 <CUSTOM500>. 당신은 내가 당신의 레벨을 수정하고 싶습니까?
-irstrct_enforcer,dlg,EntryList/50/Text,0,-1,"전투자는 주 팀 영역에 한 번 체크인해야 합니다. 각 팀이 잠겨있을 때 전투는 시작될 수 있으며, 한 팀의 모든 구성원들이 사망하거나 재생명되거나 한 지점 아래로 떨어질 때까지 계속될 수 있습니다."
-irstrct_enforcer,dlg,EntryList/51/Text,0,-1,한 타격점 아래로 떨어지는 전투원들은 피를 흘리기 시작합니다. -10 타격점까지 도달하기 전에 팀 동료가 치료하면 전투를 재개할 수 있습니다.
-irstrct_enforcer,dlg,EntryList/52/Text,0,-1,아레나에 들어가면 모든 마법을 제거해 줄 겁니다. 체크인하기 전에 휴식을 취하고
-irstrct_enforcer,dlg,EntryList/53/Text,0,-1,체크인 후 휴식을 취하면 자동으로 체크인이 됩니다.
-irstrct_enforcer,dlg,EntryList/54/Text,0,-1,각 라운드에서 우승팀은 상대 팀의 크기에 따라 변하는 금을 수여받습니다. 한 팀이 5 번 승리하면 경기에서 승리자로 선언됩니다.
-irstrct_enforcer,dlg,EntryList/55/Text,0,-1,"""Check In""하기 위해서는 팀 영역의 전투 마스터와 대화를 하면 다음 라운드 전투에 당신을 체크인할 수 있습니다."
-irstrct_enforcer,dlg,EntryList/6/Text,0,-1,당신의 레벨이 이제 수정되었습니다. 당신은 당신의 캐릭터에 경험이 추가되었다면 레벨을 올릴 필요가 있습니다. 그렇지 않으면 당신은 포털을 통해 주요 영역으로 진행할 수 있습니다.
+irstrct_enforcer,dlg,EntryList/48/Text,0,-1,"배틀마스터는 게임 옵션을 수정할 수 있는 플레이어입니다. 배틀마스터 또는 규칙 집행자와 대화할 때, 그들은 게임 옵션을 수정할 수 있습니다."
+irstrct_enforcer,dlg,EntryList/49/Text,0,-1,"챔피언 대회는 파티 기반의 PvP 모듈입니다. 여기서 다른 모험가들과 대결하여 죽음을 맞이하는 대전을 벌입니다. 당신은 다른 플레이어를 죽인 보상으로 금을 얻게 되며, 이를 사용하여 장비와 기타 다양한 아이템을 구입할 수 있습니다."
+irstrct_enforcer,dlg,EntryList/5/Text,0,-1,당신의 레벨이 게임 설정 레벨인 레벨 <CUSTOM500>이 될 때까지 게임에 참여할 수 없습니다. 레벨을 수정하고 싶으신가요?
+irstrct_enforcer,dlg,EntryList/50/Text,0,-1,"전투 참가자들은 주 팀 영역에서 한 번씩 체크인해야 합니다. 각 팀이 잠겨있을 때 전투는 시작되며, 한 팀의 모든 구성원이 사망하거나 재생되거나 1포인트 미만으로 떨어질 때까지 계속됩니다."
+irstrct_enforcer,dlg,EntryList/51/Text,0,-1,한 타입점 아래로 떨어지는 전투원들은 피를 흘리기 시작합니다. 팀 동료의 치료를 받아 -10 타입점 전에 도달하지 않으면 전투를 재개할 수 있습니다.
+irstrct_enforcer,dlg,EntryList/52/Text,0,-1,아레나에 들어가면 모든 마법 효과가 제거됩니다. 저는 체크인하기 전에 휴식을 취하고 전투가 시작될 때까지 마법을 사용하지 않는 것이 좋을 것이라 권합니다.
+irstrct_enforcer,dlg,EntryList/53/Text,0,-1,체크인 후 휴식을 취하면 자동으로 체크아웃 됩니다.
+irstrct_enforcer,dlg,EntryList/54/Text,0,-1,"각 라운드마다 우승팀은 상대 팀의 크기에 따라 금을 수여받습니다. 만약 한 팀이 5 번 승리하면, 그 팀은 경기의 승리자로 선언됩니다."
+irstrct_enforcer,dlg,EntryList/55/Text,0,-1,"""Check In""하려면 팀 영역의 싸움 주인과 대화를 하면 다음 라운드 싸움에 당신을 체크인할 수 있습니다."
+irstrct_enforcer,dlg,EntryList/6/Text,0,-1,당신의 레벨이 이제 수정되었습니다. 경험치가 캐릭터에 추가되었다면 레벨업을 해야 합니다. 그렇지 않으면 포털을 통해 주요 지역으로 이동할 수 있습니다.
 irstrct_enforcer,dlg,EntryList/7/Text,0,-1,무엇을 바꾸시겠습니까?
 irstrct_enforcer,dlg,EntryList/8/Text,0,-1,팀을 몇 개로 하시겠습니까?
 irstrct_enforcer,dlg,EntryList/9/Text,0,-1,팀 수가 변경되었습니다.
 irstrct_enforcer,dlg,ReplyList/0/Text,0,-1,계속
 irstrct_enforcer,dlg,ReplyList/1/Text,0,-1,아이템 가격을 낮추려면 어떻게 합니까?
-irstrct_enforcer,dlg,ReplyList/10/Text,0,-1,2
+irstrct_enforcer,dlg,ReplyList/10/Text,0,-1,2번
 irstrct_enforcer,dlg,ReplyList/11/Text,0,-1,기본 레벨 제한을 변경하고 싶소.
 irstrct_enforcer,dlg,ReplyList/12/Text,0,-1,20
 irstrct_enforcer,dlg,ReplyList/13/Text,0,-1,15
 irstrct_enforcer,dlg,ReplyList/14/Text,0,-1,10
 irstrct_enforcer,dlg,ReplyList/15/Text,0,-1,5
-irstrct_enforcer,dlg,ReplyList/16/Text,0,-1,1
+irstrct_enforcer,dlg,ReplyList/16/Text,0,-1,1라운드
 irstrct_enforcer,dlg,ReplyList/17/Text,0,-1,기본 아이템 가격 제한을 변경하고 싶소.
 irstrct_enforcer,dlg,ReplyList/18/Text,0,-1,무제한
 irstrct_enforcer,dlg,ReplyList/19/Text,0,-1,50000
@@ -183,13 +183,13 @@ irstrct_enforcer,dlg,ReplyList/5/Text,0,-1,안녕히 계십시오.
 irstrct_enforcer,dlg,ReplyList/50/Text,0,-1,팀 수를 변경하고 싶소.
 irstrct_enforcer,dlg,ReplyList/51/Text,0,-1,4
 irstrct_enforcer,dlg,ReplyList/52/Text,0,-1,3
-irstrct_enforcer,dlg,ReplyList/53/Text,0,-1,2
+irstrct_enforcer,dlg,ReplyList/53/Text,0,-1,2번
 irstrct_enforcer,dlg,ReplyList/54/Text,0,-1,기본 레벨 제한을 변경하고 싶소.
 irstrct_enforcer,dlg,ReplyList/55/Text,0,-1,20
 irstrct_enforcer,dlg,ReplyList/56/Text,0,-1,15
 irstrct_enforcer,dlg,ReplyList/57/Text,0,-1,10
 irstrct_enforcer,dlg,ReplyList/58/Text,0,-1,5
-irstrct_enforcer,dlg,ReplyList/59/Text,0,-1,1
+irstrct_enforcer,dlg,ReplyList/59/Text,0,-1,1라운드
 irstrct_enforcer,dlg,ReplyList/6/Text,0,-1,게임 옵션을 변경하고 싶소.
 irstrct_enforcer,dlg,ReplyList/60/Text,0,-1,기본 아이템 가격 제한을 변경하고 싶소.
 irstrct_enforcer,dlg,ReplyList/61/Text,0,-1,무제한
