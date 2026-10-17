@@ -106,7 +106,7 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 
 ## 개발 / 기여
 
-- 번역 방법(기계번역 → 용어집 → 자동 검사 → LLM 감수)을 다른 게임·다른 AI 에 적용할 수 있게 정리한 문서: [docs/TRANSLATION_PIPELINE.md](docs/TRANSLATION_PIPELINE.md)
+- 번역 방법(기계번역 → 용어집 → 자동 검사 → LLM 감수)을 다른 게임·다른 AI 에 적용할 수 있게 정리한 방법서는 별도 저장소로 옮겼습니다: [iamtalker/game-translation-pipeline](https://github.com/iamtalker/game-translation-pipeline). 방법서가 말하는 참고 구현 스크립트는 이 저장소의 `tools/` (`mt_translate.py`, `llm_postedit.py`, `review_triage.py`, `build_glossary.py`, `apply_glossary.py`)에 있습니다.
 
 개발 현황과 다음 작업은 [DEVELOPMENT.md](DEVELOPMENT.md) 를 참고하세요.
 
