@@ -37,7 +37,18 @@ def main():
     for p in sorted(glob.glob(os.path.join(B, "mt", "*_all.json")) + glob.glob(os.path.join(B, "community", "*", "all.json"))):
         for en, ko in json.load(open(p, encoding="utf-8")).items():
             pool.setdefault(en, ko)
-    new = {}
+    new, prev = {}, {}
+    # 이전에 반영된 Qwen 채택분(final_v*.json) 중 이번 규칙에서 빠진 것은 기계번역으로 되돌린다
+    pv = os.path.join(B, "llm", "review", "final_v0.1.25.json")
+    cur = jl("llm", "review", "final.json") if os.path.exists(os.path.join(B, "llm", "review", "final.json")) else {}
+    if os.path.exists(pv):
+        prev_old = json.load(open(pv, encoding="utf-8"))
+        for en in prev_old:
+            if en not in cur and en in pool:
+                mt = clean(corr.get(en) or exact.get(en.strip()) or pool[en])
+                if mt and "#" not in mt and re.search(r"[가-힣]", mt) and sorted(TOK.findall(mt)) == sorted(TOK.findall(en)):
+                    new[en] = mt
+        prev = dict(prev_old)
     layers = [("llm", "review", "final.json")]
     if "--no-names" not in argv:                     # 고유명사 통일은 별도 단계(기본 포함, --no-names 로 제외)
         layers.append(("llm", "names", "names_fixed.json"))
@@ -45,13 +56,16 @@ def main():
     for fn in layers:
         p = os.path.join(B, *fn)
         if os.path.exists(p):
-            new.update(jl(*fn))                       # 뒤의 것(고유명사 통일)이 앞의 것을 포함·우선
+            layer = jl(*fn)
+            if not prev and fn[-1] == "final.json":
+                prev = dict(layer)                    # 이미 반영된 이전 단계(Qwen 채택분) 값: 현재 CSV 에 이 값이 들어 있을 수 있다
+            new.update(layer)                         # 뒤의 것(고유명사 통일)이 앞의 것을 포함·우선
     # 예전 한국어 -> 영어 (여러 후보 허용해서 모호하면 제외)
     rev = collections.defaultdict(set)
     for en, ko in pool.items():
         if en not in new:
             continue
-        for old in {clean(corr.get(en) or exact.get(en.strip()) or ko), clean(ko)}:
+        for old in {clean(corr.get(en) or exact.get(en.strip()) or ko), clean(ko), prev.get(en, "")}:
             if old:
                 rev[old].add(en)
     mapping = {}
@@ -69,7 +83,7 @@ def main():
     tot_rows = tot_chg = 0
     for f in files:
         raw = open(f, "rb").read()
-        text = raw.decode("utf-8-sig")
+        text = raw.decode("utf-8-sig").replace("\r\n", "\n")      # 윈도우 체크아웃(CRLF)이 셀 안 줄바꿈에 남는 것을 정리
         bom = raw.startswith(b"\xef\xbb\xbf")
         rows = list(csv.reader(io.StringIO(text)))
         if not rows or "Text" not in rows[0]:

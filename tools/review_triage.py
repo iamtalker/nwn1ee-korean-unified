@@ -139,7 +139,7 @@ def main():
         fc = collections.Counter(fl.split(":")[0] for r in rows for fl in r["flags"])
         f.write("flags: " + ", ".join(f"{k}={v}" for k, v in fc.most_common()) + "\n")
     # ---- 최종 채택: 규칙에 걸리지 않은 Qwen 번역만 기존 번역(기계번역)을 덮어쓴다 ----
-    META = re.compile(r"참고\s*:|다음과 같|선택하시면|바꾸면|자연스러운 한국어|자연스럽게 유지|표기하여|아래와 같|번역하면|\)\)|▷|\*{3,}|\(\s*\)")
+    META = re.compile(r"참고\s*:|다음과 같|선택하시면|바꾸면|자연스러운 한국어|자연스럽게 유지|표기하여|아래와 같|번역하면|\)\)|▷|\*{3,}|\(\s*\)|원문의|원문을|원문에|원문과|기계번역|고친 번역|고쳤습니다|수정했습니다|어조를|자연스러운 표현|문맥상|번역한 결과|번역 결과")
     BR = re.compile(r"(<Start(?:Check|Action)>)\s*([^\[\]<]{1,60}?)\s*(</Start>)")
 
     def accept(r):

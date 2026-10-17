@@ -83,8 +83,7 @@ climbtrap1,dlg,EntryList/4/Text,0,<StartHighlight>[당신은 쉽게 다음 층�
 climbtrap1,dlg,ReplyList/0/Text,0,<StartAction> [암을 떠나.]</Start>
 climbtrap1,dlg,ReplyList/1/Text,0,<StartAction>[오르기 시도]</Start>
 delade_1,dlg,EntryList/0/Text,0,"""<FirstName>님, 무엇을 원하시나요?"""
-delade_1,dlg,EntryList/1/Text,0,"""아, <FirstName>. 당신은 함정에서 도망쳤군요. 어떻게 이 동굴에서 우리를 찾았나?""
-기계번역이 자연스럽게 번역되어 수정할 필요가 없었습니다."
+delade_1,dlg,EntryList/1/Text,0,"""아, <FirstName>. 당신은 또한 함정에 빠져나갔어요. 어떻게 이 동굴에서 우리를 찾았습니까?"""
 delade_1,dlg,EntryList/2/Text,0,"""보시다시피, 그 엘프들은 당신의 환상에 빠지지 않을 것입니다! 우리는 더 많은 예방 조치를 취해야 할 것입니다!"""
 delade_1,dlg,EntryList/3/Text,0,"""그러나 환상은 완벽합니다..."""
 delade_1,dlg,EntryList/4/Text,0,"""공허한 동굴이야. 이 동굴을 평범한 벽으로 위장하지 않았느냐? 이 숲에서 공허한 동굴을 보일 리가 있나?"""
@@ -287,7 +286,7 @@ llomir_1,dlg,EntryList/22/Text,0,네 말이 어있다는 걸 거의 잊었지
 llomir_1,dlg,EntryList/23/Text,0,"""아마 그럴 수 있겠지만, 여전히 그들의 동기와 목표에 대해 의심을 가지고 있습니다. 당신에게 도와줄 다른 것이 있나요?"""
 llomir_1,dlg,EntryList/24/Text,0,"""그러면 더 나은 삶에 대한 희망이 있습니다. 내가 당신을 위해 더 도와드릴 수 있는 것이 있습니까?"""
 llomir_1,dlg,EntryList/25/Text,0,"나는 오랜 세월 동안 하우스 테트니스와 함께 있었지만, 그들은 항상 나를 흙바닥처럼 대했습니다."
-llomir_1,dlg,EntryList/26/Text,0,"""피우비언과 트리안더는 마땅한 대가를 치렀다. 이기적인 목적을 위해 모든 것을 희생한 것일지도 모르지만, 어쩌면 그들이 마땅한 대가를 치렀을지도 모른다."""
+llomir_1,dlg,EntryList/26/Text,0,"""피우비엔과 트리안더는 마땅한 대가를 치렀다. 이기적인 목적을 위해 모든 것을 희생한 것일지도 모르지만, 어쩌면 그들이 마땅한 대가를 치렀을지도 모른다."""
 llomir_1,dlg,EntryList/27/Text,0,"""이 사건의 배후에 무엇이나 누군가가 있는지 정말 궁금합니다."""
 llomir_1,dlg,EntryList/28/Text,0,이곳은 죽음의 함정 같아서 불안한 기분이 듭니다.
 llomir_1,dlg,EntryList/29/Text,0,"""우리는 죽은 자 없는 좀비처럼 우리 동료들과 싸웠다""."
@@ -330,8 +329,7 @@ llomir_1,dlg,ReplyList/20/Text,0,"좋아, 이제 가자."
 llomir_1,dlg,ReplyList/21/Text,0,"""어떤 말을 나누어보자."""
 llomir_1,dlg,ReplyList/22/Text,0,"""주제를 바꿔보자."""
 llomir_1,dlg,ReplyList/23/Text,0,"""이 표면 세계에 대해 어떻게 생각하세요?"""
-llomir_1,dlg,ReplyList/26/Text,0,"""이 모든 것의 배후 릭이 가까워졌어. 준비되나?""
-고친 번역: ""이 모든 것의 배후 릭이 가까워졌어. 준비되나?"""
+llomir_1,dlg,ReplyList/26/Text,0,"""이 모든 것의 배후가 가까워졌어요. 준비됐나요?"""
 llomir_1,dlg,ReplyList/27/Text,0,"""이 미로는 죽음의 함정입니다. 어떻게 통과할 수 있는지 생각해보세요."""
 llomir_1,dlg,ReplyList/29/Text,0,"""네테리스 유물. 네테릴에 대해 알고 있나요?"""
 llomir_1,dlg,ReplyList/30/Text,0,"""우리가 발견한 유적에 대해 어떻게 생각하세요?"""
@@ -3635,12 +3633,12 @@ module,ifo,Mod_Description,0,"5장 - Acererak
 module,jrl,Categories/0/Name,0,앵커
 module,jrl,Categories/0/EntryList/0/Text,0,최근 전투에서 롯미르가 심하게 부상을 입었지
 module,jrl,Categories/1/Name,0,스토리 라인
-module,jrl,Categories/1/EntryList/0/Text,0,"나르본델의 몇 단계, 또는 표면 주민들이 그것을 부르는 것처럼, ""일"" 전에 나는 미스터 피비비엔 테트니스의 사냥 여행을 통해 싸워야 했다. 단순한 괴물 노예 사냥으로 보이는 것은 훨씬 더 위험한 작업으로 판명되었습니다. 나의 동반자 중 절반 이상이 그리고 우리의 모든 괴물들은 스비비엔 베블린 습격에 빠졌습니다. 나는 그들의 지도자를 죽였으며 그렇게 함으로써 나는 언더더크의 상류 터널로 탈출 할 시간을 얻었습니다. 우리는 스비비엔 테트니스의 포항을 통해 싸워야했습니다. 우리는 서쪽으로 이어지는 스비엔 베블린 무역 경로에 도달할 때까지 우리의 길을 차단했습니다. 그 다음 우리는 도로 건너가 왔고 올바른 길을 걷기 위해 시간이 걸렸습니다. 우리는 스비엔 베블린 동굴을 통과해야 했지만, 거미들은 나를 볼 수있었습니다. 그러나 나는 나중에 피비엔의 미스터리한 인물을 찾아내에서 우리를 공격했습니다. 그러나 우리는 항상 그 마을의 작은 단골을 찾아내며, 그 외곽에 도달했을 때, 그녀는 자신의 수명과 고통에 대한 새로운 해결책을 찾았습니다. 그러나 우리는 그 외곽에 도달했을 때, 그녀는 자신의 수명"
+module,jrl,Categories/1/EntryList/0/Text,0,"나르본델의 몇 단계, 또는 표면 주민들이 그것을 부르는 것처럼, ""일"" 전에 나는 미스터 피우비엔 테트니스의 사냥 여행을 통해 싸워야 했다. 단순한 괴물 노예 사냥으로 보이는 것은 훨씬 더 위험한 작업으로 판명되었습니다. 나의 동반자 중 절반 이상이 그리고 우리의 모든 괴물들은 스비비엔 베블린 습격에 빠졌습니다. 나는 그들의 지도자를 죽였으며 그렇게 함으로써 나는 언더더크의 상류 터널로 탈출 할 시간을 얻었습니다. 우리는 스비비엔 테트니스의 포항을 통해 싸워야했습니다. 우리는 서쪽으로 이어지는 스비엔 베블린 무역 경로에 도달할 때까지 우리의 길을 차단했습니다. 그 다음 우리는 도로 건너가 왔고 올바른 길을 걷기 위해 시간이 걸렸습니다. 우리는 스비엔 베블린 동굴을 통과해야 했지만, 거미들은 나를 볼 수있었습니다. 그러나 나는 나중에 피비엔의 미스터리한 인물을 찾아내에서 우리를 공격했습니다. 그러나 우리는 항상 그 마을의 작은 단골을 찾아내며, 그 외곽에 도달했을 때, 그녀는 자신의 수명과 고통에 대한 새로운 해결책을 찾았습니다. 그러나 우리는 그 외곽에 도달했을 때, 그녀는 자신의 수명"
 module,jrl,Categories/2/Name,0,포로
 module,jrl,Categories/2/EntryList/0/Text,0,이 건물의 소유자인 Acererak Lich은 자신의 쾌락을 위해 멋진 생물인 Dryad을 붙잡고 있습니다. Dryad은 저를 풀어달라고 부탁합니다.
 module,jrl,Categories/2/EntryList/1/Text,0,드라이어드는 다시 자유로웠다.
 module,jrl,Categories/3/Name,0,엘프 돌을 탐색하는 것
-module,jrl,Categories/3/EntryList/0/Text,0,"우리는 몇 개의 유적들을 발견했습니다. 만약 그 유적들이 인간에 의해 언급된 유적이라면, 우리는 배신당했습니다. 그들은 어떤 종류의 감시탑에 속해 있었다는 것은 꽤 명백합니다. 그들은 가치나 권력을 가진 것이 없었습니다. 신화 사냥은 완전히 실패했습니다. 나는 돌아서서 멘소버란잔으로 돌아가는 방법을 시도할 수 있었지만, 나는 스파이더 여왕이 이것을 좋아하지 않을 것을 두려워합니다. 다른 사람들은 죽었을 수도 있지만, 롤스의 탐구는 여전히 나에게 달려 있습니다. 나는 여전히 그녀의 네트워크에 휘말려 있습니다."
+module,jrl,Categories/3/EntryList/0/Text,0,"우리는 몇 개의 유적들을 발견했습니다. 만약 그 유적들이 인간에 의해 언급된 유적이라면, 우리는 배신당했습니다. 그들은 어떤 종류의 감시탑에 속해 있었다는 것은 꽤 명백합니다. 그들은 가치나 권력을 가진 것이 없었습니다. 신화 사냥은 완전히 실패했습니다. 나는 돌아서서 멘조베란잔으로 돌아가는 방법을 시도할 수 있었지만, 나는 스파이더 여왕이 이것을 좋아하지 않을 것을 두려워합니다. 다른 사람들은 죽었을 수도 있지만, 롤스의 탐구는 여전히 나에게 달려 있습니다. 나는 여전히 그녀의 네트워크에 휘말려 있습니다."
 module,jrl,Categories/3/EntryList/1/Text,0,"인간 지도자와 일부 엘프들 사이의 대화를 들었어요. 그가 말한 기념물은 결코 빠져나오지 않았습니다. 그는 우리를 그의 사람들로부터 멀리 끌어들으려 노력했습니다. 그는 그렇게 성공했습니다. 우리는 그의 집으로 돌아갈 길을 결코 찾을 수 없을 것이라고 생각합니다. 하지만 - 무슨 우연이 - 근처에 고대 장소가 있습니다. 강력한 생물의 유적, 그리고 그것은 미탈러를 보유하고 있습니다. 내가 스파이더 여왕을 찾고 있던 것보다 더 큰 유물. 이것은 나의 여신을 기쁘게 할 수있는 기회가 될 수 있습니다."
 module,jrl,Categories/3/EntryList/2/Text,0,"고대 네더레스의 아크마지 Acererak은 비자연적인 삶을 유지하기 위해 특별한 유물을 만들었습니다. 그는 현재 패배했지만, 그의 유물이 곧 그를 다시 살릴까 두려워합니다. 저는 이번에 모든 것을 마무리짓는 것이 필요합니다."
 module,jrl,Categories/3/EntryList/3/Text,0,"아세레라크는 마침내 사라졌어요. 이제 제가 그의 신화를 가져갔어요. 그는 내 마음에 침입하려고 했지만, 저는 롤트의 마법에 의해 보호받았습니다. 이상한 것은 갑자기 세 신이, 롤트, 바에라운, 미엘리키가 그들의 선택자가 될 수 있도록 설득하려고 시도했다는 것입니다. 나는 세 사람 사이에서 결정하는 것 외에는 다른 기회가 없었습니다. 나는 롤트를 선택했고, 그녀는 신화를 사용하는 것에 대한 통찰력을 제공했습니다. 나는 이 시점에서 신화에 대해 많은 것을 알지 못한다고 생각합니다. 그러나 나는 그것에 대해 아무것도 배울 수 있도록 노력할 것입니다. 아마도 롤트의 힘보다 더 ..."
@@ -3665,7 +3663,7 @@ ashimar001,utc,FirstName,0,아시마르
 ashimar001,utc,LastName,0,승려
 avataroflolth,utc,FirstName,0,로스의 화신
 avatarofmielikki,utc,FirstName,0,미엘리키의 화신
-avatarofvhaeraun,utc,FirstName,0,화신 바에런
+avatarofvhaeraun,utc,FirstName,0,화신 바에라운
 bandit006,utc,FirstName,0,인간 마법사
 beardire001,utc,FirstName,0,흉포한 곰
 beardire001,utc,Description,0,디어 베어는 보통의 사촌들보다 크고 더 치명적인 버전이다. 그들은 종종 강력한 레인저나 드루이드의 동반자로 발견된다.
@@ -4056,7 +4054,7 @@ maarcl069,uti,LocalizedName,0,보라색 용 제례 갑옷
 maarcl069,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
 maarcl108,uti,LocalizedName,0,가죽 갑옷 +1
 maarcl108,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
-maarcl109,uti,LocalizedName,0,피위비엔의 갑옷
+maarcl109,uti,LocalizedName,0,피우비엔의 갑옷
 maarcl109,uti,Description,0,이 사슬갑옷은 하우스 테트니스의 높은 계급 귀족들을 위해 만들어진 것임을 분명히 알 수 있습니다.
 maarcl109,uti,DescIdentified,0,Piewiewiens 사슬갑옷. 이 갑옷은 가장 훌륭한 아담아티트로 만들어져 있어 착용자에게 높은 수준의 보호를 제공하면서도 매우 가볍고 유연하다. 이 갑옷은 하우스 테트니스의 높은 계급 귀족들을 위해 제작된 것으로 분명히 인식된다.
 maarcl110,uti,LocalizedName,0,피우비엔스 피와프위
@@ -4070,7 +4068,7 @@ mcloth002,uti,DescIdentified,0,"고대 리히와 연관된 여러 가지 물건 
 mcloth003,uti,LocalizedName,0,베크나의 로브
 mcloth003,uti,DescIdentified,0,"고대 리히와 연관된 여러 가지 물건 중 하나인 이 종류의 의복은 더 잘 알려진 독특한 눈이나 손의 힘에 비해 부동화한다. 그럼에도 불구하고, 단지 그의 존재 앞에 두어 둔 것만으로도 상당한 마법 에너지를 전달할 수 있었다."
 mcloth015,uti,LocalizedName,0,트리안데르의 전투복
-mcloth015,uti,DescIdentified,0,"엘미스터, 블랙스태프, 그리고 타이의 붉은 마법사의 능력에 대해 듣기 때문에 죽을 정도로 아픈 클라펜 포티어 (Klaphen Fortier) 는 강력하지만 비교적 알려지지 않은 마법사였다. 그의 희망은 젊고 무관심한 마법사들이 자신들에게 이름을 알리려는 희망으로 더 강력한 마법사들을 도전하도록 격려 될 수 있다는 것이었다."
+mcloth015,uti,DescIdentified,0,"엘민스터, 블랙스태프, 그리고 타이의 붉은 마법사의 능력에 대해 듣기 때문에 죽을 정도로 아픈 클라펜 포티어 (Klaphen Fortier) 는 강력하지만 비교적 알려지지 않은 마법사였다. 그의 희망은 젊고 무관심한 마법사들이 자신들에게 이름을 알리려는 희망으로 더 강력한 마법사들을 도전하도록 격려 될 수 있다는 것이었다."
 mindflayerprop,uti,LocalizedName,0,마인드 플레이어 속성
 monumentkey,uti,LocalizedName,0,기념비 열쇠
 mythallar,uti,LocalizedName,0,미살라
@@ -4084,7 +4082,7 @@ normalskin,uti,DescIdentified,0,이것은 PC의 일반적인 피부입니다.
 pieceofparchment,uti,LocalizedName,0,양피지 조각
 piwiewienshea001,uti,LocalizedName,0,발린의 머리
 piwiewienshea001,uti,Description,0,"이것은 피우비안 테트니스, 로스의 제사장의 무사한 머리입니다."
-piwiewienshead,uti,LocalizedName,0,피위엔 머리
+piwiewienshead,uti,LocalizedName,0,피우비엔 머리
 piwiewienshead,uti,Description,0,"이것은 피우비안 테트니스, 로스의 제사장의 무사한 머리입니다."
 poisonamplifi001,uti,LocalizedName,0,독성 증폭기
 poisonamplifi001,uti,Description,0,이 이상한 모양의 기계는 분명히 어떤 종류의 증폭기인 것 같다. 화산 즙을 매우 독성적인 기체로 변환한다.

@@ -63,7 +63,7 @@ def main():
     names_map, lines = {}, []
     for name, sents in occ.items():
         n = len(sents)
-        if n < 8 or lower[name.lower()] > 0.3 * n or lower[name.lower()] >= 20:   # 일반 영단어(대문자로 시작한 문장 첫 단어 등) 제외
+        if n < 8 or lower[name.lower()] > 0.3 * n or lower[name.lower()] >= 3:   # 일반 영단어(대문자로 시작한 문장 첫 단어 등) 제외
             continue
         cnt = collections.Counter()
         for en in sents:
@@ -80,8 +80,12 @@ def main():
             cand.setdefault(official, cnt.get(official, 0))
         if cand[canon] / n >= 0.75 and not official:
             continue                                  # 이미 충분히 일관됨
+        # 문법 접미(조사·복수·소속)만 다른 형태는 같은 표기의 활용형이거나 다른 말이므로 변형으로 보지 않는다
+        SUF = ("들", "족", "인", "군", "님", "씨", "회", "께", "까지", "부터", "로부터", "와", "과", "에서", "에게", "으로", "에는", "에도", "이다", "이라")
         variants = [c for c in cand if c != canon and cand[c] >= 3
-                    and difflib.SequenceMatcher(None, c, canon).ratio() >= 0.55]
+                    and difflib.SequenceMatcher(None, c, canon).ratio() >= 0.55
+                    and not c.startswith(canon) and not canon.startswith(c)
+                    and not c.endswith(SUF) and not canon.endswith(SUF)]
         if not variants:
             continue
         names_map[name] = {"canon": canon, "variants": variants}

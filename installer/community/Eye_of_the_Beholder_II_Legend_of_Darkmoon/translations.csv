@@ -38,7 +38,7 @@ templeug4,are,Name,0,카타콤브 - 3레벨 - 남쪽 - 피곤한 여행자
 templeug5,are,Name,0,카타콤브 - 4레벨 - 감염
 thedarkmoonfores,are,Name,0,암흑달숲 - 서쪽
 thevoid,are,Name,0,공허함
-welcome,are,Name,0,'주시자의 눈' II: 다크월의 전설에 오신 것을 환영합니다
+welcome,are,Name,0,'주시자의 눈' II: 다크문의 전설에 오신 것을 환영합니다
 at2_alain,dlg,EntryList/0/Text,0,제발 나를 떠나가세요...
 at2_alain,dlg,EntryList/1/Text,0,<StartAction> 알레인을 만져볼래?</Start>
 at2_alain,dlg,EntryList/2/Text,0,"당신은 내 몸과 정신에 이 도이스터가 끊임없이 끼치는 고통을 상상할 수 없겠지만, 그래도 당신의 소원에 동의할 수밖에 없습니다. 이제 가 주세요."
@@ -264,7 +264,7 @@ eb_forest_intro,dlg,ReplyList/4/Text,0,계속...
 eb_forest_intro,dlg,ReplyList/5/Text,0,계속...
 eb_forest_intro,dlg,ReplyList/6/Text,0,끝...
 eb_grn_seal,dlg,EntryList/0/Text,0,"<StartAction>그린 크리스탈 벽이 당신 앞에 떠오르고 있으며, 그 표면은 에메랄드 방패를 둘러싸고 반짝이는 것 이다. 크리스탈에 원활하게 융합되어 있다. 공기는 고대 힘으로 진동한다. 시간이 닿지 않은 방. 적절한 유적 무기들을 가지고 있는 사람만이 이 고대 장벽을 깨뜨릴 수 있다.</Start>"
-eb_guard_patrol,dlg,EntryList/0/Text,0,이미 기계번역이 자연스럽게 표현되어 수정할 필요가 없습니다.
+eb_guard_patrol,dlg,EntryList/0/Text,0,내가 경비에 있다는 걸 알 수 없나요!!
 eb_guard_patrol,dlg,EntryList/1/Text,0,"어, 어, 어!"
 eb_guard_patrol,dlg,EntryList/2/Text,0,내게 방해하는 것보다 더 좋은 일이 없나?!
 eb_guard_patrol,dlg,EntryList/3/Text,0,"아룬이 큰 홀에 있어, 그와 얘기해줘"
@@ -608,8 +608,7 @@ eb_hen_amber,dlg,ReplyList/2/Text,0,"""내가 찾고 있던 사람이 너야"""
 eb_hen_amber,dlg,ReplyList/3/Text,0,더 많은...
 eb_hen_amber,dlg,ReplyList/4/Text,0,"""성당까지 어떻게 이렇게 들어온 거야? 위층 사제들은 누가 문을 통과하려 해도 지켜보는 중이었어."""
 eb_hen_amber,dlg,ReplyList/5/Text,0,더 많은...
-eb_hen_amber,dlg,ReplyList/6/Text,0,"""당신이 잡히기 전에 무엇을 더 배울 수 있었나?""
-나는 존댓말을 사용했으며, 기계번역이 정확하게 표현하고 있으므로 수정하지 않았습니다."
+eb_hen_amber,dlg,ReplyList/6/Text,0,"""당신이 잡히기 전에 무엇을 더 배울 수 있었습니까?"""
 eb_hen_amber,dlg,ReplyList/7/Text,0,더 많은...
 eb_hen_amber,dlg,ReplyList/8/Text,0,"네 말이 맞아요. 우리는 사제들을 발견했는데, 저층 유적에서 죽은자를 부활시켰습니다. 하지만 두려워하지 마세요."
 eb_hen_amber,dlg,ReplyList/9/Text,0,"죄송하지만, 지금 제 파티에는 당신을 수용할 공간이 없습니다. 성전 입구로 가서 저를 기다리세요. 성전 입구에서 당신의 도움은 성전 안으로 들어오려는 사람들을 경고하는 데 매우 유용할 것입니다."
@@ -2099,7 +2098,7 @@ eb_hen_sanraal,dlg,ReplyList/946/Text,0,"""만약 그가 드로우가 아니라�
 eb_hen_sanraal,dlg,ReplyList/948/Text,0,"""그게 무슨 뜻이야?"""
 eb_hen_sanraal,dlg,ReplyList/950/Text,0,"흥미진진한 생각이지만, 시간만이 당신이 맞았는지 알 수 있을 것이다."
 eb_hen_sanraal,dlg,ReplyList/951/Text,0,좀 더 이야기 나눠 보겠습니다. 여러분의 이야기를 매우 흥미롭게 생각합니다.
-eb_hen_sanraal,dlg,ReplyList/952/Text,0,"""바헤라운은 누구니?"""
+eb_hen_sanraal,dlg,ReplyList/952/Text,0,"""바에라운은 누구니?"""
 eb_hen_sanraal,dlg,ReplyList/953/Text,0,"""목사가 어떻게 많은 드로우를 그들의 집을 버리고 표면으로 자신을 따르도록 설득했을까?"""
 eb_hen_sanraal,dlg,ReplyList/955/Text,0,"""이 곳은 기억하는 것보다 많이 달라진 것 같아?"""
 eb_hen_sanraal,dlg,ReplyList/956/Text,0,"""그렇게 드로우가 삶을 빚진 사람에게 감사하는 말입니까?"""
@@ -3609,7 +3608,7 @@ tavern_oldman,dlg,EntryList/9/Text,0,"드로우는 냉정하고 악한 존재로
 tavern_oldman,dlg,EntryList/10/Text,0,"""그는 말했던 나머지 대부분의 것 들 은 정신 을 이해 하기 위해 너무 무관성적 이었다. 그러나 우리가 함께 조각 할 수 있었던 것 은 그가 분명히 성전 안으로 들어가서 스누프에 성공 했다는 것 이다. 우리는 우리 친구가 밤 동안 떠났다는 것을 발견 한 때 몇 일 지나갔다. """
 tavern_oldman,dlg,EntryList/11/Text,0,"""그는 우리의 도움과 호의에 대해 감사하는 메모만 남겼고, 워터딥에 있는 검은지팡이 Khelben에게 보고서를 보내기 위해 떠났다고 말했습니다. 그래서 아마도 Khelben은 어둠의 성전 Darkmoon으로 그룹을 보내서 드란의 끔찍한 계획을 막을 수 있을지도 모릅니다."""
 tavern_oldman,dlg,EntryList/12/Text,0,"<StartAction> 그 늙은이가 미소를 지으며 타버너의 입구로 걸어가자 </Start> ""우리의 미래는 당신의 손에 달려 있어, 젊은 영웅! 미스트라와 티모라가 당신의 길을 안내해 주시기를. 잘 만났다, 행운을 빌어!"""
-tavern_oldman,dlg,ReplyList/1/Text,0,"""다크월? 뭐든 어디서든...<StartAction>"" 당신은 시작하지만 그는 손을 흔들고 당신을 끊습니다.</Start>"
+tavern_oldman,dlg,ReplyList/1/Text,0,"""다크문? 뭐든 어디서든...<StartAction>"" 당신은 시작하지만 그는 손을 흔들고 당신을 끊습니다.</Start>"
 tf_oldwoman,dlg,EntryList/0/Text,0,"네, 사원으로 안내하는 데 도움이 필요하신가요?"
 tf_oldwoman,dlg,EntryList/1/Text,0,다시 돌아왔어?
 tf_oldwoman,dlg,EntryList/2/Text,0,"<StartAction> 한 늙은 여자 가 길 에서 서 있습니다. 그녀의 은 입 은 파티 를 바라보고 웃음을 습니다. </Start> ""죄송해요. 당신은 길을 잃게 될 것 같군요. 제가 도움을 줄 수 있나요?"""
@@ -5622,7 +5621,7 @@ area006,git,Placeable List/313/LocName,0,수정 벽
 area006,git,Placeable List/313/Description,0,코콘의 중심핵을 둘러싸고 있는 벽돌 같은 웹 덩어리입니다.
 area006,git,Placeable List/314/LocName,0,구덩이
 area006,git,Placeable List/314/Description,0,마법사에게 의미있는 것처럼 보이는 복잡한 룬 시리즈는 처음 만든 마법사에게만 의미있는 것처럼 보입니다
-area006,git,Placeable List/315/LocName,0,불구리 발사기 1
+area006,git,Placeable List/315/LocName,0,불구리 발산기 1
 area006,git,Placeable List/320/LocName,0,투명 물체
 area006,git,Placeable List/320/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 area006,git,Placeable List/321/LocName,0,바닥 레버
@@ -6102,7 +6101,7 @@ area008,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,로브
 area008,git,Creature List/13/LastName,0,드래고어
 area008,git,Creature List/13/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 area008,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,드란스 로브
-area008,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,코르미어 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
+area008,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,코르미르 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
 area008,git,Creature List/13/Equip_ItemList/2/LocalizedName,0,드란스 속성
 area008,git,Creature List/14/FirstName,0,불사람 귀족
 area008,git,Creature List/14/Description,0,"불의 차원은 많은 이상한 생물들이 살고 있으며, 그 중에서도 무서운 살만더 군대가 있다. 뱀처럼 생긴 몸집을 가진 살만더는 초자연적인 열로 빛나는 금속 도시에 거주한다.
@@ -10126,7 +10125,7 @@ silvertowertesto,git,Placeable List/100/LocName,0,구덩이
 silvertowertesto,git,Placeable List/100/Description,0,마법사에게 의미있는 것처럼 보이는 복잡한 룬 시리즈는 처음 만든 마법사에게만 의미있는 것처럼 보입니다
 silvertowertesto,git,Placeable List/101/LocName,0,투명 물체
 silvertowertesto,git,Placeable List/101/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
-silvertowertesto,git,Placeable List/107/LocName,0,불구리 발사기 1
+silvertowertesto,git,Placeable List/107/LocName,0,불구리 발산기 1
 silvertowertesto,git,Placeable List/108/LocName,0,성의 단단한 성벽
 silvertowertesto,git,Placeable List/109/LocName,0,성의 단단한 성벽
 silvertowertesto,git,Placeable List/110/LocName,0,성의 단단한 성벽
@@ -12775,7 +12774,7 @@ templeug3,git,Placeable List/49/LocName,0,누름판 - 1
 templeug3,git,Placeable List/49/Description,0,작은 압력판이 아래쪽에 숨겨진 메커니즘을 활성화시키는 것 같습니다.
 templeug3,git,Placeable List/53/LocName,0,핏자국
 templeug3,git,Placeable List/67/LocName,0,불구리_발사_3
-templeug3,git,Placeable List/69/LocName,0,불구발 발사기 2
+templeug3,git,Placeable List/69/LocName,0,불구발 발산기 2
 templeug3,git,Placeable List/70/LocName,0,던전 튼튼한 벽 02
 templeug3,git,Placeable List/72/LocName,0,던전 환영술 벽 01
 templeug3,git,Placeable List/73/LocName,0,던전 환영술 벽 01
@@ -12783,7 +12782,7 @@ templeug3,git,Placeable List/74/LocName,0,던전 환영술 벽 02
 templeug3,git,Placeable List/75/LocName,0,던전 단단한 벽 01
 templeug3,git,Placeable List/76/LocName,0,던전 단단한 벽 01
 templeug3,git,Placeable List/82/LocName,0,약한 벽
-templeug3,git,Placeable List/92/LocName,0,불구리 발사기 1
+templeug3,git,Placeable List/92/LocName,0,불구리 발산기 1
 templeug3,git,Placeable List/95/LocName,0,던전 단단한 벽 01
 templeug3,git,Placeable List/96/LocName,0,타락한 모험가
 templeug3,git,Placeable List/96/ItemList/5/LocalizedName,0,일지의 일부
@@ -14441,7 +14440,7 @@ welcome,git,Placeable List/107/Description,0,"큰, 단단한 광석 조각이 �
 welcome,git,Placeable List/108/LocName,0,부시 02
 welcome,git,Placeable List/108/Description,0,"큰, 단단한 광석 조각이 땅에서 튀어나와 있습니다."
 module,ifo,Mod_Description,0,"* 눈 보는 사람 II * * The Legend of Darkmoon * Ver 3.7 증강판 * 저술자: Rick Francis * 연간 수확 후 25~30시간 동안 플레이한다. * 원래 발매 날짜 Ver. 1.0 9.13 2013. * 완전히 4 플레이어의 멀티플레이어 쿠퍼를 지원한다. * 헤비 오브 해크 앤 슬래시 앤 로트 드롭. 스토리 드라이버. * 1-4 캐릭터로 설계된 모험, 레벨 10. 마스터 블랙스태프, 우리는 다시 워터디프 도시 근처에 문제가 될 수 있습니다. 연간 수확 후, 시티 경비가 잃어버린 및 취한 작가들을 찾기 위해 루틴 선보였다. 워터 노트 도로에서 두 번째 길에서, 우리는 악의 낡은 카에 의해 살해되었다. 드라이버는 심근히 심근히 죽었습니다. 그러나 카에 의해 작은 양의 혈액이 있었다. 그러나, 카에 의해 공격한 카에 의해, 카에 의해 사망한 카에 의해 사망한 카에 대한 조사, 그리고 카에 의해 사망한 카에 의해 사망한 카에에 의해 사망한 카에르의 암흑의 암흑에 의해 발견되었다는 것을 확인하는 데 도움이 될 수 있습니다."
-module,ifo,Mod_Name,0,주시자의 눈 II: 다크월의 전설
+module,ifo,Mod_Name,0,주시자의 눈 II: 다크문의 전설
 module,jrl,Categories/0/Name,0,뼈가루
 module,jrl,Categories/0/EntryList/0/Text,0,뼈 먼지를 찾았어요. 로렐이 Gypsy 캠프에서 필요로 하는 3가지 재료 중 하나죠.
 module,jrl,Categories/1/Name,0,"""전사"" 칼란드라"
@@ -14461,7 +14460,7 @@ module,jrl,Categories/2/EntryList/3/Text,0,"마지막 만남 - 다름달 성전�
 module,jrl,Categories/2/EntryList/4/Text,0,드란의 종이 피를 흘려 죽고 치명적으로 부상을 입었다는 것을 발견했지 마지막 숨쉬는 동안 그의 주인이 나쁜 기분이라고 경고했지
 module,jrl,Categories/2/EntryList/5/Text,0,마침내 신기한 숙주 드란 드래고르를 만났습니다. 냉소적인 위협 끝에 은탑 꼭대기의 탑 위에 갇혔습니다. 다시 한번 당신은 이 신비한 사원의 깊은 곳으로 더 깊숙이 들어가야 할 수밖에 없었습니다.
 module,jrl,Categories/3/Name,0,엘프 뼈
-module,jrl,Categories/3/EntryList/0/Text,0,다크월의 지하에서 엘프의 골격을 모두 찾았군. 아마도 아직 부활시킬 수 있을까?
+module,jrl,Categories/3/EntryList/0/Text,0,다크문의 지하에서 엘프의 골격을 모두 찾았군. 아마도 아직 부활시킬 수 있을까?
 module,jrl,Categories/3/EntryList/1/Text,0,"고대 엘프 뼈를 부활시켜보니, 그 소유자는 드워프였나 보다! 그러나 그의 ""구원""에 감사하는지, 마법으로 도움을 제안하였다."
 module,jrl,Categories/4/Name,0,상인 사무엘을 찾아라
 module,jrl,Categories/4/EntryList/0/Text,0,"시간 상인은 당신이 그의 아들을 찾으라고 요청했습니다. 그는 어두운 달 숲 속 깊은 곳에서 잃어버린 대웅전을 찾기 위해 모험을 떠났습니다. 그는 당신에게 오래된 대웅전을 향한 방향을 제시했습니다. 그러나 그의 방향은 제한적입니다. 다음은 당신이 아는 것입니다. 남쪽으로 내려가 오래된 벽으로 내려가서 왼쪽으로 이동하고, 남쪽으로 더 오래 된 벽을 따라가십시오. 당신은 곡을 넘어 떨어진 오래된 나무에 도착해야합니다. 당신은 곡을 건너 후 동쪽으로 계속합니다. 거기에서 시간 상인은 더 이상의 방향을 제시 할 수 없습니다."
@@ -15119,7 +15118,7 @@ cus_robe002,uti,LocalizedName,0,암흑 처녀의 로브
 darkmoongatekey,uti,LocalizedName,0,다크문드 관문 열쇠
 darkmoonkey,uti,LocalizedName,0,다크문 키
 dransdress,uti,LocalizedName,0,드란스 로브
-dransdress,uti,DescIdentified,0,코르미어 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
+dransdress,uti,DescIdentified,0,코르미르 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
 dranskey,uti,LocalizedName,0,드란스 키
 drowblade01,uti,LocalizedName,0,Drow Blade
 eastwind,uti,LocalizedName,0,동풍
@@ -15384,9 +15383,9 @@ markofdarkmoon,uti,LocalizedName,0,암흑달의 표지
 markofdarkmoon,uti,DescIdentified,0,이것은 암흑의 달의 상징입니다. 그것은 암흑의 성전의 상징입니다. 이 상징을 가지고 있는 사람들은 암흑의 달의 성전의 종입니다. 당신은 이 상징을 항상 가지고 있어야 합니다.
 maxproperties,uti,LocalizedName,0,맥스 속성
 mcloth012,uti,LocalizedName,0,환영의 의복
-mcloth012,uti,DescIdentified,0,코르미어 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
+mcloth012,uti,DescIdentified,0,코르미르 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
 mcloth013,uti,LocalizedName,0,환영의 의복
-mcloth013,uti,DescIdentified,0,코르미어 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
+mcloth013,uti,DescIdentified,0,코르미르 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
 mcloth018,uti,LocalizedName,0,대전투용 망토
 mcloth019,uti,LocalizedName,0,산 라알의 암흑 달의 로브
 mdrowar011,uti,LocalizedName,0,Drow 가죽 갑옷 + 3
