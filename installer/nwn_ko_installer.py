@@ -571,7 +571,7 @@ class CommunityModule(Item):
     """
 
     def __init__(self, id_, name, slug):
-        super().__init__(id_, name, "내려받은 캠페인에 번역 적용 (캠페인별 폴더에 보관, 패치=전환)", True)
+        super().__init__(id_, name, "내려받은 캠페인 번역 (자동 전환을 켜면 열 때 자동 적용 / 끄면 [패치]로 직접 연결)", True)
         self.slug = slug
         self.csv = HERE / "community" / slug / "translations.csv"
         self.ready = self.csv.exists()          # 번역 파일이 아직 없으면 "미구현"
@@ -942,7 +942,7 @@ LAYOUT = [
     ("#", "공식 - Classic Campaigns"), "oc", "sou", "hotu",
     ("#", "공식 - Extra Content"), "km", "sg", "ww", "coc", "darkranger", "eremor", "toheir", "chess",
     ("#", "프리미엄"), "doiwd", "totms", "dod", "ddf", "potsc", "wcoc", "id",
-    ("#", "커뮤니티  (알파벳순 · [전체 일괄 패치]는 번역본을 캠페인별 폴더에 미리 만들어 둠 · [패치] = 그 캠페인으로 전환)"),
+    ("#", "커뮤니티  (알파벳순 · 위의 [자동 전환]을 켜면 게임에서 캠페인을 열 때 자동으로 적용됩니다 · 끄면 [패치]로 한 번에 하나씩 연결 · [전체 일괄 패치]는 번역본만 미리 만들어 둠)"),
     *_community_ids(),
     ("#", "로컬  (직접 설치한 모듈 - 번역 대상 아님)"),
 ]
