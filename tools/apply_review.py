@@ -6,7 +6,7 @@
   같은 예전 한국어가 서로 다른 영어 둘 이상에서 나오면(모호) 건드리지 않는다.
   토큰(<...>) 이 예전/새 번역에서 다르면 건드리지 않는다.
 
-usage: py apply_review.py <백업폴더> [--write]      (기본은 모의 실행: 파일별 건수만 출력)
+usage: py apply_review.py <백업폴더> [--write] [--no-names]      (기본은 모의 실행: 파일별 건수만 출력)
 대상: installer/modbuild/premium/*/inline/*.csv (열 Text), installer/community/*/translations.csv (열 Text)
 """
 import collections, csv, glob, io, json, os, re, sys
@@ -38,7 +38,11 @@ def main():
         for en, ko in json.load(open(p, encoding="utf-8")).items():
             pool.setdefault(en, ko)
     new = {}
-    for fn in (("llm", "review", "final.json"), ("llm", "names", "names_fixed.json")):
+    layers = [("llm", "review", "final.json")]
+    if "--no-names" not in argv:                     # 고유명사 통일은 별도 단계(기본 포함, --no-names 로 제외)
+        layers.append(("llm", "names", "names_fixed.json"))
+    layers.append(("llm", "review", "tm_exact.json"))       # 이미 번역된 확장 모듈의 정확 일치 번역: 가장 우선
+    for fn in layers:
         p = os.path.join(B, *fn)
         if os.path.exists(p):
             new.update(jl(*fn))                       # 뒤의 것(고유명사 통일)이 앞의 것을 포함·우선
