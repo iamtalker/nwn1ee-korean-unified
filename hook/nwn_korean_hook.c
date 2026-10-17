@@ -2128,6 +2128,8 @@ static BOOL install_nk_pair_hooks(void) {
     return a && b;
 }
 
+#include "autoswitch.c"   /* 커뮤니티 캠페인 번역 자동 전환 (설정 파일이 있을 때만 동작) */
+
 BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
     (void)hinstDLL;
     (void)lpvReserved;
@@ -2146,6 +2148,8 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
         }
 
         write_log("[NWN Korean Hook] Initializing (Phase 2: Bake)...\n");
+
+        autoswitch_init();   /* 엔진이 development 폴더를 읽기 전에 파일 이름을 깔아야 한다 */
 
         // nwmain.exe 베이스 주소 찾기
         nwmain_base = find_nwmain_base();
@@ -2187,6 +2191,7 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
     }
     else if (fdwReason == DLL_PROCESS_DETACH) {
         // 통계 로그
+        autoswitch_shutdown();
         write_log("\n=== Final Statistics ===\n");
         write_log("[NK] Hooks disabled (glyph lookup unsolved)\n");
 
