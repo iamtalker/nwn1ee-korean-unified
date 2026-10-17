@@ -609,6 +609,13 @@ class CommunityModule(Item):
     def patch(self):
         need_docs()
         self.build()                              # 실패해도 지금 적용된 캠페인은 건드리지 않는다
+        if autoswitch_enabled():
+            # 자동 전환 사용 중: 번역본만 준비하고, 게임에서 캠페인을 열 때 version.dll 이 연결한다
+            write_autoswitch_config(True)
+            if _ui_call is not _UI_DEFAULT:
+                from tkinter import messagebox as _mb
+                _ui_call(lambda: _mb.showinfo("자동 전환 사용 중", f"'{self.name}' 번역본을 준비했습니다.\n\n자동 전환을 쓰는 중이라 [패치]로 직접 연결하지 않습니다. 게임에서 이 캠페인을 열면 자동으로 적용됩니다."))
+            return
         others = [it for it in ITEMS.values() if isinstance(it, CommunityModule) and it is not self and it.applied()]
         for it in others:
             it.restore()
@@ -771,8 +778,116 @@ class CommunityModule(Item):
         shutil.rmtree(self.lib(), ignore_errors=True)
 
 
+# ----------------------------------------------------------------- 자동 전환 (커뮤니티 캠페인, 선택)
+AUTOSWITCH_CFG = BIN / "nwn_ko_autoswitch.txt"      # version.dll 이 게임 시작 때 읽는 설정 (hook/autoswitch.c 참고)
+AUTOSWITCH_NOTICE = (
+    "커뮤니티 캠페인 자동 전환(실험)을 켭니다.\n\n"
+    "이 기능은 게임이 켜져 있는 동안 한글패치 version.dll 이 다음 일을 합니다.\n"
+    " - 게임을 켤 때 문서\\development 폴더에 번역 파일 링크(약 2만 개, 복사가 아닌 하드링크)를 만듭니다.\n"
+    " - 캠페인을 열면 그 캠페인의 번역만 남기고 나머지는 지웁니다. 공식 캠페인이면 전부 지웁니다.\n"
+    " - 게임을 끄면 만든 파일을 모두 지웁니다. 비정상 종료로 남았다면 다음 실행 때 지웁니다.\n\n"
+    "알아 둘 점\n"
+    " - 게임을 켤 때 5~10초 늦게 시작될 수 있습니다.\n"
+    " - 게임 프로그램(nwmain.exe)과 캠페인 파일은 바꾸지 않습니다.\n"
+    " - 지금 번역본이 없는 캠페인 20개의 번역본을 미리 만드느라 처음에는 10~20분이 걸릴 수 있습니다.\n"
+    " - 끄려면 이 항목의 [원복]을 누르세요. 그러면 캠페인마다 [패치]를 눌러 쓰는 방식으로 돌아갑니다.\n\n"
+    "계속할까요?")
+
+
+def autoswitch_enabled() -> bool:
+    try:
+        return "enabled=1" in AUTOSWITCH_CFG.read_text(encoding="utf-8").split()
+    except OSError:
+        return False
+
+
+def write_autoswitch_config(enabled=True) -> int:
+    """설정 파일을 쓴다. 번역본이 만들어진 커뮤니티 캠페인만 포함. 반환: 포함한 캠페인 수"""
+    import sqlite3
+    nws = Path(os.environ.get("NWN_NWSYNC_DIR") or (DOCS / "nwsync"))
+    db = nws / "nwsyncmeta.sqlite3"
+    lines = [f"enabled={1 if enabled else 0}", f"dev={DEV}", f"lib={DOCS / 'ko_campaigns'}", f"logs={DOCS / 'logs'}"]
+    n = 0
+    if db.exists():
+        meta = sqlite3.connect(str(db))
+        for it in ITEMS.values():
+            if isinstance(it, CommunityModule) and it.ready and it.built():
+                name = (HERE / "community" / it.slug / "NAME.txt").read_text(encoding="utf-8").strip()
+                row = meta.execute("select manifest_sha1 from manifest_metadata where module_name=?", (name,)).fetchone()
+                if row:
+                    lines.append(f"map\t{row[0]}\t{it.slug}")
+                    n += 1
+    AUTOSWITCH_CFG.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
+    return n
+
+
+def autoswitch_cleanup():
+    """version.dll 이 깔아 둔 파일(상태 파일에 적힌 이름)을 development 에서 지운다 (비정상 종료 뒤 정리용)."""
+    sp = DOCS / "ko_campaigns" / "_dll_seed.txt"
+    n = 0
+    try:
+        for name in sp.read_text(encoding="utf-8").splitlines():
+            name = name.strip()
+            if name:
+                try:
+                    (DEV / name).unlink()
+                    n += 1
+                except OSError:
+                    pass
+        sp.unlink()
+    except OSError:
+        pass
+    return n
+
+
+class AutoSwitch(Item):
+    """게임을 켜면 version.dll 이 캠페인을 열 때 그 캠페인의 번역을 자동으로 연결한다 (선택 기능, 사전 고지 후 켠다)."""
+
+    def __init__(self):
+        super().__init__("autoswitch", "자동 전환 (커뮤니티 캠페인, 실험)",
+                         "캠페인을 열 때 번역을 자동 연결 - 켜기 전에 안내가 나옵니다", True)
+
+    def applied(self):
+        return autoswitch_enabled()
+
+    def patch(self):
+        need_docs()
+        eng = ITEMS.get("engine")
+        if eng is None or not eng.applied():
+            raise RuntimeError("먼저 '엔진·UI 한글 지원'을 패치하세요 (자동 전환은 그 항목의 version.dll 안에 들어 있습니다).")
+        if _ui_call is not _UI_DEFAULT:
+            from tkinter import messagebox as _mb
+            if not _ui_call(lambda: _mb.askyesno("자동 전환(실험) 사전 안내", AUTOSWITCH_NOTICE)):
+                return
+        for it in ITEMS.values():                   # 예전 방식(복사 연결)이 남아 있으면 해제
+            if isinstance(it, CommunityModule) and it.applied():
+                it.restore()
+        global _progress
+        outer = _progress
+        items = [it for it in ITEMS.values() if isinstance(it, CommunityModule) and it.ready]
+        for k, it in enumerate(items):
+            _progress = (lambda f, k=k: outer((k + f) / len(items))) if outer else None
+            try:
+                it.prepare()
+            except Exception as e:  # noqa: BLE001
+                print("번역본 준비 건너뜀:", it.name, "-", e)
+        _progress = outer
+        n = write_autoswitch_config(True)
+        if n == 0:
+            AUTOSWITCH_CFG.unlink()
+            raise RuntimeError("번역본이 준비된 캠페인이 없습니다. 게임의 커뮤니티 탭에서 캠페인을 먼저 내려받으세요.")
+
+    def restore(self):
+        try:
+            AUTOSWITCH_CFG.unlink()
+        except OSError:
+            pass
+        autoswitch_cleanup()
+
+
 ITEMS = {i.id: i for i in [
     Engine(),
+    AutoSwitch(),
     BaseTlk("oc", "The Wailing Death (오리지널 캠페인)", "본편 번역 (dialog.tlk 공용)", True),
     BaseTlk("sou", "Shadows of Undrentide", "본편 번역 (dialog.tlk 공용)", True),
     BaseTlk("hotu", "Hordes of the Underdark", "본편 번역 (dialog.tlk 공용)", True),
@@ -823,6 +938,7 @@ def _community_ids():
 # 게임 캠페인 선택 화면 분류/순서
 LAYOUT = [
     ("#", "공통 (필수)"), "engine",
+    ("#", "선택 - 커뮤니티 캠페인 자동 전환 (실험, 켜기 전에 안내가 나옵니다)"), "autoswitch",
     ("#", "공식 - Classic Campaigns"), "oc", "sou", "hotu",
     ("#", "공식 - Extra Content"), "km", "sg", "ww", "coc", "darkranger", "eremor", "toheir", "chess",
     ("#", "프리미엄"), "doiwd", "totms", "dod", "ddf", "potsc", "wcoc", "id",
@@ -1078,7 +1194,7 @@ def run_gui():
             jobs = []
             for i in order:
                 it = ITEMS[i]
-                if not it.ready:
+                if not it.ready or (patch and isinstance(it, AutoSwitch)):
                     continue
                 if isinstance(it, CommunityModule):
                     jobs.append((_Call(it.name + " (번역본 준비)", it.prepare) if patch else _Call(it.name, it.purge), patch))
@@ -1119,7 +1235,7 @@ def main():
             ensure_assets()
         for id_ in ["engine"] + [i for i in ITEMS if i != "engine"]:
             it = ITEMS[id_]
-            if not it.ready:
+            if not it.ready or (patch and isinstance(it, AutoSwitch)):
                 continue
             try:
                 if patch and isinstance(it, ExtModule) and not find_ext():
