@@ -106,6 +106,8 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 
 ## 개발 / 기여
 
+- 번역 방법(기계번역 → 용어집 → 자동 검사 → LLM 감수)을 다른 게임·다른 AI 에 적용할 수 있게 정리한 문서: [docs/TRANSLATION_PIPELINE.md](docs/TRANSLATION_PIPELINE.md)
+
 개발 현황과 다음 작업은 [DEVELOPMENT.md](DEVELOPMENT.md) 를 참고하세요.
 
 ## 출처 / 라이선스
