@@ -14,6 +14,8 @@ import collections, difflib, glob, json, os, random, re, sys
 TOK = re.compile(r"<[^<>]{1,40}>")
 REPL = [("챔피언스", "챔피언"), ("화살표", "화살"), ("클래스", "직업"), ("배틀 마스터", "배틀마스터")]
 HAN = re.compile(r"[가-힣]")
+# 허용 문자: 한글, ASCII, 라틴 악센트, 일반 문장부호/기호. 그 밖(이모지·키릴·한자·깨진 글자)이 번역에만 있으면 즉시 거부
+BAD = re.compile(r"[^\uAC00-\uD7A3\u3131-\u318E\t\n\x20-\x7E\u00A0-\u00FF\u2010-\u2027\u2030-\u203E\u2190-\u2199\u25A0-\u25CF\u2605\u2606\u266A\u3000-\u3003\u300C-\u300F]")
 
 
 def clean(ko):
@@ -69,6 +71,8 @@ def main():
         if mt is None:
             continue
         flags, risk = [], 0
+        if (set(BAD.findall(llm)) - set(BAD.findall(en))) :
+            flags.append("badchar"); risk += 20
         ratio_en = len(llm) / max(1, len(en))
         ratio_mt = len(llm) / max(1, len(mt))
         if len(en) >= 20 and (ratio_en < 0.2 or ratio_en > 1.3):
@@ -121,7 +125,9 @@ def main():
                 key[r["id"]] = {"cat": c, "A": "M" if left_is_mt else "Q"}
                 f.write(f"#{r['id']}\nEN: {short(r['en'])}\nA: {short(a)}\nB: {short(b)}\n")
         json.dump(key, k)
-    top = sorted(rows, key=lambda r: -r["risk"])[:opt["--top"]]
+    rej = [r["en"] for r in rows if "badchar" in r["flags"]]
+    json.dump(rej, open(os.path.join(out, "reject_badchar.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    top = sorted((r for r in rows if "badchar" not in r["flags"]), key=lambda r: -r["risk"])[:opt["--top"]]
     with open(os.path.join(out, "risky.txt"), "w", encoding="utf-8") as f:
         for r in top:
             f.write(f"#{r['id']} [{','.join(r['flags'])}]\nEN: {short(r['en'])}\nM: {short(r['mt'])}\nQ: {short(r['llm'])}\n")
@@ -132,6 +138,42 @@ def main():
             f.write(f"{c}: {len(lst)} rows, risk>=4: {h} ({100*h/len(lst):.1f}%), risk>=2: {sum(1 for r in lst if r['risk']>=2)}\n")
         fc = collections.Counter(fl.split(":")[0] for r in rows for fl in r["flags"])
         f.write("flags: " + ", ".join(f"{k}={v}" for k, v in fc.most_common()) + "\n")
+    # ---- 최종 채택: 규칙에 걸리지 않은 Qwen 번역만 기존 번역(기계번역)을 덮어쓴다 ----
+    META = re.compile(r"참고\s*:|다음과 같|선택하시면|바꾸면|자연스러운 한국어|자연스럽게 유지|표기하여|아래와 같|번역하면|\)\)|▷|\*{3,}|\(\s*\)")
+    BR = re.compile(r"(<Start(?:Check|Action)>)\s*([^\[\]<]{1,60}?)\s*(</Start>)")
+
+    def accept(r):
+        en, mt, q = r["en"], r["mt"], r["llm"]
+        fl = r["flags"]
+        if "badchar" in fl or "repeat" in fl:
+            return None, "badchar/repeat"
+        if META.search(q) or (" / " in q and " / " not in en and "혹은" in q):
+            return None, "meta"
+        if set("*()/\\|#~^@$_") & set(q) - set(en):      # 원문에 없는 기호가 번역에만 있으면 깨진 출력
+            return None, "symbol"
+        if len(q) > 2.5 * len(mt) + 40 and len(q) > 80 and len(q) > 2.0 * len(en):
+            return None, "bloat"
+        if len(en) > 40 and len(q) < 0.2 * len(en):
+            return None, "truncated"
+        # 괄호 복구: 원문이 <StartCheck>[Intimidate]</Start> 처럼 [..] 인데 번역이 대괄호를 빠뜨린 경우
+        if en.count("[") > q.count("[") and re.search(r"<Start(?:Check|Action)>\s*\[", en):
+            q2 = BR.sub(lambda m: m.group(1) + "[" + m.group(2).strip().rstrip(".") + "]" + m.group(3), q, count=1)
+            if q2.count("[") == en.count("[") and q2.count("]") == en.count("]"):
+                q = q2
+            else:
+                return None, "bracket"
+        return q, ""
+
+    final, why = {}, collections.Counter()
+    for r in rows:
+        q, w = accept(r)
+        if q is None:
+            why[w] += 1
+        else:
+            final[r["en"]] = q
+    json.dump(final, open(os.path.join(out, "final.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    with open(os.path.join(out, "summary.txt"), "a", encoding="utf-8") as f:
+        f.write(f"final accepted {len(final)} / {len(rows)}; rejected: {dict(why)}\n")
     print(open(os.path.join(out, "summary.txt"), encoding="utf-8").read())
 
 
