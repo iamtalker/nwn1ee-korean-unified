@@ -617,7 +617,7 @@ class CommunityModule(Item):
         self.restore()
         written = []
         for f in sorted(self.lib().iterdir()):
-            if f.name.startswith("_"):
+            if f.name == "_complete.json":                 # 내부 표식 파일만 제외 (게임 파일 중에도 '_' 로 시작하는 이름이 많다)
                 continue
             dst = DEV / f.name
             put_dev(f.read_bytes(), dst)
