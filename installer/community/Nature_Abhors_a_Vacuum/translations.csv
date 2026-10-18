@@ -3210,7 +3210,7 @@ p001c000ct_plotg,dlg,EntryList/0/Text,0,이 글을 읽고 있는 것은 아마 �
 p001c000ct_plotg,dlg,EntryList/1/Text,0,<StartAction> [노인이 당신을 쳐다보고 있습니다.] </Start> 음? 당신은 무엇을 원합니까?
 p001c000ct_plotg,dlg,EntryList/2/Text,0,"아마 그럴 거야. 뭔가 거기 있어 보이고, 확실히 소는 아닌 것 같아. 네가 가서 확인해 보고 싶어?"
 p001c000ct_plotg,dlg,EntryList/3/Text,0,그럼 내가 직접 해결해 줄게
-p001c000ct_plotg,dlg,EntryList/4/Text,0,좋은 <lad/lass>. 나는 당신의 공작의 증거를 보기 위해 여기서 기다리고 있을 거야.
+p001c000ct_plotg,dlg,EntryList/4/Text,0,좋은 <lad/lass>로군. 네 솜씨의 증거를 보여 줄 때까지 여기서 기다리고 있겠다.
 p001c000ct_plotg,dlg,EntryList/5/Text,0,"내 창고에 뭔가 있는 것 같지만 좀 더 가까이 보러 갈 힘이 없네, 뭐."
 p001c000ct_plotg,dlg,EntryList/6/Text,0,쥐는 젊은 당신에게 문제가 되지 않을 거야. 쥐를 찾으면 날 위해 죽여줄래? 내가 너를 위해 그 값을 지불할게.
 p001c000ct_plotg,dlg,EntryList/7/Text,0,"그럼, 뭘 찾았어?"
@@ -5497,7 +5497,7 @@ area004,git,StoreList/1/StoreList/0/ItemList/10/LocalizedName,0,도둑복 +2
 area004,git,StoreList/1/StoreList/1/ItemList/1/LocalizedName,0,보드킨 화살
 area004,git,StoreList/1/StoreList/1/ItemList/1/DescIdentified,0,악의적인 날카로운 금속 끝의 화살은 육체를 더 쉽게 찢는다.
 area004,git,StoreList/1/StoreList/4/ItemList/7/LocalizedName,0,"가죽 염료, 주황색"
-area004,git,StoreList/1/StoreList/4/ItemList/8/LocalizedName,0,"가죽 염료, 검은색"
+area004,git,StoreList/1/StoreList/4/ItemList/8/LocalizedName,0,"가죽 염색, 검정"
 area004,git,StoreList/1/StoreList/4/ItemList/9/LocalizedName,0,"가죽 염료, 파랑"
 area004,git,StoreList/1/StoreList/4/ItemList/10/LocalizedName,0,"가죽 염료, 밝은 구리"
 area004,git,StoreList/1/StoreList/4/ItemList/11/LocalizedName,0,"가죽 염색, 주황"
@@ -5509,7 +5509,7 @@ area004,git,StoreList/1/StoreList/4/ItemList/16/LocalizedName,0,"가죽 염색, 
 area004,git,StoreList/1/StoreList/4/ItemList/17/LocalizedName,0,"가죽 염색, 어두운 회색"
 area004,git,StoreList/1/StoreList/4/ItemList/18/LocalizedName,0,"가죽 염색, 어두운 올리브"
 area004,git,StoreList/1/StoreList/4/ItemList/19/LocalizedName,0,"가죽 염색, 어두운 갈색"
-area004,git,StoreList/1/StoreList/4/ItemList/20/LocalizedName,0,"가죽 염색, 어두운 탱웨이"
+area004,git,StoreList/1/StoreList/4/ItemList/20/LocalizedName,0,"가죽 염색, 짙은 회갈색"
 area004,git,StoreList/1/StoreList/4/ItemList/21/LocalizedName,0,"가죽 염료, 후키아"
 area004,git,StoreList/1/StoreList/4/ItemList/22/LocalizedName,0,"가죽 염료, 녹색"
 area004,git,StoreList/1/StoreList/4/ItemList/23/LocalizedName,0,"가죽 염료, 골든로드"
@@ -5542,7 +5542,7 @@ area004,git,StoreList/1/StoreList/4/ItemList/49/LocalizedName,0,"가죽 염색, 
 area004,git,StoreList/1/StoreList/4/ItemList/50/LocalizedName,0,"가죽 염료, 빛나는 주황색"
 area004,git,StoreList/1/StoreList/4/ItemList/51/LocalizedName,0,"가죽 염색, 빛나는 숲녹색"
 area004,git,StoreList/1/StoreList/4/ItemList/52/LocalizedName,0,"가죽 염료, 빛나는 핑크"
-area004,git,StoreList/1/StoreList/4/ItemList/53/LocalizedName,0,"가죽 염료, 빛나는 금봉"
+area004,git,StoreList/1/StoreList/4/ItemList/53/LocalizedName,0,"가죽 염색, 반짝이는 황금빛 노랑"
 area004,git,StoreList/1/StoreList/4/ItemList/54/LocalizedName,0,"가죽 염색, 빛나는 회색"
 area004,git,StoreList/1/StoreList/4/ItemList/55/LocalizedName,0,"가죽 염료, 반짝이는 인디고"
 area004,git,StoreList/1/StoreList/4/ItemList/56/LocalizedName,0,"가죽 염료, 빛나는 파랑색"
@@ -5632,7 +5632,7 @@ area006,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,철강 호랑이의
 area006,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,장갑과 유니폼으로 작동하는 이 품질의 체인मेल은 보병의 우물을 봉사합니다.
 area006,git,Creature List/2/FirstName,0,용병 마법사
 area006,git,Creature List/2/Description,0,"아이룬드에서는 드물게 볼 수 있는데, 용병 계급에 있는 엘프들의 존재는 그들의 힘의 증거입니다."
-area006,git,Creature List/2/ItemList/0/LocalizedName,0,마법 로켓 스틱
+area006,git,Creature List/2/ItemList/0/LocalizedName,0,마법 화살 마법봉
 area006,git,Creature List/2/ItemList/0/Description,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 area006,git,Creature List/2/ItemList/0/DescIdentified,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 area006,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,마법사 의복
@@ -6557,7 +6557,7 @@ calespurrange001,git,Placeable List/5/ItemList/2/LocalizedName,0,동물의 가�
 calespurrange001,git,Placeable List/5/ItemList/2/DescIdentified,0,왕들의 숲에서 얻은 이 털은 블랙마켓에서 상당한 가격으로 팔릴 수 있을 것입니다.
 calespurrange001,git,Placeable List/5/ItemList/4/LocalizedName,0,관통 화살
 calespurrange001,git,Placeable List/5/ItemList/4/DescIdentified,0,이 화살는 목표물에 깊숙이 찔러 타격을 당하면 추가적인 뚫는 손상을 입게 됩니다.
-calespurrange001,git,Placeable List/5/ItemList/5/LocalizedName,0,얇은 복합 롱보
+calespurrange001,git,Placeable List/5/ItemList/5/LocalizedName,0,고급 합성 장궁
 calespurrange001,git,Placeable List/5/ItemList/5/Description,0,이 아름답게 제작된 활은 작은 운세를 갖고 있어야 합니다.
 calespurrange001,git,Placeable List/5/ItemList/5/DescIdentified,0,그 종류 중 가장 훌륭한 예 중 하나인 이 롱보이는 50파운드 이상의 놀라운 추력을 가지고 있으며
 calespurrange002,git,Creature List/0/FirstName,0,순찰자 쿼터마스터
@@ -7192,7 +7192,7 @@ culdeny2,git,Placeable List/66/Description,0,포트리된 식물
 culdeny2,git,Placeable List/69/LocName,0,소금 물고기
 culdeny2,git,Placeable List/71/LocName,0,TNO 노트라보트
 culdeny2,git,Placeable List/71/Description,0,작은 노루배입니다. 견고하고 좋은 상태입니다. 크기로 보아 두 명의 인간 크기의 사람들을 쉽게 운반할 수 있습니다.
-culdeny2,git,Placeable List/83/LocName,0,탑재 된 문 - 색 색
+culdeny2,git,Placeable List/83/LocName,0,판자 덧댄 출입구 - 바랜 갈색
 culdeny2,git,Placeable List/83/Description,0,"서둘러 만들어진 이 판들은 침입자를 막기 위해 붙여졌지만, 아마도 내부의 것을 보호하기 위해서였을지도 모릅니다."
 culdenycrypts,git,SoundList/0/LocName,0,광부의 삽질
 culdenycrypts,git,SoundList/1/LocName,0,광부의 곡괭이질
@@ -8698,7 +8698,7 @@ masterchaplainss,git,StoreList/0/StoreList/1/ItemList/20/LocalizedName,0,장인�
 masterchaplainss,git,StoreList/0/StoreList/1/ItemList/20/DescIdentified,0,"이 무기는 쿨든리 시의 석공 앨런 성직자가 제작한 무기입니다. 원래는 왕국의 기사에게 사용될 예정이었지만, 기사가 이를 요구하기 위해 오지 않을 때 팔리기 전에 몇 주 동안 방치되어 있었습니다."
 masterchaplainss,git,StoreList/0/StoreList/1/ItemList/21/LocalizedName,0,장인제작 소검
 masterchaplainss,git,StoreList/0/StoreList/1/ItemList/21/DescIdentified,0,"이 무기는 쿨든리 시의 석공 앨런 성직자가 제작한 무기입니다. 원래는 왕국의 기사에게 사용될 예정이었지만, 기사가 이를 요구하기 위해 오지 않을 때 팔리기 전에 몇 주 동안 방치되어 있었습니다."
-masterchaplainss,git,StoreList/0/StoreList/1/ItemList/24/LocalizedName,0,영향력 을 줄 수 있는 워크하머
+masterchaplainss,git,StoreList/0/StoreList/1/ItemList/24/LocalizedName,0,충격의 전쟁망치
 masterchaplainss,git,StoreList/0/StoreList/1/ItemList/25/LocalizedName,0,무거운 곡괭이
 masterchaplainss,git,StoreList/0/StoreList/1/ItemList/26/LocalizedName,0,가벼운 곡괭이
 masterchaplainss,git,StoreList/0/StoreList/1/ItemList/27/LocalizedName,0,중장 망치
@@ -8825,7 +8825,7 @@ mercenaryhideout,git,Creature List/13/Equip_ItemList/3/LocalizedName,0,단검 + 
 mercenaryhideout,git,Creature List/13/Equip_ItemList/3/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 mercenaryhideout,git,Creature List/14/FirstName,0,용병 마법사
 mercenaryhideout,git,Creature List/14/Description,0,"아이룬드에서는 드물게 볼 수 있는데, 용병 계급에 있는 엘프들의 존재는 그들의 힘의 증거입니다."
-mercenaryhideout,git,Creature List/14/ItemList/0/LocalizedName,0,마법 로켓 스틱
+mercenaryhideout,git,Creature List/14/ItemList/0/LocalizedName,0,마법 화살 마법봉
 mercenaryhideout,git,Creature List/14/ItemList/0/Description,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 mercenaryhideout,git,Creature List/14/ItemList/0/DescIdentified,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 mercenaryhideout,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,침묵의 마법부녀
@@ -8882,7 +8882,7 @@ mercenaryhideout,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,스틸 �
 mercenaryhideout,git,Creature List/22/Equip_ItemList/0/DescIdentified,0,장갑과 유니폼으로 작동하는 이 품질의 체인मेल은 보병의 우물을 봉사합니다.
 mercenaryhideout,git,Creature List/23/FirstName,0,용병 마법사
 mercenaryhideout,git,Creature List/23/Description,0,"아이룬드에서는 드물게 볼 수 있는데, 용병 계급에 있는 엘프들의 존재는 그들의 힘의 증거입니다."
-mercenaryhideout,git,Creature List/23/ItemList/0/LocalizedName,0,마법 로켓 스틱
+mercenaryhideout,git,Creature List/23/ItemList/0/LocalizedName,0,마법 화살 마법봉
 mercenaryhideout,git,Creature List/23/ItemList/0/Description,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 mercenaryhideout,git,Creature List/23/ItemList/0/DescIdentified,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 mercenaryhideout,git,Creature List/23/Equip_ItemList/1/LocalizedName,0,마법사 의복
@@ -10504,7 +10504,7 @@ module,jrl,Categories/7/EntryList/3/Text,0,"나는 맥주 배송을 가져오는
 module,jrl,Categories/8/Name,0,브랙스포드의 신규 주문
 module,jrl,Categories/8/EntryList/0/Text,0,"하이마르크 경비원들이 브랙스퍼드 촌장에게 중요한 문서를 건네주었고, 제게 100골드를 지급해 제게 문서를 전달하도록 지시했습니다."
 module,jrl,Categories/8/EntryList/1/Text,0,하이마르치로부터 브랙스퍼드 촌장에게 명령을 성공적으로 전달했습니다.
-module,jrl,Categories/9/Name,0,음모론이
+module,jrl,Categories/9/Name,0,음모에 관한 소문
 module,jrl,Categories/9/EntryList/0/Text,0,"쿨든에 침입하려던 괴물의 시도를 방해한 후, 그들의 지도자의 시체에 메모가 있었다. 이 메모는 괴물들이 다른 사람의 명령에 따라 움직이고 있다는 것을 나타내며, 글씨가 명확하기 때문에 아마 인간일 가능성이 크다. 지역 보병대 사령관인 죤데스 씨와 이야기해야 할 필요가 있어 보인다."
 module,jrl,Categories/9/EntryList/1/Text,0,스미스 사령관은 쿨든에 있는 노스 코어 트레이딩 회사의 소유자인 로널드 바르트렛의 활동을 조사하라고 조언했습니다. 이 사람의 초기 글자는
 module,jrl,Categories/9/EntryList/2/Text,0,로널드 바르트렛 (Ronald Bartlett) 는 제가 회사 사무실에 갔을 때 가용적 이 없었다. 그러나 비서관은 그가 장트맨 클럽에 올라갔다고 했습니다. 그녀는 또한 제가 거기 오신 것을 환영하지 않을 것이라고 말했습니다. 왜냐하면 그것은 엄격히 초대만 하는 일이기 때문입니다. 저는 그냥 침입할 수 있다고 가정하지만 더 미묘한 방법이 있을지도 모릅니다.
@@ -10948,7 +10948,7 @@ zep_cgdrge_001,utc,FirstName,0,"용, 보석 - 에메랄드"
 zep_cgdrge_001,utc,Description,0,"에메랄드 드래곤들은 특히 지역 역사와 관습에 대해 호기심이 많다. 종종 그들의 지식은 가장 훌륭한 지혜를 능가할 정도로 깊다. 그러나 이 드래곤들은 다소 불안정하여, 심지어 일시적인 친분을 맺는 것조차도 상당히 어려울 수 있다."
 zep_cgdrge_002,utc,FirstName,0,"용, 보석 - 에메랄드"
 zep_cgdrge_002,utc,Description,0,"에메랄드 드래곤들은 특히 지역 역사와 관습에 대해 호기심이 많다. 종종 그들의 지식은 가장 훌륭한 지혜를 능가할 정도로 깊다. 그러나 이 드래곤들은 다소 불안정하여, 심지어 일시적인 친분을 맺는 것조차도 상당히 어려울 수 있다."
-zep_cgdrgo_001,utc,FirstName,0,"드래곤, 보석 - 오브시디안"
+zep_cgdrgo_001,utc,FirstName,0,"드래곤, 보석 - 흑요석"
 zep_cgdrgs_001,utc,FirstName,0,"용, 사파이어"
 zep_cgdrgs_001,utc,Description,0,"사파이어 드래곤은 매우 영토적인 존재로, 특히 다른 드래곤들이 그들의 영역을 침략하는 경우, 대지 원소 평면이나 그들이 소유하고 있는 물질 평면의 영역에서 더욱 그러합니다."
 zep_cgdrgs_002,utc,FirstName,0,"용, 사파이어"
@@ -10984,15 +10984,15 @@ zep_crab5,utc,FirstName,0,"크랩, 그레이"
 zep_crab6,utc,FirstName,0,"크래브, 레드"
 zep_crab7,utc,FirstName,0,"크랩, 황색"
 zep_crane_01,utc,FirstName,0,크레인
-zep_crane_01,utc,Description,0,큰 물새
+zep_crane_01,utc,Description,0,커다란 물새.
 zep_crane_02,utc,FirstName,0,에그레트
 zep_crane_02,utc,Description,0,중형 크기의 물새.
 zep_crane_03,utc,FirstName,0,플라밍고
-zep_crane_03,utc,Description,0,큰 물새
+zep_crane_03,utc,Description,0,커다란 물새.
 zep_crane_04,utc,FirstName,0,헤론
-zep_crane_04,utc,Description,0,큰 물새
+zep_crane_04,utc,Description,0,커다란 물새.
 zep_crane_05,utc,FirstName,0,스토크
-zep_crane_05,utc,Description,0,큰 물새
+zep_crane_05,utc,Description,0,커다란 물새.
 zep_craniumrat,utc,FirstName,0,크라니움 레이트
 zep_croc_001,utc,FirstName,0,알리거토
 zep_croc_001,utc,Description,0,호랑이는 크고 육식 동물로 수중 파충류입니다.
@@ -11950,7 +11950,7 @@ darkcloak003,uti,LocalizedName,0,백색 망토
 darkcloak003,uti,DescIdentified,0,단순한 옷.
 darkcloak004,uti,LocalizedName,0,빗자루
 darkcloak004,uti,DescIdentified,0,단순한 옷.
-dm_subrace_wand,uti,LocalizedName,0,DM 서브레이스 바드
+dm_subrace_wand,uti,LocalizedName,0,DM 아종족 마법봉
 dm_subrace_wand,uti,DescIdentified,0,플레이어를 표적으로 지정하고 싶으면 그 소브라세와 함께 작업할 수 있습니다. 이 와이드는 또한 모듈의 모든 소브라세를 읽을 수 있습니다.
 dockmaster,uti,LocalizedName,0,도크마스터 집 키
 dragonstoken,uti,LocalizedName,0,용의 토큰
@@ -12045,7 +12045,7 @@ dyel10,uti,LocalizedName,0,"가죽 염료, 주황색"
 dyel11,uti,LocalizedName,0,"가죽 염색, 어두운 주황색"
 dyel12,uti,LocalizedName,0,"가죽 염색, 가장 가벼운 타우프"
 dyel13,uti,LocalizedName,0,"가죽 염료, 빛나는 탄색"
-dyel15,uti,LocalizedName,0,"가죽 염색, 어두운 탱웨이"
+dyel15,uti,LocalizedName,0,"가죽 염색, 짙은 회갈색"
 dyel16,uti,LocalizedName,0,"가죽 염색, 가장 가벼운 올리브색"
 dyel17,uti,LocalizedName,0,"가죽 염색, 빛나는 올리브"
 dyel18,uti,LocalizedName,0,"가죽 염료, 초록그레이"
@@ -12075,12 +12075,12 @@ dyel41,uti,LocalizedName,0,"가죽 염색, 보라"
 dyel42,uti,LocalizedName,0,"가죽 염료, 라벤더"
 dyel43,uti,LocalizedName,0,"가죽 염료, 인디고"
 dyel44,uti,LocalizedName,0,"가죽 염색, 흰색"
-dyel45,uti,LocalizedName,0,"가죽 염료, 검은색"
+dyel45,uti,LocalizedName,0,"가죽 염색, 검정"
 dyel46,uti,LocalizedName,0,"가죽 염료, 빛나는 파랑색"
 dyel47,uti,LocalizedName,0,"가죽 염색, 빛나는 파란색"
 dyel48,uti,LocalizedName,0,"가죽 염료, 빛나는 청록색"
 dyel49,uti,LocalizedName,0,"가죽 염색, 빛나는 숲녹색"
-dyel50,uti,LocalizedName,0,"가죽 염료, 빛나는 금봉"
+dyel50,uti,LocalizedName,0,"가죽 염색, 반짝이는 황금빛 노랑"
 dyel51,uti,LocalizedName,0,"가죽 염료, 빛나는 주황색"
 dyel52,uti,LocalizedName,0,"가죽 염색, 빛나는 빨간색"
 dyel53,uti,LocalizedName,0,"가죽 염료, 빛나는 핑크"
@@ -12183,7 +12183,7 @@ fencersoutfit001,uti,LocalizedName,0,스와스부클러 의복
 fencersoutfit001,uti,DescIdentified,0,"이 의복은 가벼운 옷으로 구성되어 있으며, 중요한 장소에서 신체에 고정되어 있으며, 허리에 가 단단한 가죽 판이 있으며, 래피어와 같은 뚫는 무기로부터 약간의 보호를 제공합니다. 착용 할 때 착용자에게 거의 눈에 띄지 않으며, 최소한의 방해가 되므로 울타리가 더 많은 이동 자유를 허용합니다."
 fencingfoil,uti,LocalizedName,0,펜싱 폴리
 fencingfoil,uti,DescIdentified,0,"단검의 뾰족한 부분이 둔한 래피어는 훈련, 대결, 당연히 펜싱에 유용합니다."
-finecomposite002,uti,LocalizedName,0,얇은 복합 롱보
+finecomposite002,uti,LocalizedName,0,고급 합성 장궁
 finecomposite002,uti,Description,0,이 아름답게 제작된 활은 작은 운세를 갖고 있어야 합니다.
 finecomposite002,uti,DescIdentified,0,그 종류 중 가장 훌륭한 예 중 하나인 이 롱보이는 50파운드 이상의 놀라운 추력을 가지고 있으며
 fire,uti,LocalizedName,0,불타는 물약
@@ -12279,7 +12279,7 @@ horse_management,uti,LocalizedName,0,말_관리
 horse_unsummon,uti,LocalizedName,0,성기사 말 소환 해제
 housesymbol,uti,LocalizedName,0,집 상징문
 housesymbol,uti,DescIdentified,0,이 황금 팔찌는 페어로크의 귀족 토마르 페어칠드의 상징으로 새겨져 있습니다.
-impact,uti,LocalizedName,0,영향력 을 줄 수 있는 워크하머
+impact,uti,LocalizedName,0,충격의 전쟁망치
 importantnote,uti,LocalizedName,0,중요한 참고사항
 importantnote,uti,DescIdentified,0,"이 노트는 이렇게 되어 있습니다. ""로버트, 공주가 지금 브랙스워스로 향하고 있다는 소식이 전해졌어요. 우리의 야만적 동맹국들은 동쪽에서 들어올 준비가 되어 있습니다. 그래서 그들이 도착하기 전에 크리오사에게 연락해주십시오. 그들은 나머지는 처리할 것입니다."
 incriminatingdoc,uti,LocalizedName,0,올라프의 문서
@@ -12608,12 +12608,12 @@ staffof,uti,LocalizedName,0,주제사대
 staffof,uti,DescIdentified,0,"여행자 마법사 가 외국 을 여행 하려고 할 때, 때때로 그 여행 에 도움 을 주기 위해 직원 을 부여 한다. 그러나 그 마법사 들 은 매우 인기 있는 물건 이므로, 이 점 은 종종 젊은 마법사 에게 원치 않는 관심 을 불러 일으킨다."
 statuehelmet,uti,LocalizedName,0,조각상 헬멧
 sth_key,uti,LocalizedName,0,관문 열쇠
-summoncamel,uti,LocalizedName,0,낙타를 불러라
-summondragon,uti,LocalizedName,0,드래곤을 불러
-summonhorse,uti,LocalizedName,0,화이트 포니를 불러
+summoncamel,uti,LocalizedName,0,짐 낙타 소환
+summondragon,uti,LocalizedName,0,드래곤 소환
+summonhorse,uti,LocalizedName,0,흰 조랑말 소환
 summonhorse2,uti,LocalizedName,0,스포티드 포니를 불러
 summonhorse3,uti,LocalizedName,0,브라운 포니를 불러
-summonhorse4,uti,LocalizedName,0,흑마를 불러라
+summonhorse4,uti,LocalizedName,0,검은 말 소환
 summonhorse5,uti,LocalizedName,0,갈색 말 을 불러라
 summonhorse6,uti,LocalizedName,0,악몽을 불러라
 summonhorse7,uti,LocalizedName,0,백색 말을 불러라
@@ -12682,7 +12682,7 @@ wandofmagicmi003,uti,DescIdentified,0,막대기는 마법으로 충전될 수 �
 wandofmagicmi004,uti,LocalizedName,0,얼음 폭풍의 막대
 wandofmagicmi004,uti,Description,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 wandofmagicmi004,uti,DescIdentified,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
-wandofmagicmissi,uti,LocalizedName,0,마법 로켓 스틱
+wandofmagicmissi,uti,LocalizedName,0,마법 화살 마법봉
 wandofmagicmissi,uti,Description,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 wandofmagicmissi,uti,DescIdentified,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 ward,uti,LocalizedName,0,놀라운 글리프
@@ -12891,8 +12891,8 @@ zep_sum_horse011,uti,LocalizedName,0,사슬 갑옷을 입힌 왈넛 사마귀
 zep_sum_horse012,uti,LocalizedName,0,왈넛 하스 레드 바딩을 불러
 zep_sum_horse013,uti,LocalizedName,0,와플 가죽 갑옷
 zep_sum_horse014,uti,LocalizedName,0,왈넛 하스 스칼라 바딩을 불러
-zep_sum_horse015,uti,LocalizedName,0,유니콘을 불러라
-zep_sum_horse016,uti,LocalizedName,0,바딩과 악몽을 불러라
+zep_sum_horse015,uti,LocalizedName,0,유니콘 소환
+zep_sum_horse016,uti,LocalizedName,0,바딩 입힌 악몽 소환
 zep_sum_horse017,uti,LocalizedName,0,악몽을 소환
 zep_sum_horse018,uti,LocalizedName,0,암흑 유니콘을 불러라
 zep_sum_horse02,uti,LocalizedName,0,흰색 마구마를 불러라
@@ -12926,7 +12926,7 @@ zep_wpngsw_001,uti,LocalizedName,0,"대검, 셀트식"
 zep_wpngsw_002,uti,LocalizedName,0,대검
 zep_wpnhlb_001,uti,LocalizedName,0,미늘창 - 북유럽 스타일
 zep_wpnssp_002,uti,LocalizedName,0,"창, 4개의 날"
-zep_wpnssp_003,uti,LocalizedName,0,"스피드, 스피드 팁"
+zep_wpnssp_003,uti,LocalizedName,0,"창, 삽날 끝"
 zep_wpnssw_001,uti,LocalizedName,0,"소검, 켈트"
 zep_wpnssw_002,uti,LocalizedName,0,"소검, 고대 켈트"
 zep_wpnssw_003,uti,LocalizedName,0,소검
@@ -13190,7 +13190,7 @@ zep_blood_1,utp,LocName,0,바닥 피 다그1
 zep_blood_1,utp,Description,0,여기 뭔가 심하게 피가 흘렀다.
 zep_bottle004,utp,LocName,0,"병, 깨진 (일)"
 zep_bottle004,utp,Description,0,깨진 병
-zep_ce_bdr_001,utp,LocName,0,탑재 된 문 - 색 색
+zep_ce_bdr_001,utp,LocName,0,판자 덧댄 출입구 - 바랜 갈색
 zep_ce_bdr_001,utp,Description,0,"서둘러 만들어진 이 판들은 침입자를 막기 위해 붙여졌지만, 아마도 내부의 것을 보호하기 위해서였을지도 모릅니다."
 zep_ce_bdr_002,utp,LocName,0,탑재된 출입구 - 신규 1
 zep_ce_bdr_002,utp,Description,0,"서둘러 만들어진 이 판들은 침입자를 막기 위해 붙여졌지만, 아마도 내부의 것을 보호하기 위해서였을지도 모릅니다."
@@ -13384,7 +13384,7 @@ zep_ci_lgt_001,utp,LocName,0,샹들리에
 zep_ci_lgt_001,utp,Description,0,샹들리에
 zep_ci_lgt_002,utp,LocName,0,이중등걸이
 zep_ci_lgt_002,utp,Description,0,스콘스
-zep_ci_lgt_003,utp,LocName,0,포이어 델리어
+zep_ci_lgt_003,utp,LocName,0,현관홀 샹들리에
 zep_ci_lgt_003,utp,Description,0,큰 랜데리어
 zep_ci_lgt_004,utp,LocName,0,단 하나의 등불
 zep_ci_lgt_004,utp,Description,0,스콘스
@@ -13683,7 +13683,7 @@ zep_mirror007,utp,LocName,0,거울 드워프
 zep_mirror007,utp,Description,0,거울로 된 유리창이 공중에서 괴상하게 떠 있습니다.
 zep_ms_flc_001,utp,LocName,0,꽃차리
 zep_ms_flp_001,utp,LocName,0,수 있는 꽃 - 카네이션 핑크
-zep_ms_flp_002,utp,LocName,0,수 있는 꽃 - 로즈 블루 크리스탈
+zep_ms_flp_002,utp,LocName,0,채집 가능한 꽃 - 푸른 수정 장미
 zep_ms_flp_003,utp,LocName,0,수 있는 꽃 - 보라색 수정
 zep_ms_flp_004,utp,LocName,0,수정 가능한 꽃 - 레드 수정석
 zep_ms_flp_005,utp,LocName,0,수집 가능한 꽃 - 리리
@@ -13917,7 +13917,7 @@ zep_tr_pil_003,utp,LocName,0,보물 쌓이 - 반지
 zep_tr_pil_004,utp,LocName,0,보물 쌓이 - 보석
 zep_tr_pil_005,utp,LocName,0,보물 줄기 - 불꽃과 약
 zep_tr_pil_006,utp,LocName,0,보물 푸짐 - 검과 책
-zep_tr_pil_007,utp,LocName,0,보물 축 - 보석과
+zep_tr_pil_007,utp,LocName,0,보물 더미 - 보석과 술통
 zep_tr_pil_008,utp,LocName,0,보물 삼각형 - 소형 덩어리
 zep_tr_pil_009,utp,LocName,0,보물 쌓이 - 평면
 zep_vase002,utp,LocName,0,"베이스, 엘프"

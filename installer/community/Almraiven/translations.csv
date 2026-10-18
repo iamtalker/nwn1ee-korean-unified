@@ -4,7 +4,7 @@ area001,are,Name,0,알브라이벤 - 에메랄드 방어선 - 러너의 끝
 area002,are,Name,0,Almraiven - 도크 워드 - 스트립: [블랙 샌즈]
 area003,are,Name,0,알브라이벤 - 메랄드 워드 - 빌라
 area004,are,Name,0,Almraiven - 트레이드 워드 - 하스쇼 라인: [영원 불타는 로그: 위층]
-area005,are,Name,0,Almraiven - 도크 워드 - 로세틸 스트리트:
+area005,are,Name,0,알마라이벤 - 부두 구역 - 로제틸 거리: [황혼 주점]
 area006,are,Name,0,알브라이벤 - 트레이드 워드 - 하스쇼 레인
 area007,are,Name,0,알브라이벤 - 에메랄드 워드 - 벤히의 익스프레스:
 area008,are,Name,0,알마레이벤 - 에메랄드 방어선 - 러너의 끝: [창이 찌른 돼지]
@@ -94,7 +94,7 @@ newmandrake001,are,Name,0,알브라이벤 - 루비워드 - 만드라크 경로
 test,are,Name,0,알브라이벤 - 루비 워드 - 컷백 카트 골목
 tower,are,Name,0,알브라이벤 - 엔클라브 워드 - 대로 루움
 tracer01,are,Name,0,알브라이벤 - 베자라의 마지막 순간
-trade,are,Name,0,알브라이벤 - 무역 지키기 - 카라반 운송
+trade,are,Name,0,알마라이벤 - 무역 구역 - 카라반 운행
 underdark,are,Name,0,알브라이벤 - 구 구단 - 나이트워치 하버
 upstairs,are,Name,0,Almraiven - 에메랄드 워드 - 러너스 엔드: [스피팅 카멜: 올라가는 계단]
 01_hench_re,dlg,EntryList/0/Text,0,"<CUSTOM1004> 드라의 동생을 둘러싸고 어두운 그림자가 춤추고, 그가 입는 검은 색의 옷을 부드럽게 고 있습니다."
@@ -643,7 +643,7 @@ _annex,dlg,ReplyList/10/Text,0,훈련을 이어가기 위해 준비되어 있는
 _annex,dlg,ReplyList/11/Text,0,계속해.
 _annex,dlg,ReplyList/12/Text,0,동물 동반자를 소환 취소할까요?
 _annex,dlg,ReplyList/13/Text,0,계속해.
-_annex,dlg,ReplyList/14/Text,0,동물 동반자를 불러라
+_annex,dlg,ReplyList/14/Text,0,동물 동료를 소환한다.
 _annex,dlg,ReplyList/15/Text,0,계속해.
 _annex,dlg,ReplyList/16/Text,0,선두에 가서 적이 있으면 공격해.
 _annex,dlg,ReplyList/17/Text,0,계속해.
@@ -1658,7 +1658,7 @@ _be_rnd_m2,dlg,ReplyList/7/Text,0,계속해.
 _be_rnd_m2,dlg,ReplyList/8/Text,0,계속해.
 _be_rnd_m2,dlg,ReplyList/9/Text,0,계속해.
 _be_rnd_m2,dlg,ReplyList/10/Text,0,거절!
-_be_rnd_m2,dlg,ReplyList/11/Text,0,그 미술품을 사세요.
+_be_rnd_m2,dlg,ReplyList/11/Text,0,목걸이를 산다.
 _be_rnd_m2,dlg,ReplyList/12/Text,0,계속해.
 _be_rnd_m2,dlg,ReplyList/13/Text,0,계속해.
 _be_rnd_m2,dlg,ReplyList/14/Text,0,학생들을 떡 먹이세요?
@@ -3252,7 +3252,7 @@ _chelim,dlg,EntryList/32/Text,0,"""그러면 가봐야겠어. 오래된 무서�
 _chelim,dlg,EntryList/33/Text,0,"""릴리가 말했듯이, 고객은 그림을 받으면 바로 150 디나르를 지불할 것입니다. 당신은 전액을 받으실 수 있습니다."""
 _chelim,dlg,EntryList/34/Text,0,"""<Mister/Missus>, 당신은 자정까지 그림을 올리는 데 시간을 주겠습니다. 그렇지 않으면 다음에 다시 만날 때, 저는 거리의 쓰레기와 섞여 있을 수도 있습니다."""
 _chelim,dlg,EntryList/35/Text,0,"""나는 스피팅 낙타 외부에서 당신을 기다리겠습니다. 늦지 마세요. 밤 12시가 되면 여기서 머물지 않을 것이기 때문에요."""
-_chelim,dlg,EntryList/36/Text,0,"""여러분에게는 좋은 소식이 있습니다""."
+_chelim,dlg,EntryList/36/Text,0,"""좋은 소식이 있기를 빕니다."""
 _chelim,dlg,EntryList/37/Text,0,"""빨리 <mister/missus>, 내 시간은 제한되어 있습니다""."
 _chelim,dlg,EntryList/38/Text,0,"""당신이 그것을 얻을 수 있었나?"""
 _chelim,dlg,EntryList/39/Text,0,"""무슨 소리야?! 넌 나보다 훨씬 크고 그것조차 감당할 수 없었나? 대형! 정말 대형! 이 상황에서 나를 벗어나게 해줄 돈도 아무리 많아도 안 돼!"""
@@ -5775,7 +5775,7 @@ _firiem,dlg,EntryList/4/Text,0,"""이 장소에서 나를 빼내는 방법을 �
 _firiem,dlg,EntryList/5/Text,0,"""나는 어제 남은 것을 얻는다. 여기의 와인은 부패하고 맥주는 하수도 맛이 같아. 음식도 그리 좋지 않다."""
 _firiem,dlg,EntryList/8/Text,0,"""이 망할 교두보에 갇혀있으면 덩어리 다이너를 어떻게 쓸 수 있을까?"""
 _firiem,dlg,EntryList/9/Text,0,"""내게 어떻게 생겼느냐? 손을 흔들면 무엇인가를 할 수 있다면, 지금쯤은 자유인이 됐을 거다!"""
-_firiem,dlg,EntryList/11/Text,0,"""간다!"""
+_firiem,dlg,EntryList/11/Text,0,"""꺼져!"""
 _firiem,dlg,EntryList/13/Text,0,"""그리고 그 그 그릴 소유자의 뱉어낸 물은 엮기꾼이 와서 그의 손을 을 흔들었다""."
 _firiem,dlg,EntryList/15/Text,0,<CUSTOM1004> 남자는 지나가는 손님에게 바에서 구토한다.
 _firiem,dlg,EntryList/16/Text,0,"""그 이후로 난 여기 갇혀 있어!"""
@@ -6138,7 +6138,7 @@ _gabri,dlg,EntryList/4/Text,0,"""잭리, 여기서 속임수는 없어. 한 번 
 _gabri,dlg,EntryList/5/Text,0,"""타워에 있는 동안 항상 의복을 착용하세요""."
 _gabri,dlg,EntryList/6/Text,0,"""오후에 도착할 걱정은 하지 마세요. 타워가 봉쇄된 이후 주변 상황은 거의 정지 상태로 변했습니다."""
 _gabri,dlg,EntryList/7/Text,0,"""오후에 도착할 걱정은 하지 마세요. 타워가 봉쇄된 이후 주변 상황은 거의 정지 상태로 변했습니다."""
-_gabri,dlg,EntryList/8/Text,0,"""네, 네가 여기에 머무르지 않아도 돼. 그리고 나는 결국 읽어야 할 일이 있어."" <CUSTOM1004>Gabri는 머리카락을 긁는다. <CUSTOM1001>""이 찌는샴푸!"""
+_gabri,dlg,EntryList/8/Text,0,"""어이, 붙잡지는 않겠네. 어차피 나도 읽을 게 좀 있으니까."" <CUSTOM1004>가브리가 머리를 긁적인다. <CUSTOM1001>""빌어먹을 샴푸!"""
 _gabri,dlg,EntryList/9/Text,0,"""나가기 전에 뭔가를 얻을 수 있겠습니까?"""
 _gabri,dlg,EntryList/10/Text,0,"""당신이 필요하면 도서관에서 있을게."""
 _gabri,dlg,EntryList/11/Text,0,"""제가 여기저기 숨어 있을거라고 생각하냐? 잠금제 제키, 완전 잠금제."
@@ -8347,7 +8347,7 @@ _kirina,dlg,ReplyList/20/Text,0,"네, 알브라이벤의 새로운 사회입니�
 _kirina,dlg,ReplyList/21/Text,0,계속해.
 _kirina,dlg,ReplyList/22/Text,0,"아니, 먼 땅에서 왔다."
 _kirina,dlg,ReplyList/23/Text,0,계속해.
-_kirina,dlg,ReplyList/24/Text,0,곧 될 거야
+_kirina,dlg,ReplyList/24/Text,0,곧 그렇게 될 거야.
 _kirina,dlg,ReplyList/25/Text,0,계속해.
 _kirina,dlg,ReplyList/26/Text,0,계속해.
 _kirina,dlg,ReplyList/27/Text,0,계속해.
@@ -8749,7 +8749,7 @@ _loom_rnd_f1,dlg,EntryList/27/Text,0,"""헤르발로라는 작은 가게가 있�
 _loom_rnd_f1,dlg,EntryList/28/Text,0,"""실실 로임 애브레인 에 있는 것 이 분명 합니다. 그 곳 에는 인기가 많으며, '무늬 의 바늘'이라고 불립니다."
 _loom_rnd_f1,dlg,EntryList/29/Text,0,"""나는 당신이 찾을 만한 것을 확신합니다."""
 _loom_rnd_f1,dlg,EntryList/30/Text,0,"""러너스 스토어""라고 했나요? ""루먼 애브뉴에서 몇 거리 떨어진 빌라에 하나 있다고 생각합니다""."
-_loom_rnd_f1,dlg,EntryList/31/Text,0,"""말마! 당신은 아름다운 대로와 플래그스톤 계단으로 집으로 이사했습니까? 절대 아니었나 보다, 이 로움 대로에서 유일한 집이었으니까!"""
+_loom_rnd_f1,dlg,EntryList/31/Text,0,"""말도 마세요! 예쁜 현관에 판석 계단이 있는 그 집으로 이사하셨다고요? 그럴 만도 하죠, 로움 가에서 매물로 나온 건 그것 하나뿐이었으니까!"""
 _loom_rnd_f1,dlg,EntryList/32/Text,0,"""아름다운 집이지만 엔클라브 동네에서 많은 집들이 침입당하고 있다는 점을 알아두어야 합니다."""
 _loom_rnd_f1,dlg,EntryList/33/Text,0,"집에 값진 물건이 있다면, 두 번 생각해 보아야 한다."
 _loom_rnd_f1,dlg,EntryList/34/Text,0,"""최근의 강탈 사건은 그림자된 파누르크와 악의적인 트릭스터들 때문이라는 말을 들었어요. 알브라이벤에서 두 도둑단이 서로 전쟁을 벌이고 있습니다."""
@@ -10602,7 +10602,7 @@ _olsen,dlg,EntryList/17/Text,0,"""그를 찾은 곳을 기억해두도록 하라
 _olsen,dlg,EntryList/18/Text,0,"""나는 당신에게 50 디나르를 넘어서 더 제공할 수 없으며, 나머지 금액은 Rilley가 당신과의 이 회의를 조성한 대가로 받는다."""
 _olsen,dlg,EntryList/19/Text,0,"""그는 도둑이야! 악당이야! 농촌 지역을 돌아다니며 내 딸 게윈일로부터 달걀, 닭, 심지어 개인 저축까지 훔치고 있었다!"""
 _olsen,dlg,EntryList/20/Text,0,"""나는 그를 몇 주 동안 동쪽 통로를 따라 알브라이벤으로 쫓아왔고, 그는 지금 거리의 어느 곳에서 숨어 있는 것을 알게 되었다! 그가 훔친 달걀에 대해 그는 많은 것을 얻지 못할 것이다, 확실하다!"""
-_olsen,dlg,EntryList/21/Text,0,""" 아마 거리의 사람들과 혼동시키려고 하는 것 같아, 그래서 군중들 속에 더 쉽게 몰입할 수 있게 해."""
+_olsen,dlg,EntryList/21/Text,0,"""아마 길거리 사람들과 뒤섞여서 군중 속에 더 쉽게 녹아들려는 거겠지."""
 _olsen,dlg,EntryList/23/Text,0,"""이제, 이제. 나는 공동실에서 휴식을 취함으로써 법을 위반하지 않습니다. 나는 괜찮다 <sir/madam>? 아카니의 조직에 대해서도 관심이 없습니다""."
 _olsen,dlg,EntryList/25/Text,0,"""<lad/lass>, 루비 워더와의 문제는 없으니 알겠나? 그냥 도시를 방문해 즐기고 있을 뿐이야."""
 _olsen,dlg,EntryList/26/Text,0,"""이런 멋진 곳에 거리에서 뛰어들어 무엇을 하려는 거야? 농부를 찾으러 온 건 아니지?"""
@@ -10650,7 +10650,7 @@ _olsen,dlg,ReplyList/32/Text,0,먼저 몇 가지 질문을 드리고 싶습니�
 _olsen,dlg,ReplyList/33/Text,0,계속해.
 _olsen,dlg,ReplyList/34/Text,0,안녕하세요
 _olsen,dlg,ReplyList/35/Text,0,나는 네게 틴을 찾았어.
-_olsen,dlg,ReplyList/36/Text,0,벤히의 익스프레스에서
+_olsen,dlg,ReplyList/36/Text,0,벤히 특급 쪽이야.
 _olsen,dlg,ReplyList/37/Text,0,계속해.
 _olsen,dlg,ReplyList/38/Text,0,계속해.
 _olsen,dlg,ReplyList/39/Text,0,안녕하세요
@@ -14303,7 +14303,7 @@ _sj_guard3,dlg,ReplyList/52/Text,0,계속해.
 _sj_guard3,dlg,ReplyList/53/Text,0,계속 가라.
 _sj_guard3,dlg,ReplyList/54/Text,0,오크 출신의 와인을 제안해.
 _sj_guard3,dlg,ReplyList/55/Text,0,안녕하세요
-_sj_guard3,dlg,ReplyList/56/Text,0,오크어를 제안하세요.
+_sj_guard3,dlg,ReplyList/56/Text,0,오크 에일을 권한다.
 _sj_guard3,dlg,ReplyList/57/Text,0,안녕하세요
 _sj_guard3,dlg,ReplyList/58/Text,0,!
 _sj_guard3,dlg,ReplyList/59/Text,0,계속해.
@@ -14488,7 +14488,7 @@ _sj_window,dlg,ReplyList/0/Text,0,계속 가라.
 _sj_window,dlg,ReplyList/1/Text,0,창을 부수라
 _sj_window,dlg,ReplyList/2/Text,0,계속해.
 _sj_window,dlg,ReplyList/3/Text,0,계속해.
-_sj_window,dlg,ReplyList/4/Text,0,자물쇠를 가져와
+_sj_window,dlg,ReplyList/4/Text,0,목걸이를 가져가.
 _sj_window,dlg,ReplyList/5/Text,0,계속해.
 _sj_window,dlg,ReplyList/6/Text,0,창을 녹여라
 _sj_window,dlg,ReplyList/7/Text,0,계속해.
@@ -15316,7 +15316,7 @@ _ts_rnd_m3,dlg,ReplyList/15/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/16/Text,0,어떤 배로 여행하셨나요?
 _ts_rnd_m3,dlg,ReplyList/17/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/18/Text,0,계속해.
-_ts_rnd_m3,dlg,ReplyList/19/Text,0,해적들야?
+_ts_rnd_m3,dlg,ReplyList/19/Text,0,"당신들, 선원이오?"
 _ts_rnd_m3,dlg,ReplyList/20/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/21/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/22/Text,0,계속해.
@@ -15327,7 +15327,7 @@ _ts_rnd_m3,dlg,ReplyList/26/Text,0,무슨 음료를 마시나?
 _ts_rnd_m3,dlg,ReplyList/27/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/28/Text,0,네 이름이 뭐야?
 _ts_rnd_m3,dlg,ReplyList/29/Text,0,계속해.
-_ts_rnd_m3,dlg,ReplyList/30/Text,0,해적들야?
+_ts_rnd_m3,dlg,ReplyList/30/Text,0,"당신들, 선원이오?"
 _ts_rnd_m3,dlg,ReplyList/31/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/32/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/33/Text,0,계속해.
@@ -15349,7 +15349,7 @@ _ts_rnd_m3,dlg,ReplyList/48/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/49/Text,0,어떤 배로 여행하셨나요?
 _ts_rnd_m3,dlg,ReplyList/50/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/51/Text,0,계속해.
-_ts_rnd_m3,dlg,ReplyList/52/Text,0,해적들야?
+_ts_rnd_m3,dlg,ReplyList/52/Text,0,"당신들, 선원이오?"
 _ts_rnd_m3,dlg,ReplyList/53/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/54/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/55/Text,0,계속해.
@@ -15380,7 +15380,7 @@ _ts_rnd_m3,dlg,ReplyList/79/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/80/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/81/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/82/Text,0,계속해.
-_ts_rnd_m3,dlg,ReplyList/83/Text,0,해적들야?
+_ts_rnd_m3,dlg,ReplyList/83/Text,0,"당신들, 선원이오?"
 _ts_rnd_m3,dlg,ReplyList/84/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/85/Text,0,계속해.
 _ts_rnd_m3,dlg,ReplyList/86/Text,0,계속해.
@@ -19429,7 +19429,7 @@ area003,git,Placeable List/261/LocName,0,GI_Potted Tree
 area003,git,Placeable List/261/Description,0,화분
 area003,git,Placeable List/262/LocName,0,GI_Potted Tree
 area003,git,Placeable List/262/Description,0,화분
-area003,git,Placeable List/268/LocName,0,글라스 루즈
+area003,git,Placeable List/268/LocName,0,유리 장미
 area003,git,Placeable List/269/LocName,0,유리 릴리
 area003,git,Placeable List/270/LocName,0,나무 문
 area003,git,Placeable List/270/Description,0,나무 문입니다.
@@ -19648,7 +19648,7 @@ area005,git,Placeable List/126/LocName,0,보라 중간 냄비
 area005,git,Placeable List/127/LocName,0,주황 중간 병
 area005,git,Placeable List/128/LocName,0,촛불 003
 area005,git,Placeable List/135/LocName,0,TT_SIT_RAULEN
-area005,git,Placeable List/136/LocName,0,글라스 루즈
+area005,git,Placeable List/136/LocName,0,유리 장미
 area005,git,Placeable List/137/LocName,0,유리 릴리
 area005,git,Placeable List/138/LocName,0,나무식물
 area005,git,Placeable List/139/LocName,0,나무식물
@@ -20426,14 +20426,14 @@ area011,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,"""네, 이 화�
 area011,git,StoreList/0/StoreList/1/ItemList/1/LocalizedName,0,빛을 끼운 화살
 area011,git,StoreList/0/StoreList/1/ItemList/1/Description,0,"""당신 은 이것 을 나무 에서 가벼운 무게 를 가진 물건 을 만드는 데 훌륭 한 근원 이 되는 와일나무 의 중심 에서 조각 한 것 을 이해 할 것 이다. 이제 나는 활사꾼 이 아니었지만, 나무 를 둘러싼 방법을 확실히 알고 있기 때문 에 이 화살 의 수집 을 제공할 수 있다. 그들은 공기 를 통해 너무 잘 날아 다니며 가장 강한 갑옷 을도 뚫을 수 있다!"" 이 화살 의 수집 은 만드라크 루트 에 있는 우즈 앤 더스 라는 지역 상점에서 만들어졌다."
 area011,git,StoreList/0/StoreList/1/ItemList/1/DescIdentified,0,"""당신 은 이것 을 나무 에서 가벼운 무게 를 가진 물건 을 만드는 데 훌륭 한 근원 이 되는 와일나무 의 중심 에서 조각 한 것 을 이해 할 것 이다. 이제 나는 활사꾼 이 아니었지만, 나무 를 둘러싼 방법을 확실히 알고 있기 때문 에 이 화살 의 수집 을 제공할 수 있다. 그들은 공기 를 통해 너무 잘 날아 다니며 가장 강한 갑옷 을도 뚫을 수 있다!"" 이 화살 의 수집 은 만드라크 루트 에 있는 우즈 앤 더스 라는 지역 상점에서 만들어졌다."
-area011,git,StoreList/0/StoreList/1/ItemList/2/LocalizedName,0,견인형 볼트 컬렉션
+area011,git,StoreList/0/StoreList/1/ItemList/2/LocalizedName,0,튼튼한 볼트 묶음
 area011,git,StoreList/0/StoreList/1/ItemList/2/Description,0,"""이 볼트의 끝 부분은 땅콩과 거북이 껍질의 혼합물로 만들어졌으며, 껍질은 코르미르에서 얻은 강하고 내구성이 있는 나무로 제작되었습니다. 비싸지만, 확실히 날 수 있으며, 불쾌한 펀치를 날릴 수 있습니다! 심지어 오그레를 부상으로 만들고 멀리 물러나게 할 만큼 충분합니다.""
 
 이 볼트 컬렉션은 만드라크 로드에 위치한 우즈 앤 골즈라는 지역 상점에서 만들어졌습니다."
 area011,git,StoreList/0/StoreList/1/ItemList/2/DescIdentified,0,"""이 볼트의 끝 부분은 땅콩과 거북이 껍질의 혼합물로 만들어졌으며, 껍질은 코르미르에서 얻은 강하고 내구성이 있는 나무로 제작되었습니다. 비싸지만, 확실히 날 수 있으며, 불쾌한 펀치를 날릴 수 있습니다! 심지어 오그레를 부상으로 만들고 멀리 물러나게 할 만큼 충분합니다.""
 
 이 볼트 컬렉션은 만드라크 로드에 위치한 우즈 앤 골즈라는 지역 상점에서 만들어졌습니다."
-area011,git,StoreList/0/StoreList/1/ItemList/3/LocalizedName,0,손으로 만든
+area011,git,StoreList/0/StoreList/1/ItemList/3/LocalizedName,0,수제 볼트
 area011,git,StoreList/0/StoreList/1/ItemList/3/Description,0,"""이 컬렉션은 지난 몇 주 동안 조각한 화살에 있어서 가장 저렴한 것 같습니다. 이 화살은 가게에서 손으로 만든 화살에 사용했던 나무 조각과 같은 것들입니다. 이 화살 컬렉션은 만드라크 루트에 있는 우즈 앤 더스라는 현지 가게에서 만들어졌으며, 마법적인 특성이 없습니다."""
 area011,git,StoreList/0/StoreList/1/ItemList/3/DescIdentified,0,"""이 컬렉션은 지난 몇 주 동안 조각한 화살에 있어서 가장 저렴한 것 같습니다. 이 화살은 가게에서 손으로 만든 화살에 사용했던 나무 조각과 같은 것들입니다. 이 화살 컬렉션은 만드라크 루트에 있는 우즈 앤 더스라는 현지 가게에서 만들어졌으며, 마법적인 특성이 없습니다."""
 area011,git,StoreList/0/StoreList/1/ItemList/4/LocalizedName,0,썩은 뿌리 육척봉
@@ -21516,7 +21516,7 @@ area023,git,Placeable List/85/Description,0,"단순한 의자지만, 그 선의 
 area023,git,Placeable List/86/Description,0,"단순한 의자지만, 그 선의 우아함은 제작의 품질을 말해줍니다."
 area023,git,Placeable List/88/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 area023,git,Placeable List/91/Description,0,"단순한 의자지만, 그 선의 우아함은 제작의 품질을 말해줍니다."
-area024,git,Creature List/0/FirstName,0,옥상 스파이더
+area024,git,Creature List/0/FirstName,0,다락방 거미
 area024,git,Creature List/0/ItemList/0/LocalizedName,0,스파이더 실침
 area024,git,Creature List/0/ItemList/0/Description,0,"이 끈적한 물질은 스파이더 실크입니다, 제조에 필요한 재료 중 하나입니다."
 area024,git,Creature List/0/ItemList/0/DescIdentified,0,"이 끈적한 물질은 스파이더 실크입니다, 제조에 필요한 재료 중 하나입니다."
@@ -22260,7 +22260,7 @@ area036,git,StoreList/0/StoreList/4/ItemList/14/DescIdentified,0,"이 건조한 
 area036,git,StoreList/0/StoreList/4/ItemList/15/LocalizedName,0,장미꽃잎
 area036,git,StoreList/0/StoreList/4/ItemList/15/Description,0,"이 건조한 장미꽃차례의 땀 냄새는 여전히 공기를 사로잡고, 조심하지 않으면 마지막 냄새가 될 것입니다.  이 장미꽃차례는 수면 마법을 사용할 때 섭취됩니다."
 area036,git,StoreList/0/StoreList/4/ItemList/15/DescIdentified,0,"이 건조한 장미꽃차례의 땀 냄새는 여전히 공기를 사로잡고, 조심하지 않으면 마지막 냄새가 될 것입니다.  이 장미꽃차례는 수면 마법을 사용할 때 섭취됩니다."
-area036,git,StoreList/0/StoreList/4/ItemList/16/LocalizedName,0,반응기 가방
+area036,git,StoreList/0/StoreList/4/ItemList/16/LocalizedName,0,시약 주머니
 area036,git,StoreList/0/StoreList/4/ItemList/16/Description,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 area036,git,StoreList/0/StoreList/4/ItemList/16/DescIdentified,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 area036,git,StoreList/0/StoreList/4/ItemList/17/LocalizedName,0,결합제
@@ -22354,7 +22354,7 @@ area036,git,StoreList/1/StoreList/4/ItemList/14/DescIdentified,0,"이 건조한 
 area036,git,StoreList/1/StoreList/4/ItemList/15/LocalizedName,0,장미꽃잎
 area036,git,StoreList/1/StoreList/4/ItemList/15/Description,0,"이 건조한 장미꽃차례의 땀 냄새는 여전히 공기를 사로잡고, 조심하지 않으면 마지막 냄새가 될 것입니다.  이 장미꽃차례는 수면 마법을 사용할 때 섭취됩니다."
 area036,git,StoreList/1/StoreList/4/ItemList/15/DescIdentified,0,"이 건조한 장미꽃차례의 땀 냄새는 여전히 공기를 사로잡고, 조심하지 않으면 마지막 냄새가 될 것입니다.  이 장미꽃차례는 수면 마법을 사용할 때 섭취됩니다."
-area036,git,StoreList/1/StoreList/4/ItemList/16/LocalizedName,0,반응기 가방
+area036,git,StoreList/1/StoreList/4/ItemList/16/LocalizedName,0,시약 주머니
 area036,git,StoreList/1/StoreList/4/ItemList/16/Description,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 area036,git,StoreList/1/StoreList/4/ItemList/16/DescIdentified,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 area036,git,StoreList/1/StoreList/4/ItemList/17/LocalizedName,0,결합제
@@ -23017,7 +23017,7 @@ area040,git,Placeable List/0/LocName,0,갈레온1
 area040,git,Placeable List/1/LocName,0,상점 간판 개
 area040,git,Placeable List/2/LocName,0,상점 표기 물약
 area040,git,Placeable List/3/LocName,0,선술집 간판
-area040,git,Placeable List/4/LocName,0,샵 시그인 인
+area040,git,Placeable List/4/LocName,0,상점 간판 여관
 area040,git,Placeable List/74/LocName,0,아우닝 나무
 area040,git,Placeable List/75/LocName,0,월에 걸린 자루
 area040,git,Placeable List/75/Description,0,잘 착용된 이 은 가방은 해충을 피하기 위해 노화 된 나무 래프에 매달려 있습니다.
@@ -23537,7 +23537,7 @@ area042,git,Placeable List/260/LocName,0,"바닥, 심벌 1"
 area042,git,Placeable List/262/LocName,0,떠 있는 창문
 area042,git,Placeable List/262/Description,0,"이 창은 공중에 둥실 떠 있으며, 이상한 방식으로 조용히 앉아 있습니다."
 area042,git,Placeable List/263/LocName,0,내구성 있는 나무궤짝
-area042,git,Placeable List/263/ItemList/0/LocalizedName,0,좋은 금 열쇠
+area042,git,Placeable List/263/ItemList/0/LocalizedName,0,고급 금 열쇠
 area042,git,Placeable List/263/ItemList/0/Description,0,이 열쇠는 스프링윈 존스 재적의 한 방에서 발견되었습니다.
 area042,git,Placeable List/263/ItemList/0/DescIdentified,0,이 열쇠는 스프링윈 존스 재적의 한 방에서 발견되었습니다.
 area042,git,Placeable List/264/LocName,0,유리 디스플레이 케이스
@@ -24319,9 +24319,9 @@ area053,git,Placeable List/63/LocName,0,캔과 함께 있는 GI_Shelf
 area053,git,Placeable List/63/Description,0,캔들이 있는 래프트
 area053,git,Placeable List/64/LocName,0,작은 배
 area053,git,Placeable List/65/LocName,0,"헤이, 워크투어"
-area053,git,Placeable List/66/LocName,0,샵 시그인 인
-area053,git,Placeable List/67/LocName,0,샵 시그인 인
-area053,git,Placeable List/68/LocName,0,샵 시그인 인
+area053,git,Placeable List/66/LocName,0,상점 간판 여관
+area053,git,Placeable List/67/LocName,0,상점 간판 여관
+area053,git,Placeable List/68/LocName,0,상점 간판 여관
 area053,git,Placeable List/69/LocName,0,언더다크 큐브 1
 area053,git,Placeable List/70/LocName,0,암흑 큐브 2
 area053,git,Placeable List/71/LocName,0,언더다크 통
@@ -24390,7 +24390,7 @@ area054,git,StoreList/0/StoreList/4/ItemList/14/DescIdentified,0,"이 건조한 
 area054,git,StoreList/0/StoreList/4/ItemList/15/LocalizedName,0,장미꽃잎
 area054,git,StoreList/0/StoreList/4/ItemList/15/Description,0,"이 건조한 장미꽃차례의 땀 냄새는 여전히 공기를 사로잡고, 조심하지 않으면 마지막 냄새가 될 것입니다.  이 장미꽃차례는 수면 마법을 사용할 때 섭취됩니다."
 area054,git,StoreList/0/StoreList/4/ItemList/15/DescIdentified,0,"이 건조한 장미꽃차례의 땀 냄새는 여전히 공기를 사로잡고, 조심하지 않으면 마지막 냄새가 될 것입니다.  이 장미꽃차례는 수면 마법을 사용할 때 섭취됩니다."
-area054,git,StoreList/0/StoreList/4/ItemList/16/LocalizedName,0,반응기 가방
+area054,git,StoreList/0/StoreList/4/ItemList/16/LocalizedName,0,시약 주머니
 area054,git,StoreList/0/StoreList/4/ItemList/16/Description,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 area054,git,StoreList/0/StoreList/4/ItemList/16/DescIdentified,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 area054,git,StoreList/0/StoreList/4/ItemList/17/LocalizedName,0,결합제
@@ -25277,7 +25277,7 @@ area062,git,StoreList/0/StoreList/4/ItemList/14/DescIdentified,0,"이 건조한 
 area062,git,StoreList/0/StoreList/4/ItemList/15/LocalizedName,0,장미꽃잎
 area062,git,StoreList/0/StoreList/4/ItemList/15/Description,0,"이 건조한 장미꽃차례의 땀 냄새는 여전히 공기를 사로잡고, 조심하지 않으면 마지막 냄새가 될 것입니다.  이 장미꽃차례는 수면 마법을 사용할 때 섭취됩니다."
 area062,git,StoreList/0/StoreList/4/ItemList/15/DescIdentified,0,"이 건조한 장미꽃차례의 땀 냄새는 여전히 공기를 사로잡고, 조심하지 않으면 마지막 냄새가 될 것입니다.  이 장미꽃차례는 수면 마법을 사용할 때 섭취됩니다."
-area062,git,StoreList/0/StoreList/4/ItemList/16/LocalizedName,0,반응기 가방
+area062,git,StoreList/0/StoreList/4/ItemList/16/LocalizedName,0,시약 주머니
 area062,git,StoreList/0/StoreList/4/ItemList/16/Description,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 area062,git,StoreList/0/StoreList/4/ItemList/16/DescIdentified,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 area062,git,StoreList/0/StoreList/4/ItemList/17/LocalizedName,0,결합제
@@ -25814,7 +25814,7 @@ area066,git,StoreList/0/StoreList/1/ItemList/5/Description,0,"피치: ""아카�
 area066,git,StoreList/0/StoreList/1/ItemList/5/DescIdentified,0,"피치: ""아카니의 엮기자가 무너질 때, 이 아름다운 검은 생명과 죽음 사이의 차이를 만들 수 있다. 마법으로 축복된 이 검은 휘두르는 자가 공격자에게 귀신처럼 보일 수 있게 해준다!""
 
 이 검은 벤히의 익스프레스에 있는 티플링 상인으로부터 얻은 것이다."
-area066,git,StoreList/0/StoreList/1/ItemList/6/LocalizedName,0,죽이는 파업
+area066,git,StoreList/0/StoreList/1/ItemList/6/LocalizedName,0,살상 일격
 area066,git,StoreList/0/StoreList/1/ItemList/6/Description,0,"피치: ""이 카마는 센비아에서 온 비만 상인으로부터 얻어진 것이며, 그는 이 카마가 몇 가지 비참한 상황에서 자신을 구해준다고 맹세했습니다. 이 카마는 매혹적인 힘을 지니고 있으며, 휘두르는 동안 '발보르'라는 단어를 속삭여 내면의 마법을 발동시킬 수 있습니다.""  
 이 칼은 벤히의 익스프레스에 있는 티플링 상인으로부터 얻어진 것입니다."
 area066,git,StoreList/0/StoreList/1/ItemList/6/DescIdentified,0,"피치: ""이 카마는 센비아에서 온 비만 상인으로부터 얻어진 것이며, 그는 이 카마가 몇 가지 비참한 상황에서 자신을 구해준다고 맹세했습니다. 이 카마는 매혹적인 힘을 지니고 있으며, 휘두르는 동안 '발보르'라는 단어를 속삭여 내면의 마법을 발동시킬 수 있습니다.""  
@@ -25899,12 +25899,16 @@ area066,git,StoreList/1/StoreList/0/ItemList/9/DescIdentified,0,"피치: ""오�
 area066,git,StoreList/1/StoreList/0/ItemList/10/Description,0,"피치: ""그로보는 큰 눈을 가진 큰 생물의 피부로 장갑을 만든다! 큰 치아! 큰 발! 큰 손! 큰, 큰, 큰 구슬! 큰 구슬! 큰 구슬!"" 이 장갑은 벤히의 익스프레스의 그로보에서 나온다."
 area066,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,"피치: ""그로보는 큰 눈을 가진 큰 생물의 피부로 장갑을 만든다! 큰 치아! 큰 발! 큰 손! 큰, 큰, 큰 구슬! 큰 구슬! 큰 구슬!"" 이 장갑은 벤히의 익스프레스의 그로보에서 나온다."
 area066,git,StoreList/1/StoreList/0/ItemList/11/LocalizedName,0,뱀 물림
-area066,git,StoreList/1/StoreList/0/ItemList/11/Description,0,"피치: ""그로보는 쫌 싫은 느낌이 싫어. 단단한 물건은 뱀 같고, 그로보는 뱀을 싫어해. 뱀은 그로보에게 나쁘다고! 뱀이 그로보를 물어 그로보가 작은 그로보를 구토하게 만들었어. 단단한 물건은 당신에게 좋다고!""
+area066,git,StoreList/1/StoreList/0/ItemList/11/Description,0,"피치:
 
-이 갑옷은 벤히의 특급에서 그로보가 주었다."
-area066,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,"피치: ""그로보는 쫌 싫은 느낌이 싫어. 단단한 물건은 뱀 같고, 그로보는 뱀을 싫어해. 뱀은 그로보에게 나쁘다고! 뱀이 그로보를 물어 그로보가 작은 그로보를 구토하게 만들었어. 단단한 물건은 당신에게 좋다고!""
+""그로보는 끈적한 느낌이 싫어. 딱딱한 건 뱀 같고, 그로보는 뱀이 싫어. 뱀은 그로보한테 못됐어! 그로보를 물어서 작은 그로보한테 토하게 만들었어! 딱딱한 건 몸에 좋아!""
 
-이 갑옷은 벤히의 특급에서 그로보가 주었다."
+이 갑옷은 벤히 특급의 그로보에게서 온 것이다."
+area066,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,"피치:
+
+""그로보는 끈적한 느낌이 싫어. 딱딱한 건 뱀 같고, 그로보는 뱀이 싫어. 뱀은 그로보한테 못됐어! 그로보를 물어서 작은 그로보한테 토하게 만들었어! 딱딱한 건 몸에 좋아!""
+
+이 갑옷은 벤히 특급의 그로보에게서 온 것이다."
 area066,git,StoreList/1/StoreList/0/ItemList/12/LocalizedName,0,석정지
 area066,git,StoreList/1/StoreList/0/ItemList/12/Description,0,"피치: ""그로보는 그로보에게 던지는 돌을 막기 위해 사용합니다. 좋은 돌 막대기와 크기입니다. 그로보는 당신이 이를 사는 것을 좋아합니다. 됐나요?""
 
@@ -25950,12 +25954,16 @@ area066,git,StoreList/2/StoreList/0/ItemList/5/LocalizedName,0,그로보 숨기
 area066,git,StoreList/2/StoreList/0/ItemList/5/Description,0,"피치: ""그로보는 큰 눈을 가진 큰 생물의 피부로 장갑을 만든다! 큰 치아! 큰 발! 큰 손! 큰, 큰, 큰 구슬! 큰 구슬! 큰 구슬!"" 이 장갑은 벤히의 익스프레스의 그로보에서 나온다."
 area066,git,StoreList/2/StoreList/0/ItemList/5/DescIdentified,0,"피치: ""그로보는 큰 눈을 가진 큰 생물의 피부로 장갑을 만든다! 큰 치아! 큰 발! 큰 손! 큰, 큰, 큰 구슬! 큰 구슬! 큰 구슬!"" 이 장갑은 벤히의 익스프레스의 그로보에서 나온다."
 area066,git,StoreList/2/StoreList/0/ItemList/6/LocalizedName,0,뱀 물림
-area066,git,StoreList/2/StoreList/0/ItemList/6/Description,0,"피치: ""그로보는 쫌 싫은 느낌이 싫어. 단단한 물건은 뱀 같고, 그로보는 뱀을 싫어해. 뱀은 그로보에게 나쁘다고! 뱀이 그로보를 물어 그로보가 작은 그로보를 구토하게 만들었어. 단단한 물건은 당신에게 좋다고!""
+area066,git,StoreList/2/StoreList/0/ItemList/6/Description,0,"피치:
 
-이 갑옷은 벤히의 특급에서 그로보가 주었다."
-area066,git,StoreList/2/StoreList/0/ItemList/6/DescIdentified,0,"피치: ""그로보는 쫌 싫은 느낌이 싫어. 단단한 물건은 뱀 같고, 그로보는 뱀을 싫어해. 뱀은 그로보에게 나쁘다고! 뱀이 그로보를 물어 그로보가 작은 그로보를 구토하게 만들었어. 단단한 물건은 당신에게 좋다고!""
+""그로보는 끈적한 느낌이 싫어. 딱딱한 건 뱀 같고, 그로보는 뱀이 싫어. 뱀은 그로보한테 못됐어! 그로보를 물어서 작은 그로보한테 토하게 만들었어! 딱딱한 건 몸에 좋아!""
 
-이 갑옷은 벤히의 특급에서 그로보가 주었다."
+이 갑옷은 벤히 특급의 그로보에게서 온 것이다."
+area066,git,StoreList/2/StoreList/0/ItemList/6/DescIdentified,0,"피치:
+
+""그로보는 끈적한 느낌이 싫어. 딱딱한 건 뱀 같고, 그로보는 뱀이 싫어. 뱀은 그로보한테 못됐어! 그로보를 물어서 작은 그로보한테 토하게 만들었어! 딱딱한 건 몸에 좋아!""
+
+이 갑옷은 벤히 특급의 그로보에게서 온 것이다."
 area066,git,StoreList/2/StoreList/0/ItemList/7/LocalizedName,0,석정지
 area066,git,StoreList/2/StoreList/0/ItemList/7/Description,0,"피치: ""그로보는 그로보에게 던지는 돌을 막기 위해 사용합니다. 좋은 돌 막대기와 크기입니다. 그로보는 당신이 이를 사는 것을 좋아합니다. 됐나요?""
 
@@ -26227,7 +26235,7 @@ area066,git,Placeable List/90/Description,0,화분
 area066,git,Placeable List/91/LocName,0,GI_Potted Tree2
 area066,git,Placeable List/91/Description,0,화분
 area066,git,Placeable List/92/LocName,0,멋진 열대조
-area066,git,Placeable List/117/LocName,0,샵 시그인 인
+area066,git,Placeable List/117/LocName,0,상점 간판 여관
 area066,git,Placeable List/118/LocName,0,코일드 켈즈란
 area066,git,Placeable List/118/Description,0,코일드 켈즈란
 area066,git,Placeable List/119/LocName,0,상점 표지 마법
@@ -28338,7 +28346,7 @@ htnew,git,Placeable List/146/LocName,0,잉크와 주황 깃펜
 htnew,git,Placeable List/148/LocName,0,토미스
 htnew,git,Placeable List/149/LocName,0,토미스
 htnew,git,Placeable List/151/LocName,0,묶인 책
-htnew,git,Placeable List/151/ItemList/0/LocalizedName,0,속삭임
+htnew,git,Placeable List/151/ItemList/0/LocalizedName,0,주문 영창
 htnew,git,Placeable List/151/ItemList/0/Description,0,"T E I N C A N T A T T I O N 이 죽은 땅 에서 그러한 조직과 영혼과 결합하는 것을 만드는 데는 몇 가지 요소가 필요할 것입니다. 당신은 그러한 연결을 할 수 있기 전에 몇 가지 사항을 필요로 할 것입니다. 당신은 여섯 달 이상 죽은 시체를 필요로 할 것입니다. 발견되면, 그 특정 시체는 다음을 제거해야합니다: 피부. 눈. 귀. 심장. 신체와 필요한 신체 부위와 함께 처리하는 것은 섬세한 상황이며 신중하게 다루어야합니다. 신체 부위가 시체에서 제거 될 때, 당신은 당신과 당신이 제거하는 신체 부위 사이에 유대감을 만들 것입니다. 이 초기 단계는 당신이 접촉하려고 하는 시체의 영혼과 사이의 연결을 만드는 데 필요한 첫 번째 단계입니다. 피부, 눈, 귀, 심장의 장소에서 연결합니다! ""죽은 사람의 머릿속으로 묶는 것! ""나는 당신의 영혼이 이 땅에서 나와있는 것을 요청합니다. ""내가 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 당신의 영혼이, ""나는 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것,"
 htnew,git,Placeable List/151/ItemList/0/DescIdentified,0,"T E I N C A N T A T T I O N 이 죽은 땅 에서 그러한 조직과 영혼과 결합하는 것을 만드는 데는 몇 가지 요소가 필요할 것입니다. 당신은 그러한 연결을 할 수 있기 전에 몇 가지 사항을 필요로 할 것입니다. 당신은 여섯 달 이상 죽은 시체를 필요로 할 것입니다. 발견되면, 그 특정 시체는 다음을 제거해야합니다: 피부. 눈. 귀. 심장. 신체와 필요한 신체 부위와 함께 처리하는 것은 섬세한 상황이며 신중하게 다루어야합니다. 신체 부위가 시체에서 제거 될 때, 당신은 당신과 당신이 제거하는 신체 부위 사이에 유대감을 만들 것입니다. 이 초기 단계는 당신이 접촉하려고 하는 시체의 영혼과 사이의 연결을 만드는 데 필요한 첫 번째 단계입니다. 피부, 눈, 귀, 심장의 장소에서 연결합니다! ""죽은 사람의 머릿속으로 묶는 것! ""나는 당신의 영혼이 이 땅에서 나와있는 것을 요청합니다. ""내가 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 당신의 영혼이, ""나는 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것,"
 htnew,git,Placeable List/152/LocName,0,묶인 책
@@ -31418,7 +31426,7 @@ module,jrl,Categories/48/EntryList/1/Text,0,"위치: 개인 도서관
 module,jrl,Categories/49/Name,0,동반자: 부록
 module,jrl,Categories/49/EntryList/0/Text,0,"이름: 부록 인종: 인간 성: 여성 계급: 드루이드 당신은 부록을 도와 다르위안을 찾았습니다. 그녀는 다르위안의 할머니를 방문하는 길에 함께 가던 젊은 소녀입니다. 그녀는 당신이 도시를 떠나게 될 경우 여행을 위해 당신과 함께 갈 것을 제안했습니다. 머지않아 미르 숲으로의 여행에 따라, 부록은 모험의 이 특정 부분에서 약간의 도움이 될 수 있습니다. 부록에 연락하려면 로컬 러너스샵에서 암호 번호 7733을 사용하여 메시지를 남겨주세요. 그녀가 당신을 만날 수있는 장소에 대해 그녀에게 메시지를 남깁니다. 그녀는 도착 할 때 당신을 기다리고있을 것입니다. 그리고 출발할 준비가되어 있습니다."
 module,jrl,Categories/49/EntryList/1/Text,0,이름: 부속 인종: 인간 성: 여성 직업: 드루이드 나는 러너의 가게를 통해 부속에게 메시지를 보냈고
-module,jrl,Categories/50/Name,0,동반자: 리스 굿마네
+module,jrl,Categories/50/Name,0,동료: 팔리스 굿메인
 module,jrl,Categories/50/EntryList/0/Text,0,"이름: 팔리스 굿마네 인종: 인간 성: 남성 계급: 전투기 당신은 팔리스 굿마네가 거리에서 일하던 중 웨어포크가 만드레이크 루트에서 데려간 그의 여동생 웬드라를 찾는데 도움을 주었다. 그는 당신이 도시를 떠날 경우 당신과 함께 갈 것을 제안했습니다. 머지않아 미르 숲으로의 여행으로, 팔리스는 당신의 모험의 이 특정 부분에서 약간의 도움이 될 수 있습니다. 팔리스와 연락하려면 엔클라브 부문 내에 있는 러너스 엔드에있는 그의 집에서 그를 방문하십시오."
 module,jrl,Categories/50/EntryList/1/Text,0,이름: 리스 굿마인 레이스: 인간 성: 남성 직업: 전투기: 나는 리스와 대화를 나누었고 리스와 만남 장소에서 만날 것을 요청했습니다. 그는 여행에 몇 가지 물건을 포장하면 그는 거기서 만나게 될 것입니다.
 module,jrl,Categories/51/Name,0,동반자: 샤일라 샤이
@@ -32613,7 +32621,7 @@ ariesring,uti,DescIdentified,0,이 작은 구리 반지는 단순할 수 있을 
 armhe016,uti,LocalizedName,0,잠타 마스크
 armhe016,uti,Description,0,"""말타 의 가면 는 마헤르 우림 에서 온 위대한 마법사 왕자 가 착용 한 것 이다. 또는 전설 은 이렇게 말 한다. 지하 통로 네트워크 내 깊은 곳 에는 이 시원하고 치아와 같은 헬멧 을 발견 하였다. 입었을 때, 사용자의 마음은 마음 에 영향을 끼치기 위해 조직 된 모든 주문으로부터 보호된다!""이 마술적 인 헬멧은 룸 애비뉴에 있는 The Twelve Orbs에서 구입 되었다."
 armhe016,uti,DescIdentified,0,"""말타 의 가면 는 마헤르 우림 에서 온 위대한 마법사 왕자 가 착용 한 것 이다. 또는 전설 은 이렇게 말 한다. 지하 통로 네트워크 내 깊은 곳 에는 이 시원하고 치아와 같은 헬멧 을 발견 하였다. 입었을 때, 사용자의 마음은 마음 에 영향을 끼치기 위해 조직 된 모든 주문으로부터 보호된다!""이 마술적 인 헬멧은 룸 애비뉴에 있는 The Twelve Orbs에서 구입 되었다."
-arraskull,uti,LocalizedName,0,인간 머리골
+arraskull,uti,LocalizedName,0,인간 두개골
 arraskull,uti,Description,0,이 인간의 두개골은 공허한 소켓으로 당신의 눈을 들여다보면서 치아를 니다.
 arraskull,uti,DescIdentified,0,이 인간의 두개골은 공허한 소켓으로 당신의 눈을 들여다보면서 치아를 니다.
 arrowsoffright,uti,LocalizedName,0,공포의 화살
@@ -32806,7 +32814,7 @@ bullhair,uti,DescIdentified,0,황소의 근력을 và 상급 황소의 근력을
 candle002,uti,LocalizedName,0,촛불
 candle002,uti,Description,0,이건 아주 이상하게 생긴 촛불입니다.
 candle002,uti,DescIdentified,0,이건 아주 이상하게 생긴 촛불입니다.
-captain_guardkey,uti,LocalizedName,0,좋은 금 열쇠
+captain_guardkey,uti,LocalizedName,0,고급 금 열쇠
 captain_guardkey,uti,Description,0,순수한 황금 열쇠는 도시 밑에서 세로에서 발견되었습니다.
 captain_guardkey,uti,DescIdentified,0,순수한 황금 열쇠는 도시 밑에서 세로에서 발견되었습니다.
 captainletter,uti,LocalizedName,0,사라지는 편지
@@ -33208,7 +33216,7 @@ dreamsleek,uti,Description,0,이 병에는 향료가 담겨 있습니다.
 dreamsleek,uti,DescIdentified,0,드림 슬리크는 꿈의 바다 동물의 향신료 허브와 가경미하게 섞인 진저 오일의 조합입니다. 적에게 던져지면 깊은 잠에 빠져들게 됩니다. 이 특정 아이템은 로세틸 거리에 위치한 'A Pinch of That'에서 구입되었습니다.
 dropofmolasses,uti,LocalizedName,0,모라시 드롭
 dropofmolasses,uti,DescIdentified,0,이 매라스 드롭은 매우 두꺼워서 천천히 움직입니다. 이는 천천히 움직이는 마법을 부르는 데 알려진 재료입니다.
-durablecollectio,uti,LocalizedName,0,견인형 볼트 컬렉션
+durablecollectio,uti,LocalizedName,0,튼튼한 볼트 묶음
 durablecollectio,uti,Description,0,"피치: ""이 볼트의 가장자리 는 땅콩 과 거북이 껍질 이 섞여 있는 반면, 그 껍질 은 코르미르 의 강하고 내구 한 나무 이다. 비싸지만, 그들은 비행 할 수 있으며, 정말 험난 한 펀치 를 넣을 수 있다. 오그레 를 막아도 찔러서 멀리 떨어져 있을 만큼 충분 하다"". 이 볼트 집합 은 만드라크 루트 에 있는 우즈 앤 더스 (Woods and Goods) 라는 지역 상점에서 만들어졌다."
 durablecollectio,uti,DescIdentified,0,"피치: ""이 볼트의 가장자리 는 땅콩 과 거북이 껍질 이 섞여 있는 반면, 그 껍질 은 코르미르 의 강하고 내구 한 나무 이다. 비싸지만, 그들은 비행 할 수 있으며, 정말 험난 한 펀치 를 넣을 수 있다. 오그레 를 막아도 찔러서 멀리 떨어져 있을 만큼 충분 하다"". 이 볼트 집합 은 만드라크 루트 에 있는 우즈 앤 더스 (Woods and Goods) 라는 지역 상점에서 만들어졌다."
 dust,uti,LocalizedName,0,먼지
@@ -33436,7 +33444,7 @@ hal_armor,uti,DescIdentified,0,이것은 아주 잘 만들어진 가죽 장갑�
 handcraftedarrow,uti,LocalizedName,0,수제 화살
 handcraftedarrow,uti,Description,0,"피치: ""네, 이 화살는 내가 만든 가장 좋은 화살는 아니지만 사냥꾼이나 활을 사용 하는 사람이라면 누구나 잘 할 것 이다. 그 화살는 주위에서 서 있는 사람이라면 누구나 슬픔을 느끼게 될 것 이다!"" ""이 화살 컬렉션은 Mandrake Route에 있는 우즈 앤 더스 (Woods and Goods) 라는 현지 가게에서 만들어졌으며 마법적인 특성이 없다""."
 handcraftedarrow,uti,DescIdentified,0,"피치: ""네, 이 화살는 내가 만든 가장 좋은 화살는 아니지만 사냥꾼이나 활을 사용 하는 사람이라면 누구나 잘 할 것 이다. 그 화살는 주위에서 서 있는 사람이라면 누구나 슬픔을 느끼게 될 것 이다!"" ""이 화살 컬렉션은 Mandrake Route에 있는 우즈 앤 더스 (Woods and Goods) 라는 현지 가게에서 만들어졌으며 마법적인 특성이 없다""."
-handcraftedbolts,uti,LocalizedName,0,손으로 만든
+handcraftedbolts,uti,LocalizedName,0,수제 볼트
 handcraftedbolts,uti,Description,0,"피치: ""이번 컬렉션은 지난 몇 주 동안 조각한 화살에 비해 가장 저렴하다. 이 화살들은 가게에서 손으로 만든 화살들을 위해 사용했던 나무에서 나온다."" 이 화살 컬렉션은 만드라크 루트에 위치한 우즈 앤 더워스라는 현지 가게에서 만들어졌으며, 마법적인 특성이 없습니다."
 handcraftedbolts,uti,DescIdentified,0,"피치: ""이번 컬렉션은 지난 몇 주 동안 조각한 화살에 비해 가장 저렴하다. 이 화살들은 가게에서 손으로 만든 화살들을 위해 사용했던 나무에서 나온다."" 이 화살 컬렉션은 만드라크 루트에 위치한 우즈 앤 더워스라는 현지 가게에서 만들어졌으며, 마법적인 특성이 없습니다."
 hasteletoutfit,uti,LocalizedName,0,하스텔트 의복
@@ -33509,7 +33517,7 @@ hushpuppies,uti,DescIdentified,0,허시 펑프는 마법의 힘을 얻어 타겟
 iceslicer,uti,LocalizedName,0,웨버의 마지막 방어전
 iceslicer,uti,Description,0,"""위버의 마지막 방어""는 방패도 사용할 수 있는 사람들에게만 적합하다. 이제 여러 지역에서 마법으로 엮은 방패들이 널리 사용되고 있다. 적이 가까워지면 전투 중에 캐스팅을 하는 것이 더 쉬워진다! 이 마법으로 엮은 작은 방패는 로세틸 거리의 이 앤 그라는 가게에서 구할 수 있다."
 iceslicer,uti,DescIdentified,0,"""위버의 마지막 방어""는 방패도 사용할 수 있는 사람들에게만 적합하다. 이제 여러 지역에서 마법으로 엮은 방패들이 널리 사용되고 있다. 적이 가까워지면 전투 중에 캐스팅을 하는 것이 더 쉬워진다! 이 마법으로 엮은 작은 방패는 로세틸 거리의 이 앤 그라는 가게에서 구할 수 있다."
-incantation,uti,LocalizedName,0,속삭임
+incantation,uti,LocalizedName,0,주문 영창
 incantation,uti,Description,0,"T E I N C A N T A T T I O N 이 죽은 땅 에서 그러한 조직과 영혼과 결합하는 것을 만드는 데는 몇 가지 요소가 필요할 것입니다. 당신은 그러한 연결을 할 수 있기 전에 몇 가지 사항을 필요로 할 것입니다. 당신은 여섯 달 이상 죽은 시체를 필요로 할 것입니다. 발견되면, 그 특정 시체는 다음을 제거해야합니다: 피부. 눈. 귀. 심장. 신체와 필요한 신체 부위와 함께 처리하는 것은 섬세한 상황이며 신중하게 다루어야합니다. 신체 부위가 시체에서 제거 될 때, 당신은 당신과 당신이 제거하는 신체 부위 사이에 유대감을 만들 것입니다. 이 초기 단계는 당신이 접촉하려고 하는 시체의 영혼과 사이의 연결을 만드는 데 필요한 첫 번째 단계입니다. 피부, 눈, 귀, 심장의 장소에서 연결합니다! ""죽은 사람의 머릿속으로 묶는 것! ""나는 당신의 영혼이 이 땅에서 나와있는 것을 요청합니다. ""내가 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 당신의 영혼이, ""나는 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것,"
 incantation,uti,DescIdentified,0,"T E I N C A N T A T T I O N 이 죽은 땅 에서 그러한 조직과 영혼과 결합하는 것을 만드는 데는 몇 가지 요소가 필요할 것입니다. 당신은 그러한 연결을 할 수 있기 전에 몇 가지 사항을 필요로 할 것입니다. 당신은 여섯 달 이상 죽은 시체를 필요로 할 것입니다. 발견되면, 그 특정 시체는 다음을 제거해야합니다: 피부. 눈. 귀. 심장. 신체와 필요한 신체 부위와 함께 처리하는 것은 섬세한 상황이며 신중하게 다루어야합니다. 신체 부위가 시체에서 제거 될 때, 당신은 당신과 당신이 제거하는 신체 부위 사이에 유대감을 만들 것입니다. 이 초기 단계는 당신이 접촉하려고 하는 시체의 영혼과 사이의 연결을 만드는 데 필요한 첫 번째 단계입니다. 피부, 눈, 귀, 심장의 장소에서 연결합니다! ""죽은 사람의 머릿속으로 묶는 것! ""나는 당신의 영혼이 이 땅에서 나와있는 것을 요청합니다. ""내가 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 당신의 영혼이, ""나는 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 살아있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것, 그리고 당신의 영혼이 있는 것,"
 incenseandivorys,uti,LocalizedName,0,향신료 와 코끼리 줄무늬
@@ -33519,7 +33527,7 @@ insecurerelease,uti,Description,0,이 화살이 손에서 찔리듯이 느껴진
 insecurerelease,uti,DescIdentified,0,"안전하지 않은 해제 볼트가 잠겨 있는 물체를 대상으로 할 때, 볼트에 부착된 마법이 잠금을 열 수 있습니다. 이 특정 아이템은 빌라의 거리 상인에서 구입되었습니다."
 irenablood,uti,LocalizedName,0,아이레나의 혈액 샘플
 irenablood,uti,DescIdentified,0,"이 혈액 샘플은 아이레나의 침실 내부에서 발견된 혈액에서 얻은 것입니다. 특정 각도에서 보면, 혈액이 독소가 주입된 녹색으로 변합니다."
-it_contain007,uti,LocalizedName,0,반응기 가방
+it_contain007,uti,LocalizedName,0,시약 주머니
 it_contain007,uti,Description,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 it_contain007,uti,DescIdentified,0,여행에 함께 가져온 재료를 담은 가방은 허리 주위에 착용한 고급 제작된 물증오가 높은 천연단계 가방입니다.
 it_creitem007,uti,LocalizedName,0,그림자/악령/알립/망령 속성
@@ -34325,7 +34333,7 @@ tubofwater,uti,LocalizedName,0,소형 물 용기
 tubofwater,uti,Description,0,이것은 작은 바다의 수분 용기입니다.
 tubofwater,uti,DescIdentified,0,이것은 작은 바다의 수분 용기입니다.
 unholyreliquary,uti,LocalizedName,0,불성스러운 유물기지
-unholyreliquary,uti,DescIdentified,0,부정한 오라한테 쓰였어
+unholyreliquary,uti,DescIdentified,0,부정한 오라에 쓰인다.
 unuwenarmor,uti,LocalizedName,0,유우언의 갑옷
 unuwenarmor,uti,Description,0,"이 갑옷은 유누벤, 당신의 소환된 개인 비서로부터 옵니다. 이 갑옷은 당신에게 도움이 되지 않습니다. 왜냐하면 그것은 유누벤이 살아있는 땅을 떠날 때 입었던 것의 투영일 뿐이기 때문입니다."
 unuwenarmor,uti,DescIdentified,0,"이 갑옷은 유누벤, 당신의 소환된 개인 비서로부터 옵니다. 이 갑옷은 당신에게 도움이 되지 않습니다. 왜냐하면 그것은 유누벤이 살아있는 땅을 떠날 때 입었던 것의 투영일 뿐이기 때문입니다."
@@ -34405,8 +34413,8 @@ woodsqletter,uti,DescIdentified,0,이것은 맨드라크 노선의 우즈 앤 �
 wool,uti,LocalizedName,0,양털
 wool,uti,Description,0,0 레벨의 대즈 마법을 위해 필요한 작은 양털 조각.
 wool,uti,DescIdentified,0,0 레벨의 대즈 마법을 위해 필요한 작은 양털 조각.
-workingapron,uti,LocalizedName,0,일용 프론
-workingapron001,uti,LocalizedName,0,일용 프론
+workingapron,uti,LocalizedName,0,작업용 앞치마
+workingapron001,uti,LocalizedName,0,작업용 앞치마
 wswdg003,uti,LocalizedName,0,아우렌 사회 단검
 wswdg003,uti,Description,0,이 칼은 손에 들고 있을 때 매우 가볍습니다. 이 칼은 이상한 모양의 금속으로 조각되어 있어 가장자리가 깎이 날카로운 상태로 유지됩니다.
 wswdg003,uti,DescIdentified,0,이 칼은 손에 들고 있을 때 매우 가볍습니다. 이 칼은 이상한 모양의 금속으로 조각되어 있어 가장자리가 깎이 날카로운 상태로 유지됩니다.
@@ -34746,7 +34754,7 @@ hangingclothe001,utp,LocName,0,유리 릴리
 hangingclothe002,utp,LocName,0,옷을 걸어두고 있는 것
 hangingclothe003,utp,LocName,0,옷을 올바르게 걸어두는 것
 hangingclothe004,utp,LocName,0,그릴 크로스
-hangingclothe005,utp,LocName,0,글라스 루즈
+hangingclothe005,utp,LocName,0,유리 장미
 hangingclothes,utp,LocName,0,옷을 걸치고 있는 것
 hard_chest005,utp,LocName,0,목재궤짝
 hard_chest005,utp,Description,0,"이 상자에는 가벼운 먼지 층이 덮여 있고, 여전히 다른 사람의 표지판이 있습니다."
@@ -35092,7 +35100,7 @@ shopsign002,utp,LocName,0,상점 간판 꽃
 shopsign003,utp,LocName,0,상점 표지판 필경사
 shopsign004,utp,LocName,0,선술집 간판
 shopsign005,utp,LocName,0,상점 표기 파운
-shopsign006,utp,LocName,0,샵 시그인 인
+shopsign006,utp,LocName,0,상점 간판 여관
 shopsign007,utp,LocName,0,상점 표지 재료
 shopsign008,utp,LocName,0,상점 간판
 shopsign009,utp,LocName,0,상점 표지판 거래사

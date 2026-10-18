@@ -113,9 +113,9 @@ boltsofdivine,uti,Description,0,-1,이 볼트에는 종교적인 상징이 새�
 boltsofdivine,uti,LocalizedName,0,13882,신의 분노 쇠뇌화살
 boltsofmighty,uti,DescIdentified,0,13881,이 볼트는 신들의 축복으로 죽은 자들에 대한 복수를 할 수 있게 되었습니다.
 boltsofmighty,uti,Description,0,-1,손에서 뛰는 쇠뇌화살
-boltsofmighty,uti,LocalizedName,0,13882,강력 한 분노 의 발자국
+boltsofmighty,uti,LocalizedName,0,13882,강력한 분노의 볼트
 boltsofsapping,uti,DescIdentified,0,13881,"각 볼트는 고대 룬으로 마크되어 있습니다. 볼트가 맞을 때, 그것이 희생자의 힘을 빼앗는 것 같습니다."
-boltsofsapping,uti,LocalizedName,0,13882,톱니의 톱니
+boltsofsapping,uti,LocalizedName,0,13882,약화의 볼트
 bookofhealers,uti,DescIdentified,0,-1,"이 책은 팁, 트릭, 치료법, 오래된 항문의 지식으로 가득 차 있다. 다행히 마법의 특성 덕분에 몇 페이지 이상 스캔하면 모든 지식이 독자의 머리에 영원히 전달되며, 그 시점에서 책은 먼지로 붕괴된다. <c ÿÿ>단독 사용, 영구적인 +2 치유 보너스.<cÿÿÿ>"
 bookofhealers,uti,LocalizedName,0,13027,치유자의 책
 bookoflies,uti,DescIdentified,0,-1,"이 놀라운 책은 반 진실과 속임수로 가득 차 있으며, 그 내용은 매우 설득력이 있습니다. 이 책의 마법적인 성질 때문에 몇 페이지 이상을 스캔하면 독자는 영구적으로 +2 블러프 보너스를 얻게 됩니다. 이 시점에서 책은 먼지로 변해버립니다. <c ÿÿ>단일 사용, 영구적 +2 블러프 보너스.<cÿÿÿ>"
@@ -150,7 +150,7 @@ bsoulsucker,uti,DescIdentified,0,-1,"이 도끼는 강력한 매력을 가지고
 bsoulsucker,uti,LocalizedName,0,-1,"전투도끼 +1, 영혼흡수"
 bsoulsucker3,uti,DescIdentified,0,-1,"이 칼은 강력한 마법으로 가득 차 있으며, 적을 공격할 때 적의 영혼의 일부가 무기에 끌려들어와 재앙적인 피해 (+2-24)를 입히고 5의 체력 회복을 차감합니다. 칼은 적의 영혼을 빨 때마다 1개의 충전을 소비합니다."
 bsoulsucker3,uti,Description,0,-1,이상한 모양의 은빛 빗살무늬가 있는 검집검.
-bsoulsucker3,uti,LocalizedName,0,-1,"칼 +2, 소울 사커"
+bsoulsucker3,uti,LocalizedName,0,-1,"단검 +2, 영혼흡수자"
 caladneisgift,uti,DescIdentified,0,-1,이 막대기는 마녀왕의 힘을 저항하는 데 도움이 될 것입니다.
 caladneisgift,uti,LocalizedName,0,-1,칼라드니의 선물
 carnage,uti,DescIdentified,0,-1,이 비참한 외모의 은 무섭게 마법을 감추고 있어 을 때 놀라운 속도를 부여합니다.
@@ -346,7 +346,7 @@ fightingbrew,uti,LocalizedName,0,13441,브루 싸우기
 finechainmail,uti,DescIdentified,0,-1,잘 만들어진 체인메일은 겉보기보다 훨씬 덜 무겁습니다.
 finechainmail,uti,LocalizedName,0,-1,좋은 사슬갑옷
 fineplatemail,uti,DescIdentified,0,-1,"미세하게 제작된 판금 갑옷, 무게가 줄어들었다."
-fineplatemail,uti,LocalizedName,0,-1,얇은 접시
+fineplatemail,uti,LocalizedName,0,-1,고급 접시
 firecape,uti,DescIdentified,0,66552,"이 아름답고 목걸이 된 이복 은 부드러운 물질 으로 만들어져 있으며, 밝은 색 으로 염색 되어 있다. 이복 은 촉각 에 따뜻 하게 느껴지고, 이복 을 닦는 숨겨진 힘 을 부인 한다. 다섯 번 이면, 착용 하는 자 는 적 들 을 타격 하기 위해 불꽃 을 불러올 수 있어, 그 다음 이복 은 쓸모 없게 된다."
 firecape,uti,Description,0,-1,부드러운 물질 으로 만든 아름다운 목걸이 뚜 이 빛나는 색 으로 염색 되어 있습니다.
 firecape,uti,LocalizedName,0,66551,화염봉
@@ -1011,7 +1011,7 @@ silverknife,uti,LocalizedName,0,-1,은날개
 silvermirror,uti,DescIdentified,0,-1,"이 거울은 반사하지 않고, 대신 완벽한 은빛을 뽐낸다."
 silvermirror,uti,LocalizedName,0,-1,은색 거울
 silvertradebar,uti,DescIdentified,0,48895,이것은 큰 금액을 나타내는 실버 트레이드 바입니다. 코르미르와 다른 국가에서 상인들이 코르미리아 화폐를 가지고 있지 않은 경우 종종 무역 바를 사용합니다.
-silvertradebar,uti,LocalizedName,0,48893,실버 거래소
+silvertradebar,uti,LocalizedName,0,48893,교역용 은괴
 skillstone,uti,DescIdentified,0,-1,"Relics of an ancient time, 이러한 돌들은 아이템에 덕목을 부여할 수 있습니다. 결과는 예측 불가능하며 때로는 해롭게까지 될 수 있지만, 제작 능력을 갖춘 자들의 손에서는 더 신뢰할 수 있습니다.
 
 <c ÿÿ>Use: 이 효과를 받기 원하는 아이템에 사용합니다.<cÿÿÿ>"
@@ -1157,7 +1157,7 @@ vampiricdarts,uti,LocalizedName,0,-1,뱀파이어 칼라반
 vialofdexterit,uti,DescIdentified,0,-1,"이 포션은 작은 양만을 포함하며, 마시는 사람의 민첩성을 영원히 증가시킵니다."
 vialofdexterit,uti,LocalizedName,0,-1,민첩의 병
 vialofstrength,uti,DescIdentified,0,-1,"이 포션은 가장 작은 마시는 양만을 포함하며, 마신 사람의 힘을 영원히 증가시킵니다."
-vialofstrength,uti,LocalizedName,0,-1,힘 을 주는 병
+vialofstrength,uti,LocalizedName,0,-1,힘의 약병
 vialofwisdom,uti,DescIdentified,0,-1,"이 포션은 가장 작은 한 잔만을 포함하며, 마신 사람의 지혜를 영원히 높일 것입니다."
 vialofwisdom,uti,LocalizedName,0,-1,지혜의 병
 wandererscloak,uti,DescIdentified,0,-1,"이 찢어진 옷 은 여행 에 걸린 흠 이 있고 착용 된 것 이다. 하지만 어떤 면 에서 이 옷 은 실제로 이렇게 만들어졌다고 보인 것 이다. 옷 을 착용 할 때, 놀랍도록 따뜻 하고, 보호 와 행복 의 느낌 이 착용자 를 감싸게 된다."

@@ -648,7 +648,7 @@ nelad_1,dlg,EntryList/21/Text,0,"""그 놈은 오만한 자만한 사람 뿐이�
 nelad_1,dlg,EntryList/22/Text,0,"""사령관?"""
 nelad_1,dlg,EntryList/23/Text,0,"""당신의 뜻대로, 지휘관."""
 nelad_1,dlg,ReplyList/0/Text,0,"""아니, 내가 돌아와서 널 데려가기 전까지 여기 있어."""
-nelad_1,dlg,ReplyList/1/Text,0,"""네라드, 따라와, 시간 낭비가 없어""."
+nelad_1,dlg,ReplyList/1/Text,0,"""따라와, 넬라드. 낭비할 시간 없어."""
 nelad_1,dlg,ReplyList/3/Text,0,"""우리는 여기서 갈라져야 한다."""
 nelad_1,dlg,ReplyList/4/Text,0,"""미안해. 다시 생각해봤어. 잊어."""
 nelad_1,dlg,ReplyList/5/Text,0,"""예, 지금은 당신의 도움이 필요 없어요."""
@@ -799,7 +799,7 @@ ormus_1,dlg,ReplyList/4/Text,0,"""아쉽군. 다른 길이 있나?"""
 ormus_1,dlg,ReplyList/6/Text,0,"""내 이름은 <FullName>입니다. 이 곳에서 혼자인 것 같아요. 당신은 누구신가요?"""
 piwiewien_1,dlg,EntryList/0/Text,0,"<StartAction> [자부심을 가지고 당신을 조사] </Start> ""나는 당신이 좋은 휴식을 있었으면 좋겠다, 지휘관 <LastName>""."
 piwiewien_1,dlg,EntryList/1/Text,0,"<StartAction>[중심되는 것]</Start> ""비전이야? 더 말해봐."""
-piwiewien_1,dlg,EntryList/2/Text,0,"<StartAction>[불태리게 되는 것]</Start>""내게 말해, 내가 중요한 것과 그렇지 않은 것을 결정할 것이다!"""
+piwiewien_1,dlg,EntryList/2/Text,0,"<StartAction>[초조해한다]</Start>""말해라, 무엇이 중요하고 무엇이 아닌지는 내가 정한다!"""
 piwiewien_1,dlg,EntryList/3/Text,0,"<StartAction>[눈이 넓혀지는]</Start> ""우리 여신... ?"""
 piwiewien_1,dlg,EntryList/4/Text,0,"""그러므로 이런 소치로 괴롭히지 마. 중요한 일이 있어."""
 piwiewien_1,dlg,EntryList/5/Text,0,"""네 주변을 탐험해 보길 바래. 표면으로 나가는 출구가 가까이 있을 것 같아."""
@@ -1147,10 +1147,10 @@ battlesite001,git,Creature List/9/FirstName,0,해골 전사
 battlesite001,git,Creature List/9/Description,0,죽은 자들의 뼈가 암흑 마술에 의해 움직이게 된 해골들은 스스로의 의식이 없습니다. 그들은 주인의 의지의 확장일 뿐입니다.
 battlesite001,git,Creature List/10/FirstName,0,해골 전사
 battlesite001,git,Creature List/10/Description,0,죽은 자들의 뼈가 암흑 마술에 의해 움직이게 된 해골들은 스스로의 의식이 없습니다. 그들은 주인의 의지의 확장일 뿐입니다.
-battlesite001,git,Encounter List/1/LocalizedName,0,무사 스켈
-battlesite001,git,Encounter List/2/LocalizedName,0,무사 스켈
-battlesite001,git,Encounter List/3/LocalizedName,0,무사 스켈
-battlesite001,git,Encounter List/4/LocalizedName,0,무사 스켈
+battlesite001,git,Encounter List/1/LocalizedName,0,언데드 해골들
+battlesite001,git,Encounter List/2/LocalizedName,0,언데드 해골들
+battlesite001,git,Encounter List/3/LocalizedName,0,언데드 해골들
+battlesite001,git,Encounter List/4/LocalizedName,0,언데드 해골들
 battlesite001,git,Encounter List/5/LocalizedName,0,모그 스킴
 battlesite001,git,Encounter List/6/LocalizedName,0,모그 스킴
 battlesite001,git,TriggerList/0/LocalizedName,0,시움사르코파고스
@@ -3298,7 +3298,7 @@ hulkambush,ute,LocalizedName,0,헐크 함정
 mohrgspawn,ute,LocalizedName,0,모그 스킴
 spiderspawnin,ute,LocalizedName,0,스파이더 스폰
 summonedearthele,ute,LocalizedName,0,소환된 대지 원소 정령
-undeadall001,ute,LocalizedName,0,무사 스켈
+undeadall001,ute,LocalizedName,0,언데드 해골들
 warcommander,ute,LocalizedName,0,전쟁 사령관
 aarcl013,uti,LocalizedName,0,사슬 상의
 ability,uti,LocalizedName,0,마법적인 능력

@@ -3230,7 +3230,7 @@ loktorch,dlg,EntryList/2/Text,0,불을 끄다
 loktorch,dlg,ReplyList/0/Text,0,- 그만해
 loktorch,dlg,ReplyList/1/Text,0,불을 가져라
 loktorch,dlg,ReplyList/2/Text,0,불꽃을 켜
-loktorch,dlg,ReplyList/3/Text,0,불꽃을 끄세요
+loktorch,dlg,ReplyList/3/Text,0,횃불을 끈다
 merchant_forest,dlg,EntryList/0/Text,0,다시 오신 분이군요?
 merchant_forest,dlg,EntryList/2/Text,0,"<StartAction>상인은 잠시 머리를 긁고 당신이 말한 것에 대해 생각해보는 중이었다.</Start> 이상하게도... 제 아들은 자발적으로 그 반지를 놓치지 않을 거예요. 그렇게 쉽게 떠나지 않으니까요. 그래도 당신이 반지를 가져와줘서 감사합니다. 그만 돌아오길 바라죠.
 
@@ -3520,7 +3520,7 @@ t1_crystal_wall,dlg,ReplyList/2/Text,0,- 아니
 t1_crystal_wall,dlg,ReplyList/3/Text,0,그래.
 t1_crystal_wall,dlg,ReplyList/4/Text,0,끝...
 t_1_altardud,dlg,EntryList/0/Text,0,<StartAction> 그 힘은 마쳤어야 합니다. </Start>
-t_1_holywater,dlg,EntryList/0/Text,0,성수역.
+t_1_holywater,dlg,EntryList/0/Text,0,성수 그릇.
 t_1_lostwoman,dlg,EntryList/0/Text,0,나는 가고 있어. 안녕!
 t_1_lostwoman,dlg,EntryList/2/Text,0,"<StartAction> 그 여자가 네 안을 들여다보고 있는 것처럼 보이지만, 잠시 후에 그녀는 돌아서서 성전을 떠난다.</Start>"
 t_1_lostwoman,dlg,EntryList/3/Text,0,"""나는 내 여동생 칼란드라를 찾고 있어. 어제 밤 근처 숲에서 사라졌어. 나디아의 도움으로 그녀를 찾고 있지만, 최악의 일이 일어날까 봐 두려워."""
@@ -3817,7 +3817,7 @@ area,git,Placeable List/43/LocName,0,크림슨 단단한 벽
 area,git,Placeable List/44/LocName,0,크림슨 단단한 벽
 area,git,Placeable List/45/LocName,0,수정 벽
 area,git,Placeable List/45/Description,0,코콘의 중심핵을 둘러싸고 있는 벽돌 같은 웹 덩어리입니다.
-area,git,Placeable List/46/LocName,0,크림슨 벽
+area,git,Placeable List/46/LocName,0,진홍빛 벽
 area,git,Placeable List/93/LocName,0,빛나는궤짝
 area,git,Placeable List/93/Description,0,철로 묶여서 무거운 잠금으로 묶인 이 무거운 상자 는 분명 가치 있는 무언가를 보호하기 위한 것이었다.
 area,git,Placeable List/94/LocName,0,고무 붙이
@@ -3829,7 +3829,7 @@ area,git,Placeable List/97/LocName,0,보라색 반짝임
 area,git,Placeable List/97/Description,0,녹색 스파크가 추운 밤 공기에서 윙즈처럼 지상에서 올라온다.
 area,git,Placeable List/98/LocName,0,보라색 반짝임
 area,git,Placeable List/98/Description,0,녹색 스파크가 추운 밤 공기에서 윙즈처럼 지상에서 올라온다.
-area,git,Placeable List/99/LocName,0,크림슨 벽
+area,git,Placeable List/99/LocName,0,진홍빛 벽
 area,git,Placeable List/100/LocName,0,크림슨 단단한 벽
 area,git,Placeable List/101/LocName,0,크림슨 단단한 벽
 area,git,Placeable List/102/LocName,0,크림슨 단단한 벽
@@ -5319,7 +5319,7 @@ area006,git,Placeable List/11/LocName,0,목소리들
 area006,git,Placeable List/11/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 area006,git,Placeable List/12/ItemList/3/LocalizedName,0,회상 물약
 area006,git,Placeable List/12/ItemList/3/DescIdentified,0,레벨 시작점으로 빠르게 돌아가는 데 사용됩니다.
-area006,git,Placeable List/13/ItemList/3/LocalizedName,0,마법 로켓 스틱
+area006,git,Placeable List/13/ItemList/3/LocalizedName,0,마법 화살 마법봉
 area006,git,Placeable List/13/ItemList/4/LocalizedName,0,회상 물약
 area006,git,Placeable List/13/ItemList/4/DescIdentified,0,레벨 시작점으로 빠르게 돌아가는 데 사용됩니다.
 area006,git,Placeable List/14/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
@@ -5764,7 +5764,7 @@ area006,git,Placeable List/477/LocName,0,귀환 차원문
 area006,git,Placeable List/477/Description,0,앞에 당신은 부드럽게 빛나는 포털이 있습니다. 어디로 연결되는지 궁금합니다.
 area006,git,Placeable List/478/LocName,0,에메랄드 수정 벽
 area006,git,Placeable List/478/Description,0,"녹색 수정 벽은 고대 마법에 의해 묶여 있으며, 그 표면은 왕국보다 더 오래된 힘으로 진동하고 있습니다. 적절한 유물만이 그 벽을 깨는 것을 희망할 수 있습니다."
-area006,git,Placeable List/479/LocName,0,아저루 가디언
+area006,git,Placeable List/479/LocName,0,하늘빛 수호자
 area006,git,Placeable List/480/LocName,0,성의 단단한 성벽
 area006,git,Placeable List/481/LocName,0,성의 단단한 성벽
 area006,git,Placeable List/482/LocName,0,성의 단단한 성벽
@@ -6076,24 +6076,24 @@ area008,git,Creature List/5/FirstName,0,화염 살만더
 area008,git,Creature List/5/Description,0,"불의 차원은 많은 이상한 생물들이 살고 있으며, 그 중에서도 무서운 살만더 군대가 있다. 뱀처럼 생긴 몸집을 가진 살만더는 초자연적인 열로 빛나는 금속 도시에 거주한다.
 
 살만더는 근육이 발달한 빨간색과 검은색으로 둥글게 둘러진 팔과 땅집게처럼 날카로운 얼굴을 가진 원소 정령이다. 이들은 이기적이고 잔인하며, 다른 사람들을 괴롭히는 것을 즐긴다. 그들은 거의 항상 뜨거운 금속 창을 들고 있으며, 때로는 다른 무기를 사용하기도 한다."
-area008,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,불타는 긴장검
-area008,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,불타는 긴장검
+area008,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,화염 장창
+area008,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,화염 장창
 area008,git,Creature List/5/Equip_ItemList/4/LocalizedName,0,노블파이어SalamanderTail
 area008,git,Creature List/5/Equip_ItemList/5/LocalizedName,0,화염살랑기
 area008,git,Creature List/6/FirstName,0,화염 살만더
 area008,git,Creature List/6/Description,0,"불의 차원은 많은 이상한 생물들이 살고 있으며, 그 중에서도 무서운 살만더 군대가 있다. 뱀처럼 생긴 몸집을 가진 살만더는 초자연적인 열로 빛나는 금속 도시에 거주한다.
 
 살만더는 근육이 발달한 빨간색과 검은색으로 둥글게 둘러진 팔과 땅집게처럼 날카로운 얼굴을 가진 원소 정령이다. 이들은 이기적이고 잔인하며, 다른 사람들을 괴롭히는 것을 즐긴다. 그들은 거의 항상 뜨거운 금속 창을 들고 있으며, 때로는 다른 무기를 사용하기도 한다."
-area008,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,불타는 긴장검
-area008,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,불타는 긴장검
+area008,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,화염 장창
+area008,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,화염 장창
 area008,git,Creature List/6/Equip_ItemList/4/LocalizedName,0,노블파이어SalamanderTail
 area008,git,Creature List/6/Equip_ItemList/5/LocalizedName,0,화염살랑기
 area008,git,Creature List/7/FirstName,0,화염 살만더
 area008,git,Creature List/7/Description,0,"불의 차원은 많은 이상한 생물들이 살고 있으며, 그 중에서도 무서운 살만더 군대가 있다. 뱀처럼 생긴 몸집을 가진 살만더는 초자연적인 열로 빛나는 금속 도시에 거주한다.
 
 살만더는 근육이 발달한 빨간색과 검은색으로 둥글게 둘러진 팔과 땅집게처럼 날카로운 얼굴을 가진 원소 정령이다. 이들은 이기적이고 잔인하며, 다른 사람들을 괴롭히는 것을 즐긴다. 그들은 거의 항상 뜨거운 금속 창을 들고 있으며, 때로는 다른 무기를 사용하기도 한다."
-area008,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,불타는 긴장검
-area008,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,불타는 긴장검
+area008,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,화염 장창
+area008,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,화염 장창
 area008,git,Creature List/7/Equip_ItemList/4/LocalizedName,0,노블파이어SalamanderTail
 area008,git,Creature List/7/Equip_ItemList/5/LocalizedName,0,화염살랑기
 area008,git,Creature List/10/FirstName,0,드란의 하인
@@ -9227,16 +9227,16 @@ dmforest_north,git,Placeable List/238/LocName,0,램프 4b
 dmforest_north,git,Placeable List/239/LocName,0,램프 4b
 dmforest_north,git,Placeable List/240/LocName,0,램프 4b
 dmforest_north,git,Placeable List/241/LocName,0,램프 4b
-dmforest_north,git,Placeable List/242/LocName,0,묘지 모스
-dmforest_north,git,Placeable List/242/ItemList/0/LocalizedName,0,묘지 모스
+dmforest_north,git,Placeable List/242/LocName,0,묘지 이끼
+dmforest_north,git,Placeable List/242/ItemList/0/LocalizedName,0,묘지 이끼
 dmforest_north,git,Placeable List/242/ItemList/0/Description,0,단순하지만 잘 제작된 리라.
 dmforest_north,git,Placeable List/242/ItemList/0/DescIdentified,0,"일 년 내내 색의 무지개를 제공하며, 푸른 녹색 잎은 봄에 보라색-붉은 색으로 염색되며, 여름에는 잎이 자르고 가을에는 오렌지색으로 변합니다."
-dmforest_north,git,Placeable List/243/LocName,0,묘지 모스
-dmforest_north,git,Placeable List/244/LocName,0,묘지 모스
-dmforest_north,git,Placeable List/245/LocName,0,묘지 모스
-dmforest_north,git,Placeable List/246/LocName,0,묘지 모스
-dmforest_north,git,Placeable List/247/LocName,0,묘지 모스
-dmforest_north,git,Placeable List/248/LocName,0,묘지 모스
+dmforest_north,git,Placeable List/243/LocName,0,묘지 이끼
+dmforest_north,git,Placeable List/244/LocName,0,묘지 이끼
+dmforest_north,git,Placeable List/245/LocName,0,묘지 이끼
+dmforest_north,git,Placeable List/246/LocName,0,묘지 이끼
+dmforest_north,git,Placeable List/247/LocName,0,묘지 이끼
+dmforest_north,git,Placeable List/248/LocName,0,묘지 이끼
 dmforest_north,git,Placeable List/259/LocName,0,알 수 없는 무덤
 dmforest_north,git,Placeable List/259/Description,0,당신은 알 수 없음 투사의 무덤을 찾았어요.
 dmforest_north,git,Placeable List/259/ItemList/1/LocalizedName,0,썩은 가죽 갑옷
@@ -14099,7 +14099,7 @@ thedarkmoonfores,git,List/1/DescIdentified,0,이 무기의 칼은 으로 부패�
 thedarkmoonfores,git,List/2/LocalizedName,0,웬티 켈소 저널의 한 페이지
 thedarkmoonfores,git,List/2/DescIdentified,0,"이것은 일기에서 찢어진 내용이다. ""암흑달 숲 지역에서 악행이 발생하고, 얕은 무덤에 인류 유골이 있는 이상한 예언을 봤다. 이는 우연일 수 없으므로, 더욱 조사해야 한다."""
 thedarkmoonfores,git,StoreList/0/LocName,0,무기 및 방어구 상점
-thedarkmoonfores,git,StoreList/0/StoreList/1/ItemList/112/LocalizedName,0,드워프 제 전투도끼의 불 +1
+thedarkmoonfores,git,StoreList/0/StoreList/1/ItemList/112/LocalizedName,0,불의 드워프 전투도끼 +1
 thedarkmoonfores,git,StoreList/2/LocName,0,무기 및 방어구 상점
 thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/53/LocalizedName,0,막강한 장궁 +6
 thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/54/LocalizedName,0,원닐론의 크로스보 + 2
@@ -14475,7 +14475,7 @@ module,jrl,Categories/6/EntryList/1/Text,0,로렐이 Gypsy 캠프에서 필요�
 module,jrl,Categories/6/EntryList/2/Text,0,로렐이 Gypsy 캠프에서 필요로 하는 3가지 재료 중 2개를 찾았습니다.
 module,jrl,Categories/6/EntryList/3/Text,0,로렐이 원했던 세 가지 재료들을 모두 찾아냈어 로렐에게 돌아가
 module,jrl,Categories/6/EntryList/4/Text,0,당신은 Gypsy 캠프에서 로렐에게 드문 재료 3개를 찾는데 도움을 주었습니다.
-module,jrl,Categories/7/Name,0,묘지 모스
+module,jrl,Categories/7/Name,0,묘지 이끼
 module,jrl,Categories/7/EntryList/0/Text,0,당신은 묘지 모시를 찾았어요. 로렐이 Gypsy 캠프에서 필요로 하는 세 가지 재료 중 하나죠.
 module,jrl,Categories/8/Name,0,녹색 수정 망치
 module,jrl,Categories/8/EntryList/0/Text,0,당신은 녹색 수정 해머를 찾았습니다. 해머를 신전으로 가져가서 녹색 수정 벽을 열기 위해 사용하세요.
@@ -14681,7 +14681,7 @@ module,jrl,Categories/42/EntryList/0/Text,0,"359번지 입력: 일부 마을 주
 module,jrl,Categories/42/EntryList/1/Text,0,"JOURNAL ENTRY 378 제 시야에 있는 권좌의 역사와 위치에 대한 발견은 제 최신 조사입니다. 그것은 드로우의 유물인 것 같고, 매우 학문적 가치가 있어야 합니다. 제 첫 번째 임무는 토르자크 마을을 추적하는 것입니다. JOURNAL ENTRY 359 공격에 용기를 부여한 일부 마을 사람들은 드로우에 돌을 던졌습니다. 대부분은 크게 날아갔습니다. 그러나 한 돌이 그의 턱을 깎았습니다. 드로우는 천천히 장갑 손가락을 깎아 넘었다. 그는 그의 손에 내려다보고 자신의 피의 한 방울을 보았다. 미친 눈은 증오로 불타고 있었다. 나는 저항하지 않았다! 마을을 둘러싼 숲에서 무력한 무장군들이 모여들었습니다. 암울한 여자들은 광적으로 모여들기 시작했고, 일부의 무장들이 다른 턱을 깎아 죽었습니다. 그러나 다른 마을의 군수들은 그의 머리를 깎아 내버려두고, 다른 마을의 군수들과 싸우기 위해 노력했습니다. 그러나 이 시야는 여전히 파괴되었습니다. 그러나 이 시야의 다른 단 한 번은 그의 머리를 깎아 내리고 있습니다."
 module,jrl,Categories/42/EntryList/2/Text,0,"JOURNAL ENTRY 381 내 비전을 검토 한 후, 내가 본 마을은 워터디프 근처 어딘가에 있을 수 있다고 믿는다. 내 비전의 왕관의 위치에 대한 발견은 나의 최신 조사입니다. 그것은 도택 지붕에 있는 톱니가 몇 년 전에 도시의 북쪽에 있는 가난한 마을에 일반적인 유형입니다. 동쪽과 북쪽의 하천에 있는 벽돌의 흙의 색이 일반적입니다. 도시 기록은 마을의 위치에 대해 약간의 빛을 흘려 줄 수 있습니다. JOURNAL ENTRY 378 내 비전의 왕관의 위치에 대한 발견은 나의 최신 조사입니다. 그것은 도어의 유물처럼 보입니다. 그리고 큰 학문적 가치가 있어야합니다. 내 첫 번째 임무는 도어의 마을을 추적하는 것입니다. JOURNAL ENTRY 359 마을 주민들은 도어와 동기를 얻었습니다. 일부 전사들이 도자크에 날려서 도자크에 날아다. 일부 전사들은 도자크에 폭격했습니다."
 module,jrl,Categories/43/Name,0,웬티 켈소 의 잃어버린 저널
-module,jrl,Categories/43/EntryList/0/Text,0,"켈벤은 또한 외향적인 학자이자 자신을 ""명확한 고고학자""로 묘사한 웬틀리 켈소 (Wently Kelso) 가 작성한 저널 항목의 번역된 선택지를 전달했습니다."
+module,jrl,Categories/43/EntryList/0/Text,0,"켈벤은 또한 괴짜 학자이자 스스로 ""유명한 고고학자""라 칭하는 웬틀리 켈소가 쓴 일지 몇 편을 필사해 보내왔습니다."
 module,jrl,Categories/43/EntryList/1/Text,0,"357 숲 속에 어두운 구름이 낀 날씨 속에 조용한 마을이 있었다. 찢어진 옷을 입은 농부들이 마을을 돌아다니며 재화를 팔고, 이야기를 나누며 좁은 흙길을 걸어다니고 있었다. 은 별이 장식된 파란 드레스를 입은 여인은 마을 광장 한쪽에서 농부들과 이야기하고 있었다."
 module,jrl,Categories/43/EntryList/2/Text,0,"358 도마을 외곽의 숲에서 어두운 인물이 위치로 이동했습니다. 나무 가장자리에서, 옷차림 인물이 천천히 마을 광장 쪽으로 이동했습니다. 광장에서, 그것은 음료를 잘라주는 낮은 구조를 장착했습니다. 장갑 손에, 인물이 빛나는 왕봉을 쥐고 있었다. 토르자크 시민, 그는 선언했습니다. 이제 들어요! 농민들은 스피커를 향해 돌리면서 자기 자신에게 습니다. 몇몇은 더 가까이 이동했습니다. 몇 명이 물러났다. 이 시간 이후부터 나는 당신의 새로운 통치자입니다! 난 미사일을 허용하지 않을 것입니다! 일부 시민들은 공개적으로 웃었다. 다른 사람들은 그에게 맹세했습니다. 많은 사람들이 그냥 걸어 갔다. 한 장갑을 던질 수 있습니다. 그리고 그 장갑을 던질 수 있습니다. 당신은 어둠의 선물이 될 수 있습니다. 그리고 당신은 덤불을 알 수 있습니다. 많은 사람들이 자신의 손을 습니다! 그의 손에, 그의 덤불을 습니다."
 module,jrl,Categories/44/Name,0,웬티 켈소 의 잃어버린 저널
@@ -15144,7 +15144,7 @@ femur,uti,LocalizedName,0,막
 femur,uti,DescIdentified,0,매우 오래된 허리뼈
 firesalamandhiav,uti,LocalizedName,0,화염살상자
 firesalamandhide,uti,LocalizedName,0,화염살랑기
-flaminglongspear,uti,LocalizedName,0,불타는 긴장검
+flaminglongspear,uti,LocalizedName,0,화염 장창
 flyingfangbite,uti,LocalizedName,0,날아가는 Fang Bite
 fungus,uti,LocalizedName,0,곰팡이
 gelatinouscubebo,uti,LocalizedName,0,젤리같은 육면체 몸체
@@ -15156,7 +15156,7 @@ giantantsoldbite,uti,LocalizedName,0,거대한 반사병
 giantwaspsting,uti,LocalizedName,0,거대 와스트스팅
 glasssphere,uti,LocalizedName,0,유리 구슬
 glove_bal001,uti,LocalizedName,0,분노의 권투
-graveyardmoss,uti,LocalizedName,0,묘지 모스
+graveyardmoss,uti,LocalizedName,0,묘지 이끼
 graveyardmoss,uti,Description,0,단순하지만 잘 제작된 리라.
 graveyardmoss,uti,DescIdentified,0,"일 년 내내 색의 무지개를 제공하며, 푸른 녹색 잎은 봄에 보라색-붉은 색으로 염색되며, 여름에는 잎이 자르고 가을에는 오렌지색으로 변합니다."
 greengem,uti,LocalizedName,0,녹색 보석
@@ -15265,7 +15265,7 @@ it_msmlmisc004,uti,DescIdentified,0,"이 결정석은 길고 거친 프리즘처
 it_msmlmisc005,uti,LocalizedName,0,괴물 포박석
 it_msmlmisc005,uti,DescIdentified,0,"이 결정석은 길고 거친 막대 형태로 보입니다. 명령어를 말하면, 결정석은 생물체를 장시간 고정할 수 있습니다."
 it_shrunkgnt,uti,LocalizedName,0,축소된 거인 속성
-item,uti,LocalizedName,0,3크레인 물어뜯기
+item,uti,LocalizedName,0,스리크린 물기
 journal356,uti,LocalizedName,0,356 일기
 journal356,uti,Description,0,"JOURNAL ENTRY 356 내가 조심스럽게 워터디프의 하천에서 나을 때, 내 손은 특히 슬라이드 돌에 미끄러졌다. 내가 떨어지자마자 그 돌은 상처받은 손의 피로 미끄러졌다는 것을 깨달았다. 나는 머리를 굽히지 않고 해저로 떨어졌다. 내 두개골은 큰 바위에 접어들었고 내 시력은 약해졌다. 나는 얼마나 많은 시간 동안 피를 흘리면서 누워있었는지 모른다. 갑자기 내 몸 전체에 온온한 느낌이 흐르고 있었다. 나는 서서히 내 눈을 열었다. 내 앞에 큰 옷을 입은 모양이 서 있었고, 땅이 아닌 빛으로 치유되었다. 밝기에 나는 단지 뚜 아래의 미미한 특징과 어두운 뚜 의 윤곽을 볼 수 있었다."
 journal356,uti,DescIdentified,0,"JOURNAL ENTRY 356 내가 조심스럽게 워터디프의 하천에서 나을 때, 내 손은 특히 슬라이드 돌에 미끄러졌다. 내가 떨어지자마자 그 돌은 상처받은 손의 피로 미끄러졌다는 것을 깨달았다. 나는 머리를 굽히지 않고 해저로 떨어졌다. 내 두개골은 큰 바위에 접어들었고 내 시력은 약해졌다. 나는 얼마나 많은 시간 동안 피를 흘리면서 누워있었는지 모른다. 갑자기 내 몸 전체에 온온한 느낌이 흐르고 있었다. 나는 서서히 내 눈을 열었다. 내 앞에 큰 옷을 입은 모양이 서 있었고, 땅이 아닌 빛으로 치유되었다. 밝기에 나는 단지 뚜 아래의 미미한 특징과 어두운 뚜 의 윤곽을 볼 수 있었다."
@@ -15467,7 +15467,7 @@ staffofprotect,uti,LocalizedName,0,보호 직원
 staffofprotect,uti,DescIdentified,0,"파워의 스태프 는 대부분의 마법사들에게 즉시 익숙하며, 거의 미스터리 연구의 아이콘이다. 그러한 스태프의 본질적인 유용성은 많은 사람들이 제작되거나 임무를 맡게 된 결과로 인해, 특정 역사가 보통 군중에서 사라집니다."
 staffoftalon,uti,LocalizedName,0,타론의 마법대검
 staffoftalon,uti,DescIdentified,0,"파워의 스태프 는 대부분의 마법사들에게 즉시 익숙하며, 거의 미스터리 연구의 아이콘이다. 그러한 스태프의 본질적인 유용성은 많은 사람들이 제작되거나 임무를 맡게 된 결과로 인해, 특정 역사가 보통 군중에서 사라집니다."
-starfire,uti,LocalizedName,0,스타 파이어
+starfire,uti,LocalizedName,0,별불꽃
 starfirescepte,uti,LocalizedName,0,별 불의 왕자
 starfirescepte,uti,Description,0,이 게임에는 많은 특이한 아이템들이 있습니다. 이는 그 중 하나입니다.
 starfirescepte,uti,DescIdentified,0,스타 파이어 스펙터는 원자 공격으로부터 추가적인 보호를 제공합니다.
@@ -15576,7 +15576,7 @@ wmgst012,uti,DescIdentified,0,"신의 뜻으로 여겨지는 생명의 막대는
 wmgst014,uti,LocalizedName,0,더 큰 생명 을 가진 직원
 wmgst014,uti,DescIdentified,0,"신의 뜻으로 여겨지는 생명의 막대는 신의 의지를 분명히 드러낸 것이다. 이는 논쟁의 여지가 있지만, 이러한 물건들은 우연이나 계획으로 참으로 의로운 자들의 손에 도달하는 경향이 있다. 그럼에도 불구하고, 유통 중인 이러한 막대의 수는 기적적 기원 이론을 다소 불가능하게 만든다."
 wmgwn005,uti,LocalizedName,0,주문해제 막대기
-wmgwn006,uti,LocalizedName,0,마법 로켓 스틱
+wmgwn006,uti,LocalizedName,0,마법 화살 마법봉
 wmgwn007,uti,LocalizedName,0,미사일 폭풍의 주문 막대
 wmgwn008,uti,LocalizedName,0,번개의 마법봉
 wmgwn008,uti,DescIdentified,0,"번개 마법봉은 적어도 초기 제작 단계에서는 매우 불안정하다. 경험이 부족한 마법사들은 실험실에서 갑작스러운 폭풍이나 충전된 안개를 경험하기도 했으며, 적절한 주문을 제대로 낭독하지 못했기 때문이다. 고령의 마법사들은 잘못된 의식을 가진 토큰을 순환시켜 간접적으로 마법사로서의 겸손을 가르치려 했다는 이야기가 있다."
@@ -15684,7 +15684,7 @@ at3w_pit_51k,utp,Description,0,마법사에게 의미있는 것처럼 보이는 
 at3w_pit_51l,utp,LocName,0,구덩이
 at3w_pit_51l,utp,Description,0,마법사에게 의미있는 것처럼 보이는 복잡한 룬 시리즈는 처음 만든 마법사에게만 의미있는 것처럼 보입니다
 azureillusion001,utp,LocName,0,아주우드 환영술 벽
-azureillusion002,utp,LocName,0,아저 유러지 월 02
+azureillusion002,utp,LocName,0,하늘빛 환영 벽 02
 azureillusionw,utp,LocName,0,아주우드 환영술 벽
 azuresoldwall,utp,LocName,0,아주우드 솔리드월
 azuresolidwal02,utp,LocName,0,Azure 실체 벽 02
@@ -15850,7 +15850,7 @@ evilaltar02,utp,LocName,0,악의 제단 02
 fallenadvent001,utp,LocName,0,타락한 모험가
 fallenadvent002,utp,LocName,0,타락한 모험가
 fallenadventure,utp,LocName,0,타락한 모험가
-fern002,utp,LocName,0,묘지 모스
+fern002,utp,LocName,0,묘지 이끼
 fgkingdust,utp,LocName,0,서리 거인 왕의 먼지
 fgp_pit_7a,utp,LocName,0,구덩이
 fgp_pit_7a,utp,Description,0,마법사에게 의미있는 것처럼 보이는 복잡한 룬 시리즈는 처음 만든 마법사에게만 의미있는 것처럼 보입니다

@@ -60,12 +60,15 @@ def main():
             if not prev and fn[-1] == "final.json":
                 prev = dict(layer)                    # 이미 반영된 이전 단계(Qwen 채택분) 값: 현재 CSV 에 이 값이 들어 있을 수 있다
             new.update(layer)                         # 뒤의 것(고유명사 통일)이 앞의 것을 포함·우선
+    shipped = dict(new)                               # 이번 단계 직전까지 반영된 값(현재 CSV 에 들어 있을 수 있음)
+    for p in sorted(glob.glob(os.path.join(B, "llm", "claude_review", "corr_*.json"))):
+        new.update(jl("llm", "claude_review", os.path.basename(p)))   # 3차(Claude 표본 감수) 교정: 가장 마지막에 덮어씀
     # 예전 한국어 -> 영어 (여러 후보 허용해서 모호하면 제외)
     rev = collections.defaultdict(set)
     for en, ko in pool.items():
         if en not in new:
             continue
-        for old in {clean(corr.get(en) or exact.get(en.strip()) or ko), clean(ko), prev.get(en, "")}:
+        for old in {clean(corr.get(en) or exact.get(en.strip()) or ko), clean(ko), prev.get(en, ""), shipped.get(en, "")}:
             if old:
                 rev[old].add(en)
     mapping = {}
