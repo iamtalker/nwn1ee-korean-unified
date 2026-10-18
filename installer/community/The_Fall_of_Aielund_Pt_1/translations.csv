@@ -160,7 +160,7 @@ armin,dlg,EntryList/10/Text,0,"예, 거대들의 작은 군대는 쿨든의 영�
 armin,dlg,EntryList/12/Text,0,"내 작은 그룹보다 훨씬 더 강하잖아, 저놈들은 다 다 잡을 수 있어!"
 armin,dlg,EntryList/13/Text,0,저는 동의합니다. 오우거들은 저에게 상대할 수 없습니다. 저는 그들을 언덕에서 쫓아내고 어머니를 위해 소리 지르게 할 것입니다.
 armin,dlg,EntryList/14/Text,0,"여기서 남쪽으로 조금만 떨어진 곳에서 우리는 또 다른 거인들을 만났습니다. 이번에는 오그와 그 망할 마법사들이 뒷받침하고 있었습니다. 우리는 보강을 위해 돌아가려 했지만, 그곳은 강도들로 가득 차 있었습니다. 그래서 우리는 이 위치를 몇 일 동안 지키고 있었죠."
-armin,dlg,EntryList/15/Text,0,"일주일 후에 아이룬드의 군대가 이곳을 지나가게 될 것이고, 그들은 함정에 갇혀서 학살당하게 될 것입니다."
+armin,dlg,EntryList/15/Text,0,좋지 않은 징조군. 일주일 뒤면 아이엘룬드의 군대가 이곳을 지나 행군할 텐데. 매복에 걸려 학살당할 것이다.
 armin,dlg,EntryList/16/Text,0,"예, 그럴 겁니다. 드래곤. 저는 그들의 방어 방지를 잘 조사했고, 우리는 이 많은 사람들에게 맞서 살아남을 기회가 없을 것이라고 판단했습니다. 그리고 또 다른 것은, 그들은 자신들에게도 강력한 지도자를 가지고 있습니다. 이 그룹은 조직되어 있고, 그들은 고속도로의 나머지 부분에서 강력한 방어 방지를 세웠습니다."
 armin,dlg,EntryList/17/Text,0,"여기서 남쪽으로 조금만 떨어진 곳에서 우리는 또 다른 거인들을 만났습니다. 이번에는 오그와 그 망할 마법사들이 뒷받침하고 있었습니다. 우리는 보강을 위해 돌아가려 했지만, 그곳은 강도들로 가득 차 있었습니다. 그래서 우리는 이 위치를 몇 일 동안 지키고 있었죠."
 armin,dlg,EntryList/18/Text,0,이런 상황은 매우 좋지 않아. 일주일도 안 돼 우리의 군대가 이 길을 따라오게 될 거야. 만약에 적이 덤비면 상황이 우리에게 매우 불리하게 돌아갈 수도 있어.
@@ -263,7 +263,7 @@ badguard,dlg,ReplyList/10/Text,0,계속해
 badguard,dlg,ReplyList/11/Text,0,"<StartCheck>[설득]</Start> 분노한 일반인들의 무리가 공격하는 것을 견딜 수 있겠습니까? 만약 혼란이 시작된다면, 당신은 가장 앞줄에서 책임을 져야 합니다."
 badguard,dlg,ReplyList/13/Text,0,좋은 사람. 계속해.
 badguard,dlg,ReplyList/14/Text,0,<StartCheck>[법칙]</Start>이 너무 과하고 불필요하게 잔인했습니다.
-badguard,dlg,ReplyList/15/Text,0,상처가 없어서 살아남았을 거야
+badguard,dlg,ReplyList/15/Text,0,"네 몸에 멍이 하나도 안 보이니 살아남은 게 분명하군. 아, 그리고? 너 방패가 있잖아, 경관!"
 badguard,dlg,ReplyList/16/Text,0,"만약 그렇게 된다면, 징계 혐의로 당신을 체포할 것이다. 이제 계속해라."
 badguard,dlg,ReplyList/18/Text,0,경의회와 대화가 끝나면 시경비행장관과 대화를 나누어야겠군. 이제 다시 일에 임해라.
 badguard,dlg,ReplyList/20/Text,0,그게 나아졌어.
@@ -380,7 +380,7 @@ black_romance,dlg,ReplyList/18/Text,0,현재 주제로 돌아오자니...
 black_romance,dlg,ReplyList/19/Text,0,미용대회에서 이길 수는 없지만 못생긴 건 아니지만
 black_romance,dlg,ReplyList/20/Text,0,그건 완전히 파리상한 거예요. 왜 그렇게 생각하시나요?
 black_romance,dlg,ReplyList/21/Text,0,그게 너에게 있었던 거였어?
-black_romance,dlg,ReplyList/22/Text,0,살인을 제외한 다른 이유로 여자를 한 번도 눈치채지 못한 적이 없나?
+black_romance,dlg,ReplyList/22/Text,0,오. 대단한 인생은 아니군. 전에 암살 말고 다른 이유로 여자가 당신을 '힐끗' 쳐다본 적도 없나?
 black_romance,dlg,ReplyList/23/Text,0,"그게 참 끔찍하긴 하지만, 넌 이제 나와 함께 있으니 걱정하지 마시오. 그리고 저는 당신에게 잘할게 약속합니다."
 black_romance,dlg,ReplyList/24/Text,0,우린 새로운 습관을 만들어야 할 것 같아.
 black_romance,dlg,ReplyList/25/Text,0,우리 정말로 그렇게 할 것이다.
@@ -476,7 +476,7 @@ charles,dlg,EntryList/2/Text,0,"<StartAction>[그는 당신의 농담에 미소�
 charles,dlg,EntryList/3/Text,0,"찰스 보딘, 여러분께 봉사하고 있습니다. 당신은 일종의 <class>인 것 같습니다. 맞습니다? 저는 도움을 절실히 필요로 합니다. 사실, 저는 그 것을 위해 기도했습니다."
 charles,dlg,EntryList/4/Text,0,"제 아내 엘란이 납치됐고, 내가 도와줄 수 있는 건 없어요."
 charles,dlg,EntryList/5/Text,0,그것은 거짓말이다. 경비자들은 그녀를 납치한 도둑들과 싸우려 했으나 숫자로는 밀렸다. 왕은 그들을 체포하기 위해 더 이상의 생명을 위험에 빠뜨리지 않으리라.
-charles,dlg,EntryList/6/Text,0,"보통 그렇지만, 그녀를 납치한 사람들을 체포하려고 하면 안 된다는 왕의 금령이 있어서 그렇습니다."
+charles,dlg,EntryList/6/Text,0,보통은 그렇죠. 하지만 그녀를 데려간 자들은... 왕께서 경비대에 그들을 체포하려 들지 말라고 금하셨습니다.
 charles,dlg,EntryList/7/Text,0,"당신은 여기 출신이 아니군. 그들은 시니케이트라 불리는 외국인들이야. 과거에는 관심을 끌지 않기 위해 활동을 최소로 유지하곤 했지만, 지금은 우리 군대가 떠난 후 용감하게 움직이고 있어."
 charles,dlg,EntryList/8/Text,0,"실용성 때문에, 저는 확신합니다. 그는 인력을 가지고 있지 않습니다. 그는 항구로 사람들을 옮기려고 시도했을 때, 8명의 좋은 남자를 잃고 철수해야 했습니다. 항구는 가볍게 다닐 수 없습니다, 우려스러운 친구여, vì 그들은 상당히 혼란스러워졌기 때문입니다."
 charles,dlg,EntryList/9/Text,0,그들은 종종 자신의 이유로 사람들을 데려갑니다. 경고도 없고 설명도 없습니다. 그녀가 겪는 일을 생각하면 떨립니다.
@@ -1001,7 +1001,7 @@ devan,dlg,EntryList/0/Text,0,잠시 멈춰서 주세요. 잠시 이야기해야 
 devan,dlg,EntryList/1/Text,0,"그래, 우리에 대해 들어 본다면, 우리가 잘 알려지지 않아야지"
 devan,dlg,EntryList/2/Text,0,"<StartCheck>[실패.]</Start> 바보가 되지 마, 지금도 밴데레이 보석이 네 손에 있다는 걸 알지. 충분히 놀았지. 주고 싶지 않다면 죽일 테니, 그 점은 명심해."
 devan,dlg,EntryList/3/Text,0,"<StartAction>[그는 보석을 조사합니다.]</Start> 네, 이거야. 불행히도 우리는 당신이 살 수 없습니다."
-devan,dlg,EntryList/4/Text,0,"바보가 되지 마, 우리는 네가 Vandelay 보석을 가지고 있다는 걸 알고 있으니 나눠주지 않으면 죽일 거다."
+devan,dlg,EntryList/4/Text,0,"바보짓 마, 네가 반델레이 보석을 갖고 있다는 거 다 알아. 장난은 그만. 내놓든지 죽든지."
 devan,dlg,EntryList/5/Text,0,잠시 멈춰서 주세요. 잠시 이야기해야 합니다.
 devan,dlg,EntryList/6/Text,0,저는 밴데레이 보석에 대한 이해관계를 가진 합법적인 사업가들을 대표합니다.
 devan,dlg,EntryList/7/Text,0,"<StartCheck>[실패.]</Start> 바보가 되지 마, 지금도 밴데레이 보석이 네 손에 있다는 걸 알지. 충분히 놀았지. 주고 싶지 않다면 죽일 테니, 그 점은 명심해."
@@ -1462,7 +1462,7 @@ hench_black,dlg,EntryList/0/Text,0,"그래서 당신의 <Lord/Lady>호는 저를
 hench_black,dlg,EntryList/1/Text,0,나? 난 그냥 피치야. 나랑 다시 얘기하지 마. 너랑 함께 싸우길 원하지 않는 한. 그렇지 않으면 내 시간을 낭비할거야.
 hench_black,dlg,EntryList/2/Text,0,"오. 그래, 그럼 전에 말한 것들 잊어버리게."
 hench_black,dlg,EntryList/3/Text,0,다시 만나게 되죠
-hench_black,dlg,EntryList/5/Text,0,믿기 힘든 건 뭐야? 모든 모험가들은 소금을 살 수 있는 작은 보험에 접근할 수 있어.
+hench_black,dlg,EntryList/5/Text,0,믿기 어려울 게 뭐 있어? 제 몫을 하는 모험가라면 누구나 약간의... 보험쯤은 갖고 있지. 내 경우엔 말 그대로야.
 hench_black,dlg,EntryList/6/Text,0,"이런 일이 가끔씩 일어나는데, 전쟁에서 쓰러지면 제게 기도를 올린다는 합의로 대제사관에게 큰 금액을 지불했습니다."
 hench_black,dlg,EntryList/7/Text,0,"한 남자가 첸이라고 했는데, 어두운 느낌의 사람으로 보였고, 그는 나의 금에 더 관심을 보인 것 같았는데, 신의 빛으로 나를 개종시키려는 의도는 없었다. 나는 그럴게 좋아. 나는 성직자를 싫어해."
 hench_black,dlg,EntryList/8/Text,0,"오. 보험을 더 받지 못할 것 같군. 그래도 중요하지 않아, 나는 이미 완전히 파산했으니까. 이렇게 된 이유가 바로 여기까지 왔기 때문이다."
@@ -2527,7 +2527,7 @@ king_final,dlg,ReplyList/4/Text,0,나가 마지막으로 봤던 건 남문 밖�
 king_final,dlg,ReplyList/5/Text,0,"이런 식으로 끝나지 않았을 거라고 생각했지만, 우리가 멈출 수 있을 거라고 확신했습니다."
 king_final,dlg,ReplyList/6/Text,0,도망가기엔 아직 늦지 않았을까? 나는 여기서 벗어나려고...
 king_final,dlg,ReplyList/7/Text,0,"우리가 죽을지도 모르지만, 적어도 부유하게 죽을 거야."
-king_final,dlg,ReplyList/8/Text,0,"우리가 죽어야 한다면, 적어도 자유와 자유를 위해서는 더 높은 부름과 더 귀한 방법이 없다."
+king_final,dlg,ReplyList/8/Text,0,"음... 우리가 죽어야 한다면, 적어도 자유와 해방을 위해서야. 이보다 높은 소명도, 이보다 고귀한 길도 없지..."
 king_final,dlg,ReplyList/9/Text,0,"우리가 내려갈 경우, 내가 당신과 함께 데려 갈거야!"
 king_final,dlg,ReplyList/10/Text,0,"왕을 죽이고 싶으면 나를 거쳐가시오, 심장 없는 놈!"
 king_final,dlg,ReplyList/11/Text,0,하지만 반신을 방해하는 것은 쉽지 않을 수도 있습니다.
@@ -2988,7 +2988,7 @@ nigel,dlg,EntryList/0/Text,0,안녕하세요 제 <Lord/Lady>
 noble1,dlg,EntryList/0/Text,0,어째서 이렇게 갑판을 치켜들었지? 정말로 우리의 기준은 어디로 갔나?
 noble1,dlg,EntryList/2/Text,0,한 잔 더 가져오거라! 난 무섭게 날카롭게 느껴지고 있어! 빨리 가거라!
 noble1,dlg,EntryList/4/Text,0,클럽에 품위 있는 분들을 추가해줘서 다행입니다. 좋은 날이세요.
-noble1,dlg,EntryList/5/Text,0,로널드랑 나 어릴 적부터 친구였어
+noble1,dlg,EntryList/5/Text,0,"로널드와 나는 어릴 적부터 오랜 친구야. 아, 그럼, 아주 가까운 친구지. 나 없이는 아무것도 안 해."
 noble1,dlg,EntryList/6/Text,0,착한 여자아이가 되어 술을 가져와. 빨리 해라!
 noble1,dlg,EntryList/7/Text,0,이게 뭐야? 남자 클럽에 여자들이 다니는 거야? 세상이 끝나는 거야??
 noble1,dlg,EntryList/8/Text,0,로널드한테 우리 입국 정책에 대해 얘기할게요
@@ -3101,7 +3101,7 @@ osric2,dlg,ReplyList/1/Text,0,제왕님께서 제 제안에 대한 결정을 내
 osric2,dlg,ReplyList/2/Text,0,날 감시해 왔나?
 osric2,dlg,ReplyList/3/Text,0,그건 당신과는 크게 관계없는 거야.
 osric2,dlg,ReplyList/4/Text,0,모두 결정을 내린 건가요? 내 계획에 대해 어떤 결정을 내린 건지 들려주셨으면 합니다.
-osric2,dlg,ReplyList/7/Text,0,"용병들이라면 되겠지만, 그런 일에 필요한 양의 숫자는 어디서 찾을 수 있을까?"
+osric2,dlg,ReplyList/7/Text,0,용병이라? 그건 받아들일 수 있지. 하지만 그런 일에 필요한 머릿수는 어디서 구하지?
 osric2,dlg,ReplyList/8/Text,0,나는 당신의 대표자야! 이제까지 이 일을 처리할 수 있을 만큼 충분히 신뢰해 줬을 거라 생각해!
 osric2,dlg,ReplyList/9/Text,0,"대표자, 누가 생각했나?"
 osric2,dlg,ReplyList/10/Text,0,반백만??
@@ -3473,7 +3473,7 @@ robert,dlg,ReplyList/19/Text,0,"그를 기억하네... 매우 똑똑하고, 매�
 robert,dlg,ReplyList/21/Text,0,당신의 타이밍은 완벽했습니다.
 robert,dlg,ReplyList/22/Text,0,그건 긴 이야기야. 나는 너에게 같은 질문을 할 수도 있어.
 robert,dlg,ReplyList/23/Text,0,그런 게 충분하다고 생각해서 그냥 나를 버렸어? 그럼에 넌 뭐라고 생각했어?
-robert,dlg,ReplyList/24/Text,0,"나도 모험가로 활동하던 시절이 있었지만, 시간이 변했지. 새로운 삶에 대해 네가 괜찮다고 말하지 않았어."
+robert,dlg,ReplyList/24/Text,0,"나도 모험가로 지내는 게 좋았지만, 시대가 변했어. 우리 새 삶이 괜찮은 줄 알았는데. 내 말은.. 넌 아무 말도 안 했잖아."
 robert,dlg,ReplyList/25/Text,0,그럼 나중에 더 얘기해봅시다.
 robert,dlg,ReplyList/26/Text,0,난 그가 도전이 될 거라고 말했잖아.
 robert,dlg,ReplyList/27/Text,0,- 그래요
@@ -3628,7 +3628,7 @@ teamster,dlg,EntryList/1/Text,0,- 그래?
 teamster,dlg,EntryList/2/Text,0,너는 뭐하는 사람인가? 그 거대한 드래곤이 산 통과를 막고 있어. 그곳을 지나려면 아무리 많은 돈을 주어도 안 갈 거야.
 teamster,dlg,EntryList/3/Text,0,"그래, túm, 가서 해."
 teamster,dlg,EntryList/4/Text,0,물론입니다. 용을 없애버렸으니 정말 멋지게 대처하셨네요.
-teamster,dlg,EntryList/5/Text,0,"물론, 좋아. 보통 25골드에 더해 10골드의 추위 요금이 붙으니, 총 50골드입니다."
+teamster,dlg,EntryList/5/Text,0,"물론, 좋아요. 보통 요금 25골드에 추운 날씨 할증 10골드가 붙으니까, 그러니까... 음.. 50골드입니다."
 teamster,dlg,EntryList/6/Text,0,50이라고 했습니다! 엘프님은 탈 계획이 있으신가요?
 teamster,dlg,EntryList/7/Text,0,그럼 돈을 받을 때 얘기해
 teamster,dlg,EntryList/8/Text,0,고마워. 빨리 쿨든으로 데려가줄게.
@@ -3655,7 +3655,7 @@ teamster2,dlg,EntryList/3/Text,0,일주일 동안 못 봤어. 아마 하이마�
 teamster2,dlg,EntryList/4/Text,0,너는 뭐하는 사람인가? 그 거대한 드래곤이 산 통과를 막고 있어. 그곳을 지나려면 아무리 많은 돈을 주어도 안 갈 거야.
 teamster2,dlg,EntryList/5/Text,0,"그래, túm, 가서 해."
 teamster2,dlg,EntryList/6/Text,0,물론입니다. 용을 없애버렸으니 정말 멋지게 대처하셨네요.
-teamster2,dlg,EntryList/7/Text,0,"물론, 좋아. 보통 25골드에 더해 10골드의 추위 요금이 붙으니, 총 50골드입니다."
+teamster2,dlg,EntryList/7/Text,0,"물론, 좋아요. 보통 요금 25골드에 추운 날씨 할증 10골드가 붙으니까, 그러니까... 음.. 50골드입니다."
 teamster2,dlg,EntryList/8/Text,0,50이라고 했습니다! 엘프님은 탈 계획이 있으신가요?
 teamster2,dlg,EntryList/9/Text,0,그럼 돈을 받을 때 얘기해
 teamster2,dlg,EntryList/10/Text,0,고마워. 빨리 페어로크로 데려가도록.
@@ -3951,7 +3951,7 @@ x2_associate,dlg,ReplyList/264/Text,3,나는 새 장비를 주고 싶다.
 x2_associate,dlg,ReplyList/265/Text,0,"모든 것을 관리하고 싶지만, 기본적인 보호 장비는 제외하고."
 x2_associate,dlg,ReplyList/265/Text,2,저는 기본 보호장비를 제외하고는 모든 것을 통제하고자 합니다.
 x2_associate,dlg,ReplyList/265/Text,3,저는 기본 보호장비를 제외하고는 모든 것을 통제하고자 합니다.
-x2_associate,dlg,ReplyList/266/Text,0,"기본 보호장비, 갑옷, 담요, 방패, 헬멧, 부츠 등을 관리해 보죠."
+x2_associate,dlg,ReplyList/266/Text,0,"기본 방어 장비를 정리해 보죠. 갑옷, 망토, 방패, 투구, 장화. 뭐, 그런 거요."
 x2_associate,dlg,ReplyList/266/Text,2,"기본 보호 장비: 갑옷, 모자, 방패, 모자, 보트."
 x2_associate,dlg,ReplyList/266/Text,3,"기본 보호 장비: 갑옷, 모자, 방패, 모자, 보트."
 x2_associate,dlg,ReplyList/306/Text,0,"""인벤토리를 보여 주세요."""
