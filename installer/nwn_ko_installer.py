@@ -483,11 +483,30 @@ class BuiltMod(Item):
             pass
         return mod_ok or hak_ok
 
+    def _stamp(self, src):
+        """번역 입력(CSV·NCS·빌더 코드)과 원본 모듈 파일이 그대로면 같은 값 -> 다시 만들 필요 없음."""
+        h = hashlib.sha256()
+        files = [f for f in sorted((MODBUILD / "premium" / self.short).rglob("*")) if f.is_file()]
+        files += sorted((MODBUILD / "premium").glob("*.py")) + sorted(MODBUILD.glob("*.py"))
+        for f in files:
+            h.update(f.name.encode("utf-8"))
+            h.update(f.read_bytes())
+        st = src.stat()
+        h.update(f"{src.name}:{st.st_size}:{int(st.st_mtime)}".encode("utf-8"))
+        return h.hexdigest()
+
     def patch(self):
         need_docs()
         src = bak_of(self.dst) if bak_of(self.dst).exists() else self.dst
         if not src.exists():
             raise RuntimeError(f"원본 모듈을 찾을 수 없습니다:\n{self.dst}")
+        stamp = self._stamp(src)
+        try:
+            if self.applied() and json.loads(self._marker().read_text(encoding="utf-8")).get("stamp") == stamp:
+                print("건너뜀(변경 없음):", self.name)
+                return
+        except Exception:
+            pass
         with tempfile.TemporaryDirectory() as tmp:
             tmp = Path(tmp)
             sub = "nwm" if self.nwm else "mod"
@@ -516,7 +535,7 @@ class BuiltMod(Item):
                     bak_of(dst).unlink()
                 placed.append(str(dst))
             CACHE.mkdir(parents=True, exist_ok=True)
-            self._marker().write_text(json.dumps({"haks": placed}, ensure_ascii=False), encoding="utf-8")
+            self._marker().write_text(json.dumps({"haks": placed, "stamp": stamp}, ensure_ascii=False), encoding="utf-8")
 
     def restore(self):
         unput(self.dst)
