@@ -427,7 +427,7 @@ illithid_1,dlg,EntryList/41/Text,0,<StartAction>[당신의 마음 속의 목소�
 illithid_1,dlg,EntryList/45/Text,0,"<StartAction>[네 마음 속의 목소리]</Start>""남서쪽으로 가스 가득한 터널이 있다. 이 터널을 따라가면 거대한 거미들이 서식하는 동굴을 통과하게 될 것이다. 이 동굴 뒤에 큰 드워프 미로가 있으며, 이 미로는 당신을 바로 표면으로 인도할 것이다."""
 illithid_1,dlg,EntryList/46/Text,0,<StartAction>[당신의 마음 속의 목소리]</Start>#################################################################################################################################################################################################################################################
 illithid_1,dlg,EntryList/48/Text,0,"<StartAction>[네 마음 속의 목소리]</Start> ""네가 원하는 대로. 그는 나에게 어느 정도 도움이 되긴 했지만, 이제는 더 이상 필요하지 않아. 이제 떠나고 다시는 돌아오지 마."""
-illithid_1,dlg,EntryList/49/Text,0,"<StartAction>[당신의 마음 속에서 들리는 목소리]</Start>""당신은 보통 여기서 발견되는 약한 존재들과는 다릅니다. 당신은 드워프인가요, 그리고 당신의 욕망은 무엇인가요?"""
+illithid_1,dlg,EntryList/49/Text,0,"<StartAction>[당신의 머릿속에서 들리는 목소리]</Start>""너는 이곳에서 흔히 보이는 연약한 존재들과 다르구나. 너는 누구냐, 드로우여, 그리고 무엇을 바라느냐?"""
 illithid_1,dlg,EntryList/52/Text,0,"<StartAction>[네 마음 속의 목소리]</Start>""이 터널들은 이 관찰자 생물이 들어온 이후로 매우 위험해졌습니다."""
 illithid_1,dlg,EntryList/57/Text,0,"""그 관찰자를 죽여서 눈 하나를 가져와. 그러면 원하는 정보를 줄게."""
 illithid_1,dlg,EntryList/59/Text,0,"<StartAction>[정신적 공격이 멈춥니다]</Start> ""당신의 마음은 강합니다. 매우 흥미롭습니다. 왜 이곳으로 왔습니까?"""
@@ -1754,14 +1754,14 @@ drowcamp,git,Creature List/7/ItemList/1/DescIdentified,0,"이 마법 무기는 �
 drowcamp,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,아나셀보
-drowcamp,git,Creature List/7/Equip_ItemList/1/Description,0,"이 칼은 완벽하게 균형을 잡아 있으며, 명백히 걸작으로 인식할 수 있습니다. 이것은 분명 드워프 무기 제작자의 작품입니다."
+drowcamp,git,Creature List/7/Equip_ItemList/1/Description,0,이 검은 완벽하게 균형이 잡혀 있고 한눈에 걸작임을 알 수 있다. 분명 드로우 무기 장인의 작품이다.
 drowcamp,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,"드림다릴은 한때 테샤네벨의 선호된 무기였으며, 테샤네벨은 용기와 뛰어난 전투 기술을 지닌 무기의 주인이었고, 집안의 군대를 이끌며 습격 중 실종된 스비르프네블린 세력과 맞서 용감히 싸웠다."
 drowcamp,git,Creature List/7/Equip_ItemList/4/LocalizedName,0,드로우 레벨 20 속성
 drowcamp,git,Creature List/8/FirstName,0,알크라날
 drowcamp,git,Creature List/8/LastName,0,'저'ein
 drowcamp,git,Creature List/8/Description,0,알크라날 주니어는 최신 멜레 마가테레의 가장 장식된 근접 사격 선수 중 한 명이다. 그는 예리한 감각과 칼에 대한 재능으로 잘 알려져 있다.
 drowcamp,git,Creature List/8/ItemList/8/LocalizedName,0,루비 쇠뇌
-drowcamp,git,Creature List/8/ItemList/8/DescIdentified,0,"이 보석 장식품의 첫 번째 예는 기념식 장식용으로 만들어졌으며, 실제로 사용될 계획은 없었습니다. 그러나 실험은 이상한 루비에서 에너지를 방출하여 목표물을 강하게 두려움에 떨게 만들었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌고, 이후로는 그 무기가 여러 번 복제되었습니다."
+drowcamp,git,Creature List/8/ItemList/8/DescIdentified,0,"이 보석 박힌 물건의 첫 번째 제품은 의식용 장식으로 만들어진 것이어서 실제로 쓸 의도는 없었다. 그러나 실험 결과, 제작에 쓰인 기묘한 루비에서 에너지가 방출되어 표적에게 큰 공포를 안겨 준다는 사실이 밝혀졌다. 석궁과 보석을 제공한 조수는 곧 사라졌고, 이후 이 무기는 여러 차례 복제되었다."
 drowcamp,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,속도의 사슬갑옷
 drowcamp,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳게 믿었고, 그는 속도의 사슬갑옷의 도움으로 수십 번의 전투에서 자랑스럽게 발걸음을 빠르게 했다. 비행의 기술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사의 순위에서 결코 멀리 가지 못했다."
 drowcamp,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,날카로운
@@ -1976,7 +1976,7 @@ drowcamp001,git,Creature List/12/FirstName,0,알크라날
 drowcamp001,git,Creature List/12/LastName,0,'저'ein
 drowcamp001,git,Creature List/12/Description,0,알크라날 주니어는 최신 멜레 마가테레의 가장 장식된 근접 사격 선수 중 한 명이다. 그는 예리한 감각과 칼에 대한 재능으로 잘 알려져 있다.
 drowcamp001,git,Creature List/12/ItemList/8/LocalizedName,0,루비 쇠뇌
-drowcamp001,git,Creature List/12/ItemList/8/DescIdentified,0,"이 보석 장식품의 첫 번째 예는 기념식 장식용으로 만들어졌으며, 실제로 사용될 계획은 없었습니다. 그러나 실험은 이상한 루비에서 에너지를 방출하여 목표물을 강하게 두려움에 떨게 만들었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌고, 이후로는 그 무기가 여러 번 복제되었습니다."
+drowcamp001,git,Creature List/12/ItemList/8/DescIdentified,0,"이 보석 박힌 물건의 첫 번째 제품은 의식용 장식으로 만들어진 것이어서 실제로 쓸 의도는 없었다. 그러나 실험 결과, 제작에 쓰인 기묘한 루비에서 에너지가 방출되어 표적에게 큰 공포를 안겨 준다는 사실이 밝혀졌다. 석궁과 보석을 제공한 조수는 곧 사라졌고, 이후 이 무기는 여러 차례 복제되었다."
 drowcamp001,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,속도의 사슬갑옷
 drowcamp001,git,Creature List/12/Equip_ItemList/1/DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳게 믿었고, 그는 속도의 사슬갑옷의 도움으로 수십 번의 전투에서 자랑스럽게 발걸음을 빠르게 했다. 비행의 기술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사의 순위에서 결코 멀리 가지 못했다."
 drowcamp001,git,Creature List/12/Equip_ItemList/3/LocalizedName,0,날카로운
@@ -1993,7 +1993,7 @@ drowcamp001,git,Creature List/13/ItemList/1/DescIdentified,0,"이 마법 무기�
 drowcamp001,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 drowcamp001,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 drowcamp001,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,아나셀보
-drowcamp001,git,Creature List/13/Equip_ItemList/1/Description,0,"이 칼은 완벽하게 균형을 잡아 있으며, 명백히 걸작으로 인식할 수 있습니다. 이것은 분명 드워프 무기 제작자의 작품입니다."
+drowcamp001,git,Creature List/13/Equip_ItemList/1/Description,0,이 검은 완벽하게 균형이 잡혀 있고 한눈에 걸작임을 알 수 있다. 분명 드로우 무기 장인의 작품이다.
 drowcamp001,git,Creature List/13/Equip_ItemList/1/DescIdentified,0,"드림다릴은 한때 테샤네벨의 선호된 무기였으며, 테샤네벨은 용기와 뛰어난 전투 기술을 지닌 무기의 주인이었고, 집안의 군대를 이끌며 습격 중 실종된 스비르프네블린 세력과 맞서 용감히 싸웠다."
 drowcamp001,git,Creature List/13/Equip_ItemList/4/LocalizedName,0,드로우 레벨 20 속성
 drowcamp001,git,Creature List/14/FirstName,0,삼촌
@@ -3325,7 +3325,7 @@ beholdereye005,uti,LocalizedName,0,주시자 눈 (무감각)
 beholdereye006,uti,LocalizedName,0,주시자의 눈 (경두심)
 beholderskin,uti,LocalizedName,0,주시자 피부
 bladeofthenight,uti,LocalizedName,0,드림다리일
-bladeofthenight,uti,Description,0,"이 칼은 완벽하게 균형을 잡아 있으며, 명백히 걸작으로 인식할 수 있습니다. 이것은 분명 드워프 무기 제작자의 작품입니다."
+bladeofthenight,uti,Description,0,이 검은 완벽하게 균형이 잡혀 있고 한눈에 걸작임을 알 수 있다. 분명 드로우 무기 장인의 작품이다.
 bladeofthenight,uti,DescIdentified,0,"드림다릴은 한때 테샤네벨의 선호된 무기였으며, 테샤네벨은 용기와 뛰어난 전투 기술을 지닌 무기의 주인이었고, 집안의 군대를 이끌며 습격 중 실종된 스비르프네블린 세력과 맞서 용감히 싸웠다."
 bow001,uti,LocalizedName,0,단궁 +1 인류의 적
 bow001,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
@@ -3471,7 +3471,7 @@ wbwmxl003,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 
 wbwmxl004,uti,LocalizedName,0,경수뇌 +1
 wbwmxl004,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 wbwmxl011,uti,LocalizedName,0,루비 쇠뇌
-wbwmxl011,uti,DescIdentified,0,"이 보석 장식품의 첫 번째 예는 기념식 장식용으로 만들어졌으며, 실제로 사용될 계획은 없었습니다. 그러나 실험은 이상한 루비에서 에너지를 방출하여 목표물을 강하게 두려움에 떨게 만들었다는 것을 보여주었습니다. 크로스보와 보석을 공급한 보조는 곧 사라졌고, 이후로는 그 무기가 여러 번 복제되었습니다."
+wbwmxl011,uti,DescIdentified,0,"이 보석 박힌 물건의 첫 번째 제품은 의식용 장식으로 만들어진 것이어서 실제로 쓸 의도는 없었다. 그러나 실험 결과, 제작에 쓰인 기묘한 루비에서 에너지가 방출되어 표적에게 큰 공포를 안겨 준다는 사실이 밝혀졌다. 석궁과 보석을 제공한 조수는 곧 사라졌고, 이후 이 무기는 여러 차례 복제되었다."
 wbwxl003,uti,LocalizedName,0,경수뇌
 wbwxl003,uti,DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 wbwxl004,uti,LocalizedName,0,경수뇌

@@ -256,7 +256,7 @@ ls_halinor,dlg,EntryList/3/Text,0,"""최고의 시대에도 불구하고, 위험
 ls_halinor,dlg,EntryList/4/Text,0,"""저주받은 드루이! 다일스포크족과 엘븐 궁중의 우리들이 그들을 지하로 몰아넣은 수백 년 후, 그들은 돌아왔다."""
 ls_halinor,dlg,EntryList/5/Text,0,"""지난 한 해 동안 코르만토르에서 세 가지 주요 한파가 생겨났습니다. 유목적 아우즈코빈 족속, 메노베르란잔의 배척된 하우스 자엘레, 그리고 그 악하고 타락한 한 여신인 롤트 (Lolth) 의 불순종 숭배자""."
 ls_halinor,dlg,EntryList/6/Text,0,"""우리는 하우스 자엘레가 한 때 멘조베란잔을 고향으로 삼았다고 믿습니다. 그들은 바에라운 신을 숭배하므로, 아마도 그 도시의 거친 롤트 숭배자들이 그들의 신념 때문에 그들을 쫓아냈을 것입니다. 어떤 경우든, 하우스 자엘레는 숲의 안전과 거룩함에 대한 위협입니다."""
-ls_halinor,dlg,EntryList/7/Text,0,"""우리는 다레스포크족에게 이 분쟁에 대한 도움을 요청하려 했지만, 보이면 그들은 제일레 가정에 대한 자신의 문제를 가지고 있는 것 같다. 우리 인간 이웃들에 대한 끊임없는 침입은 그들의 의지를 약화시킨 것 같고, 그들은 우리 투쟁에 마음과 자원을 기울일 수 없어 보인다."""
+ls_halinor,dlg,EntryList/7/Text,0,"""이 분쟁에 데일즈포크에게 도움을 청하려 했지만, 그들도 제일레 가문과의 문제로 곤란한 처지인 듯하오. 우리 인간 이웃들을 향한 끊임없는 습격이 그들의 결의를 꺾은 모양이고, 우리의 싸움을 도울 마음도 자원도 없소."""
 ls_halinor,dlg,EntryList/8/Text,0,"""당신의 제안은 감사하지만, <man/woman>이 큰 변화를 가져올 것 같지는 않아. 더 큰 지원의 약속이 없다면, 우리는... 멈추어! 당신이 무언가를 들었나?"""
 ls_halinor,dlg,EntryList/9/Text,0,"""그들의 숫자는 적지만, 그들의 악은 날이 갈수록 커지는 재앙입니다. 우리는 그들의 동기가 어디에 있는지 알지 못합니다. 야만적인 학살과 길을 가로지르는 사람들의 노예화 뿐만 아니라, 그들의 의도는 여전히 불분명합니다. 그들은 코르망토르 전역에서 언더다크에 연결된 수많은 경로를 통해 여행합니다."""
 ls_halinor,dlg,EntryList/10/Text,0,"""우리 의 단 한 가지 위안 은, 롤트 숭배자 들 이 다른 두 가지 바에룬 숭배자 집단 을 불타는 증오 를 가지고 있다는 점 이며, 그 들 이 계속 싸우고 있는 싸움 은 우리 자신 들 을 방해 하는 데 도움 이 된다""."
@@ -766,7 +766,7 @@ ss_anxioushorse,dlg,EntryList/1/Text,0,<StartCheck>[실패]</Start>마는 당신
 ss_anxioushorse,dlg,EntryList/2/Text,0,<StartAction>[성공]</Start>말은 공중의 위험성을 감지했습니다. 사과를 주어 진정됩니다.
 ss_anxioushorse,dlg,EntryList/3/Text,0,"이 말은 불안해서 우는 것 같고, 가만히 있을 수 없어 보인다."
 ss_anxioushorse,dlg,EntryList/4/Text,0,<StartAction>[성공]</Start>말은 공중의 위험성을 감지했습니다. 사과를 주어 진정됩니다.
-ss_anxioushorse,dlg,EntryList/5/Text,0,"이 말은 안정감을 얻은 것 같고, 당신에게 다가와 반려동물로 만족해한다."
+ss_anxioushorse,dlg,EntryList/5/Text,0,말은 차분해진 듯 쓰다듬어 달라는 듯이 머리를 당신 쪽으로 들이민다.
 ss_anxioushorse,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
 ss_anxioushorse,dlg,ReplyList/1/Text,0,<StartAction>[동물 감응]</Start>
 ss_anxioushorse,dlg,ReplyList/4/Text,0,<StartAction>[ 떠나.]</Start>
@@ -953,7 +953,7 @@ ss_hench_berliad,dlg,EntryList/42/Text,0,실로 여유로운 농담은 어리석
 ss_hench_berliad,dlg,EntryList/43/Text,0,"""당신이 원하는 대로 생각해봐, <FirstName>. 나는 당신의 의견에 대해 신경 쓰지 않는다. 나는 내 의제를 가지고 있지만, 이 군대의 의제와는 아직 대치하고 있지 않다. 적어도 아직은 그렇다. 이 어리석은 소릴 그만해. 나는 당신을 지치게 한다."""
 ss_hench_berliad,dlg,EntryList/44/Text,0,"""무엇을 헛되이 이야기하면서 시간을 낭비하지 말자."""
 ss_hench_berliad,dlg,EntryList/45/Text,0,"""돌아보라, <FirstName>. 우리 뒤에는 육군의 주요 세력인 7,000명의 전임 군인들과 3,000명의 무심한 신병들이 따르고 있다. 괴물의 첫 시선에 그들은 자신의 소변을 흘릴 강을 만들 것이다. 용병들에 대해서는, 정말로 적의 공격 앞에서 굳건히 서줄 것이라고 생각하나? 용병에게 충성심을 기대하는 것은 창녀에게 순결을 기대하는 것과 같아."""
-ss_hench_berliad,dlg,EntryList/46/Text,0,"""크림슨 경비병이 저를 매료시키고 있습니다, 저는 이를 인정합니다. 그들은 어디에서 왔는지 궁금합니다. 저는 카라-투르에서 유래한 장신구를 스파이했습니다. 다른 사람들은 자카르의 기원을 암시하는 무기와 장식품을 가지고 있습니다. 그들은 파에룬의 넓이를 여행한 것처럼 보이지만, 아무도 그들이 누구인지 모릅니다. 당신은 이 점이 이상하다고 생각하십니까, <FirstName>? """
+ss_hench_berliad,dlg,EntryList/46/Text,0,"""솔직히 말해 크림슨 가드가 나는 흥미롭소. 그들은 어디서 왔을까? 카라투르에서 만든 듯한 장신구를 본 적이 있고, 자카라 기원임을 강하게 암시하는 무기와 장식을 가진 이들도 있소. 페이룬 전역을 두루 누빈 듯한데도 우리 중 누구도 그들이 누구인지 모르오. 이상하다고 생각하지 않소, <FirstName>?"""
 ss_hench_berliad,dlg,EntryList/47/Text,0,"""정확한 말이다. 그럼에도 불구하고, 나는 크림슨 경비병을 면밀히 관찰할 것이다. 그들의 태도에는 어떤 거친 무모함이 느껴져 흥미롭다. 그들이 죽음을 두려워하고 있는가? 아니면 죽음을 받아들이려는가? 시간이 가면 알 수 있을 것이다."""
 ss_hench_berliad,dlg,EntryList/48/Text,0,실로 빈말은 어리석은 습관이다.
 ss_hench_berliad,dlg,EntryList/49/Text,0,"""이를 누구에게 사용하겠나?"""
@@ -1598,7 +1598,7 @@ epilogue,git,WaypointList/0/LocalizedName,0,이정표
 epilogue,git,Placeable List/7/LocName,0,투명 물체
 epilogue,git,Placeable List/7/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 housejaelrecampj,git,Creature List/0/FirstName,0,제즈
-housejaelrecampj,git,Creature List/0/LastName,0,족쟁이
+housejaelrecampj,git,Creature List/0/LastName,0,절름발이
 housejaelrecampj,git,Creature List/0/Description,0,이 우스꽝스러운 젊은 마취는 아마 게으른 제즈야.
 housejaelrecampj,git,Creature List/0/ItemList/0/LocalizedName,0,보내지 않은 편지
 housejaelrecampj,git,Creature List/0/ItemList/0/Description,0,"""마트론, 나는 배틀데일에서의 마지막 습격이 큰 성공을 거두었다는 것을 보고 기쁘게 생각합니다. 우리는 어둠의 덮개 아래 그들을 만나서 그들이 잠을 자는 동안 그들의 집을 불태웠다. 우리는 우리가 몇 명의 노예가 죽었음에도 불구하고 적어도 두 점의 인간들을 죽였다고 믿습니다. 아이들은 우리를 느리게했습니다. 우리는 어떤 도리를 너무 강하게 밀어 넣지 않도록 주의해야 합니다. 또는 우리는 봉기를 유발할 위험이 있습니다. 우리가 이 유감스러운 붐킨의 두려움은 거의 없지만, 인간 도들 사이의 연합은 증명할 수 있습니다... 곤란한. 따라서 우리는 다음 습격의 초점을 미스트ledale로 이동할 것입니다. 다른 한편, 나는 거미 키스, 유신들의 최근 활동의 부족에 대해 약간 혼란스럽게 생각합니다. 우리는 거의 큰 세력을 만났습니다. 그들은 매우 성공적 인 사건에 대한 예가 될 수 있습니다. 그들은 Jahael Hall에 대한 예가 될 경우, 나는 매우 흔하지 않습니다."
@@ -2754,7 +2754,7 @@ jaimesafe,utc,FirstName,0,제이미
 jamble,utc,FirstName,0,블
 jamble,utc,Description,0,이 매끄러운 캐릭터는 당신을 주의 깊게 살펴보고 있습니다.
 jezz,utc,FirstName,0,제즈
-jezz,utc,LastName,0,족쟁이
+jezz,utc,LastName,0,절름발이
 jezz,utc,Description,0,이 우아한 젊은 마취는 아마 게으른 제즈야
 jhaele,utc,FirstName,0,제일
 jhaele,utc,LastName,0,실버맨
