@@ -98,7 +98,7 @@ brogansarm,git,Door List/9/Description,0,-1,"이 간단한 문은 거친 나무�
 brogansarm,git,Door List/9/LocName,0,5349,나무 문
 brogansarm,git,Placeable List/0/Description,0,14755,"우물은 오래되고 풀이 자라고 있으며, 아래에서 불쾌한 냄새가 솟아오릅니다."
 brogansarm,git,Placeable List/0/LocName,0,5749,늙은이의 우물
-brogansarm,git,Placeable List/12/LocName,0,5691,통을 끄다
+brogansarm,git,Placeable List/12/LocName,0,5691,통에 물 끼얹기
 brogansarm,git,Placeable List/14/LocName,0,14616,바로우 사이트
 brogansarm,git,Placeable List/15/LocName,0,14616,바로우 사이트
 brogansarm,git,Placeable List/20/Description,0,14567,"이 광고판의 중심에 장식된 로고를 둘러싸고 있는 무수히 많은 던전언어와 비전의 글씨가 있다. ""니메르마어의 물약과 비전""이라는 글은 불타는 문자로 새겨져 있다."
@@ -443,7 +443,7 @@ embattledcaverns,git,Placeable List/4/ItemList/2/Description,0,13291,"이 보석
 embattledcaverns,git,Placeable List/4/ItemList/2/LocalizedName,0,13290,녹석
 embattledcaverns,git,Placeable List/4/LocName,0,5348,상자
 embattledcaverns,git,Placeable List/5/Description,0,14597,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
-embattledcaverns,git,Placeable List/5/ItemList/0/Description,0,13303,"마라카이트는 화려하고 자연스러운 아름다움으로 인해 드루이드들에게 사랑받으며, 돌 전체에 걸쳐 빛과 어두운 녹색의 뚜렷한 장식성 반지로 알려져 있다. 화가들은 또한 보석을 분쇄해 색소로 사용하는 것으로 알려져 있다. 모험가들은 보석이 산성에 쉽게 거품이 끼고 녹는 것을 발견했으며, 이는 특정 위험한 물질을 식별하는 효과적인 방법이지만, 비용이 많이 드는 방법이다."
+embattledcaverns,git,Placeable List/5/ItemList/0/Description,0,13303,"우아하고 자연스러운 아름다움 덕에 드루이드들이 좋아하는 공작석은 돌 전체에 밝은 초록과 짙은 초록 띠가 번갈아 나타나는 눈에 띄는 장식 무늬로 유명하다. 화가들이 이 보석을 빻아 안료로 쓰기도 한다고 알려져 있다. 모험가들은 이 보석이 산에 닿으면 거품을 내며 쉽게 녹는 것을 발견했고, 값비싸긴 하지만 특정한 위험 물질을 판별하는 효과적인 방법이 된다."
 embattledcaverns,git,Placeable List/5/ItemList/0/LocalizedName,0,13302,공작석
 embattledcaverns,git,Placeable List/5/ItemList/1/Description,0,13297,"페날로프 은 특이 한 아름다운 돌 이다. 먼지 로 ?? 은 색 이며, 검은 줄무늬 가 극적으로 표시 되어 있다. 보석 에 장착 되어 있더라도, 페날로프 는 거칠고 부드러운 모양 을 유지 하고 있으며, 닦을 수 없는 작은 구멍 으로 가득 차 있다. 어떤 사람 들 에게는 이 돌 의 매력 의 일부분 이며, 자신 들 의 끈기 있는 본성의 상징 으로 착용 한다."
 embattledcaverns,git,Placeable List/5/ItemList/1/LocalizedName,0,13296,페넬로페
@@ -605,9 +605,13 @@ homeofthenightha,git,Creature List/1/ItemList/0/DescIdentified,0,-1,이 손으�
 homeofthenightha,git,Creature List/1/ItemList/0/LocalizedName,0,-1,타로 카드 - 분노의 아이
 homeofthenightha,git,Creature List/1/ItemList/1/DescIdentified,0,-1,이 손으로 칠한 타로트 카드는 오래되고 잘 지어진 카드 입니다. 마녀의 손에서 그려진 이 카드는 과거를 나타낸다고 합니다. 이 카드는 야만적인 인물을 묘사하고 있습니다. 칼을 높이 들고 피를 달고 있습니다. 전개가 배경에서 타격하여 灰灰色의 암살 장면을 조명합니다.
 homeofthenightha,git,Creature List/1/ItemList/1/LocalizedName,0,-1,타로 카드 - 분노의 아이
-homeofthenightha,git,Creature List/1/ItemList/10/DescIdentified,0,-1,"이 손으로 칠한 타로 카드는 오래되고 잘 사용된 카드입니다. 마법사의 손에서 그려진 이 카드는 미래를 상징한다고 합니다. 이 카드는 벽 위에 앉아 있는 횡단 다리 자세의 인물을 묘사하고 있습니다. 한 손에는 달이 있고, 다른 손에는 태양이 있습니다. 위로 떠 있는 골드색 성배가 있습니다."
+homeofthenightha,git,Creature List/1/ItemList/10/DescIdentified,0,-1,"손으로 그린 이 타로 카드는 오래되어 많이 닳았다. 마녀의 패에서 뽑은 것으로, 미래를 나타낸다고 한다.
+
+이 카드에는 담 위에 책상다리로 앉은 인물이 그려져 있다. 한 손에는 달을, 다른 손에는 태양을 들었고, 그 위 허공에는 황금 성배가 떠 있다."
 homeofthenightha,git,Creature List/1/ItemList/10/LocalizedName,0,-1,타로 카드 - 광대
-homeofthenightha,git,Creature List/1/ItemList/11/DescIdentified,0,-1,"이 손으로 칠한 타로 카드는 오래되고 잘 사용된 카드입니다. 마법사의 손에서 그려진 이 카드는 미래를 상징한다고 합니다. 이 카드는 벽 위에 앉아 있는 횡단 다리 자세의 인물을 묘사하고 있습니다. 한 손에는 달이 있고, 다른 손에는 태양이 있습니다. 위로 떠 있는 골드색 성배가 있습니다."
+homeofthenightha,git,Creature List/1/ItemList/11/DescIdentified,0,-1,"손으로 그린 이 타로 카드는 오래되어 많이 닳았다. 마녀의 패에서 뽑은 것으로, 미래를 나타낸다고 한다.
+
+이 카드에는 담 위에 책상다리로 앉은 인물이 그려져 있다. 한 손에는 달을, 다른 손에는 태양을 들었고, 그 위 허공에는 황금 성배가 떠 있다."
 homeofthenightha,git,Creature List/1/ItemList/11/LocalizedName,0,-1,타로 카드 - 광대
 homeofthenightha,git,Creature List/1/ItemList/12/DescIdentified,0,-1,"손으로 그린 이 타로 카드는 오래되어 닳았다. 마녀의 손에서 뽑은 것으로, 미래를 나타낸다고 한다.
 

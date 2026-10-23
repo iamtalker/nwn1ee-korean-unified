@@ -313,9 +313,9 @@ fcaves,git,Placeable List/9/ItemList/1/DescIdentified,0,-1,"이것은 매우 무
 fcaves,git,SoundList/2/LocName,0,-1,쇠사슬이 덜그럭거리는 소리
 fcaves,git,SoundList/3/LocName,0,-1,문 소리
 fcaves,git,SoundList/4/LocName,0,-1,유령
-fcaves,git,TriggerList/0/LocalizedName,0,14759,오하이오는 트리거를 설정합니다
+fcaves,git,TriggerList/0/LocalizedName,0,14759,오하이오가 트리거 발동
 fcaves,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 임의"
-fcaves,git,TriggerList/2/LocalizedName,0,14759,오하이오가 트리거 2를 시작한다
+fcaves,git,TriggerList/2/LocalizedName,0,14759,오하이오가 트리거 2 발동
 fcaves,git,WaypointList/0/LocalizedName,0,14817,지도설명: 출구 웨이포인트
 fcaves,git,WaypointList/0/MapNote,0,-1,출구
 fcaves,git,WaypointList/1/LocalizedName,0,14817,언데드 웨이포인트
@@ -393,8 +393,8 @@ gcaves,git,SoundList/7/LocName,0,-1,동굴 박쥐
 gcaves,git,TriggerList/0/LocalizedName,0,14759,노예 출구 트리거
 gcaves,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 임의"
 gcaves,git,TriggerList/2/LocalizedName,0,14759,스맨 고블린
-gcaves,git,TriggerList/5/LocalizedName,0,14759,노예가 트리거를 발동시킨다
-gcaves,git,TriggerList/7/LocalizedName,0,14759,고블린 족장이 트리거를 발동시킵니다
+gcaves,git,TriggerList/5/LocalizedName,0,14759,노예가 트리거 발동
+gcaves,git,TriggerList/7/LocalizedName,0,14759,고블린 우두머리가 트리거 발동
 gcaves,git,WaypointList/0/LocalizedName,0,14817,느슨한 돌 1 웨이포인트
 gcaves,git,WaypointList/1/LocalizedName,0,14817,지도설명: 출구 웨이포인트
 gcaves,git,WaypointList/1/MapNote,0,-1,출구
@@ -412,7 +412,12 @@ graveyard001,git,Placeable List/1/ItemList/0/Description,0,-1,이것은 아름�
 graveyard001,git,Placeable List/1/ItemList/0/LocalizedName,0,-1,코리의 꽃
 graveyard001,git,Placeable List/2/Description,0,-1,"코리 메이는 달콤한 성질의 요정이었는데, 매우 불안한 날까지, 모든 것이 어두워졌고, 위대한 왕이 눈 을 고, 무자비한 손짓으로 그녀를 내려놓았지만, 무덤에서 그녀는 여전히 힘을 주고, 그리고 그 비용은 하나의 꽃입니다."
 graveyard001,git,Placeable List/2/LocName,0,-1,코리의 비석
-graveyard001,git,Placeable List/3/Description,0,-1,"댄의 흰 쪽은 친절하고 환한 편이었지만 어두운 쪽은 때로는 그를 슬프게 만들었고, 실수를 저지른 것을 결정했을 때 그의 시신은 이 죽이에 놓여 있었다. 그의 정령이 여전히 여기 머물러 있는 동안 친절하게 베리를 가져와 주시기 바란다."
+graveyard001,git,Placeable List/3/Description,0,-1,"댄의 밝은 면은 상냥하고 명랑했지만
+어두운 면은 때로 그를 우울하게 했네.
+잘못을 저질렀다고 판가름이 나자
+그의 시신은 이 관 속에 눕혀졌지.
+그의 영혼이 아직 이곳에 머무르니
+부디 친절을 베풀어 열매를 가져다주오."
 graveyard001,git,Placeable List/3/LocName,0,-1,다니엘의 비석
 graveyard001,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
 graveyard001,git,WaypointList/0/LocalizedName,0,14814,코리의 웨이포인트
@@ -465,7 +470,7 @@ hcaves,git,SoundList/1/LocName,0,-1,문 소리
 hcaves,git,TriggerList/0/LocalizedName,0,14759,만티코어 함정 트리거
 hcaves,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 임의"
 hcaves,git,TriggerList/2/LocalizedName,0,14759,수하 만티코어
-hcaves,git,TriggerList/3/LocalizedName,0,14759,고블린들이 트리거를 시작한다
+hcaves,git,TriggerList/3/LocalizedName,0,14759,고블린이 트리거 발동
 hcaves,git,WaypointList/0/LocalizedName,0,14817,유령 웨이포인트 점프
 hcaves,git,WaypointList/1/LocalizedName,0,14817,유령 웨이포인트 점프
 hcaves,git,WaypointList/2/LocalizedName,0,14817,유령 웨이포인트 점프
@@ -499,12 +504,12 @@ hillside,git,Encounter List/7/LocalizedName,0,91343,마법적 인카운터
 hillside,git,Encounter List/8/LocalizedName,0,-1,코볼트 인카운터
 hillside,git,Encounter List/9/LocalizedName,0,-1,코볼트 인카운터
 hillside,git,Placeable List/19/LocName,0,14561,블랙핸드 농장
-hillside,git,TriggerList/0/LocalizedName,0,14759,알리아스가 트리거를 활성화합니다
-hillside,git,TriggerList/1/LocalizedName,0,14759,알리아스가 트리거를 활성화합니다
-hillside,git,TriggerList/2/LocalizedName,0,14759,알리아스가 트리거를 활성화합니다
-hillside,git,TriggerList/3/LocalizedName,0,14759,알리아스가 트리거를 활성화합니다
-hillside,git,TriggerList/4/LocalizedName,0,14759,알리아스가 트리거를 활성화합니다
-hillside,git,TriggerList/5/LocalizedName,0,14759,알리아스가 트리거를 활성화합니다
+hillside,git,TriggerList/0/LocalizedName,0,14759,앨리어스가 트리거 발동
+hillside,git,TriggerList/1/LocalizedName,0,14759,앨리어스가 트리거 발동
+hillside,git,TriggerList/2/LocalizedName,0,14759,앨리어스가 트리거 발동
+hillside,git,TriggerList/3/LocalizedName,0,14759,앨리어스가 트리거 발동
+hillside,git,TriggerList/4/LocalizedName,0,14759,앨리어스가 트리거 발동
+hillside,git,TriggerList/5/LocalizedName,0,14759,앨리어스가 트리거 발동
 hillside,git,WaypointList/0/LocalizedName,0,14814,지도 참고: 세라의 동굴
 hillside,git,WaypointList/0/MapNote,0,14815,세라의 동굴
 hillside,git,WaypointList/1/LocalizedName,0,14817,세라의 동굴 웨이포인트
@@ -727,7 +732,7 @@ q2b14a,git,Door List/0/LocName,0,5349,숙소 문
 q2b14a,git,Door List/1/LocName,0,5349,숙소 문
 q2b14a,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
 q2b14a,git,WaypointList/0/LocalizedName,0,14817,페란 술 마시기
-q2b14a,git,WaypointList/1/LocalizedName,0,14817,젤라니가 웨이포인트를 떠났다
+q2b14a,git,WaypointList/1/LocalizedName,0,14817,겔라니 웨이포인트 이탈
 q2b14a,git,WaypointList/10/LocalizedName,0,14817,집으로의 여행
 q2b14a,git,WaypointList/2/LocalizedName,0,14817,페란은 웨이포인트를 떠났다
 q2b14a,git,WaypointList/3/LocalizedName,0,14817,q2ab_way_entry
@@ -912,7 +917,7 @@ q2c013,git,StoreList/1/StoreList/3/ItemList/22/DescIdentified,0,13464,"라빈의
 q2c013,git,StoreList/1/StoreList/3/ItemList/23/DescIdentified,0,56645,"이 반지는 발라타 에서 바다 를 건너 있는 땅 에서 만들어졌다는 소문 이 있습니다. 그 어느 선박도 그러한 바다 를 넘기면서 살아남지 못했기 때문에, 이 이야기 를 믿는 사람은 거의 없습니다."
 q2c013,git,StoreList/1/StoreList/3/ItemList/24/DescIdentified,0,40089,"이런 반지는 몇 개만 존재하고, 거의 모든 반지는 매우 강력한 마법사들의 소유이다. 그러한 반지를 소유하는 것은 지위의 상징이다."
 q2c013,git,StoreList/1/StoreList/3/ItemList/25/DescIdentified,0,40089,"이런 반지는 몇 개만 존재하고, 거의 모든 반지는 매우 강력한 마법사들의 소유이다. 그러한 반지를 소유하는 것은 지위의 상징이다."
-q2c013,git,TriggerList/0/LocalizedName,0,14759,마법 무기가 트리거를 발동합니다
+q2c013,git,TriggerList/0/LocalizedName,0,14759,마법 무기가 트리거 발동
 q2c013,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 임의"
 q2c013,git,TriggerList/2/LocalizedName,0,14759,인
 q2c013,git,TriggerList/3/LocalizedName,0,14759,치먼 엘레트라 트립
@@ -952,7 +957,7 @@ q2c24a,git,Door List/0/LocName,0,5349,감옥 문
 q2c24a,git,Door List/1/LocName,0,5349,문
 q2c24a,git,Placeable List/34/Description,0,14600,"그 사람이 처음에는 거의 소유하고 있지 않았거나, 그 사람의 모든 것이 빼앗겼을 수도 있습니다."
 q2c24a,git,Placeable List/41/LocName,0,5681,갑옷 거치대
-q2c24a,git,TriggerList/0/LocalizedName,0,14759,딜런이 트리거를 활성화한다
+q2c24a,git,TriggerList/0/LocalizedName,0,14759,딜런이 트리거 발동
 q2c24a,git,TriggerList/1/LocalizedName,0,14759,헨치먼 감옥
 q2c24a,git,WaypointList/0/LocalizedName,0,14817,감옥 항목 웨이포인트
 q2c24a,git,WaypointList/1/LocalizedName,0,14817,감옥 던전 지도설명
@@ -982,7 +987,7 @@ q2c25,git,TriggerList/0/LocalizedName,0,14759,트리거 유지
 q2c25,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 임의"
 q2c25,git,TriggerList/2/LocalizedName,0,14759,세라의 부하
 q2c25,git,TriggerList/3/LocalizedName,0,14759,스맨 페란
-q2c25,git,TriggerList/5/LocalizedName,0,14759,트리거를 계속 유지하세요
+q2c25,git,TriggerList/5/LocalizedName,0,14759,투표 트리거 유지
 q2c25,git,WaypointList/0/LocalizedName,0,14817,페란은 웨이포인트를 떠났다
 q2c25,git,WaypointList/1/LocalizedName,0,14817,지도 설명: 토지 소유자 협회
 q2c25,git,WaypointList/1/MapNote,0,-1,토지 소유자 협회 사무실
@@ -1022,7 +1027,7 @@ q2c25,git,WaypointList/32/LocalizedName,0,14817,옥좌 남쪽 웨이포인트
 q2c25,git,WaypointList/33/LocalizedName,0,14817,옥좌 PC2 웨이포인트
 q2c25,git,WaypointList/34/LocalizedName,0,14817,웨이포인트 유지
 q2c25,git,WaypointList/35/LocalizedName,0,14817,이명: 성 웨이포인트
-q2c25,git,WaypointList/4/LocalizedName,0,14817,웨이포인트를 유지하십시오
+q2c25,git,WaypointList/4/LocalizedName,0,14817,투표 웨이포인트 유지
 q2c25,git,WaypointList/5/LocalizedName,0,14817,출구 웨이포인트만 유지해
 q2c25,git,WaypointList/6/LocalizedName,0,14817,이명: 성 웨이포인트
 q2c25,git,WaypointList/7/LocalizedName,0,14817,베켓 성 웨이포인트
@@ -1113,8 +1118,8 @@ q3j,git,WaypointList/9/LocalizedName,0,14817,소나무 해머
 q3k2,git,Door List/1/LocName,0,5349,동굴 문
 q3k2,git,Door List/2/LocName,0,5349,문
 q3k2,git,Door List/3/LocName,0,5349,문
-q3k2,git,TriggerList/0/LocalizedName,0,14759,마법 무기가 트리거를 발동합니다
-q3k2,git,TriggerList/1/LocalizedName,0,14759,항복은 트리거를 발동시킵니다
+q3k2,git,TriggerList/0/LocalizedName,0,14759,마법 무기가 트리거 발동
+q3k2,git,TriggerList/1/LocalizedName,0,14759,항복이 트리거 발동
 q3k2,git,WaypointList/0/LocalizedName,0,14817,칼리바스트 웨이포인트
 q3k2,git,WaypointList/1/LocalizedName,0,14817,카이달라 웨이포인트
 q3k2,git,WaypointList/2/LocalizedName,0,14817,자볼리 웨이포인트

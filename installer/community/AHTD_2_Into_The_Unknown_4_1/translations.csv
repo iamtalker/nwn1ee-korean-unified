@@ -1939,7 +1939,7 @@ bigminingcomplex,git,SoundList/11/LocName,0,중간 화염
 bigminingcomplex,git,SoundList/12/LocName,0,물 펌프 소리
 bigminingcomplex,git,SoundList/13/LocName,0,광부의 채굴 소리 04
 bigminingcomplex,git,SoundList/14/LocName,0,광부의 삽질04
-bigminingcomplex,git,SoundList/15/LocName,0,보일러가 시끄럽게 작동하다
+bigminingcomplex,git,SoundList/15/LocName,0,보일러의 신음
 bigminingcomplex,git,SoundList/16/LocName,0,대장장이 일하는 소리03
 bigminingcomplex,git,SoundList/17/LocName,0,대장장이 일하는 소리02
 bigminingcomplex,git,SoundList/18/LocName,0,대장장이 일하는 소리01
@@ -4123,7 +4123,7 @@ module,jrl,Categories/9/EntryList/5/Text,0,돌아왔어. 트리안더는 주문�
 module,jrl,Categories/9/EntryList/6/Text,0,돌아왔어. 트리안더는 주문으로 마법 문을 열었다고 주장해. 나는 피위비엔에게 사실대로 말했어.
 module,jrl,Categories/10/Name,0,죄수
 module,jrl,Categories/10/EntryList/0/Text,0,포획된 드라이더는 자유를 얻기로 하면 강력한 드루아 물건들에 대해 말해줄 준비가 되어 있습니다.
-module,jrl,Categories/10/EntryList/1/Text,0,"난 수련관에게 구덩이 열쇠를 주고, 드라이더는 임시원의 사무실에 숨겨진 3개의 유물들에 대해 말해줬다. 첫째로는 우수한 투명화 반지, 둘째로는 여사제의 망토, 셋째로는 강력한 검이 있다. 매우 흥미롭다."
+module,jrl,Categories/10/EntryList/1/Text,0,"나는 던전 열쇠를 드라이더에게 주었다. 그것은 심문관의 서재에 숨겨진 드로우의 유물 세 가지에 대해 말해 주었다. 첫째는 상급 투명화의 반지, 둘째는 고위 여사제의 망토, 셋째는 강력한 검이다. 매우 흥미롭다."
 module,jrl,Categories/11/Name,0,지금까지 무슨 일이 있었는지
 module,jrl,Categories/11/EntryList/0/Text,0,"나르본델의 몇 단계, 또는 표면 주민들이 그것을 부르는 것처럼, ""일"" 전 전 전 나는 미스터 피우비엔 테 ⁇ 네스의 사냥 여행을 합류했다. 단순히 괴물 노예 사냥처럼 보이는 것은 훨씬 더 위험한 작업이되었습니다. 내 동료들 중 절반 이상이 그리고 당신의 괴물 모두 svirfneblin 습격에 빠졌습니다. 나는 그들의 지도자를 죽였으며 그렇게 함으로써 나는 언더크의 상류 터널로 탈출할 시간을 얻었습니다."
 module,jrl,Categories/12/Name,0,당신의 새로운 중위
@@ -4402,13 +4402,15 @@ spellresist18,uti,LocalizedName,0,마법 저항 16
 spellsforwands,uti,LocalizedName,0,주문으로 사용하는 마법봉
 spellsforwands,uti,Description,0,"제 방법은 타겟 매술에서 잘 작동하지만 영역 효과 매술은 전혀 작동하지 않습니다. 1 차원의 매술은 작은 힘의 보석이 필요하고, 2 차원의 매술은 모다트 힘의 보석, 3 차원의 매술은 큰 힘의 보석 그리고 4 차원의 매술은 더 큰 힘의 보석입니다."
 stepbystep,uti,LocalizedName,0,단계별로
-stepbystep,uti,Description,0,"1. 힘의 보석과 낡은 와인드를 준비하십시오.
+stepbystep,uti,Description,0,"1. 힘의 보석과 조잡한 완드를 준비한다.
 
-2. 와인드로 주문을 발동시키는 마법을 준비하십시오(스크롤이 충분합니다).
+2. 완드에 담을 주문을 준비한다(스크롤이면 충분하다).
 
-3. 힘의 보석과 낡은 와인드를 창조 책상에 넣으십시오.
+3. 힘의 보석과 조잡한 완드를 제작대에 넣는다.
 
-4. 책상에서 주문을 발동시키십시오. --> 마법의 에너지는 와인드와 힘의 보석을 마지막 와인드와 50개의 충전으로 융합합니다."
+4. 제작대 위에서 그 주문을 시전한다.
+
+--> 주문 에너지가 완드와 힘의 보석을 융합해 충전 횟수 50회의 완성된 완드가 만들어진다."
 summoningbowl,uti,LocalizedName,0,언데드 소환볼
 summoningbowl,uti,Description,0,이 그릇은 악의 희미한 분위기를 나타냅니다.
 summoningbowl,uti,DescIdentified,0,이 화살은 원래 수많은 유령을 창조하기 위해 설계되었습니다. 많은 네크로맨서들은 모든 생명체에 지속적인 위협을 만들기 위해 이러한 소환 도구를 사용합니다.

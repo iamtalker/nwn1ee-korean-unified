@@ -88,7 +88,7 @@ cotwelcoming,are,Name,0,알브라이벤 - 에메랄드 방비 - 벤히의 익스
 dockward,are,Name,0,알마레이벤 - 도크 방어구역 - 로세틸 거리
 ebl,are,Name,0,알브라이벤 - 트레이드 워드 - 하스쇼 레인: [영원 불타는 로그]
 home,are,Name,0,알마라이벤 - 엔클레이브 구역 - 룸 가: [집]
-htnew,are,Name,0,"고개를 들어 보니, 높은 탑이 보였다."
+htnew,are,Name,0,높은 탑
 kingscourt,are,Name,0,알프레인 - 엔클라브 수비병 - 킹스코트
 newmandrake001,are,Name,0,알브라이벤 - 루비워드 - 만드라크 경로
 test,are,Name,0,알브라이벤 - 루비 워드 - 컷백 카트 골목
@@ -15046,7 +15046,7 @@ _ts_rnd_f2,dlg,ReplyList/14/Text,0,뒷골목으로 데려가라
 _ts_rnd_f2,dlg,ReplyList/15/Text,0,그녀를 뱉는 낙타에게 데려가라
 _ts_rnd_f2,dlg,ReplyList/16/Text,0,"물론, 따라와."
 _ts_rnd_f2,dlg,ReplyList/17/Text,0,뒷골목으로 데려가라
-_ts_rnd_f2,dlg,ReplyList/18/Text,0,그녀를 뱉어내는 낙타에게 데려가십시오.
+_ts_rnd_f2,dlg,ReplyList/18/Text,0,그녀를 침 뱉는 낙타 주점으로 데려가세요
 _ts_rnd_f2,dlg,ReplyList/19/Text,0,안녕하세요
 _ts_rnd_f2,dlg,ReplyList/20/Text,0,계속해.
 _ts_rnd_f2,dlg,ReplyList/21/Text,0,계속해.
@@ -18080,7 +18080,7 @@ gz_c_bindstone,dlg,EntryList/1/Text,0,당신의 영혼은 이제 이 위치에 �
 gz_c_bindstone,dlg,EntryList/2/Text,0,그것은 마치 성탄의 모든 가장자리에 마술을 펌핑하는 것처럼 내부에서 뛰고 있습니다.
 gz_c_bindstone,dlg,EntryList/3/Text,0,+++ 돔 퀘론의 DAoC 재시작 시스템 +++
 gz_c_bindstone,dlg,EntryList/4/Text,0,시스템을 기본값으로 재설정하시겠습니까 (이렇게 하면 비활성화된 결합석을 다시 활성화할 수 없습니다)
-gz_c_bindstone,dlg,EntryList/5/Text,0,BINDSTONE 시스템은 이제 활성화되었습니다.
+gz_c_bindstone,dlg,EntryList/5/Text,0,결속석 시스템이 이제 활성화되었습니다
 gz_c_bindstone,dlg,EntryList/6/Text,0,모든 Bindstones는 이제 비활성화되어 사용자들은 사망에 따라 모듈의 기본 위치로 이동할 것입니다
 gz_c_bindstone,dlg,EntryList/7/Text,0,이 결합석이 다시 활성화되었습니다.
 gz_c_bindstone,dlg,EntryList/8/Text,0,이 결합석은 이제 비활성화되었습니다. 여기서 바인딩된 사용자는 대신 모듈의 기본 재생성 위치로 텔레포트됩니다.
@@ -18089,16 +18089,16 @@ gz_c_bindstone,dlg,EntryList/10/Text,0,PC가 무덤에서 기도한 후 얼마�
 gz_c_bindstone,dlg,EntryList/11/Text,0,플레이어는 이제 25%의 XP를 되찾습니다.
 gz_c_bindstone,dlg,EntryList/12/Text,0,플레이어는 이제 그레이브스에서 XP를 50% 회복합니다.
 gz_c_bindstone,dlg,EntryList/13/Text,0,플레이어는 이제 75%의 경험치를 회복합니다.
-gz_c_bindstone,dlg,EntryList/14/Text,0,플레이어는 이제 그레이브스에서 100% 회복합니다.
+gz_c_bindstone,dlg,EntryList/14/Text,0,이제 플레이어는 무덤에서 100% 회복한다
 gz_c_bindstone,dlg,EntryList/15/Text,0,무덤이 비활성화되었습니다!
 gz_c_bindstone,dlg,EntryList/16/Text,0,'그래브스'가 가능해졌어!
 gz_c_bindstone,dlg,EntryList/17/Text,0,플레이어 리콜이 비활성화 되었습니다
-gz_c_bindstone,dlg,EntryList/18/Text,0,플레이어 리콜이 활성화되었습니다
+gz_c_bindstone,dlg,EntryList/18/Text,0,플레이어 귀환이 활성화되었습니다
 gz_c_bindstone,dlg,EntryList/19/Text,0,시스템 활성화: <StartCheck><CUSTOM114></Start> ++ Graves 활성화: <StartCheck><CUSTOM115></Start> ++ GraveXP 재구성: <StartCheck><CUSTOM118></Start>% ++ 플레이어 회수: <StartCheck><CUSTOM117></Start>
 gz_c_bindstone,dlg,EntryList/20/Text,0,어떤 정보를 읽고 싶나요?
 gz_c_bindstone,dlg,EntryList/21/Text,0,이 시스템에 관한 모든 문서는 dom의 웹 사이트 http://www.gulbsoft.de 에서 찾을 수 있습니다.
 gz_c_bindstone,dlg,EntryList/22/Text,0,"모든 값을 ""SetupRespawnSystem""라는 함수를 편집하여 변경할 수 있습니다. ""gzinc_daoctools""라는 포함 파일에서 찾을 수 있습니다."
-gz_c_bindstone,dlg,EntryList/23/Text,0,"nwn.bioware.com의 공식 게시판에서 전갈을 사용하여 이 모드의 저자 도름 퀘론과 연락할 수 있으며, 그의 웹사이트 www.gulbsoft.de에서 피드백 기능 또는 전갈을 통해 또는 gulbsoft@hotmail.com을 사용하여 MSN을 통해 연락할 수 있습니다."
+gz_c_bindstone,dlg,EntryList/23/Text,0,"이 모듈의 제작자 돔 케론에게는 nwn.bioware.com 공식 게시판의 개인 메시지, 그의 웹사이트 www.gulbsoft.de 의 피드백 기능이나 개인 메시지, 또는 MSN(gulbsoft@hotmail.com)으로 연락할 수 있습니다."
 gz_c_bindstone,dlg,EntryList/24/Text,0,"이 마법의 결속석의 힘의 원천이 방해받은 것 같아, 당신은 그것이 작동하지 않습니다."
 gz_c_bindstone,dlg,ReplyList/0/Text,0,떠난다
 gz_c_bindstone,dlg,ReplyList/1/Text,0,이 돌에 네 영혼을 바인드
@@ -18111,7 +18111,7 @@ gz_c_bindstone,dlg,ReplyList/7/Text,0,아뇨
 gz_c_bindstone,dlg,ReplyList/8/Text,0,그렇소.
 gz_c_bindstone,dlg,ReplyList/9/Text,0,Bindstone 시스템을 활성화하기
 gz_c_bindstone,dlg,ReplyList/10/Text,0,Bindstone 시스템을 비활성화
-gz_c_bindstone,dlg,ReplyList/11/Text,0,BindSTONE를 활성화하세요
+gz_c_bindstone,dlg,ReplyList/11/Text,0,이 결속석 활성화
 gz_c_bindstone,dlg,ReplyList/12/Text,0,BINDSTONE를 비활성화해
 gz_c_bindstone,dlg,ReplyList/13/Text,0,무덤 설정 변경
 gz_c_bindstone,dlg,ReplyList/14/Text,0,떠난다
@@ -18128,7 +18128,7 @@ gz_c_bindstone,dlg,ReplyList/24/Text,0,플레이어 회수 기능 비활성화
 gz_c_bindstone,dlg,ReplyList/25/Text,0,플레이어 리콜 활성화
 gz_c_bindstone,dlg,ReplyList/26/Text,0,현재 설정을 표시
 gz_c_bindstone,dlg,ReplyList/27/Text,0,떠난다
-gz_c_bindstone,dlg,ReplyList/28/Text,0,DM 문서를 확인하세요
+gz_c_bindstone,dlg,ReplyList/28/Text,0,DM 설명서 읽기
 gz_c_bindstone,dlg,ReplyList/29/Text,0,떠난다
 gz_c_bindstone,dlg,ReplyList/30/Text,0,더 자세한 문서를 찾을 수 있는 곳
 gz_c_bindstone,dlg,ReplyList/31/Text,0,떠난다
@@ -18542,7 +18542,7 @@ area,git,Door List/2/LocName,0,나무 문
 area,git,Door List/2/Description,0,"이 문은 새겨져 있고 기름을 바른 덕분에, 그 눈에 띄는 나무결에 깊이를 더한다."
 area,git,SoundList/3/LocName,0,불평하는 사람
 area,git,SoundList/4/LocName,0,기침하는 여자
-area,git,SoundList/5/LocName,0,술 취한 남자가 밖에서 소리친다
+area,git,SoundList/5/LocName,0,술 취한 사내들이 밖에서 고함
 area,git,SoundList/6/LocName,0,딸꾹질 하는 남자
 area,git,SoundList/7/LocName,0,웃는 남자
 area,git,SoundList/8/LocName,0,웃는 여자
@@ -19005,7 +19005,7 @@ area002,git,SoundList/9/LocName,0,벨 타워 울림
 area002,git,SoundList/10/LocName,0,불평하는 사람
 area002,git,SoundList/11/LocName,0,웃는 여자
 area002,git,SoundList/12/LocName,0,딸꾹질 하는 남자
-area002,git,SoundList/13/LocName,0,술 취한 남자가 밖에서 소리친다
+area002,git,SoundList/13/LocName,0,술 취한 사내들이 밖에서 고함
 area002,git,SoundList/14/LocName,0,기침하는 여자
 area002,git,SoundList/15/LocName,0,웃는 남자
 area002,git,TriggerList/0/LocalizedName,0,MAP_PIN
@@ -19166,13 +19166,13 @@ area003,git,SoundList/65/LocName,0,개가 짖음
 area003,git,SoundList/68/LocName,0,운이 없는 밤 소리
 area003,git,StoreList/0/LocName,0,VILLA_MERCHANT
 area003,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,소음 억제 화살
-area003,git,StoreList/0/StoreList/1/ItemList/0/Description,0,이 화살이 손에서 찔리듯이 느껴진다
+area003,git,StoreList/0/StoreList/1/ItemList/0/Description,0,이 볼트가 손에서 찌릿찌릿하다
 area003,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,마법으로 표적을 침묵시키는 능력을 강화한 침묵 화살입니다. 이 물건은 빌라의 거리 상인에서 구입되었습니다.
 area003,git,StoreList/0/StoreList/1/ItemList/1/LocalizedName,0,불안정한 출소
-area003,git,StoreList/0/StoreList/1/ItemList/1/Description,0,이 화살이 손에서 찔리듯이 느껴진다
+area003,git,StoreList/0/StoreList/1/ItemList/1/Description,0,이 볼트가 손에서 찌릿찌릿하다
 area003,git,StoreList/0/StoreList/1/ItemList/1/DescIdentified,0,"안전하지 않은 해제 볼트가 잠겨 있는 물체를 대상으로 할 때, 볼트에 부착된 마법이 잠금을 열 수 있습니다. 이 특정 아이템은 빌라의 거리 상인에서 구입되었습니다."
 area003,git,StoreList/0/StoreList/1/ItemList/2/LocalizedName,0,느려지는 쇠뇌화살
-area003,git,StoreList/0/StoreList/1/ItemList/2/Description,0,이 화살이 손에서 찔리듯이 느껴진다
+area003,git,StoreList/0/StoreList/1/ItemList/2/Description,0,이 볼트가 손에서 찌릿찌릿하다
 area003,git,StoreList/0/StoreList/1/ItemList/2/DescIdentified,0,슬로잉의 볼트는 목표물의 이동을 줄일 것입니다. 이 특정 아이템은 빌라의 거리의 상점에서 구입되었습니다.
 area003,git,StoreList/0/StoreList/1/ItemList/3/LocalizedName,0,두려움탄환
 area003,git,StoreList/0/StoreList/1/ItemList/3/Description,0,이 총알은 손에서 찰싹거린다.
@@ -19461,10 +19461,12 @@ area004,git,Door List/7/LocName,0,나무 문
 area004,git,Door List/7/Description,0,이 문에 접근할 때 누군가 칼을 날개하는 소음이 니다.
 area004,git,StoreList/0/LocName,0,엑스 광대 상인
 area004,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,에어 슬라이더
-area004,git,StoreList/0/StoreList/1/ItemList/0/Description,0,"""슬림하고 빠른 이 작은 던지는 썰매기는 잠잠한 침묵을 만들어내며, 신체의 어느 부분과도 연결되면 해당 부분을 고정시켜 주어 당신이 천천히 처리할 수 있게 합니다.""  
-이 별은 하스쇼 라인의 무기 거래자인 아크 제스터에서 왔습니다."
-area004,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,"""슬림하고 빠른 이 작은 던지는 썰매기는 잠잠한 침묵을 만들어내며, 신체의 어느 부분과도 연결되면 해당 부분을 고정시켜 주어 당신이 천천히 처리할 수 있게 합니다.""  
-이 별은 하스쇼 라인의 무기 거래자인 아크 제스터에서 왔습니다."
+area004,git,StoreList/0/StoreList/1/ItemList/0/Description,0,"""매끈하고 빠른 이 작은 투척용 절단날은 소리 없이 죽이는 침묵 그 자체다. 몸 어디에든 맞으면 상대를 그 자리에 붙들어 둘 수 있어, 일을 깔끔하고 신속하게 처리할 수 있다.""
+
+이 별 모양 표창은 호스슈 레인의 무기상 액스 제스터에게서 나온 것이다."
+area004,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,"""매끈하고 빠른 이 작은 투척용 절단날은 소리 없이 죽이는 침묵 그 자체다. 몸 어디에든 맞으면 상대를 그 자리에 붙들어 둘 수 있어, 일을 깔끔하고 신속하게 처리할 수 있다.""
+
+이 별 모양 표창은 호스슈 레인의 무기상 액스 제스터에게서 나온 것이다."
 area004,git,StoreList/0/StoreList/1/ItemList/1/LocalizedName,0,스팅어
 area004,git,StoreList/0/StoreList/1/ItemList/1/Description,0,"""단순 히 감추는 이 사랑스러운 도래 는 거리에서 스팅거라고 알려져 있다. 거리의 쥐 독에 담겨 있는 이 도래 는 그 끝 이 피부 를 뚫을 때 상당한 불편 을 초래 할 것 이다"". 이 도래 는 하스쇼 레인 의 무기 매매자 인 에이스 제스터 에게서 왔습니다."
 area004,git,StoreList/0/StoreList/1/ItemList/1/DescIdentified,0,"""단순 히 감추는 이 사랑스러운 도래 는 거리에서 스팅거라고 알려져 있다. 거리의 쥐 독에 담겨 있는 이 도래 는 그 끝 이 피부 를 뚫을 때 상당한 불편 을 초래 할 것 이다"". 이 도래 는 하스쇼 레인 의 무기 매매자 인 에이스 제스터 에게서 왔습니다."
@@ -19541,7 +19543,7 @@ area005,git,SoundList/3/LocName,0,불평하는 사람
 area005,git,SoundList/4/LocName,0,불평하는 사람
 area005,git,SoundList/5/LocName,0,기침하는 남자
 area005,git,SoundList/6/LocName,0,기침하는 여자
-area005,git,SoundList/7/LocName,0,술 취한 남자가 밖에서 소리친다
+area005,git,SoundList/7/LocName,0,술 취한 사내들이 밖에서 고함
 area005,git,SoundList/8/LocName,0,취한 남성
 area005,git,SoundList/9/LocName,0,취한 여성
 area005,git,SoundList/10/LocName,0,딸꾹질 하는 남자
@@ -19708,21 +19710,21 @@ area006,git,SoundList/31/LocName,0,밖에서 사람들이 웃는 소리
 area006,git,SoundList/32/LocName,0,개가 짖음
 area006,git,SoundList/33/LocName,0,고양이 비명
 area006,git,SoundList/72/LocName,0,밤의 소리
-area006,git,SoundList/73/LocName,0,밤의 소리가 낮게 들린다
+area006,git,SoundList/73/LocName,0,밤의 소리 낮게
 area006,git,SoundList/74/LocName,0,늦은 아침 소리
 area006,git,SoundList/75/LocName,0,오후 소리
 area006,git,SoundList/76/LocName,0,아침 소리
 area006,git,SoundList/77/LocName,0,시티 003
 area006,git,SoundList/78/LocName,0,"건배, 평민 여러분."
-area006,git,SoundList/79/LocName,0,손님 밖에서 소리친다
-area006,git,SoundList/80/LocName,0,손님 밖에서 소리친다
+area006,git,SoundList/79/LocName,0,손님이 밖에서 고함
+area006,git,SoundList/80/LocName,0,손님이 밖에서 고함
 area006,git,SoundList/81/LocName,0,배의 고동 소리
 area006,git,SoundList/98/LocName,0,새 날갯짓
 area006,git,SoundList/99/LocName,0,밖에서 도시 아이들의 함성
-area006,git,SoundList/100/LocName,0,손님 밖에서 소리친다
+area006,git,SoundList/100/LocName,0,손님이 밖에서 고함
 area006,git,SoundList/103/LocName,0,음악 기구
 area006,git,SoundList/107/LocName,0,바람시계
-area006,git,SoundList/108/LocName,0,손님 밖에서 소리친다
+area006,git,SoundList/108/LocName,0,손님이 밖에서 고함
 area006,git,SoundList/114/LocName,0,바람시계
 area006,git,SoundList/115/LocName,0,비둘기 칭칭 소리
 area006,git,SoundList/116/LocName,0,새 날갯짓
@@ -20182,9 +20184,11 @@ area009,git,Placeable List/171/ItemList/0/Description,0,"이 나무 용기는 �
 area009,git,Placeable List/171/ItemList/0/DescIdentified,0,"이 나무 용기는 물을 담는데 사용되며, 현재는 비어 있습니다."
 area009,git,Placeable List/172/LocName,0,물
 area009,git,Placeable List/187/ItemList/0/LocalizedName,0,잘 사용된 해상 장화
-area009,git,Placeable List/187/ItemList/0/DescIdentified,0,"이 부츠 쌍은 여행 중에 본 곳들에 대한 모험적인 이야기들을 담아낼 수 있을 정도로 다양한 경험을 쌓아왔습니다. 잘 닳고 엮인 이 부츠 쌍은 항상 건조하게 유지함으로써 착용자의 발을 보호합니다.
+area009,git,Placeable List/187/ItemList/0/DescIdentified,0,"이 부츠는 여행 중 거쳐 온 곳들에 대한 모험담을 몇 편은 풀어놓을 수 있을 것이다.
 
-해적 섬의 가죽이라고는 하지만, 정확한 사실은 아닙니다."
+잘 길들여지고 촘촘히 엮인 이 낡은 선원용 부츠는 늘 발을 건조하게 유지해 신은 사람의 발을 보호한다.
+
+해적 섬의 가죽이라나, 사람들 말로는 그렇다."
 area009,git,Placeable List/187/ItemList/1/LocalizedName,0,블러드 러너 슈트
 area009,git,Placeable List/187/ItemList/1/Description,0,"이 가죽 갑옷은 블러드 러너의 승무원이 입던 것 같습니다. 그것은 어두운 빨간색, 보라색, 검은색으로 만든 가죽과 금속의 복합 갑옷입니다. 이 특정한 것은 블러드 러너 자체의 객실에서 가져온 것입니다!"
 area009,git,Placeable List/187/ItemList/1/DescIdentified,0,"이 가죽 갑옷은 블러드 러너의 승무원이 입던 것 같습니다. 그것은 어두운 빨간색, 보라색, 검은색으로 만든 가죽과 금속의 복합 갑옷입니다. 이 특정한 것은 블러드 러너 자체의 객실에서 가져온 것입니다!"
@@ -20437,12 +20441,12 @@ area011,git,StoreList/0/StoreList/1/ItemList/1/LocalizedName,0,빛을 끼운 화
 area011,git,StoreList/0/StoreList/1/ItemList/1/Description,0,"""당신 은 이것 을 나무 에서 가벼운 무게 를 가진 물건 을 만드는 데 훌륭 한 근원 이 되는 와일나무 의 중심 에서 조각 한 것 을 이해 할 것 이다. 이제 나는 활사꾼 이 아니었지만, 나무 를 둘러싼 방법을 확실히 알고 있기 때문 에 이 화살 의 수집 을 제공할 수 있다. 그들은 공기 를 통해 너무 잘 날아 다니며 가장 강한 갑옷 을도 뚫을 수 있다!"" 이 화살 의 수집 은 만드라크 루트 에 있는 우즈 앤 더스 라는 지역 상점에서 만들어졌다."
 area011,git,StoreList/0/StoreList/1/ItemList/1/DescIdentified,0,"""당신 은 이것 을 나무 에서 가벼운 무게 를 가진 물건 을 만드는 데 훌륭 한 근원 이 되는 와일나무 의 중심 에서 조각 한 것 을 이해 할 것 이다. 이제 나는 활사꾼 이 아니었지만, 나무 를 둘러싼 방법을 확실히 알고 있기 때문 에 이 화살 의 수집 을 제공할 수 있다. 그들은 공기 를 통해 너무 잘 날아 다니며 가장 강한 갑옷 을도 뚫을 수 있다!"" 이 화살 의 수집 은 만드라크 루트 에 있는 우즈 앤 더스 라는 지역 상점에서 만들어졌다."
 area011,git,StoreList/0/StoreList/1/ItemList/2/LocalizedName,0,튼튼한 볼트 묶음
-area011,git,StoreList/0/StoreList/1/ItemList/2/Description,0,"""이 볼트의 끝 부분은 땅콩과 거북이 껍질의 혼합물로 만들어졌으며, 껍질은 코르미르에서 얻은 강하고 내구성이 있는 나무로 제작되었습니다. 비싸지만, 확실히 날 수 있으며, 불쾌한 펀치를 날릴 수 있습니다! 심지어 오그레를 부상으로 만들고 멀리 물러나게 할 만큼 충분합니다.""
+area011,git,StoreList/0/StoreList/1/ItemList/2/Description,0,"""이 볼트의 끝부분은 호두와 거북 껍질을 섞어 만들었고, 화살대는 코미르에서 나는 질기고 튼튼한 나무입니다. 값은 비싸지만 정말 잘 날아가고 한 방이 매섭죠! 오우거도 멍들게 해서 접근을 막기에 충분합니다.""
 
-이 볼트 컬렉션은 만드라크 로드에 위치한 우즈 앤 골즈라는 지역 상점에서 만들어졌습니다."
-area011,git,StoreList/0/StoreList/1/ItemList/2/DescIdentified,0,"""이 볼트의 끝 부분은 땅콩과 거북이 껍질의 혼합물로 만들어졌으며, 껍질은 코르미르에서 얻은 강하고 내구성이 있는 나무로 제작되었습니다. 비싸지만, 확실히 날 수 있으며, 불쾌한 펀치를 날릴 수 있습니다! 심지어 오그레를 부상으로 만들고 멀리 물러나게 할 만큼 충분합니다.""
+이 볼트 묶음은 맨드레이크 가에 있는 '우즈 앤 굿즈'라는 동네 가게에서 만들었다."
+area011,git,StoreList/0/StoreList/1/ItemList/2/DescIdentified,0,"""이 볼트의 끝부분은 호두와 거북 껍질을 섞어 만들었고, 화살대는 코미르에서 나는 질기고 튼튼한 나무입니다. 값은 비싸지만 정말 잘 날아가고 한 방이 매섭죠! 오우거도 멍들게 해서 접근을 막기에 충분합니다.""
 
-이 볼트 컬렉션은 만드라크 로드에 위치한 우즈 앤 골즈라는 지역 상점에서 만들어졌습니다."
+이 볼트 묶음은 맨드레이크 가에 있는 '우즈 앤 굿즈'라는 동네 가게에서 만들었다."
 area011,git,StoreList/0/StoreList/1/ItemList/3/LocalizedName,0,수제 볼트
 area011,git,StoreList/0/StoreList/1/ItemList/3/Description,0,"""이 컬렉션은 지난 몇 주 동안 조각한 화살에 있어서 가장 저렴한 것 같습니다. 이 화살은 가게에서 손으로 만든 화살에 사용했던 나무 조각과 같은 것들입니다. 이 화살 컬렉션은 만드라크 루트에 있는 우즈 앤 더스라는 현지 가게에서 만들어졌으며, 마법적인 특성이 없습니다."""
 area011,git,StoreList/0/StoreList/1/ItemList/3/DescIdentified,0,"""이 컬렉션은 지난 몇 주 동안 조각한 화살에 있어서 가장 저렴한 것 같습니다. 이 화살은 가게에서 손으로 만든 화살에 사용했던 나무 조각과 같은 것들입니다. 이 화살 컬렉션은 만드라크 루트에 있는 우즈 앤 더스라는 현지 가게에서 만들어졌으며, 마법적인 특성이 없습니다."""
@@ -20569,7 +20573,7 @@ area013,git,SoundList/2/LocName,0,불평하는 사람
 area013,git,SoundList/3/LocName,0,불평하는 사람
 area013,git,SoundList/4/LocName,0,기침하는 남자
 area013,git,SoundList/5/LocName,0,기침하는 여자
-area013,git,SoundList/6/LocName,0,술 취한 남자가 밖에서 소리친다
+area013,git,SoundList/6/LocName,0,술 취한 사내들이 밖에서 고함
 area013,git,SoundList/7/LocName,0,취한 남성
 area013,git,SoundList/8/LocName,0,취한 여성
 area013,git,SoundList/9/LocName,0,딸꾹질 하는 남자
@@ -20686,7 +20690,7 @@ area015,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,관통 경쇠뇌
 area015,git,StoreList/0/StoreList/1/ItemList/0/Description,0,"가벼운 구슬은 에본색의 줄기를 가지고 있으며, 그다지 무겁지 않습니다."
 area015,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,"이 크로스보이는 손으로 제작된 에본 주류를 가지고 있으며, 그 끈을 위해 거대 거미줄이 장착되어 있습니다. 그줄은 뱀 기름으로 마찰되었습니다. 이 크로스보에서 날아오는 모든 볼트는 ਨਿਸ਼ਾਨਾ를 뚫을 것입니다. 이 크로스보이는 스트립에 위치한 The Gifthouse라는 지역 상점에서 만들어졌습니다."
 area015,git,StoreList/0/StoreList/1/ItemList/1/LocalizedName,0,추운 쇠뇌화살
-area015,git,StoreList/0/StoreList/1/ItemList/1/Description,0,이 화살이 손에서 찔리듯이 느껴진다
+area015,git,StoreList/0/StoreList/1/ItemList/1/Description,0,이 볼트가 손에서 찌릿찌릿하다
 area015,git,StoreList/0/StoreList/1/ItemList/1/DescIdentified,0,콜드니스의 볼트는 차가운 마법으로 처리되며 표적을 얼게 합니다. 이 볼트의 컬렉션은 루엄 애브루에 위치한 지피의 상품이라는 현지 가게에서 만들어졌습니다.
 area015,git,StoreList/0/StoreList/3/ItemList/0/LocalizedName,0,확신의 반지
 area015,git,StoreList/0/StoreList/3/ItemList/0/Description,0,이건 단순한 은 반지입니다.
@@ -22046,7 +22050,7 @@ area033,git,SoundList/10/LocName,0,벨 타워 울림
 area033,git,SoundList/11/LocName,0,불평하는 사람
 area033,git,SoundList/12/LocName,0,웃는 여자
 area033,git,SoundList/13/LocName,0,딸꾹질 하는 남자
-area033,git,SoundList/14/LocName,0,술 취한 남자가 밖에서 소리친다
+area033,git,SoundList/14/LocName,0,술 취한 사내들이 밖에서 고함
 area033,git,SoundList/15/LocName,0,기침하는 여자
 area033,git,SoundList/16/LocName,0,웃는 남자
 area033,git,TriggerList/0/LocalizedName,0,MAP_PIN
@@ -22672,11 +22676,11 @@ area037,git,Placeable List/71/ItemList/6/LocalizedName,0,라벤더 슬라이스 
 area037,git,Placeable List/71/ItemList/6/Description,0,"이 절단된 디나르는 특정한 방식으로 래벤더색으로 조각되고 그늘을 주어, 상인이나 거래자들이 단순히 보는 것만으로 가치를 알 수 있게 해준다. 이 래벤더색 절단된 디나르는 무역에서 20gp밖에 가치가 없다."
 area037,git,Placeable List/71/ItemList/6/DescIdentified,0,"이 절단된 디나르는 특정한 방식으로 래벤더색으로 조각되고 그늘을 주어, 상인이나 거래자들이 단순히 보는 것만으로 가치를 알 수 있게 해준다. 이 래벤더색 절단된 디나르는 무역에서 20gp밖에 가치가 없다."
 area037,git,Placeable List/71/ItemList/7/LocalizedName,0,붉은 조각으로 잘린 디나르
-area037,git,Placeable List/71/ItemList/7/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area037,git,Placeable List/71/ItemList/7/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area037,git,Placeable List/71/ItemList/7/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area037,git,Placeable List/71/ItemList/7/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area037,git,Placeable List/71/ItemList/8/LocalizedName,0,붉은 조각으로 잘린 디나르
-area037,git,Placeable List/71/ItemList/8/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area037,git,Placeable List/71/ItemList/8/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area037,git,Placeable List/71/ItemList/8/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area037,git,Placeable List/71/ItemList/8/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area037,git,Placeable List/71/ItemList/9/LocalizedName,0,빈 물약병
 area037,git,Placeable List/71/ItemList/9/Description,0,이 빈 포션 병은 실험실에서 만든 용액들을 담기에 적합합니다.
 area037,git,Placeable List/71/ItemList/9/DescIdentified,0,이 빈 포션 병은 실험실에서 만든 용액들을 담기에 적합합니다.
@@ -22708,7 +22712,7 @@ area038,git,SoundList/0/LocName,0,선술집 박수
 area038,git,SoundList/1/LocName,0,선술집 박수
 area038,git,SoundList/2/LocName,0,웃는 여자
 area038,git,SoundList/3/LocName,0,기침하는 여자
-area038,git,SoundList/4/LocName,0,술 취한 남자가 밖에서 소리친다
+area038,git,SoundList/4/LocName,0,술 취한 사내들이 밖에서 고함
 area038,git,SoundList/5/LocName,0,딸꾹질 하는 남자
 area038,git,SoundList/6/LocName,0,불평하는 사람
 area038,git,SoundList/7/LocName,0,웃는 남자
@@ -22917,12 +22921,12 @@ area040,git,SoundList/27/LocName,0,골짜기 물
 area040,git,SoundList/28/LocName,0,골짜기 물
 area040,git,SoundList/29/LocName,0,"건배, 평민 여러분."
 area040,git,SoundList/30/LocName,0,외곽의 남자들에게 건배
-area040,git,SoundList/31/LocName,0,손님 밖에서 소리친다
+area040,git,SoundList/31/LocName,0,손님이 밖에서 고함
 area040,git,SoundList/32/LocName,0,배의 고동 소리
-area040,git,SoundList/33/LocName,0,손님 밖에서 소리친다
-area040,git,SoundList/34/LocName,0,손님 밖에서 소리친다
+area040,git,SoundList/33/LocName,0,손님이 밖에서 고함
+area040,git,SoundList/34/LocName,0,손님이 밖에서 고함
 area040,git,SoundList/35/LocName,0,갈매기 울음
-area040,git,SoundList/36/LocName,0,손님 밖에서 소리친다
+area040,git,SoundList/36/LocName,0,손님이 밖에서 고함
 area040,git,SoundList/37/LocName,0,비둘기 칭칭 소리
 area040,git,SoundList/38/LocName,0,배의 고동 소리
 area040,git,SoundList/39/LocName,0,배의 고동 소리
@@ -22956,7 +22960,7 @@ area040,git,SoundList/99/LocName,0,벨 울림
 area040,git,SoundList/100/LocName,0,새 날갯짓
 area040,git,SoundList/101/LocName,0,밖에서 도시 아이들의 함성
 area040,git,SoundList/102/LocName,0,밖에서 사람들이 웃는 소리
-area040,git,SoundList/123/LocName,0,손님 밖에서 소리친다
+area040,git,SoundList/123/LocName,0,손님이 밖에서 고함
 area040,git,SoundList/137/LocName,0,바람시계
 area040,git,SoundList/138/LocName,0,바람시계
 area040,git,SoundList/139/LocName,0,노래하는 새들
@@ -23440,8 +23444,8 @@ area042,git,Placeable List/73/ItemList/6/LocalizedName,0,레드 슬라이버 디
 area042,git,Placeable List/73/ItemList/6/Description,0,"이 가는 디나르는 특별한 방식으로 조각되어 적색으로 그라데이션되어 있어 상인, 거래자 및 거래를 하는 사람들은 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 붉은 가는 디나르는 거래에서 1gp밖에 가치가 없다."
 area042,git,Placeable List/73/ItemList/6/DescIdentified,0,"이 가는 디나르는 특별한 방식으로 조각되어 적색으로 그라데이션되어 있어 상인, 거래자 및 거래를 하는 사람들은 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 붉은 가는 디나르는 거래에서 1gp밖에 가치가 없다."
 area042,git,Placeable List/73/ItemList/7/LocalizedName,0,붉은 조각으로 잘린 디나르
-area042,git,Placeable List/73/ItemList/7/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area042,git,Placeable List/73/ItemList/7/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area042,git,Placeable List/73/ItemList/7/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area042,git,Placeable List/73/ItemList/7/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area042,git,Placeable List/75/LocName,0,GI_Shelf
 area042,git,Placeable List/75/Description,0,캔들이 있는 래프트
 area042,git,Placeable List/76/LocName,0,캔과 함께 있는 GI_Shelf
@@ -24050,11 +24054,11 @@ area048,git,Placeable List/40/ItemList/2/Description,0,이 깨진 테이블 다�
 area048,git,Placeable List/40/ItemList/2/DescIdentified,0,이 깨진 테이블 다리는 불꽃대신에 사용하기 딱 좋을 크기야. 만약에 불꽃을 감싸는 걸로 만드는 데 필요한 걸 가지고 있었다면.
 area048,git,Placeable List/43/LocName,0,목재궤짝
 area048,git,Placeable List/43/ItemList/0/LocalizedName,0,붉은 조각으로 잘린 디나르
-area048,git,Placeable List/43/ItemList/0/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area048,git,Placeable List/43/ItemList/0/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area048,git,Placeable List/43/ItemList/0/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area048,git,Placeable List/43/ItemList/0/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area048,git,Placeable List/43/ItemList/1/LocalizedName,0,붉은 조각으로 잘린 디나르
-area048,git,Placeable List/43/ItemList/1/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area048,git,Placeable List/43/ItemList/1/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area048,git,Placeable List/43/ItemList/1/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area048,git,Placeable List/43/ItemList/1/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area048,git,Placeable List/43/ItemList/2/LocalizedName,0,레드 슬라이버 디나르
 area048,git,Placeable List/43/ItemList/2/Description,0,"이 가는 디나르는 특별한 방식으로 조각되어 적색으로 그라데이션되어 있어 상인, 거래자 및 거래를 하는 사람들은 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 붉은 가는 디나르는 거래에서 1gp밖에 가치가 없다."
 area048,git,Placeable List/43/ItemList/2/DescIdentified,0,"이 가는 디나르는 특별한 방식으로 조각되어 적색으로 그라데이션되어 있어 상인, 거래자 및 거래를 하는 사람들은 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 붉은 가는 디나르는 거래에서 1gp밖에 가치가 없다."
@@ -24261,8 +24265,8 @@ area052,git,SoundList/36/LocName,0,도시 소리
 area052,git,SoundList/42/LocName,0,비둘기 칭칭 소리
 area052,git,SoundList/45/LocName,0,음악 기구
 area052,git,SoundList/48/LocName,0,"건배, 평민 여러분."
-area052,git,SoundList/55/LocName,0,손님 밖에서 소리친다
-area052,git,SoundList/56/LocName,0,손님 밖에서 소리친다
+area052,git,SoundList/55/LocName,0,손님이 밖에서 고함
+area052,git,SoundList/56/LocName,0,손님이 밖에서 고함
 area052,git,TriggerList/0/LocalizedName,0,TOD 밤 인카운터
 area052,git,WaypointList/0/LocalizedName,0,CITY_GYPSYLANE
 area052,git,WaypointList/1/LocalizedName,0,mr_gypsy_flies
@@ -24708,10 +24712,10 @@ area055,git,SoundList/35/LocName,0,도시 소리
 area055,git,SoundList/41/LocName,0,비둘기 칭칭 소리
 area055,git,SoundList/44/LocName,0,음악 기구
 area055,git,SoundList/47/LocName,0,"건배, 평민 여러분."
-area055,git,SoundList/54/LocName,0,손님 밖에서 소리친다
-area055,git,SoundList/55/LocName,0,손님 밖에서 소리친다
-area055,git,SoundList/70/LocName,0,손님 밖에서 소리친다
-area055,git,SoundList/83/LocName,0,손님 밖에서 소리친다
+area055,git,SoundList/54/LocName,0,손님이 밖에서 고함
+area055,git,SoundList/55/LocName,0,손님이 밖에서 고함
+area055,git,SoundList/70/LocName,0,손님이 밖에서 고함
+area055,git,SoundList/83/LocName,0,손님이 밖에서 고함
 area055,git,SoundList/85/LocName,0,"건배, 평민 여러분."
 area055,git,SoundList/88/LocName,0,수탉
 area055,git,SoundList/89/LocName,0,벨 타워 울림
@@ -25098,8 +25102,8 @@ area059,git,Placeable List/75/ItemList/0/LocalizedName,0,노랑 슬라이버 디
 area059,git,Placeable List/75/ItemList/0/Description,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
 area059,git,Placeable List/75/ItemList/0/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
 area059,git,Placeable List/75/ItemList/1/LocalizedName,0,붉은 조각으로 잘린 디나르
-area059,git,Placeable List/75/ItemList/1/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area059,git,Placeable List/75/ItemList/1/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area059,git,Placeable List/75/ItemList/1/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area059,git,Placeable List/75/ItemList/1/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area059,git,Placeable List/75/ItemList/2/LocalizedName,0,레드 슬라이버 디나르
 area059,git,Placeable List/75/ItemList/2/Description,0,"이 가는 디나르는 특별한 방식으로 조각되어 적색으로 그라데이션되어 있어 상인, 거래자 및 거래를 하는 사람들은 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 붉은 가는 디나르는 거래에서 1gp밖에 가치가 없다."
 area059,git,Placeable List/75/ItemList/2/DescIdentified,0,"이 가는 디나르는 특별한 방식으로 조각되어 적색으로 그라데이션되어 있어 상인, 거래자 및 거래를 하는 사람들은 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 붉은 가는 디나르는 거래에서 1gp밖에 가치가 없다."
@@ -25214,8 +25218,16 @@ area061,git,StoreList/2/StoreList/0/ItemList/2/Description,0,"""이 코르미르
 area061,git,StoreList/2/StoreList/0/ItemList/2/DescIdentified,0,"""이 코르미르 전투복은 북쪽에 있는 한 나라에서 온 것인데, 그 나라가 무너져 내리고 있다는 소문이 있습니다. 거의 몇 명만이 알브라이벤에 도착할 수 있으며, 도시의 사회들에 의해 빠르게 빼앗겨집니다.""  
 이 의복은 카스터의 벤히의 익스프레스에서 구입되었습니다."
 area061,git,StoreList/2/StoreList/0/ItemList/3/LocalizedName,0,레인보우 망토
-area061,git,StoreList/2/StoreList/0/ItemList/3/Description,0,"이 옷차림은 옆으로 움직일 때 색이 바뀌며, 자수는 여러 색상과 텍스처로 이루어져 있습니다. ""아, 예, 옷차림을 찾고 계시다면 정말 좋은 선택입니다! 무지개 디자인과 자수, 마법이죠! 그것은 녹색에서 시작되어 착용하면서 다른 색으로 바뀝니다. 무지개의 색과 비슷합니다."" 이 이상한 모양의 마법적인 옷차림은 벤히의 익스프레스에서 카스터의 주장입니다."
-area061,git,StoreList/2/StoreList/0/ItemList/3/DescIdentified,0,"이 옷차림은 옆으로 움직일 때 색이 바뀌며, 자수는 여러 색상과 텍스처로 이루어져 있습니다. ""아, 예, 옷차림을 찾고 계시다면 정말 좋은 선택입니다! 무지개 디자인과 자수, 마법이죠! 그것은 녹색에서 시작되어 착용하면서 다른 색으로 바뀝니다. 무지개의 색과 비슷합니다."" 이 이상한 모양의 마법적인 옷차림은 벤히의 익스프레스에서 카스터의 주장입니다."
+area061,git,StoreList/2/StoreList/0/ItemList/3/Description,0,"이 망토는 몸을 옆으로 움직일 때마다 색이 변하고, 바느질은 여러 빛깔과 질감으로 이루어져 있다.
+
+""아, 그렇죠, 망토를 찾으신다면 정말 훌륭한 선택입니다! 무지개 무늬와 바느질, 마법이지요! 처음엔 초록색인데 입고 있는 동안 한 색에서 다른 색으로 변해 갑니다. 무지개 색깔처럼요.""
+
+이 기묘하게 생긴 마법 망토는 벤히스 익스프레스의 '캐스터스 클레임'에서 나온 것이다."
+area061,git,StoreList/2/StoreList/0/ItemList/3/DescIdentified,0,"이 망토는 몸을 옆으로 움직일 때마다 색이 변하고, 바느질은 여러 빛깔과 질감으로 이루어져 있다.
+
+""아, 그렇죠, 망토를 찾으신다면 정말 훌륭한 선택입니다! 무지개 무늬와 바느질, 마법이지요! 처음엔 초록색인데 입고 있는 동안 한 색에서 다른 색으로 변해 갑니다. 무지개 색깔처럼요.""
+
+이 기묘하게 생긴 마법 망토는 벤히스 익스프레스의 '캐스터스 클레임'에서 나온 것이다."
 area061,git,StoreList/2/StoreList/3/ItemList/0/LocalizedName,0,스미머
 area061,git,StoreList/2/StoreList/3/ItemList/0/Description,0,"이 반지는 에블린 사상가 들 이 가장 좋아하는 반지 이다. 많은 신입생 들 은 이 종류 의 반지를 구입 하여 밤 에 공부 할 수 있도록 하거나 필요 시 에 추가 가 빛 을 줄 수 있도록 한다"". 이 반지는 베니 에스프레스 에 대한 카스터 의 주장 에서 구입 되었다."
 area061,git,StoreList/2/StoreList/3/ItemList/0/DescIdentified,0,"이 반지는 에블린 사상가 들 이 가장 좋아하는 반지 이다. 많은 신입생 들 은 이 종류 의 반지를 구입 하여 밤 에 공부 할 수 있도록 하거나 필요 시 에 추가 가 빛 을 줄 수 있도록 한다"". 이 반지는 베니 에스프레스 에 대한 카스터 의 주장 에서 구입 되었다."
@@ -25600,8 +25612,8 @@ area063,git,Placeable List/60/ItemList/0/LocalizedName,0,보라색 슬라이버 
 area063,git,Placeable List/60/ItemList/0/Description,0,"이 디나르 조각은 특별한 방식으로 조각되어 보라색으로 그늘을 씌워져 있어 상인, 거래자 및 거래자들로 하여금 단순히 그것을 보면서 그 가치를 알 수 있게 해줍니다. 이 보라색 디나르 조각은 거래에서 2gp만 가치 있습니다."
 area063,git,Placeable List/60/ItemList/0/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 조각되어 보라색으로 그늘을 씌워져 있어 상인, 거래자 및 거래자들로 하여금 단순히 그것을 보면서 그 가치를 알 수 있게 해줍니다. 이 보라색 디나르 조각은 거래에서 2gp만 가치 있습니다."
 area063,git,Placeable List/60/ItemList/1/LocalizedName,0,붉은 조각으로 잘린 디나르
-area063,git,Placeable List/60/ItemList/1/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area063,git,Placeable List/60/ItemList/1/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area063,git,Placeable List/60/ItemList/1/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area063,git,Placeable List/60/ItemList/1/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area063,git,Placeable List/60/ItemList/2/LocalizedName,0,별 모양의 디나르
 area063,git,Placeable List/60/ItemList/2/Description,0,"이 별 모양의 다이너는 밝은 시얀으로 조각되어 색칠되어 있어 상인, 상인 및 거래하는 사람들이 단순히 그것을 보면서 그 가치를 알 수 있습니다."
 area063,git,Placeable List/60/ItemList/2/DescIdentified,0,"이 별 모양의 다이너는 밝은 시얀으로 조각되어 색칠되어 있어 상인, 상인 및 거래하는 사람들이 단순히 그것을 보면서 그 가치를 알 수 있습니다."
@@ -25800,14 +25812,14 @@ area066,git,StoreList/0/LocName,0,BE_TIEF_MERC3
 area066,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,침략
 area066,git,StoreList/0/StoreList/1/ItemList/0/Description,0,"피치:
 
-""미세한 마법 칼로, 뚫거나 썰어 놓은 사람에게 엉성한 상처를 주기에 적합합니다. 이 칼은 치아 같은 흰색 손잡이로 가볍고, 팔찌나 허벅지 띠에 쉽게 숨길 수 있습니다.""
+""치명적으로 벼려진 날을 가진 훌륭한 마법 칼로, 찌르거나 베는 상대에게 지저분한 상처를 입히기에 안성맞춤이다. 상아 자루 덕에 가볍고 소매나 허벅지 끈에 숨기기도 쉽다.""
 
-이 칼은 벤히스 익스프레스의 티플링 상인으로부터 온 것입니다."
+이 칼은 벤히스 익스프레스의 티플링 상인에게서 나온 것이다."
 area066,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,"피치:
 
-""미세한 마법 칼로, 뚫거나 썰어 놓은 사람에게 엉성한 상처를 주기에 적합합니다. 이 칼은 치아 같은 흰색 손잡이로 가볍고, 팔찌나 허벅지 띠에 쉽게 숨길 수 있습니다.""
+""치명적으로 벼려진 날을 가진 훌륭한 마법 칼로, 찌르거나 베는 상대에게 지저분한 상처를 입히기에 안성맞춤이다. 상아 자루 덕에 가볍고 소매나 허벅지 끈에 숨기기도 쉽다.""
 
-이 칼은 벤히스 익스프레스의 티플링 상인으로부터 온 것입니다."
+이 칼은 벤히스 익스프레스의 티플링 상인에게서 나온 것이다."
 area066,git,StoreList/0/StoreList/1/ItemList/1/Description,0,"피치: ""이 칼은 가까운 거리에서 전투가 벌어질 때 유용한 칼이다. 이 칼은 칼임 사막의 모래 아래 어딘가에 있는 보물고에서 나온 것이라고 한다. 이 칼을 사용하는 자는 어떤 신체 부위를 공격해야 하는지 더 잘 이해하게 되며, 적과 접촉할 확률이 높아진다.""
 
 이 칼은 벤히의 익스프레스에 있는 티플링 상인, 벤히가 소유하고 있었다."
@@ -26031,14 +26043,14 @@ area066,git,StoreList/4/LocName,0,BE_TIEF_MERC2
 area066,git,StoreList/4/StoreList/1/ItemList/0/LocalizedName,0,침략
 area066,git,StoreList/4/StoreList/1/ItemList/0/Description,0,"피치:
 
-""미세한 마법 칼로, 뚫거나 썰어 놓은 사람에게 엉성한 상처를 주기에 적합합니다. 이 칼은 치아 같은 흰색 손잡이로 가볍고, 팔찌나 허벅지 띠에 쉽게 숨길 수 있습니다.""
+""치명적으로 벼려진 날을 가진 훌륭한 마법 칼로, 찌르거나 베는 상대에게 지저분한 상처를 입히기에 안성맞춤이다. 상아 자루 덕에 가볍고 소매나 허벅지 끈에 숨기기도 쉽다.""
 
-이 칼은 벤히스 익스프레스의 티플링 상인으로부터 온 것입니다."
+이 칼은 벤히스 익스프레스의 티플링 상인에게서 나온 것이다."
 area066,git,StoreList/4/StoreList/1/ItemList/0/DescIdentified,0,"피치:
 
-""미세한 마법 칼로, 뚫거나 썰어 놓은 사람에게 엉성한 상처를 주기에 적합합니다. 이 칼은 치아 같은 흰색 손잡이로 가볍고, 팔찌나 허벅지 띠에 쉽게 숨길 수 있습니다.""
+""치명적으로 벼려진 날을 가진 훌륭한 마법 칼로, 찌르거나 베는 상대에게 지저분한 상처를 입히기에 안성맞춤이다. 상아 자루 덕에 가볍고 소매나 허벅지 끈에 숨기기도 쉽다.""
 
-이 칼은 벤히스 익스프레스의 티플링 상인으로부터 온 것입니다."
+이 칼은 벤히스 익스프레스의 티플링 상인에게서 나온 것이다."
 area066,git,StoreList/4/StoreList/1/ItemList/1/Description,0,"피치: ""이 칼은 가까운 거리에서 전투가 벌어질 때 유용한 칼이다. 이 칼은 칼임 사막의 모래 아래 어딘가에 있는 보물고에서 나온 것이라고 한다. 이 칼을 사용하는 자는 어떤 신체 부위를 공격해야 하는지 더 잘 이해하게 되며, 적과 접촉할 확률이 높아진다.""
 
 이 칼은 벤히의 익스프레스에 있는 티플링 상인, 벤히가 소유하고 있었다."
@@ -26089,14 +26101,14 @@ area066,git,StoreList/5/LocName,0,BE_TIEF_MERC1
 area066,git,StoreList/5/StoreList/1/ItemList/0/LocalizedName,0,침략
 area066,git,StoreList/5/StoreList/1/ItemList/0/Description,0,"피치:
 
-""미세한 마법 칼로, 뚫거나 썰어 놓은 사람에게 엉성한 상처를 주기에 적합합니다. 이 칼은 치아 같은 흰색 손잡이로 가볍고, 팔찌나 허벅지 띠에 쉽게 숨길 수 있습니다.""
+""치명적으로 벼려진 날을 가진 훌륭한 마법 칼로, 찌르거나 베는 상대에게 지저분한 상처를 입히기에 안성맞춤이다. 상아 자루 덕에 가볍고 소매나 허벅지 끈에 숨기기도 쉽다.""
 
-이 칼은 벤히스 익스프레스의 티플링 상인으로부터 온 것입니다."
+이 칼은 벤히스 익스프레스의 티플링 상인에게서 나온 것이다."
 area066,git,StoreList/5/StoreList/1/ItemList/0/DescIdentified,0,"피치:
 
-""미세한 마법 칼로, 뚫거나 썰어 놓은 사람에게 엉성한 상처를 주기에 적합합니다. 이 칼은 치아 같은 흰색 손잡이로 가볍고, 팔찌나 허벅지 띠에 쉽게 숨길 수 있습니다.""
+""치명적으로 벼려진 날을 가진 훌륭한 마법 칼로, 찌르거나 베는 상대에게 지저분한 상처를 입히기에 안성맞춤이다. 상아 자루 덕에 가볍고 소매나 허벅지 끈에 숨기기도 쉽다.""
 
-이 칼은 벤히스 익스프레스의 티플링 상인으로부터 온 것입니다."
+이 칼은 벤히스 익스프레스의 티플링 상인에게서 나온 것이다."
 area066,git,StoreList/5/StoreList/1/ItemList/1/Description,0,"피치: ""이 칼은 가까운 거리에서 전투가 벌어질 때 유용한 칼이다. 이 칼은 칼임 사막의 모래 아래 어딘가에 있는 보물고에서 나온 것이라고 한다. 이 칼을 사용하는 자는 어떤 신체 부위를 공격해야 하는지 더 잘 이해하게 되며, 적과 접촉할 확률이 높아진다.""
 
 이 칼은 벤히의 익스프레스에 있는 티플링 상인, 벤히가 소유하고 있었다."
@@ -26600,8 +26612,8 @@ area068,git,Placeable List/58/ItemList/2/LocalizedName,0,좋은 화염 마노
 area068,git,Placeable List/58/ItemList/2/Description,0,"불마노는 얇은 갈색 층으로 형성되어 들어오는 빛을 굴절시켜 보석에 ""불""을 입힌다. 이 굴절은 종종 용의 비늘을 연상시키는 무늬를 이루어, 용족의 후예임을 자처하는 마법사들이 귀하게 여긴다. 잘 세공된 돌은 겉층을 갈아 내어 불꽃만 보이게 한다."
 area068,git,Placeable List/58/ItemList/2/DescIdentified,0,암시야 주문에도 사용되죠.
 area068,git,Placeable List/58/ItemList/3/LocalizedName,0,붉은 조각으로 잘린 디나르
-area068,git,Placeable List/58/ItemList/3/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area068,git,Placeable List/58/ItemList/3/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area068,git,Placeable List/58/ItemList/3/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area068,git,Placeable List/58/ItemList/3/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area068,git,Placeable List/58/ItemList/4/LocalizedName,0,노랑 슬라이버 디나르
 area068,git,Placeable List/58/ItemList/4/Description,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
 area068,git,Placeable List/58/ItemList/4/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
@@ -26716,8 +26728,8 @@ area070,git,SoundList/32/LocName,0,오후 소리
 area070,git,SoundList/33/LocName,0,도시 소리
 area070,git,SoundList/36/LocName,0,비둘기 칭칭 소리
 area070,git,SoundList/41/LocName,0,"건배, 평민 여러분."
-area070,git,SoundList/46/LocName,0,손님 밖에서 소리친다
-area070,git,SoundList/47/LocName,0,손님 밖에서 소리친다
+area070,git,SoundList/46/LocName,0,손님이 밖에서 고함
+area070,git,SoundList/47/LocName,0,손님이 밖에서 고함
 area070,git,TriggerList/0/LocalizedName,0,휴식 지역
 area070,git,WaypointList/0/LocalizedName,0,FROM_SHED_SECOND
 area070,git,WaypointList/1/LocalizedName,0,SPAWN_SHAYLA_GL
@@ -26734,8 +26746,8 @@ area071,git,Creature List/0/ItemList/2/LocalizedName,0,보라색 슬라이버 �
 area071,git,Creature List/0/ItemList/2/Description,0,"이 디나르 조각은 특별한 방식으로 조각되어 보라색으로 그늘을 씌워져 있어 상인, 거래자 및 거래자들로 하여금 단순히 그것을 보면서 그 가치를 알 수 있게 해줍니다. 이 보라색 디나르 조각은 거래에서 2gp만 가치 있습니다."
 area071,git,Creature List/0/ItemList/2/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 조각되어 보라색으로 그늘을 씌워져 있어 상인, 거래자 및 거래자들로 하여금 단순히 그것을 보면서 그 가치를 알 수 있게 해줍니다. 이 보라색 디나르 조각은 거래에서 2gp만 가치 있습니다."
 area071,git,Creature List/0/ItemList/3/LocalizedName,0,붉은 조각으로 잘린 디나르
-area071,git,Creature List/0/ItemList/3/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area071,git,Creature List/0/ItemList/3/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area071,git,Creature List/0/ItemList/3/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area071,git,Creature List/0/ItemList/3/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area071,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,금골반지
 area071,git,Creature List/0/Equip_ItemList/1/Description,0,"이 단순한 모습의 반지는 ""스컬포트의 밝은 두개골""이라는 글씨가 새겨져 있습니다."
 area071,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"이 단순한 모습의 반지는 ""스컬포트의 밝은 두개골""이라는 글씨가 새겨져 있습니다."
@@ -26806,11 +26818,13 @@ area072,git,StoreList/0/StoreList/1/ItemList/20/DescIdentified,0,"소닉 비행�
 
 이 화살들의 모임은 러너스 엔드에 위치한 A Shot from Afar라는 현지 가게에서 만들어졌다."
 area072,git,StoreList/0/StoreList/1/ItemList/21/LocalizedName,0,소리 쇠뇌화살
-area072,git,StoreList/0/StoreList/1/ItemList/21/Description,0,이 화살이 손에서 찔리듯이 느껴진다
+area072,git,StoreList/0/StoreList/1/ItemList/21/Description,0,이 볼트가 손에서 찌릿찌릿하다
 area072,git,StoreList/0/StoreList/1/ItemList/21/DescIdentified,0,소닉 볼트 (Sonic Bolts) 는 타격 시 높은 음향을 내는 크로스보이 볼트이다. 이 소닉 진동으로 표적이 뼈까지 흔들린다. 이 볼트 컬렉션은 러너스 엔드에 위치한 A Shot from Afar라는 현지 가게에서 만들어졌습니다.
 area072,git,StoreList/0/StoreList/1/ItemList/22/LocalizedName,0,소리 탄환
 area072,git,StoreList/0/StoreList/1/ItemList/22/Description,0,이 총알은 손에서 찰싹거린다.
-area072,git,StoreList/0/StoreList/1/ItemList/22/DescIdentified,0,"소닉 탄환은 특별히 가공된 금속 돌멩이로, 타격 시 높은 음성 소리를 내며, 이 소닉 진동으로 목표는 뼈 깊이까지 흔들린다. 이 탄환의 모음은 러너스 엔드에 위치한 A Shot from Afar라는 현지 가게에서 만들어졌다."
+area072,git,StoreList/0/StoreList/1/ItemList/22/DescIdentified,0,"음파탄은 특수 처리한 금속 돌멩이로, 맞으면 높은 음파음을 낸다. 표적은 이 음파 진동에 뼛속까지 흔들린다.
+
+이 탄환 세트는 러너스 엔드에 있는 '어 샷 프롬 어파'라는 동네 가게에서 만들었다."
 area072,git,StoreList/0/StoreList/1/ItemList/23/LocalizedName,0,항상 무장
 area072,git,StoreList/0/StoreList/1/ItemList/23/Description,0,이건 평범한 화살포입니다.
 area072,git,StoreList/0/StoreList/1/ItemList/23/DescIdentified,0,이 크로스보이는 항상 다음 희생자를 향해 총을 쏘기 위해 준비된 볼트가 가득 차 있습니다. 이 크로스보이는 러너스 엔드에 위치한 지역 상점에서 만들어졌습니다.
@@ -27190,8 +27204,8 @@ area080,git,Placeable List/56/ItemList/3/LocalizedName,0,노랑 슬라이버 디
 area080,git,Placeable List/56/ItemList/3/Description,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
 area080,git,Placeable List/56/ItemList/3/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
 area080,git,Placeable List/56/ItemList/4/LocalizedName,0,붉은 조각으로 잘린 디나르
-area080,git,Placeable List/56/ItemList/4/Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-area080,git,Placeable List/56/ItemList/4/DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+area080,git,Placeable List/56/ItemList/4/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+area080,git,Placeable List/56/ItemList/4/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area080,git,Placeable List/56/ItemList/5/LocalizedName,0,라벤더 슬라이스 디나르
 area080,git,Placeable List/56/ItemList/5/Description,0,"이 절단된 디나르는 특정한 방식으로 래벤더색으로 조각되고 그늘을 주어, 상인이나 거래자들이 단순히 보는 것만으로 가치를 알 수 있게 해준다. 이 래벤더색 절단된 디나르는 무역에서 20gp밖에 가치가 없다."
 area080,git,Placeable List/56/ItemList/5/DescIdentified,0,"이 절단된 디나르는 특정한 방식으로 래벤더색으로 조각되고 그늘을 주어, 상인이나 거래자들이 단순히 보는 것만으로 가치를 알 수 있게 해준다. 이 래벤더색 절단된 디나르는 무역에서 20gp밖에 가치가 없다."
@@ -27290,20 +27304,20 @@ area083,git,SoundList/47/LocName,0,골짜기 물
 area083,git,SoundList/48/LocName,0,골짜기 물
 area083,git,SoundList/49/LocName,0,골짜기 물
 area083,git,SoundList/50/LocName,0,부두 삐걱거림
-area083,git,SoundList/51/LocName,0,손님 밖에서 소리친다
+area083,git,SoundList/51/LocName,0,손님이 밖에서 고함
 area083,git,SoundList/52/LocName,0,외곽의 남자들에게 건배
-area083,git,SoundList/53/LocName,0,손님 밖에서 소리친다
+area083,git,SoundList/53/LocName,0,손님이 밖에서 고함
 area083,git,SoundList/54/LocName,0,배의 고동 소리
 area083,git,SoundList/55/LocName,0,선원이 외부의 남자를 부르는 소리
-area083,git,SoundList/56/LocName,0,손님 밖에서 소리친다
-area083,git,SoundList/57/LocName,0,손님 밖에서 소리친다
+area083,git,SoundList/56/LocName,0,손님이 밖에서 고함
+area083,git,SoundList/57/LocName,0,손님이 밖에서 고함
 area083,git,SoundList/58/LocName,0,밖에서 도시 아이들의 함성
 area083,git,SoundList/59/LocName,0,병사가 밖에서 부른다
 area083,git,SoundList/60/LocName,0,비둘기 칭칭 소리
 area083,git,SoundList/61/LocName,0,배의 고동 소리
 area083,git,SoundList/62/LocName,0,배의 고동 소리
 area083,git,SoundList/63/LocName,0,배의 고동 소리
-area083,git,SoundList/65/LocName,0,손님 밖에서 소리친다
+area083,git,SoundList/65/LocName,0,손님이 밖에서 고함
 area083,git,SoundList/66/LocName,0,부두 삐걱거림
 area083,git,SoundList/67/LocName,0,부두 삐걱거림
 area083,git,SoundList/68/LocName,0,갈매기 울음
@@ -27702,22 +27716,22 @@ dockward,git,SoundList/49/LocName,0,골짜기 물
 dockward,git,SoundList/50/LocName,0,골짜기 물
 dockward,git,SoundList/51/LocName,0,부두 삐걱거림
 dockward,git,SoundList/52/LocName,0,"건배, 평민 여러분."
-dockward,git,SoundList/53/LocName,0,손님 밖에서 소리친다
+dockward,git,SoundList/53/LocName,0,손님이 밖에서 고함
 dockward,git,SoundList/54/LocName,0,외곽의 남자들에게 건배
 dockward,git,SoundList/55/LocName,0,새 날갯짓
-dockward,git,SoundList/56/LocName,0,손님 밖에서 소리친다
+dockward,git,SoundList/56/LocName,0,손님이 밖에서 고함
 dockward,git,SoundList/57/LocName,0,배의 고동 소리
 dockward,git,SoundList/58/LocName,0,벨 울림
 dockward,git,SoundList/59/LocName,0,선원이 외부의 남자를 부르는 소리
-dockward,git,SoundList/60/LocName,0,손님 밖에서 소리친다
-dockward,git,SoundList/61/LocName,0,손님 밖에서 소리친다
+dockward,git,SoundList/60/LocName,0,손님이 밖에서 고함
+dockward,git,SoundList/61/LocName,0,손님이 밖에서 고함
 dockward,git,SoundList/62/LocName,0,밖에서 도시 아이들의 함성
 dockward,git,SoundList/63/LocName,0,병사가 밖에서 부른다
 dockward,git,SoundList/64/LocName,0,비둘기 칭칭 소리
 dockward,git,SoundList/65/LocName,0,배의 고동 소리
 dockward,git,SoundList/66/LocName,0,배의 고동 소리
 dockward,git,SoundList/67/LocName,0,배의 고동 소리
-dockward,git,SoundList/69/LocName,0,손님 밖에서 소리친다
+dockward,git,SoundList/69/LocName,0,손님이 밖에서 고함
 dockward,git,SoundList/70/LocName,0,부두 삐걱거림
 dockward,git,SoundList/71/LocName,0,부두 삐걱거림
 dockward,git,SoundList/72/LocName,0,갈매기 울음
@@ -28904,10 +28918,10 @@ newmandrake001,git,SoundList/91/LocName,0,아침 소리
 newmandrake001,git,SoundList/92/LocName,0,아침 소리
 newmandrake001,git,SoundList/93/LocName,0,운이 없는 밤 소리
 newmandrake001,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,꿈의 쇠뇌화살
-newmandrake001,git,StoreList/0/StoreList/1/ItemList/0/Description,0,이 화살이 손에서 찔리듯이 느껴진다
+newmandrake001,git,StoreList/0/StoreList/1/ItemList/0/Description,0,이 볼트가 손에서 찌릿찌릿하다
 newmandrake001,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,꿈의 볼트들은 그들의 목표물을 마법으로 잠들게 할 수 있는 기회를 가지고 있습니다.
 newmandrake001,git,StoreList/0/StoreList/1/ItemList/1/LocalizedName,0,관통 쇠뇌화살
-newmandrake001,git,StoreList/0/StoreList/1/ItemList/1/Description,0,이 화살이 손에서 찔리듯이 느껴진다
+newmandrake001,git,StoreList/0/StoreList/1/ItemList/1/Description,0,이 볼트가 손에서 찌릿찌릿하다
 newmandrake001,git,StoreList/0/StoreList/1/ItemList/1/DescIdentified,0,이 볼트는 목표물에 깊숙이 파고들어 충돌 시 추가적인 관통 피해를 주는 것이 특징입니다. 이 특정 아이템은 만드레이크 루트에서 길 옆에서 구입되었습니다.
 newmandrake001,git,StoreList/0/StoreList/1/ItemList/2/LocalizedName,0,추운 탄환
 newmandrake001,git,StoreList/0/StoreList/1/ItemList/2/Description,0,이 총알은 손에서 찰싹거린다.
@@ -29766,12 +29780,12 @@ trade,git,SoundList/20/LocName,0,골짜기 물
 trade,git,SoundList/21/LocName,0,골짜기 물
 trade,git,SoundList/22/LocName,0,골짜기 물
 trade,git,SoundList/23/LocName,0,외곽의 남자들에게 건배
-trade,git,SoundList/24/LocName,0,손님 밖에서 소리친다
+trade,git,SoundList/24/LocName,0,손님이 밖에서 고함
 trade,git,SoundList/25/LocName,0,배의 고동 소리
 trade,git,SoundList/26/LocName,0,갈매기 울음
 trade,git,SoundList/27/LocName,0,비둘기 칭칭 소리
 trade,git,SoundList/72/LocName,0,도시 소리
-trade,git,SoundList/75/LocName,0,손님 밖에서 소리친다
+trade,git,SoundList/75/LocName,0,손님이 밖에서 고함
 trade,git,SoundList/76/LocName,0,웃는 여자
 trade,git,SoundList/77/LocName,0,웃는 남자
 trade,git,SoundList/78/LocName,0,새 날갯짓
@@ -29781,10 +29795,10 @@ trade,git,SoundList/81/LocName,0,밖에서 도시 아이들의 함성
 trade,git,SoundList/82/LocName,0,배의 고동 소리
 trade,git,SoundList/83/LocName,0,배의 고동 소리
 trade,git,SoundList/92/LocName,0,고양이 야옹
-trade,git,SoundList/93/LocName,0,손님 밖에서 소리친다
-trade,git,SoundList/94/LocName,0,손님 밖에서 소리친다
+trade,git,SoundList/93/LocName,0,손님이 밖에서 고함
+trade,git,SoundList/94/LocName,0,손님이 밖에서 고함
 trade,git,SoundList/95/LocName,0,새 날갯짓
-trade,git,SoundList/96/LocName,0,손님 밖에서 소리친다
+trade,git,SoundList/96/LocName,0,손님이 밖에서 고함
 trade,git,SoundList/97/LocName,0,배의 고동 소리
 trade,git,SoundList/98/LocName,0,배의 고동 소리
 trade,git,SoundList/99/LocName,0,새 지저귀는 소리
@@ -29925,7 +29939,7 @@ trade,git,StoreList/4/StoreList/4/ItemList/23/DescIdentified,0,자유 이동 마
 trade,git,StoreList/4/StoreList/4/ItemList/24/LocalizedName,0,릭리스 뿌리
 trade,git,StoreList/4/StoreList/4/ItemList/24/DescIdentified,0,속도 주문으로 사용됩니다.
 trade,git,StoreList/4/StoreList/4/ItemList/25/LocalizedName,0,"석회, 물, 대지"
-trade,git,StoreList/4/StoreList/4/ItemList/25/DescIdentified,0,석화 시켜야 했다
+trade,git,StoreList/4/StoreList/4/ItemList/25/DescIdentified,0,플래시 투 스톤 시전이 필요했다
 trade,git,StoreList/4/StoreList/4/ItemList/26/LocalizedName,0,금속 바
 trade,git,StoreList/4/StoreList/4/ItemList/26/DescIdentified,0,괴물 포박 주문을 위해 사용되었습니다.
 trade,git,StoreList/4/StoreList/4/ItemList/27/LocalizedName,0,금속 바
@@ -30844,11 +30858,12 @@ STATUS: 완전하지 않은
 밤에 다시 돌아와서 나와 이야기 해 주십시오!""
 
 ""달이 뜨면, 곧 만나겠습니다."""
-module,jrl,Categories/13/EntryList/15/Text,0,"위치: 알브라이벤 STATUS: 완전
+module,jrl,Categories/13/EntryList/15/Text,0,"위치: 알마라이벤
+상태: 완료
 
-어떤 이유 때문인지 나는 다""w리에서 다""w인을 치료할 수 없었고, 그녀는 결국 와리폴크 공동체의 일원으로 변해 나를 공격했습니다. 다른 선택이 없었기에, 나는 그녀를 내려놓아야 했습니다.
+어떤 이유에서인지 다르위엔의 감염을 치료하지 못했고, 그녀는 결국 늑대인간 무리의 일원으로 변해 나를 공격했다. 다른 선택의 여지가 없어 그녀를 처치해야 했다.
 
-나는 다""w인의 흔적을 따라갔던 이야기를 앰네크에게 전했습니다. 결국, 앰네크는 파괴된 것처럼 보였고, 군중 속에서 혼잣말을 하며 사라지는 것을 마지막으로 목격했습니다."
+다르위엔의 자취를 쫓아 모든 것이 어디로 이어졌는지 애넥스에게 이야기해 주었다. 결국 애넥스는 무너진 모습이었고, 군중 속으로 사라지며 혼잣말을 중얼거리는 모습이 마지막이었다."
 module,jrl,Categories/14/Name,0,알브라이벤: 노인의 악마
 module,jrl,Categories/14/EntryList/0/Text,0,"위치: 하스쇼 라인 상태: 불완전 한 하스쇼 라인 에 있는 한 노인 은 귀신 들 또는 아마 악마 들 이 잡은 것 처럼 보인다. 그리고 나는 그의 마음을 되찾을 수 있도록 할 수 있는 모든 것을 제안했다. 차가운 속삭임과 다른 목소리가 노인의 입술에서 깨어나면서 나를 둘러싸고 형성되었다. 아쉬, 메라, 케사라는 이름들은 귀신들이 알고 있는 사람으로서 사용되었다. 그들이 말하는 이름은 시라, 또한 그들에게 실이라고도 알려져 있다. 이러한 귀신들이 어떤 종류의 화재에서 멸망한 것 같았다. 아마도 주변을 묻는 것은 좋은 시작일 것 같습니다."
 module,jrl,Categories/14/EntryList/1/Text,0,"위치: 하스쇼 라인 상태: 완전하지 않은 상태에서 시라에 대해 물어보기 위해 시간을 내기 시작했고, 시라가 불에 죽었다고 말한 페잔이라는 거리의 옆으로 갔습니다. 시라의 집은 이제 불에 죽었습니다. ""그녀와 그녀가 함께 살았던 모든 사람들은 불에 죽었습니다. 그녀를 전에 알지 못했지만 모든 사람들이 불 때문에 그녀를 알고 있습니다""."
@@ -30899,12 +30914,12 @@ module,jrl,Categories/16/EntryList/3/Text,0,"위치: 낚시꾼 그릴
 Firiem은 감금되어 있어도 상관없다."
 module,jrl,Categories/16/EntryList/4/Text,0,"위치: 낚시꾼의 자리 상태: 불완전한 것: 낚시꾼의 자리 소유자와 이야기 한 적이 있고 그는 나에게 Firiem이 그의 후원자로부터 훔칠 수 있다고 생각하는 다른 도둑들에게 예시로 에 넣었다고 말했다. Firiem은 다른 한편으로는 도둑임을 인정했으며, 심지어 그의 과거 일부를 나와 공유했습니다. 아마도 을 조사하는 것은 내가 여기서 어떤 종류의 조직을 다루고 있는지 알 수 있는 좋은 아이디어일 것입니다."
 module,jrl,Categories/16/EntryList/5/Text,0,"위치: 낚시꾼의 굽기 상태: 완전하지 않은 상태에서 나는 피리엠을 너무 오랫동안 그의 굽기 속에 두었던 굽기기를 활성화시켰고, 내가 굽기기를 완료했을 때 그는 나와 매우 행복해 보이지 않았다. 굽기에 묶여있는 조직은 이제 몇 달 동안 사라지기 시작하지 않을 것입니다. 나는 확실히 낚시꾼의 굽기 소유자 라리크가 내 작업에 몇 개의 다이너를 절약할 수 있습니다."
-module,jrl,Categories/16/EntryList/6/Text,0,"위치: 낚시꾼의 오두막  
-상태: 거의 완료됨
+module,jrl,Categories/16/EntryList/6/Text,0,"위치: 어부의 그릴
+상태: 거의 완료
 
-피리엠을 오랫동안 간에 가두어두던 결박을 해제했고, 실루엣이 완성되자 그의 악한 미소가 저를 맞이했다.
+피리엠을 오랫동안 우리에 가둬 두던 속박을 풀었고, 마법의 직조가 끝나자 그의 사악한 미소가 나를 맞이했다.
 
-간은 여전히 남아 있지만, 그 마법적인 실루엣은 더 이상 피리엠을 움직이지 못하게 하지 않는다. 아마 이제 피리엠은 나에게 약속한 디너스를 줄 것이다."
+우리는 그대로 있지만, 그 마법의 직조는 더 이상 피리엠을 붙잡아 두지 않는다. 이제 피리엠이 내게 약속한 디나르를 내놓을지도 모른다."
 module,jrl,Categories/16/EntryList/7/Text,0,"위치: 낚시꾼의 굽기 상태: Firiem은 자신이 말한 대로 하겠다고 말하며 자신의 몸에 숨겨진 아주 큰 다이너를 넘겨주었습니다. 그는 라릭이 예상하지 못했을 때 에서 빠져나올 것이라고 언급했고, 에 묶인 마법의 조직을 제거한 것에 대해 저에게 감사했습니다."
 module,jrl,Categories/16/EntryList/8/Text,0,"위치: 낚시꾼의 오두막  
 상태: 완료  
@@ -30976,11 +30991,12 @@ module,jrl,Categories/20/EntryList/10/Text,0,"위치: 블러드 러너
 선장이 저장소를 잠그고 있어 내려갈 수 없다는 것 같아. 승무원이 돌아오기 전에 이 배에서 숨겨진 열쇠를 찾아볼 수 있을 거라고 확신한다.
 
 일출까지 몇 시간밖에 남지 않았으므로, 이 시도에서 성공하지 못하면 내일 밤 12시에 다시 돌아와서 검색을 이어가야 할 것 같다."
-module,jrl,Categories/20/EntryList/11/Text,0,"위치: 피 달리는 사람  
-상태: 불완전
+module,jrl,Categories/20/EntryList/11/Text,0,"위치: 블러드 러너호
+상태: 미완료
 
-사령관 시라니타가 남긴 미스터리를 해결하지 못한 사람들을 그녀의 개인 방에서 막았습니다.  
-네 개의 빈 물통에 바닷수를 채운 후, 문을 열 수 있게 되었고, 이 문으로는 그녀의 객실로 가는 길을 희망합니다."
+시라니타 선장은 간단한 수수께끼를 남겨, 이를 풀지 못하는 이는 자신의 개인 선실에 들어오지 못하게 해 두었다.
+
+빈 물통 네 개를 바닷물로 채우자 문이 열렸다. 이 문이 그녀의 선실로 이어지기를 바란다."
 module,jrl,Categories/20/EntryList/12/Text,0,"위치: 피의 달리꾼  
 상태: 불완전
 
@@ -31044,13 +31060,14 @@ module,jrl,Categories/26/Name,0,알마레이벤: 미드나이트 골목 유령
 module,jrl,Categories/26/EntryList/0/Text,0,장소: 스트립 상태: 불완전 한 인간 암컷의 절단되고 떠 있는 머리는 밤중에 도크 워드 내 스트립의 한 골목에서 조용히 지나갔다. 그녀의 머리는 그녀의 몸에서 찢어진 것처럼 보였습니다. 그녀의 눈은 그녀의 머리의 뒷부분에 둥글고 있었다. 이 특별한 영과 소통하려면 먼저 한 병을 만들어야 합니다.
 module,jrl,Categories/26/EntryList/1/Text,0,"장소: 스트립 상태: 완전 닷크 워드 내 스트립 속 골목을 괴롭히는 영은 숨겨진 사회의 달리는 역할을 했다고 보인 것 같습니다. 아르바는 분명히 암흑이라고 부르는 단체가 살해당했고 그녀는 이러한 방식으로 살해된 유일한 덤프 사회의 달리는 사람이 아니었다. 최근 알브라이벤에서 사라지는 The Hidden Society의 보고서와 함께, 나는 이 이상한 단체가 전체 사회를 죽일 수 있었는지 궁금해하기 시작했습니다."
 module,jrl,Categories/27/Name,0,Almraiven: 내 연락처
-module,jrl,Categories/27/EntryList/0/Text,0,"위치: 빌라  
-상태: 거의 완료됨
+module,jrl,Categories/27/EntryList/0/Text,0,"위치: 저택
+상태: 거의 완료
 
-연락처를 통해 러너스샵에서 개인 메시지를 받아냈습니다. 루아누의 집이 위치한 만드라크로트 거리까지의 정확한 길이 알려졌습니다. 문에 비밀번호 ""온릭스""를 사용해야 합니다."
-module,jrl,Categories/27/EntryList/1/Text,0,"위치: 높은 탑 상태: 불완전
+러너스 상점을 통해 연락책이 남긴 개인 메시지를 받았다. 루아누의 집이 있는 맨드레이크 가로 가는 정확한 길이 적혀 있었다. 문앞에서 암호 ""오닉스""를 대야 한다."
+module,jrl,Categories/27/EntryList/1/Text,0,"위치: 높은 탑
+상태: 미완료
 
-발카하가 지시했듯, 알브라이벤에 도착하면 러너스샵을 찾아야 합니다. 거기서 현지인 연락처로부터 개인화된 메시지를 받을 수 있습니다. 메시지를 받기 위해 패스코드 2424를 사용해야 합니다."
+바카다가 알마라이벤에 도착하면 러너스 상점을 찾으라고 했다. 그곳에 현지인인 내 연락책이 남긴 맞춤 메시지가 기다리고 있다고 한다. 메시지를 받으려면 암호 2424를 대야 한다."
 module,jrl,Categories/27/EntryList/2/Text,0,"위치: Mandrake Route  
 STATUS: 완료
 
@@ -31117,7 +31134,7 @@ module,jrl,Categories/32/EntryList/6/Text,0,"위치: 동물 우리
 상태: 완료
 
 몇 가지 검색과 방향 후, 저는 이레나를 죽인 거북이 뱀은 메두사의 머리로부터 왔다는 것을 알게 되었습니다. 또한, 알브라이벤에 실제로 메두사가 있다는 것을 알게 되었고, 그 메두사는 루비 와드의 커타백 캐트 골목, 그 곳의 녹색 방울이라는 곳에 위치해 있습니다. 저의 조사가 계속될 곳은 그곳입니다."
-module,jrl,Categories/33/Name,0,알마레이벤: 무엇인가 작업 중이다.
+module,jrl,Categories/33/Name,0,알마라이벤: 뭔가 진행 중
 module,jrl,Categories/33/EntryList/0/Text,0,위치: 블랙 샌즈 상태: 불완전. 스트립에 위치한 블랙 샌즈의 바텐더 로버트 블라인드가 목재로 조각한 블록을 내게 줬다. 나는 지프시 로즈웨이에 위치한 셰드로 가야 하고 그곳에서 이 나무 블록을 한 씨 넥클샷을 드리겠습니다. 그는 로버트 블라인드의 친구 한 사람이 낮게 누워있는 곳을 보여주게 될 것입니다. 이 친구는 내가 해야 할 일이 있을 것입니다.
 module,jrl,Categories/33/EntryList/1/Text,0,"위치: 셰드  
 상태: 완료
@@ -31358,11 +31375,12 @@ module,jrl,Categories/43/EntryList/2/Text,0,"위치: 카라반 런
 나는 나무 운반차를 알타이에게 전달했으므로 이제 그와 그의 형제는 일정에 맞춰 돌아와야 한다. 그는 감사의 말을 하였고, 제 시간에 대한 보상으로 몇 개의 디나르를 주었다."
 module,jrl,Categories/44/Name,0,알드라이븐 : 드라의 기적
 module,jrl,Categories/44/EntryList/0/Text,0,위치: 만드라크 루트 STATUS: 불완전한 전날 밤에는 엘토리안이라는 반 엘프가 그의 두 여인의 일을 지켜보고 있는 거리를 우연히 만났다. 세 번째 여인인 웬드라는 고객에 의해 부상을 당했고 얼굴이 절단되었고 혀가 잘라졌다. 엘토리안은 웬드라의 동생이 엘토리안이 그의 여인을 잘 보호하지 않고 엘토리안이 웬드라를 전혀 볼 수 없다는 것을 배우는 것을 별로 좋아하지 않았다고 언급했다. 나는 도움을 제안했다. 아마도 웬드라 또는 그녀의 동생으로부터 이 고객이 누구인지에 대해 무언가를 배울 수 있고 왜 웬드라를 그렇게 잘 깎았는지에 대해 웬드라의 집을 러너스 엔드 에 있는 에메랄드 워드에서 찾을 수 있습니다.
-module,jrl,Categories/44/EntryList/1/Text,0,"위드라의 집 상태: 미완성
+module,jrl,Categories/44/EntryList/1/Text,0,"위치: 원드라의 집
+상태: 미완료
 
-위드라의 동생 팔리스를 만났고, 그는 그의 여동생을 볼 수 있도록 허락했다. 침대 옆에서 발을 내딛는 순간, 두꺼운 피 웅덩이에 발을 들여놓았다. 심지어 위드라가 누워있는 침대 위의 시트도 부드럽고 붉게 젖어 있었다.
+원드라의 오빠 팔리스를 만났고, 그는 내가 그의 여동생을 살펴보게 허락했다. 침대 가까이에서 두꺼운 핏물 웅덩이를 밟았다. 원드라가 누운 침대보마저 끈적하고 붉게 젖어 있었다.
 
-위드라는 오래 살지 않을 수도 있으며, Substance Lifter 포션을 준비하면 위드라의 상황을 설명할 수 있을 것이다."
+그녀는 오래 살지 못할지도 모른다. 물질 추출 물약을 준비하면 원드라가 왜 이런 상태인지 알 수 있을지도 모른다."
 module,jrl,Categories/44/EntryList/2/Text,0,"위드라의 가정 상태: 완전하지 않은 상태에서 위드라의 집으로 돌아왔는데, 저는 Substance Lifter 술과 함께 침대 옆에 있는 피의 저울에 끓인 액체를 붓었습니다. 혈액 자체가 거품이 되고, 위드라가 침대에 옆에서 옆으로 튀어나가기 시작했어요. 위드라는 인간이지만, 피가 거품이라고 말할 정도로 거품이 튀어나왔어요. 저는 하이 타워에서 훈련하는 동안 혈액이 어떻게 반응하는지 보았고, 이 반응은 제가 아는 어떤 그룹과도 일치하지 않습니다. 혈액이 거품이 사라진 후 공기 중에 은의 냄새가 달렸다. 저는 도서관에서 더 자세히 연구해야 합니다."
 module,jrl,Categories/44/EntryList/3/Text,0,"위드라의 집 상태: 불완전. 발견한 책을 찾는 데 시간이 걸렸지만, 5시간 동안 읽은 후 매우 흥미로운 정보를 발견했고, 쉽게 참고할 수 있도록 책의 페이지를 표시했습니다."
 module,jrl,Categories/44/EntryList/4/Text,0,"위드라의 집 상태: 불완전.
@@ -31383,10 +31401,10 @@ module,jrl,Categories/44/EntryList/9/Text,0,"위치: 도시 아래
 상태: 실패
 
 어떤 이유로든 저는 위드라를 감염으로부터 치료할 수 없었고, 결국 그녀는 위르포크 공동체의 일원으로 변신하여 저를 공격했습니다. 다른 선택이 없었기 때문에 그녀를 물리치지 않을 수 없었습니다."
-module,jrl,Categories/44/EntryList/10/Text,0,"위치: 시내  
-상태: 거의 완공
+module,jrl,Categories/44/EntryList/10/Text,0,"위치: 도시 지하
+상태: 거의 완료
 
-벨라돈나와 저주 해제 마법으로 웬드라를 치유할 수 있었으며, 감염이 그녀를 위프폴크 커뮤니티의 일원으로 만들지 못하게 되었습니다. 그녀의 약한 몸을 들어 올린 후 가능한 한 빨리 지상으로 돌아가야 합니다."
+벨라도나와 저주 해제 주문으로 윈드라를 치료했고, 감염이 그녀를 늑대인간 무리의 일원으로 바꾸는 것을 막았다. 연약해진 그녀의 몸을 안아 들었으니 되도록 빨리 지상으로 돌아가야 한다."
 module,jrl,Categories/44/EntryList/11/Text,0,"위치: 만드라크 루트 상태: 완공 직후, 전선을 돌고, 루비 워드의 만드라크 루트까지 이어지는 하수도 밖으로 나가는 길을 찾았다. 리스는 내 도움에 감사하고, 시내 밖으로 나가는 모든 모험에 나와 함께하는 것을 제안했다. 만드라를 품에 쥐고, 팔리스는 자신의 여동생을 돌보고 그녀의 발에 다시 데려오기 위해 집으로 돌아왔다. 엘토리안은 그가 관리한 세 명의 직장인 여성 중 한 명인 만드라의 안전한 귀국에 대해 알릴 수 있어야 한다. 엘토리안은 저녁에 만드라크 루트에서 찾을 수 있습니다."
 module,jrl,Categories/44/EntryList/12/Text,0,"위드라 (Wundra) 는 신기한 공기가 입술에 닿자마자 깨어났다. 그녀는 잠시 동안 혼란스러웠지만, 그녀의 지형을 되찾았으며, 모든 것을 전해주고 집으로 돌아온 후 감사했습니다. 그는 휴식을 취했습니다. 엘토리안은 그가 관리한 세 명의 직장 여성 중 한 명인 위드라의 안전한 귀환에 대해 알릴 필요가 있습니다. 엘토리안은 저녁에 만드라 (Mandrake) 로트에 찾을 수 있습니다."
 module,jrl,Categories/44/EntryList/13/Text,0,"위치: 만드라크 루트
@@ -31546,12 +31564,14 @@ module,jrl,Categories/57/EntryList/2/Text,0,"장소: 한 구리 체인니스 상
 그 익숙한 소음이 양피지 신발이 달려가는 발자국으로 변해 지하실을 가득 채우고, 나무 계단을 따라 위쪽 부엌으로 울려 퍼집니다.
 고친 발자국 소리가 여전히 위쪽 바닥을 걸어가는 발자국으로 들릴 수 있습니다."
 module,jrl,Categories/57/EntryList/3/Text,0,"장소: 한 구리 숙소 상태: 불완전 이 장소에서 내가 따라다니고 있던 한 badut은 어둠의 함락에 처해 있던 침실과 손만 가진 두 개의 엮기꾼을 보여줬다. 전투 후, 나는 다시 한 발의 소리를 들 수 있었다."
-module,jrl,Categories/57/EntryList/4/Text,0,"위치: 한 구리 숙소  
-상태: 불완전
+module,jrl,Categories/57/EntryList/4/Text,0,"위치: 원 코퍼 여관
+상태: 미완료
 
-주변을 돌아다니는 붓을 달고 있는 클로언이 실제로 에프레텀 협회의 일원에 의해 통제되고 있었다는 것을 알게 되었다. 그는 붓을 달고 있는 클로언을 이용해 나를 옥상으로 데려갔다.
+돌아다니던 박제 광대가 사실은 에프리툼 협회의 일원이 조종하던 것임을 알게 되었다. 그는 광대를 이용해 나를 다락방으로 이끌었다.
 
-그는 얼마 지나지 않아 죽었고, 그와 함께 붓을 달고 있는 클로언을 통제하던 조직의 실체도 사라졌다. 다시 움직이지 않을 것이다."
+그는 얼마 뒤 죽었고, 박제 광대를 조종하던 마법의 실타래도 함께 끊어졌다.
+
+광대는 다시는 움직이지 않을 것이다."
 _annex,utc,FirstName,0,부록
 _annex,utc,Description,0,"이 인간 여성의 눈은 당신을 뚫어져라 바라보며, 갑작스레 평온한 느낌이 듭니다. 그녀의 파란 머리카락이 햇빛에 반짝이며, 검은색과 청록색의 금발이 움직일 때마다 색이 변합니다."
 _annexanimal,utc,FirstName,0,파터피트
@@ -31591,7 +31611,7 @@ _shayla,utc,Description,0,"갈색 털 과 붉은 색 의 표지 는 이 암컷 �
 _ts_rnd_f2,utc,FirstName,0,인간 여성
 _ts_rnd_f2,utc,Description,0,"밝은 주황색과 보라색의 드레스는 알브라이벤에서 발견되는 옷과 꿰매기가 아닙니다. 그녀의 눈은 넓고, 그녀는 처음으로 모든 것을 가져가고 있는 것 같습니다."
 _ts_rnd_m5,utc,FirstName,0,인간 남성
-_ts_rnd_m5,utc,Description,0,"주황색, 갈색, 검은색 가죽 갑옷은 이 남자를 요소들로부터 보호하며, 그 머리 위에 걸쳐 있는 뚜껑과 같이 작용한다. 허리에는 많은 가방, 주머니, 칼이 보이고, 오른쪽 발에 단검이 매달려 있다."
+_ts_rnd_m5,utc,Description,0,"주황색, 갈색, 검은색 가죽 갑옷과 머리 위로 덮어쓴 두건이 이 남자를 비바람으로부터 지켜 준다. 허리춤에는 주머니와 작은 가방, 단검이 여럿 보이고, 오른쪽 장화에는 단검이 꽂혀 있다."
 _ts_rnd_m6,utc,FirstName,0,하프엘프 남자
 _ts_rnd_m6,utc,Description,0,"이 반 엘프의 귀가 뒤집어지고, 두 팔에 문신이 붙고, 목에 초록색 에스메랄드 목걸이가 달리고, 옷은 더럽지만 상관없어요."
 _zyll,utc,FirstName,0,[FOM] 인간 남성
@@ -31628,7 +31648,7 @@ bartenderww,utc,Description,0,슬픈 눈빛을 가진 바텐더가 울타리가 
 be_claim_merc,utc,FirstName,0,인간 여성
 be_claim_merc,utc,Description,0,"이 인간 여성의 흰 피부는 유령처럼 흰색이며, 머리카락은 가능한 한 검은색입니다. 그녀는 점포 바닥을 천천히 걸으며, 괴로운 눈으로 당신을 바라보고 있습니다."
 be_merchant,utc,FirstName,0,하프오크 남자
-be_merchant,utc,Description,0,"빈 카레 앞에 앉아 있는 이 하프오크는 오후 햇볕에 조용히 눈을 감고 있는 것 같아 보입니다. 그의 의복은 깊은 보라색, 녹색, 청록색으로 만들어진 이국적인 색상입니다. 그는 때때로 약간 움직이지만 눈은 여전히 감겨 있습니다."
+be_merchant,utc,Description,0,"빈 마차 앞자리에 앉은 이 하프오크는 오후 햇볕 아래서 조용히 낮잠을 자는 듯하다. 짙은 보라, 초록, 청록의 이국적인 색으로 지은 로브를 입고 있다. 이따금 몸을 살짝 움직이지만 눈은 계속 감고 있다."
 be_rnd_f1,utc,FirstName,0,티플링 여성
 be_rnd_f1,utc,Description,0,이 티플링 여성의 눈은 당신이 움직이기 전에 당신의 다음 움직임을 볼 수 있는 것처럼 당신을 엄격히 관찰한다.
 be_rnd_m1,utc,FirstName,0,오그리 남성
@@ -31837,7 +31857,7 @@ cq_rnd_m1,utc,Description,0,이 남자의 붉은색과 검은색 의복은 해�
 cq_rnd_m2,utc,FirstName,0,인간 남성
 cq_rnd_m2,utc,Description,0,"이 남자는 당신을 지켜보고 있으며, 밝고 편안한 옷을 입고 있다. 그의 왼쪽 손목에 작은 골드 체인이 달려 있으며, 그 체인은 옆에 앉은 여자의 목에 걸린 다른 체인과 연결되어 있다."
 cq_rnd_m3,utc,FirstName,0,인간 남성
-cq_rnd_m3,utc,Description,0,"머리 옆으로 넘치는 머리결을 가진 이 남자의 얼굴에 악한 미소가 번집니다. 얼굴에 심한 흉터가 있으며, 당신이 서있는 곳에서 보면 한쪽 눈이 없어 보입니다. 그는 끊임없이 입술을 빠르게 떼어내며, 옆에 있는 여성을 손가락으로 훑습니다."
+cq_rnd_m3,utc,Description,0,"머리 꼭대기에서 묶은 상투가 한쪽으로 늘어진 이 남자의 얼굴에 사악한 미소가 번진다. 얼굴에는 흉측한 흉터가 가득하고, 서 있는 곳에서 보면 한쪽 눈이 없는 듯하다. 그는 쉴 새 없이 입술을 핥으며 곁에 있는 여자를 손가락으로 더듬는다."
 creep,utc,FirstName,0,무서운 크리프
 creep,utc,Description,0,이 이상하고 끔찍한 존재는 주로 인간의 팔과 손으로 이루어져 보입니다. 실제로는 그 팔 자체에서 자라난 부분이 많습니다!
 crun_com_npc1,utc,FirstName,0,인간 남성
@@ -31845,7 +31865,7 @@ crun_com_npc1,utc,Description,0,이 인간 남성은 옆에서 서 있는 여자
 crun_com_npc10,utc,FirstName,0,인간 남성
 crun_com_npc10,utc,Description,0,"짙은 보라색과 검은색 로브 한가운데로 선명한 주황색 천 띠가 지나가, 인파 속에서도 입은 사람이 아주 눈에 띈다."
 crun_com_npc11,utc,FirstName,0,인간 남성
-crun_com_npc11,utc,Description,0,"회색 머리카락이 이 인간 남자의 머리 위를 장식하고 있으며, 그는 읽는 페르팜을 들고 지나가는 사람들에게 소리를 지르며 너무 바쁘게 움직이고 있습니다. 타운 크라이어는 부딪히거나 실수로 밀려도 움직임을 멈추지 않고, 그의 일과 최신 뉴스에 너무 집중되어 있습니다."
+crun_com_npc11,utc,Description,0,희끗희끗한 머리의 이 인간 남성은 둘둘 만 양피지를 읽고 그 내용을 지나가는 사람들에게 외쳐 대느라 너무 바쁘다. 마을 공고꾼은 부딪히거나 실수로 떠밀려도 눈 하나 깜짝하지 않는다. 일과 최신 소식에 정신이 팔려 있기 때문이다.
 crun_com_npc2,utc,FirstName,0,인간 여성
 crun_com_npc2,utc,Description,0,"이 여자가 입은 흰 드레스는 유난히 눈에 띄고, 밝은 붉은 머리도 도움이 안 된다. 당신이 쳐다보는 동안 그녀도 당신을 바라보다가 다시 자기 일로 돌아간다."
 crun_com_npc3,utc,FirstName,0,드워프 남자
@@ -31916,7 +31936,7 @@ firiem,utc,Description,0,이 우리 안에 앉아 있는 남자는 예순에 가
 fjalar,utc,FirstName,0,인간 남성
 fjalar,utc,Description,0,피야러는 가슴과 손목을 따라 흐르는 주요 톱을 따라 검은색과 보라색의 억양을 가진 밝은 빨간색 천옷을 입고 있습니다. 룸 애비뉴의 거리에서 사업을 수행하는 동안 뚜 은 요소를 멀리합니다.
 flaux,utc,FirstName,0,인간 남성
-flaux,utc,Description,0,"이 인간 남성의 눈은 당신을 지켜보는 동안 당신을 평가하는 것처럼 보인다. 그의 검은색과 은색으로 둘러싼 갑옷은 옷과 가죽, 그리고 금속의 혼합물이다. 그는 뚜껑을 더 가까이 끌어당기고, 두꺼운 그림자 속에서 얼굴을 감춘다."
+flaux,utc,Description,0,"당신이 지켜보고 서 있는 동안 이 인간 남성의 눈이 당신을 가늠하듯 훑어본다. 은색 테두리를 두른 검은 갑옷은 천과 가죽, 금속이 섞여 있다. 그는 두건을 더 당겨 써서 짙은 그림자 속에 얼굴을 숨긴다."
 flies_merchant,utc,FirstName,0,고블린 남자
 flies_merchant,utc,Description,0,이 도블린은 악의 미소로 당신을 바라보고 있지만 그의 가게에 환영합니다. 그의 갈색 피부는 늙은 가죽처럼 부서지고
 fom_bear,utc,FirstName,0,곰 매트를 소유 한 사람
@@ -32004,7 +32024,7 @@ horse_cross_npc,utc,Description,0,"이 소녀는 네 눈을 빠르게 겨누고,
 horse_sit_npc1,utc,FirstName,0,인간 남성
 horse_sit_npc1,utc,Description,0,"이 인간 남성의 얼굴 자체가 왜곡되어 있고 두려움에 찌든 것처럼 보입니다. 그의 눈은 많은 날 동안 잠을 자지 않은 것처럼 피가 번들거리고 있고, 머리카락은 더러운 눈색과 같은 색입니다. 그의 머리는 당신 쪽을 향해 기울어져 있습니다."
 horse_walk_npc1,utc,FirstName,0,인간 남성
-horse_walk_npc1,utc,Description,0,"이 인간 남성의 상단 입술에 이상한 떨림이 있고, 그는 그것을 멈출 수 있도록 최선을 다합니다. 기침을 하거나, 침을 삼키거나, 심지어는 귓불을 긁는 등 여러 방법을 시도합니다. 그는 당신을 발견하고, 빠르게 다른 길거리 부분을 관찰하기 시작합니다."
+horse_walk_npc1,utc,Description,0,"이 인간 남성의 윗입술이 이상하게 씰룩거리고, 그는 그것을 멈추려고 온갖 방법을 쓴다. 기침을 하고, 하품을 하고, 긁어 보기도 한다. 당신이 쳐다보는 것을 눈치채자 그는 재빨리 고개를 돌려 거리의 다른 쪽을 바라본다."
 horse_walk_npc2,utc,FirstName,0,인간 소년
 horse_walk_npc2,utc,Description,0,거리의 먼지와 다른 물건들이 무작위로 버려지고 이 어린 소년의 은 머리카락에 갇혀 있습니다. 그의 옷과 은 옷은 거리에서 생계를 사는 사람들의 옷입니다. 그는 주변에서 방황하면서 당신에게 별로 관심을 기울이지 않습니다.
 human,utc,FirstName,0,인간 여성
@@ -32050,7 +32070,7 @@ loom_cross_npc,utc,Description,0,"이 반성 남성은 밝은 보라색의 천�
 loom_kid_npc1,utc,FirstName,0,인간 소년
 loom_kid_npc1,utc,Description,0,"먼지 덮인 인간 소년은 거리에서 타그를 하고 또 다른 아이와 놀고 있습니다. 그의 눈은 무죄하고 장난스럽고, 그의 주변 환경에 끊임없이 관심을 기울이고 있습니다. 그가 당신을 그를 바라보고 발견하면, 그는 ""나를 잡을 수 없다""고 말하는 것처럼 얼굴을 만듭니다."
 loom_kid_npc2,utc,FirstName,0,인간 소녀
-loom_kid_npc2,utc,Description,0,"이 작은 인간 소녀는 연령의 소년과 고양이와 마우스의 게임을 하면서 코코넛 나무 사이를 빠르게 뛰어다니며 가벼운 깃털 같은 발걸음으로 뛰어다닙니다. 그녀의 얼굴은 염소된 과일 주스로 빛나고 팔은 흙으로 덮여 있습니다. 베이트가 엉켜 엉키고 있는 머리카락에 양초가 달려 있지만, 그녀는 전혀 신경 쓰지 않는 것처럼 보이는데, 그녀는 너무 재미있게 놀고 있기 때문입니다!"
+loom_kid_npc2,utc,Description,0,이 작은 인간 소녀는 또래 소년과 술래잡기를 하며 깃털처럼 가벼운 발걸음으로 야자나무 사이를 이리저리 내달린다. 얼굴에는 과일즙 얼룩이 묻어 있고 팔은 흙투성이다. 헝클어지고 엉킨 머리카락에 짚이 매달려 있지만 너무 신나게 놀고 있어서 전혀 신경 쓰지 않는 듯하다!
 loom_noble_npc1,utc,FirstName,0,인간 남성
 loom_noble_npc1,utc,Description,0,이 나이 들어 보이는 인간 남자는 가죽과 금속 무늬를 바느질로 새긴 고급스러운 로브를 입고 있다. 흙빛 색조 속에서 선명한 파란색이 눈에 띈다.
 loom_noble_npc2,utc,FirstName,0,인간 여성
@@ -32085,7 +32105,7 @@ medusa_snake9,utc,FirstName,0,하이브리드 코르미리아 코브라
 muddy_merchant,utc,FirstName,0,하프오크 여성
 muddy_merchant,utc,Description,0,"이 하프오크 여인은 새로운 부츠에 가죽 줄을 묶고 있습니다. 그녀의 가게는 매우 잘 정돈되어 있으며, 당신이 가게에 들어오자 머리를 돌려 인사를 합니다."
 needle_merchant,utc,FirstName,0,인간 여성
-needle_merchant,utc,Description,0,"이 인간 여성은 머리를 뒤로 묶어 세 개의 금발 땋은 머리묶음으로 만든 세 개의 둥근 모양을 가지고 있으며, 각각은 붉은색과 파란색 리본으로 묶여 있습니다. 그녀의 드레스는 깊은 갈색, 주황색, 그리고 아래쪽 자락에 적당히 빨간색이 섞인 매우 잘 디자인된 것입니다."
+needle_merchant,utc,Description,0,"이 인간 여성은 금빛 머리를 뒤로 넘겨 매듭지어 묶어 세 개의 쪽을 지었고, 각각 붉은 리본과 푸른 리본으로 묶었다. 드레스는 매우 잘 지어졌으며 짙은 갈색과 주황색이 섞이고 아랫단을 따라 붉은색이 살짝 들어가 있다."
 nowern,utc,FirstName,0,현재
 nowern,utc,Description,0,"이 인간 남성의 얼굴에는 어두운 머리카락이 달려 있으며, 그는 당신을 조심스럽게 관찰하고 있습니다. 그는 전형적인 에블린의 옷을 입어 더 미묘한 특징을 드러내고 있습니다."
 nww_rnd_f1,utc,FirstName,0,노움 여성
@@ -32140,7 +32160,7 @@ re_rnd_f2,utc,Description,0,"이 어린 소녀는 그래도 자신을 지켜보�
 re_rnd_m1,utc,FirstName,0,인간 남성
 re_rnd_m1,utc,Description,0,"이 인간 남성의 눈은 때때로 열리고 닫히며, 눈을 보게 되면 그 눈이 교차되어 있다는 것을 알 수 있습니다. 때로는 그는 거친 말투로 중얼거려 대면서 자신에게 묻어나오는 모습을 보입니다."
 re_rnd_m2,utc,FirstName,0,인간 남성
-re_rnd_m2,utc,Description,0,"이 인간 남성은 왼쪽에서 오른쪽으로 앞에 있는 사직을 움직이며, 돌 거리를 부드러운 나무 리듬으로 두드리는 것처럼 보입니다. 그의 얼굴 대부분은 옷 뚜껑이 가리고 있으며, 때로는 주변 소리를 듣는 것처럼 멈춥니다."
+re_rnd_m2,utc,Description,0,"이 인간 남성은 쿼터스태프를 앞에서 좌우로 휘저으며 돌바닥 길을 부드럽게 톡톡 두드리고 있다. 천 두건이 얼굴 대부분을 가리고 있으며, 이따금 주변 소리에 귀를 기울이듯 멈춰 선다."
 re_rnd_m6,utc,FirstName,0,팔리스 고퍼맨드
 re_rnd_m6,utc,Description,0,"이 인간 남성의 근육적 특징을 드리우는 깔끔한 옷과 꿰매기가 있다. 밝은 색의 머리카락을 곡선과 매듭이 대부분 이루지만, 눈은 맑고 파란색의 그의 눈이 시선을 사로잡는다. 검은색과 파란색의 문신은 왼쪽 팔을 둘러싸고 있다."
 rend_npc_afar,utc,FirstName,0,인간 남성
@@ -32150,7 +32170,7 @@ rend_npc_day006,utc,Description,0,검은색 가운에 초록색과 갈색의 스
 rend_npc_day007,utc,FirstName,0,인간 여성
 rend_npc_day007,utc,Description,0,이 인간여성은 마찰 앞에서 열심히 일하면서 흙과 거미로 덮여있어서 가끔씩 손으로 만든 물건을 돌리고
 rend_npc_day1,utc,FirstName,0,인간 남성
-rend_npc_day1,utc,Description,0,"이 인간 남성의 눈은 오랜 여행 경험을 보여주나, 왼쪽 다리가 없는 상태라 더욱 그 점이 눈에 띈다. 그의 입은 오래 전 공격으로 왜곡되어 있다. 팔과 남은 다리에는 문신이 그려져 있고, 그는 텐트에서 편안히 당신을 지켜보고 있다."
+rend_npc_day1,utc,Description,0,이 인간 남성은 왼쪽 다리가 없는데도 눈빛에서 오랜 여행의 경험이 묻어난다. 오래전에 공격당해 물어뜯기기라도 한 듯 입이 심하게 일그러져 있다. 양팔과 남은 다리에는 문신이 그려져 있다. 그는 천막 안의 편안한 자리에서 당신을 지켜본다.
 rend_npc_day2,utc,FirstName,0,인간 여성
 rend_npc_day2,utc,Description,0,이 늙어 보이는 인간 여성은 더러운 빨래를 세숫대야에 담그느라 바쁘다. 온갖 종류의 천이 빨리고 있다. 그녀는 당신이 지켜보는 줄도 모른다.
 rend_npc_day4,utc,FirstName,0,하플링 남성
@@ -32379,7 +32399,7 @@ waitress_el,utc,Description,0,검은 가죽과 천으로 덮인 이 인간 여�
 waitress_fg,utc,FirstName,0,인간 여성
 waitress_fg,utc,Description,0,"갈색의 힌트를 가진 빨간색 옷은 테이블, 의자 및 고객들을 배달하는 데에 바쁘고 주위를 돌고 있는 이 인간 여성 의 의 의상을 만듭니다. 그녀의 밝은 붉은 머리카락은 그녀의 외모를 칭찬하고 얼굴에 몇 가지 줄무늬가 매달리고 있습니다. 그녀의 열린 톱은 공동 방에있는 남성들로부터 많은 관심을 받고 있으며 그녀는 모든 것을 사랑합니다."
 waitress_gd,utc,FirstName,0,인간 여성
-waitress_gd,utc,Description,0,"이 인간 여성의 녹색 머리카락이 처음 눈에 띈다. 그 다음으로는 같은 색의 문신이 있다. 그녀의 외모는 사막 전사의 것과 같고, 녹색과 갈색으로 이루어진 의복이 대부분이다. 코, 입술, 턱, 눈썹, 심지어 귀까지 장식하는 얼굴 관통 장식이 있으며, 어깨에서 바깥으로 뻗은 큰 톱니가 있다. 때때로 그녀가 공동 방을 통과하면서 저주하는 소리가 들린다."
+waitress_gd,utc,Description,0,"이 인간 여성의 초록색 머리카락이 가장 먼저 눈에 띄고, 같은 색의 문신이 그다음이다. 옅은 초록과 갈색이 대부분인 옷차림은 사막 전사 같은 인상을 준다. 코와 입술, 턱, 눈썹, 심지어 귀까지 피어싱으로 장식했고, 어깨에서는 커다란 가시가 바깥으로 뻗어 있다. 공용실을 지나다니며 투덜투덜 욕하는 소리가 이따금 들린다."
 waitress_gg,utc,FirstName,0,인간 여성
 waitress_gg,utc,Description,0,"이 인간 여성은 눈부시게 단단한 직물과 가죽을 입고 있어 그녀의 모든 곡선을 드러내고 있다. 그녀의 머리카락은 밝은 분홍색이고, 커브가 더해져 부드러움을 더한다. 그녀는 지속적으로 공용실을 오가고 있으며, 아직 당신을 알아보지 못했다."
 waitress_pb,utc,FirstName,0,하프오크 여성
@@ -32728,10 +32748,12 @@ ax_rapier,uti,DescIdentified,0,"""더크스타, 어플릭스 자연과 마주할
 ax_scimitar,uti,Description,0,"""Lantan으로 가는 길에 해군 선장에게 이 무례한 칼을 샀습니다.  ⁇ 틀의 숲에서 어딘가에 발견했다고 말했습니다. 손잡이를 잡을 때 푹 빠지는 충동이 느껴집니다"". 이 칼은 하스쇼 레인에서 무기 거래자인 AX 제스터로부터 왔습니다."
 ax_scimitar,uti,DescIdentified,0,"""Lantan으로 가는 길에 해군 선장에게 이 무례한 칼을 샀습니다.  ⁇ 틀의 숲에서 어딘가에 발견했다고 말했습니다. 손잡이를 잡을 때 푹 빠지는 충동이 느껴집니다"". 이 칼은 하스쇼 레인에서 무기 거래자인 AX 제스터로부터 왔습니다."
 ax_stars,uti,LocalizedName,0,에어 슬라이더
-ax_stars,uti,Description,0,"""슬림하고 빠른 이 작은 던지는 썰매기는 잠잠한 침묵을 만들어내며, 신체의 어느 부분과도 연결되면 해당 부분을 고정시켜 주어 당신이 천천히 처리할 수 있게 합니다.""  
-이 별은 하스쇼 라인의 무기 거래자인 아크 제스터에서 왔습니다."
-ax_stars,uti,DescIdentified,0,"""슬림하고 빠른 이 작은 던지는 썰매기는 잠잠한 침묵을 만들어내며, 신체의 어느 부분과도 연결되면 해당 부분을 고정시켜 주어 당신이 천천히 처리할 수 있게 합니다.""  
-이 별은 하스쇼 라인의 무기 거래자인 아크 제스터에서 왔습니다."
+ax_stars,uti,Description,0,"""매끈하고 빠른 이 작은 투척용 절단날은 소리 없이 죽이는 침묵 그 자체다. 몸 어디에든 맞으면 상대를 그 자리에 붙들어 둘 수 있어, 일을 깔끔하고 신속하게 처리할 수 있다.""
+
+이 별 모양 표창은 호스슈 레인의 무기상 액스 제스터에게서 나온 것이다."
+ax_stars,uti,DescIdentified,0,"""매끈하고 빠른 이 작은 투척용 절단날은 소리 없이 죽이는 침묵 그 자체다. 몸 어디에든 맞으면 상대를 그 자리에 붙들어 둘 수 있어, 일을 깔끔하고 신속하게 처리할 수 있다.""
+
+이 별 모양 표창은 호스슈 레인의 무기상 액스 제스터에게서 나온 것이다."
 ax_stingers,uti,LocalizedName,0,스팅어
 ax_stingers,uti,Description,0,"""단순 히 감추는 이 사랑스러운 도래 는 거리에서 스팅거라고 알려져 있다. 거리의 쥐 독에 담겨 있는 이 도래 는 그 끝 이 피부 를 뚫을 때 상당한 불편 을 초래 할 것 이다"". 이 도래 는 하스쇼 레인 의 무기 매매자 인 에이스 제스터 에게서 왔습니다."
 ax_stingers,uti,DescIdentified,0,"""단순 히 감추는 이 사랑스러운 도래 는 거리에서 스팅거라고 알려져 있다. 거리의 쥐 독에 담겨 있는 이 도래 는 그 끝 이 피부 를 뚫을 때 상당한 불편 을 초래 할 것 이다"". 이 도래 는 하스쇼 레인 의 무기 매매자 인 에이스 제스터 에게서 왔습니다."
@@ -32787,16 +32809,16 @@ boatdeed,uti,LocalizedName,0,보트 증서
 boatdeed,uti,Description,0,"이것은 카라반 라운에 위치한 The 물의 날 가게에서 렌트 보트의 소유자로 표시되는 선박 증권입니다. 이 공증은 재고 안에 남아있는 한, 당신은 사용 당 5 다이너의 작은 수수료로 임대 배를 사용할 수 있습니다."
 boatdeed,uti,DescIdentified,0,"이것은 카라반 라운에 위치한 The 물의 날 가게에서 렌트 보트의 소유자로 표시되는 선박 증권입니다. 이 공증은 재고 안에 남아있는 한, 당신은 사용 당 5 다이너의 작은 수수료로 임대 배를 사용할 수 있습니다."
 boltsofcoldnes,uti,LocalizedName,0,추운 쇠뇌화살
-boltsofcoldnes,uti,Description,0,이 화살이 손에서 찔리듯이 느껴진다
+boltsofcoldnes,uti,Description,0,이 볼트가 손에서 찌릿찌릿하다
 boltsofcoldnes,uti,DescIdentified,0,콜드니스의 볼트는 차가운 마법으로 처리되며 표적을 얼게 합니다. 이 볼트의 컬렉션은 루엄 애브루에 위치한 지피의 상품이라는 현지 가게에서 만들어졌습니다.
 boltsofdreams,uti,LocalizedName,0,꿈의 쇠뇌화살
-boltsofdreams,uti,Description,0,이 화살이 손에서 찔리듯이 느껴진다
+boltsofdreams,uti,Description,0,이 볼트가 손에서 찌릿찌릿하다
 boltsofdreams,uti,DescIdentified,0,꿈의 볼트들은 그들의 목표물을 마법으로 잠들게 할 수 있는 기회를 가지고 있습니다.
 boltsofpiercin,uti,LocalizedName,0,관통 쇠뇌화살
-boltsofpiercin,uti,Description,0,이 화살이 손에서 찔리듯이 느껴진다
+boltsofpiercin,uti,Description,0,이 볼트가 손에서 찌릿찌릿하다
 boltsofpiercin,uti,DescIdentified,0,이 볼트는 목표물에 깊숙이 파고들어 충돌 시 추가적인 관통 피해를 주는 것이 특징입니다. 이 특정 아이템은 만드레이크 루트에서 길 옆에서 구입되었습니다.
 boltsofslowing,uti,LocalizedName,0,느려지는 쇠뇌화살
-boltsofslowing,uti,Description,0,이 화살이 손에서 찔리듯이 느껴진다
+boltsofslowing,uti,Description,0,이 볼트가 손에서 찌릿찌릿하다
 boltsofslowing,uti,DescIdentified,0,슬로잉의 볼트는 목표물의 이동을 줄일 것입니다. 이 특정 아이템은 빌라의 거리의 상점에서 구입되었습니다.
 boltsofterror,uti,LocalizedName,0,공포의 쇠뇌화살
 boltsofterror,uti,Description,0,이 볼트는 손에서 착각되듯이 찔립니다.
@@ -33287,8 +33309,16 @@ dreamsleek,uti,DescIdentified,0,드림 슬리크는 꿈의 바다 동물의 향�
 dropofmolasses,uti,LocalizedName,0,모라시 드롭
 dropofmolasses,uti,DescIdentified,0,이 매라스 드롭은 매우 두꺼워서 천천히 움직입니다. 이는 천천히 움직이는 마법을 부르는 데 알려진 재료입니다.
 durablecollectio,uti,LocalizedName,0,튼튼한 볼트 묶음
-durablecollectio,uti,Description,0,"피치: ""이 볼트의 가장자리 는 땅콩 과 거북이 껍질 이 섞여 있는 반면, 그 껍질 은 코르미르 의 강하고 내구 한 나무 이다. 비싸지만, 그들은 비행 할 수 있으며, 정말 험난 한 펀치 를 넣을 수 있다. 오그레 를 막아도 찔러서 멀리 떨어져 있을 만큼 충분 하다"". 이 볼트 집합 은 만드라크 루트 에 있는 우즈 앤 더스 (Woods and Goods) 라는 지역 상점에서 만들어졌다."
-durablecollectio,uti,DescIdentified,0,"피치: ""이 볼트의 가장자리 는 땅콩 과 거북이 껍질 이 섞여 있는 반면, 그 껍질 은 코르미르 의 강하고 내구 한 나무 이다. 비싸지만, 그들은 비행 할 수 있으며, 정말 험난 한 펀치 를 넣을 수 있다. 오그레 를 막아도 찔러서 멀리 떨어져 있을 만큼 충분 하다"". 이 볼트 집합 은 만드라크 루트 에 있는 우즈 앤 더스 (Woods and Goods) 라는 지역 상점에서 만들어졌다."
+durablecollectio,uti,Description,0,"피치:
+
+""이 볼트의 끝부분은 호두와 거북 껍질을 섞어 만들었고, 화살대는 코미르에서 나는 질기고 튼튼한 나무입니다. 값은 비싸지만 정말 잘 날아가고 한 방이 매섭죠! 오우거도 멍들게 해서 접근을 막기에 충분합니다.""
+
+이 볼트 묶음은 맨드레이크 가에 있는 '우즈 앤 굿즈'라는 동네 가게에서 만들었다."
+durablecollectio,uti,DescIdentified,0,"피치:
+
+""이 볼트의 끝부분은 호두와 거북 껍질을 섞어 만들었고, 화살대는 코미르에서 나는 질기고 튼튼한 나무입니다. 값은 비싸지만 정말 잘 날아가고 한 방이 매섭죠! 오우거도 멍들게 해서 접근을 막기에 충분합니다.""
+
+이 볼트 묶음은 맨드레이크 가에 있는 '우즈 앤 굿즈'라는 동네 가게에서 만들었다."
 dust,uti,LocalizedName,0,먼지
 dust,uti,DescIdentified,0,얼음 폭풍을 사용해야 한다.
 earofabat,uti,LocalizedName,0,박쥐의 귀
@@ -33307,7 +33337,7 @@ earsofwoman,uti,LocalizedName,0,여자의 귀
 earsofwoman,uti,Description,0,이건 여성의 귀는 아니에요.
 earsofwoman,uti,DescIdentified,0,이건 여성의 귀는 아니에요.
 earthandblood,uti,LocalizedName,0,대지와 피
-earthandblood,uti,DescIdentified,0,석화 해제 필요
+earthandblood,uti,DescIdentified,0,스톤 투 플래시 필요
 efreetumrobe,uti,LocalizedName,0,에프레텀 의복
 efreetumrobe,uti,Description,0,이것은 Efreetum Society of Mages의 손으로 꿰매진 옷입니다.
 efreetumrobe,uti,DescIdentified,0,이것은 Efreetum Society of Mages의 손으로 꿰매진 옷입니다.
@@ -33439,8 +33469,8 @@ fullwatercontain,uti,DescIdentified,0,물을 담는 나무 용기다. 지금은 
 furandcrystalrod,uti,LocalizedName,0,털과 수정 루드
 furandcrystalrod,uti,DescIdentified,0,털은 수정석에 부딪히면 정적 전기를 일으키는 것으로 알려져 있습니다. 이 재료를 사용하면 번개 화살을 한두 개 던질 수 있다.
 gem_box,uti,LocalizedName,0,디나르 상자
-gem_box,uti,Description,0,"이 작은 상자는 벨벳으로 내부를 둘러싸여 내부의 다이너스가 긁히거나 긁히지 않도록 한다. 여러 단계와 크기별로 다이너스를 위한 홈이 있어 Almraiven에서 찾을 수 있는 모든 크기의 다이너스를 수용할 수 있으며, 전체적으로 많은 다이너스를 담을 수 있다."
-gem_box,uti,DescIdentified,0,"이 작은 상자는 벨벳으로 내부를 둘러싸여 내부의 다이너스가 긁히거나 긁히지 않도록 한다. 여러 단계와 크기별로 다이너스를 위한 홈이 있어 Almraiven에서 찾을 수 있는 모든 크기의 다이너스를 수용할 수 있으며, 전체적으로 많은 다이너스를 담을 수 있다."
+gem_box,uti,Description,0,"이 작은 상자는 안에 넣은 디나르가 쓸리거나 긁히거나 흠집 나지 않도록 벨벳으로 안감을 댔다. 알마라이벤에서 쓰이는 갖가지 크기의 디나르에 맞춰 여러 단과 홈이 있어, 전부 꽤 많은 디나르를 담을 수 있다."
+gem_box,uti,DescIdentified,0,"이 작은 상자는 안에 넣은 디나르가 쓸리거나 긁히거나 흠집 나지 않도록 벨벳으로 안감을 댔다. 알마라이벤에서 쓰이는 갖가지 크기의 디나르에 맞춰 여러 단과 홈이 있어, 전부 꽤 많은 디나르를 담을 수 있다."
 gewiasoutfit,uti,LocalizedName,0,게비아의 찢어진 옷
 gewiasoutfit,uti,Description,0,이 옷은 한때 다이빙 돌고래의 베레라트로 변신한 게비아가 착용한 옷입니다. 그들은 부패한 냄새를 맡고 있으며 이제 그녀의 변화로부터 완전히 찢어졌습니다.
 gewiasoutfit,uti,DescIdentified,0,이 옷은 한때 다이빙 돌고래의 베레라트로 변신한 게비아가 착용한 옷입니다. 그들은 부패한 냄새를 맡고 있으며 이제 그녀의 변화로부터 완전히 찢어졌습니다.
@@ -33491,8 +33521,8 @@ gp_low_4gp,uti,LocalizedName,0,블루 슬라이버 디나르
 gp_low_4gp,uti,Description,0,"이 시나리 조각은 특별한 방식으로 새겨져 파란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 파란색 시나리 조각은 무역에서 4gp만 가치 있습니다."
 gp_low_4gp,uti,DescIdentified,0,"이 시나리 조각은 특별한 방식으로 새겨져 파란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 파란색 시나리 조각은 무역에서 4gp만 가치 있습니다."
 gp_med_10gp,uti,LocalizedName,0,붉은 조각으로 잘린 디나르
-gp_med_10gp,uti,Description,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
-gp_med_10gp,uti,DescIdentified,0,"이 썰매 디나르는 특별한 방식으로 조각되고 루즈로 색을 입혀져 있어 상인, 거래자 및 거래를 하는 자들이 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 루즈 썰매 디나르는 거래에서 10gp만 가치가 있다."
+gp_med_10gp,uti,Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
+gp_med_10gp,uti,DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 gp_med_20gp,uti,LocalizedName,0,라벤더 슬라이스 디나르
 gp_med_20gp,uti,Description,0,"이 절단된 디나르는 특정한 방식으로 래벤더색으로 조각되고 그늘을 주어, 상인이나 거래자들이 단순히 보는 것만으로 가치를 알 수 있게 해준다. 이 래벤더색 절단된 디나르는 무역에서 20gp밖에 가치가 없다."
 gp_med_20gp,uti,DescIdentified,0,"이 절단된 디나르는 특정한 방식으로 래벤더색으로 조각되고 그늘을 주어, 상인이나 거래자들이 단순히 보는 것만으로 가치를 알 수 있게 해준다. 이 래벤더색 절단된 디나르는 무역에서 20gp밖에 가치가 없다."
@@ -33599,7 +33629,7 @@ incantation,uti,DescIdentified,0,"T E I N C A N T A T T I O N 이 죽은 땅 에
 incenseandivorys,uti,LocalizedName,0,향신료 와 코끼리 줄무늬
 incenseandivorys,uti,DescIdentified,0,코끼리 줄무늬가 정사각형으로 배치되고 향기가 불타면 마법사가 캐스트 전설 전승을 사용할 수 있습니다.
 insecurerelease,uti,LocalizedName,0,불안정한 출소
-insecurerelease,uti,Description,0,이 화살이 손에서 찔리듯이 느껴진다
+insecurerelease,uti,Description,0,이 볼트가 손에서 찌릿찌릿하다
 insecurerelease,uti,DescIdentified,0,"안전하지 않은 해제 볼트가 잠겨 있는 물체를 대상으로 할 때, 볼트에 부착된 마법이 잠금을 열 수 있습니다. 이 특정 아이템은 빌라의 거리 상인에서 구입되었습니다."
 irenablood,uti,LocalizedName,0,아이레나의 혈액 샘플
 irenablood,uti,DescIdentified,0,"이 혈액 샘플은 아이레나의 침실 내부에서 발견된 혈액에서 얻은 것입니다. 특정 각도에서 보면, 혈액이 독소가 주입된 녹색으로 변합니다."
@@ -33689,7 +33719,7 @@ it_torch002,uti,LocalizedName,0,애니메이트된 촛불
 item,uti,LocalizedName,0,독수리 깃털의
 item,uti,DescIdentified,0,이글스플렌더 주문에서 사용되었습니다.
 item001,uti,LocalizedName,0,"석회, 물, 대지"
-item001,uti,DescIdentified,0,석화 시켜야 했다
+item001,uti,DescIdentified,0,플래시 투 스톤 시전이 필요했다
 item002,uti,LocalizedName,0,여우머리
 item002,uti,DescIdentified,0,여우의 교활함을 사용했다.
 izrobe,uti,LocalizedName,0,이자나기 의복
@@ -33875,12 +33905,16 @@ marlogift,uti,LocalizedName,0,각인된 조각상
 marlogift,uti,Description,0,"이것은 엘프 공주의 손으로 조각된 인형으로, 형태에 대한 세부 사항이 매우 잘 표현되어 있습니다. 인형의 목 주위에 있는 진주 개수를 세고, 귀걸이, 머리 꽃, 심지어 발목 장식 등 세부적인 특징을 확인할 수 있습니다. 이 조각된 인형은 마르로의 아내에게 선물로 주어집니다."
 marlogift,uti,DescIdentified,0,"이것은 엘프 공주의 손으로 조각된 인형으로, 형태에 대한 세부 사항이 매우 잘 표현되어 있습니다. 인형의 목 주위에 있는 진주 개수를 세고, 귀걸이, 머리 꽃, 심지어 발목 장식 등 세부적인 특징을 확인할 수 있습니다. 이 조각된 인형은 마르로의 아내에게 선물로 주어집니다."
 marloletter,uti,LocalizedName,0,마로의 편지
-marloletter,uti,Description,0,"이 편지는 금잔술집의 마르로가 서둘러 썼습니다. 
+marloletter,uti,Description,0,"이 편지는 황금 술잔 선술집의 마를로가 급히 쓴 것이다. 내용은 다음과 같다.
 
-""카나, 이 편지를 전달해준 배달부가 선물을 내게 가져왔습니다. 오늘 이 날에 조각된 엘프상자를 전해주시기 바랍니다. M."""
-marloletter,uti,DescIdentified,0,"이 편지는 금잔술집의 마르로가 서둘러 썼습니다. 
+""카나, 이 편지를 전해 준 전령이 내게 선물을 가져다줄 거네. 오늘 받기로 되어 있으니, 조각한 엘프 인형을 넘겨주게.
 
-""카나, 이 편지를 전달해준 배달부가 선물을 내게 가져왔습니다. 오늘 이 날에 조각된 엘프상자를 전해주시기 바랍니다. M."""
+M."""
+marloletter,uti,DescIdentified,0,"이 편지는 황금 술잔 선술집의 마를로가 급히 쓴 것이다. 내용은 다음과 같다.
+
+""카나, 이 편지를 전해 준 전령이 내게 선물을 가져다줄 거네. 오늘 받기로 되어 있으니, 조각한 엘프 인형을 넘겨주게.
+
+M."""
 mcloth002,uti,LocalizedName,0,리몬의 심장
 mcloth002,uti,Description,0,"""리몬의 심장은 이 옷의 일부로 알려져 있으며, 착용 시 따뜻한 빛을 발산하여 착용자 주변을 빛으로 둘러싸고 있다. 또한 이 섬세한 옷을 착용한 엮어꾼의 마음을 집중시킬 수 있는 능력을 가지고 있다.""  
 이 옷은 벤히의 에프레스에서 카스터의 주장을 통해 구입되었다."
@@ -33990,8 +34024,16 @@ rainbowboots,uti,LocalizedName,0,레인보우 장화
 rainbowboots,uti,Description,0,"""만장 편안 하고 더 이상 이 신발 을 찾는 사람 이라면, 이 신발 은 잘 어울릴 것 이다. 견고 한 발톱 과 높은 발목 을 지지 하는 탁월 한 발목, 길 에서 모래 를 멀리 하고 저녁 폭풍 에 발 을 건조 해 주는 것 이다""."
 rainbowboots,uti,DescIdentified,0,"""만장 편안 하고 더 이상 이 신발 을 찾는 사람 이라면, 이 신발 은 잘 어울릴 것 이다. 견고 한 발톱 과 높은 발목 을 지지 하는 탁월 한 발목, 길 에서 모래 를 멀리 하고 저녁 폭풍 에 발 을 건조 해 주는 것 이다""."
 rainbowcloak,uti,LocalizedName,0,레인보우 망토
-rainbowcloak,uti,Description,0,"이 옷차림은 옆으로 움직일 때 색이 바뀌며, 자수는 여러 색상과 텍스처로 이루어져 있습니다. ""아, 예, 옷차림을 찾고 계시다면 정말 좋은 선택입니다! 무지개 디자인과 자수, 마법이죠! 그것은 녹색에서 시작되어 착용하면서 다른 색으로 바뀝니다. 무지개의 색과 비슷합니다."" 이 이상한 모양의 마법적인 옷차림은 벤히의 익스프레스에서 카스터의 주장입니다."
-rainbowcloak,uti,DescIdentified,0,"이 옷차림은 옆으로 움직일 때 색이 바뀌며, 자수는 여러 색상과 텍스처로 이루어져 있습니다. ""아, 예, 옷차림을 찾고 계시다면 정말 좋은 선택입니다! 무지개 디자인과 자수, 마법이죠! 그것은 녹색에서 시작되어 착용하면서 다른 색으로 바뀝니다. 무지개의 색과 비슷합니다."" 이 이상한 모양의 마법적인 옷차림은 벤히의 익스프레스에서 카스터의 주장입니다."
+rainbowcloak,uti,Description,0,"이 망토는 몸을 옆으로 움직일 때마다 색이 변하고, 바느질은 여러 빛깔과 질감으로 이루어져 있다.
+
+""아, 그렇죠, 망토를 찾으신다면 정말 훌륭한 선택입니다! 무지개 무늬와 바느질, 마법이지요! 처음엔 초록색인데 입고 있는 동안 한 색에서 다른 색으로 변해 갑니다. 무지개 색깔처럼요.""
+
+이 기묘하게 생긴 마법 망토는 벤히스 익스프레스의 '캐스터스 클레임'에서 나온 것이다."
+rainbowcloak,uti,DescIdentified,0,"이 망토는 몸을 옆으로 움직일 때마다 색이 변하고, 바느질은 여러 빛깔과 질감으로 이루어져 있다.
+
+""아, 그렇죠, 망토를 찾으신다면 정말 훌륭한 선택입니다! 무지개 무늬와 바느질, 마법이지요! 처음엔 초록색인데 입고 있는 동안 한 색에서 다른 색으로 변해 갑니다. 무지개 색깔처럼요.""
+
+이 기묘하게 생긴 마법 망토는 벤히스 익스프레스의 '캐스터스 클레임'에서 나온 것이다."
 randomthoughts,uti,LocalizedName,0,14833 쪽지: M 카테고리
 randomthoughts,uti,Description,0,"이러한 생각들은 생각의 방으로 흩어져 있는 메시지 구구의 가능한 사용에 대한 벨로의 생각의 긁힌 것입니다. - 바나나를 구입하십시오 - 메시지는 즉각적입니다 - 가능한 커뮤니케이션 웹 또는 크리스탈 인 orb ?? - 생각을 읽거나 눈에 보이지 않는 접촉을 통해 작동합니까? - 꽃에 대해 부키트에게 감사 드립니다 - 단지 아는 사람들에게만 보낼 수 있습니다, 또는 만났거나 들었습니다... - 아마도 orb 는 변형된 텔레포트 장치입니까? - 착취 장치를 어떻게 해제할 수 있습니까? - Jinkjum와 이야기하십시오 - 고체 물체를 이동시킬 수 있습니까??? - 일 구역에서 다른 구역으로 작업을 옮길 수 있습니까? - 먼저 지역 구역을 테스트하십시오..."
 randomthoughts,uti,DescIdentified,0,"이러한 생각들은 생각의 방으로 흩어져 있는 메시지 구구의 가능한 사용에 대한 벨로의 생각의 긁힌 것입니다. - 바나나를 구입하십시오 - 메시지는 즉각적입니다 - 가능한 커뮤니케이션 웹 또는 크리스탈 인 orb ?? - 생각을 읽거나 눈에 보이지 않는 접촉을 통해 작동합니까? - 꽃에 대해 부키트에게 감사 드립니다 - 단지 아는 사람들에게만 보낼 수 있습니다, 또는 만났거나 들었습니다... - 아마도 orb 는 변형된 텔레포트 장치입니까? - 착취 장치를 어떻게 해제할 수 있습니까? - Jinkjum와 이야기하십시오 - 고체 물체를 이동시킬 수 있습니까??? - 일 구역에서 다른 구역으로 작업을 옮길 수 있습니까? - 먼저 지역 구역을 테스트하십시오..."
@@ -34145,9 +34187,11 @@ ruby_ward021,uti,DescIdentified,0,이 섬유는 남쪽에서 수입된 차가운
 rubydust,uti,LocalizedName,0,루비가루
 rubydust,uti,DescIdentified,0,이 루비 먼지 조각은 영속 불꽃 마법을 만드는 데 도움이 될 수 있습니다.
 seaboots,uti,LocalizedName,0,잘 사용된 해상 장화
-seaboots,uti,DescIdentified,0,"이 부츠 쌍은 여행 중에 본 곳들에 대한 모험적인 이야기들을 담아낼 수 있을 정도로 다양한 경험을 쌓아왔습니다. 잘 닳고 엮인 이 부츠 쌍은 항상 건조하게 유지함으로써 착용자의 발을 보호합니다.
+seaboots,uti,DescIdentified,0,"이 부츠는 여행 중 거쳐 온 곳들에 대한 모험담을 몇 편은 풀어놓을 수 있을 것이다.
 
-해적 섬의 가죽이라고는 하지만, 정확한 사실은 아닙니다."
+잘 길들여지고 촘촘히 엮인 이 낡은 선원용 부츠는 늘 발을 건조하게 유지해 신은 사람의 발을 보호한다.
+
+해적 섬의 가죽이라나, 사람들 말로는 그렇다."
 seacloak,uti,LocalizedName,0,비바람에 낡은 바다 망토
 seacloak,uti,Description,0,몇 가지 소금 얼룩이 이 특정 해상 을 표기 합니다. 그 밖 에는 아무 것도 없습니다. 물 내구성 인 봉투 로 만든 이 특정 은 그 치명적 인 폭풍 에 대해 아무 곳 이 없는 동안 착용 하는 사람 을 건조 하게 유지 하는 좋은 일 을 합니다.
 seacloak,uti,DescIdentified,0,몇 가지 소금 얼룩이 이 특정 해상 을 표기 합니다. 그 밖 에는 아무 것도 없습니다. 물 내구성 인 봉투 로 만든 이 특정 은 그 치명적 인 폭풍 에 대해 아무 곳 이 없는 동안 착용 하는 사람 을 건조 하게 유지 하는 좋은 일 을 합니다.
@@ -34176,7 +34220,7 @@ shortbowofligh,uti,DescIdentified,0,이 짧은 화살통은 사용자의 화살 
 shutup,uti,LocalizedName,0,침묵의 번개
 shutup,uti,DescIdentified,0,이 물건이 방출되면 모든 생물들이 침묵할 것입니다. 이 물건은 베니의 익스프레스에 카스터의 주장에서 구입되었습니다.
 silencingbolts,uti,LocalizedName,0,소음 억제 화살
-silencingbolts,uti,Description,0,이 화살이 손에서 찔리듯이 느껴진다
+silencingbolts,uti,Description,0,이 볼트가 손에서 찌릿찌릿하다
 silencingbolts,uti,DescIdentified,0,마법으로 표적을 침묵시키는 능력을 강화한 침묵 화살입니다. 이 물건은 빌라의 거리 상인에서 구입되었습니다.
 silverholysymbol,uti,LocalizedName,0,실버 신성한 상징
 silverholysymbol,uti,DescIdentified,0,이 은색 상징은 파괴 주문의 에너지를 집중시키기 위해 필요합니다.
@@ -34238,13 +34282,13 @@ slingsaway,uti,DescIdentified,0,이 썰매는 항상 다음 희생자를 향해 
 smallhorn,uti,LocalizedName,0,소형 뿔
 smallhorn,uti,DescIdentified,0,클라이어디언스와 클라이어비언스를 사용하여 캐스팅합니다.
 sonicbolts,uti,LocalizedName,0,소리 쇠뇌화살
-sonicbolts,uti,Description,0,이 화살이 손에서 찔리듯이 느껴진다
+sonicbolts,uti,Description,0,이 볼트가 손에서 찌릿찌릿하다
 sonicbolts,uti,DescIdentified,0,소닉 볼트 (Sonic Bolts) 는 타격 시 높은 음향을 내는 크로스보이 볼트이다. 소닉 볼트들은 소닉 진동으로 뼈까지 흔들린다. 이 볼트 컬렉션은 만드라크 루트에 위치한 우즈 앤 더스라는 현지 가게에서 만들어졌다.
 sonicbullets,uti,LocalizedName,0,소리 탄환
 sonicbullets,uti,Description,0,이 총알은 손에서 찰싹거린다.
-sonicbullets,uti,DescIdentified,0,"소닉 탄환은 특별히 가공된 금속 돌멩이로, 타격 시 높은 소리를 내며 발사된다. 이 소닉 진동으로 대상은 뼈 깊이까지 흔들린다.
+sonicbullets,uti,DescIdentified,0,"음파탄은 특수 처리한 금속 돌멩이로, 맞으면 높은 음파음을 낸다. 표적은 이 음파 진동에 뼛속까지 흔들린다.
 
-이 탄환 세트는 맨드라크 루트에 위치한 우즈 앤 더즈라는 현지 가게에서 만들어졌다."
+이 볼트 묶음은 맨드레이크 가에 있는 '우즈 앤 굿즈'라는 동네 가게에서 만들었다."
 sonicfury,uti,LocalizedName,0,소니크 분노
 sonicfury,uti,Description,0,이 물건에서 높은 음향이 나오고 있습니다.
 sonicfury,uti,DescIdentified,0,"이 무기의 희생자는 소음 장애의 힘을 느낄 것입니다. 큰 소리들은 희생자를 쳐 놓고, 거의 뼈가 떨리는 것처럼 보일 것입니다.
@@ -34352,7 +34396,7 @@ street_outfit02,uti,LocalizedName,0,스트리트 어치니 의복
 street_outfit02,uti,Description,0,"이 노른 옷은 한때 거리의 주민이 입었던 옷이었고, 그 냄새는 썩어버린 냄새가 나는 것 같다."
 street_outfit02,uti,DescIdentified,0,"이 노른 옷은 한때 거리의 주민이 입었던 옷이었고, 그 냄새는 썩어버린 냄새가 나는 것 같다."
 stripofdisplacer,uti,LocalizedName,0,추방자 야수 가죽
-stripofdisplacer,uti,DescIdentified,0,변위를 캐스팅이 필요하다.
+stripofdisplacer,uti,DescIdentified,0,디스플레이스먼트 시전이 필요했다
 studdedarmor,uti,LocalizedName,0,징박은 가죽 갑옷
 studdedarmor,uti,Description,0,이것은 멋진 징박은 가죽 갑옷이다.
 studdedarmor,uti,DescIdentified,0,이것은 멋진 징박은 가죽 갑옷이다.

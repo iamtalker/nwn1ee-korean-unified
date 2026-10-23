@@ -1831,19 +1831,19 @@ drowcamp002,git,StoreList/0/StoreList/2/ItemList/5/DescIdentified,0,"이 치료�
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/6/LocalizedName,0,심각한 상처 치료의 물약
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/6/DescIdentified,0,"혈액의 흐름을 안정시키거나 뼈를 엮을 수 있는 힘으로, 이 약은 위험한 직업들 사이에서 흔하게 사용되고 있습니다."
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/11/LocalizedName,0,빛
-drowcamp002,git,StoreList/0/StoreList/2/ItemList/11/DescIdentified,0,"시전자 레벨(s): Bard 0, Cleric 0, Druid 0, Wizard / Sorcerer 0  
-선천적인 수준: 0  
-학교: 방출술  
-서술자:  
-컴포넌트: 구술  
-범위: 접촉  
-효과 범위/대상: 단일  
- 지속 시간: 1 시간/레벨  
-추가 카운터 주문: 어둠  
-저장: 무해한 주문  
-저항: 없음  
+drowcamp002,git,StoreList/0/StoreList/2/ItemList/11/DescIdentified,0,"시전자 레벨: 바드 0, 클레릭 0, 드루이드 0, 위저드/소서러 0
+내재 레벨: 0
+학파: 방출
+주문 속성: 
+구성 요소: 음성
+사거리: 접촉
+효과 범위/대상: 단일
+지속 시간: 1시간/레벨
+추가 대항 주문: 어둠
+내성: 무해
+주문 저항: 없음
 
-생물의 머리 위에 작은 빛소리를 생성합니다. 빛은 목표와 함께 이동하며 소규모 영역을 조명할 수 있습니다."
+대상 생물의 머리 위에 작은 광원을 만든다. 빛은 대상을 따라 움직이며 좁은 범위를 밝힐 수 있다."
 drowcamp002,git,TriggerList/0/LocalizedName,0,동굴 미로
 drowcamp002,git,TriggerList/1/LocalizedName,0,고블린 터널
 drowcamp002,git,TriggerList/2/LocalizedName,0,조각_1
@@ -2161,19 +2161,19 @@ drowcamp003,git,StoreList/0/StoreList/2/ItemList/5/DescIdentified,0,"이 치료�
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/6/LocalizedName,0,심각한 상처 치료의 물약
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/6/DescIdentified,0,"혈액의 흐름을 안정시키거나 뼈를 엮을 수 있는 힘으로, 이 약은 위험한 직업들 사이에서 흔하게 사용되고 있습니다."
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/11/LocalizedName,0,빛
-drowcamp003,git,StoreList/0/StoreList/2/ItemList/11/DescIdentified,0,"시전자 레벨(s): Bard 0, Cleric 0, Druid 0, Wizard / Sorcerer 0  
-선천적인 수준: 0  
-학교: 방출술  
-서술자:  
-컴포넌트: 구술  
-범위: 접촉  
-효과 범위/대상: 단일  
- 지속 시간: 1 시간/레벨  
-추가 카운터 주문: 어둠  
-저장: 무해한 주문  
-저항: 없음  
+drowcamp003,git,StoreList/0/StoreList/2/ItemList/11/DescIdentified,0,"시전자 레벨: 바드 0, 클레릭 0, 드루이드 0, 위저드/소서러 0
+내재 레벨: 0
+학파: 방출
+주문 속성: 
+구성 요소: 음성
+사거리: 접촉
+효과 범위/대상: 단일
+지속 시간: 1시간/레벨
+추가 대항 주문: 어둠
+내성: 무해
+주문 저항: 없음
 
-생물의 머리 위에 작은 빛소리를 생성합니다. 빛은 목표와 함께 이동하며 소규모 영역을 조명할 수 있습니다."
+대상 생물의 머리 위에 작은 광원을 만든다. 빛은 대상을 따라 움직이며 좁은 범위를 밝힐 수 있다."
 drowcamp003,git,StoreList/0/StoreList/4/ItemList/0/LocalizedName,0,횃불
 drowcamp003,git,TriggerList/0/LocalizedName,0,약한 기체 함정
 drowcamp003,git,TriggerList/1/LocalizedName,0,일로미르_T_3
@@ -2302,7 +2302,7 @@ goblincamp,git,Creature List/50/Description,0,"고블린은 종종 귀찮게 여
 goblincamp,git,Creature List/50/ItemList/0/LocalizedName,0,그랜바크스 던전 키
 goblincamp,git,Creature List/51/FirstName,0,잡힌 고블린 스카우트
 goblincamp,git,Creature List/51/Description,0,"고블린은 종종 귀찮게 여겨지지만, 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다. 이는 고블린 아동입니다."
-goblincamp,git,Creature List/52/FirstName,0,고블린 스카우트를 잡았다
+goblincamp,git,Creature List/52/FirstName,0,붙잡힌 고블린 정찰병
 goblincamp,git,Creature List/52/Description,0,"고블린은 종종 귀찮게 여겨지지만, 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다. 이는 고블린 아동입니다."
 goblincamp,git,Door List/0/LocName,0,문
 goblincamp,git,Door List/0/Description,0,이 쇠창살문들은 방어적인 목적으로 설치된 것 같습니다.
@@ -2399,7 +2399,7 @@ goblincamp,git,Placeable List/163/ItemList/0/DescIdentified,0,이 마법 갑옷�
 goblincamp,git,Placeable List/163/ItemList/2/LocalizedName,0,사파이어
 goblincamp,git,Placeable List/163/ItemList/2/Description,0,"파란색 사피어는 색 을 제외한 모든 면 에서 더 귀중 한 루비 와 쌍둥이 이다. 대부분의 돌 들 에서, 빛나는 파란색 색 은 큰 열 에 노출 된 결과로 나오야 한다. "" ""되면, 색 변화 는 영구적 이며, 그 밖 에 보석 의 중요 한 내구성 에 영향을 미치지 않는다."
 goblincamp,git,Placeable List/163/ItemList/6/LocalizedName,0,공작석
-goblincamp,git,Placeable List/163/ItemList/6/Description,0,"마라카이트는 화려하고 자연스러운 아름다움으로 인해 드루이드들에게 사랑받으며, 돌 전체에 걸쳐 빛과 어두운 녹색의 뚜렷한 장식성 반지로 알려져 있다. 화가들은 또한 보석을 분쇄해 색소로 사용하는 것으로 알려져 있다. 모험가들은 보석이 산성에 쉽게 거품이 끼고 녹는 것을 발견했으며, 이는 특정 위험한 물질을 식별하는 효과적인 방법이지만, 비용이 많이 드는 방법이다."
+goblincamp,git,Placeable List/163/ItemList/6/Description,0,"우아하고 자연스러운 아름다움 덕에 드루이드들이 좋아하는 공작석은 돌 전체에 밝은 초록과 짙은 초록 띠가 번갈아 나타나는 눈에 띄는 장식 무늬로 유명하다. 화가들이 이 보석을 빻아 안료로 쓰기도 한다고 알려져 있다. 모험가들은 이 보석이 산에 닿으면 거품을 내며 쉽게 녹는 것을 발견했고, 값비싸긴 하지만 특정한 위험 물질을 판별하는 효과적인 방법이 된다."
 goblincamp,git,Placeable List/163/ItemList/7/LocalizedName,0,토파즈
 goblincamp,git,Placeable List/163/ItemList/7/Description,0,"톱아스는 주황색과 노란색을 띠는 희귀한 보석으로 잘 알려져 있으며, 잘 형성된 다면 결정체로 나타납니다. 이러한 결정체는 믿을 수 없을 정도로 크기가 크며, 몇 백 파운드 무게의 표본도 알려져 있습니다. 가장 큰 돌들은 보통 국가 행사에서의 선물로 예약되며, 가장 위대한 보석 절개자들만이 작업할 수 있습니다."
 goblincamp,git,Placeable List/164/LocName,0,책상
@@ -2965,9 +2965,9 @@ module,jrl,Categories/4/Name,0,잃어버린 드루이드
 module,jrl,Categories/4/EntryList/0/Text,0,피우비엔 여주님이 도피하는 괴물들을 쫓아다니는 익사전사들을 보냈어요.
 module,jrl,Categories/4/EntryList/1/Text,0,난 거대 거미들의 둥지에서 잃어버린 순찰대의 잔해를 찾았어. 그들의 리더는 불벌레 둥지에 사라져 있어.
 module,jrl,Categories/5/Name,0,피우비엔에 대한 음모
-module,jrl,Categories/5/EntryList/0/Text,0,"저는 마법사 트리안더와 함께 삐위위안 여주인을 상대로 음모를 꾸미기로 결정했습니다. 이를 위해 몇몇 마법으로 중독된 고블린 노예들을 새로운 노예들에게 넣어두었는데, 이로 인해 새로운 노예들은 병에 걸려 쓸모가 없어질 것입니다.
+module,jrl,Categories/5/EntryList/0/Text,0,"나는 마법에 걸린 고블린 노예 몇 명을 새 노예들 사이에 집어넣어, 피위비엔 여주인에게 맞서는 마법사 트리안더의 음모에 가담하기로 했다. 그러면 새 노예들이 병에 걸려 쓸모없어질 것이다.
 
-로스스는 확실히 매우 불쾌하실 것입니다."
+롤스께서는 분명 몹시 불쾌해하시겠지."
 module,jrl,Categories/5/EntryList/1/Text,0,트리안더는 피우비엔 부인과 음모한 것에 대해 보상해줬고 새로운 노예들에게 두 마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마마
 module,jrl,Categories/5/EntryList/2/Text,0,난 감염된 고블린들을 새로운 노예 집단으로 끌어들일 수 있었어. 다음 몇 일 내로 전체 집단이 감염될 것이다.
 module,jrl,Categories/5/EntryList/3/Text,0,"피우비엔 여주인에게 트리안데르의 음모를 알려줬어요. 그녀의 명령은 내가 트리안데르의 음모에 참여하는 것처럼 계속하는 거예요.
