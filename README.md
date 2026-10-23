@@ -17,7 +17,7 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | 공식 · Extra | Kingmaker, ShadowGuard, Witch's Wake, The Winds of Eremor, Neverwinter Chess, Contest of Champions, The Dark Ranger's Treasure, To Heir is Human | 구현 (기계번역 위주) |
 | 프리미엄 | Doom of Icewind Dale, Tyrants of the Moonsea, Darkness over Daggerford, Pirates of the Sword Coast | 구현 (설치 시 자동 다운로드) |
 | 프리미엄 | Dark Dreams of Furiae, Wyvern Crown of Cormyr, Infinite Dungeons | 구현 (기계번역 위주) |
-| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1~6장), Nature Abhors a Vacuum, Eye of the Beholder I·II, Crimson Tides of Tethyr, Siege of Shadowdale, The Fall of Aielund Pt.1~3, Cult of the Reptile God 2.0, Defender of the Crown, Return of the Ironlord, Almraiven, Shadewood | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
+| 커뮤니티 | A Hunt Through The Dark (캐릭터 생성기 + 1\~6장), Nature Abhors a Vacuum, Eye of the Beholder I·II, Crimson Tides of Tethyr, Siege of Shadowdale, The Fall of Aielund Pt.1\~3, Cult of the Reptile God 2.0, Defender of the Crown, Return of the Ironlord, Almraiven, Shadewood | **실험적** 구현 (아래 "커뮤니티 캠페인" 참고) |
 
 ※ 프리미엄 4종(DoD/ToTM/PotSC/DoIWD)의 번역은 [Steam 창작마당 nwn1ee_dod_kr](https://steamcommunity.com/sharedfiles/filedetails/?id=3437559043)
 제작자의 작업물이고 유료 모듈 파일을 포함하므로, 이 저장소에는 넣지 않았습니다.
@@ -40,16 +40,16 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 | 엔진·UI | 한글 표시, 캠페인 선택 화면 | 일부 옵션 화면 문구는 게임 자체 번역이 없어 영어 |
 | 본편 OC/SoU/HotU | `dialog.tlk` 약 99.8% | 영문 유지 항목 약 3천 개(고유명사 등), 미번역 약 190개 |
 | DoD/ToTM/PotSC/DoIWD | 외부 한패 제작자의 번역 | 제작자가 영어로 남긴 스크립트 메시지 등 |
-| Eremor/Chess/CoC/Dark Ranger/To Heir is Human | 대사·이름·설명(모듈 내 텍스트) 기계번역 | 스크립트 속 문장은 대부분 번역(v0.1.13~, 일부는 조합식 문구라 영어), 2DA 항목, 이미지·영상 속 글자 |
-| Kingmaker/ShadowGuard/Witch's Wake/Wyvern Crown | 모듈 + HAK 안의 대사·이름·설명 기계번역 (v0.1.8~) | 일부 스크립트 조합 문구, 2DA, **Wyvern Crown 커스텀 TLK(354개)** |
+| Eremor/Chess/CoC/Dark Ranger/To Heir is Human | 대사·이름·설명(모듈 내 텍스트) 기계번역 | 스크립트 속 문장은 대부분 번역(v0.1.13\~, 일부는 조합식 문구라 영어), 2DA 항목, 이미지·영상 속 글자 |
+| Kingmaker/ShadowGuard/Witch's Wake/Wyvern Crown | 모듈 + HAK 안의 대사·이름·설명 기계번역 (v0.1.8\~) | 일부 스크립트 조합 문구, 2DA, **Wyvern Crown 커스텀 TLK(354개)** |
 | Dark Dreams of Furiae / Infinite Dungeons | 모듈 + HAK 번역 (Infinite Dungeons 28,805개 전부 적용, Furiae 4,761개는 모두 모듈 안) | 일부 스크립트 조합 문구, 2DA |
-| 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(development 폴더 방식, 실험적, 스크립트 속 문장 포함 v0.1.14~) | 접두 `nw_` 리소스, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
+| 커뮤니티(AHTD, Nature Abhors a Vacuum, Eye of the Beholder I·II) | 대사·이름·설명(development 폴더 방식, 실험적, 스크립트 속 문장 포함 v0.1.14\~) | 접두 `nw_` 리소스, TLK/2DA, 캠페인 업데이트로 바뀐 리소스 |
 | 커뮤니티: Defender of the Crown 등 나머지 | **번역 중/미포함** | 전부 |
 | 커뮤니티: 위 목록 외 | **미포함** | 전부 |
 
 공통 사항:
 - 위 모듈의 번역은 **기계번역이 기본이며 이름·UI 일부만 사람이 교정**했습니다. 문장이 어색하거나 존대·반말이 섞일 수 있습니다.
-- **v0.1.3~v0.1.6 으로 설치한 Kingmaker, ShadowGuard, Witch's Wake, Wyvern Crown, Infinite Dungeons, Furiae 는 번역이 일부만 적용**되어
+- **v0.1.3\~v0.1.6 으로 설치한 Kingmaker, ShadowGuard, Witch's Wake, Wyvern Crown, Infinite Dungeons, Furiae 는 번역이 일부만 적용**되어
   있습니다(HAK 안의 텍스트가 빠져 있었음). v0.1.8 에서 다시 [패치]하세요.
 
 ## HAK 번역 (v0.1.8)
@@ -57,7 +57,7 @@ Neverwinter Nights: Enhanced Edition(Steam, 빌드 **8193.37**)을 한글로 즐
 Kingmaker, ShadowGuard, Witch's Wake, Infinite Dungeons, Wyvern Crown, Dark Dreams of Furiae 는 아이템·크리처·대화 대부분이
 모듈 파일이 아니라 **HAK 파일**(예: `km_resources.hak`)에 들어 있습니다. v0.1.8 부터 설치 프로그램이 HAK 안의 리소스도 번역해서
 번역된 HAK 를 **문서 폴더의 `hak` 폴더**에 설치합니다(게임 원본 HAK 는 건드리지 않고, 문서 폴더의 HAK 가 우선합니다).
-[원복]하면 번역된 HAK 도 함께 제거됩니다. 이전 버전(v0.1.3~v0.1.6)에서 설치한 모듈은 번역이 일부만 적용되어 있으니 다시 [패치]하세요.
+[원복]하면 번역된 HAK 도 함께 제거됩니다. 이전 버전(v0.1.3\~v0.1.6)에서 설치한 모듈은 번역이 일부만 적용되어 있으니 다시 [패치]하세요.
 
 ## 동작 원리
 
@@ -84,27 +84,27 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 (`override` 는 모듈·NWSync 보다 우선순위가 낮아 번역이 적용되지 않았습니다. **v0.1.10 이하에서 커뮤니티 캠페인을 패치했다면 v0.1.11 에서 다시 [패치]하세요.**)
 
 - **게임의 커뮤니티 탭에서 해당 캠페인을 먼저 내려받아야** 합니다.
-- **커뮤니티 캠페인은 캠페인별 폴더에 번역본을 보관하고, 플레이할 캠페인으로 전환합니다 (v0.1.24~).** 20개 캠페인이 `module.ifo`, `area001` 같은 같은 이름의 파일을 공유하고(6천여 개) 게임은 `문서\development` 폴더 하나만 읽기 때문에, 한꺼번에 켜 두면 서로 덮어써서 모듈 손상·에러·멈춤이 납니다. 그래서 번역본은 `문서\ko_campaigns\<캠페인>\` 에 캠페인마다 따로 만들어 두고(캠페인당 약 13MB), 각 캠페인의 [패치]는 이미 만든 번역본을 `development` 에 복사해 그 캠페인으로 전환합니다(다른 캠페인은 자동 해제, 전환은 몇 초). [전체 일괄 패치]는 게임에서 내려받은 캠페인의 번역본을 전부 미리 만들어 두기만 하고(상태 '준비됨'), [전체 원복]은 해제와 함께 번역본 폴더도 지웁니다. 같은 시각에 활성화되는 캠페인은 하나뿐입니다.
-- **자동 전환(선택, 실험, v0.2.0~)**: 설치 프로그램의 [자동 전환] 항목을 켜면(켜기 전에 안내가 나옵니다) 캠페인마다 [패치]를 누르지 않아도 됩니다. 게임을 켤 때 `version.dll` 이 문서 폴더의 `development` 에 모든 캠페인의 파일 이름(하드링크 약 2만 개, 복사 아님)을 깔아 두고, 캠페인을 열면 로그의 `Loading Module` 줄을 보고 그 캠페인의 번역만 남기며(약 1~3초) 나머지는 지웁니다. 공식 캠페인을 열면 전부 지우고, 게임을 끄면 모두 지웁니다(비정상 종료로 남으면 다음 실행 때 지움). 게임을 켤 때 5~10초 늦어질 수 있습니다. 이 기능은 [엔진·UI 한글 지원]이 게임 폴더(`bin\win32`)에 설치하는 `version.dll`(원래 게임에는 없는 파일, [원복]하면 삭제) 안에 들어 있고, 설정 파일 `nwn_ko_autoswitch.txt` 가 같은 폴더에 생깁니다. 게임 프로그램(nwmain.exe)은 한글 엔진 패치 외에 더 바꾸지 않고 캠페인 파일도 바꾸지 않습니다. 끄려면 [자동 전환]의 [원복]을 누르세요.
+- **커뮤니티 캠페인은 캠페인별 폴더에 번역본을 보관하고, 플레이할 캠페인으로 전환합니다 (v0.1.24\~).** 20개 캠페인이 `module.ifo`, `area001` 같은 같은 이름의 파일을 공유하고(6천여 개) 게임은 `문서\development` 폴더 하나만 읽기 때문에, 한꺼번에 켜 두면 서로 덮어써서 모듈 손상·에러·멈춤이 납니다. 그래서 번역본은 `문서\ko_campaigns\<캠페인>\` 에 캠페인마다 따로 만들어 두고(캠페인당 약 13MB), 각 캠페인의 [패치]는 이미 만든 번역본을 `development` 에 복사해 그 캠페인으로 전환합니다(다른 캠페인은 자동 해제, 전환은 몇 초). [전체 일괄 패치]는 게임에서 내려받은 캠페인의 번역본을 전부 미리 만들어 두기만 하고(상태 '준비됨'), [전체 원복]은 해제와 함께 번역본 폴더도 지웁니다. 같은 시각에 활성화되는 캠페인은 하나뿐입니다.
+- **자동 전환(선택, 실험, v0.2.0\~)**: 설치 프로그램의 [자동 전환] 항목을 켜면(켜기 전에 안내가 나옵니다) 캠페인마다 [패치]를 누르지 않아도 됩니다. 게임을 켤 때 `version.dll` 이 문서 폴더의 `development` 에 모든 캠페인의 파일 이름(하드링크 약 2만 개, 복사 아님)을 깔아 두고, 캠페인을 열면 로그의 `Loading Module` 줄을 보고 그 캠페인의 번역만 남기며(약 1\~3초) 나머지는 지웁니다. 공식 캠페인을 열면 전부 지우고, 게임을 끄면 모두 지웁니다(비정상 종료로 남으면 다음 실행 때 지움). 게임을 켤 때 5\~10초 늦어질 수 있습니다. 이 기능은 [엔진·UI 한글 지원]이 게임 폴더(`bin\win32`)에 설치하는 `version.dll`(원래 게임에는 없는 파일, [원복]하면 삭제) 안에 들어 있고, 설정 파일 `nwn_ko_autoswitch.txt` 가 같은 폴더에 생깁니다. 게임 프로그램(nwmain.exe)은 한글 엔진 패치 외에 더 바꾸지 않고 캠페인 파일도 바꾸지 않습니다. 끄려면 [자동 전환]의 [원복]을 누르세요.
 - 게임의 "Find more content!"로 새 캠페인을 내려받으면, 설치 프로그램 목록 맨 아래 **"번역 없음"** 묶음에 이름이 표시됩니다(번역은 개발자가 따로 만들어야 합니다). 커뮤니티 목록은 알파벳순입니다.
 - 게임 내 동작은 아직 충분히 검증되지 않았습니다. 문제가 있으면 [원복] 후 알려 주세요.
 
 ## 지금까지의 진행 기록 (2026-10-24 기준, v0.2.38)
 
-번역은 4단계로 만들었습니다: ① 기계번역(NLLB, CPU) → ② 로컬 LLM(Qwen2.5-7B) 감수 → ③ 자동 규칙 검사와 표본 판정 → ④ **3차 감수**(v0.2.3~): 의심 문장을 걸러 사람이(Claude 가) 직접 읽고 고침. 방법은 [번역 방법서](https://github.com/iamtalker/game-translation-pipeline)에 정리했습니다.
+번역은 4단계로 만들었습니다: ① 기계번역(NLLB, CPU) → ② 로컬 LLM(Qwen2.5-7B) 감수 → ③ 자동 규칙 검사와 표본 판정 → ④ **3차 감수**(v0.2.3\~): 의심 문장을 걸러 사람이(Claude 가) 직접 읽고 고침. 방법은 [번역 방법서](https://github.com/iamtalker/game-translation-pipeline)에 정리했습니다.
 
 | 버전 | 한 일 | 왜 |
 |---|---|---|
 | v0.1.22 | Reptile God 에서 영어로 남던 대사 330행 한글화 | 안전 검사로 빠져 영어로 남아 있었음 |
 | v0.1.24 | 커뮤니티 캠페인별 번역본 폴더 + 진행률 바 | 캠페인 전환을 빠르게, 진행 상황이 보이게 |
-| v0.1.25~26 | 로컬 LLM 이 다듬은 번역 반영(번역의 51% 변경), 고유명사 표기 통일 | 기계번역의 심한 오역·표기 혼재 개선 |
+| v0.1.25\~26 | 로컬 LLM 이 다듬은 번역 반영(번역의 51% 변경), 고유명사 표기 통일 | 기계번역의 심한 오역·표기 혼재 개선 |
 | v0.1.27 | `_` 로 시작하는 게임 파일이 연결되지 않던 버그 수정 | 캠페인마다 대사 20% 안팎이 영어로 남던 원인 |
 | v0.2.0 | **커뮤니티 캠페인 자동 전환**(선택, 실험) | 캠페인을 바꿀 때마다 [패치]를 눌러야 하는 불편 |
-| v0.2.1~2 | 안내 문구 수정, `version.dll` 설치(교체) 명시 | 사전 고지를 정확히 |
-| v0.2.3~21 | 오역이 의심되는 문장 목록 약 2,400개를 하나씩 읽고 교정 | 로컬 LLM 으로도 남은 뜻 오류(없는 말 지어냄, 반대 뜻, 이름 오역)를 사람이 확인 |
+| v0.2.1\~2 | 안내 문구 수정, `version.dll` 설치(교체) 명시 | 사전 고지를 정확히 |
+| v0.2.3\~21 | 오역이 의심되는 문장 목록 약 2,400개를 하나씩 읽고 교정 | 로컬 LLM 으로도 남은 뜻 오류(없는 말 지어냄, 반대 뜻, 이름 오역)를 사람이 확인 |
 | v0.2.4 | 변하지 않은 확장 모듈은 설치할 때 건너뜀 | 설치 시간 단축 |
-| v0.2.22~37 | 외부 AI 도구로 오류가 의심되는 문장을 먼저 걸러 내고, 걸러진 문장(약 1만 2천 문장 범위)을 Claude 가 읽고 확인해 교정 | 사람이 읽을 양을 줄이려고. 선별기는 오류 약 72%를 찾았고 나머지는 놓침 |
-| v0.2.35~37 | 위 범위의 마지막 구간은 외부 도구 없이 Claude 가 직접 읽고 교정(문장의 약 80% 수정) | 외부 도구 사용량이 소진되어 |
+| v0.2.22\~37 | 외부 AI 도구로 오류가 의심되는 문장을 먼저 걸러 내고, 걸러진 문장(약 1만 2천 문장 범위)을 Claude 가 읽고 확인해 교정 | 사람이 읽을 양을 줄이려고. 선별기는 오류 약 72%를 찾았고 나머지는 놓침 |
+| v0.2.35\~37 | 위 범위의 마지막 구간은 외부 도구 없이 Claude 가 직접 읽고 교정(문장의 약 80% 수정) | 외부 도구 사용량이 소진되어 |
 | v0.2.38 | 영어에 같은 고유 용어가 있는데 번역마다 표기가 달랐던 것을 규칙으로 자동 통일(1,284문장: 알마라이벤, 아이엘룬드, 피위비엔, 드로우, 쿨데니 등) | 읽지 않고도 기계로 잡을 수 있는 오류 |
 
 버전마다 무엇을 왜 바꿨는지는 [Releases](../../releases) 노트에 적었습니다.
