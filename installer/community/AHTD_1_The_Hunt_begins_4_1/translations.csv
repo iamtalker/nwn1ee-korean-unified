@@ -342,7 +342,7 @@ piwiewien_c3,dlg,EntryList/21/Text,0,"""우리가 찾고 있던 것을 찾았어
 piwiewien_c3,dlg,EntryList/22/Text,0,"""그건 네 문제 아냐 준비해. 우린 배를 여기 남기고 갈래시 모터로 따라갈 거야""."
 piwiewien_c3,dlg,ReplyList/0/Text,0,"""그들은 탄력적이다. 얼마나 많은 사람들을 마주치는지 물어보는 것이 좋을까?"""
 piwiewien_c3,dlg,ReplyList/1/Text,0,"""예, 강가에 위치하고 있으며 이상한 붉은 빛이 비추어져 있습니다. 위로 올라가는 명확한 길이 있지만, 그 길이 어디로 이어지는지는 모르겠습니다."""
-piwiewien_c3,dlg,ReplyList/2/Text,0,"""고마워, 여주인. 제 뛰어난 연기에 대한 보상을 물어보는 것이 가능할까요?"""
+piwiewien_c3,dlg,ReplyList/2/Text,0,"""감사합니다, 여주인님. 제가 뛰어난 활약을 했는데 보상을 여쭤봐도 될까요?"""
 piwiewien_c3,dlg,ReplyList/3/Text,0,<StartAction> [정당히 머리를 기울여] </Start>
 piwiewien_c3,dlg,ReplyList/4/Text,0,"""아니, 내가 그냥 놔주지 않았어."""
 piwiewien_c3,dlg,ReplyList/5/Text,0,<StartAction>[지혜롭게 침묵]</Start>
@@ -519,7 +519,7 @@ thriandir2,dlg,ReplyList/9/Text,0,"""물론이죠. 당신의 물건을 다시 �
 thriandir2,dlg,ReplyList/10/Text,0,<StartAction[표시를 무시하라] </Start>
 thriandir3,dlg,EntryList/0/Text,0,"""우리는 이 지역을 떠나기 위해 준비하고 있습니다. 서둘러요. 여기는 점점 위험해지고 있습니다."""
 thriandir3,dlg,EntryList/1/Text,0,"""피우비엔에게 가서 얘기해줘요, 그건 중요해요, 서둘러요""."
-thriandir3,dlg,EntryList/3/Text,0,"""그래서 당신에게 이 스버프네블린 성직자를 죽이기의 명령이 내려졌군. 어떻게 할 것인가? 죽을까? 아마도. 사실상 당신의 임무는 자살처럼 들린다."""
+thriandir3,dlg,EntryList/3/Text,0,"""딥 노움 성직자를 죽이라는 명령을 받았군. 어떻게 할 셈이지? 죽을 건가? 그럴지도 모르지. 아무리 봐도 자살 임무처럼 들리는군."""
 thriandir3,dlg,EntryList/4/Text,0,"만약 귀를 열어두신다면, 조언을 드릴 수도 있을 것 같습니다."
 thriandir3,dlg,EntryList/5/Text,0,"""너의 성공이 내 보상이네. 그 기노마들은 우리 모두를 위협하고 있어."""
 thriandir3,dlg,EntryList/6/Text,0,"""스버프네블린 또는 깊은 노움으로도 알려져 있지만, 그들은 믿을 수 없을 정도로 현명하고 기술적 능력이 뛰어납니다. 그들은 우리와 같은 복잡한 도시에서 살고 있으며, 가장 가까운 그러한 도시는 블링든스톤입니다."""
@@ -775,7 +775,7 @@ cavemaze001,git,Placeable List/19/Description,0,그 연기가 쓴맛을 냈다. 
 cavemaze001,git,Placeable List/58/LocName,0,상자
 cavemaze001,git,Placeable List/58/Description,0,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
 cavemaze001,git,Placeable List/58/ItemList/2/LocalizedName,0,치명상처 치료의 물약
-cavemaze001,git,Placeable List/58/ItemList/2/DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+cavemaze001,git,Placeable List/58/ItemList/2/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 cavemaze001,git,Placeable List/58/ItemList/3/LocalizedName,0,심각한 상처 치료의 물약
 cavemaze001,git,Placeable List/58/ItemList/3/DescIdentified,0,"혈액의 흐름을 안정시키거나 뼈를 엮을 수 있는 힘으로, 이 약은 위험한 직업들 사이에서 흔하게 사용되고 있습니다."
 cavemaze001,git,Placeable List/193/LocName,0,일린 캡틴의 시체
@@ -1328,7 +1328,7 @@ drowcamp001,git,Creature List/38/FirstName,0,칼루리트
 drowcamp001,git,Creature List/38/LastName,0,테레쉬
 drowcamp001,git,Creature List/38/Description,0,"칼루리스 테레쉬는 드워프 용병으로, 최근 피우비엔의 사냥 여행을 위해 모집되었습니다. 그는 유능한 싸움꾼처럼 보입니다. 당신은 그가 잔인한 사제에게 충성하는지, 아니면 단지 기회주의자인지를 궁금해합니다."
 drowcamp001,git,Creature List/38/ItemList/3/LocalizedName,0,치명상처 치료의 물약
-drowcamp001,git,Creature List/38/ItemList/3/DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+drowcamp001,git,Creature List/38/ItemList/3/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 drowcamp001,git,Creature List/38/ItemList/4/LocalizedName,0,일반 중상 치료의 물약
 drowcamp001,git,Creature List/38/ItemList/4/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸서, 거의 전적으로 군인과 모험가들에 의해 사용됩니다."
 drowcamp001,git,Creature List/38/ItemList/5/LocalizedName,0,황소의 근력 물약
@@ -1504,7 +1504,7 @@ drowcamp001,git,StoreList/0/StoreList/2/ItemList/1/DescIdentified,0,"이 두꺼�
 drowcamp001,git,StoreList/0/StoreList/2/ItemList/2/LocalizedName,0,축복의 물약
 drowcamp001,git,StoreList/0/StoreList/2/ItemList/2/DescIdentified,0,"더 냉소적인 모험가들이 ""손잡이 사제""라고 부르는 이 성스러운 주입물은 보통의 모험가에게 큰 도움이 된다."
 drowcamp001,git,StoreList/0/StoreList/2/ItemList/3/LocalizedName,0,치명상처 치료의 물약
-drowcamp001,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+drowcamp001,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 drowcamp001,git,StoreList/0/StoreList/2/ItemList/4/LocalizedName,0,가벼운 상처 치료의 물약
 drowcamp001,git,StoreList/0/StoreList/2/ItemList/4/DescIdentified,0,농민의 집에서 덤벨루마의 어둠만큼 종종 사용되는 간단한 혼합물은 페룬 전역에서 흔합니다.
 drowcamp001,git,StoreList/0/StoreList/2/ItemList/5/LocalizedName,0,일반 중상 치료의 물약
@@ -1823,7 +1823,7 @@ drowcamp002,git,StoreList/0/StoreList/2/ItemList/1/DescIdentified,0,"이 두꺼�
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/2/LocalizedName,0,축복의 물약
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/2/DescIdentified,0,"더 냉소적인 모험가들이 ""손잡이 사제""라고 부르는 이 성스러운 주입물은 보통의 모험가에게 큰 도움이 된다."
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/3/LocalizedName,0,치명상처 치료의 물약
-drowcamp002,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+drowcamp002,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/4/LocalizedName,0,가벼운 상처 치료의 물약
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/4/DescIdentified,0,농민의 집에서 덤벨루마의 어둠만큼 종종 사용되는 간단한 혼합물은 페룬 전역에서 흔합니다.
 drowcamp002,git,StoreList/0/StoreList/2/ItemList/5/LocalizedName,0,일반 중상 치료의 물약
@@ -2153,7 +2153,7 @@ drowcamp003,git,StoreList/0/StoreList/2/ItemList/1/DescIdentified,0,"이 두꺼�
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/2/LocalizedName,0,축복의 물약
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/2/DescIdentified,0,"더 냉소적인 모험가들이 ""손잡이 사제""라고 부르는 이 성스러운 주입물은 보통의 모험가에게 큰 도움이 된다."
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/3/LocalizedName,0,치명상처 치료의 물약
-drowcamp003,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+drowcamp003,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/4/LocalizedName,0,가벼운 상처 치료의 물약
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/4/DescIdentified,0,농민의 집에서 덤벨루마의 어둠만큼 종종 사용되는 간단한 혼합물은 페룬 전역에서 흔합니다.
 drowcamp003,git,StoreList/0/StoreList/2/ItemList/5/LocalizedName,0,일반 중상 치료의 물약
@@ -2292,7 +2292,7 @@ goblincamp,git,Creature List/48/Equip_ItemList/1/DescIdentified,0,"이 무기는
 goblincamp,git,Creature List/49/FirstName,0,고블린 주술사 크차크스워트
 goblincamp,git,Creature List/49/Description,0,"고블린은 종종 귀찮게 여겨지지만, 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다. 이는 고블린 아동입니다."
 goblincamp,git,Creature List/49/ItemList/0/LocalizedName,0,유령의 단장
-goblincamp,git,Creature List/49/ItemList/0/DescIdentified,0,"이 길고 얇은 막대기는 사용자를 철저히 허탈하게 만들 수 있으며, 따라서 전투에서 쉽게 접근하기 어렵게 만들 수 있습니다."
+goblincamp,git,Creature List/49/ItemList/0/DescIdentified,0,이 길고 가느다란 막대는 사용자를 비물질적인 상태로 만들어 전투에서 공격하기 어렵게 합니다.
 goblincamp,git,Creature List/49/ItemList/1/LocalizedName,0,방사 완드
 goblincamp,git,Creature List/49/ItemList/1/DescIdentified,0,이 같은 물체 내에 마법 발사물을 포장한 최초의 마법사는 명백히 추방되고 네 부분으로 찢어진 채 혐의를 뒤집어쓰고 있다는 설이 있다. 대부분의 마법사와 마법사들은 오늘날 모든 막대를 만들었던 자들이 죽었다고 해도 마법은 정말로 매우 독점적인 클럽이 될 것이라고 말하면서 이 점을 조롱한다.
 goblincamp,git,Creature List/49/Equip_ItemList/0/LocalizedName,0,의식용 단검
@@ -2395,7 +2395,7 @@ goblincamp,git,Placeable List/163/LocName,0,상자
 goblincamp,git,Placeable List/163/Description,0,금속 링이 이 장식된 가구 상자의 목재 작업을 관통하고 있다. 이 강상함은 뛰어난 제작 기술로 보아 대중에게 전시하기 위해 제작된 것 같다는 판단이 난다.
 goblincamp,git,Placeable List/163/ItemList/0/LocalizedName,0,그누르마크의 갑옷
 goblincamp,git,Placeable List/163/ItemList/0/Description,0,이 사슬 갑옷은 탁월한 품질이다. 그러나 여전히 나쁘게 착용되어 있으며 심각한 수리가 필요하다.
-goblincamp,git,Placeable List/163/ItemList/0/DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특정 제작자의 특징을 가지고 있지 않습니다. 그것은 언더다크의 깊은 곳에 Gnurmach의 둔갑에 있었다. 분명히 그것은 거블린의 작업이 아닌 것 같습니다. 그것이 어떻게 Gnurmach에게 도달했는지 완전히 알려지지 않았습니다.
+goblincamp,git,Placeable List/163/ItemList/0/DescIdentified,0,"이 마법 갑옷은 착용자에게 추가 보호를 제공하지만, 특정 제작자의 특징은 없다. 언더다크 깊숙한 곳에 있는 그누르마크의 은신처에서 발견했다. 분명 고블린이 만든 물건은 아니다. 그 갑옷이 어떻게 그누르마크에게 왔는지는 전혀 알려지지 않았다."
 goblincamp,git,Placeable List/163/ItemList/2/LocalizedName,0,사파이어
 goblincamp,git,Placeable List/163/ItemList/2/Description,0,"파란색 사피어는 색 을 제외한 모든 면 에서 더 귀중 한 루비 와 쌍둥이 이다. 대부분의 돌 들 에서, 빛나는 파란색 색 은 큰 열 에 노출 된 결과로 나오야 한다. "" ""되면, 색 변화 는 영구적 이며, 그 밖 에 보석 의 중요 한 내구성 에 영향을 미치지 않는다."
 goblincamp,git,Placeable List/163/ItemList/6/LocalizedName,0,공작석
@@ -2758,7 +2758,7 @@ mysteriouscrypt,git,Placeable List/11/Description,0,등불은 주변을 더 따�
 mysteriouscrypt,git,Placeable List/15/LocName,0,상자
 mysteriouscrypt,git,Placeable List/15/Description,0,"이상한 룬과 그림자, 아마도 미묘한 자연, 이 은폐된 강박의 옆구리에 불태워졌습니다."
 mysteriouscrypt,git,Placeable List/15/ItemList/4/LocalizedName,0,치명상처 치료의 물약
-mysteriouscrypt,git,Placeable List/15/ItemList/4/DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+mysteriouscrypt,git,Placeable List/15/ItemList/4/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 mysteriouscrypt,git,Placeable List/15/ItemList/5/LocalizedName,0,일반 중상 치료의 물약
 mysteriouscrypt,git,Placeable List/15/ItemList/5/DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸서, 거의 전적으로 군인과 모험가들에 의해 사용됩니다."
 mysteriouscrypt,git,Placeable List/32/LocName,0,신성한 웅덩이
@@ -3095,7 +3095,7 @@ it_creitemdr026,uti,LocalizedName,0,부화된 은용 속성
 it_crewps013,uti,LocalizedName,0,부화된 용이 물린 것
 it_crewpsp012,uti,LocalizedName,0,웅덩어리 드래곤 클라
 it_mpotion025,uti,LocalizedName,0,치명상처 치료의 물약
-it_mpotion025,uti,DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+it_mpotion025,uti,DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 it_mpotion026,uti,LocalizedName,0,일반 중상 치료의 물약
 it_mpotion026,uti,DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸서, 거의 전적으로 군인과 모험가들에 의해 사용됩니다."
 it_mpotion027,uti,LocalizedName,0,황소의 근력 물약

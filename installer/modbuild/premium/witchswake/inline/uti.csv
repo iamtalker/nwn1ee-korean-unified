@@ -86,7 +86,7 @@ hcrhelper,uti,DescIdentified,0,-1,"DM 도구: 이 DM 도구는 더 이상의 평
 hcrhelper,uti,LocalizedName,0,-1,HCRHelper
 hcrhelpwand,uti,DescIdentified,0,-1,"이 버전의 HCR 조력자는 일시적으로 DM 지위를 부여받은 플레이어들을 위한 설계입니다. 이 도구는 HCR 규칙이 어떻게 작동하는지의 다양한 측면을 제어할 수 있게 합니다. ""마녀의 깨어남"" 모듈 내에서 많은 HCR 시스템이 제거되거나 크게 변경되었기 때문에 조심스럽게 사용해야 합니다."
 hcrhelpwand,uti,LocalizedName,0,-1,HCR 도움말 (플레이어 DMs)
-henchpotion,uti,DescIdentified,0,13414,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+henchpotion,uti,DescIdentified,0,13414,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 henchpotion,uti,LocalizedName,0,13415,치명상처 치료의 물약
 herdkeepersgarb,uti,DescIdentified,0,-1,"이 가벼운 갑옷은 얇은 와인드레인 가죽으로 만들어져 있으며, 전통적으로 존경받는 목자들이 착용합니다. 이 갑옷은 전투에서 착용하는 사람을 보호하기 위한 것보다는 야생의 사나귀와 뿔소, 그리고 분노한 동물의 간헐적인 물림을 막기 위한 것입니다."
 herdkeepersgarb,uti,LocalizedName,0,-1,목장주 의복
@@ -115,8 +115,8 @@ it_medkit032,uti,LocalizedName,0,13363,치유사의 도구 +5
 it_medkit052,uti,LocalizedName,0,13364,치유사의 도구 +9
 it_mmidmisc006,uti,DescIdentified,0,58558,"대형의 고기가 생물체로부터 떨어져 나왔는데, 이것을 먹는 것은 현명하지 않을 것이다. 아마도 캠프파이어에서 구워서 먹으면 안전할 것이다."
 it_mmidmisc006,uti,LocalizedName,0,13378,생고기
-it_mpotion024,uti,DescIdentified,0,52941,와인은 발효와 노화된 포도를 짜서 만든다. 이와인은 특별히 우수한 재배로 알려져 있다.
-it_mpotion024,uti,LocalizedName,0,13452,고전적인 와인
+it_mpotion024,uti,DescIdentified,0,52941,짙은 붉은색이거나 옅은 노란색인 와인은 발효하고 숙성시킨 포도를 압착해 만듭니다. 이 와인은 유난히 훌륭한 빈티지입니다.
+it_mpotion024,uti,LocalizedName,0,13452,숙성 와인
 kingsarmor001,uti,DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 kingsarmor001,uti,LocalizedName,0,-1,포근한 왕의 갑옷
 kingsarmor002,uti,DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
@@ -162,7 +162,7 @@ potionofcurel002,uti,DescIdentified,0,-1,"혈액의 흐름을 안정시키거나
 potionofcurel002,uti,LocalizedName,0,-1,심각한 상처 치료의 물약
 potionofcurel003,uti,DescIdentified,0,-1,농민의 집에서 덤벨루마의 어둠만큼 종종 사용되는 간단한 혼합물은 페룬 전역에서 흔합니다.
 potionofcurel003,uti,LocalizedName,0,-1,가벼운 상처 치료의 물약
-potionofcurel004,uti,DescIdentified,0,-1,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+potionofcurel004,uti,DescIdentified,0,-1,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 potionofcurel004,uti,LocalizedName,0,-1,치명상처 치료의 물약
 pwdb_objects,uti,DescIdentified,0,-1,"이 항목은 영구적 세계 데이터베이스 시스템 (PWDB) 을 사용하여 수많은 HCR 변수를 추적하는 데 사용됩니다. 당신이 그것을 가져온 경우, 그것을 발견한 곳으로 반환하십시오. 재고에 보관하면 클라이언트가 충돌할 수 있으며 많은 HCR 규칙이 올바르게 작동하지 않을 수 있습니다."
 pwdb_objects,uti,LocalizedName,0,-1,PWDB_OBJECTS

@@ -169,7 +169,7 @@ cut_alia,dlg,EntryList/36/Text,0,-1,"어... 이렇게 되려고는 생각지 않
 cut_alia,dlg,EntryList/37/Text,0,-1,"Yes, I... I let my temper get away with me. You are right about that much, Janthos. Now if the young <Lord/Lady> <LastName> has any more questions of me, <he/she> may ask..."
 cut_alia,dlg,EntryList/38/Text,0,-1,그럼 너 둘 다 틀렸어 너랑 나랑 다른 사람한테 사과할 거 같아
 cut_alia,dlg,EntryList/39/Text,0,-1,"<StartAction>[잔토스는 얼어붙는다.]</Start> 잠깐! 미안합니다! 난... 내 발언은 부적절했고, 내 분노는... 잘못된 방향이었어. 나는 내 행동에 대한 책임을 지고 있다."
-cut_alia,dlg,EntryList/4/Text,0,-1,"엄마는 이 사관학교를 졸업하면서 임신을 했고 마지막식에 참석할 수 없었기 때문에, 어떤 면에서는 이번은 우리 둘 다를 위한 것입니다."
+cut_alia,dlg,EntryList/4/Text,0,-1,"엄마는 나를 임신한 상태로 이 사관학교를 졸업했고, 그래서 졸업식에 참석하지 못했어. 여러모로 이번 졸업식은 우리 둘 모두를 위한 거야."
 cut_alia,dlg,EntryList/40/Text,0,-1,"Well... 고마워, Janthos. 이 논쟁에서 엘프가 더 큰 자세를 취할 줄은 생각지 못했어... 오, <FirstName>님, 이제 판정을 진행해야 해. 더 물어볼 게 있나?"
 cut_alia,dlg,EntryList/41/Text,0,-1,"나도 미안해. 화를 낸 대상은 네가 아니었어, <FirstName>이지만, 여전히 제 행동에 대한 책임을 지도록 하게 해도 좋을까. 그 행동이 적절하지 않았으니까."
 cut_alia,dlg,EntryList/42/Text,0,-1,"It's all right. I take responsibility for my rant and the argument that followed. My outburst was uncalled for too, <FirstName>."
@@ -958,7 +958,7 @@ ghaar_instructor,dlg,EntryList/43/Text,0,-1,"저는 구제자 성문을 선택�
 ghaar_instructor,dlg,EntryList/44/Text,0,-1,이 껍데기 는 치유 의 능력 을 가지고 있습니다. 여러분은 이 껍데기 를 사용 하여 시간이 지남에 따라 건강 을 회복 할 수 있습니다. 또는 중간 한 상처 를 즉시 치유 할 수 있습니다.
 ghaar_instructor,dlg,EntryList/45/Text,0,-1,"나는 숲에서 상처받은 생물들을 여러 번 마주쳤는데, 너무 자주 도움을 줄 수 있는 일이 거의 없었다. 재림자들의 상징을 가지고 있으면, 아마 더 큰 도움을 줄 수 있을 것이다. 고마워, 교사 제이스러스."
 ghaar_instructor,dlg,EntryList/46/Text,0,-1,"좋은 선택, 알리아. 당신의 깃발과 시민권 모두 잘 봉사해 줄 수 있기를 바랍니다. 자 토스, 당신은 어떤 깃발을 선택하겠습니까?"
-ghaar_instructor,dlg,EntryList/47/Text,0,-1,이... 저는 수호자 깃발을 원하지만... 그래도 강제자 깃발의 힘은 너무 유혹적입니다! 그것으로 제 고블린들의 공격력 강화를 할 수 있을 것 같습니다만...
+ghaar_instructor,dlg,EntryList/47/Text,0,-1,저... 수호자의 문장을 원하는 것 같아요. 하지만... 집행자의 문장이 지닌 힘도 너무 유혹적이에요! 그 힘으로 제 골렘들의 공격력을 강화할 수 있을 텐데... 하지만...
 ghaar_instructor,dlg,EntryList/48/Text,0,-1,"자 토스, 보호자의 깃발을 가져가야 돼, 너의 고렘들은 더 이상 힘이 필요 없어"
 ghaar_instructor,dlg,EntryList/49/Text,0,-1,"저주를 받으세요, 알리아... 당신이 걱정이라도 하시는 것이라면 가디언의 깃발을 가져갈게요. 하지만 당신은 내 창조물을 더 강력하게 만드는 방법을 찾을 수 없다고 생각하지 마세요. 이 도시를 수호하는 가장 좋은 방법은 수호자들을 가능한 한 강하게 만들어 낼 수 있도록 하는 것입니다!"
 ghaar_instructor,dlg,EntryList/5/Text,0,-1,"저... 아까 이상한 남자가 있었어요... 무슨 마법사 같았는데... 그는 대회당으로 갔어요, 진홍의 예언자를... 막겠다고 뭐라고 하면서..."
@@ -2466,7 +2466,7 @@ hench_mark,dlg,EntryList/33/Text,0,-1,"<StartAction>[당신은 Markius Albright�
 hench_mark,dlg,EntryList/34/Text,0,-1,"가라크 전체가 크림슨 예언자의 추종자들에게 넘어질 것으로 보인다. 마르키우스, 우리는 빨리 보이저로 가야 합니다."
 hench_mark,dlg,EntryList/35/Text,0,-1,크림슨 예언자는 시장에서 목격됐나요?
 hench_mark,dlg,EntryList/36/Text,0,-1,예... 예언자는 얼마 전 부두로 향하고 나타났습니다. 나는 그가 가라크에서 도망칠 의도가 있다는 것을 믿습니다.
-hench_mark,dlg,EntryList/37/Text,0,-1,"마르키우스, 여기서 머무는 시간이 없어! 크림슨 예언자를 너무 늦기 전에 막기 위해 그림자 경호의 도움이 필요해! 그는 재무에서 가져온 보석으로 도시를 탈출해서는 안 돼!"
+hench_mark,dlg,EntryList/37/Text,0,-1,"마르키우스, 여기서 지체할 시간이 없어! 너무 늦기 전에 크림슨 프로핏을 막으려면 섀도 가드의 도움이 필요해! 그자가 보물고에서 훔친 보석을 가지고 도시를 빠져나가게 해서는 안 돼!"
 hench_mark,dlg,EntryList/38/Text,0,-1,"<StartAction>[마르키우스가 당신 쪽을 바라봅니다.]</Start> <FirstName>님, 당신이 왔다니 좋습니다. 가라크는 심각한 위험에 처해 있습니다..."
 hench_mark,dlg,EntryList/39/Text,0,-1,"Most of the city lies in ruins, và 거의 아무도 없어 벽을 지키는 것조차 할 수 없을 정도로 파괴되어 있다. 모든 곳에서 Ghaarak는 적들로 둘러싸여 있다... 내부에서 크림슨 팔로워들, 외부에서는 바바리아인들의 무리들. Ghaarak가 운명을 달리할까 두려워, <FirstName>..."
 hench_mark,dlg,EntryList/4/Text,0,-1,"아주 잘, <mister/missus> <LastName>"
@@ -2636,7 +2636,7 @@ hench_mark,dlg,ReplyList/247/Text,0,-1,오른손에 아이템을 장착하세요
 hench_mark,dlg,ReplyList/248/Text,0,-1,생각을 바꾸었어. 장착하고 싶은 물건이 없어.
 hench_mark,dlg,ReplyList/249/Text,0,-1,<StartAction>[더보기]</Start>
 hench_mark,dlg,ReplyList/250/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11015>
-hench_mark,dlg,ReplyList/251/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11014>
+hench_mark,dlg,ReplyList/251/Text,0,-1,장비를 착용시키고 싶습니다: <CUSTOM11014>
 hench_mark,dlg,ReplyList/252/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11013>
 hench_mark,dlg,ReplyList/253/Text,0,-1,알도 (<CUSTOM11012>)
 hench_mark,dlg,ReplyList/254/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11011>
@@ -3108,7 +3108,7 @@ hench_tarin,dlg,ReplyList/289/Text,0,-1,생각을 바꾸었어. 장착하고 싶
 hench_tarin,dlg,ReplyList/29/Text,0,-1,우리 지도자 마르키우스 올브라이트에 대해 말해 줄 수 있는 게 뭐죠?
 hench_tarin,dlg,ReplyList/290/Text,0,-1,<StartAction>[더보기]</Start>
 hench_tarin,dlg,ReplyList/291/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11015>
-hench_tarin,dlg,ReplyList/292/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11014>
+hench_tarin,dlg,ReplyList/292/Text,0,-1,장비를 착용시키고 싶습니다: <CUSTOM11014>
 hench_tarin,dlg,ReplyList/293/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11013>
 hench_tarin,dlg,ReplyList/294/Text,0,-1,알도 (<CUSTOM11012>)
 hench_tarin,dlg,ReplyList/295/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11011>
@@ -3742,7 +3742,7 @@ sc_bh_lair,dlg,EntryList/5/Text,0,-1,"<StartAction>[마르키우스는 갑자기
 sc_bh_lair,dlg,EntryList/6/Text,0,-1,"<StartAction>[블러드하크스의 엘프 리더가 기뻐서 박수를 칩니다.]</Start> 내 오래된 친구 올브라이트 선생님, 다시 만나서 반갑습니다."
 sc_bh_lair,dlg,EntryList/7/Text,0,-1,"오, 당신이 저를 이 땅굴까지 추적해오다니 정말로 똑똑하다고 생각했겠지만, 저의 행방에 대해 조사한 모든 것들을 다 알고 있었으니, 오래된 친구여..."
 sc_bh_lair,dlg,EntryList/8/Text,0,-1,"마르키우스, 넌 숨어야 했어. 내 손에서 벗어나는 사람은 거의 없어, 그러니 한 번은 절대적으로 숨을 것이 좋겠지만, 넌 아니야... 아니, 넌 계속 돌아와서는?"
-sc_bh_lair,dlg,EntryList/9/Text,0,-1,"당신은 단지 나를 따라와 내 일에 관여해야 했지, 그렇지 않니... 그건 당신이 매우 후회할 거짓말일 것이다... 네, 매우 후회할 것이다."
+sc_bh_lair,dlg,EntryList/9/Text,0,-1,"넌 기어이 나를 따라와 내 일에 끼어들어야 했던 거지... 그 실수를 네가 뼈저리게 후회하게 만들어 주마... 그래, 아주 뼈저리게."
 sc_bh_lair,dlg,ReplyList/1/Text,0,-1,저는 노예 무역을 한 번에 끝내기 위해 왔다!
 sc_bh_lair,dlg,ReplyList/11/Text,0,-1,난 이런 소릴 신경 쓰지 않아! 우리는 이것을 끝내자!
 sc_bh_lair,dlg,ReplyList/13/Text,0,-1,"신들의 이름으로 그가 무슨 말을 하는지 모르겠다, 마르키우스?"
@@ -3814,7 +3814,7 @@ sc_st_0_cp,dlg,EntryList/4/Text,0,-1,크림슨 예언자! 신들이 우리를 �
 sc_st_0_cp,dlg,EntryList/5/Text,0,-1,"<StartAction>[옷 입은 <Race> 남자가 군중 가운데 일어납니다.]</Start> 이 악마의 거짓말에 귀를 기울이지 마십시오, 가랄크 사람들! 그의 거짓말에 신경 쓰지 마십시오."
 sc_st_0_cp,dlg,EntryList/6/Text,0,-1,"<StartAction>[주춤거리며 마법사의 자주색 선지로 무기를 잡아당기고, <Race> 남자가 붉은색 선지 선지사 앞에 달려들었다.]</Start> 가라, 끔찍한 개구리! 이 도시의 사람들에게 더 이상 귀찮은 짓을 하지 마라!"
 sc_st_0_cp,dlg,EntryList/7/Text,0,-1,"<StartAction>[The Crimson Prophet looks upon his adversary with disinterest, effortlessly waving his hand and bringing the <Race> man to a dead halt.]</Start> You are a fool if you think you can stand against my might!"
-sc_st_0_cp,dlg,EntryList/8/Text,0,-1,"<StartAction>[크림슨 예언자는 다시 한 번 군중에게 눈을 돌려주었다.]</Start> 제 환영이 희미해졌나 봐, 그래서 이제 떠나야 할 것 같아. 내 말을 들어라, vì 재앙의 시기가 다가오고 있기 때문이다!"
+sc_st_0_cp,dlg,EntryList/8/Text,0,-1,<StartAction>[진홍빛 예언자가 다시 한 번 군중에게 시선을 돌린다.]</Start> 환영이 시들해진 것 같군요. 이제 여러분과 작별해야겠습니다. 내 말을 명심하세요. 파멸의 때가 가까이 왔습니다!
 sc_st_0_cp,dlg,EntryList/9/Text,0,-1,"The Prophet here in Ghaarak... I must move quickly if I am to thwart his plans. <StartAction>[The <Race> man turns hurriedly from the scene, his face flushed with anger as he departs...]</Start>"
 sc_st_0_grn_hall,dlg,EntryList/0/Text,0,-1,'< ACTOR 3 >'
 sc_st_0_grn_hall,dlg,EntryList/1/Text,0,-1,'< ACTOR 2 >'
@@ -3963,7 +3963,7 @@ sc_st_0_open_1,dlg,EntryList/59/Text,0,-1,모두 황제 라카의 영광을 기�
 sc_st_0_open_1,dlg,EntryList/6/Text,0,-1,"도대체 뭔 소리를 하는 거여, 이 사람아? 말이 되는 소리 좀 해 보라고, 응?"
 sc_st_0_open_1,dlg,EntryList/60/Text,0,-1,위대한 구주께 찬양합시다!
 sc_st_0_open_1,dlg,EntryList/61/Text,0,-1,"전능하신 라카님, 이 땅의 악으로부터 우리를 구해주시기 바랍니다!"
-sc_st_0_open_1,dlg,EntryList/62/Text,0,-1,<StartAction>[라카가 마법사의 자주를 높이 들어 올린다.]</Start> 너무 오랫동안 당신은 독재의 그림자 아래에서 살았습니다! 너무 오랫동안 이 세계는 어둠과 두려움 속에 빠져 있었습니다!
+sc_st_0_open_1,dlg,EntryList/62/Text,0,-1,<StartAction>[라카가 지팡이를 높이 치켜든다.]</Start> 너희는 너무 오랫동안 폭정의 그림자 아래에서 살아왔다! 이 세계는 너무 오랫동안 어둠과 공포에 잠식되어 왔다!
 sc_st_0_open_1,dlg,EntryList/63/Text,0,-1,"오늘부터 우리는 평화와 번영을 위해 노력하는 새로운 질서를 시작할 것입니다! 우리는 샤라카 제국, 부활한 땅입니다!"
 sc_st_0_open_1,dlg,EntryList/64/Text,0,-1,과거의 어두운 날을 없애고 아바란에 사는 모든 사람들에게 샤라카의 영광을 가져와자!
 sc_st_0_open_1,dlg,EntryList/65/Text,0,-1,"샤라카, 샤라카, 모든 영광이 제국에게!"

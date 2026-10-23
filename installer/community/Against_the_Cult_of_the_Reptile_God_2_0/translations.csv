@@ -172,8 +172,8 @@ altar,dlg,EntryList/4/Text,0,"<StartAction>[지식을 이용한 시작]</Start> 
 altar,dlg,EntryList/5/Text,0,"<StartAction>[종교적 지식]</Start> 이 제단은 평화로운 메리카를 위해 바쳐졌으나, 악의 존재의 이름으로 오염되었다. 종교적 지식으로 보아, 단순한 축복이 제단을 다시 메리카에게 바치게 할 수 있을 것 같다."
 altar,dlg,EntryList/6/Text,0,현재 축복을 행하기 위한 의식에 익숙하지 않아요. 아마 휴식과 기도가 방법을 마련해 줄 것입니다.
 altar,dlg,EntryList/7/Text,0,재건식 의식을 치르기 위해서는 제단에 축복을 내려야 합니다.
-altar,dlg,EntryList/8/Text,0,메리카를 위해 평화롭게 사용하던 이 제단은 악의 존재의 이름으로 더럽혀졌습니다. 이 모독에 책임이 있는 사제 여인이 죽기 전까지는 제단을 다시 전성시킬 수 없습니다.
-altar,dlg,EntryList/9/Text,0,당신은 간단한 축복으로 메리카에 다시 봉헌할 수 있는 제단을 재건할 수 있다는 것을 알게 되었습니다.
+altar,dlg,EntryList/8/Text,0,평화의 여신 메리카에게 봉헌되었던 이 제단은 사악한 존재의 이름으로 더럽혀졌다. 이 신성모독에 책임이 있는 여사제가 죽기 전까지는 제단을 다시 봉헌할 수 없다.
+altar,dlg,EntryList/9/Text,0,간단한 축복만으로 제단을 메리카에게 다시 봉헌할 수 있다는 사실을 알게 되었습니다.
 altar,dlg,ReplyList/0/Text,0,<StartAction>[학습]</Start> 제단이 다시 봉헌될 수 있는지 결정합니다.
 altar,dlg,ReplyList/1/Text,0,제단에서 나가라
 altar,dlg,ReplyList/2/Text,0,제단에 축복의 물약을 뿌리십시오.
@@ -723,7 +723,7 @@ derek,dlg,ReplyList/14/Text,0,"알겠습니다, 협상이 성사되었습니다.
 derek,dlg,ReplyList/15/Text,0,"<StartAction>[설득]</Start> 그건 유용할지 몰라도, 당신을 자유롭게 가는 것 이상으로 더 많은 것이 필요해."
 derek,dlg,ReplyList/16/Text,0,"알겠습니다, 협상이 성사되었습니다. 더 자세히 말해주세요."
 derek,dlg,ReplyList/19/Text,0,고마워. 이제 나가.
-derek,dlg,ReplyList/21/Text,0,"내가 좀 쉬게 해봐? 덤 숲에서 고블린들이 나를 암살하려고 했고, 골든 그레인 인에서 날 납치하려고 했으며, 스핀드 소년들이 나를 살아 태워버리려고 했지? 계속할게요?"
+derek,dlg,ReplyList/21/Text,0,"내가 좀 쉬라고? 너는 딤 포레스트에서 고블린들을 시켜 날 암살하려 했고, 골든 그레인 여관에서 납치하게 했고, 스핀들 패거리를 시켜 산 채로 불태우려 했어... 더 말해 줄까?"
 derek,dlg,ReplyList/24/Text,0,고마워. 이제 나가.
 dewdrop,dlg,EntryList/0/Text,0,전날 몇몇 거친 나무 임프를 봤지만 아무도 믿지 않아.
 dewdrop,dlg,EntryList/1/Text,0,에메랄드가 집에 돌아왔으니 나는 행복해.
@@ -849,7 +849,7 @@ dorian_hench,dlg,ReplyList/7/Text,0,자신에게 보호용 마법을 사용하�
 dorian_hench,dlg,ReplyList/8/Text,0,우선적으로 보호 주문을 내놓을 수 있을까요?
 dorian_hench,dlg,ReplyList/9/Text,0,우린 순차 명령을 내려야 한다.
 dorian_hench,dlg,ReplyList/10/Text,0,우리 사이에 적들이 접근할 때 원격으로 공격할 수 있는 거리를 유지해.
-dorian_hench,dlg,ReplyList/11/Text,0,저와 가까운 거리에서 유지해. 전투에서는 서로 방해받지 않도록.
+dorian_hench,dlg,ReplyList/11/Text,0,전투 중 서로 방해되지 않도록 나와 적당히 거리를 둬.
 dorian_hench,dlg,ReplyList/12/Text,0,저는 우리가 전투에서 서로 쉽게 도울 수 있도록 가까이 지내야 한다고 생각합니다.
 dorian_hench,dlg,ReplyList/13/Text,0,"네가 보는 대로 공격해, 나는 나 자신을 돌볼게."
 dorian_hench,dlg,ReplyList/14/Text,0,만약 공격이 발생하면 저를 도와주십시오.
@@ -1274,7 +1274,7 @@ grover,dlg,ReplyList/12/Text,0,올레인에서 괜찮아?
 grover,dlg,ReplyList/13/Text,0,알겠습니다. 좋은 <day/night>
 grover,dlg,ReplyList/14/Text,0,다른 질문 하나 해볼까요?
 grover,dlg,ReplyList/16/Text,0,3명이 골든 그레인 인에서 내 방에서 납치하려 했어! 어떻게 처리할 거야?
-grover,dlg,ReplyList/17/Text,0,"공무원님, 제게 들어주실래요? 제게 공격을 당했습니다!"
+grover,dlg,ReplyList/17/Text,0,"경관님, 제 말 듣고 계세요? 제가 공격당했다고요!"
 grover,dlg,ReplyList/18/Text,0,심문? 끔찍한 일이 벌어졌어요.
 grover,dlg,ReplyList/19/Text,0,사실 그 곳에서 학살이 일어났다는 겁니다!
 grover,dlg,ReplyList/20/Text,0,"괜찮아, 자네의 주장이 분명해졌어, 경찰관, 난 더 이상 문제가 안 될거야."
@@ -1309,7 +1309,7 @@ grover_old,dlg,ReplyList/6/Text,0,"잘 됐어, 고마워"
 grover_old,dlg,ReplyList/7/Text,0,"몇 가지 질문이 있습니다, 루스카달 경찰관."
 grover_old,dlg,ReplyList/8/Text,0,가봐야겠어
 grover_old,dlg,ReplyList/9/Text,0,3명이 골든 그레인 인에서 내 방에서 납치하려 했어! 어떻게 처리할 거야?
-grover_old,dlg,ReplyList/10/Text,0,"공무원님, 제게 들어주실래요? 제게 공격을 당했습니다!"
+grover_old,dlg,ReplyList/10/Text,0,"경관님, 제 말 듣고 계세요? 제가 공격당했다고요!"
 grover_old,dlg,ReplyList/11/Text,0,푸밍 무그 인에서 끔찍한 일이 발생했습니다! 그 곳은 시체로 가득 차 있습니다!
 grover_old,dlg,ReplyList/12/Text,0,사실 그 곳에서 학살이 일어났다는 겁니다!
 grover_old,dlg,ReplyList/13/Text,0,"괜찮아, 자네의 주장이 분명해졌어, 경찰관, 난 더 이상 문제가 안 될거야."
@@ -1670,7 +1670,7 @@ irwin,dlg,EntryList/7/Text,0,"하지만 조심해야 해, 많아서 신경 써�
 irwin,dlg,EntryList/8/Text,0,"트로그들은 몇 일 전에 쇼커 뱀드래곤을 잡아서 여기로 데려왔고, 아마 그들을 훈련시키려고 하고 있을 거다. 하지만 저는 쇼커 뱀드래곤들이 훈련에 특별히 관심이 없다고 생각하고, 몇몇 트로그들이 끔찍한 충격을 받았다는 것을 들었다."
 irwin,dlg,EntryList/9/Text,0,도마뱀들을 우리에서 풀어 주면 트로그들을 향해 곧장 달려들 거야!
 irwin,dlg,EntryList/10/Text,0,"펜 바깥에 있는 줄기로 게이트를 열 수 있습니다. 트로그들이 보지 않는다면 당기실 수 있으며, 그러면 그들에게 불쾌한 놀람을 줄 수 있을 거예요, 하하!"
-irwin,dlg,EntryList/11/Text,0,"내 이름은 이윈이고, 호홀에서 옷 판매업을 하는 사람입니다. 디름 숲을 가로지르며 호초치로 가는 중에 러시모어 근처에서 이런 데이민트 트로그들에게 차단기습을 당했습니다."
+irwin,dlg,EntryList/11/Text,0,"제 이름은 어윈입니다. 후크힐 출신의 옷감 상인이죠. 딤 포레스트을 지나 호초크로 가던 중, 러시무어 변두리에서 저주받을 트로그들에게 마차 행렬이 습격당했습니다."
 irwin,dlg,EntryList/12/Text,0,저는 약 일주일 동안 이 진흙 구덩이에 갇혀 있었어요.
 irwin,dlg,EntryList/13/Text,0,?
 irwin,dlg,EntryList/14/Text,0,"오, 고마워. 오늘이 마지막 날이라고 생각했네."
@@ -1954,13 +1954,13 @@ lizman_prisoner,dlg,EntryList/7/Text,0,"또 다른 영광스러운 승리였으�
 lizman_prisoner,dlg,ReplyList/0/Text,0,"감사하지만, 없습니다."
 lizman_prisoner,dlg,ReplyList/1/Text,0,나가 필요로 하지 않는 마법의 트라이던트가 있어. 네가 가지고 있어.
 lizman_prisoner,dlg,ReplyList/2/Text,0,내가 필요로 하지 않는 마법의 창이 있어. 네가 가지고 있어.
-lizman_prisoner,dlg,ReplyList/3/Text,0,나는 남은 삼각대를 가지고 있어. 받으시오.
+lizman_prisoner,dlg,ReplyList/3/Text,0,나한테 여분의 삼지창이 있어. 가져가.
 lizman_prisoner,dlg,ReplyList/4/Text,0,나는 남은 창을 하나 가지고 있어. 가져가세요.
 lizman_prisoner,dlg,ReplyList/5/Text,0,부탁드립니다.
 lizman_prisoner,dlg,ReplyList/7/Text,0,난 그걸 기대하고 있어.
 lizman_prisoner,dlg,ReplyList/8/Text,0,나가 필요로 하지 않는 마법의 트라이던트가 있어. 네가 가지고 있어.
 lizman_prisoner,dlg,ReplyList/9/Text,0,내가 필요로 하지 않는 마법의 창이 있어. 네가 가지고 있어.
-lizman_prisoner,dlg,ReplyList/10/Text,0,나는 남은 삼각대를 가지고 있어. 받으시오.
+lizman_prisoner,dlg,ReplyList/10/Text,0,나한테 여분의 삼지창이 있어. 가져가.
 lizman_prisoner,dlg,ReplyList/11/Text,0,나는 남은 창을 하나 가지고 있어. 가져가세요.
 lizman_prisoner,dlg,ReplyList/12/Text,0,그게 계획이야
 llywillan,dlg,EntryList/0/Text,0,"도리안과 대화를 나누는 게 좋겠고, 그 대화는 잘 해주길 바라."
@@ -2490,7 +2490,7 @@ oswald,dlg,EntryList/4/Text,0,"어느 날 밤, 다섯 명의 사제들이 방으
 oswald,dlg,EntryList/5/Text,0,"어쨌든, 며칠 전, 그들은 저를 이 장소의 깊은 곳으로 데려가서 지하 호수를 건너갔습니다."
 oswald,dlg,EntryList/6/Text,0,호수의 한가운데에는 섬이 있었고 그 섬에는 상상할 수 있는 가장 무서운 생명체가 있었습니다.
 oswald,dlg,EntryList/7/Text,0,"트로글로다이트들은 모두 그녀 앞에 엎드렸고 나를 그녀 쪽으로 떠밀었다. 하지만 그녀는 나를 제물로 별로 대수롭지 않게 여기는 듯했고, 성난 쉭쉭 소리를 몇 번 내더니 미끄러지듯 사라졌다."
-oswald,dlg,EntryList/8/Text,0,"다음에 알게 된 것은, 여기에 두 명의 임프들이 뜨거운 포케로니를 몇 가지 장소에 집어넣으려고 하는 것을 보는 것이었다. 그 장소조차 차가운 포케로니조차 싫어할 것 같았다."
+oswald,dlg,EntryList/8/Text,0,"다음 순간 정신을 차려 보니 여기 말뚝에 묶여 있었고, 임프 두 마리가 시뻘겋게 달군 쇠꼬챙이를 내가 얼음처럼 차가운 꼬챙이조차 넣고 싶지 않을 곳에 찔러 넣으려 하고 있더군."
 oswald,dlg,EntryList/9/Text,0,난 이 진흙과 트로글로다이트의 냄새로 더 이상 참을 수 없어. 탈출로는 막혀있나?
 oswald,dlg,EntryList/10/Text,0,탈출 경로가 열렸나요?
 oswald,dlg,ReplyList/0/Text,0,괜찮아?
@@ -2888,7 +2888,7 @@ tobias,dlg,EntryList/4/Text,0,"그런거는 모르겠지만, 많은 상인들이
 tobias,dlg,EntryList/5/Text,0,"이상하진 않네. 우리는 상인들이 잠시 쉬는 데에 좋은 장소인 조용한 농촌 마을이야, 더 이상은 아니야."
 tobias,dlg,EntryList/6/Text,0,"나는 아마 당신은 여행자들의 이야기를 들어봤을 거라 생각해. 습지에서 일곱 머리의 뱀파이어 뱀이 우리를 먹으러 오는 거 같은 이야기들 말이야. 하아! 만약 내가 하나 보게 된다면, 꼭 알려줄게."
 tobias,dlg,EntryList/7/Text,0,"아니, 왜 물어보는 거야?"
-tobias,dlg,EntryList/8/Text,0,당신이 도둑처럼 내 집을 뒤졌나 봐? 경비원님께 이 일로 보고를 할게.
+tobias,dlg,EntryList/8/Text,0,당신이 내 집을 보통 도둑처럼 뒤졌단 말인가? 치안관에게 이 일을 알리겠소.
 tobias,dlg,EntryList/9/Text,0,나의 도움은 필요 없다. 시릴리는 자발적으로 고향을 떠나 고초크의 내 동생 집에 머물렀다. 그녀는 고집이 세고 도시 생활의 번거로움이 매력적으로 느껴졌던 모양이다. 이 문제에 대해 더 이상 논의하고 싶지 않다.
 tobias,dlg,ReplyList/0/Text,0,주변을 둘러보며 귀찮게 했다는 걸 죄송합니다.
 tobias,dlg,ReplyList/1/Text,0,"안녕, 나는 <FirstName>이다. 그냥 지나가면서 몇 가지 물건을 구입하고 싶었어."
@@ -2975,7 +2975,7 @@ uglush,dlg,ReplyList/16/Text,0,"그 냄새를 맡을 수 있나? 우리는 트�
 uglush,dlg,ReplyList/17/Text,0,충전!
 uglush,dlg,ReplyList/18/Text,0,내가 필요로 하지 않는 마법의 창이 있어. 네가 가지고 있어.
 uglush,dlg,ReplyList/19/Text,0,나가 필요로 하지 않는 마법의 트라이던트가 있어. 네가 가지고 있어.
-uglush,dlg,ReplyList/20/Text,0,나는 남은 삼각대를 가지고 있어. 받으시오.
+uglush,dlg,ReplyList/20/Text,0,나한테 여분의 삼지창이 있어. 가져가.
 uglush,dlg,ReplyList/21/Text,0,나는 남은 창을 하나 가지고 있어. 가져가세요.
 uglush,dlg,ReplyList/22/Text,0,그게 다야.
 uglush,dlg,ReplyList/23/Text,0,또다른 것이 있었어.
@@ -2983,7 +2983,7 @@ uglush,dlg,ReplyList/24/Text,0,"트로글로디트 족장은 죽었어, 울루�
 uglush,dlg,ReplyList/28/Text,0,그때까지.
 uglush,dlg,ReplyList/29/Text,0,나가 필요로 하지 않는 마법의 트라이던트가 있어. 네가 가지고 있어.
 uglush,dlg,ReplyList/30/Text,0,내가 필요로 하지 않는 마법의 창이 있어. 네가 가지고 있어.
-uglush,dlg,ReplyList/31/Text,0,나는 남은 삼각대를 가지고 있어. 받으시오.
+uglush,dlg,ReplyList/31/Text,0,나한테 여분의 삼지창이 있어. 가져가.
 uglush,dlg,ReplyList/32/Text,0,나는 남은 창을 하나 가지고 있어. 가져가세요.
 uglush,dlg,ReplyList/33/Text,0,그게 다야.
 unseelie,dlg,EntryList/0/Text,0,"이 동굴들은 이제 제 동굴이고, 내 재미를 멈추게는 않겠네요. 제 독을 맛보세요!"
@@ -3375,7 +3375,9 @@ alicorncaves,git,Creature List/21/FirstName,0,니르베르
 alicorncaves,git,Creature List/21/LastName,0,덩굴
 alicorncaves,git,Creature List/21/Description,0,작은 발톱과 물린 흔적들이 이 기노미의 몸을 뚫고 있습니다.
 alicorncaves,git,Creature List/21/ItemList/3/LocalizedName,0,공포의 두루마리
-alicorncaves,git,Creature List/21/ItemList/3/DescIdentified,0,연구 노트의 조각은 이렇게 읽혔습니다. ... 그리고 달푸들 주인은 스프리건 피가 파이어스파이크 꽃과 결합되어 익히레시를 만들어 낼 것으로 생각합니다. 이 익히레시는 마시는 사람에게 매우 끔찍한 얼굴을 선사할 것입니다!
+alicorncaves,git,Creature List/21/ItemList/3/DescIdentified,0,"연구 기록의 일부에는 이렇게 적혀 있다:
+
+... 달푸들 선생은 스프리건의 피와 파이어스파이크 꽃을 섞으면 마시는 사람이 몹시 무시무시한 얼굴을 갖게 되는 영약이 만들어질 거라고 생각한다!"
 alicorncaves,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,노움 의상
 alicorncaves,git,Door List/0/LocName,0,문
 alicorncaves,git,Encounter List/0/LocalizedName,0,스티르그 그룹
@@ -4712,7 +4714,9 @@ explicticaslair,git,Placeable List/25/Description,0,이 상자는 어두운 나�
 explicticaslair,git,Placeable List/25/ItemList/7/LocalizedName,0,상급 회복 물약
 explicticaslair,git,Placeable List/25/ItemList/7/DescIdentified,0,"이 포션은 부정 에너지를 전달하는 생물들에 의해 빼앗긴 생명력을 회복시킵니다. 어두운 액체는 살아있는 존재 근처에서 빛나지만, 성분은 구별할 수 없습니다."
 explicticaslair,git,Placeable List/25/ItemList/8/LocalizedName,0,윈터 케이프
-explicticaslair,git,Placeable List/25/ItemList/8/DescIdentified,0,이 저항의 담요는 크리스탈미스트 산맥의 얼음 거인들 사이에서 흔히 발견된다. 담요는 흰색이며 흰 털로 장식되어 있다. 착용자는 극한의 추운 날씨와 마법적인 추운 손상을 견딜 수 있다.
+explicticaslair,git,Placeable List/25/ItemList/8/DescIdentified,0,"이 저항의 망토는 크리스탈미스트 산맥의 서리 거인들 사이에서 흔히 발견됩니다. 흰색 망토에 흰 털 장식이 달려 있습니다.
+
+착용자는 혹한과 마법 냉기 피해를 모두 견딜 수 있습니다."
 explicticaslair,git,Placeable List/33/LocName,0,벽에 걸린 인간 머리
 explicticaslair,git,Placeable List/34/LocName,0,"월 마운트, 엘프 머리"
 explicticaslair,git,Placeable List/35/LocName,0,벽에 걸린 인간 머리
@@ -6982,7 +6986,7 @@ lairlevel2,git,Creature List/73/FirstName,0,거인 비슬
 lairlevel2,git,Creature List/73/Description,0,"은 몸 이 길고 다리 는 짧고 작은 포유 동물 이다. 이 동물 은 육식 동물 이다. 은 보통 쥐, , 작은 새 를 먹지만, 이 거대한 종류 는 더 다양한 맛 을 가질 수 있다."
 lairlevel2,git,Creature List/74/FirstName,0,톱니 도마뱀
 lairlevel2,git,Creature List/74/Description,0,"등가죽 도마뱀은 얕은 물에서 뿌리와 풀을 파는 큰 강력한 생물이다. 그러나 그들은 쉽게 공황을 겪으며, 놀라서는 강력한 자연 방어력을 사용하여 맹수들을 쫓아내는 경향이 있다. 그 넓은 등은 큰 가시로 덮여 있어 육전에 참여하려는 자를 방해하고 찌르는 경향이 있다."
-lairlevel2,git,Creature List/75/FirstName,0,모크드웰러 마법사
+lairlevel2,git,Creature List/75/FirstName,0,머크드웰러 주술사
 lairlevel2,git,Creature List/75/Description,0,"무크다이버는 두 발로 걷는 양족 포유동물로, 습지와 린드에서 생활한다. 그들은 만식동물이므로 식물과 곤충만으로도 생존할 수 있지만, 신선한 고기의 맛을 더 선호한다. 그들은 무심한 피해자들을 맹목시키기 위해 입에서 진흙물기를 분사하고, 무기력한 먹이를 빠르게 삼키는 습성을 가진다."
 lairlevel2,git,Creature List/76/FirstName,0,곰팡이 좀비
 lairlevel2,git,Creature List/76/Description,0,"화두 스포를 흡입하여 생물이 죽으면 부패하는 시체는 더 많은 곰팡이 성장을 위한 숙주로 변한다. 악의의 사제는 이 시체를 생동감시켜 곰팡이 좀비를 만들 수 있다. 이 생물이 정상적인 좀비와 비슷하지만, 독성 스포로 덮여 있어 생물이 강력하게 공격당할 때마다 독성 구름을 방출한다."
@@ -7420,9 +7424,9 @@ marshcave,git,Placeable List/10/LocName,0,사크
 marshcave,git,Placeable List/10/Description,0,가방은 부피가 많고 가득 차 보입니다.
 marshcave,git,Placeable List/10/ItemList/5/LocalizedName,0,변위 물약
 marshcave,git,Placeable List/10/ItemList/5/Description,0,"이 보라색, 금속 액체는 이상한 왜곡된 패턴으로 병을 돌아다니다."
-marshcave,git,Placeable List/10/ItemList/5/DescIdentified,0,"이 보라색, 금속 액체는 이상하고 왜곡된 패턴으로 병을 돌면서 흐릅니다.
+marshcave,git,Placeable List/10/ItemList/5/DescIdentified,0,"이 보라색 금속성 액체는 병 안에서 기묘하고 일그러진 무늬를 그리며 소용돌이칩니다.
 
-야수의 피는 점멸하는 개의 소변과 함께 발효되어 이 혼합물이 만들어집니다. 음주자는 가벼운 이동 효과를 얻게 되며, 이는 잠재적 공격자에게 원거리 무기 공격에 20%의 패널티를 입히게 됩니다."
+디스플레이서 비스트의 피를 블링크 도그의 오줌과 함께 발효해 만든 음료입니다. 마시면 약한 위치 왜곡 효과가 생겨, 원거리 투사 공격을 하려는 적이 20%의 명중 페널티를 받습니다."
 marshcave,git,Placeable List/10/ItemList/6/LocalizedName,0,저주를 담은 병
 marshcave,git,Placeable List/10/ItemList/6/Description,0,이 단단히 막힌 유리병 안에서 허약하지만 위협적인 속삭임이 들려온다.
 marshcave,git,Placeable List/10/ItemList/6/DescIdentified,0,"이 단단 히 막힌 그릇 안 에서 허약하지만 위협적 인 속삭임 이 나오고, 그 안 에 갇힌 작은 악마 의 본질 이 열릴 때 풀려나고, 그 근처 에 있는 희생자 에게 약화 한 저주 를 내포 한다."
@@ -8805,7 +8809,7 @@ rushmoorsouth,git,Creature List/35/FirstName,0,무크드월더
 rushmoorsouth,git,Creature List/35/Description,0,"무크다이버는 두 발로 걷는 양족 포유동물로, 습지와 린드에서 생활한다. 그들은 만식동물이므로 식물과 곤충만으로도 생존할 수 있지만, 신선한 고기의 맛을 더 선호한다. 그들은 무심한 피해자들을 맹목시키기 위해 입에서 진흙물기를 분사하고, 무기력한 먹이를 빠르게 삼키는 습성을 가진다."
 rushmoorsouth,git,Creature List/36/FirstName,0,무크드월더
 rushmoorsouth,git,Creature List/36/Description,0,"무크다이버는 두 발로 걷는 양족 포유동물로, 습지와 린드에서 생활한다. 그들은 만식동물이므로 식물과 곤충만으로도 생존할 수 있지만, 신선한 고기의 맛을 더 선호한다. 그들은 무심한 피해자들을 맹목시키기 위해 입에서 진흙물기를 분사하고, 무기력한 먹이를 빠르게 삼키는 습성을 가진다."
-rushmoorsouth,git,Creature List/37/FirstName,0,모크드웰러 마법사
+rushmoorsouth,git,Creature List/37/FirstName,0,머크드웰러 주술사
 rushmoorsouth,git,Creature List/37/Description,0,"무크다이버는 두 발로 걷는 양족 포유동물로, 습지와 린드에서 생활한다. 그들은 만식동물이므로 식물과 곤충만으로도 생존할 수 있지만, 신선한 고기의 맛을 더 선호한다. 그들은 무심한 피해자들을 맹목시키기 위해 입에서 진흙물기를 분사하고, 무기력한 먹이를 빠르게 삼키는 습성을 가진다."
 rushmoorsouth,git,Creature List/38/FirstName,0,무크드월더
 rushmoorsouth,git,Creature List/38/Description,0,"무크다이버는 두 발로 걷는 양족 포유동물로, 습지와 린드에서 생활한다. 그들은 만식동물이므로 식물과 곤충만으로도 생존할 수 있지만, 신선한 고기의 맛을 더 선호한다. 그들은 무심한 피해자들을 맹목시키기 위해 입에서 진흙물기를 분사하고, 무기력한 먹이를 빠르게 삼키는 습성을 가진다."
@@ -10318,7 +10322,7 @@ module,jrl,Categories/27/EntryList/0/Text,0,람네는 내로부터 스텐치캡 
 module,jrl,Categories/27/EntryList/1/Text,0,마법사 람네는 거품 나는 용기에 알키메틱 조제물을 만들고 있습니다. 그는 몇 개의 스텐치캡 스포를 더 필요로 한다는 것을 거친 목소리로 중얼거리고 있습니다.
 module,jrl,Categories/27/EntryList/2/Text,0,마법사 람네는 스텐치캡 도드스타울에서 소포가 필요하다고 말했다.
 module,jrl,Categories/27/EntryList/3/Text,0,나는 스텐치캡 스포를 얻어 마법사 램네에게 가져가서 그의 알케미컬 브루에 사용할 것이다.
-module,jrl,Categories/27/EntryList/4/Text,0,나는 스텐치캡 스포를 얻어 마법사 람네에게 가져갈 것이다.
+module,jrl,Categories/27/EntryList/4/Text,0,스텐치캡 포자를 얻었으니 연금술 제조에 쓰도록 마법사 람네에게 가져가겠다.
 module,jrl,Categories/27/EntryList/5/Text,0,람네는 그의 화학적 쟁쟁의의 결과물인 항독제를 내놓았습니다. 램네는 저를 무어 습지에 사는 독성 생물로부터 보호하기 위해
 aaron,utc,FirstName,0,아론
 aaron,utc,LastName,0,블랙스토크
@@ -11174,7 +11178,9 @@ cabbage,uti,Description,0,잎자루 녹색 캔버스.
 canticle,uti,LocalizedName,0,노래
 canticle,uti,DescIdentified,0,"이 철퇴는 거의 들리지 않는 웅웅거림을 내며, 음유시인의 노래에 맞춰 그 세기와 음조가 커집니다. 음유시인은 하루에 한 번 이 울림을 귀를 먹먹하게 하는 절정의 소리로 끌어올릴 수 있습니다."
 capeofwinter,uti,LocalizedName,0,윈터 케이프
-capeofwinter,uti,DescIdentified,0,이 저항의 담요는 크리스탈미스트 산맥의 얼음 거인들 사이에서 흔히 발견된다. 담요는 흰색이며 흰 털로 장식되어 있다. 착용자는 극한의 추운 날씨와 마법적인 추운 손상을 견딜 수 있다.
+capeofwinter,uti,DescIdentified,0,"이 저항의 망토는 크리스탈미스트 산맥의 서리 거인들 사이에서 흔히 발견됩니다. 흰색 망토에 흰 털 장식이 달려 있습니다.
+
+착용자는 혹한과 마법 냉기 피해를 모두 견딜 수 있습니다."
 carrots,uti,LocalizedName,0,당근
 carrots,uti,Description,0,한 당근 한 무리가
 celestialfire,uti,LocalizedName,0,천족 기름
@@ -11564,9 +11570,9 @@ potiongreaterres,uti,LocalizedName,0,상급 회복 물약
 potiongreaterres,uti,DescIdentified,0,"이 포션은 부정 에너지를 전달하는 생물들에 의해 빼앗긴 생명력을 회복시킵니다. 어두운 액체는 살아있는 존재 근처에서 빛나지만, 성분은 구별할 수 없습니다."
 potionofdisplace,uti,LocalizedName,0,변위 물약
 potionofdisplace,uti,Description,0,"이 보라색, 금속 액체는 이상한 왜곡된 패턴으로 병을 돌아다니다."
-potionofdisplace,uti,DescIdentified,0,"이 보라색, 금속 액체는 이상하고 왜곡된 패턴으로 병을 돌면서 흐릅니다.
+potionofdisplace,uti,DescIdentified,0,"이 보라색 금속성 액체는 병 안에서 기묘하고 일그러진 무늬를 그리며 소용돌이칩니다.
 
-야수의 피는 점멸하는 개의 소변과 함께 발효되어 이 혼합물이 만들어집니다. 음주자는 가벼운 이동 효과를 얻게 되며, 이는 잠재적 공격자에게 원거리 무기 공격에 20%의 패널티를 입히게 됩니다."
+디스플레이서 비스트의 피를 블링크 도그의 오줌과 함께 발효해 만든 음료입니다. 마시면 약한 위치 왜곡 효과가 생겨, 원거리 투사 공격을 하려는 적이 20%의 명중 페널티를 받습니다."
 potionofdread,uti,LocalizedName,0,공포의 물약
 potionofdread,uti,DescIdentified,0,"피스파이크 꽃을 스프리건의 피와 섞으면 이 어두운 빨간색 드션이 생성되며, 냄새는 습한 동굴과 같아요. 이 액체를 마시면 수사는 일시적으로 충격적으로 무서운 외모를 얻게 되어 가까운 적들을 놀라게 합니다."
 potionofhiding,uti,LocalizedName,0,숨김 물약
@@ -11666,7 +11672,9 @@ scoutsarmour,uti,LocalizedName,0,정찰병의 갑옷
 scrapofpaper,uti,LocalizedName,0,조각난 종이
 scrapofpaper,uti,Description,0,이 종이 조각에는 '무료로 식사를 먹었다'라는 단어만 적혀 있습니다.
 scrollofdread,uti,LocalizedName,0,공포의 두루마리
-scrollofdread,uti,DescIdentified,0,연구 노트의 조각은 이렇게 읽혔습니다. ... 그리고 달푸들 주인은 스프리건 피가 파이어스파이크 꽃과 결합되어 익히레시를 만들어 낼 것으로 생각합니다. 이 익히레시는 마시는 사람에게 매우 끔찍한 얼굴을 선사할 것입니다!
+scrollofdread,uti,DescIdentified,0,"연구 기록의 일부에는 이렇게 적혀 있다:
+
+... 달푸들 선생은 스프리건의 피와 파이어스파이크 꽃을 섞으면 마시는 사람이 몹시 무시무시한 얼굴을 갖게 되는 영약이 만들어질 거라고 생각한다!"
 secretroomkey,uti,LocalizedName,0,비밀 방 열쇠
 secretroomkey,uti,Description,0,정교한 디자인의 단단한 청동 열쇠
 serpentshield,uti,LocalizedName,0,뱀의 방패

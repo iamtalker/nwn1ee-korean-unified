@@ -219,7 +219,7 @@ captive_1,dlg,EntryList/20/Text,0,"""Svirfneblin은 승전 후 물러났고, 이
 captive_1,dlg,EntryList/21/Text,0,"""나는 며칠 전에 체포되었다. 여기로 데려와서 심문과 검사를 받게 되었다."""
 captive_1,dlg,EntryList/22/Text,0,"""나는 한때 당신처럼 젊고 포부가 넘치는... """
 captive_1,dlg,EntryList/23/Text,0,"""이것이 완화일 거야 날 죽이고 내 고통을 끝낼 거야""."
-captive_1,dlg,EntryList/24/Text,0,"""이 끔찍한 형태는 혐오스럽다. 나 자신을 싫어한다. 내 몸의 하부와의 연결은 항상 아프다. 때로는 고통이 거의 미치도록 만든다. 하지만 가장 나쁜 것은 곤드로들의 쓴소리 나는 눈빛이다."""
+captive_1,dlg,EntryList/24/Text,0,"""이 끔찍한 모습이 역겨워. 나 자신이 싫어. 하반신과 연결된 곳이 늘 아파. 가끔은 그 고통 때문에 미칠 것 같아. 무엇보다 노움들이 불쌍하다는 듯 쳐다보는 게 제일 싫어."""
 captive_1,dlg,EntryList/25/Text,0,"""제안이 있습니다. 들어볼까요?"""
 captive_1,dlg,EntryList/26/Text,0,"""이 포스트에 높은 랭크의 스비르네블린 사제가 있습니다. 우리는 그를 '재판자'라고 부릅니다. 그는 드워프에 대한 물건을 수집하는 것을 좋아하며, 그들은 그의 사무실에서 보관합니다. 나는 그 곳으로 가는 방법을 알고 있습니다..."""
 captive_1,dlg,EntryList/27/Text,0,"""나를 풀어, 내 길을 가게 해..."""
@@ -924,7 +924,7 @@ piwiewien_2,dlg,ReplyList/23/Text,0,"""고마워, 여주님. 당신의 지혜는
 piwiewien_2,dlg,ReplyList/24/Text,0,"""내 사람들은 우리 뒤에 있는 터널을 지키고, 모든 비정상적인 일을 보고할 것이다""."
 piwiewien_2,dlg,ReplyList/25/Text,0,"<StartAction>[비소리]</Start> ""아마 그럴 거야, 그가 그렇게 좋은 사람처럼 보이지 않을지도 몰라."""
 piwiewien_2,dlg,ReplyList/27/Text,0,"<StartAction>[시끄러]</Start> ""아쩌면 당신들 중 몇명과 함께 당신을 배신할 수 있겠지?"""
-piwiewien_2,dlg,ReplyList/29/Text,0,"""이게 무슨 일이야. 왜 이 문을 지나야 하는지 모르겠지만, 다시 멘조베란잔으로 돌아가자."""
+piwiewien_2,dlg,ReplyList/29/Text,0,"""실례합니다. 이 문을 지나가야 하는 이유가 뭔가요? 멘조베란잔으로 돌아갑시다."""
 piwiewien_2,dlg,ReplyList/30/Text,0,"""이게 유일한 길인가? 돌아서 다른 길을 찾아 멘조베란잔으로 돌아가자."""
 piwiewien_2,dlg,ReplyList/31/Text,0,"""표면으로?"""
 piwiewien_2,dlg,ReplyList/32/Text,0,"""이 경로에 대해 어떻게 알았나?"""
@@ -933,7 +933,7 @@ piwiewien_3,dlg,EntryList/1/Text,0,이 광산은 표면과 연결되어 있나?
 piwiewien_3,dlg,EntryList/2/Text,0,"<StartAction>[놀이기]</Start> ""트리안더가 그의 마법으로 포털을 열었을 때 우리는 기다림에 지쳐서..."""
 piwiewien_3,dlg,EntryList/3/Text,0,"<StartAction>[위험하게도 평온하다]</Start> ""레버... 함정... 매우 흥미로운 것..."""
 piwiewien_3,dlg,EntryList/5/Text,0,"""마법사! 때가 되면 내 결론을 내리겠소. 지금은 해결해야 할 다른... 중요한... 문제들이 있소."""
-piwiewien_3,dlg,EntryList/6/Text,0,"<StartAction>[너에게 돌아]</Start>""이 광장이 표면과 연결되어 있는가?"""
+piwiewien_3,dlg,EntryList/6/Text,0,"<StartAction>[너에게 돌아서며]</Start>""이 광산은 지상과 연결되어 있나요?"""
 piwiewien_3,dlg,EntryList/7/Text,0,"""네 말이 맞아. 이 포스트를 통과해서 표면으로 가는 길은 싸우면서 열어야겠어. 이드 문을 보고 싶다!"""
 piwiewien_3,dlg,ReplyList/1/Text,0,"""나의 여인여, 나는 이 포스트를 슬쩍 들어가 문을 열어주었습니다."""
 piwiewien_3,dlg,ReplyList/2/Text,0,"""그는 거짓말을 하고 있습니다. 열기 위해 레버가 있습니다. 나는 입구 지역의 치명적인 함정을 해제했습니다..."""
@@ -3703,7 +3703,7 @@ secretstudy,git,Placeable List/1/ItemList/6/Description,0,이 보석은 많은 �
 secretstudy,git,Placeable List/2/LocName,0,연금술사의 기구
 secretstudy,git,Placeable List/2/Description,0,이 테이블에 있는 거품과 유통에서 불쾌한 냄새가 난다.
 secretstudy,git,Placeable List/2/ItemList/2/LocalizedName,0,치명상처 치료의 물약
-secretstudy,git,Placeable List/2/ItemList/2/DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+secretstudy,git,Placeable List/2/ItemList/2/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 secretstudy,git,Placeable List/2/ItemList/4/LocalizedName,0,심각한 상처 치료의 물약
 secretstudy,git,Placeable List/2/ItemList/4/DescIdentified,0,"혈액의 흐름을 안정시키거나 뼈를 엮을 수 있는 힘으로, 이 약은 위험한 직업들 사이에서 흔하게 사용되고 있습니다."
 secretstudy,git,Placeable List/5/LocName,0,통
@@ -4115,7 +4115,7 @@ module,jrl,Categories/8/EntryList/4/Text,0,피우비엔 주인은 제 약에 대
 module,jrl,Categories/8/EntryList/5/Text,0,피우비엔 여주인은 제 보물에 대해 물었습니다. 저는 그녀에게 큰 금액의 금을 줘야 했습니다.
 module,jrl,Categories/9/Name,0,마법적 문
 module,jrl,Categories/9/EntryList/0/Text,0,경로는 강력한 마법의 문으로 막혀 있습니다. 트리안디르은 이를 해제할 수 없습니다.
-module,jrl,Categories/9/EntryList/1/Text,0,트리안더가 캠프 위쪽에 터널을 발견했어. 그 터널은 광산 시설의 미로와 연결되어 있어. 아마 그 마법의 문을 우회할 수 있을 것 같아. 피비위엔은 혼자서 이를 조사하라고 나에게 지시했어.
+module,jrl,Categories/9/EntryList/1/Text,0,트리안더가 야영지 위쪽에서 터널을 발견했어. 광산 갱도 미로로 이어져. 그 길로 마법 문을 우회할 수 있을지도 몰라. 피위비엔이 나더러 혼자 조사하라고 했어.
 module,jrl,Categories/9/EntryList/2/Text,0,"나는 혼자야. 근처에 괴물이 없기를 바라지만, 그래도 조심해야 해. 적대적인 생물과 접촉하지 않고 숨을 들여다보는 것이 가장 좋겠어."
 module,jrl,Categories/9/EntryList/3/Text,0,"이 광산 터널은 큰 스비르네블린 전초기지로 연결되어 있으며, 메인 출입구를 열 방법을 알아냈습니다. 드루이들이 오고 있어요. 불운한 고블린들의 공격에 합류합시다."
 module,jrl,Categories/9/EntryList/4/Text,0,스비르프네블린 포스트가 무너졌어. 모든 저항자들을 죽이고 피우비엔에 보고해야 해.
@@ -4325,7 +4325,7 @@ it_mbelt029,uti,DescIdentified,0,"성공적 인 상인 로저 델포스는 도�
 it_mneck006,uti,LocalizedName,0,권능의 호신부
 it_mneck006,uti,DescIdentified,0,"게르바자 (Ger'baza) 는 필사적 정신이 이해할 수 있는 것보다 더 많은 힘을 추구하는 고대 리치였다. 권능의 호신부를 만들기 위해 포획된 영혼들을 합쳐서, 제르 바자는 자신의 성공에 놀라며 수많은 변형을 만들었다. 그러나 상식은 그를 실패했다; 모든 목걸이를 일조로 착용하려고 시도하면서 그레바사는 조용하게 존재에서 지워졌다. 구슬은 기적적으로 살아남았다."
 it_mpotion025,uti,LocalizedName,0,치명상처 치료의 물약
-it_mpotion025,uti,DescIdentified,0,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
+it_mpotion025,uti,DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 it_mpotion026,uti,LocalizedName,0,일반 중상 치료의 물약
 it_mpotion026,uti,DescIdentified,0,"이 치료약은 대부분의 민간인에게 너무 비싸서, 거의 전적으로 군인과 모험가들에 의해 사용됩니다."
 it_mpotion027,uti,LocalizedName,0,황소의 근력 물약

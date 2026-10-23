@@ -559,7 +559,7 @@ celeste,dlg,EntryList/4/Text,0,"보시다시피, 저는 몇 밤 전에 지하 �
 celeste,dlg,EntryList/6/Text,0,좋은 날 보내세요.
 celeste,dlg,EntryList/7/Text,0,"오, 너무 많은 문제가 없다면, 난 아직도 내 덩어리가 있는지 알고 싶습니다."
 celeste,dlg,EntryList/8/Text,0,"50골드를 줄게, 조사해. 더 많은 것이 있는 것으로 밝혀지면 그에 따라 추가해 줄게. 기뻐?"
-celeste,dlg,EntryList/10/Text,0,"낮에는 들어가지 않아도 좋을 것 같아. 어제는 다 들어봤는데, 쥐가 달리는 소리조차 들리지 않았으니, 어둡게 되면 확인해 보는 게 좋겠어."
+celeste,dlg,EntryList/10/Text,0,"글쎄, 낮에는 거기 들어가지 않는 게 좋겠어. 어제 내내 그 안에 있었는데 쥐 한 마리가 뛰어다니는 소리조차 듣지 못했거든. 어두워진 뒤에 살펴보는 게 좋겠어."
 celeste,dlg,EntryList/11/Text,0,"<StartAction> 여인이 많이 자고</Start> 안녕하세요 <sir/madam> 오, 넬리즈! 다시 만나서 반갑습니다."
 celeste,dlg,EntryList/12/Text,0,"저는 실제로 자매를 가지고 있습니다. 비록 잠시 동안 브랙스워스에서 거의 할 일이 없었지만, 제 동료는 놓칠 수 없는 기회를 제게 제공했습니다."
 celeste,dlg,EntryList/13/Text,0,"... 네, 그건 사람에게 유용한 성질이 될 수 있죠. 아무튼, 당신에게 도와드릴 일이 있으신가요?"
@@ -1867,8 +1867,8 @@ hench_hotu,dlg,ReplyList/44/Text,3,"""전투에서 사용하는 마법을 어떻
 hench_hotu,dlg,ReplyList/45/Text,0,"""지금은 다른 무엇도 바꾸고 싶지 않아."""
 hench_hotu,dlg,ReplyList/45/Text,2,"""지금은 아무것도 변경하고 싶지 않다."""
 hench_hotu,dlg,ReplyList/45/Text,3,"""지금은 아무것도 변경하고 싶지 않다."""
-hench_hotu,dlg,ReplyList/47/Text,2,"""그룹의 구성원들에게 마법 해제 기술을 사용하지 마세요. 모든 부정적인 효과를 해소하려고 하지 마세요."""
-hench_hotu,dlg,ReplyList/47/Text,3,"""그룹의 구성원들에게 마법 해제 기술을 사용하지 마세요. 모든 부정적인 효과를 해소하려고 하지 마세요."""
+hench_hotu,dlg,ReplyList/47/Text,2,"""성가신 효과를 없애려고 파티원에게 마법 해제 주문을 사용하지 마세요."""
+hench_hotu,dlg,ReplyList/47/Text,3,"""성가신 효과를 없애려고 파티원에게 마법 해제 주문을 사용하지 마세요."""
 hench_hotu,dlg,ReplyList/47/Text,0,"""당파원들의 비활성화 효과를 해소하기 위해 해제 마법을 사용하지 마십시오."""
 hench_hotu,dlg,ReplyList/48/Text,2,"""그룹 구성원들에 대한 마법 해제를 사용하여 모든 불리한 효과를 취소하세요."""
 hench_hotu,dlg,ReplyList/48/Text,3,"""그룹 구성원들에 대한 마법 해제를 사용하여 모든 불리한 효과를 취소하세요."""
@@ -2772,7 +2772,7 @@ merin,dlg,ReplyList/14/Text,0,그럼 그들은 어디에 있는가?
 merin,dlg,ReplyList/15/Text,0,"내 방식에 동의해줘서 다행이다. 안녕, 메린."
 merin,dlg,ReplyList/16/Text,0,<StartCheck>[시작]</Start>좋은 사람으로서.
 merin,dlg,ReplyList/19/Text,0,"이의를 찾아오시다니, 메린 씨가 참 다행이네요."
-merin_door,dlg,EntryList/0/Text,0,<StartAction>[문이 잠겨있어요. 문을 두드리시겠습니까? 아니면 열어보시겠습니까?]</Start>
+merin_door,dlg,EntryList/0/Text,0,"<StartAction>[문이 잠겨 있습니다. 문을 두드릴까요, 아니면 자물쇠를 따거나 문을 부술까요?]</Start>"
 merin_door,dlg,EntryList/1/Text,0,"<StartAction>[당신은 문을 두드린다. 잠시 후, 내부에서 목소리가 들린다.]</Start> 누가세요?"
 merin_door,dlg,EntryList/2/Text,0,당신의 말에 관심이 없습니다.
 merin_door,dlg,EntryList/3/Text,0,"내가 생각해봐... 아니, 가라!"
@@ -3318,7 +3318,7 @@ p002c000sailor23,dlg,ReplyList/17/Text,0,계속 할게요
 p002c000sailor23,dlg,ReplyList/18/Text,0,"그래, 그는 큰까마귀와 블랙 페트라는 놈을 언급했어."
 p002c000sailor23,dlg,ReplyList/19/Text,0,조심해
 p002c000sailor23,dlg,ReplyList/20/Text,0,"그의 집을 검색했을 때, 한 날 미만의 피의 웅덩이가 부분적으로 숨겨져 있었어."
-p002c000sailor23,dlg,ReplyList/21/Text,0,"<StartCheck>[혼돈]</Start> 은전들? 쓸모없는 영웅들이군. 내가 이 일을 처리할 수 있어, 친구. 이 일에 대해 어떤 의심도 없는 사람이 누구였을지 알고 있나?"
+p002c000sailor23,dlg,ReplyList/21/Text,0,"<StartCheck>[혼돈]</Start> 경관들 말이야? 자칭 영웅인 쓸모없는 무리들이지. 이 일은 내가 처리할게, 친구. 누가 이런 짓을 했는지 짐작 가는 사람 있어?"
 p002c000sailor23,dlg,ReplyList/22/Text,0,당신은 몇 가지 알고 계신가요?
 p002c000sailor23,dlg,ReplyList/23/Text,0,"맨 친구, 날 더 이상 궁금하게 하지 마."
 p002c000sailor23,dlg,ReplyList/24/Text,0,어디서 찾을 수 있어?
@@ -10545,7 +10545,7 @@ module,jrl,Categories/14/EntryList/2/Text,0,킵퍼 밥은 루터 (Luther) 라는
 module,jrl,Categories/14/EntryList/3/Text,0,"루터는 '블랙 피트'라는 원래 이름을 가진 밀수꾼과의 만남을 '격려'하여 이 단서를 제공하게 되었다 - 이 밀수꾼은 원래 '큰까마귀'라는 별명을 가진 '블랙 피트'였으며, 항구장 관리자에 대해 어느 정도 관심을 가지고 있었다. 더 많은 정보를 얻으려면 그를 물어봐야 한다. 그의 배인 '레븐'은 항구에서 발견할 수 있다."
 module,jrl,Categories/14/EntryList/4/Text,0,"블랙 피트를 만났지만, 그는 내게 아무 말도 하지 못하기 전에 불행한 결말을 맞았어요."
 module,jrl,Categories/14/EntryList/5/Text,0,킵퍼 밥은 피트의 갑작스러운 죽음으로 실망했습니다. 이 수수께끼에 대한 답이 없을 수도 있습니다.
-module,jrl,Categories/14/EntryList/6/Text,0,"블랙 피트의 죽음을 키퍼 브오에게 보고했고, 그는 그 악당의 죽음으로 매우 만족스러웠습니다. 이제 도크마스터의 시체를 찾으면 좋겠는데, 그 일은 잘 끝날 것 같습니다. 그는 상자에 넣혀진다는 말을 했었죠..."
+module,jrl,Categories/14/EntryList/6/Text,0,"블랙 피트의 죽음을 키퍼 밥에게 알렸더니, 그는 그 악당이 죽었다며 기뻐했습니다. 이제 도크마스터의 시신만 찾으면 일이 깔끔하게 마무리될 텐데요. 상자 안에 처박혔다고 했던 것 같습니다..."
 module,jrl,Categories/14/EntryList/7/Text,0,블랙 피트는 '다크마스터를 죽이고 상자 안에 넣었다'고 말했어요. 아마도 그 남자의 시체 흔적을 찾기 위해 주변 지역을 검색해야 할 것 같습니다.
 module,jrl,Categories/14/EntryList/8/Text,0,마스터의 시신을 키퍼 보브에게 돌려줬어요.
 module,jrl,Categories/14/EntryList/9/Text,0,"불공평한 증거들을 발견한 후, 법을 지키는 시민이 해야 할 것처럼 키퍼 브오를 당국에 보냈습니다. 임무 완료."
@@ -10895,7 +10895,7 @@ zep_bird_024,utc,FirstName,0,"새, 키위"
 zep_bird_024,utc,Description,0,키위는 비행할 수 없는 작은 새입니다.
 zep_bird_025,utc,FirstName,0,"새, 오리스티치"
 zep_bird_025,utc,Description,0,"타조는 날지 못하는 큰 새로, 최대 시속 45마일까지 달릴 수 있다."
-zep_bird_026,utc,FirstName,0,"새, 파충류 - 금"
+zep_bird_026,utc,FirstName,0,"새, 앵무새 - 금색"
 zep_bird_026,utc,Description,0,"앵무새 는 짧은 둥근 또는 심지어 꼬리 를 가지고 있으며, 종종 에 벗은 공간 을 가지고 있다. 많은 종 들 은 새 와 같이 소리 를 모방 하고 말 과 문장을 반복 하는 것 을 쉽게 배울 수 있다."
 zep_bird_027,utc,FirstName,0,"새, 펠리칸"
 zep_bird_027,utc,Description,0,pelican은 특유의 입가시 아래에 있는 큰 물새이다.
@@ -12259,7 +12259,9 @@ henchmanhealkit,uti,LocalizedName,0,헨치먼 치료장치
 henchmanhealkit,uti,Description,0,이 부하의 치료 키트는 죽어가는 상태에서 상처를 안정시키기 위해 사용할 수 있습니다.
 henchmanhealkit,uti,DescIdentified,0,이 부하의 치료 키트는 죽어가는 상태에서 상처를 안정시키기 위해 사용할 수 있습니다.
 herb,uti,LocalizedName,0,"허브, 성당 요한의 루트"
-herb,uti,DescIdentified,0,이 허브는 강력한 치료제로 사용되어 상처 회복을 가속화시킵니다.
+herb,uti,DescIdentified,0,"이 약초는 강력한 치료제로 쓰이며 수렴 작용이 있어 상처의 회복을 촉진한다.
+
+(용병 동료를 치료하는 데 유용하다.)"
 herb001,uti,LocalizedName,0,극심한 추운 크리스탈
 herb001,uti,DescIdentified,0,"이 결정석은 동부 산맥에서 채굴되며, 이는 극히 드물게 서쪽 깊숙이에서 발견된다. 이는 놀라운 보석으로, 스스로 차가운 것을 저장하고 있으며, 깨질 때 얼음 폭발로 방출된다."
 herb002,uti,LocalizedName,0,보호 글리프
@@ -13093,7 +13095,7 @@ zep_bf_adag_007,utp,LocName,0,나이 든 단검 7
 zep_bf_adag_008,utp,LocName,0,고령 단검 8
 zep_bf_afl_001,utp,LocName,0,노인용 막대기 1
 zep_bf_afl_002,utp,LocName,0,노인용 막대기 2
-zep_bf_afl_003,utp,LocName,0,노화된 부수 3
+zep_bf_afl_003,utp,LocName,0,낡은 도리깨 3
 zep_bf_afl_004,utp,LocName,0,나이진 부수기 4
 zep_bf_afl_005,utp,LocName,0,노인진 5
 zep_bf_afl_006,utp,LocName,0,6세기된 링거
@@ -13622,7 +13624,7 @@ zep_flowers016,utp,LocName,0,"꽃, 데이지 패치 (다이그)"
 zep_flowers017,utp,LocName,0,"꽃, 보라 패치 (dag)"
 zep_flowers018,utp,LocName,0,"꽃, 붉은 패치 (다그)"
 zep_flowers019,utp,LocName,0,"꽃, 노랑 패치 (dag)"
-zep_flowers019,utp,Description,0,다이지의 꽃들이 여기서 자라서 행복해 보입니다.
+zep_flowers019,utp,Description,0,데이지꽃은 이곳에서 잘 자라는 듯하다.
 zep_goblet,utp,LocName,0,주얼리드 고블릿
 zep_goblet,utp,Description,0,보석으로 장식된 컵이 반짝인다.
 zep_ground_dag,utp,LocName,0,투명 땅 4x4
