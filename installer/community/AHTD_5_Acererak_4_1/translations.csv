@@ -474,7 +474,7 @@ redcrystal,dlg,EntryList/2/Text,0,"""아니, 나는 욕망의 수정이야. 네�
 redcrystal,dlg,EntryList/3/Text,0,"""황금, 강력한 무기, 명예, ...?"""
 redcrystal,dlg,EntryList/4/Text,0,"""당신의 소망이 이뤄질 것이다."""
 redcrystal,dlg,EntryList/5/Text,0,"""당신의 소망이 이뤄질 것이다."""
-redcrystal,dlg,EntryList/6/Text,0,"""죄송합니다. 이건 제 능력 범위를 넘었습니다. 하지만 저는 여러분을 Acererak의 주인에게 데려가실 수 있습니다."""
+redcrystal,dlg,EntryList/6/Text,0,"""죄송합니다. 이건 제 능력 밖입니다. 하지만 그 주인인 아세레락에게 데려다 드릴 수는 있습니다."""
 redcrystal,dlg,EntryList/7/Text,0,"""당신의 소망이 이뤄질 것이다."""
 redcrystal,dlg,EntryList/8/Text,0,"""내가 여기 있어, 너의 모든 욕구를 성취해 내라""."
 redcrystal,dlg,EntryList/9/Text,0,"네가 원하는 대로, 내가 봉사하러 왔어 네가 원하는 대로 할 거야"
@@ -526,7 +526,7 @@ use_rope_3,dlg,EntryList/2/Text,0,"<StartHighlight>[등급을 올라가는 것�
 use_rope_3,dlg,EntryList/3/Text,0,<StartHighlight>[당신은 쉽게 계단을 올라갑니다.]</Start>
 use_rope_3,dlg,EntryList/4/Text,0,<StartHighlight> [당신은 트래프 문까지 떠납니다.] </Start>
 use_rope_3,dlg,ReplyList/1/Text,0,<StartAction>[오르기 시도]</Start>
-use_rope_3,dlg,ReplyList/3/Text,0,<StartAction>[레비아타네이션 능력을 사용]</Start>
+use_rope_3,dlg,ReplyList/3/Text,0,<StartAction>[드로우 고유의 공중부양 능력을 사용한다]</Start>
 acerakcaverns,git,Creature List/0/FirstName,0,시린
 acerakcaverns,git,Creature List/0/Description,0,"드라이아드는 외딴 숲의 깊은 곳에서 발견되는 매우 아름다운 나무 정령이다. 때로는 모험가들에게 도움을 주며, 유용한 정보의 원천이 될 수 있다."
 acerakcaverns,git,Creature List/1/FirstName,0,아세레라크
@@ -933,7 +933,7 @@ acerakentrance,git,Placeable List/259/LocName,0,고문 장비
 acerakentrance,git,Placeable List/259/Description,0,잘 뚫린 시체에서 피가 흐르고 아래 바닥에 얼룩이 남아 있습니다.
 acerakentrance,git,Placeable List/262/LocName,0,고문 장비
 acerakentrance,git,Placeable List/262/Description,0,금속 구조는 여전히 이 곳에서 포로로 잡힌 사람들의 외침과 공조하는 것 같습니다.
-acerakentrance,git,Placeable List/263/LocName,0,쇠퇴한 그루터기
+acerakentrance,git,Placeable List/263/LocName,0,썩은 나무 형틀
 acerakentrance,git,Placeable List/263/Description,0,"물가들은 열려 있고, 부패한 채소 냄새와 인간의 쓰레기가 여전히 그 냄새에 걸려 있습니다."
 acerakentrance,git,Placeable List/264/LocName,0,부패한 나무 교수대
 acerakentrance,git,Placeable List/264/Description,0,밧줄은 바람에 부드럽게 흔들리고 마치 시체를 찾고 있는 것처럼
@@ -3640,7 +3640,7 @@ module,jrl,Categories/2/EntryList/1/Text,0,드라이어드는 다시 자유로�
 module,jrl,Categories/3/Name,0,엘프 돌을 탐색하는 것
 module,jrl,Categories/3/EntryList/0/Text,0,"우리는 몇 개의 유적들을 발견했습니다. 만약 그 유적들이 인간에 의해 언급된 유적이라면, 우리는 배신당했습니다. 그들은 어떤 종류의 감시탑에 속해 있었다는 것은 꽤 명백합니다. 그들은 가치나 권력을 가진 것이 없었습니다. 신화 사냥은 완전히 실패했습니다. 나는 돌아서서 멘조베란잔으로 돌아가는 방법을 시도할 수 있었지만, 나는 스파이더 여왕이 이것을 좋아하지 않을 것을 두려워합니다. 다른 사람들은 죽었을 수도 있지만, 롤스의 탐구는 여전히 나에게 달려 있습니다. 나는 여전히 그녀의 네트워크에 휘말려 있습니다."
 module,jrl,Categories/3/EntryList/1/Text,0,"인간 지도자와 일부 엘프들 사이의 대화를 들었어요. 그가 말한 기념물은 결코 빠져나오지 않았습니다. 그는 우리를 그의 사람들로부터 멀리 끌어들으려 노력했습니다. 그는 그렇게 성공했습니다. 우리는 그의 집으로 돌아갈 길을 결코 찾을 수 없을 것이라고 생각합니다. 하지만 - 무슨 우연이 - 근처에 고대 장소가 있습니다. 강력한 생물의 유적, 그리고 그것은 미탈러를 보유하고 있습니다. 내가 스파이더 여왕을 찾고 있던 것보다 더 큰 유물. 이것은 나의 여신을 기쁘게 할 수있는 기회가 될 수 있습니다."
-module,jrl,Categories/3/EntryList/2/Text,0,"고대 네더레스의 아크마지 Acererak은 비자연적인 삶을 유지하기 위해 특별한 유물을 만들었습니다. 그는 현재 패배했지만, 그의 유물이 곧 그를 다시 살릴까 두려워합니다. 저는 이번에 모든 것을 마무리짓는 것이 필요합니다."
+module,jrl,Categories/3/EntryList/2/Text,0,"고대 네더릴의 대마법사 아세레락은 부자연스러운 삶을 이어 가기 위해 미살라라는 특별한 유물을 만들었습니다. 그는 지금은 패배했지만, 그의 유물이 곧 그를 다시 되살릴까 두렵습니다. 이 일을 이번에 영영 끝내야 합니다."
 module,jrl,Categories/3/EntryList/3/Text,0,"아세레라크는 마침내 사라졌어요. 이제 제가 그의 신화를 가져갔어요. 그는 내 마음에 침입하려고 했지만, 저는 롤트의 마법에 의해 보호받았습니다. 이상한 것은 갑자기 세 신이, 롤트, 바에라운, 미엘리키가 그들의 선택자가 될 수 있도록 설득하려고 시도했다는 것입니다. 나는 세 사람 사이에서 결정하는 것 외에는 다른 기회가 없었습니다. 나는 롤트를 선택했고, 그녀는 신화를 사용하는 것에 대한 통찰력을 제공했습니다. 나는 이 시점에서 신화에 대해 많은 것을 알지 못한다고 생각합니다. 그러나 나는 그것에 대해 아무것도 배울 수 있도록 노력할 것입니다. 아마도 롤트의 힘보다 더 ..."
 module,jrl,Categories/3/EntryList/4/Text,0,"아세레라크는 마침내 사라졌어요. 이제 내가 신화를 잡았어요. 그는 내 마음을 침략하려고 했지만, 나는 롤트의 마법에 의해 보호되었다. 이상한 것은, 갑자기 세 신이, 롤트, 바에라운, 미엘리키가, 그들의 선택자가 될 것을 설득하려고 시도했습니다. 나는 그 세 사람 사이에서 결정하는 것 외에는 다른 기회가 없었습니다. 나는 미엘리키를 선택했습니다. 나는 암흑의 음모와 혼란을 충분히 가지고 있기 때문에. 이것은 알려지지 않은 것에 대한 단계가 될 수 있지만 미엘리키는 롤트보다 더 나쁘지 않을 수 없습니다."
 module,jrl,Categories/3/EntryList/5/Text,0,"아세레라크는 마침내 사라졌어요. 이제 내가 신화를 가져갔어요. 그는 내 마음을 침략하려고 했지만, 나는 롤트의 마법에 의해 보호되었습니다. 이상한 것은 갑자기 세 신이, 롤트, 바에라운과 미엘리키가 그들의 선택자가 될 수 있도록 설득하려고 시도했다는 것입니다. 나는 그 세 사람 사이에서 결정하는 것 외에는 다른 기회가 없었습니다. 나는 바에라운을 선택했고 그는 신화에 대한 몇 가지 기본적인 통찰력을 줬습니다. 나는 지금 그것에 대해 많은 것을 알고 있다고 생각하지 않지만, 나는 그것에 대해 가능한 한 많은 것을 배우려고 노력할 것입니다. 우리는 한때 우리의 인종에 속했던 것을 되찾을 것입니다. 표면의 인종에 대한 통치."
@@ -3790,7 +3790,7 @@ statue,utc,FirstName,0,드워프 조각상
 statue001,utc,FirstName,0,인간 조각상
 statue002,utc,FirstName,0,엘프 제 조각상
 statue003,utc,FirstName,0,스버프네블린 조각상
-summonedminion,utc,FirstName,0,소환된 종족
+summonedminion,utc,FirstName,0,소환된 하수인
 svirfneblin,utc,FirstName,0,스버프네블린
 svirfneblin,utc,LastName,0,전사
 svirfneblin,utc,Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
@@ -3870,7 +3870,7 @@ ashmto013,uti,DescIdentified,0,"The Watch 라는 전투 브리거드를 결성�
 beholdereye,uti,LocalizedName,0,주시자 눈 (사람 현혹)
 beholdereye001,uti,LocalizedName,0,주시자 눈 (괴물 현혹)
 beholdereye002,uti,LocalizedName,0,주시자 눈 (분해)
-beholdereye003,uti,LocalizedName,0,주시자 눈 (석화)
+beholdereye003,uti,LocalizedName,0,비홀더 눈 (석화)
 beholdereye004,uti,LocalizedName,0,주시자 눈 (죽음)
 beholdereye005,uti,LocalizedName,0,주시자 눈 (무감각)
 beholdereye006,uti,LocalizedName,0,주시자의 눈 (경두심)

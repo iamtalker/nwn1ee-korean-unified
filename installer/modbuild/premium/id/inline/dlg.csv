@@ -275,7 +275,7 @@ id1_follower,dlg,ReplyList/66/Text,0,102343,하급 무적의 구체
 id1_follower,dlg,ReplyList/67/Text,0,102344,정신 차단
 id1_follower,dlg,ReplyList/68/Text,0,102345,메스틸의 산성 덮개
 id1_follower,dlg,ReplyList/69/Text,0,102346,대규모 가속
-id1_follower,dlg,ReplyList/70/Text,0,102347,마법적 옷장
+id1_follower,dlg,ReplyList/70/Text,0,102347,마법 사제복.
 id1_follower,dlg,ReplyList/71/Text,0,102348,마법학자 갑옷
 id1_follower,dlg,ReplyList/72/Text,0,102349,빛.
 id1_follower,dlg,ReplyList/73/Text,0,102350,하급 주문 망토
@@ -981,7 +981,7 @@ id1_journal,dlg,EntryList/184/Text,0,-1,매술사의 라인을 확인하고 있�
 id1_journal,dlg,EntryList/185/Text,0,-1,플롯 라인을 확인하고 있어요.
 id1_journal,dlg,EntryList/186/Text,0,-1,<CUSTOM5200>
 id1_journal,dlg,EntryList/187/Text,0,-1,던전 수입.
-id1_journal,dlg,EntryList/188/Text,0,-1,미탐험된 지하정원
+id1_journal,dlg,EntryList/188/Text,0,-1,탐험되지 않은 던전.
 id1_journal,dlg,EntryList/189/Text,0,-1,부분 초기화 중.
 id1_journal,dlg,EntryList/19/Text,0,-1,<CUSTOM5100>
 id1_journal,dlg,EntryList/190/Text,0,-1,다시 설정해
@@ -1051,7 +1051,7 @@ id1_journal,dlg,EntryList/48/Text,0,-1,저널을 닫고 보관해
 id1_journal,dlg,EntryList/49/Text,0,-1,어떤 동굴 속성을 변경하고 싶으세요?
 id1_journal,dlg,EntryList/5/Text,0,-1,<CUSTOM5100>
 id1_journal,dlg,EntryList/50/Text,0,-1,<CUSTOM5100>
-id1_journal,dlg,EntryList/51/Text,0,-1,"플레이어가 죽으면, 그는 일반적으로 도움을 기다리거나 다시 싸우기 위해 재발을 선택할 수 있는 기회를 얻습니다. 던전을 더 어렵게 만들기 위해, 플레이어가 재발을 선택할 때마다 금, 경험치, 아이템 등을 제거하는 벌금이 설정될 수 있습니다. 플레이어는 재발 위치를 변경할 수 있으며, 재발 시 건강 상태와 휴식 상태도 변경할 수 있습니다. 죽은 플레이어의 부하사의 상태도 조정될 수 있습니다."
+id1_journal,dlg,EntryList/51/Text,0,-1,"플레이어가 죽으면 보통 도움을 기다리거나 부활해 다시 싸울 기회가 주어집니다. 던전을 더 어렵게 하려면 플레이어가 부활을 선택할 때마다 금, 경험치, 아이템 등을 잃는 페널티를 설정할 수 있습니다. 플레이어는 부활 위치와 부활 시 체력 및 휴식 상태를 바꿀 수 있습니다. 죽은 플레이어의 수하의 처우도 조정할 수 있습니다."
 id1_journal,dlg,EntryList/52/Text,0,-1,<CUSTOM5100>
 id1_journal,dlg,EntryList/53/Text,0,-1,플레이어가 사망하면 플레이어의 모든 손잡이가 동시에 사망할 수 있는 옵션이 있습니다. 줄거리를 제공하는 NPC는 그들이 시작하는 던지온을 떠날 수 없습니다. 따라서 플레이어가 리틀 티미의 창고에서 재생산 할 경우 제거됩니다.
 id1_journal,dlg,EntryList/54/Text,0,-1,<CUSTOM5100>
@@ -1147,7 +1147,7 @@ id1_journal,dlg,ReplyList/140/Text,0,-1,기반 탐지 난이도를 특정 숫자
 id1_journal,dlg,ReplyList/141/Text,0,-1,이게 뭐하는 거야?
 id1_journal,dlg,ReplyList/143/Text,0,-1,레벨에 따라 탐지 난이도를 설정하세요.
 id1_journal,dlg,ReplyList/144/Text,0,-1,탐지 난이도를 특정 숫자로 설정합니다.
-id1_journal,dlg,ReplyList/145/Text,0,-1,간격을 변경하세요.
+id1_journal,dlg,ReplyList/145/Text,0,-1,함정 달린 보물 상자의 출현 빈도를 변경한다.
 id1_journal,dlg,ReplyList/146/Text,0,-1,간격을 변경하십시오.
 id1_journal,dlg,ReplyList/147/Text,0,-1,활성화된 바닥 함정의 빈도를 변경하십시오.
 id1_journal,dlg,ReplyList/148/Text,0,-1,잠금 시스템
@@ -1212,7 +1212,7 @@ id1_journal,dlg,ReplyList/208/Text,0,-1,전체 판금 갑옷을 변경하십시�
 id1_journal,dlg,ReplyList/209/Text,0,-1,반판 갑옷의 빈도를 변경하세요
 id1_journal,dlg,ReplyList/210/Text,0,-1,스핀트 메일과 반지 갑옷의 사용 빈도를 변경하십시오.
 id1_journal,dlg,ReplyList/211/Text,0,-1,가슴갑옷과 체인메일을 변경하십시오.
-id1_journal,dlg,ReplyList/212/Text,0,-1,체인 셔츠를 변경하고 메일을 입는 빈도를 변경하세요.
+id1_journal,dlg,ReplyList/212/Text,0,-1,사슬 셔츠와 비늘 갑옷의 출현 빈도를 변경한다.
 id1_journal,dlg,ReplyList/213/Text,0,-1,스테드드 라이어와 가죽 갑옷의 변경 빈도를 변경하세요.
 id1_journal,dlg,ReplyList/214/Text,0,-1,가죽 갑옷 변경 빈도 변경
 id1_journal,dlg,ReplyList/215/Text,0,-1,장갑의 착용 빈도를 변경하세요.
@@ -1241,7 +1241,7 @@ id1_journal,dlg,ReplyList/236/Text,0,-1,dí당 수를 변경하세요.
 id1_journal,dlg,ReplyList/237/Text,0,-1,격전 무기 발사 빈도 변경
 id1_journal,dlg,ReplyList/238/Text,0,-1,개별 무기의 주파수를 조정합니다.
 id1_journal,dlg,ReplyList/239/Text,0,-1,무기 빈도로 돌아가
-id1_journal,dlg,ReplyList/240/Text,0,-1,화살 주파수를 변경하라
+id1_journal,dlg,ReplyList/240/Text,0,-1,채찍 사용 빈도를 변경한다.
 id1_journal,dlg,ReplyList/241/Text,0,-1,워햄어의 주파수를 바꿔라
 id1_journal,dlg,ReplyList/242/Text,0,-1,2날 검의 사용 빈도를 변경해
 id1_journal,dlg,ReplyList/243/Text,0,-1,톱니의 빈도를 변경하세요.
@@ -1261,7 +1261,7 @@ id1_journal,dlg,ReplyList/255/Text,0,-1,쿠크리 사용 빈도를 변경하세�
 id1_journal,dlg,ReplyList/256/Text,0,-1,카타나 사용 빈도를 변경하세요.
 id1_journal,dlg,ReplyList/257/Text,0,-1,카마 주파수를 변경합니다.
 id1_journal,dlg,ReplyList/258/Text,0,-1,중무기 링거의 사용 빈도를 변경하세요.
-id1_journal,dlg,ReplyList/259/Text,0,-1,손가락검 사용 빈도를 변경하세요.
+id1_journal,dlg,ReplyList/259/Text,0,-1,손도끼 사용 빈도를 변경한다.
 id1_journal,dlg,ReplyList/26/Text,0,-1,플레이어가 죽을 때 플레이어의 부하가 죽게 해
 id1_journal,dlg,ReplyList/260/Text,0,-1,하버드 주파수를 변경하세요.
 id1_journal,dlg,ReplyList/261/Text,0,-1,대형 검의 사용 빈도를 변경하세요.
@@ -2030,7 +2030,7 @@ id1_masterius,dlg,EntryList/36/Text,0,-1,"저는 당신으로부터 그런 말�
 id1_masterius,dlg,EntryList/37/Text,0,-1,"이 거래는 그렇게 작동하지 않소, 이미 알고 있어야 할 일이오. 당신이 다시 생각해보는 건가? 그렇게 하면 우리 둘 다 매우 어리석고 번거로운 일일 거요."
 id1_masterius,dlg,EntryList/38/Text,0,-1,"나의 영혼을 되찾아주길 바란다. 할라스터의 인형으로 지내는 것이 지겨워졌고, 그의 미친 마음이 갈수록 커지면서 끈이 더 이상하게 쑤셔진다. 할라스터가 숨긴 깊은 곳에서 나의 영혼을 되찾아주면, 너를 손에 넣을 만큼 풍부하게 보상할 것이다."
 id1_masterius,dlg,EntryList/39/Text,0,-1,"네가 내 영혼을 발견했을 때 느껴졌어. 마치 에너지의 파도가 내 몸을 스치고, 내 뼈를 통해 내 존재의 본질을 만지는 것 같았어. 그것은 꽃이 태양을 향해 뻗어나가는 것처럼, 혹은 악마가 파괴된 영혼을 갈구하는 것처럼 느껴졌다."
-id1_masterius,dlg,EntryList/4/Text,0,-1,"죽음은 내가 추구하는 해방이 아니다. 나는 마스테리우스다. 한 때 훨씬 작은 워터딥의 왕이었으나, 지금은 시내 밑에 갇혀 있는 릭이다. 수세기에 걸쳐 이곳에 갇혀 있었으니, 세월을 세려니 웃을 일이 없다. 그것은 신체의 피로보다는 마음의 피로가 더 크다."
+id1_masterius,dlg,EntryList/4/Text,0,-1,"죽음은 내가 바라는 해방이 아니다. 나는 마스테리우스, 한때 훨씬 작았던 워터딥의 왕이었으나 지금은 도시 아래에 갇힌 리치다. 헤아리기도 싫을 만큼 여러 세기를 이곳에 갇혀 있었다. 이것은 몸의 피로라기보다 정신의 지침이다."
 id1_masterius,dlg,EntryList/40/Text,0,-1,"나는 널 완전히 신뢰한 적이 없지만, 네가 나를 실망시킨 건 사실이야. 내 영혼을 지키는 데 아무런 가치가 없어 보이는데, 네가 할라스터처럼 사용하려는 계획이 있는지 모르겠네. 그렇게 하면 나는 더 이상 견딜 수 없을 것 같아."
 id1_masterius,dlg,EntryList/41/Text,0,-1,"내 영혼을 내주면 나의 서비스를 받을 수 있지만, 그것을 지키기 위해서는 나를 파괴해야 할 것이다. 그러면 내 영혼은 당신에게 무슨 도움이 될까?"
 id1_masterius,dlg,EntryList/42/Text,0,-1,네 불신에도 불구하고 논리적으로 생각해야 하니까 내가 도와주지 않으면 할래스터가 돌아가서 내 영혼을 빼앗을 수 있어

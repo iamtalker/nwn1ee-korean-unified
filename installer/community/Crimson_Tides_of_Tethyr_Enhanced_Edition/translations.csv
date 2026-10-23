@@ -45,7 +45,7 @@ area041,are,Name,0,수르덴셀러: 하이 마지스 타라마르의 탑
 area042,are,Name,0,다네셀러: 궁전 - 위층
 area043,are,Name,0,깨진 왕국: 이레니쿠스 탑 - 1층
 area044,are,Name,0,이레니쿠스 탑: 1층
-area045,are,Name,0,이레니쿠스 탑: 두 번째 바닥
+area045,are,Name,0,이레니쿠스의 탑: 2층
 area046,are,Name,0,이레니쿠스 탑: 3층
 area047,are,Name,0,이레니쿠스 탑: 4층
 area048,are,Name,0,가르핀델의 대장간
@@ -237,9 +237,9 @@ bartender,dlg,EntryList/9/Text,0,"블랙 쿼터는 다르로마르에서 가장 
 bartender,dlg,EntryList/10/Text,0,"""왕실 쿼터는 페어너트란트 궁전, 대부분의 귀족들, 그리고 더 부유한 시민들이 거주하는 곳이다. 카라반 쿼터는 여기에서 남동쪽에 위치하며 다르로마르의 대부분의 무역이 거기에서 이루어진다. 마지막으로, 성전 쿼터는 여기에서 남쪽에 있으며 도시의 주요 종교 건물들을 수용하고 있다."""
 bartender,dlg,EntryList/11/Text,0,"""제 사과 드립니다. 최근의 악천후와 지난해의 허리 문제로 인해 지붕 균열을 칠하지 못했습니다. 그래서 상단층을 완전히 폐쇄해야 했는데, 이로 인해 사업이 크게 타격을 입었습니다."""
 bartender,dlg,EntryList/12/Text,0,"""아, 그렇소. 이해해 주셔서 감사하오, 제 <lord/lady>. 다른 것이 필요하신 건 없소?"""
-bartender,dlg,EntryList/13/Text,0,"<StartCheck>[실패]</Start> ""만약 문제가 있었다면, 밤에 잠들기 전에 알려줬어야 했다. 난 사람들이 약간의 불편을 위해 돈을 요구하지 않고 충분히 싸우고 있다. 그것은 호스, 루디 페어너턴 궁전이 아니다. 이제, 다른 것이 있었나요?"""
+bartender,dlg,EntryList/13/Text,0,"<StartCheck>[실패]</Start> ""문제가 있었으면 잠들기 전에 말했어야지. 사소한 불편에 돈을 내놓으라는 사람들 때문에 안 그래도 힘들어 죽겠어. 여긴 여관이지 빌어먹을 페른타른 궁전이 아니야. 자, 또 다른 용건 있나?"""
 bartender,dlg,EntryList/14/Text,0,"<StartAction>[성공]</Start> ""좋아, 괜찮아 - 여기 방 대가로 지불한 돈이에요. 모든 손님들이 당신처럼 까다로웠다면, 지금까지 사업을 할 수 없었을 거예요. 다른 것이 필요하신 건 없나요?"""
-bartender,dlg,EntryList/15/Text,0,"<StartCheck>[실패]</Start> ""만약 문제가 있었다면, 밤에 잠들기 전에 알려줬어야 했다. 난 사람들이 약간의 불편을 위해 돈을 요구하지 않고 충분히 싸우고 있다. 그것은 호스, 루디 페어너턴 궁전이 아니다. 이제, 다른 것이 있었나요?"""
+bartender,dlg,EntryList/15/Text,0,"<StartCheck>[실패]</Start> ""문제가 있었으면 잠들기 전에 말했어야지. 사소한 불편에 돈을 내놓으라는 사람들 때문에 안 그래도 힘들어 죽겠어. 여긴 여관이지 빌어먹을 페른타른 궁전이 아니야. 자, 또 다른 용건 있나?"""
 bartender,dlg,EntryList/16/Text,0,"<StartAction>[성공]</Start> ""좋아, 괜찮아 - 여기 방 대가로 지불한 돈이에요. 모든 손님들이 당신처럼 까다로웠다면, 지금까지 사업을 할 수 없었을 거예요. 다른 것이 필요하신 건 없나요?"""
 bartender,dlg,EntryList/17/Text,0,"""안녕하세요, 어떻게 도와드릴까요?"""
 bartender,dlg,ReplyList/0/Text,0,"""보안해"""
@@ -1423,7 +1423,7 @@ elhan3,dlg,EntryList/2/Text,0,"""열린 말이야, 친구. 마지스 타라마�
 elhan3,dlg,EntryList/4/Text,0,"""나는 명예의 전사 롤이 곧 시작될 것이라고 믿습니다."""
 elhan3,dlg,ReplyList/0/Text,0,"""오, 대단합니다. 당신이네요. 여기서 뭐하는 거예요?"""
 elhan3,dlg,ReplyList/1/Text,0,"타라마르의 죽음은 큰 손실이 아니므로, 다음 고위 마법사가 전 두 명보다는 잘 되기를 기대해봅시다."
-elhan3,dlg,ReplyList/3/Text,0,"그는 도시를 방어하기 위해 용감하게 싸웠고, 그를 쓰러뜨리기 위해 괴물 마술사들조차 필요했습니다."
+elhan3,dlg,ReplyList/3/Text,0,"""그는 도시를 지키는 데 용맹했소. 그를 쓰러뜨리는 데 오우거 마법사 무리가 필요했소."""
 elhan3,dlg,ReplyList/5/Text,0,"""안녕하세요, 엘한. 다시 만나서 반가워요!"""
 elleomir,dlg,EntryList/0/Text,0,"""부탁합니다, 그만두세요! 그를 죽이지 마세요! 그는 제 유일한 아들입니다! 당신이 그를 살려주신다면 무엇이든 할 것입니다!"""
 elleomir,dlg,EntryList/1/Text,0,"""아, 내 아들아, 괴물아, 내가 널 죽일 거야!"
@@ -1945,7 +1945,7 @@ merchant_spice,dlg,ReplyList/1/Text,0,그래.
 merkul,dlg,EntryList/0/Text,0,"""Eh, 지금 당신은 무슨 일을 내 방으로 침투하는거야? 내 문 밖의 그 망할 누출이 나를 충분히 슬픔을 일으키지 않는 것처럼! 지금 밖으로 나가, 아니면 내가 당신을 내쫓을 것이다!"""
 merkul,dlg,EntryList/1/Text,0,"""네 못생긴 낯짝을 다시 보게 하지 마, 알겠어?"""
 merkul,dlg,EntryList/2/Text,0,"""그게, 당신은 그것을 요청했다!"""
-merkul,dlg,EntryList/3/Text,0,"""나는 차가운 바닥을 선호한다. 깃털과 베개? '그건 피를 흘리는 약자들을 위한 것이다! 지금, 나가라는 것이야!' 이제, 여기서 나가지 않으면 네 멍청한 뼈를 찢어버리겠다!"""
+merkul,dlg,EntryList/3/Text,0,"""난 저기 침대보다 차갑고 딱딱한 바닥이 좋아. 쳇, 깃털이랑 담요라고? 너 같은 빌어먹을 약골들이나 쓰는 거지! 자, 내가 네 멍청한 대가리를 쪼개기 전에 썩 꺼져!"""
 merkul,dlg,ReplyList/0/Text,0,"""죄송합니다. 그냥 가고 있어."""
 merkul,dlg,ReplyList/2/Text,0,"""나는 어디든 가고 싶은 곳으로 가는데, 드워프야. 막아보라!"""
 merkul,dlg,ReplyList/4/Text,0,"""왜 침대를 이용하는 건데, 거기엔 아주 좋은 침대가 있어?"""
@@ -2256,7 +2256,7 @@ ogson1,dlg,EntryList/4/Text,0,"""나는 상인과 기업가의 긴 전통에서 
 ogson1,dlg,EntryList/5/Text,0,"""위험은 나를 걱정하지 않습니다! 사실, 나는 얼굴에 웃는다 - "" 갑자기 상인이 미미스. 그의 손은 그의 발목으로 떨어지고, 격렬하게 마찰."
 ogson1,dlg,EntryList/6/Text,0,"""아뇨, 잠깐, 그렇게 보이지 않아요. 저는 오래전부터 제 친구로부터 원치 않는 선물을 받았다고 말하는 것을 부끄럽게 생각합니다. 제가 사용한 용액과 기름은 아무 효과도 없었습니다."
 ogson1,dlg,EntryList/7/Text,0,상인은 자신을 긁는 것에 너무 집중해서 작별 인사를 하지 못했다.
-ogson1,dlg,EntryList/8/Text,0,"""희망이 없어... 희망이 없어..."" 오그슨은 가려움증으로 인해 자비로운 생각을 단숨에 끊어져버렸다."
+ogson1,dlg,EntryList/8/Text,0,"""희망이 없어... 희망이 없어..."" 오그슨의 자기 연민은 또 한바탕 미친 듯한 가려움에 끊겨 버린다."
 ogson1,dlg,EntryList/9/Text,0,"""내가 말했듯이, 나는 모든 것을 시도했다! 모든 것을 제외한... 그래, 나는 이 문제를 해결할 수 있는 식물 추출물이 있다고 들었다. 이 식물은 큰 물 매장소에서만 자란다. 아마 Sulduskoon 근처에 있을지도 모르겠다. 식물은 아마 rivercrest라고 불린다."""
 ogson1,dlg,EntryList/10/Text,0,"""정말요? 당신에게 가치 있게 해드릴게요! 모든 재고에 대한 대량 할인은 어때요? 기억해, 식물은 강 근처에서만 찾을 수 있으니, 술두스쿠노를 지나면 더 이상 강가의 식물은 찾을 수 없을 거야."""
 ogson1,dlg,EntryList/11/Text,0,"""다시 안녕, 친구! 문제들이 잠시 가라앉은 것 같아 기뻐. 그것에 대해 말하지 않는 게 도움이 되는 것 같아..."" 천천히 하지만 확실하게, 상인은 불안해지기 시작했다. ""무엇이 필요하십니까?"""
@@ -2645,7 +2645,7 @@ talamar,dlg,ReplyList/9/Text,0,"""드라너 신화에 대해 더 많은 것을 �
 talamar,dlg,ReplyList/10/Text,0,"""이전 고위 마법사에 대해 말해줘."""
 talamar,dlg,ReplyList/11/Text,0,"""다른 것에 대해 이야기 해 봅시다""."
 talamar,dlg,ReplyList/12/Text,0,"""그는 내 취향인 것 같네요! 이레니쿠스에 대해 더 알아보는 방법은 어디서 찾을 수 있을까요?"""
-talamar,dlg,ReplyList/13/Text,0,"""권력이 오만을 부르는 것은 항상 아쉬움입니다. 저는 그에 대해 더 많은 것을 알고 싶습니다."""
+talamar,dlg,ReplyList/13/Text,0,"""권력이 사람을 부패시키는 건 언제나 안타까운 일입니다. 그에 대해 더 알고 싶군요."""
 talamar,dlg,ReplyList/14/Text,0,"""방금 외부에서 암살자들에게 공격을 받았어! 무슨 일이 벌어지고 있나?"""
 talamar,dlg,ReplyList/15/Text,0,"""저는 몸체들을 조사해 보겠습니다. 이 사건의 배후를 알 수 있는 단서가 있을 거라 생각합니다."""
 talamar,dlg,ReplyList/17/Text,0,"""이 편지가 암살자 중 한 명의 몸에 있었습니다. 이 사건의 배후가 누군지 아시나요?"""
@@ -2675,7 +2675,7 @@ tethyrianofficer,dlg,EntryList/1/Text,0,"""크림슨 경비대는 몬스터들�
 tethyrianofficer,dlg,EntryList/2/Text,0,"""네, 그들은 늑대새처럼 싸웠어요. 나는 그런 것을 본 적이 없어요. 네, 내가 너와 이 오그레 엘리트들의 잔해들을 만나기 전까지는 아니었어요. 넌 5명 중 한 명처럼 싸우고 있어""."
 tethyrianofficer,dlg,EntryList/3/Text,0,"""내가 마지막으로 봤을 때, 그들은 괴물들의 시체까지 무릎을 잠기게 만드는 중이었고, 모든 쪽에서 포위당하고 있었습니다. 캡틴 다라무스와 강력한 금발의 용사 레반테스가 각자 뒤를 바라보며, 죽음의 휘두르는 바람처럼 오그리들을 쓸어버리고 있었습니다."""
 tethyrianofficer,dlg,EntryList/4/Text,0,"""언언약하노니, 나는 거대하고 털이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍질이 껍"
-tethyrianofficer,dlg,EntryList/5/Text,0,"""그 괴물은 마법을 사용해 죽은 군인들이 전 동맹국들을 대항하여 일어나게 했습니다. 혼란 속에서 이 그룹은 우리 진영을 헤치고 문으로 달려들어갔습니다. 그곳에서는 싸움이 치열합니다. 아직 결과는 불분명합니다."""
+tethyrianofficer,dlg,EntryList/5/Text,0,"장교가 오그림의 시체를 알아본다. ""그 괴물은 죽은 병사들을 일으켜 옛 동료들에게 맞서게 하는 주문을 걸었소. 그 혼란을 틈타 이 무리가 우리 대열을 뚫고 길을 내어 성문에 도달했소. 밖은 고전 중이오. 어느 쪽으로든 기울 수 있소."""
 tethyrianofficer,dlg,EntryList/6/Text,0,"""그것이 당신이 원한다면, 나는 당신을 방해하지 않을 것입니다. 나는 단지 소공무원일 뿐, 당신처럼 유명한 영웅은 아닙니다. 지금 밖으로 나가서 내 부대를 일으킬 수 있는지 보려고 합니다. 당신에게 행운을!"""
 tethyrianofficer,dlg,ReplyList/0/Text,0,"""그게 나, 살아있는 전설 <him/her> 자신이."""
 tethyrianofficer,dlg,ReplyList/1/Text,0,"""그럼요. 반갑습니다."""
@@ -4059,12 +4059,12 @@ area014,git,Creature List/15/FirstName,0,죽은 일꾼
 area014,git,Creature List/15/Description,0,"냄새가 나고 더러운 이 남자는 비틀거리는 눈으로 앞을 바라보며, 분명히 정신이 나갔습니다."
 area014,git,Creature List/16/FirstName,0,카리온 크롤러
 area014,git,Creature List/16/Description,0,"캐리온 크래러들은 공격적인 지하 수렵꾼으로 알려져 있으며, 마비시키는 공격으로 매우 두려워합니다."
-area014,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,캐리온 크롤러 난관
-area014,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,캐리온 크롤러 난관
+area014,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,캐리온 크롤러 촉수
+area014,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,캐리온 크롤러 촉수
 area014,git,Creature List/17/FirstName,0,카리온 크롤러
 area014,git,Creature List/17/Description,0,"캐리온 크래러들은 공격적인 지하 수렵꾼으로 알려져 있으며, 마비시키는 공격으로 매우 두려워합니다."
-area014,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,캐리온 크롤러 난관
-area014,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,캐리온 크롤러 난관
+area014,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,캐리온 크롤러 촉수
+area014,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,캐리온 크롤러 촉수
 area014,git,Creature List/18/FirstName,0,오티우
 area014,git,Creature List/18/Description,0,"오티우스는 지하에 사는 이상한 변칙성으로, 더러움과 내장을 먹는 것을 즐긴다."
 area014,git,Creature List/18/Equip_ItemList/2/LocalizedName,0,오티우그 비트
@@ -4935,7 +4935,7 @@ area045,git,Creature List/5/Equip_ItemList/1/Description,0,"장인제작 아이�
 area045,git,Creature List/6/FirstName,0,코볼트 무사
 area045,git,Creature List/7/FirstName,0,리크
 area045,git,Creature List/7/Description,0,"그림자는 이 돌을 뒤집고 돌고 있습니다. 그의 작은 키에도 불구하고, S'Reek은 분명 이상한 강력한 힘을 가지고 있습니다."
-area045,git,Creature List/8/FirstName,0,구부수자 무 주인
+area045,git,Creature List/8/FirstName,0,늙은 스승 우
 area045,git,WaypointList/0/LocalizedName,0,인카운터
 area046,git,Creature List/0/FirstName,0,리크
 area046,git,Creature List/0/Description,0,"그림자는 이 돌을 뒤집고 돌고 있습니다. 그의 작은 키에도 불구하고, S'Reek은 분명 이상한 강력한 힘을 가지고 있습니다."
@@ -6637,7 +6637,7 @@ module,jrl,Categories/29/EntryList/3/Text,0,"토만이 협조하지 않자, 냉�
 module,jrl,Categories/29/EntryList/4/Text,0,"블랙 타론은 자네의 성공에 기뻐했으며, 이제 떠나버렸어, 길들어진 대로 빨리 돌아가려 해."
 module,jrl,Categories/29/EntryList/5/Text,0,"블랙 타론은 당신이 이윤 있는 사업에 참여한 것에 기뻐했지만, 당신이 배신하고 모두 일찍 죽음을 맞이하게 한 것은 덜 기뻐했습니다."
 module,jrl,Categories/29/EntryList/6/Text,0,"블랙 타론은 당신의 실패에 실망했으며, 이제 그 지역을 떠났다."
-module,jrl,Categories/29/EntryList/7/Text,0,"블랙 타롱과 대화하고 그들이 말한 것들을 들은 후, 당신은 도와줄 것을 결정하여 몸값의 일부를 받기로 했습니다. 이제 토만에게 돌아가 그가 모든 골드를 내어주도록 요구해야 합니다."
+module,jrl,Categories/29/EntryList/7/Text,0,"블랙 탈론과 이야기하고 그들의 말을 들은 뒤, 당신은 전리품 일부를 받는 대가로 그들을 돕기로 했다. 이제 토만에게 돌아가 그가 가진 모든 금을 내놓으라고 요구해야 한다."
 module,jrl,Categories/29/EntryList/8/Text,0,"불행히도, 당신은 Darromar을 떠나기 전에 이 임무를 해결하지 못했습니다."
 module,jrl,Categories/30/Name,0,최후의 공격
 module,jrl,Categories/30/EntryList/0/Text,0,"시틸리시안군은 전력을 다해 다가오고 있습니다. 테티르 연합군과 오그르 전쟁주인이 이끄는 괴상한 연합군은 결정적인 전쟁을 위해 타이타닉한 전투에서 충돌할 예정입니다. 당신은 언더랜드에서 경비를 맡아 문을 침범하는 모든 몬스터들을 처리하도록 지정되었습니다. 테티리아 군대가 붕괴되면, 당신은 마지막 방어선이 될 것입니다."
@@ -6926,7 +6926,7 @@ kinghaedrakii001,utc,FirstName,0,헤드라크 3세 왕
 kinghaedrakii001,utc,Description,0,"헤드라크 왕은 30대 후반, 키가 큰 아름다운 남자로, 학문적인 분위기를 풍기지만, 아내의 다소 거친 태도와는 대조를 이루는 듯 합니다. 그럼에도 불구하고, 그는 자주 아내에게 존경스러운 시선을 보내며, 그들 사이에는 큰 상호 사랑과 이해가 있음을 보여줍니다."
 kinghaedrakiii,utc,FirstName,0,헤드라크 3세 왕
 kobold002,utc,FirstName,0,코볼트 특공대
-kobold003,utc,FirstName,0,구부수자 무 주인
+kobold003,utc,FirstName,0,늙은 스승 우
 kobold004,utc,FirstName,0,코볼트 특공대
 kobold005,utc,FirstName,0,코볼트 무사
 kobold007,utc,FirstName,0,코볼트 무사
@@ -7438,7 +7438,7 @@ portrait,uti,LocalizedName,0,초상화
 portrait,uti,DescIdentified,0,아름다운 공주의 작은 초상화.
 purefire,uti,LocalizedName,0,순수한 불
 purefire,uti,DescIdentified,0,"이 짧은 검은 쟁이 수공인 그레고르 페럼이 반아동 친구이자 전 모험 파트너인 티투스 골드핑거를 위해 만들었으며, 두 동료가 함께 여행할 때 자주 사용되었다. 아쉽게도, 마침내 직업에서 은퇴했을 때, 티투스는 자신의 이름을 지키며 상당한 금액을 얻기 위해 검을 보석상에 팔았다. 그레고르가 알게 된 후, 그는 다시는 전 파트너와 대화하지 않겠다고 맹세했다."
-q_it_ccrawlrslam,uti,LocalizedName,0,캐리온 크롤러 난관
+q_it_ccrawlrslam,uti,LocalizedName,0,캐리온 크롤러 촉수
 q_it_otyughbite,uti,LocalizedName,0,오티우그 비트
 rainbowblade,uti,LocalizedName,0,레인보우 블레이드
 rainbowblade,uti,DescIdentified,0,"이 이상한 칼은 내부에 수많은 색상이 섞여 있으며, 검에 세 가지 원소력이 충전된 부작용입니다. 이 이상한 패턴은 매우 유혹적으로 보이며, 적들은 무기로 직면했을 때 혼란스러워질 위험이 있습니다."
@@ -7590,7 +7590,7 @@ q_plc_awning007,utp,LocName,0,오닝 - 빨간 줄무늬
 q_plc_awning007,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_awning008,utp,LocName,0,-
 q_plc_awning008,utp,Description,0,이 물체는 특별한 것이 없습니다.
-q_plc_awning009,utp,LocName,0,- 갈색 줄무늬
+q_plc_awning009,utp,LocName,0,차양 - 황갈색 줄무늬
 q_plc_awning009,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_awning010,utp,LocName,0,오닝 - 목재
 q_plc_awning010,utp,Description,0,이 물체는 특별한 것이 없습니다.
@@ -7663,7 +7663,7 @@ q_plc_foodbin005,utp,Description,0,신선한 잎사귀들이 가득한 맨틀 �
 q_plc_foodbin006,utp,LocName,0,과일 상자
 q_plc_foodbin006,utp,Description,0,신선한 과일로 가득한 나무 상자.
 q_plc_funrlpyre,utp,LocName,0,장례화기
-q_plc_funrlpyre,utp,Description,0,불타는 것을 기다리는 어두운 장례 피라미드.
+q_plc_funrlpyre,utp,Description,0,점화를 기다리는 침울한 장작 화장대.
 q_plc_garbage001,utp,LocName,0,쓰레기 쌓임
 q_plc_gizzard,utp,LocName,0,기저드
 q_plc_grindwheel,utp,LocName,0,밀링 휠

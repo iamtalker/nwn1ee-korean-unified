@@ -237,7 +237,7 @@ cut_janthos,dlg,EntryList/22/Text,0,-1,"정말 끔찍한 존재입니다. 그는
 cut_janthos,dlg,EntryList/23/Text,0,-1,그건 좀 과한 것 같아!
 cut_janthos,dlg,EntryList/24/Text,0,-1,"살인은 알리아야, 참으로 무거운 짓일세. 특히 백 번의 살인은 더욱 그렇다! 스포츠로 살인하는 자들에게는 한 번도 연민을 느끼지 않아... 하지만 어두운 짓거리에 대해 더 이상 이야기하기는 싫네. 그것만은 정말 심하게 떠들썩하네. <FirstName>아, 더 궁금한 것이 있나?"
 cut_janthos,dlg,EntryList/25/Text,0,-1,"<FirstName>님, 야키르는 반란자이자 가장 혐오스러운 범죄자입니다. 그는 영원히 모든 자유와 권리를 박탈당하고 감옥에 갇혀 있어야 합니다. 저는 그를 라카의 보호 아래에 두는 것이 좋다고 생각합니다."
-cut_janthos,dlg,EntryList/26/Text,0,-1,"그게 뭐였나!? 정신을 방치하고 아카데미를 모욕한 거야! 왜 그렇게 뻔뻔하게 굴고 싶어, <FirstName>?"
+cut_janthos,dlg,EntryList/26/Text,0,-1,"대체 무슨 짓이야!? 영혼을 놓아주고 아카데미를 모욕했잖아! 왜 그렇게 오만하게 굴어야 하는 거야, <FirstName>?"
 cut_janthos,dlg,EntryList/27/Text,0,-1,"이 많은 것을 우리에게 준 분을 모욕하지 말라. 나의 자리가 너의 어리석음을 비난하는 것은 아니지만, 확실하게 말씀드리면, 네 아버지께서 이 소식을 들으실 것이라."
 cut_janthos,dlg,EntryList/28/Text,0,-1,"글쎄, 결정을 내린 모양이군. 영혼은 자유로워졌어. 네 판단에 동의하진 않지만, 야키르의 운명은 내가 아니라 네가 결정할 몫이었지."
 cut_janthos,dlg,EntryList/29/Text,0,-1,이... 나는 네 말을 이해합니다. 그가 한 일로 인해 영원히 고통받게 될 거라고는 확신합니다. 하지만 여전히 그가 지옥에서 주는 모든 고통보다 더한 처벌을 받아야 한다고 생각합니다...
@@ -337,7 +337,7 @@ familiar,dlg,ReplyList/9/Text,0,58479,네가 다른 일을 해야 해.
 ghaar_alia,dlg,EntryList/1/Text,0,-1,"이릴륨 크리스탈에 내린 매력은  ⁇ 토스의 골렘을 크게 약화시켰고, 그리고 그 모든 크림슨 추종자들에 의해 판단하면"
 ghaar_alia,dlg,EntryList/10/Text,0,-1,"이릴륨 크리스탈은 결국 다른 돌들처럼, 그리고 저들에게 영향을 줄 마법이나 두 마리를 알고 있습니다. 그들은 고렘들을 파괴하지는 않을 겁니다. 하지만 적어도 조금 덜 위험해 줄 것입니다."
 ghaar_alia,dlg,EntryList/11/Text,0,-1,"만약 당신이 그렇게 한다면, 시민 <LastName>, 당신이 해야 할 일이 있다면, 가서 해라."
-ghaar_alia,dlg,EntryList/12/Text,0,-1,<StartAction>[알리아는 크리스탈들을 손에 들고 마법의 말을 한다. 그녀는 약간의 먼지를 뿌려 돌들이 잠시 구름처럼 흐르기 전에 다시 자연색으로 돌아간다.]</Start>
+ghaar_alia,dlg,EntryList/12/Text,0,-1,"<StartAction>[알리아가 크리스탈을 손에 쥐고 마법의 말을 읊조린다. 약간의 가루도 뿌리자, 돌들이 잠시 뿌옇게 흐려졌다가 본래 색으로 돌아온다.]</Start> 자, 이러면 될 거예요."
 ghaar_alia,dlg,EntryList/13/Text,0,-1,잔토스의 실험에 대한 소식은 없나요?
 ghaar_alia,dlg,EntryList/14/Text,0,-1,토스는 자신의 고렘에 대해 뭐라고 말했는지 말해봐.
 ghaar_alia,dlg,EntryList/15/Text,0,-1,"<StartAction>[알리아가 당신을 의심스럽게 바라보고 있지만 문제가 떨어지는 것처럼 보입니다.]</Start> 만약 당신이 그렇게 말하면, 시민<LastName>. 만약 당신이 할 일이 있다면, 당신은 가서 그것을하는 것이 좋습니다."
@@ -661,11 +661,11 @@ ghaar_cont_stone,dlg,ReplyList/24/Text,0,-1,<StartAction> [손을 오른쪽 룬�
 ghaar_cont_stone,dlg,ReplyList/25/Text,0,-1,<StartAction> [중쪽 룬에 손을 올려.] </Start>
 ghaar_cont_stone,dlg,ReplyList/26/Text,0,-1,<StartAction>[손을 왼쪽 룬에 올려.]</Start>
 ghaar_cont_stone,dlg,ReplyList/27/Text,0,-1,<StartAction>[이 룬을 현재 위치에 두라.]</Start>
-ghaar_cont_stone,dlg,ReplyList/28/Text,0,-1,<StartAction>[루나를 위치 9에 옮기]</Start>
+ghaar_cont_stone,dlg,ReplyList/28/Text,0,-1,<StartAction>[룬을 위치 9로 옮긴다.]</Start>
 ghaar_cont_stone,dlg,ReplyList/29/Text,0,-1,<StartAction>[루나를 위치 8에 옮기]</Start>
 ghaar_cont_stone,dlg,ReplyList/30/Text,0,-1,<StartAction>[루나를 위치7로 옮기]</Start>
 ghaar_cont_stone,dlg,ReplyList/31/Text,0,-1,<StartAction>[루나를 위치 6에 옮기]</Start>
-ghaar_cont_stone,dlg,ReplyList/32/Text,0,-1,<StartAction>[루나를 위치 5로 이동]</Start>
+ghaar_cont_stone,dlg,ReplyList/32/Text,0,-1,<StartAction>[룬을 위치 5로 옮긴다.]</Start>
 ghaar_cont_stone,dlg,ReplyList/33/Text,0,-1,<StartAction>[루나를 위치4로 옮기]</Start>
 ghaar_cont_stone,dlg,ReplyList/34/Text,0,-1,<StartAction>[루나를 위치 3에 옮기]</Start>
 ghaar_cont_stone,dlg,ReplyList/35/Text,0,-1,<StartAction>[루나를 위치 2에 옮기]</Start>
@@ -732,7 +732,7 @@ ghaar_ganolin,dlg,EntryList/15/Text,0,-1,<StartAction>[가놀린이 다리 위�
 ghaar_ganolin,dlg,EntryList/16/Text,0,-1,"빠르게, <FirstName>! 너무 늦기 전에 부두로 도망쳐!"
 ghaar_ganolin,dlg,EntryList/17/Text,0,-1,"<< 소유자의 저널 검색을 ""JT_ST_1_MAIN""로 설정합니다 >>"
 ghaar_ganolin,dlg,EntryList/18/Text,0,-1,"<< ""N_TALK_SWITCH""를 활성화하면 ""N_MODULE_STAGE""는 1. >>"
-ghaar_ganolin,dlg,EntryList/19/Text,0,-1,"<StartAction>[가노린, 시장지방의 황제 공무원, 당신의 접근을 환영합니다.]</Start> 선생님 <Sir/Madam> <FullName>님, 반갑습니다. 시장지방에서의 체류가 즐거우시길 바랍니다. 어려움을 피하시길 바랍니다."
+ghaar_ganolin,dlg,EntryList/19/Text,0,-1,"<StartAction>[시장 구역의 제국 장교 가노린이 당신이 다가오자 경례한다.]</Start> 안녕하십니까, <Sir/Madam> <FullName>. 시장 구역 체류가 즐거우시길, 그리고 말썽은 피하시길 바랍니다."
 ghaar_ganolin,dlg,EntryList/2/Text,0,-1,"<StartAction>[It seems Officer Ganolin is about to say more, but suddenly, his eyes roll upwards into his head, and his breath grows still... It seems you will now have to find your way to the Docks on your own...]</Start>"
 ghaar_ganolin,dlg,EntryList/20/Text,0,-1,What can I do for you this <quarterday>?
 ghaar_ganolin,dlg,EntryList/21/Text,0,-1,"원하는 대로 <Sir/Madam> <FirstName>, 필요하면 알려줘"
@@ -1195,7 +1195,7 @@ ghaar_mikel,dlg,EntryList/13/Text,0,-1,"<StartAction> </Start> 넌 힘든 거래
 ghaar_mikel,dlg,EntryList/14/Text,0,-1,"우수한, 나와 내 사람들을 따라와, 우리는 당신을 안전으로 인도할 것입니다."
 ghaar_mikel,dlg,EntryList/15/Text,0,-1,<StartAction>[미켈의 표정은 혼란스러워 보이지만 그는 천천히 머리를 숙이고 있습니다.]</Start>
 ghaar_mikel,dlg,EntryList/16/Text,0,-1,"<StartAction>[Mikel's lip turns down in a snarl.]</Start> Tell me, <lad/lass>... why should I not slay you where you stand? After all, you did turn me over to the Imperial guards, did you not?"
-ghaar_mikel,dlg,EntryList/17/Text,0,-1,"<StartAction>[미켈의 눈은 분노로 어두워진다.]</Start> 저는 타르가 할 수 없었던 일을 끝내야 할 것 같습니다... 오, 내 경호원들! 이 멍청이가 미켈 라벤클라와 대결하는 결과를 보여주자!"
+ghaar_mikel,dlg,EntryList/17/Text,0,-1,"<StartAction>[미켈의 눈이 분노로 어두워진다.]</Start> 잔타르가 끝내지 못한 일을 내가 끝내야 할 것 같군... 가자, 내 호위병들! 미켈 래븐클로를 거스르면 어떻게 되는지 이 멍청이에게 보여 주자!"
 ghaar_mikel,dlg,EntryList/18/Text,0,-1,"<StartCheck>[실패]</Start> 네, 그리고 난 널 살게 해서는 안 돼!"
 ghaar_mikel,dlg,EntryList/19/Text,0,-1,"<StartAction>[성공] [미켈이 당신의 말을 고려하는 것 같습니다.]</Start> 나는 당신의 말이 맞는 것 같아요... 이 어둠의 순간에는 과거의 갈등을 접어두자, 어때?"
 ghaar_mikel,dlg,EntryList/2/Text,0,-1,판사 오카리스 <LastName>의 <CUSTOM6001>가 <his/her>를 우리 쉼터로 데려온 것 같군
@@ -1247,7 +1247,7 @@ ghaar_mikel,dlg,EntryList/60/Text,0,-1,"<< 소유자의 저널 검색을 ""JT_PR
 ghaar_mikel,dlg,EntryList/7/Text,0,-1,"<StartAction>[미켈의 눈이 어두워지고, 그는 거구의 경호원들을 향해 손짓합니다.]</Start> 오, 경호관들아! 이 아이에게 미켈 레이븐클라우드를 위협하는 결과를 보여주리라!"
 ghaar_mikel,dlg,EntryList/8/Text,0,-1,"그럼 운이 좋지 않은데, 젊은 친구... 우리들이 아직 물품을 모으고 있어 생각 바꾸려면 시간이 좀 더 있어"
 ghaar_mikel,dlg,EntryList/9/Text,0,-1,"<StartAction>[미켈은 당신의 말에 지루한 표정을 짓고 있다.]</Start> 당신이 원하는 대로 해, <lad/lass>. 이제, 중요한 일이 있어서 자신의 목숨을 구하는 데 정신이 없다. 따라서 용서해달라."
-ghaar_mikel,dlg,ReplyList/11/Text,0,-1,"<StartAction>[]</Start> 오세요, 미켈... 당신은 저를 여기서 죽게 내버려두지 않을 거라고, 아니겠습니까?"
+ghaar_mikel,dlg,ReplyList/11/Text,0,-1,"<StartAction>[설득]</Start> 이러지 말아요, 미켈... 설마 저를 여기서 죽게 내버려 두진 않겠죠, 그렇죠?"
 ghaar_mikel,dlg,ReplyList/12/Text,0,-1,그럼 가자
 ghaar_mikel,dlg,ReplyList/13/Text,0,-1,"<StartAction>[]</Start> 100골드만 주고, 더는 안 줄 거야!"
 ghaar_mikel,dlg,ReplyList/14/Text,0,-1,그럼 가자
@@ -1297,7 +1297,7 @@ ghaar_mylok,dlg,EntryList/12/Text,0,-1,"물론, 금이 충분하다면 75골드 
 ghaar_mylok,dlg,EntryList/13/Text,0,-1,그럼 운이 없나 봐...
 ghaar_mylok,dlg,EntryList/14/Text,0,-1,"<StartCheck>[실패]</Start> 그렇지 않아, 친구여. 75골드를 주지 않으면 거래는 성립되지 않아."
 ghaar_mylok,dlg,EntryList/15/Text,0,-1,"<StartAction>[성공]</Start> 50골드 조각이면 충분할 것 같네요.<StartAction>[금을 대가로, 미록은 미노타우로스 가한의 영혼 브루치를 넘겨주었습니다.]</Start>"
-ghaar_mylok,dlg,EntryList/16/Text,0,-1,"<StartAction>[황금 조각의 대가로 밀록이가 칸의 영혼 브루치를 넘겨주었다.]</Start> 이제, 만약 우리의 거래가 끝나면, 제 존재 앞에서 제국의 냄새를 지우시겠습니까!"
+ghaar_mylok,dlg,EntryList/16/Text,0,-1,"<StartAction>[금화를 받고 마일록이 간에게 속한 영혼 브로치를 넘겨준다.]</Start> 자, 우리 거래가 끝났다면 그 제국의 악취를 내 앞에서 치워 주시겠소!"
 ghaar_mylok,dlg,EntryList/17/Text,0,-1,"<< ""N_TALK_SWITCH""를 활성화하면 ""N_MODULE_STAGE""는 0이 됩니다. >>"
 ghaar_mylok,dlg,EntryList/18/Text,0,-1,"<< 이 대화 노드는 ""N_TALK_SWITCH"" 변수를 다시 설정하는 것 외에는 아무것도 하지 않습니다 >>"
 ghaar_mylok,dlg,EntryList/2/Text,0,-1,<StartAction>[두두막을 쓴 범인은 좀 의심스럽게 바라보고 있습니다.]</Start> 내가...
@@ -1315,7 +1315,7 @@ ghaar_mylok,dlg,ReplyList/10/Text,0,-1,"""영혼 브루치""라고 불리는 마
 ghaar_mylok,dlg,ReplyList/11/Text,0,-1,내가 너한테 브루쉬를 사줄까?
 ghaar_mylok,dlg,ReplyList/12/Text,0,-1,이제 그런 금은 없어.
 ghaar_mylok,dlg,ReplyList/13/Text,0,-1,<StartAction>[ 떠나.]</Start>
-ghaar_mylok,dlg,ReplyList/14/Text,0,-1,<StartAction>[설득]</Start> 50골드로 어때? 나는 그런 목걸이에겐 충분히 많은 돈이라고 생각해.
+ghaar_mylok,dlg,ReplyList/14/Text,0,-1,<StartAction>[설득]</Start> 50골드 어때? 그런 브로치치고는 충분히 많은 돈이라고 생각해.
 ghaar_mylok,dlg,ReplyList/16/Text,0,-1,Here's the 75 gold. <StartAction>[Hand the gold over to Mylok.]</Start>
 ghaar_mylok,dlg,ReplyList/2/Text,0,-1,<StartAction>[위협]</Start> 나는 영혼 브루치를 가져오러 왔어; 지금 당장 나에게 주어라!
 ghaar_mylok,dlg,ReplyList/5/Text,0,-1,<StartAction>[관찰] [마일록이 브로치를 가지고 있는지 알아보려 한다.]</Start>
@@ -1343,7 +1343,7 @@ ghaar_ruknar,dlg,EntryList/5/Text,0,-1,"아, 내가 아는 한... 한 주 동안
 ghaar_ruknar,dlg,EntryList/6/Text,0,-1,"<StartCheck>[실패]</Start><StartAction>[드워프가 의심스럽게 당신을 쳐다본다.]</Start> 우리는 보통 방 열쇠를 주지는 않아, 네가 알다시피."
 ghaar_ruknar,dlg,EntryList/7/Text,0,-1,"당신의 말씀대로, <lad/lass>."
 ghaar_ruknar,dlg,EntryList/8/Text,0,-1,"<StartCheck>[실패]</Start> <StartAction>[The Dwarf glowers angrily at you.]</Start> I'm going to have to ask you to leave now, <lad/lass>. I don't take kindly to thieves around here..."
-ghaar_ruknar,dlg,EntryList/9/Text,0,-1,<StartAction>[성공]</Start> <StartAction>[당신은 실수를 눈치채지 못한 오너에게 숨기고 책상에서 키를 훔칩니다... 빠르게 키를 주머니에 넣고 그를 허리를 흔들며 작별 인사를 합니다.]</Start>
+ghaar_ruknar,dlg,EntryList/9/Text,0,-1,<StartAction>[성공]</Start> <StartAction>[여관 주인이 눈치채지 못하게 책상에서 열쇠를 슬쩍한다... 재빨리 주머니에 넣고 작별 인사를 건넨다.]</Start>
 ghaar_ruknar,dlg,ReplyList/1/Text,0,-1,지금은 아무것도 없어...
 ghaar_ruknar,dlg,ReplyList/10/Text,0,-1,<StartAction>[소매치기]</Start> <StartAction>[ruknar의 키를 빼려고 시도합니다.]</Start>
 ghaar_ruknar,dlg,ReplyList/12/Text,0,-1,<StartAction>[설득]</Start> 50골드로 생각을 바꾸실 거라고 확신합니다.
@@ -1359,7 +1359,7 @@ ghaar_ruknar,dlg,ReplyList/28/Text,0,-1,"<< 소유자의 일기 탐색을 ""JT_P
 ghaar_ruknar,dlg,ReplyList/3/Text,0,-1,여기서 뭘 제안할 수 있나?
 ghaar_ruknar,dlg,ReplyList/5/Text,0,-1,예쁜 엘프 여자를 찾고 있어.
 ghaar_ruknar,dlg,ReplyList/6/Text,0,-1,"네, 도움 주셔서 고마워."
-ghaar_ruknar,dlg,ReplyList/7/Text,0,-1,<StartAction>[]</Start> 그녀의 방 열쇠를 얻을 수 있나요?
+ghaar_ruknar,dlg,ReplyList/7/Text,0,-1,<StartAction>[설득]</Start> 그녀의 방 열쇠를 좀 받을 수 있을까요?
 ghaar_ruknar,dlg,ReplyList/8/Text,0,-1,나는 그 말을 잊어보시면 좋을 것 같습니다... 그냥 내가 말한 걸 잊어버리세요.
 ghaar_rvnclw_grd,dlg,EntryList/1/Text,0,-1,미켈과 얘기해. 그는 여기서 사업을 한다.
 ghaar_rvnclw_grd,dlg,EntryList/10/Text,0,-1,"<StartAction>[큰 하프오크가 당신을 자세히 살펴보며 혼란스러운 표정을 짓습니다.]</Start> 당신은 익숙해 보이고, 찾는 사람 같군요... 당신이 무엇을 원하는지 말해봐."
@@ -1388,7 +1388,7 @@ ghaar_rvnclw_grd,dlg,EntryList/30/Text,0,-1,"<< 소유자의 저널 검색을 ""
 ghaar_rvnclw_grd,dlg,EntryList/4/Text,0,-1,죽음이 황제 놈에게!
 ghaar_rvnclw_grd,dlg,EntryList/5/Text,0,-1,<StartAction> [하프오크는 조용히 서 있다. 그는 당신에게 말할 것이 거의 없어 보인다...] </Start>
 ghaar_rvnclw_grd,dlg,EntryList/6/Text,0,-1,"<StartAction>[반오크 경비원은 제국 군인들에게 체포당한 것에 매우 기뻐하지 않는 것 같아서 당신을 노려봅니다.]</Start> 미켈이 당신을 처리할 거야, 작은 <man/woman>!"
-ghaar_rvnclw_grd,dlg,EntryList/7/Text,0,-1,"<StartAction>[너가 접근할 때, 문을 지키고 있는 하프오크가 큰 근육이 부어있는 야만인으로 보인다. 그의 손에 든 거대한 막대기는 그동안 많은 싸움을 친 것 같아 보인다...]</Start>"
+ghaar_rvnclw_grd,dlg,EntryList/7/Text,0,-1,<StartAction>[다가가자 문을 지키는 하프오크가 덩치 크고 근육질인 우락부락한 사내임을 알아본다. 그의 손에 든 거대한 도끼는 세월 동안 꽤 많은 싸움을 겪은 듯하다...]</Start>
 ghaar_rvnclw_grd,dlg,EntryList/8/Text,0,-1,"아무 말도 안 해, 미켈 라벤클라우에게 가서 얘기해"
 ghaar_rvnclw_grd,dlg,EntryList/9/Text,0,-1,"나 thought 나는 다시 여기에 오지 말라고 말했잖아! 왜 넌 안 들었어... <StartAction>[갑자기, 하프오크는 문장 중간에 멈추더니 너를 노려보았다.]</Start> 한 순간만 기다려."
 ghaar_rvnclw_grd,dlg,ReplyList/10/Text,0,-1,"다시 생각해보니, 나는 금을 내주기로 하지 않으려는 마음이 든 것 같다."
@@ -2244,7 +2244,7 @@ hench_lyen,dlg,ReplyList/126/Text,0,-1,200골드면 거래가 되죠.
 hench_lyen,dlg,ReplyList/128/Text,0,-1,나는 도와줄 것이지만 보상은 필요없어.
 hench_lyen,dlg,ReplyList/13/Text,0,-1,그리고 이 하콘은 지금 어디에 있나?
 hench_lyen,dlg,ReplyList/130/Text,0,-1,"공평하다, 도와줄게."
-hench_lyen,dlg,ReplyList/132/Text,0,-1,마르키우스? 당신은 저를 만날 사람으로 가르비스 선생님께서 보내주신 분이군요.
+hench_lyen,dlg,ReplyList/132/Text,0,-1,마르키우스? 자비스 교관님이 만나라고 보내신 분이 당신이군요.
 hench_lyen,dlg,ReplyList/134/Text,0,-1,당신의 재고를 관리하고 싶습니다.
 hench_lyen,dlg,ReplyList/136/Text,0,55683,저는 지금 서로 다른 길을 가는 것이 좋다고 생각합니다.
 hench_lyen,dlg,ReplyList/142/Text,0,-1,함정을 비활성화하지 않을까요?
@@ -2286,7 +2286,7 @@ hench_lyen,dlg,ReplyList/66/Text,0,-1,"네, 그리고 제 도움에 대한 보�
 hench_lyen,dlg,ReplyList/68/Text,0,-1,가라크가 노예가 없는 것을 보고 기쁘다.
 hench_lyen,dlg,ReplyList/70/Text,0,-1,"도와주셔서 감사했어요, 마르키우스..."
 hench_lyen,dlg,ReplyList/8/Text,0,-1,꼭 필요한 것 같아. 가자.
-hench_lyen,dlg,ReplyList/81/Text,0,-1,"나가 할 수 있는 모든 걸 해봤어, 마르키우스."
+hench_lyen,dlg,ReplyList/81/Text,0,-1,"할 수 있는 건 다 했어, 마르키우스. 이제 네 힘으로 해야 해."
 hench_lyen,dlg,ReplyList/83/Text,0,-1,만약 가격이 맞다면 도와줄 수 있을 거예요.
 hench_lyen,dlg,ReplyList/84/Text,0,-1,왜 직접 가지지?
 hench_lyen,dlg,ReplyList/85/Text,0,-1,"네, 내가 도와줄게"
@@ -2796,7 +2796,7 @@ hench_tarin,dlg,EntryList/140/Text,0,-1,네 아버지께서 이 지역에서 전
 hench_tarin,dlg,EntryList/141/Text,0,-1,"음, 당신은 확실히 나쁜 기분처럼 보이지만... 어쩌면 당신은 짐을 덜어주고 카드 게임에 우리와 함께해야합니다. 우리는 우리의 테이블에 이렇게 명예의 손님을 가지고 싶습니다."
 hench_tarin,dlg,EntryList/142/Text,0,-1,"Well, it certainly is a pleasure to meet you, <FirstName>. Would you care to join us for a game of cards? We would be quite honored to have such a well-mannered young <man/woman> join us for a bit."
 hench_tarin,dlg,EntryList/143/Text,0,-1,"<StartAction>[타린은 옆의 빈 좌석으로 움직이고, 다시 카드로 돌아갑니다.]</Start>"
-hench_tarin,dlg,EntryList/144/Text,0,-1,"<StartAction>[빨리발을 한 몇 분 만에 타린은 두 명의 큰 상대들을 물리치고 테이블에 올라온 상당한 베팅을 모았습니다.]</Start> 죄송합니다, 선생님들, 하지만 이번에도 또 다시 여러분들을 속이게 되었습니다!"
+hench_tarin,dlg,EntryList/144/Text,0,-1,"<StartAction>[몇 분간 레드헤드를 한 끝에 타린이 덩치 큰 두 상대를 이기고 탁자 위에 불어난 상당한 판돈을 쓸어 담는다.]</Start> 미안하네, 양반들, 또 내가 한 수 앞섰군!"
 hench_tarin,dlg,EntryList/145/Text,0,-1,<FirstName>! 새 친구들 사이에서 편안하게 지내세요! <StartAction>[타린이 당신이 테이블에 그의 옆에 앉으라고 요청합니다.]</Start>
 hench_tarin,dlg,EntryList/146/Text,0,-1,"<StartAction>[타린이 카드 덱을 인상적일 만큼 빠르게 섞는다.]</Start> 게임 이름은 레드헤드야, <FirstName>. 한동안 하고 있었지만 필요하면 규칙을 다시 설명해 줄 수 있어."
 hench_tarin,dlg,EntryList/147/Text,0,-1,"레드헤드는 이렇게 합니다. 먼저 5골드를 걸고 시작해요. 제가 각 플레이어에게 카드 두 장을 나눠 줍니다. 한 장은 엎어 두고, 한 장은 모두가 볼 수 있게 펼쳐 둡니다."
@@ -3912,7 +3912,7 @@ sc_st_0_open_1,dlg,EntryList/12/Text,0,-1,"라카가 속임수와 침투의 기�
 sc_st_0_open_1,dlg,EntryList/13/Text,0,-1,"그 중에도 땀을 흘리지 못했어요... <StartAction>[반작의 입은 무늬의 미소로 튀어나오지만, 다른 승려 경호가 고스란히 하일리르의 아내와 자식 쪽으로 이동하는 것을 알면서 사라집니다...]</Start>"
 sc_st_0_open_1,dlg,EntryList/14/Text,0,-1,마키오스! 뒤를 보세요! 예언자의 동역자들이 더 있다는 것 같아요!
 sc_st_0_open_1,dlg,EntryList/15/Text,0,-1,"뒤로 물러서, 바보들이, 아니면 여자와 아이의 목을 베리라!"
-sc_st_0_open_1,dlg,EntryList/16/Text,0,-1,"<StartAction>[갑자기, 타린 라이트핑거즈 옆에 서 있는 키가 큰 남자가 놀라운 속도로 칼을 뽑아들고, 그것을 날아가며 사기적인 경비원의 목에 찔러 넣는다.]</Start>"
+sc_st_0_open_1,dlg,EntryList/16/Text,0,-1,"<StartAction>[갑자기 타린 라이트핑거스 옆에 서 있던 키 큰 남자가 소름 끼치게 빠른 솜씨로 단검을 뽑아 던지고, 단검은 허공을 날아 배신자 경비병의 목에 둔탁한 소리를 내며 꽂힌다.]</Start>"
 sc_st_0_open_1,dlg,EntryList/17/Text,0,-1,"<StartAction> [이 귀족 여인은 눈에 띄게 흔들리고, 그녀의 당시에 구출자를 향해 두려워하는 눈을 돌립니다.] </Start> I... th... 감사합니다, 선생님..."
 sc_st_0_open_1,dlg,EntryList/18/Text,0,-1,"<StartAction>[발이 높은 남자가 머리를 끄덕이며.]</Start> 당신의 딸을 안전한 곳으로 데려가주십시오, 마님. 제 동료들과 저는 당신의 남편이 안전함을 보장하겠습니다."
 sc_st_0_open_1,dlg,EntryList/19/Text,0,-1,"네... 네, 물론이죠... 가자... 가자, 셀라... 이 좋은 분들이 아빠를 잘 보살펴 주실 거야... 자... 자, 어서 가자, 얘야..."

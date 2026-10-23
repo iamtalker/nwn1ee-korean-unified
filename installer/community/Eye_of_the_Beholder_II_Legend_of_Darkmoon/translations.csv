@@ -234,7 +234,7 @@ eb_chk_body,dlg,EntryList/1/Text,0,"<StartCheck>[성공]</Start><StartAction> �
 eb_chk_body,dlg,EntryList/2/Text,0,"<StartCheck>[실패]</Start> <StartAction>유물을 신중하게 조사한 후, 이 사람을 죽인 이유를 알아낼 수 없었습니다.</Start>"
 eb_chk_body,dlg,EntryList/3/Text,0,"<StartCheck>[성공]</Start><StartAction> 유골을 면밀히 조사한 후, 많은 뼈가 깨지고 큰 물린 흔적이 있는 것을 발견하면, 이 사람이 늑대가 공격하고 죽였다는 결론에 도달합니다</Start>"
 eb_chk_body,dlg,ReplyList/0/Text,0,<StartAction> 잔해들을 혼자 두고 가세요? </Start>
-eb_chk_body,dlg,ReplyList/1/Text,0,<StartCheck>[문자 해독]</Start> <StartAction>유물의 문장을 알아보려고 시도?</Start>
+eb_chk_body,dlg,ReplyList/1/Text,0,<StartCheck>[문자 해독]</Start> <StartAction>유해의 정체를 알아보려 시도할까?</Start>
 eb_chk_body,dlg,ReplyList/3/Text,0,<StartCheck>[Lore]</Start>#<StartAction># 유물을 조사하려고 시도했나요?</Start>
 eb_chk_lockpick,dlg,EntryList/0/Text,0,<StartAction> 이상하게 보이는 구금쇠가 있습니다. 더 많은 연구로 그 잠금쇠를 뽑을 수 있는지 확인할 수 있습니다.</Start>
 eb_chk_lockpick,dlg,EntryList/2/Text,0,"<StartCheck>[실패]</Start> <StartAction>잠금 메커니즘을 신중히 조사한 후, 어떤 종류의 잠금인지 판단할 수 없었고, 잠금을 여는 방법을 찾지 못했습니다.</Start>"
@@ -799,7 +799,7 @@ eb_hen_amber,dlg,ReplyList/1013/Text,0,"아니, 지금은 아니요, 나중에 �
 eb_hen_amber,dlg,ReplyList/1014/Text,0,"네, 부탁합니다. 이제 충분히 기다렸습니다."
 eb_hen_amber,dlg,ReplyList/1015/Text,0,계속...
 eb_hen_amber,dlg,ReplyList/1022/Text,0,"제발 그만해, 오늘은 당신의 이야기를 충분히 들었나 보다."
-eb_hen_amber,dlg,ReplyList/1023/Text,0,계속해 보겠습니다. 당신은 저를 중독시켰습니다. 드워프들이 도움을 제안했을 때 무슨 일이 있었을까요? 그들이 포털 네트워크를 통해 졸음을 추적했나요? 아니면 다른 무언가가 당신을 방해했나요?
+eb_hen_amber,dlg,ReplyList/1023/Text,0,"계속해 봅시다, 당신 이야기에 푹 빠졌어요. 드워프들이 도움을 제안한 뒤에는 어떻게 됐나요? 포털 네트워크를 통해 드로우를 쫓았나요, 아니면 다른 무언가가 길을 막았나요?"
 eb_hen_amber,dlg,ReplyList/1035/Text,0,"솔직히 말해, 저는 정말로 말을 잃은 것 같아. 그 이야기를 들었지만, 항상 그냥 소문이라고 생각했지. 재미를 위해 만들어진 이야기라고 생각했어. 직접적으로 들었을 때는 저를 겸손하게 만들었어. 여행을 공유해주셔서 고마워. 정말 전설에 걸맞는 이야기야."
 eb_hen_amber,dlg,ReplyList/1036/Text,0,"그래, 가자"
 eb_hen_amber,dlg,ReplyList/1037/Text,0,저는 젠타임에 대해 더 알고 싶습니다. 그들은 정확히 누구인가요?
@@ -1511,7 +1511,7 @@ eb_hen_ileria,dlg,ReplyList/2/Text,0,"이레리아, 하지만 지금은 성직�
 eb_hen_ileria,dlg,ReplyList/3/Text,0,"안녕, 이레리아."
 eb_hen_ileria,dlg,ReplyList/4/Text,0,"정말, 신성한 힘이 당신을 지켜보고 있습니다."
 eb_hen_ileria,dlg,ReplyList/5/Text,0,"잘 됐어, 그럼, 가자."
-eb_hen_ileria,dlg,ReplyList/17/Text,0,"""네, 왜 난쟁이 홀로 돌아가지 않으려나?"""
+eb_hen_ileria,dlg,ReplyList/17/Text,0,"""그래, 난쟁이 전당으로 돌아가는 게 어때."""
 eb_hen_ileria,dlg,ReplyList/25/Text,0,"네, 가셔야 합니다."
 eb_hen_ileria,dlg,ReplyList/136/Text,0,"""아니, 지금은 여기까지야."""
 eb_hen_ileria,dlg,ReplyList/291/Text,0,"그래, 가자"
@@ -2383,7 +2383,7 @@ eb_hen_shorn,dlg,EntryList/351/Text,0,"저는 확신하면서 그 성전을 처�
 eb_hen_shorn,dlg,EntryList/352/Text,0,"<Laddie/Lassie>, 클랑게디인 실버비어드, 전투와 명예의 드워프 신은 배신이나 속임수에 대한 인내심이 없습니다. 내가 잠자리에 있는 동안 나를 감옥에 감금한 용기를 한 겁쟁이 사제들의 영혼을 저주해 주시기를 바랍니다!"
 eb_hen_shorn,dlg,EntryList/353/Text,0,"""워터딥, 맞아... 하지만 정확한 도시는 아니야. 우리는 그 도시 아래에 오래전에 조각된 터널과 홀에서 살고 있어. 우리 족은 그레이 피크 산맥에서 추방된 후 여기로 왔어. 우리의 고향이 불과 배신으로 인해 잃어버린 곳이었지."""
 eb_hen_shorn,dlg,EntryList/354/Text,0,"""그렇게"" 그는 ""우리는 시작한다"". ""그건 내 <lad/lass>입니다. ""그건 이야기에서 긴 이야기이지만, 나는 그것을 간략하게 하려고 노력하겠다. 당신은 알다시피, 이제 몇 달 동안 나는 고대, 그림자화된 성전의 꿈-비전으로 괴롭혔습니다. 어둠 속에 감싸고 신비로 가득했습니다."
-eb_hen_shorn,dlg,EntryList/355/Text,0,"저는 성전을 찾아가야 한다는 강한 느낌에 몰려 성벽 안으로 어두운 무언가가 숨어 있을 것이라는 생각에 이끌렸습니다. 저주받은 곳으로 며칠을 여행하며 모든 곳에서 위험을 기대했지만, 도착했을 때는 악한 기운의 흔적조차 없었습니다. 반면, 여관을 환영하는 개방적인 신사들의 모습만이 보였습니다."
+eb_hen_shorn,dlg,EntryList/355/Text,0,"저는 그 사원에 어두운 무언가가 도사리고 있다는 느낌에 이끌려 찾아가지 않을 수 없었습니다. 저주받은 곳에 닿기까지 며칠을 여행하며 모퉁이마다 위험을 예상했죠. 하지만 도착해 보니 악의 흔적은 전혀 없고, 여행자를 두 팔 벌려 맞아 주는 성직자 무리뿐이었습니다."
 eb_hen_shorn,dlg,EntryList/356/Text,0,"""이 성전이 꿈에서 본 것과 확신이 들었음에도 불구하고, 외부에서 악의의 징후를 발견하지 못했다. 토지를 간단히 살펴보았지만, 이상하거나 악한 징후는 발견되지 않았다. 이에 꿈이 다른 의미를 가지고 있음을 의심하기 시작했다. 아마도 나는 여기 오는 목적은 악과 대결하기 위해서가 아니라, 아직 도착하지 않은 악한 힘을 물리치기 위해 교사들에게 도움을 주기 위함일 것이다."""
 eb_hen_shorn,dlg,EntryList/357/Text,0,"아니, 저들은 저주받은 장소의 벽 안에 머물게 초대했습니다. 그리고 콧수염 없는 겁쟁이들은 저를 기다리고, 저를 성전에서 잘 수 있게 믿으며 방치했습니다."
 eb_hen_shorn,dlg,EntryList/358/Text,0,"그들은 나에게 어떤 종류의 마법을 걸었나 보다 - 나는 그들이 무엇을 했는지 전혀 몰랐다. 그러나 깨어났을 때, 나는 그 세포에 갇혀 있었다. 저주를, 두 얼굴의 사제들! ""조른은 땅에 뱉어, 그의 눈은 분노로 불타는""."
@@ -2579,7 +2579,7 @@ eb_hen_tanglor,dlg,EntryList/25/Text,0,"<StartAction>""그는 당신을 쳐다�
 eb_hen_tanglor,dlg,EntryList/26/Text,0,"<StartAction>그는 대답합니다.</Start> ""그리고 나는 시험에 도전할 용기 있는 유일한 사람이었다고 생각했어요. 실제로 당신은 내 동행에 가치가 있습니다. 당신의 파티에 합류하여 이 곳의 비열한 주주들을 제거할 수 있나요?"""
 eb_hen_tanglor,dlg,EntryList/27/Text,0,"<StartAction> 탱글러는 당신의 답변에 실망한 것 같고, 그는 당신을 이해하고 작별인사를 하고 있다고 말합니다. ""</Start>"
 eb_hen_tanglor,dlg,EntryList/30/Text,0,"""태글로르는 손을 내밀어 네 손을 흔들며, '잘 만났다, 제 이름은 탕글로르이고, 나는 문보의 전사-사제이다. 함께 이 건물에 무덤을 없애는 것을 기대한다!' """
-eb_hen_tanglor,dlg,EntryList/31/Text,0,그럼 이제 탕글러의 기술을 필요로 하나?
+eb_hen_tanglor,dlg,EntryList/31/Text,0,"그래, 이제 정신이 들었나? 이제 탱글러의 기술이 필요한가?"
 eb_hen_tanglor,dlg,EntryList/36/Text,0,우린 여기서 충분히 안전하다고 생각해.
 eb_hen_tanglor,dlg,EntryList/37/Text,0,- 잘 됐어
 eb_hen_tanglor,dlg,EntryList/38/Text,0,"그래, <Sir/Madam>!"
@@ -3555,7 +3555,7 @@ t_2_clericwarns,dlg,ReplyList/1/Text,0,"좋아, 이제 떠나자."
 t_2_eavesdrop,dlg,EntryList/1/Text,0,"<StartAction> 걱정하는 여인은 </Start> ""이 무능한 마녀! 그녀의 어리석음은 우리의 계획을 망칠 수 있다!"""
 t_2_eavesdrop,dlg,EntryList/2/Text,0,"<StartAction> 남자 목소리가 자신 있게 대답합니다. </Start> ""그 차이가 무엇인가요? 현재로선 그녀는 우리에게 잘 봉사하고 있습니다. 실제로, 최근 몇 일 동안 그녀는 우리에게 세 명의 희생자를 가져왔습니다."""
 t_2_eavesdrop,dlg,EntryList/3/Text,0,"<StartAction> 불안한 표정으로 여자는 대답했다.</Start> ""드란이 모든 것을 위험에 빠뜨리고 있다! 그녀는 참을성 없이 되레 화가 난 모양이다. 곧 희망을 포기할 것 같아. 이런 일이 일어나면, 나는 당신에게 확실히 말해두마dì, 그녀는 민병대에 알릴 것이다."""
-t_2_eavesdrop,dlg,EntryList/5/Text,0,"<StartAction> 당신은 듣습니다 여자 목소리에서 떨림이 있네요, </Start> ""물론이죠, 제 계획을 비난할 수는 없습니다. 당신이 맞습니다. 우리는 계속해야 합니다..."""
+t_2_eavesdrop,dlg,EntryList/5/Text,0,"<StartAction>여자 목소리에서 떨림이 느껴진다,</Start> ""물론이죠, 그분의 계획을 비난할 일은 없습니다. 맞아요. 우린 계속해서..."""
 t_2_eavesdrop,dlg,EntryList/6/Text,0,<StartAction>*비스퍼링#</Start>########################
 t_2_eavesdrop,dlg,ReplyList/0/Text,0,아뇨
 t_2_eavesdrop,dlg,ReplyList/1/Text,0,그렇소.
@@ -3639,7 +3639,7 @@ traven_dwarf,dlg,EntryList/8/Text,0,"현재 우리는 어디서 멈춰 있었나
 traven_dwarf,dlg,EntryList/9/Text,0,"저는 무덤을 가리키는 단어에 흥미가 있다고 확신하지는 않습니다. 어쨌든, 우리는 무덤을 통해 길을 걷고 있었고, 그리고 좋은 발전을 하고 있습니다. 그래서 우리는 이 통로로로 도착했습니다."
 traven_dwarf,dlg,EntryList/10/Text,0,"입 안에만 검은색만 보였고, 빛은 그 깊이를 관통하는 것 같지 않았다. 나드야와 하스는 죽음의 기사가 지키는 동안 문을 조사하기 시작했다. 이 여행에서 죽음의 기사와 함께했다는 걸 잊은 건가?"
 traven_dwarf,dlg,EntryList/11/Text,0,"<StartAction>노인은 잠시 웃더니 말했다.</Start> 친구야, 너무 서두르지 마. 당신의 감정을 이해하지만, 나의 설명을 들어보시오. 사전에 우리는 무덤에 들어가기 위해 마법사가 필요하다는 것을 알고 있었다. 우리가 이 작은 모험에 모집한 마법사는 죽음 기사와 함께하지 않았다면 가지 않았을 것이다."
-traven_dwarf,dlg,EntryList/12/Text,0,"처음에는 당신처럼 죽음의 기사에게 신뢰하거나 함께 여행하는 것을 느꼈지만, 이 죽음의 기사는 다른 기사였습니다. 과거 모든 악으로부터 자신을 구하려는 시도를 하고 있었으니까요. 죽음의 기사들은 떨어진 기사들입니다."
+traven_dwarf,dlg,EntryList/12/Text,0,처음에는 당신처럼 죽음의 기사를 믿거나 함께 다니는 데 거부감이 있었소. 하지만 이 죽음의 기사는 달랐소. 과거의 모든 악행을 속죄하려 애쓰고 있었으니까. 죽음의 기사들은 타락한 기사들이오.
 traven_dwarf,dlg,EntryList/13/Text,0,"이 죽음의 기사도 어떻게든 변모했고, 그는 좋은 일을 하고 싶어했습니다. 우리는 이 문제에 있어서 선택의 여지가 거의 없었습니다. 마법사는 죽음의 기사도 우리와 함께 여행한다는 것에 대해 매우 확고했습니다. 만약 그가 우리와 함께 여행하지 못한다면 마법사는 오지 않을 것입니다. 그리고 우리는 마법사가 필요했습니다. 그래서 다른 마법사가 없기 때문에 선택의 여지가 거의 없었습니다."
 traven_dwarf,dlg,EntryList/14/Text,0,"마지스는 우리에게 안전을 약속하며, 죽음의 기사를 책임진다고 했습니다. 그는 어떻게든 이 죽음의 기사가 좋은 기사라고 믿고 있었고, 진정으로 악의 길을 벗어나려고 노력하고 있었다고 말했습니다. 어쨌든, 처음에는 매우 의심스러웠습니다."
 traven_dwarf,dlg,EntryList/15/Text,0,"하지만 함께 무덤을 여행한 후, 저는 죽음의 기사들의 행동이 악이 아닌 좋은 것임을 확인했습니다. 이 부분에 대해 더 자세히 설명하고 싶지만, 신전을 통과하는 우리의 진행을 계속하는 것이 좋지 않겠습니까?"
@@ -4743,7 +4743,7 @@ area003,git,Placeable List/247/ItemList/1/DescIdentified,0,"427 일간지 입문
 마을의 잔해를 발견했습니다. 나무 건물들은 남아 있지 않지만, 석 건물들의 잔해의 배치는 내 꿈에서 본 마을과 정확히 일치합니다. 옛 마을 광장 자리에는 거구의 나무들이 자라고 있습니다. 나무들의 크기를 고려하면, 마을의 파괴는 매우 오래 전에 일어난 것 같습니다."
 area003,git,Placeable List/249/ItemList/0/LocalizedName,0,수정 키
 area003,git,Placeable List/249/ItemList/0/DescIdentified,0,"이 키는 수정을 연상하는 하나의 전체 재료로 만들어졌습니다. 손에 들고 있을 때 불편하게 가볍고, 무언가 약간 약한 것처럼 느껴집니다."
-area003,git,Placeable List/249/ItemList/1/LocalizedName,0,노란 사슬 갑옷
+area003,git,Placeable List/249/ItemList/1/LocalizedName,0,녹슨 사슬 갑옷
 area003,git,Placeable List/251/LocName,0,양탄자 용
 area004,git,Creature List/0/FirstName,0,나디아
 area004,git,Creature List/0/ItemList/0/LocalizedName,0,성직자 마스 +2
@@ -8645,7 +8645,7 @@ azuretower4south,git,Placeable List/321/ItemList/1/LocalizedName,0,머리골
 azuretower4south,git,Placeable List/321/ItemList/1/DescIdentified,0,인간형 골수는 매우 낡고 노화되어 있습니다.
 azuretower4south,git,Placeable List/326/LocName,0,타락한 모험가
 azuretower4south,git,Placeable List/326/ItemList/2/LocalizedName,0,활력의 물약
-azuretower4south,git,Placeable List/326/ItemList/3/LocalizedName,0,타론의 휘장
+azuretower4south,git,Placeable List/326/ItemList/3/LocalizedName,0,탈론의 검자루
 azuretower4south,git,Placeable List/326/ItemList/3/Description,0,"이건 어떤 무기의 검집처럼 보이고, 이것은 중요한 물건일 수도 있습니다."
 azuretower4south,git,Placeable List/326/ItemList/3/DescIdentified,0,"이건 어떤 무기의 검집처럼 보이고, 이것은 중요한 물건일 수도 있습니다."
 azuretower4south,git,Placeable List/326/ItemList/4/LocalizedName,0,머리골
@@ -8994,7 +8994,7 @@ catacombs_lv3n,git,Placeable List/46/LocName,0,던전 환영술 벽 01
 catacombs_lv3n,git,Placeable List/47/LocName,0,던전 환영술 벽 01
 catacombs_lv3n,git,Placeable List/48/LocName,0,던전 환영술 벽 01
 catacombs_lv3n,git,Placeable List/79/LocName,0,투사 유해
-catacombs_lv3n,git,Placeable List/79/ItemList/3/LocalizedName,0,노란 사슬 갑옷
+catacombs_lv3n,git,Placeable List/79/ItemList/3/LocalizedName,0,녹슨 사슬 갑옷
 catacombs_lv3n,git,Placeable List/79/ItemList/4/LocalizedName,0,스파이더 키
 catacombs_lv3n,git,Placeable List/160/ItemList/0/LocalizedName,0,너덜너덜한 쪽지
 catacombs_lv3n,git,Placeable List/160/ItemList/0/DescIdentified,0,"우리는 압력판으로 가득한 방을 찾았고, 신중하게 조사한 후 가이드 벤넷은 조합을 알아내었습니다. 그는 중간 판을 마지막으로 중화해야 하는 X 형식의 판들을 중화해야 했습니다. 벤넷은 똑똑한 가이드입니다!"
@@ -9097,10 +9097,10 @@ dmforest_north,git,Placeable List/17/LocName,0,석관
 dmforest_north,git,Placeable List/17/ItemList/0/LocalizedName,0,대형 방패 +3
 dmforest_north,git,Placeable List/17/ItemList/1/LocalizedName,0,뼈가루
 dmforest_north,git,Placeable List/17/ItemList/1/DescIdentified,0,지상이나 분쇄된 뼈.
-dmforest_north,git,Placeable List/18/ItemList/1/LocalizedName,0,노란 사슬 갑옷
-dmforest_north,git,Placeable List/19/ItemList/1/LocalizedName,0,노란 사슬 갑옷
+dmforest_north,git,Placeable List/18/ItemList/1/LocalizedName,0,녹슨 사슬 갑옷
+dmforest_north,git,Placeable List/19/ItemList/1/LocalizedName,0,녹슨 사슬 갑옷
 dmforest_north,git,Placeable List/20/ItemList/1/LocalizedName,0,썩은 가죽 갑옷
-dmforest_north,git,Placeable List/22/ItemList/1/LocalizedName,0,노란 사슬 갑옷
+dmforest_north,git,Placeable List/22/ItemList/1/LocalizedName,0,녹슨 사슬 갑옷
 dmforest_north,git,Placeable List/66/LocName,0,숨겨진 상자
 dmforest_north,git,Placeable List/109/LocName,0,표기 없는 무덤
 dmforest_north,git,Placeable List/109/Description,0,"당신은 표기되지 않은 무덤을 발견했습니다. 십자가에 적힌 글은 너무 오래되어 읽을 수 없고, 시간이 지나면서 흐려졌습니다."
@@ -9108,7 +9108,7 @@ dmforest_north,git,Placeable List/109/ItemList/1/LocalizedName,0,은 체인메�
 dmforest_north,git,Placeable List/110/LocName,0,먼지 언덕
 dmforest_north,git,Placeable List/111/LocName,0,표기 없는 무덤
 dmforest_north,git,Placeable List/111/Description,0,"당신은 표기되지 않은 무덤을 발견했습니다. 십자가에 적힌 글은 너무 오래되어 읽을 수 없고, 시간이 지나면서 흐려졌습니다."
-dmforest_north,git,Placeable List/111/ItemList/2/LocalizedName,0,노란 사슬 갑옷
+dmforest_north,git,Placeable List/111/ItemList/2/LocalizedName,0,녹슨 사슬 갑옷
 dmforest_north,git,Placeable List/112/LocName,0,표기 없는 무덤
 dmforest_north,git,Placeable List/112/Description,0,"당신은 표기되지 않은 무덤을 발견했습니다. 십자가에 적힌 글은 너무 오래되어 읽을 수 없고, 시간이 지나면서 흐려졌습니다."
 dmforest_north,git,Placeable List/112/ItemList/1/LocalizedName,0,썩은 가죽 갑옷
@@ -9119,7 +9119,7 @@ dmforest_north,git,Placeable List/115/Description,0,"당신은 표기되지 않�
 dmforest_north,git,Placeable List/115/ItemList/0/LocalizedName,0,썩은 가죽 갑옷
 dmforest_north,git,Placeable List/116/LocName,0,표기 없는 무덤
 dmforest_north,git,Placeable List/116/Description,0,"당신은 표기되지 않은 무덤을 발견했습니다. 십자가에 적힌 글은 너무 오래되어 읽을 수 없고, 시간이 지나면서 흐려졌습니다."
-dmforest_north,git,Placeable List/116/ItemList/1/LocalizedName,0,노란 사슬 갑옷
+dmforest_north,git,Placeable List/116/ItemList/1/LocalizedName,0,녹슨 사슬 갑옷
 dmforest_north,git,Placeable List/116/ItemList/2/LocalizedName,0,뼈가루
 dmforest_north,git,Placeable List/116/ItemList/2/DescIdentified,0,지상이나 분쇄된 뼈.
 dmforest_north,git,Placeable List/117/LocName,0,표기 없는 무덤
@@ -11690,7 +11690,7 @@ st2_north,git,Placeable List/351/LocName,0,핏자국 2
 st2_north,git,Placeable List/352/LocName,0,핏자국 7
 st2_north,git,Placeable List/353/LocName,0,핏자국 5
 st2_north,git,Placeable List/354/LocName,0,타락한 모험가
-st2_north,git,Placeable List/355/ItemList/0/LocalizedName,0,408일 일기
+st2_north,git,Placeable List/355/ItemList/0/LocalizedName,0,일지 항목 408
 st2_north,git,Placeable List/355/ItemList/0/Description,0,"저널 408번지 입력 저는 제 검색을 그만두고 모든 것을 환각이라고 부르려고 했습니다. 고대 세금 기록에 도착했을 때. 부분적으로 이렇게 되어 있습니다. 토르자크 경: 우리 기록에 따르면, 당신의 시민들 중 세 명이 가을 수확의 비율을 우리에게 빚을 지고 있습니다. 이 문제를 살펴볼 수 있습니까? 첫 번째 새 달 전에 더 많은 무역 조정을 논의하기 위해 당신과 만나겠습니다........"
 st2_north,git,Placeable List/355/ItemList/0/DescIdentified,0,"저널 408번지 입력 저는 제 검색을 그만두고 모든 것을 환각이라고 부르려고 했습니다. 고대 세금 기록에 도착했을 때. 부분적으로 이렇게 되어 있습니다. 토르자크 경: 우리 기록에 따르면, 당신의 시민들 중 세 명이 가을 수확의 비율을 우리에게 빚을 지고 있습니다. 이 문제를 살펴볼 수 있습니까? 첫 번째 새 달 전에 더 많은 무역 조정을 논의하기 위해 당신과 만나겠습니다........"
 st2_north,git,Placeable List/357/LocName,0,핏자국 3
@@ -13159,7 +13159,7 @@ templeug4,git,List/16/LocalizedName,0,부패한 마법대검
 templeug4,git,List/17/LocalizedName,0,부패한 마법대검
 templeug4,git,List/18/LocalizedName,0,저주 해제 물약
 templeug4,git,List/18/DescIdentified,0,모든 저주와 저주 효과는 대상 생물에서 해제됩니다.
-templeug4,git,List/19/LocalizedName,0,노란 사슬 갑옷
+templeug4,git,List/19/LocalizedName,0,녹슨 사슬 갑옷
 templeug4,git,List/20/LocalizedName,0,녹슨 반수검
 templeug4,git,List/21/LocalizedName,0,노란 대검
 templeug4,git,List/22/LocalizedName,0,노란 비늘 갑옷
@@ -15025,7 +15025,7 @@ aarcl002,uti,LocalizedName,0,용생가죽갑옷
 aarcl008,uti,LocalizedName,0,사제 갑옷
 aarcl009,uti,LocalizedName,0,사제 갑옷
 aarcl010,uti,LocalizedName,0,노인 드워프
-aarcl012,uti,LocalizedName,0,노란 사슬 갑옷
+aarcl012,uti,LocalizedName,0,녹슨 사슬 갑옷
 aarcl014,uti,LocalizedName,0,노란 비늘 갑옷
 aarcl015,uti,LocalizedName,0,전신 판금 갑옷
 aarcl016,uti,LocalizedName,0,가죽 갑옷
@@ -15059,7 +15059,11 @@ amuletoflife003,uti,LocalizedName,0,죽음의 호신부
 ashlw003,uti,LocalizedName,0,대형 방패
 ashlw004,uti,LocalizedName,0,수호자
 ashmlw003,uti,LocalizedName,0,포리시드 +2
-ashmlw003,uti,DescIdentified,0,이 마법의 방패는 착용자에게 추가적인 보호를 제공하며 매우 반사적인 표면을 가지고 있습니다. 참고: 모든 여섯 방패는 필요합니다!!
+ashmlw003,uti,DescIdentified,0,"이것은 고유 아이템이다.
+
+이 마법 방패는 착용자에게 추가 보호를 주며 표면이 매우 반짝이는 반사면이다.
+
+참고: 여섯 개의 방패가 모두 필요하다!!"
 ashmlw005,uti,LocalizedName,0,성스러운 스미트 방패
 ashmlw007,uti,LocalizedName,0,어둠달의 방패
 ashmlw008,uti,LocalizedName,0,어둠달의 방패
@@ -15196,7 +15200,7 @@ hen_shorn_pers,uti,LocalizedName,0,쇼른의 룬석
 hen_shorn_pers,uti,DescIdentified,0,당신은 어둠의 신전 던전에서 샤른을 반드시 죽게 될뻔한 상황에서 구해준 사람입니다. 이 물건은 그의 영원한 감사의 표시로 주어집니다.
 hen_tanglor_pers,uti,LocalizedName,0,탱글로의 카드 덱
 hen_tanglor_pers,uti,DescIdentified,0,이 카드 덱은 Darkmoon 신전에서 구출한 반엘프 탕글러가 당신에게 선물로 주었습니다.
-hiltoftalon,uti,LocalizedName,0,타론의 휘장
+hiltoftalon,uti,LocalizedName,0,탈론의 검자루
 hiltoftalon,uti,Description,0,"이건 어떤 무기의 검집처럼 보이고, 이것은 중요한 물건일 수도 있습니다."
 hiltoftalon,uti,DescIdentified,0,"이건 어떤 무기의 검집처럼 보이고, 이것은 중요한 물건일 수도 있습니다."
 holysymbol,uti,LocalizedName,0,신성한 상징
@@ -15301,7 +15305,7 @@ journal380,uti,DescIdentified,0,"381 환상 후 검토한 결과, 내가 본 마
 journal399,uti,LocalizedName,0,399
 journal399,uti,Description,0,399년 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예
 journal399,uti,DescIdentified,0,399년 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예 신춘문예
-journal408,uti,LocalizedName,0,408일 일기
+journal408,uti,LocalizedName,0,일지 항목 408
 journal408,uti,Description,0,"저널 408번지 입력 저는 제 검색을 그만두고 모든 것을 환각이라고 부르려고 했습니다. 고대 세금 기록에 도착했을 때. 부분적으로 이렇게 되어 있습니다. 토르자크 경: 우리 기록에 따르면, 당신의 시민들 중 세 명이 가을 수확의 비율을 우리에게 빚을 지고 있습니다. 이 문제를 살펴볼 수 있습니까? 첫 번째 새 달 전에 더 많은 무역 조정을 논의하기 위해 당신과 만나겠습니다........"
 journal408,uti,DescIdentified,0,"저널 408번지 입력 저는 제 검색을 그만두고 모든 것을 환각이라고 부르려고 했습니다. 고대 세금 기록에 도착했을 때. 부분적으로 이렇게 되어 있습니다. 토르자크 경: 우리 기록에 따르면, 당신의 시민들 중 세 명이 가을 수확의 비율을 우리에게 빚을 지고 있습니다. 이 문제를 살펴볼 수 있습니까? 첫 번째 새 달 전에 더 많은 무역 조정을 논의하기 위해 당신과 만나겠습니다........"
 journal420,uti,LocalizedName,0,일기 항목 420

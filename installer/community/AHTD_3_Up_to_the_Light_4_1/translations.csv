@@ -170,7 +170,7 @@ ashimar_1,dlg,EntryList/10/Text,0,"""우리는 산의 개구리를 통과했지�
 ashimar_1,dlg,EntryList/11/Text,0,"""아직 하나도 발견하지 못했습니다."""
 ashimar_1,dlg,ReplyList/0/Text,0,"""너희의 마지막 시각이 왔다, 바보들아."""
 ashimar_1,dlg,ReplyList/2/Text,0,"""당신은 여기서 무엇을 하시는 거예요?"""
-ashimar_1,dlg,ReplyList/3/Text,0,"""이게 어떤 신포니스인가?"""
+ashimar_1,dlg,ReplyList/3/Text,0,"""이건 일종의 사이오닉인가?"""
 ashimar_1,dlg,ReplyList/4/Text,0,"""어렵게 들리는군. 이걸 어떻게 해내는데?"""
 ashimar_1,dlg,ReplyList/5/Text,0,"""수면으로 가는 길을 알려주실 수 있으신가요?"""
 ashimar_1,dlg,ReplyList/6/Text,0,"""아쉽군. 다른 길이 있나?"""
@@ -478,7 +478,7 @@ illithid_1,dlg,ReplyList/71/Text,0,"""이 지역에 대한 정보를 알고 싶�
 illithid_1,dlg,ReplyList/72/Text,0,"""나는 표면으로 가는 길을 찾기 위해 여기 왔다."""
 illithid_1,dlg,ReplyList/73/Text,0,"""어떤 방향으로 가야 하는지 도와줄 수 있나요?"""
 illithid_1,dlg,ReplyList/75/Text,0,"""마음 속이는 걸 그만둬, 마음속이, 이 보헤더 생물에 대해 더 말해줘."""
-illithid_1,dlg,ReplyList/76/Text,0,"""관측자?"""
+illithid_1,dlg,ReplyList/76/Text,0,"""비홀더 같은 생물이?"""
 illithid_1,dlg,ReplyList/77/Text,0,"""이 모든 것은 매우 흥미롭지만, 표면으로 가는 길을 물어보았습니다."""
 illithid_1,dlg,ReplyList/78/Text,0,"""내가 어떻게 표면에 도달할 수 있을까?"
 illithid_1,dlg,ReplyList/79/Text,0,"""나는 여기서 시간을 낭비하고 있어. 정보로 도와줄래?"""
@@ -756,7 +756,7 @@ nelad_2,dlg,ReplyList/26/Text,0,"""피우비엔에 대해 이야기하는 거야
 nelad_2,dlg,ReplyList/27/Text,0,"""참혹한 재판"""
 nelad_2,dlg,ReplyList/28/Text,0,"""아무것도 아니죠. 주제를 바꿔보자""."
 nelad_2,dlg,ReplyList/29/Text,0,"""다시 한 번 묻겠습니다. 왜 나를 도와주나요?"""
-nelad_2,dlg,ReplyList/30/Text,0,"""그걸 잊어라. 몇 가지 마법의 소품과 몇 뿌리 금을 위해 그렇게 위험을 감수하지 않을 거야."""
+nelad_2,dlg,ReplyList/30/Text,0,"""잊어라. 마법 장신구 몇 개와 한 줌의 금 때문에 그런 위험을 무릅쓰진 않을 거다."""
 nelad_2,dlg,ReplyList/31/Text,0,"""아, 그렇군요. 내가 알아야 했네요. 어쩌면 가격이 낮아질 수도 있었겠죠."""
 nelad_2,dlg,ReplyList/32/Text,0,"""죽은 거미들에게..."""
 nelad_2,dlg,ReplyList/33/Text,0,"""어떻게 생각해?"""
@@ -1461,7 +1461,7 @@ beholdercave,git,Creature List/17/ItemList/1/LocalizedName,0,주시자 눈 (사�
 beholdercave,git,Creature List/17/ItemList/2/LocalizedName,0,주시자 눈 (죽음)
 beholdercave,git,Creature List/17/ItemList/3/LocalizedName,0,주시자 눈 (분해)
 beholdercave,git,Creature List/17/ItemList/4/LocalizedName,0,주시자의 눈 (경두심)
-beholdercave,git,Creature List/17/ItemList/5/LocalizedName,0,주시자 눈 (석화)
+beholdercave,git,Creature List/17/ItemList/5/LocalizedName,0,비홀더 눈 (석화)
 beholdercave,git,Creature List/17/ItemList/6/LocalizedName,0,주시자 눈 (무감각)
 beholdercave,git,Door List/0/LocName,0,보더다이어_인
 beholdercave,git,StoreList/0/LocName,0,주시자 재고
@@ -3272,7 +3272,7 @@ statue,utc,FirstName,0,드워프 조각상
 statue001,utc,FirstName,0,인간 조각상
 statue002,utc,FirstName,0,엘프 제 조각상
 statue003,utc,FirstName,0,스버프네블린 조각상
-summonedminion,utc,FirstName,0,소환된 종족
+summonedminion,utc,FirstName,0,소환된 하수인
 svirfneblin,utc,FirstName,0,스버프네블린
 svirfneblin,utc,LastName,0,전사
 svirfneblin,utc,Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
@@ -3319,7 +3319,7 @@ ashmlw011,uti,DescIdentified,0,이 마법 방패는 착용자에게 추가적인
 beholdereye,uti,LocalizedName,0,주시자 눈 (사람 현혹)
 beholdereye001,uti,LocalizedName,0,주시자 눈 (괴물 현혹)
 beholdereye002,uti,LocalizedName,0,주시자 눈 (분해)
-beholdereye003,uti,LocalizedName,0,주시자 눈 (석화)
+beholdereye003,uti,LocalizedName,0,비홀더 눈 (석화)
 beholdereye004,uti,LocalizedName,0,주시자 눈 (죽음)
 beholdereye005,uti,LocalizedName,0,주시자 눈 (무감각)
 beholdereye006,uti,LocalizedName,0,주시자의 눈 (경두심)

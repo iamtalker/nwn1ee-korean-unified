@@ -30,8 +30,8 @@ maintowersecondf,are,Name,0,메인 탑 3층
 manorupperlevel,are,Name,0,소형 저택
 monument02,are,Name,0,기념비
 rivulet,are,Name,0,리부렛
-smallbarn,are,Name,0,소형 창당
-smallbarn001,are,Name,0,소형 창당
+smallbarn,are,Name,0,작은 헛간
+smallbarn001,are,Name,0,작은 헛간
 smithy,are,Name,0,대장간
 thegrove,are,Name,0,숲
 thesage,are,Name,0,마법사
@@ -648,7 +648,7 @@ lomildur_1,dlg,EntryList/4/Text,0,"나는 로밀마르라며, 특별한 재능�
 lomildur_1,dlg,EntryList/5/Text,0,"""그렇지만 이 제목은 마음에 들지 않습니다."""
 lomildur_1,dlg,EntryList/6/Text,0,"<StartAction>[소리를 낮추는]</Start> ""좋은 마법품을 판매하고 있어요. 관심 있으신가요?"""
 lomildur_1,dlg,EntryList/7/Text,0,"""당신의 뜻에 따라요. 마음이 바뀌면 다시 오세요."""
-lomildur_1,dlg,EntryList/9/Text,0,"<StartAction>[소음을 낮춥니다]</Start> ""피우비엔의 유물을 처리하라는 지시를 받았지만, 그녀의 물건들을 자신에게 보관했습니다."""
+lomildur_1,dlg,EntryList/9/Text,0,"<StartAction>[목소리를 낮춘다]</Start> ""피위비엔의 유해를 처리하라는 지시를 받았지만, 그녀의 소지품 일부는 내가 챙겼소."""
 lomildur_1,dlg,EntryList/10/Text,0,<StartAction>[소음을 낮추는]</Start>####################################
 lomildur_1,dlg,EntryList/11/Text,0,"<StartAction>[소리를 낮추는]</Start> ""당신이 관심을 가질 거라고 생각했어요. 여기 보세요..."""
 lomildur_1,dlg,ReplyList/0/Text,0,"""네. 피우비엔은 항상 나를 나쁘게 대했어. 그녀의 영혼은 그녀의 잔인함으로 영원히 고통받길 바라."""
@@ -698,7 +698,7 @@ piwiewien_1,dlg,EntryList/5/Text,0,"""이제 가라. 네 남자들은 마을 동
 piwiewien_1,dlg,EntryList/6/Text,0,"""마지막에 네가 갑자기 공격해 놀라게 했어, <FirstName>! 경고한다, 이번에는 절대 이런 일이 다시 일어나지 않을 거야! 네가 좋은 소식을 가져왔나?"""
 piwiewien_1,dlg,EntryList/7/Text,0,"""이것은 용납할 수 없습니다. 그들이 지금 어디에 있는지 알아보세요."""
 piwiewien_1,dlg,EntryList/8/Text,0,"""이렇게 끝나서는 안 돼. 우리가 실패하면 스파이더퀸도 네 머리를 잡아먹을 거야. 더 열심히 해!"""
-piwiewien_1,dlg,EntryList/9/Text,0,"""지상 주민들의 정착지입니다. 이것은 우리의 기회입니다. 우리는 그들을 위에서 내려와 필요한 모든 것을 취할 것입니다 - 심지어 그들의 생명까지."""
+piwiewien_1,dlg,EntryList/9/Text,0,"""지상 거주자들의 정착지다. 기회다. 놈들을 덮쳐 필요한 건 뭐든 빼앗는다 - 마지막에는 목숨까지도."
 piwiewien_1,dlg,EntryList/10/Text,0,"""정말 좋은데, 공격에 대비해줘. 네가 준비할 때 시작하겠다""."
 piwiewien_1,dlg,EntryList/11/Text,0,"""우리는 그들이 방어 준비를 하기 전에 마을을 통제하기 위해 서둘러야 한다. 공격 준비를 하라. 네가 준비되면 시작할 것이다."""
 piwiewien_1,dlg,EntryList/12/Text,0,"""내가... 내가 널 때릴 때까지""..."
@@ -1057,7 +1057,7 @@ use_rope_3,dlg,EntryList/2/Text,0,계단을 올라가는 건 어렵지만 잘 �
 use_rope_3,dlg,EntryList/3/Text,0,계단을 쉽게 오르 ?>>
 use_rope_3,dlg,EntryList/4/Text,0,트래프 문까지 떠오른다.
 use_rope_3,dlg,ReplyList/1/Text,0,<StartAction>[오르기 시도]</Start>
-use_rope_3,dlg,ReplyList/3/Text,0,<StartAction>[레비아타네이션 능력을 사용]</Start>
+use_rope_3,dlg,ReplyList/3/Text,0,<StartAction>[드로우 고유의 공중부양 능력을 사용한다]</Start>
 use_slope_1,dlg,EntryList/0/Text,0,위쪽의 물은 동굴 벽에 걸린 걸음걸음을 씻어냈어요.
 use_slope_1,dlg,EntryList/1/Text,0,돌은 물로 미끄러져 있고 발이 미끄러져 땅에 떨어집니다.
 use_slope_1,dlg,EntryList/2/Text,0,"힘든 일이지만, 마침내 언덕을 오르게 되었습니다."
@@ -12388,7 +12388,7 @@ statue,utc,FirstName,0,드워프 조각상
 statue001,utc,FirstName,0,인간 조각상
 statue002,utc,FirstName,0,엘프 제 조각상
 statue003,utc,FirstName,0,스버프네블린 조각상
-summonedminion,utc,FirstName,0,소환된 종족
+summonedminion,utc,FirstName,0,소환된 하수인
 svirfneblin,utc,FirstName,0,스버프네블린
 svirfneblin,utc,LastName,0,전사
 svirfneblin,utc,Description,0,"스피르프네블린, 딥 은 둘 다 작고 똑똑합니다. 그들은 1대 1 전투에서 대부분의 상대방을 견디지 못한다는 사실을 잘 알고 있습니다. 그들은 타격 및 실행 전술과 시야자 숫자에 의존합니다. 그럼에도 불구하고, 스피르프네블린 전사들은 힘든 상대가 될 수 있습니다."
@@ -12464,7 +12464,7 @@ ashmto013,uti,DescIdentified,0,"The Watch 라는 전투 브리거드를 결성�
 beholdereye,uti,LocalizedName,0,주시자 눈 (사람 현혹)
 beholdereye001,uti,LocalizedName,0,주시자 눈 (괴물 현혹)
 beholdereye002,uti,LocalizedName,0,주시자 눈 (분해)
-beholdereye003,uti,LocalizedName,0,주시자 눈 (석화)
+beholdereye003,uti,LocalizedName,0,비홀더 눈 (석화)
 beholdereye004,uti,LocalizedName,0,주시자 눈 (죽음)
 beholdereye005,uti,LocalizedName,0,주시자 눈 (무감각)
 beholdereye006,uti,LocalizedName,0,주시자의 눈 (경두심)

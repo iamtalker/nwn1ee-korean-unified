@@ -1351,10 +1351,10 @@ gaston,dlg,ReplyList/50/Text,0,가벼운 링거.
 gaston,dlg,ReplyList/51/Text,0,큰 링거이다.
 gaston,dlg,ReplyList/52/Text,0,손잡이.
 gaston,dlg,ReplyList/53/Text,0,이.
-gaston,dlg,ReplyList/54/Text,0,창검.
+gaston,dlg,ReplyList/54/Text,0,창.
 gaston,dlg,ReplyList/55/Text,0,카마
 gaston,dlg,ReplyList/56/Text,0,쿠크리
-gaston,dlg,ReplyList/57/Text,0,삼두검
+gaston,dlg,ReplyList/57/Text,0,삼지창.
 gaston,dlg,ReplyList/58/Text,0,톱니
 gaston,dlg,ReplyList/59/Text,0,도끼.
 gaston,dlg,ReplyList/60/Text,0,두 배의 도끼.
@@ -1922,12 +1922,12 @@ hench_criosa,dlg,ReplyList/193/Text,0,- 맞아요
 hench_dla_horse,dlg,EntryList/4/Text,0,<StartAction> 보니/마가 당신 전화를 기다리는 동안 떠돌아다니고 있습니다. </Start>
 hench_dla_horse,dlg,ReplyList/1/Text,0,잠겨서 세트머니를 내려놓으세요
 hench_dla_horse,dlg,ReplyList/2/Text,0,내 세트머니를 열어
-hench_dla_horse,dlg,ReplyList/3/Text,0,날 기다리고 있어.
+hench_dla_horse,dlg,ReplyList/3/Text,0,나를 기다려 줘. (말을 돌려보낸다)
 hench_dla_horse,dlg,ReplyList/4/Text,0,DM_NPC_마운트
 hench_horse,dlg,EntryList/4/Text,0,<StartAction> 보니/마가 당신 전화를 기다리는 동안 떠돌아다니고 있습니다. </Start>
 hench_horse,dlg,ReplyList/1/Text,0,잠겨서 세트머니를 내려놓으세요
 hench_horse,dlg,ReplyList/2/Text,0,내 세트머니를 열어
-hench_horse,dlg,ReplyList/3/Text,0,날 기다리고 있어.
+hench_horse,dlg,ReplyList/3/Text,0,나를 기다려 줘. (말을 돌려보낸다)
 hench_horse,dlg,ReplyList/15/Text,0,DM 마운트
 hench_nellise,dlg,EntryList/1/Text,0,원하는 대로
 hench_nellise,dlg,EntryList/2/Text,0,확실히! 길을 인도해.
@@ -3639,7 +3639,7 @@ teamster,dlg,EntryList/9/Text,0,나를 기억해. 또 다른 차를 필요로 �
 teamster,dlg,EntryList/10/Text,0,아직 50불을 지불해야 돼
 teamster,dlg,EntryList/11/Text,0,"아, 알았어. 아마 그럴 거야!"
 teamster,dlg,EntryList/12/Text,0,"좋아, 올라와서, 우린 떠나게 될 거야"
-teamster,dlg,ReplyList/0/Text,0,이 카레의 운전자는 당신인가요?
+teamster,dlg,ReplyList/0/Text,0,이 마차 모는 사람이 당신이오?
 teamster,dlg,ReplyList/1/Text,0,쿨든리까지 태워주실래요?
 teamster,dlg,ReplyList/2/Text,0,"아, 그 드래곤. 네, 아마도 그를 죽여야 할 것 같아."
 teamster,dlg,ReplyList/4/Text,0,모두 서비스의 일부분이야? 가기로 합니까?
@@ -3666,7 +3666,7 @@ teamster2,dlg,EntryList/11/Text,0,나를 기억해. 또 다른 차를 필요로 
 teamster2,dlg,EntryList/12/Text,0,아직 50불을 지불해야 돼
 teamster2,dlg,EntryList/13/Text,0,"아, 알았어. 아마 그럴 거야!"
 teamster2,dlg,EntryList/14/Text,0,"좋아, 올라와서, 우린 떠나게 될 거야"
-teamster2,dlg,ReplyList/0/Text,0,이 카레의 운전자는 당신인가요?
+teamster2,dlg,ReplyList/0/Text,0,이 마차 모는 사람이 당신이오?
 teamster2,dlg,ReplyList/1/Text,0,난 포트 하이마르크까지 탑승할 수 있었으면 좋았겠어.
 teamster2,dlg,ReplyList/2/Text,0,어딨어?
 teamster2,dlg,ReplyList/3/Text,0,"좋아, 고마워요"
@@ -4583,7 +4583,7 @@ area008,git,StoreList/0/StoreList/4/ItemList/36/LocalizedName,0,"옷감 염료, 
 area008,git,StoreList/0/StoreList/4/ItemList/37/LocalizedName,0,"옷차림 염색, 가장 가벼운 탄색"
 area008,git,StoreList/0/StoreList/4/ItemList/38/LocalizedName,0,"옷감 염료, 가장 가벼운 타우프"
 area008,git,StoreList/0/StoreList/4/ItemList/39/LocalizedName,0,"옷감 염료, 청색"
-area008,git,StoreList/0/StoreList/4/ItemList/40/LocalizedName,0,"옷감 염료, 청동석"
+area008,git,StoreList/0/StoreList/4/ItemList/40/LocalizedName,0,"옷감 염료, 흑요석"
 area008,git,StoreList/0/StoreList/4/ItemList/41/LocalizedName,0,"옷 색소, 올리브"
 area008,git,StoreList/0/StoreList/4/ItemList/42/LocalizedName,0,"옷감 염료, 주황"
 area008,git,StoreList/0/StoreList/4/ItemList/43/LocalizedName,0,"옷감 염료, 오리지드"
@@ -4600,7 +4600,7 @@ area008,git,StoreList/0/StoreList/4/ItemList/53/LocalizedName,0,"옷감 염색, 
 area008,git,StoreList/0/StoreList/4/ItemList/54/LocalizedName,0,"옷감 염료, 반짝이는 인디고"
 area008,git,StoreList/0/StoreList/4/ItemList/55/LocalizedName,0,"옷감 염료, 빛나는 청색"
 area008,git,StoreList/0/StoreList/4/ItemList/56/LocalizedName,0,"옷 염색, 반짝이는 보라색"
-area008,git,StoreList/0/StoreList/4/ItemList/57/LocalizedName,0,"옷감 염료, 반짝이는 타일"
+area008,git,StoreList/0/StoreList/4/ItemList/57/LocalizedName,0,"옷감 염료, 반짝이는 청록색"
 area008,git,StoreList/0/StoreList/4/ItemList/58/LocalizedName,0,"옷감 염색, 빛나는 빨간색"
 area008,git,StoreList/0/StoreList/4/ItemList/59/LocalizedName,0,"옷감 염료, 은"
 area008,git,StoreList/0/StoreList/4/ItemList/60/LocalizedName,0,"옷감 염료, 슬레이트"
@@ -7859,7 +7859,7 @@ zep_bird_007,utc,FirstName,0,"새, 링거 - 녹색"
 zep_bird_007,utc,Description,0,마카오는 긴 꼬리와 밝게 색이 빛나는 파충류이다.
 zep_bird_008,utc,FirstName,0,"새, 파랑색 멜루아"
 zep_bird_008,utc,Description,0,마카오는 긴 꼬리와 밝게 색이 빛나는 파충류이다.
-zep_bird_009,utc,FirstName,0,"새, 파랑새 - 빨간색"
+zep_bird_009,utc,FirstName,0,"새, 마코앵무 - 빨간색"
 zep_bird_009,utc,Description,0,마카오는 긴 꼬리와 밝게 색이 빛나는 파충류이다.
 zep_bird_010,utc,FirstName,0,"새, 모킹버드"
 zep_bird_010,utc,Description,0,모킹버드들은 다른 새들의 노래를 모방한다.
@@ -8780,7 +8780,7 @@ bigspider,ute,LocalizedName,0,큰 거미
 blueprint,ute,LocalizedName,0,"해적, 거인"
 blueprint001,ute,LocalizedName,0,"해적, 호그볼린"
 blueprint002,ute,LocalizedName,0,"도적, 버그베어"
-blueprint003,ute,LocalizedName,0,"해적, 고블린"
+blueprint003,ute,LocalizedName,0,"약탈자, 고블린"
 blueprint004,ute,LocalizedName,0,"해적, 거인 순찰병"
 blueprint005,ute,LocalizedName,0,"강도, 오그레"
 blueprint006,ute,LocalizedName,0,크라알드
@@ -9368,7 +9368,7 @@ dyec44,uti,LocalizedName,0,백색 옷차림 염료
 dyec45,uti,LocalizedName,0,"옷감 염료, 검은색"
 dyec46,uti,LocalizedName,0,"옷감 염료, 빛나는 청색"
 dyec47,uti,LocalizedName,0,"옷감 염색, 빛나는 파란색"
-dyec48,uti,LocalizedName,0,"옷감 염료, 반짝이는 타일"
+dyec48,uti,LocalizedName,0,"옷감 염료, 반짝이는 청록색"
 dyec49,uti,LocalizedName,0,"옷차림 염료, 빛나는 숲색"
 dyec50,uti,LocalizedName,0,"옷차림 염료, 빛나는 황금 막대"
 dyec51,uti,LocalizedName,0,"옷감 염료, 빛나는 주황색"
@@ -9377,7 +9377,7 @@ dyec53,uti,LocalizedName,0,"옷차림 염료, 빛나는 푸키아"
 dyec54,uti,LocalizedName,0,"옷 염색, 반짝이는 보라색"
 dyec55,uti,LocalizedName,0,"옷감 염료, 반짝이는 인디고"
 dyec56,uti,LocalizedName,0,"옷감 염료, 은"
-dyec57,uti,LocalizedName,0,"옷감 염료, 청동석"
+dyec57,uti,LocalizedName,0,"옷감 염료, 흑요석"
 dyec58,uti,LocalizedName,0,"포브드 염료, 구리"
 dyec59,uti,LocalizedName,0,"옷차림 염료, 연한 구리"
 dyec60,uti,LocalizedName,0,"옷감 염색, 빛나는 회색"
@@ -10567,7 +10567,7 @@ zep_clreav_001,uti,LocalizedName,0,수확자 손톱
 zep_corollaxskin,uti,LocalizedName,0,코롤락스 피부
 zep_cran_blue,uti,LocalizedName,0,블루 장미
 zep_cre_colde001,uti,LocalizedName,0,프로스틸리쿠스 속성
-zep_cre_drgflgol,uti,LocalizedName,0,골렘 드래곤피쉬 속성
+zep_cre_drgflgol,uti,LocalizedName,0,드래곤플레시 골렘 속성
 zep_cre_dride001,uti,LocalizedName,0,스코프 스팅
 zep_cre_emtg,uti,Description,0,"보석으로 만든 치아, 비자연적인 빛으로 빛나는 치아"
 zep_cre_emtg,uti,DescIdentified,0,"보석으로 만든 치아, 비자연적인 빛으로 빛나는 치아"
@@ -10808,13 +10808,13 @@ crpp_secrt_traks,utp,LocName,0,흔적
 crpp_tent01,utp,LocName,0,오일 어드벤처스 텐트
 crpp_tent02,utp,LocName,0,버랩 어드벤처스 텐트
 crpp_tent02,utp,Description,0,이 텐트는 괜찮네요.
-crushingwalltrap,utp,LocName,0,벽 짧은 폭력 함정
+crushingwalltrap,utp,LocName,0,압착 벽 함정
 crystal_zap,utp,LocName,0,CRYSTAL_ZAP
 dragon_hoard,utp,LocName,0,금화 더미
 dragon_hoard,utp,Description,0,큰 금 동전의 쌓임
 elfportal,utp,LocName,0,차원문
 elfportal2,utp,LocName,0,차원문
-fakesafe,utp,LocName,0,아다민 액세스
+fakesafe,utp,LocName,0,아다만티움 금고
 fakesafe,utp,Description,0,화장실에서 찾을 수 있는 단순한 물건입니다.
 fallingbrickpcbl,utp,LocName,0,추락하는 벽돌
 floodpcbl,utp,LocName,0,홍수
@@ -11056,9 +11056,9 @@ zep_ce_bdr_009,utp,LocName,0,탑재된 출입구 - 빨간색
 zep_ce_bdr_009,utp,Description,0,"서둘러 만들어진 이 판들은 침입자를 막기 위해 붙여졌지만, 아마도 내부의 것을 보호하기 위해서였을지도 모릅니다."
 zep_ce_bdr_010,utp,LocName,0,탑재 된 문 - 날씨 가 어두운 회색
 zep_ce_bdr_010,utp,Description,0,"서둘러 만들어진 이 판들은 침입자를 막기 위해 붙여졌지만, 아마도 내부의 것을 보호하기 위해서였을지도 모릅니다."
-zep_ce_bdr_011,utp,LocName,0,탑재된 출입구 - 빛나는 녹색
+zep_ce_bdr_011,utp,LocName,0,판자 덧댄 출입구 - 연초록
 zep_ce_bdr_011,utp,Description,0,"서둘러 만들어진 이 판들은 침입자를 막기 위해 붙여졌지만, 아마도 내부의 것을 보호하기 위해서였을지도 모릅니다."
-zep_ce_bdr_012,utp,LocName,0,탑재된 출입구 - 연한 회색
+zep_ce_bdr_012,utp,LocName,0,판자 덧댄 출입구 - 연회색
 zep_ce_bdr_012,utp,Description,0,"서둘러 만들어진 이 판들은 침입자를 막기 위해 붙여졌지만, 아마도 내부의 것을 보호하기 위해서였을지도 모릅니다."
 zep_ce_bdr_013,utp,LocName,0,탑재된 출입구 - 소나무
 zep_ce_bdr_013,utp,Description,0,"서둘러 만들어진 이 판들은 침입자를 막기 위해 붙여졌지만, 아마도 내부의 것을 보호하기 위해서였을지도 모릅니다."
@@ -11449,7 +11449,7 @@ zep_fissure_005,utp,LocName,0,"분열, 숲 벽"
 zep_fissure_006,utp,LocName,0,"균열, 폐허 바닥"
 zep_fissure_007,utp,LocName,0,"균열, 폐허 벽"
 zep_fissure_008,utp,LocName,0,"분수지, 시골 절벽"
-zep_fissure_009,utp,LocName,0,"열파, 시골 땅 1"
+zep_fissure_009,utp,LocName,0,"균열, 시골 땅 1"
 zep_fissure_010,utp,LocName,0,"균열, 시골 땅 2"
 zep_fissure_011,utp,LocName,0,", TNO 성 바닥"
 zep_fissure_012,utp,LocName,0,"틈, TNO 성벽"
