@@ -83,7 +83,7 @@ gz_it_invspyring,uti,LocalizedName,0,-1,플레이어 인벤토리 스파이 링
 hc_tangle,uti,DescIdentified,0,-1,이 가죽 가방은 이상한 알케미컬 용액을 분비합니다. 공기 노출에 따라 단단해지고 탄력성이 생깁니다. 가방이 찢어질 경우 그 속에 얽혀 있는 것은 싫을 것입니다. 이는 폭발물과 같은 무기입니다. 적을 겨냥하고 분사 피해를 경계하십시오.
 hc_tangle,uti,LocalizedName,0,-1,발엉킴 자루
 hc_thunder,uti,DescIdentified,0,-1,이 가혹 한 화학물질 이 단단 한 표면 을 공격 할 때 귀 를 꺾는 폭발 을 일으킨다. 이 무기 는 거네트 처럼 생긴 무기 입니다. 적 을 겨냥 하여 스프레시 손상 을 경계 하십시오.
-hc_thunder,uti,LocalizedName,0,-1,천둥석
+hc_thunder,uti,LocalizedName,0,-1,썬더스톤
 hcrhelper,uti,DescIdentified,0,-1,"DM 도구: 이 DM 도구는 더 이상의 평범한 특성 외에도 하드코어 규칙 세트 (HCR) 의 다양한 요소를 켜고 끄는 힘을 제공합니다. 그러나 ""마녀의 깨어남"" 모듈에서 많은 HCR 구성 요소가 제거되거나 크게 변경되었기 때문에 신중하게 사용하십시오."
 hcrhelper,uti,LocalizedName,0,-1,HCRHelper
 hcrhelpwand,uti,DescIdentified,0,-1,"이 버전의 HCR 조력자는 일시적으로 DM 지위를 부여받은 플레이어들을 위한 설계입니다. 이 도구는 HCR 규칙이 어떻게 작동하는지의 다양한 측면을 제어할 수 있게 합니다. ""마녀의 깨어남"" 모듈 내에서 많은 HCR 시스템이 제거되거나 크게 변경되었기 때문에 조심스럽게 사용해야 합니다."
@@ -211,7 +211,7 @@ torch,uti,LocalizedName,0,-1,횃불
 trackertool,uti,DescIdentified,0,-1,"자연 환경 에 있는 가정 에서, 일부 집단 과 종족 들 은 자주 교차 하는 여러 생물 들 의 흔적 과 흔적 을 읽을 수 있게 되었다."
 trackertool,uti,LocalizedName,0,-1,추적 도구
 wandoffx,uti,DescIdentified,0,-1,"DM 도구: 이 막대기는 게임 분위기를 향상시키기 위해 다양한 특수 효과를 촉발할 수 있게 해줍니다. 지역의 날씨와 음악을 변경하고, 다양한 시각 효과를 생성할 수 있습니다."
-wandoffx,uti,LocalizedName,0,-1,영향의 막대
+wandoffx,uti,LocalizedName,0,-1,영향의 마법봉
 watercanteen,uti,DescIdentified,0,-1,"이것은 수통입니다. 모험가라면 하나쯤 가지고 있어야 합니다.
 
 수통을 채우려면 물이 있는 곳을 대상으로 지정하세요. 물가에 서 있다면 주변의 땅을 대상으로 지정해도 됩니다."
@@ -221,7 +221,7 @@ wildelfsubrace,uti,LocalizedName,0,-1,서브종족 토큰: 와일드 엘프
 winterwolfpelt,uti,DescIdentified,0,-1,겨울 늑대에게서 얻은 이 고운 털가죽은 부드럽고 순백색이다.
 winterwolfpelt,uti,LocalizedName,0,-1,겨울 늑대 털
 wmgwn008,uti,DescIdentified,0,14195,"새로운 힘의 위험으로 어린 학생들을 잃어 버린 지로, 위대한 마법사 아카니온은 그들을 보호하기 위해 이 막대를 만들기 시작했습니다."
-wmgwn008,uti,LocalizedName,0,14196,갑옷 막대
+wmgwn008,uti,LocalizedName,0,14196,갑옷 마법봉
 wmgwn013,uti,DescIdentified,0,58591,"잠의 마법봉은 가장 안정적이고 저렴한 마법봉 중 하나로, 모험가들에게 인기가 많다. 대량 파괴 수단은 아니지만, 적절히 사용하면 오크, 랍빈과 같은 예기치 않은 만남에 대항하는 강력한 무기로 증명될 수 있다. 많은 모험가들은 이 단순하면서도 효과적인 아이템을 만든 익명의 마법사에게 감사의 마음을 보낸다."
 wmgwn013,uti,LocalizedName,0,58592,수면의 마법봉
 wolfpelt,uti,DescIdentified,0,-1,"이 회색 털의 늑대 털은 부드럽고 따뜻하다. 아직 어린 강아지의 하복 털을 가지고 있지만, 그 작은 크기는 가치를 줄여준다."
@@ -269,7 +269,7 @@ ww1_levfetish,uti,Description,0,-1,"깃털, 밀랍, 노끈을 작게 묶은 것�
 ww1_levfetish,uti,LocalizedName,0,-1,깃털 풍요제
 ww1_nighthagbook,uti,DescIdentified,0,-1,"이 무거운 책상 은 나이트 헤그 의 책상 에서 훔쳐 가졌습니다. 이 책 의 안 에 있는 텍스트 는 이상한 기름진 가죽 으로 묶여 있습니다. 그 안 에 있는 텍스트 는 어느 언어 를도 인식 할 수 없습니다. 그리고 몇 가지 사진 이 발견 될 수 있는 것 은 무의미 한 것 같지만, 미묘 히 인간형 인 형태 가 있습니다."
 ww1_nighthagbook,uti,LocalizedName,0,-1,밤 하그의 품전
-ww1_nighthagfey,uti,DescIdentified,0,-1,"이 무거운 책은 나이트 하그의 책상에서 훔쳐온 것으로, 이상한 기름진 가죽으로 바인딩되어 있다. 내부의 텍스트는 동화 출처로 알려져 있지만, 아직 이를 번역해줄 사람을 찾지 못했다. 찾을 수 있는 몇 가지 그림은 무의미한 것들 같지만, 미묘하게 인간형 모양의 것들처럼 보인다."
+ww1_nighthagfey,uti,DescIdentified,0,-1,"이 무거운 책은 나이트 해그의 책상에서 훔쳐온 것으로, 이상한 기름진 가죽으로 바인딩되어 있다. 내부의 텍스트는 동화 출처로 알려져 있지만, 아직 이를 번역해줄 사람을 찾지 못했다. 찾을 수 있는 몇 가지 그림은 무의미한 것들 같지만, 미묘하게 인간형 모양의 것들처럼 보인다."
 ww1_nighthagfey,uti,LocalizedName,0,-1,밤 하그의 품전
 ww1_nightshade,uti,DescIdentified,0,-1,먹으면 치명적인 난이드 식물의 잎은 빠르고 고통 없이 죽을 것입니다.
 ww1_nightshade,uti,LocalizedName,0,-1,살인적인 밤그늘

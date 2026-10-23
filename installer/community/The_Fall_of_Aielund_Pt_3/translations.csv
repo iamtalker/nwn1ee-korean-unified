@@ -27,9 +27,9 @@ forest,are,Name,0,"';"";
 government,are,Name,0,미르펠 - 정부 지역
 othertower,are,Name,0,에본 타워
 ragnarockdwarves,are,Name,0,아홉 지옥 - 고문의 필드
-saqarincitade2,are,Name,0,사카아린 성무장실
-saqarincitade3,are,Name,0,사카아린 성 - 지휘소
-saqarincitadel,are,Name,0,사카아린 성 - 생활실
+saqarincitade2,are,Name,0,사카린 성무장실
+saqarincitade3,are,Name,0,사카린 성 - 지휘소
+saqarincitadel,are,Name,0,사카린 성 - 생활실
 southforest,are,Name,0,Twilight - 남쪽 폐허
 testarea,are,Name,0,테스트 구역
 theabyss,are,Name,0,아케론 - 모든 곳으로의 문
@@ -47,7 +47,7 @@ twilighthills,are,Name,0,Twilight - 빙산의 벽
 1,dlg,EntryList/8/Text,0,"네일리스가 네 시체를 되찾았을 때, 저는 추방당했고, 다행히 네일리스가 저를 시내에서 쫓아냈고,"
 1,dlg,EntryList/9/Text,0,"그러게요, 이제 문제는 물론 여기서 어디로 가느냐죠."
 1,dlg,EntryList/11/Text,0,그럼 우리는 필요 이상으로 머무르지 않도록 하자. 하지만 먼저 가까운 땅을 둘러보아 보급품을 찾아내야 한다. 그렇지 않으면 사막은 우리를 죽게 만들 것이다.
-1,dlg,EntryList/12/Text,0,"안타깝지만, 아버지를 사랑했건만 아이룬드의 왕좌에 앉은 사람은 더 이상 같은 사람이 아니야.  
+1,dlg,EntryList/12/Text,0,"안타깝지만, 아버지를 사랑했건만 아이엘룬드의 왕좌에 앉은 사람은 더 이상 같은 사람이 아니야.  
 이제 정말 높은 배반의 죄를 범한 것 같아."
 1,dlg,ReplyList/0/Text,0,무슨 일이 있었는지 모르겠어요. 내가 기억하는 마지막 건 조용한 맥주를 한두잔 한 번 먹었거든요.
 1,dlg,ReplyList/2/Text,0,"왜 다리에서 구구줄이 붙어있었는지, 그리고 왜 사막 한가운데에 있는 지, 그리고 네일리스랑 여기서 뭐하고 있는지?"
@@ -65,7 +65,7 @@ aftersex1,dlg,EntryList/2/Text,0,"<StartAction>[크리오사 웃는다.]</Start>
 aftersex1,dlg,EntryList/3/Text,0,"그보다 더 기쁜 일이 없겠지만, 안타깝게도 의무가 먼저입니다. 오스릭이 사라지고 아버지도 돌아가셨으니 제가 다음 계승자입니다. 이 일을 빨리 수습하지 않으면 귀족들이 서로 싸우기 시작할 겁니다. 철왕의 폭정이 남긴 피해를 되돌리기 위해 할 수 있는 일을 해야 합니다."
 aftersex1,dlg,EntryList/4/Text,0,"<StartAction>[크리오사가 말을 내주자, 그녀의 목소리는 조심스럽게 통제되어 있었다.]</Start> 내 아버지는 오래 전에 죽었다, <FirstName>. 왕좌에 앉아 있던 그 *것*은 단순히 아버지를 죽인 괴물이었다. 이제 그것이 사라졌으니, 누군가가 왕좌를 차지해야 한다. 그리고 그 누군가가 나다."
 aftersex1,dlg,EntryList/6/Text,0,<StartAction>[크리오사 쓴웃음]</Start> 아직 감사하지 마세요. 이제 귀족들 중 누구를 믿을 수 있는지 모르겠어요. 그래서 전 충성자들을 배신자들로부터 떼어내기 전까지 많은 타이틀을 쌓을 계획입니다.
-aftersex1,dlg,EntryList/8/Text,0,"이해했습니다. 모든 사람들 중 당신을 걱정하게 만드는 것은 무엇인지 모르겠지만, 당신이 그것을 처리할 수 있다는 것을 알고 있습니다. 나는 당신을 믿으며, 당신이 아이룬드의 최선을 위해 일하고 있다는 것을 알고 있습니다."
+aftersex1,dlg,EntryList/8/Text,0,"이해했습니다. 모든 사람들 중 당신을 걱정하게 만드는 것은 무엇인지 모르겠지만, 당신이 그것을 처리할 수 있다는 것을 알고 있습니다. 나는 당신을 믿으며, 당신이 아이엘룬드의 최선을 위해 일하고 있다는 것을 알고 있습니다."
 aftersex1,dlg,EntryList/10/Text,0,"이제 가라, 쿨든의 영웅, 철왕의 살인자 이 마지막 위대한 일을 끝내고 감사한 민족의 기도와 생각들이 모든 걸음에도 너와 함께 있다는 것을 알면서"
 aftersex1,dlg,EntryList/12/Text,0,"<StartAction>[크리오사가 당신을 놀라움으로 바라봅니다.]</Start> 내 하나님! <FirstName>, 그건... 표현할 수 없었어요. 나는 이런 감정을 느껴본 적이 없어요."
 aftersex1,dlg,ReplyList/1/Text,0,"물론 그럴 거야, 하지만 넌 내게 크리오사로 돌아갈 수 있는 무언가를 줬어."
@@ -108,7 +108,7 @@ aftersex2,dlg,ReplyList/10/Text,0,<StartAction>[언어 없이 로버트에게 �
 aftersex2,dlg,ReplyList/11/Text,0,전쟁 후에도 그럴 자격이 있다고 생각합니다.
 aftersex2,dlg,ReplyList/12/Text,0,결코 확률을 말하지 말아요
 aftersex2,dlg,ReplyList/13/Text,0,"대형, 적들을 분쇄하는 동안 관객을 보는 걸 좋아해."
-aftersex2,dlg,ReplyList/14/Text,0,"좋아, 아이룬드의 안전을 확보하기 전까지는 멈추지 않을 거야."
+aftersex2,dlg,ReplyList/14/Text,0,"좋아, 아이엘룬드의 안전을 확보하기 전까지는 멈추지 않을 거야."
 aftersex2,dlg,ReplyList/15/Text,0,그렇지 않나... 먼저 옷을 입으시면 좋겠네요. 저서로 지켜볼게요!
 aftersex2,dlg,ReplyList/16/Text,0,그 옷은 정말 싫은 거야. 절대 청소하는 생각이 들지 않는 거야?
 aftersex2,dlg,ReplyList/17/Text,0,매력적인 이미지가 있어 준비할 수 있어
@@ -302,7 +302,7 @@ battlehighmarch,dlg,ReplyList/10/Text,0,책을 닫으세요.
 battlehighmarch,dlg,ReplyList/11/Text,0,다음 페이지로 이동합니다.
 battlehighmarch,dlg,ReplyList/12/Text,0,책을 닫으세요.
 benedictum,dlg,EntryList/0/Text,0,타리스마를 되찾았나?
-benedictum,dlg,EntryList/2/Text,0,"아일란은 네 여신이며, 모든 아일런드의 여신이다. 네 백성은 그녀를 단순히 '여신'이라고 부른다."
+benedictum,dlg,EntryList/2/Text,0,"아일란은 네 여신이며, 모든 아이엘룬드의 여신이다. 네 백성은 그녀를 단순히 '여신'이라고 부른다."
 benedictum,dlg,EntryList/3/Text,0,"교회 는 남성 이 모든 일 에서 훨씬 더 지배적 인 시기 에 설립 되었으며, 아키에로족 은 그들의 하느님 이 여성 이라는 지식 을 비밀 으로 유지 하기 를 결정 하였다. 그러나 시대 는 변화 하고 있으며, 그리 먼 미래 에는 그 의 이름 과 성 이 신자들에게 밝혀질 때 가 있을 것 이다."
 benedictum,dlg,EntryList/5/Text,0,"베리투스, 내 동료, 과장하네. 종종 무슨 일이 일어날지도 모른다는 인상을 받곤 하지만, 내가 목격한 모든 예언들 중에서도 당신에게 내린 예언이 가장 명확하게 다가왔다. 큰 악과의 싸움을 앞두고 계시네."
 benedictum,dlg,EntryList/6/Text,0,"네, 절박한 탐구에 대해 오래 알고 있었지만, 내가 말한 악은 아니었다. 도움을 청했으니 도움을 주리라. 하지만 나의 걱정은 우주의 장벽을 깨고, 현실의 평면을 통제 없이 랩마지게 파괴하는 힘에 있다."
@@ -364,14 +364,14 @@ benedictum,dlg,ReplyList/8/Text,0,그게 제가 여기 온 이유죠. 사카린�
 benedictum,dlg,ReplyList/9/Text,0,무슨 소리야?
 benedictum,dlg,ReplyList/10/Text,0,그럼 이 게이트를 통해 지옥으로 돌아갈 거라고 생각하니? 왜 그를 막지 않니?
 benedictum,dlg,ReplyList/11/Text,0,그럼 그를 막아라. 너는 하늘의 힘 중 하나야. 이 악마적 존재를 물리칠 수 있어.
-benedictum,dlg,ReplyList/12/Text,0,"저는 존재의 여러 계층에서 싸워야 할 악마의 신들이 많다고 확신하지만, 제 일정은 급박합니다. 사카아린을 막아야 하므로, 당신의 전쟁에 참여할 시간이 없습니다."
+benedictum,dlg,ReplyList/12/Text,0,"저는 존재의 여러 계층에서 싸워야 할 악마의 신들이 많다고 확신하지만, 제 일정은 급박합니다. 사카린을 막아야 하므로, 당신의 전쟁에 참여할 시간이 없습니다."
 benedictum,dlg,ReplyList/13/Text,0,그래서 내가 이용해야 하는 게이트에 접근할 수 있다. 좋다. 나는 어떤 것을 맞아야 하는가?
 benedictum,dlg,ReplyList/14/Text,0,어떤 종류의 조치?
 benedictum,dlg,ReplyList/15/Text,0,당신이 말하는 생물이 무엇인가요? 저는 그런 것들을 들어본 적이 없습니다.
 benedictum,dlg,ReplyList/16/Text,0,아바돈에게 이 무리를 풀어놓으려는 건가? 그게 아바돈을 파괴할 만큼 강력한가?
 benedictum,dlg,ReplyList/17/Text,0,그래... 이 탈리스만이 필요하군. 이 악마를 죽이고 다시 가져올 수 없나?
 benedictum,dlg,ReplyList/18/Text,0,"천사의 힘으로의 침공이 실패할 것이라는 당신의 말을 듣고도, 혼자 가길 원하십니까? 몇 명의 도우미와 함께인 것 같지 않습니다."
-benedictum,dlg,ReplyList/19/Text,0,"사카아린을 막기 위해 아바돈을 통과하기 위해 싸워야 한다면, 이 전설의 탈리스만을 가져가야겠군. 나가서 할게."
+benedictum,dlg,ReplyList/19/Text,0,"사카린을 막기 위해 아바돈을 통과하기 위해 싸워야 한다면, 이 전설의 탈리스만을 가져가야겠군. 나가서 할게."
 benedictum,dlg,ReplyList/20/Text,0,이 탐색에 도움이 될 장비를 주실 수 있나요?
 benedictum,dlg,ReplyList/21/Text,0,"동의합니다. 그렇다면, 9개의 지옥에 들어가면 어디로 가야 하나요?"
 benedictum,dlg,ReplyList/22/Text,0,"그럼 나는 빨리 시작해야겠고, 승리로 돌아올 것이다."
@@ -658,17 +658,17 @@ bridge,dlg,EntryList/10/Text,0,두 번째 잠금이 이제 열렸습니다. 커�
 bridge,dlg,EntryList/11/Text,0,이 패널은 이미 작동되었습니다.
 bridge,dlg,ReplyList/0/Text,0,<StartAction>[판을 혼자 둡시다.]</Start>
 bridge,dlg,ReplyList/1/Text,0,<StartAction>[판을 활성화.]</Start>
-bridge,dlg,ReplyList/2/Text,0,<StartCheck>[악]</Start> 근처의 사카아린의 손을 잘라내고 패널에 올려 놓으십시오.
+bridge,dlg,ReplyList/2/Text,0,<StartCheck>[악]</Start> 근처의 사카린의 손을 잘라내고 패널에 올려 놓으십시오.
 bridge,dlg,ReplyList/3/Text,0,"넬, 우린 절박한 상황에 처해 있어 적들의 시체를 잔인하게 부상을 하지 않을 시간이 없어!"
 bridge,dlg,ReplyList/5/Text,0,당신의 말이 맞습니다.
 bridge,dlg,ReplyList/6/Text,0,"아니, 이곳까지 온몸을 들고 오기엔 너무 게으르다."
 bridge,dlg,ReplyList/7/Text,0,근처에 있는 사카아린의 손을 잡고 패널에 올려놓으세요.
-bridge,dlg,ReplyList/9/Text,0,<StartCheck>[악]</Start><StartAction>[네 근처의 사카아린의 손을 잘라내고 패널에 올려 놓으시오.]</Start>
+bridge,dlg,ReplyList/9/Text,0,<StartCheck>[악]</Start><StartAction>[네 근처의 사카린의 손을 잘라내고 패널에 올려 놓으시오.]</Start>
 bridge,dlg,ReplyList/10/Text,0,넬에 대해 좀 더 차분하게 얘기할 시간이 없어서 손을 잡고 잘라!
 bridge,dlg,ReplyList/11/Text,0,아니면 그렇지. 어쨌든 네가 만족할 만한 건가.
 bridge,dlg,ReplyList/12/Text,0,최대한 빨리 처리하려고 한다.
 bridge,dlg,ReplyList/13/Text,0,인생에 있어서 중요한 일들에 대한 시간이 없으니 적의 시체를 찢어버리는 일은 없어야 한다.
-bridge,dlg,ReplyList/14/Text,0,<StartAction>[네 근처의 사카아린의 손을 잡고 패널에 올려 놓으시오.]</Start>
+bridge,dlg,ReplyList/14/Text,0,<StartAction>[네 근처의 사카린의 손을 잡고 패널에 올려 놓으시오.]</Start>
 bridgecom,dlg,EntryList/0/Text,0,"이 패널은 매우 복잡해 보이는데, 테리누스만 알아낼 수 있을 것 같아. 그를 여기로 가져와라."
 bridgecom,dlg,EntryList/1/Text,0,"드디어 다리 컨트롤에 도착했으니, 여기서는 이 곳을 파괴할 수 있어."
 bridgecom,dlg,EntryList/2/Text,0,"이곳이 이 성채의 통제 센터이자, 이곳 사카린의 진짜 지도자입니다. 걱정 마십시오, 나머지와 함께 죽을 겁니다. <StartAction>[테리누스는 장치를 조작하며 계속 말한다.]</Start> 성채에는 이동을 가능하게 하는 엔진이 있습니다. 엔진을 과부하시켜 폭발하게 만들면 성채 전체가 함께 날아갈 것입니다."
@@ -745,7 +745,7 @@ commander,dlg,ReplyList/0/Text,0,"난 여행자야, 내 이름은 중요하지 �
 commander,dlg,ReplyList/1/Text,0,"나는 평민과는 비교도 되지 않게 군무원처럼 보이고, 당신의 사람들이 대부분 죽게 된 것 같다."
 commander,dlg,ReplyList/2/Text,0,나도 내 왕국을 위해 싸웠고 죽었지 네가 죽었던 것이 무의미한 것은 별로 중요하지 않겠지만 난 퇴근해
 commander,dlg,ReplyList/3/Text,0,당신 지휘하에 있는 건 이것뿐이야? 몇 명의 기사들과 군인들 뿐이야?
-commander,dlg,ReplyList/4/Text,0,제가 아일런드군과 싸울 것을 제안합니다. 당신이 왕을 찾아뵙는 동안 제 도움을 받을게요.
+commander,dlg,ReplyList/4/Text,0,제가 아이엘룬드군과 싸울 것을 제안합니다. 당신이 왕을 찾아뵙는 동안 제 도움을 받을게요.
 commander,dlg,ReplyList/5/Text,0,외모는 속일 수 있어. 거래를 하기로 합니까?
 commander,dlg,ReplyList/6/Text,0,"네 일과 관련이 없어. 도움이 필요하면 지금부터는 입을 다물어야 해. 그래도 죽고 싶다면, 그대로 놔두마."
 commander,dlg,ReplyList/7/Text,0,여자들 얘기부터 시작하지 마
@@ -765,7 +765,7 @@ commoner_culdeny,dlg,EntryList/4/Text,0,"다시 공격을 받지 않길 바랍�
 commoner_culdeny,dlg,EntryList/5/Text,0,"만약 남쪽이 이렇게 좋다면, 고속도로를 따라 다양한 생물들이 돌아다니는 것이 좋겠네."
 commoner_culdeny,dlg,EntryList/6/Text,0,"제 <Lord/Lady>, 저는 당신과 대화하는 것이 영광입니다!"
 commoner_culdeny,dlg,EntryList/7/Text,0,"전투 후 이 곳이 다시는 똑같지 않을 거라고 생각했고, 나는 맞았어! 지금 보라, 이 멋진 도시가 얼마나 달라졌는지."
-commoner_culdeny,dlg,EntryList/8/Text,0,쿨든은 이제 정말 도시처럼 보이기 시작했어!
+commoner_culdeny,dlg,EntryList/8/Text,0,쿨데니는 이제 정말 도시처럼 보이기 시작했어!
 commoner_end,dlg,EntryList/0/Text,0,다음에 뭘 해야 할지 잘 모르겠어요. 우린 아주 오랫동안 버텨 왔지만... 적어도 이제는 평범한 삶을 살 기회가 생겼네요.
 commoner_end,dlg,EntryList/1/Text,0,이 세상의 사람들은 당신과 친구들처럼 도움이 되길 바랍니다.
 commoner_end,dlg,EntryList/2/Text,0,"변화를 위해 따뜻한 곳에 온 것은 정말 다행이다. 고마워, 모든 노력에."
@@ -789,11 +789,11 @@ commoner_himarch,dlg,EntryList/0/Text,0,"세상에, 시간이 늦었네. 정말 
 commoner_himarch,dlg,EntryList/1/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 commoner_himarch,dlg,EntryList/2/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 commoner_himarch,dlg,EntryList/3/Text,0,안녕하세요 제 <Lord/Lady>
-commoner_himarch,dlg,EntryList/4/Text,0,이 나라에서 친척을 잃지 않은 사람은 없을 것 같아. 이 전쟁은 아이룬드를 말라게 하고 있습니다.
+commoner_himarch,dlg,EntryList/4/Text,0,이 나라에서 친척을 잃지 않은 사람은 없을 것 같아. 이 전쟁은 아이엘룬드를 말라게 하고 있습니다.
 commoner_himarch,dlg,EntryList/5/Text,0,"음식이 부족해지고, 전쟁 때문에 많은 사람들이 농장을 돌보지 못하고 있어. 더 오래 지속될 수 없겠지."
 commoner_himarch,dlg,EntryList/6/Text,0,왜 아직도 전쟁이 계속되는 거야? 난 이해가 안 돼.. 우리가 이기지 않았나?
 commoner_himarch,dlg,EntryList/7/Text,0,국경 곳곳에서 싸움이 벌어지고 있다고 들었어요.
-commoner_himarch,dlg,EntryList/8/Text,0,"우리가 그 아이언로드 사건을 견뎌냈건만, 왕이 괴물로 변하게 되다니!"
+commoner_himarch,dlg,EntryList/8/Text,0,"우리가 그 철왕 사건을 견뎌냈건만, 왕이 괴물로 변하게 되다니!"
 commoner_maid,dlg,EntryList/0/Text,0,"왕이 아버지를 별로 안 닮았다는 걸 눈치챈 사람이 나뿐일까요? 어머, 제가 그렇게 말했다고는 아무한테도 하지 마세요!"
 commoner_maid,dlg,EntryList/1/Text,0,"전 왕을 이 세상에 존경하지만, 저를 자주 괴롭히지 않았으면 좋겠어요."
 commoner_maid,dlg,EntryList/2/Text,0,왕은 아래층에 특별한 방이 있어 여자들을 데리고 다니는다고 들었어요
@@ -852,7 +852,7 @@ console,dlg,ReplyList/1/Text,0,"나가 여기 작업을 마칠 때, 앞서 언�
 councilor,dlg,EntryList/1/Text,0,노골적인 소란이 외부에서 벌어졌어. 참으로 부적절하네. 옛날 같으면 이렇게 많은 사람들에게 존엄한 행동을 기대할 수 있었지!
 councilor,dlg,EntryList/2/Text,0,"오실 거 들었어요, 제 <Lord/Lady>"
 courtier,dlg,EntryList/0/Text,0,"우리 함대의 대부분이 여기 돌아와서 다행이지만, 모두 한꺼번에 와야 했나 보다."
-courtier,dlg,EntryList/1/Text,0,쿨든리 주변에서 이상한 일이 벌어지고 있다고 들었어요. 심각한 일이라면 바람직하지 않네요.
+courtier,dlg,EntryList/1/Text,0,쿨데니 주변에서 이상한 일이 벌어지고 있다고 들었어요. 심각한 일이라면 바람직하지 않네요.
 courtier,dlg,EntryList/2/Text,0,"왕으로부터 들은 마지막 말은 그가 승리의 가장자리에 있다는 것을 암시했고, 나는 이 모든 것이 빨리 끝나길 희망한다."
 courtier,dlg,EntryList/3/Text,0,항구에는 선원들이 넘쳐나서 사랑이나 돈으로도 들어갈 수 없어.
 courtier,dlg,EntryList/4/Text,0,"소문에 의하면 이 땅 전역을 덮었던 이상한 날씨가 가라앉았고, 우리 앞에 멋진 봄이 다가오고 있다고 합니다!"
@@ -868,7 +868,7 @@ crazyguy,dlg,ReplyList/7/Text,0,네 이름이 뭐야?
 criosa,dlg,EntryList/2/Text,0,"그리고 당신은 그를 막기 위해 왔고, 나를 구하러 온 것이 아니오?"
 criosa,dlg,EntryList/4/Text,0,"네, 그는 베로니크의 탑으로 텔레포트되었습니다. 우리는 그 곳에 접근할 수 없습니다. 그는 완전히 안전합니다. 이 세상에서 다른 어떤 것도 그녀의 권위 없이는 들어갈 수 없습니다. 그녀의 '프로젝트'는 안전합니다."
 criosa,dlg,EntryList/5/Text,0,저 남자가 여기 왜 있는지 모르겠군. 그 남자는 괴물이야!
-criosa,dlg,EntryList/6/Text,0,이 남자는 아이룬드에서 일어난 모든 일에 대해 책임을 지고 있어. 나는 당신이 그와 함께 일하는 것을 좋아하지 않아.
+criosa,dlg,EntryList/6/Text,0,이 남자는 아이엘룬드에서 일어난 모든 일에 대해 책임을 지고 있어. 나는 당신이 그와 함께 일하는 것을 좋아하지 않아.
 criosa,dlg,EntryList/7/Text,0,제 생각에는 항상 가장 중요하다고 확신합니다. 저는 여러분들이 제에 대해 우려하고 있다는 것을 이해합니다.
 criosa,dlg,EntryList/8/Text,0,"내 의도는 명예롭다고 확신한다. 한 번이라도, 크리오사, 당신은 나에 대해 걱정하고 있다는 것을 이해한다. 하지만 지금은 걱정을 잊고 현재의 문제에 집중하는 것이 좋겠다."
 criosa,dlg,EntryList/9/Text,0,오스릭을 잡으면 의심을 완화시킬 수 있을 거야
@@ -891,7 +891,7 @@ criosa,dlg,EntryList/26/Text,0,"나는 그가 언제든지 타워를 떠날 수 
 criosa,dlg,EntryList/27/Text,0,"저는 모두를 방해하는 게 싫지만, 테리누스가 여기 왜 있는지 정말 이해가 가지 않습니다. 그 남자는 악마입니다!"
 criosa,dlg,EntryList/28/Text,0,<StartAction>[로버트 한 장의 좋은 눈을 가지고 당신을 엿보고 방 밖으로 쫓아 나갑니다.]</Start>
 criosa,dlg,EntryList/29/Text,0,테리누스? 여기서 무엇을 하는 거야?
-criosa,dlg,EntryList/30/Text,0,이 남자는 아이룬드에서 일어난 모든 일에 대해 책임을 지고 있어. 나는 당신이 그와 함께 일하는 것을 좋아하지 않아.
+criosa,dlg,EntryList/30/Text,0,이 남자는 아이엘룬드에서 일어난 모든 일에 대해 책임을 지고 있어. 나는 당신이 그와 함께 일하는 것을 좋아하지 않아.
 criosa,dlg,EntryList/31/Text,0,저는 그렇군요. 아마도 그를 먼저 돌봐서 오스릭에게 무슨 일이 있었는지 물어보는 것이 좋을 것 같습니다.
 criosa,dlg,EntryList/32/Text,0,<StartAction>[크리오사의 눈이 빛나고 충동적으로 당신을 키스합니다. 그녀는 당신을 꽉 둘러안아 몇 초 동안 당신을 포옹한 후에 떨어집니다.]</Start>
 criosa,dlg,EntryList/34/Text,0,지금 괜찮으신가요?
@@ -937,7 +937,7 @@ criosa,dlg,ReplyList/46/Text,0,잠깐 얘기할 수 있을까요?
 criosa,dlg,ReplyList/47/Text,0,"물론, 문제 없이."
 criosa_end,dlg,EntryList/0/Text,0,"<FirstName>, 반갑습니다! 우리는 당신을 무사하게 보니 매우 기쁩니다. 당신이 언급한 위협에 대해 승리했다고 가정합니다."
 criosa_end,dlg,EntryList/1/Text,0,"<StartAction>[크리오사가 크게 웃는다.]</Start> 죄송합니다, 그게 여왕처럼 들리지 않았나 봅니다. 좀 더 연습이 필요할 것 같습니다."
-criosa_end,dlg,EntryList/2/Text,0,"오, 그래. 왕좌에 관심을 가진 다른 귀족들이 많았는데, 그들이 어떤 생각을 하지 않도록 기다리지 않았다. 그래서 나는 빠르고 간단한 예식을 통해 아이룬드의 여왕으로 즉위했다. 이렇게 했던 이유는 국가의 리더십에 더 이상 혼란이 생기지 않게 하려는 것과, 피어로크의 파괴 위기에 대한 충격에서 아직 회복되지 않은 사람들에게 더 이상의 혼란을 주지 않기 위해서였다."
+criosa_end,dlg,EntryList/2/Text,0,"오, 그래. 왕좌에 관심을 가진 다른 귀족들이 많았는데, 그들이 어떤 생각을 하지 않도록 기다리지 않았다. 그래서 나는 빠르고 간단한 예식을 통해 아이엘룬드의 여왕으로 즉위했다. 이렇게 했던 이유는 국가의 리더십에 더 이상 혼란이 생기지 않게 하려는 것과, 피어로크의 파괴 위기에 대한 충격에서 아직 회복되지 않은 사람들에게 더 이상의 혼란을 주지 않기 위해서였다."
 criosa_end,dlg,EntryList/3/Text,0,"네, 사실 그랬습니다. 공표가 있었고, 당신이 설명한 대로 거리를 통과했습니다. 하지만 그것은 간단하고 환호성 없이 이루어졌습니다. 그런 일은 적절한 시점이나 장소가 아니었습니다. 하지만 당신! 다시 말해서, 당신 덕분에 우리가 무수한 위험으로부터 구해져서 당신에게 감사의 마음을 전합니다."
 criosa_end,dlg,EntryList/6/Text,0,"당신은 포트 하이마르크를 잘 관리했으니, 앞으로는 대부분의 어려운 일을 대신해 사람들에게 일을 시킬 것이다. 하지만 이 직책을 주는 이유는 그것 때문이 아니라, 앞으로 몇 년은 정치적으로 매우 어려울 것이기 때문에, 가능한 많은 신뢰할 수 있는 사람들이 권력자들의 자리에 있게 하고 싶기 때문이다. 비유적으로 말하는 것이다."
 criosa_end,dlg,EntryList/7/Text,0,"이제? 우리는 국가의 인프라를 재건해야 합니다. 징집된 군인들은 일상생활으로 돌아가 새로운 농작물 시즌을 심어야 합니다. 아이룬드와 이웃 사이의 관계를 진정시키기 위해 합동 외교적 노력이 이루어져야 합니다. 저는 보상이 필요할 수 있다고 생각합니다. 하지만 그건 도울 수 없습니다. 우리 모두에게 힘든 시간이 될 것입니다. 하지만 이제 우리가 마침내 진정한 적들을 제거한 후에, 아이룬드의 미래가 정말 밝을 것이라고 생각합니다."
@@ -952,7 +952,7 @@ criosa_end,dlg,EntryList/15/Text,0,"<StartAction>[크리오사 웃음]</Start> �
 criosa_end,dlg,EntryList/16/Text,0,"나도 믿기 힘들지만, 싸우고 모험은 이제 그만두려고 해. 네가 우리 팀에 합류한 이후로 볼 수 있는 모든 걸 봤으니까, 이번에는 정말 전쟁에 지쳤다고 생각해."
 criosa_end,dlg,EntryList/20/Text,0,"하하, 하루아침에 변하지 않을 거라고 생각하지 마, 베이비. 아직은 결혼이 제대로 깨달음이 안 들어. 언젠가는 확실히 달라지겠지만."
 criosa_end,dlg,EntryList/22/Text,0,"로버트, 당신은 우리에게 다시 한번 재능과 용기를 증명해 주셨습니다. 우리는 당신의 새로운 경력을 잘 활용할 것입니다. <FirstName>과 함께, 우리는 다시 한 번 우리가 겪은 무수한 위험으로부터 우리를 구해 주신 데 대해 다시 한 번 빚을 지고 있습니다."
-criosa_end,dlg,EntryList/23/Text,0,"오, 그래. 왕좌에 관심을 가진 다른 귀족들이 많았는데, 그들이 어떤 생각을 하지 않도록 기다리지 않았다. 그래서 나는 빠르고 간단한 예식을 통해 아이룬드의 여왕으로 즉위했다. 이렇게 했던 이유는 국가의 리더십에 더 이상 혼란이 생기지 않게 하려는 것과, 피어로크의 파괴 위기에 대한 충격에서 아직 회복되지 않은 사람들에게 더 이상의 혼란을 주지 않기 위해서였다."
+criosa_end,dlg,EntryList/23/Text,0,"오, 그래. 왕좌에 관심을 가진 다른 귀족들이 많았는데, 그들이 어떤 생각을 하지 않도록 기다리지 않았다. 그래서 나는 빠르고 간단한 예식을 통해 아이엘룬드의 여왕으로 즉위했다. 이렇게 했던 이유는 국가의 리더십에 더 이상 혼란이 생기지 않게 하려는 것과, 피어로크의 파괴 위기에 대한 충격에서 아직 회복되지 않은 사람들에게 더 이상의 혼란을 주지 않기 위해서였다."
 criosa_end,dlg,EntryList/24/Text,0,"아이룬드의 사람들은 탄력적이죠, 이제 우리의 승리가 결말이 됐으니 축하할 이유가 되죠."
 criosa_end,dlg,EntryList/25/Text,0,"네일리스, 네 말 맞아요. 지난 몇 년 동안의 봉사와 우정은 큰 부분에서 우리의 성공에 책임이 있습니다. 지난 몇 달 동안 페어로크를 도와주는 올바른 선택을 한 것까지 포함해 모든 것에 대해 충분히 감사할 수 없습니다."
 criosa_end,dlg,EntryList/27/Text,0,"지금? 내가 원했던 대로 그 수도원에 갈거야. 내가 회개해야 한다고 느끼기 때문이 아니라, 내가 믿는 것 때문에 교회에서 진정한 심장이 있는 곳이야. 교회, 크리오사, 그리고 아이룬드의 미래에 그들이 어떤 역할을 해야 하는지 얘기하고 싶습니다. 이 때문에 많은 사제들이 범죄로 기소되어야 할 것이고, 전체 계층은 순서에서 추방되어야 할 것입니다."
@@ -968,7 +968,7 @@ criosa_end,dlg,EntryList/36/Text,0,"<StartAction>[크리오사의 경이로운 �
 criosa_end,dlg,EntryList/39/Text,0,<StartAction>[크리오사는 반발하지 않고 숨을 가쁘게 쉬며 키스해.]</Start> 그래서 당신은 승리했나요? 위협은 제거되었나요?
 criosa_end,dlg,EntryList/40/Text,0,"<StartAction>[크리오사 웃음]</Start> 당신이 그렇게 말할 때 나는 그것을 좋아합니다... 당신이 강력한 적들을 상대로 나섰다는 것을 알고 있었음에도 불구하고, 당신은 승리할 것이라고 결코 의심하지 않았습니다. 당신은 나에게 영원히 사라질 수 없을 만큼 너무 중요합니다. <FirstName>"
 criosa_end,dlg,ReplyList/0/Text,0,"우리는 왔고, 우리는 보았으며, 우리는 그들을 깨끗이 처리했다."
-criosa_end,dlg,ReplyList/1/Text,0,그럼 이제 공식적으로 아이룬드의 여왕이 된 거야?
+criosa_end,dlg,ReplyList/1/Text,0,그럼 이제 공식적으로 아이엘룬드의 여왕이 된 거야?
 criosa_end,dlg,ReplyList/2/Text,0,그래서 당신은 차에 타고 거리를 걷지 않았나요? 왕실의 손을 창밖으로 흔들며 그들의 정신을 끌어올리고
 criosa_end,dlg,ReplyList/3/Text,0,"보물 때문에 대부분 했지만, 나라 전체가 자신을 존경하는 건 나쁘지 않아."
 criosa_end,dlg,ReplyList/4/Text,0,"나 잘 알아요, 좋은 싸움을 좋아해요. 이 과정에서 무고한 사람들을 구하면 훨씬 낫죠."
@@ -999,14 +999,14 @@ criosa_final,dlg,EntryList/0/Text,0,"네, 새 친구와 먼저 이야기를 마�
 criosa_final,dlg,EntryList/1/Text,0,난 이 <FirstName>를 한 토막도 좋아하지 않아.
 criosa_final,dlg,EntryList/2/Text,0,"어떻게 그를 믿을 수 있을까요? 그는 우리에게, 그리고 전국에 걸쳐 얼마나 큰 거짓을 떠넘겼는지 아시나요?"
 criosa_final,dlg,EntryList/3/Text,0,"날 거들먹거리지 마, 나는 그가 믿을 수 없다는 걸 알아차리게 하고자 해."
-criosa_final,dlg,EntryList/5/Text,0,"어떤 것도 나를 더 행복하게 만들지 못하지만, 불행히도 의무는 우선되어야 합니다. 나의 나라가 나를 필요로 하므로, 이렇게 떠나는 것은 불가능합니다. 아이룬드는 철왕의 독재적 통치로 인해 지난 2년 동안 많은 고통을 겪었습니다. 저는 남겨진 상처를 치유하기 위해 최선을 다해야 합니다."
+criosa_final,dlg,EntryList/5/Text,0,"어떤 것도 나를 더 행복하게 만들지 못하지만, 불행히도 의무는 우선되어야 합니다. 나의 나라가 나를 필요로 하므로, 이렇게 떠나는 것은 불가능합니다. 아이엘룬드는 철왕의 독재적 통치로 인해 지난 2년 동안 많은 고통을 겪었습니다. 저는 남겨진 상처를 치유하기 위해 최선을 다해야 합니다."
 criosa_final,dlg,EntryList/6/Text,0,"<StartAction>[크리오사의 목소리는 조심스럽게 통제되어 있습니다.]</Start> 내 아버지는 오래 전에 죽었습니다.<FirstName>. 왕좌에 앉아 있던 그 *것*은 단순히 아버지를 죽인 괴물이었습니다. 이제 사라졌으니, 누군가가 왕좌를 차지해야 합니다. 그리고 그 누군가가 바로 나입니다."
 criosa_final,dlg,EntryList/8/Text,0,<StartAction>[크리오사 쓴웃음]</Start> 아직 감사하지 마세요. 이제 귀족들 중 누구를 믿을 수 있는지 모르겠어요. 그래서 전 충성자들을 배신자들로부터 떼어내기 전까지 많은 타이틀을 쌓을 계획입니다.
 criosa_final,dlg,EntryList/9/Text,0,"<StartAction>[그녀는 웃는다.]</Start> 충분히 많이 볼 수 있을 거예요, 약속합니다. 하지만 당신의 현재 임무를 더 이상 방해하지 않도록 빨리 말씀드리겠습니다. 당신이 그것이 무엇인지 말할 수 있을지 모르겠네요?"
-criosa_final,dlg,EntryList/10/Text,0,"이해했습니다. 모든 사람들 중 당신을 걱정하게 만드는 것은 무엇인지 모르겠지만, 당신이 그것을 처리할 수 있다는 것을 알고 있습니다. 나는 당신을 믿으며, 당신이 아이룬드의 최선을 위해 일하고 있다는 것을 알고 있습니다."
+criosa_final,dlg,EntryList/10/Text,0,"이해했습니다. 모든 사람들 중 당신을 걱정하게 만드는 것은 무엇인지 모르겠지만, 당신이 그것을 처리할 수 있다는 것을 알고 있습니다. 나는 당신을 믿으며, 당신이 아이엘룬드의 최선을 위해 일하고 있다는 것을 알고 있습니다."
 criosa_final,dlg,EntryList/14/Text,0,"그래야지. 결국 널 곁에 두기로 하겠어. 자, 가라, 쿨데니의 영웅, 아이언로드를 처치한 자여. 감사하는 온 나라의 기도와 마음이 매 걸음 너와 함께한다는 걸 알고서 이 마지막 위대한 임무를 끝내라. 가라, <FirstName>, 그리고 승리하여 내게 돌아오라."
 criosa_final,dlg,EntryList/15/Text,0,"안녕히, 나의 용사여."
-criosa_final,dlg,EntryList/16/Text,0,"이해했습니다. 모든 사람들 중 당신을 걱정하게 만드는 것은 무엇인지 모르겠지만, 당신이 그것을 처리할 수 있다는 것을 알고 있습니다. 나는 당신을 믿으며, 당신이 아이룬드의 최선을 위해 일하고 있다는 것을 알고 있습니다."
+criosa_final,dlg,EntryList/16/Text,0,"이해했습니다. 모든 사람들 중 당신을 걱정하게 만드는 것은 무엇인지 모르겠지만, 당신이 그것을 처리할 수 있다는 것을 알고 있습니다. 나는 당신을 믿으며, 당신이 아이엘룬드의 최선을 위해 일하고 있다는 것을 알고 있습니다."
 criosa_final,dlg,EntryList/17/Text,0,"더 가기 전에, 크리오사여, 듣고 싶은 것이 있으니 기다려 주시기 바랍니다."
 criosa_final,dlg,EntryList/18/Text,0,"그게 무엇인가요? 권위 있는 자리 제안을 할까도 생각했지만, 우리는 마지막에 그랬을 때 당신이 거절하고 더 군인을 연기하기 위해 도망쳐갔기 때문에..."
 criosa_final,dlg,EntryList/19/Text,0,"아니, 그런 게 아니에요. 실제로는 반대로요. 제가 지난번 떠났을 때, 그것은 부분적으로 제가 여전히 제 인생에서 모험의 흥분을 원한다고 생각했기 때문이었죠."
@@ -1385,7 +1385,7 @@ dinner,dlg,EntryList/17/Text,0,"저는 그것이 어렵다는 것을 압니다. 
 dinner,dlg,EntryList/19/Text,0,"제가 말씀드린 모든 것이 진실이고, 죄송합니다. 하지만 당신이 이 마지막 위대한 전투에서 저를 도와주지 않는다면, 당신은 자유롭게 떠날 수 있습니다. 저는 당신을 막을 수 없습니다. 하지만 만약 당신이 어느 정도의 지혜를 가진다면, 저와 함께 그들의 탄압을 한 번에 끝내는 데 도움을 주는 것이 좋겠습니다."
 dinner,dlg,EntryList/20/Text,0,"너는 바보야, <FirstName>. 그리고 일주일 안에, 네가 어디에 있든 무엇을 하든 우리는 모두 죽을 거야. 지옥에서 보자."
 dinner,dlg,EntryList/21/Text,0,"저는 비유를 이어 말하자면 감시자 중 한 명입니다. 제 임무는 주인들에게 매주 보고서를 올리고 그들의 지시를 수행하는 것이죠. 하지만 어떤 면에서는 당신처럼 저도 포로입니다. 마지못해 복무하고 있고, 주인들이 제 배신을 알아차리면 제 목숨은 끝입니다."
-dinner,dlg,EntryList/22/Text,0,그들은 아이룬드를 완전히 파괴하여 1000마일 너비의 거대한 홀을 만들 정도로 모든 것을 지우려 할 것이다. 그리고 그 후 1000년 동안 그곳에서 아무것도 자라나지 않을 것이다. 그러나 아직 알려야 할 것이 더 있다...
+dinner,dlg,EntryList/22/Text,0,그들은 아이엘룬드를 완전히 파괴하여 1000마일 너비의 거대한 홀을 만들 정도로 모든 것을 지우려 할 것이다. 그리고 그 후 1000년 동안 그곳에서 아무것도 자라나지 않을 것이다. 그러나 아직 알려야 할 것이 더 있다...
 dinner,dlg,EntryList/23/Text,0,저는 최근에 그들의 낮은 순위 구성원 중 한 명에게 정보를 구하기 위해 뇌물을 줬습니다. 그리고 사카린족은 쇠퇴하는 제국이라는 것을 이해합니다. 그들의 인종은 고대적이며 별들 사이의 전쟁은 셀 수 없이 많습니다.
 dinner,dlg,EntryList/24/Text,0,"최근 그들은 나와 나 같은 사람들이 그들의 일을 수행하기 위해 점점 더 나에 의존하고 있습니다. 한 세기 전, 그들은 그들의 유물 갑옷, 당신이 아이언로드라고 부르는 드레스를 알라리크 로베크에 도입했습니다. 알라리크가 이웃 왕국들과 평화와 무역 협정을 체결할 지점에 있었기 때문에 아이룬드 나라를 불안정하게 만들 수 있었습니다. 이것은 그들이 수용자들에게 용납할 수 없는 번영과 과학적 발전의 시대를 가져왔을 것입니다. 그것은 그들의 기술의 유일한 조각이었습니다. 나는 이 세상의 모든 사람이 소유한 것을 알고 있습니다."
 dinner,dlg,EntryList/25/Text,0,"나도 몰라, 그리고 직접적으로 마스터에게 연락할 용기가 없어요. 더 많은 조사가 필요하지만 먼저 우리 자신의 장비들을 가져가야 합니다. 오세요, 제가 여러분께 제 실험실로 보여드리겠습니다."
@@ -2372,7 +2372,7 @@ hench_criosa,dlg,EntryList/10/Text,0,"네 재판 동안 아버지는 나마저 �
 hench_criosa,dlg,EntryList/11/Text,0,네일리스가 네 시체를 되찾은 무렵에 내가 추방당했었지 그래서 얼마 지나지 않아 그녀의 바퀴를 타고
 hench_criosa,dlg,EntryList/12/Text,0,"실제로, 이제 질문은, 물론, 우리가 앞으로 어디로 가는지입니다."
 hench_criosa,dlg,EntryList/14/Text,0,"그럼 필요 이상으로 지체하지 말자. 그래도 먼저 근처 시골에서 물자부터 구해야 해, 안 그러면 사막에서 죽을 테니까. 투손은 여기서 서쪽이니 이동하면서 눈여겨보자."
-hench_criosa,dlg,EntryList/15/Text,0,"안타깝지만, 아버지를 사랑했지만 아이룬드의 왕좌에 앉아 있는 사람은 더 이상 같은 사람이 아니다. 결국 정말 배신죄를 범한 것 같군. 그렇다면 투슨으로 가자. 여기서 서쪽으로 가면 된다."
+hench_criosa,dlg,EntryList/15/Text,0,"안타깝지만, 아버지를 사랑했지만 아이엘룬드의 왕좌에 앉아 있는 사람은 더 이상 같은 사람이 아니다. 결국 정말 배신죄를 범한 것 같군. 그렇다면 투슨으로 가자. 여기서 서쪽으로 가면 된다."
 hench_criosa,dlg,EntryList/16/Text,0,"네... 또 하나의 일입니다. 몇 년 전에 주신 반지를 구해왔어요. 당신이 다시 원할 것 같아서, 아무도 없을 때 가져왔습니다."
 hench_criosa,dlg,EntryList/17/Text,0,힘들었어요. 당신의 몸을 봤을 때 거의 희망을 잃었어요. 하지만 지금은 그 어떤 것도 중요하지 않습니다. 우리는 다시 함께합니다!
 hench_criosa,dlg,EntryList/19/Text,0,그걸 알아두면 좋았다. 곧 연락을 기다리고 있을게.
@@ -2574,7 +2574,7 @@ hench_jezelle,dlg,EntryList/59/Text,0,"네, 저는 위험합니다. 저는 여�
 hench_jezelle,dlg,EntryList/60/Text,0,"영혼들이 자기들의 범죄로 인해 영원히 고통받는다고 하는 잘못된 생각입니다. 영혼은 특정 주파수에서 진동하고 물질적 몸에서 방출되면 진동과 가장 유사한 수준으로 끌어당겨집니다. 여기서 끝나는 모든 필사자들은 그들이 가장 원하는 것이 바로 그것이기 때문에 여기에 끌립니다. 처벌이나 면죄 또는 그 어떤 것도 아니더라도, 지옥에서 보는 영혼들은 그들이 마땅한 것이기 때문에 거기에 있습니다. 우주에는 질서가 있고, 우리는 단지 그 일부입니다."
 hench_jezelle,dlg,EntryList/61/Text,0,"오해하지 마세요, 제 시간 동안 제 몫보다 더 많은 고통을 겪었습니다. <StartAction>[제젤은 허무하게 지팡이를 습니다.]</Start> 하지만 당신이 생각하는 것은 아닙니다. 당신이 들은 대부분의 것은 의심의 여지없이 당신의 교회로부터의 거짓말입니다. 당신은 여전히 숨을 쉬는 것을 알게 될 것입니다. <StartAction>[제젤은 눈 을 습니다.]</Start>"
 hench_jezelle,dlg,EntryList/62/Text,0,"<StartAction> [그녀는 거]</Start> 당신은 그렇지 않습니다. 그것은 당신이 배운 다른 모든 것에 대한 내 단어입니다, 그렇지 않나요? 어느 쪽이든, 나는 신경 쓰지 않습니다."
-hench_jezelle,dlg,EntryList/63/Text,0,"<StartAction>[그녀는 당신에게 혹독한 시선을 준다.]</Start> 물론 그렇지 않다. 저는 아이룬드의 대부분이 오직 한 신이 있다고 생각한다고 알고 있지만, 그건 거짓말이다. 교회가 꾸민 거짓말이다. 저는 그의 은총, 인시디아 아치두크를 통해 제 권력을 얻는다. 그리고 그는 다시 매칼로 알려진 분을 위해 일하고 있다."
+hench_jezelle,dlg,EntryList/63/Text,0,"<StartAction>[그녀는 당신에게 혹독한 시선을 준다.]</Start> 물론 그렇지 않다. 저는 아이엘룬드의 대부분이 오직 한 신이 있다고 생각한다고 알고 있지만, 그건 거짓말이다. 교회가 꾸민 거짓말이다. 저는 그의 은총, 인시디아 아치두크를 통해 제 권력을 얻는다. 그리고 그는 다시 매칼로 알려진 분을 위해 일하고 있다."
 hench_jezelle,dlg,EntryList/64/Text,0,"네, 죽음은 그의 힘의 근원이고, 생명은 아이룬드의 신인 아이레덴의 힘의 근원이고, 그의 충성스러운 봉사를 통해"
 hench_jezelle,dlg,EntryList/65/Text,0,"확실히 그분은 당신들의 노력을 감사합니다. 만약 그렇지 않았다면, 그분의 축복이 나를 통해 당신에게 제공될 수 있을지는 의심스럽습니다."
 hench_jezelle,dlg,EntryList/66/Text,0,<StartAction>[제젤은 웃고 붉은 눈으로 당신을 평가하지만 더 이상 말하지 않는다.]</Start>
@@ -2874,7 +2874,7 @@ hench_nellise,dlg,ReplyList/203/Text,0,하지만 상상력을 이용해 어떤 �
 hench_nellise,dlg,ReplyList/204/Text,0,음... 적어도 풀려날 가능성은 생각해 두었군. 그건 아직 희망을 버리지 않았다는 뜻이야.
 hench_nellise,dlg,ReplyList/205/Text,0,베네딕텀처럼 들리기 시작했어
 hench_nellise,dlg,ReplyList/206/Text,0,"흥미롭군. 네일리스, 당신은 매우 독특한 개인이 되었다."
-hench_nellise,dlg,ReplyList/207/Text,0,"하지만 아이룬드는 '왕을 몰아내기'의 일부분이고, '왕을 철의 손길로 통치하도록 도와주기'라는 것 또한 언급해야 한다."
+hench_nellise,dlg,ReplyList/207/Text,0,"하지만 아이엘룬드는 '왕을 몰아내기'의 일부분이고, '왕을 철의 손길로 통치하도록 도와주기'라는 것 또한 언급해야 한다."
 hench_nellise,dlg,ReplyList/208/Text,0,이해관계 갈등이 맞나?
 hench_nellise,dlg,ReplyList/209/Text,0,"넬리스, 세상의 모든 행운이 함께하길 빌어. 하지만 그보다, 사람들이 적어도 네 말에 귀를 기울여 주길 바라네. 넌 극복해야 할 평판이 있으니까."
 hench_nellise,dlg,ReplyList/210/Text,0,"네일, 다시 한번 목적을 찾게 돼 기쁘네. 당신이 나에게 이런 것을 고백해줘서 고마워."
@@ -3182,7 +3182,7 @@ history2,dlg,ReplyList/6/Text,0,다음 페이지로 이동합니다.
 history2,dlg,ReplyList/7/Text,0,다음 페이지로 이동합니다.
 history2,dlg,ReplyList/8/Text,0,<StartAction>[책은 여기서 끝납니다. 한 발자국 메모는 3부에서 계속되고 있으며 클립의 가장자리 전투에 대한 더 자세한 정보는 같은 이름의 책에서 찾을 수 있습니다.]</Start>
 history3,dlg,EntryList/0/Text,0,<StartAction>[이 책을 읽어볼까요?]</Start>
-history3,dlg,EntryList/1/Text,0,"철왕과의 전투 이후 한 해가 지나자, 교회는 정치와 시민사안에 더 큰 영향력을 행사하기 시작했다. 인구는 철왕의 힘에 두려워하여 그러한 존재가 어떻게 일어날 수 있는지 궁금해했다. 믿음은 그러한 불확실성에 직면하여 사람들에게 힘을 주었고, 점점 더 많은 신도들이 모여 아이룬드의 교회는 황금시대에 들어갔다."
+history3,dlg,EntryList/1/Text,0,"철왕과의 전투 이후 한 해가 지나자, 교회는 정치와 시민사안에 더 큰 영향력을 행사하기 시작했다. 인구는 철왕의 힘에 두려워하여 그러한 존재가 어떻게 일어날 수 있는지 궁금해했다. 믿음은 그러한 불확실성에 직면하여 사람들에게 힘을 주었고, 점점 더 많은 신도들이 모여 아이엘룬드의 교회는 황금시대에 들어갔다."
 history3,dlg,EntryList/2/Text,0,"그 결과 는 처음에는 매우 유익 한 일 이었으며, 지역 사회 를 하나로 묶어 왕국 을 강화 시키는데 도움 이 되었다. 그러나 다음 년 에 사제 들 이 정치적으로 더 동기를 부여 하게 되자, 교회 는 왕 자신 과 경쟁 하는 권력 수준 을 가지기 시작 하였다. 교회 의 대주교 는 (왕 의 법령 에 의해 이름 은 영원히 기록 에서 삭제 되었다) 의 기회 를 보았으며, 아이엘런드를 그의 비전 으로 재구성 할 기회 를 보았다. 의로운 사람 들 과 하느님 을 경외 하는 사람 들 이 통치 하는 왕국."
 history3,dlg,EntryList/3/Text,0,"775년, 하우스 오브 로드 (그리고 따라서 그 나라 자체) 를 실질적으로 통제했던 주교는 범죄자를 감금하고 악인을 처벌하는 권위를 더할 수 있는 법률의 변경을 ' 제안'했다. 그의 새로운 법률이 통과되었을 때, 도시 경비가 즉시 페어로크의 알려진 문제점들을 발견하고 범죄에 의심되는 사람들을 체포하기 시작했습니다. 그리고 그 동안, 제 4 알라리크 왕은 자신의 성에 앉아 있었고, 갑자기 자신이 더 이상 자신의 왕국을 지휘하지 않는다는 것을 깨달았습니다."
 history3,dlg,EntryList/4/Text,0,"그 해 후 에, 청교도 의 사제 들 과 도시 경호 는 지역 의 모든 매춘장 들 이 하느님 의 법 을 위반 하고 있으며, 매춘 은 페어로크 의 깨끗한 거리에서 근절 해야 할 것 이라고 결정 하였다. 이 운동 은 도시 의 많은 사람 들 의 지지 를 받았지만, 은밀 히 대다수 인민 이 분노 하였는데, 아마도 대부분의 남성 인민 들 은 그러한 사업 을 생활 의 어느 시점 에 이용 했기 때문 이다."
@@ -3206,7 +3206,7 @@ history_tusone,dlg,EntryList/1/Text,0,"548년에, 한 작은 해안 마을이 �
 history_tusone,dlg,EntryList/2/Text,0,"다음 세기 동안, 두 문화가 합병하고 번영했고, 살기 수단으로 습격에서 농업을 거듭했습니다. 땅은 비옥했고 시간이 지남에 따라 인구가 확장되어 근처에 더 많은 도시를 시작했습니다. 그러나 대전적인 줄기는 토소니트족으로부터 완전히 사라지지 않았습니다. 652 년경에 국가는 아트카라트라 제국으로 뻗어나가기 까지 확장되었습니다. 그 당시 여전히 하이마르크 산맥의 동쪽과 남쪽을 포괄하는 강력한 국가였습니다."
 history_tusone,dlg,EntryList/3/Text,0,"젊고 활발한 투소네 군대는 전쟁에서 패배를 경험하지 못했고, 아트칼라트라의 외부 서부 지역에 공격하여 작은 도시를 일으켰다. 데이비논 1왕의 지휘 아래 투소네 군대는 반격에 거의 6개월 동안 견딜 수 있었다. 적 군대의 막대한 수가 데이비논을 철수하도록 강요하기 전에. 새로운 왕국의 첫 패배였지만 마지막은 아니었다. 아트칼라트라의 숙련된 전사들은 지형을 잘 알고 학문적이었으며, 제국의 쇠퇴하는 힘에도 불구하고 수십 년 동안 투소네 군대의 공격을 물리칠 수 있었다."
 history_tusone,dlg,EntryList/4/Text,0,"693년까지 투소네의 군대는 아직 충분히 발전하지 못하여 아트칼라트라의 상당 부분을 영구적으로 차지하려고 시도하지 못했다. 서부 산맥의 광범위한 철광석을 이용하여 투소네는 처음으로 판 갑옷을 장비할 수 있었고, 이는 이웃 사막 전사들에 대한 싸움에서 큰 차이를 만들었다."
-history_tusone,dlg,EntryList/5/Text,0,"800년대 초에, 지역 사안에서 아트칼라트라의 통치는 끝났다. 투소네는 삼위일체로 자리 잡게 될 곳으로까지 국경을 확장했고, 아이룬드의 하이마르크 요새 건설은 점차 세 나라 간 현재의 국경을 형성해 나갔다."
+history_tusone,dlg,EntryList/5/Text,0,"800년대 초에, 지역 사안에서 아트칼라트라의 통치는 끝났다. 투소네는 삼위일체로 자리 잡게 될 곳으로까지 국경을 확장했고, 아이엘룬드의 하이마르크 요새 건설은 점차 세 나라 간 현재의 국경을 형성해 나갔다."
 history_tusone,dlg,ReplyList/0/Text,0,- 아니
 history_tusone,dlg,ReplyList/1/Text,0,그래.
 history_tusone,dlg,ReplyList/2/Text,0,책을 닫으세요.
@@ -3260,8 +3260,8 @@ insidiae,dlg,EntryList/31/Text,0,"승리할 거야, 아니면 죽을 거야. 나
 insidiae,dlg,EntryList/32/Text,0,"<StartAction>[악마의 얼굴에 속삭이는 미소가 나타납니다.]</Start> 내가 네 이익을 위해 그렇게 했다. 자신감이 부족해서 너가 이길 수 없다고 생각할 때까지, 나는 네가 이길 수 있다는 걸 알았단다. 만약 네가 반신과 맞서야 한다는 걸 알았다면, 정말로 그것을 물리치려고 시도했을까?"
 insidiae,dlg,EntryList/33/Text,0,"아니, 그럴 거야 하지만 폭풍이 감옥에서 갇혀 있는 걸 보여줘"
 insidiae,dlg,EntryList/34/Text,0,생각해 보니 아바돈과 싸우지 않고는 사카린 성채에 갈 수 없을 것 같군요.
-insidiae,dlg,EntryList/35/Text,0,"사카아린은 보안상의 이유로 모든 입구를 차단했으며, 유일한 방법은 물질 평면의 탑이나 아직 차단하지 못한 새로운 포털을 통해만 가능합니다. 아케론 평면에 위치한 유일한 포털은 내가 알고 있는 곳이며, 거기서 아바돈이 자신의 길을 향해 싸우고 있습니다. 실제로, 나는 내 오래된 적이 이 포털을 사용해 내 방어선을 침투하려고 시도하고 있다고 확신합니다."
-insidiae,dlg,EntryList/36/Text,0,아바돈을 물리치기 위해 일시적인 동맹을 결성해 보는 것이 좋을 것 같습니다. 이렇게 하면 양측의 이익이 달성될 수 있습니다. 당신은 사카아린의 방어선을 돌파하는 다른 방법을 찾을 수 없을 것입니다.
+insidiae,dlg,EntryList/35/Text,0,"사카린은 보안상의 이유로 모든 입구를 차단했으며, 유일한 방법은 물질 평면의 탑이나 아직 차단하지 못한 새로운 포털을 통해만 가능합니다. 아케론 평면에 위치한 유일한 포털은 내가 알고 있는 곳이며, 거기서 아바돈이 자신의 길을 향해 싸우고 있습니다. 실제로, 나는 내 오래된 적이 이 포털을 사용해 내 방어선을 침투하려고 시도하고 있다고 확신합니다."
+insidiae,dlg,EntryList/36/Text,0,아바돈을 물리치기 위해 일시적인 동맹을 결성해 보는 것이 좋을 것 같습니다. 이렇게 하면 양측의 이익이 달성될 수 있습니다. 당신은 사카린의 방어선을 돌파하는 다른 방법을 찾을 수 없을 것입니다.
 insidiae,dlg,EntryList/37/Text,0,"이번에는 거짓말이 아닙니다. 제 제안을 받아들이셔도 되고, 적과 싸울 방법을 헛되이 찾아다니며 평생을 보내셔도 됩니다."
 insidiae,dlg,EntryList/38/Text,0,"네, 그렇습니다. 여기 중요한 점은, 당신이 나를 상대로 이 무기를 사용하지 않게 약속을 해주어야 나의 강력한 무기를 주지 않겠다는 것입니다."
 insidiae,dlg,EntryList/39/Text,0,"내가 받아들일 수 있습니다. 나는 나의 군대의 잔해를 모아 아케론으로 이동할 것입니다. 당신은 홀을 통해 이동하고 있기 때문에, 당신은 아케론의 문에 접근해야합니다. 이 스펙트럼 키를 가져, 당신은 준비 될 때 아케론에 들어갈 수 있습니다."
@@ -3278,7 +3278,7 @@ insidiae,dlg,ReplyList/0/Text,0,"만약 당신이 내가 그들에게 준 것 �
 insidiae,dlg,ReplyList/1/Text,0,"내가 널 죽이고 너의 모든 것을 빼앗을 수 있는데, 왜 내가 너한테 일하고 싶겠는가?"
 insidiae,dlg,ReplyList/2/Text,0,"흥미로운 제안입니다. 좋습니다, 나의 말을 들어보도록 하겠습니다."
 insidiae,dlg,ReplyList/3/Text,0,정확히 이 무기를 보호하고 있는 것은 무엇인가?
-insidiae,dlg,ReplyList/4/Text,0,"솔직히 말해, 당신이 암시하는 것보다 훨씬 더 어려운 싸움이 될 것 같아. 하지만 지불에 대해 이야기하자. 두 가지가 필요해: 강력한 장비와 사카아린 요새에 접근하는 방법. 이런 곳에 익숙한가?"
+insidiae,dlg,ReplyList/4/Text,0,"솔직히 말해, 당신이 암시하는 것보다 훨씬 더 어려운 싸움이 될 것 같아. 하지만 지불에 대해 이야기하자. 두 가지가 필요해: 강력한 장비와 사카린 요새에 접근하는 방법. 이런 곳에 익숙한가?"
 insidiae,dlg,ReplyList/5/Text,0,"아주 좋은데, 내가 가서 이 무기를 가져가서 거래할 수 있어."
 insidiae,dlg,ReplyList/6/Text,0,내가 끝나면 포털을 닫지 못해?
 insidiae,dlg,ReplyList/7/Text,0,그리고 나는 당신이 아치악마라 할지라도 당신의 약속을 지키실 거라고 믿어야 하나?
@@ -3316,7 +3316,7 @@ insidiae,dlg,ReplyList/50/Text,0,실제로 그녀의 치유 능력이 필요해.
 insidiae,dlg,ReplyList/51/Text,0,"그녀는 오랜 시간 동안 내 지속적인 동반자였고, 그녀의 조언을 따를 것이다. 그간, 인시디아."
 insidiae,dlg,ReplyList/52/Text,0,"이게 가치가 있다고 생각하시길 바랍니다, 네!"
 insidiae,dlg,ReplyList/53/Text,0,"만약 당신이 제 탐구에 지원을 주는다면, 그녀는 필요하지 않을 거야."
-insidiae,dlg,ReplyList/54/Text,0,"당신이 맞습니다, 도덕적인 이유로 이 일을 포기하지 않을 거예요. 아이룬드를 구하기 위해 필요한 대로 해볼 것이고, 이 동맹은 반드시 이루어질 거예요."
+insidiae,dlg,ReplyList/54/Text,0,"당신이 맞습니다, 도덕적인 이유로 이 일을 포기하지 않을 거예요. 아이엘룬드를 구하기 위해 필요한 대로 해볼 것이고, 이 동맹은 반드시 이루어질 거예요."
 insidiae,dlg,ReplyList/55/Text,0,꺼져. 네 도덕적인 설교는 항상 날 지치게 해.
 insidiae,dlg,ReplyList/56/Text,0,네가 내가 보는 대로 바라보고 싶었으면 좋겠어 네일리스 하지만 그건 네 선택이야
 insidiae,dlg,ReplyList/57/Text,0,"쉽게 온 것이면 쉽게 가는 것이니, 좋은 대안을 갖추었으면 좋겠네요."
@@ -3394,7 +3394,7 @@ insidiae2,dlg,ReplyList/38/Text,0,"천만에요? 뭐라고 그러는 거야? 내
 insidiae2,dlg,ReplyList/39/Text,0,이 헛소리 그만해 내 적들이 기다리고 있어
 insidiae2,dlg,ReplyList/40/Text,0,잠깐. 먼저 몇 가지 일을 처리해야겠어.
 insidiae2,dlg,ReplyList/41/Text,0,나는. 열어주겠니.
-intro,dlg,EntryList/0/Text,0,아일런드 사가의 끝을 맞이해 축하합니다. 이곳에서 우리의 이야기가 끝난 것을 희망합니다. 이전에 즐거움을 느꼈기를 바랍니다.
+intro,dlg,EntryList/0/Text,0,아이엘룬드 사가의 끝을 맞이해 축하합니다. 이곳에서 우리의 이야기가 끝난 것을 희망합니다. 이전에 즐거움을 느꼈기를 바랍니다.
 jez,dlg,EntryList/0/Text,0,에 갇혀있지 않은 사람들 중 몇 명만이 그의 은혜 앞에 서있었으니
 jez,dlg,EntryList/1/Text,0,그래서 우리는 잠시 동맹이 되었다. 얼마나 귀여운가. 그 고귀하신 분은 나에게 장비를 제공해 줄 것을 요청하셨습니다. 이 장비는 당신이 아바다곤을 맞서기 위해 필요할 것이다.
 jez,dlg,EntryList/4/Text,0,<StartAction>[제젤은 웃는다.]</Start> 날 그렇게 놀리지 마. 여기 당신은 당신의 갑옷과 방패와 헬멧과 함께 있습니다.
@@ -3567,7 +3567,7 @@ katsumi,dlg,ReplyList/33/Text,0,"알았어, 그냥 가져오면?"
 katsumi,dlg,ReplyList/34/Text,0,그럼 행운을 빌어요
 katsumi,dlg,ReplyList/35/Text,0,"그가 그 도시에서 어딘가에 있다면, 언젠가는 그를 만나게 될 거야"
 katsumi,dlg,ReplyList/38/Text,0,여기서 나가려면 포털을 고쳐야 해. 어떤 문제가 있는지 알고 있는가?
-katsumi,dlg,ReplyList/40/Text,0,사카아린들이 우리를 공격할 것인가?
+katsumi,dlg,ReplyList/40/Text,0,사카린들이 우리를 공격할 것인가?
 katsumi,dlg,ReplyList/41/Text,0,이 파괴는 얼마나 오랫동안 지속되었나?
 katsumi,dlg,ReplyList/42/Text,0,"아니, 지금 나가려고 한다."
 katsumi,dlg,ReplyList/43/Text,0,나는 그걸 만들어낼 거라고 말했어.
@@ -4063,7 +4063,7 @@ michel,dlg,ReplyList/9/Text,0,"죽이고 싶니? 그렇다면, 가격을 지불�
 michel,dlg,ReplyList/10/Text,0,"그래, 그게 괜찮아 보이지만, 날 속이려고는 하지 마."
 michel,dlg,ReplyList/11/Text,0,그럼 거래가 성립입니다. 한 마리의 강력한 마법 무기 대신 죽은 원소를.
 michel,dlg,ReplyList/12/Text,0,너가 그걸 잡아볼 수 있을까?
-michel,dlg,ReplyList/13/Text,0,"미안하지만, 아이룬드로 여행을 준비하고 있어 지역적인 문제로 인해 방해받을 수 없습니다."
+michel,dlg,ReplyList/13/Text,0,"미안하지만, 아이엘룬드로 여행을 준비하고 있어 지역적인 문제로 인해 방해받을 수 없습니다."
 michel,dlg,ReplyList/15/Text,0,내가 할 수 있어
 michel,dlg,ReplyList/16/Text,0,"그건 신중한 생각이야. 알았어, 끝나면 다시 돌아올게."
 michel,dlg,ReplyList/17/Text,0,나는 구입할 수 있는 장비가 있었으면 좋았겠어.
@@ -4159,7 +4159,7 @@ olaf,dlg,EntryList/2/Text,0,쿨든리로 가야만 했지 내가 뭘 생각했�
 olaf,dlg,EntryList/3/Text,0,내 잘못이야... 모두 내 잘못이야.
 olaf,dlg,EntryList/5/Text,0,"저는 고백해야 합니다. 힘든 시간이었죠. 저는 제 마을을 살리기 위해 최선을 다했습니다. 하지만 끊임없는 전쟁은 너무나도 험난한 일이었습니다. 그리고 이것은! 늑대 늑대인간, 만약 당신이 그것을 믿을 수 있다면. 데이비드는 늑대 늑대 사냥꾼의 후손입니다. 그래서 그는 그들에 대해 꽤 많은 전설을 가지고 있습니다. 그리고 그는 심지어 그들을 죽일 수있는 무기를 가지고 있습니다. 하지만 그것은 도시를 구하기 위해 충분하지 않았습니다. 이번에는 아닙니다."
 olaf,dlg,EntryList/6/Text,0,"<StartAction>[올라프 고개를 끄덕인다. 그는 정말 늙고 피곤해 보인다.]</Start> 나위에는 아니지만, 몇 년 전 브랙스워스는 용병들에 의해 처음으로 공격당했을 때 끔찍한 타격이었습니다. 두 번째에는 거대들이 침략했고 피해는 훨씬 더 심각했습니다. 건물들이 불타고, 작물들이 파괴되었지만 여전히 그것을 재건할 용기가 있었습니다. 하지만 지금은 우리 중 충분하지 않습니다."
-olaf,dlg,EntryList/7/Text,0,"우리 모두가 이 상황을 극복하면 쿨든에 정착하기로 합의했습니다. 저는 물가에 작은 캐빈을 가지고 있어 남은 몇 년을 거기에서 보내려 합니다. 만약 어떤 사람이 평온이 찾아오면 이 곳을 다시 짓고 싶다면, 환영합니다. 하지만 사실상 브랙스워스는 파괴되었다고 할 수 있습니다."
+olaf,dlg,EntryList/7/Text,0,"우리 모두가 이 상황을 극복하면 쿨데니에 정착하기로 합의했습니다. 저는 물가에 작은 캐빈을 가지고 있어 남은 몇 년을 거기에서 보내려 합니다. 만약 어떤 사람이 평온이 찾아오면 이 곳을 다시 짓고 싶다면, 환영합니다. 하지만 사실상 브랙스워스는 파괴되었다고 할 수 있습니다."
 olaf,dlg,EntryList/9/Text,0,"아니, 말해야 했지, 오래된 친구. 여기서 살아서 나올 수 없을 확률이 높고, 더 많은 일을 할 수 없었기 때문에 미안하다는 걸 알려주고 싶었어."
 olaf,dlg,EntryList/11/Text,0,네? 도와드릴까요?
 olaf,dlg,EntryList/12/Text,0,뭐야?
@@ -4193,7 +4193,7 @@ osric,dlg,ReplyList/4/Text,0,"그건 그렇고, 그녀는 저를 가리키고 �
 osric,dlg,ReplyList/7/Text,0,그럼 불에 던져
 osric,dlg,ReplyList/8/Text,0,난 큰 부츠를 신고 있어.
 outpost_command,dlg,EntryList/0/Text,0,"멈춰요, 누구시죠?"
-outpost_command,dlg,EntryList/1/Text,0,"하, 나는 아이룬드의 왕이구나. 신의 갑옷을 입고 땅을 휘저고 있는 거지들아, 너희들은 큰 소리로 떠들어보거라!"
+outpost_command,dlg,EntryList/1/Text,0,"하, 나는 아이엘룬드의 왕이구나. 신의 갑옷을 입고 땅을 휘저고 있는 거지들아, 너희들은 큰 소리로 떠들어보거라!"
 outpost_command,dlg,EntryList/3/Text,0,"헛소리 얘기 할 시간이 없어, 방랑자, 내 칼의 찔러움을 느끼지 못하면 떠나라"
 outpost_command,dlg,EntryList/4/Text,0,"그래, 지금 나가, 들어가려고 하지 마, 그렇지 않으면 널 죽이는 것 외에는 다른 방법이 없을거야."
 outpost_command,dlg,EntryList/5/Text,0,당신 같은 사람들이 우리 땅으로 돌아다니지 못하게 해
@@ -4265,8 +4265,8 @@ pasha,dlg,EntryList/12/Text,0,"트리니티가 아트칼라트라의 국경 안�
 pasha,dlg,EntryList/13/Text,0,"파샤라는 칭호는 다음 세대, 그리고 다음 세대에 이어져, 그래서 저는 이 작은 공동체의 리더가 되었습니다. 하지만 저는 다른 나라들과의 협상 때만 공식적인 태도를 취하며, 그 외에는 그러지 않습니다."
 pasha,dlg,EntryList/14/Text,0,"그렇습니다. 그것은 다른 나라들과 협상할 때 나에게 정당성을 주지만, 당신과 같은 개인들과 대화할 때는 거의 사용하지 않습니다. 더 무엇인가요?"
 pasha,dlg,EntryList/15/Text,0,"아일런드의 창건 이후, 그들은 이웃 왕국들과 갈등을 빚고 있습니다. 투소네와 대결하는 데에 세무스 왕은 매우 가혹했습니다. 그리고 그의 방법에는 예외가 있었습니다."
-pasha,dlg,EntryList/16/Text,0,"단기적으로는 가능성은 매우 희박합니다. 투소네의 대표 마키스 에링은 현재 아이룬드에 대한 인내심이 없습니다. 토슨의 대표 마키스 에링은 현재 아이룬드에 대한 인내심이 없으며, 이는 이해할 만합니다. 아이룬드는 강한 민족으로, 적대 행위를 종결하기 위해 아이룬드에 과도한 요구를 하겠죠."
-pasha,dlg,EntryList/17/Text,0,"아이룬드의 군대는 투소네의 두 배 규모였지만, 신뢰할 수 있는 소식통에 따르면 세무스는 승리를 위해 싸우지 않았으며, 남부 지역의 특정 사원에 도달하기 위해 싸웠다고 들었습니다. 투소네 군대가 철수했을 때, 세무스는 그들을 쫓지 않았습니다. 따라서 전쟁은 여전히 기술적으로 진행 중이나, 어느 쪽도 싸우지 않고 있습니다. 그것은 끔찍한 혼란입니다."
+pasha,dlg,EntryList/16/Text,0,"단기적으로는 가능성은 매우 희박합니다. 투소네의 대표 마키스 에링은 현재 아이엘룬드에 대한 인내심이 없습니다. 토슨의 대표 마키스 에링은 현재 아이엘룬드에 대한 인내심이 없으며, 이는 이해할 만합니다. 아이엘룬드는 강한 민족으로, 적대 행위를 종결하기 위해 아이엘룬드에 과도한 요구를 하겠죠."
+pasha,dlg,EntryList/17/Text,0,"아이엘룬드의 군대는 투소네의 두 배 규모였지만, 신뢰할 수 있는 소식통에 따르면 세무스는 승리를 위해 싸우지 않았으며, 남부 지역의 특정 사원에 도달하기 위해 싸웠다고 들었습니다. 투소네 군대가 철수했을 때, 세무스는 그들을 쫓지 않았습니다. 따라서 전쟁은 여전히 기술적으로 진행 중이나, 어느 쪽도 싸우지 않고 있습니다. 그것은 끔찍한 혼란입니다."
 pasha,dlg,EntryList/18/Text,0,"저는 시도했지만, 분노는 거절하고, 나이지엘 경은 민감한 협상을 할 수 있는 조건이 없습니다."
 pasha,dlg,EntryList/19/Text,0,"동의합니다. 그럼, 더 도와드릴까요?"
 pasha,dlg,EntryList/20/Text,0,"이 오아시스를 통제하기 위해 경쟁하는 세 나라 사이에 끼여 있는 트리니티에서의 우리의 삶의 일부입니다. 저는 파샤 샤키르이며, 현재 이 도시의 대표입니다. 그리고 저는 크리오사 공주님을 맞이하는 데 영광을 느낍니다. 왕실이 방문하기는 매우 드문 일이니까요."
@@ -4287,7 +4287,7 @@ pasha,dlg,ReplyList/12/Text,0,왜 당신의 타이틀이 비공식적인가?
 pasha,dlg,ReplyList/14/Text,0,"보아, 이건 기존보다 전통적인 타이틀입니다."
 pasha,dlg,ReplyList/15/Text,0,Tusone와 Aielund 사이의 상황에 대해 어떻게 생각하십니까?
 pasha,dlg,ReplyList/16/Text,0,그렇게 말할 수도 있겠네. 그들이 이 문제를 해결할 확률은 얼마일까?
-pasha,dlg,ReplyList/17/Text,0,"아일런드는 투소네 군대를 물리쳤다고 들었는데, 왜 항복하지 않았을까?"
+pasha,dlg,ReplyList/17/Text,0,"아이엘룬드는 투소네 군대를 물리쳤다고 들었는데, 왜 항복하지 않았을까?"
 pasha,dlg,ReplyList/18/Text,0,그런가 봐. 두 대사가 다시 대화하게 할 수 있을까?
 pasha,dlg,ReplyList/19/Text,0,"저렇게 할 수도 있겠지만, 이 상황은 누구에게도 좋지 않습니다."
 pasha,dlg,ReplyList/22/Text,0,모든 것이 처음이다.
@@ -4400,7 +4400,7 @@ peri,dlg,ReplyList/28/Text,0,내가 널 당국에 넘겨줄 생각했어
 peri,dlg,ReplyList/29/Text,0,무슨 소리야?
 peri,dlg,ReplyList/30/Text,0,당신은 이 음모에 대해 공주님을 포함한 모든 것을 알고 있는 거죠?
 peri,dlg,ReplyList/31/Text,0,"짐작하자, 아니면 첼시 여신, 바르트렛 가족, 아니면 아우구스투스 존슨"
-peri,dlg,ReplyList/32/Text,0,"좋아. 다음 추측은 토마스 바르트렛이야. 쿨든리에서 로널드와 마주쳤을 때, 그가 처음부터 알고 있단 것 같았어."
+peri,dlg,ReplyList/32/Text,0,"좋아. 다음 추측은 토마스 바르트렛이야. 쿨데니에서 로널드와 마주쳤을 때, 그가 처음부터 알고 있단 것 같았어."
 peri,dlg,ReplyList/33/Text,0,존슨은 그 상원의원이지?
 peri,dlg,ReplyList/34/Text,0,그래서 이 사건과 관련이 있을지도 모른다고 생각하십니까?
 peri,dlg,ReplyList/35/Text,0,"그래 페리, 도움 고마워요"
@@ -4421,7 +4421,7 @@ power,dlg,ReplyList/3/Text,0,<StartAction>[크리스탈 레드를 바꾸기.]</S
 power,dlg,ReplyList/4/Text,0,<StartAction> [전발기를 가만히 두라.]</Start>
 power,dlg,ReplyList/5/Text,0,<StartAction> [전기를 끄세요.] </Start>
 power,dlg,ReplyList/6/Text,0,<StartAction>[전기를 켜]</Start>
-poweredarmour,dlg,EntryList/0/Text,0,<StartAction>[이것은 분명히 매우 오래되고 상태가 좋지 않은 사카아린 갑옷의 대부분 온전한 것처럼 보인다.]</Start>
+poweredarmour,dlg,EntryList/0/Text,0,<StartAction>[이것은 분명히 매우 오래되고 상태가 좋지 않은 사카린 갑옷의 대부분 온전한 것처럼 보인다.]</Start>
 poweredarmour,dlg,EntryList/1/Text,0,"확실히. <StartAction>[테리누스는 고대 갑옷을 조심스럽게 살펴봅니다.]</Start> 예, 알라리크와 세무스가 사용한 것과 같은 모델이며, 분명히 몇 세기 전의 것입니다. 그러나 이 방에 있는 다른 유물들과는 달리, 이 유물은 최소한의 노력을 통해 기능적으로 사용할 수 있습니다."
 poweredarmour,dlg,EntryList/2/Text,0,"몇 개의 부러진 부분이나 실종된 부분, 심각한 것은 없습니다. 우리가 올바른 부분을 찾을 경우, 나는 그것을 꽤 쉽게 수리할 수 있습니다."
 poweredarmour,dlg,EntryList/3/Text,0,"저는 수년간 사카아린의 기계들을 연구해 왔고, 당신은 기억하실 수 있습니다."
@@ -4439,7 +4439,7 @@ poweredarmour,dlg,EntryList/14/Text,0,아주 좋습니다. 사카라린들이 �
 poweredarmour,dlg,EntryList/15/Text,0,제 작업이 끝났습니다.
 poweredarmour,dlg,EntryList/16/Text,0,다른 부품도 필요합니다. 그 없이 이 갑옷을 효과적으로 사용할 수 없습니다.
 poweredarmour,dlg,EntryList/17/Text,0,물론입니다.
-poweredarmour,dlg,EntryList/18/Text,0,"제가 수리 작업을 완료했으니, 이론적으로는 예, 테스트를 할 준비가 되어 있습니다. 저는 여러분께 아이언로드의 무해성 방패나 무기는 없습니다는 것을 조언해야 합니다. 하지만 여전히 더 큰 보호와 힘을 제공해 줄 것입니다. 사실, 저는 이것을 착용하는 동안 어떤 근접 무기도 쉽게 사용할 수 있을 것입니다."
+poweredarmour,dlg,EntryList/18/Text,0,"제가 수리 작업을 완료했으니, 이론적으로는 예, 테스트를 할 준비가 되어 있습니다. 저는 여러분께 철왕의 무해성 방패나 무기는 없습니다는 것을 조언해야 합니다. 하지만 여전히 더 큰 보호와 힘을 제공해 줄 것입니다. 사실, 저는 이것을 착용하는 동안 어떤 근접 무기도 쉽게 사용할 수 있을 것입니다."
 poweredarmour,dlg,EntryList/19/Text,0,그렇습니다. 이제 갑옷을 입겠습니다. 잠시만 기다려 주세요.
 poweredarmour,dlg,EntryList/20/Text,0,"네, 그렇게 하면 좋겠네요. 몇 분만 주세요. 이걸 설치해야 합니다."
 poweredarmour,dlg,EntryList/21/Text,0,"그리고, 이제 완료되었습니다. 새로운 다리도 본래의 다리처럼 잘 작동해야 합니다."
@@ -4668,7 +4668,7 @@ saph,dlg,ReplyList/10/Text,0,고마워 사피론님.
 saph,dlg,ReplyList/11/Text,0,치유가 필요해.
 saph,dlg,ReplyList/12/Text,0,약이 필요해. 사용할 수 있나?
 saph,dlg,ReplyList/13/Text,0,"우리는 확실히 그렇게 했지만, 그 승리의 대가를 치렀습니다."
-saph,dlg,ReplyList/14/Text,0,"그는 사카아린 성의 파괴를 위해 자신을 희생하였다. 그는 뒤에 남아야 했다. 사파리론, 죄송합니다."
+saph,dlg,ReplyList/14/Text,0,"그는 사카린 성의 파괴를 위해 자신을 희생하였다. 그는 뒤에 남아야 했다. 사파리론, 죄송합니다."
 saph,dlg,ReplyList/15/Text,0,"분명 그렇겠죠. 그는 정말 용감했고, 그의 용기가 없었다면 우리 모두 죽었을 거예요."
 saph,dlg,ReplyList/16/Text,0,"난 살아남기 위해 해야 할 일을 했어, 사피론. 너무 많은 생명이 걸려있어서 행동하지 않을 수 없었어."
 saph,dlg,ReplyList/17/Text,0,여기서 무슨 일이 벌어지고 있어요?
@@ -4752,7 +4752,7 @@ sebas,dlg,EntryList/49/Text,0,"<StartAction>[세바스티안은 넬리스의 손
 sebas,dlg,EntryList/50/Text,0,"<StartAction>[네일리스의 붉은색과 미소, 예쁜 귀족의 관심에 놀랐어요.]</Start>"
 sebas,dlg,EntryList/51/Text,0,- 누가?
 sebas,dlg,EntryList/53/Text,0,"<StartAction>[남자가 흐릿한 눈으로 한동안 그것을 들여다본다.]</Start> 아니, 이건 맞을 리 없소. 에바리스트 다비뇽 3세는 오스릭의 아버지였지, 오렐리앙이 아니오. 그분은 내 아버지였소. 하지만 이 인장은... 왕실 인장이 찍혀 있소. 위조할 수 없는 것인데. 아니, 할 수도 있나?"
-sebas,dlg,EntryList/54/Text,0,아일런드와 투소네의 귀족가문들의 편식 기호를 잘 알고 있습니다. 이 도장은 진정한 것입니다.
+sebas,dlg,EntryList/54/Text,0,아이엘룬드와 투소네의 귀족가문들의 편식 기호를 잘 알고 있습니다. 이 도장은 진정한 것입니다.
 sebas,dlg,ReplyList/0/Text,0,왜 머리가 아프지? 아직 나를 맞아보지 않았어.
 sebas,dlg,ReplyList/1/Text,0,"이 모든 게 당신을 안해, 다시 잠들 수 있어"
 sebas,dlg,ReplyList/3/Text,0,나? 나는 왕을 살해하는 것을 염두에 두고 궁전을 침략하고 있어. 당신이 누구신가?
@@ -4893,7 +4893,7 @@ sir_nigel,dlg,ReplyList/34/Text,0,작별히 작별히
 sir_nigel,dlg,ReplyList/37/Text,0,난 그를 궁전에서 만나도록 설득했어.
 sir_nigel,dlg,ReplyList/38/Text,0,너는 같이 가길 원하니?
 sir_nigel,dlg,ReplyList/39/Text,0,그럼 무엇을 하는지 아나?
-sir_nigel,dlg,ReplyList/40/Text,0,"네이젤 경, 아이룬드가 필요로 하는 것은 이 사람들과의 전쟁을 계속하는 것이 마지막일 것입니다."
+sir_nigel,dlg,ReplyList/40/Text,0,"네이젤 경, 아이엘룬드가 필요로 하는 것은 이 사람들과의 전쟁을 계속하는 것이 마지막일 것입니다."
 sir_nigel,dlg,ReplyList/41/Text,0,매우 통찰력 있는 말씀이십니다. 그렇다면 협상에 잘 가셔서 좋은 결과가 있기를 바랍니다. 앞으로 다시 뵙겠습니다.
 slave,dlg,EntryList/0/Text,0,"이 남자는 아무런 생각 없이 당신을 바라보고 있습니다. 그의 마음은 완전히 깨져 있으며, 더 이상 무엇을 할 수 있는 것은 없습니다."
 smith,dlg,EntryList/0/Text,0,장비가 필요하면 들어가게.
@@ -5116,7 +5116,7 @@ teri_citadel1,dlg,EntryList/1/Text,0,우리는 사카아린 성곽에 타고 있
 teri_citadel1,dlg,EntryList/2/Text,0,시타델은 기본적으로 배입니다. 여기서부터 다리로 가는 길을 찾아 최고 지휘관을 처리하고 시타델의 엔진을 파괴해야 합니다. 그렇게만 해야 아일레인드가 어떠한 해로움도 입지 않을 것입니다.
 teri_citadel1,dlg,EntryList/3/Text,0,"사카린은 치명적인 마법사이고, 우리가 본 것처럼 강력한 고렘을 만드는 예술을 숙달해 왔지만, 그들은 또한 내 이해에 도전하는 이상한 정신 능력을 가지고 있습니다. 만약 당신이 능력이 있다면, 당신의 마음을 강화하십시오. 그들의 정신 공격은 몇 분 동안 당신을 놀라게 할 수 있습니다."
 teri_citadel1,dlg,EntryList/4/Text,0,"하지만 베로니크는 그녀가 통제하는 것이 프로토타입이고, 그 종류는 독특한 것이라고 암시했군. 그래도 한 두 개 더 발견하는 것은 놀라지 않을 것 같군. 그들은 다른 부동화도 가지고 있으며, 다양한 작업에 사용한다."
-teri_citadel1,dlg,EntryList/5/Text,0,"동의합니다. 사카아린은 텔레파시적이므로 여기에 더 오래 머무를수록 발견될 확률이 높아집니다. 그 시점에서, 우리에게는 훨씬 더 어려운 싸움을 해야할 수도 있습니다."
+teri_citadel1,dlg,EntryList/5/Text,0,"동의합니다. 사카린은 텔레파시적이므로 여기에 더 오래 머무를수록 발견될 확률이 높아집니다. 그 시점에서, 우리에게는 훨씬 더 어려운 싸움을 해야할 수도 있습니다."
 teri_citadel1,dlg,EntryList/6/Text,0,"당신의 말씀대로, 이 장소의 배치에 대해 거의 알지 못하지만, 우리는 아마도 각 레벨을 이동하기 위해 텔레포트 장치를 사용해야 할 것 같습니다. 찾아보세요."
 teri_citadel1,dlg,EntryList/7/Text,0,시타델은 기본적으로 배입니다. 여기서부터 다리로 가는 길을 찾아 최고 지휘관을 처리하고 시타델의 엔진을 파괴해야 합니다. 그렇게만 해야 아일레인드가 어떠한 해로움도 입지 않을 것입니다.
 teri_citadel1,dlg,EntryList/8/Text,0,어떤 저항을 기대할 수 있을지 모르겠나?
@@ -5134,7 +5134,7 @@ teri_citadel2,dlg,EntryList/3/Text,0,"만약 우리가 무기를 발견하고 �
 teri_citadel2,dlg,EntryList/4/Text,0,"크리스탈을 대체하는 것 뿐이야. 하지만, 다리에 도달할 충분한 시간을 얻을 수 있어. 서둘러야 해!"
 teri_citadel2,dlg,ReplyList/0/Text,0,무슨 소리야?
 teri_citadel2,dlg,ReplyList/1/Text,0,그럼 이제 경비원을 보내려고 할 거나?
-teri_citadel2,dlg,ReplyList/2/Text,0,"당신의 말로는, 그가 정말로 어떤 강력한 마법을 사용해서 아일런드를 파괴할 것인가요?"
+teri_citadel2,dlg,ReplyList/2/Text,0,"당신의 말로는, 그가 정말로 어떤 강력한 마법을 사용해서 아이엘룬드를 파괴할 것인가요?"
 teri_citadel2,dlg,ReplyList/3/Text,0,그게 무기를 완전히 파괴하지 않을까?
 teri_citadel2,dlg,ReplyList/4/Text,0,- 그래요
 teri_citadel3,dlg,EntryList/0/Text,0,"머리 위는 걱정하지 마세요. 유리 돔이 비바람을 막아 주니까요. 자, 다리 양옆으로 방이 하나씩 이어져 있어요. 각 방에는 지휘 센터를 열기 위해 작동시켜야 하는 콘솔이 있어요. 그 안에 내가 엔진을 과부하시킬 때 쓸 주 콘솔이 있고, 그렇게 해서 이 성채를 파괴하는 거예요."
@@ -5172,7 +5172,7 @@ teri_cold1,dlg,ReplyList/13/Text,0,어떻게?
 teri_cold1,dlg,ReplyList/14/Text,0,"실제로는 그렇게 할 수 없다고는 할 수 없지만, 어쨌든 관계 없으니. 함께 둘러보자."
 teri_cold1,dlg,ReplyList/18/Text,0,"그래, 이거 문제가 될 거야?"
 teri_ether1,dlg,EntryList/0/Text,0,우리는 경계 에테르 차원에 들어가고 있습니다. 이 차원은 바닷가가 얕고 먼바다로 갈수록 깊어지는 바다처럼 에테르 차원과 연결되어 있습니다.
-teri_ether1,dlg,EntryList/2/Text,0,"사실 그렇습니다. 이곳은 아이룬드 북부, 페어로크 서쪽에 위치해 있습니다. 해빙거 강이 해안과 만나는 곳입니다. 이테럴 평면의 주머니 차원으로 통하는 문이 있습니다. 위대한 드래곤 시르나마스가 거주하고 있습니다. 우리는 이 지형을 통과하고 문으로 들어가야 합니다."
+teri_ether1,dlg,EntryList/2/Text,0,"사실 그렇습니다. 이곳은 아이엘룬드 북부, 페어로크 서쪽에 위치해 있습니다. 해빙거 강이 해안과 만나는 곳입니다. 이테럴 평면의 주머니 차원으로 통하는 문이 있습니다. 위대한 드래곤 시르나마스가 거주하고 있습니다. 우리는 이 지형을 통과하고 문으로 들어가야 합니다."
 teri_ether1,dlg,EntryList/3/Text,0,당신은 놀라운 것 같네요.
 teri_ether1,dlg,EntryList/4/Text,0,"에더는 많은 위험한 생물들이 살고 있으며, 당신은 이 점을 잘 알고 있습니다. 당신의 경계심은 비록 과장된 것처럼 보이지만, 매우 현명합니다. <StartAction>[마법사가 한 손을 흔듭니다.]</Start> 그 후."
 teri_ether1,dlg,EntryList/6/Text,0,"여기서 잠들지 않아도 될 수 있어, 제 눈꺼풀을 통해 볼 수 있을 정도로 은거라고 상상할 수 없어요."
@@ -5186,11 +5186,11 @@ teri_ether1,dlg,ReplyList/1/Text,0,전부 괜찮습니다. 그러나 이 에테�
 teri_ether1,dlg,ReplyList/2/Text,0,그저 그렇게 간단한가?
 teri_ether1,dlg,ReplyList/3/Text,0,난 합병증을 기대할게 됐지만 모든게 처음엔
 teri_ether1,dlg,ReplyList/5/Text,0,"그게 이 평면의 본질이야. 설명해 달라고 하지 마, 왜 그렇게 되었는지 정말 모르겠어."
-teri_ether1,dlg,ReplyList/6/Text,0,"솔직히 우리가 그렇게 오래 머물 것 같지 않아. 테리누스, 이 에더의 부분이 아이룬드와 어떤 관계가 있나?"
+teri_ether1,dlg,ReplyList/6/Text,0,"솔직히 우리가 그렇게 오래 머물 것 같지 않아. 테리누스, 이 에더의 부분이 아이엘룬드와 어떤 관계가 있나?"
 teri_ether1,dlg,ReplyList/9/Text,0,"내가 생각했던 것처럼, 내 혀가 보이네요!"
 teri_ether1,dlg,ReplyList/10/Text,0,그리고 그 모든 순간을 사랑해?
 teri_ether1,dlg,ReplyList/12/Text,0,"오, 그렇죠, 당분간 재미로 해요, 테리누스."
-teri_ether1,dlg,ReplyList/13/Text,0,공평한 요청입니다. 그렇다면 이 특별한 부분이 에테르와 아이룬드 사이에 어떤 관계가 있는지 말해줄 수 있나요?
+teri_ether1,dlg,ReplyList/13/Text,0,공평한 요청입니다. 그렇다면 이 특별한 부분이 에테르와 아이엘룬드 사이에 어떤 관계가 있는지 말해줄 수 있나요?
 teri_heaven1,dlg,EntryList/0/Text,0,"보아라, 승천의 영광이다."
 teri_heaven1,dlg,EntryList/1/Text,0,실제로 당신은 약간 창백해 보입니다. 신성한 에너지가 당신의 존재 자체에 영향을 미치고 있다는 사실을 의심의 여지 없이 느끼고 있습니다. 인생에서 당신의 선택은 '순결'하다고 부르기에는 부적절합니다. 그리고 여기서 따뜻하게 환영받지 않을 것입니다. 오히려 그렇습니다.
 teri_heaven1,dlg,EntryList/2/Text,0,그래. 놈들은... 음... 당신 같은 사람들이 있는 걸 참지 못해.
@@ -5220,7 +5220,7 @@ teri_heaven1,dlg,ReplyList/12/Text,0,"옳다고 생각하는 일을 하려고 �
 teri_heaven1,dlg,ReplyList/13/Text,0,"그랬겠지. 하지만 얘기는 이만하고, 이곳을 더 둘러보고 싶어. 해야 할 일이 있잖아."
 teri_heaven1,dlg,ReplyList/15/Text,0,"그래, 하지만 나는 그렇게 심각하게 생각하지 않아."
 teri_heaven1,dlg,ReplyList/16/Text,0,"저는 이미 알고 있었는데, 제 믿음이 제 생애 동안 저를 지탱해준 덕분이었고, 이제 그것이 헛되지 않았다는 것을 보았습니다."
-teri_heaven1,dlg,ReplyList/17/Text,0,"아마, 우리가 아이룬드의 파괴를 막을 수 있다면, 당신의 시간이 오면 그것이 당신에게 유리할 것입니다."
+teri_heaven1,dlg,ReplyList/17/Text,0,"아마, 우리가 아이엘룬드의 파괴를 막을 수 있다면, 당신의 시간이 오면 그것이 당신에게 유리할 것입니다."
 teri_heaven1,dlg,ReplyList/18/Text,0,그게 가장 좋을 수 있습니다.
 teri_heaven1,dlg,ReplyList/19/Text,0,"네, 계속 움직여야 합니다. 이 영역에서 우리를 기다리고 있는 것을 보자."
 teri_hell1,dlg,EntryList/0/Text,0,"<FirstName>, 당신은 약간 화가 나 보이네요."
@@ -5318,7 +5318,7 @@ terinus1,dlg,EntryList/36/Text,0,"저는 그것이 어렵다는 것을 알고 �
 terinus1,dlg,EntryList/38/Text,0,"제가 말씀드린 모든 것이 진실이고, 죄송합니다. 하지만 당신이 이 마지막 위대한 전투에서 저를 도와주지 않는다면, 당신은 자유롭게 떠날 수 있습니다. 저는 당신을 막을 수 없습니다. 하지만 만약 당신이 어느 정도의 지혜를 가진다면, 저와 함께 그들의 탄압을 한 번에 끝내는 데 도움을 주는 것이 좋겠습니다."
 terinus1,dlg,EntryList/39/Text,0,"너는 바보야, <FirstName>. 그리고 일주일 안에, 네가 어디에 있든 무엇을 하든 우리는 모두 죽을 거야. 지옥에서 보자."
 terinus1,dlg,EntryList/40/Text,0,"저는 비유를 이어 말하자면 감시자 중 한 명입니다. 제 임무는 주인들에게 매주 보고서를 올리고 그들의 지시를 수행하는 것이죠. 하지만 어떤 면에서는 당신처럼 저도 포로입니다. 마지못해 복무하고 있고, 주인들이 제 배신을 알아차리면 제 목숨은 끝입니다."
-terinus1,dlg,EntryList/41/Text,0,그들은 아이룬드를 완전히 파괴하여 1000마일 너비의 거대한 홀을 만들 정도로 모든 것을 지우려 할 것이다. 그리고 그 후 1000년 동안 그곳에서 아무것도 자라나지 않을 것이다. 그러나 아직 알려야 할 것이 더 있다...
+terinus1,dlg,EntryList/41/Text,0,그들은 아이엘룬드를 완전히 파괴하여 1000마일 너비의 거대한 홀을 만들 정도로 모든 것을 지우려 할 것이다. 그리고 그 후 1000년 동안 그곳에서 아무것도 자라나지 않을 것이다. 그러나 아직 알려야 할 것이 더 있다...
 terinus1,dlg,EntryList/42/Text,0,저는 최근에 그들의 낮은 순위 구성원 중 한 명에게 정보를 구하기 위해 뇌물을 줬습니다. 그리고 사카아린은 쇠퇴하는 제국이라는 것을 이해합니다. 그들의 인종은 고대이며 별들 사이의 전쟁은 셀 수 없이 많습니다.
 terinus1,dlg,EntryList/43/Text,0,"최근 그들은 나와 나 같은 사람들이 그들의 일을 수행하기 위해 점점 더 나에 의존하고 있습니다. 한 세기 전, 그들은 그들의 유물 갑옷, 당신이 아이언로드라고 부르는 드레스를 알라리크 로베크에 도입했습니다. 알라리크가 이웃 왕국들과 평화와 무역 협정을 체결할 지점에 있었기 때문에 아이룬드 나라를 불안정하게 만들 수 있었습니다. 이것은 그들이 수용자들에게 용납할 수 없는 번영과 과학적 발전의 시대를 가져왔을 것입니다. 그것은 그들의 기술의 유일한 조각이었습니다. 나는 이 세상의 모든 사람이 소유한 것을 알고 있습니다."
 terinus1,dlg,EntryList/44/Text,0,"나도 몰라, 그리고 직접적으로 마스터에게 연락할 용기가 없어요. 더 많은 조사가 필요하지만 먼저 우리 자신의 장비들을 가져가야 합니다. 오세요, 제가 여러분께 제 실험실로 보여드리겠습니다."
@@ -5374,7 +5374,7 @@ terinus1,dlg,ReplyList/45/Text,0,그러면 그들은 무엇을 할까?
 terinus1,dlg,ReplyList/46/Text,0,어떤 것인가?
 terinus1,dlg,ReplyList/48/Text,0,사카린이 소유하는 물건이야? 그렇다면 그들은 그를 직접적으로 이것을 주었나?
 terinus1,dlg,ReplyList/53/Text,0,"정보가 너무 많았군. 테리누스, 네가 말한 그 임무가 오스릭 왕을 해치는 일인가? 그렇다면 나도 정말 ... 알잖아... 오스릭을 해치고 싶거든."
-terinus1,dlg,ReplyList/54/Text,0,이 장소는 뭐죠? 이 장비 일부는 고대인 사카아린이나 다른 곳에서 본 적이 있어요.
+terinus1,dlg,ReplyList/54/Text,0,이 장소는 뭐죠? 이 장비 일부는 고대인 사카린이나 다른 곳에서 본 적이 있어요.
 terinus1,dlg,ReplyList/55/Text,0,"잠깐. 내가 본 다른 장소들이 대부분 털렸다면, 당신의 다른 은닉처가 아직 멀쩡하다는 걸 어떻게 알지?"
 terinus1,dlg,ReplyList/56/Text,0,"보안이 훌륭해. 좋다, 지금 하고 있는 일 계속해."
 terinus1,dlg,ReplyList/57/Text,0,원하는 대로
@@ -5469,9 +5469,9 @@ terinus_final,dlg,EntryList/3/Text,0,"좋아, 이제 내가 파괴할 거야. �
 terinus_final,dlg,EntryList/4/Text,0,나머지들은 가지고 계시나요?
 terinus_final,dlg,EntryList/5/Text,0,이제 그 저주받은 지식은 영원히 사라졌습니다.
 terinus_final,dlg,EntryList/6/Text,0,"그 특정 문서에 있는 지식은 수십 년이 걸릴 것이지만, 누군가가 해독한다면 이 세상의 모습은 영원히 변할 것입니다."
-terinus_final,dlg,EntryList/7/Text,0,"저는 그 문제를 해결한 것을 기쁘게 생각합니다. 하지만 우리는 다시 처음과 같은 상황에 처해 있으며, 사카아린과 싸우기 위해 고품질의 장비가 필요합니다."
-terinus_final,dlg,EntryList/8/Text,0,"저는 그 문제를 해결한 것을 기쁘게 생각합니다. 하지만 우리는 다시 처음과 같은 상황에 처해 있으며, 사카아린과 싸우기 위해 고품질의 장비가 필요합니다."
-terinus_final,dlg,EntryList/9/Text,0,"사카아린이 제공한 물건들을 보관하게 하는 것은 좀 불편하지만, 우리는 지금 그에게 접근할 수 있는 방법이 없습니다."
+terinus_final,dlg,EntryList/7/Text,0,"저는 그 문제를 해결한 것을 기쁘게 생각합니다. 하지만 우리는 다시 처음과 같은 상황에 처해 있으며, 사카린과 싸우기 위해 고품질의 장비가 필요합니다."
+terinus_final,dlg,EntryList/8/Text,0,"저는 그 문제를 해결한 것을 기쁘게 생각합니다. 하지만 우리는 다시 처음과 같은 상황에 처해 있으며, 사카린과 싸우기 위해 고품질의 장비가 필요합니다."
+terinus_final,dlg,EntryList/9/Text,0,"사카린이 제공한 물건들을 보관하게 하는 것은 좀 불편하지만, 우리는 지금 그에게 접근할 수 있는 방법이 없습니다."
 terinus_final,dlg,EntryList/10/Text,0,물론이죠. 하지만 몇 주가 걸릴 거예요. 우리는 그런 시간이 없습니다.
 terinus_final,dlg,EntryList/11/Text,0,우리가 어디로 가야 하는지 알아. 하지만 이건 피하고 싶었는데.
 terinus_final,dlg,EntryList/12/Text,0,당신은 좋아하지 않을 거예요.
@@ -5616,7 +5616,7 @@ trinity_commoner,dlg,EntryList/2/Text,0,"안녕하세요, 아일런더 조심하
 trinity_commoner,dlg,EntryList/3/Text,0,"트리니티는 지금 좋은 시기지만, 때로는 그 가격이 무엇인지 궁금해진다."
 trinity_commoner,dlg,EntryList/4/Text,0,"난 이 용병들이 마을을 점령하고 있어, 나는 그들을 다 좋아하지 않아."
 tusonesoldier,dlg,EntryList/0/Text,0,"우리는 전쟁의 전환점에 도달했고, 우리는 실패하지 않을 것입니다."
-tusonesoldier,dlg,EntryList/1/Text,0,이 아이룬드 방문이 처음이라네. 이렇게 녹색이 많은 곳이에요.
+tusonesoldier,dlg,EntryList/1/Text,0,이 아이엘룬드 방문이 처음이라네. 이렇게 녹색이 많은 곳이에요.
 tusonesoldier,dlg,EntryList/2/Text,0,나는 그들이 항복을 선택했으면 좋겠다. 충분히 충돌을 목격했기 때문이다.
 tusonesoldier,dlg,EntryList/3/Text,0,전 앞으로의 싸움에 대비한 준비가 되었습니다.
 tusonesoldier,dlg,EntryList/4/Text,0,"어려운 전투였지만, 우리는 승리했어!"
@@ -5652,9 +5652,9 @@ twilight_guards2,dlg,EntryList/0/Text,0,우리의 리더와 말하고 싶군요?
 twilight_guards2,dlg,EntryList/1/Text,0,"이 곳은 우리의 구원이 되어야 했지만, 단지 빈 오래된 건물일 뿐이야."
 twilight_guards2,dlg,EntryList/2/Text,0,"여기 오신 것을 환영하지만, 문제를 일으키지 마시오."
 twilight_guards2,dlg,EntryList/3/Text,0,평화를 지키세요. 깨지지 않으면 저희가 깨뜨리겠습니다.
-vale,dlg,EntryList/1/Text,0,"오, 그렇게 나쁘지 않았을 거라 생각했지. 쿨든의 영웅이라면 말이야."
+vale,dlg,EntryList/1/Text,0,"오, 그렇게 나쁘지 않았을 거라 생각했지. 쿨데니의 영웅이라면 말이야."
 vale,dlg,EntryList/2/Text,0,"네, 그들은 훌륭한 해병들이지만 그 전투에서 큰 변화를 일으킨 것은 당신들의 행동이었습니다."
-vale,dlg,EntryList/3/Text,0,쿨든의 영웅으로부터 정말 높은 찬사를 받았군요!
+vale,dlg,EntryList/3/Text,0,쿨데니의 영웅으로부터 정말 높은 찬사를 받았군요!
 vale,dlg,EntryList/4/Text,0,정말이지. 이제는 다른 일이 아무리 있어도 크리오사 공주를 성으로 데려가야 한다. 어떤 상황에서도 그녀가 당신을 설득해서는 안 된다!
 vale,dlg,EntryList/5/Text,0,"이 도시는 내 도시이고, 쇼핑을 하고 싶다면 그렇게 해!"
 vale,dlg,EntryList/6/Text,0,"공주님, 부탁드립니다. 저는 페어로크의 성으로 안전하게 데려가기로 맹세했으며, 땅이나 물이든 간에 그 목표는 이루겠습니다."
@@ -5691,7 +5691,7 @@ vale,dlg,ReplyList/24/Text,0,당신과 함께 항해하는 것이 영광이었�
 valkyrie,dlg,EntryList/0/Text,0,당신의 비참한 말로 내 시간을 낭비하지 마라. 전쟁의 영광을 위해 여기에 왔다!
 vendor,dlg,EntryList/0/Text,0,도시에서 가장 좋은 생산물을 찾는다면 더 이상 찾아보지 마세요!
 vendor,dlg,EntryList/1/Text,0,이번 주에는 감자 특가를 하고 있어요. 2골드로 20파운드짜리 가방을 제공합니다!
-vendor,dlg,EntryList/2/Text,0,쿨든리 이쪽에서 가장 좋은 과일을 팔아!
+vendor,dlg,EntryList/2/Text,0,쿨데니 이쪽에서 가장 좋은 과일을 팔아!
 vendor,dlg,EntryList/3/Text,0,"만약 신선한 채소를 원한다면, 이 도시에서 가장 좋은 곳으로 왔다!"
 veritus,dlg,EntryList/0/Text,0,"여행자님, 환영합니다. 영웅적인 분의 오시는 것을 영광스럽게 생각합니다."
 veritus,dlg,EntryList/2/Text,0,"저는 베리투스입니다, 신앙의 수호자이자 엘라덴의 칼입니다. 당신을 환영하는 것이 기쁘지만, 특히 네일리스 사니먼을 당신의 모험에 동반해준 것에 감사드립니다. 나는 당신을 오랫동안 멀리서 지켜보았습니다, 네일리스. 당신을 직접 보는 것이 좋았습니다."
@@ -5701,7 +5701,7 @@ veritus,dlg,EntryList/5/Text,0,<StartAction>[네일리스가 충격에 빠져 �
 veritus,dlg,EntryList/6/Text,0,"네, 사랑하는 내 여자아이, 네 어머니는 우리 사랑에 대해 말해줬을 거야."
 veritus,dlg,EntryList/7/Text,0,"네, 하지만... 아빠가 천사라고 말하면서는 조금 과장하지 않았나 생각했어요. 실제로 아빠를 만났다는 생각조차 해보지 못했습니다."
 veritus,dlg,EntryList/8/Text,0,<StartAction>[네일리즈가 얼굴을 붉히며 웃는다.]</Start>그건 전혀 그렇지 않아. 이제 엄마와 함께 머물 수 없었던 이유를 이해하게 되었다. 당신의 지혜는 다른 곳에서 필요했으니까.
-veritus,dlg,EntryList/9/Text,0,"아하, 그렇군요. 나는 사랑에 빠진 것이 아니었어야 했는데, 최대한으로는 필사적 영역에서의 나의 시간은 제한적이었습니다. 나와 같은 사람이 직접적으로 필사자들의 삶에 개입하는 것은 드물었지만, 베네딕텀은 큰 필요시대에 아이룬드의 사람들을 돕기 위해 나를 지시했습니다. 당신의 어머니도 거기 있었고, 병자와 부상자를 돕고 있었으며, 나는 즉시 그녀를 사랑하게 되었습니다. 우리 함께 보낸 시간은 짧았지만, 우리의 사랑은 여전히 지속되고 있습니다."
+veritus,dlg,EntryList/9/Text,0,"아하, 그렇군요. 나는 사랑에 빠진 것이 아니었어야 했는데, 최대한으로는 필사적 영역에서의 나의 시간은 제한적이었습니다. 나와 같은 사람이 직접적으로 필사자들의 삶에 개입하는 것은 드물었지만, 베네딕텀은 큰 필요시대에 아이엘룬드의 사람들을 돕기 위해 나를 지시했습니다. 당신의 어머니도 거기 있었고, 병자와 부상자를 돕고 있었으며, 나는 즉시 그녀를 사랑하게 되었습니다. 우리 함께 보낸 시간은 짧았지만, 우리의 사랑은 여전히 지속되고 있습니다."
 veritus,dlg,EntryList/10/Text,0,"<StartAction>[천사가 어깨를 으쓱한다.]</Start>때로는 이런 일이 벌어진다. 이런 것이 세상의 법칙이다. 비슷한 진동수를 가진 자들은 서로 끌려가게 된다. 인종은 거의 문제가 되지 않는다. 당신의 어머니는... 특별했다. 너무 귀여운 존재였고, 주변 사람들을 따뜻하게 돌보는 사람이었다."
 veritus,dlg,EntryList/11/Text,0,너무 많은 질문이 있어 물어볼 시간이 없어
 veritus,dlg,EntryList/12/Text,0,"안심하라, 넬리즈. 당신의 임무에 대해 잘 알고 있다. 임무가 끝나면 여기로 돌아와서 서로를 아버지와 딸처럼 알아가보는 시간을 보내자. 보통 이런 보편적 법을 위반하는 것은... 좋지 않지만, 이 경우에는 베네디움이 알에다나를 특별히 허락해주셨다. 당신의 여정은 힘들었고, 당신의 믿음은 흔들렸다. 이제 그 믿음을 되찾아보자."
@@ -6215,7 +6215,7 @@ xyrna,dlg,EntryList/49/Text,0,<StartAction>[드래곤의 눈은 궁금합니다.
 xyrna,dlg,EntryList/50/Text,0,"사실, 여기 멋진 반지가 있습니다. 강력한 방패로 당신을 해로부터 보호할 수 있습니다. 아니면 이 멋진 미술을 선호하시겠습니까? 그것은 당신에게 위대한 지혜의 혜택을 줄 것이며 일반적으로 당신의 생명력을 강화시킬 것입니다. 그렇지 않으면, 당신은 이 벨트를 가져갈 수 있을 것입니다. 그것은 질병과 피해에 대해 당신의 몸을 강화할 것입니다."
 xyrna,dlg,EntryList/51/Text,0,사카아린을 대면하는 것은 반신들의 군대를 대하는 것과 같습니다.
 xyrna,dlg,EntryList/52/Text,0,사카아린을 대면하는 것은 반신들의 군대를 대하는 것과 같습니다.
-xyrna,dlg,EntryList/53/Text,0,앞으로 벌어지는 전투에서 좋은 도움이 될 것입니다. <StartAction>[Xyrna의 표정이 잠시 동안 사냥당한 것처럼 변합니다.]</Start> 사카아린을 마주치는 것은 반신들의 군대를 마주하는 것입니다. 결코 그들을 과소평가하지 마십시오.
+xyrna,dlg,EntryList/53/Text,0,앞으로 벌어지는 전투에서 좋은 도움이 될 것입니다. <StartAction>[Xyrna의 표정이 잠시 동안 사냥당한 것처럼 변합니다.]</Start> 사카린을 마주치는 것은 반신들의 군대를 마주하는 것입니다. 결코 그들을 과소평가하지 마십시오.
 xyrna,dlg,EntryList/54/Text,0,"그리고 이제 마지막 도전. <StartAction>[Xyrnamaxus가 당신을 미소로 맞이하며 눈을 좁힙니다.]</Start> 이 질문에 대답하십시오: 막대와 돌은 뼈를 만들 것이고, 돌과 칼은 생명을 불러일으킬 것입니다. 반지를 착용하고 있지만 손이 없는 것이 있으며, 땅 위로 신호를 보내고 있습니다. 가축이 아니지만, 그것에는 브랜드가 있습니다. 축제를 찾아가는 이들을 쫓아내므로, 그것을 먹이는 이들은 어떤 짐승도 두려워하지 않을 것입니다."
 xyrna,dlg,EntryList/55/Text,0,"그리고 이제 마지막 도전. <StartAction>[Xyrnamaxus가 당신을 향해 웃고 눈을 좁히고.]</Start> 이 질문에 대답하자: 왕자에게 힘과 보물, 단단하고 은 턱, 붉은색, 금과 거나트로 포장되어 있습니다. 광택한 꽃으로 만든 평평한 곳에서 찢어졌습니다. 불과 파일의 잔해, 극한 아름다움으로 묶여 있습니다. 섬세한 철로, 내 잡은 것은 전사들을 울리게 하고, 내 톱은 금을 잡는 손을 위협합니다. 반지를 장착하여, 나는 상속자와 상속물을 황폐합니다. 내 주인과 적에게 항상 사랑스럽고 치명적인, 얼굴과 형태를 변화시키는 것입니다."
 xyrna,dlg,EntryList/56/Text,0,"그리고 이제 마지막 도전! <StartAction>[이번 순간의 고통도 다시 사라졌다.]</Start> 이 질문에 대답해 주세요: 그들은 숨길 수 있지만, 물은 잘 안 간다. 당신은 그들을 양육할 수 있지만, 다른 사람에게만 붙잡아야 한다. 당신은 그들을 운반할 수 있지만, 팔로는 안 된다. 당신은 그들을 묻을 수 있지만, 땅에 묻지 못한다. 무엇인가?"
@@ -6244,13 +6244,13 @@ xyrna,dlg,EntryList/80/Text,0,"""너도""는 무슨 뜻이야?"
 xyrna,dlg,EntryList/81/Text,0,"아, 또 그 둘이야? 맹세코 정문 앞에 가고일 허수아비라도 세워야겠어. 내가 몇 년씩 잠들 때마다 저들이 밖에 눌러앉아 지나가는 사람을 귀찮게 하거든. 해충이 따로 없어. 폐를 끼쳐 죄송합니다."
 xyrna,dlg,EntryList/82/Text,0,"<StartAction>[드래곤은 잠시 침묵으로 주저하며, 충격에 빠진 것처럼 당신을 바라보았습니다.]</Start> 그래서 당신은 테리누스, 그들을 나에게 가져왔나 보군. 당신은 주인들을 퇴진시키려는 것 같군, 그건 분명해. 하지만 당신은 그들의 자리를 차지하려는 건가?"
 xyrna,dlg,EntryList/83/Text,0,"결코. 그들이 가진 힘은 파괴되어야 한다. 힘을 얻으면, 나는 살아있는 기억에서 그들을 태우고, 하늘에서 그들의 자리에서 그들을 내리칠 것이다. <FirstName>과 나는 우리 세계의 더 많은 생명 손실을 막기 위해 도움을 원한다. 당신의 도움은 우리의 성공에 매우 중요할 것이다."
-xyrna,dlg,EntryList/84/Text,0,사카아린은 상당히 불쾌한 존재들입니다. 당신이 그들을 죽이고 싶어하는 이유를 이해할 수 있습니다. 그러나 저에게는 그들이 아무런 문제가 되지 않습니다.
-xyrna,dlg,EntryList/85/Text,0,사카아린은 상당히 불쾌한 존재들입니다. 당신이 그들을 죽이고 싶어하는 이유를 이해할 수 있습니다. 그러나 저에게는 그들이 아무런 문제가 되지 않습니다.
+xyrna,dlg,EntryList/84/Text,0,사카린은 상당히 불쾌한 존재들입니다. 당신이 그들을 죽이고 싶어하는 이유를 이해할 수 있습니다. 그러나 저에게는 그들이 아무런 문제가 되지 않습니다.
+xyrna,dlg,EntryList/85/Text,0,사카린은 상당히 불쾌한 존재들입니다. 당신이 그들을 죽이고 싶어하는 이유를 이해할 수 있습니다. 그러나 저에게는 그들이 아무런 문제가 되지 않습니다.
 xyrna,dlg,EntryList/86/Text,0,"당신은 뭔가 숨기고 있습니다. 하지만 당신은 모호한 인상을 주고 싶지만, 실제로 신경쓰고 있습니다."
 xyrna,dlg,EntryList/87/Text,0,"당신은 통찰력이 있는 젊은 여자입니다. 하지만 내 고통은 내 자신의 고통입니다. 그리고 내 집에서 당신의 ""관찰""을 용납하지 않을 것이니, 관심이 없는 일에는 개입하지 마십시오."
 xyrna,dlg,EntryList/88/Text,0,난 그녀의 동기와 너의 곤경에 관심이 없다.
 xyrna,dlg,EntryList/89/Text,0,네 흉터는 단순히 피부 깊이에 불과한 것 같지 않아 보입니다. 이렇게 멋진 존재가 이렇게 쓰러진 것을 보는 것은 아쉬움이 있습니다.
-xyrna,dlg,EntryList/90/Text,0,"<StartAction>[드래곤의 얼굴이 떨면서 그녀는 넬리스를 노려봅니다.]</Start> 사카아린과 마주치고 공포에 질려 그들의 요새에서 소리를 지르며 쫓겨날 때, 아마 당신은 이해하게 될 것입니다. 아직은 그렇지 않다면, 당신은 자신의 생각을 함구하는 것이 좋겠습니다."
+xyrna,dlg,EntryList/90/Text,0,"<StartAction>[드래곤의 얼굴이 떨면서 그녀는 넬리스를 노려봅니다.]</Start> 사카린과 마주치고 공포에 질려 그들의 요새에서 소리를 지르며 쫓겨날 때, 아마 당신은 이해하게 될 것입니다. 아직은 그렇지 않다면, 당신은 자신의 생각을 함구하는 것이 좋겠습니다."
 xyrna,dlg,EntryList/92/Text,0,"<StartAction>[드래곤은 혐오로 숨쉬고 공기를 터뜨린다.]</Start> 다시 틀렸어, 필사자, 방금 내 어머니를 ""저쪽 지역""이라고 불렀어."
 xyrna,dlg,EntryList/93/Text,0,"<FirstName>, 부탁이야, 거대한 보라색 드래곤에게는 친절하게 굴어."
 xyrna,dlg,EntryList/94/Text,0,그리고 어떤 임무 때문에 당신은 집에서 이렇게 멀리 왔나?
@@ -6275,7 +6275,7 @@ xyrna,dlg,ReplyList/7/Text,0,"재미를 주어서 다행이지만, 강력한 적
 xyrna,dlg,ReplyList/9/Text,0,"노년이 되어서 더 민감해졌나, 롭?"
 xyrna,dlg,ReplyList/10/Text,0,"진정해, 내가 농담한 거 알았지, 위대한 용이시여?"
 xyrna,dlg,ReplyList/11/Text,0,"오 대형, 저는 무궁무진한 힘을 가진 장비를 찾아왔습니다. 전설에 따르면, 당신이 소유하고 있는 보물들은 우주의 힘을 뛰어넘는다고 합니다. 저는 곧 강력한 적을 맞게 될 것이므로, 이러한 물건들 중 일부를 얻고 싶습니다."
-xyrna,dlg,ReplyList/12/Text,0,사카아린에 대해 들어보신 적 있으신가요?
+xyrna,dlg,ReplyList/12/Text,0,사카린에 대해 들어보신 적 있으신가요?
 xyrna,dlg,ReplyList/13/Text,0,"물론 크게 많지 않지만, 난 그들을 막는 데 관심이 있어서, 이 장비 중 일부를 얻기 위해 무엇이 필요할까요?"
 xyrna,dlg,ReplyList/14/Text,0,꼭 해야 할까요?
 xyrna,dlg,ReplyList/15/Text,0,"그래서 몇 가지 수수께끼에 답해야 하고, 당신의 보물 중 일부를 줄 거야? 이건 좀 너무 좋은 것 같아."
@@ -6356,7 +6356,7 @@ xyrna,dlg,ReplyList/86/Text,0,어떤 것을 선택해야 하는지 모르겠나?
 xyrna,dlg,ReplyList/87/Text,0,엘다르의 무기 중 하나를 어떻게 마다하겠어요? 철퇴를 가져가겠습니다.
 xyrna,dlg,ReplyList/88/Text,0,난 쌍둥이 검을 가져갈 거야
 xyrna,dlg,ReplyList/89/Text,0,"그 래피어를 가져갈게, 완벽하네요."
-xyrna,dlg,ReplyList/90/Text,0,"물론, 위대한 용니다. 당신의 대담한 선물에 다시 한 번 감사드립니다. 이것으로 저는 사카아린을 한 번에 영원히 이길 수 있을 것입니다."
+xyrna,dlg,ReplyList/90/Text,0,"물론, 위대한 용니다. 당신의 대담한 선물에 다시 한 번 감사드립니다. 이것으로 저는 사카린을 한 번에 영원히 이길 수 있을 것입니다."
 xyrna,dlg,ReplyList/91/Text,0,고마워. 이제는 작별인사로.
 xyrna,dlg,ReplyList/94/Text,0,부담이 될 거야
 xyrna,dlg,ReplyList/95/Text,0,윤리.
@@ -6708,7 +6708,7 @@ area001,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area001,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,기사의 방패
 area001,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area001,git,Creature List/2/FirstName,0,사카린 드레인호트
-area001,git,Creature List/2/Description,0,사카아린은 선두 공격을 주도하고 적을 폭력적으로 공격하기 위해 이 강력한 조각물들을 잘 설계했습니다. 이들은 모든 마법에 면역하고 물리적 공격에 매우 강하게 저항합니다.
+area001,git,Creature List/2/Description,0,사카린은 선두 공격을 주도하고 적을 폭력적으로 공격하기 위해 이 강력한 조각물들을 잘 설계했습니다. 이들은 모든 마법에 면역하고 물리적 공격에 매우 강하게 저항합니다.
 area001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,타격4d10
 area001,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 area001,git,Creature List/3/FirstName,0,오스리크 왕
@@ -6976,10 +6976,10 @@ area006,git,Placeable List/61/ItemList/4/LocalizedName,0,장갑뚫는 화살
 area006,git,Placeable List/61/ItemList/5/LocalizedName,0,장갑뚫는 화살
 area006,git,Placeable List/61/ItemList/6/LocalizedName,0,장갑뚫는 화살
 area006,git,Placeable List/61/ItemList/7/LocalizedName,0,장갑뚫는 화살
-area006,git,Placeable List/62/ItemList/0/LocalizedName,0,아일런드 왕국의 짧은 역사 3부
+area006,git,Placeable List/62/ItemList/0/LocalizedName,0,아이엘룬드 왕국의 짧은 역사 3부
 area006,git,Placeable List/62/ItemList/0/DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
-area006,git,Placeable List/62/ItemList/1/LocalizedName,0,아이룬드의 첫 왕
-area006,git,Placeable List/62/ItemList/1/DescIdentified,0,이 책은 아이룬드 왕국의 창시자인 알레일의 삶과 시대를 다룹니다.
+area006,git,Placeable List/62/ItemList/1/LocalizedName,0,아이엘룬드의 첫 왕
+area006,git,Placeable List/62/ItemList/1/DescIdentified,0,이 책은 아이엘룬드 왕국의 창시자인 알레일의 삶과 시대를 다룹니다.
 area006,git,Placeable List/62/ItemList/2/LocalizedName,0,페이보른의 멸망
 area006,git,Placeable List/62/ItemList/3/LocalizedName,0,고지마르치 성 전투
 area006,git,Placeable List/62/ItemList/4/LocalizedName,0,철왕의 전설
@@ -6990,7 +6990,7 @@ area006,git,Placeable List/64/ItemList/0/LocalizedName,0,투소네 왕국의 짧
 area006,git,Placeable List/64/ItemList/0/DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
 area006,git,Placeable List/64/ItemList/1/LocalizedName,0,아일런드 왕국의 짧은 역사 1부
 area006,git,Placeable List/64/ItemList/1/DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
-area006,git,Placeable List/64/ItemList/2/LocalizedName,0,아이룬드 왕국의 짧은 역사 2부
+area006,git,Placeable List/64/ItemList/2/LocalizedName,0,아이엘룬드 왕국의 짧은 역사 2부
 area006,git,Placeable List/64/ItemList/2/DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
 area006,git,Placeable List/64/ItemList/3/LocalizedName,0,고지마르치 성 전투
 area006,git,Placeable List/115/LocName,0,그림
@@ -7002,7 +7002,7 @@ area006,git,Placeable List/126/LocName,0,그림
 area006,git,Placeable List/131/LocName,0,아다민티움 벽장
 area006,git,Placeable List/131/ItemList/0/LocalizedName,0,출생 기록
 area006,git,Placeable List/131/ItemList/0/DescIdentified,0,"이 다소 파손된 문서는 오스릭이 왕족 출신임을 분명히 보여주며, 그의 혈통은 여러 세대에 걸쳐 거슬러 올라간다. 그의 출생 연도와 장소는 852년, 투소네의 라비네에서이다. 그의 아버지인 아우렐리안 다비뉴노는 이전 투소네의 왕 에바리스테 다비뉴노 3세의 동생이었다. 이 문서가 맞다면, 오스릭은 왕좌의 다음 계승자가 아니며, 사실 이전 왕의 조카이다."
-area006,git,Placeable List/131/ItemList/1/LocalizedName,0,사카아린의 장물 문서
+area006,git,Placeable List/131/ItemList/1/LocalizedName,0,사카린의 장물 문서
 area006,git,Placeable List/131/ItemList/1/DescIdentified,0,이 종이는 매우 오래되었지만 여전히 읽을 수 있습니다. 만약 언어를 읽을 수 있다면. 그 표에는 많은 도표와 수학적 공식이 기록되어 있는 것처럼 보입니다. 그리고 당신이 읽을 수 있는 부분은 당신의 이해를 초월한 것입니다.
 area006,git,Placeable List/131/ItemList/2/LocalizedName,0,도난당한 사카린 고서
 area006,git,Placeable List/131/ItemList/2/DescIdentified,0,"이 페이지에 있는 지식은 왕의 재산보다 값어치가 있지만, 그것을 해독할 수 있는 사람은 극히 진보된 수학과 글쓰기를 이해해야 합니다."
@@ -7775,7 +7775,7 @@ beyondthetwiligh,git,Placeable List/17/Description,0,시간 공간의 파열이 
 beyondthetwiligh,git,Placeable List/19/LocName,0,예지 구슬
 beyondthetwiligh,git,Placeable List/21/LocName,0,스크리핑 필드
 borderetherea001,git,Creature List/0/FirstName,0,평민
-borderetherea001,git,Creature List/0/Description,0,"아마 아이룬드 출신인 평범한 여성으로 보이며, 그녀의 존재는 경계 이더리움으로 움직이며 변함이 있다."
+borderetherea001,git,Creature List/0/Description,0,"아마 아이엘룬드 출신인 평범한 여성으로 보이며, 그녀의 존재는 경계 이더리움으로 움직이며 변함이 있다."
 borderetherea001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,일반 의복
 borderetherea001,git,Creature List/1/FirstName,0,평민
 borderetherea001,git,Creature List/1/Description,0,아마 아일런드 출신인 평범한 사람이죠.
@@ -7783,7 +7783,7 @@ borderetherea001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,평민의 
 borderetherea001,git,Creature List/2/FirstName,0,소녀
 borderetherea001,git,Creature List/2/Description,0,외관이 윤회의 경계로 번갈아 보이는 아이입니다.
 borderetherea001,git,Creature List/3/FirstName,0,평민
-borderetherea001,git,Creature List/3/Description,0,"아마 아이룬드 출신인 평범한 여성으로 보이며, 그녀의 존재는 경계 이더리움으로 움직이며 변함이 있다."
+borderetherea001,git,Creature List/3/Description,0,"아마 아이엘룬드 출신인 평범한 여성으로 보이며, 그녀의 존재는 경계 이더리움으로 움직이며 변함이 있다."
 borderetherea001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,일반 의복
 borderetherea001,git,Creature List/4/FirstName,0,돼지
 borderetherea001,git,Creature List/4/Description,0,돼지는 집적 돼지이며 두 종은 교차할 수 있다. 가정 돼지는 더 큰 귀와 더 짧은 코를 가지고 있다. 꼬리가 굽어 있고 피부에 털이 덜 있는 것처럼 보일 수 있다. 그들은 또한 일반적으로 인간에 대해 굴착하고 무관심하다. 이 생물은 당신의 존재에 대해 완전히 무지합니다.
@@ -7946,7 +7946,7 @@ fairlochmarketdi,git,Creature List/11/Description,0,도시를 먹이로 공급�
 fairlochmarketdi,git,Creature List/11/ItemList/1/LocalizedName,0,금화
 fairlochmarketdi,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,일반 의복
 fairlochmarketdi,git,Creature List/12/FirstName,0,도시 감시관
-fairlochmarketdi,git,Creature List/12/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
+fairlochmarketdi,git,Creature List/12/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이엘룬드 전역의 진정한 경찰력을 이루고 있습니다.
 fairlochmarketdi,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,도시 경비병의 갑옷
 fairlochmarketdi,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,단단한 가죽 부츠
 fairlochmarketdi,git,Creature List/12/Equip_ItemList/1/DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘으로, 이 부츠는 싸움 중에 착용자가 발을 잘 세우도록 돕습니다."
@@ -7954,7 +7954,7 @@ fairlochmarketdi,git,Creature List/12/Equip_ItemList/2/LocalizedName,0,감시자
 fairlochmarketdi,git,Creature List/12/Equip_ItemList/2/DescIdentified,0,"주로 적을 굴복시키기 위해 설계되었지만, 여전히 위험한 무기입니다."
 fairlochmarketdi,git,Creature List/12/Equip_ItemList/3/LocalizedName,0,도시 경비병 방패
 fairlochmarketdi,git,Creature List/13/FirstName,0,도시 감시관
-fairlochmarketdi,git,Creature List/13/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
+fairlochmarketdi,git,Creature List/13/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이엘룬드 전역의 진정한 경찰력을 이루고 있습니다.
 fairlochmarketdi,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,도시 경비병의 갑옷
 fairlochmarketdi,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,단단한 가죽 부츠
 fairlochmarketdi,git,Creature List/13/Equip_ItemList/1/DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘으로, 이 부츠는 싸움 중에 착용자가 발을 잘 세우도록 돕습니다."
@@ -7962,7 +7962,7 @@ fairlochmarketdi,git,Creature List/13/Equip_ItemList/2/LocalizedName,0,감시자
 fairlochmarketdi,git,Creature List/13/Equip_ItemList/2/DescIdentified,0,"주로 적을 굴복시키기 위해 설계되었지만, 여전히 위험한 무기입니다."
 fairlochmarketdi,git,Creature List/13/Equip_ItemList/3/LocalizedName,0,도시 경비병 방패
 fairlochmarketdi,git,Creature List/14/FirstName,0,도시 감시관
-fairlochmarketdi,git,Creature List/14/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
+fairlochmarketdi,git,Creature List/14/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이엘룬드 전역의 진정한 경찰력을 이루고 있습니다.
 fairlochmarketdi,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,도시 경비병의 갑옷
 fairlochmarketdi,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,단단한 가죽 부츠
 fairlochmarketdi,git,Creature List/14/Equip_ItemList/1/DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘으로, 이 부츠는 싸움 중에 착용자가 발을 잘 세우도록 돕습니다."
@@ -7985,7 +7985,7 @@ fairlochmarketdi,git,Creature List/20/Description,0,이 사람은 도시가 필�
 fairlochmarketdi,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,대장장이의 팬츠
 fairlochmarketdi,git,Creature List/20/Equip_ItemList/1/LocalizedName,0,대장장이 해머
 fairlochmarketdi,git,Creature List/21/FirstName,0,도시 감시관
-fairlochmarketdi,git,Creature List/21/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
+fairlochmarketdi,git,Creature List/21/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이엘룬드 전역의 진정한 경찰력을 이루고 있습니다.
 fairlochmarketdi,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,도시 경비병의 갑옷
 fairlochmarketdi,git,Creature List/21/Equip_ItemList/1/LocalizedName,0,단단한 가죽 부츠
 fairlochmarketdi,git,Creature List/21/Equip_ItemList/1/DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘으로, 이 부츠는 싸움 중에 착용자가 발을 잘 세우도록 돕습니다."
@@ -7993,7 +7993,7 @@ fairlochmarketdi,git,Creature List/21/Equip_ItemList/2/LocalizedName,0,감시자
 fairlochmarketdi,git,Creature List/21/Equip_ItemList/2/DescIdentified,0,"주로 적을 굴복시키기 위해 설계되었지만, 여전히 위험한 무기입니다."
 fairlochmarketdi,git,Creature List/21/Equip_ItemList/3/LocalizedName,0,도시 경비병 방패
 fairlochmarketdi,git,Creature List/22/FirstName,0,도시 감시관
-fairlochmarketdi,git,Creature List/22/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
+fairlochmarketdi,git,Creature List/22/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이엘룬드 전역의 진정한 경찰력을 이루고 있습니다.
 fairlochmarketdi,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,도시 경비병의 갑옷
 fairlochmarketdi,git,Creature List/22/Equip_ItemList/1/LocalizedName,0,단단한 가죽 부츠
 fairlochmarketdi,git,Creature List/22/Equip_ItemList/1/DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘으로, 이 부츠는 싸움 중에 착용자가 발을 잘 세우도록 돕습니다."
@@ -8228,7 +8228,7 @@ ragnarockdwarves,git,Encounter List/3/LocalizedName,0,에리네스
 ragnarockdwarves,git,Encounter List/4/LocalizedName,0,오실루스
 ragnarockdwarves,git,WaypointList/0/MapNote,0,에레버스 산
 ragnarockdwarves,git,WaypointList/1/MapNote,0,하머헤임
-saqarincitade2,git,Creature List/0/FirstName,0,사카아린 경비구조물
+saqarincitade2,git,Creature List/0/FirstName,0,사카린 경비구조물
 saqarincitade2,git,Creature List/0/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitade2,git,Creature List/0/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitade2,git,Creature List/0/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8236,7 +8236,7 @@ saqarincitade2,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitade2,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitade2,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitade2,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitade2,git,Creature List/1/FirstName,0,사카아린 경비구조물
+saqarincitade2,git,Creature List/1/FirstName,0,사카린 경비구조물
 saqarincitade2,git,Creature List/1/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitade2,git,Creature List/1/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitade2,git,Creature List/1/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8244,7 +8244,7 @@ saqarincitade2,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitade2,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitade2,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitade2,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitade2,git,Creature List/2/FirstName,0,사카아린 경비구조물
+saqarincitade2,git,Creature List/2/FirstName,0,사카린 경비구조물
 saqarincitade2,git,Creature List/2/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitade2,git,Creature List/2/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitade2,git,Creature List/2/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8252,7 +8252,7 @@ saqarincitade2,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitade2,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitade2,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitade2,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitade2,git,Creature List/3/FirstName,0,사카아린 경비구조물
+saqarincitade2,git,Creature List/3/FirstName,0,사카린 경비구조물
 saqarincitade2,git,Creature List/3/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitade2,git,Creature List/3/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitade2,git,Creature List/3/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8261,28 +8261,28 @@ saqarincitade2,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,"고대인�
 saqarincitade2,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitade2,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
 saqarincitade2,git,Creature List/4/FirstName,0,사카린 드레인호트
-saqarincitade2,git,Creature List/4/Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+saqarincitade2,git,Creature List/4/Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 saqarincitade2,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 saqarincitade2,git,Creature List/5/FirstName,0,사카린 드레인호트
-saqarincitade2,git,Creature List/5/Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+saqarincitade2,git,Creature List/5/Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 saqarincitade2,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 saqarincitade2,git,Creature List/6/FirstName,0,사카린 드레인호트
-saqarincitade2,git,Creature List/6/Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+saqarincitade2,git,Creature List/6/Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 saqarincitade2,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 saqarincitade2,git,Creature List/7/FirstName,0,사카린 드레인호트
-saqarincitade2,git,Creature List/7/Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+saqarincitade2,git,Creature List/7/Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 saqarincitade2,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 saqarincitade2,git,Creature List/8/FirstName,0,사카린 드레인호트
-saqarincitade2,git,Creature List/8/Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+saqarincitade2,git,Creature List/8/Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 saqarincitade2,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 saqarincitade2,git,Creature List/9/FirstName,0,사카린 드레인호트
-saqarincitade2,git,Creature List/9/Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+saqarincitade2,git,Creature List/9/Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 saqarincitade2,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 saqarincitade2,git,Creature List/10/FirstName,0,사카린 드레인호트
-saqarincitade2,git,Creature List/10/Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+saqarincitade2,git,Creature List/10/Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 saqarincitade2,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 saqarincitade2,git,Creature List/11/FirstName,0,사카린 드레인호트
-saqarincitade2,git,Creature List/11/Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+saqarincitade2,git,Creature List/11/Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 saqarincitade2,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
 saqarincitade2,git,Creature List/12/FirstName,0,사카아린 과학자
 saqarincitade2,git,Creature List/12/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
@@ -8310,27 +8310,27 @@ saqarincitade2,git,Creature List/13/Equip_ItemList/3/LocalizedName,0,사'쿠아�
 saqarincitade2,git,Creature List/13/Equip_ItemList/4/LocalizedName,0,사'쿠아린 피스트
 saqarincitade2,git,Creature List/13/Equip_ItemList/5/LocalizedName,0,사'쿠아린 피스트
 saqarincitade2,git,Creature List/13/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitade2,git,Creature List/14/FirstName,0,사카아린 기술가
+saqarincitade2,git,Creature List/14/FirstName,0,사카린 기술가
 saqarincitade2,git,Creature List/14/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitade2,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitade2,git,Creature List/14/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitade2,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitade2,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitade2,git,Creature List/14/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitade2,git,Creature List/14/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitade2,git,Creature List/14/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitade2,git,Creature List/14/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitade2,git,Creature List/14/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitade2,git,Creature List/14/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitade2,git,Creature List/14/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitade2,git,Creature List/15/FirstName,0,사카아린 기술가
+saqarincitade2,git,Creature List/15/FirstName,0,사카린 기술가
 saqarincitade2,git,Creature List/15/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitade2,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitade2,git,Creature List/15/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitade2,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitade2,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitade2,git,Creature List/15/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitade2,git,Creature List/15/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitade2,git,Creature List/15/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitade2,git,Creature List/15/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitade2,git,Creature List/15/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitade2,git,Creature List/15/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitade2,git,Creature List/15/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
 saqarincitade2,git,Door List/0/LocName,0,문
 saqarincitade2,git,Door List/7/LocName,0,문
@@ -8375,27 +8375,27 @@ saqarincitade3,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,사'쿠아�
 saqarincitade3,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,사'쿠아린 피스트
 saqarincitade3,git,Creature List/0/Equip_ItemList/5/LocalizedName,0,사'쿠아린 피스트
 saqarincitade3,git,Creature List/0/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitade3,git,Creature List/1/FirstName,0,사카아린 기술가
+saqarincitade3,git,Creature List/1/FirstName,0,사카린 기술가
 saqarincitade3,git,Creature List/1/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitade3,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitade3,git,Creature List/1/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitade3,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitade3,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitade3,git,Creature List/1/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitade3,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitade3,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitade3,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitade3,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitade3,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitade3,git,Creature List/1/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitade3,git,Creature List/2/FirstName,0,사카아린 기술가
+saqarincitade3,git,Creature List/2/FirstName,0,사카린 기술가
 saqarincitade3,git,Creature List/2/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitade3,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitade3,git,Creature List/2/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitade3,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitade3,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitade3,git,Creature List/2/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitade3,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitade3,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitade3,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitade3,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitade3,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitade3,git,Creature List/2/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
 saqarincitade3,git,Creature List/3/FirstName,0,사카아린 마법사
 saqarincitade3,git,Creature List/3/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
@@ -8438,38 +8438,38 @@ saqarincitade3,git,Creature List/5/Equip_ItemList/3/LocalizedName,0,사'쿠아�
 saqarincitade3,git,Creature List/5/Equip_ItemList/4/LocalizedName,0,사'쿠아린 피스트
 saqarincitade3,git,Creature List/5/Equip_ItemList/5/LocalizedName,0,사'쿠아린 피스트
 saqarincitade3,git,Creature List/5/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitade3,git,Creature List/6/FirstName,0,사카아린 기술가
+saqarincitade3,git,Creature List/6/FirstName,0,사카린 기술가
 saqarincitade3,git,Creature List/6/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitade3,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitade3,git,Creature List/6/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitade3,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitade3,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitade3,git,Creature List/6/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitade3,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitade3,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitade3,git,Creature List/6/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitade3,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitade3,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitade3,git,Creature List/6/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitade3,git,Creature List/7/FirstName,0,사카아린 기술가
+saqarincitade3,git,Creature List/7/FirstName,0,사카린 기술가
 saqarincitade3,git,Creature List/7/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitade3,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitade3,git,Creature List/7/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitade3,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitade3,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitade3,git,Creature List/7/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitade3,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitade3,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitade3,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitade3,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitade3,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitade3,git,Creature List/7/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitade3,git,Creature List/8/FirstName,0,사카아린 기술가
+saqarincitade3,git,Creature List/8/FirstName,0,사카린 기술가
 saqarincitade3,git,Creature List/8/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitade3,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitade3,git,Creature List/8/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitade3,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitade3,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitade3,git,Creature List/8/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitade3,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitade3,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitade3,git,Creature List/8/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitade3,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitade3,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitade3,git,Creature List/8/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
 saqarincitade3,git,Door List/5/LocName,0,문
 saqarincitade3,git,Encounter List/0/LocalizedName,0,과학자 2
@@ -8504,7 +8504,7 @@ saqarincitadel,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,아이언로
 saqarincitadel,git,Creature List/2/FirstName,0,사카리린 갑옷
 saqarincitadel,git,Creature List/2/Description,0,철왕과 놀라울 만큼 닮은 이 갑옷은 매우 오래되었고 상태도 좋지 않습니다.
 saqarincitadel,git,Creature List/2/ItemList/0/LocalizedName,0,골렘 다리
-saqarincitadel,git,Creature List/2/ItemList/0/DescIdentified,0,제대로 작동하는 다리가 아이언로드 유형의 기계에서 나온 것처럼 보입니다.
+saqarincitadel,git,Creature List/2/ItemList/0/DescIdentified,0,제대로 작동하는 다리가 철왕 유형의 기계에서 나온 것처럼 보입니다.
 saqarincitadel,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,아이언로드 재산
 saqarincitadel,git,Creature List/3/FirstName,0,사카리린 갑옷
 saqarincitadel,git,Creature List/3/Description,0,이 갑옷은 철왕과 유사한 베어링을 지니고 있어 매우 오래되고 기능적이지 않습니다.
@@ -8512,7 +8512,7 @@ saqarincitadel,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,아이언로
 saqarincitadel,git,Creature List/4/FirstName,0,사카리린 갑옷
 saqarincitadel,git,Creature List/4/Description,0,이 갑옷은 철왕과 유사한 베어링을 지니고 있어 매우 오래되고 기능적이지 않습니다.
 saqarincitadel,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,아이언로드 재산
-saqarincitadel,git,Creature List/5/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/5/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/5/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/5/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/5/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8520,7 +8520,7 @@ saqarincitadel,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitadel,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitadel,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitadel,git,Creature List/5/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitadel,git,Creature List/6/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/6/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/6/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/6/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/6/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8528,7 +8528,7 @@ saqarincitadel,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitadel,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitadel,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitadel,git,Creature List/6/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitadel,git,Creature List/7/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/7/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/7/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/7/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/7/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8536,7 +8536,7 @@ saqarincitadel,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitadel,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitadel,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitadel,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitadel,git,Creature List/8/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/8/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/8/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/8/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/8/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8544,7 +8544,7 @@ saqarincitadel,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitadel,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitadel,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitadel,git,Creature List/8/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitadel,git,Creature List/9/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/9/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/9/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/9/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/9/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8570,7 +8570,7 @@ saqarincitadel,git,Creature List/17/FirstName,0,정신 없는 노예
 saqarincitadel,git,Creature List/17/Description,0,"이들은 좀비보다 약간 더 발달한 존재들로, 가난한 영혼들이 사카린에게 기본적인 작업을 수행하기 위해 아래의 땅에서 끌려온 것으로 보인다."
 saqarincitadel,git,Creature List/18/FirstName,0,정신 없는 노예
 saqarincitadel,git,Creature List/18/Description,0,"이들은 좀비보다 약간 더 발달한 존재들로, 가난한 영혼들이 사카린에게 기본적인 작업을 수행하기 위해 아래의 땅에서 끌려온 것으로 보인다."
-saqarincitadel,git,Creature List/19/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/19/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/19/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/19/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/19/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8578,7 +8578,7 @@ saqarincitadel,git,Creature List/19/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitadel,git,Creature List/19/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitadel,git,Creature List/19/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitadel,git,Creature List/19/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitadel,git,Creature List/20/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/20/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/20/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/20/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/20/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8586,7 +8586,7 @@ saqarincitadel,git,Creature List/20/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitadel,git,Creature List/20/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitadel,git,Creature List/20/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitadel,git,Creature List/20/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitadel,git,Creature List/21/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/21/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/21/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/21/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/21/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8594,7 +8594,7 @@ saqarincitadel,git,Creature List/21/Equip_ItemList/1/LocalizedName,0,고대의 �
 saqarincitadel,git,Creature List/21/Equip_ItemList/1/DescIdentified,0,"고대인들이 설계한 무기로, 이는 그들의 엘리트 경호대가 사용하는 표준 근접 무기입니다. 전력 원천은 손잡이에 있는 것으로 보이며, 이를 휘두르면 빛나는 에너지의 검이 나타납니다. 거의 모든 것을 잘라낼 수 있는 것처럼 보입니다."
 saqarincitadel,git,Creature List/21/Equip_ItemList/2/LocalizedName,0,고대의 작은 역장 방패
 saqarincitadel,git,Creature List/21/Equip_ItemList/2/DescIdentified,0,작지만 이 마법 방패는 모든 공격으로부터 엄청난 보호를 제공합니다. 맥동하는 푸른 역장은 뚫을 수 없으며 공격의 물리적 에너지 대부분을 튕겨 냅니다. 이런 힘을 지닌 방패는 고대인만 만들 수 있었을 겁니다. 그들이 또 어떤 경이로운 것과 끔찍한 것을 만들어 냈을지 궁금해지는군요.
-saqarincitadel,git,Creature List/22/FirstName,0,사카아린 경비구조물
+saqarincitadel,git,Creature List/22/FirstName,0,사카린 경비구조물
 saqarincitadel,git,Creature List/22/Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 saqarincitadel,git,Creature List/22/ItemList/0/LocalizedName,0,골렘 심장
 saqarincitadel,git,Creature List/22/ItemList/0/DescIdentified,0,이 빛나는 구구는 먼지 을 돌아다니는 경비 고렘들의 빛나는 심장입니다. 모든 사카린 고렘들이 이런 장치를 사용하여 제대로 작동하도록 하는 것은 매우 가능합니다.
@@ -8612,7 +8612,7 @@ saqarincitadel,git,Creature List/25/FirstName,0,잠자고 있는 철기병
 saqarincitadel,git,Creature List/25/Description,0,탄탄한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁이 匠이나 괴물 匠의 전문 지식과 숙련이 필요합니다.
 saqarincitadel,git,Creature List/25/Equip_ItemList/2/LocalizedName,0,철군단 속성
 saqarincitadel,git,Creature List/26/FirstName,0,손상된 사카아린 드레드나우트
-saqarincitadel,git,Creature List/26/Description,0,사카아린은 선두 공격을 주도하고 적을 폭력적으로 공격하기 위해 이 강력한 조각물들을 잘 설계했습니다. 이들은 모든 마법에 면역하고 물리적 공격에 매우 강하게 저항합니다.
+saqarincitadel,git,Creature List/26/Description,0,사카린은 선두 공격을 주도하고 적을 폭력적으로 공격하기 위해 이 강력한 조각물들을 잘 설계했습니다. 이들은 모든 마법에 면역하고 물리적 공격에 매우 강하게 저항합니다.
 saqarincitadel,git,Creature List/26/ItemList/0/LocalizedName,0,골렘 뼈
 saqarincitadel,git,Creature List/26/ItemList/0/DescIdentified,0,이 반짝이는 작은 장치는 뇌의 기계적 대안으로 보입니다. 이 장치가 없다면 사카린의 고렘들은 제대로 작동하지 않을 것입니다.
 saqarincitadel,git,Creature List/26/Equip_ItemList/1/LocalizedName,0,사카린 드레드나우트 속성
@@ -8638,27 +8638,27 @@ saqarincitadel,git,Creature List/30/Equip_ItemList/5/LocalizedName,0,사'쿠아�
 saqarincitadel,git,Creature List/30/Equip_ItemList/6/LocalizedName,0,사'쿠아린 피스트
 saqarincitadel,git,Creature List/30/Equip_ItemList/7/LocalizedName,0,사'쿠아린 피스트
 saqarincitadel,git,Creature List/30/Equip_ItemList/8/LocalizedName,0,사쿠아린 속성
-saqarincitadel,git,Creature List/31/FirstName,0,사카아린 기술가
+saqarincitadel,git,Creature List/31/FirstName,0,사카린 기술가
 saqarincitadel,git,Creature List/31/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitadel,git,Creature List/31/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitadel,git,Creature List/31/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitadel,git,Creature List/31/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitadel,git,Creature List/31/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitadel,git,Creature List/31/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitadel,git,Creature List/31/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitadel,git,Creature List/31/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitadel,git,Creature List/31/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitadel,git,Creature List/31/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitadel,git,Creature List/31/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitadel,git,Creature List/31/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitadel,git,Creature List/32/FirstName,0,사카아린 기술가
+saqarincitadel,git,Creature List/32/FirstName,0,사카린 기술가
 saqarincitadel,git,Creature List/32/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitadel,git,Creature List/32/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitadel,git,Creature List/32/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitadel,git,Creature List/32/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitadel,git,Creature List/32/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitadel,git,Creature List/32/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitadel,git,Creature List/32/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitadel,git,Creature List/32/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitadel,git,Creature List/32/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitadel,git,Creature List/32/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitadel,git,Creature List/32/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitadel,git,Creature List/32/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
 saqarincitadel,git,Creature List/33/FirstName,0,사카아린 마법사
 saqarincitadel,git,Creature List/33/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
@@ -8675,27 +8675,27 @@ saqarincitadel,git,Creature List/33/Equip_ItemList/4/LocalizedName,0,사'쿠아�
 saqarincitadel,git,Creature List/33/Equip_ItemList/5/LocalizedName,0,사'쿠아린 피스트
 saqarincitadel,git,Creature List/33/Equip_ItemList/6/LocalizedName,0,사'쿠아린 피스트
 saqarincitadel,git,Creature List/33/Equip_ItemList/7/LocalizedName,0,사쿠아린 속성
-saqarincitadel,git,Creature List/34/FirstName,0,사카아린 기술가
+saqarincitadel,git,Creature List/34/FirstName,0,사카린 기술가
 saqarincitadel,git,Creature List/34/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitadel,git,Creature List/34/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitadel,git,Creature List/34/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitadel,git,Creature List/34/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitadel,git,Creature List/34/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitadel,git,Creature List/34/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitadel,git,Creature List/34/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitadel,git,Creature List/34/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitadel,git,Creature List/34/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitadel,git,Creature List/34/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitadel,git,Creature List/34/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitadel,git,Creature List/34/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
-saqarincitadel,git,Creature List/35/FirstName,0,사카아린 기술가
+saqarincitadel,git,Creature List/35/FirstName,0,사카린 기술가
 saqarincitadel,git,Creature List/35/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saqarincitadel,git,Creature List/35/Equip_ItemList/0/LocalizedName,0,사쿠아린 카버린
 saqarincitadel,git,Creature List/35/Equip_ItemList/0/Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 saqarincitadel,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
 saqarincitadel,git,Creature List/35/Equip_ItemList/1/LocalizedName,0,사'쿠아린 기술가 의복
 saqarincitadel,git,Creature List/35/Equip_ItemList/1/Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
-saqarincitadel,git,Creature List/35/Equip_ItemList/2/LocalizedName,0,사카리안 무기
+saqarincitadel,git,Creature List/35/Equip_ItemList/2/LocalizedName,0,사카린 무기
 saqarincitadel,git,Creature List/35/Equip_ItemList/2/DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
-saqarincitadel,git,Creature List/35/Equip_ItemList/3/LocalizedName,0,사카아린 발톱 방패
+saqarincitadel,git,Creature List/35/Equip_ItemList/3/LocalizedName,0,사카린 발톱 방패
 saqarincitadel,git,Creature List/35/Equip_ItemList/6/LocalizedName,0,사쿠아린 속성
 saqarincitadel,git,Creature List/36/FirstName,0,사카아린 마법사
 saqarincitadel,git,Creature List/36/Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
@@ -9135,7 +9135,7 @@ twilighthills,git,Encounter List/1/LocalizedName,0,빙하 거신
 twilighthills,git,Encounter List/2/LocalizedName,0,빙하 거신
 twilighthills,git,WaypointList/0/MapNote,0,보타이의 유적지
 twilighthills,git,WaypointList/1/MapNote,0,얼어붙은 숲으로 가기
-module,ifo,Mod_Name,0,아이룬드 Pt.3의 붕괴
+module,ifo,Mod_Name,0,아이엘룬드 Pt.3의 붕괴
 module,ifo,Mod_Description,0,"초기 파티 CR: 50+ 시작 레벨: 29-30, 우선 4 번째 액트를 마친 후 플레이 시간: 4-6 시간 선호하는 직업: 모든 선호하는 라인업: 어떤 Terinus 블랙, 전 왕의 마법사 그리고 전 전쟁의 책임자, 당신에게 당신의 상황의 끔찍한 진실을 밝히고, 그리고 당신이 대결하려고 하는 전설적인 적. 여기서 실패하면 당신의 이해가 불가능한 힘으로 Aielund의 완전한 제거를 초래할 것입니다. 당신은 당신의 동료들과 함께 다가오는 공격을 막기 위해 필요한 힘을 절박한 탐구에서 생존해야 할 것입니다, 별 너머의 공포와 기적을 대면하고, 궁극적으로 그들의 요새의 중심에 고대 사람들을 공격합니다. 마지막 전투가 가까워지고 있으며, 가장 용감하고 용감한 전투만이 살아남을 것입니다."
 module,jrl,Categories/0/Name,0,신들의 방어구
 module,jrl,Categories/0/EntryList/0/Text,0,"성곽에 있는 오래된 장갑고기에서 아이룬드의 두 왕이 착용하던 '아이언로드' 장갑과 비슷한 장갑조각을 발견했습니다. 이 방의 다른 예와 달리, 이 장갑은 대부분 손상되지 않았습니다. 테리누스는 자신의 용도로 장갑을 수리할 수 있다고 믿습니다. 불행히도, 그 안에서 효과적으로 싸우는 법을 배우려면 너무 오래 걸릴 것입니다. 내가 찾아야 할 것은 세 가지 항목입니다. 고레마린 다리. 고레마린 심장. 고레마린 뇌. 테리누스는 그 후 장갑을 작동시키는 데 사용할 수 있습니다. 이것은 사카마린과의 싸움에서 큰 도움이 될 수 있습니다."
@@ -9193,7 +9193,7 @@ module,jrl,Categories/8/EntryList/3/Text,0,장벽이 내려졌네. 이제 방 �
 module,jrl,Categories/8/EntryList/4/Text,0,"위대한 무기는 적어도 일시적으로 비활성화되었습니다. 다리까지의 텔레포트 기능이 이제 작동하므로, 이것을 한번에 마무리할 수 있습니다."
 module,jrl,Categories/8/EntryList/5/Text,0,"지휘관의 방 문은 봉쇄되어 있으며, 두 개의 별도의 컨트롤을 활성화해야만 열 수 있습니다."
 module,jrl,Categories/8/EntryList/6/Text,0,"테리누스는 컨트롤을 살펴보고, 장소를 자멸 설정한 후 다시 잠금할 수 없다는 것을 결정했습니다. 그러면 이 위치를 방어해야 하는 것인데, 장소가 폭발할 때까지 그는 여기서 마지막 숨까지 컨트롤을 방어할 것입니다. 그는 몇 분간 시간을 벌어 텔레포트 장치로 아일룬으로 돌아갈 것이지만, 여기서 컨트롤을 방어할 것입니다."
-module,jrl,Categories/8/EntryList/7/Text,0,"사카아린 성은 파괴되었습니다. 흑인 테리누스는 전직 주인들을 견제하여, 성이 폭발할 때까지 통제 시스템에서 멀리 두는 데 성공했습니다. 나는 겨우 살아서 빠져나왔지만, 적어도 숨을 쉴 수 있습니다. 아이엘룬드의 위협이 마침내 제거된 것 같습니다. 그래서 아마 우리는 국가의 상처를 치유하고 정상적인 생활로 돌아갈 기회를 얻을 수 있을 것입니다. 그것이 무엇이든 간에."
+module,jrl,Categories/8/EntryList/7/Text,0,"사카린 성은 파괴되었습니다. 흑인 테리누스는 전직 주인들을 견제하여, 성이 폭발할 때까지 통제 시스템에서 멀리 두는 데 성공했습니다. 나는 겨우 살아서 빠져나왔지만, 적어도 숨을 쉴 수 있습니다. 아이엘룬드의 위협이 마침내 제거된 것 같습니다. 그래서 아마 우리는 국가의 상처를 치유하고 정상적인 생활로 돌아갈 기회를 얻을 수 있을 것입니다. 그것이 무엇이든 간에."
 module,jrl,Categories/9/Name,0,검
 module,jrl,Categories/9/EntryList/0/Text,0,"츠와라이트 (Twilight) 에 있는 바스티온에서, 나는 그의 마지막 위대한 작품 - 그의 세계를 파괴한 적들과 싸우기 위해 설계된 강력한 검 - 에 대해 이야기 한 오래된 무기 제조사를 만났습니다. 문제는 그가 보타이 시에서 중요한 요소를 남겼다는 것입니다. 그는 보타이에서 그의 작업실에서 있어야 합니다."
 module,jrl,Categories/9/EntryList/1/Text,0,"테츠오가 검에 쓰려고 찾던 보석을 얻었지만, 분명 뭔가 잘못됐다. 끔찍한 환영이 보석을 지키고 있었고, 누군가가 계속 나를 지켜보는 듯해 섬뜩하다. 하지만 이 유령 도시 탓일 수도 있겠지..."
@@ -9221,7 +9221,7 @@ module,jrl,Categories/12/EntryList/4/Text,0,"전력 크리스탈을 찾았는데
 module,jrl,Categories/12/EntryList/5/Text,0,테리누스는 패널 수리에 바빠서 발전기를 고치는 일을 내게 맡겼다. 보아하니 깨진 수정을 교체하는 건 간단한 일인 듯하다.
 module,jrl,Categories/12/EntryList/6/Text,0,"전력 발전기를 복구하는 데 성공했고, 테리누스는 사카린 장치에서 이미지를 얻을 수 있었다. 오스릭일 수 있었던 것 뿐이라는 시뮬레이션을 보는 것은 완전히 놀라운 일이 아니었다. 그는 어떻게든 그의 큰 부와 권력을 얻어야 했어야 했으며, 이제 우리는 알고 있습니다. 그러나 그는 이 장소를 어떻게 알게 되었는지는 아직 명확하지 않습니다. 테리누스는 그와 같은 다른 마법사를 알고 있으며, 사카린을 위해 일하고 있으며, 그녀를 의문을 품고 싶어합니다. 그는 그렇게 할 수 있습니다. 내가 아는 것은 오스릭이 이 사람들과 한 관계에서 목까지 고 있다는 것입니다. 그리고 이런 식으로 계속 할 수 없습니다."
 module,jrl,Categories/12/EntryList/7/Text,0,우리는 블랙우드 글레이드의 탑과 매우 비슷한 에본 탑에 도착했습니다. 정말 놀랄 일이 아니죠. 테리누스는 우리가 만나려는 사람이 그녀의 거처에서 거의 공격할 수 없기 때문에 여기서 위협적인 행동을 하지 말라고 경고했습니다.
-module,jrl,Categories/12/EntryList/8/Text,0,"테리누스는 베로니크 르 노어에게 물어보았고, 그녀로부터 몇 가지 정보를 얻어냈다. 오스릭이 그의 환상적인 부와 권력을 얻는 데 도움을 준 그녀는 적과 협력하는 데 테리누스와 마찬가지로 죄책감을 느꼈다. 이제 우리는 오스릭을 추적하고 크리오사와 결혼하여 아이엘런드를 통치하려는 계획을 막기 위해 준비해야 한다. 그러나 캐시에서 찾을 예정인 무기 없이는, 이전에 생각했던 것보다 훨씬 더 어려운 싸움이 될 것이다."
+module,jrl,Categories/12/EntryList/8/Text,0,"테리누스는 베로니크 르 노어에게 물어보았고, 그녀로부터 몇 가지 정보를 얻어냈다. 오스릭이 그의 환상적인 부와 권력을 얻는 데 도움을 준 그녀는 적과 협력하는 데 테리누스와 마찬가지로 죄책감을 느꼈다. 이제 우리는 오스릭을 추적하고 크리오사와 결혼하여 아이엘룬드를 통치하려는 계획을 막기 위해 준비해야 한다. 그러나 캐시에서 찾을 예정인 무기 없이는, 이전에 생각했던 것보다 훨씬 더 어려운 싸움이 될 것이다."
 module,jrl,Categories/12/EntryList/9/Text,0,"테리누스가 베로니크를 은근히 심문하기를 기다리다가 지루해졌다. 그녀는 내가 이미 알고 있는 것 외에는 그에게 말하지 않을 터였다. 그녀는 이 일에 깊숙이 연루되어 있고, 오스릭은 분명 그녀의 꼭두각시다. 지금 당장 오스릭을 찾아 막아야 한다. 내가 심문을 가로챈 탓에 테리누스는 조금 언짢아했지만, 자신이 이 일에서 어떤 위치인지 여전히 알고 있다. 이 일은 내가 주도하고 있다."
 module,jrl,Categories/12/EntryList/10/Text,0,"난 오스릭의 궁전을 공격할 준비가 되었어. 아마도 어떤 종류의 분산 작전이 있을 수 있어, 그 덕분에 우리가 진입할 수 있는 기회를 얻을지도 몰라. 하지만 맥이 빠지면, 나는 정말 힘을 쓸 수 있어...
 
@@ -9328,7 +9328,7 @@ banshee,utc,Description,0,악으로 변한 아름다운 엘프 마법사의 유�
 beholder002,utc,FirstName,0,주시자
 beholder002,utc,Description,0,"비홀더는 강력한 적으로, 여러 끔찍한 방식으로 적을 무력화할 수 있습니다."
 beholder004,utc,FirstName,0,주시자 마법학자
-beholder004,utc,Description,0,주시자 마법사들은 눈줄의 사용을 포기하여 더 전통적인 (그러나 똑같이 치명적인) 마법의 주문을 사용합니다.
+beholder004,utc,Description,0,비홀더 마법사들은 눈줄의 사용을 포기하여 더 전통적인 (그러나 똑같이 치명적인) 마법의 주문을 사용합니다.
 benedictum,utc,FirstName,0,대천사 베네딕텀
 benedictum,utc,Description,0,우토피아의 빛과 선을 지닌 존재. 천사들은 신들의 선지자이며 신앙을 지키는 자들이다.
 black,utc,FirstName,0,로버트
@@ -9389,7 +9389,7 @@ chevalier001,utc,Description,0,이 험난한 전사는 수년 동안 싸웠다�
 chevalier_elite,utc,FirstName,0,투소나이트 왕실 경비병
 chevalier_elite,utc,Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 city,utc,FirstName,0,도시 감시관
-city,utc,Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
+city,utc,Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이엘룬드 전역의 진정한 경찰력을 이루고 있습니다.
 cleric,utc,FirstName,0,성직자
 cleric,utc,Description,0,투소네의 신부 수도사들은 다른 사람들을 돕는 것을 통해 치유와 깨달음을 추구하는 계급입니다.
 cleric001,utc,FirstName,0,투소나이트 성직자
@@ -9414,7 +9414,7 @@ criosa2,utc,LastName,0,로베크
 criosa2,utc,Description,0,최근의 경험으로 성장한 크리오사는 왕국이 직면한 새로운 도전을 맞이하기 위해 준비되어 있다.
 criosa_end,utc,FirstName,0,크리오사 여왕
 criosa_end,utc,LastName,0,로베크
-criosa_end,utc,Description,0,신종 왕비 크리오사 (Criosa) 는 왕복으로 빛나는 모습으로 미래의 도전을 맞이하고 아이룬드를 다시 전의 영광으로 인도할 준비가 되어 있습니다.
+criosa_end,utc,Description,0,신종 왕비 크리오사 (Criosa) 는 왕복으로 빛나는 모습으로 미래의 도전을 맞이하고 아이엘룬드를 다시 전의 영광으로 인도할 준비가 되어 있습니다.
 criosa_final,utc,FirstName,0,크리오사 공주
 criosa_final,utc,LastName,0,로베크
 criosa_final,utc,Description,0,"피곤하지만 결단된 모습으로 보이는 크리오사, 오스릭과 함께 할 미래를 맞이할 준비가 되어 있었다. 이제 희망은 그녀의 눈을 돌아옵니다."
@@ -9443,7 +9443,7 @@ devil,utc,Description,0,"아바돈의 악마 군대의 발병자들은 탄력적
 devil_ach,utc,FirstName,0,아바돈 의 제자
 devil_ach,utc,Description,0,"아바돈의 악마 군대의 발병자들은 탄력적이고 헌신적이고 무서움을 모르며, 우주를 휩쓸며 수많은 세계를 파괴했습니다."
 devspider,utc,FirstName,0,파괴 스파이더
-devspider,utc,Description,0,"파괴성 세균들은 무의식적인 파괴의 수단으로, 시간이 지나면서 잊혀진 다른 다중우주의 잔해들이다. 이들은 수천 세월마다 한 번씩만 우리 우주와 동기화된다. 이 표본은 분명 사카아린의 애완동물이고, 당신은 그 다음 메뉴다."
+devspider,utc,Description,0,"파괴성 세균들은 무의식적인 파괴의 수단으로, 시간이 지나면서 잊혀진 다른 다중우주의 잔해들이다. 이들은 수천 세월마다 한 번씩만 우리 우주와 동기화된다. 이 표본은 분명 사카린의 애완동물이고, 당신은 그 다음 메뉴다."
 diretiger,utc,FirstName,0,흉포한 호랑이
 divine,utc,FirstName,0,신성한 존재
 divine,utc,Description,0,빛의 강력하고 자비로운 존재입니다.
@@ -9464,9 +9464,9 @@ doomkght001,utc,Description,0,이 존재는 이 방에서 모든 것을 차단�
 dracolich002,utc,FirstName,0,드라코리치
 dracolich002,utc,Description,0,드라콜리히스 (Dracoliches) 는 거대한 권력을 얻기 위해 불멸의 길을 선택하거나 강요받은 용이다.
 dreadnaught,utc,FirstName,0,사카린 드레인호트
-dreadnaught,utc,Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+dreadnaught,utc,Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 dreadnaught1,utc,FirstName,0,사카린 드레인호트
-dreadnaught1,utc,Description,0,"사카아린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
+dreadnaught1,utc,Description,0,"사카린은 선두 공격과 적을 때릴 수 있는 엄청난 힘으로 설계된 강력한 구조물을 만들었으며, 순수한 아다만티움으로 만들어져 모든 마법에 면역적이며 물리적 공격에 매우 강하게 저항합니다."
 ecorn_patrol,utc,FirstName,0,엘리트 코너곤
 ecorn_patrol,utc,Description,0,"용감한 전투자인 코누노들은 바테즈오의 엘리트 충격 부대원들이다. 끔찍한 갑옷으로 덮인 이 생물들은 지팡이와 꼬리로 적들을 쉽게 찢을 수 있으며, 희생자들은 지옥의 상처로 피를 흘려 죽게 된다."
 eldar_waterele,utc,FirstName,0,엘다르 물 원소 정령
@@ -9572,13 +9572,13 @@ horse002,utc,FirstName,0,호스 파우더
 ignatius,utc,FirstName,0,이그나치우스
 insidiae,utc,FirstName,0,인시디아 공주작
 insidiae,utc,Description,0,"대귀는 지옥의 귀족이고, 전투에서 작은 형제의 전사군을 지휘합니다. 그들은 무자비하지만 속임수 있고, 다른 사람들이 그렇지 않은 곳에서 권력과 영향력을 얻을 기회를 봅니다."
-ironlord,utc,FirstName,0,장갑장갑 장갑사카아린 스트레이터
-ironlord,utc,Description,0,"말할 수 없는 힘의 구조로, 이 갑옷에는 사카아린의 지휘관이 포함되어 있습니다."
+ironlord,utc,FirstName,0,장갑장갑 장갑사카린 스트레이터
+ironlord,utc,Description,0,"말할 수 없는 힘의 구조로, 이 갑옷에는 사카린의 지휘관이 포함되어 있습니다."
 ironlord_test,utc,FirstName,0,철왕
-ironlord_test,utc,Description,0,말 할 수 없는 힘을 가진 신성한 구조물인 이 갑옷에는 아이룬드의 왕인 세무스 로베크가 집을 침략하기 위해 모든 힘을 다해 막으려는 의지가 담겨 있습니다.
+ironlord_test,utc,Description,0,말 할 수 없는 힘을 가진 신성한 구조물인 이 갑옷에는 아이엘룬드의 왕인 세무스 로베크가 집을 침략하기 위해 모든 힘을 다해 막으려는 의지가 담겨 있습니다.
 ironlord_trinty,utc,FirstName,0,사카리린 갑옷
 ironlord_trinty,utc,Description,0,"이 갑옷은 철왕과 비슷한 외관을 지니고 있으며 매우 낡고 상태가 좋지 않지만, 그래도 당신이 획득할 수 있는 어떠한 갑옷보다 훨씬 우수하고, 파티의 무기함에 유용하게 추가될 것이다."
-ironlordcultist,utc,FirstName,0,아이언로드 사교도
+ironlordcultist,utc,FirstName,0,철왕 사교도
 ironlordcultist,utc,Description,0,"수십 년 동안 철왕의 귀환을 기다리고 있는 작은 군인들과 사제들이 왕이 영원한 부활의 신전에서 그들을 꺾은 이후 더 적은 수가 되었지만, 여전히 위협으로 간주됩니다."
 jezelle,utc,FirstName,0,제젤
 jezelle,utc,Description,0,"다른 악마들과는 달리, 에리니들은 인간에게 매력적으로 보이고, 거대한 깃털 날개와 악의적인 눈을 제외하고는 매우 아름다운 여성이란 느낌이 듭니다."
@@ -9593,7 +9593,7 @@ khb_s_mrpointy,utc,FirstName,0,모덴카이넨의 검
 khb_s_mrpointy2,utc,FirstName,0,재앙의 검은 칼날
 king,utc,FirstName,0,세마스 왕
 king,utc,LastName,0,로베크
-king,utc,Description,0,"이것은 세무스 왕의 출현으로 보이며, 아이룬드의 주권자이자 크리오사의 아버지이다."
+king,utc,Description,0,"이것은 세무스 왕의 출현으로 보이며, 아이엘룬드의 주권자이자 크리오사의 아버지이다."
 lantern,utc,FirstName,0,등불 집정관
 legion_sth7,utc,FirstName,0,철의 군단병
 legion_sth7,utc,Description,0,탄탄한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁이 匠이나 괴물 匠의 전문 지식과 숙련이 필요합니다.
@@ -9604,7 +9604,7 @@ lomir,utc,FirstName,0,로미르 왕
 lomir,utc,LastName,0,알로델
 lomir,utc,Description,0,"이 엘프 도시의 왕인 로미르는 수백 년을 살아왔고, 대부분의 시간을 자신의 백성의 지도자로 보냈습니다."
 lord,utc,FirstName,0,나리
-lord,utc,LastName,0,아이룬드
+lord,utc,LastName,0,아이엘룬드
 lord,utc,Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 maid,utc,FirstName,0,하녀
 maid,utc,Description,0,성의 기능을 유지하는 데 도움이 되는 일반인들은 낮은 계급들 사이에서 매우 인기 있는 위치를 차지했습니다.
@@ -9621,7 +9621,7 @@ meram,utc,FirstName,0,메라임
 meram,utc,LastName,0,리스킬
 meram,utc,Description,0,이 반아이는 눈을 다. 어떤 수단과 방법을 가리지 않고 자기 길을 걷기 위해 익숙한 여자처럼요.
 messenger,utc,FirstName,0,도시 감시관
-messenger,utc,Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
+messenger,utc,Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이엘룬드 전역의 진정한 경찰력을 이루고 있습니다.
 militia2,utc,FirstName,0,민병대
 militia2,utc,Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 millie,utc,FirstName,0,밀리
@@ -9679,7 +9679,7 @@ patch,utc,FirstName,0,검은 고양이
 patch,utc,Description,0,"검은 테리누스, 작은 집고양이의 위장으로"
 pegasus,utc,FirstName,0,페가소스
 phil,utc,FirstName,0,필립스 선장
-phil,utc,Description,0,"오션 보이저의 함장, 쿨든리 출신의 상인선"
+phil,utc,Description,0,"오션 보이저의 함장, 쿨데니 출신의 상인선"
 pit_fiend,utc,FirstName,0,나락의 마귀
 pit_fiend,utc,Description,0,"배테즈의 무결점 리더인 피트파인즈는 거대하고 강력한 인간형으로, 잔인한 치아를 가지고 있으며, 치아는 끔찍한 초록색 액체로 빛난다."
 powered_armour,utc,FirstName,0,사카린 갑옷
@@ -9706,23 +9706,23 @@ sakumi,utc,Description,0,"이 남자는 어떤 종류의 엔지니어인 것 같
 samuel,utc,FirstName,0,사무엘
 samuel,utc,LastName,0,존스톤
 samuel,utc,Description,0,"노스 셔프 트레이딩 회사의 3명의 주주 중 한 명으로, 거친 재무 거래인으로 알려져 있다."
-saq_apparition,utc,FirstName,0,사카리안 스트레이터
+saq_apparition,utc,FirstName,0,사카린 스트레이터
 saq_apparition,utc,Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saq_biologist,utc,FirstName,0,사카아린 생물학자
 saq_biologist,utc,Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saq_biologist1,utc,FirstName,0,사카아린 생물학자
 saq_biologist1,utc,Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
-saq_command,utc,FirstName,0,사카리안 스트레이터
-saq_command,utc,Description,0,"스트래토르는 사카아린의 최고 지휘관이며 순수한 악의 존재입니다. 이 존재는 성곽 전체를 통제해야 하므로, 이는 반드시 제거해야 하는 위협입니다."
+saq_command,utc,FirstName,0,사카린 스트레이터
+saq_command,utc,Description,0,"스트래토르는 사카린의 최고 지휘관이며 순수한 악의 존재입니다. 이 존재는 성곽 전체를 통제해야 하므로, 이는 반드시 제거해야 하는 위협입니다."
 saq_scientist,utc,FirstName,0,사카아린 과학자
 saq_scientist,utc,Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
 saq_scientist1,utc,FirstName,0,사카아린 과학자
 saq_scientist1,utc,Description,0,"이름이 여럿이나 되고 하나같이 좋은 이름이 아니다. 파괴자. 포식자. 사카린은 수많은 존재의 운명을 수 세기, 어쩌면 그보다 오래 쥐고 흔들어 왔다. 그들은 다른 존재를 가축으로 보는 흉측하고 이질적인 존재이며, 그들의 지식은 누구도 따라가지 못한다. 당신이 맞서 본 가장 큰 적이다."
-saq_tech,utc,FirstName,0,사카아린 기술가
+saq_tech,utc,FirstName,0,사카린 기술가
 saq_tech,utc,Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
-saq_tech1,utc,FirstName,0,사카아린 기술가
+saq_tech1,utc,FirstName,0,사카린 기술가
 saq_tech1,utc,Description,0,"이름이 여럿이나 되고 하나같이 좋은 이름이 아니다. 파괴자. 포식자. 사카린은 수많은 존재의 운명을 수 세기, 어쩌면 그보다 오래 쥐고 흔들어 왔다. 그들은 다른 존재를 가축으로 보는 흉측하고 이질적인 존재이며, 그들의 지식은 누구도 따라가지 못한다. 당신이 맞서 본 가장 큰 적이다."
-saq_tech2,utc,FirstName,0,사카아린 기술가
+saq_tech2,utc,FirstName,0,사카린 기술가
 saq_tech2,utc,Description,0,"이름이 여럿이나 되고 하나같이 좋은 이름이 아니다. 파괴자. 포식자. 사카린은 수많은 존재의 운명을 수 세기, 어쩌면 그보다 오래 쥐고 흔들어 왔다. 그들은 다른 존재를 가축으로 보는 흉측하고 이질적인 존재이며, 그들의 지식은 누구도 따라가지 못한다. 당신이 맞서 본 가장 큰 적이다."
 saq_wizard,utc,FirstName,0,사카아린 마법사
 saq_wizard,utc,Description,0,"그들에게는 많은 이름이 있다 - 파괴자, 포식자. 사카린은 수 세기 동안, 어쩌면 그보다 더 오랫동안 수많은 존재의 운명을 쥐락펴락해 왔다. 몸은 먹물처럼 검은 털로 덮여 있고, 두건 깊은 곳에서 눈이 빛난다. 마법과 과학, 초능력에 대한 지식은 그 누구도 따라올 수 없다. 당신이 맞서 본 가장 강한 적이다."
@@ -9739,16 +9739,16 @@ sebas,utc,Description,0,이 귀족은 눈이 멀정도로 취한 것 같습니�
 sebastian,utc,FirstName,0,세바스티안
 sebastian,utc,Description,0,하스리나xx의 충실한 동물 동반자는 당신의 도움 덕분에 그의 편으로 돌아왔다.
 senate_guard,utc,FirstName,0,도시 감시관
-senate_guard,utc,Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
-sentry,utc,FirstName,0,사카아린 경비구조물
+senate_guard,utc,Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이엘룬드 전역의 진정한 경찰력을 이루고 있습니다.
+sentry,utc,FirstName,0,사카린 경비구조물
 sentry,utc,Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
-sentry001,utc,FirstName,0,사카아린 경비구조물
+sentry001,utc,FirstName,0,사카린 경비구조물
 sentry001,utc,Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
-sentry1,utc,FirstName,0,사카아린 경비구조물
+sentry1,utc,FirstName,0,사카린 경비구조물
 sentry1,utc,Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
-sentrypat2,utc,FirstName,0,사카아린 경비구조물
+sentrypat2,utc,FirstName,0,사카린 경비구조물
 sentrypat2,utc,Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
-sentrypat3,utc,FirstName,0,사카아린 경비구조물
+sentrypat3,utc,FirstName,0,사카린 경비구조물
 sentrypat3,utc,Description,0,비교적 간단한 구조물들이 매우 효과적으로 작동합니다. 중요한 위치를 지키고 침입자를 파괴합니다.
 shad_lord,utc,FirstName,0,그림자 주군
 shad_lord,utc,Description,0,"어둠의 끔찍한 창조물들, 그림자 주들은 오직 인간의 영역에서 악을 행하려고 합니다."
@@ -10028,8 +10028,8 @@ zep_barghestg2,utc,FirstName,0,더 큰 바게스트
 zep_bat_001,utc,FirstName,0,"박쥐, 과일"
 zep_bat_002,utc,FirstName,0,"박쥐, 잎나무 겨드랑이"
 zep_bat_003,utc,FirstName,0,"박쥐, 장다리 박쥐"
-zep_beholder_dt,utc,FirstName,0,"주시자, 죽음의 독재자"
-zep_beholder_dt,utc,Description,0,죽음의 독재자들은 부패해 있고 곰팡이가 자란 관측자들입니다.
+zep_beholder_dt,utc,FirstName,0,"비홀더, 죽음의 독재자"
+zep_beholder_dt,utc,Description,0,죽음의 독재자들은 부패해 있고 곰팡이가 자란 비홀더들입니다.
 zep_bird_001,utc,FirstName,0,"새, 알바토로스"
 zep_bird_001,utc,Description,0,"알바토로스는 바다 새 중 가장 큰 새로, 오랜 시간 동안 비행할 수 있으며, 육지로부터 큰 거리에서 종종 볼 수 있습니다."
 zep_bird_002,utc,FirstName,0,"새, 검은새"
@@ -11109,7 +11109,7 @@ aarcl069,uti,DescIdentified,0,"이 가벼운 섬유는 보호와 속도를 위�
 acheron_key,uti,LocalizedName,0,아케론의 키
 acheron_key,uti,DescIdentified,0,스펙트럼 키는 하나의 문으로 사용할 수 있도록 설계되었습니다.
 actuator,uti,LocalizedName,0,골렘 다리
-actuator,uti,DescIdentified,0,제대로 작동하는 다리가 아이언로드 유형의 기계에서 나온 것처럼 보입니다.
+actuator,uti,DescIdentified,0,제대로 작동하는 다리가 철왕 유형의 기계에서 나온 것처럼 보입니다.
 adamantiumgauntl,uti,LocalizedName,0,아다만티움 파괴 가갑
 adamantiumgauntl,uti,DescIdentified,0,가장 파괴할 수 없는 금속으로 만든 이 장갑들은 적의 머리에 치면 그의 두개골이 잘 부서질 수 있을 정도로 큰 힘을 가지고 있습니다.
 aiope_harp,uti,LocalizedName,0,천상의 해프리
@@ -11165,7 +11165,7 @@ armhe010,uti,DescIdentified,0,"기본 헬멧은 가장자리에 철로 만든 �
 armour_skin,uti,LocalizedName,0,전력 갑옷 피부
 armour_skin,uti,DescIdentified,0,"테리누스가 갑옷을 착용한 것처럼 보이면서 착용하는 물건입니다. 그는 이것을 벗을 때마다 파괴됩니다. 만약 이 문장을 읽고 있다면, 게임 스크립트에 문제가 생겼습니다."
 armourofthewarri,uti,LocalizedName,0,전사시인의 갑옷
-armourofthewarri,uti,DescIdentified,0,"이 강력한 갑옷은 아이룬드의 첫 왕의 동반자였던 사람이 착용하던 것이었다. 그의 이름은 역사 속 깊은 곳에서 잊혀졌지만, 이 갑옷의 힘은 오늘날까지 그대로 남아 있다."
+armourofthewarri,uti,DescIdentified,0,"이 강력한 갑옷은 아이엘룬드의 첫 왕의 동반자였던 사람이 착용하던 것이었다. 그의 이름은 역사 속 깊은 곳에서 잊혀졌지만, 이 갑옷의 힘은 오늘날까지 그대로 남아 있다."
 arrowsofdeafenin,uti,LocalizedName,0,청각을 막는 화살
 arrowsofdeafenin,uti,DescIdentified,0,무더운 힘으로 타격하는 화살은 적을 순간적으로 혼란에 빠뜨릴 수 있습니다.
 arrowsofdispelli,uti,LocalizedName,0,추방 의 화살
@@ -11210,12 +11210,12 @@ bardicslippers,uti,LocalizedName,0,바드의 신발
 bardicslippers,uti,DescIdentified,0,바르드가 과감하고 용기를 발휘할 수 있는 유용한 부츠는 원래 연주자가 무대에서 더 큰 자유를 얻을 수 있도록 설계되었습니다.
 battlehighmarch,uti,LocalizedName,0,고지마르치 성 전투
 battlemagestaff,uti,LocalizedName,0,전투기 직원
-battlemagestaff,uti,DescIdentified,0,모든 마법이 실패하면 아이룬드 대학교의 마법사들은 이 막대기에 의존하여 가까운 거리에서 전투를 합니다.
+battlemagestaff,uti,DescIdentified,0,모든 마법이 실패하면 아이엘룬드 대학교의 마법사들은 이 막대기에 의존하여 가까운 거리에서 전투를 합니다.
 beer,uti,LocalizedName,0,맥주
 beer,uti,DescIdentified,0,일반인들이 선호하는 일반적인 음료입니다.
 beer_5,uti,LocalizedName,0,맥주
 beer_5,uti,DescIdentified,0,일반인들이 선호하는 일반적인 음료입니다.
-beholderprope002,uti,LocalizedName,0,주시자의 특성
+beholderprope002,uti,LocalizedName,0,비홀더의 특성
 beltempestspi001,uti,LocalizedName,0,스 마그 드레스
 beltempestspi001,uti,DescIdentified,0,위대한 마법에 강화된 이 드레스는 보이는 것보다 훨씬 더 많습니다.
 beltempestspi002,uti,LocalizedName,0,시타니 어르신 옷
@@ -11843,8 +11843,8 @@ firestars,uti,DescIdentified,0,던지면 이 마법 수리검은 불꽃으로 �
 firestars001,uti,LocalizedName,0,중독된 수리검
 firestormarrows,uti,LocalizedName,0,폭발화살
 firestormarrows,uti,DescIdentified,0,목표에 맞으면 화염구의 위력으로 폭발하는 치명적인 화살이다. 이런 탄약은 극히 드물고 꽤 비싸다.
-firstking,uti,LocalizedName,0,아이룬드의 첫 왕
-firstking,uti,DescIdentified,0,이 책은 아이룬드 왕국의 창시자인 알레일의 삶과 시대를 다룹니다.
+firstking,uti,LocalizedName,0,아이엘룬드의 첫 왕
+firstking,uti,DescIdentified,0,이 책은 아이엘룬드 왕국의 창시자인 알레일의 삶과 시대를 다룹니다.
 fish,uti,LocalizedName,0,물고기
 fish,uti,DescIdentified,0,아마 레드 헤링이라고요
 flamebain,uti,LocalizedName,0,플라메바인
@@ -12201,7 +12201,7 @@ item027,uti,LocalizedName,0,니르바나의 승려의 깃이
 item028,uti,LocalizedName,0,평면의 닌자
 item028,uti,Description,0,이 검은 닌자 의 표준 검 이라고 한다. 하지만 의심 할 여지 없이 이 암살자 들 은 그들의 일 라인 에서 여러 종류의 검 을 사용 하였다. 이 특정 검 은 카타나 의 약 2/3 정도 길 이므로 신체 에서 숨기기 를 쉬워 한다.
 item028,uti,DescIdentified,0,보타이가 자기들에게 가져온 다른 세계의 침략자들을 죽이기 위해 만들어진 이 무기는 평면 생물들에게는 절대적인 위험으로 작용한다. 이 유일한 무기는 그들의 세계를 악의 물결로 몰아넣은 평면 생물들의 공세를 막는데 충분하지 않았다.
-item029,uti,LocalizedName,0,사카아린 발톱 방패
+item029,uti,LocalizedName,0,사카린 발톱 방패
 jovialevil,uti,LocalizedName,0,유쾌한 악마
 jovialevil,uti,DescIdentified,0,"이 악한 칼인 래피어는 이상한 마법으로 가득 차 있으며, 이를 맞은 존재는 통제할 수 없는 웃음을 터뜨릴 수 있습니다. 물론, 이것은 매우 방해가 되며, 그들이 웃는 동안에도 무기는 그들의 생명력을 빼앗아 갑니다."
 jovialevil001,uti,LocalizedName,0,에리니에스 래피어
@@ -12300,7 +12300,7 @@ mcloth019,uti,DescIdentified,0,페어로크의 비전 원에서 사용하도록 
 mcloth020,uti,LocalizedName,0,트랜센던트 경로의 의복 +2
 mcloth020,uti,DescIdentified,0,"이엘런드 동부 산맥의 트랜젠테인 경로의 수도사들은 이러한 옷을 계급을 나타내는 상징으로 착용한다. 이 의복은 수도사의 마음을 현재에 더 집중시키며, 몸과 주변 상황에 대한 더 큰 통제력을 부여한다."
 mcloth021,uti,LocalizedName,0,불의 의복
-mcloth021,uti,DescIdentified,0,아이룬드 대학교에서 가장 창의적인 마법사 중 한 명이 디자인한 이 의복은 착용자에게 화염 공격으로부터 추가적인 보호와 더 많은 화염 기반 능력을 제공합니다.
+mcloth021,uti,DescIdentified,0,아이엘룬드 대학교에서 가장 창의적인 마법사 중 한 명이 디자인한 이 의복은 착용자에게 화염 공격으로부터 추가적인 보호와 더 많은 화염 기반 능력을 제공합니다.
 mcloth022,uti,LocalizedName,0,아치마지의 의복
 mcloth022,uti,DescIdentified,0,"이 디자인의 의복은 이 땅에서 가장 높은 순위와 가장 강력한 마법사들이 착용하며, 보호 마법으로 매우 강화되어 있으며, 모든 마법사에게 귀중한 도움이 된다. 또한, 마법사에게는 전투에서 항상 공격력을 갖추게 하는 마법이 부여되어 있다."
 mcloth023,uti,LocalizedName,0,트랜스젠트 경로의 의복 +3
@@ -12310,11 +12310,11 @@ mcloth024,uti,DescIdentified,0,"이엘런드 동부 산맥의 트랜젠테인 �
 mcloth025,uti,LocalizedName,0,트랜센던트 경로의 옷 +5
 mcloth025,uti,DescIdentified,0,"이엘런드 동부 산맥의 트랜젠테인 경로의 수도사들은 이러한 옷을 계급을 나타내는 상징으로 착용한다. 이 의복은 수도사의 마음을 현재에 더 집중시키며, 몸과 주변 상황에 대한 더 큰 통제력을 부여한다."
 mcloth026,uti,LocalizedName,0,영혼 투사의 의복 +4
-mcloth026,uti,DescIdentified,0,"패션보다 기능을 중시하는 이 검은, 검은색 사제복은 아이엘런드 전역에서 활동하는 비밀스러운 수도사들이 착용합니다. 그들은 수도사가 밤과 더 잘 어울리게 합니다."
+mcloth026,uti,DescIdentified,0,"패션보다 기능을 중시하는 이 검은, 검은색 사제복은 아이엘룬드 전역에서 활동하는 비밀스러운 수도사들이 착용합니다. 그들은 수도사가 밤과 더 잘 어울리게 합니다."
 mcloth027,uti,LocalizedName,0,영혼 투사의 의복 +5
-mcloth027,uti,DescIdentified,0,"패션보다 기능을 중시하는 이 검은, 검은색 사제복은 아이엘런드 전역에서 활동하는 비밀스러운 수도사들이 착용합니다. 그들은 수도사가 밤과 더 잘 어울리게 합니다."
+mcloth027,uti,DescIdentified,0,"패션보다 기능을 중시하는 이 검은, 검은색 사제복은 아이엘룬드 전역에서 활동하는 비밀스러운 수도사들이 착용합니다. 그들은 수도사가 밤과 더 잘 어울리게 합니다."
 mcloth028,uti,LocalizedName,0,영혼투사 의복 +3
-mcloth028,uti,DescIdentified,0,"패션보다 기능을 중시하는 이 검은, 검은색 사제복은 아이엘런드 전역에서 활동하는 비밀스러운 수도사들이 착용합니다. 그들은 수도사가 밤과 더 잘 어울리게 합니다."
+mcloth028,uti,DescIdentified,0,"패션보다 기능을 중시하는 이 검은, 검은색 사제복은 아이엘룬드 전역에서 활동하는 비밀스러운 수도사들이 착용합니다. 그들은 수도사가 밤과 더 잘 어울리게 합니다."
 mcloth029,uti,LocalizedName,0,영원한 순간의 시녀복
 mcloth029,uti,DescIdentified,0,"이 의복은 한때 트랜젠던트 경로의 가장 유명한 멤버인 선리 (Sun-Li) 이 착용한 바 있다. 선리 (Sun-li) 가 너무 빨리 시간 자체를 잘라낼 수 있었다고 생각되며, 관찰자들에게는 흐릿한 것 이상으로 보이지 않았다."
 mcloth030,uti,LocalizedName,0,암흑의 의복
@@ -12329,7 +12329,7 @@ mcloth034,uti,LocalizedName,0,사히르의 의복
 mcloth034,uti,DescIdentified,0,"이 디자인의 의복은 이 땅에서 가장 높은 순위와 가장 강력한 마법사들이 착용하며, 보호 마법으로 매우 강화되어 있으며, 모든 마법사에게 귀중한 도움이 된다. 또한, 마법사에게는 전투에서 항상 공격력을 갖추게 하는 마법이 부여되어 있다."
 mcloth035,uti,LocalizedName,0,메람의 마법사 옷
 mcloth035,uti,DescIdentified,0,"이 디자인의 의복은 이 땅에서 가장 높은 순위와 가장 강력한 마법사들이 착용하며, 보호 마법으로 매우 강화되어 있으며, 모든 마법사에게 귀중한 도움이 된다. 또한, 마법사에게는 전투에서 항상 공격력을 갖추게 하는 마법이 부여되어 있다."
-mcloth036,uti,LocalizedName,0,드로프 의상
+mcloth036,uti,LocalizedName,0,드로우프 의상
 mcloth036,uti,DescIdentified,0,"이 디자인의 의복은 이 땅에서 가장 높은 순위와 가장 강력한 마법사들이 착용하며, 보호 마법으로 매우 강화되어 있으며, 모든 마법사에게 귀중한 도움이 된다. 또한, 마법사에게는 전투에서 항상 공격력을 갖추게 하는 마법이 부여되어 있다."
 mcloth038,uti,LocalizedName,0,마르쿠스의 갈대색 양복
 mcloth038,uti,DescIdentified,0,"이 디자인의 의복은 이 나라에서 가장 높은 순위와 가장 강력한 마법사들에 의해 착용되며, 보호 마법으로 가득 차 있으며, 모든 마법사에게 귀중한 도움이 됩니다."
@@ -12375,9 +12375,9 @@ nightbane,uti,LocalizedName,0,나이트베인
 nightbane,uti,DescIdentified,0,베네딕텀 대천사가 직접 사용한 무기인 나이트베인은 교회 역사 전반에 걸쳐 빛을 가져오며 신앙을 옹호하는 칼로 유명하다. 이 무기를 들고 있는 것은 하느님의 얼굴을 만지는 것과 같다. 나이트베인은 악의 접촉을 견디지 않을 것이다.
 originaielund1,uti,LocalizedName,0,아일런드 왕국의 짧은 역사 1부
 originaielund1,uti,DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
-originaielund2,uti,LocalizedName,0,아이룬드 왕국의 짧은 역사 2부
+originaielund2,uti,LocalizedName,0,아이엘룬드 왕국의 짧은 역사 2부
 originaielund2,uti,DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
-originaielund3,uti,LocalizedName,0,아일런드 왕국의 짧은 역사 3부
+originaielund3,uti,LocalizedName,0,아이엘룬드 왕국의 짧은 역사 3부
 originaielund3,uti,DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
 origintusone,uti,LocalizedName,0,투소네 왕국의 짧은 역사
 origintusone,uti,DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
@@ -12419,7 +12419,7 @@ quicksilverrapie,uti,DescIdentified,0,"너무 순수하고 균형이 잘 잡힌 
 quill,uti,LocalizedName,0,깃펜
 quill,uti,DescIdentified,0,잉크와 글쓰기에 쓰이는 깃털
 rapierofdefen001,uti,LocalizedName,0,"세검, 디펜더 +7"
-rapierofdefen001,uti,DescIdentified,0,"이 칼은 아이룬드 전역의 검사들이 소중히 여기는 강력한 무기입니다. 이 칼은 공격을 예측하고 눈을 따를 수 없을 정도로 빠르게 움직이며, 이를 막습니다."
+rapierofdefen001,uti,DescIdentified,0,"이 칼은 아이엘룬드 전역의 검사들이 소중히 여기는 강력한 무기입니다. 이 칼은 공격을 예측하고 눈을 따를 수 없을 정도로 빠르게 움직이며, 이를 막습니다."
 recallgem,uti,LocalizedName,0,회상 보석
 recallgem,uti,DescIdentified,0,이 보석은 귀환석의 중심에 위치해 있어 전력을 공급합니다. 마법 기술의 발전 덕분에 텔레포트 시에만 이 보석이 소비되므로 비용과 무게를 줄일 수 있습니다.
 recallgem001,uti,LocalizedName,0,회상 보석
@@ -12475,11 +12475,11 @@ rustedarmour,uti,DescIdentified,0,한때 생명력을 가진 갑옷으로 매료
 sailorsoutfit,uti,LocalizedName,0,선원 의복
 sailorsoutfit,uti,DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 sailorsoutfit001,uti,LocalizedName,0,관서 직원 의복
-sailorsoutfit001,uti,DescIdentified,0,아이룬드 해군의 모든 장교들이 착용하는 이 옷은 실용적이면서도 정교합니다.
+sailorsoutfit001,uti,DescIdentified,0,아이엘룬드 해군의 모든 장교들이 착용하는 이 옷은 실용적이면서도 정교합니다.
 sailorsoutfit002,uti,LocalizedName,0,선원 의복
 sailorsoutfit002,uti,DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 sailorsoutfit003,uti,LocalizedName,0,투소네 장교 복장
-sailorsoutfit003,uti,DescIdentified,0,아이룬드 해군의 모든 장교들이 착용하는 이 옷은 실용적이면서도 정교합니다.
+sailorsoutfit003,uti,DescIdentified,0,아이엘룬드 해군의 모든 장교들이 착용하는 이 옷은 실용적이면서도 정교합니다.
 sailorsoutfit005,uti,LocalizedName,0,보브의 의상
 sailorsoutfit005,uti,DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 saq_com_outfit,uti,LocalizedName,0,사'쿠아린 지휘관 의복
@@ -12490,7 +12490,7 @@ saq_outfit001,uti,LocalizedName,0,사'쿠아린 기술가 의복
 saq_outfit001,uti,Description,0,이 검은 가죽 갑옷의 줄을 따라가는 데 문제가 있습니다.
 saq_staff,uti,LocalizedName,0,사카린 수사
 saq_staff,uti,DescIdentified,0,"이 종류 의 스태프 는 예술가의 공예 의 최고점 이며, 각각의 스태프 는 매술사 의 수십 년 의 연구 의 최고점 을 나타낸다. 그 들 의 창조 의 비밀 은 거의 사라진 것 으로서, 그러한 스태프 들 은 살아있는 마법사 들 의 손 보다 고대 용 들 의 무리 에서 더 많이 발견 된다."
-saqaarinweapon,uti,LocalizedName,0,사카리안 무기
+saqaarinweapon,uti,LocalizedName,0,사카린 무기
 saqaarinweapon,uti,DescIdentified,0,이 작은 전투용 창은 어떠한 갑옷도 관통할 수 있습니다.
 saqsupremeclaw,uti,LocalizedName,0,사카린 지휘관 납탈
 searingkiss,uti,LocalizedName,0,화려한 키스
@@ -12560,7 +12560,7 @@ sha_subrace_aasi,uti,LocalizedName,0,세부 종족: 아시마르
 sha_subrace_aasi,uti,DescIdentified,0,이제 아시마르 계열에 속한다고 인정받았으니 이 항목은 당신이 선택한 계열에 특유의 특별한 능력을 줄 것입니다.
 sha_subrace_dgno,uti,LocalizedName,0,세부 종족: 딥 노움
 sha_subrace_dgno,uti,DescIdentified,0,이제 당신은 딥 기노미 서브라스의 일원이라는 인정을 받고 있습니다. 이 항목은 당신이 선택한 서브라스에 고유한 특별한 능력을 줄 것입니다.
-sha_subrace_drow,uti,LocalizedName,0,세부 종족: 드로
+sha_subrace_drow,uti,LocalizedName,0,세부 종족: 드로우
 sha_subrace_drow,uti,DescIdentified,0,이제 드로우 서브라스의 일원이라는 인정을 받았고 이 항목은 당신이 선택한 서브라스에 고유한 특별한 능력을 줄 것입니다.
 sha_subrace_duer,uti,LocalizedName,0,세부 종족: 듀에르가
 sha_subrace_duer,uti,DescIdentified,0,이제 두르가르 계열에 속한다고 인정받았으니 이 항목은 당신이 선택한 계열에 특유의 특별한 능력을 부여할 것입니다.
@@ -12617,7 +12617,7 @@ staffofthewoodla,uti,LocalizedName,0,숲의 직사강
 staffofthewoodla,uti,DescIdentified,0,가장 훌륭한 오크로 만든 이 종류의 막대들은 드루이드와 자연을 더욱 밀접하게 연결시켜 그들의 능력을 더 많이 사용할 수 있도록 설계되었습니다.
 statuehelmet,uti,LocalizedName,0,조각상 헬멧
 statuehelmet001,uti,LocalizedName,0,조각상 헬멧
-stolensaqarindoc,uti,LocalizedName,0,사카아린의 장물 문서
+stolensaqarindoc,uti,LocalizedName,0,사카린의 장물 문서
 stolensaqarindoc,uti,DescIdentified,0,이 종이는 매우 오래되었지만 여전히 읽을 수 있습니다. 만약 언어를 읽을 수 있다면. 그 표에는 많은 도표와 수학적 공식이 기록되어 있는 것처럼 보입니다. 그리고 당신이 읽을 수 있는 부분은 당신의 이해를 초월한 것입니다.
 stoneguard,uti,LocalizedName,0,스톤가드
 stoneguard,uti,DescIdentified,0,왜성 갑옷의 독특한 디자인으로 그들의 신의 축복이 심해져 있어
@@ -12754,9 +12754,9 @@ wammbo007,uti,LocalizedName,0,약한 독 화살
 wammbo007,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 wand,uti,DescIdentified,0,"번개 마법봉은 적어도 초기 제작 단계에서는 매우 불안정하다. 경험이 부족한 마법사들은 실험실에서 갑작스러운 폭풍이나 충전된 안개를 경험하기도 했으며, 적절한 주문을 제대로 낭독하지 못했기 때문이다. 고령의 마법사들은 잘못된 의식을 가진 토큰을 순환시켜 간접적으로 마법사로서의 겸손을 가르치려 했다는 이야기가 있다."
 wandoficestorm,uti,LocalizedName,0,얼음 폭풍의 막대
-wandofmeteorstor,uti,LocalizedName,0,기상별성 막대
+wandofmeteorstor,uti,LocalizedName,0,기상별성 마법봉
 wandofmeteorstor,uti,DescIdentified,0,이 막대기는 강력한 파괴 마법으로 축복되어 있습니다.
-wandoftrapdetect,uti,LocalizedName,0,함정 감지 막대기
+wandoftrapdetect,uti,LocalizedName,0,함정 감지 마법봉
 wandoftrapdetect,uti,DescIdentified,0,고대 무덤을 탐구하기 위해 만들어진 유용한 마법사대기로서 위험한 함정의 위치를 쉽게 감지할 수 있습니다.
 wardstone,uti,LocalizedName,0,워드스톤
 waxbt002,uti,LocalizedName,0,장인제작 전투도끼

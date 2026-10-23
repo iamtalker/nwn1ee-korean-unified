@@ -2,11 +2,11 @@ Resource,ResType,FieldPath,LangID,Text
 cslimbo,are,Name,0,CS 불확실
 dwarvenpit,are,Name,0,드워프굴
 eb_sublv1,are,Name,0,하위 레벨 1: 교정시설
-level10xanath001,are,Name,0,레벨10 - X나스라르의 외부 성당 - 남쪽
+level10xanath001,are,Name,0,레벨10 - 잔타르의 외부 성당 - 남쪽
 level10xanathars,are,Name,0,10레벨 - 잔타르의 외부 성소 - 북쪽
-level11xanath001,are,Name,0,"레벨 11 - 칸타르의 외부 성당, 하부지대 - 동쪽"
+level11xanath001,are,Name,0,"레벨 11 - 잔타르의 외부 성당, 하부지대 - 동쪽"
 level11xanathars,are,Name,0,"레벨 11 - 나타르의 외부 성당, 하위 범위 - 서쪽"
-level11xanathb,are,Name,0,"레벨 11 - 칸타르의 외부 성당, 하부 지역 - 남"
+level11xanathb,are,Name,0,"레벨 11 - 잔타르의 외부 성당, 하부 지역 - 남"
 level11xanathw,are,Name,0,"11레벨 - 잔타르의 외부 성소, 하부 지역 - 북쪽"
 level12xanatha,are,Name,0,레벨 12 - 칸타르의 내부 성소 동쪽
 level12xanathars,are,Name,0,레벨 12 - 칸나타르의 내부 성소 - 서쪽
@@ -39,7 +39,7 @@ lvl7_urd_s,are,Name,0,7단계 - 의 위쪽 끝 - 남쪽
 lvl7_urd_w,are,Name,0,레벨 7 - 서쪽 의 상단
 lvl8_lrd_n,are,Name,0,8단계 - 북부
 lvl8_lrd_s,are,Name,0,8단계 - 서부
-lvl8_lrd_w,are,Name,0,레벨 8 - 드워 아웃캐스트 - 동부
+lvl8_lrd_w,are,Name,0,레벨 8 - 드로우 아웃캐스트 - 동부
 secretwaterfalls,are,Name,0,비밀 레벨 - 숨겨진 폭포
 severalnightsago,are,Name,0,몇 밤 전...
 sewers002,are,Name,0,레벨 1 - 하수구 - 남쪽
@@ -53,7 +53,7 @@ sub2ds,are,Name,0,하위 레벨 2: 죽음 섹션
 waterdeepdungeon,are,Name,0,워터딥 - 도시 던전
 waterdeepoutskir,are,Name,0,워터딥 외곽 지역
 waterdeepseweren,are,Name,0,워터딥 - 도시 하수구 입구
-welcome,are,Name,0,환영: 주시자의 눈에
+welcome,are,Name,0,환영: 비홀더의 눈에
 correction_fac,dlg,EntryList/0/Text,0,교정 시설
 death_section,dlg,EntryList/0/Text,0,죽음 섹션
 eb_anya,dlg,EntryList/0/Text,0,</Start> 당신 앞에 인간의 골기가 전부 있습니다. <StartAction> 무엇을 하시겠습니까?
@@ -85,7 +85,7 @@ eb_armun,dlg,EntryList/25/Text,0,"좋은 소식이네, 타고르는 아직까지
 eb_armun,dlg,EntryList/27/Text,0,"이 모든 상황을 너무 혼란스럽게 만드는 것은 이것입니다. 아직 왜 드로우가 우리를 공격하기로 결정했는지 완전히 이해하지 못합니다. 우리가 이해할 수 있는 유일한 설명은 그들의 목표가 우리 왕을 죽게 보는 것이었기 때문이지만 그들의 진정한 동기는 여전히 미스터리로 남아 있습니다. 혼돈의 여신에 대한 그들의 헌신으로 인해, 그들의 행동은 다양한 이유로 설명될 수 있습니다. 그녀의 예측불가능하고 파괴적인 의지와 밀접히 연결되어 있을 수 있기 때문입니다."
 eb_armun,dlg,EntryList/28/Text,0,"드로우는 늘 공격적이고 계산적인 종족으로, 자신들만의 은밀한 목적을 추구해 왔다. 그러나 이번 공격은 평소의 드로우 습격과는 거리가 멀었다. 훨씬 조직적이었고, 섬뜩할 정도였다. 그들의 목표는 오직 하나, 왕가였던 듯하다. 왕가가 주된 표적이었음은 분명하나, 궁극적인 목적은 여전히 미궁 속에 있다."
 eb_armun,dlg,EntryList/29/Text,0,저는 이 모든 것을 이해하려고 끊임없이 노력했지만 명확한 답이 나오지 않았습니다. 제가 알고 있는 것은 신디아가 실제로 드로우 전사들을 이끌고 있음을 확인했습니다. 우리는 용감하게 싸웠고 최선을 다했지만 승리는 어렵고 좁았습니다. 우리의 최선의 노력에도 불구하고 우리 왕을 보호하거나 잃어버린 왕자를 되찾을 수 없었습니다. 이 실패는 우리에게 무거운 짐을 지고 있습니다.
-eb_armun,dlg,EntryList/30/Text,0,"만약 당신이 말하는 것이 사실이라면, 당신이 말하는 이 악한 힘은 분명히 그 암흑의 의도를 수행하기 위해 드로프들을 조종하고 있을 것이다. 그들은 더 큰, 더 음험한 계획의 도구일 뿐이다."
+eb_armun,dlg,EntryList/30/Text,0,"만약 당신이 말하는 것이 사실이라면, 당신이 말하는 이 악한 힘은 분명히 그 암흑의 의도를 수행하기 위해 드로우프들을 조종하고 있을 것이다. 그들은 더 큰, 더 음험한 계획의 도구일 뿐이다."
 eb_armun,dlg,EntryList/32/Text,0,"그래, 그건 드그나르와 그의 아들이야; 돈으로 살 수 있는 가장 좋은 검과 찌르를 가지고 있다."
 eb_armun,dlg,EntryList/33/Text,0,듀그나르는 여기 동쪽에서 찾을 수 있습니다.
 eb_armun,dlg,EntryList/34/Text,0,도르는 내 위치에서 남동쪽에 있습니다.
@@ -106,8 +106,8 @@ eb_armun,dlg,EntryList/52/Text,0,"결국 우리는 이 멋진 돌로 조각된 �
 eb_armun,dlg,EntryList/53/Text,0,"그러나 캠프가 잠들면서 밤의 침묵이 깨졌다. 고대 돌 포털은 마법의 빛의 폭발로 폭발했습니다! 그 빛나는 깊음에서 드로우의 끊임없는 무리가 등장했습니다. '신디아'라고 알려진 암컷 드로우의 현명한 리더가 그들의 지휘를 맡고 있습니다. 우리는 그들을 만나고, 긴 주간의 여행의 피곤함에도 불구하고 우리의 결단력이 끊어지지 않았습니다. 격렬한 결단력으로, 우리는 우리의 사람들을 멸망시키기 위한 그들의 악의적 계획에 흔들리지 않거나 굴복하기를 거부하며 모든 힘으로 어둠의 사람들과 싸웠습니다."
 eb_armun,dlg,EntryList/54/Text,0,"양쪽 모두 큰 피해를 입었지만 마침내 드로우를 그들이 온 차원문 너머로 몰아냈습니다. 그러나 승리에는 큰 대가가 따랐습니다. 혼란 속에서 티르고 왕은 독 묻은 단검에 찔렸습니다. 목숨은 건졌지만 독의 저주 때문에 영원한 잠에 빠졌고, 우리는 그 고통을 짊어지고 있습니다."
 eb_armun,dlg,EntryList/55/Text,0,"""우리 의 신자 의 최선의 노력 을 거치면서도, 우리 의 위대한 왕 을 독식 한 잠 에서 깨울 수 있는 것 은 아무 것 도 없을 것 이다. 드로우 의 독성 한 함선 에 대한 우리 의 지식 은 치료법 을 구하기 위해 너무 제한적 이다. 더 심각 하게 하기 위해, 드로우 침략자 는 우리 왕국 의 상속자 인 왕자 키어거 를 납치 하였다. 우리 가운데 왕실 의 일원 이 없으므로, 우리 는 그 들 의 고대, 비밀 지식 에 대한 접근 을 잃었다. 이 홀 들 에서 나오는 결정적 인 경로를 포함하여. 우리는 갇혀, 우리의 운명 은 불확실 하다."
-eb_armun,dlg,EntryList/56/Text,0,"그래서 이제, 우리는 우리의 사제에게 생존한 전사들의 상처를 치유할 시간을 주며 기다립니다. 준비가 되면, 우리는 왕자를 구하고 티르고 왕의 기념을 이어가기 위해 출발할 것입니다. 우리의 숫자는 적지만, 우리의 결심은 흔들리지 않습니다. 우리는 퀴르가 왕자를 드로의 손아귀에 내버려두는 것보다 마지막 숨까지 싸워야 합니다. 우리의 길은 위험으로 가득하지만, 우리의 의무에서 한 걸음도 물러서지 않을 것입니다."
-eb_armun,dlg,EntryList/57/Text,0,"만약 당신이 드워의 손에서 키르거 왕자를 구하고 우리에게 돌려보내는 과감한 일을 하지 않는다면, 그는 이 홀의 비밀 출구에 대한 지식을 여러분과 공유할 수 있을 것입니다. 그렇게 함으로써, 여러분이 찾고 있는 답을 얻을 수 있을 것이고, 우리는 사랑하는 왕자와 재결합할 것입니다. 이는 위험한 모험일 수 있지만, 우리 둘 다에게 구원을 가져올 수 있는 기회가 될 것입니다."
+eb_armun,dlg,EntryList/56/Text,0,"그래서 이제, 우리는 우리의 사제에게 생존한 전사들의 상처를 치유할 시간을 주며 기다립니다. 준비가 되면, 우리는 왕자를 구하고 티르고 왕의 기념을 이어가기 위해 출발할 것입니다. 우리의 숫자는 적지만, 우리의 결심은 흔들리지 않습니다. 우리는 퀴르가 왕자를 드로우의 손아귀에 내버려두는 것보다 마지막 숨까지 싸워야 합니다. 우리의 길은 위험으로 가득하지만, 우리의 의무에서 한 걸음도 물러서지 않을 것입니다."
+eb_armun,dlg,EntryList/57/Text,0,"만약 당신이 드로우의 손에서 키르거 왕자를 구하고 우리에게 돌려보내는 과감한 일을 하지 않는다면, 그는 이 홀의 비밀 출구에 대한 지식을 여러분과 공유할 수 있을 것입니다. 그렇게 함으로써, 여러분이 찾고 있는 답을 얻을 수 있을 것이고, 우리는 사랑하는 왕자와 재결합할 것입니다. 이는 위험한 모험일 수 있지만, 우리 둘 다에게 구원을 가져올 수 있는 기회가 될 것입니다."
 eb_armun,dlg,EntryList/58/Text,0,<StartAction>Armun는 당신에게 돌로 만든 메달리온을 제공합니다.</Start> Shindia는 전투에서 탈출하기 위해 서둘러 그것을 떨어뜨렸다. 이것은 그녀와 그녀의 보병들이 도착한 돌 포털을 활성화하는 열쇠입니다. 우리 조상들은 이러한 포털을 만들어서 먼 거리를 빠르게 통과하여 먼 곳에서 간편하게 이동할 수 있게 했습니다.
 eb_armun,dlg,EntryList/59/Text,0,"포털은 올바른 물체가 문에 닿을 때 활성화됩니다. 신디아와 그녀의 드로우 엘프를 포털을 통해 쫓아낼 수도 있었지만, 아직 그들을 직면할 준비가 되지 않았습니다."
 eb_armun,dlg,EntryList/60/Text,0,"고대 사람들은 또한 강력한 마술을 사용하여 지식을 탐구했습니다. 전설에 따르면 지식의 신탁이 존재하며, 그 힘은 신비한 구슬로 열립니다. 구슬이 신탁 안에 배치되면 그 잠재력이 완전히 발휘됩니다."
@@ -268,7 +268,7 @@ eb_danilo,dlg,ReplyList/11/Text,0,누구십니까?
 eb_danilo,dlg,ReplyList/12/Text,0,당신도 워터딥에서 벌어지는 미스터리를 밝혀내기 위해 둔갑당했나요?
 eb_danilo,dlg,ReplyList/13/Text,0,"다닐로, 워터딥의 상황에 대해 어떻게 생각하나? 진정한 의미에서 무엇이 밑바닥에서 벌어지고 있는지 어떻게 생각하나?"
 eb_danilo,dlg,ReplyList/14/Text,0,"켈벤이 어떤 사람이냐고요? 글쎄요, 수수께끼 같은 만큼 뛰어난 분입니다. 엄청난 힘과 지혜를 지니셨고, 명성의 무게를 조용한 품위로 짊어지고 계시죠. 네, 그분을 삼촌이라 부르는 게 자랑스럽습니다. 다만 그분의 명성에 제가 가려질 때가 많긴 하지만요. 그래도 온 세상에 이름난 분과 가까이 지내다 보면 배우는 것도, 어려운 점도 그만큼 있습니다."
-eb_danilo,dlg,ReplyList/15/Text,0,잡힌 드로아에 대해 말해 줄 수 있는 것이 무엇인가? 그들의 신분과 목적에 대해 알고 있는 것이 무엇인가?
+eb_danilo,dlg,ReplyList/15/Text,0,잡힌 드로우아에 대해 말해 줄 수 있는 것이 무엇인가? 그들의 신분과 목적에 대해 알고 있는 것이 무엇인가?
 eb_danilo,dlg,ReplyList/16/Text,0,안녕하세요
 eb_danilo,dlg,ReplyList/17/Text,0,"네, 시간을 차지했네요, 데이니로. 그럼 이만. 우리의 길이 다시 만날 때까지."
 eb_darokin,dlg,EntryList/0/Text,0,난 어둠의 힘을 불러 내라 내... 내! 내! 내! 내! 내! 내! 내!
@@ -359,8 +359,8 @@ eb_drow_spy,dlg,ReplyList/1/Text,0,"<StartAction> 당신은 계산적인 시선�
 eb_drow_spy,dlg,ReplyList/2/Text,0,"네 주인에 대해 말해봐. 당신이 도움을 원한다면, 당신의 주인이 누구인지 그리고 그가 무엇을 계획하고 있는지 알아야 해. 믿어봐, 이런 정보를 숨기는 것은 우리 둘에게 아무 도움이 되지 않아."
 eb_drow_spy,dlg,ReplyList/3/Text,0,"""아니, 넌 나를 잘못 이해했어. 나는 단지 누구를 위해 일할지 더 알고 싶어. 만약 너무 많은 위험을 감수하려면, 네 주인과 그의 계획에 대한 진실을 알아야 한다."""
 eb_drow_spy,dlg,ReplyList/4/Text,0,"드로우, 네 뜻대로 해보라. 하지만 이 사실을 기억해 두오. 네 고집은 생각보다 더 많은 비용을 들일 수 있으니."
-eb_drow_spy,dlg,ReplyList/5/Text,0,"저는 드로이가 이렇게 쉽게 잡힐 날이 올 거라고 상상도 못 했어요. 당신은 이야기들에 따르면 숙련된 스파이가 아니어 보이네요. 저는 당신 종족의 속임수와 재창조에 대해 수많은 이야기를 들었지만, 아마 그건 전부일지도 모르겠습니다. 그냥 이야기일 뿐일지도 모르죠. 이미 왜 당신을 여기로 보냈는지 알고 있습니다. 하지만 궁금한 건, 당신의 주인은 누구인가 하는 것입니다. 지금 말해주시면, 당신에게 좀 더 나은 상황이 될 수 있습니다."
-eb_drow_spy,dlg,ReplyList/6/Text,0,"""클레벤은 곧 당신을 만나게 될 것입니다. 드로에게 귀중한 신에게 기도하십시오. 클레벤은 단순한 마법사보다 훨씬 더 많은 사람이에요. 이 일이 끝나기 전에, 그는 당신을 말하게 만들 것입니다 — 그건 분명합니다."""
+eb_drow_spy,dlg,ReplyList/5/Text,0,"저는 드로우이가 이렇게 쉽게 잡힐 날이 올 거라고 상상도 못 했어요. 당신은 이야기들에 따르면 숙련된 스파이가 아니어 보이네요. 저는 당신 종족의 속임수와 재창조에 대해 수많은 이야기를 들었지만, 아마 그건 전부일지도 모르겠습니다. 그냥 이야기일 뿐일지도 모르죠. 이미 왜 당신을 여기로 보냈는지 알고 있습니다. 하지만 궁금한 건, 당신의 주인은 누구인가 하는 것입니다. 지금 말해주시면, 당신에게 좀 더 나은 상황이 될 수 있습니다."
+eb_drow_spy,dlg,ReplyList/6/Text,0,"""클레벤은 곧 당신을 만나게 될 것입니다. 드로우에게 귀중한 신에게 기도하십시오. 클레벤은 단순한 마법사보다 훨씬 더 많은 사람이에요. 이 일이 끝나기 전에, 그는 당신을 말하게 만들 것입니다 — 그건 분명합니다."""
 eb_drow_spy,dlg,ReplyList/7/Text,0,"드워프여, 우리는 시간이 당신의 자랑의 진실을 드러낼 것이며, 당신의 주인에게 닥치는 운명이 밝혀질 것이다."
 eb_drow_spy,dlg,ReplyList/8/Text,0,"내가 무슨 말을 할 수 없다면, 나는 네 주인 은신한 깊은 곳으로 내려가서 그를 발견하면 내가 직접 그를 죽여버릴 것이다."
 eb_drow_spy,dlg,ReplyList/9/Text,0,"""다른 사람들이라니요? 아래쪽 던전에 들어갔다가 돌아오지 않은 이들을 말하는 건가요? 아니면 흔적도 없이 사라진 하수도 인부들을 말하나요? 어느 쪽이든 당신의 주인은 무척 바빴던 모양이군요."""
@@ -406,14 +406,14 @@ eb_evil_mage,dlg,EntryList/1/Text,0,"<StartAction> 당신은 어두운 옷을 �
 eb_evil_mage,dlg,EntryList/2/Text,0,"오, 당신이 이번 주의 '워터딥의 구원자'라고 불리는군. 얼마나 많은 다른 멍청이들이 당신처럼 아래의 어둠의 비밀을 탐사하러 보낸 것인지 모르는 것 같구나."
 eb_evil_mage,dlg,EntryList/3/Text,0,"아, 용병 영웅들, 내 엄청난 지성의 지혜를 베풀어주십시오."
 eb_evil_mage,dlg,EntryList/4/Text,0,"칸타르는 수년간 워터디프를 불안정하게 만들고 있다. 도시가 충분히 약화되면, 그는 그의 하역들을 풀어주고 통제권을 잡을 계획이다."
-eb_evil_mage,dlg,EntryList/5/Text,0,칸타르를 물리치는 유일한 방법은 그의 생명을 끝내는 것이다. 하지만 마법의 유물 없이는 그러한 업적은 거의 불가능할 것이다.
+eb_evil_mage,dlg,EntryList/5/Text,0,잔타르를 물리치는 유일한 방법은 그의 생명을 끝내는 것이다. 하지만 마법의 유물 없이는 그러한 업적은 거의 불가능할 것이다.
 eb_evil_mage,dlg,EntryList/6/Text,0,"나가 알아낸 것처럼 드워프들은 마법의 유물을 소유하고 있지만 그 진정한 본질에 대해선 아직 알지 못합니다. 드로우는 그 엄청난 힘을 인식하고 있지만, 그 특정한 잠재력으로 X안타라르를 물리칠 수 있다는 것을 아직 이해하지 못하고 있습니다."
 eb_evil_mage,dlg,EntryList/7/Text,0,"마법의 유물은 마법 무기 중에서도 독특하며, 관람자를 영향을 미치는 드문 능력을 가지고 있습니다. 이는 그 유물이 관람자의 눈줄에서 제작되었기 때문입니다."
 eb_evil_mage,dlg,EntryList/8/Text,0,"멍청한 마구! 그들은 잔나타르의 동맹국이라고 주장하지만, 그들의 진정한 의도는 배신입니다. 그들은 왜성들을 제거하고, 마법의 유물을 포획하고, 그 힘을 이용해 도시를 공격합니다."
 eb_evil_mage,dlg,EntryList/9/Text,0,"이것은 워터디프의 주왕들이 도시의 밑에 숨어있는 위협의 크기를 인식하도록 강요하고, 이로써 칸타르의 신중하게 계획된 정복 계획을 방해하고 지연시킬 것입니다."
 eb_evil_mage,dlg,EntryList/10/Text,0,그 말은 드로우의 계획을 깨고 마법의 유물을 스스로 주장해야 한다는 뜻이야
 eb_evil_mage,dlg,EntryList/11/Text,0,"내 친구여, 나는 잔나타르와의 맞서기를 워터딥의 정복이 완료될 때까지는 계획하지 않았다. 그의 힘이 바닥나고 방어선이 붕괴될 때만 나서는 것이다."
-eb_evil_mage,dlg,EntryList/12/Text,0,"그때만 움직일 거야. 칸타르가 내 손에 놓일 것이고, 워터딥도시는 내 손에 들어올 것이다. 그래서, 당신을 칸타르의 워터딥 침공에 개입하게 할 수는 없어."
+eb_evil_mage,dlg,EntryList/12/Text,0,"그때만 움직일 거야. 잔타르가 내 손에 놓일 것이고, 워터딥도시는 내 손에 들어올 것이다. 그래서, 당신을 잔타르의 워터딥 침공에 개입하게 할 수는 없어."
 eb_evil_mage,dlg,EntryList/13/Text,0,"마법의 유물만 필요하며, 당연히 당신을 죽일 거예요."
 eb_evil_mage,dlg,ReplyList/1/Text,0,계속...
 eb_evil_mage,dlg,ReplyList/2/Text,0,계속...
@@ -803,7 +803,7 @@ eb_hen_beohram,dlg,ReplyList/261/Text,0,"말해봐, 비오람--동료들의 운�
 eb_hen_beohram,dlg,ReplyList/262/Text,0,계속...
 eb_hen_beohram,dlg,ReplyList/263/Text,0,계속...
 eb_hen_beohram,dlg,ReplyList/264/Text,0,계속...
-eb_hen_beohram,dlg,ReplyList/265/Text,0,"드로우는 진정으로 무서운 적이고, 칸타르가 그들의 충성을 명령하기 위해서는 그의 힘이 비범해야 합니다. 이것은 그가 제기하는 위협에 대해 많은 것을 말해줍니다. 우리는 더 이상 지연해서는 안 됩니다."
+eb_hen_beohram,dlg,ReplyList/265/Text,0,"드로우는 진정으로 무서운 적이고, 잔타르가 그들의 충성을 명령하기 위해서는 그의 힘이 비범해야 합니다. 이것은 그가 제기하는 위협에 대해 많은 것을 말해줍니다. 우리는 더 이상 지연해서는 안 됩니다."
 eb_hen_beohram,dlg,ReplyList/266/Text,0,"베오람, 네가 겪은 참혹한 고통이야. 너무 무자비한 위험에 직면하고, 그늘에 의해 배신당하고, 그리고 치명적인 함정에 휘말리는 것은 거의 상상할 수 없는 일이야. 난 너의 투쟁의 무게를 느끼지 않을 수 없다."
 eb_hen_beohram,dlg,ReplyList/267/Text,0,"베오람님, 자신에 대해 좀 더 말씀해주실 수 있으신가요? 이 깊은 곳까지의 여행에서 기억이 조금이라도 돌아왔나요?"""
 eb_hen_beohram,dlg,ReplyList/268/Text,0,계속...
@@ -1218,7 +1218,7 @@ eb_hen_ileria,dlg,ReplyList/432/Text,0,"당신 자신이나 다른 사람들에�
 eb_hen_ileria,dlg,ReplyList/433/Text,0,계속...
 eb_hen_kirath,dlg,EntryList/2/Text,0,물론이죠. 왜 일찍 알려주지 않았는지 모르겠습니다.
 eb_hen_kirath,dlg,EntryList/3/Text,0,자넨 혼자만 충분히 잘한다고 생각하니?
-eb_hen_kirath,dlg,EntryList/4/Text,0,물론 맞다. 나 없이는 넌 칸타르를 이길 수 없어.
+eb_hen_kirath,dlg,EntryList/4/Text,0,물론 맞다. 나 없이는 넌 잔타르를 이길 수 없어.
 eb_hen_kirath,dlg,EntryList/5/Text,0,"네, 네, 네 뜻대로 해봐, 하지만 내가 경고하지 않았다고 말하지 마."
 eb_hen_kirath,dlg,EntryList/6/Text,0,"""그러면 됩니다. 저는 스스로 위대한 홀로 돌아갈 수 있다고 생각합니다. 다시 필요하시면 저를 찾으실 수 있습니다."""
 eb_hen_kirath,dlg,EntryList/7/Text,0,"""내가 뭘 해야겠어?"""
@@ -1256,7 +1256,7 @@ eb_hen_kirath,dlg,EntryList/41/Text,0,"""이 멍청한 사람들은 단지 도�
 eb_hen_kirath,dlg,EntryList/42/Text,0,! ! ! ! ! ! ! ! ! ! ! ! !
 eb_hen_kirath,dlg,EntryList/43/Text,0,"""에가드! 내 암살자가 살아있다! 그것은 일리스티드... 특히 모든 방어와 대비 상황을 피한 매우 현명한 것이었다. 나는 그 동물에서 내 오래된 몸의 뇌 조직을 되찾아야 한다! 누가 그것이 어떤 비밀을 밝혀낼 수 있을지 모른다. 또는 그 도둑질로 인해 나는 무엇을 잃었는지 모른다! 저 악한 생물은 이 레벨에 아직 존재한다-나는 반드시 찾아내야 한다."""
 eb_hen_kirath,dlg,EntryList/44/Text,0,<StartAction>흠흠!</Start> 여기서 무엇이 걸려 있는지 제대로 이해하지 못하신 것 같군요. 다중우주의 비밀이 걸려 있습니다! 일리시드의 뇌가 현실의 근간을 뒤흔들기 전에 회수해야 합니다!
-eb_hen_kirath,dlg,EntryList/45/Text,0,"""좋아, 네가 가라앉는 길로 가거라. 나 없이 칸타르 앞에서 죽을 거다. 나는 여기에 머물러 암살자를 찾을 것이다!"""
+eb_hen_kirath,dlg,EntryList/45/Text,0,"""좋아, 네가 가라앉는 길로 가거라. 나 없이 잔타르 앞에서 죽을 거다. 나는 여기에 머물러 암살자를 찾을 것이다!"""
 eb_hen_kirath,dlg,EntryList/46/Text,0,"좋다. 나와 함께 오고, 나는 도적을 찾아볼게!"
 eb_hen_kirath,dlg,EntryList/48/Text,0,"""가고일 조각상... 위험을 느낍니다. 너무 가까이 가서는 안 됩니다."""
 eb_hen_kirath,dlg,EntryList/49/Text,0,"""이게 뭐지... 벽에 걸린 그림이 다른 것 같네. 우리는 그림을 좀 더 자세히 봐야겠어."""
@@ -1284,7 +1284,7 @@ eb_hen_kirath,dlg,ReplyList/11/Text,0,"<StartAction>""지금은 다른 어떤 �
 eb_hen_kirath,dlg,ReplyList/159/Text,0,"키라스님, 몇 가지 질문이 있습니다."
 eb_hen_kirath,dlg,ReplyList/160/Text,0,당신의 마지막 발언이 걱정스럽습니다. 이 문제를 더 이야기해야 할 것 같아요.
 eb_hen_kirath,dlg,ReplyList/161/Text,0,"네 의견은 이번에 잠시 넘어가지만, 네 태도는 정말로 신경을 쓰게 만들고 있어, 킬라스."
-eb_hen_kirath,dlg,ReplyList/162/Text,0,"<StartAction> 당신은 혐오로 머리를 흔들고, 키라트의 무례한 발언을 간과하려고 노력합니다. </Start> 저는 칸타르를 어떻게 물리칠 것인가에 대해 점점 더 걱정됩니다. 그를 더 많이 생각하면, 우리의 전략을 의심하게 됩니다. 만약 그가 독을 통제할 수 있다면, 그는 엄청나게 강력한 사람이거나, 독마족마저 워터딥과 전면 전쟁을 감수할 정도로 매력적인 거래를 한 것입니다."
+eb_hen_kirath,dlg,ReplyList/162/Text,0,"<StartAction> 당신은 혐오로 머리를 흔들고, 키라트의 무례한 발언을 간과하려고 노력합니다. </Start> 저는 잔타르를 어떻게 물리칠 것인가에 대해 점점 더 걱정됩니다. 그를 더 많이 생각하면, 우리의 전략을 의심하게 됩니다. 만약 그가 독을 통제할 수 있다면, 그는 엄청나게 강력한 사람이거나, 독마족마저 워터딥과 전면 전쟁을 감수할 정도로 매력적인 거래를 한 것입니다."
 eb_hen_kirath,dlg,ReplyList/163/Text,0,"그건 아직까지 좋은 계획처럼 들립니다. 당신이 말씀하신 것처럼, 우리는 실제로 그 과정에 들어가서야 전체적인 상황을 파악할 수 있습니다. 통찰력에 감사드립니다. 그것은 꽤 도움이 되었습니다."
 eb_hen_kirath,dlg,ReplyList/164/Text,0,잠깐 얘기해 보자
 eb_hen_kirath,dlg,ReplyList/165/Text,0,귀 뒷면에 검은 문양을 봤네. 그 문양은 무엇을 말하는 거지?
@@ -1296,11 +1296,11 @@ eb_hen_kirath,dlg,ReplyList/170/Text,0,"어, 물론... 계속하자."
 eb_hen_kirath,dlg,ReplyList/171/Text,0,방금 하신 말씀이 마음에 걸립니다. 더 자세한 정보가 필요합니다.
 eb_hen_kirath,dlg,ReplyList/172/Text,0,"넌 참을성이 없구나, 그렇지?"
 eb_hen_kirath,dlg,ReplyList/173/Text,0,"시리아트, 당신은 그를 대면하는 데 매우 서두르는 것 같군요. 왜 이렇게 서두르는지 설명해 주실 수 있나요?"
-eb_hen_kirath,dlg,ReplyList/174/Text,0,우리는 칸타르조차 모르는 상태에서 당신이 그에 대해 친밀한 지식을 가지고 있는 것처럼 말하고 있다는 점이 신기합니다. 우리는 그의 진정한 본성이나 힘의 범위조차 모르고 있습니다. 우리가 알아야 할 중요한 정보를 숨기고 있지 않나요?
+eb_hen_kirath,dlg,ReplyList/174/Text,0,우리는 잔타르조차 모르는 상태에서 당신이 그에 대해 친밀한 지식을 가지고 있는 것처럼 말하고 있다는 점이 신기합니다. 우리는 그의 진정한 본성이나 힘의 범위조차 모르고 있습니다. 우리가 알아야 할 중요한 정보를 숨기고 있지 않나요?
 eb_hen_kirath,dlg,ReplyList/175/Text,0,우리가 마침내 어떤 것에 동의했지 누가 짐작했을까?
 eb_hen_kirath,dlg,ReplyList/176/Text,0,좀 더 이야기 나눠 보겠습니다. 당신의 이야기는 매우 흥미롭습니다.
 eb_hen_kirath,dlg,ReplyList/177/Text,0,이리티드 뇌의 검사를 마쳤나요?
-eb_hen_kirath,dlg,ReplyList/178/Text,0,"네, 사실 또 다른 질문이 있습니다. 왜 칸타르를 죽이고 싶어하는 거죠?"
+eb_hen_kirath,dlg,ReplyList/178/Text,0,"네, 사실 또 다른 질문이 있습니다. 왜 잔타르를 죽이고 싶어하는 거죠?"
 eb_hen_kirath,dlg,ReplyList/179/Text,0,워터디프는 당신의 도시인가? 나는 그렇게 생각하지 않는다. 워터디프는 페어제이론이 지휘하고 있는 로더들이 지배하고 있다.
 eb_hen_kirath,dlg,ReplyList/180/Text,0,괜찮아... 당신이 고집한다면...
 eb_hen_kirath,dlg,ReplyList/181/Text,0,"당신은 강력한 마법사라고 주장하지만, 이 유적에서 죽었습니다."
@@ -1319,7 +1319,7 @@ eb_hen_kirath,dlg,ReplyList/193/Text,0,좋아...
 eb_hen_kirath,dlg,ReplyList/194/Text,0,그게 뭐야?
 eb_hen_kirath,dlg,ReplyList/195/Text,0,"넌 전혀 변하지 않았어, 우리 그룹에 너의 태도가 필요 없어"
 eb_hen_kirath,dlg,ReplyList/196/Text,0,"네, 다시 당신의 힘이 필요해."
-eb_hen_kirath,dlg,ReplyList/197/Text,0,"맙소사, 무감독한 멍청아, 자나타르를 찾아라!"
+eb_hen_kirath,dlg,ReplyList/197/Text,0,"맙소사, 무감독한 멍청아, 잔타르를 찾아라!"
 eb_hen_kirath,dlg,ReplyList/198/Text,0,"아니, 당연히 아니야, 가자."
 eb_hen_tod,dlg,EntryList/0/Text,0,"""보시면, 보스님, 그건 고급 압력판 중 하나예요. 아마 이걸 건드리지 않는 게 좋을 것 같아요."""
 eb_hen_tod,dlg,EntryList/1/Text,0,"""가고일 동상들... 한 친구로부터 들은 이야기에 따르면, 그 친구는 몇 개를 발견한 적이 있었는데, 그가 말하는 내용은 좋지 않았다. 그들을 가까이 접근해서는 안 된다."""
@@ -1336,7 +1336,7 @@ eb_hen_tod,dlg,EntryList/13/Text,0,"""지표는 뛰어내리라는데, 아마 �
 eb_hen_tod,dlg,EntryList/14/Text,0,"""저는 더 이상 지옥의 개들을 만나지 않기를 바랍니다. 머리카락이 타는 것을 견디지 못할 것 같아요."""
 eb_hen_tod,dlg,EntryList/15/Text,0,"""우리는 그 동상을 조심해야 합니다; 나는 그것에 대해 매우 악한 것을 느낍니다."""
 eb_hen_tod,dlg,EntryList/16/Text,0,"""잠을 좀 자볼까, 발이 아파 죽겠어."""
-eb_hen_tod,dlg,EntryList/17/Text,0,"""아! 드로이인가? 이건 전혀 좋지 않아. 나는 드로이에 대해 들었어; 내가 들은 바로는, 그들은 매우 격렬한 싸움꾼들이야."""
+eb_hen_tod,dlg,EntryList/17/Text,0,"""아! 드로우이인가? 이건 전혀 좋지 않아. 나는 드로우이에 대해 들었어; 내가 들은 바로는, 그들은 매우 격렬한 싸움꾼들이야."""
 eb_hen_tod,dlg,EntryList/18/Text,0,"""누군가 더 배고픈 사람 인가? 나도 배고픈 사람 인가. 나도 몇 분 정도 쉬어야 한다""."
 eb_hen_tod,dlg,EntryList/19/Text,0,저는 더 이상 거미와 만나지 않기를 바랍니다. 제 몸은 더 이상 거미 물림을 견디지 못할 것 같아요.
 eb_hen_tod,dlg,EntryList/20/Text,0,"""아직 떨어진 돌을 제거하기 위해 여기 있는 파우더 켈즈 중 하나를 사용해야 할 것 같습니다."""
@@ -1572,7 +1572,7 @@ eb_hobgob_prsnr,dlg,ReplyList/9/Text,0,"알아, 내가 말하지 않을 거야. 
 eb_ileria,dlg,EntryList/0/Text,0,</Start> 당신 앞에 반 엘프 뼈의 완전한 집합이 있습니다. <StartAction> 당신은 무엇을 하고 싶어?
 eb_ileria,dlg,ReplyList/1/Text,0,반 엘프 뼈를 챙겨라
 eb_ilrazor,dlg,EntryList/1/Text,0,"<StartAction>드로우 지휘관이 당신의 앞을 막아서며 전진을 저지한다.</Start> 위압적인 드로우 군대의 지도자 일라조르가 경멸 어린 눈빛으로 당신을 노려보며 날카롭고 비웃는 듯한 냉소를 짓는다. 어이, 트롤 먹잇감 녀석, 감히 드로우의 영역에 침입한 이유를 설명해 보겠나?"
-eb_ilrazor,dlg,EntryList/2/Text,0,저런! 표면인가 보다! 우리 땅에 침입해 드로에 대한 비난을 퍼부으려고 하는 거야?
+eb_ilrazor,dlg,EntryList/2/Text,0,저런! 표면인가 보다! 우리 땅에 침입해 드로우에 대한 비난을 퍼부으려고 하는 거야?
 eb_ilrazor,dlg,EntryList/3/Text,0,"""우리가 그가 어디에 있는지 알고 있었다 해도, 정보는 공유하지 않을 거다! 하지만 더 이상 이런 소릴 하지 마라. 즉시 우리의 영역을 떠나는 게 좋다. 그렇지 않으면, 바로 여기서 널 처리할 거다!"""
 eb_ilrazor,dlg,EntryList/4/Text,0,"나는 당신이 언더다크에서 무리를 모아 이렇게 강력한 군대를 결성한 점을 칭찬해야 한다. 그러나, 한 가지 명확히 말씀드리자면 - 드로우의 엘리트 군대에 대항할 기회는 없습니다! 죽을 준비하라!"
 eb_ilrazor,dlg,ReplyList/1/Text,0,우리는 몇 밤 전에 '신디아'라는 드워프 여신에 의해 납치된 드워프 왕자를 찾고 있습니다.
@@ -1648,12 +1648,12 @@ eb_khelben_castl,dlg,EntryList/21/Text,0,"필요한 물건들을 구입한 후�
 eb_khelben_castl,dlg,EntryList/22/Text,0,"분명 혼자 일하지 않았지만, 다른 사람들은 아직 발견되지 않았다. 아직 도시를 둘러보며 의심스러운 사람들을 찾고 있다."
 eb_khelben_castl,dlg,EntryList/23/Text,0,"아직은 아니지만, 강력한 마음술을 만들고 있습니다. 준비되면 그에게 사용해 그와 그의 임무에 대해 모든 것을 배울 것입니다."
 eb_khelben_castl,dlg,EntryList/24/Text,0,"그래, 그들은 매우 어려운 종족이다. 하지만 우리 도시에 대한 음모를 알아내기 위해 최선을 다해야 한다."
-eb_khelben_castl,dlg,EntryList/27/Text,0,"<StartCheck>[실패]</Start> 죄송합니다, <FirstName>님, 저는 워터딥이 이렇게 위험한 상황에서 드로 스파이를 방문할 기회를 주는 것을 맡을 수 없습니다. 그는 너무 위험하기 때문입니다."
+eb_khelben_castl,dlg,EntryList/27/Text,0,"<StartCheck>[실패]</Start> 죄송합니다, <FirstName>님, 저는 워터딥이 이렇게 위험한 상황에서 드로우 스파이를 방문할 기회를 주는 것을 맡을 수 없습니다. 그는 너무 위험하기 때문입니다."
 eb_khelben_castl,dlg,EntryList/28/Text,0,"<StartCheck>[성공]</Start> 좋아 <FirstName>, 당신이 감옥에 도착했을 때, 경호의 캡틴 올테크와 이야기하십시오. 당신의 계획에 대해 그에게 말하십시오. 그리고 내가 드로 포로와 대화하는 것이 괜찮다고 말했다고 그에게 말하십시오. 그러나 당신이 아래에있는 동안 다른 포로들 중 어느 누구와도 간섭하지 마십시오. 대부분의 포로들은 워터디프에서 제공하는 가장 사악한 쓰레기 중 하나입니다."
 eb_khelben_castl,dlg,EntryList/29/Text,0,이 열쇠를 가져가면 감옥의 문을 열게 될 거야
 eb_khelben_castl,dlg,EntryList/30/Text,0,"<StartCheck>[성공]</Start> 좋아 <FirstName>, 당신이 감옥에 도착했을 때, 경호의 캡틴 올테크와 이야기하십시오. 당신의 계획에 대해 그에게 말하십시오. 그리고 내가 드로 포로와 대화하는 것이 괜찮다고 말했다고 그에게 말하십시오. 그러나 당신이 아래에있는 동안 다른 포로들 중 어느 누구와도 간섭하지 마십시오. 대부분의 포로들은 워터디프에서 제공하는 가장 사악한 쓰레기 중 하나입니다."
 eb_khelben_castl,dlg,EntryList/31/Text,0,이 열쇠를 가져가면 감옥의 문을 열게 될 거야
-eb_khelben_castl,dlg,EntryList/32/Text,0,"<StartCheck>[성공]</Start> 괜찮아, <FirstName>님, 감옥에 도착했을 때 경호대장 올테크와 대화를 나누세요. 당신의 계획을 알려주고, 내가 드로 포로와 대화하는 것이 괜찮다고 말했다고 전해주세요. 하지만 아래에 있을 때 다른 포로들에 대해 개입하지 마세요. 대부분의 포로들은 워터딥에서 제공하는 가장 비열한 쓰레기들 중 일부입니다."
+eb_khelben_castl,dlg,EntryList/32/Text,0,"<StartCheck>[성공]</Start> 괜찮아, <FirstName>님, 감옥에 도착했을 때 경호대장 올테크와 대화를 나누세요. 당신의 계획을 알려주고, 내가 드로우 포로와 대화하는 것이 괜찮다고 말했다고 전해주세요. 하지만 아래에 있을 때 다른 포로들에 대해 개입하지 마세요. 대부분의 포로들은 워터딥에서 제공하는 가장 비열한 쓰레기들 중 일부입니다."
 eb_khelben_castl,dlg,EntryList/33/Text,0,이 열쇠를 가져가면 감옥의 문을 열게 될 거야
 eb_khelben_castl,dlg,EntryList/35/Text,0,"모두 켈벤이라고 부르세요. 이 두 가지 칵테일을 마시세요. 매우 필요한 경우에만 현명하게 사용하세요. 위험한 상황에서 생명을 구할 수도 있고, 동료가 잃어버린 열쇠를 되찾을 수도 있습니다. 필요하다면, 구상수원에서 복제 열쇠를 찾을 수 있습니다. 하지만 원래가 발견된 후에야요."
 eb_khelben_castl,dlg,EntryList/37/Text,0,"아하, 네빈. 그는 매우 흥미로운 반인이다. 그는 왕실 상인이고, 당신은 그의 가게에서 필요한 모든 것을 찾을 수 있다."
@@ -1675,7 +1675,7 @@ eb_khelben_castl,dlg,EntryList/55/Text,0,"그가 혼자 행동하지 않았다�
 eb_khelben_castl,dlg,EntryList/56/Text,0,"아직은 아니지만, 강력한 마음술을 만들고 있습니다. 완성되면 그에게 사용해 그의 식별자와 임무에 대해 모든 것을 알아내려고 합니다."
 eb_khelben_castl,dlg,EntryList/57/Text,0,"실제로 그들은 예외적으로 강건한 종족이지만, 우리 도시를 대상으로 한 이 음모의 세부 사항을 밝혀내기 위해 모든 방법을 고려해야 한다. 이 게임의 승패가 걸린 문제이므로 쉽게 포기할 수 없다."
 eb_khelben_castl,dlg,EntryList/58/Text,0,"당신이 그와 대화하고 싶은 이유는 무엇입니까? <FirstName>님, 이는 평범한 포로가 아닙니다. 이것은 순수한 악의 존재이며, 그의 탈출을 허용할 수 없습니다. 만약 접근을 허락해 주다면, 진정한 의도를 보증하고 이 위험을 정당화할 수 있는 어떤 보증을 주실 수 있습니까?"
-eb_khelben_castl,dlg,EntryList/60/Text,0,"<StartCheck>[실패]</Start> 죄송합니다, <FirstName>님, 드로 스파이와 만나게 할 수 없습니다. 그는 너무 위험하기 때문입니다. 워터딥이 이렇게 위험한 상황이므로, 무엇이든 잘못될 수는 없습니다."
+eb_khelben_castl,dlg,EntryList/60/Text,0,"<StartCheck>[실패]</Start> 죄송합니다, <FirstName>님, 드로우 스파이와 만나게 할 수 없습니다. 그는 너무 위험하기 때문입니다. 워터딥이 이렇게 위험한 상황이므로, 무엇이든 잘못될 수는 없습니다."
 eb_khelben_castl,dlg,EntryList/61/Text,0,"<StartCheck>[성공]</Start> 괜찮아요<FirstName>, 감옥에 도착했을 때, 경호의 캡틴 올테크를 찾아라. 당신의 계획을 그에게 설명하고 드로우 수감자와 대화할 수 있는 허락을 준다고 알려라. 그러나 다른 수감자와 교류하지 말라. 그들은 워터디프가 본 적에서 가장 사악한 범죄자들 중 하나입니다."
 eb_khelben_castl,dlg,EntryList/62/Text,0,이 열쇠를 가져가면 감옥의 문을 열게 될 거야
 eb_khelben_castl,dlg,EntryList/63/Text,0,"<StartCheck>[성공]</Start> 괜찮아요<FirstName>, 감옥에 도착했을 때, 경호의 캡틴 올테크를 찾아라. 당신의 계획을 그에게 설명하고 드로우 수감자와 대화할 수 있는 허락을 준다고 알려라. 그러나 다른 수감자와 교류하지 말라. 그들은 워터디프가 본 적에서 가장 사악한 범죄자들 중 하나입니다."
@@ -1716,7 +1716,7 @@ eb_khelben_castl,dlg,ReplyList/26/Text,0,하수도로 가보겠습니다. 물품
 eb_khelben_castl,dlg,ReplyList/27/Text,0,네빈에 대해 다시 말해줄 수 있나?
 eb_khelben_castl,dlg,ReplyList/28/Text,0,난 네빈을 만나는 것을 기대한다.
 eb_khelben_castl,dlg,ReplyList/29/Text,0,떠나기 전에 더 말씀하실 게 있으신가요?
-eb_khelben_castl,dlg,ReplyList/30/Text,0,드로에 대한 좀 더 구체적인 정보가 필요해.
+eb_khelben_castl,dlg,ReplyList/30/Text,0,드로우에 대한 좀 더 구체적인 정보가 필요해.
 eb_khelben_castl,dlg,ReplyList/31/Text,0,드로우가 여기서 임무에 대해 뭐라고 말했나?
 eb_khelben_castl,dlg,ReplyList/32/Text,0,이 드로우는 당신이 생각하는 것보다 더 강한 마법 저항력을 가질 수 있습니다. 이러한 드로우와 그들의 마법 저항력에 대한 전설을 들어본 적이 있습니다.
 eb_khelben_castl,dlg,ReplyList/33/Text,0,"Khelben, 또 다른 질문을 할 수 있나요?"
@@ -1760,7 +1760,7 @@ eb_khelben_castl,dlg,ReplyList/71/Text,0,저보다 앞서 온 모험가들에 �
 eb_khelben_castl,dlg,ReplyList/72/Text,0,"나는 이해한다--누구도 그들이 살아있는지 죽었는지 정확히 알 수 없으니, 이제 내 몫이 그들의 운명을 밝혀내고 그들이 겪은 일들을 조각조각 맞추는 것이다."
 eb_khelben_castl,dlg,ReplyList/73/Text,0,"몇 가지 더 물어볼 게 있어, 괜찮으신가요?"
 eb_khelben_castl,dlg,ReplyList/74/Text,0,"솔직한 것에 고마워, 켈벤. 이제 용서를 구하지만, 저는 이제 가야 합니다."
-eb_khelben_castl,dlg,ReplyList/75/Text,0,드로에 대한 좀 더 구체적인 정보가 필요해.
+eb_khelben_castl,dlg,ReplyList/75/Text,0,드로우에 대한 좀 더 구체적인 정보가 필요해.
 eb_khelben_castl,dlg,ReplyList/76/Text,0,드로우가 여기서 임무에 대해 뭐라고 말했나?
 eb_khelben_castl,dlg,ReplyList/77/Text,0,"이 드로우는 당신의 물약에 예상보다 훨씬 더 잘 저항할 수 있습니다. 드로우와 그들의 기이한 마법 저항력에 관한 이야기를 많이 들었는데, 이는 그 종족의 두드러진 특징입니다."
 eb_khelben_castl,dlg,ReplyList/78/Text,0,"Khelben, 또 다른 질문을 할 수 있나요?"
@@ -2227,7 +2227,7 @@ eb_nebin,dlg,EntryList/13/Text,0,그들은 다른 엘프보다 체구가 작고 
 eb_nebin,dlg,EntryList/14/Text,0,"사제 여자들은 더 높은 계급의 드로로 구성되어 있습니다. 사제 여자들은 사회를 통치하지만 여왕의 이름으로만 통치합니다. 드로의 주된 의무는 여왕을 섬기며, 그들은 그녀의 사정에 따라 살고 죽습니다."
 eb_nebin,dlg,EntryList/15/Text,0,"그녀는 모든 드로우의 어두운 어머니, 혼돈의 엮기자입니다. 그녀에 대해 들어본 적이 없는 사람들은 그녀를 가장 경멸합니다. 그녀는 드로우 여왕이라고도 알려져 있습니다. 거미 여신 자신, 롤스: 반 거미와 반 암컷 드로우의 거대한 생물입니다. 여왕은 마법사보다 사제 여부를 선호합니다. 그래서 사제 여자들은 여왕을 위해 다른 모든 드로우를 통제합니다. 전 들은 바와 같이 여왕은 훈련의 특정 수준에 도달했을 때 드로우에 특별한 시험을 주기를 좋아합니다. 시험에 실패하면 그들은 드라이더로 전환됩니다."
 eb_nebin,dlg,EntryList/16/Text,0,"드라이더는 땅속 깊은 곳에 숨어 온혈 먹잇감이면 가리지 않고 찾는 피에 굶주린 생물입니다. 머리는 드로우, 몸은 거미입니다. 드라이더를 만나면 싸울 준비를 해야 합니다."
-eb_nebin,dlg,EntryList/17/Text,0,"그녀는 매우 강력한 편이라, 드로 <FirstName>과 맞서는 것은 조심해야 할 것 같습니다."
+eb_nebin,dlg,EntryList/17/Text,0,"그녀는 매우 강력한 편이라, 드로우 <FirstName>과 맞서는 것은 조심해야 할 것 같습니다."
 eb_nebin,dlg,EntryList/18/Text,0,"좋은 질문 <lad/lass>. 간단하게 여러분의 질문에 답하기 위해, 저는 항상 상점주였지는 않습니다. 저는 또한 수년 동안 모험을 해왔습니다. 저는 드로와도 같은 경험을 해왔습니다. 제가 말씀드린 많은 것은 제 개인적인 경험에 근거해 있습니다. 저는 이제 모험을 할 수 없을 정도로 나이가 많아서, 저는 정착해서 이 가게를 시작했습니다."
 eb_nebin,dlg,EntryList/20/Text,0,안녕하세요! 저는 네빈입니다. 간수 알도께서 저에게 어떤 도움이든 제공하도록 맡겨주셨습니다. 방 곳곳에 흩어져 있는 물건들을 자유롭게 사용해보세요. 하지만 컨테이너는 절대 다가가지 마세요 - 그것들은 엄격히 금지되어 있습니다.
 eb_nebin,dlg,EntryList/21/Text,0,"<FirstName>님, 워터딥의 겸손한 가게에 오신 것을 환영합니다. 운이 좋으셨나 봅니다. 저는 워터딥 전체에서 가장 좋은 상품을 가지고 있습니다. 피어제이론 경의 보좌자들이 당신의 방문을 언급했답니다. 시작하기 위해, 이 필요시대의 도움에 대한 우리의 감사의 표시로 이 가방을 받아 주시기 바랍니다. 물론 감사의 말씀은 필요 없습니다; 이미 손색 없이 보상받았으니까요. 오늘 제가 어떻게 도와드릴까요?"
@@ -2273,7 +2273,7 @@ eb_nebin,dlg,ReplyList/18/Text,0,사제직에 대해 뭘 알고 있나?
 eb_nebin,dlg,ReplyList/19/Text,0,더 많은 Drow Queen에 대해 말해봐요
 eb_nebin,dlg,ReplyList/20/Text,0,드라이더들에 대해 좀 더 말해줘. 이것들은 정말 흥미롭게 들린다.
 eb_nebin,dlg,ReplyList/21/Text,0,이 드로우 여왕은 진짜 괴물처럼 들리네요. 왜 드로우가 그녀를 용납하는지 궁금해요.
-eb_nebin,dlg,ReplyList/22/Text,0,어떻게 이 드로에 대해 이렇게 많은 것을 알 수 있나?
+eb_nebin,dlg,ReplyList/22/Text,0,어떻게 이 드로우에 대해 이렇게 많은 것을 알 수 있나?
 eb_nebin,dlg,ReplyList/23/Text,0,"네빈, 정말 놀라움이 많아요."
 eb_nebin,dlg,ReplyList/25/Text,0,"이제 필요한 모든 걸 가지고 있다고 생각해, 감사합니다."
 eb_nebin,dlg,ReplyList/26/Text,0,제안하는 것들을 보고 싶습니다.
@@ -2299,7 +2299,7 @@ eb_nebin,dlg,ReplyList/45/Text,0,사제직에 대해 뭘 알고 있나?
 eb_nebin,dlg,ReplyList/46/Text,0,<StartAction> 질문: </Start> 누가 이 로슬트인가?
 eb_nebin,dlg,ReplyList/47/Text,0,이 드라이더들에 대해 좀 더 말해봐요.
 eb_nebin,dlg,ReplyList/48/Text,0,이 드로우 여왕은 진짜 괴물처럼 들리네요. 왜 드로우가 그녀를 용납하는지 궁금해요.
-eb_nebin,dlg,ReplyList/49/Text,0,어떻게 이 드로에 대해 이렇게 많은 것을 알 수 있나?
+eb_nebin,dlg,ReplyList/49/Text,0,어떻게 이 드로우에 대해 이렇게 많은 것을 알 수 있나?
 eb_nebin,dlg,ReplyList/50/Text,0,"네빈, 정말 놀라움이 많아요."
 eb_nebin,dlg,ReplyList/51/Text,0,다른 질문을 해도 될까요?
 eb_nebin,dlg,ReplyList/52/Text,0,지난 몇 일에 대해 말해줄 수 있는 게 뭐죠?
@@ -2599,7 +2599,7 @@ eb_sewer_guard,dlg,ReplyList/29/Text,0,더 말해줄 게 있나?
 eb_sewer_guard,dlg,ReplyList/30/Text,0,최근에 무슨 일이 발생하여 근로자들이 이제는 저쪽으로 내려가려고도 두려워하는가?
 eb_sewer_guard,dlg,ReplyList/31/Text,0,그래서 주인들이 나를 불러왔어. 주인들이 고용한 사람이 있었습니까?
 eb_sewer_guard,dlg,ReplyList/32/Text,0,"물론이지, 이 일은 제가 나서는 것에 대해 좋지 않은 기분을 주지만, 우리 위대한 도시를 위해 최선을 다하리라. 고마워, 그리고 안녕."
-eb_sewer_guard,dlg,ReplyList/33/Text,0,경비병! 드로 스파이를 잡았다고 말한 곳에서 이 노트를 찾았어. 이 노트가 중요한 내용일 수 있다고 생각해.
+eb_sewer_guard,dlg,ReplyList/33/Text,0,경비병! 드로우 스파이를 잡았다고 말한 곳에서 이 노트를 찾았어. 이 노트가 중요한 내용일 수 있다고 생각해.
 eb_sewer_guard,dlg,ReplyList/34/Text,0,"아마도 드로우가 당신을 본 적이 있을지도 모르고, 당신이 그를 본 적도 없었을지도 모르고, 그 노트를 없애기 위해 기회를 잡았을지도 모릅니다."
 eb_sewer_guard,dlg,ReplyList/35/Text,0,"내가 할 수 있는 대로 도와주고, 안녕."
 eb_sewer_guard,dlg,ReplyList/37/Text,0,<StartAction>보수</Start>#######################################################################################################################################################################################################################################################
@@ -4639,9 +4639,9 @@ level10xanathars,git,StoreList/0/StoreList/3/ItemList/13/DescIdentified,0,"고�
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/24/LocalizedName,0,방사 완드
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/24/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/25/LocalizedName,0,얼음 폭풍의 막대
-level10xanathars,git,StoreList/0/StoreList/3/ItemList/26/LocalizedName,0,더 큰 불볼트 막대
+level10xanathars,git,StoreList/0/StoreList/3/ItemList/26/LocalizedName,0,더 큰 불볼트 마법봉
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/26/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
-level10xanathars,git,StoreList/0/StoreList/3/ItemList/27/LocalizedName,0,번개 부르기 대형 주문봉
+level10xanathars,git,StoreList/0/StoreList/3/ItemList/27/LocalizedName,0,번개 부르기 대형 마법봉
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/27/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/28/LocalizedName,0,화염의 마법봉
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/28/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
@@ -7146,14 +7146,14 @@ level12xanatha,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,투박한 �
 level12xanatha,git,Creature List/5/Equip_ItemList/2/DescIdentified,0,이 도끼의 원래 소유자는 오래 전에 살해된 미지의 드워프 용병이었습니다.
 level12xanatha,git,Creature List/5/Equip_ItemList/3/DescIdentified,0,이 도끼의 원래 소유자는 오래 전에 살해된 미지의 드워프 용병이었습니다.
 level12xanatha,git,Creature List/12/FirstName,0,칸타르
-level12xanatha,git,Creature List/12/Description,0,"칸타르, 그는 가장 치명적인 관찰자 중 한 명으로, 워터딥 시내의 문제들에 대해 책임을 지고 있습니다. 그는 강력한 적으로, 다양한 끔찍한 방법으로 적들을 무력화시킬 수 있는 존재입니다."
+level12xanatha,git,Creature List/12/Description,0,"잔타르, 그는 가장 치명적인 비홀더 중 한 명으로, 워터딥 시내의 문제들에 대해 책임을 지고 있습니다. 그는 강력한 적으로, 다양한 끔찍한 방법으로 적들을 무력화시킬 수 있는 존재입니다."
 level12xanatha,git,Creature List/12/ItemList/0/LocalizedName,0,차원문 방 열쇠
 level12xanatha,git,Creature List/12/ItemList/0/DescIdentified,0,이 작은 돌 창자는 돌 창자 포털을 열기 위해 사용되는 열쇠입니다.
 level12xanatha,git,Creature List/12/ItemList/1/LocalizedName,0,카나스터의 눈줄기
 level12xanatha,git,Creature List/12/ItemList/1/Description,0,잔타르에게서 떼어낸 비홀더의 눈자루.
-level12xanatha,git,Creature List/12/ItemList/1/DescIdentified,0,이것은 대형 주시자 카나스터에서 따온 눈 줄기 조각입니다. 주시자 눈 줄기는 여러 용도로 사용할 수 있습니다. 하나의 눈 줄기 안에 담긴 강력한 마법 때문에 요술사들과 마법사들은 강력한 막대를 만들기 위해 이것을 찾았습니다.
-level12xanatha,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,주시자 물어
-level12xanatha,git,Creature List/12/Equip_ItemList/2/LocalizedName,0,주시자의 특성
+level12xanatha,git,Creature List/12/ItemList/1/DescIdentified,0,이것은 대형 비홀더 카나스터에서 따온 눈 줄기 조각입니다. 비홀더 눈 줄기는 여러 용도로 사용할 수 있습니다. 하나의 눈 줄기 안에 담긴 강력한 마법 때문에 요술사들과 마법사들은 강력한 막대를 만들기 위해 이것을 찾았습니다.
+level12xanatha,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,비홀더 물어
+level12xanatha,git,Creature List/12/Equip_ItemList/2/LocalizedName,0,비홀더의 특성
 level12xanatha,git,Creature List/13/FirstName,0,디아
 level12xanatha,git,Creature List/13/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 level12xanatha,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,사슬
@@ -7368,7 +7368,7 @@ level12xanatha,git,Placeable List/7/Description,0,눈이 어지러울 만큼 다
 level12xanatha,git,Placeable List/8/LocName,0,책장
 level12xanatha,git,Placeable List/8/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
 level12xanatha,git,Placeable List/8/ItemList/0/LocalizedName,0,금화
-level12xanatha,git,Placeable List/8/ItemList/1/LocalizedName,0,더 큰 불볼트 막대
+level12xanatha,git,Placeable List/8/ItemList/1/LocalizedName,0,더 큰 불볼트 마법봉
 level12xanatha,git,Placeable List/8/ItemList/1/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
 level12xanatha,git,Placeable List/9/LocName,0,책장
 level12xanatha,git,Placeable List/9/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
@@ -7381,7 +7381,7 @@ level12xanatha,git,Placeable List/12/LocName,0,책장
 level12xanatha,git,Placeable List/12/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
 level12xanatha,git,Placeable List/13/LocName,0,책장
 level12xanatha,git,Placeable List/13/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
-level12xanatha,git,Placeable List/13/ItemList/0/LocalizedName,0,번개 부르기 대형 주문봉
+level12xanatha,git,Placeable List/13/ItemList/0/LocalizedName,0,번개 부르기 대형 마법봉
 level12xanatha,git,Placeable List/13/ItemList/0/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level12xanatha,git,Placeable List/14/LocName,0,책장
 level12xanatha,git,Placeable List/14/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
@@ -7431,7 +7431,7 @@ level12xanatha,git,Placeable List/40/LocName,0,상자
 level12xanatha,git,Placeable List/40/Description,0,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
 level12xanatha,git,Placeable List/40/ItemList/0/LocalizedName,0,번개 부르기 마법봉
 level12xanatha,git,Placeable List/40/ItemList/0/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
-level12xanatha,git,Placeable List/40/ItemList/1/LocalizedName,0,더 큰 불볼트 막대
+level12xanatha,git,Placeable List/40/ItemList/1/LocalizedName,0,더 큰 불볼트 마법봉
 level12xanatha,git,Placeable List/40/ItemList/1/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
 level12xanatha,git,Placeable List/40/ItemList/2/LocalizedName,0,석화 해제로드
 level12xanatha,git,Placeable List/40/ItemList/2/DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
@@ -7447,9 +7447,9 @@ level12xanatha,git,Placeable List/41/ItemList/2/LocalizedName,0,상급 올빼미
 level12xanatha,git,Placeable List/41/ItemList/2/DescIdentified,0,"이 우유가 붉은 색의 약은 음주자의 주변 환경에 대한 인식을 열어주며, 정신을 겨냥한 영향에 더 잘 관찰하고 더 잘 저항하게 만든다."
 level12xanatha,git,Placeable List/41/ItemList/3/LocalizedName,0,상급 올빼미의 지혜 물약
 level12xanatha,git,Placeable List/41/ItemList/3/DescIdentified,0,"이 우유가 붉은 색의 약은 음주자의 주변 환경에 대한 인식을 열어주며, 정신을 겨냥한 영향에 더 잘 관찰하고 더 잘 저항하게 만든다."
-level12xanatha,git,Placeable List/41/ItemList/4/LocalizedName,0,더 큰 불볼트 막대
+level12xanatha,git,Placeable List/41/ItemList/4/LocalizedName,0,더 큰 불볼트 마법봉
 level12xanatha,git,Placeable List/41/ItemList/4/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
-level12xanatha,git,Placeable List/41/ItemList/5/LocalizedName,0,번개 부르기 대형 주문봉
+level12xanatha,git,Placeable List/41/ItemList/5/LocalizedName,0,번개 부르기 대형 마법봉
 level12xanatha,git,Placeable List/41/ItemList/5/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level12xanatha,git,Placeable List/41/ItemList/6/LocalizedName,0,죽음 방비 물약
 level12xanatha,git,Placeable List/41/ItemList/6/DescIdentified,0,"대상 생물은 모든 죽음의 주문, 마법 능력, 그리고 효과에 면역이 됩니다."
@@ -7492,7 +7492,7 @@ level12xanatha,git,Placeable List/49/ItemList/0/LocalizedName,0,완치 물약
 level12xanatha,git,Placeable List/49/ItemList/0/DescIdentified,0,"이 약물은 환원, 치유 및 치유의 훌륭한 효과입니다. 마치 치유 마법을 통해 대부분의 병을 치료하는 것처럼요."
 level12xanatha,git,Placeable List/49/ItemList/1/LocalizedName,0,하급 회복의 물약
 level12xanatha,git,Placeable List/49/ItemList/1/DescIdentified,0,"이 포션은 부정 에너지를 전달하는 생물들에 의해 빼앗긴 생명력을 회복시킵니다. 어두운 액체는 살아있는 존재 근처에서 빛나지만, 성분은 구별할 수 없습니다."
-level12xanatha,git,Placeable List/49/ItemList/2/LocalizedName,0,더 큰 불볼트 막대
+level12xanatha,git,Placeable List/49/ItemList/2/LocalizedName,0,더 큰 불볼트 마법봉
 level12xanatha,git,Placeable List/49/ItemList/2/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
 level12xanatha,git,Placeable List/49/ItemList/3/LocalizedName,0,상급 올빼미의 지혜 물약
 level12xanatha,git,Placeable List/49/ItemList/3/DescIdentified,0,"이 우유가 붉은 색의 약은 음주자의 주변 환경에 대한 인식을 열어주며, 정신을 겨냥한 영향에 더 잘 관찰하고 더 잘 저항하게 만든다."
@@ -8065,7 +8065,7 @@ level12xanathars,git,Placeable List/4/LocName,0,제단
 level12xanathars,git,Placeable List/4/Description,0,작은 제단이 당신 앞에 서 있습니다. 무거운 돌은 스토이크처럼 보입니다. 뿌리가 굳어져 있습니다.
 level12xanathars,git,Placeable List/4/ItemList/0/LocalizedName,0,완치 물약
 level12xanathars,git,Placeable List/4/ItemList/0/DescIdentified,0,"이 약물은 환원, 치유 및 치유의 훌륭한 효과입니다. 마치 치유 마법을 통해 대부분의 병을 치료하는 것처럼요."
-level12xanathars,git,Placeable List/4/ItemList/1/LocalizedName,0,번개 부르기 대형 주문봉
+level12xanathars,git,Placeable List/4/ItemList/1/LocalizedName,0,번개 부르기 대형 마법봉
 level12xanathars,git,Placeable List/4/ItemList/1/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level12xanathars,git,Placeable List/4/ItemList/2/LocalizedName,0,웬틀리 켈소의 일지 노트
 level12xanathars,git,Placeable List/4/ItemList/2/Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 ""명확 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터디프 의 하천 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
@@ -8114,9 +8114,9 @@ level12xanathars,git,Placeable List/25/ItemList/0/LocalizedName,0,회복
 level12xanathars,git,Placeable List/25/ItemList/0/DescIdentified,0,"카스터 레벨 (Cleric 4 Innate Level: 4 School: Conjuration Descriptor: Component: Verbal, Somatic Range: Touch Area of Effect/Target: Single Duration: Instant Additional Counter Spells: Save: Harmless Spell Resistance: No 능력 점수, 갑옷 직업, 공격 및 손해 롤, 주문 저항, 저장 던전 및 손상 면역. 이 주문은 또한 모든 수준의 배수, 맹목 및 청각 장애 효과를 제거합니다."
 level12xanathars,git,Placeable List/25/ItemList/2/LocalizedName,0,상급 올빼미의 지혜 물약
 level12xanathars,git,Placeable List/25/ItemList/2/DescIdentified,0,"이 우유가 붉은 색의 약은 음주자의 주변 환경에 대한 인식을 열어주며, 정신을 겨냥한 영향에 더 잘 관찰하고 더 잘 저항하게 만든다."
-level12xanathars,git,Placeable List/25/ItemList/3/LocalizedName,0,번개 부르기 대형 주문봉
+level12xanathars,git,Placeable List/25/ItemList/3/LocalizedName,0,번개 부르기 대형 마법봉
 level12xanathars,git,Placeable List/25/ItemList/3/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
-level12xanathars,git,Placeable List/25/ItemList/4/LocalizedName,0,더 큰 불볼트 막대
+level12xanathars,git,Placeable List/25/ItemList/4/LocalizedName,0,더 큰 불볼트 마법봉
 level12xanathars,git,Placeable List/25/ItemList/4/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
 level12xanathars,git,Placeable List/25/ItemList/5/LocalizedName,0,죽음 방비 물약
 level12xanathars,git,Placeable List/25/ItemList/5/DescIdentified,0,"대상 생물은 모든 죽음의 주문, 마법 능력, 그리고 효과에 면역이 됩니다."
@@ -8132,7 +8132,7 @@ level12xanathars,git,Placeable List/27/ItemList/0/LocalizedName,0,최대의 힘�
 level12xanathars,git,Placeable List/27/ItemList/0/DescIdentified,0,"이 종류 의 스태프 는 예술가의 공예 의 최고점 이며, 각각의 스태프 는 매술가 의 수십 년 의 연구 의 최고점 을 나타낸다. 그 들 의 창조 의 비밀 이 거의 사라진 상태 로서, 그러한 스태프 는 살아있는 마법사 들 의 손 보다 고대 용 들 의 무리 에서 더 많이 발견 된다."
 level12xanathars,git,Placeable List/28/LocName,0,상자
 level12xanathars,git,Placeable List/28/Description,0,금속 링이 이 장식된 가구 상자의 목재 작업을 관통하고 있다. 이 강상함은 뛰어난 제작 기술로 보아 대중에게 전시하기 위해 제작된 것 같다는 판단이 난다.
-level12xanathars,git,Placeable List/28/ItemList/0/LocalizedName,0,더 큰 불볼트 막대
+level12xanathars,git,Placeable List/28/ItemList/0/LocalizedName,0,더 큰 불볼트 마법봉
 level12xanathars,git,Placeable List/28/ItemList/0/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
 level12xanathars,git,Placeable List/28/ItemList/1/LocalizedName,0,얼음 폭풍의 막대
 level12xanathars,git,Placeable List/29/LocName,0,상자
@@ -17103,7 +17103,7 @@ level9lowera,git,Placeable List/6/Description,0,땅 위에 슬픈 인간형 뼈 
 level9lowera,git,Placeable List/10/LocName,0,마른 뼈
 level9lowera,git,Placeable List/10/Description,0,땅 위에 슬픈 인간형 뼈 무리가 쌓여 있었다.
 level9lowera,git,Placeable List/10/ItemList/0/LocalizedName,0,마법 화살 장갑
-level9lowera,git,Placeable List/10/ItemList/1/LocalizedName,0,드로 장화
+level9lowera,git,Placeable List/10/ItemList/1/LocalizedName,0,드로우 장화
 level9lowera,git,Placeable List/10/ItemList/2/LocalizedName,0,축복의 물약
 level9lowera,git,Placeable List/10/ItemList/2/DescIdentified,0,"더 냉소적인 모험가들이 ""손잡이 사제""라고 부르는 이 성스러운 주입물은 보통의 모험가에게 큰 도움이 된다."
 level9lowera,git,Placeable List/10/ItemList/3/LocalizedName,0,속도 물약
@@ -17840,7 +17840,7 @@ level9lowerreach,git,Placeable List/257/LocName,0,바닥 피 - 오래된 2
 level9lowers,git,Creature List/0/FirstName,0,쇼카르
 level9lowers,git,Creature List/0/Description,0,지하에서 나타나 거대한 원숭이와 딱정벌레를 떠올리게 하는 움버 헐크는 가는 곳마다 파괴적인 흔적을 남깁니다.
 level9lowers,git,Creature List/0/ItemList/0/LocalizedName,0,천사의 망치의 영혼
-level9lowers,git,Creature List/0/ItemList/0/DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 주시자의 눈입니다."
+level9lowers,git,Creature List/0/ItemList/0/DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 비홀더의 눈입니다."
 level9lowers,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,버블록 발톱
 level9lowers,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,버블록 발톱
 level9lowers,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,움버 헐크 침입
@@ -17891,7 +17891,7 @@ level9lowers,git,Encounter List/19/LocalizedName,0,움버 헐크
 level9lowers,git,Encounter List/20/LocalizedName,0,움버 헐크
 level9lowers,git,Encounter List/21/LocalizedName,0,움버 헐크
 level9lowers,git,Encounter List/22/LocalizedName,0,야수
-level9lowers,git,List/0/LocalizedName,0,드로 장화
+level9lowers,git,List/0/LocalizedName,0,드로우 장화
 level9lowers,git,List/1/LocalizedName,0,드루이 방패 +4
 level9lowers,git,List/2/LocalizedName,0,녹슨 철퇴
 level9lowers,git,List/2/DescIdentified,0,녹슨 철퇴
@@ -21970,7 +21970,7 @@ lv5barracks,git,Placeable List/214/LocName,0,"VFX: 안개 (50m), 중간"
 lv5barracks,git,Placeable List/215/LocName,0,"VFX: 안개 (50m), 중간"
 lv5greathall,git,Creature List/0/FirstName,0,아르문
 lv5greathall,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,아르만의 갑옷
-lv5greathall,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,드로 장화
+lv5greathall,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,드로우 장화
 lv5greathall,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,엘프의 방어 팔찌
 lv5greathall,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,모르단의 약화시키는 칼날
 lv5greathall,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"이 가시 돋고 톱니처럼 날카로운 칼날은 994~1021 DR에 활동한 냉혹한 모르단의 개인 무기고에서 나왔으며, 하나하나가 두려움과 경외의 대상입니다. 이 무기에 아주 조금만 베여도 즉시 치료하지 않으면 피를 흘리다 죽습니다. 모르단의 병사들은 전장을 지나며 단 한 번씩만 공격했는데도, 지나간 자리에는 군단 전체가 쓰러졌다고 합니다."
@@ -22235,11 +22235,11 @@ lv5greathall,git,StoreList/1/StoreList/3/ItemList/15/LocalizedName,0,하급 마�
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/15/DescIdentified,0,"이 종류 의 스태프 는 예술가의 공예 의 최고점 이며, 각각의 스태프 는 매술가 의 수십 년 의 연구 의 최고점 을 나타낸다. 그 들 의 창조 의 비밀 이 거의 사라진 상태 로서, 그러한 스태프 는 살아있는 마법사 들 의 손 보다 고대 용 들 의 무리 에서 더 많이 발견 된다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/16/LocalizedName,0,화염의 마법봉
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/16/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
-lv5greathall,git,StoreList/1/StoreList/3/ItemList/17/LocalizedName,0,번개 부르기 대형 주문봉
+lv5greathall,git,StoreList/1/StoreList/3/ItemList/17/LocalizedName,0,번개 부르기 대형 마법봉
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/17/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/18/LocalizedName,0,번개 부르기 마법봉
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/18/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
-lv5greathall,git,StoreList/1/StoreList/3/ItemList/19/LocalizedName,0,더 큰 불볼트 막대
+lv5greathall,git,StoreList/1/StoreList/3/ItemList/19/LocalizedName,0,더 큰 불볼트 마법봉
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/19/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/20/LocalizedName,0,얼음 폭풍의 막대
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/21/LocalizedName,0,하위 소환의 마법봉
@@ -24702,7 +24702,7 @@ lvl7_urd_c,git,Creature List/2/FirstName,0,페드리엘
 lvl7_urd_c,git,Creature List/2/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 lvl7_urd_c,git,Creature List/2/ItemList/1/LocalizedName,0,수호자 천사
 lvl7_urd_c,git,Creature List/2/ItemList/1/DescIdentified,0,"이 세트는 성기사를 위해 설계되었습니다. 이 아이템은 시시자 MOD 눈을 위해 리크 ""다크"" 프랜시스가 제작했습니다."
-lvl7_urd_c,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,여성 드로의 사슬 갑옷 +3
+lvl7_urd_c,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,여성 드로우의 사슬 갑옷 +3
 lvl7_urd_c,git,Creature List/3/FirstName,0,드레니안
 lvl7_urd_c,git,Creature List/3/ItemList/0/LocalizedName,0,용 뼈
 lvl7_urd_c,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,드레니안의 장검
@@ -24777,7 +24777,7 @@ lvl7_urd_c,git,List/3/LocalizedName,0,청동 반지
 lvl7_urd_c,git,List/3/DescIdentified,0,"이 동전형 링은 특별한 능력을 가지고 있어 무시해서는 안 된다. 동전형 링을 조사한 후, 추가 방어력을 제공하는 능력이 있는 것처럼 보인다. 그러나 이 동전형 링에는 눈으로 보는 것 이상의 것이 있는 것 같다."
 lvl7_urd_c,git,List/4/LocalizedName,0,회상 물약
 lvl7_urd_c,git,List/4/DescIdentified,0,곤경에 처한 때 쓰이는 이 사제 물들은 기억의 포털로 돌아갑니다. 한 잔은 한 번만 사용할 수 있습니다.
-lvl7_urd_c,git,List/5/LocalizedName,0,드로 화살 +2
+lvl7_urd_c,git,List/5/LocalizedName,0,드로우 화살 +2
 lvl7_urd_c,git,List/9/LocalizedName,0,은 갑옷
 lvl7_urd_c,git,List/9/DescIdentified,0,고대의 갑옷이 노화해버렸어
 lvl7_urd_c,git,List/10/LocalizedName,0,썩은 가죽 갑옷
@@ -25827,7 +25827,7 @@ lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/23/LocalizedName,0,아라크니�
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/23/DescIdentified,0,"이 볼트는 버민 생물들을 심하게 씹을 수 있도록 만들어져 있고, 충돌에 추가적인 화재 피해를 준다."
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/24/LocalizedName,0,아라크니우스의 화살
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/24/DescIdentified,0,"이 화살는 벌레의 생물들을 심하게 뜯어먹을 수 있도록 만들어졌으며, 충돌에 추가적인 화재 피해를 초래합니다."
-lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/25/LocalizedName,0,드로 화살 +3
+lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/25/LocalizedName,0,드로우 화살 +3
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/26/LocalizedName,0,블랙화염 도끼
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/26/DescIdentified,0,"이 도끼들은 각각 불꽃 폭발을 일으키며, 대상에게는 혼란이나 귀를 망가뜨리는 것을 자주 유발한다. 전설에 따르면, 하늘로부터 선물로 주어진 것이라고 하지만, 그 힘은 일관되지 않아 단일한 원천에서 나온 것 같지 않다. 대부분의 학자들은 이러한 도끼가 여러 명의 수공예인들에 의해 만들어졌으며, 아마도 잃어버린 원본을 기리기 위해 만들어졌을 가능성이 있다고 동의한다."
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/27/LocalizedName,0,전쟁망치의 놀라움
@@ -25848,9 +25848,9 @@ lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/15/LocalizedName,0,반사 호신
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/15/DescIdentified,0,"고위 하퍼 제러보암 캔터는 하퍼 첩자들의 정신과 비밀을 지키기 위해 이 부적들을 만들도록 의뢰했다. 불행히도 제러보암은 이것을 착용한 채 붙잡힌 최초의 하퍼 첩자 중 하나였고, 부적이 벗겨지자 의지가 약한 이 음유시인의 정신은 아는 것을 모두 불어 버렸다."
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/17/LocalizedName,0,화염의 마법봉
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/17/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
-lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/18/LocalizedName,0,번개 부르기 대형 주문봉
+lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/18/LocalizedName,0,번개 부르기 대형 마법봉
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/18/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
-lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/19/LocalizedName,0,더 큰 불볼트 막대
+lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/19/LocalizedName,0,더 큰 불볼트 마법봉
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/19/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/20/LocalizedName,0,얼음 폭풍의 막대
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/21/LocalizedName,0,방사 완드
@@ -26153,7 +26153,7 @@ lvl8_lrd_s,git,List/0/LocalizedName,0,불꽃 장갑
 lvl8_lrd_s,git,List/2/LocalizedName,0,엘프의 목걸이 +3
 lvl8_lrd_s,git,List/2/DescIdentified,0,"엘프가 아닌 모험가들에 의해 좌절되어 그의 지하 모험에 따라잡을 수 없었던 엘프 마법사 리아돈은 모험가에게 저조한 시력을 심어주고 그의 기술력을 높이는 pendant을 만들었습니다. 마침내 은퇴했을 때, 리아돈은 그 Amulet이 엘프가 보관하고 엘프 사람들의 진정한 친구임을 증명하는 신뢰할 수있는 모험자에게만 제공되도록 요청했습니다."
 lvl8_lrd_s,git,List/3/LocalizedName,0,왕권의 막대
-lvl8_lrd_s,git,List/4/LocalizedName,0,드로 장화
+lvl8_lrd_s,git,List/4/LocalizedName,0,드로우 장화
 lvl8_lrd_s,git,List/6/LocalizedName,0,검투사의 칼날 +2
 lvl8_lrd_s,git,List/6/DescIdentified,0,"오래전, 포르미안 사람들은 거대한 지하 도시와 광대하고 동굴적인 제국들을 건설했습니다. 전쟁 사회는 노예와 포로가 잔인한 재미를 위해 싸웠던 군중들의 피와 영광으로 드러났다. 그러한 군중 중 하나는 인간 애얀이었습니다. 그는 자신의 포르미안 마스터의 칼을 훔쳐서 그의 사랑인 조이와 함께 표면에 탈출하기 위해 사용했습니다."
 lvl8_lrd_s,git,SoundList/7/LocName,0,어들
@@ -26225,7 +26225,7 @@ lvl8_lrd_s,git,Placeable List/51/Description,0,죽음 속에서 가슴을 내비
 lvl8_lrd_s,git,Placeable List/51/ItemList/0/LocalizedName,0,서리 물음
 lvl8_lrd_s,git,Placeable List/51/ItemList/0/DescIdentified,0,"골란에서 인간 성기사 자리얼에게 서리 거인 전사, 즉 서리 거인으로부터 오르크를 공격당하는 것을 막아낸 브라시아르에게서 주었다는 것이 전해진다. 골란은 자리얼에게 자신의 칼 프로스트 바이트에 대해 이야기했으며, 이 칼은 수 년 동안 라바 산맥의 불 거인들이 서리 거인들을 공격하면서 만들어진 것을 막기 위해 제작되었다는 것을 말했다. 골란은 또한 칼이 서리를 주는 마법에 흡인되었고, 불에서 태어난 모든 생물이 심각한 피해를 입을 것이라는 점도 이야기했다."
 lvl8_lrd_s,git,Placeable List/51/ItemList/2/LocalizedName,0,천사의 영혼
-lvl8_lrd_s,git,Placeable List/51/ItemList/2/DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 주시자의 눈입니다."
+lvl8_lrd_s,git,Placeable List/51/ItemList/2/DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 비홀더의 눈입니다."
 lvl8_lrd_s,git,Placeable List/52/LocName,0,진한 몸체
 lvl8_lrd_s,git,Placeable List/52/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 lvl8_lrd_s,git,Placeable List/52/ItemList/3/LocalizedName,0,금화
@@ -26234,7 +26234,7 @@ lvl8_lrd_s,git,Placeable List/57/LocName,0,전리품 주머니
 lvl8_lrd_s,git,Placeable List/57/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 lvl8_lrd_s,git,Placeable List/57/ItemList/0/LocalizedName,0,웬틀리 켈소의 일지 노트
 lvl8_lrd_s,git,Placeable List/57/ItemList/0/Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 자신 을 ""명གྲགས་ 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터 딥 의 세로 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
-lvl8_lrd_s,git,Placeable List/57/ItemList/0/DescIdentified,0,"우리는 드로 캠프에서 살아남았습니다. 표면으로 돌아갈 길이 없어, 우리에게 남은 선택은 계속 아래로 내려가는 것뿐입니다. 드로는 우리를 두려워하는 것 같았습니다. 그들은 다음 단계로 우리를 따라가지 않을 것 같습니다."
+lvl8_lrd_s,git,Placeable List/57/ItemList/0/DescIdentified,0,"우리는 드로우 캠프에서 살아남았습니다. 표면으로 돌아갈 길이 없어, 우리에게 남은 선택은 계속 아래로 내려가는 것뿐입니다. 드로우는 우리를 두려워하는 것 같았습니다. 그들은 다음 단계로 우리를 따라가지 않을 것 같습니다."
 lvl8_lrd_s,git,Placeable List/57/ItemList/3/LocalizedName,0,금화
 lvl8_lrd_s,git,Placeable List/57/ItemList/4/LocalizedName,0,금화
 lvl8_lrd_s,git,Placeable List/58/LocName,0,트라이더 박스
@@ -34997,7 +34997,7 @@ waterdeepseweren,git,Placeable List/524/LocName,0,부시 - 소형
 waterdeepseweren,git,Placeable List/524/Description,0,이 덤불의 많은 잎은 너무 밀집되어 있어 잎을 통해 볼 수 없을 정도다.
 waterdeepseweren,git,Placeable List/525/LocName,0,부시 - 소형
 waterdeepseweren,git,Placeable List/525/Description,0,이 덤불의 많은 잎은 너무 밀집되어 있어 잎을 통해 볼 수 없을 정도다.
-welcome,git,Creature List/0/FirstName,0,"빌리, 입구 주시자"
+welcome,git,Creature List/0/FirstName,0,"빌리, 입구 비홀더"
 welcome,git,Placeable List/4/LocName,0,부시 02
 welcome,git,Placeable List/4/Description,0,"큰, 단단한 광석 조각이 땅에서 튀어나와 있습니다."
 welcome,git,Placeable List/5/LocName,0,부시 01
@@ -35233,7 +35233,7 @@ welcome,git,Placeable List/134/LocName,0,버섯 - 안나미타 11f
 welcome,git,Placeable List/135/LocName,0,버섯 - 안나미타 11f
 welcome,git,Placeable List/136/LocName,0,버섯 - 안나미타 11g
 module,ifo,Mod_Description,0,"시야의 눈 Ver 6.8 향상된 에디션 * 저자: 릭 프랜시스 * 재생 시간 25~30시간. * 원래 발매 날짜는 2005년 3월 7일 1.0. 4 플레이어의 멀티플레이어 쿠퍼를 완전히 지원합니다. * 헤비 해크와 슬래시 및 로트. 스토리 구동. * 1-4 캐릭터로 설계된 모험. 2 차원의 Piergeiron, 나는 당신의 친구의 우려를 조사했습니다. 그리고 나는 소식이 좋지 않은 것을 두려워합니다. 그 이상의, 그것은 분노하고 좌절합니다. 악의 징후는 분명합니다. 당신은 알고, 그리고 증가하고 있습니다. 내가 떠나기 전에 나는 도시에서 암살자의 소문을 들었다. 티르와 워터! 워터! 그리고 나는 무엇을 믿는지 확신하지 않습니다. 나는 곧 Amn와 칼림을 방문했다. 이 도시들은 우리에게 문제를 제공했다. 나는 지금 우리의 조사에 대해 아무 문제도 가지고 있지 않은 것 같습니다. 그러나 나는 우리의 친구와 함께, 우리의 새로운 친구와 함께, 우리의 마법에 대한 증거는 분명하지 않을 것입니다. 그러나 우리의 시내에서 보이지 않을 것 이다. 그러나 우리의 친구 X. 왓턴은 그 다음의 유치에 대해 알아낼 수 있습니다"
-module,ifo,Mod_Name,0,주시자의 눈
+module,ifo,Mod_Name,0,비홀더의 눈
 module,jrl,Categories/0/Name,0,고대 던전
 module,jrl,Categories/0/EntryList/0/Text,0,"워터디프의 고대 동굴을 발견하는 데 좋은 일이었습니다! 당신의 끈기와 급한 본능은 오랫동안 잃어버린 비밀과 미스터리의 보석으로 당신을 이끌었습니다. 동굴에 뛰어들어 주변을 조사한 후, 돌아갈 길이 없다는 것을 깨닫습니다. 고대 벽과 무너지는 바닥은 이 장소가 수백 년 동안 황폐해져 왔다는 것을 암시합니다. 붕괴와 폐허는 그 나이에 암시하고, 이 동굴이 오랫동안 잊혀졌다는 것을 분명히합니다. 동굴의 거대한 규모와 복잡한 설계로 압도되어, 당신은 그러한 동굴을 건설하는 데 필요한 기술과 노력에 놀라지 않을 수 없습니다. 의심의 감각이 당신의 마음에 정착하기 시작하며, 이 장소로 내려가는 결정에 대한 질문을 하게 됩니다. 이 동굴의 운명이 오래전부터 잊혀져 왔다는 것을 분명히합니다. 이 동굴의 거대한 규모와 복잡한 설계로 압도되어, 당신은 그러한 동굴을 건설하는 데 필요한 기술과 노력에 놀라지 않을 수 없습니다. 당신의 마음 속에 의심의 감각이 정착하기 시작하여, 당신은 이 장소로 내려가는 결정에 대한 질문을 갖게됩니다. 이 동굴의 운명과 운명이 명백한 길을 채우며, 당신의 마음 속의"
 module,jrl,Categories/1/Name,0,아냐
@@ -35269,7 +35269,7 @@ module,jrl,Categories/9/EntryList/0/Text,0,"어린 여왕의 알주머니에 대
 module,jrl,Categories/9/EntryList/1/Text,0,"당신은 성인 여왕 거미를 성공적으로 물리쳤습니다. 그녀의 패배로, 그녀의 새끼들이 더 이상 광산을 위협하지 않을 것으로 기대됩니다."
 module,jrl,Categories/10/Name,0,빛의 깃털
 module,jrl,Categories/10/EntryList/0/Text,0,상자 잠금을 풀기 위해서는 빛 깃털을 찾아 빛받침대에 올려놓아야 합니다.
-module,jrl,Categories/10/EntryList/1/Text,0,당신은 수정 두개골을 확보했습니다. 이는 칸타르의 방으로 가는 마지막 문을 열기 위해 필요한 중요한 유물입니다. 이 강력한 물건이 당신의 손에 들어있으니 이제는 칸타르와 맞서 그의 악랄한 계획을 막을 준비가 되었습니다.
+module,jrl,Categories/10/EntryList/1/Text,0,당신은 수정 두개골을 확보했습니다. 이는 잔타르의 방으로 가는 마지막 문을 열기 위해 필요한 중요한 유물입니다. 이 강력한 물건이 당신의 손에 들어있으니 이제는 잔타르와 맞서 그의 악랄한 계획을 막을 준비가 되었습니다.
 module,jrl,Categories/10/EntryList/2/Text,0,빛의 기둥을 찾아서 깃털을 그 안에 넣으세요. 이 행동은 그 숨겨진 힘을 풀거나 여러분의 탐구에서 다음 단계를 밝혀 줄 것입니다.
 module,jrl,Categories/10/EntryList/3/Text,0,크리스탈 악마의 두개골을 얻었습니다. 이 강력한 물건으로 당신은 칸타르의 방으로 첫 문을 열 수 있는 핵심 유물입니다.
 module,jrl,Categories/11/Name,0,드로우 셔시아를 찾아라
@@ -35340,7 +35340,7 @@ module,jrl,Categories/28/Name,0,드워프 궁전에서 차원문 탐색
 module,jrl,Categories/28/EntryList/0/Text,0,"""전설에 따르면, 고대 왕좌실은 약 7층 아래에 있다. 이 왕좌실 안에, 북쪽 벽에 숨겨진 비밀 문이 있다. 이 숨겨진 문은 워터디프 동쪽에 있는 땅으로 데려가는 긴 지하 통로로 이어진다. 더 나아가, 내 백성들이 우리의 조상들의 집을 찾기 위해 계속 노력한다면, 그들은 필연적으로 잔타르 자신과 마주하게 될 것이다. 신디아의 발언에 근거하여, 잔타르가 우리 고대 도시의 중심에 자신의 주소를 설립한 것으로 보인다. 우리는 신중하게 진행하고 앞으로 다가올 도전을 준비해야 한다""."
 module,jrl,Categories/28/EntryList/1/Text,0,텔레포터를 통해 자유로 탈출하라
 module,jrl,Categories/29/Name,0,탐색하여 치유 물약을 찾아라
-module,jrl,Categories/29/EntryList/0/Text,0,"신디아를 심문하는 동안, 그녀는 칸타르에게 일하고 그의 의지의 도구로 작용하고 있다는 것이 분명해집니다. 그녀는 자신의 생명을 구하기 위해 간청하면서, 다음 레벨의 레버 방에 대한 정보를 공개합니다. 그녀는 자신이 드워프 왕을 치유할 수 있는 특별한 치료 포션을 숨기고 있다고 주장합니다. 신디아에 대한 당신의 깊은 의심에도 불구하고, 그녀가 진실을 말하고 있을 수도 있습니다."
+module,jrl,Categories/29/EntryList/0/Text,0,"신디아를 심문하는 동안, 그녀는 잔타르에게 일하고 그의 의지의 도구로 작용하고 있다는 것이 분명해집니다. 그녀는 자신의 생명을 구하기 위해 간청하면서, 다음 레벨의 레버 방에 대한 정보를 공개합니다. 그녀는 자신이 드워프 왕을 치유할 수 있는 특별한 치료 포션을 숨기고 있다고 주장합니다. 신디아에 대한 당신의 깊은 의심에도 불구하고, 그녀가 진실을 말하고 있을 수도 있습니다."
 module,jrl,Categories/29/EntryList/1/Text,0,"신디아에 의해 숨겨진 특수 치유 약물을 성공적으로 검색했습니다. 그러나 당신의 임무는 아직 완료되지 않았습니다. 떠나기 전에, 포털 시스템을 운영하는 데 필수적인 돌 신성한 상징 키를 얻어야 합니다. 포털 시스템은 왜성 캠프로 신속한 귀환을 제공 할 것이며 왕의 생명을 구하기 위해 충분한 시간을 얻을 수 있습니다. 시간은 본질입니다 - 석조신성한 상징 열쇠를 확보하고 죽어가는 왕의 삶을 부활시킬 수있는 특별한 치료 약으로 아르문에게 빨리 돌아가십시오."
 module,jrl,Categories/29/EntryList/2/Text,0,왜성 왕이 성공적으로 부활했습니다! 당신의 신속한 행동과 결단 덕분에 특수 치유 물약이 마법을 발휘하여 왕을 완전히 회복시켰습니다.
 module,jrl,Categories/30/Name,0,드워프 지도자 아르문을 찾으라
@@ -35349,7 +35349,7 @@ module,jrl,Categories/30/EntryList/0/Text,0,"타고르는 드워프와 드로우
 용기와 인내의 이야기 끝에, 타고르는 드워프 씨족의 대변인 아르문을 찾아가 보라고 조언합니다."
 module,jrl,Categories/30/EntryList/1/Text,0,"당신은 족의 존경받는 대변인 아르문 (Armun) 을 성공적으로 찾아냈고 그의 현존은 지혜와 경험을 고 있으며, 그는 그의 지식을 여러분과 공유할 준비가 되어 있습니다."
 module,jrl,Categories/31/Name,0,신디아 항복
-module,jrl,Categories/31/EntryList/0/Text,0,"잔인한 전투 후, 신디아는 당신에게 항복하고, 그녀는 단지 칸타르의 명령을 따랐다고 주장합니다. 그녀의 눈에는 절망이 담겨 있습니다. 그녀는 목숨을 구하려고 애쓰며, 왜성 왕을 치유하는 힘을 가진 특수 치유 물약의 존재를 밝히고 있습니다. 그녀는 약물이 다음 수준의 레버 방에 숨겨져 있다고 주장합니다. 당신은 그녀를 신뢰하는 것에 대해 경계하고 있지만, 그녀가 진실을 말하고 있는 가능성은 있습니다."
+module,jrl,Categories/31/EntryList/0/Text,0,"잔인한 전투 후, 신디아는 당신에게 항복하고, 그녀는 단지 잔타르의 명령을 따랐다고 주장합니다. 그녀의 눈에는 절망이 담겨 있습니다. 그녀는 목숨을 구하려고 애쓰며, 왜성 왕을 치유하는 힘을 가진 특수 치유 물약의 존재를 밝히고 있습니다. 그녀는 약물이 다음 수준의 레버 방에 숨겨져 있다고 주장합니다. 당신은 그녀를 신뢰하는 것에 대해 경계하고 있지만, 그녀가 진실을 말하고 있는 가능성은 있습니다."
 module,jrl,Categories/32/Name,0,시드리아의 편지를 이라조르에게
 module,jrl,Categories/32/EntryList/0/Text,0,"""일라조르, 난 왜자와의 최근의 사건에 관한 중요한 정보를 가지고 있다. 내가 죽어야 한다면, 이 지식이 필요할 수도 있다! 우리 민족을 보호하기 위해 왜자와와 협상할 때 레버리지가 필요한 경우 왕을 어떻게 구해야 하는지 말해 줄 수 있다. 당신은 칸타르의 계획에 대해 알고 있는 것이 분명하다. 그는 칸타르 왕자 케이르거를 납치하도록 강요하여 드로와 왜자와의 갈등을 일으켰다. 왜자와의 왕이 뇌수욕을 할 수 없을 정도로 결단적이었다는 것을 알고, 칸타르 왕이 그를 독살시켰습니다. 혼수 상태에서 그를 부활시키는 유일한 방법은 '레버즈의 방'에서 아래층에 숨겨 놓은 특별한 약으로다""."
 module,jrl,Categories/33/Name,0,도럼과 대화
@@ -35449,7 +35449,7 @@ module,jrl,Categories/46/EntryList/0/Text,0,베넷이 이 모든 층을 검색�
 module,jrl,Categories/46/EntryList/1/Text,0,"우리가 여기 비밀 문을 찾기까지 한 시간 동안 빈정거렸는데, 벤트 가이드가 가리키자 그 문이 얼마나 잘 숨겨져 있는지 참 신기했어."
 module,jrl,Categories/46/EntryList/2/Text,0,우리는 이 방에서 거대한 눈이 팔대석에 앉아 있다는 것을 발견하여 놀랐습니다. 정말 놀라운 작품입니다. 그 눈에 구슬을 넣으면 어떻게 될지 궁금합니다.
 module,jrl,Categories/47/Name,0,칸타르
-module,jrl,Categories/47/EntryList/0/Text,0,"당신의 궁극적인 목표는 칸타르의 라이어를 찾아내고 그의 공포의 통치를 한 번에 끝내는 것입니다. 이 무서운 임무는 당신의 모든 용기와 힘, 그리고 현명함을 필요로 합니다. 배신의 깊은 곳을 항해하고, 기다리고 있는 수많은 도전을 극복하고, 칸타르의 요새에서 그를 직면합니다."
+module,jrl,Categories/47/EntryList/0/Text,0,"당신의 궁극적인 목표는 잔타르의 라이어를 찾아내고 그의 공포의 통치를 한 번에 끝내는 것입니다. 이 무서운 임무는 당신의 모든 용기와 힘, 그리고 현명함을 필요로 합니다. 배신의 깊은 곳을 항해하고, 기다리고 있는 수많은 도전을 극복하고, 잔타르의 요새에서 그를 직면합니다."
 module,jrl,Categories/47/EntryList/1/Text,0,"가장 두려워하는 생물의 가장 큰 약점은 그림자 속에 숨어서 모든 것을 볼 수 있지만, 보이지 않는 능력입니다. 당신의 모임이 칸타르의 부서진 몸의 잔해들을 통해 탐색하는 동안, 텔레포터가 주위를 활성화합니다. 칸타르의 유적이 눈에 보이지 않는 동안, 모든 사람들은 앞으로의 도전을 위해 엄숙하게 준비하고, 그들의 마음은 ""지금은 무엇입니까?""라는 질문으로 가득합니다. 이 탐구에서 당신의 성공은 중요한 승리를 표시합니다. 그러나 새로운 모험과 전투가 기다리고 있습니다. 당신의 승리의 성취에 축하합니다! 당신의 여행의 다음 장으로!"
 allip001,utc,FirstName,0,알립
 allip001,utc,Description,0,"미치광고와 자살로 몰려들었던 사람들의 스펙트럼적 유해들, 알립스는 그들을 가장자리에 밀어 넣은 사람들에 대한 복수를 갈망합니다."
@@ -35467,7 +35467,7 @@ beastxvim001,utc,Description,0,악의 신인 이야흐투 엑스비먼이 만져
 beholder003,utc,FirstName,0,눈알
 beohram,utc,FirstName,0,베오람
 beohram013,utc,FirstName,0,하수구 경비병
-billytheentrance,utc,FirstName,0,"빌리, 입구 주시자"
+billytheentrance,utc,FirstName,0,"빌리, 입구 비홀더"
 blackwidow,utc,FirstName,0,흑마녀
 blackwidow001,utc,FirstName,0,흑마녀
 blackwidow002,utc,FirstName,0,흑마녀
@@ -36251,9 +36251,9 @@ bastardswordof,uti,LocalizedName,0,반수검의 불
 bastardswordof,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 bastrardswordofv,uti,LocalizedName,0,복수의 반수검
 beholder_hide,uti,LocalizedName,0,뷰더_스피드
-beholderbite4d6,uti,LocalizedName,0,주시자 물어
-beholderclaws,uti,LocalizedName,0,주시자 손톱
-beholderpropert,uti,LocalizedName,0,주시자의 특성
+beholderbite4d6,uti,LocalizedName,0,비홀더 물어
+beholderclaws,uti,LocalizedName,0,비홀더 손톱
+beholderpropert,uti,LocalizedName,0,비홀더의 특성
 berserkefrost,uti,LocalizedName,0,베르세커 서리 거인 대도끼
 bite3d009,uti,LocalizedName,0,움버 헐크 침입
 bite3d010,uti,LocalizedName,0,XornBite2d8
@@ -36403,11 +36403,11 @@ drowadamantine,uti,LocalizedName,0,마른 아담틴 검 +5
 drowadamantine,uti,DescIdentified,0,"이 마법 무기는 공격과 피해에 대한 보너스를 제공하며, 이것은 드로우 무기의 특징입니다."
 drowboots,uti,LocalizedName,0,저항을 가진 드라우스 장화
 drowbootsofmovem,uti,LocalizedName,0,이동용 장화
-drowbow,uti,LocalizedName,0,드로 화살 +3
+drowbow,uti,LocalizedName,0,드로우 화살 +3
 drowbow001,uti,LocalizedName,0,드라이더 화살 +3
 drowchain,uti,LocalizedName,0,사슬
 drowchainmail,uti,LocalizedName,0,일라조르의 드로우 사슬 갑옷
-drowchainmail001,uti,LocalizedName,0,여성 드로의 사슬 갑옷 +3
+drowchainmail001,uti,LocalizedName,0,여성 드로우의 사슬 갑옷 +3
 drowchainmail002,uti,LocalizedName,0,남성 드로 사슬 갑옷 +3
 drowcleaver001,uti,LocalizedName,0,드로 클리버
 drowcleaver001,uti,DescIdentified,0,"도끼의 원래 소유자는 익명의 왜성 용병이었으며, 도끼 경찰에 의해 살해되었다. 이 왜성과 그의 동맹들은 좋은 전투자였으며, 그들은 거의 싸웠던 도끼 경찰을 죽였다. 결국에는 왜성과 도끼 경찰 지도자가 두 명만 남았다. 이 왜성 은 전투에서 자신의 기술로 계급을 획득한 익명의 일반인이었다. 전투 후, 그는 모든 왜성 보물을 가져갔고, 왜성들은 무기와 갑옷을 만들었다."
@@ -36545,9 +36545,9 @@ goldskintowershi,uti,DescIdentified,0,"이 세트 아이템은 릭 ""다크"" �
 greataxeoftheund,uti,LocalizedName,0,언데드의 대도끼
 greaterangurvad,uti,LocalizedName,0,더 큰 안구르바달 (불꽃 혀)
 greaterangurvad,uti,DescIdentified,0,"이 유형의 칼은 라에기크 해머홀드의 작업장에서 만들어졌으며, 그는 라스마르의 용공인으로서 선택한 제자만에게 자신의 기술의 비밀을 공개하지 않았습니다. 안구르바달 칼이 얼마나 많이 존재하는지는 알려져 있지 않지만, 더 이상 생산되고 있지 않습니다. 라에기크는 제자가 타이의 적색 마법사들과 거래하고 있음을 발견했고, 그로 인한 전투에서 사망한 것으로 알려져 있습니다."
-greatercalllig,uti,LocalizedName,0,번개 부르기 대형 주문봉
+greatercalllig,uti,LocalizedName,0,번개 부르기 대형 마법봉
 greatercalllig,uti,DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
-greaterfirebal,uti,LocalizedName,0,더 큰 불볼트 막대
+greaterfirebal,uti,LocalizedName,0,더 큰 불볼트 마법봉
 greaterfirebal,uti,DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
 greatergauntlet,uti,LocalizedName,0,강력한 오우거 근력의 팔목장갑
 greatergauntlet,uti,DescIdentified,0,"이 마법 물건들은 수천 년 동안 존재해 왔지만, 그 인기는 결코 줄어들지 않는 것 같다. 최근, 칼림산의 모험가들 한 팀이 이와 같은 마법 물건들로 가득한 거대한 보물창고를 발견했다. 갑작스러운 마법 장갑의 유입에도 불구하고, 그 가치는 줄어들지 않고 전국의 모든 모험가들이 이 유용한 유물들의 도움을 청하고 있다."
@@ -36805,9 +36805,9 @@ maarcl004,uti,DescIdentified,0,"이 갑옷은 내면의 빛으로 빛난다. 위
 maarcl005,uti,LocalizedName,0,쾌속의 갑옷
 maarcl005,uti,DescIdentified,0,"악명 높은 도둑 크롬백은 쾌속의 갑옷 없이는 눈에 띄지 않았다. 사실 크롬백은 형편없는 도둑으로 유명했기에, 성난 피해자들을 피해 달아나는 모습이 자주 목격되었다. 갑옷의 마법 덕분에 늘 추격자들을 따돌렸지만, 한 표적이 침착하게 활시위를 얹는 바람에 비극적인 최후를 맞았다."
 maarcl006,uti,LocalizedName,0,사로의 암흑 갑옷
-maarcl006,uti,DescIdentified,0,그림자는 사라의 죽은 시체에서 가져왔습니다. 악마법사가 워터딥을 통제하고 칸타르를 죽이기 위해 그림자에게 힘을 빼앗기었습니다.
+maarcl006,uti,DescIdentified,0,그림자는 사라의 죽은 시체에서 가져왔습니다. 악마법사가 워터딥을 통제하고 잔타르를 죽이기 위해 그림자에게 힘을 빼앗기었습니다.
 maarcl007,uti,LocalizedName,0,암흑의 의복
-maarcl007,uti,DescIdentified,0,그림자는 사라의 죽은 시체에서 가져왔습니다. 악마법사가 워터딥을 통제하고 칸타르를 죽이기 위해 그림자에게 힘을 빼앗기었습니다.
+maarcl007,uti,DescIdentified,0,그림자는 사라의 죽은 시체에서 가져왔습니다. 악마법사가 워터딥을 통제하고 잔타르를 죽이기 위해 그림자에게 힘을 빼앗기었습니다.
 maarcl009,uti,LocalizedName,0,가레스의 방어
 maarcl009,uti,DescIdentified,0,"유명한 패러다인 가레스 드래곤스베인 (Gareth Dragonsbane) 은 괴상한 사고로 인해 사제들을 잃는 것에 지쳤고, 그의 방패를 들고 있는 사람 들 에게는 대장 들 의 발자취 를 당하기 까지 모든 종류의 불행 이 닥쳤다. 그는 이 전투 의복 을 사제 에게 위탁 하여 사제 들 에게 더 많은 지혜 를 부여 하였다."
 maarcl019,uti,LocalizedName,0,왕실 경비병 갑옷
@@ -37004,7 +37004,7 @@ notes032,uti,Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""
 notes032,uti,DescIdentified,0,3개의 글씨와 3개의 상자를 찾았는데 먼저 상자에 부가가치 있는 물건을 넣어야 한다고 생각합니다.
 notes033,uti,LocalizedName,0,웬틀리 켈소의 일지 노트
 notes033,uti,Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 자신 을 ""명གྲགས་ 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터 딥 의 세로 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
-notes033,uti,DescIdentified,0,"우리는 드로 캠프에서 살아남았습니다. 표면으로 돌아갈 길이 없어, 우리에게 남은 선택은 계속 아래로 내려가는 것뿐입니다. 드로는 우리를 두려워하는 것 같았습니다. 그들은 다음 단계로 우리를 따라가지 않을 것 같습니다."
+notes033,uti,DescIdentified,0,"우리는 드로우 캠프에서 살아남았습니다. 표면으로 돌아갈 길이 없어, 우리에게 남은 선택은 계속 아래로 내려가는 것뿐입니다. 드로우는 우리를 두려워하는 것 같았습니다. 그들은 다음 단계로 우리를 따라가지 않을 것 같습니다."
 notes034,uti,LocalizedName,0,웬틀리 켈소의 일지 노트
 notes034,uti,Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 자신 을 ""명གྲགས་ 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터 딥 의 세로 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
 notes034,uti,DescIdentified,0,"베넷이 지하에 너무 오래 있었는지라, 우리는 다시 왔던 길로 돌아가라고 압박하고 있다고 생각한다."
@@ -37342,11 +37342,11 @@ spiderslayer,uti,DescIdentified,0,"이 반수검은 고대 드워프 용공자 �
 spinefinder,uti,LocalizedName,0,척추 찾기
 spinefinder,uti,DescIdentified,0,"오라스 사롤 (Olath Sarol Meaning Dark Blade) 로 알려져 있다. 스파이너 파이더는 약 2.5피트 길이이다. 스파이너 파이더는 드로 아담안타이트로 만들어져 있으며, 햇빛에 노출되면 분해하는 것으로 알려져 있다. 그러나 가꾸기 시작했을 때, 드로이 이 블레이드를 일리티드의 피에 젖혀서 너무 냉각시켰습니다. 또한, 치명적인 독질의 코팅을 제공하여 피해자의 혈액이 희소해져 더 빨리 달리는 원인이 됩니다. 스파이너 파이더의 절단으로 피해자가 빠르게 피를 흘리게 됩니다. 또한, 블레이드로 부상당하면 간그레인은 불가피하고 즉각적입니다. 스파이너 파이더에 의해 치료되는 상처는 거의 결코 치유되지 않습니다."
 spiritofangelsla,uti,LocalizedName,0,천사의 대형 방패 영혼
-spiritofangelsla,uti,DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 주시자의 눈입니다."
+spiritofangelsla,uti,DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 비홀더의 눈입니다."
 spiritofangelsma,uti,LocalizedName,0,천사의 망치의 영혼
-spiritofangelsma,uti,DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 주시자의 눈입니다."
+spiritofangelsma,uti,DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 비홀더의 눈입니다."
 spiritofangles,uti,LocalizedName,0,천사의 영혼
-spiritofangles,uti,DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 주시자의 눈입니다."
+spiritofangles,uti,DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 비홀더의 눈입니다."
 staffofdragon001,uti,LocalizedName,0,용 뼈 수레가지
 staffofhealing,uti,LocalizedName,0,치유의 수레
 staffoflesser,uti,LocalizedName,0,하급 마도사의 지팡이
@@ -37631,7 +37631,7 @@ x2_it_pkeg,uti,LocalizedName,0,파우더통
 x2_it_pkeg,uti,DescIdentified,0,검정 pó우더로 가득한 배럴.
 xanatharseyes,uti,LocalizedName,0,카나스터의 눈줄기
 xanatharseyes,uti,Description,0,잔타르에게서 떼어낸 비홀더의 눈자루.
-xanatharseyes,uti,DescIdentified,0,이것은 대형 주시자 카나스터에서 따온 눈 줄기 조각입니다. 주시자 눈 줄기는 여러 용도로 사용할 수 있습니다. 하나의 눈 줄기 안에 담긴 강력한 마법 때문에 요술사들과 마법사들은 강력한 막대를 만들기 위해 이것을 찾았습니다.
+xanatharseyes,uti,DescIdentified,0,이것은 대형 비홀더 카나스터에서 따온 눈 줄기 조각입니다. 비홀더 눈 줄기는 여러 용도로 사용할 수 있습니다. 하나의 눈 줄기 안에 담긴 강력한 마법 때문에 요술사들과 마법사들은 강력한 막대를 만들기 위해 이것을 찾았습니다.
 xannote,uti,LocalizedName,0,특수 임무 노트
 xannote,uti,DescIdentified,0,"드로우는 작지만 막강한 포위하는 관객들로 인해 격퇴하고 전투에서 지지를 잃었다. 모든 것은 패배한 것처럼 보였는데, 드로우는 그들의 무기와 매술꾼들을 쓸모 없게 만드는 반마술 반사들에 대한 방어력을 갖지 못했기 때문이었다. 그러나, 실비아스라는 상속 마법사는 관객들의 생태학을 연구하는 데 수십 년을 보냈고, 생물들을 통제하고 노예로 사용할 수 있는 막대를 만들기 위해 노력하고 있었다. 불행히도, 그는 완전히 준비되기 전에 막대를 만들려고 강요당했다. 그는 부분적인 성공을 거두었다고 한다. 막대기는 지주자의 움직임을 단시간에 제어 할 수 있었지만, 그 위에 지속적인 손상을 유지할 수 없었다. 실비아스는 관객을 막대기로 몰아넣고, 두 개 모두 파괴되었다. 그는 결국 Silvia스에게 막대기를 사용하면서, 다른 막대기를 사용하면서, 결국 훼손된 막대기를 파괴할 수 있다고 보고했다."
 xornclaw1d4,uti,LocalizedName,0,XornClaw1d4

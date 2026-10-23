@@ -6,8 +6,8 @@ area001,are,Name,0,틸버스 댐
 area002,are,Name,0,티린타르의 성당
 area003,are,Name,0,새벽 스파이어 - 새벽예배당
 area004,are,Name,0,다롤의 무기와 갑옷
-area005,are,Name,0,주시자 둥지 - 터널
-area006,are,Name,0,주시자 둥지 - 아래 터널
+area005,are,Name,0,비홀더 둥지 - 터널
+area006,are,Name,0,비홀더 둥지 - 아래 터널
 area007,are,Name,0,웨스트필드
 area008,are,Name,0,들러 하우스 - 베일러스
 area009,are,Name,0,하우스 네이드레 - 지하실
@@ -35,7 +35,7 @@ area030,are,Name,0,새벽빛 솟대 - 사제 거주지
 area031,are,Name,0,엘민스터의 불확실
 area032,are,Name,0,새벽빛 스파이어 - 거룩한 계단
 area033,are,Name,0,티란트라크스의 감옥
-beholderlair,are,Name,0,주시자 둥지 - 입구
+beholderlair,are,Name,0,비홀더 둥지 - 입구
 burialgrounds001,are,Name,0,장지
 castlecormant001,are,Name,0,코르망토르 성 - 창고 지하실
 castlecormant002,are,Name,0,코르망토르 성 - 병영
@@ -115,7 +115,7 @@ amenduil,dlg,EntryList/15/Text,0,네가 원하는 대로 해. 내 조건에 동�
 amenduil,dlg,EntryList/16/Text,0,우선 이 지역을 청소해야 합니다. 서쪽 터널과 방에 여전히 악마들이 남아 있어 그들을 죽여와야 합니다. 작업을 마치면 다시 돌아와서 추가 지시를 받으시오.
 amenduil,dlg,EntryList/17/Text,0,당신이 이 무기에 대해 알고 있을 것 같다는 생각은 어디서 오는 건가?
 amenduil,dlg,EntryList/18/Text,0,"그 무기를 잘 알고 있습니다. 7개였고, 적절한 사람이 그들을 결합하여 큰 힘을 가진 유물인 엔일린으로 만들 수 있습니다."
-amenduil,dlg,EntryList/19/Text,0,그들은 미스 드라너의 7명의 챔피언에게 몇 시간 전에 어둠의 군대가 우리에게 닥치기 직전에 주어졌습니다. 대부분은 잃어버렸거나 파괴되었습니다. 하지만 하나의 부분의 위치를 기억하고 있을 수도 있습니다.
+amenduil,dlg,EntryList/19/Text,0,그들은 미스 드란의 7명의 챔피언에게 몇 시간 전에 어둠의 군대가 우리에게 닥치기 직전에 주어졌습니다. 대부분은 잃어버렸거나 파괴되었습니다. 하지만 하나의 부분의 위치를 기억하고 있을 수도 있습니다.
 amenduil,dlg,EntryList/20/Text,0,말 그만해 악마들을 죽여라
 amenduil,dlg,EntryList/21/Text,0,고렘들은 더 이상 악마를 느끼지 못해요
 amenduil,dlg,EntryList/22/Text,0,아직 끝나지 않았습니다.
@@ -150,7 +150,7 @@ amenduil,dlg,ReplyList/14/Text,0,악마와 일한 경험이 있어 그들의 패
 amenduil,dlg,ReplyList/15/Text,0,저는 이것을 고려해볼 것입니다.
 amenduil,dlg,ReplyList/17/Text,0,잘 됐다. 정확히는 내가 뭘 해야 하는지 말해봐.
 amenduil,dlg,ReplyList/19/Text,0,마법의 검을 얻으러 왔어. 그 이름은 '칠개 중 하나'야.
-amenduil,dlg,ReplyList/20/Text,0,"미스 드라너의 모든 무덤을 확인하고 있어. 그래서 말해봐, 그런 무기에 대해 알고 있는 게 있나? 그것의 이름은 '다수 중 하나'야."
+amenduil,dlg,ReplyList/20/Text,0,"미스 드란의 모든 무덤을 확인하고 있어. 그래서 말해봐, 그런 무기에 대해 알고 있는 게 있나? 그것의 이름은 '다수 중 하나'야."
 amenduil,dlg,ReplyList/21/Text,0,일곱 조각은 어디서 찾을 수 있나요?
 amenduil,dlg,ReplyList/22/Text,0,"이런, 이건 좋은 거래인 것 같군. 당신의 가격은 무엇인가?"
 amenduil,dlg,ReplyList/23/Text,0,악마들은 패배하고 난 내 보상을 원해
@@ -174,7 +174,7 @@ arto,dlg,EntryList/2/Text,0,"<StartAction>[울기 시작]</Start> ""나의 사�
 arto,dlg,EntryList/3/Text,0,"""나는 파괴되었을지라도 바보가 아니야, 드워프. 나는 어디에도 가지 않을 거야."""
 arto,dlg,EntryList/4/Text,0,"""잎을 보여줘... 아, 그래... 아, 여기 가져가... 드디어... 나 가야 해..."""
 arto,dlg,EntryList/5/Text,0,"""이것은 고대 드란노르 신화의 챔피언들의 칼 중 하나입니다. 10일 동안의 양을 가져오세요."
-arto,dlg,EntryList/7/Text,0,"""말이 가까이 왔다... 심지어는 드워도..."""
+arto,dlg,EntryList/7/Text,0,"""말이 가까이 왔다... 심지어는 드로우도..."""
 arto,dlg,EntryList/8/Text,0,"<StartAction>[그의 목소리가 거의 들리지 않는]</Start>""... 너무 피곤해. 고통... 제발..."
 arto,dlg,EntryList/10/Text,0,"""나는 모르다인 빅토리를 가져와주면 그에 따라 지불할 수 있습니다..."""
 arto,dlg,ReplyList/0/Text,0,"""나는 가야 한다""."
@@ -207,7 +207,7 @@ auglor_boulder3,dlg,ReplyList/1/Text,0,<StartAction> [아래로 올라가.] </St
 auglor_boulder3,dlg,ReplyList/2/Text,0,<StartAction> [암을 떠나.]</Start>
 auglor_boulder3,dlg,ReplyList/3/Text,0,<StartAction>[밧줄을 붙여서 내려가.]</Start>
 baerant,dlg,EntryList/0/Text,0,"드로우, 이 곳?"
-baerant,dlg,EntryList/1/Text,0,"의심할 것도 없이, 네 이름은 아무래도 중요하지 않아. 드로우들이 미스터 드라너에 왜 온 거야?"
+baerant,dlg,EntryList/1/Text,0,"의심할 것도 없이, 네 이름은 아무래도 중요하지 않아. 드로우들이 미스터 미스 드란에 왜 온 거야?"
 baerant,dlg,EntryList/3/Text,0,여기 네 종류가 몇 명이나 있고 어디서 왔어?
 baerant,dlg,EntryList/4/Text,0,"오, 잊어 버렸어, 모든 사람을 불신하고"
 baerant,dlg,EntryList/5/Text,0,한때 나는 새벽의 수호자 바에란트였다. 하지만 이제 진실을 찾았다. 새 주인이 내 눈을 열어 페이룬의 진정한 힘을 보게 해 주었다.
@@ -258,8 +258,8 @@ barkeep,dlg,EntryList/31/Text,0,"""처음에는 여성 모험가들이 있습니
 barkeep,dlg,EntryList/32/Text,0,"""다른 보물 사냥자 는 - 하지만 그 는 결코 그 가 될 것 이라고 인정 하지 않을 것 이다. 저 는 책 과 문장 을 찾아서 지혜 있는 사람 이라고 주장 한다. 하지만 그 는 결코 그 의 책자 를 떠나서 그 유적 을 탐구 하지 않는다. 그 는 그런 것 을 발견 할 것 이 없을 것 을 의심 한다""."
 barkeep,dlg,EntryList/33/Text,0,"""내 좋은 구 친구 에모크 는 이 곳 에 자주 머물고 있습니다. 그는 카라바니 사업 을 운영 하고 온갖 보석 과 보석 을 구입 합니다. 그 사람 을 보세요. 그 사람 의 가격 은 가장 좋은 것 입니다""."
 barkeep,dlg,EntryList/34/Text,0,"""또 다른 일이 있으신가요?"""
-barkeep,dlg,EntryList/35/Text,0,이 모루는 신화 드라너에서 가장 좋은 숙소이자 유일한 숙소입니다.
-barkeep,dlg,EntryList/36/Text,0,"드란노르는 오래된 도시로, 시작조차 살아있는 존재가 알 수 없을 정도로 오래된 곳이다. 오랜 시간 전에는 믿을 수 없을 정도로 강력한 문명의 본거지였으나 악의 힘에 의해 파괴되었다. 그러나 오늘날에도 드란노르는 모든 왕국 중 가장 큰 보물고로 여겨진다."
+barkeep,dlg,EntryList/35/Text,0,이 모루는 미스 드란에서 가장 좋은 숙소이자 유일한 숙소입니다.
+barkeep,dlg,EntryList/36/Text,0,"미스 드란은 오래된 도시로, 시작조차 살아있는 존재가 알 수 없을 정도로 오래된 곳이다. 오랜 시간 전에는 믿을 수 없을 정도로 강력한 문명의 본거지였으나 악의 힘에 의해 파괴되었다. 그러나 오늘날에도 미스 드란은 모든 왕국 중 가장 큰 보물고로 여겨진다."
 barkeep,dlg,EntryList/37/Text,0,"그것이 내가 아는 모든 것일 뿐이야. 아마 술집에 있는 보물 사냥꾼들은 더 많은 세부사항을 알고 있을지도 모르지만, 조심스럽게 물어보게."
 barkeep,dlg,EntryList/38/Text,0,"""나는 노트를 확인하다가 코볼드 동료의 일부 미지급 청구서를 발견했어. 지난 7일 동안의 숙박비와 음료수비로 843 금크로나를 아직 지불해야 해."""
 barkeep,dlg,EntryList/39/Text,0,"""사장, 디킨은 금이 없다."""
@@ -308,7 +308,7 @@ barkeep,dlg,ReplyList/30/Text,0,"""다른 손님들에 대해 좀 더 자세히 
 barkeep,dlg,ReplyList/31/Text,0,"""정기적으로 오는 손님들이 있나요?"""
 barkeep,dlg,ReplyList/32/Text,0,"""올라, 그 정규 손님들에 대해 더 말해줘""."
 barkeep,dlg,ReplyList/36/Text,0,"""이 곳에 대해 더 자세히 말해줘."""
-barkeep,dlg,ReplyList/37/Text,0,드라너 신화에 대해 좀 더 자세히 말해줄 수 있나?
+barkeep,dlg,ReplyList/37/Text,0,미스 드란 신화에 대해 좀 더 자세히 말해줄 수 있나?
 barkeep,dlg,ReplyList/40/Text,0,"""네 빚을 갚지 않을거야, 코볼드""."
 barkeep,dlg,ReplyList/41/Text,0,"결코. 잊지마, 노예."
 barkeep,dlg,ReplyList/43/Text,0,"""843골든크로우니? 당신은 잘못 들었나 봅니다."""
@@ -350,7 +350,7 @@ catlindra,dlg,EntryList/7/Text,0,<StartAction>[웃음]</Start>##################
 catlindra,dlg,EntryList/8/Text,0,""" , 나는 그 익사기를 믿고 싶다"". <StartAction>[Catlindra는 잠시 동안 신중하게 생각하고 다음으로 무엇을 해야 할지 결정하려고 한다.]</Start> ""우리는 당신을 Dawnspire dark one로 데려갈 것입니다. 당신이 찾고 있는 것을 발견할 것입니다. 만약 당신의 말이 진실이 될 경우""."
 catlindra,dlg,EntryList/9/Text,0,""" 시도하지 마."""
 catlindra,dlg,ReplyList/0/Text,0,"""나도 알아챘어. 그런데 나 좀 길을 잃었는데, 여긴 어디야?"""
-catlindra,dlg,ReplyList/2/Text,0,"""드라너 신화... 정말 우연이야..."""
+catlindra,dlg,ReplyList/2/Text,0,"""미스 드란 신화... 정말 우연이야..."""
 catlindra,dlg,ReplyList/4/Text,0,"""네, 그렇습니다. 문제가 되나요?"""
 catlindra,dlg,ReplyList/5/Text,0,"나는 스스로 공격을 받았고, 방어해야 했다."
 catlindra,dlg,ReplyList/7/Text,0,"<StartAction>[ Shrug ]</Start> ""모든 드루우가 악한 것은 아니다."""
@@ -370,7 +370,7 @@ catlindra_2,dlg,EntryList/10/Text,0,"""너 돌아왔군. 표면과 이 포스트
 catlindra_2,dlg,EntryList/11/Text,0,"""표면에서 얼마나 오래 머물 계획인가?"""
 catlindra_2,dlg,EntryList/12/Text,0,"<StartAction>[미소 지으며, 당신이 당신의 비즈니스에 대해 이야기할 필요가 없다는 것을 정확히 알고]</Start>""누가 알 수 있을까..."""
 catlindra_2,dlg,EntryList/13/Text,0,"""행운을 빌어요. 우린 분명 다시 만나게 될 거예요."""
-catlindra_2,dlg,EntryList/14/Text,0,"미스 드란노르, 고대의 아름다움의 도시. 수백 년 전 야생의 오크와 악마의 무리에 의해 파괴되었습니다. 코르망토르의 엘프들은 고향인 에버미트로 떠나기 전에 이 도시를 세계로부터 격리했습니다."
+catlindra_2,dlg,EntryList/14/Text,0,"미스 드란, 고대의 아름다움의 도시. 수백 년 전 야생의 오크와 악마의 무리에 의해 파괴되었습니다. 코르망토르의 엘프들은 고향인 에버미트로 떠나기 전에 이 도시를 세계로부터 격리했습니다."
 catlindra_2,dlg,EntryList/15/Text,0,"""이 유적들은 많은 모험가들의 꿈입니다. 당신은 운을 얻을 수도... 또는 빠르게 죽을 수도 있습니다."""
 catlindra_2,dlg,EntryList/16/Text,0,"""아니, 그냥 좋은 무기야. 왜 지팡이가 종교의 상징이 될 수 있을까?"""
 catlindra_2,dlg,EntryList/17/Text,0,quer. 없을까?
@@ -405,7 +405,7 @@ catlindra_2,dlg,ReplyList/16/Text,0,"""네 자신에 대해 좀 더 말해줘. �
 catlindra_2,dlg,ReplyList/17/Text,0,"""나는 그냥 궁금했어."""
 catlindra_2,dlg,ReplyList/18/Text,0,발대기는 내 집에서 롤트의 대제사장들의 성스러운 무기입니다.
 catlindra_2,dlg,ReplyList/19/Text,0,"""그들은 절대적인 권력의 상징입니다. 그들은 여신의 은총을 얻으면 원하는 대로 할 수 있습니다."""
-catlindra_2,dlg,ReplyList/20/Text,0,"""그들은 원하는 대로 한다. 처벌과 잔인한 게임은 매우 흔하다. 우리 사회에서 삶은 아무런 가치가 없다. 롤트는 혼란을 사랑하며, 드워들의 희생을 요구하고, 그녀는 그것을 얻는다."""
+catlindra_2,dlg,ReplyList/20/Text,0,"""그들은 원하는 대로 한다. 처벌과 잔인한 게임은 매우 흔하다. 우리 사회에서 삶은 아무런 가치가 없다. 롤트는 혼란을 사랑하며, 드로우들의 희생을 요구하고, 그녀는 그것을 얻는다."""
 catlindra_2,dlg,ReplyList/21/Text,0,"""적어도 우리는 남성이 아니니, 더 나쁜 일이 될 수도 있습니다."""
 catlindra_2,dlg,ReplyList/22/Text,0,"""예, 남성들은 전혀 가치가 없습니다. 그들은 단지 필요한 전염병, 일회용, 벌레입니다""."
 catlindra_2,dlg,ReplyList/24/Text,0,"""나는 그런 일이 실제로 어떻게 될지 모르겠다."""
@@ -425,7 +425,7 @@ chaldara,dlg,EntryList/1/Text,0,"""티모라에게 맹세하건대, 네가 우�
 chaldara,dlg,EntryList/2/Text,0,"주의하세요, <he/she>는 어두운 엘프입니다."
 chaldara,dlg,EntryList/3/Text,0,"""헬름은 우리를 지키고 있어!"""
 chaldara,dlg,EntryList/4/Text,0,"""당신의 종이 표면에 나타난 이유는 무엇인가, 어둠의 자아? 여기에 오신 목적은 무엇인가?"""
-chaldara,dlg,EntryList/5/Text,0,"""이것은 드라너의 폐허이며, 전설적인 아름다움의 도시이다. 아름다운 도시 드라너를 모르고 있었다는 말인가?"""
+chaldara,dlg,EntryList/5/Text,0,"""이것은 미스 드란의 폐허이며, 전설적인 아름다움의 도시이다. 아름다운 도시 미스 드란을 모르고 있었다는 말인가?"""
 chaldara,dlg,EntryList/6/Text,0,"""당신은 여기서 도움을 찾을 수 없습니다, 어둠의 창조물!"""
 chaldara,dlg,EntryList/7/Text,0,"""안심해, 칼두라, 어둠의 엘프들이 악귀라고 한다. 왜 널 믿어야지?"""
 chaldara,dlg,EntryList/8/Text,0,"""그래서, 어둠의 존재여, 하지만 아직도 나는 확신하지 못해."" <StartAction>[그녀는 잠시 멈추고]</Start> ""두 가지를 모두 찾을 수도 있고, 다크나이트여, 하지만 문제도 있을 수 있어... 만약 하나를 찾기 시작한다면. 이제 우리를 따라가게."""
@@ -451,7 +451,7 @@ dalor,dlg,EntryList/10/Text,0,"""당신은 무기와 갑옷을 절실히 필요�
 dalor,dlg,EntryList/11/Text,0,"""만 한 가지만 해주실 수 있어..."""
 dalor,dlg,EntryList/12/Text,0,"""이 도시의 영광의 고령시대에는 '햄머피스트'라는 무기 제조사가 있었다""."
 dalor,dlg,EntryList/13/Text,0,"""그는 마법 무기와 갑옷을 만드는 장인이었고 공방은 남쪽 변두리에 있었소."""
-dalor,dlg,EntryList/14/Text,0,"""미스드라노르의 붕괴 후, 던바르는 수호자들과 함께 도시 중심부에서 마지막 방어선에서 사망했다는 전설에 따르면. 하지만 그의 작업실은 여전히 남아 있다."""
+dalor,dlg,EntryList/14/Text,0,"""미스 드란의 붕괴 후, 던바르는 수호자들과 함께 도시 중심부에서 마지막 방어선에서 사망했다는 전설에 따르면. 하지만 그의 작업실은 여전히 남아 있다."""
 dalor,dlg,EntryList/15/Text,0,"""던바의 공방에 가서 마법 제작에 관한 그의 기록을 찾아와. 가져오면 거래를 해 주지."""
 dalor,dlg,EntryList/16/Text,0,"""무슨 일이세요? 바쁘다는 걸 못 보시나요?"""
 dalor,dlg,EntryList/17/Text,0,"""내가 그 책을 일찍이 나 나중에 직접 찾아냈을 거야. 아마 꽤 쉽게 구할 수 있었을 거야""."
@@ -617,7 +617,7 @@ deekin,dlg,EntryList/133/Text,0,디킨은 새 보스와 많은 모험을 겪었�
 deekin,dlg,EntryList/134/Text,0,"새 보스는 익사, 눈알, 험구 짐승, 용 - 심지어 죽은 드래곤과 악마까지 싸웁니다."
 deekin,dlg,EntryList/135/Text,0,"디킨은 항상 옆에 있고, 도움을 주고, 메모를 쓰고 있습니다."
 deekin,dlg,EntryList/136/Text,0,"모험이 끝나면 새로운 보스가 휴식을 취하고, 디킨은 코볼드 마을로 돌아가려다 길을 잃는다."
-deekin,dlg,EntryList/137/Text,0,디킨은 트레이더와 만나 신화 드라너로 가는 위험한 여행에 합류한다.
+deekin,dlg,EntryList/137/Text,0,디킨은 트레이더와 만나 미스 드란으로 가는 위험한 여행에 합류한다.
 deekin,dlg,EntryList/138/Text,0,"노리언스는 많은 물건을 팔지만, 좋은 것도 있고 나쁜 것도 있다."
 deekin,dlg,EntryList/140/Text,0,디킨이 지상에 빠져나가는 걸을 숭배하고 있어!
 deekin,dlg,EntryList/142/Text,0,"디킨은 정말 미안해, 주인님!! 제발 상처 입지 마세요!"
@@ -711,7 +711,7 @@ deekin,dlg,ReplyList/174/Text,0,"""악마와 싸우기 위한 팁이 있나요, 
 deekin,dlg,ReplyList/175/Text,0,"""다른 기억이 있나?"""
 deekin,dlg,ReplyList/176/Text,0,"""그들은 악마와 싸우는 것을 좋아하나?"""
 deekin,dlg,ReplyList/177/Text,0,"""네 다른 이야기는 또 들려주지 그래."""
-deekin,dlg,ReplyList/178/Text,0,"""관찰자의 눈알을 본 적이 있나?"""
+deekin,dlg,ReplyList/178/Text,0,"""비홀더의 눈알을 본 적이 있나?"""
 deekin,dlg,ReplyList/180/Text,0,"""비홀더들과 어떻게 싸웠나?"""
 deekin,dlg,ReplyList/181/Text,0,"""아... """
 deekin,dlg,ReplyList/182/Text,0,"""드래곤에 대해 알고 있는 게 있나?"""
@@ -968,7 +968,7 @@ emrock,dlg,ReplyList/13/Text,0,"네, 여기 또 하나 있습니다."
 emrock,dlg,ReplyList/14/Text,0,보석과 귀걸이를 찾았어요. 여기 보세요.
 emrock,dlg,ReplyList/15/Text,0,"아니, 떠나야 합니다."
 emrock,dlg,ReplyList/16/Text,0,"네, 물건을 보여줘."
-emrock,dlg,ReplyList/17/Text,0,"""미스 드라너에서 발견할 수 있는 미술품과 보석은 어떤 것들이나요?"""
+emrock,dlg,ReplyList/17/Text,0,"""미스 드란에서 발견할 수 있는 미술품과 보석은 어떤 것들이나요?"""
 emrock,dlg,ReplyList/18/Text,0,"그 유적들은 매우 오래된 것처럼 보이는데, 어떻게 보물이 아직도 남아있을까?"
 emrock,dlg,ReplyList/19/Text,0,위대한 보물이 있는 흥미로운 장소는 있나요?
 emrock,dlg,ReplyList/20/Text,0,나는 떠나야 한다.
@@ -1039,7 +1039,7 @@ endconv,dlg,EntryList/46/Text,0,나는 네가 이 장소에서 표면으로 나�
 endconv,dlg,EntryList/47/Text,0,이 일은 쉬운 일이 아닙니다. 페룬의 많은 세력들이 이 유물을 당신에게서 가져오려고 노력할 것입니다.
 endconv,dlg,EntryList/48/Text,0,하지만 내가 항상 널 지켜볼 거야. 이제 가서 페룬의 표면세계에서 자신의 길을 찾아보시오.
 endconv,dlg,EntryList/49/Text,0,이곳을 떠나는 준비가 되셨나요?
-endconv,dlg,EntryList/50/Text,0,"앞으로 일어날 일에 대한 준비는 잘했군. 그러나 내 인내는 영원히 지속되지 않을 거라는 것을 기억하거라, 드워!"
+endconv,dlg,EntryList/50/Text,0,"앞으로 일어날 일에 대한 준비는 잘했군. 그러나 내 인내는 영원히 지속되지 않을 거라는 것을 기억하거라, 드로우!"
 endconv,dlg,EntryList/51/Text,0,나는 널 이곳에서 표면으로 데려가겠다. 거기서부터는 네가 나를 기쁘게 하는 길을 찾아가도록 하리라. 나는 너를 지켜볼 것이다.
 endconv,dlg,ReplyList/8/Text,0,이 지역에 많은 미타렐들이 있다고 들었습니다. 이 하나는 특별한 점이 무엇일까요?
 endconv,dlg,ReplyList/9/Text,0,당신들은 신들입니다. 왜 이 유물을 직접 가져가지 않으시겠습니까?
@@ -1073,7 +1073,7 @@ gaurldar,dlg,EntryList/7/Text,0,"""우리는 마스크를 입은 해적들입니
 gaurldar,dlg,EntryList/8/Text,0,"""나 자신을 잊기 전에 움직이거라, 암흑아!"""
 gaurldar,dlg,EntryList/9/Text,0,"""잠깐, 가울더. <He/She>는 유용할 수도 있다""."
 gaurldar,dlg,EntryList/10/Text,0,"""그게 무슨 뜻이야?"""
-gaurldar,dlg,EntryList/11/Text,0,"""어둠 속에서 볼 수 있나, 드워?"""
+gaurldar,dlg,EntryList/11/Text,0,"""어둠 속에서 볼 수 있나, 드로우?"""
 gaurldar,dlg,EntryList/12/Text,0,"""우리는 '별의 왕관'의 위치를 폐허에서 찾았지만, 그곳은 절대적인 어둠 속에 있습니다. 도와주실 수 있겠습니까?"""
 gaurldar,dlg,EntryList/13/Text,0,"""오, 어두운 친구가 어둠을 두려워하네. 아마 그럴 거야, 이는 그가 빛으로 도망치기 때문일 거야."""
 gaurldar,dlg,EntryList/14/Text,0,그러면 차분해지고 내 말을 들어보시오.
@@ -1129,7 +1129,7 @@ gundlar,dlg,EntryList/32/Text,0,"""전에 말씀드렸지만, 죽은 자들은 �
 gundlar,dlg,EntryList/33/Text,0,"""이 키를 가지고 가라. 서쪽 도시 문을 열 수 있으며, 묻힌 장소를 찾아보아라. 죽은 자들에 대한 단서가 있을 것이다. 만약 바이란트가 이것과 관련 있다면 그도 거기에 있을 것이다. 바이란트를 살아가게 데리고 돌아오기를 바라지만, 죽은 자들을 막기 위해 필요한 모든 것을 해라."""
 gundlar,dlg,EntryList/34/Text,0,"""그들은 서쪽 도시 가장자리에 있습니다. 서쪽 도시 문을 통해 외곽을 지나가십시오. 모든 수색자들이 우리 영토를 확보해야 합니다. 더 많은 시간을 주시어 도와주시기 바랍니다. 당신들은 충분히 능력이 있습니다."""
 gundlar,dlg,EntryList/35/Text,0,"""이제 가세요. 여주님께서 보고를 기다리고 계십니다..."""
-gundlar,dlg,EntryList/36/Text,0,"""유적에서 발견한 모든 보물을 보관할 수 있습니다. 이것은 내가 줄 수 있는 것보다 훨씬 더 많은 것입니다. 미스터 드란노르는 여전히 페어룬에서 가장 큰 보물을 보유하고 있습니다. 이는 당신에게 충분히 보상이 될 것입니다."""
+gundlar,dlg,EntryList/36/Text,0,"""유적에서 발견한 모든 보물을 보관할 수 있습니다. 이것은 내가 줄 수 있는 것보다 훨씬 더 많은 것입니다. 미스터 미스 드란은 여전히 페어룬에서 가장 큰 보물을 보유하고 있습니다. 이는 당신에게 충분히 보상이 될 것입니다."""
 gundlar,dlg,EntryList/38/Text,0,"""로릴! 우리 친구 는 그러한 원칙 을 배우지 않았다. <He/She>는 익사 해! 우리 는 우리 의 예 를 통해 <him/her>을 올바른 길로 인도 해야 한다""."
 gundlar,dlg,EntryList/39/Text,0,"""그러나 서쪽 도시 문은 잠겨 있어 열쇠 없이 통과할 수 없다."""
 gundlar,dlg,EntryList/40/Text,0,"""로릴, 당신이 맞습니다만, 벽이 너무 많이 뚫려 있고, 우리 적이 게이트 열쇠를 가지고 있다면 어떡하지? 그리고 베란트가 이 사건에 실제로 연루되어 있다면, 우리 열쇠의 복제품을 가지고 있을지도 모릅니다."""
@@ -1275,16 +1275,16 @@ gundlar,dlg,ReplyList/117/Text,0,"""왜 너 같은 멍청한 남자한테 내가
 gundlar,dlg,ReplyList/119/Text,0,<StartAction> [잠잠]</Start>
 gundlar2,dlg,EntryList/0/Text,0,"""환영합니다, 친구님. 교단 숲에서 당신의 큰 도움에 대해 감사드립니다. 거의 혼자서 그 교단 사람들을 물리쳤다고 들었습니다. 매우 인상적입니다, 정말."""
 gundlar2,dlg,EntryList/1/Text,0,"""좋아, 드론로 신화로 안내하는 비정상적인 방식에 대해 미안하지만 시간 낭비할 시간이 없었어요""."
-gundlar2,dlg,EntryList/2/Text,0,"""우리 친구 켈벤은 그녀를 돌보고 있습니다. 그녀는 미스 드라너 외곽의 안전한 장소로 데려가졌고, 지금은 괜찮습니다."""
+gundlar2,dlg,EntryList/2/Text,0,"""우리 친구 켈벤은 그녀를 돌보고 있습니다. 그녀는 미스 드란 외곽의 안전한 장소로 데려가졌고, 지금은 괜찮습니다."""
 gundlar2,dlg,EntryList/3/Text,0,"""우리는 아직 확실하지 않습니다. 우리가 할 수 있는 것은 그 는 특이한 형태의 마법 에너지였다는 것 입니다""."
 gundlar2,dlg,EntryList/4/Text,0,"""당신은 더 이상 우리에게 배신자와 살인자가 아니야, 어둠의 엘프. 당신이 우리를 위해 한 모든 일에 대해 우리는 깊은 빚을 지고 있어."""
 gundlar2,dlg,EntryList/5/Text,0,"""죄송합니다, 귀하, 하지만 우리는 당신을 모르고, 우리의 여행 수단은 우리에게만 작동합니다..."""
-gundlar2,dlg,EntryList/6/Text,0,"""사랑하는 친구 여러분, 자식이 어디 있어요? 먼저 제대로 된 소개로 시작해 보겠습니다. 제 이름은 알레카트라이고, 저는 Dawnspire의 아비세입니다. 신화 드라너의 재건을 감독하는 것이 제 의무입니다."
+gundlar2,dlg,EntryList/6/Text,0,"""사랑하는 친구 여러분, 자식이 어디 있어요? 먼저 제대로 된 소개로 시작해 보겠습니다. 제 이름은 알레카트라이고, 저는 Dawnspire의 아비세입니다. 미스 드란의 재건을 감독하는 것이 제 의무입니다."
 gundlar2,dlg,EntryList/7/Text,0,"""신사님, 신녀님, 저는 <he/she>가 당신의 영광스러운 이름을 모르는 것을 잊었습니다. 모든 지상인들은 알고 있습니다."""
 gundlar2,dlg,EntryList/10/Text,0,<StartAction>#</Start>########################################################################################################################################################################################################################################################
 gundlar2,dlg,EntryList/11/Text,0,"""진짜. 당신은 이미 그를 만났다고 들었고, 적어도 그의 정신적 투영이라고."""
 gundlar2,dlg,EntryList/12/Text,0,"""티란트락서스는 북부의 끝없는 무리를 자신의 의지 아래 통합했어. 그의 정신력은 이 존재 차원에서 견줄 자가 없어."""
-gundlar2,dlg,EntryList/13/Text,0,"신화 드란노르의 붕괴 기간 동안 인드란트 탑의 지하실에 함정이 설치되었습니다. 여섯 명의 마법사들이 마법을 사용하여 외계 감옥을 만들었습니다. 티란트라크스가 피와 힘에 대한 굶주림으로 그들을 공격했을 때, 그는 다른 차원에서 자신을 봉인했습니다."
+gundlar2,dlg,EntryList/13/Text,0,"미스 드란의 붕괴 기간 동안 인드란트 탑의 지하실에 함정이 설치되었습니다. 여섯 명의 마법사들이 마법을 사용하여 외계 감옥을 만들었습니다. 티란트라크스가 피와 힘에 대한 굶주림으로 그들을 공격했을 때, 그는 다른 차원에서 자신을 봉인했습니다."
 gundlar2,dlg,EntryList/14/Text,0,"""내 친구, 당신의 지식이 인상적이다. 당신의 말은 항상 지혜의 샘물이다."""
 gundlar2,dlg,EntryList/15/Text,0,"""엘민스터는 그 여섯 명 중 한 명이었다..."""
 gundlar2,dlg,EntryList/16/Text,0,그들은 신화 드라너의 원사지였으며 그들의 이름은 코르망토르 밖에서 오랫동안 잊혀졌습니다. 그들 중 네 명은 그의 감옥에서 티란트라크스를 보관하는 마법의 봉기를 활성화하기 위해 목숨을 희생했습니다.
@@ -1338,7 +1338,7 @@ ilueth,dlg,EntryList/7/Text,0,"""우리는 마스크를 입은 해적들입니�
 ilueth,dlg,EntryList/8/Text,0,"""나 자신을 잊기 전에 움직이거라, 암흑아!"""
 ilueth,dlg,EntryList/9/Text,0,"""잠깐, 가울더. <He/She>는 유용할 수도 있다""."
 ilueth,dlg,EntryList/10/Text,0,"""그게 무슨 뜻이야?"""
-ilueth,dlg,EntryList/11/Text,0,"""어둠 속에서 볼 수 있나, 드워?"""
+ilueth,dlg,EntryList/11/Text,0,"""어둠 속에서 볼 수 있나, 드로우?"""
 ilueth,dlg,EntryList/12/Text,0,"""우리는 '별의 왕관'의 위치를 폐허에서 찾았지만, 그곳은 절대적인 어둠 속에 있습니다. 도와주실 수 있겠습니까?"""
 ilueth,dlg,EntryList/13/Text,0,"""오, 어두운 친구가 어둠을 두려워하네. 아마 그럴 거야, 이는 그가 빛으로 도망치기 때문일 거야."""
 ilueth,dlg,EntryList/14/Text,0,그러면 차분해지고 내 말을 들어보시오.
@@ -1370,7 +1370,7 @@ irlon,dlg,EntryList/7/Text,0,"""우리는 마스크를 입은 해적들입니다
 irlon,dlg,EntryList/8/Text,0,"""나 자신을 잊기 전에 움직이거라, 암흑아!"""
 irlon,dlg,EntryList/9/Text,0,"""잠깐, 가울더. <He/She>는 유용할 수도 있다""."
 irlon,dlg,EntryList/10/Text,0,"""그게 무슨 뜻이야?"""
-irlon,dlg,EntryList/11/Text,0,"""어둠 속에서 볼 수 있나, 드워?"""
+irlon,dlg,EntryList/11/Text,0,"""어둠 속에서 볼 수 있나, 드로우?"""
 irlon,dlg,EntryList/12/Text,0,"""우리는 '별의 왕관'의 위치를 폐허에서 찾았지만, 그곳은 절대적인 어둠 속에 있습니다. 도와주실 수 있겠습니까?"""
 irlon,dlg,EntryList/13/Text,0,"""오, 어두운 친구가 어둠을 두려워하네. 아마 그럴 거야, 이는 그가 빛으로 도망치기 때문일 거야."""
 irlon,dlg,EntryList/14/Text,0,그러면 차분해지고 내 말을 들어보시오.
@@ -1406,27 +1406,27 @@ jandeth,dlg,EntryList/1/Text,0,"""티모라에게 맹세하건대, 네가 우리
 jandeth,dlg,EntryList/2/Text,0,"""<he/she>은 어두운 엘프, 어둠 속의 비참한 존재!"""
 jandeth,dlg,EntryList/3/Text,0,헬름을 기원한다. 우리는 스스로를 방어해야 한다!
 jandeth,dlg,EntryList/4/Text,0,"""당신의 종족이 표면에 나타난 이유는 무엇이며, 여기서 무엇을 원하는가?"""
-jandeth,dlg,EntryList/5/Text,0,"""이것은 드라너의 폐허이며, 전설적인 아름다움의 도시이다. 아름다운 도시 드라너를 모르고 있었다는 말인가?"""
+jandeth,dlg,EntryList/5/Text,0,"""이것은 미스 드란의 폐허이며, 전설적인 아름다움의 도시이다. 아름다운 도시 미스 드란을 모르고 있었다는 말인가?"""
 jandeth,dlg,EntryList/6/Text,0,"""당신은 여기서 도움을 찾을 수 없습니다, 어둠의 창조물!"""
 jandeth,dlg,EntryList/7/Text,0,"칼두라, 진정해. 어둠의 엘프들이 악마라고 한다. 왜 넌 믿어야 하는가?"
 jandeth,dlg,EntryList/8/Text,0,"<StartAction>[생각적으로]</Start> ""좋아요, 하지만 여전히 확신이 없습니다. 우리는 당신을 Dawnspire로 데려갈 것입니다. 나는 확신합니다, 그들은 당신이 원하는 것을 얻을 것입니다. 그리고 어쩌면 더 ... """
 jandeth,dlg,EntryList/9/Text,0,"""음, 당신 같은 사람을 만나본 적이 없네요. 당신을 믿고 싶지만, 난 바보가 아닙니다. Dawnspire로 따라와 주세요. 나는 확신합니다. 그들은 당신이 원하는 것들을 가질 것이고, 어쩌면 더 많은 것을 가지고 있을지도 모르겠습니다."""
 jandeth,dlg,ReplyList/3/Text,0,"""이 숲에서 길을 잃은 것 같아. 이 곳은 어디야?"""
-jandeth,dlg,ReplyList/4/Text,0,"""드라너 신화... 정말 우연이야..."""
+jandeth,dlg,ReplyList/4/Text,0,"""미스 드란 신화... 정말 우연이야..."""
 jandeth,dlg,ReplyList/6/Text,0,"""그 맹수들을 도와주지 않았나? 이 싸움에서 이길 수 있는 건 아무것도 없었어."""
 jandeth,dlg,ReplyList/8/Text,0,"""대부분의 졸음들은 악하지만 일부는 그렇지 않다. 나는 그들 중 하나다."""
 jarner,dlg,EntryList/0/Text,0,"""이렇게 거칠게 할 필요는 없어. 왜 나에게 왔는가?"""
 jarner,dlg,EntryList/1/Text,0,"""왜 제 공부를 방해하나 ...""<StartAction>[눈이 놀라 넓어지며]</Start> ""... 드냐?"""
-jarner,dlg,EntryList/2/Text,0,"""매우 흥미롭군요. 당신은 드워브이고 Dawnspire에서 공개적으로 머물 수 있나요?"""
+jarner,dlg,EntryList/2/Text,0,"""매우 흥미롭군요. 당신은 드로우브이고 Dawnspire에서 공개적으로 머물 수 있나요?"""
 jarner,dlg,EntryList/3/Text,0,"""드론로 신화는 놀라움으로 가득차 있습니다. 당신은 임무에 참여하고 싶습니까?"""
-jarner,dlg,EntryList/4/Text,0,"""드라너 신화의 몰락""을 발견하면 너는 큰 보상을 받게 될 것이다."
+jarner,dlg,EntryList/4/Text,0,"""미스 드란 신화의 몰락""을 발견하면 너는 큰 보상을 받게 될 것이다."
 jarner,dlg,EntryList/5/Text,0,"""나는 이 곳으로 드라너 신화의 몰락을 알기 위해 왔지만, 이 곳은 위험한 곳이고, 나는 전사가 아니다""."
 jarner,dlg,EntryList/6/Text,0,"""미스 드란의 현자 아벤버는 사랑하던 아름다움의 도시의 마지막 날들을 기록한 연대기를 썼소. 제목은 '미스 드란의 몰락'이었소."""
 jarner,dlg,EntryList/7/Text,0,"""아벤버의 작품은 코르망토르 성의 도서관에 보관되어 있었다. 아마 그의 마지막 걸작도 그곳에서 발견될 수 있을 거야. 가져와주면 너에게 대단한 보상을 주마."""
 jarner,dlg,EntryList/8/Text,0,"""당신은 후회하지 않을 거예요."""
 jarner,dlg,EntryList/9/Text,0,"""하지만 잠깐만요. 아마 그럴 거야, 당신의 고향에 대해 몇 마디 할 수 있을지도 모릅니다. 또한 나에게는 책과 상품이 많이 있고, 가격도 공정하죠. 당신 생각에는 어떨까요?"""
 jarner,dlg,EntryList/10/Text,0,"""우리 표면 거주자들 사이에 전해진 바로는 너희 도시들은 여성 사제들이 이끌고 있다고 하네. 맞나?"""
-jarner,dlg,EntryList/11/Text,0,"""나는 이해했습니다. 상품을 둘러보시겠습니까? 나는 상인이 아니지만, 신화 드라너르에서 살기란 비싸죠. 유용한 것을 발견하실 거예요."""
+jarner,dlg,EntryList/11/Text,0,"""나는 이해했습니다. 상품을 둘러보시겠습니까? 나는 상인이 아니지만, 미스 드란르에서 살기란 비싸죠. 유용한 것을 발견하실 거예요."""
 jarner,dlg,EntryList/12/Text,0,"""흥미롭군요. 그들은 자신들의 통치를 어떻게 정당화하나요? 아이를 낳을 수 있다는 점 때문인가요?"""
 jarner,dlg,EntryList/13/Text,0,"""매우 흥미롭습니다. 아직 많은 질문이 있습니다."""
 jarner,dlg,EntryList/14/Text,0,"""오, 방해해줘서 미안해, 나한테 뭐라도 필요해?"
@@ -1439,7 +1439,7 @@ jarner,dlg,EntryList/22/Text,0,"<StartAction>[시트를 주워 모으며 살금�
 jarner,dlg,EntryList/23/Text,0,여기 이 500gp를 가져가세요. pergament의 질은 훌륭합니다. 얼마나 잘 보존되어 있습니다. 거의 새로운 ...
 jarner,dlg,EntryList/24/Text,0,"""나는 그런 시스템을 읽었습니다. 이 시스템은 경과의 말로 트리거되었습니다. 더 많은 정보를 얻기 위해 마을 행정관과 코르망토르 성을 탐색하십시오."""
 jarner,dlg,EntryList/25/Text,0,"""아벤버의 기록은 어때?"""
-jarner,dlg,EntryList/26/Text,0,"""아, 내 드로프 친구가 돌아왔군. 이번엔 어떻게 도와드릴 수 있을까?"""
+jarner,dlg,EntryList/26/Text,0,"""아, 내 드로우프 친구가 돌아왔군. 이번엔 어떻게 도와드릴 수 있을까?"""
 jarner,dlg,EntryList/27/Text,0,"""아벤버의 기록에서 발견한 모든 것을 이미 말씀드렸다."""
 jarner,dlg,EntryList/28/Text,0,"""아벤버의 책은 정말 매력적입니다. 드라너 신화의 붕괴는 환상과 꿈으로 예측되었습니다""."
 jarner,dlg,EntryList/29/Text,0,"""아벤버는 신화 드라너의 비극이 원래 코르망트 엘프들이 직접 일으킨다고 말해줍니다""."
@@ -1448,24 +1448,24 @@ jarner,dlg,EntryList/31/Text,0,"""이 사건으로 세 마녀가 석방되었습
 jarner,dlg,EntryList/32/Text,0,"""세 사람은 군대를 세우는 데 몇 년을 보냈고, 그리고 절망적인 엘프들의 해의 늦은 가을에 우리 달력에서 711 D.R.의 해에"
 jarner,dlg,EntryList/33/Text,0,"""그들은 돌아와 코르망토르를 공격했고, 많은 마을과 부족의 성지들을 파괴했습니다."""
 jarner,dlg,EntryList/34/Text,0,"""이것은 '비침의 전쟁'의 시작이었다. 신화 드라너의 깃발 아래 연합한 북의 자유 민족들이 어둠의 군대와 불의 연... 713 D.R."
-jarner,dlg,EntryList/35/Text,0,"""이러한 시기에는 많은 영웅들이 죽음을 맞이했고, 결국 신화 드라너는 암흑의 군대에 의해 함락되었다."""
+jarner,dlg,EntryList/35/Text,0,"""이러한 시기에는 많은 영웅들이 죽음을 맞이했고, 결국 미스 드란은 암흑의 군대에 의해 함락되었다."""
 jarner,dlg,EntryList/36/Text,0,"""아벤버의 기록은 몰락 전날에서 끝납니다. 그는 마지막 전투에서 죽었습니다. 세 번째 악마인 타란트라크스에게 무슨 일이 있었는지는 전혀 모릅니다. 폐허 어딘가에서 단서를 찾을 수 있을지도 모르겠군요."""
 jarner,dlg,EntryList/37/Text,0,"""마지막에 그 세 마녀에 대해 물어봤는데, 기억나?"""
 jarner,dlg,EntryList/38/Text,0,"""암흑의 군대의 지도자들, 기억나지 않나요?"""
 jarner,dlg,EntryList/39/Text,0,"""세 사람은 군대를 세우는 데 몇 년을 보냈고, 그리고 절망적인 엘프들의 해의 늦은 가을에 우리 달력에서 711 D.R.의 해에"
 jarner,dlg,EntryList/40/Text,0,"""그들은 돌아와 코르망토르를 공격했고, 많은 마을과 부족의 성지들을 파괴했습니다."""
 jarner,dlg,EntryList/41/Text,0,"""이것은 '비침의 전쟁'의 시작이었다. 신화 드라너의 깃발 아래 연합한 북의 자유 민족들이 어둠의 군대와 불의 연... 713 D.R."
-jarner,dlg,EntryList/42/Text,0,"""이러한 시기에는 많은 영웅들이 죽음을 맞이했고, 결국 신화 드라너는 암흑의 군대에 의해 함락되었다."""
+jarner,dlg,EntryList/42/Text,0,"""이러한 시기에는 많은 영웅들이 죽음을 맞이했고, 결국 미스 드란은 암흑의 군대에 의해 함락되었다."""
 jarner,dlg,EntryList/43/Text,0,"""저는 솔직히 모릅니다. 그 위치에 대해 아무것도 발견하지 못했습니다."""
 jarner,dlg,EntryList/44/Text,0,"""아벤버의 기록은 추락 전날에 끝납니다. 그는 마지막 전투에서 사망했습니다. 나는 티란트라크스에게 무슨 일이 있었는지 모르겠어요. 그게 그의 이름입니다. 그는 다시는 언급되지 않았습니다. 아마도 당신은 유적에서 어딘가에 단서를 찾을 수 있습니다""."
-jarner,dlg,EntryList/45/Text,0,"""마지막에 드라너 신화에 대해 이야기했을 때, 어둠의 군대의 기원에 대해 물어봤어, 기억나?"""
+jarner,dlg,EntryList/45/Text,0,"""마지막에 미스 드란 신화에 대해 이야기했을 때, 어둠의 군대의 기원에 대해 물어봤어, 기억나?"""
 jarner,dlg,EntryList/46/Text,0,"""어둠의 군대는 결국 신화 드라너를 공격하고 파괴한 군대가 되었다"""
 jarner,dlg,EntryList/47/Text,0,"""알겠습니다. 아쉽지만, 더 도와드릴 일이 있으신가요?"""
-jarner,dlg,EntryList/48/Text,0,"""아벤버는 우리에게 드라너의 비극이 원래 코르망타인 엘프들 스스로가 일으킨 것이라고 말한다."""
+jarner,dlg,EntryList/48/Text,0,"""아벤버는 우리에게 미스 드란의 비극이 원래 코르망타인 엘프들 스스로가 일으킨 것이라고 말한다."""
 jarner,dlg,EntryList/49/Text,0,"""엘프 마법사들은 타락한 신 모안더를 숭배하는 사악한 짐승들과 문외한 숭배자들을 격퇴하기 위해 그의 타락한 성전 근처에서 싸웠다."""
 jarner,dlg,EntryList/50/Text,0,"""이 사건으로 3명의 악마가 석방되었습니다. 그 세 명은 연합하여 모뉴스 지역의 땅을 정복하기 위해 어둠의 군대를 구성했습니다""."
 jarner,dlg,EntryList/51/Text,0,"흥미로운 질문입니다. 아직 모르겠지만, 아벤버가 말해줄 것이라고 확신합니다. 며칠 후에 다시 오세요."
-jarner,dlg,EntryList/52/Text,0,"""아벤버의 책은 정말 흥미롭습니다. 제가 알기로는... 아벤버가 쓴 책은 매우 어려운 편입니다. 아벤버는 거의 잊혀진 북부 방언을 사용해서... 무이드라노르의 멸망은 예지와 꿈에서 예측되었습니다."""
+jarner,dlg,EntryList/52/Text,0,"""아벤버의 책은 정말 흥미롭습니다. 제가 알기로는... 아벤버가 쓴 책은 매우 어려운 편입니다. 아벤버는 거의 잊혀진 북부 방언을 사용해서... 무이미스 드란의 멸망은 예지와 꿈에서 예측되었습니다."""
 jarner,dlg,EntryList/53/Text,0,"""그들은 암흑의 군대와 수년 동안 싸웠지만 결국에는 충분히 강하지 못했습니다."""
 jarner,dlg,EntryList/54/Text,0,흥미로운 질문입니다. 현대 과학은 아직 답변을 찾지 못하고 있습니다. 하지만 아벤버의 연대기에서 답을 찾을 수 있을지도 모릅니다. 운이 좋다면 몇 일 후에...
 jarner,dlg,EntryList/55/Text,0,"""다른 것?"""
@@ -1614,7 +1614,7 @@ jinn,dlg,EntryList/1/Text,0,"""7개의 검을 찾았나요?"""
 jinn,dlg,EntryList/2/Text,0,6개의 부분을 찾았어 네 탐욕이 널 내게로 데려다 줄 줄 알았어
 jinn,dlg,EntryList/3/Text,0,여섯 자루의 칼을 주세요.
 jinn,dlg,EntryList/4/Text,0,전설적인 검으로 만들 수 없을 거야. 그들을 나에게 주어.
-jinn,dlg,EntryList/5/Text,0,"난 바보가 아니야, 드워브. 칼을 주면 내가 해볼게."
+jinn,dlg,EntryList/5/Text,0,"난 바보가 아니야, 드로우브. 칼을 주면 내가 해볼게."
 jinn,dlg,EntryList/6/Text,0,당신은 아무런 요구도 할 수 없는 위치에 있지 않나. 지금 즉시 칼을 내어주게.
 jinn,dlg,EntryList/7/Text,0,"""당신은 항상 같은 사람이에요. 당신의 보상은 당신의 삶입니다. 어둠의 엘프."
 jinn,dlg,EntryList/8/Text,0,"""결국. 그 부분을 얼마나 오랫동안 찾았는지 몰랐어. 네가 제 창조물 컬렉션에 훌륭한 추가가 될 거야."""
@@ -1627,15 +1627,15 @@ jinn,dlg,EntryList/14/Text,0,아르토는 함정이 튀었을 때 정신을 잃�
 jinn,dlg,EntryList/15/Text,0,어쩌면 그는 환상을 보았을 거야. 내가 그를 찾아가서 상황을 바로잡아야 해. 그는 어디에 있을까?
 jinn,dlg,EntryList/16/Text,0,"맞아, 약속은 지키겠어."
 jinn,dlg,EntryList/17/Text,0,드라난의 신화 연구에서 전설적인 검에 대한 정보를 찾았습니다.
-jinn,dlg,EntryList/18/Text,0,"그것은 강력한 무기였고, 많은 능력과 힘을 가진 유물이었다. 신화 드라너의 멸망과 함께 사라졌으며, 다시는 볼 수 없었다."
-jinn,dlg,EntryList/19/Text,0,"많은 사람들이 이 유물이 사라졌거나 다른 평면으로 끌려갔다고 생각했지만, 여전히 드라너에 있습니다."
+jinn,dlg,EntryList/18/Text,0,"그것은 강력한 무기였고, 많은 능력과 힘을 가진 유물이었다. 미스 드란의 멸망과 함께 사라졌으며, 다시는 볼 수 없었다."
+jinn,dlg,EntryList/19/Text,0,"많은 사람들이 이 유물이 사라졌거나 다른 평면으로 끌려갔다고 생각했지만, 여전히 미스 드란에 있습니다."
 jinn,dlg,EntryList/20/Text,0,"드란노르 신화가 무너질 것이 분명해졌을 때, 엔일린은 일곱 부분으로 나뉘어졌지만, 마법의 분할이었죠. 그리고 그 위대한 유물의 조각들은 일곱 개의 검으로 바뀌었습니다."
-jinn,dlg,EntryList/21/Text,0,그들을 찾는 것은 내 작업의 어려운 부분이다. 그들은 신화 드란노르의 귀족 챔피언들에게 주어졌다고 한다.
+jinn,dlg,EntryList/21/Text,0,그들을 찾는 것은 내 작업의 어려운 부분이다. 그들은 미스 드란의 귀족 챔피언들에게 주어졌다고 한다.
 jinn,dlg,EntryList/22/Text,0,"그렇게 하려고 했지만, 드라너 신화는 매우 위험하고, 지금은 혼자 있어요."
 jinn,dlg,EntryList/23/Text,0,왜 나를 믿어야 하지?
 jinn,dlg,EntryList/24/Text,0,"""좋은"" 드로우는 들어보지 못했어."
 jinn,dlg,EntryList/25/Text,0,"선택의 여지가 없지만, 날 속이려는 기회는 없을 거야."
-jinn,dlg,EntryList/26/Text,0,"엔일로의 일곱 조각은 드란노르 신화의 가장 신뢰할 수 있는 챔피언들에게 주어졌습니다. 그리고 추락 후에는 여기에 남아, 숨겨져 있고 잘 보호되어 있었습니다. 그 모든 조각들은 마법의 검처럼 보이며, 칼날에 ""일곱 중 하나""라는 이름이 새겨져 있습니다."
+jinn,dlg,EntryList/26/Text,0,"엔일로의 일곱 조각은 미스 드란 신화의 가장 신뢰할 수 있는 챔피언들에게 주어졌습니다. 그리고 추락 후에는 여기에 남아, 숨겨져 있고 잘 보호되어 있었습니다. 그 모든 조각들은 마법의 검처럼 보이며, 칼날에 ""일곱 중 하나""라는 이름이 새겨져 있습니다."
 jinn,dlg,EntryList/27/Text,0,"우리는 노래의 집에서 그 조각 중 하나를 기대했고 그것을 찾았지만, 아르토는 그걸 가지고 도망쳤다."
 jinn,dlg,EntryList/28/Text,0,나머지 조각은 오글로르나 네이드레 같은 대가문의 지하 묘지에서 찾을 수 있을 거야. 또 하나는 샨다우쿨의 옥좌에 있을 거고. 성에서 더 많은 정보를 얻을 수 있을지도 몰라.
 jinn,dlg,EntryList/29/Text,0,"부품을 찾는 것은 하나이지만, 다시 조합하는 것은 또 다른 일이에요. 없이 당신은 결코 성공할 수 없으니, 나를 속이려고 하지 마세요."
@@ -1678,7 +1678,7 @@ jinn,dlg,ReplyList/27/Text,0,같이 일하면 어떨까?
 jinn,dlg,ReplyList/28/Text,0,미엘리키가 나를 그녀의 아바타로 받아들였습니다. 이젠 당신도 충분히 믿을 수 있어야 합니다.
 jinn,dlg,ReplyList/29/Text,0,미엘리키가 나를 그녀의 아바타로 받아들였습니다. 이젠 당신도 충분히 믿을 수 있어야 합니다.
 jinn,dlg,ReplyList/30/Text,0,미엘리키가 나를 그녀의 아바타로 받아들였습니다. 이젠 당신도 충분히 믿을 수 있어야 합니다.
-jinn,dlg,ReplyList/31/Text,0,난 배신자야. 나는 '좋은' 드루이드가 되고자 노력해.
+jinn,dlg,ReplyList/31/Text,0,난 배신자야. 나는 '좋은' 드로우가 되고자 노력해.
 jinn,dlg,ReplyList/32/Text,0,<StartCheck>[설득]</Start> 이제는 하나가 보이기까지 하잖아. 날 믿어.
 jinn,dlg,ReplyList/39/Text,0,내가 널 해방시켰잖아. 이거 충분하지 않니?
 jinn,dlg,ReplyList/41/Text,0,<StartAction>[위협]</Start> 내가 경고해 봐. 네가 나에게 정보를 공유해야 할 것이다.
@@ -1696,17 +1696,17 @@ kaldura,dlg,EntryList/0/Text,0,"""카틀린드라는 당신을 믿을 수도 있
 kaldura,dlg,EntryList/1/Text,0,"""<he/she>은 어두운 엘프, 어둠 속의 비참한 존재!"""
 kaldura,dlg,EntryList/2/Text,0,헬름을 기원한다. 우리는 스스로를 방어해야 한다!
 kaldura,dlg,EntryList/3/Text,0,"""당신의 종족이 표면에 나타난 이유는 무엇이며, 여기서 무엇을 원하는가?"""
-kaldura,dlg,EntryList/4/Text,0,"""이것은 드라너의 폐허이며, 전설적인 아름다움의 도시이다. 아름다운 도시 드라너를 모르고 있었다는 말인가?"""
+kaldura,dlg,EntryList/4/Text,0,"""이것은 미스 드란의 폐허이며, 전설적인 아름다움의 도시이다. 아름다운 도시 미스 드란을 모르고 있었다는 말인가?"""
 kaldura,dlg,EntryList/5/Text,0,"""당신은 여기서 도움을 찾을 수 없습니다, 어둠의 창조물!"""
 kaldura,dlg,EntryList/6/Text,0,"칼두라, 잠시 분노를 진정시켜. 어둠의 엘프들이 악마라고 한다는 말을 들었네. 왜 우리가 널 믿어야 하는지 말해봐."
 kaldura,dlg,EntryList/7/Text,0,"<StartAction>[생각적으로]</Start> ""좋아요, 하지만 여전히 확신이 없습니다. 우리는 당신을 Dawnspire로 데려갈 것입니다. 나는 확신합니다, 그들은 당신이 원하는 것을 얻을 것입니다. 그리고 어쩌면 더 ... """
 kaldura,dlg,EntryList/8/Text,0,"""음, 당신 같은 사람을 만나본 적이 없네요. 당신을 믿고 싶지만, 난 바보가 아닙니다. Dawnspire로 따라와 주세요. 나는 확신합니다. 그들은 당신이 원하는 것들을 가질 것이고, 어쩌면 더 많은 것을 가지고 있을지도 모르겠습니다."""
 kaldura,dlg,ReplyList/2/Text,0,이 숲에서 길을 잃은 것 같아. 이곳은 어디야?
-kaldura,dlg,ReplyList/3/Text,0,"""드라너 신화... 정말 우연이야..."""
+kaldura,dlg,ReplyList/3/Text,0,"""미스 드란 신화... 정말 우연이야..."""
 kaldura,dlg,ReplyList/5/Text,0,"""그 맹수들을 도와주지 않았나? 이 싸움에서 이길 수 있는 건 아무것도 없었어."""
 kaldura,dlg,ReplyList/7/Text,0,"""대부분의 졸음들은 악하지만 일부는 그렇지 않다. 나는 그들 중 하나다."""
 lauric,dlg,EntryList/0/Text,0,그래서 당신은 우리 캠프의 새로운 매력이 되었습니다. 진짜 살아있는 익사 군인으로 우리 세력에 추가되었습니다. 어둠의 태양의 영광의 징후입니다.
-lauric,dlg,EntryList/1/Text,0,"저는 로릭입니다. 어둠의 태양의 대제사관이며, 드라너의 어두운 주교입니다. 무릎을 꿇고, 필사자 사이릭이 신들의 신이 된 것에 대해 들어보세요."
+lauric,dlg,EntryList/1/Text,0,"저는 로릭입니다. 어둠의 태양의 대제사관이며, 미스 드란의 어두운 주교입니다. 무릎을 꿇고, 필사자 사이릭이 신들의 신이 된 것에 대해 들어보세요."
 lauric,dlg,EntryList/2/Text,0,신자들이 모여서 거짓의 대공 크리릭의 이야기를 들어보세요.
 lauric,dlg,EntryList/4/Text,0,발걸음 치고 거짓의 대공의 영광을 찬양하라
 lauric,dlg,EntryList/5/Text,0,"넌 운명을 봉인해버렸어, 무신한 쓰레기"
@@ -1786,7 +1786,7 @@ lauril,dlg,EntryList/73/Text,0,"""무엇을 원하십니까?"""
 lauril,dlg,EntryList/74/Text,0,당신은 확실합니까? 저는 많은 의무가 있어 여기서 기다릴 수 없습니다.
 lauril,dlg,EntryList/75/Text,0,"난 다시 빛의 정상으로 돌아가고, 다시 필요하다면 모루의 브랜도에게 물어봐."
 lauril,dlg,EntryList/76/Text,0,"""미드드란노는 많은 비밀을 숨기고 있습니다. 이 질문에 답변하기 위해서는 더 많은 시간이 필요할 것 같습니다. 다른 것이 있습니까?"""
-lauril,dlg,EntryList/77/Text,0,"""나는 많은 것을 배웠다. 드라너는 신비로 가득한 신화로 가득하다. 더 필요한 것이 있나?"""
+lauril,dlg,EntryList/77/Text,0,"""나는 많은 것을 배웠다. 미스 드란은 신비로 가득한 신화로 가득하다. 더 필요한 것이 있나?"""
 lauril,dlg,EntryList/78/Text,0,내가 뭘 해야겠어?
 lauril,dlg,EntryList/79/Text,0,"걱정 마. 나는 꽤 많은 전투 훈련을 받았고, 어떻게 싸울지 잘 안다."
 lauril,dlg,EntryList/80/Text,0,- 더 필요한 것이 있나?
@@ -1806,7 +1806,7 @@ lauril,dlg,EntryList/93/Text,0,얼마나 슬퍼.
 lauril,dlg,EntryList/94/Text,0,"당신의 문화는 너무 차가워요, 너무 악랄한 것 같아. 동정심은 여러분의 사회에서는 가치가 없습니다."
 lauril,dlg,EntryList/95/Text,0,"이건 참 슬프고, 참 슬프고... 나는 우리가 가야 할 것 같아."
 lauril,dlg,EntryList/96/Text,0,우리 기본적인 교육 기간 동안 종교를 공부하면서 페룬의 신들에 대해 알게 되었습니다.
-lauril,dlg,EntryList/97/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 신화 드란노르는 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
+lauril,dlg,EntryList/97/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 미스 드란은 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
 lauril,dlg,EntryList/98/Text,0,하지만 신화의 몰락으로 드라너의 힘은 줄어들었고 그의 믿음은 거의 잊혀졌습니다.
 lauril,dlg,EntryList/99/Text,0,그러나 산다쿨루는 고군분투의 시대 이후 다시 권력을 잡은 것 같습니다. 와우켄이 여전히 실종되어 있기 때문에 점점 더 많은 상인들이 그를 위해 여행을 지켜달라고 기도합니다.
 lauril,dlg,EntryList/100/Text,0,그게 다야. 더는 모르겠어?
@@ -1824,7 +1824,7 @@ lauril,dlg,EntryList/111/Text,0,"""만시온의 네트워크는 스파이와 암
 lauril,dlg,EntryList/112/Text,0,"""다른 것?"""
 lauril,dlg,EntryList/113/Text,0,"Tyrintar의 홀은 한때 동쪽에 위치한 '스펙럼'이라는 두 대의 건물이 지배하던 곳이었다. 여기서 마법사들은 마법을 시연하고, 제자들을 수용하며, 마법 성분을 구입하기 위해 사용되었다."
 lauril,dlg,EntryList/114/Text,0,"""이 지역의 중심에 바로 거리의 반대편에 있는 오래된 식당 홀은 '타리닌타르의 홀'이라는 이름으로, 이 도시의 첫 번째 함장에게 딴 이름을 붙인 곳이다. 외벽은 아직 온전하지만 지붕은 무너져 내렸다. 그곳은 오랫동안 버려져 약탈당한 상태이다."""
-lauril,dlg,EntryList/115/Text,0,"""Tyrintar의 성은 여전히 신화 드라너의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
+lauril,dlg,EntryList/115/Text,0,"""Tyrintar의 성은 여전히 미스 드란의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
 lauril,dlg,EntryList/116/Text,0,"""내가 대답할지봐..."""
 lauril,dlg,EntryList/117/Text,0,"""서비스를 해주셔서 감사합니다. 언제든지 다시 도와드릴 수 있습니다."""
 lauril,dlg,EntryList/118/Text,0,<StartAction>[가난]</Start>#######################
@@ -1907,7 +1907,7 @@ lauril,dlg,ReplyList/108/Text,0,"전혀요, 수컷 암컷은 남성들을 욕망
 lauril,dlg,ReplyList/109/Text,0,"""공감""이라는 단어조차 없는데..."
 lauril,dlg,ReplyList/111/Text,0,샤운다쿨은 뭐야?
 lauril,dlg,ReplyList/116/Text,0,"""이 곳은 보물 사냥꾼들의 천국입니다..."""
-lauril,dlg,ReplyList/117/Text,0,"""내가 신화 드라너를 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
+lauril,dlg,ReplyList/117/Text,0,"""내가 미스 드란을 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
 lauril,dlg,ReplyList/119/Text,0,"""아, 그렇군요. 이것만이 제가 알고 싶었던 것이었습니다."""
 lauril,dlg,ReplyList/120/Text,0,"""하지만 어떻게 여기까지 왔는가?"""
 lauril,dlg,ReplyList/122/Text,0,"""저 생각에 그 미친 반인은 네 악당이었어. 그는 파괴된 파티홀에 숨어있었어."""
@@ -1992,7 +1992,7 @@ lenton,dlg,EntryList/63/Text,0,"""나는 배가 항상 사냥 그룹을 형성�
 lenton,dlg,EntryList/64/Text,0,"""나는 그냥 궁금해서. 비밀은 지키고 계세요."""
 lenton,dlg,EntryList/65/Text,0,"<StartAction>[주변]</Start>""당신은 전투에 익숙한 모험가처럼 보입니다. 무엇을 계획하고 계신가요?"""
 lenton,dlg,EntryList/66/Text,0,"""만약 여기에 오신 게 아니라면, 무엇을 원하는가?"""
-lenton,dlg,EntryList/67/Text,0,"""드로는 우연히 아무것도 하지 않는다. 왜 집을 떠나 표면으로 나갔어?"""
+lenton,dlg,EntryList/67/Text,0,"""드로우는 우연히 아무것도 하지 않는다. 왜 집을 떠나 표면으로 나갔어?"""
 lenton,dlg,EntryList/68/Text,0,"<StartAction>[놀라기]</Start>#""와우, 얼마나 아름다운 졸음부여..."""
 lenton,dlg,EntryList/69/Text,0,"""많은 사람들이 그렇지 않다고 생각하는 것이 아쉽습니다. 당신은 정말 아름다워요. 이 완벽한 검은 피부와 빛나는 눈빛, 완벽한 체형..."
 lenton,dlg,EntryList/71/Text,0,"""아, 또 당신이야. 이제는 어떻게 지내나?"""
@@ -2031,7 +2031,7 @@ lenton,dlg,EntryList/103/Text,0,"""정확이냐? 10주 동안 돈을 지불했�
 lenton,dlg,EntryList/104/Text,0,"""자신이 원하는 대로. 그럼 계속해 보자."""
 lenton,dlg,EntryList/105/Text,0,"""나는 캠프로 돌아갈게. 다시 필요하면 내 캠프에서 만나자."""
 lenton,dlg,EntryList/106/Text,0,"""이봐, 나는 처음이 아니야. 내 움직임을 잘 지켜보고, 머리를 숙여."""
-lenton,dlg,EntryList/107/Text,0,"""물론이죠. 드란노르는 매우 특이한 곳이에요. 더 필요한 것이 있나요?"""
+lenton,dlg,EntryList/107/Text,0,"""물론이죠. 미스 드란은 매우 특이한 곳이에요. 더 필요한 것이 있나요?"""
 lenton,dlg,EntryList/108/Text,0,당신은 확실합니까? 저는 많은 의무가 있어 여기서 기다릴 수 없습니다.
 lenton,dlg,EntryList/109/Text,0,"""좋아. 그럼 모험을 계속해 보자."""
 lenton,dlg,EntryList/110/Text,0,"난 다시 빛의 정상으로 돌아가고, 다시 필요하다면 모루의 브랜도에게 물어봐."
@@ -2054,7 +2054,7 @@ lenton,dlg,EntryList/126/Text,0,얼마나 슬퍼.
 lenton,dlg,EntryList/127/Text,0,"당신의 문화는 너무 차가워요, 너무 악랄한 것 같아. 동정심은 여러분의 사회에서는 가치가 없습니다."
 lenton,dlg,EntryList/128/Text,0,"이건 참 슬프고, 참 슬프고... 나는 우리가 가야 할 것 같아."
 lenton,dlg,EntryList/129/Text,0,우리 기본적인 교육 기간 동안 종교를 공부하면서 페룬의 신들에 대해 알게 되었습니다.
-lenton,dlg,EntryList/130/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 신화 드란노르는 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
+lenton,dlg,EntryList/130/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 미스 드란은 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
 lenton,dlg,EntryList/131/Text,0,하지만 신화의 몰락으로 드라너의 힘은 줄어들었고 그의 믿음은 거의 잊혀졌습니다.
 lenton,dlg,EntryList/132/Text,0,그러나 산다쿨루는 고군분투의 시대 이후 다시 권력을 잡은 것 같습니다. 와우켄이 여전히 실종되어 있기 때문에 점점 더 많은 상인들이 그를 위해 여행을 지켜달라고 기도합니다.
 lenton,dlg,EntryList/133/Text,0,그게 다야. 더는 모르겠어?
@@ -2069,7 +2069,7 @@ lenton,dlg,EntryList/141/Text,0,"""만시온의 네트워크는 스파이와 암
 lenton,dlg,EntryList/142/Text,0,"""다른 것?"""
 lenton,dlg,EntryList/143/Text,0,"Tyrintar의 홀은 한때 동쪽에 위치한 '스펙럼'이라는 두 대의 건물이 지배하던 곳이었다. 여기서 마법사들은 마법을 시연하고, 제자들을 수용하며, 마법 성분을 구입하기 위해 사용되었다."
 lenton,dlg,EntryList/144/Text,0,"""이 지역의 중심에 바로 거리의 반대편에 있는 오래된 식당 홀은 '타리닌타르의 홀'이라는 이름으로, 이 도시의 첫 번째 함장에게 딴 이름을 붙인 곳이다. 외벽은 아직 온전하지만 지붕은 무너져 내렸다. 그곳은 오랫동안 버려져 약탈당한 상태이다."""
-lenton,dlg,EntryList/145/Text,0,"""Tyrintar의 성은 여전히 신화 드라너의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
+lenton,dlg,EntryList/145/Text,0,"""Tyrintar의 성은 여전히 미스 드란의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
 lenton,dlg,EntryList/146/Text,0,"""내가 대답할지봐..."""
 lenton,dlg,EntryList/147/Text,0,"""서비스를 해주셔서 감사합니다. 언제든지 다시 도와드릴 수 있습니다."""
 lenton,dlg,EntryList/148/Text,0,"""무엇을 원하십니까?"""
@@ -2080,7 +2080,7 @@ lenton,dlg,EntryList/152/Text,0,당신은 확실합니까? 저는 많은 의무�
 lenton,dlg,EntryList/153/Text,0,"""좋아. 그럼 모험을 계속해 보자."""
 lenton,dlg,EntryList/154/Text,0,"난 다시 빛의 정상으로 돌아가고, 다시 필요하다면 모루의 브랜도에게 물어봐."
 lenton,dlg,EntryList/155/Text,0,"""미드드란노는 많은 비밀을 숨기고 있습니다. 이 질문에 답변하기 위해서는 더 많은 시간이 필요할 것 같습니다. 다른 것이 있습니까?"""
-lenton,dlg,EntryList/156/Text,0,"""나는 많은 것을 배웠다. 드라너는 신비로 가득한 신화로 가득하다. 더 필요한 것이 있나?"""
+lenton,dlg,EntryList/156/Text,0,"""나는 많은 것을 배웠다. 미스 드란은 신비로 가득한 신화로 가득하다. 더 필요한 것이 있나?"""
 lenton,dlg,EntryList/157/Text,0,"""무엇을 알고 싶어?"""
 lenton,dlg,EntryList/158/Text,0,아침의 군주를 섬기는 것은 오래된 가문의 전통입니다. 할아버지도 섬기셨고 아버지도 섬기셨습니다. 이제는 제가 섬길 차례입니다.
 lenton,dlg,EntryList/159/Text,0,아빠는 무엇을 하시나요?
@@ -2092,7 +2092,7 @@ lenton,dlg,EntryList/164/Text,0,얼마나 슬퍼.
 lenton,dlg,EntryList/165/Text,0,"당신의 문화는 너무 차가워요, 너무 악랄한 것 같아. 동정심은 여러분의 사회에서는 가치가 없습니다."
 lenton,dlg,EntryList/166/Text,0,"이건 참 슬프고, 참 슬프고... 나는 우리가 가야 할 것 같아."
 lenton,dlg,EntryList/167/Text,0,우리 기본적인 교육 기간 동안 종교를 공부하면서 페룬의 신들에 대해 알게 되었습니다.
-lenton,dlg,EntryList/168/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 신화 드란노르는 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
+lenton,dlg,EntryList/168/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 미스 드란은 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
 lenton,dlg,EntryList/169/Text,0,하지만 신화의 몰락으로 드라너의 힘은 줄어들었고 그의 믿음은 거의 잊혀졌습니다.
 lenton,dlg,EntryList/170/Text,0,그러나 산다쿨루는 고군분투의 시대 이후 다시 권력을 잡은 것 같습니다. 와우켄이 여전히 실종되어 있기 때문에 점점 더 많은 상인들이 그를 위해 여행을 지켜달라고 기도합니다.
 lenton,dlg,EntryList/171/Text,0,그게 다야. 더는 모르겠어?
@@ -2107,7 +2107,7 @@ lenton,dlg,EntryList/179/Text,0,"""만시온의 네트워크는 스파이와 암
 lenton,dlg,EntryList/180/Text,0,"""다른 것?"""
 lenton,dlg,EntryList/181/Text,0,"Tyrintar의 홀은 한때 동쪽에 위치한 '스펙럼'이라는 두 대의 건물이 지배하던 곳이었다. 여기서 마법사들은 마법을 시연하고, 제자들을 수용하며, 마법 성분을 구입하기 위해 사용되었다."
 lenton,dlg,EntryList/182/Text,0,"""이 지역의 중심에 바로 거리의 반대편에 있는 오래된 식당 홀은 '타리닌타르의 홀'이라는 이름으로, 이 도시의 첫 번째 함장에게 딴 이름을 붙인 곳이다. 외벽은 아직 온전하지만 지붕은 무너져 내렸다. 그곳은 오랫동안 버려져 약탈당한 상태이다."""
-lenton,dlg,EntryList/183/Text,0,"""Tyrintar의 성은 여전히 신화 드라너의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
+lenton,dlg,EntryList/183/Text,0,"""Tyrintar의 성은 여전히 미스 드란의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
 lenton,dlg,EntryList/184/Text,0,"""내가 대답할지봐..."""
 lenton,dlg,EntryList/185/Text,0,"""서비스를 해주셔서 감사합니다. 언제든지 다시 도와드릴 수 있습니다."""
 lenton,dlg,EntryList/186/Text,0,"""무엇을 원하십니까?"""
@@ -2134,7 +2134,7 @@ lenton,dlg,EntryList/206/Text,0,"""네. 언더다크에서는 모든 것이 더 
 lenton,dlg,EntryList/207/Text,0,"""물론이죠. 다른 것이 있으신가요?"""
 lenton,dlg,EntryList/208/Text,0,<StartAction>[웃음]</Start>물론이죠. 당신과 이런 아름다운 여사님과의 대화는 항상 즐거웠습니다.
 lenton,dlg,EntryList/211/Text,0,"<StartAction>[하나를 비속하게 취하는]</Start> ""아, 다시 드워프 여인네. 또 타고 싶어하나 웃자고 ... ?"""
-lenton,dlg,EntryList/212/Text,0,"""드워, 다른 사람을 찾아 속일 수 있나? 나는 당신을 위해 일하지 않을 거야."""
+lenton,dlg,EntryList/212/Text,0,"""드로우, 다른 사람을 찾아 속일 수 있나? 나는 당신을 위해 일하지 않을 거야."""
 lenton,dlg,ReplyList/1/Text,0,"""이게 문제인가?"""
 lenton,dlg,ReplyList/2/Text,0,"""그게 익사 이름이야, 네가 알아낼 수 있을지 모르겠어""."
 lenton,dlg,ReplyList/3/Text,0,나는 <FullName>이라네. <FirstName>으로 부르면 좋겠네. 이렇게 하면 당신에게 더 쉬울 거야.
@@ -2237,7 +2237,7 @@ lenton,dlg,ReplyList/152/Text,0,"전혀요, 수컷 암컷은 남성들을 욕망
 lenton,dlg,ReplyList/153/Text,0,"""공감""이라는 단어조차 없는데..."
 lenton,dlg,ReplyList/155/Text,0,샤운다쿨은 뭐야?
 lenton,dlg,ReplyList/160/Text,0,"""이 곳은 보물 사냥꾼들의 천국입니다..."""
-lenton,dlg,ReplyList/161/Text,0,"""내가 신화 드라너를 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
+lenton,dlg,ReplyList/161/Text,0,"""내가 미스 드란을 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
 lenton,dlg,ReplyList/163/Text,0,"""아, 그렇군요. 이것만이 제가 알고 싶었던 것이었습니다."""
 lenton,dlg,ReplyList/164/Text,0,"""하지만 어떻게 여기까지 왔는가?"""
 lenton,dlg,ReplyList/166/Text,0,"""젠타림에 대해 더 자세히 말해봐."""
@@ -2257,7 +2257,7 @@ lenton,dlg,ReplyList/194/Text,0,"전혀요, 수컷 암컷은 남성들을 욕망
 lenton,dlg,ReplyList/195/Text,0,"""공감""이라는 단어조차 없는데..."
 lenton,dlg,ReplyList/197/Text,0,샤운다쿨은 뭐야?
 lenton,dlg,ReplyList/202/Text,0,"""이 곳은 보물 사냥꾼들의 천국입니다..."""
-lenton,dlg,ReplyList/203/Text,0,"""내가 신화 드라너를 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
+lenton,dlg,ReplyList/203/Text,0,"""내가 미스 드란을 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
 lenton,dlg,ReplyList/205/Text,0,"""아, 그렇군요. 이것만이 제가 알고 싶었던 것이었습니다."""
 lenton,dlg,ReplyList/206/Text,0,"""하지만 어떻게 여기까지 왔는가?"""
 lenton,dlg,ReplyList/208/Text,0,"""젠타림에 대해 더 자세히 말해봐."""
@@ -2286,8 +2286,8 @@ lenton,dlg,ReplyList/244/Text,0,"""인간, 경고한다. 혀를 조심하라!"""
 librarian,dlg,EntryList/0/Text,0,"""당신은 여기 환영받지 않습니다 ... 익사""."
 librarian,dlg,EntryList/1/Text,0,"""당신은 여기서 질문을 할 권리가 없습니다. 그러나 나는 이 질문에 대해서는 대답할 것입니다."""
 librarian,dlg,EntryList/2/Text,0,"""나는 지식의 보호자이니, 당신은 나를... 도서관장이라고 불러도 좋다."""
-librarian,dlg,EntryList/3/Text,0,"""미스 드라너가 무너질 무렵 살아있는 몸을 버리고 신화의 유령의 형태를 취했습니다."""
-librarian,dlg,EntryList/4/Text,0,"""나는 여전히 여기에 있으며, 드라너 신화의 지식을 당신과 같은 침입자들로부터 보호하기 위해 여기에 있습니다... 그리고 그 가고일들..."""
+librarian,dlg,EntryList/3/Text,0,"""미스 드란이 무너질 무렵 살아있는 몸을 버리고 신화의 유령의 형태를 취했습니다."""
+librarian,dlg,EntryList/4/Text,0,"""나는 여전히 여기에 있으며, 미스 드란 신화의 지식을 당신과 같은 침입자들로부터 보호하기 위해 여기에 있습니다... 그리고 그 가고일들..."""
 librarian,dlg,EntryList/5/Text,0,"""그들은 마법의 기원이며 언더다크의 가장 깊은 곳에서 살고 있습니다. 수십 년 전에 마법의 포털을 통해 성에 들어갔습니다."""
 librarian,dlg,EntryList/6/Text,0,"""중앙 건물이 완전히 침투되어서 도서관에 들어가려고 했습니다""."
 librarian,dlg,EntryList/7/Text,0,"""주의하라. 나는 쉽게 너를 파괴할 수 있다. 이 도서관에는 아무도 손상을 주지 않을 것이다."""
@@ -2305,23 +2305,23 @@ librarian,dlg,EntryList/18/Text,0,"""아, 정말로, 성은 이제 더 평화로
 librarian,dlg,EntryList/19/Text,0,"""내가 이미 말했어, 내가 줄 보물이 없다. 내가 가진 것은 지식뿐이야. 고대 드라너 신화의 지식이야. 너는 무엇을 알아야 하는가?"""
 librarian,dlg,EntryList/20/Text,0,고대 드라너 신화에 대한 더 많은 지식이 필요하다면 여기 있을 겁니다.
 librarian,dlg,EntryList/21/Text,0,"""정확히 무엇을 알고 싶으신가요? 드라난의 역사, 지리, 또는 문화를 알고 싶으신가요?"""
-librarian,dlg,EntryList/22/Text,0,"""드라너는 영광의 시대에 노래의 도시로 불렸다. 많은 종족과 문화가 조화로우며 함께 살았고, 그들의 문화적 교류의 결실은 풍요롭고 달콤했다."""
+librarian,dlg,EntryList/22/Text,0,"""미스 드란은 영광의 시대에 노래의 도시로 불렸다. 많은 종족과 문화가 조화로우며 함께 살았고, 그들의 문화적 교류의 결실은 풍요롭고 달콤했다."""
 librarian,dlg,EntryList/23/Text,0,"""예술과 지혜의 높은 사원은 도시 벽 안에 세워졌고, 가장 유명한 바르드와 지혜의 자들이 이곳에 거주하며, 가장 훌륭한 문학 작품들이 코르망토르의 중심부에서 만들어졌습니다."""
 librarian,dlg,EntryList/24/Text,0,"""드라너의 신화는 코르마토르의 중심에 위치하고 있습니다. 모뉴스 지역의 가장 큰 숲입니다""."
 librarian,dlg,EntryList/25/Text,0,"""하늘에서 보면 도시는 대략적으로 도끼날 형태를 띠고 있다. 서쪽 부분은 많은 탑을 가진 오래된 지역으로, 높은 집, 성전, 그리고 홀들이 있다."""
 librarian,dlg,EntryList/26/Text,0,"""그 중심지, 글리리리르리 수영장의 북쪽 가장자리에 있는 큰 초원의 가장자리에는 무역 시장, 숙소 및 상점이 있습니다."""
 librarian,dlg,EntryList/27/Text,0,"""캐슬 코르망토르의 벽, 캡틴의 좌석, 그리고 Onaglym, 이 지역의 높은 위에 왜성 보석 절단자 탑의 구석과 작은 강이 북쪽에서 흐른다""."
-librarian,dlg,EntryList/28/Text,0,"""미스 드라너르의 동부 지역은 비교적 젊고 시골 같아서, 마법사의 탑과 학회, 숙소와 사적인 집들이 여기에 있지만 모든 것이 더 자연스럽고 작다."""
+librarian,dlg,EntryList/28/Text,0,"""미스 드란르의 동부 지역은 비교적 젊고 시골 같아서, 마법사의 탑과 학회, 숙소와 사적인 집들이 여기에 있지만 모든 것이 더 자연스럽고 작다."""
 librarian,dlg,EntryList/29/Text,0,"""다른 것?"""
-librarian,dlg,EntryList/30/Text,0,"드라너의 신화는 너무 오래되어, 그 시작은 어떤 살아있는 존재도 모르는 것이다."
+librarian,dlg,EntryList/30/Text,0,"미스 드란의 신화는 너무 오래되어, 그 시작은 어떤 살아있는 존재도 모르는 것이다."
 librarian,dlg,EntryList/31/Text,0,"""도시는 서부 드래곤리치의 엘프 공동체들과 함께 성장했고, 곧 달 엘프 왕국이, 나중에는 나무 엘프 왕국이 그곳에 자리잡았다."""
 librarian,dlg,EntryList/32/Text,0,"""문산 북쪽은 그 당시 막대한 괴물과 오크로 괴롭혀졌고, 코르망토르 숲은 북쪽의 자유민족인 드워프, 엘프, 기둥, 반인, 인간 등이 이 강탈자들에 맞서 어깨를 나란히 할 수 있는 요새였다."""
 librarian,dlg,EntryList/33/Text,0,"""그러나 그 군대가 강했고 어느 날 그들은 드란노르 신화에서 왔고 거의 파괴했다""."
-librarian,dlg,EntryList/34/Text,0,"""질병에 시달리고 공포에 질린 엘프 지도자 엘터그림은 다시는 드라너 신화의 거리에 전쟁의 피가 흐르지 않을 것이라고 결심했습니다."""
+librarian,dlg,EntryList/34/Text,0,"""질병에 시달리고 공포에 질린 엘프 지도자 엘터그림은 다시는 미스 드란 신화의 거리에 전쟁의 피가 흐르지 않을 것이라고 결심했습니다."""
 librarian,dlg,EntryList/35/Text,0,"""그의 부르심은 응답되었고, 12년 동안 마법사들이 실험을 했고, 그리고 함께 일하면서 매혹적인 매혹을 엮었습니다."
 librarian,dlg,EntryList/36/Text,0,"""빌론 리치의 인구가 많은 땅에서 온 사람들이 많았고, 수세기 동안 드란노르 신화는 아름다움, 행복, 고급스러움으로 모든 페어룬에서 알려진 가장 높은 곳에까지 성장했습니다""."
 librarian,dlg,EntryList/37/Text,0,"""미스 드란은 피의 엄니의 해, 엘타그림 경이 죽었을 때 최고의 절정에 올랐다. 무리가 다시 일어났고 전쟁 지도자, 곧 대장을 뽑아야 했다."""
-librarian,dlg,EntryList/38/Text,0,"""오울피터, 갈구트, 티란트라크스 3명의 악마와 마주한 후, 신화 드란노르는 곧 종말을 맞이했다."""
+librarian,dlg,EntryList/38/Text,0,"""오울피터, 갈구트, 티란트라크스 3명의 악마와 마주한 후, 미스 드란은 곧 종말을 맞이했다."""
 librarian,dlg,EntryList/39/Text,0,"""최후의 함장인 Fflar는 그의 군대인 드라너 신화의 방패를 두 군대를 물리칠 수 있었지만 티란트라크스의 군대는 너무 강하고 너무 많았다""."
 librarian,dlg,EntryList/40/Text,0,"""결국 아름다운 도시가 무너지고 파괴되었습니다."""
 librarian,dlg,EntryList/41/Text,0,"""무슨 일이죠?"""
@@ -2334,27 +2334,27 @@ librarian,dlg,EntryList/47/Text,0,"노드는 비활성화되었고, 포위전의
 librarian,dlg,EntryList/48/Text,0,"""드라노 신화""의 고령 시대에는 그러한 에너지원들은 꽤 흔했다. 그들의 대부분은 사라졌지만, 여전히 폐허에서 일부를 찾을 수 있을 것이라고 생각한다. 심지어는 보안실 아래 군사 시설에서 몇 개를 본 적도 있다."
 librarian,dlg,EntryList/49/Text,0,"""모든 노드는 자신만의 통과 단어를 가지고 있었고, 이렇게 하면 도시를 돌아다니는 것이 매우 빠르고 쉬웠습니다. 그 단어를 발음한 모든 연설자는 바로 해당 노드로 데려가졌습니다."""
 librarian,dlg,EntryList/50/Text,0,"""나는 과거에 모든 통과의사에 대해 알고 있었지만, 포위 기간 동안 그 내용이 변경되었습니다. 새로운 통과의사는 비밀로 유지되었고, 지금은 잃어버렸을까 두려워합니다."""
-librarian,dlg,EntryList/51/Text,0,"""미스드래너의 높은 집들의 전사들과 챔피언들은 여전히 텔레포터에 접근할 수 있었다. 아마 그들의 거주지 유적에서 새로운 통행 단어에 대한 노트를 찾을 수 있을 것이다."""
+librarian,dlg,EntryList/51/Text,0,"""미스 드란의 높은 집들의 전사들과 챔피언들은 여전히 텔레포터에 접근할 수 있었다. 아마 그들의 거주지 유적에서 새로운 통행 단어에 대한 노트를 찾을 수 있을 것이다."""
 librarian,dlg,EntryList/52/Text,0,"""그들의 탑은 도시의 오래된 서쪽 지역에 위치해 있었다. 다른 것은 무엇인가?"""
-librarian,dlg,EntryList/53/Text,0,"""그들은 작은 광장처럼 보이며, 미스드라노르의 어디서나 발견할 수 있습니다. 일부는 파괴되었고, 다른 일부는 식생이 자라 덮여 있지만, 대부분은 여전히 존재합니다."""
-librarian,dlg,EntryList/54/Text,0,"""아벤버의 '드라너 신화의 몰락'에 대해 말하는 거야?"""
+librarian,dlg,EntryList/53/Text,0,"""그들은 작은 광장처럼 보이며, 미스 드란의 어디서나 발견할 수 있습니다. 일부는 파괴되었고, 다른 일부는 식생이 자라 덮여 있지만, 대부분은 여전히 존재합니다."""
+librarian,dlg,EntryList/54/Text,0,"""아벤버의 '미스 드란 신화의 몰락'에 대해 말하는 거야?"""
 librarian,dlg,EntryList/55/Text,0,"""우리는 그것을 완벽하게 보관하고 연구용으로 준비해 두었습니다. 하지만 당신은 개인용으로 복사본을 가져갈 수도 있습니다."""
 librarian,dlg,EntryList/56/Text,0,"""다른 게 필요해?"""
 librarian,dlg,EntryList/57/Text,0,"""여기서 기다려, 하나 가져오겠다."""
 librarian,dlg,EntryList/58/Text,0,"""그게 여기 있어요. 잘 사용해서 과거로부터 더 나은 미래를 위해 배울 수 있어요. 그 밖의 어떤 것도 있나요?"""
 librarian,dlg,EntryList/59/Text,0,"""에닐노는 미스 드란의 마지막 대장 플라르가 쓰던 전설의 검이다."""
 librarian,dlg,EntryList/60/Text,0,"""플라어는 어둠의 군대와의 전투의 영웅이었고 그의 검은 어둠의 존재들의 육신과 뼈를 깎아 뜯는 동안 파란 불꽃이 불고 있었다고 이야기합니다""."
-librarian,dlg,EntryList/61/Text,0,"""미스 드라너르의 멸망이 분명해졌을 때, 플라르는 도시에서 급속한 대피를 시작했고, 싸우기에는 너무 약한 모든 사람들, 늙은이들과 어린이들 그리고 위험을 감수하기에는 너무 가치있는 모든 사람들이 끌려갔다."""
+librarian,dlg,EntryList/61/Text,0,"""미스 드란르의 멸망이 분명해졌을 때, 플라르는 도시에서 급속한 대피를 시작했고, 싸우기에는 너무 약한 모든 사람들, 늙은이들과 어린이들 그리고 위험을 감수하기에는 너무 가치있는 모든 사람들이 끌려갔다."""
 librarian,dlg,EntryList/62/Text,0,"""시내에서 시간을 삼아 가장 오래된 전사들만이 남아 있었고, 플라어는 그들 중 하나로 남아 있었으며, 전설에 따르면 그는 살해된 악마들의 언덕 위에서 죽었다고 한다."""
 librarian,dlg,EntryList/63/Text,0,"전설에 따르면 여전히 폐허 속에 있고, 어쩌면 플라르 자신의 뼈아픈 손으로 잡혀 있을지도 모른다. 하지만 진실은 다르다."
 librarian,dlg,EntryList/64/Text,0,"플라르는 마지막 전투에서 죽을 것이라는 것을 알았기 때문에 에닐노를 한 명의 원사에게 넘겨주었고, 그는 검을 7부분으로 변환하고 분리시켰다."
 librarian,dlg,EntryList/65/Text,0,"""그 부분들은 칼과 손잡이로 보이지 않네요. 엔일노는 일곱 개의 검으로 변형되었으며, 모두 마법으로 만들어졌고 완벽하게 균형을 이룹니다."""
-librarian,dlg,EntryList/66/Text,0,"""그 다음 그들은 미스 드라너의 가장 신뢰할 수 있는 챔피언들에게 주어졌으며, 포위 이후까지 안전하게 보관하도록 지시되었습니다."""
+librarian,dlg,EntryList/66/Text,0,"""그 다음 그들은 미스 드란의 가장 신뢰할 수 있는 챔피언들에게 주어졌으며, 포위 이후까지 안전하게 보관하도록 지시되었습니다."""
 librarian,dlg,EntryList/67/Text,0,"""그들은 어사마스 네이드레, 일루네 들라, 니다스 오글로, 아멘두엘 엘렌, 엘탈레스, 송의 가문의 전신, 고르드, 샤운드칼의 대제사장, 그리고 자나, 태양의 대부인"""
 librarian,dlg,EntryList/68/Text,0,"""그게 다야. 더 말할 게 있나?"""
 librarian,dlg,EntryList/69/Text,0,"""좋아. 네가 드워프였다는 것에 대해 틀렸어."""
 librarian,dlg,EntryList/70/Text,0,"""아, 당신은 다시 돌아왔네요, 드로우이고 여전히 무사한 모양입니다. 모든 일이 잘 갔나 봅니다."""
-librarian,dlg,EntryList/71/Text,0,"""그 포털을 닫고, 드워."""
+librarian,dlg,EntryList/71/Text,0,"""그 포털을 닫고, 드로우."""
 librarian,dlg,ReplyList/0/Text,0,"""당신은 누구신가요, 유령?"""
 librarian,dlg,ReplyList/2/Text,0,"""여러분의 도시는 수백 년 전에 파괴되었습니다. 왜 아직도... 죽지 않았나요?"""
 librarian,dlg,ReplyList/4/Text,0,"""네, 내가 들어오는 길에... 그들을 봤는데, 지금까지는 가장 깊은 언더더크에서만 봤어."
@@ -2373,9 +2373,9 @@ librarian,dlg,ReplyList/18/Text,0,"""그래, 너는 제안하는 게 뭐야?"""
 librarian,dlg,ReplyList/19/Text,0,물론. 포털은 파괴되었다.
 librarian,dlg,ReplyList/20/Text,0,"""좋아, 이제 내 보상에 대해 이야기 해볼게."""
 librarian,dlg,ReplyList/21/Text,0,"""현재는 아무 것도 없어요. 지금 떠나야 해."""
-librarian,dlg,ReplyList/23/Text,0,"""미스드라노르에 대해 말해봐."""
+librarian,dlg,ReplyList/23/Text,0,"""미스 드란에 대해 말해봐."""
 librarian,dlg,ReplyList/24/Text,0,"""미스드라난 문화에 대해 더 자세히 말해줄래?"""
-librarian,dlg,ReplyList/26/Text,0,드라너 신화와 그 지형에 대해 더 자세히 말해봐.
+librarian,dlg,ReplyList/26/Text,0,미스 드란 신화와 그 지형에 대해 더 자세히 말해봐.
 librarian,dlg,ReplyList/32/Text,0,"""미스 드라난의 히스토리를 더 자세히 말해줘."""
 librarian,dlg,ReplyList/43/Text,0,"""다른 질문이 있어요""."
 librarian,dlg,ReplyList/44/Text,0,"""왜 아무도 도시를 재건하지 않았나?"""
@@ -2434,7 +2434,7 @@ llomir,dlg,EntryList/26/Text,0,"""또 당신이군. 뭘 원하나?"""
 llomir,dlg,EntryList/28/Text,0,"""무엇을 원하십니까?"""
 llomir,dlg,EntryList/29/Text,0,"""오, 전술을 바꾸는군. 뒤에서 찌르는 대신 공개적으로 물어보는 거야? 이건 함정인가?"""
 llomir,dlg,EntryList/31/Text,0,"""미드드란노는 많은 비밀을 숨기고 있습니다. 이 질문에 답변하기 위해서는 더 많은 시간이 필요할 것 같습니다. 다른 것이 있습니까?"""
-llomir,dlg,EntryList/32/Text,0,"""나는 많은 것을 배웠다. 드라너는 신비로 가득한 신화로 가득하다. 더 필요한 것이 있나?"""
+llomir,dlg,EntryList/32/Text,0,"""나는 많은 것을 배웠다. 미스 드란은 신비로 가득한 신화로 가득하다. 더 필요한 것이 있나?"""
 llomir,dlg,EntryList/33/Text,0,내가 뭘 해야겠어?
 llomir,dlg,EntryList/34/Text,0,"걱정 마. 나는 꽤 많은 전투 훈련을 받았고, 어떻게 싸울지 잘 안다."
 llomir,dlg,EntryList/35/Text,0,- 더 필요한 것이 있나?
@@ -2520,7 +2520,7 @@ llurella,dlg,EntryList/6/Text,0,"""우리는 마스크를 입은 해적들입니
 llurella,dlg,EntryList/7/Text,0,"""나 자신을 잊기 전에 움직이거라, 암흑아!"""
 llurella,dlg,EntryList/8/Text,0,"""잠깐, 가울더. <He/She>는 유용할 수도 있다""."
 llurella,dlg,EntryList/9/Text,0,"""그게 무슨 뜻이야?"""
-llurella,dlg,EntryList/10/Text,0,"""어둠 속에서 볼 수 있나, 드워?"""
+llurella,dlg,EntryList/10/Text,0,"""어둠 속에서 볼 수 있나, 드로우?"""
 llurella,dlg,EntryList/11/Text,0,"""우리는 '별의 왕관'의 위치를 폐허에서 찾았지만, 그곳은 절대적인 어둠 속에 있습니다. 도와주실 수 있겠습니까?"""
 llurella,dlg,EntryList/12/Text,0,"""오, 어두운 친구가 어둠을 두려워하네. 아마 그럴 거야, 이는 그가 빛으로 도망치기 때문일 거야."""
 llurella,dlg,EntryList/13/Text,0,그러면 차분해지고 내 말을 들어보시오.
@@ -2572,7 +2572,7 @@ lolth,dlg,EntryList/26/Text,0,"""내가 당신을 선택한 것은 언제나 그
 lolth,dlg,EntryList/27/Text,0,"""당신은 퇴장하십시오!"""
 lolth,dlg,EntryList/28/Text,0,"""무슨 소리냐. 상황이 달라졌어. 미살라 없이도 잘 살아갈 거다."""
 lolth,dlg,EntryList/29/Text,0,"""당신은 악마를 풀어줬다. 더 자세히 설명해 보게."""
-lolth,dlg,EntryList/30/Text,0,"""미스 드라너의 파괴에 책임이 있는 사람을 풀어주었습니까?"""
+lolth,dlg,EntryList/30/Text,0,"""미스 드란의 파괴에 책임이 있는 사람을 풀어주었습니까?"""
 lolth,dlg,EntryList/31/Text,0,"""나의 선물을 잃게 한 것은 용서할 수 없다, 인간..."""
 lolth,dlg,EntryList/32/Text,0,"""... 하지만 네 행동의 결과에는 만족한다. 혼돈이 커지고 폭력이 늘어나는 것이 느껴진다. 이번에는 벌하지 않겠다 ... 이번에는 ..."""
 lolth,dlg,EntryList/33/Text,0,"""어쨌든, 내 선물은 사라졌으니 당신이 표면으로 돌아왔을 때는 자신의 능력에 의존해야 할 것이다."""
@@ -2603,7 +2603,7 @@ lolth,dlg,ReplyList/25/Text,0,"""고마워, 여신님. 당신의 관대함은 �
 lolth,dlg,ReplyList/26/Text,0,<StartAction> [잠잠]</Start>
 lolth,dlg,ReplyList/27/Text,0,"""나의 여신, 당신은 약속했다 ... """
 lolth,dlg,ReplyList/28/Text,0,"""나의 신부님, 당신의 영광으로 악령 티란트라크스를 림보의 감옥에서 풀어줬습니다""."
-lolth,dlg,ReplyList/29/Text,0,"""그는 수백 년 동안 암흑의 군대를 이끌고 드라너 신화를 파괴하기 위해 그들의 가장 위대한 도시 중 하나를 파괴한 혐의로 감옥에 갇혔습니다."""
+lolth,dlg,ReplyList/29/Text,0,"""그는 수백 년 동안 암흑의 군대를 이끌고 미스 드란 신화를 파괴하기 위해 그들의 가장 위대한 도시 중 하나를 파괴한 혐의로 감옥에 갇혔습니다."""
 lolth,dlg,ReplyList/30/Text,0,"""예, 마법사들이 그를 외계 감옥에서 잡았어요. 나는 당신의 선물을 그의 경계를 깨기 위해 사용했습니다. 그는 그의 군대를 회상하고 표면 세계에 혼란과 파괴를 가져올 것입니다."
 lolth,dlg,ReplyList/33/Text,0,<StartAction> [잠잠]</Start>
 lolth,dlg,ReplyList/34/Text,0,"""나의 여신, 당신은 약속했다 ... """
@@ -2625,7 +2625,7 @@ manshoon,dlg,EntryList/6/Text,0,"""그 친구들에게 래퍼를 팔아라. 기�
 manshoon,dlg,EntryList/7/Text,0,"<StartAction>[ 크게 웃으며 ]</Start>""네, 그는 좋은 학생이었습니다. 당신의 유머 감각을 사랑합니다. 당신은 급여를 받을 수 있는 방법이 있고, 더 많은 것도 있습니다. 또한 다른 15,000 시일머의 보너스도 있습니다."""
 manshoon,dlg,EntryList/8/Text,0,"""필요치 않아. 언제든 떠나실 수 있어."""
 manshoon,dlg,EntryList/9/Text,0,"""어디로 가실 건가요? 하퍼와 시크어는 네가 보일 때마다 널 죽일 거예요 - 주변에 많은 사람들이 있어요. 결국 그들은 너를 찾을 거예요. 내 임무를 수락해 주시면 너를 보호할게요."""
-manshoon,dlg,EntryList/11/Text,0,"""티린타르의 홀에서 용 숭배자 집단이 발견되었다. 그들은 어린 처녀를 붙잡고 사라졌다. 그들의 지도자가 신화 드란노르에서도 여기에 있기 때문에 그들은 이곳에서 어두운 의식을 계획하고 있을 가능성이 있다."""
+manshoon,dlg,EntryList/11/Text,0,"""티린타르의 홀에서 용 숭배자 집단이 발견되었다. 그들은 어린 처녀를 붙잡고 사라졌다. 그들의 지도자가 미스 드란에서도 여기에 있기 때문에 그들은 이곳에서 어두운 의식을 계획하고 있을 가능성이 있다."""
 manshoon,dlg,EntryList/12/Text,0,"""아녀의 피가 죽은 드래곤을 만들려면 필요하고 살아있죠. 그 소녀를 희생시키죠""."
 manshoon,dlg,EntryList/13/Text,0,"""이 소녀는 쓸모없어요. 그냥 자신의 필요를 위해 그것을 사용하지 않도록 하세요. 그녀를 죽이고, 강간하고, 해방시키세요. 모든 것이 작동합니다. 그냥 그들이 그녀를 희생하지 않도록 하세요""."
 manshoon,dlg,EntryList/14/Text,0,"""세멘몬의 정보에 따르면 그들의 둔갑은 유적의 동쪽 부분에 있는 곳이다. 자연학자 협회에서 시작하여 서쪽으로 계속 탐색하라."""
@@ -2640,9 +2640,9 @@ manshoon,dlg,EntryList/23/Text,0,"<StartAction>[생각에 잠겨]</Start>""...�
 manshoon,dlg,EntryList/24/Text,0,"""그것에 대해 볼게요. 지금은 다른 임무를 주려고 합니다. 그리고 하퍼를 가져오지 못했다는 점을 감안해도, 여전히 15,000 시일머와 더불어 15,000 시일머를 제안합니다. 어떻게 생각하세요?"""
 manshoon,dlg,EntryList/25/Text,0,"""여기서 질문을 하는 사람이 저야. 게으른 중위에게 무엇을 했느냐?"""
 manshoon,dlg,EntryList/28/Text,0,"""죄송합니다, 신사님, 그 여자도 그들과 함께 있었습니다""."
-manshoon,dlg,EntryList/29/Text,0,"""그녀를 밖으로 데려가라. 이 방에는 드워만이 남아있을 것이다!"""
+manshoon,dlg,EntryList/29/Text,0,"""그녀를 밖으로 데려가라. 이 방에는 드로우만이 남아있을 것이다!"""
 manshoon,dlg,EntryList/31/Text,0,"""제 죄송합니다, 신사님, 그는 목마른 사람과 함께 있었습니다. 즉시 제거될 예정입니다""."
-manshoon,dlg,EntryList/32/Text,0,"""사령관님, 저는 드워를 보고 싶었습니다. 그들의 부하와 노예들을 보고 싶진 않았습니다. 모두를 바깥으로 데려가세요. 저는 다시는 여기서 그들을 보고 싶지 않습니다."""
+manshoon,dlg,EntryList/32/Text,0,"""사령관님, 저는 드로우를 보고 싶었습니다. 그들의 부하와 노예들을 보고 싶진 않았습니다. 모두를 바깥으로 데려가세요. 저는 다시는 여기서 그들을 보고 싶지 않습니다."""
 manshoon,dlg,EntryList/33/Text,0,"""다시 죄송합니다, 신부님, 다시는 일어나지 않을 겁니다."
 manshoon,dlg,ReplyList/0/Text,0,나는 <FullName>이다.
 manshoon,dlg,ReplyList/1/Text,0,"""네 이름은 무엇인가, 인간?"""
@@ -2822,7 +2822,7 @@ mata,dlg,EntryList/77/Text,0,얼마나 슬퍼.
 mata,dlg,EntryList/78/Text,0,"당신의 문화는 너무 차가워요, 너무 악랄한 것 같아. 동정심은 여러분의 사회에서는 가치가 없습니다."
 mata,dlg,EntryList/79/Text,0,"이건 참 슬프고, 참 슬프고... 나는 우리가 가야 할 것 같아."
 mata,dlg,EntryList/80/Text,0,우리 기본적인 교육 기간 동안 종교를 공부하면서 페룬의 신들에 대해 알게 되었습니다.
-mata,dlg,EntryList/81/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 신화 드란노르는 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
+mata,dlg,EntryList/81/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 미스 드란은 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
 mata,dlg,EntryList/82/Text,0,하지만 신화의 몰락으로 드라너의 힘은 줄어들었고 그의 믿음은 거의 잊혀졌습니다.
 mata,dlg,EntryList/83/Text,0,그러나 산다쿨루는 고군분투의 시대 이후 다시 권력을 잡은 것 같습니다. 와우켄이 여전히 실종되어 있기 때문에 점점 더 많은 상인들이 그를 위해 여행을 지켜달라고 기도합니다.
 mata,dlg,EntryList/84/Text,0,그게 다야. 더는 모르겠어?
@@ -2837,7 +2837,7 @@ mata,dlg,EntryList/92/Text,0,"""만시온의 네트워크는 스파이와 암살
 mata,dlg,EntryList/93/Text,0,"""다른 것?"""
 mata,dlg,EntryList/94/Text,0,"Tyrintar의 홀은 한때 동쪽에 위치한 '스펙럼'이라는 두 대의 건물이 지배하던 곳이었다. 여기서 마법사들은 마법을 시연하고, 제자들을 수용하며, 마법 성분을 구입하기 위해 사용되었다."
 mata,dlg,EntryList/95/Text,0,"""이 지역의 중심에 바로 거리의 반대편에 있는 오래된 식당 홀은 '타리닌타르의 홀'이라는 이름으로, 이 도시의 첫 번째 함장에게 딴 이름을 붙인 곳이다. 외벽은 아직 온전하지만 지붕은 무너져 내렸다. 그곳은 오랫동안 버려져 약탈당한 상태이다."""
-mata,dlg,EntryList/96/Text,0,"""Tyrintar의 성은 여전히 신화 드라너의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
+mata,dlg,EntryList/96/Text,0,"""Tyrintar의 성은 여전히 미스 드란의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
 mata,dlg,EntryList/97/Text,0,"""내가 대답할지봐..."""
 mata,dlg,EntryList/98/Text,0,"""서비스를 해주셔서 감사합니다. 언제든지 다시 도와드릴 수 있습니다."""
 mata,dlg,EntryList/99/Text,0,"""무엇을 원하십니까?"""
@@ -2870,7 +2870,7 @@ mata,dlg,EntryList/125/Text,0,얼마나 슬퍼.
 mata,dlg,EntryList/126/Text,0,"당신의 문화는 너무 차가워요, 너무 악랄한 것 같아. 동정심은 여러분의 사회에서는 가치가 없습니다."
 mata,dlg,EntryList/127/Text,0,"이건 참 슬프고, 참 슬프고... 나는 우리가 가야 할 것 같아."
 mata,dlg,EntryList/128/Text,0,우리 기본적인 교육 기간 동안 종교를 공부하면서 페룬의 신들에 대해 알게 되었습니다.
-mata,dlg,EntryList/129/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 신화 드란노르는 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
+mata,dlg,EntryList/129/Text,0,"선두쿨은 고대 신으로, 한때 문사 지역에서 매우 인기를 끌었던 신이었습니다. 미스 드란은 그의 높은 성전 ""선두칼의 옥좌""의 중심지였습니다."
 mata,dlg,EntryList/130/Text,0,하지만 신화의 몰락으로 드라너의 힘은 줄어들었고 그의 믿음은 거의 잊혀졌습니다.
 mata,dlg,EntryList/131/Text,0,그러나 산다쿨루는 고군분투의 시대 이후 다시 권력을 잡은 것 같습니다. 와우켄이 여전히 실종되어 있기 때문에 점점 더 많은 상인들이 그를 위해 여행을 지켜달라고 기도합니다.
 mata,dlg,EntryList/132/Text,0,그게 다야. 더는 모르겠어?
@@ -2885,7 +2885,7 @@ mata,dlg,EntryList/140/Text,0,"""만시온의 네트워크는 스파이와 암�
 mata,dlg,EntryList/141/Text,0,"""다른 것?"""
 mata,dlg,EntryList/142/Text,0,"Tyrintar의 홀은 한때 동쪽에 위치한 '스펙럼'이라는 두 대의 건물이 지배하던 곳이었다. 여기서 마법사들은 마법을 시연하고, 제자들을 수용하며, 마법 성분을 구입하기 위해 사용되었다."
 mata,dlg,EntryList/143/Text,0,"""이 지역의 중심에 바로 거리의 반대편에 있는 오래된 식당 홀은 '타리닌타르의 홀'이라는 이름으로, 이 도시의 첫 번째 함장에게 딴 이름을 붙인 곳이다. 외벽은 아직 온전하지만 지붕은 무너져 내렸다. 그곳은 오랫동안 버려져 약탈당한 상태이다."""
-mata,dlg,EntryList/144/Text,0,"""Tyrintar의 성은 여전히 신화 드라너의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
+mata,dlg,EntryList/144/Text,0,"""Tyrintar의 성은 여전히 미스 드란의 파괴된 중심부와 서쪽 및 남쪽 외곽을 연결합니다. 파티 홀 북쪽 가장자리의 어두운 그림자는 코르만토르 성의 검게 변한 탑을 나타냅니다."""
 mata,dlg,EntryList/145/Text,0,"""내가 대답할지봐..."""
 mata,dlg,EntryList/146/Text,0,"""서비스를 해주셔서 감사합니다. 언제든지 다시 도와드릴 수 있습니다."""
 mata,dlg,EntryList/147/Text,0,"""무엇을 원하십니까?"""
@@ -2964,7 +2964,7 @@ mata,dlg,ReplyList/93/Text,0,"전혀요, 수컷 암컷은 남성들을 욕망을
 mata,dlg,ReplyList/94/Text,0,"""공감""이라는 단어조차 없는데..."
 mata,dlg,ReplyList/96/Text,0,이 산다쿨루가 뭐죠?
 mata,dlg,ReplyList/101/Text,0,"""이 곳은 보물 사냥꾼들의 천국입니다..."""
-mata,dlg,ReplyList/102/Text,0,"""내가 신화 드라너를 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
+mata,dlg,ReplyList/102/Text,0,"""내가 미스 드란을 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
 mata,dlg,ReplyList/104/Text,0,"""아, 그렇군요. 이것만이 제가 알고 싶었던 것이었습니다."""
 mata,dlg,ReplyList/105/Text,0,"""하지만 어떻게 여기까지 왔는가?"""
 mata,dlg,ReplyList/107/Text,0,"""젠타림에 대해 더 자세히 말해봐."""
@@ -2986,7 +2986,7 @@ mata,dlg,ReplyList/153/Text,0,"전혀요, 수컷 암컷은 남성들을 욕망�
 mata,dlg,ReplyList/154/Text,0,"""공감""이라는 단어조차 없는데..."
 mata,dlg,ReplyList/156/Text,0,샤운다쿨은 뭐야?
 mata,dlg,ReplyList/161/Text,0,"""이 곳은 보물 사냥꾼들의 천국입니다..."""
-mata,dlg,ReplyList/162/Text,0,"""내가 신화 드라너를 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
+mata,dlg,ReplyList/162/Text,0,"""내가 미스 드란을 악의 힘에 의해 정복당했다고 생각했지? 도시를 약탈한 것은 아니었나?"""
 mata,dlg,ReplyList/164/Text,0,"""아, 그렇군요. 이것만이 제가 알고 싶었던 것이었습니다."""
 mata,dlg,ReplyList/165/Text,0,"""하지만 어떻게 여기까지 왔는가?"""
 mata,dlg,ReplyList/167/Text,0,"""젠타림에 대해 더 자세히 말해봐."""
@@ -2998,7 +2998,7 @@ mata,dlg,ReplyList/179/Text,0,"""나는 다시 생각을 바꿨다."""
 mata,dlg,ReplyList/180/Text,0,"""당신은 어디서 왔어요?"""
 mata,dlg,ReplyList/181/Text,0,"""소리가 나에게는 별로 유쾌하지 않아."""
 mata,dlg,ReplyList/182/Text,0,"""나는 그렇게 생각하지 않습니다. 우리는 물에 빠져 태양과 어울리는 것을 좋아하지 않습니다""."
-mata,dlg,ReplyList/183/Text,0,"""왜 당신은 드라너 신화에서 여기에 있는가?"""
+mata,dlg,ReplyList/183/Text,0,"""왜 당신은 미스 드란 신화에서 여기에 있는가?"""
 mata,dlg,ReplyList/184/Text,0,"""당신은 얼마나 멀리 왔나?"""
 mata,dlg,ReplyList/185/Text,0,"""이게 패러다임인가?"""
 mata,dlg,ReplyList/186/Text,0,"""대형. 당신은 아마 목표에 도달하지 못할 것 같아."""
@@ -3030,7 +3030,7 @@ merith,dlg,EntryList/10/Text,0,"""나는 숲을 통해 탈출하는 동안 아�
 merith,dlg,EntryList/11/Text,0,"암흑적인 인물들이 그녀를 사냥하고, Tyrintar's Hall에서 잡아서 사라졌습니다."
 merith,dlg,EntryList/12/Text,0,"""그냥 몇 가지 세부사항을 추가해 보겠습니다. 이 포획은 수색자 집단에서도 주목받았습니다. 그 어두운 인물은 드래곤 숭배와 그림자 숭배의 일원입니다. 그 종의 지도자도 그들과 함께 목격되었습니다""."
 merith,dlg,EntryList/13/Text,0,"""우리는 이미 신조가 유적에서 어딘가에 쉼터를 가지고 있다는 것을 알고 있었습니다. 이제, 신화 드라너에서 그림자 실이 있는 동안, 중요한 일이 벌어지고 있을 겁니다""."
-merith,dlg,EntryList/14/Text,0,"""내 동료 기사들은 미리마르와 바쁘고, 수색자들은 티란트라크스와 그의 부하들을 찾고 있습니다. 이미 도움을 요청했지만, 우리 친구들은 미스드란너를 찾아오는데 시간이 걸릴 것입니다."""
+merith,dlg,EntryList/14/Text,0,"""내 동료 기사들은 미리마르와 바쁘고, 수색자들은 티란트라크스와 그의 부하들을 찾고 있습니다. 이미 도움을 요청했지만, 우리 친구들은 미스 드란을 찾아오는데 시간이 걸릴 것입니다."""
 merith,dlg,EntryList/15/Text,0,"""빠르게 처리하려면, 신앙 집단의 숨바꼭질 장소와 실종된 소녀를 찾는 데 당신의 도움이 필요합니다."""
 merith,dlg,EntryList/16/Text,0,"""우리는 종파 숭배자들의 동굴 위치를 모릅니다. 유적지에 대한 우리의 지식으로 미루어보면, 서쪽 유적지에서 수주 동안 순찰을 했지만 아무도 종파 숭배자를 만나지 못했기 때문에, 아마도 도시의 동쪽 지역에 있을 것입니다. 혼자서는 그런 숭배자를 이기지 말아야 합니다. 우리가 필요한 것은 스카우트입니다."""
 merith,dlg,EntryList/17/Text,0,"""그들의 둔기를 찾아, 안으로 들어가, 소녀를 찾아내거나 적어도 그들의 종교 방을 찾아보라. 친구들이 도착하면 곧 따라갈 것이다. 어떻게 생각하니?"""
@@ -3067,7 +3067,7 @@ mielikki,dlg,EntryList/5/Text,0,"""네. 나는 너를 빛으로 인도해 왔어
 mielikki,dlg,EntryList/6/Text,0,"""나는 이 세상 이 새로운 것 이며, 이 세상 이 낯선 것 이며, 여러분 에게 알려지지 않은 것 이라고 이해 합니다. 겉으로는 인종, 행동, 사회, 언어 등 많은 것 이 다르다""."
 mielikki,dlg,EntryList/7/Text,0,"""그것과 함께 너를 혼자 두지는 않겠다."""
 mielikki,dlg,EntryList/8/Text,0,"""지금까지 놀라운 일을 해냈군. 옳고 그름에 대한 직감은 예상치 못한 것 뿐 아니라 인상적이다. 이런 발전을 계속하고, 미스터드라노에서 발견한 것에 충실해 보거라."""
-mielikki,dlg,EntryList/9/Text,0,"""마지막으로, 당신의 미살라는 마법 에너지 저장 장치로 설계되었습니다. 다른 저장 장치에서 마법 에너지를 끌어낼 수 있으며, 미스 드라너의 남은 에너지 소스들과 함께 작동합니다."""
+mielikki,dlg,EntryList/9/Text,0,"""마지막으로, 당신의 미살라는 마법 에너지 저장 장치로 설계되었습니다. 다른 저장 장치에서 마법 에너지를 끌어낼 수 있으며, 미스 드란의 남은 에너지 소스들과 함께 작동합니다."""
 mielikki,dlg,EntryList/10/Text,0,"""당신이 알아냈을지도 모르지만, 이 에너지의 대부분은 나에게 전달되었는데, 저는 이 미술품에 추가적인 에너지를 남겨두고 새로운 마법의 옵션을 제공했습니다."
 mielikki,dlg,EntryList/11/Text,0,"""이제 아름다움의 도시로 돌아가 빛 속에서 자신의 위치를 찾는 데 최선을 다하라."""
 mielikki,dlg,EntryList/12/Text,0,"""당신은 겉으로는 잘 지내려고 하지만 여전히 오래된 관습과 행동에 충실합니다. 어둠 속에서 오랫동안 훈련받았습니다. 이것은 좋지 않습니다. 빛의 삶은 관용과 존중, 동정심과 겸손, 정직과 자신감을 의미합니다."""
@@ -3131,7 +3131,7 @@ mielikki,dlg,ReplyList/19/Text,0,"""나는 폐허에서 더 많은 것을 찾을
 mielikki,dlg,ReplyList/20/Text,0,"""그 새로운 마법 능력 은 내 자신 의 특성 에 좋은 추가 가 되었다""."
 mielikki,dlg,ReplyList/21/Text,0,"""하지만 마법품은 항상 도움이 된다."""
 mielikki,dlg,ReplyList/29/Text,0,지난번에 그 힘을 늘린 방식이 좋았어요. 이번에도 그렇게 할 계획이신가요?
-mielikki,dlg,ReplyList/30/Text,0,"""미살라는 이제 드라너와 그 내부의 텔레포트 장치들과 어느 정도 연결되어 있습니다. 이는 어떻게 된 일인가?"""
+mielikki,dlg,ReplyList/30/Text,0,"""미살라는 이제 미스 드란과 그 내부의 텔레포트 장치들과 어느 정도 연결되어 있습니다. 이는 어떻게 된 일인가?"""
 mielikki,dlg,ReplyList/31/Text,0,"""특별한 게 없어, 사용하려고 했더니 터져버렸어."""
 mielikki,dlg,ReplyList/32/Text,0,"""그것으로 빛나는 돌을 파괴했다."""
 mielikki,dlg,ReplyList/33/Text,0,"""인간 파벌을 만났는데, 그들이 날 강제로 그렇게 시켰소."""
@@ -3194,7 +3194,7 @@ nachnotu,dlg,EntryList/0/Text,0,"""너는 이제 더 이상 환영받지 못해.
 nachnotu,dlg,EntryList/1/Text,0,"""침입자 기다리거라. 몇 마디 나누어 보자..."""
 nachnotu,dlg,EntryList/2/Text,0,"""나는 나흐노투이고 이 곳은 수세기 동안 나의 곳이다. 나는 여기에 당신에게 항복하기 위해 온 것이 아니라"
 nachnotu,dlg,EntryList/3/Text,0,"""이 곳은 이상하게 보일 수 있지만, 내 필요에 완벽하게 맞추어져 있으며, 이 곳은 이제 수 세기 동안 나와 내 자녀들이 살았던 집이었습니다."""
-nachnotu,dlg,EntryList/4/Text,0,"""악마가 깨어나기 전까지 모든 것이 완벽했습니다. 처음에는 그가 약했고 정신이 미드라노르 외부로 떠돌아다니며 탈출 방법을 찾았습니다."""
+nachnotu,dlg,EntryList/4/Text,0,"""악마가 깨어나기 전까지 모든 것이 완벽했습니다. 처음에는 그가 약했고 정신이 미미스 드란 외부로 떠돌아다니며 탈출 방법을 찾았습니다."""
 nachnotu,dlg,EntryList/5/Text,0,"""그러나 그는 패배하고 돌아왔으며, 이제 그는 육체를 해방하려는 계획을 세웠다."""
 nachnotu,dlg,EntryList/6/Text,0,한 번 그는 어둠의 군대의 지도자였는데 그들은 드란노르 신화를 파괴하는데 성공했음에도 불구하고 그는 도시의 밑에 갇혔고 그의 군대가 패배했습니다.
 nachnotu,dlg,EntryList/7/Text,0,"티란트라크스 - 그 악마의 이름 - 육체는 갇혀 있을지라도 정신은 자유로이 방황할 수 있으며, 그는 참으로 강력하다."
@@ -3392,7 +3392,7 @@ neome,dlg,ReplyList/41/Text,0,"""내가 뭘 할 수 있는지 보자""."
 neome,dlg,ReplyList/43/Text,0,"""나는 드로우지 요정이 아니다. 소원을 들어줄 다른 바보를 찾아라."""
 neome,dlg,ReplyList/45/Text,0,"""네오메, 네 회합이 성공적으로 마무리되었기를 바랍니다."""
 neome,dlg,ReplyList/47/Text,0,"""Drow 발음하는 것은 드row를 하지 않는 사람에게 어렵죠""."
-neome,dlg,ReplyList/48/Text,0,"""물론이죠. 드로가 아닌 사람들은 그렇게 잘 한 적이 없었습니다."""
+neome,dlg,ReplyList/48/Text,0,"""물론이죠. 드로우가 아닌 사람들은 그렇게 잘 한 적이 없었습니다."""
 neome,dlg,ReplyList/49/Text,0,"""네. 당신 아름다운 입술에서 들려오는 말은 정말 좋네요..."""
 neome,dlg,ReplyList/50/Text,0,"""나는 그것을 좋아한다."""
 neome,dlg,ReplyList/51/Text,0,"""나쁘지 않아..."""
@@ -3526,7 +3526,7 @@ sage,dlg,EntryList/27/Text,0,"""이야기책은 오늘 여기서 덮이고, 드�
 sage,dlg,EntryList/28/Text,0,<StartAction>[당신의 캐릭터는 이제 수출될 것입니다.]</Start>
 sage,dlg,EntryList/29/Text,0,"""결국 당신은 당신의 여신의 호의를 잃었습니다. 그녀는 당신을 처벌했습니다. 많은 사람들이 전에 그랬듯이. 당신은 눈을 뜨면 Menzoberranzan의 외곽 터널의 익숙한 특징을 인식합니다""."
 sage,dlg,EntryList/30/Text,0,"""당신의 몸 아래쪽을 한눈에 한눈에 보면 쓴 진실이 떠오릅니다. 당신은 끔찍한 변칙으로 변합니다. 반은 익사하는 반은 거미입니다""."
-sage,dlg,EntryList/31/Text,0,"""당신은Menzoberranzan의 모든 드워가 당신을 즉시 발견하면 사냥하리라는 것을 깨닫고 소리를 지르려는 욕구를 억누르게 됩니다."""
+sage,dlg,EntryList/31/Text,0,"""당신은Menzoberranzan의 모든 드로우가 당신을 즉시 발견하면 사냥하리라는 것을 깨닫고 소리를 지르려는 욕구를 억누르게 됩니다."""
 sage,dlg,EntryList/32/Text,0,"""누구도 미래가 무엇을 가져다 줄지 모른다. 당신은 배척된 괴물의 길을 따르는 새로운 삶의 길을 찾아야 할 것이다."""
 sage,dlg,ReplyList/4/Text,0,내가có 선택은 뭐야?
 sage,dlg,ReplyList/5/Text,0,내 결정이 됐어
@@ -3563,7 +3563,7 @@ sei_subraces,dlg,ReplyList/10/Text,0,스트롱하트 하플링
 sei_subraces,dlg,ReplyList/11/Text,0,반발족 반발인
 sei_subraces,dlg,ReplyList/12/Text,0,귀신한 반아
 sei_subraces,dlg,ReplyList/13/Text,0,표준 반오크
-sei_subraces,dlg,ReplyList/14/Text,0,반드로프
+sei_subraces,dlg,ReplyList/14/Text,0,반드로우프
 sei_subraces,dlg,ReplyList/15/Text,0,표준 반엘프
 sei_subraces,dlg,ReplyList/16/Text,0,바위 기둥
 sei_subraces,dlg,ReplyList/17/Text,0,깊은 지하인간 (svirfneblin)
@@ -3595,7 +3595,7 @@ sememmon,dlg,EntryList/17/Text,0,"""베란트에게 무슨 짓을 한 거야?"""
 sememmon,dlg,EntryList/18/Text,0,"""소커는 더 큰 존재에 점령당했나요? 뭐가 그 말을 하는 건가요?"""
 sememmon,dlg,EntryList/19/Text,0,"""티란트라크스? 여기서 아직 살아있나?"""
 sememmon,dlg,EntryList/20/Text,0,"티란트라크스는 몇 년 전 뉴 폼란에서 큰 혼란을 일으켰으나, 그는 마법의 풀을 통해 작은 존재들을 통제하는 능력을 가진 영처럼 보였다...."
-sememmon,dlg,EntryList/21/Text,0,"""티란트라크스의 정령은 매우 강력합니다. 그는 인간을 빼앗아 그들의 마음을 왜곡하여 그의 명령을 맹목적으로 따르게 합니다. 그는 북부의 야생 군대를 깃발 아래로 연합하여 미스터 드란노르를 정복했습니다. 심지어 열광적인 수색자 바에란트마저 그 능력에 떨어졌습니다. 매우 흥미로운..."""
+sememmon,dlg,EntryList/21/Text,0,"""티란트라크스의 정령은 매우 강력합니다. 그는 인간을 빼앗아 그들의 마음을 왜곡하여 그의 명령을 맹목적으로 따르게 합니다. 그는 북부의 야생 군대를 깃발 아래로 연합하여 미스터 미스 드란을 정복했습니다. 심지어 열광적인 수색자 바에란트마저 그 능력에 떨어졌습니다. 매우 흥미로운..."""
 sememmon,dlg,EntryList/22/Text,0,"그때문에 널 보냈어, 이것을 넘겨줘."
 sememmon,dlg,EntryList/23/Text,0,<StartAction>[네크로노미콘을 심사]</Start>##############################################################################################################################################################################################################################################
 sememmon,dlg,EntryList/24/Text,0,<StartAction>[ 미소]</Start>###############################################
@@ -3606,7 +3606,7 @@ sememmon,dlg,EntryList/28/Text,0,"""어디로 가시겠습니까? 당신은 표�
 sememmon,dlg,EntryList/29/Text,0,"""당신은 이 숲에서 길을 잃었나 봅니다. 어둠의 세계로 들어가는 방법을 찾는 것은 쉬운 일이 아닙니다. "" <StartAction>[그는 잠시 말을 멈추어 자신의 말이 상대에게 어떤 반응을 불러일으키는지 관찰합니다.] </Start>""만약 당신이 나를 위해 계속 일한다면, 그 방법을 보여드릴 수 있습니다."""
 sememmon,dlg,EntryList/30/Text,0,"""좋아. 이 임무는 당신의 흥미를 반드시 끌 것이다."""
 sememmon,dlg,EntryList/31/Text,0,"""당신은 값진 동맹이 되어주셨습니다. 제 편으로 봐도 좋을 것 같습니다. 어떻게 생각하세요?"""
-sememmon,dlg,EntryList/32/Text,0,"""우리는 무정부주의자 집단과 문제가 있습니다. 그들은 스스로를 '하퍼'라고 부른다. 그 반역자 중 한 명인 마그 미리마르가 오늘 신화 드라너에 왔습니다. 이는 종종 '신화 드라너의 기사'라고 부르는 사람들과 함께 보이는 그를 제외하면 이례적이지 않습니다. 그들은 Dawnspire에서 본부를 가지고 있습니다."""
+sememmon,dlg,EntryList/32/Text,0,"""우리는 무정부주의자 집단과 문제가 있습니다. 그들은 스스로를 '하퍼'라고 부른다. 그 반역자 중 한 명인 마그 미리마르가 오늘 미스 드란에 왔습니다. 이는 종종 '미스 드란의 기사'라고 부르는 사람들과 함께 보이는 그를 제외하면 이례적이지 않습니다. 그들은 Dawnspire에서 본부를 가지고 있습니다."""
 sememmon,dlg,EntryList/33/Text,0,"하지만 이번에는 그는 도시로 들어갔을 때 평면 외계인들을 만났고, 그들이 미리마르를 찢는 동안 그의 연습생만이 탈출했다. 그의 대비 주문이 실패했기 때문에, 그의 몸은 여전히 유해에 놓여 있다."
 sememmon,dlg,EntryList/34/Text,0,"""우리 스카우트는 오나글렘에서 성까지 그를 따라갔지만 티린타르의 홀 지역으로는 들어가지 못했습니다.
 저는 그가 빛의 정탑의 친구들에게 도착했다고 두려워합니다."""
@@ -3655,7 +3655,7 @@ sememmon,dlg,EntryList/76/Text,0,"""당신이 돌아왔다고 보는데, 전원 
 sememmon,dlg,EntryList/77/Text,0,"<StartAction>[석 디스크를 자세히 살펴봐요]</Start>""예, 사실. 표기판에 있는 표기판과 동일합니다. 넘겨주세요""."
 sememmon,dlg,EntryList/78/Text,0,"""이것은 단지 당신의 기술을 시험하기 위한 것이었습니다. 첫 번째 정규 임무에 대한 보상이 될 것입니다."""
 sememmon,dlg,EntryList/79/Text,0,"""당신은 얇은 얼음 위를 걸어가고 있습니다, 드워프님. 당신의 목숨은 제 손에 있습니다."""
-sememmon,dlg,EntryList/80/Text,0,"""나는 바로 널 죽일 수도 있지만, 네 스타일이 마음에 들어, 드워. 네게 1000 시일머를 지급할 테니, 나는 다시 생각하기 전에 받아들여야 해."""
+sememmon,dlg,EntryList/80/Text,0,"""나는 바로 널 죽일 수도 있지만, 네 스타일이 마음에 들어, 드로우. 네게 1000 시일머를 지급할 테니, 나는 다시 생각하기 전에 받아들여야 해."""
 sememmon,dlg,EntryList/81/Text,0,그들은 코르만티르의 화폐인 금 동전입니다.
 sememmon,dlg,EntryList/82/Text,0,"""디스크를 가지고 도망칠 수는 없으니 멍청한 짓은 하지 마라. 우리는 동시에 교환할 것이다."""
 sememmon,dlg,EntryList/83/Text,0,"""대형. 우리는 그 능력을 분석하고 더 많은 것을 재창조하여 텔레포트 기능을 작동시킬 것입니다."""
@@ -3695,7 +3695,7 @@ sememmon,dlg,EntryList/119/Text,0,"""당신은 틀렸어요, 내 어두운 친�
 sememmon,dlg,EntryList/120/Text,0,"""경비원들은 저에게 <he/she>가 그쪽에서 왔다고 말했습니다."""
 sememmon,dlg,EntryList/121/Text,0,"""미스 드라너에서 당신 같은 사람들이 얼마나 많습니까?"""
 sememmon,dlg,EntryList/122/Text,0,"""그리고 만약 당신이 시간 내에 돌아오지 않는다면 그들은 당신을 도울 것이니, 그렇지 않나?"""
-sememmon,dlg,EntryList/123/Text,0,"""그래서 여기서 뭐하는 거야? 이 지역에서 드워 활동의 흔적은 없었어."""
+sememmon,dlg,EntryList/123/Text,0,"""그래서 여기서 뭐하는 거야? 이 지역에서 드로우 활동의 흔적은 없었어."""
 sememmon,dlg,EntryList/124/Text,0,"""내게 바보짓을 하지 마, 어둠아. 어떤 드루우도 단순한 스카우트를 구해줄 리 없다."""
 sememmon,dlg,EntryList/125/Text,0,"""당신은 누구세요?"""
 sememmon,dlg,EntryList/126/Text,0,"""어느 고독한 드로우가 당신의 같은 다음 도시에서 이렇게 멀리 떨어져 있는 표면에서 무엇을 할 수 있을까?"""
@@ -3720,13 +3720,13 @@ sememmon,dlg,EntryList/147/Text,0,"""너의 태도는 진짜 익사한 여성처
 sememmon,dlg,EntryList/148/Text,0,"""당신에게는 힘들지도 모르지만, 우리 사회는 남자가 다스립니다. 그러니 조용히 입 다물고 듣는 게 좋을 겁니다, ... 여자!"""
 sememmon,dlg,EntryList/149/Text,0,"""다시 시작해 보죠. 당신의 이름은 무엇인가?"""
 sememmon,dlg,ReplyList/0/Text,0,"""그건 힘들었지만, 몸은 함께 있어."""
-sememmon,dlg,ReplyList/10/Text,0,"""우리는 미스드래너의 기사들을 만났고, 도망칠 기회는 없었습니다."""
+sememmon,dlg,ReplyList/10/Text,0,"""우리는 미스 드란의 기사들을 만났고, 도망칠 기회는 없었습니다."""
 sememmon,dlg,ReplyList/13/Text,0,"""그러나 그들은 그렇게 하지 않았습니다. 항상 당신과 면담을 하게 설득하는 것이 어려웠죠..."""
-sememmon,dlg,ReplyList/15/Text,0,베란트는 드란노르의 고창 시절에 외국인들을 묻은 큰 묘실에 자신의 라이어를 두고 있었다.
+sememmon,dlg,ReplyList/15/Text,0,베란트는 미스 드란의 고창 시절에 외국인들을 묻은 큰 묘실에 자신의 라이어를 두고 있었다.
 sememmon,dlg,ReplyList/16/Text,0,"""그렇소. 그는 주인을 위한 언데드 군대를 만드느라 바빴소. 이 책이 그곳에서 유일하게 값어치 있는 물건이었고, 그의 창조와 통제의 도구였던 것 같소."""
 sememmon,dlg,ReplyList/17/Text,0,"""나는 길을 틀어막으며 이를 얻어왔다."""
 sememmon,dlg,ReplyList/18/Text,0,"""나가 그를 죽였어. 그는 결국 더 큰 존재에 의해 점령되었고, 대화할 기회는 없었다."""
-sememmon,dlg,ReplyList/19/Text,0,"""베란트는 더 이상 자신의 의지를 지배하지 못했고, 오래 전 드라너 신화를 파괴한 어둠의 군대의 지도자 바란은 여전히 여기 있었으며, 그는 수색자의 새로운 주인이었다."""
+sememmon,dlg,ReplyList/19/Text,0,"""베란트는 더 이상 자신의 의지를 지배하지 못했고, 오래 전 미스 드란 신화를 파괴한 어둠의 군대의 지도자 바란은 여전히 여기 있었으며, 그는 수색자의 새로운 주인이었다."""
 sememmon,dlg,ReplyList/20/Text,0,"""저는 그가 갇혀 있다고 생각하지만, 감옥에서도 그는 놀라운 힘을 가지고 있습니다. 거의 저를 죽이려 했어요. 당신은 그를 알고 있나요?"""
 sememmon,dlg,ReplyList/21/Text,0,"""만약 그 악마가 단지 영이었다면, 정말 강력한 존재였을 것이다. 정말... 진짜로 보였지."""
 sememmon,dlg,ReplyList/22/Text,0,"<StartAction>[네크로노미콘을 다시 보여주세요]</Start>""어쨌든, 제 임무는 끝났습니다. 지금 책을 원하세요?"""
@@ -3851,13 +3851,13 @@ shandaukul,dlg,EntryList/0/Text,0,"""결국 바람의 의식을 다시 축하할
 shandaukul,dlg,EntryList/1/Text,0,"""하지만 충실한 자여, 내 추종자들 가운데 내가 널 알지 못하거니와, 내 신자들은 어디에 있는가?"""
 shandaukul,dlg,EntryList/2/Text,0,"""파에룬의 표면에 발을 디딘 지 오랜 시간이 지났어 - 심지어 신들도 마찬가지야..."""
 shandaukul,dlg,EntryList/3/Text,0,"<StartAction>[분노하며]</Start> ""의식이 없다고? 네가 샨다우쿨의 대제단에 성수를 뿌렸잖아! 신성모독이다!"""
-shandaukul,dlg,EntryList/4/Text,0,드라너의 붕괴는 내 신앙을 약화시키고 황폐화시켰습니다. 재건은 시간이 걸렸습니다. 요즘의 이 세상에서는 바람의 여정자마저 거의 잊혀진 것 같습니다.
+shandaukul,dlg,EntryList/4/Text,0,미스 드란의 붕괴는 내 신앙을 약화시키고 황폐화시켰습니다. 재건은 시간이 걸렸습니다. 요즘의 이 세상에서는 바람의 여정자마저 거의 잊혀진 것 같습니다.
 shandaukul,dlg,EntryList/5/Text,0,"""이곳으로 들어왔다는 이유를 말해줄래? 바람의 라이더에게 기도하기 위해서가 아니라면?"""
 shandaukul,dlg,EntryList/6/Text,0,"""이 모든 더러움을 보세요! 몇 년 동안 이 곳이 무슨 일이 있었나요?"""
 shandaukul,dlg,EntryList/8/Text,0,"<StartAction>[쇼크]</Start> ""고위 제단, 몬스터 라이어...?"""
 shandaukul,dlg,EntryList/9/Text,0,<StartAction>[충격에 주변을 둘러보았다]</Start>
 shandaukul,dlg,EntryList/10/Text,0,"""폐하, 용서를 청합니다만, 폐하의 신앙은 거의 잊혀져 있습니다. 그리고 아직 폐하의 이름을 기억하는 사람들 중 대부분은 수백 년 전부터 폐하의 교회에 대한 모든 관심을 잃었다고 생각합니다."""
-shandaukul,dlg,EntryList/11/Text,0,드란노르의 붕괴로 제 교회는 약화되고 황폐화되었습니다. 재건은 시간이 걸렸습니다. 너무 많은 시간이 흘렀나 봅니다.
+shandaukul,dlg,EntryList/11/Text,0,미스 드란의 붕괴로 제 교회는 약화되고 황폐화되었습니다. 재건은 시간이 걸렸습니다. 너무 많은 시간이 흘렀나 봅니다.
 shandaukul,dlg,EntryList/12/Text,0,"""어떻게 그러한 용기를 가질 수 있겠는가? 나는 미래 계획을 단순한 인간들과 논의하지 않을 것이다..."""
 shandaukul,dlg,EntryList/13/Text,0,"<StartAction>[노여워짐]</Start>""신자, 당신의 지위를 잊지 말아라. 나는 바보가 아니며, 존경과 존엄성을 가지고 나에게 말을 하면 좋을 것이다..."""
 shandaukul,dlg,EntryList/15/Text,0,"<StartAction>[순간 침묵]</Start> ""이 세상은 더 이상 인간들이 신들을 존중하지 않는 슬픈 장소가 되었습니다. 달아나! 제 성전에서 달아나세요. 그렇지 않으면 나 자신을 잊을 것입니다...."""
@@ -3986,7 +3986,7 @@ vhaeraun,dlg,EntryList/2/Text,0,"<StartAction>[미소]</Start> ""마침내..."""
 vhaeraun,dlg,EntryList/3/Text,0,"""너의 침묵은 이 상황을 어떻게 처리해야 할지 모른다는 것을 말해준다. 걱정하지 마. 네가 나를 알지 못해 영광과 기쁨을 느낀다. 나는... 마스크 된 신이다."
 vhaeraun,dlg,EntryList/4/Text,0,"걱정 마요, 당신은 당신의 무죄로 큰 존경을 보여줬습니다. 저는... 마스크 된 신입니다."
 vhaeraun,dlg,EntryList/5/Text,0,"""어쨌든, 아세레라크 무덤에서 준 선물로 에너지를 모으는 방법을 찾았어."
-vhaeraun,dlg,EntryList/6/Text,0,"""정확합니다. 당신의 미살라는 원래 마법의 저장 장치일 뿐이죠. 미드라노르 유적지에서 많은 마법 에너지 소스가 있으며, 일부는 배수될 수 있습니다."""
+vhaeraun,dlg,EntryList/6/Text,0,"""정확합니다. 당신의 미살라는 원래 마법의 저장 장치일 뿐이죠. 미미스 드란 유적지에서 많은 마법 에너지 소스가 있으며, 일부는 배수될 수 있습니다."""
 vhaeraun,dlg,EntryList/7/Text,0,"""당신의 미살라는 나와 연결되어 있어 에너지가 전력을 강화하기 위해 전달될 거야."" 좋지 않나요?"""
 vhaeraun,dlg,EntryList/8/Text,0,"""내가 너를 표면에 내 발걸음을 강화시키기 위해 보냈어"". ""너지의 수집은 그 데 큰 도움이 된다""."
 vhaeraun,dlg,EntryList/9/Text,0,"""그럼에도 불구하고 다른 방법을 찾아내서 내 일에 도움을 주어야 한다. 창의적이고 조심스럽게 행동하며, 가능한 한 많은 표면 주민들과 친구가 되도록 노력하라. 내 적들을 약화시키고, 동맹을 찾아내라."""
@@ -4016,7 +4016,7 @@ vhaeraun,dlg,EntryList/32/Text,0,"""당신은 나의 기대를 실현시켜주�
 vhaeraun,dlg,EntryList/33/Text,0,"""어쨌든, 나는 당신에게 또 다른 미살라를 주지 않을 것이다. 그것은 영원히 잃어버렸다. 이제 파괴된 도시로 돌아가 당신이 방금 시작한 일을 계속하라."""
 vhaeraun,dlg,EntryList/34/Text,0,"""지상 거주자들이 계속 서로 싸우도록 하고, 내 오기를 위해 모든 것을 준비하도록 하십시오."""
 vhaeraun,dlg,EntryList/35/Text,0,"""당신은 악마를 풀어줬다. 더 자세히 설명해 보게."""
-vhaeraun,dlg,EntryList/36/Text,0,"""미스 드라너의 파괴에 책임이 있는 사람을 풀어주었습니까?"""
+vhaeraun,dlg,EntryList/36/Text,0,"""미스 드란의 파괴에 책임이 있는 사람을 풀어주었습니까?"""
 vhaeraun,dlg,EntryList/37/Text,0,"""이건 어리석은 짓이야, 인간! 이토록 강력한 존재가 있다는 것은 크로만토르 숲에 많은 사람들의 관심을 끌 것이라 생각한다. 혼돈을 일으킨 네 덕분에 우리는 많은 이익을 얻을 수 있을지 의심한다. 나의 충실한 자들은 폭풍이 지나가기 전까지 숨어야 할 것이다."""
 vhaeraun,dlg,EntryList/38/Text,0,"""너는 내 목적을 위해 실패했어, 인간. 실패했어!"""
 vhaeraun,dlg,EntryList/39/Text,0,"""걱정 마. 나는 엄마가 아니야. 네가 내 선물을 잃었다는 걸 알지만, 네 행동에 대해 실망하긴 했어도, 넌 나를 위해 살아갈 거야."""
@@ -4043,22 +4043,22 @@ vhaeraun,dlg,ReplyList/18/Text,0,"""그것을 찾는 것은 위험한 일이었�
 vhaeraun,dlg,ReplyList/19/Text,0,"""나는 당신이 기뻐할 것이라고 기대했어."""
 vhaeraun,dlg,ReplyList/21/Text,0,"""나는 이미 몇 가지 선택지를 고려했지만, 어느 선택지를 선택해야 할지 아직 모릅니다""."
 vhaeraun,dlg,ReplyList/22/Text,0,"""표면 세계는 너무 넓다. 일반적인 규칙을 찾을 수 없어, 적극적인 조치를 취하기 전에 그에 대해 더 많은 것을 배우는 데 더 많은 시간이 필요할 것 같다."""
-vhaeraun,dlg,ReplyList/23/Text,0,"""그건 복잡해. 나는 수면세계에서 익사자들을 더 받아들일 수 있도록 하는 것이 좋겠다고 생각했어. 가능한 많은 친구를 사귀려고 노력했지."""
+vhaeraun,dlg,ReplyList/23/Text,0,"""그건 복잡해. 나는 수면세계에서 드로우들을 더 받아들일 수 있도록 하는 것이 좋겠다고 생각했어. 가능한 많은 친구를 사귀려고 노력했지."""
 vhaeraun,dlg,ReplyList/26/Text,0,"""나는... 난 몰라..."""
 vhaeraun,dlg,ReplyList/27/Text,0,"""아, 이건 샤운다클의 성수입니다. 전 그의 옛 사원 폐허의 지하에서 찾았어요."""
 vhaeraun,dlg,ReplyList/29/Text,0,"""특별한 게 없어, 사용하려고 했더니 터져버렸어."""
 vhaeraun,dlg,ReplyList/30/Text,0,"""나는 그것을 사용해서 표면 신 라탄더의 성스러운 유물, 데이스톤을 파괴했습니다. 미드드란노의 탐색자들의 힘은 이제 매우 큰 손상을 입었습니다."""
 vhaeraun,dlg,ReplyList/31/Text,0,"""모닝로드의 추종자들은 유적지 남쪽 가장자리에 있는 큰 탑에서 본부를 두고 있었다. 나는 그 탑 안으로 들어가기 위한 방법을 찾아내어 탑의 최상층까지 올라가서 그들의 귀중한 유물을 발견했다."""
-vhaeraun,dlg,ReplyList/33/Text,0,드라너는 아침주 추종자들과 젠타림이라는 군사 조직에 의해 통제되고 있습니다. 자신들을 수색자라고 부르는 아침주가 있습니다.
+vhaeraun,dlg,ReplyList/33/Text,0,미스 드란은 아침주 추종자들과 젠타림이라는 군사 조직에 의해 통제되고 있습니다. 자신들을 수색자라고 부르는 아침주가 있습니다.
 vhaeraun,dlg,ReplyList/34/Text,0,"""나는 그 두 세력 사이의 대전투에 참여했고, 수색자의 본부에 들어갔다. 그들의 성스러운 유물을 탑의 최상층에서 발견하고 파괴했다."""
 vhaeraun,dlg,ReplyList/40/Text,0,"""나는 그것을 사용하여 악마 티란트라크스를 림보의 감옥에서 해방시켰다."""
-vhaeraun,dlg,ReplyList/41/Text,0,"""그는 수백 년 동안 암흑의 군대를 이끌고 드라너 신화를 파괴하기 위해 그들의 가장 위대한 도시 중 하나를 파괴한 혐의로 감옥에 갇혔습니다."""
+vhaeraun,dlg,ReplyList/41/Text,0,"""그는 수백 년 동안 암흑의 군대를 이끌고 미스 드란 신화를 파괴하기 위해 그들의 가장 위대한 도시 중 하나를 파괴한 혐의로 감옥에 갇혔습니다."""
 vhaeraun,dlg,ReplyList/42/Text,0,"""예, 마법사들이 그를 외계 감옥에서 잡았어요. 나는 당신의 선물을 그의 경계를 깨기 위해 사용했습니다. 그는 그의 군대를 회상하고 표면 세계에 혼란과 파괴를 가져올 것입니다."
 vhaeraun,dlg,ReplyList/44/Text,0,<StartAction>#[미안해 부탁드립니다]</Start>
 vhaeraun,dlg,ReplyList/45/Text,0,<StartAction>[당신의 동기를 설명하려고 노력]</Start>
-vhaeraun,dlg,ReplyList/49/Text,0,"""악마 티란트라크스는 신화 드라너로 다시 들어가려고 했는데, 나는 미살라를 바쳐 그를 감금시키는 데 사용해야 했다."""
+vhaeraun,dlg,ReplyList/49/Text,0,"""악마 티란트라크스는 미스 드란으로 다시 들어가려고 했는데, 나는 미살라를 바쳐 그를 감금시키는 데 사용해야 했다."""
 vhaeraun,dlg,ReplyList/50/Text,0,<StartAction> [잠잠]</Start>
-vhaeraun,dlg,ReplyList/51/Text,0,"""티란트라크스 (Tyranthraxus) 는 수백 년 전에 드라너 신화를 파괴한 어둠의 군대의 지도자였으며, 그를 붙잡기 위해 지어진 감옥에서 벗어나려고 했습니다""."
+vhaeraun,dlg,ReplyList/51/Text,0,"""티란트라크스 (Tyranthraxus) 는 수백 년 전에 미스 드란 신화를 파괴한 어둠의 군대의 지도자였으며, 그를 붙잡기 위해 지어진 감옥에서 벗어나려고 했습니다""."
 vhaeraun,dlg,ReplyList/52/Text,0,<StartAction> [잠잠]</Start>
 vhaeraun,dlg,ReplyList/53/Text,0,"""그는 새로운 군대를 짜내어 표면 지역을 계속 정복할 계획이었다."""
 watertunnel_entr,dlg,EntryList/0/Text,0,<StartHighlight>[불명으로 이어지는 어두운 홍수 터널]</Start>
@@ -4090,7 +4090,7 @@ zhent_cpt_gn,dlg,EntryList/1/Text,0,"""아, 당신이 그 끔찍한 놈을 잡�
 zhent_cpt_gn,dlg,EntryList/2/Text,0,"""도리지 마, 드로우. 군인들아, 지금 이 곳을 떠나야 한다. 조심하고 어둠의 엘프를 잘 지켜라."""
 zhent_cpt_gn,dlg,EntryList/3/Text,0,"""캠프로 돌아가서 텔레포트기를 활성화시키거나 전원을 줘. 나는 당신이 하나 가지고 있다는 걸 알고 있어."""
 zhent_cpt_gn,dlg,EntryList/4/Text,0,"""당신? 어떻게 그 케이지에 들어갔나?"""
-zhent_cpt_gn,dlg,EntryList/5/Text,0,"""우리의 임무가 있으니 기억해. 우리는 그런 음모 게임을 하지 않아. 우리는 드워가 아니다. 내가 너를 따라가게 보내자마자 너 뒤의 문이 닫혀있을 것을 찾은 남자들이 있었다."""
+zhent_cpt_gn,dlg,EntryList/5/Text,0,"""우리의 임무가 있으니 기억해. 우리는 그런 음모 게임을 하지 않아. 우리는 드로우가 아니다. 내가 너를 따라가게 보내자마자 너 뒤의 문이 닫혀있을 것을 찾은 남자들이 있었다."""
 zhent_cpt_gn,dlg,EntryList/6/Text,0,"""매우 이상하네..."""
 zhent_cpt_gn,dlg,EntryList/7/Text,0,그럼 어떻게 문을 열었지? tú 이전에 여기서 나오려고 문을 열 수 없었거든.
 zhent_cpt_gn,dlg,EntryList/8/Text,0,"""왜 누군가가 생물들을 감금하고 그들의 케이지의 열쇠를 주는가?"""
@@ -4727,7 +4727,7 @@ area003,git,Creature List/4/Description,0,"모험을 하지 않는 형제들은 
 area003,git,Creature List/4/ItemList/0/LocalizedName,0,셀러어의 의상
 area003,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,셀러어의 의상
 area003,git,Creature List/5/FirstName,0,선구자 들라 철관
-area003,git,Creature List/5/Description,0,"군들라 아이언크라운은 신화의 새벽 수사단 드라너의 순위에서 두 번째 지휘관으로 있으며, 활동적인 모험 시절 많은 전투를 겪은 후 Dawnspire의 방어를 감독하고 있습니다."
+area003,git,Creature List/5/Description,0,"군들라 아이언크라운은 신화의 새벽 수사단 미스 드란의 순위에서 두 번째 지휘관으로 있으며, 활동적인 모험 시절 많은 전투를 겪은 후 Dawnspire의 방어를 감독하고 있습니다."
 area003,git,Creature List/5/ItemList/1/LocalizedName,0,군달라의 갑옷
 area003,git,Creature List/5/ItemList/1/Description,0,이 갑옷의 은은 다정한 빛으로 빛나는 것 같습니다.
 area003,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,군달라의 갑옷
@@ -4778,7 +4778,7 @@ area003,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,새벽의 축복
 area003,git,Creature List/11/Equip_ItemList/2/DescIdentified,0,"새벽의 축복은 아침의 군주 라탄더에게 바쳐진 무기로, 라탄더의 특별한 적인 언데드와 악한 생물에 맞서도록 특별한 마법이 깃들어 있습니다."
 area003,git,TriggerList/0/LocalizedName,0,ds_1st_conv_prior
 area003,git,WaypointList/0/LocalizedName,0,입구
-area003,git,WaypointList/0/MapNote,0,드라너 신화로 나가기
+area003,git,WaypointList/0/MapNote,0,미스 드란 신화로 나가기
 area003,git,WaypointList/1/LocalizedName,0,이정표
 area003,git,Placeable List/0/LocName,0,긴의자
 area003,git,Placeable List/0/Description,0,이 벤치의 탄탄한 판들은 수년간의 사용으로 부드러워졌습니다.
@@ -4831,7 +4831,7 @@ area004,git,StoreList/0/StoreList/1/ItemList/68/LocalizedName,0,그림자 번개
 area004,git,TriggerList/0/LocalizedName,0,트리거 다롤이 작동합니다
 area004,git,TriggerList/1/LocalizedName,0,트리거 다롤이 왔다
 area004,git,WaypointList/0/LocalizedName,0,입구
-area004,git,WaypointList/0/MapNote,0,드라너 신화로 나가기
+area004,git,WaypointList/0/MapNote,0,미스 드란 신화로 나가기
 area004,git,Placeable List/3/LocName,0,모루
 area005,git,TriggerList/0/LocalizedName,0,BL_터널_아웃
 area005,git,Placeable List/64/Description,0,"큰, 단단한 광석 조각이 땅에서 튀어나와 있습니다."
@@ -5423,7 +5423,7 @@ area020,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,이 옷은 신화 
 area020,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,치명타를 부여하는 손목 보호대
 area020,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,이 브레저들은 한때 드라너 신화의 뱀파이어 신부인 나흐노투에 속해 있었다.
 area020,git,Creature List/7/FirstName,0,베란트 텔차르
-area020,git,Creature List/7/Description,0,"베란트 텔차르는 드라너 신화로 많은 전투에 나서는 추운 지도자였다. 그는 순찰대와 함께 사라지기 전까지 새벽 수사자들의 고위 멤버였는데, 분명히 그는 급격히 변화했고 이제 더 이상 새벽의 신에게 충성하지 않는 것으로 보인다."
+area020,git,Creature List/7/Description,0,"베란트 텔차르는 미스 드란 신화로 많은 전투에 나서는 추운 지도자였다. 그는 순찰대와 함께 사라지기 전까지 새벽 수사자들의 고위 멤버였는데, 분명히 그는 급격히 변화했고 이제 더 이상 새벽의 신에게 충성하지 않는 것으로 보인다."
 area020,git,Creature List/7/ItemList/0/LocalizedName,0,베란트의 갑옷
 area020,git,Creature List/7/ItemList/0/Description,0,이 갑옷의 은은 다정한 빛으로 빛나는 것 같습니다.
 area020,git,Creature List/7/ItemList/4/LocalizedName,0,피의 새벽
@@ -6262,7 +6262,7 @@ area030,git,Creature List/4/Equip_ItemList/0/Description,0,이 갑옷의 은은 
 area030,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,새벽의 축복
 area030,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,"새벽의 축복은 아침의 군주 라탄더에게 바쳐진 무기로, 라탄더의 특별한 적인 언데드와 악한 생물에 맞서도록 특별한 마법이 깃들어 있습니다."
 area030,git,Creature List/5/FirstName,0,선구자 들라 철관
-area030,git,Creature List/5/Description,0,"군들라 아이언크라운은 신화의 새벽 수사단 드라너의 순위에서 두 번째 지휘관으로 있으며, 활동적인 모험 시절 많은 전투를 겪은 후 Dawnspire의 방어를 감독하고 있습니다."
+area030,git,Creature List/5/Description,0,"군들라 아이언크라운은 신화의 새벽 수사단 미스 드란의 순위에서 두 번째 지휘관으로 있으며, 활동적인 모험 시절 많은 전투를 겪은 후 Dawnspire의 방어를 감독하고 있습니다."
 area030,git,Creature List/5/ItemList/1/LocalizedName,0,군달라의 갑옷
 area030,git,Creature List/5/ItemList/1/Description,0,이 갑옷의 은은 다정한 빛으로 빛나는 것 같습니다.
 area030,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,군달라의 갑옷
@@ -7537,7 +7537,7 @@ knightsofmythdra,git,Creature List/6/Equip_ItemList/3/DescIdentified,0,"새벽�
 knightsofmythdra,git,Creature List/6/Equip_ItemList/4/LocalizedName,0,작은 성령의 방패
 knightsofmythdra,git,Creature List/7/FirstName,0,나르름
 knightsofmythdra,git,Creature List/7/LastName,0,타마라이트
-knightsofmythdra,git,Creature List/7/Description,0,"나름은 11살 때, 경쟁자와의 싸움에서 방황하는 불구로로 고아되었다. 부모를 살해한 마법사에게 복수를 맹세한 그는 쓴소리하고 게으른 마법사 미림마르의 제자로 들어갔다. 멘토가 마우스 드라너의 악마가 뒤덮은 유해 탐사 중 사망한 후, 그는 성드릴 셰샤이르가 드래곤의 종파에 의해 포로로 잡혀있는 것을 보았다."
+knightsofmythdra,git,Creature List/7/Description,0,"나름은 11살 때, 경쟁자와의 싸움에서 방황하는 불구로로 고아되었다. 부모를 살해한 마법사에게 복수를 맹세한 그는 쓴소리하고 게으른 마법사 미림마르의 제자로 들어갔다. 멘토가 마우스 미스 드란의 악마가 뒤덮은 유해 탐사 중 사망한 후, 그는 성드릴 셰샤이르가 드래곤의 종파에 의해 포로로 잡혀있는 것을 보았다."
 knightsofmythdra,git,Door List/0/LocName,0,기사_문_출장
 knightsofmythdra,git,Placeable List/24/LocName,0,크리스탈볼
 knightsofmythdra,git,Placeable List/35/LocName,0,의자
@@ -9128,7 +9128,7 @@ theanvil,git,StoreList/1/LocName,0,자너의 책가게
 theanvil,git,StoreList/1/StoreList/1/ItemList/0/LocalizedName,0,켈벤의 일시 정지된 침묵
 theanvil,git,StoreList/1/StoreList/1/ItemList/0/DescIdentified,0,"이 작은 총알은 그들의 취약한 껍데기 안에 침묵의 주문을 지니고 있습니다. 총알이 깨진 순간, 그 물체는 마법의 침묵으로 둘러싸입니다."
 theanvil,git,WaypointList/0/LocalizedName,0,입구
-theanvil,git,WaypointList/0/MapNote,0,드라너 신화로 나가기
+theanvil,git,WaypointList/0/MapNote,0,미스 드란 신화로 나가기
 theanvil,git,WaypointList/2/LocalizedName,0,이정표
 theanvil,git,Placeable List/3/LocName,0,의자
 theanvil,git,Placeable List/3/Description,0,"단순한 의자지만, 그 선의 우아함은 제작의 품질을 말해줍니다."
@@ -10164,10 +10164,10 @@ thethelaeneumcry,git,Creature List/22/Equip_ItemList/2/DescIdentified,0,이 기�
 thethelaeneumcry,git,Creature List/23/FirstName,0,에레스트리얼
 thethelaeneumcry,git,Creature List/23/LastName,0,엘렌
 thethelaeneumcry,git,Creature List/23/ItemList/0/LocalizedName,0,엘레스트리엘의 갈대옷
-thethelaeneumcry,git,Creature List/23/ItemList/0/DescIdentified,0,이 의복은 한때 드라너 신화의 테레니움 납골당의 엘레스트리얼 엘렌의 의복이었습니다.
+thethelaeneumcry,git,Creature List/23/ItemList/0/DescIdentified,0,이 의복은 한때 미스 드란 신화의 테레니움 납골당의 엘레스트리얼 엘렌의 의복이었습니다.
 thethelaeneumcry,git,Creature List/23/ItemList/1/LocalizedName,0,테라네움 키
 thethelaeneumcry,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,엘레스트리엘의 갈대옷
-thethelaeneumcry,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,이 의복은 한때 드라너 신화의 테레니움 납골당의 엘레스트리얼 엘렌의 의복이었습니다.
+thethelaeneumcry,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,이 의복은 한때 미스 드란 신화의 테레니움 납골당의 엘레스트리얼 엘렌의 의복이었습니다.
 thethelaeneumcry,git,Creature List/23/Equip_ItemList/2/LocalizedName,0,엘레스트리엘의 수레주단
 thethelaeneumcry,git,Creature List/23/Equip_ItemList/2/DescIdentified,0,"이 종류 의 스태프 는 미묘 한 마법사 들 에게 매우 필요 한 보호 를 제공한다. 각 예 를 따라 방어 수준 은 달라지지만, 모두 유용 하다. 대부분 은 사용 이 아닌 악명 을 위해 만들어진 특정 제작자 의 표지 를 가지고 있지 않다."
 thethelaeneumcry,git,Door List/3/LocName,0,역장
@@ -10832,7 +10832,7 @@ module,jrl,Categories/6/Name,0,미리마르의 시체
 module,jrl,Categories/6/EntryList/0/Text,0,"세멘몬은 적에 대한 적극적인 조치를 취하고 있습니다. 그는 그의 군인들을 Halidom 스트리트 구에 마거 미리마르의 시체를 잡으러 보내고 시체가 그에게 전달되는 것을 확인하기를 원합니다. 나는 고대 미스 드라난 텔레포트 시스템을 사용하겠습니다. 기둥에 파워스톤을 넣고 활성화 된 후 ""TAWAR""라는 단어는 나를 동쪽 외곽으로 데려갈 것입니다. 임무가 완료되면 ""LOSTA""라는 단어는 나를 다시 젠타림 캠프로 데려갈 것입니다. 모든 것이 꽤 쉬운 것처럼 들지만 세멘몬은 그 시체에 대해 15000 시뮬러를 제공합니다. 그러한 임무에 대한 금이 매우 많습니다. 죽은 마거의 일부 친구 - 미스 기사들 -을 언급했습니다. 나는 세메논 박사와 이 임무가 끝나면 그들과 싸우는 데 끝납니다."
 module,jrl,Categories/6/EntryList/1/Text,0,들러는 현재 내게 어떤 임무도 없지만 그의 친구인 드라너 신화의 기사들은 동쪽에서 남성을 잃었습니다.
 module,jrl,Categories/6/EntryList/2/Text,0,세멘몬의 젠타림 군과 전화기에서 만났어요. 세멘몬은 누가 이 사업을 이끌지 확신하지 못했어요. 저는 이 게임을 멘즈베란잔에서 살았던 시절부터 잘 알고 있어요. 젠타림 선장은 결코 내 명령을 따르지 않을 거고 그의 사람들들은 그를 따라갑니다. 결국 나는 다시 혼자이고 그 젠타림들은 나에게 도움이 되지 않아요. 일이 거칠 때는 인간 방패로 유용하게 사용되길 바라요.
-module,jrl,Categories/6/EntryList/3/Text,0,"신화 드라너의 기사들은 이상한 사람들입니다. 그들은 경험이 풍부한 모험가들로 구성된 그룹으로, 신화 드라너를 지키기로 결정했습니다. 그들의 가장 존경받는 사람 중 한 명인 메리스는 내 인종에 대한 열정적인 증오를 가지고 있었고 나를 보내려고 최선을 다했습니다. 하지만 그의 아내 제사일은 다른 사람들에게 나의 참여를 허락하도록 설득했습니다. 하지만 여전히 그들이 무엇을 계획하고 있는지 말하지 않았습니다. 조성 스파이어 지역의 텔레포터에서 제사일과 그녀의 동료들을 만나게 될 것입니다."
+module,jrl,Categories/6/EntryList/3/Text,0,"미스 드란의 기사들은 이상한 사람들입니다. 그들은 경험이 풍부한 모험가들로 구성된 그룹으로, 미스 드란을 지키기로 결정했습니다. 그들의 가장 존경받는 사람 중 한 명인 메리스는 내 인종에 대한 열정적인 증오를 가지고 있었고 나를 보내려고 최선을 다했습니다. 하지만 그의 아내 제사일은 다른 사람들에게 나의 참여를 허락하도록 설득했습니다. 하지만 여전히 그들이 무엇을 계획하고 있는지 말하지 않았습니다. 조성 스파이어 지역의 텔레포터에서 제사일과 그녀의 동료들을 만나게 될 것입니다."
 module,jrl,Categories/6/EntryList/4/Text,0,"신화 드란노르의 기사들은 무례한 무대입니다. 나는 그들을 돕기 위해 왔지만, 그들 중 한 명인 메리스는 내 인종에 대한 강한 증오를 가지고 있으며 그의 모욕은 결국 참을 수 없다고 생각합니다."
 module,jrl,Categories/6/EntryList/5/Text,0,"전 젠타림족을 따라 동부의 유적지까지 따라갔습니다. 그들은 피투성이의 흔적을 따라 대형 건물, 아마도 사원이나 관청 건물 같은 곳으로 들어갔습니다."
 module,jrl,Categories/6/EntryList/6/Text,0,"피투성이 경로가 건물의 메인 홀에서 끝나 있습니다. 타림은 하퍼의 추가 흔적을 찾기 위해 건물을 검색하고 있습니다. 그들의 캡틴은 서쪽 낮은 레벨을 조사하도록 요청했습니다. 나는 그의 조롱스러운 말투를 좋아하지 않습니다. 낮은 레벨을 확인할 것이지만, 하퍼를 찾을 가능성이 더 높기 때문입니다."
@@ -10845,7 +10845,7 @@ module,jrl,Categories/6/EntryList/12/Text,0,하퍼의 시체를 확보했다. �
 module,jrl,Categories/6/EntryList/13/Text,0,"저는 제타림 수용소로 돌아왔지만, 더 이상 아무도 하퍼에 관심이 없는 것 같습니다. 세멘몬은 신비한 마순왕의 깜짝 방문을 받았습니다. 이 마법사는 그의 지도자라고 생각합니다. 어쩌면 제타림의 지도자일 수도 있습니다. 그들이 잠금된 문 뒤에서 무슨 말을 하는지는 모르지만, 마순왕이 그의 주지사의 일에 만족하지 않는 것 같다는 두려움이 있습니다."
 module,jrl,Categories/6/EntryList/14/Text,0,"세멘몬이 사라지고 만슈온이 이 곳을 장악했다. 아무도 반박하지 않고 모든 사람들이 마법사의 명령을 따르려는 마음이 크다. 그는 상당히 인상적인 권력의 향을 뿜어내고 있다. 만슈온은 하퍼가 죽은 것을 보고 기뻐했지만, 나에게 아무런 보상을 주지 않으려 한다. 그는 두 번째 임무를 요구한다. 두 배 아니면 아무 것도 없다. 이것은 저를 멘조베란잔을 떠올리게 한다."
 module,jrl,Categories/6/EntryList/15/Text,0,"신화 드란노르의 기사들 중 우호적인 마법사인 제사엘은 그녀의 잃어버린 친구에 대해 더 많이 이야기했습니다. 마법사 미리마르는 외부인들에 의해 함락당했습니다. 악마 또는 악마, 그녀는 확실하지 않았습니다. 그의 연습생만 탈출해서 Dawnspire에 도착했습니다. 우리는 미리마르를 찾기 위해 동부 지역으로 떠나고 있습니다. 그는 여전히 살아있는지 의심합니다. 어쨌든 우리는 고대 텔레포터들을 통과할 것입니다. 우리의 목적지에 대한 힘의 단어는 ... TAWAR입니다."
-module,jrl,Categories/6/EntryList/16/Text,0,신화 드라너의 기사들과 함께 동쪽 유적지에 도착했습니다. 피를 뿌린 길이 하나 더 큰 건물로 이어지고 있습니다. 기사들은 그 길을 따라 건물을 조사합니다.
+module,jrl,Categories/6/EntryList/16/Text,0,미스 드란의 기사들과 함께 동쪽 유적지에 도착했습니다. 피를 뿌린 길이 하나 더 큰 건물로 이어지고 있습니다. 기사들은 그 길을 따라 건물을 조사합니다.
 module,jrl,Categories/6/EntryList/17/Text,0,"이런 느낌이 이상하네요. 피의 흔적이 건물의 메인 홀에서 끝나는군요. 기사들은 더 효과적으로 건물을 검색하기 위해 분리되어 조사하기로 결정했고, 저는 서쪽 지하실을 더 자세히 살펴보기로 했습니다."
 module,jrl,Categories/6/EntryList/18/Text,0,서쪽 계단을 내려갔는데 누군가가 제 뒤에 문을 잠겼어요. 그 여인은 너무 친절했어요. 왜 저들을 데리고 나갔을까요? 아니면 이 함정인가요?
 module,jrl,Categories/6/EntryList/19/Text,0,저는 동물의 을 통해 싸웠고 다시 기사들을 찾았습니다. 그들은 나처럼 계단도 잠겨있다는 것을 알고 놀랐습니다. 코디도러에 또 다른 문을 잠겨 있습니다. 아마도 의 열쇠도 거기에 들어갑니다.
@@ -10897,7 +10897,7 @@ module,jrl,Categories/13/EntryList/6/Text,0,"난 드디어 새벽석에 도착�
 module,jrl,Categories/14/Name,0,리바르의 죽음
 module,jrl,Categories/14/EntryList/0/Text,0,"리바르는 공격하는 뼈들로부터 자신의 남자들을 지키면서 죽었습니다. 저는 그를 잘 몰랐지만, 그는 용감한 사람이었습니다. 티린타르의 홀에서 무덤에서 일어난 자들과 조심해야 합니다. 그들은 정말 강력합니다."
 module,jrl,Categories/15/Name,0,드라너 신화의 타락
-module,jrl,Categories/15/EntryList/0/Text,0,"""모루""의 자르너는 드라너 신화의 마지막 날들에 대한 기록을 찾고 있다. 그는 그러한 기록을 코르망토르 성의 도서관에서 찾을 수 있다고 믿는다. 그는 관대한 보상을 제공한다. 이것이 무슨 의미인지."
+module,jrl,Categories/15/EntryList/0/Text,0,"""모루""의 자르너는 미스 드란 신화의 마지막 날들에 대한 기록을 찾고 있다. 그는 그러한 기록을 코르망토르 성의 도서관에서 찾을 수 있다고 믿는다. 그는 관대한 보상을 제공한다. 이것이 무슨 의미인지."
 module,jrl,Categories/15/EntryList/1/Text,0,저너에게 그가 찾던 책을 가져왔다.
 module,jrl,Categories/16/Name,0,숲의 여주인
 module,jrl,Categories/16/EntryList/0/Text,0,"제가 알아야 했습니다. 미일리키라는 표면의 여신이 저를 감시하고 있습니다. 신화 드라너의 신화의 에너지원을 소비하는 데 고대 유물이 사용될 수 있다는 것을 알게 된 직후 저를 불러왔습니다. 만약 그녀가 옳다면, 그녀는 이 모든 것을 일종의 튜터링으로 간주하고 표면으로 어떻게 나가는지에 대한 몇 가지 팁을 주었습니다. 이상하지만, 그녀는 정말로 나를 표면 거주자로 바꿀 수 있다고 생각합니다. 나는 얼마나 오랫동안 그녀의 규칙을 연주할지 모르지만 표면 세계에 대해 배울 수있는 완벽한 기회입니다."
@@ -10917,7 +10917,7 @@ module,jrl,Categories/20/EntryList/2/Text,0,"세메몬은 원하던 동력원을
 module,jrl,Categories/21/Name,0,도서관 도감의 탐구
 module,jrl,Categories/21/EntryList/0/Text,0,성 도서관의 도서관은 신화적인 유령으로 낙하를 살아남았습니다. 그의 비단체적인 형태로라도 그는 성의 갈고릴 침습에 대한 신화 드라난 지식의 유물을 보호하려고 노력합니다. 분명히 그는 갈고릴만큼 익사하는 것을 혐오하지만 여전히 그는 그의 고대 지식을 내게 갈고릴 위협을 제거하는 상으로 제공합니다. 나는 성 벽 안에 마법의 포털을 찾아 파괴해야합니다.
 module,jrl,Categories/21/EntryList/1/Text,0,"다른 곳으로 가는 포털을 찾았어. 지옥처럼 보호받았지만, 마침내 파괴할 수 있었지. 이제 그 생물들의 흐름이 멈추길 희망해."
-module,jrl,Categories/21/EntryList/2/Text,0,저는 도서관장에게 포털과 그 파괴에 대해 말씀드렸습니다. 그는 기뻐했습니다. 그는 자신의 거고일 문제 해결이 눈앞에 보이자 매우 기뻐했다는 생각이 듭니다. 그리고 그는 고대 신화 드라너에 대한 정보를 제공하겠다고까지 제게 제안했다는 사실이 믿을 수 없습니다. 표면 엘프의 유령은 우리의 적들의 고대 지식을 알려주며 저에게 도움을 주고 있습니다. 이상합니다.
+module,jrl,Categories/21/EntryList/2/Text,0,저는 도서관장에게 포털과 그 파괴에 대해 말씀드렸습니다. 그는 기뻐했습니다. 그는 자신의 거고일 문제 해결이 눈앞에 보이자 매우 기뻐했다는 생각이 듭니다. 그리고 그는 고대 미스 드란에 대한 정보를 제공하겠다고까지 제게 제안했다는 사실이 믿을 수 없습니다. 표면 엘프의 유령은 우리의 적들의 고대 지식을 알려주며 저에게 도움을 주고 있습니다. 이상합니다.
 module,jrl,Categories/22/Name,0,일곱 칼
 module,jrl,Categories/22/EntryList/0/Text,0,송가의 집의 진이 노래를 해방시킬 방법을 찾으면 강력한 유물에 대한 지식을 제공했다.
 module,jrl,Categories/22/EntryList/1/Text,0,진은 강력한 검인 '에니얼나'를 찾고 있습니다. 그것은 일곱 부분으로 나뉘어 신화 드란노르의 가장 신뢰할 수 있는 챔피언에게 주어졌습니다. 진은 그 모든 년 이후에도 그 부분들이 여전히 도시에서 숨겨져 있다고 주장합니다. 그녀의 종인 아르토는 그 부분 중 하나를 가지고 도망쳤습니다. 다른 하나는 선두쿨의 왕좌에 있어야합니다. 진은 그 일곱 부분들에 대한 더 많은 정보를 성에서 찾을 수 있다고 생각합니다.
@@ -10938,7 +10938,7 @@ module,jrl,Categories/24/EntryList/1/Text,0,스파이더 여왕이 다시 전화
 module,jrl,Categories/24/EntryList/2/Text,0,"스파이더 여왕이 다시 전화를 걸었습니다. 신화적인 전력원을 배수할 때 미탈러들이 만들어내는 에너지 투입에 열망한다는 것은 분명합니다. 그녀는 나에게 거룩한 물 한 병을 발견했습니다. 나는 그 잔해에서 어딘가에서 찾았습니다. 그리고 그것을 내게 가져갔습니다. 내가 이해한 것만큼, 물은 오래된 신을 재탄생시키는 힘을 가지고있었습니다. 어쨌든 스파이더 여왕은 내게 가져갔습니다. 다시 그녀는 표면 정착지를 던져달라고 촉구합니다. 나는 혼란에 빠졌습니다. 나는 그녀를 기쁘게하는 방법을 찾아야합니다."
 module,jrl,Categories/24/EntryList/3/Text,0,스파이더 여왕이 다시 전화를 걸었습니다. 신화적인 전력원을 배수할 때 미탈러가 만들어내는 에너지 부품을 갈망한다는 것은 분명합니다. 그녀는 점점 더 내 행동에 대해 불태워지고 있습니다. 그리고 내가 만난 표면 정착을 혼란에 던져주라고 촉구합니다. 다음 번에 저를 불러올 때까지 그녀를 기쁘게 할 방법을 찾아야 합니다.
 module,jrl,Categories/25/Name,0,세 번째 악신
-module,jrl,Categories/25/EntryList/0/Text,0,제너는 신화 드라너의 멸망에 대해 이야기했어. 세 마리의 악마가 실수로 감옥에서 풀려나 Moonsea 지역을 정복하기 위해 군대를 결성했지. 결국 그들은 신화 드라너에 대항하여 군대를 이끌고 파괴했어. 그 중 두 마리의 악마가 죽었지만 세 번째의 위치는 아직 알려져 있지 않아. 아마 그는 폐허에서 찾을 수 있을지도 몰라.
+module,jrl,Categories/25/EntryList/0/Text,0,제너는 미스 드란의 멸망에 대해 이야기했어. 세 마리의 악마가 실수로 감옥에서 풀려나 Moonsea 지역을 정복하기 위해 군대를 결성했지. 결국 그들은 미스 드란에 대항하여 군대를 이끌고 파괴했어. 그 중 두 마리의 악마가 죽었지만 세 번째의 위치는 아직 알려져 있지 않아. 아마 그는 폐허에서 찾을 수 있을지도 몰라.
 module,jrl,Categories/25/EntryList/1/Text,0,"티란트라크스, 세 번째 악마는 여전히 살아 있고 그는 미스 드라너의 깊숙한 곳에 있습니다."
 module,jrl,Categories/25/EntryList/2/Text,0,"무덤 밑에 티란트라크스를 만났어요. 그는 저를 공격해서 죽이려고 했습니다. 그의 존재는 압도적이었지만, 저는 어떻게든 살아남을 수 있었습니다. 저는 그 어떤 사람과도 싸웠지만, 이 생물은 제가 본 적보다 강했습니다. 그는 제 마음을 침략하려고 시도했고, 제 유물만이 제 통제력을 잃는 것을 구했습니다."
 module,jrl,Categories/25/EntryList/3/Text,0,"이 모든 것들이 어떻게 결합되는지는 이상합니다. 저는 거의 이 악마와 다시 마주칠 것이라는 것을 알고 있었습니다. 저는 그 표면 주민들의 행동에 놀랐습니다. 제가 교단의 굴에서 돌아왔을 때 그들은 친절하고 친절합니다. 모든 사람들이 저에게 항상 그들에게 속한 것처럼 대우합니다. 그들은 저를 속였을 수도 있지만, 실제로 그들이 지금 저를 신뢰한다고 생각합니다. 내가 본 것에서 판단하면, 표면 주민들의 진정한 힘은 그들의 무기의 힘이 아닙니다. 그것은 그들이 서로를 돕고 협력하는 방식입니다. 마법사 엘민스터는 다시 티란트라크스를 함락하려는 시도에서 그들과 함께 하라고 요청했습니다. 나는 준비가 될 때 북쪽 외곽에서 그들을 만날 것입니다."
@@ -10979,14 +10979,14 @@ adventuringpries,utc,Description,0,"Dawnspire는 14명의 모험적인 사제들
 alaecathra,utc,FirstName,0,아비스 알레카트라 쉬인론드
 alaecathra,utc,Description,0,"알레카트라는 미스 드란의 '새벽의 구도자들'을 이끈다. 라산더, 즉 아침의 군주의 교단인 이 분파는 전설적인 미스 드란을 수리하고 재건하는 데 헌신한다. 알레카트라는 눈빛이 빛나고 열정적이며 친절하다. 작은 체구에도 권위 있는 지도자이고 두려움을 모른다. 라산더를 가장 잘 섬길 수 있다면 망설임 없이 자신을 희생할 것이다."
 alaecathra001,utc,FirstName,0,선구자 들라 철관
-alaecathra001,utc,Description,0,"군들라 아이언크라운은 신화의 새벽 수사단 드라너의 순위에서 두 번째 지휘관으로 있으며, 활동적인 모험 시절 많은 전투를 겪은 후 Dawnspire의 방어를 감독하고 있습니다."
+alaecathra001,utc,Description,0,"군들라 아이언크라운은 신화의 새벽 수사단 미스 드란의 순위에서 두 번째 지휘관으로 있으며, 활동적인 모험 시절 많은 전투를 겪은 후 Dawnspire의 방어를 감독하고 있습니다."
 alaecathra002,utc,FirstName,0,찌꺼기
 alaecathra002,utc,LastName,0,우드
 avataroflolth,utc,FirstName,0,로스의 화신
 avatarofmielikki,utc,FirstName,0,미엘리키
 avatarofvhaeraun,utc,FirstName,0,화신 바에라운
 baerant,utc,FirstName,0,베란트 텔차르
-baerant,utc,Description,0,"베란트 텔차르는 드라너 신화로 많은 전투에 나서는 추운 지도자였다. 그는 순찰대와 함께 사라지기 전까지 새벽 수사자들의 고위 멤버였는데, 분명히 그는 급격히 변화했고 이제 더 이상 새벽의 신에게 충성하지 않는 것으로 보인다."
+baerant,utc,Description,0,"베란트 텔차르는 미스 드란 신화로 많은 전투에 나서는 추운 지도자였다. 그는 순찰대와 함께 사라지기 전까지 새벽 수사자들의 고위 멤버였는데, 분명히 그는 급격히 변화했고 이제 더 이상 새벽의 신에게 충성하지 않는 것으로 보인다."
 barmaid,utc,FirstName,0,바텐더
 basilisk001,utc,FirstName,0,바실리스크
 beastmalar003,utc,FirstName,0,말라의 야수
@@ -11027,7 +11027,7 @@ drgred004,utc,FirstName,0,고대 적룡
 drider005,utc,FirstName,0,드라이더
 drowfight021,utc,FirstName,0,롤미어
 drowfight021,utc,LastName,0,일프키어
-drowfight021,utc,Description,0,"미르 일푸키어 (Llomir Ilphukiir) 는 피우비엔의 중위원 중 한 명이었다. 그는 테트'네스 (Tet'ness) 에 충실히 충성하면서 계급을 얻었고, 표면과 그 너머로 여행하는 동안 많은 어려움에서 살아남았다. 어둠의 엘프는 심지어 아세레크의 무덤에서의 마지막 모험에 당신과 함께 있었고, 데미리치와의 마지막 전투에서 당신과 함께했다."
+drowfight021,utc,Description,0,"미르 일푸키어 (Llomir Ilphukiir) 는 피위비엔의 중위원 중 한 명이었다. 그는 테트'네스 (Tet'ness) 에 충실히 충성하면서 계급을 얻었고, 표면과 그 너머로 여행하는 동안 많은 어려움에서 살아남았다. 어둠의 엘프는 심지어 아세레크의 무덤에서의 마지막 모험에 당신과 함께 있었고, 데미리치와의 마지막 전투에서 당신과 함께했다."
 elminster,utc,FirstName,0,엘민스터
 emrockuerngulphi,utc,FirstName,0,에머록
 emrockuerngulphi,utc,LastName,0,우어링글프임
@@ -11113,7 +11113,7 @@ librarian,utc,FirstName,0,도서관사
 lich003,utc,FirstName,0,아사마스 네이드레
 llomir02,utc,FirstName,0,롤미어
 llomir02,utc,LastName,0,일프키어
-llomir02,utc,Description,0,롯미르 일푸키어 (Llomir Ilphukiir) 는 피우비엔의 새로운 중위원 중 한 명이다. 그는 테트'네스 (Tet'ness) 에 충실히 충성하면서 계급을 얻었다. 최근 어려움 속에서도 그는 머리를 낮추고 아무런 문제가 발생하지 않고 길을 걷게 된 것으로 보인다.
+llomir02,utc,Description,0,롯미르 일푸키어 (Llomir Ilphukiir) 는 피위비엔의 새로운 중위원 중 한 명이다. 그는 테트'네스 (Tet'ness) 에 충실히 충성하면서 계급을 얻었다. 최근 어려움 속에서도 그는 머리를 낮추고 아무런 문제가 발생하지 않고 길을 걷게 된 것으로 보인다.
 llurella,utc,FirstName,0,루렐라
 llurella,utc,LastName,0,슐스타르
 llurella,utc,Description,0,"류렐라는 냉혹하고 무자비한 살인자다. 뛰어난 무용수이자 곡예사이고, 노래 실력도 꽤 괜찮으며, 때때로 밤의 여인으로 일한다. 구조를 기다리는 귀족 여인으로 변장할 수 있도록 값비싼 드레스 두 벌도 가지고 다닌다."
@@ -11157,7 +11157,7 @@ nachnotu_shad,utc,FirstName,0,뱀파이어 박쥐
 nachnotu_shad001,utc,FirstName,0,뱀파이어 박쥐
 narm,utc,FirstName,0,나르름
 narm,utc,LastName,0,타마라이트
-narm,utc,Description,0,"나름은 11살 때, 경쟁자와의 싸움에서 방황하는 불구로로 고아되었다. 부모를 살해한 마법사에게 복수를 맹세한 그는 쓴소리하고 게으른 마법사 미림마르의 제자로 들어갔다. 멘토가 마우스 드라너의 악마가 뒤덮은 유해 탐사 중 사망한 후, 그는 성드릴 셰샤이르가 드래곤의 종파에 의해 포로로 잡혀있는 것을 보았다."
+narm,utc,Description,0,"나름은 11살 때, 경쟁자와의 싸움에서 방황하는 불구로로 고아되었다. 부모를 살해한 마법사에게 복수를 맹세한 그는 쓴소리하고 게으른 마법사 미림마르의 제자로 들어갔다. 멘토가 마우스 미스 드란의 악마가 뒤덮은 유해 탐사 중 사망한 후, 그는 성드릴 셰샤이르가 드래곤의 종파에 의해 포로로 잡혀있는 것을 보았다."
 noblfemale001,utc,FirstName,0,네오메르
 oluubarga,utc,FirstName,0,오루바르가
 orcmercleader,utc,FirstName,0,반오크 용병 지도자
@@ -11345,7 +11345,7 @@ dunbarnotes,uti,DescIdentified,0,"오나글림의 고렘들 작업은 끝났습�
 dwarvenmasterpie,uti,LocalizedName,0,드워프 걸작
 dweoramus,uti,LocalizedName,0,듀라무스
 elestrielsrobe,uti,LocalizedName,0,엘레스트리엘의 갈대옷
-elestrielsrobe,uti,DescIdentified,0,이 의복은 한때 드라너 신화의 테레니움 납골당의 엘레스트리얼 엘렌의 의복이었습니다.
+elestrielsrobe,uti,DescIdentified,0,이 의복은 한때 미스 드란 신화의 테레니움 납골당의 엘레스트리얼 엘렌의 의복이었습니다.
 ellestrielsstaff,uti,LocalizedName,0,엘레스트리엘의 수레주단
 ellestrielsstaff,uti,DescIdentified,0,"이 종류 의 스태프 는 미묘 한 마법사 들 에게 매우 필요 한 보호 를 제공한다. 각 예 를 따라 방어 수준 은 달라지지만, 모두 유용 하다. 대부분 은 사용 이 아닌 악명 을 위해 만들어진 특정 제작자 의 표지 를 가지고 있지 않다."
 elminstersrobe,uti,LocalizedName,0,엘민스터의 옷
@@ -11422,7 +11422,7 @@ it_mring008,uti,LocalizedName,0,파타 모르가나의 반지
 it_mring009,uti,LocalizedName,0,마음의 반지
 it_wpwhip001,uti,LocalizedName,0,피우비안의 지팡이
 item,uti,LocalizedName,0,덤바르의 마법적 창조 책
-item,uti,Description,0,"이 책에는 고대 드라너의 유명한 무기 제작자 던바르 해머피스트의 노트가 담겨 있습니다. 그는 무기와 갑옷의 마법적 강화 연구에 대부분의 재산을 투자했으며, 이 책에서 그 결과를 기록했습니다."
+item,uti,Description,0,"이 책에는 고대 미스 드란의 유명한 무기 제작자 던바르 해머피스트의 노트가 담겨 있습니다. 그는 무기와 갑옷의 마법적 강화 연구에 대부분의 재산을 투자했으며, 이 책에서 그 결과를 기록했습니다."
 item001,uti,LocalizedName,0,바르의 일기
 item001,uti,DescIdentified,0,"덤바르의 유제품 (확인된 설명): 이 책은 덤바르 해머피스트의 일기이다. 그는 그의 생각, 계획, 실험을 기술한다. 마지막 항목은 신화 드란노르의 포위에 관한 것이다. 마지막 항목은 다음과 같다: ""...내 모든 귀중한 무기와 갑옷은 수비자들에게 전달되지만 여전히 생존의 기회는 감소하고 있습니다. 고렘은 이기지 못할 전투자이지만 보이지 않는 생물들을 볼 수 없습니다. 나는 시내 중심에 마지막 정장에 합류 할 때 그들을 내 작업장을 지키도록 떠날 것입니다. 우리의 희생은 우리 가족들이 탈출할 충분한 시간을 얻을 수 있기를 바랍니다 ..."
 item002,uti,LocalizedName,0,리바르의 시체는
@@ -11468,7 +11468,7 @@ maarcl005,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인
 maarcl036,uti,LocalizedName,0,노움 사슬갑옷
 maarcl036,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
 maarcl039,uti,LocalizedName,0,사슬갑옷
-maarcl039,uti,DescIdentified,0,"드로 무기공들은 그들의 숙달로 잘 알려져 있다. 이 갑옷은 귀족의 직무를 수행하는 낮은 계급의 드로 전사들의 표준 갑옷이다. 이 갑옷은 일로미르 이프후키르가 소유하던 것으로, 일로미르가 표면에서 길을 찾아야 할 때 햇빛에 의해 심각하게 손상되었다. 이전 마법의 많은 것이 현재 사라졌으며, 이 갑옷은 여전히 손상된 상태이다."
+maarcl039,uti,DescIdentified,0,"드로우 무기공들은 그들의 숙달로 잘 알려져 있다. 이 갑옷은 귀족의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷이다. 이 갑옷은 일로미르 이프후키르가 소유하던 것으로, 일로미르가 표면에서 길을 찾아야 할 때 햇빛에 의해 심각하게 손상되었다. 이전 마법의 많은 것이 현재 사라졌으며, 이 갑옷은 여전히 손상된 상태이다."
 maarcl040,uti,LocalizedName,0,사슬갑옷 +1
 maarcl040,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
 maarcl041,uti,LocalizedName,0,Drow 체인메일
@@ -11477,10 +11477,10 @@ maarcl043,uti,LocalizedName,0,Drow 체인메일
 maarcl043,uti,DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
 maarcl108,uti,LocalizedName,0,가죽 갑옷 +1
 maarcl108,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
-maarcl109,uti,LocalizedName,0,피우비엔의 갑옷
+maarcl109,uti,LocalizedName,0,피위비엔의 갑옷
 maarcl109,uti,Description,0,이 사슬갑옷은 하우스 테트니스의 높은 계급 귀족들을 위해 만들어진 것임을 분명히 알 수 있습니다.
 maarcl109,uti,DescIdentified,0,Piewiewiens 사슬갑옷. 이 갑옷은 가장 훌륭한 아담아티트로 만들어져 있어 착용자에게 높은 수준의 보호를 제공하면서도 매우 가볍고 유연하다. 이 갑옷은 하우스 테트니스의 높은 계급 귀족들을 위해 제작된 것으로 분명히 인식된다.
-maarcl110,uti,LocalizedName,0,피우비엔스 피와프위
+maarcl110,uti,LocalizedName,0,피위비엔스 피와프위
 maarcl110,uti,DescIdentified,0,이 피와프위 (Piwafwi) 는 익사 귀족의 표시로 분명하게 인식됩니다. 그것은 롤스의 사제인 피우비엔 테트네스 (Piwiewien Te'tness) 에 속했습니다. 다른 귀족들 앞에서 이 모자를 착용하는 것은 위험할 수 있습니다.
 magicalmirror,uti,LocalizedName,0,마법적 거울
 magicalmirror,uti,DescIdentified,0,이 거울은 젠타림의 만슈온 경과 접촉할 수 있어
@@ -11514,9 +11514,9 @@ mythallarlolt02,uti,Description,0,"이 미살라는 네테릴의 아크메가 �
 mythallarlolt03,uti,LocalizedName,0,미살라
 mythallarlolt03,uti,Description,0,"이 미살라르는 네테릴의 아크메이지 아세레라크가 만들어냈고, 수천 년 동안 마치의 삶을 유지하기 위해 그의 자연스럽지 않은 생명을 지탱했습니다. 미살라르의 사용은 어렵고 그에 대한 많은 지식은 시간의 깊이 속으로 사라졌습니다. 당신이 알 수 있는 한, 이 유물은 적어도 네 가지 능력을 가지고 있습니다."
 mythallarlolth,uti,LocalizedName,0,미살라
-mythallarlolth,uti,Description,0,"이 미살라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 드워의 일당에 의해 패배했다. 미살라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수 있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
+mythallarlolth,uti,Description,0,"이 미살라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 드로우의 일당에 의해 패배했다. 미살라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수 있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
 mythallarmiel,uti,LocalizedName,0,미살라
-mythallarmiel,uti,Description,0,"이 미살라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 드워의 일당에 의해 패배했다. 미살라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수 있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
+mythallarmiel,uti,Description,0,"이 미살라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 드로우의 일당에 의해 패배했다. 미살라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수 있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
 mythallarmiel02,uti,LocalizedName,0,미살라
 mythallarmiel02,uti,Description,0,"이 미살라는 네테릴의 아크메가 아세레라크에 의해 만들어졌으며, 그는 수천 년 동안 자연스럽지 않은 삶을 유지하기 위해 이 미살라를 유지했다. 미살라를 사용하는 것은 어렵고, 그것에 대한 많은 지식은 시간의 깊이 속에서 잊혀졌습니다. 당신이 발견할 수 있는 한, 이 유물은 적어도 세 가지 능력을 가지고 있습니다."
 mythallarmiel03,uti,LocalizedName,0,미살라
@@ -11526,7 +11526,7 @@ mythallarvhae02,uti,Description,0,"이 미살라는 네테릴의 아크메가 �
 mythallarvhae03,uti,LocalizedName,0,미살라
 mythallarvhae03,uti,Description,0,"이 미살라르는 네테릴의 아크메이지 아세레라크가 만들어냈고, 수천 년 동안 마치의 삶을 유지하기 위해 그의 자연스럽지 않은 생명을 지탱했습니다. 미살라르의 사용은 어렵고 그에 대한 많은 지식은 시간의 깊이 속으로 사라졌습니다. 당신이 알 수 있는 한, 이 유물은 적어도 네 가지 능력을 가지고 있습니다."
 mythallarvhaer,uti,LocalizedName,0,미살라
-mythallarvhaer,uti,Description,0,"이 미살라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 드워의 일당에 의해 패배했다. 미살라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수 있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
+mythallarvhaer,uti,Description,0,"이 미살라르는 네테릴의 아케르라크가 만든 것으로 수천 년 동안 그의 비자연적인 삶을 유지했다. 마침내 드로우의 일당에 의해 패배했다. 미살라르의 사용은 어렵고 그것에 대한 많은 지식은 시간의 깊이에서 사라졌습니다. 당신이 발견 할 수 있는 한, 이 유물은 적어도 두 가지 능력을 가지고 있습니다."
 nachnoturobe,uti,LocalizedName,0,나흐노투의 갈대옷
 nachnoturobe,uti,DescIdentified,0,이 옷은 신화 드라너의 뱀파이어 왕인 나흐노투의 옷이었는데
 necronomicon,uti,LocalizedName,0,네크로노미콘
@@ -11546,7 +11546,7 @@ oneofsevenlightn,uti,LocalizedName,0,일곱째 (번개)
 oneofsevenmagic,uti,LocalizedName,0,일곱 명 중 한 명 (마법적)
 orcarmour,uti,LocalizedName,0,오르키스 사슬
 orcleadersnote,uti,LocalizedName,0,오크 지도자 노트
-orcleadersnote,uti,DescIdentified,0,오크들은 멍청하지만 우리는 아니야. 새 드루이드를 죽이고 그의 물건을 가져오라고 그는 우리를 보내려고 해. 우리는 죽이지만 나머지에 대해서는 아직 결정하지 않았어...
+orcleadersnote,uti,DescIdentified,0,오크들은 멍청하지만 우리는 아니야. 새 드로우를 죽이고 그의 물건을 가져오라고 그는 우리를 보내려고 해. 우리는 죽이지만 나머지에 대해서는 아직 결정하지 않았어...
 painting,uti,LocalizedName,0,그림
 painting001,uti,LocalizedName,0,그림
 painting002,uti,LocalizedName,0,그림
@@ -11607,7 +11607,7 @@ thelaeneumkey,uti,LocalizedName,0,테라네움 키
 themirror,uti,LocalizedName,0,거울
 themirror,uti,DescIdentified,0,이 전설적인 방패는 한때 페르세우스가 전설적인 메두사와의 전투에서 사용했습니다. 이 고대 전설은 마법의 짐승들이 꽤 흔한 시대에 약간 이상하게 들리지만 여전히 방패는 모든 기화 공격으로부터 큰 보호를 제공합니다.
 trappersgauntlet,uti,LocalizedName,0,트랩퍼 장갑
-trappersgauntlet,uti,DescIdentified,0,이 장갑은 드워 선구자의 함정을 설정하는 능력을 향상시키기 위해 만들어졌습니다.
+trappersgauntlet,uti,DescIdentified,0,이 장갑은 드로우 선구자의 함정을 설정하는 능력을 향상시키기 위해 만들어졌습니다.
 twistedarmordawn,uti,LocalizedName,0,새벽 경비병의 왜곡된 갑옷
 twistedarmordawn,uti,Description,0,이 갑옷의 은은 다정한 빛으로 빛나는 것 같습니다.
 wammbo005,uti,LocalizedName,0,관통의 관통화살
@@ -11632,7 +11632,7 @@ wblmfh009,uti,LocalizedName,0,약탈자 +1
 wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblmhw003,uti,LocalizedName,0,노움 전쟁망치
 wblmhw003,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
-wblmhw012,uti,LocalizedName,0,드워드 드루미
+wblmhw012,uti,LocalizedName,0,드로우드 드루미
 wblmhw012,uti,DescIdentified,0,이 무기는 드로우를 죽이기 위해 특별히 설계되었습니다.
 wblmml009,uti,LocalizedName,0,병사의 힘
 wblmml009,uti,DescIdentified,0,"알가로운드 군대의 중위들은 이러한 무기를 받았다고 전해진다. 하지만 그 무기의 결함에 대해 알려지지 않았다. 많은 무기사들이 죽었지만, 모두 용감하게 싸워 영웅의 명예를 얻었다. 이러한 결함 있는 무기에 책임 있는 장군들은 처벌을 피했고, 오늘날 그들은 존경받는 죽은 사람들 중 하나로 기억된다."
