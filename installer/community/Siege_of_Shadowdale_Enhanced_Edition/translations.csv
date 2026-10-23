@@ -224,7 +224,7 @@ ls_grimbold,dlg,EntryList/0/Text,0,"""Arr, 당신은 충분히 멀리 왔어! �
 ls_grimbold,dlg,EntryList/1/Text,0,"""그래, 결국에는 항상 비즈니스가 문제였어."""
 ls_grimbold,dlg,EntryList/2/Text,0,<StartCheck>[실패]</Start>###########################################
 ls_grimbold,dlg,EntryList/3/Text,0,"<StartAction>[성공]</Start> ""아... 맞아. 나는 늙었지만 아직 쉽게 죽고 싶지 않아. 잘 찾아오길 바라."""
-ls_grimbold,dlg,EntryList/4/Text,0,"""어? 그건 대단한 주장을 하네. 그러고 보니, 아이들을 납치하는 일 같은 건 별로 좋아하지 않아. 그래서 500골드로 설득할 수 있을지도 모르지. 1,000골드를 주면 심지어 편을 바꿀지도 모르겠다."""
+ls_grimbold,dlg,EntryList/4/Text,0,"""응? 대단한 주장이로군. 이렇게 하지. 난 아이들을 납치하는 짓 같은 건 별로 좋아하지 않으니, 500골드... 아... 500골드면 물러서도록 설득될 수도 있겠지. 1,000골드를 주면 아예 편을 바꿔 주지."""
 ls_grimbold,dlg,EntryList/5/Text,0,"""그건 아쉽지만, 나는 자선 단체가 아니야. 우리는 그냥 <race>에서 문제를 해결해야 해."""
 ls_grimbold,dlg,EntryList/6/Text,0,"""네, 그렇게 하겠고, 기뻐할게. 좋은 행운을!"""
 ls_grimbold,dlg,EntryList/7/Text,0,"""여호와 사업을 하게 되어 즐거웠습니다. 아래층의 익사 캠프 근처에서 만나겠습니다."""
@@ -381,7 +381,7 @@ ls_jhaele,dlg,EntryList/17/Text,0,"켈라는 좋은 여자지만, 사실 조금 
 ls_jhaele,dlg,EntryList/18/Text,0,"""지금 당신이 언급한 것은, 남쪽 농장에서 약간의 문제가 있었습니다. 가축이 사라졌는데, 그건 이상한 일입니다. 여기 사람들은 주로 정직한 사람들입니다. 쿨너 오하네와 이야기하십시오. 남쪽으로 내려가는 길을 따라가십시오. 그의 농장은 당신이 처음 도착할 것입니다""."
 ls_jhaele,dlg,EntryList/19/Text,0,"""이 이름은 북쪽 델에 있는 거대한 화산 암석에서 따온 것입니다. 우리는 이 암석을 '구골'이라고 부르는데, 그 모양과 색이 흰색으로 둥글게 뾰족해 두골과 비슷합니다."""
 ls_jhaele,dlg,EntryList/20/Text,0,"""좋아 들리지 않아. 계속..."""
-ls_jhaele,dlg,EntryList/21/Text,0,"""오, 그녀는 정말 어린 여자애였군! 누가 어떻게 그런 일을 할 수 있었을까? 케라는 최근에 아치엔달의 형제가 방문한 적이 있었다. 당신이 이 'N'이 숙소에서 머물렀다고 말했다면, 여기 객실의 주요 열쇠가 있다. 그를 정의 앞에 데려가라."""
+ls_jhaele,dlg,EntryList/21/Text,0,"""아, 불쌍한 아가씨! 너무 어렸는데! 어떻게 누가 그런 짓을? 켈라에게 최근 남자 손님이 있었어요. 아켄데일에서 온 오빠였죠. 당신... 이 'N'이 이 여관에 묵었다고 하셨죠? 여기 객실 마스터키예요. 그를 법의 심판대에 세워 주세요."""
 ls_jhaele,dlg,EntryList/22/Text,0,"""환영합니다. 뭔가 필요하신가요?"""
 ls_jhaele,dlg,EntryList/24/Text,0,"""이걸 받아가세요. 우리가 합의한 것보다 더 많은데, 당신은 그녀의 살인자를 체포하면서 목숨을 걸었습니다. 저는 조금의 시간을 내 슬픔을 느끼고 나머지 직원들에게 이 끔찍한 소식을 알릴 필요가 있습니다. 그들은 이것을 심각하게 받아들일 것입니다."""
 ls_jhaele,dlg,EntryList/25/Text,0,"""당신... 그렇게 할 수 있나요? 나는 당신의 목소리가 매우 좋다고 느낄 수 있습니다. 그렇게 되면, 내 오두막에서 공연해 주실 수 있다면 영광이 될 것입니다."""
@@ -1548,7 +1548,7 @@ cormanthyrhousej,git,Creature List/16/FirstName,0,엘프 순찰자
 cormanthyrhousej,git,Creature List/17/FirstName,0,엘프 순찰자
 cormanthyrhousej,git,Creature List/18/FirstName,0,엘프 순찰자
 cormanthyrhousej,git,SoundList/0/LocName,0,모닥불
-cormanthyrhousej,git,SoundList/1/LocName,0,모닥불 & 팟
+cormanthyrhousej,git,SoundList/1/LocName,0,모닥불과 솥
 cormanthyrhousej,git,SoundList/2/LocName,0,모닥불
 cormanthyrhousej,git,TriggerList/0/LocalizedName,0,뉴 에이리어 트랜지션
 cormanthyrhousej,git,TriggerList/2/LocalizedName,0,새 일반
@@ -2581,7 +2581,7 @@ module,jrl,Categories/2/EntryList/2/Text,0,"당신은 거짓 주주인 제르하
 module,jrl,Categories/3/Name,0,축하합니다!
 module,jrl,Categories/3/EntryList/0/Text,0,"이 모듈 제작에 기여한 훌륭한 사람들의 목록은 아래 있습니다. 프로젝트 Q v4 컨텐츠 Tom Ventre의 프로젝트 Q 팀 시네마틱 아트 Tom Ventre의 로버트 J Bayley의 Elminster 초상화 예술 Tom Ventre의 마법사의 다른 사용자 지정 초상화 예술 데이브 존의 사용자 지정 음악 에드 그린우드, 로브 바르텔, 케빈 스미스, 폴 스티어 메리, 앨런 미란다, 오시안 스튜디오 Inc., 바이오웨어 Inc., 그리고 비엄 Inc. 이 모듈 제작에 기여한 훌륭한 사람들의 목록입니다. 이 모듈을 가능하게 하는 데 도움이 된 모든 민중 관대적인 기여에 대한 큰 호평을 전해야 합니다. 이 모듈의 개발에 대한 최신 정보를 확인하려면 https://www.patreon.com/luk을 방문하십시오."
 module,jrl,Categories/4/Name,0,드루이드의 숲
-module,jrl,Categories/4/EntryList/0/Text,0,"카슬 크래그를 탐험하면서 아나벨이라는 드루이드를 구해냈고, 최근에 인근 드루이드 숲에서 죽은 용을 숭배하는 종파가 들어왔다고 알려줬으며, 그들에게 무엇을 꾀고 있는지 알아보라고 요청했다."
+module,jrl,Categories/4/EntryList/0/Text,0,크라그 성을 탐험하던 중 지하 감옥에서 아나벨이라는 드루이드를 구해냈다. 그녀는 죽은 용을 숭배하는 사교 집단이 최근 인근 드루이드 숲을 장악했다고 말했다. 그곳에 가서 사교도들이 무엇을 꾸미는지 알아봐 달라고 부탁했다.
 module,jrl,Categories/4/EntryList/1/Text,0,"드루이드 숲의 종파들은 드래곤 종파의 전 멤버가 이끌었고, 그는 심지어 악명 높은 조직조차도 용납할 수 없을 정도로 미쳤다는 것을 증명했습니다. 종파들은 드라콜리히와 비슷한 무사한 용을 만들 수 있는 의식을 수행했지만 실패했고, 대신 정신이 없는 좀비 용이 격렬하게 일어났습니다. 다행히 당신은 그것을 파괴할 수 있었습니다."
 module,jrl,Categories/5/Name,0,고블린 랜더스
 module,jrl,Categories/5/EntryList/0/Text,0,"당신은 쉐도우데일 남쪽의 농장을 습격하고 파괴하는 괴물들을 사냥하고 파괴하기로 합의했습니다. 특히 쿨너 오하네의 농장을 습격했습니다. 그들은 스킨홀의 바닥에 있는 터널의 잔해에 숨어 있습니다. 터널에 들어가려면 경호인 라스트에게 쿨너의 반지를 제시해야 합니다. 리더인 마그블랫이 죽은 후에는, 당신은 250 개의 금 조각의 보상을 위해 쿨너로 돌아가야합니다. 괴물 리더의 머리는 당신의 성공의 증거로 요구됩니다."
@@ -2644,7 +2644,7 @@ module,jrl,Categories/17/EntryList/8/Text,0,"전설적인 드라너 신화의 �
 module,jrl,Categories/18/Name,0,타워의 배신자
 module,jrl,Categories/18/EntryList/0/Text,0,타워 안에 배신자가 있다는 지적이 있는 문자를 발견했으니 모어그림에 신고해야 해
 module,jrl,Categories/18/EntryList/1/Text,0,"스코티 암카트라는 신비롭게 사라졌으며, 그가 배신자라는 증거가 발견되자 그를 찾는 것이 필요하다. 탑에서 발걸음은 되돌려보고, 발견할 수 있는 것을 확인해봐야 한다."
-module,jrl,Categories/18/EntryList/2/Text,0,'스코티'는 '스코티'를 살해한 뒤 당신을 공격해 그의 진짜 형태를 드러냈다.
+module,jrl,Categories/18/EntryList/2/Text,0,"당신은 다크엘프에게 둘러싸인 스코티로 보이는 자를 발견했다. 드로우를 처치하자 '스코티'가 당신을 공격하며 정체를 드러냈다. 도플갱어였다. 죽기 전, 사악한 변신자는 진짜 스코티 암카트라가 드로우의 손아귀에 있다고 주장했다. 아직 살아 있다면 말이다."
 module,jrl,Categories/18/EntryList/3/Text,0,"마우링그림 경은 마우르크 마가의 시체에 발견한 메모를 읽고 타워의 세 번째 층으로 서두르며, 당신도 그를 따라가야 한다."
 alokkair,utc,FirstName,0,알오카이르
 alokkair,utc,Description,0,"이 뼈대 생물은 오래 전에 죽은 강력한 마법사의 부패한 고급 의복을 입고 있으며, 비열한 빛이 그 공허한 눈 구멍에서 춤을 추고 있다."

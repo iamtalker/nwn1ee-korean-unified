@@ -2,7 +2,7 @@ Resource,ResType,FieldPath,LangID,Text
 abyssalplane,are,Name,0,아비살 평면
 antechamber,are,Name,0,앞방
 area,are,Name,0,게블라운트 탑 - 최상위 레벨
-area001,are,Name,0,틸버스댐
+area001,are,Name,0,틸버스 댐
 area002,are,Name,0,티린타르의 성당
 area003,are,Name,0,새벽 스파이어 - 새벽예배당
 area004,are,Name,0,다롤의 무기와 갑옷
@@ -4104,7 +4104,7 @@ zhent_cpt_gn,dlg,EntryList/15/Text,0,"""내 사람들은 지금 상위 계층을
 zhent_cpt_gn,dlg,EntryList/16/Text,0,이 곳은 자연주의자들의 교도소였습니다. 소환사들의 동물 간판과 소환 방은 아래쪽에 있습니다.
 zhent_cpt_gn,dlg,EntryList/17/Text,0,<StartAction>[ 웃기 시작]</Start>
 zhent_cpt_gn,dlg,EntryList/18/Text,0,"""아, 우리의 드루이 동반자가 도착했다."""
-zhent_cpt_gn,dlg,EntryList/19/Text,0,"<StartAction>[주의자]</Start>""시작에 대한 오해일지도 모르지만, 오해가 있습니다...""<StartAction>[간단히 생각해보는 동안 일시적으로 멈춥니다]</Start> ""...우리는... 하퍼를 되찾아야 하는 명령을 받았습니다. 당신의 명령도 비슷할 수 있지만... 저는 이 남자들을 지휘하는 지휘관입니다."""
+zhent_cpt_gn,dlg,EntryList/19/Text,0,"<StartAction>[신중하게]</Start>""우리 언어의 뉘앙스 문제일지도 모르지만 오해가 있습니다..."" <StartAction>[잠시 멈추고 당신의 반응을 살핀다]</Start> ""... 우리는... 하퍼를 데려오라는 명령을 받았습니다. 당신의 명령도 같을 수 있지만 ... 나는 ... 이 병사들의 지휘관입니다."""
 zhent_cpt_gn,dlg,EntryList/20/Text,0,"""자신이 원하는 대로 해, 익사해. 난 널 필요로 하지 않아. 지금부터 시작해""."
 zhent_cpt_gn,dlg,ReplyList/0/Text,0,"""나는 하퍼를 지키겠어, 인간. 길을 열어주고 내가 따라오겠다."""
 zhent_cpt_gn,dlg,ReplyList/2/Text,0,"""누군가 제 뒤에 계단을 잠겼어요"". ""그것에 대해 아세요?"""
@@ -5384,7 +5384,7 @@ area019,git,Placeable List/12/LocName,0,진흙길
 area020,git,Creature List/0/FirstName,0,소스암운
 area020,git,Creature List/1/FirstName,0,호르나타스
 area020,git,Creature List/2/FirstName,0,언데드 수호자 동방명기
-area020,git,Creature List/2/Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있으며, 그들은 모두 잘 훈련되고 장비되어 있으며, 특히 그들의 지도자 Alaecathra Shuinrond를 절대적으로 충성스럽게 섬깁니다."
+area020,git,Creature List/2/Description,0,"새벽첨탑에는 헌신적인 수호자들이 있다. 모두 잘 훈련되고 장비를 갖췄으며, 교회와 특히 지도자 알래카트라 슈인론드에게 절대적 충성을 바친다. 타락자 배런트는 옛 형제들 일부를 끔찍한 악의 무리로 바꿔 놓았다."
 area020,git,Creature List/2/ItemList/6/LocalizedName,0,새벽 경비병의 왜곡된 갑옷
 area020,git,Creature List/2/ItemList/6/Description,0,이 갑옷의 은은 다정한 빛으로 빛나는 것 같습니다.
 area020,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,새벽 경비병의 왜곡된 갑옷
@@ -5392,7 +5392,7 @@ area020,git,Creature List/2/Equip_ItemList/0/Description,0,이 갑옷의 은은 
 area020,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,새벽의 저주
 area020,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,새벽의 축복은 아침주인 라탄데르에게 바쳐져 있습니다. 이 검은 라탄데르의 특별한 적인 유령과 악마와 싸우기 위해 특별한 마법이 부여되어 있습니다. 하지만 이 검은 악마 마법에 의해 손상되어 일부 능력이 상실되었습니다.
 area020,git,Creature List/3/FirstName,0,언데드 수호자 동방명기
-area020,git,Creature List/3/Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있으며, 그들은 모두 잘 훈련되고 장비되어 있으며, 특히 그들의 지도자 Alaecathra Shuinrond를 절대적으로 충성스럽게 섬깁니다."
+area020,git,Creature List/3/Description,0,"새벽첨탑에는 헌신적인 수호자들이 있다. 모두 잘 훈련되고 장비를 갖췄으며, 교회와 특히 지도자 알래카트라 슈인론드에게 절대적 충성을 바친다. 타락자 배런트는 옛 형제들 일부를 끔찍한 악의 무리로 바꿔 놓았다."
 area020,git,Creature List/3/ItemList/6/LocalizedName,0,새벽 경비병의 왜곡된 갑옷
 area020,git,Creature List/3/ItemList/6/Description,0,이 갑옷의 은은 다정한 빛으로 빛나는 것 같습니다.
 area020,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,새벽 경비병의 왜곡된 갑옷
@@ -5400,7 +5400,7 @@ area020,git,Creature List/3/Equip_ItemList/0/Description,0,이 갑옷의 은은 
 area020,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,새벽의 저주
 area020,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,새벽의 축복은 아침주인 라탄데르에게 바쳐져 있습니다. 이 검은 라탄데르의 특별한 적인 유령과 악마와 싸우기 위해 특별한 마법이 부여되어 있습니다. 하지만 이 검은 악마 마법에 의해 손상되어 일부 능력이 상실되었습니다.
 area020,git,Creature List/4/FirstName,0,언데드 수호자 동방명기
-area020,git,Creature List/4/Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있으며, 그들은 모두 잘 훈련되고 장비되어 있으며, 특히 그들의 지도자 Alaecathra Shuinrond를 절대적으로 충성스럽게 섬깁니다."
+area020,git,Creature List/4/Description,0,"새벽첨탑에는 헌신적인 수호자들이 있다. 모두 잘 훈련되고 장비를 갖췄으며, 교회와 특히 지도자 알래카트라 슈인론드에게 절대적 충성을 바친다. 타락자 배런트는 옛 형제들 일부를 끔찍한 악의 무리로 바꿔 놓았다."
 area020,git,Creature List/4/ItemList/6/LocalizedName,0,새벽 경비병의 왜곡된 갑옷
 area020,git,Creature List/4/ItemList/6/Description,0,이 갑옷의 은은 다정한 빛으로 빛나는 것 같습니다.
 area020,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,새벽 경비병의 왜곡된 갑옷
@@ -5408,7 +5408,7 @@ area020,git,Creature List/4/Equip_ItemList/0/Description,0,이 갑옷의 은은 
 area020,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,새벽의 저주
 area020,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,새벽의 축복은 아침주인 라탄데르에게 바쳐져 있습니다. 이 검은 라탄데르의 특별한 적인 유령과 악마와 싸우기 위해 특별한 마법이 부여되어 있습니다. 하지만 이 검은 악마 마법에 의해 손상되어 일부 능력이 상실되었습니다.
 area020,git,Creature List/5/FirstName,0,언데드 수호자 동방명기
-area020,git,Creature List/5/Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있으며, 그들은 모두 잘 훈련되고 장비되어 있으며, 특히 그들의 지도자 Alaecathra Shuinrond를 절대적으로 충성스럽게 섬깁니다."
+area020,git,Creature List/5/Description,0,"새벽첨탑에는 헌신적인 수호자들이 있다. 모두 잘 훈련되고 장비를 갖췄으며, 교회와 특히 지도자 알래카트라 슈인론드에게 절대적 충성을 바친다. 타락자 배런트는 옛 형제들 일부를 끔찍한 악의 무리로 바꿔 놓았다."
 area020,git,Creature List/5/ItemList/6/LocalizedName,0,새벽 경비병의 왜곡된 갑옷
 area020,git,Creature List/5/ItemList/6/Description,0,이 갑옷의 은은 다정한 빛으로 빛나는 것 같습니다.
 area020,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,새벽 경비병의 왜곡된 갑옷
@@ -5873,7 +5873,7 @@ area026,git,Creature List/3/Description,0,"흑네트워크라고도 불리는 �
 area026,git,Creature List/3/ItemList/0/LocalizedName,0,드래곤 의복
 area026,git,Creature List/3/ItemList/1/LocalizedName,0,경미한 용의 스태프
 area026,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,드래곤 의복
-area026,git,Creature List/4/FirstName,0,그림시겔
+area026,git,Creature List/4/FirstName,0,섀도실
 area026,git,Creature List/4/ItemList/0/LocalizedName,0,그림자의 갈대옷
 area026,git,Creature List/4/ItemList/6/LocalizedName,0,용의 직원
 area026,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,그림자의 투구
@@ -10341,7 +10341,7 @@ thetreasurehole,git,StoreList/1/StoreList/4/ItemList/2/LocalizedName,0,카타쿠
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/2/DescIdentified,0,멀리 있는 카라-투르에서 수입된 이 약은 그 나라의 승려들의 전투에 의해 개발되었다. 그것은 사용자의 피부를 가혹시키는 갈색 페이스트입니다. 부작용으로 인해 드물게 듀링 훈련으로 사용되었지만 승려들이 큰 전투를 예상했을 때 저장되었습니다. 타입: DC18 연락처 초기 효과: 부속 효과: 1 시간 동안 +3 자연 장갑 보너스를 얻습니다. 부작용: 2 번째 효과 종료되면 사용자는 근육 경련을 겪으며 1d4 포인트 Dexterity 1d10 분 동안 손상됩니다. 과다 복용량: 두 번째 복용량은 자연 장갑에 +2 보너스를 유발합니다. 중독: 아무
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/3/LocalizedName,0,모데인 증기
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/3/DescIdentified,0,"또한 ""꿈의 안개""라고도 한다. 남쪽 숲에서 발견되는 희귀한 허브를 대략 지은 잎으로 만들어져 있는 모르데이인은 끓는 물에 약간의 양을 담아내고 그 결과 나오는 차의 증기를 흡입하여 만들어진 만큼 강력하다. 원료 모르테인 파워와 모르데이인이 마른 물이 치명적인 독이다; 먼지를 직접 섭취하거나 차를 마시는 것은 즉각적으로 과다 복용을 일으킨다. 꿈의 안개가 아름다운 비전을 유발하고, 그것이 포옹하는 치명적 위험성 때문에 유명합니다. 타입: 호흡된 창 DC17 초기 효과: 외상적인 환상은 다음 1d2010분 동안 사용자의 주위를 돌고 있습니다. 또 50%의 확률로 사용자들이 원하는 양의 아름다움을 잃게 만들 수 있다 (저주 부여larary에 대한 의사결정)."
-thetreasurehole,git,StoreList/1/StoreList/4/ItemList/4/LocalizedName,0,세자라드 뿟리
+thetreasurehole,git,StoreList/1/StoreList/4/ItemList/4/LocalizedName,0,세자라드 뿌리
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/4/DescIdentified,0,세자라드는 짧고 생생한 뿌리를 가진 넓은 생동감 있는 꽃이다. 재는 때 뿌리가 부드러운 조각으로 갈라진다. 생명력을 증가시킨다. 유형: 섭취된 DC14 초기 효과: 사용자는 1d8 임시 타격 포인트를 얻는다. 제2 효과: 부작용이 없습니다: 1d4 임시 지혜 손상 과다 복용량: 중독이 없습니다: 낮은
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/5/LocalizedName,0,지란
 thetreasurehole,git,StoreList/1/StoreList/4/ItemList/5/DescIdentified,0,"이 지방, 붉은 잎은 씹을 때 우유 汁을 방출한다. 汁은 통증제이며, 때로는 극심하거나 만성 통증을 앓고있는 사람들에게 사용됩니다. 감각을 마비시키고 약물로 유발된 에 빠져있는 중독자들은 더 큰 복용량으로 사용합니다. 타입: 섭취된 DC17 초기 효과: 사용자가 1 라운드 동안 두 번째 효과: 사용자는 1d3 시간 동안 더 많은 1d4 포인트를 얻습니다. 부작용: 2 번째 효과가 발생하면 사용자가 1 시간 동안 -2을 앓습니다. 이것은 사용자가 스스로 행동하는 것을 보는 외부 경험을 가지고 있기 때문입니다. 과다 복용량: 중독성: 높습니다."
@@ -11197,11 +11197,11 @@ taruele,utc,Description,0,"한때 세베니아의 부유한 상인 귀족의 여
 tavern,utc,FirstName,0,매춘부
 th_golem,utc,FirstName,0,뼈 골렘
 thesage,utc,FirstName,0,마법사
-theshadosil,utc,FirstName,0,그림시겔
+theshadosil,utc,FirstName,0,섀도실
 tond,utc,FirstName,0,야만적인 털도노스
 tond,utc,Description,0,턴드는 말라르의 야만적인 길을 따르는 삶을 바쳤다. 한때 북부의 부족들 사이에서 명성을 얻은 전사였던 그는 최근에 집과 부족을 버리고 끝없는 사냥의 즐거움을 누렸다.
 undeadguard,utc,FirstName,0,언데드 수호자 동방명기
-undeadguard,utc,Description,0,"Dawnspire는 헌신적인 보호자들을 보유하고 있으며, 그들은 모두 잘 훈련되고 장비되어 있으며, 특히 그들의 지도자 Alaecathra Shuinrond를 절대적으로 충성스럽게 섬깁니다."
+undeadguard,utc,Description,0,"새벽첨탑에는 헌신적인 수호자들이 있다. 모두 잘 훈련되고 장비를 갖췄으며, 교회와 특히 지도자 알래카트라 슈인론드에게 절대적 충성을 바친다. 타락자 배런트는 옛 형제들 일부를 끔찍한 악의 무리로 바꿔 놓았다."
 undeadzhentarim,utc,FirstName,0,언데드 젠타림 엘리트 기사
 undeadzhentarim,utc,Description,0,"흑네트워크라고도 불리는 젠타림족은 상인들의 그룹으로 시작되었으나, 암살자, 스파이 등으로 군대를 포함하고 있다. 현재 젠타림족은 문스아 강 주변 절반을 통제하고 있으며, 대륙 전역에서 영향력을 높이고 페룬의 서부와 남부 지역에서 입지를 굳혔다. 잘 무장하고 공급되어 있는 젠타림족은 강력한 마법사와 사교가 지원하고 있으며, 대장과 바네의 선출된 선임자가 이끌고 있다."
 vampire001,utc,FirstName,0,나흐노투
@@ -11573,7 +11573,7 @@ sei_sla_2,uti,LocalizedName,0,마법적인 능력
 sei_sla_3,uti,LocalizedName,0,마법적인 능력
 sememmonsrobe,uti,LocalizedName,0,세멘몬의 의복
 sevenofseven,uti,LocalizedName,0,엔일로나
-sezaradroot,uti,LocalizedName,0,세자라드 뿟리
+sezaradroot,uti,LocalizedName,0,세자라드 뿌리
 sezaradroot,uti,DescIdentified,0,세자라드는 짧고 생생한 뿌리를 가진 넓은 생동감 있는 꽃이다. 재는 때 뿌리가 부드러운 조각으로 갈라진다. 생명력을 증가시킨다. 유형: 섭취된 DC14 초기 효과: 사용자는 1d8 임시 타격 포인트를 얻는다. 제2 효과: 부작용이 없습니다: 1d4 임시 지혜 손상 과다 복용량: 중독이 없습니다: 낮은
 shadowbane,uti,LocalizedName,0,그림자 번개
 shadowleech,uti,LocalizedName,0,그림자 거머리
