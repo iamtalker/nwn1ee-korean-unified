@@ -7,7 +7,7 @@ level10xanathars,are,Name,0,레벨10 - X나스라르의 외부 성당 - 북
 level11xanath001,are,Name,0,"레벨 11 - 칸타르의 외부 성당, 하부지대 - 동쪽"
 level11xanathars,are,Name,0,"레벨 11 - 나타르의 외부 성당, 하위 범위 - 서쪽"
 level11xanathb,are,Name,0,"레벨 11 - 칸타르의 외부 성당, 하부 지역 - 남"
-level11xanathw,are,Name,0,"레벨 11 - 칸타르의 외부 성당, 하부 지역 - 북"
+level11xanathw,are,Name,0,"11레벨 - 잔타르의 외부 성소, 하부 지역 - 북쪽"
 level12xanatha,are,Name,0,레벨 12 - 칸타르의 내부 성소 동쪽
 level12xanathars,are,Name,0,레벨 12 - 칸나타르의 내부 성소 - 서쪽
 level4s,are,Name,0,레벨 4 - 상위 레벨 드워프 광산 - 동
@@ -1255,7 +1255,7 @@ eb_hen_kirath,dlg,EntryList/40/Text,0,왜 생각하지? 내 허락 없이 내 �
 eb_hen_kirath,dlg,EntryList/41/Text,0,"""이 멍청한 사람들은 단지 도시를 관리한다고 믿어요. 나는 여기의 진정한 권력자이고, 나는 누구로부터도, 특히 칸타르 같은 신생들에게도 굴욕을 용납하지 않을 것입니다!"
 eb_hen_kirath,dlg,EntryList/42/Text,0,! ! ! ! ! ! ! ! ! ! ! ! !
 eb_hen_kirath,dlg,EntryList/43/Text,0,"""에가드! 내 암살자가 살아있다! 그것은 일리스티드... 특히 모든 방어와 대비 상황을 피한 매우 현명한 것이었다. 나는 그 동물에서 내 오래된 몸의 뇌 조직을 되찾아야 한다! 누가 그것이 어떤 비밀을 밝혀낼 수 있을지 모른다. 또는 그 도둑질로 인해 나는 무엇을 잃었는지 모른다! 저 악한 생물은 이 레벨에 아직 존재한다-나는 반드시 찾아내야 한다."""
-eb_hen_kirath,dlg,EntryList/44/Text,0,<StartAction>Ahem!</Start> 여기서는 당신이 상황의 심각성을 제대로 이해하고 있지 않다는 생각이 듭니다: 멀티버스의 비밀입니다! 우리는 체투아의 뇌를 회수하여 현실의 기본 구조가 파괴되지 않도록 할 수밖에 없습니다!
+eb_hen_kirath,dlg,EntryList/44/Text,0,<StartAction>흠흠!</Start> 여기서 무엇이 걸려 있는지 제대로 이해하지 못하신 것 같군요. 다중우주의 비밀이 걸려 있습니다! 일리시드의 뇌가 현실의 근간을 뒤흔들기 전에 회수해야 합니다!
 eb_hen_kirath,dlg,EntryList/45/Text,0,"""좋아, 네가 가라앉는 길로 가거라. 나 없이 칸타르 앞에서 죽을 거다. 나는 여기에 머물러 암살자를 찾을 것이다!"""
 eb_hen_kirath,dlg,EntryList/46/Text,0,"좋다. 나와 함께 오고, 나는 도적을 찾아볼게!"
 eb_hen_kirath,dlg,EntryList/48/Text,0,"""가고일 조각상... 위험을 느낍니다. 너무 가까이 가서는 안 됩니다."""
@@ -2874,7 +2874,7 @@ oa_billybeholder,dlg,EntryList/23/Text,0,"만약 당신의 손잡이 중 한 명
 oa_billybeholder,dlg,EntryList/24/Text,0,우리가 시작하기 전에 다른 것이 알고 싶은 게 있나요?
 oa_billybeholder,dlg,EntryList/25/Text,0,"지하정원은 위험으로 가득 차 있으며, 혼자서 모험을 떠나는 사람은 매우 빨리 많은 곤경에 빠질 수 있습니다. 먼저 지역을 살펴보지 않고 곤경으로 뛰어들지 마십시오."
 oa_billybeholder,dlg,EntryList/26/Text,0,"당신의 모험에서, 길을 걸으면서 많은 동맹을 찾을 수 있습니다. 일부 동맹은 당신의 모험에 동참하고 싶어할 것이고, 다른 일부는 단지 상품을 팔고 싶을 것입니다. 이들을 모두 활용하십시오. 만나는 많은 손잡이들은 당신이 마주치는 많은 생물들을 물리치는 데 큰 도움이 될 수 있습니다."
-oa_billybeholder,dlg,EntryList/27/Text,0,"당신이 만나게 될 수 있는 용병들은 각자 자신의 개인적인 배경 이야기를 가지고 있습니다. 그들을 대화하여 더 많은 것을 알아보세요. 그들이 언더다크로 모험을 떠난 이유를 알 수 있을 것입니다. 심지어 새 동반자들의 비밀을 알게 되는 경우도 있으며, 그들은 당신에게만 제공되는 특별한 임무를 맡길 수도 있습니다."
+oa_billybeholder,dlg,EntryList/27/Text,0,"당신이 만나게 되는 동료들은 각자 개인적인 배경 이야기를 지니고 있습니다. 그들과 대화해 더 알아보고, 왜 언더다크로 모험을 떠나기로 했는지 들어 보세요. 새 동료들과 이야기하다 보면 그들의 비밀을 알게 될 수도 있고, 그들만이 줄 수 있는 특별한 임무를 맡게 될 수도 있습니다."
 oa_billybeholder,dlg,EntryList/28/Text,0,일단 게임을 시작하기로 결정하면 두 가지 리콜 팟을 받게 됩니다. 그것을 소모하고 필요할 때만 사용하세요. 리콜 팟은 강력한 마법으로 만들어집니다.
 oa_billybeholder,dlg,EntryList/29/Text,0,"이 포션을 사용하면 곤경에 처해 있을 때 생명을 구할 수 있습니다. 또한, 현재 위치가 안전하지 않다면, 포션을 사용하여 분석 용수원으로 돌아가거나 휴식을 취하고 마법을 회복할 수 있습니다."
 oa_billybeholder,dlg,EntryList/30/Text,0,우리가 시작하기 전에 다른 것이 알고 싶은 게 있나요?
@@ -4299,9 +4299,9 @@ level10xanath001,git,Placeable List/209/Description,0,켄쿠 침검
 level10xanath001,git,Placeable List/210/LocName,0,알코브
 level10xanath001,git,Placeable List/210/ItemList/0/LocalizedName,0,얼음 폭풍의 막대
 level10xanath001,git,Placeable List/211/LocName,0,"""보물을 그 보물이 익사한 것으로 대체하라""."
-level10xanath001,git,Placeable List/212/LocName,0,구멍
+level10xanath001,git,Placeable List/212/LocName,0,싱크홀
 level10xanath001,git,Placeable List/212/Description,0,냄새 나는 검은 구멍
-level10xanath001,git,Placeable List/213/LocName,0,구멍
+level10xanath001,git,Placeable List/213/LocName,0,싱크홀
 level10xanath001,git,Placeable List/213/Description,0,냄새 나는 검은 구멍
 level10xanath001,git,Placeable List/214/LocName,0,핏자국 8
 level10xanath001,git,Placeable List/215/LocName,0,핏자국 3
@@ -4600,7 +4600,7 @@ level10xanathars,git,StoreList/0/StoreList/1/ItemList/32/LocalizedName,0,아스�
 level10xanathars,git,StoreList/0/StoreList/1/ItemList/33/LocalizedName,0,불타는 낫 +2
 level10xanathars,git,StoreList/0/StoreList/1/ItemList/34/LocalizedName,0,마법적 낫 +2
 level10xanathars,git,StoreList/0/StoreList/1/ItemList/35/LocalizedName,0,불타는 세검 +3
-level10xanathars,git,StoreList/0/StoreList/1/ItemList/35/DescIdentified,0,"정직한 여행자를 사냥하는 강도들은 가볍고 쉽게 숨길 수 있는 무기를 필요로 하며, 이 무기와 같은 것이 그들에겐 적합하다. 이 치명적인 래퍼는 어떤 기원을 가지고 있든 간에, 정직한 목적을 위해 만들어진 것은 아니라는 것은 확실하다. 단순히 이 무기를 손에 들고 있으면 눈빛에 도둑질의 빛이 번쩍이며, 더 뚱뚱한 지갑을 가진 기름진 상인들의 생각이 무의식적으로 떠오른다. 이 무기는 도둑들에게 축복이 되고, 정직한 사람들에게는 재앙이다."
+level10xanathars,git,StoreList/0/StoreList/1/ItemList/35/DescIdentified,0,"정직한 여행자를 노리는 강도들은 가볍고 쉽게 감출 수 있는 무기가 필요합니다. 이 레이피어 같은 무기 말이지요. 출처가 어디든 이 치명적인 검이 정직한 목적으로 만들어진 건 분명 아닙니다. 손에 쥐기만 해도 눈빛에 도둑의 욕심이 번뜩이고, 지갑이 두둑한 부유한 상인들이 저절로 떠오릅니다. 이 무기는 도둑에게는 축복이고 정직한 이들에게는 재앙입니다."
 level10xanathars,git,StoreList/0/StoreList/1/ItemList/36/LocalizedName,0,아스티리아 세검 +3
 level10xanathars,git,StoreList/0/StoreList/1/ItemList/37/LocalizedName,0,뇌 골라내기
 level10xanathars,git,StoreList/0/StoreList/1/ItemList/39/LocalizedName,0,죽음의 손
@@ -7606,7 +7606,7 @@ level12xanatha,git,Placeable List/99/ItemList/0/Description,0,"다음 문서 는
 level12xanatha,git,Placeable List/99/ItemList/0/DescIdentified,0,"우리의 가이드 벤넷은 내 발에 걸려 넘어졌고, 다른 빛나는 선을 통과했다. 거대한 톱니가 그 위로 쏟아졌지만, 다행히 그는 옆으로 비켜서서 톱니가 그의 뒤와 가슴에 각각 한 인치의 피부를 벗기지 못했다."
 level12xanatha,git,Placeable List/99/ItemList/2/LocalizedName,0,웬틀리 켈소의 일지 노트
 level12xanatha,git,Placeable List/99/ItemList/2/Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 ""명확 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터디프 의 하천 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
-level12xanatha,git,Placeable List/99/ItemList/2/DescIdentified,0,우리 가이드 벤넷은 이 지역에 있는 빛나는 선을 건너가다 거대한 불공격에 머리를 맞았습니다. 잠시 동안 그는 드워프 불꽃처럼 보였습니다.
+level12xanatha,git,Placeable List/99/ItemList/2/DescIdentified,0,우리 안내자 베넷은 이 지역에서 빛줄기를 가로질렀다가 거대한 화염구에 머리를 맞았습니다. 잠시 동안은 드워프가 든 횃불처럼 보였지요.
 level12xanatha,git,Placeable List/103/LocName,0,투명 물체
 level12xanatha,git,Placeable List/103/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 level12xanatha,git,Placeable List/104/LocName,0,보물
@@ -7665,11 +7665,11 @@ level12xanatha,git,Placeable List/155/LocName,0,상자
 level12xanatha,git,Placeable List/155/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 level12xanatha,git,Placeable List/155/ItemList/0/LocalizedName,0,상급 신들의 방패
 level12xanatha,git,Placeable List/155/ItemList/0/DescIdentified,0,"곤경의 시기, 라탄더는 영토를 돌아다니는 무사들의 수가 혼란스러웠다. 이를 견제하기 위해 그는 그의 여러 추종자들에게 이러한 방패를 만드는 방법을 가르쳤다. 방패는 이제 무사자를 사냥하고 파괴하는 가장 큰 능력을 보이는 신자들에게 주어진다."
-level12xanatha,git,Placeable List/170/LocName,0,구멍
+level12xanatha,git,Placeable List/170/LocName,0,싱크홀
 level12xanatha,git,Placeable List/170/Description,0,냄새 나는 검은 구멍
-level12xanatha,git,Placeable List/171/LocName,0,구멍
+level12xanatha,git,Placeable List/171/LocName,0,싱크홀
 level12xanatha,git,Placeable List/171/Description,0,냄새 나는 검은 구멍
-level12xanatha,git,Placeable List/172/LocName,0,구멍
+level12xanatha,git,Placeable List/172/LocName,0,싱크홀
 level12xanatha,git,Placeable List/172/Description,0,냄새 나는 검은 구멍
 level12xanatha,git,Placeable List/182/LocName,0,양탄자
 level12xanatha,git,Placeable List/182/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
@@ -12882,7 +12882,7 @@ level5dwarvenc,git,Placeable List/67/ItemList/0/DescIdentified,0,"이 구성의 
 level5dwarvenc,git,Placeable List/67/ItemList/1/LocalizedName,0,마법사의 호신부
 level5dwarvenc,git,Placeable List/67/ItemList/1/DescIdentified,0,"게르바자 (Ger'baza) 는 필사적 정신이 이해할 수 있는 것보다 더 많은 힘을 추구하는 고대 리치였다. 권능의 호신부를 만들기 위해 포획된 영혼들을 합쳐서, 제르 바자는 자신의 성공에 놀라며 수많은 변형을 만들었다. 그러나 상식은 그를 실패했다; 모든 목걸이를 일조로 착용하려고 시도하면서 그레바사는 조용하게 존재에서 지워졌다. 구슬은 기적적으로 살아남았다."
 level5dwarvenc,git,Placeable List/67/ItemList/2/LocalizedName,0,불타는 세검
-level5dwarvenc,git,Placeable List/67/ItemList/2/DescIdentified,0,"정직한 여행자를 사냥하는 강도들은 가볍고 쉽게 숨길 수 있는 무기를 필요로 하며, 이 무기와 같은 것이 그들에겐 적합하다. 이 치명적인 래퍼는 어떤 기원을 가지고 있든 간에, 정직한 목적을 위해 만들어진 것은 아니라는 것은 확실하다. 단순히 이 무기를 손에 들고 있으면 눈빛에 도둑질의 빛이 번쩍이며, 더 뚱뚱한 지갑을 가진 기름진 상인들의 생각이 무의식적으로 떠오른다. 이 무기는 도둑들에게 축복이 되고, 정직한 사람들에게는 재앙이다."
+level5dwarvenc,git,Placeable List/67/ItemList/2/DescIdentified,0,"정직한 여행자를 노리는 강도들은 가볍고 쉽게 감출 수 있는 무기가 필요합니다. 이 레이피어 같은 무기 말이지요. 출처가 어디든 이 치명적인 검이 정직한 목적으로 만들어진 건 분명 아닙니다. 손에 쥐기만 해도 눈빛에 도둑의 욕심이 번뜩이고, 지갑이 두둑한 부유한 상인들이 저절로 떠오릅니다. 이 무기는 도둑에게는 축복이고 정직한 이들에게는 재앙입니다."
 level5dwarvenc,git,Placeable List/68/LocName,0,빛줄기
 level5dwarvenc,git,Placeable List/68/Description,0,불타는 오렌지색 빛이 보이지 않는 곳에서 내려옵니다.
 level5dwarvenc,git,Placeable List/69/LocName,0,뼈
@@ -20453,7 +20453,7 @@ lostancienttomb,git,Placeable List/484/LocName,0,바닥 헤웬 04 Lg
 lostancienttomb,git,Placeable List/485/LocName,0,바닥 헤웬 04 Lg
 lostancienttomb,git,Placeable List/486/LocName,0,바닥 헤웬 04 Lg
 lostancienttomb,git,Placeable List/487/LocName,0,바닥 헤웬 04 Lg
-lv5_drc_e001,git,Creature List/0/FirstName,0,크루그 이중격투기
+lv5_drc_e001,git,Creature List/0/FirstName,0,크루그 트윈피스트
 lv5_drc_e001,git,Creature List/0/Description,0,"에티니는 악성적이고 예측 불가능한 사냥꾼으로, 밤을 돌아다니며 사냥한다. 두 개의 머리 때문에 그들은 매우 날카로운 시력과 경계심을 가진다."
 lv5_drc_e001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,에틴의 곤봉
 lv5_drc_e001,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,에틴의 곤봉
@@ -22206,7 +22206,7 @@ lv5greathall,git,StoreList/0/StoreList/1/ItemList/50/LocalizedName,0,아스트�
 lv5greathall,git,StoreList/0/StoreList/1/ItemList/52/LocalizedName,0,일렁이는 칼날
 lv5greathall,git,StoreList/0/StoreList/1/ItemList/52/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 lv5greathall,git,StoreList/0/StoreList/1/ItemList/53/LocalizedName,0,불타는 세검
-lv5greathall,git,StoreList/0/StoreList/1/ItemList/53/DescIdentified,0,"정직한 여행자를 사냥하는 강도들은 가볍고 쉽게 숨길 수 있는 무기를 필요로 하며, 이 무기와 같은 것이 그들에겐 적합하다. 이 치명적인 래퍼는 어떤 기원을 가지고 있든 간에, 정직한 목적을 위해 만들어진 것은 아니라는 것은 확실하다. 단순히 이 무기를 손에 들고 있으면 눈빛에 도둑질의 빛이 번쩍이며, 더 뚱뚱한 지갑을 가진 기름진 상인들의 생각이 무의식적으로 떠오른다. 이 무기는 도둑들에게 축복이 되고, 정직한 사람들에게는 재앙이다."
+lv5greathall,git,StoreList/0/StoreList/1/ItemList/53/DescIdentified,0,"정직한 여행자를 노리는 강도들은 가볍고 쉽게 감출 수 있는 무기가 필요합니다. 이 레이피어 같은 무기 말이지요. 출처가 어디든 이 치명적인 검이 정직한 목적으로 만들어진 건 분명 아닙니다. 손에 쥐기만 해도 눈빛에 도둑의 욕심이 번뜩이고, 지갑이 두둑한 부유한 상인들이 저절로 떠오릅니다. 이 무기는 도둑에게는 축복이고 정직한 이들에게는 재앙입니다."
 lv5greathall,git,StoreList/0/StoreList/1/ItemList/54/LocalizedName,0,천체 낫 +1
 lv5greathall,git,StoreList/0/StoreList/1/ItemList/55/LocalizedName,0,아스트랄 카마 +1
 lv5greathall,git,StoreList/0/StoreList/1/ItemList/55/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
@@ -22333,11 +22333,11 @@ lv5greathall,git,Placeable List/0/LocName,0,긴의자
 lv5greathall,git,Placeable List/0/Description,0,이 벤치의 탄탄한 판들은 수년간의 사용으로 부드러워졌습니다.
 lv5greathall,git,Placeable List/5/LocName,0,할그렌
 lv5greathall,git,Placeable List/6/LocName,0,모루
-lv5greathall,git,Placeable List/6/Description,0,이 견고한 철공사의 용기에는 오랜 사용으로 인한 흠집이 남아 있습니다. 당신은 그 낡은 표면에서 과거에 형성된 훌륭한 무기와 갑옷이 무엇이었을지 궁금해합니다.
+lv5greathall,git,Placeable List/6/Description,0,이 튼튼한 대장간 모루에는 오랜 사용으로 생긴 움푹 팬 자국이 반들거립니다. 낡은 표면에 어떤 훌륭한 무기와 갑옷이 만들어졌을지 문득 궁금해집니다.
 lv5greathall,git,Placeable List/9/LocName,0,대장간
 lv5greathall,git,Placeable List/9/Description,0,"강렬한 파동 이 으로 퍼진 불 을 불어넣고, 공기 는 엄청나게 뜨거워서, 자신 이 아닌 자신 을 게 느끼게 된다."
 lv5greathall,git,Placeable List/10/LocName,0,모루
-lv5greathall,git,Placeable List/10/Description,0,이 견고한 철공사의 용기에는 오랜 사용으로 인한 흠집이 남아 있습니다. 당신은 그 낡은 표면에서 과거에 형성된 훌륭한 무기와 갑옷이 무엇이었을지 궁금해합니다.
+lv5greathall,git,Placeable List/10/Description,0,이 튼튼한 대장간 모루에는 오랜 사용으로 생긴 움푹 팬 자국이 반들거립니다. 낡은 표면에 어떤 훌륭한 무기와 갑옷이 만들어졌을지 문득 궁금해집니다.
 lv5greathall,git,Placeable List/13/LocName,0,긴의자
 lv5greathall,git,Placeable List/13/Description,0,이 벤치의 탄탄한 판들은 수년간의 사용으로 부드러워졌습니다.
 lv5greathall,git,Placeable List/15/LocName,0,스미티 풀
@@ -25837,7 +25837,7 @@ lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/29/LocalizedName,0,아스트랄 
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/30/LocalizedName,0,불타는 낫 +2
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/31/LocalizedName,0,+2 낫
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/32/LocalizedName,0,불타는 세검 +2
-lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/32/DescIdentified,0,"정직한 여행자를 사냥하는 강도들은 가볍고 쉽게 숨길 수 있는 무기를 필요로 하며, 이 무기와 같은 것이 그들에겐 적합하다. 이 치명적인 래퍼는 어떤 기원을 가지고 있든 간에, 정직한 목적을 위해 만들어진 것은 아니라는 것은 확실하다. 단순히 이 무기를 손에 들고 있으면 눈빛에 도둑질의 빛이 번쩍이며, 더 뚱뚱한 지갑을 가진 기름진 상인들의 생각이 무의식적으로 떠오른다. 이 무기는 도둑들에게 축복이 되고, 정직한 사람들에게는 재앙이다."
+lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/32/DescIdentified,0,"정직한 여행자를 노리는 강도들은 가볍고 쉽게 감출 수 있는 무기가 필요합니다. 이 레이피어 같은 무기 말이지요. 출처가 어디든 이 치명적인 검이 정직한 목적으로 만들어진 건 분명 아닙니다. 손에 쥐기만 해도 눈빛에 도둑의 욕심이 번뜩이고, 지갑이 두둑한 부유한 상인들이 저절로 떠오릅니다. 이 무기는 도둑에게는 축복이고 정직한 이들에게는 재앙입니다."
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/33/LocalizedName,0,아스트리아 래피어 +2
 lvl8_lrd_n,git,StoreList/0/StoreList/1/ItemList/35/LocalizedName,0,냉동 스플라이의 불꽃
 lvl8_lrd_n,git,StoreList/0/StoreList/2/ItemList/49/LocalizedName,0,회상 물약
@@ -26055,29 +26055,29 @@ lvl8_lrd_n,git,Placeable List/114/LocName,0,고대 함정은 당신의 이점으
 lvl8_lrd_n,git,Placeable List/115/LocName,0,고대 돌
 lvl8_lrd_n,git,Placeable List/116/LocName,0,고대 돌
 lvl8_lrd_n,git,Placeable List/117/LocName,0,고대 돌
-lvl8_lrd_n,git,Placeable List/118/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/118/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/118/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/119/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/119/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/119/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/120/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/120/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/120/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/121/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/121/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/121/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/122/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/122/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/122/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/123/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/123/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/123/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/124/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/124/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/124/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/125/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/125/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/125/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/126/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/126/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/126/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/127/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/127/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/127/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/128/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/128/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/128/Description,0,냄새 나는 검은 구멍
-lvl8_lrd_n,git,Placeable List/129/LocName,0,구멍
+lvl8_lrd_n,git,Placeable List/129/LocName,0,싱크홀
 lvl8_lrd_n,git,Placeable List/129/Description,0,냄새 나는 검은 구멍
 lvl8_lrd_n,git,Placeable List/130/LocName,0,핏자국 7
 lvl8_lrd_n,git,Placeable List/131/LocName,0,핏자국 3
@@ -27728,7 +27728,7 @@ sewers1,git,Placeable List/351/ItemList/11/LocalizedName,0,도둑단의 노트
 sewers1,git,Placeable List/351/ItemList/11/Description,0,"이 꾀죄죄한 도랑쥐 토드, 연체된 회비로 길드에 빚진 금을 받아야겠다. 오늘 자정에 녹슨 못 주점에서 만나라, 안 그러면 길드의 특권과 그에 따른 보호를 잃을 것이다."
 sewers1,git,Placeable List/351/ItemList/11/DescIdentified,0,"이 꾀죄죄한 도랑쥐 토드, 연체된 회비로 길드에 빚진 금을 받아야겠다. 오늘 자정에 녹슨 못 주점에서 만나라, 안 그러면 길드의 특권과 그에 따른 보호를 잃을 것이다."
 sewers1,git,Placeable List/351/ItemList/12/LocalizedName,0,금화
-sewers1,git,Placeable List/352/LocName,0,아이비 - 기계 12a
+sewers1,git,Placeable List/352/LocName,0,아이비 - 오르는 덩굴 12a
 sewers1,git,Placeable List/353/LocName,0,아이비 - 기술 12b
 sewers1,git,Placeable List/354/LocName,0,아이비 - 기계 12c
 sewers1,git,Placeable List/355/LocName,0,아이비 - 등반 12d
@@ -35944,7 +35944,7 @@ spidwra002,utc,Description,0,이 죽은 미생충 들 은 부패 의 냄새 를 
 surrshindia,utc,FirstName,0,디아
 surrshindia,utc,Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 tm_cr_render001,utc,FirstName,0,발급
-tm_cr_render001,utc,Description,0,"랜더는 실드래그에서 가장 야만적이고 거친 생물 중 하나이며, 아마도 Zhentil Keep의 폐허에서 가장 치명적인 생물 중 하나이다."
+tm_cr_render001,utc,Description,0,"렌더는 잊혀진 왕국에서 가장 야만적이고 야생적이며 광기에 찬 생물 중 하나로, 젠틸 성채 폐허에서 가장 치명적인 존재일 가능성이 높습니다."
 tod,utc,FirstName,0,토드
 tyrra,utc,FirstName,0,티라
 umberhulk001,utc,FirstName,0,움버 헐크
@@ -37086,7 +37086,7 @@ notes060,uti,Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라�
 notes060,uti,DescIdentified,0,"우리의 가이드 벤넷은 내 발에 걸려 넘어졌고, 다른 빛나는 선을 통과했다. 거대한 톱니가 그 위로 쏟아졌지만, 다행히 그는 옆으로 비켜서서 톱니가 그의 뒤와 가슴에 각각 한 인치의 피부를 벗기지 못했다."
 notes061,uti,LocalizedName,0,웬틀리 켈소의 일지 노트
 notes061,uti,Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 ""명확 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터디프 의 하천 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
-notes061,uti,DescIdentified,0,우리 가이드 벤넷은 이 지역에 있는 빛나는 선을 건너가다 거대한 불공격에 머리를 맞았습니다. 잠시 동안 그는 드워프 불꽃처럼 보였습니다.
+notes061,uti,DescIdentified,0,우리 안내자 베넷은 이 지역에서 빛줄기를 가로질렀다가 거대한 화염구에 머리를 맞았습니다. 잠시 동안은 드워프가 든 횃불처럼 보였지요.
 notes062,uti,LocalizedName,0,웬틀리 켈소의 일지 노트
 notes062,uti,Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 ""명확 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터디프 의 하천 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
 notes062,uti,DescIdentified,0,"이 방 에 들어갔을 때, 우리 가이드가 어떻게든 그들을 상하게 해서 우리를 공격했습니다. 물론 우리는 도망쳤습니다."
@@ -37601,15 +37601,15 @@ wswmls014,uti,DescIdentified,0,"이 무기는 드워프 바룬의 마크를 지�
 wswmrp006,uti,LocalizedName,0,자비살해자의 칼날
 wswmrp008,uti,LocalizedName,0,쿠오토아 세검
 wswmrp009,uti,LocalizedName,0,불타는 세검
-wswmrp009,uti,DescIdentified,0,"정직한 여행자를 사냥하는 강도들은 가볍고 쉽게 숨길 수 있는 무기를 필요로 하며, 이 무기와 같은 것이 그들에겐 적합하다. 이 치명적인 래퍼는 어떤 기원을 가지고 있든 간에, 정직한 목적을 위해 만들어진 것은 아니라는 것은 확실하다. 단순히 이 무기를 손에 들고 있으면 눈빛에 도둑질의 빛이 번쩍이며, 더 뚱뚱한 지갑을 가진 기름진 상인들의 생각이 무의식적으로 떠오른다. 이 무기는 도둑들에게 축복이 되고, 정직한 사람들에게는 재앙이다."
+wswmrp009,uti,DescIdentified,0,"정직한 여행자를 노리는 강도들은 가볍고 쉽게 감출 수 있는 무기가 필요합니다. 이 레이피어 같은 무기 말이지요. 출처가 어디든 이 치명적인 검이 정직한 목적으로 만들어진 건 분명 아닙니다. 손에 쥐기만 해도 눈빛에 도둑의 욕심이 번뜩이고, 지갑이 두둑한 부유한 상인들이 저절로 떠오릅니다. 이 무기는 도둑에게는 축복이고 정직한 이들에게는 재앙입니다."
 wswmrp010,uti,LocalizedName,0,아스트리아 래피어 +2
 wswmrp011,uti,LocalizedName,0,불타는 세검 +2
-wswmrp011,uti,DescIdentified,0,"정직한 여행자를 사냥하는 강도들은 가볍고 쉽게 숨길 수 있는 무기를 필요로 하며, 이 무기와 같은 것이 그들에겐 적합하다. 이 치명적인 래퍼는 어떤 기원을 가지고 있든 간에, 정직한 목적을 위해 만들어진 것은 아니라는 것은 확실하다. 단순히 이 무기를 손에 들고 있으면 눈빛에 도둑질의 빛이 번쩍이며, 더 뚱뚱한 지갑을 가진 기름진 상인들의 생각이 무의식적으로 떠오른다. 이 무기는 도둑들에게 축복이 되고, 정직한 사람들에게는 재앙이다."
+wswmrp011,uti,DescIdentified,0,"정직한 여행자를 노리는 강도들은 가볍고 쉽게 감출 수 있는 무기가 필요합니다. 이 레이피어 같은 무기 말이지요. 출처가 어디든 이 치명적인 검이 정직한 목적으로 만들어진 건 분명 아닙니다. 손에 쥐기만 해도 눈빛에 도둑의 욕심이 번뜩이고, 지갑이 두둑한 부유한 상인들이 저절로 떠오릅니다. 이 무기는 도둑에게는 축복이고 정직한 이들에게는 재앙입니다."
 wswmrp012,uti,LocalizedName,0,일렁이는 칼날
 wswmrp012,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 wswmrp013,uti,LocalizedName,0,마리리리트 세검
 wswmrp014,uti,LocalizedName,0,불타는 세검 +3
-wswmrp014,uti,DescIdentified,0,"정직한 여행자를 사냥하는 강도들은 가볍고 쉽게 숨길 수 있는 무기를 필요로 하며, 이 무기와 같은 것이 그들에겐 적합하다. 이 치명적인 래퍼는 어떤 기원을 가지고 있든 간에, 정직한 목적을 위해 만들어진 것은 아니라는 것은 확실하다. 단순히 이 무기를 손에 들고 있으면 눈빛에 도둑질의 빛이 번쩍이며, 더 뚱뚱한 지갑을 가진 기름진 상인들의 생각이 무의식적으로 떠오른다. 이 무기는 도둑들에게 축복이 되고, 정직한 사람들에게는 재앙이다."
+wswmrp014,uti,DescIdentified,0,"정직한 여행자를 노리는 강도들은 가볍고 쉽게 감출 수 있는 무기가 필요합니다. 이 레이피어 같은 무기 말이지요. 출처가 어디든 이 치명적인 검이 정직한 목적으로 만들어진 건 분명 아닙니다. 손에 쥐기만 해도 눈빛에 도둑의 욕심이 번뜩이고, 지갑이 두둑한 부유한 상인들이 저절로 떠오릅니다. 이 무기는 도둑에게는 축복이고 정직한 이들에게는 재앙입니다."
 wswmrp015,uti,LocalizedName,0,아스티리아 세검 +3
 wswmsc012,uti,LocalizedName,0,얼음 블레이드
 wswmsc012,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
@@ -37823,7 +37823,7 @@ eb_secret_door,utp,LocName,0,비밀 문
 eb_secret_door,utp,Description,0,비밀 문을 찾았습니다. 이는 흥미로운 곳으로 이끌 것으로 보입니다.
 eb_statue_dwarf,utp,LocName,0,"조각상, 드워프"
 eb_wallbutton,utp,LocName,0,벽 버튼
-eb_walltrap,utp,LocName,0,구멍
+eb_walltrap,utp,LocName,0,싱크홀
 eb_walltrap,utp,Description,0,냄새 나는 검은 구멍
 endtrack,utp,LocName,0,마지막 트랙
 flag002,utp,LocName,0,Drow Banner

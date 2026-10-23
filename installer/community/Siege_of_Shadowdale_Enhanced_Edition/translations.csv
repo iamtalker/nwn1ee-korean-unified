@@ -1,6 +1,6 @@
 Resource,ResType,FieldPath,LangID,Text
 area,are,Name,0,드루이드의 숲
-area001,are,Name,0,구멍
+area001,are,Name,0,싱크홀
 area002,are,Name,0,남부 농지
 area003,are,Name,0,외부 코르망토르
 area004,are,Name,0,엘민스터의 탑 정원
@@ -319,7 +319,7 @@ ls_hoareb,dlg,EntryList/3/Text,0,"""당신의 말씀대로. 다른 시간에 이
 ls_hoareb,dlg,EntryList/4/Text,0,"""내 포션을 만들기 위해 다섯 가지 다른 종류의 재료가 필요하다: 벨라도나, 쓴루트, 레드네트, 로즈마리, 그리고 무그워트. 모두 지역에서 자라는 것이지만, 한 두 가지는 코르만토르까지 찾아가야 할 수도 있다."""
 ls_hoareb,dlg,EntryList/5/Text,0,"""이 다섯 가지 재료 중 하나하나를 가져오십시오. 그러면 저는 제 약과 에릭시르의 생산을 다시 시작할 수 있을 것입니다. 제가 할인된 가격에 판매하는 것이 좋습니다. 한 약은 무료로 먹을 수 있습니다. 저는 그 효과에 대해 매우 만족할 것 같습니다""."
 ls_hoareb,dlg,EntryList/6/Text,0,"""당신 덕분에, 나의 물품은 다시 한 번 완전히 보충되었습니다."""
-ls_hoareb,dlg,EntryList/7/Text,0,"""도시는 항상 차운트족의 존재가 강하지 않았다. 최근 몇 년 동안 성전이 제공하는 서비스는 평균 다레스퍼슨에게 더 저렴해졌지만, 여전히 많은 사람들이 전통적인 치료를 선호한다."""
+ls_hoareb,dlg,EntryList/7/Text,0,"""이 도시에는 차운티아 신앙의 영향력이 늘 강했던 건 아니야. 최근 몇 년 사이에야 신전의 예식이 평범한 데일 주민들도 부담 없이 이용할 만큼 저렴해졌지. 그래도 전통적인 치유법을 선호하는 사람은 많아."""
 ls_hoareb,dlg,EntryList/8/Text,0,"""켈라? 아, 예, 좋은 여자야. 나는 그녀의 어머니와 좋은 친구였어. 하지만 며칠 전에 이미 날 찾아와서 이야기를 나눴어. 나는 그녀에게 약을 주었고, 그녀는 즉시 마셨지. 그녀는 다시 일에 돌아갈 것을 기대하고 있었어. 처음으로 진정으로 즐거워하는 직업을 가졌다고 말했지."""
 ls_hoareb,dlg,EntryList/9/Text,0,"""정말? 정말 이상하네. 이리, 이 차기 열쇠를 집으로 가져가라. 가서 그녀를 확인해봐. 그녀는 동쪽 마을의 한 집안에 살고 있다""."
 ls_hoareb,dlg,EntryList/10/Text,0,"""안녕 다시 한번."""
@@ -858,7 +858,7 @@ ss_dalesfolk,dlg,EntryList/10/Text,0,"""우리는 모두 죽을 거야!"""
 ss_dalesman,dlg,EntryList/0/Text,0,"""지난 20년 동안 여기서 서 있는 것 같은 기분이네요. 어쩌면 집에 가볼 때가 됐나 봅니다."""
 ss_elitetwrguard,dlg,EntryList/0/Text,0,"""지하정원의 단계는 바로 앞에 있습니다. 문에서 멀리 떨어져 있어야 합니다 - 언제든 공격할 수 있으니까."""
 ss_eressea,dlg,EntryList/0/Text,0,"""안녕하세요, 낯선 분. 메세지 보드에 내 호소를 보셨나요? 엘민스터의 탑 밖에 나타난 포털은 그림자의 차원과 연결된 것 같습니다. 만약 이를 빨리 막지 않으면, 우리 세계로 어떤 공포가 들어올지 아무도 모릅니다."""
-ss_eressea,dlg,EntryList/1/Text,0,"""티모라의 은총이 당신에게 잉그리다."""
+ss_eressea,dlg,EntryList/1/Text,0,"""티모라의 가호가 당신을 비추기를."""
 ss_eressea,dlg,EntryList/2/Text,0,"""내가 두려워 네가 이 문으로 오는 모든 것을 감당하기에는 너무 무능한 사람이니 네가 조금 더 힘을 얻으면 내게로 돌아가라"
 ss_eressea,dlg,EntryList/3/Text,0,"""나는 티모라의 신성한 의지를 통해 성립하는 의식을 알고 있습니다. 이 의식을 수행하면 포털을 봉쇄할 수 있을 것입니다. 하지만, 의식을 수행하면서 그림자의 차원의 존재들이 화를 낼 수 있습니다. 포털이 봉쇄될 때까지 나를 그림자의 존재들로부터 지키는 사람이 필요합니다."""
 ss_eressea,dlg,EntryList/4/Text,0,"""이 의식의 강렬한 성격으로 인해, 나는 그림자의 차원에서 우리 세계로 침입하는 어떠한 존재와 싸우는데 당신을 도울 수 없습니다. 또한 의식이 완료될 때까지는 이 지역을 떠나지 못할 것입니다."""
@@ -2026,7 +2026,7 @@ sinkholetunnels,git,SoundList/2/LocName,0,모닥불
 sinkholetunnels,git,SoundList/3/LocName,0,모닥불
 sinkholetunnels,git,SoundList/4/LocName,0,모닥불
 sinkholetunnels,git,WaypointList/0/LocalizedName,0,지도 설명
-sinkholetunnels,git,WaypointList/0/MapNote,0,구멍
+sinkholetunnels,git,WaypointList/0/MapNote,0,싱크홀
 sinkholetunnels,git,WaypointList/3/LocalizedName,0,인카운터
 sinkholetunnels,git,Placeable List/16/LocName,0,상자
 sinkholetunnels,git,Placeable List/16/Description,0,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
@@ -2344,7 +2344,7 @@ twistedtowergrou,git,WaypointList/1/MapNote,0,휘어진 탑: 2층
 twistedtowergrou,git,WaypointList/2/LocalizedName,0,지도 설명
 twistedtowergrou,git,WaypointList/2/MapNote,0,무기고
 twistedtowergrou,git,WaypointList/3/LocalizedName,0,지도 설명
-twistedtowergrou,git,WaypointList/3/MapNote,0,곡부진 탑 주 입구
+twistedtowergrou,git,WaypointList/3/MapNote,0,트위스티드 타워 정문
 twistedtowergrou,git,WaypointList/4/LocalizedName,0,지도 설명
 twistedtowergrou,git,WaypointList/4/MapNote,0,알현실
 twistedtowergrou,git,WaypointList/5/LocalizedName,0,지도 설명

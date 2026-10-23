@@ -2103,7 +2103,7 @@ duke3,dlg,EntryList/59/Text,0,하지만 누가 하는 것이냐? 그리고 어�
 duke3,dlg,EntryList/60/Text,0,"네, 그게 맞아. 그가 책을 읽고 있었지. 그는 그 항목을 기록할 수 있었을 수도 있고, 적어도 책을 쓸 수 있는 사람이 있었어."
 duke3,dlg,EntryList/61/Text,0,"네, 그게 맞아. 그가 책을 읽고 있었지. 그는 그 항목을 기록할 수 있었을 수도 있고, 적어도 책을 쓸 수 있는 사람이 있었어."
 duke3,dlg,EntryList/62/Text,0,이해가 안 돼
-duke3,dlg,ReplyList/0/Text,0,"사실, 당신의 고귀함, 제가 처음부터 왕을 대항해 일해 왔으며, 이제는 공주를 죽이고 도시를 장악하려는 계획을 세우고 있습니다."
+duke3,dlg,ReplyList/0/Text,0,"사실 각하, 그렇습니다. 처음부터 왕을 방해해 오셨고, 이제는 공주를 죽이고 도시를 장악할 계획이시지요."
 duke3,dlg,ReplyList/1/Text,0,고드프리 경은 어디에 계시나요?
 duke3,dlg,ReplyList/2/Text,0,"네, 그는 죽었어 죽은 섬에서 그의 시체를 찾았는데, 그의 일기 메모에서 며칠 전에 자네에 대해 의심했었지"
 duke3,dlg,ReplyList/3/Text,0,"나는 속임수를 인정하긴 하지만, 나는 네가 이렇게 악랄한 주범이라고는 생각지 않았어."
@@ -6594,7 +6594,7 @@ test,dlg,EntryList/58/Text,0,"아니, 그는 트랜스젠테이션의 막대기�
 test,dlg,EntryList/59/Text,0,"우리는 그의 시체를 죽은 사람들 섬에서 발견했습니다. 일기 메모에서 그는 며칠 동안 당신에 대해 의심하고 있었고, 그래서 어디로 가는지 말하지 않았습니다."
 test,dlg,EntryList/60/Text,0,어떻게 할 수 있었나요? 천국과 지옥에 맹세합니다.
 test,dlg,ReplyList/1/Text,0,아주 간단합니다. 이 책을 우리에게 먼저 준 사람은 카스텔란족이었습니다.
-test,dlg,ReplyList/3/Text,0,"사실, 당신의 고귀함, 제가 처음부터 왕을 대항해 일해 왔으며, 이제는 공주를 죽이고 도시를 장악하려는 계획을 세우고 있습니다."
+test,dlg,ReplyList/3/Text,0,"사실 각하, 그렇습니다. 처음부터 왕을 방해해 오셨고, 이제는 공주를 죽이고 도시를 장악할 계획이시지요."
 test,dlg,ReplyList/4/Text,0,고드프리 경은 어디에 계시나요?
 test,dlg,ReplyList/5/Text,0,"네, 그는 죽었어 죽은 섬에서 그의 시체를 찾았는데, 그의 일기 메모에서 며칠 전에 자네에 대해 의심했었지"
 test,dlg,ReplyList/6/Text,0,"나는 속임수를 인정하긴 하지만, 나는 네가 이렇게 악랄한 주범이라고는 생각지 않았어."
@@ -9548,7 +9548,7 @@ fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/23/LocalizedName,0,철판 
 fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/24/LocalizedName,0,철판 갑옷 +1
 fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/25/LocalizedName,0,철판 갑옷+2
 fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/26/LocalizedName,0,마녀사냥꾼의 가슴판갑
-fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/26/DescIdentified,0,심하게 마법으로 강화된 가슴갑옷은 때로는 도적질하는 마법사나 다른 악한 마법사들을 찾는 보상수집자들이 사용하는 경우가 있다.
+fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/26/DescIdentified,0,"도주한 마법사나 다른 악의적인 주문 시전자를 추적하는 현상금 사냥꾼들이 때때로 사용하는, 마법이 강하게 부여된 흉갑입니다."
 fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/27/LocalizedName,0,회복력의 방패
 fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/29/LocalizedName,0,작은 방패 +2
 fairlocharmsarmo,git,StoreList/0/StoreList/0/ItemList/29/DescIdentified,0,이 마법 방패는 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 특징을 나타내고 있지 않습니다.
@@ -17755,9 +17755,9 @@ zep_bird_003,utc,Description,0,보통의 앵무새는 주색이 밝은 파란색
 zep_bird_004,utc,FirstName,0,"새, 추기경"
 zep_bird_004,utc,Description,0,추기경은 작은 빨간색 노래새입니다.
 zep_bird_005,utc,FirstName,0,"새, 코타우 - 검은색"
-zep_bird_005,utc,Description,0,"앵무새 가문의 새는 짧고 강한 곡선형의 부리를 가지고 있으며, 머리에는 착탈 가능한 깃털 장식이 있어 마음에 따라 높이 들 수 있고 내릴 수 있다."
+zep_bird_005,utc,Description,0,"앵무새과의 새로, 짧고 튼튼하며 크게 굽은 부리를 지녔고 머리에는 마음대로 올리거나 내릴 수 있는 볏이 있습니다."
 zep_bird_006,utc,FirstName,0,"새, 코타우 - 백색"
-zep_bird_006,utc,Description,0,"앵무새 가문의 새는 짧고 강한 곡선형의 부리를 가지고 있으며, 머리에는 착탈 가능한 깃털 장식이 있어 마음에 따라 높이 들 수 있고 내릴 수 있다."
+zep_bird_006,utc,Description,0,"앵무새과의 새로, 짧고 튼튼하며 크게 굽은 부리를 지녔고 머리에는 마음대로 올리거나 내릴 수 있는 볏이 있습니다."
 zep_bird_007,utc,FirstName,0,"새, 링거 - 녹색"
 zep_bird_007,utc,Description,0,마카오는 긴 꼬리와 밝게 색이 빛나는 파충류이다.
 zep_bird_008,utc,FirstName,0,"새, 파랑색 멜루아"
@@ -17782,7 +17782,7 @@ zep_bird_017,utc,FirstName,0,"새, 부표"
 zep_bird_017,utc,Description,0,보비 (Booby) 는 긴 날개와 긴 날개로 큰 바다 새이다.
 zep_bird_018,utc,FirstName,0,"새, 카나리"
 zep_bird_018,utc,Description,0,카나리아는 일반적으로 사육에서 발견되는 작은 비둘기입니다.
-zep_bird_019,utc,FirstName,0,"새, 카소보리"
+zep_bird_019,utc,FirstName,0,"새, 화식조"
 zep_bird_019,utc,Description,0,카소바리는 열대 숲에서 자생하는 매우 큰 날지 않는 새입니다.
 zep_bird_020,utc,FirstName,0,"대가리, 다이아트림"
 zep_bird_020,utc,Description,0,디아트리마스는 크고 날 수 없는 선사적인 새입니다.
@@ -17872,7 +17872,7 @@ zep_cmgnoll_001,utc,FirstName,0,놀
 zep_cmgnoll_002,utc,FirstName,0,"놀, 진저"
 zep_cmgnoll_003,utc,FirstName,0,"놀, 노레네"
 zep_cmgnoll_004,utc,FirstName,0,"놀, 하윈"
-zep_cmgnoll_005,utc,FirstName,0,"놀, 쿠키리"
+zep_cmgnoll_005,utc,FirstName,0,"놀, 카일리"
 zep_cmgnoll_006,utc,FirstName,0,"놀, 큰까마귀"
 zep_cmgnoll_007,utc,FirstName,0,"놀, 빨간 달"
 zep_cmgnoll_008,utc,FirstName,0,"놀, 실버문 남자"
@@ -17921,7 +17921,7 @@ zep_dlaogre_001,utc,Description,0,"오우거는 끔찍하고 탐욕스러운 생
 zep_dogjackal,utc,FirstName,0,초콜릿
 zep_dogjackal,utc,Description,0,초콜릿은 작은 개들이다.
 zep_donkey_001,utc,FirstName,0,마귀
-zep_donkey_001,utc,Description,0,말과 연관된 기마는 승마보다는 일상적인 일을 위해 만들어졌습니다.
+zep_donkey_001,utc,Description,0,말과 가까운 동물인 당나귀는 승마보다는 일상적인 일을 하도록 체격이 갖춰져 있습니다.
 zep_dracotaur,utc,FirstName,0,드라코타우르
 zep_dracotaur,utc,Description,0,드래코타어는 연민을 나타내지 못하고 그 대가로 아무 것도 기대하지 않는 거친 무자비한 포식자입니다.
 zep_dragon_ride,utc,FirstName,0,용 친구
@@ -18752,7 +18752,7 @@ aarcl041,uti,LocalizedName,0,은 전신 판금 갑옷
 aarcl041,uti,DescIdentified,0,"한때는 훌륭한 갑옷이었지만, 이제는 녹이 침식된 쇠로 변해버렸습니다. 여전히 착용 가능하지만, 보호력은 의심의 여지가 있습니다."
 aarcl042,uti,LocalizedName,0,암살자의 가죽 갑옷 +2
 aarcl043,uti,LocalizedName,0,마녀사냥꾼의 가슴판갑
-aarcl043,uti,DescIdentified,0,심하게 마법으로 강화된 가슴갑옷은 때로는 도적질하는 마법사나 다른 악한 마법사들을 찾는 보상수집자들이 사용하는 경우가 있다.
+aarcl043,uti,DescIdentified,0,"도주한 마법사나 다른 악의적인 주문 시전자를 추적하는 현상금 사냥꾼들이 때때로 사용하는, 마법이 강하게 부여된 흉갑입니다."
 aarcl044,uti,LocalizedName,0,은폐 갑옷 +3
 aarcl044,uti,DescIdentified,0,"전설은 작은 농촌 마을의 주민들을 공포에 떨게 한 큰 그리즐리 곰에 대해 이야기 합니다. 유명한 숲꾼이자 가장 강한 사람이라고 생각되는 키리언이 생물을 싸우기 전까지는 패배하지 않았습니다. 그들은 3 일 3 밤 동안 싸웠고, 이 과정에서 작은 숲을 파괴했지만, 결국 키리언은 승리했습니다. 그는 큰 곰의 피부를 사용하여 이 갑옷을 만들었습니다. 그는 평생 동안 착용했습니다."
 aarcl045,uti,LocalizedName,0,징박은 가죽 갑옷
@@ -18776,7 +18776,7 @@ ale,uti,LocalizedName,0,에일
 ale,uti,DescIdentified,0,어둡고 진한 음료는 전 세계의 강하고 열정적인 영웅들의 선택입니다.
 ale_5,uti,LocalizedName,0,에일
 ale_5,uti,DescIdentified,0,어둡고 진한 음료는 전 세계의 강하고 열정적인 영웅들의 선택입니다.
-am_it_kocra_hide,uti,LocalizedName,0,코크라콘 숨버리기
+am_it_kocra_hide,uti,LocalizedName,0,코크라콘 가죽
 amuletofmagicres,uti,LocalizedName,0,마법 저항 호신부
 animalpelt,uti,LocalizedName,0,동물의 가죽
 animalpelt,uti,DescIdentified,0,왕들의 숲에서 얻은 이 털은 블랙마켓에서 상당한 가격으로 팔릴 수 있을 것입니다.
@@ -19031,7 +19031,7 @@ crpi_graphook,uti,DescIdentified,0,"이 튼튼한 강철 갈고리는 견고하�
 crpi_graprope,uti,LocalizedName,0,밧줄과 갈고리
 crpi_graprope,uti,DescIdentified,0,이 견고한 길이는 한 끝 에 붙어 있는 밧줄 이 준비 된 모험가 들 에게 필수품 이다. 밧줄 을 坑 에 내려 놓을 수 있는 구덩이의 범위 내에서 사용 한다. 그 에 밧줄 을 잡으려는 시도 를 하기 위해 밧줄 의 범위 내에서 프로젝션 이나 엣지 를 사용 한다.
 crpi_ironspikes,uti,LocalizedName,0,아이언 가시못
-crpi_ironspikes,uti,Description,0,"철제 기둥은 모험가들에게 여러 가지 방법으로 유용하다. 땅이나 벽에 밀어넣을 때, 기둥은 문을 열거나 닫는 데, 등반 도구로 사용하거나 로프를 고정하는 데 사용될 수 있다."
+crpi_ironspikes,uti,Description,0,"철제 말뚝은 모험가들에게 여러모로 유용합니다. 땅이나 벽에 박아 문을 열어 두거나 닫아 걸고, 등반용 발판으로 쓰거나 밧줄을 고정할 수 있습니다."
 crpi_magiccoin,uti,LocalizedName,0,마법동전
 crpi_magiccoin,uti,DescIdentified,0,이 마법 동전을 사용하면 경험치를 받을 수 있습니다.
 crpi_o_agate,uti,LocalizedName,0,아가트
@@ -19118,8 +19118,8 @@ crpi_s_zircon,uti,DescIdentified,0,"지르콘은 다양한 색상으로 나타�
 crpi_shortspear,uti,LocalizedName,0,짧은 창
 crpi_spacer,uti,LocalizedName,0,이 용기에는 더 이상 담을 수 없습니다
 crpi_spk_mallet,uti,LocalizedName,0,쐐기 망치
-crpi_spk_mallet,uti,Description,0,"이 작은 망치는 돌에 철 스피크를 박는 데 설계되었습니다. 전투용으로는 의도되지 않았지만, 필요할 때 효과적인 무기로도 사용할 수 있습니다."
-crpi_spk_mallet,uti,DescIdentified,0,"이 작은 망치는 돌에 철 스피크를 박는 데 설계되었습니다. 전투용으로는 의도되지 않았지만, 필요할 때 효과적인 무기로도 사용할 수 있습니다."
+crpi_spk_mallet,uti,Description,0,"이 작은 망치는 철제 말뚝을 돌에 박도록 만들어졌습니다. 전투용은 아니지만, 급할 때는 효과적인 무기로도 쓸 수 있습니다."
+crpi_spk_mallet,uti,DescIdentified,0,"이 작은 망치는 철제 말뚝을 돌에 박도록 만들어졌습니다. 전투용은 아니지만, 급할 때는 효과적인 무기로도 쓸 수 있습니다."
 crpi_tinderbox,uti,LocalizedName,0,티더박스
 crpi_tinderbox,uti,DescIdentified,0,"이 작은 금속 상자에는 소량의 불타는 파우더가 포함되어 있으며,"
 crpi_wood01,uti,LocalizedName,0,타오르는 나무
@@ -19297,7 +19297,7 @@ dyel53,uti,LocalizedName,0,"가죽 염료, 빛나는 핑크"
 dyel54,uti,LocalizedName,0,"가죽 염색, 반짝이는 보라색"
 dyel55,uti,LocalizedName,0,"가죽 염료, 반짝이는 인디고"
 dyel56,uti,LocalizedName,0,"가죽 염색, 은"
-dyel57,uti,LocalizedName,0,"가죽 염료, 청토석"
+dyel57,uti,LocalizedName,0,"가죽 염료, 흑요석"
 dyel58,uti,LocalizedName,0,"가죽 염료, 구리"
 dyel59,uti,LocalizedName,0,"가죽 염료, 은 구리"
 dyel60,uti,LocalizedName,0,"가죽 염색, 빛나는 회색"
@@ -19520,7 +19520,7 @@ herbgarlic,uti,LocalizedName,0,"허브, 마늘"
 herbgarlic,uti,DescIdentified,0,요리에 흔히 쓰이는 마늘은 강력한 퇴치제이기도 합니다.
 herbgoldenseal,uti,LocalizedName,0,"허브, 금은초"
 herbgoldenseal,uti,DescIdentified,0,희귀하고 비싼 허브인 골든 시일은 몸을 병에 대항하여 강화시키고 정신을 맑게 합니다.
-hoodofsilence,uti,LocalizedName,0,침묵의 마법부녀
+hoodofsilence,uti,LocalizedName,0,침묵의 마법사 후드
 hoodofsilence,uti,DescIdentified,0,이 후드는 착용자의 소리를 약하게 하고 주문 시전자의 집중력을 높여 준다. 착용자에게 시전되는 주문에 대한 저항력도 조금 부여한다. 안타깝게도 소리를 차단하는 부작용으로 청력이 낮아진다.
 hornedhelm,uti,LocalizedName,0,이 된 헬멧
 hornedhelm,uti,DescIdentified,0,"이 우아하게 제작된 헬멧은 착용자에게 용기를 불어넣지만, 대부분의 헬멧과 마찬가지로 시야를 제한하고 소리를 누그러뜨립니다."
