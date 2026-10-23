@@ -12,7 +12,7 @@ area008,are,Name,0,다르로마르: 마법사 길드 탑 - 1층
 area009,are,Name,0,다로마르: 마법사 길드 탑 - 1층
 area010,are,Name,0,다로마르: 마법사 길드 탑 - 2층
 area011,are,Name,0,다로마르: 마법사 길드 탑 - 3층
-area012,are,Name,0,다루마르: 두햄어스 대장간
+area012,are,Name,0,다로마르: 투해머스 대장간
 area013,are,Name,0,더로마르: 하수구 아래
 area014,are,Name,0,다르로마르: 상류하수구
 area015,are,Name,0,다로마르: 만개한 장미
@@ -20,9 +20,9 @@ area016,are,Name,0,다로마르: 폭풍의 모임
 area017,are,Name,0,드라마르: 이상한 레이어
 area018,are,Name,0,다로마르: 학당의 집
 area019,are,Name,0,돌의 반지
-area020,are,Name,0,다르롬아르: 체널러스
+area020,are,Name,0,다로마르: 양초 상점
 area021,are,Name,0,들러스 - 올라가는 계단
-area022,are,Name,0,다르롬아르: 어두운 골목길
+area022,are,Name,0,다로마르: 어두운 골목
 area023,are,Name,0,다르로마르: 귀족의 맨션
 area024,are,Name,0,막간 - 남쪽 아멘에서 어딘가...
 area025,are,Name,0,북쪽: 숲 외곽
@@ -105,11 +105,11 @@ alandra,dlg,ReplyList/10/Text,0,"""괴한 무리가 테티르를 위협하고, �
 alandra,dlg,ReplyList/12/Text,0,"""나는 기다리는 것을 싫어. 나는 불안해진다."""
 alandra,dlg,ReplyList/13/Text,0,"""이 와중에 내가 뭘 해야겠어?"""
 alandra,dlg,ReplyList/15/Text,0,"""알겠습니다. 저는 가서 준비하겠습니다."""
-alandra,dlg,ReplyList/20/Text,0,<StartAction>[다롬아르를 떠나.]</Start>
-alandra,dlg,ReplyList/22/Text,0,<StartAction>[다롬아르를 떠나.]</Start>
-alandra,dlg,ReplyList/25/Text,0,<StartAction>[다롬아르를 떠나.]</Start>
-alandra,dlg,ReplyList/27/Text,0,<StartAction>[다롬아르를 떠나.]</Start>
-alandra,dlg,ReplyList/28/Text,0,<StartAction>[다롬아르를 떠나.]</Start>
+alandra,dlg,ReplyList/20/Text,0,<StartAction>[다로마르를 떠난다.]</Start>
+alandra,dlg,ReplyList/22/Text,0,<StartAction>[다로마르를 떠난다.]</Start>
+alandra,dlg,ReplyList/25/Text,0,<StartAction>[다로마르를 떠난다.]</Start>
+alandra,dlg,ReplyList/27/Text,0,<StartAction>[다로마르를 떠난다.]</Start>
+alandra,dlg,ReplyList/28/Text,0,<StartAction>[다로마르를 떠난다.]</Start>
 alaric1,dlg,EntryList/0/Text,0,"""나는 로얄 셀러 알라리크 햄브레온입니다. 전 전사님께서 말씀드리고 싶다고 생각합니다."
 alaric2,dlg,EntryList/0/Text,0,"""이런 일이 발생하게 된 것은 아쉬운 일이지만, 군에서 권위를 차지하는 와일드 카드는 있을 수 없습니다."""
 alaric3,dlg,EntryList/0/Text,0,"""안녕하세요. 왕실 군주님께 말씀해 주세요""."
@@ -778,7 +778,7 @@ ct_general,dlg,EntryList/0/Text,0,"""바자르에 오신 것을 환영합니다,
 ct_general,dlg,EntryList/1/Text,0,"""이봐, 내 친구 칼림산. 많은 사람들에게 '이상'은 일상적인 현상일 뿐이지. 하지만, 아니, 평범하지 않은 것은 없다""."
 ct_general,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
 ct_general,dlg,ReplyList/1/Text,0,<StartAction>[상가 시작]</Start>
-ct_general,dlg,ReplyList/2/Text,0,"""최근 이상한 것이 눈에 띈 적이 있나?"""
+ct_general,dlg,ReplyList/2/Text,0,"""최근 이상한 점이 눈에 띄었나?"""
 ct_healing,dlg,EntryList/0/Text,0,"""또 다른 손님을 맞이하게 되어 기쁩니다! 저는 지역의 일마테르 사원에서 봉헌된 치료 물품을 판매합니다."""
 ct_healing,dlg,EntryList/1/Text,0,"""지금 당신이 말했군, 오아시스 근처의 텐트 중 하나에서 이상한 소리를 들었어."""
 ct_healing,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
@@ -2764,13 +2764,13 @@ thewarden,dlg,ReplyList/5/Text,0,"""메로드라마틱은 다 됐어, 누가 이
 thewarden,dlg,ReplyList/6/Text,0,"""나 자신을 돌볼 수 있는 능력이 있어. 그냥 지나가게 해, 그리고 이 지역을 오염시키는 악을 막는 방법을 찾아보려고 노력할게."""
 thewarden,dlg,ReplyList/7/Text,0,"""문호를 잘 지키고 있지 않는 것 같다."""
 thewarden,dlg,ReplyList/8/Text,0,"""무슨 소리? 누군가 이미 지나갔나? 누가 그러한가?"""
-thewarden,dlg,ReplyList/9/Text,0,"""소리가 낯익은 사람 같아. 네페뮬."""
+thewarden,dlg,ReplyList/9/Text,0,"""내가 아는 사람 같군. 네레물."""
 thewarden,dlg,ReplyList/10/Text,0,"""나는 이 신비한 마법사에 대해 알고 있습니다. 그는 산성액이 흐르는 막대를 가지고 있었나요?"""
 thewarden,dlg,ReplyList/11/Text,0,"""아쩌다, 이제 가야겠어""."
 thewarden,dlg,ReplyList/12/Text,0,"""하이 마지 타라마르의 허가증을 받았기 때문에, 나는 들어갈 수 있습니다."""
 thewarden,dlg,ReplyList/14/Text,0,"""좋아, 내가 준비됐어"""
 thewarden,dlg,ReplyList/15/Text,0,"""무슨 소리? 누군가 이미 지나갔나? 누가 그러한가?"""
-thewarden,dlg,ReplyList/16/Text,0,"""소리가 낯익은 사람 같아. 네페뮬."""
+thewarden,dlg,ReplyList/16/Text,0,"""내가 아는 사람 같군. 네레물."""
 thewarden,dlg,ReplyList/17/Text,0,"""나는 이 신비한 마법사에 대해 알고 있습니다. 그는 산성액이 흐르는 막대를 가지고 있었나요?"""
 tm_oghma,dlg,EntryList/0/Text,0,지혜는 학자들만이 가지고 있다.
 tm_oghma,dlg,EntryList/1/Text,0,"""소리를 낮추세요, 부탁드립니다. 사람들이 읽고 있습니다."""
@@ -3537,7 +3537,7 @@ area005,git,WaypointList/5/MapNote,0,로얄 쿼터
 area005,git,WaypointList/6/MapNote,0,카라반 구로
 area005,git,WaypointList/7/MapNote,0,모루의 반지
 area005,git,WaypointList/8/LocalizedName,0,지도 설명
-area005,git,WaypointList/8/MapNote,0,다르롬아르: 체널러스
+area005,git,WaypointList/8/MapNote,0,다로마르: 양초 상점
 area005,git,Placeable List/3/LocName,0,대장간
 area005,git,Placeable List/3/Description,0,"두하머스 대장간, 대장장이, 무장사."
 area005,git,Placeable List/4/LocName,0,모루의 반지
@@ -5504,7 +5504,7 @@ forest,git,SoundList/17/LocName,0,풍자 구스트 카스밀
 forest,git,SoundList/18/LocName,0,풍자 구스트 카스밀
 forest,git,SoundList/19/LocName,0,풍자 구스트 카스밀
 forest,git,SoundList/20/LocName,0,울프 호우스II
-forest,git,SoundList/21/LocName,0,딱다구리 쪼는 소리
+forest,git,SoundList/21/LocName,0,딱따구리 쪼는 소리
 forest,git,SoundList/24/LocName,0,큰 절벽의 폭포
 forest,git,SoundList/28/LocName,0,큰 절벽의 폭포
 forest,git,SoundList/29/LocName,0,벼랑 위 폭포 (중)

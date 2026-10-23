@@ -242,7 +242,7 @@ eb_coffin,dlg,EntryList/8/Text,0,"<FirstName>, 성전에서 책을 읽었는데,
 eb_coffin,dlg,EntryList/9/Text,0,끝
 eb_coffin,dlg,ReplyList/3/Text,0,"""잠깐, 도루무. 이 사악한 생물을 영원히 없애려면 목재의자기를 찾아야 합니다."""
 eb_coffin,dlg,ReplyList/10/Text,0,<StartAction> 나무 줄기를 동물의 심장에 꽂아? </Start>
-eb_convict_prsnr,dlg,EntryList/0/Text,0,너와 엿먹고 싶지 않아.
+eb_convict_prsnr,dlg,EntryList/0/Text,0,나랑 엮이고 싶진 않을걸.
 eb_crazy_prisner,dlg,EntryList/0/Text,0,"무슨 일로 찾아온 거야? 지금 물건을 정리하다가 빨리 가려고 했는데, 시간 낭비하지 마."
 eb_crystalball,dlg,EntryList/0/Text,0,"<StartAction> 당신은 수정구를 들여다보며 그 깊은 곳에서 무엇인가 알아내려고 애쓰지만, 침투할 수 없는 어둠만이 냉정하고 끈기 있게 당신을 바라보고 있습니다.</Start>"
 eb_danilo,dlg,EntryList/0/Text,0,<StartCheck> 당신은 로드 팔라딘슨과 먼저 협상할 때까지 당신과 이야기 할 수 없습니다. 그 후에야 우리는 이 토론을 계속할 수 있습니다.</Start>
@@ -1613,7 +1613,7 @@ eb_kelgorhalls,dlg,ReplyList/0/Text,0,"안녕하세요 켈고르, 안전하게 �
 eb_kelgorhalls,dlg,ReplyList/1/Text,0,저는 대부분의 거미들을 잡았다고 생각합니다. 만약 생존자가 있다면 여왕 없이 오래 살지 않을 것입니다.
 eb_kelgorhalls,dlg,ReplyList/2/Text,0,"아니, 다시 출발하기 전에 신선한 물품을 구하러 왔고, 인사하고 싶었어."
 eb_kelgorhalls,dlg,ReplyList/3/Text,0,소장 케갈로르
-eb_kenku_egg,dlg,ReplyList/1/Text,0,</Start> 달걀을 들고 가라. <StartAction>
+eb_kenku_egg,dlg,ReplyList/1/Text,0,</Start>알을 줍는다.<StartAction>
 eb_khelben,dlg,EntryList/0/Text,0,"다시 오신 것을 환영합니다, 내 친구! 오랫동안 잃어버린 비밀을 발견했다고 봅니다. 고대 동굴. 신비와 알려지지 않은 역사로 감싸여있는 장소."
 eb_khelben,dlg,EntryList/1/Text,0,"고대 덤전은 2세기 전에 무거운 목적을 위해 막혀 있었는데, 그 안에는 서식하고 있는 불가사의 악이 있습니다. 단순히 말하자면, 거기서 갇힌 어둠이 현재 직면한 위협보다 더 큰 위협이 될 수도 있습니다."
 eb_khelben,dlg,EntryList/2/Text,0,"아마 보셨을 것 처럼, 수원강의 신부들은 오래전 아래쪽 입구를 봉쇄했습니다. 당신 같은 떠돌아다니는 모험가들이"
@@ -2813,7 +2813,7 @@ eob_guard_patrol,dlg,EntryList/2/Text,0,내게 방해하는 것보다 더 좋은
 eob_guard_patrol,dlg,EntryList/3/Text,0,"아룬이 큰 홀에 있어, 그와 얘기해줘"
 eob_guard_patrol,dlg,EntryList/4/Text,0,"어서 가, 표면 거주자!"
 eob_guard_patrol,dlg,EntryList/5/Text,0,"계속해, 널 죽일 거야, 실수하지 마!!"
-eob_guard_patrol,dlg,EntryList/6/Text,0,"너를 여기서 빨리 나가라고, 그렇지 않으면 뼛속 깊이 찍어 넣을 거다!"
+eob_guard_patrol,dlg,EntryList/6/Text,0,"썩 꺼져, 네 두개골을 박살 내기 전에!"
 eob_guard_patrol,dlg,EntryList/7/Text,0,"가라, 바쁘다!"
 eob_guard_patrol,dlg,EntryList/8/Text,0,지금은 말할 시간이 없어!
 eob_guard_patrol,dlg,EntryList/9/Text,0,안녕하세요!
@@ -5761,7 +5761,7 @@ level11xanathars,git,SoundList/6/LocName,0,횃불 불꽃 (소)
 level11xanathars,git,SoundList/7/LocName,0,횃불 불꽃 (소)
 level11xanathars,git,SoundList/8/LocName,0,횃불 불꽃 (소)
 level11xanathars,git,SoundList/9/LocName,0,횃불 불꽃 (소)
-level11xanathars,git,SoundList/10/LocName,0,중간 횃불
+level11xanathars,git,SoundList/10/LocName,0,횃불 불꽃 (중)
 level11xanathars,git,SoundList/11/LocName,0,마법 수정석
 level11xanathars,git,SoundList/12/LocName,0,마법 중립 차원문
 level11xanathars,git,SoundList/13/LocName,0,진동하는 소리
@@ -12712,24 +12712,24 @@ level5dwarvenc,git,Door List/5/LocName,0,문
 level5dwarvenc,git,Encounter List/0/LocalizedName,0,거미
 level5dwarvenc,git,Encounter List/1/LocalizedName,0,거미
 level5dwarvenc,git,Encounter List/2/LocalizedName,0,검은 늑대부 CR10
-level5dwarvenc,git,Encounter List/3/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/4/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/5/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/6/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/7/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/8/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/9/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/10/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/11/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenc,git,Encounter List/3/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/4/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/5/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/6/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/7/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/8/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/9/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/10/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/11/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenc,git,Encounter List/12/LocalizedName,0,죽음의 거미
 level5dwarvenc,git,Encounter List/13/LocalizedName,0,죽음의 거미
-level5dwarvenc,git,Encounter List/14/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenc,git,Encounter List/15/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenc,git,Encounter List/14/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenc,git,Encounter List/15/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenc,git,Encounter List/16/LocalizedName,0,죽음의 거미
 level5dwarvenc,git,Encounter List/17/LocalizedName,0,아기 스피더
 level5dwarvenc,git,Encounter List/18/LocalizedName,0,아기 스피더
 level5dwarvenc,git,Encounter List/19/LocalizedName,0,아기 스피더
-level5dwarvenc,git,Encounter List/20/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenc,git,Encounter List/20/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenc,git,List/0/LocalizedName,0,금화
 level5dwarvenc,git,List/1/LocalizedName,0,금화
 level5dwarvenc,git,List/2/LocalizedName,0,금화
@@ -13864,31 +13864,31 @@ level5dwarvenrui,git,Encounter List/2/LocalizedName,0,거미
 level5dwarvenrui,git,Encounter List/3/LocalizedName,0,거미
 level5dwarvenrui,git,Encounter List/4/LocalizedName,0,거미
 level5dwarvenrui,git,Encounter List/5/LocalizedName,0,거미
-level5dwarvenrui,git,Encounter List/6/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenrui,git,Encounter List/6/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenrui,git,Encounter List/7/LocalizedName,0,마약
-level5dwarvenrui,git,Encounter List/8/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/9/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/10/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/11/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/12/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/13/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/14/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/15/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/16/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/17/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/18/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/19/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/20/LocalizedName,0,검은 늑대부 5렙
-level5dwarvenrui,git,Encounter List/21/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenrui,git,Encounter List/8/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/9/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/10/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/11/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/12/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/13/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/14/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/15/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/16/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/17/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/18/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/19/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/20/LocalizedName,0,검은과부거미 5레벨
+level5dwarvenrui,git,Encounter List/21/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenrui,git,Encounter List/22/LocalizedName,0,죽음의 거미
-level5dwarvenrui,git,Encounter List/23/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenrui,git,Encounter List/23/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenrui,git,Encounter List/24/LocalizedName,0,죽음의 거미
-level5dwarvenrui,git,Encounter List/25/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenrui,git,Encounter List/25/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenrui,git,Encounter List/26/LocalizedName,0,죽음의 거미
 level5dwarvenrui,git,Encounter List/27/LocalizedName,0,죽음의 거미
 level5dwarvenrui,git,Encounter List/28/LocalizedName,0,죽음의 거미
 level5dwarvenrui,git,Encounter List/29/LocalizedName,0,죽음의 거미
-level5dwarvenrui,git,Encounter List/30/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenrui,git,Encounter List/30/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenrui,git,Encounter List/31/LocalizedName,0,죽음의 거미
 level5dwarvenrui,git,Encounter List/32/LocalizedName,0,시궁쥐
 level5dwarvenrui,git,Encounter List/33/LocalizedName,0,시궁쥐
@@ -13897,7 +13897,7 @@ level5dwarvenrui,git,Encounter List/35/LocalizedName,0,죽음의 거미
 level5dwarvenrui,git,Encounter List/36/LocalizedName,0,거미
 level5dwarvenrui,git,Encounter List/37/LocalizedName,0,아기 스피더
 level5dwarvenrui,git,Encounter List/38/LocalizedName,0,아기 스피더
-level5dwarvenrui,git,Encounter List/39/LocalizedName,0,검은 늑대부 5렙
+level5dwarvenrui,git,Encounter List/39/LocalizedName,0,검은과부거미 5레벨
 level5dwarvenrui,git,Encounter List/40/LocalizedName,0,마약
 level5dwarvenrui,git,Encounter List/41/LocalizedName,0,마약
 level5dwarvenrui,git,Encounter List/42/LocalizedName,0,마약
@@ -20932,16 +20932,16 @@ lv5_drc_e001,git,Placeable List/421/Description,0,"여기 몇 개의 작은 돌�
 lv5_drc_s,git,Door List/0/LocName,0,녹슨 문
 lv5_drc_s,git,Door List/1/LocName,0,녹슨 문
 lv5_drc_s,git,Door List/2/LocName,0,녹슨 문
-lv5_drc_s,git,Encounter List/0/LocalizedName,0,검은 늑대부 5렙
+lv5_drc_s,git,Encounter List/0/LocalizedName,0,검은과부거미 5레벨
 lv5_drc_s,git,Encounter List/1/LocalizedName,0,복수의 영혼
 lv5_drc_s,git,Encounter List/2/LocalizedName,0,복수의 영혼
 lv5_drc_s,git,Encounter List/3/LocalizedName,0,복수의 영혼
 lv5_drc_s,git,Encounter List/4/LocalizedName,0,복수의 영혼
-lv5_drc_s,git,Encounter List/5/LocalizedName,0,검은 늑대부 5렙
-lv5_drc_s,git,Encounter List/6/LocalizedName,0,검은 늑대부 5렙
-lv5_drc_s,git,Encounter List/7/LocalizedName,0,검은 늑대부 5렙
-lv5_drc_s,git,Encounter List/8/LocalizedName,0,검은 늑대부 5렙
-lv5_drc_s,git,Encounter List/9/LocalizedName,0,검은 늑대부 5렙
+lv5_drc_s,git,Encounter List/5/LocalizedName,0,검은과부거미 5레벨
+lv5_drc_s,git,Encounter List/6/LocalizedName,0,검은과부거미 5레벨
+lv5_drc_s,git,Encounter List/7/LocalizedName,0,검은과부거미 5레벨
+lv5_drc_s,git,Encounter List/8/LocalizedName,0,검은과부거미 5레벨
+lv5_drc_s,git,Encounter List/9/LocalizedName,0,검은과부거미 5레벨
 lv5_drc_s,git,Encounter List/10/LocalizedName,0,복수의 영혼
 lv5_drc_s,git,Encounter List/11/LocalizedName,0,복수의 영혼
 lv5_drc_s,git,Encounter List/12/LocalizedName,0,복수의 영혼
@@ -36099,8 +36099,8 @@ wooddoor,utd,LocName,0,나무 문
 wooddoor2,utd,LocName,0,나무 문
 beetles,ute,LocalizedName,0,딱정벌레
 blackwidowscr10,ute,LocalizedName,0,검은 늑대부 CR10
-blackwidowslv001,ute,LocalizedName,0,검은 늑대부 5렙
-blackwidowslvl5,ute,LocalizedName,0,검은 늑대부 5렙
+blackwidowslv001,ute,LocalizedName,0,검은과부거미 5레벨
+blackwidowslvl5,ute,LocalizedName,0,검은과부거미 5레벨
 bonebats,ute,LocalizedName,0,뼈 박쥐
 bonebats001,ute,LocalizedName,0,소형 거미
 bugbearhp130,ute,LocalizedName,0,버그베어 HP 130
@@ -38165,11 +38165,11 @@ treasuremed001,utp,Description,0,불특정 가치의 작은 장식품들.
 upendedchair2,utp,LocName,0,의자 2가 뒤집혀 있다
 upendedchair3,utp,LocName,0,수면 위로 올라가는 의자 3
 upendeddresse2,utp,LocName,0,상반된 가구 2
-upendeddresser,utp,LocName,0,전단위 엎힌 드레저 1
+upendeddresser,utp,LocName,0,뒤집힌 화장대 1
 upendedstool1,utp,LocName,0,전복된 의자 1
 upendedstool2,utp,LocName,0,상태 이상의 의자 2
 upendedtables1,utp,LocName,0,수정된 표 1
-upendedtables2,utp,LocName,0,상당히 테이블이 엎어진 상태 2
+upendedtables2,utp,LocName,0,뒤집힌 탁자 2
 upendedtables3,utp,LocName,0,상단 테이블 3
 wall82p,utp,LocName,0,퍼즐 벽
 walltrap,utp,LocName,0,벽 함정

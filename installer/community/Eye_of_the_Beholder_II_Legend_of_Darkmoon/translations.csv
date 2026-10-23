@@ -270,7 +270,7 @@ eb_guard_patrol,dlg,EntryList/2/Text,0,내게 방해하는 것보다 더 좋은 
 eb_guard_patrol,dlg,EntryList/3/Text,0,"아룬이 큰 홀에 있어, 그와 얘기해줘"
 eb_guard_patrol,dlg,EntryList/4/Text,0,"어서 가, 표면 거주자!"
 eb_guard_patrol,dlg,EntryList/5/Text,0,"계속해, 널 죽일 거야, 실수하지 마!!"
-eb_guard_patrol,dlg,EntryList/6/Text,0,"너를 여기서 빨리 나가라고, 그렇지 않으면 뼛속 깊이 찍어 넣을 거다!"
+eb_guard_patrol,dlg,EntryList/6/Text,0,"썩 꺼져, 네 두개골을 박살 내기 전에!"
 eb_guard_patrol,dlg,EntryList/7/Text,0,"가라, 바쁘다!"
 eb_guard_patrol,dlg,EntryList/8/Text,0,지금은 말할 시간이 없어!
 eb_guard_patrol,dlg,EntryList/9/Text,0,안녕하세요!
@@ -4550,7 +4550,7 @@ area003,git,WaypointList/10/LocalizedName,0,발렛런이러2
 area003,git,WaypointList/15/LocalizedName,0,이정표
 area003,git,WaypointList/15/MapNote,0,아이스루트 3층 동쪽
 area003,git,WaypointList/16/LocalizedName,0,이정표
-area003,git,WaypointList/16/MapNote,0,아이즈튜워 - 레벨 1
+area003,git,WaypointList/16/MapNote,0,아주르 탑으로 - 1층
 area003,git,Placeable List/0/LocName,0,수정 벽
 area003,git,Placeable List/1/LocName,0,수정 벽
 area003,git,Placeable List/2/LocName,0,수정 벽
@@ -6517,7 +6517,7 @@ area008,git,Placeable List/370/Description,0,에메랄드색 잎이 이 우아�
 area008,git,Placeable List/371/LocName,0,촛불 01 (주위의 빛 없음)
 area009,git,Creature List/3/FirstName,0,면도날 이빨
 area009,git,Creature List/3/ItemList/0/LocalizedName,0,쥐가 숨는 곳
-area009,git,Creature List/3/ItemList/0/DescIdentified,0,이것은 쥐로부터 뺏은 털입니다.
+area009,git,Creature List/3/ItemList/0/DescIdentified,0,쥐에게서 벗겨 낸 가죽이다.
 area009,git,Door List/1/LocName,0,문
 area009,git,Door List/2/LocName,0,문
 area009,git,Encounter List/0/LocalizedName,0,시궁쥐
@@ -14119,7 +14119,7 @@ thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/64/LocalizedName,0,스카�
 thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/65/LocalizedName,0,독소 단검 +2
 thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/66/LocalizedName,0,파그라라흐
 thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/66/DescIdentified,0,"이 마법 무기는 공격과 손상을 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 가지고 있지 않습니다. 원소 정령의 악마 신전에서 전사 트로멜이 이 무기를 사용했습니다."
-thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/75/LocalizedName,0,중도리깨 오브 배싱 +3
+thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/75/LocalizedName,0,강타의 중형 플레일 +3
 thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/77/LocalizedName,0,불꽃 낭자
 thedarkmoonfores,git,StoreList/2/StoreList/1/ItemList/78/LocalizedName,0,조각내는 호 +2
 thedarkmoonfores,git,StoreList/2/StoreList/2/ItemList/9/LocalizedName,0,회상 물약
@@ -15429,7 +15429,7 @@ partofjournal004,uti,DescIdentified,0,"우리 가이드 베넷은 방 내 모든
 partofjournal005,uti,LocalizedName,0,일지의 일부
 partofjournal005,uti,DescIdentified,0,우리는 또 다른 더 큰 방을 찾았습니다. 몇몇 압력판이 특별한 룬으로 표시되어 있었습니다. 우리의 가이드 베넷은 여러 개의 판을 계속 걸어다녔습니다. 그는 외부 모퉁이 판을 지나갈 때마다 작은 소리가 활성화되는 것을 들었어요. 작동하기 위해 무게를 낮추어야 하는 판의 적절한 조합은 각 모퉁이에 룬판 위에 물건을 떨어뜨리는 것을 요구했습니다. 결국 남쪽으로 더 큰 문을 열어주었습니다. 우리의 가이드 베넷은 끈끈한 작은 남자입니다. 나는 그가 없으면 우리가 무엇을 할지 모른다.
 rathide,uti,LocalizedName,0,쥐가 숨는 곳
-rathide,uti,DescIdentified,0,이것은 쥐로부터 뺏은 털입니다.
+rathide,uti,DescIdentified,0,쥐에게서 벗겨 낸 가죽이다.
 ration002,uti,LocalizedName,0,양식
 ration002,uti,DescIdentified,0,고기 조각.
 ration003,uti,LocalizedName,0,양식
@@ -15545,7 +15545,7 @@ waxmgr005,uti,LocalizedName,0,은 도끼
 waxmgr006,uti,LocalizedName,0,얼음 얼린 검
 waxmgr007,uti,LocalizedName,0,성스러운 대도끼 +3
 waxmhn003,uti,LocalizedName,0,대형 클리버
-wblmfh012,uti,LocalizedName,0,중도리깨 오브 배싱 +3
+wblmfh012,uti,LocalizedName,0,강타의 중형 플레일 +3
 wblmhw006,uti,LocalizedName,0,모라딘의 영혼의 막대기 +1
 wblmhw007,uti,LocalizedName,0,쇼른의 정의의 망치
 wblmhw012,uti,LocalizedName,0,녹슨 전쟁도끼

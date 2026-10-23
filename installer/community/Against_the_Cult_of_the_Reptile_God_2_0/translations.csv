@@ -37,14 +37,14 @@ garathshut,are,Name,0,가라스의 창가
 gardenoftheda001,are,Name,0,새벽 정원
 generalstore,are,Name,0,일반 상점
 goldengrainin001,are,Name,0,골든 그레인 인 바닥 2층
-goldengraininn,are,Name,0,골든 그레이인 인넨
+goldengraininn,are,Name,0,황금 곡식 여관
 goldengraininnce,are,Name,0,골든 그레인 인 베일러
 goldengraininnfi,are,Name,0,골든 그레인 인 바닥
 goldengraintunne,are,Name,0,황금 곡물 통로
 helperarea,are,Name,0,조력자 지역
 hochoch,are,Name,0,호초크 - 공예가 거리
 hollyhockcottage,are,Name,0,홀리호크 캐슬리지
-hollyhockfirst,are,Name,0,홀리하크 캐비닛 1층
+hollyhockfirst,are,Name,0,접시꽃 오두막 1층
 innersanctum,are,Name,0,내부 성당
 lairlevel1,are,Name,0,파충류 신의 둥지 - 1레벨
 lairlevel2,are,Name,0,파충류 신의 봉지 - 2레벨
@@ -464,7 +464,7 @@ book_divine,dlg,EntryList/1/Text,0,메디코 비네움!
 book_divine,dlg,EntryList/2/Text,0,가을 음식!
 book_divine,dlg,EntryList/3/Text,0,플로라 자라나게!
 book_divine,dlg,EntryList/4/Text,0,안구름!
-book_divine,dlg,EntryList/5/Text,0,펄루스 메타모프소스!
+book_divine,dlg,EntryList/5/Text,0,풀루스 변신!
 book_divine,dlg,EntryList/6/Text,0,이그누스 보호자!
 book_divine,dlg,EntryList/7/Text,0,템페스투스 러크스!
 book_divine,dlg,EntryList/8/Text,0,플로라 인페투스!
@@ -477,7 +477,7 @@ book_divineold,dlg,EntryList/1/Text,0,메디코 비네움!
 book_divineold,dlg,EntryList/2/Text,0,가을 음식!
 book_divineold,dlg,EntryList/3/Text,0,플로라 자라나게!
 book_divineold,dlg,EntryList/4/Text,0,안구름!
-book_divineold,dlg,EntryList/5/Text,0,펄루스 메타모프소스!
+book_divineold,dlg,EntryList/5/Text,0,풀루스 변신!
 book_divineold,dlg,EntryList/6/Text,0,이그누스 보호자!
 book_divineold,dlg,EntryList/7/Text,0,템페스투스 러크스!
 book_divineold,dlg,EntryList/8/Text,0,플로라 인페투스!
@@ -525,7 +525,7 @@ book_test,dlg,EntryList/1/Text,0,메디코 비네움!
 book_test,dlg,EntryList/2/Text,0,가을 음식!
 book_test,dlg,EntryList/3/Text,0,플로라 자라나게!
 book_test,dlg,EntryList/4/Text,0,안구름!
-book_test,dlg,EntryList/5/Text,0,펄루스 메타모프소스!
+book_test,dlg,EntryList/5/Text,0,풀루스 변신!
 book_test,dlg,EntryList/6/Text,0,이그누스 보호자!
 book_test,dlg,EntryList/7/Text,0,템페스투스 러크스!
 book_test,dlg,EntryList/8/Text,0,플로라 인페투스!
@@ -1069,9 +1069,9 @@ flowers,dlg,ReplyList/5/Text,0,꽃의 냄새를 맡게.
 font,dlg,EntryList/0/Text,0,이 한때 거룩한 성수에 들어 있는 물은 어떤 불성스러운 물질로 오염되었습니다.
 font,dlg,EntryList/1/Text,0,<StartAction>[종교적 지식]</Start> 이 한때 거룩한 성수에 들어 있는 물은 피와 불성스러운 물의 혼합으로 오염되었다. 당신의 종교적 지식은 거룩한 성수의 병이 이 성수를 정화할 수 있음을 제안한다.
 font,dlg,EntryList/2/Text,0,이 폰트의 물은 거룩한 물을 추가함으로써 정화되었습니다.
-font,dlg,ReplyList/0/Text,0,글꼴을 남기지 마세요.
+font,dlg,ReplyList/0/Text,0,성수반을 그대로 둔다.
 font,dlg,ReplyList/1/Text,0,알케미스트의 불을 부대에 부어 넣으세요.
-font,dlg,ReplyList/2/Text,0,글꼴에 성수를 부어라.
+font,dlg,ReplyList/2/Text,0,성수반에 성수를 붓는다.
 font,dlg,ReplyList/3/Text,0,폰트에서 마시기.
 font,dlg,ReplyList/4/Text,0,폰트에서 마시기.
 fontmonk,dlg,EntryList/0/Text,0,어둠이 빨리 사라지길 바라!
@@ -1903,7 +1903,7 @@ lever,dlg,EntryList/0/Text,0,뭐가 필요하니?
 lever,dlg,ReplyList/0/Text,0,시장 암살을 계획하라.
 lever,dlg,ReplyList/1/Text,0,GG 세라미
 lever,dlg,ReplyList/2/Text,0,그로버를 화나게 했어요
-lever,dlg,ReplyList/3/Text,0,농장에서 덫을 놓는다
+lever,dlg,ReplyList/3/Text,0,헛간에 매복을 설치한다
 lever,dlg,ReplyList/4/Text,0,큐스센
 lever,dlg,ReplyList/5/Text,0,도리안 플롯 2
 lever,dlg,ReplyList/6/Text,0,도리안 플롯 1
@@ -2534,9 +2534,9 @@ otyugh,dlg,ReplyList/2/Text,0,여기 하나 드리겠습니다. 받으세요.
 otyugh,dlg,ReplyList/3/Text,0,"고마워, 제가 좋아하는 게 있는지 확인해볼게."
 otyugh,dlg,ReplyList/5/Text,0,"아직은 아니, 아직도 찾고 있어요."
 owlbear,dlg,EntryList/0/Text,0,하! <class>가 나와 사냥을 하다니 누가 생각했을까!
-ox1,dlg,EntryList/0/Text,0,소는 짜증나게 껑충거린다.
+ox1,dlg,EntryList/0/Text,0,소가 짜증스럽게 끙 소리를 낸다.
 ox1,dlg,EntryList/1/Text,0,"왜 나는 카를 끌어야 하고, 그녀는 단지 짐을 지고 다니는 거냐?"
-ox2,dlg,EntryList/0/Text,0,소는 짜증나게 껑충거린다.
+ox2,dlg,EntryList/0/Text,0,소가 짜증스럽게 끙 소리를 낸다.
 ox2,dlg,EntryList/1/Text,0,안녕하세요. 거기서 한 마리의 죽은 형제 소를 지나쳤어요. 그 생각이 마음에 걸려요.
 perdita,dlg,EntryList/0/Text,0,멍멍.
 perdita,dlg,EntryList/1/Text,0,고양이를 쫓는게 좋아! 따라갈 수 있다면 나와 함께 달려라.
@@ -3039,7 +3039,7 @@ vilma,dlg,EntryList/29/Text,0,무슨 일이 일어났나요? 어디에 있는 �
 vilma,dlg,EntryList/30/Text,0,"뭐요? 아니오, 아니오, 아니오."
 vilma,dlg,EntryList/31/Text,0,난... 하지만 너무... 끔찍한 것을 봤어...
 vilma,dlg,EntryList/32/Text,0,"아, 그렇군요... 저는 그가 최근에 자주 생각났답니다."
-vilma,dlg,EntryList/33/Text,0,"제이콥, 정말 당신이야?"
+vilma,dlg,EntryList/33/Text,0,"자... 제이컵, 너야?"
 vilma,dlg,EntryList/34/Text,0,난 넘어진 것을 점점 잊어가고 있어. 정신이 얼마나 많은 트릭을 부릴 수 있는지 정말 놀랍다....
 vilma,dlg,EntryList/35/Text,0,좋은 식사 아니야? 거의 시간과 같아.
 vilma,dlg,ReplyList/0/Text,0,"미안하지만, 좀 더 편리할 때 다시 올게요."
@@ -3972,7 +3972,7 @@ area007,git,Creature List/2/FirstName,0,드래곤플라이
 area007,git,Creature List/2/Description,0,"드래곤플라이는 습지에서 흔히 발견되는 곤충이며, 긴 몸에는 강하고 투명한 날개가 있다. 보통 모기, 미즈 및 다른 작은 곤충을 잡아먹는다."
 area007,git,Creature List/3/FirstName,0,가속화
 area007,git,Creature List/3/Description,0,"스피클링은 다른 모든 인종을 싫어하는 악의 요정이며, 특히 동료 요정이다. 엘프와 브라운의 후손이라고 믿어지는 전설은 최초의 스피클링을 수사하는 위대한 마법사라고 이야기합니다. 그들은 필사적 생물에게 결코 의도되지 않은 신비의 스파크를 방출했습니다. 그들은 크고 날카로운 귀가있는 작은 엘프와 비슷하며 피부는 파란색 색을 가지고 있습니다. 어떤 생물도 스피클링의 자연적인 속도와 민첩성을 비교할 수 없으며, 전투에서 이점을 위해 사용합니다. 그것은 달릴 때 움직임의 흐릿하다, 그리고 고정되어있을 때 보이지 않습니다."
-area007,git,Creature List/3/ItemList/0/LocalizedName,0,퀵링 피
+area007,git,Creature List/3/ItemList/0/LocalizedName,0,퀵클링의 피
 area007,git,Creature List/3/ItemList/0/Description,0,클링 피의 병
 area007,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,급속한 니크
 area007,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,장인제작 단검
@@ -4906,7 +4906,7 @@ fontenmereabbey,git,Creature List/15/Description,0,이 도블린의 표기들은
 fontenmereabbey,git,Creature List/15/Equip_ItemList/2/LocalizedName,0,현혹된 생명체의 피부
 fontenmereabbey,git,Creature List/16/FirstName,0,그루크
 fontenmereabbey,git,Creature List/16/Description,0,이 도블린의 표기들은 숲에서 온 레드 스타 부족에 대한 충성을 나타냅니다.
-fontenmereabbey,git,Creature List/17/FirstName,0,홉고블린 감옥 지킴이
+fontenmereabbey,git,Creature List/17/FirstName,0,홉고블린 간수
 fontenmereabbey,git,Creature List/17/Description,0,호브고블린은 호그보글의 큰 친척이다. 그들은 조직적이고 공격적이며 다른 인류 종족과 싸우는 것을 즐긴다. 따라서 이 호그보글이 더 약한 호그보글들과 만족스럽게 일하는 것처럼 보이는 것은 다소 이상하다.
 fontenmereabbey,git,Creature List/17/ItemList/0/LocalizedName,0,수도원 감방 열쇠
 fontenmereabbey,git,Creature List/17/ItemList/0/Description,0,폐허가 된 수도원에서 호브글린 감옥관이 들고 있던 열쇠
@@ -5323,7 +5323,7 @@ fontenmereabbey,git,Placeable List/569/Description,0,두꺼운 웅덩이가 무�
 fontenmereabbey,git,Placeable List/571/LocName,0,빈 상자 1
 fontenmereabbey,git,Placeable List/571/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 fontenmereabbey,git,Placeable List/578/LocName,0,고블린 시체 (앞)
-fontenmereabbey,git,Placeable List/584/LocName,0,횃불 - 벽에 설치 1
+fontenmereabbey,git,Placeable List/584/LocName,0,횃불 - 벽걸이 1
 fontenmereabbey,git,Placeable List/588/LocName,0,자루
 fontenmereabbey,git,Placeable List/589/LocName,0,자루
 fontenmereabbey,git,Placeable List/590/LocName,0,자루
@@ -5692,7 +5692,7 @@ goldengraininn,git,Placeable List/61/LocName,0,비어 있는 빛 통
 goldengraininn,git,Placeable List/62/LocName,0,빈 통
 goldengraininn,git,Placeable List/63/LocName,0,빈 통
 goldengraininn,git,Placeable List/69/LocName,0,"보울, 백색 스티우"
-goldengraininn,git,Placeable List/69/Description,0,스튜의 냄새가 맛있고 멋지게 느껴집니다.
+goldengraininn,git,Placeable List/69/Description,0,스튜에서 구수하고 근사한 냄새가 난다.
 goldengraininn,git,Placeable List/75/LocName,0,치즈 휠
 goldengraininn,git,Placeable List/75/Description,0,치즈 휠
 goldengraininn,git,Placeable List/80/LocName,0,치즈 휠 쌓기
@@ -5995,8 +5995,8 @@ goldengraintunne,git,Placeable List/129/LocName,0,NWN2 상자
 goldengraintunne,git,Placeable List/140/LocName,0,엔피레아의 눈물
 goldengraintunne,git,Placeable List/140/Description,0,"에피리아의 평면 도시는 셀레스티아 산의 다섯 번째 층인 메르티온에 있는 차가운 맑은 산 호수의 가장자리에 위치하고 있습니다. 이 도시는 많은 치유의 분수와 치유의 물로 알려져 있습니다. 때때로 좋은 사제가 악행이나 어두운 마술을 성지에서 수행할 때, 원자물 평면과 셀레스티아 사이에 작은 균열이 생성됩니다. 이 균열을 통해 에피리아의 물이 흐르며 강력한 복원적 특성을 가지고 있습니다. 그러한 장소는 '에피리아의 눈물'로 알려져 있습니다. 에피리아의 눈물에서 마시는 것은 음주에게 하루 종일 휴식을 취하는 효과가 있습니다. 그러나, 첫 번째 음료를 취한 후에 물의 흐름이 멈출 가능성이 높습니다. 음주자는 이 계획을 유지하기 위해 필요한 미묘한 지식을 가지고 있지 않으면."
 goldengraintunne,git,Placeable List/145/LocName,0,단골
-goldengraintunne,git,Placeable List/154/LocName,0,횃불 - 벽에 설치 1
-goldengraintunne,git,Placeable List/155/LocName,0,횃불 - 벽에 설치 1
+goldengraintunne,git,Placeable List/154/LocName,0,횃불 - 벽걸이 1
+goldengraintunne,git,Placeable List/155/LocName,0,횃불 - 벽걸이 1
 helperarea,git,Placeable List/0/LocName,0,죽은 카운터
 helperarea,git,Placeable List/0/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 helperarea,git,Placeable List/1/LocName,0,투명한 조력자
@@ -7284,7 +7284,7 @@ lairlevel3,git,Creature List/12/Description,0,"붐우그는 개구리 머리, �
 lairlevel3,git,Creature List/13/FirstName,0,툴리우그 투사
 lairlevel3,git,Creature List/13/Description,0,"붐우그는 개구리 머리, 회색, 녹색, 또는 황색 피부를 가진 양서류 인형물이다. 긴 발자국, 반짝이는 혀를 가지고 있으며 비로 싸웁니다. 붐우그로서의 삶은 거칠고 잔인하고 젖어있다. 그들의 사제들은 종종 통제 할 수 없는 생물들을 불러 불러내는 것으로 유명하다."
 lairlevel3,git,Creature List/14/FirstName,0,동굴인 엘리트
-lairlevel3,git,Creature List/15/FirstName,0,트로글로다이트 크래크샷
+lairlevel3,git,Creature List/15/FirstName,0,트로글로다이트 명사수
 lairlevel3,git,SoundList/1/LocName,0,도크 벨 소리
 lairlevel3,git,SoundList/2/LocName,0,벨 출발 소리
 lairlevel3,git,SoundList/3/LocName,0,뼈가 바스러지기
@@ -7741,7 +7741,7 @@ mayorupper,git,Placeable List/63/LocName,0,할아버지 시계
 mayorupper,git,Placeable List/63/Description,0,대부분의 시간이 흐르는 시계
 mayorupper,git,Placeable List/68/LocName,0,"판금, 백색 스테이크"
 mayorupper,git,Placeable List/68/Description,0,뜨거운 스테이크 저녁 식사.
-mayorupper,git,Placeable List/69/LocName,0,"판금, 백색, 스튜"
+mayorupper,git,Placeable List/69/LocName,0,"접시, 흰색, 스튜"
 mayorupper,git,Placeable List/69/Description,0,뜨거운 스텔프 판
 mayorupper,git,Placeable List/70/LocName,0,치즈 휠 (전체)
 mayorupper,git,Placeable List/70/Description,0,전체 치즈 휠
@@ -7756,7 +7756,7 @@ mayorupper,git,Placeable List/84/Description,0,꽃병
 mayorupper,git,Placeable List/89/LocName,0,"도화장, 성, 시골"
 mayorupper,git,Placeable List/90/LocName,0,"테이베스트리, 라이온"
 mayorupper,git,Placeable List/91/LocName,0,"테이베스트리, 라이온"
-mayorupper,git,Placeable List/100/LocName,0,"판금, 백색, 스튜"
+mayorupper,git,Placeable List/100/LocName,0,"접시, 흰색, 스튜"
 mayorupper,git,Placeable List/100/Description,0,뜨거운 스텔프 판
 mayorupper,git,Placeable List/102/LocName,0,[NWN2] 바구니 - 과일
 mayorupper,git,Placeable List/103/LocName,0,[NWN2] 바구니 - 과일
@@ -8007,7 +8007,7 @@ orlane,git,WaypointList/24/LocalizedName,0,이정표
 orlane,git,WaypointList/25/LocalizedName,0,이정표
 orlane,git,WaypointList/26/LocalizedName,0,이정표
 orlane,git,WaypointList/27/MapNote,0,수직자
-orlane,git,WaypointList/28/MapNote,0,골든 그레이인 인넨
+orlane,git,WaypointList/28/MapNote,0,황금 곡식 여관
 orlane,git,WaypointList/29/MapNote,0,경찰관 방
 orlane,git,WaypointList/30/MapNote,0,일반 상점
 orlane,git,WaypointList/31/MapNote,0,촌장의 거처
@@ -8069,7 +8069,7 @@ orlane,git,WaypointList/120/LocalizedName,0,우편
 orlane,git,WaypointList/121/LocalizedName,0,이정표
 orlane,git,WaypointList/122/LocalizedName,0,이정표
 orlane,git,WaypointList/132/MapNote,0,유제품
-orlane,git,Placeable List/0/LocName,0,골든 그레이인 인넨
+orlane,git,Placeable List/0/LocName,0,황금 곡식 여관
 orlane,git,Placeable List/0/Description,0,'골든 그레인 인'의 황금 밀잎이 이 표지판을 장식합니다.
 orlane,git,Placeable List/1/LocName,0,옥수수 수확
 orlane,git,Placeable List/1/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
@@ -8146,7 +8146,7 @@ orlane,git,Placeable List/77/LocName,0,"조각상, 가고일"
 orlane,git,Placeable List/87/LocName,0,소형 마차 - 가마유
 orlane,git,Placeable List/90/LocName,0,심은 꽃 - 흰색
 orlane,git,Placeable List/90/Description,0,꽃밭
-orlane,git,Placeable List/91/LocName,0,심은 꽃 - 하얀색/노란색
+orlane,git,Placeable List/91/LocName,0,심어 놓은 꽃 - 흰색/노란색
 orlane,git,Placeable List/91/Description,0,꽃밭
 orlane,git,Placeable List/106/LocName,0,"물고기, 4대"
 orlane,git,Placeable List/106/Description,0,고양이가 먹고 남은 물고기
@@ -8483,7 +8483,7 @@ rushmoornorth,git,Creature List/32/Description,0,"이 박쥐의 날개에는 눈
 rushmoornorth,git,Creature List/33/FirstName,0,물 메피트
 rushmoornorth,git,Creature List/34/FirstName,0,물 메피트
 rushmoornorth,git,Creature List/35/FirstName,0,큰 겨드랑이 젤리
-rushmoornorth,git,Creature List/36/FirstName,0,트로글로다이트 크래크샷
+rushmoornorth,git,Creature List/36/FirstName,0,트로글로다이트 명사수
 rushmoornorth,git,Creature List/37/FirstName,0,리치 하운드
 rushmoornorth,git,Creature List/37/Description,0,"레치 후드는 공격적인 육식 동물로, 인간 육체의 맛을 매우 좋아합니다. 그들은 큰 늑대와 유사하며, 병든, 엉킨 털을 가집니다. 상처는 그들의 몸을 덮고 있으며, 각각 두꺼운 황색 녹색 액체를 배출합니다."
 rushmoornorth,git,Creature List/37/Equip_ItemList/1/LocalizedName,0,역겨운 개 피부
@@ -8831,7 +8831,7 @@ rushmoorsouth,git,Creature List/52/Description,0,"드래곤플라이는 습지�
 rushmoorsouth,git,Creature List/53/FirstName,0,무크드웰러 지도자
 rushmoorsouth,git,Creature List/53/Description,0,"무크다이버는 두 발 다리 양족 동물 이며, 습지와 습지에서 생활 한다. 그들은 만식 동물 이며, 식물 과 곤충 에 생존 할 수 있지만, 신선 한 고기의 맛을 선호 한다. 그들은 무심한 희생자 들 을 눈치채기 위해 입 을 통해 진흙 한 물 을 뿌린다."
 rushmoorsouth,git,Creature List/54/FirstName,0,오그리온 지도자
-rushmoorsouth,git,Creature List/55/FirstName,0,트로글로다이트 크래크샷
+rushmoorsouth,git,Creature List/55/FirstName,0,트로글로다이트 명사수
 rushmoorsouth,git,Creature List/56/FirstName,0,톱니 도마뱀
 rushmoorsouth,git,Creature List/56/Description,0,"등가죽 도마뱀은 얕은 물에서 뿌리와 풀을 파는 큰 강력한 생물이다. 그러나 그들은 쉽게 공황을 겪으며, 놀라서는 강력한 자연 방어력을 사용하여 맹수들을 쫓아내는 경향이 있다. 그 넓은 등은 큰 가시로 덮여 있어 육전에 참여하려는 자를 방해하고 찌르는 경향이 있다."
 rushmoorsouth,git,Door List/0/LocName,0,문
@@ -8967,10 +8967,10 @@ selvinshome,git,WaypointList/0/LocalizedName,0,우편
 selvinshome,git,WaypointList/1/LocalizedName,0,우편
 selvinshome,git,WaypointList/2/LocalizedName,0,이정표
 selvinshome,git,Placeable List/3/LocName,0,"보울, 백색 스티우"
-selvinshome,git,Placeable List/3/Description,0,스튜의 냄새가 맛있고 멋지게 느껴집니다.
+selvinshome,git,Placeable List/3/Description,0,스튜에서 구수하고 근사한 냄새가 난다.
 selvinshome,git,Placeable List/4/LocName,0,"판금, 백색 스테이크"
 selvinshome,git,Placeable List/4/Description,0,뜨거운 스테이크 저녁 식사.
-selvinshome,git,Placeable List/5/LocName,0,"판금, 백색, 스튜"
+selvinshome,git,Placeable List/5/LocName,0,"접시, 흰색, 스튜"
 selvinshome,git,Placeable List/5/Description,0,뜨거운 스텔프 판
 selvinshome,git,Placeable List/11/LocName,0,드래거의 상자
 selvinshome,git,Placeable List/12/LocName,0,[NWN2] 바구니 - 과일
@@ -10647,7 +10647,7 @@ hendrick,utc,Description,0,이 무거운 경험이 많은 전사가 당신을 �
 hermit,utc,FirstName,0,에르미트
 hermit,utc,Description,0,"이 늙은이는 희미한 흰색 머리카락을 몇 덩어리씩 가지고 있으며, 가끔은 혼자 중얼거린다."
 hilgeth,utc,FirstName,0,힐게스
-hobgoblinjailor,utc,FirstName,0,홉고블린 감옥 지킴이
+hobgoblinjailor,utc,FirstName,0,홉고블린 간수
 hobgoblinjailor,utc,Description,0,호브고블린은 호그보글의 큰 친척이다. 그들은 조직적이고 공격적이며 다른 인류 종족과 싸우는 것을 즐긴다. 따라서 이 호그보글이 더 약한 호그보글들과 만족스럽게 일하는 것처럼 보이는 것은 다소 이상하다.
 hochochguard,utc,FirstName,0,호초크 경비병
 hochochguard,utc,Description,0,이 군인은 호초시 경비병의 특유한 갑옷을 입고 있습니다.
@@ -10953,14 +10953,14 @@ templetroglodyte,utc,FirstName,0,트로글로디이트
 templewolf,utc,FirstName,0,늑대
 tentbandit,utc,FirstName,0,강도
 tentbandit,utc,Description,0,"이 강도는 어둠의 잎사귀 강도단의 구성원이며, 그들은 어두운 숲에 거주하고 있습니다."
-tinyslicerbeet,utc,FirstName,0,작은 슬라이싱딱정벌레
+tinyslicerbeet,utc,FirstName,0,작은 칼날 딱정벌레
 tobias,utc,FirstName,0,토비아스
 tobias,utc,LastName,0,핀라
 townspersonf,utc,FirstName,0,시내 주민
 townspersonm,utc,FirstName,0,시내 주민
 travis,utc,FirstName,0,트래비스
 travis,utc,Description,0,"이 머리가 갈색이면서 나이가 들어진 전사는 이미 최고의 나이를 지나쳤지만, 검을 여전히 능숙하게 다루고 있습니다. 그는 의심스러운 눈빛으로 당신을 바라보며, 아마도 약간의 질투섞인 눈빛도 보입니다."
-trogcrackshot,utc,FirstName,0,트로글로다이트 크래크샷
+trogcrackshot,utc,FirstName,0,트로글로다이트 명사수
 troglodyteelite,utc,FirstName,0,동굴인 엘리트
 troglodyterider,utc,FirstName,0,동굴인 라이더
 troglodyterider,utc,Description,0,"트로글로다이트는 동굴에 사는 뱀인형으로 전투를 즐기고 죽은 적의 시체를 먹는 것을 좋아한다. 매우 밝지 않은 편이지만, 트로글로다이트는 가혹성, 속임수, 끔찍한 냄새로 알려져 있다. 이 트로글로다이트는 골드냅퍼라는 야생 뱀인형을 타고 있으며, 선사적 뿌리에서 거의 변하지 않은 이 동물은 치명적인 물과 거대한 배식량을 가지고 있다."
@@ -11318,7 +11318,7 @@ healinghands,uti,Description,0,"이 장갑은 부드러운 가죽으로 만들�
 healinghands,uti,DescIdentified,0,셀레스티아의 다섯 번째 계층에 위치한 도시 에피리아에서 만들어진 것으로 알려진 이 장갑은 착용자에게 병자와 부상자를 치료하는 능력을 부여합니다.
 helmofhextor,uti,LocalizedName,0,헤크스토르의 헬멧
 helmofhextor,uti,DescIdentified,0,이 헬멧은 전쟁 신인 헤크스토르의 고위 사제들에게 전쟁터에 들어가기 위해 선물되었습니다.
-helmofsunrise,uti,LocalizedName,0,해돋이 헬멧
+helmofsunrise,uti,LocalizedName,0,일출의 투구
 helmofsunrise,uti,DescIdentified,0,"낮 햇빛 아래 펠로르의 사제에 의해 강화된 이 황금 헬멧은 빛으로 빛나며, 착용자에게 숨겨진 에너지를 다시 방향을 잡을 수 있는 수단을 제공한다."
 hendricksorders,uti,LocalizedName,0,헨드릭의 명령
 hendricksorders,uti,Description,0,"헨드릭, 당신이 체포한 모든 죄수들과 그 남자들은 숙소의 동굴 너머의 터널에서 오그덴으로 끌려가도록 하십시오. 그는 성전과 그 너머로 비밀 교통이 마련될 때까지 그들을 보호할 것입니다. 터널에 들어가려면 숙소의 동쪽 벽에 있는 불꽃을 당겨 비밀 입구를 열어야 합니다. 터널은 경비하지 않은 사람들에게 위험한 장소라는 것을 경고하고, 당신은 직접 동북방 방으로 가서 포로를 오그덴과 함께 보관해야 합니다. 그러나, 나는 터널의 다른 '주민'이 방해받지 않는 것을 선호합니다. 그들은 캐주얼 스누퍼에 강력한 억제력을 제공 하기 때문에."
@@ -11577,7 +11577,7 @@ purplerobelath,uti,LocalizedName,0,펠로의 보라색 망토
 purplerobelath,uti,Description,0,이 보라색 의상은 Fontenmere 아비가 착용합니다.
 quickeningscroll,uti,LocalizedName,0,속도를 증가시키는 두루마리
 quickeningscroll,uti,DescIdentified,0,"비록 니르베르트의 연구의 대부분은 쪼개졌지만, 몇 개의 새겨진 메모는 읽을 수 있습니다. ... 그래서 저는 로반 나무의 열매와 제 알케미아 테이블에 있는 퀴클링의 혈액을 결합하면"
-quicklingblood,uti,LocalizedName,0,퀵링 피
+quicklingblood,uti,LocalizedName,0,퀵클링의 피
 quicklingblood,uti,Description,0,클링 피의 병
 quicklingtunic,uti,LocalizedName,0,급속한 니크
 quicksilver,uti,LocalizedName,0,화강
@@ -11740,7 +11740,7 @@ templecellkey,uti,LocalizedName,0,성전 감방 열쇠
 templecellkey,uti,Description,0,메리카 신전의 대사실에 있는 작은 셀의 열쇠
 templemonksoutfi,uti,LocalizedName,0,신전의 수도사의 옷
 testsword,uti,LocalizedName,0,테스트 검
-tinyslicerbite,uti,LocalizedName,0,작은 썰매딱정벌레 물림
+tinyslicerbite,uti,LocalizedName,0,작은 칼날 딱정벌레 물기
 torchsunlight,uti,LocalizedName,0,태양빛 횃불
 torchsunlight,uti,DescIdentified,0,"태양의 힘으로 충전된 이 등불은 가장 어두운 곳까지 빛을 비춥니다. 매일 한 번 불꽃을 집중시켜, 은밀한 방법이나 마법을 이용해 빛에서 숨은 사람들을 발견할 수 있습니다."
 townspersontunic,uti,LocalizedName,0,마을사람의 티나치

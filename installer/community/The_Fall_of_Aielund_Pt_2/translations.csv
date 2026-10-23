@@ -969,7 +969,7 @@ dante,dlg,EntryList/27/Text,0,"<StartAction>[성공.]</Start><StartAction>[Dante
 dante,dlg,EntryList/28/Text,0,"나는 이 점에 대해 틀릴 수도 있지만, 네게 의심의 여지 없는 기회를 주기로 준비되어 있다. 만약 네가 틀렸다면, 나는 모두를 모아서 네를 찾아낼 것이다."
 dante,dlg,EntryList/30/Text,0,그런 대화를 방해하는 것은 무례하다. 그리고 나는 그 점을 당신에게 갚아줄 것이다.
 dante,dlg,EntryList/31/Text,0,자네 장군에게 내가 그를 바보라고 생각한다고 말해줘. 나는 그를 죽이기 전에 그에게 그 말을 하고 싶다.
-dante,dlg,EntryList/32/Text,0,그건 정말 아팠다.
+dante,dlg,EntryList/32/Text,0,아팠어. 아주 많이.
 dante,dlg,EntryList/33/Text,0,"이 질문은 흥미롭다. 기술적으로, 나는 도시를 지키면서 죽었다. 그럼에도 불구하고 더 이상 그렇게 하지 않아도 되는 것인가?"
 dante,dlg,EntryList/34/Text,0,"공정한 거다. 참고로, 나이 키워줘서 고마워. 정말 큰일을 해줬네."
 dante,dlg,EntryList/35/Text,0,"그래, 그건 알았어. 내게 불평을 듣지 않을 거라는 건 이미 알고 있어. 그냥 이 두통이 가기까지 잠시 눕고 있을 거야."
@@ -3684,7 +3684,7 @@ mali_dm_paa,dlg,EntryList/5/Text,0,"어느 방향으로? (북 = +y, 남 = -y) (�
 mali_dm_paa,dlg,EntryList/6/Text,0,"목표 영역 내에 배치할 수 있는 물건이 없거나, 선택된 배치할 수 있는 물건이 파괴되었습니다."
 mali_dm_paa,dlg,EntryList/7/Text,0,배치할 위치를 선택하세요.
 mali_dm_paa,dlg,ReplyList/0/Text,0,취소해
-mali_dm_paa,dlg,ReplyList/1/Text,0,다른 장소블럭을 선택하세요.
+mali_dm_paa,dlg,ReplyList/1/Text,0,다른 설치물을 선택한다.
 mali_dm_paa,dlg,ReplyList/2/Text,0,취소해
 mali_dm_paa,dlg,ReplyList/3/Text,0,- 뒤로!
 mali_dm_paa,dlg,ReplyList/4/Text,0,다음 10개의 배치 가능한 물건
@@ -3743,7 +3743,7 @@ mali_dm_paa,dlg,ReplyList/68/Text,0,왼쪽으로
 mali_dm_paa,dlg,ReplyList/69/Text,0,뒤로 물러서
 mali_dm_paa,dlg,ReplyList/70/Text,0,앞으로!
 mali_dm_paa,dlg,ReplyList/71/Text,0,취소해
-mali_dm_paa,dlg,ReplyList/72/Text,0,다른 장소블럭을 선택하세요.
+mali_dm_paa,dlg,ReplyList/72/Text,0,다른 설치물을 선택한다.
 mali_dm_paa,dlg,ReplyList/73/Text,0,취소해
 mali_dm_paa,dlg,ReplyList/74/Text,0,- 뒤로!
 mali_dm_paa,dlg,ReplyList/75/Text,0,다음 10개의 배치 가능한 물건
@@ -3805,7 +3805,7 @@ mali_dm_stage,dlg,ReplyList/30/Text,0,세 가지
 mali_dm_stage,dlg,ReplyList/31/Text,0,- 두 개
 mali_dm_stage,dlg,ReplyList/32/Text,0,- 1개
 mali_dm_stage,dlg,ReplyList/33/Text,0,재충전 가능한 사용 횟수 (rollover)
-mali_dm_stage,dlg,ReplyList/34/Text,0,사용 횟수를 변경합니다.
+mali_dm_stage,dlg,ReplyList/34/Text,0,사용 횟수를 변경한다.
 mali_dm_stage,dlg,ReplyList/35/Text,0,취소해
 mali_dm_stage,dlg,ReplyList/36/Text,0,- 뒤로!
 mali_dm_stage,dlg,ReplyList/37/Text,0,무제한
@@ -3880,7 +3880,7 @@ mali_dm_stage,dlg,ReplyList/105/Text,0,반시계 방향으로 20도
 mali_dm_stage,dlg,ReplyList/106/Text,0,반시계 방향으로 5도
 mali_dm_stage,dlg,ReplyList/107/Text,0,반시계 방향으로 1도
 mali_dm_stage,dlg,ReplyList/108/Text,0,북쪽으로 바라보세요.
-mali_dm_stage,dlg,ReplyList/109/Text,0,셋트 안에 있는 물품들을 나열해보세요.
+mali_dm_stage,dlg,ReplyList/109/Text,0,세트에 있는 소품을 나열한다.
 mali_dm_stage,dlg,ReplyList/110/Text,0,취소해
 mali_dm_stage,dlg,ReplyList/111/Text,0,- 뒤로!
 mali_dm_stage,dlg,ReplyList/112/Text,0,다음 10개의 물품
@@ -4735,7 +4735,7 @@ p001c000ct_plotg,dlg,ReplyList/11/Text,0,"고마워요, 뵙겠습니다"
 p001c000ct_plotg,dlg,ReplyList/13/Text,0,<StartCheck>[시작]</Start>당신 가축을 제외하고는 아무것도 못 찾았어요. 아마 창가에서 바람 소리를 들으신 것 같네요.
 p001c000ct_plotg,dlg,ReplyList/14/Text,0,"그 정도로 싸게는 아니야. 거의 아무 일도 하지 않는데 이렇게 좋은 가격을 주는군, 아말 씨."
 p001c000ct_plotg,dlg,ReplyList/15/Text,0,안녕하세요
-p001c000ct_plotg,dlg,ReplyList/17/Text,0,당신꼐서는 매우 친절합니다. 좋은 날이세요.
+p001c000ct_plotg,dlg,ReplyList/17/Text,0,별말씀을요. 좋은 하루 되세요.
 p001c000ct_plotg,dlg,ReplyList/19/Text,0,<StartCheck>[악]</Start><StartCheck>[거짓]</Start> 나는 큰 쥐를 찾았어.
 p001c000ct_plotg,dlg,ReplyList/20/Text,0,"오, 난.. 잃어버렸나 봐."
 p001c000ct_plotg,dlg,ReplyList/21/Text,0,"넌 이제 막 강력한 적이 됐어, 할아버지."
@@ -6263,7 +6263,7 @@ zep_cw_con,dlg,EntryList/4/Text,0,<StartAction>몸체 편집기</Start>
 zep_cw_con,dlg,EntryList/5/Text,0,기본 모델을 선택하세요.
 zep_cw_con,dlg,EntryList/6/Text,0,PC의 종족을 선택하세요.
 zep_cw_con,dlg,EntryList/7/Text,0,성별을 선택하세요.
-zep_cw_con,dlg,EntryList/8/Text,0,타겟 고유색을 설정하세요.
+zep_cw_con,dlg,EntryList/8/Text,0,대상 지정 광채를 설정한다.
 zep_cw_con,dlg,EntryList/11/Text,0,부품을 선택하여 색을 칠하세요.
 zep_cw_con,dlg,EntryList/16/Text,0,<StartAction>재산 편집기</Start>
 zep_cw_con,dlg,EntryList/17/Text,0,<StartAction> 직업 1:</Start><CUSTOM310><StartAction># 직업 2:</Start><CUSTOM311><StartAction> 직업 3:</Start><CUSTOM312> 레벨을 높이기 위한 직업를 선택하세요. <StartCheck> 참고: 생물의 초기 레벨은 1.</Start>
@@ -8511,7 +8511,7 @@ fairlochmarketdi,git,WaypointList/3/MapNote,0,도크랜드
 fairlochmarketdi,git,WaypointList/4/LocalizedName,0,지도 설명
 fairlochmarketdi,git,WaypointList/4/MapNote,0,보이어 & 페처
 fairlochmarketdi,git,WaypointList/5/LocalizedName,0,지도 설명
-fairlochmarketdi,git,WaypointList/5/MapNote,0,페어로크 탤너
+fairlochmarketdi,git,WaypointList/5/MapNote,0,페어로크 무두장이
 fairlochmarketdi,git,WaypointList/6/LocalizedName,0,지도 설명
 fairlochmarketdi,git,WaypointList/6/MapNote,0,이국적인 물품을 판매하는 떠오르는 태양
 fairlochmarketdi,git,WaypointList/7/LocalizedName,0,지도 설명
@@ -8960,7 +8960,7 @@ northstoneguard,git,Placeable List/40/LocName,0,심은 꽃 - 노란색 작은
 northstoneguard,git,Placeable List/40/Description,0,꽃밭
 northstoneguard,git,Placeable List/41/LocName,0,심은 꽃 - 노랑
 northstoneguard,git,Placeable List/41/Description,0,꽃밭
-northstoneguard,git,Placeable List/42/LocName,0,심은 꽃 - 하얀색/노란색
+northstoneguard,git,Placeable List/42/LocName,0,심어 놓은 꽃 - 흰색/노란색
 northstoneguard,git,Placeable List/42/Description,0,꽃밭
 southernfooth001,git,Creature List/0/FirstName,0,다윗
 southernfooth001,git,Creature List/0/LastName,0,파테일
@@ -9014,8 +9014,8 @@ southernfooth001,git,Creature List/11/FirstName,0,소녀
 southernfooth001,git,Creature List/11/Description,0,이 아이는 끔찍한 상황을 최대한 이용하고 있는 것 같습니다.
 southernfooth001,git,Door List/0/LocName,0,문
 southernfooth001,git,Door List/1/LocName,0,문
-southernfooth001,git,SoundList/0/LocName,0,중간 횃불
-southernfooth001,git,SoundList/1/LocName,0,중간 횃불
+southernfooth001,git,SoundList/0/LocName,0,횃불 불꽃 (중)
+southernfooth001,git,SoundList/1/LocName,0,횃불 불꽃 (중)
 southernfooth001,git,SoundList/2/LocName,0,횃불 불꽃 (소)
 southernfooth001,git,Placeable List/0/ItemList/0/LocalizedName,0,뼈
 southernfooth001,git,Placeable List/0/ItemList/0/DescIdentified,0,아우구스투스 찰스턴의 유해가 평화로운 상태입니다.
@@ -9749,7 +9749,7 @@ trinity001,git,WaypointList/9/MapNote,0,북쪽으로 포트 하이마치까지
 trinity001,git,WaypointList/10/MapNote,0,삼위일체 궁전
 trinity001,git,WaypointList/11/MapNote,0,지옥불 부대 지휘막
 trinity001,git,WaypointList/12/MapNote,0,여행자 안식소
-trinity001,git,WaypointList/13/MapNote,0,정직한 하킴의 장비 대관령
+trinity001,git,WaypointList/13/MapNote,0,정직한 하킴의 장비 상점
 trinity001,git,Placeable List/10/LocName,0,여행자 안식소
 trinity001,git,Placeable List/16/LocName,0,발광하는 구체
 trinity001,git,Placeable List/20/LocName,0,정직한 하키미 - 상인왕자
@@ -10224,7 +10224,7 @@ henry,utc,Description,0,요새의 마법 장비 공급을 유지하기 위해 �
 hobgoblin002,utc,FirstName,0,홉고블린 엘리트
 hobgoblin003,utc,FirstName,0,홉고블린 주술사
 horse002,utc,FirstName,0,호스 파우더
-huge_viper,utc,FirstName,0,거대한 사막 뱴
+huge_viper,utc,FirstName,0,거대한 사막 독사
 ignatius,utc,FirstName,0,이그나치우스
 ironlord,utc,FirstName,0,철왕
 ironlord,utc,Description,0,말 할 수 없는 힘의 신성적인 건축물인 이 갑옷은 아이룬드의 왕인 세무스 로베크를 포함하고 있습니다.
@@ -10551,7 +10551,7 @@ terinus_finalsce,utc,Description,0,페어로크의 아르크마거의 순위에�
 terinus_image,utc,FirstName,0,테리누스
 terinus_image,utc,LastName,0,검은
 terinus_image,utc,Description,0,페어로크의 아르크마거의 순위에서 2위임에도 불구하고 테리누스는 왕국에서 가장 강력한 마술사라는 것은 의심의 여지가 없습니다.
-terinus_trin,utc,FirstName,0,아치마지스 미셸
+terinus_trin,utc,FirstName,0,대마법사 미셸
 terinus_trin,utc,LastName,0,듀폰트
 terinus_trin,utc,Description,0,이 탑의 주인인 이 남자는 더운 날씨 때문에 불편해 보입니다.
 thorian,utc,FirstName,0,토리안
@@ -10589,7 +10589,7 @@ vampire005,utc,FirstName,0,흡혈귀
 vigo,utc,FirstName,0,비고
 vigo,utc,LastName,0,수데텐
 vigo,utc,Description,0,주저나우트의 리더 비고와 그의 용병들은 남쪽에서 가능한 한 많은 피를 흘리면서 일을 처리하는 데 악명 높은 명성을 가지고 있습니다.
-viper_desert,utc,FirstName,0,거대한 사막 뱴
+viper_desert,utc,FirstName,0,거대한 사막 독사
 visage,utc,FirstName,0,출현
 visage,utc,Description,0,"이 음산한 얼굴은 쉽게 보이지 않아, 존재 자체가 사라지곤 한다. 당신의 존재를 전혀 인식하지 않는 것 같다."
 vizier,utc,FirstName,0,비제르
@@ -11549,7 +11549,7 @@ zep_tapir1,utc,FirstName,0,"타피르, 백색"
 zep_tapir1,utc,Description,0,"타피어는 돼지와 비슷한 동물이고,"
 zep_tapir2,utc,FirstName,0,"타피르, 브라운"
 zep_tapir2,utc,Description,0,"타피어는 돼지와 비슷한 동물이고,"
-zep_terradon1,utc,FirstName,0,소형 퀘츠칼코아트루스
+zep_terradon1,utc,FirstName,0,"케찰코아틀루스, 소형"
 zep_terradon1,utc,Description,0,퀘츠칼코틀루스 (quetzalcoatlus) 는 가장 큰 날개동물 중 하나이다.
 zep_terradon2,utc,FirstName,0,퀘츠칼코아트루스
 zep_terradon2,utc,Description,0,퀘츠칼코틀루스 (quetzalcoatlus) 는 가장 큰 날개동물 중 하나이다.
@@ -12022,7 +12022,7 @@ crpi_coin_ep,uti,Description,0,천연적으로 발생하는 은/금 혼합물입
 crpi_coin_ep,uti,DescIdentified,0,"이것은 카라메이코스 전자 조각이며, ""도란""이라고 불린다. 그랜디 공작국은 수십 년 전에 전자 조각을 채굴을 중단했지만, 도란은 여전히 거래자들 사이에서 순환 중 발견 될 수 있습니다. 전자 은 은과 금이 자연적으로 발생하는 혼합물입니다. 따라서 밝은 은색 노란색 색입니다."
 crpi_coin_gp,uti,LocalizedName,0,왕실 - 금화
 crpi_coin_gp,uti,DescIdentified,0,"이 동전은 카라메이코스 금 조각으로 ""왕조""라고 불린다. 동전의 전면에는 칼라브 왕의 머리가 그의 전복을 입고 있는 사이드뷰가 있고, 뒷면에는 ""카라메이코스 대공국"", ""모든 행위의 영광"" 및 ""왕조 한 명""라는 글씨가 새겨져 있다."
-crpi_coin_pp,uti,LocalizedName,0,왕관 - 플래티넘 펩스
+crpi_coin_pp,uti,LocalizedName,0,크라운 - 백금화
 crpi_coin_pp,uti,DescIdentified,0,"이것은 상인들이 ""관왕""이라고 부르는 플래티넘 조각이다. 이 동전의 앞면에는 이 동전이 글랜트리에서 만들어졌음을 나타낸다. 플래티넘 조각은 희귀하고 가치 있는데, 그 값은 전형적인 금 동전의 5배 정도다."
 crpi_coin_sp,uti,LocalizedName,0,크로나 - 은화
 crpi_coin_sp,uti,DescIdentified,0,"이 동전은 카라메이코스 은화로, ""크로나""라고 불린다. 동전의 앞면에는 스펙룰럼의 왕궁이 그려져 있고, 뒷면에는 ""카라메이코스 대공국""과 ""하나의 크로나""가 새겨져 있다."
@@ -13670,12 +13670,12 @@ zep_sshldem_001,uti,LocalizedName,0,강제 방패
 zep_sshldem_001,uti,DescIdentified,0,힘으로 부딪히는 이 방패는 미묘한 마술에 불과해 보이지만 작은 크기와 독특한 특성 때문에 이 방패는 미묘한 casting를 방해하지 않을 것입니다.
 zep_sshldsn_001,uti,LocalizedName,0,태양 방패
 zep_sshldsn_001,uti,DescIdentified,0,이 방패는 죽은 자로부터 강력한 보호를 통해 길을 밝게 해 미스터리 투 casting에 방해를 주지 않을 것입니다.
-zep_sum_horse01,uti,LocalizedName,0,분홍색과 파란색 쥬스마을 불러라
+zep_sum_horse01,uti,LocalizedName,0,분홍색과 파란색 마상 시합용 말 소환
 zep_sum_horse010,uti,LocalizedName,0,왈넛 말 불러라
-zep_sum_horse011,uti,LocalizedName,0,사슬 갑옷을 입힌 왈넛 사마귀
+zep_sum_horse011,uti,LocalizedName,0,체인 바딩 입힌 호두색 말 소환
 zep_sum_horse012,uti,LocalizedName,0,왈넛 하스 레드 바딩을 불러
 zep_sum_horse013,uti,LocalizedName,0,와플 가죽 갑옷
-zep_sum_horse014,uti,LocalizedName,0,왈넛 하스 스칼라 바딩을 불러
+zep_sum_horse014,uti,LocalizedName,0,비늘 바딩 입힌 호두색 말 소환
 zep_sum_horse015,uti,LocalizedName,0,유니콘 소환
 zep_sum_horse016,uti,LocalizedName,0,바딩 입힌 악몽 소환
 zep_sum_horse017,uti,LocalizedName,0,악몽을 소환
@@ -14095,7 +14095,7 @@ zep_ce_chm_002,utp,LocName,0,하플링 침로 - 전체 벽
 zep_ce_chm_003,utp,LocName,0,하플링 피로 - 3 스택
 zep_ce_chm_004,utp,LocName,0,하플링 침지 - 사각형 (모시 덮인)
 zep_ce_chm_005,utp,LocName,0,하프링 니 - 높이가 평방
-zep_ce_flw_001,utp,LocName,0,심은 꽃 - 하얀색/노란색
+zep_ce_flw_001,utp,LocName,0,심어 놓은 꽃 - 흰색/노란색
 zep_ce_flw_001,utp,Description,0,꽃밭
 zep_ce_flw_002,utp,LocName,0,심은 꽃 - 노랑
 zep_ce_flw_002,utp,Description,0,꽃밭
@@ -14274,7 +14274,7 @@ zep_ci_pnt_016,utp,LocName,0,그림 - 소형 여자와 아이
 zep_ci_pnt_017,utp,LocName,0,그림 - 거구의 깃털 모자
 zep_ci_pnt_018,utp,LocName,0,그림 - 거구의 어머니
 zep_ci_pnt_019,utp,LocName,0,그림 - 소형 모스크
-zep_ci_pnt_020,utp,LocName,0,그림 - 듅크
+zep_ci_pnt_020,utp,LocName,0,그림 - 공작
 zep_ci_sbr_001,utp,LocName,0,포장된 곰
 zep_ci_sbr_001,utp,Description,0,부스터진 곰
 zep_ci_shc_001,utp,LocName,0,캔이 있는 서랍장
@@ -14672,8 +14672,8 @@ zep_statues031,utp,Description,0,하프를 연주하는 바드의 동상.
 zep_steak_dag,utp,LocName,0,"판금, 백색 스테이크"
 zep_steak_dag,utp,Description,0,뜨거운 스테이크 저녁 식사.
 zep_stew,utp,LocName,0,"보울, 백색 스티우"
-zep_stew,utp,Description,0,스튜의 냄새가 맛있고 멋지게 느껴집니다.
-zep_stew_dag001,utp,LocName,0,"판금, 백색, 스튜"
+zep_stew,utp,Description,0,스튜에서 구수하고 근사한 냄새가 난다.
+zep_stew_dag001,utp,LocName,0,"접시, 흰색, 스튜"
 zep_stew_dag001,utp,Description,0,뜨거운 스텔프 판
 zep_stonebloc001,utp,LocName,0,돌 블록 1
 zep_stonebloc001,utp,Description,0,저런 것만으로도 던전에서 찾을 수 있을 것 같은 것

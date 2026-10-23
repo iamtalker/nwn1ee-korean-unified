@@ -2652,7 +2652,7 @@ mali_dm_paa,dlg,EntryList/5/Text,0,"어느 방향으로? (북 = +y, 남 = -y) (�
 mali_dm_paa,dlg,EntryList/6/Text,0,"목표 영역 내에 배치할 수 있는 물건이 없거나, 선택된 배치할 수 있는 물건이 파괴되었습니다."
 mali_dm_paa,dlg,EntryList/7/Text,0,배치할 위치를 선택하세요.
 mali_dm_paa,dlg,ReplyList/0/Text,0,취소해
-mali_dm_paa,dlg,ReplyList/1/Text,0,다른 장소블럭을 선택하세요.
+mali_dm_paa,dlg,ReplyList/1/Text,0,다른 설치물을 선택한다.
 mali_dm_paa,dlg,ReplyList/2/Text,0,취소해
 mali_dm_paa,dlg,ReplyList/3/Text,0,- 뒤로!
 mali_dm_paa,dlg,ReplyList/4/Text,0,다음 10개의 배치 가능한 물건
@@ -2711,7 +2711,7 @@ mali_dm_paa,dlg,ReplyList/68/Text,0,왼쪽으로
 mali_dm_paa,dlg,ReplyList/69/Text,0,뒤로 물러서
 mali_dm_paa,dlg,ReplyList/70/Text,0,앞으로!
 mali_dm_paa,dlg,ReplyList/71/Text,0,취소해
-mali_dm_paa,dlg,ReplyList/72/Text,0,다른 장소블럭을 선택하세요.
+mali_dm_paa,dlg,ReplyList/72/Text,0,다른 설치물을 선택한다.
 mali_dm_paa,dlg,ReplyList/73/Text,0,취소해
 mali_dm_paa,dlg,ReplyList/74/Text,0,- 뒤로!
 mali_dm_paa,dlg,ReplyList/75/Text,0,다음 10개의 배치 가능한 물건
@@ -2773,7 +2773,7 @@ mali_dm_stage,dlg,ReplyList/30/Text,0,세 가지
 mali_dm_stage,dlg,ReplyList/31/Text,0,- 두 개
 mali_dm_stage,dlg,ReplyList/32/Text,0,- 1개
 mali_dm_stage,dlg,ReplyList/33/Text,0,재충전 가능한 사용 횟수 (rollover)
-mali_dm_stage,dlg,ReplyList/34/Text,0,사용 횟수를 변경합니다.
+mali_dm_stage,dlg,ReplyList/34/Text,0,사용 횟수를 변경한다.
 mali_dm_stage,dlg,ReplyList/35/Text,0,취소해
 mali_dm_stage,dlg,ReplyList/36/Text,0,- 뒤로!
 mali_dm_stage,dlg,ReplyList/37/Text,0,무제한
@@ -2848,7 +2848,7 @@ mali_dm_stage,dlg,ReplyList/105/Text,0,반시계 방향으로 20도
 mali_dm_stage,dlg,ReplyList/106/Text,0,반시계 방향으로 5도
 mali_dm_stage,dlg,ReplyList/107/Text,0,반시계 방향으로 1도
 mali_dm_stage,dlg,ReplyList/108/Text,0,북쪽으로 바라보세요.
-mali_dm_stage,dlg,ReplyList/109/Text,0,셋트 안에 있는 물품들을 나열해보세요.
+mali_dm_stage,dlg,ReplyList/109/Text,0,세트에 있는 소품을 나열한다.
 mali_dm_stage,dlg,ReplyList/110/Text,0,취소해
 mali_dm_stage,dlg,ReplyList/111/Text,0,- 뒤로!
 mali_dm_stage,dlg,ReplyList/112/Text,0,다음 10개의 물품
@@ -3380,7 +3380,7 @@ rene,dlg,ReplyList/35/Text,0,"네, 살인은 하지 않을 거야."
 rene,dlg,ReplyList/36/Text,0,"괜찮아, 나는 이걸 맡기지."
 rene,dlg,ReplyList/37/Text,0,이해합니다.
 rene,dlg,ReplyList/38/Text,0,여기 세 개의 그림이 있습니다.
-rene,dlg,ReplyList/39/Text,0,넌 뽐내는 바람구름 레네야.
+rene,dlg,ReplyList/39/Text,0,"넌 잘난 척하는 허풍선이야, 르네."
 rene,dlg,ReplyList/40/Text,0,신이 있다...
 rene,dlg,ReplyList/41/Text,0,다른 일을 하라고 하시나요? 그림들이 충분하지 않나요?
 rene,dlg,ReplyList/42/Text,0,"잊어, 이미 충분히 해냈어."
@@ -4054,7 +4054,7 @@ zep_cw_con,dlg,EntryList/4/Text,0,<StartAction>몸체 편집기</Start>
 zep_cw_con,dlg,EntryList/5/Text,0,기본 모델을 선택하세요.
 zep_cw_con,dlg,EntryList/6/Text,0,PC의 종족을 선택하세요.
 zep_cw_con,dlg,EntryList/7/Text,0,성별을 선택하세요.
-zep_cw_con,dlg,EntryList/8/Text,0,타겟 고유색을 설정하세요.
+zep_cw_con,dlg,EntryList/8/Text,0,대상 지정 광채를 설정한다.
 zep_cw_con,dlg,EntryList/11/Text,0,부품을 선택하여 색을 칠하세요.
 zep_cw_con,dlg,EntryList/16/Text,0,<StartAction>재산 편집기</Start>
 zep_cw_con,dlg,EntryList/17/Text,0,<StartAction> 직업 1:</Start><CUSTOM310><StartAction># 직업 2:</Start><CUSTOM311><StartAction> 직업 3:</Start><CUSTOM312> 레벨을 높이기 위한 직업를 선택하세요. <StartCheck> 참고: 생물의 초기 레벨은 1.</Start>
@@ -4183,9 +4183,9 @@ zep_demi_regen_c,dlg,EntryList/0/Text,0,"당신 앞에는 당신 이 패배 한 
 zep_demi_regen_c,dlg,EntryList/1/Text,0,"데밀히의 뼈 조각에 <CUSTOM1001>을 사용하면서, 귀가 갈라지는 고함소리가 들리며, 무형의 공포의 영혼이 마침내 육체에서 분리된다. 희생자들의 영혼도 확실히 탈출하고 있을 것이다."
 zep_demi_regen_c,dlg,ReplyList/0/Text,0,델미치를 혼자 두세요.
 zep_demi_regen_c,dlg,ReplyList/1/Text,0,<CUSTOM1001>을 사용하여 반사기를 파괴하라.
-area,git,Creature List/0/FirstName,0,거대한 사막 뱴
-area,git,Creature List/1/FirstName,0,거대한 사막 뱴
-area,git,Creature List/2/FirstName,0,거대한 사막 뱴
+area,git,Creature List/0/FirstName,0,거대한 사막 독사
+area,git,Creature List/1/FirstName,0,거대한 사막 독사
+area,git,Creature List/2/FirstName,0,거대한 사막 독사
 area,git,List/0/LocalizedName,0,대형 방패
 area,git,WaypointList/0/MapNote,0,전두환
 area,git,WaypointList/1/MapNote,0,깊은 틈
@@ -4820,8 +4820,8 @@ dream,git,Creature List/9/FirstName,0,사살된 평민
 dream,git,Creature List/9/Description,0,데이비드는 이 위험한 상황에서 냉정하게 유지하고 있습니다.
 dream,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,우즈맨 윈터 의복
 dream,git,Door List/8/LocName,0,문
-dream,git,SoundList/0/LocName,0,중간 횃불
-dream,git,SoundList/1/LocName,0,중간 횃불
+dream,git,SoundList/0/LocName,0,횃불 불꽃 (중)
+dream,git,SoundList/1/LocName,0,횃불 불꽃 (중)
 dream,git,SoundList/11/LocName,0,둠나이트
 dream,git,SoundList/12/LocName,0,꿈
 dream,git,Placeable List/7/LocName,0,투석기
@@ -6507,7 +6507,7 @@ lazylion2,git,Placeable List/1/LocName,0,서랍장
 lazylion2,git,Placeable List/1/Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 lazylion2,git,Placeable List/7/LocName,0,합리적 인 위안 을 주는 기침
 lazylion2,git,Placeable List/7/Description,0,이 베개는 휴식 중 시간을 앞당길 수 있습니다.
-magetower,git,Creature List/1/FirstName,0,아치마지스 미셸
+magetower,git,Creature List/1/FirstName,0,대마법사 미셸
 magetower,git,Creature List/1/LastName,0,듀폰트
 magetower,git,Creature List/1/Description,0,이 탑의 주인인 이 남자는 더운 날씨 때문에 불편해 보입니다.
 magetower,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,아치마지의 의복
@@ -6751,7 +6751,7 @@ myrfellsmithy,git,StoreList/0/StoreList/4/ItemList/116/LocalizedName,0,"금속 �
 myrfellsmithy,git,Placeable List/2/LocName,0,anvil_hit_object
 myrfellsmithy,git,Placeable List/4/LocName,0,무기 거치대 - 오래된 2개의 도끼
 myrfellsmithy,git,Placeable List/5/LocName,0,무기 거치대 - 오래된 3 자루의 검
-scarlet,git,SoundList/0/LocName,0,돛대가 펄럭이는 소리
+scarlet,git,SoundList/0/LocName,0,돛이 펄럭이는 소리
 scarlet,git,SoundList/1/LocName,0,배 삐걱거림
 scarlet,git,WaypointList/0/MapNote,0,출구
 scarlet,git,WaypointList/1/LocalizedName,0,지도 설명
@@ -6782,12 +6782,12 @@ ship2,git,Encounter List/1/LocalizedName,0,조합
 ship2,git,Encounter List/2/LocalizedName,0,반스
 ship2,git,SoundList/0/LocName,0,배 삐걱거림
 ship2,git,SoundList/1/LocName,0,배 삐걱거림
-ship2,git,SoundList/2/LocName,0,돛대가 펄럭이는 소리
+ship2,git,SoundList/2/LocName,0,돛이 펄럭이는 소리
 ship2,git,SoundList/3/LocName,0,배 삐걱거림
 ship2,git,SoundList/4/LocName,0,큰 절벽의 폭포
 ship2,git,SoundList/5/LocName,0,큰 바다 파도 소리
 ship2,git,SoundList/6/LocName,0,배 삐걱거림
-ship2,git,SoundList/7/LocName,0,돛대가 펄럭이는 소리
+ship2,git,SoundList/7/LocName,0,돛이 펄럭이는 소리
 ship2,git,SoundList/8/LocName,0,배 삐걱거림
 ship2,git,SoundList/9/LocName,0,배 삐걱거림
 ship2,git,SoundList/10/LocName,0,배 삐걱거림
@@ -7357,7 +7357,7 @@ henry,utc,FirstName,0,헨리
 henry,utc,LastName,0,넬슨
 henry,utc,Description,0,요새의 마법 장비 공급을 유지하기 위해 헨리는 이 작은 요새 도시에서 탑을 운영합니다.
 horse002,utc,FirstName,0,호스 파우더
-huge_viper,utc,FirstName,0,거대한 사막 뱴
+huge_viper,utc,FirstName,0,거대한 사막 독사
 ignatius,utc,FirstName,0,이그나치우스
 ironlord,utc,FirstName,0,철왕
 ironlord,utc,Description,0,"말할 수 없는 힘을 가진 신성한 구성체로, 이 살아있는 기계는 왕국을 정복하기 위해 전념한다."
@@ -7706,7 +7706,7 @@ terinus_finalsce,utc,Description,0,페어로크의 아르크마거의 순위에�
 terinus_image,utc,FirstName,0,테리누스
 terinus_image,utc,LastName,0,검은
 terinus_image,utc,Description,0,페어로크의 아르크마거의 순위에서 2위임에도 불구하고 테리누스는 왕국에서 가장 강력한 마술사라는 것은 의심의 여지가 없습니다.
-terinus_trin,utc,FirstName,0,아치마지스 미셸
+terinus_trin,utc,FirstName,0,대마법사 미셸
 terinus_trin,utc,LastName,0,듀폰트
 terinus_trin,utc,Description,0,이 탑의 주인인 이 남자는 더운 날씨 때문에 불편해 보입니다.
 thorian,utc,FirstName,0,토리안
@@ -7736,7 +7736,7 @@ vampire005,utc,FirstName,0,흡혈귀
 vance,utc,FirstName,0,에드거 대령
 vance,utc,LastName,0,반스
 vance,utc,Description,0,북성 선장의 선장인 밴스는 자유 무역수지이며 북쪽 바다를 항해하는 비동맹 무역선 중 하나입니다.
-viper_desert,utc,FirstName,0,거대한 사막 뱴
+viper_desert,utc,FirstName,0,거대한 사막 독사
 visage,utc,FirstName,0,출현
 visage,utc,Description,0,"이 음산한 얼굴은 쉽게 보이지 않아, 존재 자체가 사라지곤 한다. 당신의 존재를 전혀 인식하지 않는 것 같다."
 vizier,utc,FirstName,0,비제르
@@ -8684,7 +8684,7 @@ zep_tapir1,utc,FirstName,0,"타피르, 백색"
 zep_tapir1,utc,Description,0,"타피어는 돼지와 비슷한 동물이고,"
 zep_tapir2,utc,FirstName,0,"타피르, 브라운"
 zep_tapir2,utc,Description,0,"타피어는 돼지와 비슷한 동물이고,"
-zep_terradon1,utc,FirstName,0,소형 퀘츠칼코아트루스
+zep_terradon1,utc,FirstName,0,"케찰코아틀루스, 소형"
 zep_terradon1,utc,Description,0,퀘츠칼코틀루스 (quetzalcoatlus) 는 가장 큰 날개동물 중 하나이다.
 zep_terradon2,utc,FirstName,0,퀘츠칼코아트루스
 zep_terradon2,utc,Description,0,퀘츠칼코틀루스 (quetzalcoatlus) 는 가장 큰 날개동물 중 하나이다.
@@ -9128,7 +9128,7 @@ crpi_coin_ep,uti,Description,0,천연적으로 발생하는 은/금 혼합물입
 crpi_coin_ep,uti,DescIdentified,0,"이것은 카라메이코스 전자 조각이며, ""도란""이라고 불린다. 그랜디 공작국은 수십 년 전에 전자 조각을 채굴을 중단했지만, 도란은 여전히 거래자들 사이에서 순환 중 발견 될 수 있습니다. 전자 은 은과 금이 자연적으로 발생하는 혼합물입니다. 따라서 밝은 은색 노란색 색입니다."
 crpi_coin_gp,uti,LocalizedName,0,왕실 - 금화
 crpi_coin_gp,uti,DescIdentified,0,"이 동전은 카라메이코스 금 조각으로 ""왕조""라고 불린다. 동전의 전면에는 칼라브 왕의 머리가 그의 전복을 입고 있는 사이드뷰가 있고, 뒷면에는 ""카라메이코스 대공국"", ""모든 행위의 영광"" 및 ""왕조 한 명""라는 글씨가 새겨져 있다."
-crpi_coin_pp,uti,LocalizedName,0,왕관 - 플래티넘 펩스
+crpi_coin_pp,uti,LocalizedName,0,크라운 - 백금화
 crpi_coin_pp,uti,DescIdentified,0,"이것은 상인들이 ""관왕""이라고 부르는 플래티넘 조각이다. 이 동전의 앞면에는 이 동전이 글랜트리에서 만들어졌음을 나타낸다. 플래티넘 조각은 희귀하고 가치 있는데, 그 값은 전형적인 금 동전의 5배 정도다."
 crpi_coin_sp,uti,LocalizedName,0,크로나 - 은화
 crpi_coin_sp,uti,DescIdentified,0,"이 동전은 카라메이코스 은화로, ""크로나""라고 불린다. 동전의 앞면에는 스펙룰럼의 왕궁이 그려져 있고, 뒷면에는 ""카라메이코스 대공국""과 ""하나의 크로나""가 새겨져 있다."
@@ -10658,12 +10658,12 @@ zep_sshldem_001,uti,LocalizedName,0,강제 방패
 zep_sshldem_001,uti,DescIdentified,0,힘으로 부딪히는 이 방패는 미묘한 마술에 불과해 보이지만 작은 크기와 독특한 특성 때문에 이 방패는 미묘한 casting를 방해하지 않을 것입니다.
 zep_sshldsn_001,uti,LocalizedName,0,태양 방패
 zep_sshldsn_001,uti,DescIdentified,0,이 방패는 죽은 자로부터 강력한 보호를 통해 길을 밝게 해 미스터리 투 casting에 방해를 주지 않을 것입니다.
-zep_sum_horse01,uti,LocalizedName,0,분홍색과 파란색 쥬스마을 불러라
+zep_sum_horse01,uti,LocalizedName,0,분홍색과 파란색 마상 시합용 말 소환
 zep_sum_horse010,uti,LocalizedName,0,왈넛 말 불러라
-zep_sum_horse011,uti,LocalizedName,0,사슬 갑옷을 입힌 왈넛 사마귀
+zep_sum_horse011,uti,LocalizedName,0,체인 바딩 입힌 호두색 말 소환
 zep_sum_horse012,uti,LocalizedName,0,왈넛 하스 레드 바딩을 불러
 zep_sum_horse013,uti,LocalizedName,0,와플 가죽 갑옷
-zep_sum_horse014,uti,LocalizedName,0,왈넛 하스 스칼라 바딩을 불러
+zep_sum_horse014,uti,LocalizedName,0,비늘 바딩 입힌 호두색 말 소환
 zep_sum_horse015,uti,LocalizedName,0,유니콘 소환
 zep_sum_horse016,uti,LocalizedName,0,바딩 입힌 악몽 소환
 zep_sum_horse017,uti,LocalizedName,0,악몽을 소환
@@ -11083,7 +11083,7 @@ zep_ce_chm_002,utp,LocName,0,하플링 침로 - 전체 벽
 zep_ce_chm_003,utp,LocName,0,하플링 피로 - 3 스택
 zep_ce_chm_004,utp,LocName,0,하플링 침지 - 사각형 (모시 덮인)
 zep_ce_chm_005,utp,LocName,0,하프링 니 - 높이가 평방
-zep_ce_flw_001,utp,LocName,0,심은 꽃 - 하얀색/노란색
+zep_ce_flw_001,utp,LocName,0,심어 놓은 꽃 - 흰색/노란색
 zep_ce_flw_001,utp,Description,0,꽃밭
 zep_ce_flw_002,utp,LocName,0,심은 꽃 - 노랑
 zep_ce_flw_002,utp,Description,0,꽃밭
@@ -11262,7 +11262,7 @@ zep_ci_pnt_016,utp,LocName,0,그림 - 소형 여자와 아이
 zep_ci_pnt_017,utp,LocName,0,그림 - 거구의 깃털 모자
 zep_ci_pnt_018,utp,LocName,0,그림 - 거구의 어머니
 zep_ci_pnt_019,utp,LocName,0,그림 - 소형 모스크
-zep_ci_pnt_020,utp,LocName,0,그림 - 듅크
+zep_ci_pnt_020,utp,LocName,0,그림 - 공작
 zep_ci_sbr_001,utp,LocName,0,포장된 곰
 zep_ci_sbr_001,utp,Description,0,부스터진 곰
 zep_ci_shc_001,utp,LocName,0,캔이 있는 서랍장
@@ -11660,8 +11660,8 @@ zep_statues031,utp,Description,0,악보를 연주하는 바르드의 동상
 zep_steak_dag,utp,LocName,0,"판금, 백색 스테이크"
 zep_steak_dag,utp,Description,0,뜨거운 스테이크 저녁 식사.
 zep_stew,utp,LocName,0,"보울, 백색 스티우"
-zep_stew,utp,Description,0,스튜의 냄새가 맛있고 멋지게 느껴집니다.
-zep_stew_dag001,utp,LocName,0,"판금, 백색, 스튜"
+zep_stew,utp,Description,0,스튜에서 구수하고 근사한 냄새가 난다.
+zep_stew_dag001,utp,LocName,0,"접시, 흰색, 스튜"
 zep_stew_dag001,utp,Description,0,뜨거운 스텔프 판
 zep_stonebloc001,utp,LocName,0,돌 블록 1
 zep_stonebloc001,utp,Description,0,저런 것만으로도 던전에서 찾을 수 있을 것 같은 것
