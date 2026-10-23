@@ -60,7 +60,7 @@ alkranal_1,dlg,ReplyList/8/Text,0,"""당신은 나를 모욕하려고 하지만 
 alkranal_1,dlg,ReplyList/9/Text,0,"""이건 네 관심사가 아니야, 알크라날. 자신의 일에 집중하는 게 현명할 거야."""
 alkranal_1,dlg,ReplyList/11/Text,0,"""나는 네라드를 방어해야 했다."""
 alkranal_1,dlg,ReplyList/12/Text,0,"""칼루리스는 우리가 첫 캠프에서 이사한 후 사라졌어요. 그에게 무슨 일이 있었는지 모르겠어요."""
-alkranal_1,dlg,ReplyList/13/Text,0,"""나는 리젠의 죽은 사람들과는 아무런 관련이 없었어. 그는 스비르프네블린들에 의해 살해당했고, 그건 네가 잘 알고 있어."""
+alkranal_1,dlg,ReplyList/13/Text,0,"""리젠의 죽음과 나는 아무 관련 없어. 그를 죽인 건 스비르프네블린들이야. 너도 알고 있잖아."""
 alkranal_2,dlg,EntryList/0/Text,0,"""내가 다음 층으로 따라오라고 말하지 않았나?"""
 alkranal_2,dlg,EntryList/1/Text,0,"""그냥 말해줘... FOLLOW라는 단어가 어려웠는지, NEXT FLOOR라는 단어가 어려웠는지...?"""
 alkranal_2,dlg,EntryList/2/Text,0,"<StartAction>[위험적으로 조용]</Start>#""당신에게 완벽하게 명확하게 하기 위해..."""
@@ -707,7 +707,7 @@ piwiewien_1,dlg,EntryList/15/Text,0,<StartAction>[가난]</Start>###############
 piwiewien_1,dlg,EntryList/16/Text,0,"""이 부적절한 놈들이 어떻게 내 유물을 가져갈 용기를 가질 수 있을까? 말해봐! 어떻게 그들이 그럴 수 있을까?????"""
 piwiewien_1,dlg,EntryList/18/Text,0,"<StartAction>[놀라며 당신을 쳐다보고]</Start> ""잠깐! 당신은 퇴진하지 못합니다!"""
 piwiewien_1,dlg,EntryList/20/Text,0,"<StartAction>[파닉]</Start>""당신은... 당신은..."""
-piwiewien_1,dlg,EntryList/21/Text,0,<StartAction>[떨리는 목소리로]</Start>우리는 표면 엘프의 고대 기적물인 마이탈석을 잡아오기 위해 여기에 왔습니다.
+piwiewien_1,dlg,EntryList/21/Text,0,"<StartAction>[두려움에 떨며]</Start>""우리는 지상 엘프들의 고대 유물인 미살 석을 차지하러 왔습니다."""
 piwiewien_1,dlg,EntryList/22/Text,0,"""내 기대는 이 신화적 돌을 그 적절한 장소에서 발견하는 것 - 이 단지의 방어의 일부분""이었습니다."
 piwiewien_1,dlg,EntryList/23/Text,0,"""나는 고대 문서에서 이 지역을 공격으로부터 보호하는 치명적인 에너지 필드에 대해 언급한 것을 발견했다."""
 piwiewien_1,dlg,EntryList/24/Text,0,"""엄마, 당신은 좋은 점을 주장하고 있습니다, 사령관. 그럼에도 불구하고 그것은 사라졌습니다. """
@@ -8596,7 +8596,9 @@ maintowerfirstfl,git,Creature List/0/LastName,0,그립스베인
 maintowerfirstfl,git,Creature List/0/ItemList/0/LocalizedName,0,헬름의 사제식 갑옷
 maintowerfirstfl,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,주교의 헬름
 maintowerfirstfl,git,Creature List/0/Equip_ItemList/0/Description,0,이 비상식적인 헬멧은 완전히 평범해 보입니다.
-maintowerfirstfl,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,이 헬멧은 일각자 한의 주교 비초가 소유하던 헬멧이었다. 그는 주인인 모닝셔드의 바론 프레드릭을 방어하다 사망했다. 이 헬멧은 주교가 일각자 한을 위해 수행한 의무에서 신성한 힘을 강화했다고 한다.
+maintowerfirstfl,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"이 투구는 한때 감시자의 주교이자 그리핀스베인의 비초가 소유했다. 그는 자신의 군주인 모닝셰이드의 프레드릭 남작을 지키다 죽었다.
+
+이 투구는 감시자를 섬기는 주교의 신성한 힘을 강화했다고 한다."
 maintowerfirstfl,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,헬름의 사제식 갑옷
 maintowerfirstfl,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 maintowerfirstfl,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,수호자

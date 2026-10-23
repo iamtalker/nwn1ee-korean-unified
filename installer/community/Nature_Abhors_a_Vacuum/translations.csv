@@ -125,7 +125,7 @@ ariel,dlg,EntryList/11/Text,0,"<StartCheck>[실패]</Start> 용병을 고용할 
 ariel,dlg,EntryList/12/Text,0,<StartAction>[성공]</Start>#################
 ariel,dlg,EntryList/14/Text,0,"북부 해안 무역회사 위에, 이상하게도. 들어갈 수는 없습니다 - 도시에 거주하는 사람 중에서만 10명이 넘는 사람들은 충분히 부유하고 강력해서 입성 자격이 있습니다."
 ariel,dlg,EntryList/15/Text,0,왜 그래?
-ariel,dlg,EntryList/16/Text,0,"잘하지 마, 이 마을에서는 갑작스러운 행동이 매우 어려운 상황을 만들 수 있어."
+ariel,dlg,EntryList/16/Text,0,경솔한 짓은 하지 마. 이 마을에서는 그런 행동 때문에 일이 아주 어려워질 수 있어.
 ariel,dlg,EntryList/17/Text,0,도시의 동쪽에 있습니다.
 ariel,dlg,EntryList/18/Text,0,내가 경고하지 않았다고 말하지 마
 ariel,dlg,EntryList/19/Text,0,"오, 안녕하세요 그들의 <sir/madam> 미스터리한 친구를 추적하는 행운이 있었나요?"
@@ -930,7 +930,7 @@ cul_mayor,dlg,EntryList/10/Text,0,"그건 가능해, 내 영리한 친구여. �
 cul_mayor,dlg,EntryList/11/Text,0,"제가 아는 사람은 아무도 없지만, 배가 항구를 떠나는 것은 비밀이 아니어서 누구든지 볼 수 있습니다."
 cul_mayor,dlg,EntryList/12/Text,0,"그래, 그건 맞아. 사무실의 번거로움과 부담에서 벗어나기 위해 가는 곳이야."
 cul_mayor,dlg,EntryList/14/Text,0,"<StartAction> 촌장은 믿을 수 없을 정도로 웃으며 말합니다. </Start> 당신은 내가 기대할 수는 없지. 뭐, 내 명성은 망가질 거야!"
-cul_mayor,dlg,EntryList/17/Text,0,"이 일이 밝혀지면 당신과 올라프가 큰 곤경에 처하게 될 것이고, 당신의 '신명'이 손상되면, 그것은 당신 자신의 잘못입니다."
+cul_mayor,dlg,EntryList/17/Text,0,이 일이 알려지면 너와 올라프는 큰 곤경에 처할 거야. 네 '평판'이 나빠지면 그건 네 책임이지.
 cul_mayor,dlg,EntryList/18/Text,0,"지금은, 당신에게 그 제안을 내온 남자의 이름을 말해주세요."
 cul_mayor,dlg,EntryList/19/Text,0,로널드 바르트렛이었어 이제 행복해?
 cul_mayor,dlg,EntryList/20/Text,0,"상관없어, 어쨌든 그를 상대로 할 수 있는 건 없어."
@@ -1995,7 +1995,7 @@ henchma_colt,dlg,EntryList/66/Text,0,"아니, 사실 그렇지 않아. 나는 �
 henchma_colt,dlg,EntryList/67/Text,0,게다가 나는 더 좋아지게 냄새가 나도.
 henchma_colt,dlg,EntryList/68/Text,0,저는 흥미롭고 다양한 향기를 가지고 있습니다!
 henchma_colt,dlg,EntryList/69/Text,0,"그래, , 소 매개, 그리고 좋은 노년생"
-henchma_colt,dlg,EntryList/70/Text,0,랜디 라이브의 일부야. 익숙해졌어. 하지만 이미 비판은 충분했어. 다른 게 있나? 아니면 저렇게 즐겁게 나를 괴롭히고 싶은가?
+henchma_colt,dlg,EntryList/70/Text,0,"시골에 살면 늘 있는 일이지, 친구. 익숙해질 거야. 하지만 비판은 이쯤 해 두자고. 더 할 말 있어? 아니면 날 괴롭히는 게 그렇게 재미있나?"
 henchma_colt,dlg,EntryList/71/Text,0,"예, 정말 달콤한 여자애야. 엘프인 것도 덤이지."
 henchma_colt,dlg,EntryList/72/Text,0,"제 미스틱한 남성적인 분위기로 그녀를 사로잡았지만, 그녀는 제 남성적인 성격에 대해 조금도 피곤해졌습니다."
 henchma_colt,dlg,EntryList/73/Text,0,아민과 싸우고 있었는데 갑자기 입에 치고 말했어요
@@ -5605,7 +5605,7 @@ area005,git,StoreList/1/StoreList/0/ItemList/11/LocalizedName,0,날개 달린 �
 area005,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,"이 견고한 디자인 은 겉모습 으로 매우 단순 하긴 하지만, 수 세기 동안 존재 해 왔다. 그 는 징계 를 돕지만 시력 과 청력을 제한 한다."
 area005,git,StoreList/1/StoreList/0/ItemList/12/LocalizedName,0,비늘 갑옷
 area005,git,StoreList/1/StoreList/0/ItemList/13/LocalizedName,0,사슬 상의
-area005,git,StoreList/1/StoreList/0/ItemList/13/DescIdentified,0,"아이룬드 사슬 티셔츠는 다른 종류보다 가볍고, 가벼운 갑옷을 선호하는 사람들에게 적합합니다."
+area005,git,StoreList/1/StoreList/0/ItemList/13/DescIdentified,0,아이엘룬드 사슬 셔츠는 대부분의 다른 사슬 갑옷보다 가벼워 경갑을 선호하는 이들에게 적합합니다.
 area005,git,StoreList/1/StoreList/0/ItemList/14/LocalizedName,0,거구의 나무 방패
 area005,git,StoreList/1/StoreList/0/ItemList/14/DescIdentified,0,큰 방패는 무게와 부담을 감수할 수 있는 모험가에게 효과적인 보호가 된다. 나무 방패는 빌드온 피해에 취약하다.
 area005,git,StoreList/1/StoreList/0/ItemList/16/LocalizedName,0,소형 금속 방패
@@ -8687,7 +8687,7 @@ masterchaplainss,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,"이 �
 masterchaplainss,git,StoreList/0/StoreList/0/ItemList/18/LocalizedName,0,거구의 금속 방패
 masterchaplainss,git,StoreList/0/StoreList/0/ItemList/19/LocalizedName,0,소형 금속 방패
 masterchaplainss,git,StoreList/0/StoreList/0/ItemList/20/LocalizedName,0,사슬 상의
-masterchaplainss,git,StoreList/0/StoreList/0/ItemList/20/DescIdentified,0,"아이룬드 사슬 티셔츠는 다른 종류보다 가볍고, 가벼운 갑옷을 선호하는 사람들에게 적합합니다."
+masterchaplainss,git,StoreList/0/StoreList/0/ItemList/20/DescIdentified,0,아이엘룬드 사슬 셔츠는 대부분의 다른 사슬 갑옷보다 가벼워 경갑을 선호하는 이들에게 적합합니다.
 masterchaplainss,git,StoreList/0/StoreList/0/ItemList/21/LocalizedName,0,비늘 갑옷 +1
 masterchaplainss,git,StoreList/0/StoreList/0/ItemList/22/LocalizedName,0,마거헌터 가슴판갑
 masterchaplainss,git,StoreList/0/StoreList/0/ItemList/22/DescIdentified,0,"이 가슴 은 매술자 들 과 정기적으로 싸우고 있는 전사 에게는 매우 유용 할 수 있습니다. 매술자 들 을 물리치기 위해 매혹 을 받으며, 그러한 전투 에서 승리 의 장점 을 줄 수 있습니다."
@@ -8832,7 +8832,7 @@ mercenaryhideout,git,Creature List/14/ItemList/0/LocalizedName,0,마법 화살 �
 mercenaryhideout,git,Creature List/14/ItemList/0/Description,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 mercenaryhideout,git,Creature List/14/ItemList/0/DescIdentified,0,막대기는 마법으로 충전될 수 있는 물건입니다. 능력과 효과는 매우 다양합니다.
 mercenaryhideout,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,침묵의 마법부녀
-mercenaryhideout,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,"이 뚜는 착용 시 소리를 억제하고 마법사의 집중력을 돕습니다. 또한 착용자에게 마법이 투입될 때 작은 저항을 부여합니다. 불행히도, 소리 억제의 부작용으로 청각 능력이 줄어듭니다."
+mercenaryhideout,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,이 후드는 착용자의 소리를 약하게 하고 주문 시전자의 집중력을 높여 준다. 착용자에게 시전되는 주문에 대한 저항력도 조금 부여한다. 안타깝게도 소리를 차단하는 부작용으로 청력이 낮아진다.
 mercenaryhideout,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,마법사 의복
 mercenaryhideout,git,Creature List/14/Equip_ItemList/1/DescIdentified,0,페어로흐의 아카네의 원에서 사용하도록 설계된 이 의복은 해외로 여행하고 전투에 참여하려는 여행자 마법사들에게 유용합니다. 적의 마술에 저항하고 활사꾼에 대한 방어 방패를 제공합니다.
 mercenaryhideout,git,Creature List/14/Equip_ItemList/2/LocalizedName,0,육척봉 +1
@@ -11307,7 +11307,7 @@ zep_goristro,utc,Description,0,헐킹 고리스트로들은 강력한 악마의 
 zep_greenhag,utc,FirstName,0,녹색 여신
 zep_greenhag,utc,Description,0,"녹색 마녀는 황폐한 습지와 어두운 숲에서 발견된다. 그들은 병든 녹색 피부와 어둡고 얽힌 머리카락을 가지고 있으며, 거의 굽은 나무 가지처럼 보인다."
 zep_griffon,utc,FirstName,0,그리프론
-zep_griffon,utc,Description,0,"그립폰은 사자와 동일한 힘과 독수리의 영겁을 가진 강력하고 위엄 있는 생물이다. 이들은 모든 종류의 짐승을 사냥하지만, 말의 육체를 가장 선호한다."
+zep_griffon,utc,Description,0,그리핀은 사자와 독수리의 특징을 모두 지닌 강력하고 위엄 있는 생물이다. 온갖 짐승을 사냥하지만 무엇보다 말고기를 좋아한다.
 zep_guardinal,utc,FirstName,0,"가드날, 아야야"
 zep_guardinal,utc,Description,0,"가디널 들 은 에리시움 의 사람 들 이며, 악마 들 (tanar'ri) 은 애비시움 의 사람 들 과 비슷 하다. 가디널 들 의 대부분 은 눈에 띄는 동물 처럼 보이는 아름다운 근육 이 있는 인간 들 과 비슷 하다."
 zep_halfdrgn_001,utc,FirstName,0,"반용, 금"
@@ -11800,7 +11800,7 @@ aarcl027,uti,DescIdentified,0,"비록 겉모습이 불안하게 느껴지지만,
 aarcl028,uti,LocalizedName,0,야만전사 생가죽 갑옷
 aarcl028,uti,DescIdentified,0,낮은 품질의 강철으로 강화된 가죽 갑옷의 복합이 부족의 수리꾼들이 생산할 수 있는 최고의 갑옷입니다.
 aarcl029,uti,LocalizedName,0,사슬 상의
-aarcl029,uti,DescIdentified,0,"아이룬드 사슬 티셔츠는 다른 종류보다 가볍고, 가벼운 갑옷을 선호하는 사람들에게 적합합니다."
+aarcl029,uti,DescIdentified,0,아이엘룬드 사슬 셔츠는 대부분의 다른 사슬 갑옷보다 가벼워 경갑을 선호하는 이들에게 적합합니다.
 aarcl030,uti,LocalizedName,0,비늘 갑옷 +1
 aarcl031,uti,LocalizedName,0,가슴판갑 +1
 aarcl032,uti,LocalizedName,0,마거헌터 가슴판갑
@@ -12274,7 +12274,7 @@ herbgoldenseal,uti,LocalizedName,0,"허브, 금은초"
 herbgoldenseal,uti,DescIdentified,0,희귀하고 비싼 허브인 골든 시일은 몸을 병에 대항하여 강화시키고 정신을 맑게 합니다.
 himarch_key,uti,LocalizedName,0,이마어치_키
 hoodofsilence,uti,LocalizedName,0,침묵의 마법부녀
-hoodofsilence,uti,DescIdentified,0,"이 뚜는 착용 시 소리를 억제하고 마법사의 집중력을 돕습니다. 또한 착용자에게 마법이 투입될 때 작은 저항을 부여합니다. 불행히도, 소리 억제의 부작용으로 청각 능력이 줄어듭니다."
+hoodofsilence,uti,DescIdentified,0,이 후드는 착용자의 소리를 약하게 하고 주문 시전자의 집중력을 높여 준다. 착용자에게 시전되는 주문에 대한 저항력도 조금 부여한다. 안타깝게도 소리를 차단하는 부작용으로 청력이 낮아진다.
 hornedhelm,uti,LocalizedName,0,이 된 헬멧
 hornedhelm,uti,DescIdentified,0,이 우아하게 제작 된 헬멧 은 착용자 에게 용기 를 부여 한다. 그러나 대부분의 헬멧 과 마찬가지로 시력 을 제한 하고 소리 를 억제 한다.
 hornedhelm001,uti,LocalizedName,0,뿔이 달린 헬멧
@@ -12563,7 +12563,7 @@ sha_pc_vamp,uti,LocalizedName,0,언데드: 흡혈귀 PC 속성 (레벨40)
 sha_pc_vamp001,uti,LocalizedName,0,언데드: 흡혈귀 PC 속성 (1레벨)
 sha_pc_vamp002,uti,LocalizedName,0,언데드: 블러드 PC 속성 (레벨 5)
 sha_pc_vamp003,uti,LocalizedName,0,언데드: 흡혈귀 PC 속성 (레벨10)
-sha_pc_vamp004,uti,LocalizedName,0,언데드: 블러드 뱀파이어 PC 속성 (레벨15)
+sha_pc_vamp004,uti,LocalizedName,0,언데드: 뱀파이어 플레이어 캐릭터 속성(레벨 15)
 sha_pc_vamp005,uti,LocalizedName,0,언데드: 흡혈귀 PC 속성 (레벨20)
 sha_pc_vamp006,uti,LocalizedName,0,언데드: 흡혈귀 PC 속성 (레벨25)
 sha_pc_vamp007,uti,LocalizedName,0,언데드: 흡혈귀 PC 속성 (레벨30)
@@ -12765,8 +12765,8 @@ zep_child_rrh,uti,DescIdentified,0,"이것은 크림슨 대학의 학생들이 �
 zep_childs_dress,uti,LocalizedName,0,아이의 옷
 zep_chrys,uti,LocalizedName,0,크라이잔테움
 zep_clfemur_001,uti,LocalizedName,0,페머 클럽
-zep_clfemur_001,uti,Description,0,"이 다리 뼈는 쇠퇴한 몸에서 얻어진 피투성이의 뼈로, 즉흥적인 창으로 잘 사용됩니다."
-zep_clfemur_001,uti,DescIdentified,0,"이 다리 뼈는 쇠퇴한 몸에서 얻어진 피투성이의 뼈로, 즉흥적인 창으로 잘 사용됩니다."
+zep_clfemur_001,uti,Description,0,썩어 가는 시체에서 얻은 이 피 묻은 다리뼈는 급조 몽둥이로 쓰기 좋다.
+zep_clfemur_001,uti,DescIdentified,0,썩어 가는 시체에서 얻은 이 피 묻은 다리뼈는 급조 몽둥이로 쓰기 좋다.
 zep_cloak,uti,LocalizedName,0,망트
 zep_cloak001,uti,LocalizedName,0,키크 미
 zep_cloak003,uti,LocalizedName,0,바드의 망토

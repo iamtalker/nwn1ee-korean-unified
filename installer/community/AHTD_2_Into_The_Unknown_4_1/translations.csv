@@ -2220,7 +2220,7 @@ mineshafts,git,Door List/0/LocName,0,문
 mineshafts,git,Door List/1/LocName,0,문
 mineshafts,git,Door List/2/LocName,0,문
 mineshafts,git,SoundList/0/LocName,0,작은 폭포
-mineshafts,git,TriggerList/0/LocalizedName,0,사용한 막총
+mineshafts,git,TriggerList/0/LocalizedName,0,폐광으로
 mineshafts,git,WaypointList/0/MapNote,0,지하 호수로
 mineshafts,git,WaypointList/2/LocalizedName,0,이정표
 mineshafts,git,WaypointList/2/MapNote,0,좁은 통로
@@ -3735,19 +3735,19 @@ secretstudy,git,Placeable List/9/Description,0,화로가 뜨거운 빛을 내뿜
 secretstudy,git,Placeable List/11/LocName,0,상자
 secretstudy,git,Placeable List/11/Description,0,"이상한 룬과 그림자, 아마도 미묘한 자연, 이 은폐된 강박의 옆구리에 불태워졌습니다."
 secretstudy,git,Placeable List/11/ItemList/0/LocalizedName,0,식별
-secretstudy,git,Placeable List/11/ItemList/0/DescIdentified,0,"시전자 레벨: 바드 1, 마법사 1/요술사 1  
-선천적인 레벨: 1  
-학교: 예지술  
-설명자:  
- 구성요소: 언어적, 동작적  
-범위: 접촉  
-효과 범위/표적: 개인  
-지속시간: 2 라운드  
-추가 카운터 주문:  
-저장: 해롭지 않음  
-주문 저항: 
+secretstudy,git,Placeable List/11/ItemList/0/DescIdentified,0,"시전자 레벨: 바드 1, 위저드/소서러 1
+선천 레벨: 1
+학파: 예지술
+설명자:
+구성 요소: 음성, 동작
+사거리: 접촉
+효과 범위/대상: 자신
+지속 시간: 2라운드
+추가 대응 주문:
+내성: 무해
+주문 저항:
 
-다음 두 라운드 동안 캐스터는 Lore 기술에 대해 캐스터 레벨당 10 + 1의 보너스를 얻습니다."
+다음 두 라운드 동안 시전자는 전승 지식 기술에 10 + 시전자 레벨당 1의 보너스를 얻는다."
 secretstudy,git,Placeable List/11/ItemList/3/LocalizedName,0,기름칠
 secretstudy,git,Placeable List/11/ItemList/3/DescIdentified,0,"시전자 레벨(s): Bard 1, Druid 1, Ranger 1, Wizard / Sorcerer 1 선천적인 수준: 1 학교: 구리 설명자 ((s): 컴포넌트 (: Verbal, Somatic Range: Short 효과 범위/Target: Medium Duration: 2 રાઉન્ડ + 1/3 레벨 추가 카운터 마법을: 자유 이동 Save: Reflex Spell Resistance: Yes"
 secretstudy,git,Placeable List/11/ItemList/6/LocalizedName,0,힘의 지팡이
@@ -4577,7 +4577,7 @@ newtransition003,utt,LocalizedName,0,크리스탈 광산으로
 newtransition004,utt,LocalizedName,0,지하 호수로
 newtransition005,utt,LocalizedName,0,광산 시설로 돌아가기
 newtransition006,utt,LocalizedName,0,납골당으로 광산 시프트로
-newtransition007,utt,LocalizedName,0,사용한 막총
+newtransition007,utt,LocalizedName,0,폐광으로
 newtransition008,utt,LocalizedName,0,광산에서 광산 견인 까지
 outposttraps,utt,LocalizedName,0,전방 함정
 trigger_nelad_sh,utt,LocalizedName,0,trigger_nelad_share_loot
