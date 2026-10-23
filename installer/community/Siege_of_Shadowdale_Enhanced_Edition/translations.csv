@@ -82,7 +82,7 @@ ls_dalesfolk01,dlg,EntryList/4/Text,0,"""그래서, 그런 태도가 필요없�
 ls_dalesfolk01,dlg,EntryList/5/Text,0,Kulnan의 농장은 여기 남쪽에 있습니다. 길을 따라가세요. 그는 여러분께 세부사항을 알려줄 것 같아요.
 ls_dalesfolk01,dlg,EntryList/6/Text,0,"""그 게시판을 한번 보세요. 보통 몇 가지 작업이 있습니다: 간단한 일들이라도 주머니에 몇 개의 골드 동전을 넣을 만큼 충분합니다."""
 ls_dalesfolk01,dlg,EntryList/7/Text,0,"""우리는 여러 모험을 위한 사업을 운영하고 있습니다. 지역 금단공인 브론 세르가드는 아버지가 어린 시절부터 골짜기의 무기와 갑옷을 공급해 왔습니다. 만약 좋은 강철로 무기를 만들려면 그를 찾아보세요."""
-ls_dalesfolk01,dlg,EntryList/8/Text,0,"""베레그운드 거래상의 일반 상점에는 다양한 상품이 있습니다. 그리고 그 오래된 농담꾼 자블은 자신을 '옛날 도둑이지만 이제는 합법적으로 훔치는 사람'이라고 자랑합니다. 가격은 비싸지만, 그는 모든 종류의 마법 장신구를 가지고 있습니다."""
+ls_dalesfolk01,dlg,EntryList/8/Text,0,"""상인 베레건드의 잡화점에는 온갖 물건이 있어. 그리고 늙은 악당 잼블도 있지. 자신을 '예전엔 도둑이었지만 지금은 합법적으로 훔치는 사람'이라고 소개하곤 해. 값은 비싸지만 온갖 마법 장신구를 갖추고 있지."""
 ls_dalesfolk01,dlg,EntryList/9/Text,0,"""풍요의 집""은 마을 북동쪽에 있는 차운테아의 성전이다. 사제 여자들은 친절하며 약품 등을 적정한 가격에 판매한다. 그러나 대부분의 다이슬퍼크는 지역 의사 호아레브 닌블핑거를 방문하는 것을 선호한다."
 ls_dalesfolk01,dlg,EntryList/10/Text,0,"""그리고 바로 뒤에 올드 스켈 인 (Old Skull Inn) 가 있습니다. 데이즈포크와 방문객들은 모두 먹고 마시고 즐겁게 지내도록 환영합니다. 하지만 경고를 받으세요. 제일은 혼란을 일으키는 사람들을 너무 친절하게 받아들이지 마십시오. <StartAction>[당신의 지도가 업데이트되었습니다.]</Start>"
 ls_dalesfolk01,dlg,EntryList/11/Text,0,"""무엇이 더 도와줄 수 있어, 낯선 사람?"""
@@ -694,7 +694,7 @@ ls_thurbal,dlg,ReplyList/14/Text,0,"경비자들의 무능력을 고려하면, �
 ls_thurbal,dlg,ReplyList/15/Text,0,아마 배신자는 엘민스터일지도 몰라.
 ls_thurbal,dlg,ReplyList/16/Text,0,"""Lord Mourngrym과 Lady Shaerl은 어디에 있나?"""
 ls_thurbal,dlg,ReplyList/17/Text,0,"""언더다크로 들어가는 입구가 있나?"""
-ls_thurbal,dlg,ReplyList/18/Text,0,"""왜 드워가 공격하는 거야?"""
+ls_thurbal,dlg,ReplyList/18/Text,0,"""드로우는 왜 공격하는 거야?"""
 ls_thurbal,dlg,ReplyList/19/Text,0,나는 여전히 그것에 대해 연구하고 있어.
 ls_thurbal,dlg,ReplyList/21/Text,0,"""예. 지금 우리가 말하는 동안, 그것은 드루이들을 파괴하고 있습니다."""
 ls_toelminsters,dlg,EntryList/0/Text,0,엘민스터 타워
@@ -1390,7 +1390,7 @@ area005,git,Creature List/2/Description,0,"티르의 이 사제는 사람의 견
 area005,git,Creature List/3/FirstName,0,페르트
 area005,git,Creature List/3/Description,0,"그의 이름과 마찬가지로, 페레트는 작고 민첩하며 흔들림이 많습니다."
 area005,git,Creature List/4/FirstName,0,레이디 리스베스
-area005,git,Creature List/4/Description,0,이 전사는 귀족 출신이라고 주장하고 코르미르의 보라색 용의 팔을 착용하고 있지만 그녀의 유머와 냉소성은 확실히 용사의 팔색조입니다.
+area005,git,Creature List/4/Description,0,"이 전사는 귀족 출신이라고 주장하며 코르미르의 보라색 용 기사단 문장을 달고 있지만, 유머와 냉소는 영락없는 용병의 것입니다."
 area005,git,TriggerList/0/LocalizedName,0,뉴 에이리어 트랜지션
 area005,git,TriggerList/1/LocalizedName,0,뉴 에이리어 트랜지션
 area005,git,WaypointList/0/MapNote,0,쉐도우데일
@@ -1585,7 +1585,7 @@ elmwoodnpchouses,git,Placeable List/24/Description,0,따끈한 스튜 한 접시
 elmwoodnpchouses,git,Placeable List/27/LocName,0,"탁자 - 둥근, 가난한"
 elmwoodnpchouses,git,Placeable List/27/Description,0,이 둥근 테이블의 나무 표면은 과도한 사용으로 인해 가려지고 긁혀져 있다. 심지어 나무 작업에 새겨진 초기 문자와 다른 자기를 영광스럽게 하는 서명들도 있다.
 elmwoodnpchouses,git,Placeable List/28/LocName,0,모터 와 페스트레
-elmwoodnpchouses,git,Placeable List/28/Description,0,"석반과 째지, 허브와 뿌리를 파스트 또는 파우더로 갈아내는 데 유용하다."
+elmwoodnpchouses,git,Placeable List/28/Description,0,허브와 뿌리를 으깨 반죽이나 가루로 만드는 데 쓰는 돌절구와 공이입니다.
 elmwoodnpchouses,git,Placeable List/29/LocName,0,"대초, 점토 - 소형"
 elmwoodnpchouses,git,Placeable List/29/Description,0,이 점토 용기는 다양한 식품을 보관하기 위해 사용됩니다.
 epilogue,git,Creature List/0/FirstName,0,엘민스터
@@ -1961,7 +1961,7 @@ shadowdaletown,git,Placeable List/26/LocName,0,부시 - 잎 11b
 shadowdaletown,git,Placeable List/26/Description,0,이 덤불의 많은 잎은 너무 밀집되어 있어 잎을 통해 볼 수 없을 정도다.
 shadowdaletown,git,Placeable List/27/LocName,0,부시 - 잎 11a
 shadowdaletown,git,Placeable List/27/Description,0,이 덤불의 많은 잎은 너무 밀집되어 있어 잎을 통해 볼 수 없을 정도다.
-shadowdaletown,git,Placeable List/28/LocName,0,부시 - 거구
+shadowdaletown,git,Placeable List/28/LocName,0,큰 덤불
 shadowdaletown,git,Placeable List/28/Description,0,이 덤불의 많은 잎은 너무 밀집되어 있어 잎을 통해 볼 수 없을 정도다.
 shadowdaletown,git,Placeable List/30/LocName,0,토양 - 들판 농작물 01 (무더기)
 shadowdaletown,git,Placeable List/31/LocName,0,토양 - 들판 농작물 01 (무더기)
@@ -1972,7 +1972,7 @@ shadowdaletown,git,Placeable List/36/Description,0,배디나 다른 곡물들로
 shadowdaletown,git,Placeable List/37/LocName,0,나무 상자
 shadowdaletown,git,Placeable List/37/Description,0,무작위로 못 박힌 상자.
 shadowdaletown,git,Placeable List/38/LocName,0,모터 와 페스트레
-shadowdaletown,git,Placeable List/38/Description,0,"석반과 째지, 허브와 뿌리를 파스트 또는 파우더로 갈아내는 데 유용하다."
+shadowdaletown,git,Placeable List/38/Description,0,허브와 뿌리를 으깨 반죽이나 가루로 만드는 데 쓰는 돌절구와 공이입니다.
 shadowdaletown,git,Placeable List/39/LocName,0,"마차 - 두 축, 적재"
 shadowdaletown,git,Placeable List/40/LocName,0,"마차 - 두 축, 비어 있음"
 shadowdaletown,git,Placeable List/42/LocName,0,꽃 - 단주초 (토지 덮개)
@@ -2770,7 +2770,7 @@ kulnar,utc,FirstName,0,쿨나르
 kulnar,utc,LastName,0,오하네
 kulnar,utc,Description,0,이 중년 남자는 최근 전투에서 숨을 크게 쉬고 있습니다.
 ladylisabeth,utc,FirstName,0,레이디 리스베스
-ladylisabeth,utc,Description,0,이 전사는 귀족 출신이라고 주장하고 코르미르의 보라색 용의 팔을 착용하고 있지만 그녀의 유머와 냉소성은 확실히 용사의 팔색조입니다.
+ladylisabeth,utc,Description,0,"이 전사는 귀족 출신이라고 주장하며 코르미르의 보라색 용 기사단 문장을 달고 있지만, 유머와 냉소는 영락없는 용병의 것입니다."
 lanseril,utc,FirstName,0,랜서일
 lanseril,utc,LastName,0,스노우만트
 lanseril,utc,Description,0,이 키가 큰 반 엘프가 얼굴에 어두운 표정을 가지고 있습니다.
@@ -2900,7 +2900,7 @@ q_pike,utc,FirstName,0,파이크
 q_purpleworm,utc,FirstName,0,보라색 벌레
 q_remhoraz,utc,FirstName,0,레모르하스
 q_roper001,utc,FirstName,0,로퍼
-q_rustmonster,utc,FirstName,0,썩은 몬스터
+q_rustmonster,utc,FirstName,0,녹 괴물
 q_rustmonster,utc,Description,0,모든 금속에 대한 배가 무한한 것으로 알려진 이 불가라비한 생물들은 모험가들과 금속공사들 모두에서 널리 두려워합니다.
 q_scrag,utc,Description,0,스크래그는 땅에서 사는 사촌들과 마찬가지로 끔찍하고 폭력적인 수중 트롤 종족입니다.
 q_sheep001,utc,FirstName,0,양
@@ -3216,7 +3216,7 @@ q_plc_alchemy006,utp,Description,0,단순한 포션을 보관하는 데 사용�
 q_plc_alchemy007,utp,LocName,0,물약 병
 q_plc_alchemy007,utp,Description,0,단순한 포션을 보관하는 데 사용되는 점토 약병
 q_plc_alchemy008,utp,LocName,0,모터 와 페스트레
-q_plc_alchemy008,utp,Description,0,"석반과 째지, 허브와 뿌리를 파스트 또는 파우더로 갈아내는 데 유용하다."
+q_plc_alchemy008,utp,Description,0,허브와 뿌리를 으깨 반죽이나 가루로 만드는 데 쓰는 돌절구와 공이입니다.
 q_plc_alchemy009,utp,LocName,0,깃펜과 잉크
 q_plc_alchemy009,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_animalpen,utp,LocName,0,동물 가옥

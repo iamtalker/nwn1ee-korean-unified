@@ -341,7 +341,7 @@ boatman,dlg,EntryList/24/Text,0,하지만 마녀들의 마법은 당신이 이�
 boatman,dlg,EntryList/25/Text,0,필요한 게 있나요?
 boatman,dlg,EntryList/26/Text,0,"마녀들이 나를 붙잡고 있어, 내가 느낄 수 있어, 그들은 나를 여기 두고 있어."
 boatman,dlg,EntryList/27/Text,0,"그래, 그렇게 하면 여기에 머무를 수 있다. 북동쪽의 늪지대에 있는 동굴을 조사해 볼 수 있는데... 만약 용기를 가지고 있다면... 그곳에서 내가 자유로워질 수 있는 도움이 될 만한 것을 찾아보는 것이 좋을 것이다."
-boatman,dlg,EntryList/28/Text,0,"그리고 물론, 제가 여러분의 서비스를 제공해 드리겠습니다. 항구에 널려 있는 저수지 곳곳에 있는 종 중 하나를 울리면, 저는 도와드리러 도착하겠습니다."
+boatman,dlg,EntryList/28/Text,0,물론 그 대가로 제 도움을 드리겠습니다. 습지 곳곳에 흩어져 있는 부두의 종을 하나라도 울리면 제가 와서 다른 부두까지 안내해 드리겠습니다.
 boatman,dlg,EntryList/29/Text,0,하지만 마녀들의 마법은 당신이 이미 방문한 항구로만 데려갈 수 있다는 뜻입니다. 아마도 그 끔찍한 늙은이 마녀들은 아무도 그들의 동굴로 바로 들어가게 하기 싫었나 봅니다.
 boatman,dlg,EntryList/30/Text,0,"환영합니다, 친구. 무엇을 도와드릴까요?"
 boatman,dlg,EntryList/31/Text,0,세 명의 마녀가 저를 제 손에서 어린 소년을 구해줬다고 처벌했습니다. 그들은 저를 살아서 끓여 내 치명적인 상자를 영원히 뱃길로 보내버렸습니다. 제 영혼은 아마 악의 마녀들의 손에 갇혀 있습니다.
@@ -6944,13 +6944,13 @@ lairlevel2,git,Creature List/54/Description,0,"무크다이버는 두 발로 걷
 lairlevel2,git,Creature List/55/FirstName,0,골드나이퍼
 lairlevel2,git,Creature List/55/Description,0,"골부스터는 역사적인 뿌리에서 크게 변하지 않은 야만적인 파충류로, 치명적인 물과 거대한 배식욕을 가지고 있다."
 lairlevel2,git,Creature List/56/FirstName,0,괴물 지네
-lairlevel2,git,Creature List/56/Description,0,"거인 백발들은 음식과 비슷한 모든 것을 공격하는 경향이 있으며, 턱으로 물려 독을 주입합니다."
+lairlevel2,git,Creature List/56/Description,0,"거대 지네는 먹이처럼 보이는 것은 무엇이든 공격하며, 턱으로 물어 독을 주입합니다."
 lairlevel2,git,Creature List/56/Equip_ItemList/0/LocalizedName,0,지네 물기
 lairlevel2,git,Creature List/57/FirstName,0,괴물 지네
-lairlevel2,git,Creature List/57/Description,0,"거인 백발들은 음식과 비슷한 모든 것을 공격하는 경향이 있으며, 턱으로 물려 독을 주입합니다."
+lairlevel2,git,Creature List/57/Description,0,"거대 지네는 먹이처럼 보이는 것은 무엇이든 공격하며, 턱으로 물어 독을 주입합니다."
 lairlevel2,git,Creature List/57/Equip_ItemList/0/LocalizedName,0,지네 물기
 lairlevel2,git,Creature List/58/FirstName,0,"괴물 백발, 거대한"
-lairlevel2,git,Creature List/58/Description,0,"거인 백발들은 음식과 비슷한 모든 것을 공격하는 경향이 있으며, 턱으로 물려 독을 주입합니다."
+lairlevel2,git,Creature List/58/Description,0,"거대 지네는 먹이처럼 보이는 것은 무엇이든 공격하며, 턱으로 물어 독을 주입합니다."
 lairlevel2,git,Creature List/58/Equip_ItemList/0/LocalizedName,0,지네 거대 물기
 lairlevel2,git,Creature List/59/FirstName,0,부리우그
 lairlevel2,git,Creature List/59/Description,0,"붐우그는 개구리 머리, 회색, 녹색, 또는 황색 피부를 가진 양서류 인형물이다. 긴 발자국, 반짝이는 혀를 가지고 있으며 비로 싸웁니다. 붐우그로서의 삶은 거칠고 잔인하고 젖어있다. 그들의 사제들은 종종 통제 할 수 없는 생물들을 불러 불러내는 것으로 유명하다."
@@ -8551,7 +8551,7 @@ rushmoornorth,git,TriggerList/19/LocalizedName,0,X0_SAFEREST
 rushmoornorth,git,WaypointList/16/MapNote,0,도마뱀 남자 감옥
 rushmoornorth,git,WaypointList/17/MapNote,0,러시머 습지 - 남쪽
 rushmoornorth,git,WaypointList/19/MapNote,0,동굴 입구
-rushmoornorth,git,WaypointList/27/MapNote,0,방문자 창가
+rushmoornorth,git,WaypointList/27/MapNote,0,방문객 오두막
 rushmoornorth,git,WaypointList/34/MapNote,0,파충류 신의 소굴
 rushmoornorth,git,WaypointList/61/MapNote,0,성당
 rushmoornorth,git,WaypointList/62/MapNote,0,움직이는 모래
@@ -10576,7 +10576,7 @@ giantantqueen,utc,FirstName,0,거인 개미 여왕
 giantblackscorp,utc,FirstName,0,거대한 검은 전갈
 giantblackscorp,utc,Description,0,스korpions는 공격적인 척추 없는 동물이 그들의 stingers에 치명적인 독을 가지고 있습니다.
 giantcentipede,utc,FirstName,0,거대 지네
-giantcentipede,utc,Description,0,"거인 백발들은 음식과 비슷한 모든 것을 공격하는 경향이 있으며, 턱으로 물려 독을 주입합니다."
+giantcentipede,utc,Description,0,"거대 지네는 먹이처럼 보이는 것은 무엇이든 공격하며, 턱으로 물어 독을 주입합니다."
 giantdragonfly,utc,FirstName,0,거인 드래곤플라이
 giantdragonfly,utc,Description,0,"성인 유래는 크고 다면적인 눈, 두 쌍의 강하고 투명한 날개, 때로는 색깔의 얼룩무늬와 긴 몸으로 특징입니다."
 giantfrog,utc,FirstName,0,거인 거북

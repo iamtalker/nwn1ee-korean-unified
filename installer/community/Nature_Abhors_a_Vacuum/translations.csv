@@ -476,8 +476,8 @@ black_pete,dlg,EntryList/19/Text,0,어제 아침부터 여기에 못 왔다. 그
 black_pete,dlg,EntryList/20/Text,0,여기서 나가라고 했잖아
 black_pete,dlg,ReplyList/0/Text,0,주변을 둘러보니깐.
 black_pete,dlg,ReplyList/2/Text,0,길거리에서 말하는 건 불법 물건을 운송하는 거에 대해선 당신이 최고야.
-black_pete,dlg,ReplyList/3/Text,0,내 생각엔 밀수업자는 많은 사람들을 팁을 주어야 어떤 거래를 처리할지도 모릅니다.
-black_pete,dlg,ReplyList/4/Text,0,내 생각엔 밀수업자는 많은 사람들을 팁을 주어야 어떤 거래를 처리할지도 모릅니다.
+black_pete,dlg,ReplyList/3/Text,0,내 생각엔 밀수업자가 거래를 성사시키려면 많은 사람에게 미리 정보를 흘려야 할지도 몰라.
+black_pete,dlg,ReplyList/4/Text,0,내 생각엔 밀수업자가 거래를 성사시키려면 많은 사람에게 미리 정보를 흘려야 할지도 몰라.
 black_pete,dlg,ReplyList/5/Text,0,"경비원, 다른 해병원, 물론 항구장."
 black_pete,dlg,ReplyList/6/Text,0,"그래, 그런 자들 마음대로 당하겠지. 원하는 걸 바치든지 끌려가든지. 뇌물로만 그렇게 많은 금을 쓰자니 힘들겠어."
 black_pete,dlg,ReplyList/7/Text,0,저는 항구장이 가격을 좀 더 높이려고 했다고 생각합니다. 그리고 당신은 칼로 그를 찌르는 것이 더 싼다고 결론을 내렸습니다.
@@ -1698,8 +1698,8 @@ hench_hotu,dlg,EntryList/10/Text,0,"""당신이 원하는 대로""."
 hench_hotu,dlg,EntryList/10/Text,2,"괜찮아, 당신이 원하는 걸 해줄게. 당신이 뭔가를 바꾸고 싶다면, 알려줘."
 hench_hotu,dlg,EntryList/10/Text,3,"괜찮아, 당신이 원하는 걸 해줄게. 당신이 뭔가를 바꾸고 싶다면, 알려줘."
 hench_hotu,dlg,EntryList/11/Text,0,"""내가 너에게 무엇을 해야 할지 말해야 하진 않아."""
-hench_hotu,dlg,EntryList/11/Text,2,"""나가 무엇을 해야 할지 말해야 하지."""
-hench_hotu,dlg,EntryList/11/Text,3,"""나가 무엇을 해야 할지 말해야 하지."""
+hench_hotu,dlg,EntryList/11/Text,2,"""내가 당신에게 무엇을 하라고 말해서는 안 되겠지."""
+hench_hotu,dlg,EntryList/11/Text,3,"""내가 당신에게 무엇을 하라고 말해서는 안 되겠지."""
 hench_hotu,dlg,EntryList/12/Text,0,"""좋아, 하지만 나는 직접 열어보는 게 좋다."""
 hench_hotu,dlg,EntryList/12/Text,2,"""좋아, 하지만 내가 직접 열고 싶다."""
 hench_hotu,dlg,EntryList/12/Text,3,"""좋아, 하지만 내가 직접 열고 싶다."""
@@ -4562,8 +4562,8 @@ x2_associate,dlg,ReplyList/314/Text,2,"""물품과 물체를 다루는 방식에
 x2_associate,dlg,ReplyList/314/Text,3,"""물품과 물체를 다루는 방식에 대해 이야기한다""."
 x2_associate,dlg,ReplyList/315/Text,0,"""어... 상관없어."""
 x2_associate,dlg,ReplyList/317/Text,0,"""나에게 가방을 열라고 말하지 말아."""
-x2_associate,dlg,ReplyList/317/Text,2,"""상자를 열지 말라고 말해 주지 마."""
-x2_associate,dlg,ReplyList/317/Text,3,"""상자를 열지 말라고 말해 주지 마."""
+x2_associate,dlg,ReplyList/317/Text,2,"""상자를 열라고 그만 말해 줬으면 좋겠어."""
+x2_associate,dlg,ReplyList/317/Text,3,"""상자를 열라고 그만 말해 줬으면 좋겠어."""
 x2_associate,dlg,ReplyList/318/Text,0,"""저는 당신에게 상자를 열라고 말해달라고 합니다."""
 x2_associate,dlg,ReplyList/318/Text,2,"""상자를 열어주어야 합니다."""
 x2_associate,dlg,ReplyList/318/Text,3,"""상자를 열어주어야 합니다."""
@@ -6491,7 +6491,7 @@ calespurcaver002,git,Placeable List/1/Description,0,불특정 가치의 작은 �
 calespurcaver002,git,Placeable List/2/LocName,0,보물
 calespurcaver002,git,Placeable List/2/Description,0,귀중품을 보관하기 위한 작은 상자.
 calespurcaver002,git,Placeable List/2/ItemList/0/LocalizedName,0,슬라이저
-calespurcaver002,git,Placeable List/2/ItemList/0/DescIdentified,0,유명한 반부 기사가 사용하던 이 무기는 20년 전 페어로크에서 도둑 기합을 몰아내려고 하면서 사라졌습니다.
+calespurcaver002,git,Placeable List/2/ItemList/0/DescIdentified,0,유명한 하플링 기사가 사용했던 이 무기는 20년 전 페어로흐에서 도둑 길드를 몰아내려다 그가 사라진 뒤 함께 자취를 감췄습니다.
 calespurcaver002,git,Placeable List/2/ItemList/1/LocalizedName,0,거구의 금속 방패 +2
 calespurcaver002,git,Placeable List/2/ItemList/2/LocalizedName,0,작은 마법의 반지
 calespurcaver002,git,Placeable List/2/ItemList/2/DescIdentified,0,"아카네 서클의 마법사들은 용병들의 원초적인 힘에 질투하고 두려워하여 비전 막사의 마법사들에게 더 많은 주문을 부여하기 위해 일련의 반지를 만들었습니다. 이러한 반지는 매우 드물지만, 매우 갈망되는 물건입니다."
@@ -10474,7 +10474,7 @@ module,jrl,Categories/1/Name,0,신비로운 임무
 module,jrl,Categories/1/EntryList/0/Text,0,"브래크스퍼드의 촌장 올라프는 메린과 대화를 나누고 싶어 합니다. 메린은 최근 브래크스퍼드에 거주하며 부유한 젊은 여성으로, 그녀가 올라프에게 큰 금액의 돈을 뇌물로 요구하고 있는 것 같습니다."
 module,jrl,Categories/1/EntryList/1/Text,0,"메린은 매우 친절한 사람으로 보이며, 올라프가 아무도 보고 싶지 않은 문서를 넘겨주기로 동의했습니다."
 module,jrl,Categories/1/EntryList/2/Text,0,"나는 메린을 강제하여 그 서류의 위치를 알려달라고 했지만, 그녀는 협조를 거부했다. 그래도 집 안에 있을 거라고 생각한다. 찾아봐야 할 것 같아."
-module,jrl,Categories/1/EntryList/3/Text,0,"메린 촌장이 가져온 문서를 잘 활용했습니다. 촌장은 제가 그녀의 일을 계속할 것임을 위협했을 때는 화가 났지만, 모든 것을 침묵시키기 위해 많은 금을 지불했습니다. 행복한 결말을 좋아합니다."
+module,jrl,Categories/1/EntryList/3/Text,0,"메린에게서 가져온 문서를 잘 활용했습니다. 그녀의 일을 계속하겠다고 위협했을 때 시장은 화를 냈지만, 일을 조용히 덮어 두는 대가로 많은 금을 지불했습니다. 해피엔딩이 좋군요."
 module,jrl,Categories/1/EntryList/4/Text,0,올라프에게 메린이 그를 추행하던 문서를 주고 보상을 받았다. 서류에는 쿨든에 본사를 둔 노스 셔프 트레이딩 회사에 대한 언급이 있었다. 앞으로 그 곳을 조사해볼 만한 가치가 있을 것 같다. 시장은 서류를 빨리 파괴했다.
 module,jrl,Categories/1/EntryList/5/Text,0,메린 집에서 서류를 가져왔어요 흥미롭게도 시장이 최근 좀 더 한 거래를 하고 있는 것 같습니다
 module,jrl,Categories/2/Name,0,정말 끔찍한 짐승이야
@@ -12597,7 +12597,7 @@ sha_subrace_vamp,uti,LocalizedName,0,세부 종족: 흡혈귀
 sha_subrace_vamp,uti,DescIdentified,0,"이제 뱀파이어 서브래스의 일원이라는 인정을 받았고, 이 항목은 당신이 선택한 서브래스에 고유한 특별한 능력을 줄 것입니다."
 shield,uti,LocalizedName,0,빛의 방패
 shortswordofslic,uti,LocalizedName,0,슬라이저
-shortswordofslic,uti,DescIdentified,0,유명한 반부 기사가 사용하던 이 무기는 20년 전 페어로크에서 도둑 기합을 몰아내려고 하면서 사라졌습니다.
+shortswordofslic,uti,DescIdentified,0,유명한 하플링 기사가 사용했던 이 무기는 20년 전 페어로흐에서 도둑 길드를 몰아내려다 그가 사라진 뒤 함께 자취를 감췄습니다.
 sightblinder,uti,LocalizedName,0,시각장애인
 simplerobe,uti,LocalizedName,0,단순한 수의
 simplerobe001,uti,LocalizedName,0,사제 의복
@@ -12710,7 +12710,7 @@ whip001,uti,LocalizedName,0,지팡이 + 1
 wintercloak,uti,LocalizedName,0,겨울 망토
 wintercloak,uti,DescIdentified,0,산에서 얼어붙는 날씨에 차가운 기운을 막는 데 유용합니다.
 wmgst003,uti,LocalizedName,0,번개 와 번개 의 스태프
-wmgst003,uti,DescIdentified,0,"이 저주된 수레는 자연의 힘을 불러일으킬 수 있지만, 강력한 폭풍처럼 영원히 지속되지 않는다."
+wmgst003,uti,DescIdentified,0,"이 마법 지팡이는 자연의 힘을 불러낼 수 있지만, 강력한 폭풍처럼 그 힘이 영원히 지속되지는 않습니다."
 wspka002,uti,LocalizedName,0,광산 막대기
 wspka002,uti,Description,0,"주로 바위를 절단하고 광산 작업에 사용되지만, 실제로는 좋은 무기라고는 볼 수 없습니다."
 wswdg002,uti,LocalizedName,0,피투성이 단검
@@ -13232,7 +13232,7 @@ zep_ce_car_002,utp,LocName,0,중장 마차 - 평면
 zep_ce_car_003,utp,LocName,0,중장 마차 - 짐
 zep_ce_car_004,utp,LocName,0,중장 마차 - 나무막대기
 zep_ce_car_005,utp,LocName,0,중장 마차 - 상자
-zep_ce_car_006,utp,LocName,0,거구의 마차 - 빈
+zep_ce_car_006,utp,LocName,0,대형 마차 - 비어 있음
 zep_ce_car_007,utp,LocName,0,거구의 마차 - 배럴
 zep_ce_car_008,utp,LocName,0,거구의 마차 - 상자
 zep_ce_car_009,utp,LocName,0,소형 마차 - 비어 있음
