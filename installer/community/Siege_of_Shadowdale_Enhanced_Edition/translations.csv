@@ -174,7 +174,7 @@ ls_florin,dlg,ReplyList/1/Text,0,"""미스 드란의 기사들에 대해 더 말
 ls_florin,dlg,ReplyList/3/Text,0,<StartAction>[플로린에게 스코티와 탑의 배신자에 대해 말해.]
 ls_florin,dlg,ReplyList/4/Text,0,<StartAction>[플로린에게 트위스트 타워 밑에 있는 침몰 기지에 대해 말해주세요.]
 ls_florin2,dlg,EntryList/0/Text,0,"""오랫 어둠으로 가는 고대 통로는 이 동굴의 북쪽 끝에 있습니다. 빨리 움직일 수 있습니다. 낭비되는 모든 초들은 스코티를 큰 위험에 빠뜨립니다""."
-ls_florin2,dlg,EntryList/1/Text,0,"""그리고르다가 병력을 빠르게 모집하지 못하면 그렇게 생각하지 않소. 터블과 그의 대부분의 경호원들이 이미 쓰러졌기에, 스코티를 서두르로 찾아야 하오! 우리 보호가 없으면 탑이 무너지고, 골짜기 또한 그 다음이 될 것이오."""
+ls_florin2,dlg,EntryList/1/Text,0,"""섀도데일이 병력을 신속히 집결시키지 못한다면, 그럴 수 없을 것 같소. 서발과 경비병 대부분이 쓰러졌으니 서둘러 스코티를 찾아야 하오! 우리가 보호하지 못하면 탑이 함락되고, 다음은 데일이오."""
 ls_florin2,dlg,EntryList/2/Text,0,"어쩌면, 하지만 어떤 의심이 남아있는 한, 나는 단지 사건들이 그들의 경과를 기다릴 수 없습니다. 만약 우리가 스코티를 드루의 손아귀에서 구출할 수 있다면, 신화의 기사단 마이드래노르는 그가 안전해질 때까지 쉬지 않을 것입니다."
 ls_florin2,dlg,EntryList/3/Text,0,"""나는 미엘리키에게 그렇게 되길 기원한다. 드워가 아이를 해치는 것은 아무런 이익이 없다. 그러나 악의와 잔인함만으로는 그렇게 할 것이라고 의심하지는 않지만, 실용주의는 그 아이를 살려두어야 한다. 그 아이는 인질로 사용되거나 협상 도구로 활용될 수 있다."""
 ls_florin2,dlg,EntryList/4/Text,0,"""말할 시간이 없어, 언더다크는 우리를 기다리고 있다."""
@@ -308,7 +308,7 @@ ls_harpers,dlg,EntryList/0/Text,0,"""안녕하세요, 모험가님. 여러분의
 ls_helmedhorror,dlg,EntryList/0/Text,0,이 떠 있는 갑옷은 공중에서 움직이지 않고 정지해 있습니다. 아마도 어떤 명령어가 필요할 수 있습니다.
 ls_helmedhorror,dlg,EntryList/1/Text,0,아무 일도 일어나지 않습니다.
 ls_helmedhorror,dlg,EntryList/2/Text,0,"갑자기, 기계의 헬름에 흰 점들이 나타나며 이상한 회전 소리를 내게 됩니다."
-ls_helmedhorror,dlg,EntryList/3/Text,0,"헬멧을 쓴 공포는 당신을 무시하고, 침입자라고 여는 사람들을 추적하여 죽이는 데만 집중한다."
+ls_helmedhorror,dlg,EntryList/3/Text,0,"투구 쓴 공포는 당신을 무시하고, 침입자라고 판단한 자들을 추적해 죽이는 데만 집중합니다."
 ls_helmedhorror,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
 ls_helmedhorror,dlg,ReplyList/1/Text,0,"""미사트라 애절"""
 ls_helmedhorror,dlg,ReplyList/2/Text,0,"""아마르""."
@@ -1573,7 +1573,7 @@ elmwoodnpchouses,git,Placeable List/5/LocName,0,병
 elmwoodnpchouses,git,Placeable List/6/LocName,4,병
 elmwoodnpchouses,git,Placeable List/6/LocName,0,병
 elmwoodnpchouses,git,Placeable List/9/LocName,0,중간 크기의 가방
-elmwoodnpchouses,git,Placeable List/20/LocName,4,서랍장
+elmwoodnpchouses,git,Placeable List/20/LocName,4,책장
 elmwoodnpchouses,git,Placeable List/20/LocName,0,책장
 elmwoodnpchouses,git,Placeable List/21/LocName,0,hf_interactive_object
 elmwoodnpchouses,git,Placeable List/22/LocName,0,"보울 - 백색, 콩"
@@ -1613,7 +1613,7 @@ housejaelrecampj,git,Placeable List/0/Description,0,철로 묶여 있고 무거�
 housejaelrecampj,git,Placeable List/0/ItemList/0/LocalizedName,0,금화
 kellashouse2ndfl,git,Door List/2/LocName,0,문
 kellashouse2ndfl,git,SoundList/0/LocName,0,파일 루프
-kellashouse2ndfl,git,Placeable List/0/LocName,0,서랍장
+kellashouse2ndfl,git,Placeable List/0/LocName,0,책장
 kellashouse2ndfl,git,Placeable List/0/Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 kellashouse2ndfl,git,Placeable List/0/ItemList/0/LocalizedName,0,금화
 kellashouse2ndfl,git,Placeable List/2/LocName,0,켈라의 시체
@@ -1655,7 +1655,7 @@ melnpchouse6,git,Creature List/0/FirstName,0,수르카르
 melnpchouse6,git,Creature List/0/LastName,0,리도
 melnpchouse6,git,Creature List/0/Description,0,이 늙은이는 세상을 지쳐 피곤해 보입니다.
 melnpchouse6,git,Door List/0/LocName,0,문
-melnpchouse6,git,Placeable List/8/LocName,4,서랍장
+melnpchouse6,git,Placeable List/8/LocName,4,책장
 melnpchouse6,git,Placeable List/8/LocName,0,책장
 melnpchouse6,git,Placeable List/8/ItemList/0/LocalizedName,0,"기요르단, 거짓 신자"
 melnpchouse6,git,Placeable List/8/ItemList/0/DescIdentified,0,"쉐도우데일은 혼란스러운 역사 동안 몇 명의 거짓 주왕을 견디는 불행을 겪었지만, 어느 누구도 지요르단만큼 악명 높은 것이 아니다. 1339년 DR에서 아우머리가 지요르담 요원들에 의해 암살되었을 때, 지요르단은 이 암살자들을 포획하고 죽였으며, 아샤바의 서두리를 주장하고, 새로운 주왕으로 자신을 제시했으며, 쉐도우데일 주민들은 이에 동의했다. 지요르단은 전통적인 아샤바의 트위스트 타워에서 크라그 성으로 시요르담의 권력의 자리를 옮겼으며, 그 장소는 곧 지요르담 요원들로 가득했다. 인민들의 반란은 지요르담 요원으로부터 평화 유지 세력을 파견하게 되었고, 실요르담은 아우르단의 진정한 본질을 알고 있었음에도 불구하고, 아슈르담을 물리치려고 노력하기보다는 정권을 유지하려고 노력했다. 지요르단은 1345년에 메르담의 서두에서 사망했다. 그러나 지요르담의 주왕은 ""검은 서두르단""에 의해 명명되었다."
@@ -2517,7 +2517,7 @@ underdarksecondl,git,Creature List/5/Equip_ItemList/3/LocalizedName,0,데로의 
 underdarksecondl,git,Creature List/6/FirstName,0,데로 사전지식
 underdarksecondl,git,Creature List/6/Description,0,"이 사디스트 드워프들은 깊은 지하에서 살고 있으며, 기회가 되면 표면 주민들을 고문해 죽이는 것을 좋아합니다."
 underdarksecondl,git,Creature List/7/FirstName,0,트래그
-underdarksecondl,git,Creature List/7/Description,0,이 위용 있는 드루이가 악한 듯한 창을 들고 있습니다.
+underdarksecondl,git,Creature List/7/Description,0,이 위압적인 드로우는 사악해 보이는 창을 들고 있습니다.
 underdarksecondl,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,더런트라그의 판금
 underdarksecondl,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,케리슈나르
 underdarksecondl,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,'케리슈나르'라는 말은 이 도끼의 턱에 새겨져 있습니다. 도끼의 끝은 믿을 수 없을 정도로 날카롭습니다. 그리고 쇠와 뼈를 쉽게 뚫을 수 있습니다.
@@ -2701,7 +2701,7 @@ durman,utc,FirstName,0,더먼
 durman,utc,LastName,0,하이스타
 durman,utc,Description,0,이 건장한 사내는 문지기치고는 꽤 친근해 보인다.
 durntrag,utc,FirstName,0,트래그
-durntrag,utc,Description,0,이 위용 있는 드루이가 악한 듯한 창을 들고 있습니다.
+durntrag,utc,Description,0,이 위압적인 드로우는 사악해 보이는 창을 들고 있습니다.
 elfranger002,utc,FirstName,0,엘프 순찰자
 elfranger003,utc,FirstName,0,엘프 순찰자
 elitetowerguard,utc,FirstName,0,엘리트 탑 경비병

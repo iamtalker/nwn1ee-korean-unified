@@ -62,7 +62,7 @@ calulith,dlg,ReplyList/25/Text,0,내가 실패하면 잠긴 문과 상자를 열
 calulith,dlg,ReplyList/26/Text,0,"좋아, 이제 가자"
 calulith,dlg,ReplyList/27/Text,0,"더 이상 스텔스를 사용하지 말고, 직진해 가세요."
 calulith,dlg,ReplyList/28/Text,0,"좋아, 이제 가자"
-calulith,dlg,ReplyList/29/Text,0,우리에게 더 많은 숨김술이 필요해. 움직임을 숨기려고 노력해.
+calulith,dlg,ReplyList/29/Text,0,우리에게는 은신 능력이 더 필요해. 움직임을 숨기도록 해 봐.
 calulith,dlg,ReplyList/30/Text,0,"좋아, 이제 가자"
 calulith,dlg,ReplyList/31/Text,0,"공격하고, 근접 무기로 공격하라."
 calulith,dlg,ReplyList/32/Text,0,"좋아, 이제 가자"
@@ -896,8 +896,8 @@ dragoncrypt001,git,Placeable List/5/LocName,0,RedEgg_Up
 dragoncrypt001,git,Placeable List/6/LocName,0,RedEgg_Up
 dragoncrypt001,git,Placeable List/7/LocName,0,RedEgg_Ln
 dragoncrypt001,git,Placeable List/8/LocName,0,RedEgg_Ln
-dragoncrypt001,git,Placeable List/9/LocName,0,방화구에 부동화 용기
-dragoncrypt001,git,Placeable List/10/LocName,0,방화구에 부동화 용기
+dragoncrypt001,git,Placeable List/9/LocName,0,"화로, 고인 물 대야 포함"
+dragoncrypt001,git,Placeable List/10/LocName,0,"화로, 고인 물 대야 포함"
 dragoncrypt001,git,Placeable List/11/LocName,0,금화 더미
 dragoncrypt001,git,Placeable List/11/Description,0,불특정 가치의 작은 장식품들.
 dragoncrypt001,git,Placeable List/11/ItemList/0/LocalizedName,0,금화
@@ -3092,7 +3092,7 @@ it_creitemdr023,uti,LocalizedName,0,튀어나오는 흰 용 속성
 it_creitemdr024,uti,LocalizedName,0,새끼 구리용 속성
 it_creitemdr025,uti,LocalizedName,0,부화된 골드 용의 용 속성
 it_creitemdr026,uti,LocalizedName,0,부화된 은용 속성
-it_crewps013,uti,LocalizedName,0,부화된 용이 물린 것
+it_crewps013,uti,LocalizedName,0,새끼 용의 물기
 it_crewpsp012,uti,LocalizedName,0,웅덩어리 드래곤 클라
 it_mpotion025,uti,LocalizedName,0,치명상처 치료의 물약
 it_mpotion025,uti,DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
@@ -3159,7 +3159,7 @@ wblfl003,uti,LocalizedName,0,뱀들의 부러짐
 wblfl003,uti,DescIdentified,0,"이 무기는 드로우만 사용하는 독특한 무기 중 하나입니다. 명중하면 대상에게 타는 듯한 산성 물질을 주입해 큰 고통을 주지만 심한 상처를 남기지는 않습니다.
 
 다른 생물에게 고통과 괴로움을 주는 데서 즐거움을 느끼는 드로우 여성들이 특히 애용하는 무기입니다."
-wblmfh009,uti,LocalizedName,0,수탈자 +1
+wblmfh009,uti,LocalizedName,0,약탈자 +1
 wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblmhw003,uti,LocalizedName,0,노움 전쟁망치
 wblmhw003,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
@@ -3250,7 +3250,7 @@ el_cleaner,utp,LocName,0,청소부
 el_cleaner,utp,Description,0,불운한 생명체의 시체
 el_corpsetoloot,utp,LocName,0,시체 쌓임
 el_corpsetoloot,utp,Description,0,불운한 생명체의 시체
-firebowl1,utp,LocName,0,방화구에 부동화 용기
+firebowl1,utp,LocName,0,"화로, 고인 물 대야 포함"
 firebowl2,utp,LocName,0,화강구 - 돌로 잘린 뚜
 firebowl3,utp,LocName,0,방화볼 - 세로 네모난 절단
 firebowl4,utp,LocName,0,화강 컵 - 금속 타원형

@@ -82,7 +82,7 @@ alkranal_1,dlg,ReplyList/14/Text,0,내가 실패하면 잠긴 문과 상자를 �
 alkranal_1,dlg,ReplyList/15/Text,0,"좋아, 이제 가자"
 alkranal_1,dlg,ReplyList/16/Text,0,"더 이상 스텔스를 사용하지 말고, 직진해 가세요."
 alkranal_1,dlg,ReplyList/17/Text,0,"좋아, 이제 가자"
-alkranal_1,dlg,ReplyList/18/Text,0,우리에게 더 많은 숨김술이 필요해. 움직임을 숨기려고 노력해.
+alkranal_1,dlg,ReplyList/18/Text,0,우리에게는 은신 능력이 더 필요해. 움직임을 숨기도록 해 봐.
 alkranal_1,dlg,ReplyList/19/Text,0,"좋아, 이제 가자"
 alkranal_1,dlg,ReplyList/20/Text,0,"공격하고, 근접 무기로 공격하라."
 alkranal_1,dlg,ReplyList/21/Text,0,"좋아, 이제 가자"
@@ -588,7 +588,7 @@ nelad_1,dlg,EntryList/60/Text,0,"""나? 나는 아무 말도 하지 않겠다. �
 nelad_1,dlg,EntryList/61/Text,0,"""우리 모두 여기 있는 것 같아요""."
 nelad_1,dlg,EntryList/62/Text,0,"""명령관님, 암시로 대화하는 것이 과하게 말하는 것보다 낫습니다. 당신에게 무엇을 도와드릴까요?"""
 nelad_1,dlg,EntryList/63/Text,0,"""나는 확실히 할 것입니다, 지휘관. 당신은 내 무자비한... 진실을 의지할 수 있습니다."""
-nelad_1,dlg,EntryList/64/Text,0,"""오, 나 자신을 잊어버렸다. 제발 용서해 주세요, 지휘관 <FullName>. 나는 다른 사람들과 대화하는 것에 익숙하지 않아. 어떻게... 당신을 섬길 수 있을까?"""
+nelad_1,dlg,EntryList/64/Text,0,"""아, 제가 예의를 잊었군요. 부디 용서해 주십시오, 지휘관 <FullName>. 다른 사람과 대화하는 데 익숙하지 않아서요. 무엇을 도와드릴까요?"""
 nelad_1,dlg,EntryList/65/Text,0,"""당신이 몇 명의 남자를 가지고 계신가요?"""
 nelad_1,dlg,EntryList/66/Text,0,"""우리는 어떤 임무를 받게 될까?"""
 nelad_1,dlg,EntryList/67/Text,0,"""우리 혼자 가는 거야?"""
@@ -615,7 +615,7 @@ nelad_1,dlg,ReplyList/14/Text,0,내가 실패하면 잠긴 문과 상자를 열�
 nelad_1,dlg,ReplyList/15/Text,0,"좋아, 이제 가자"
 nelad_1,dlg,ReplyList/16/Text,0,"더 이상 스텔스를 사용하지 말고, 직진해 가세요."
 nelad_1,dlg,ReplyList/17/Text,0,"좋아, 이제 가자"
-nelad_1,dlg,ReplyList/18/Text,0,우리에게 더 많은 숨김술이 필요해. 움직임을 숨기려고 노력해.
+nelad_1,dlg,ReplyList/18/Text,0,우리에게는 은신 능력이 더 필요해. 움직임을 숨기도록 해 봐.
 nelad_1,dlg,ReplyList/19/Text,0,"좋아, 이제 가자"
 nelad_1,dlg,ReplyList/20/Text,0,"공격하고, 근접 무기로 공격하라."
 nelad_1,dlg,ReplyList/21/Text,0,"좋아, 이제 가자"
@@ -2803,7 +2803,7 @@ outpostfirstfloo,git,Placeable List/5/ItemList/0/DescIdentified,0,"세일다린�
 outpostfirstfloo,git,Placeable List/5/ItemList/1/LocalizedName,0,일리티리의 형벌과 재판
 outpostfirstfloo,git,Placeable List/5/ItemList/1/Description,0,"이 책은 스비르프네블린의 언어로 작성되어 있습니다. 글은 매우 복잡하고 장식적이며, 현재는 단 한 단어도 해독할 수 없습니다."
 outpostfirstfloo,git,Placeable List/5/ItemList/1/DescIdentified,0,저는 상위 동굴의 거미 생물들에 대한 혐오스러운 진실을 발견했습니다. 일리티리의 연합군에 대한 마지막 공격이 실패하자 롤스는 분노했습니다. 그녀는 남은 세력을 동굴에서 재집합시키고 처벌로 거미와 엘프의 한 부분씩이 섞인 끔찍한 생물로 변하게 만들었습니다.
-outpostfirstfloo,git,Placeable List/11/LocName,0,서랍장
+outpostfirstfloo,git,Placeable List/11/LocName,0,책장
 outpostfirstfloo,git,Placeable List/11/Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 outpostfirstfloo,git,Placeable List/13/LocName,0,책장
 outpostfirstfloo,git,Placeable List/13/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
@@ -3629,9 +3629,9 @@ outpostsecondflo,git,Placeable List/296/LocName,0,보관장
 outpostsecondflo,git,Placeable List/296/Description,0,나무 의 풍부 한 곡물 은 이 겸손 한 옷장 에 예상치 못한 활력을 더 합니다. 그 나무 를 제작 한 사람 은 분명 히 큰 사랑 으로 그렇게 하였습니다.
 outpostsecondflo,git,Placeable List/297/LocName,0,보관장
 outpostsecondflo,git,Placeable List/297/Description,0,나무 의 풍부 한 곡물 은 이 겸손 한 옷장 에 예상치 못한 활력을 더 합니다. 그 나무 를 제작 한 사람 은 분명 히 큰 사랑 으로 그렇게 하였습니다.
-outpostsecondflo,git,Placeable List/404/LocName,0,서랍장
+outpostsecondflo,git,Placeable List/404/LocName,0,책장
 outpostsecondflo,git,Placeable List/404/Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
-outpostsecondflo,git,Placeable List/405/LocName,0,서랍장
+outpostsecondflo,git,Placeable List/405/LocName,0,책장
 outpostsecondflo,git,Placeable List/405/Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 outpostsecondflo,git,Placeable List/408/LocName,0,쌓인 책
 outpostsecondflo,git,Placeable List/408/Description,0,책들은 아무 순서도 없이 서로 겹쳐 쌓여 있다. 마치 누군가가 책을 제자리에 꽂다가 방해받은 것처럼.
@@ -3653,7 +3653,7 @@ outpostsecondflo,git,Placeable List/434/LocName,0,의자
 outpostsecondflo,git,Placeable List/434/Description,0,"단순한 의자지만, 그 선의 우아함은 제작의 품질을 말해줍니다."
 outpostsecondflo,git,Placeable List/438/LocName,0,탁자
 outpostsecondflo,git,Placeable List/438/Description,0,"농가 테이블은 칼자국과 희미한 석탄 문양, 그리고 흘린 음식물의 얼룩으로 가득 차 있다."
-outpostsecondflo,git,Placeable List/441/LocName,0,서랍장
+outpostsecondflo,git,Placeable List/441/LocName,0,책장
 outpostsecondflo,git,Placeable List/441/Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 outpostsecondflo,git,Placeable List/449/LocName,0,숨겨진 벽 문 트리거
 outpostsecondflo,git,Placeable List/449/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
@@ -4509,7 +4509,7 @@ wblfl003,uti,LocalizedName,0,뱀들의 부러짐
 wblfl003,uti,DescIdentified,0,"이 무기는 드로우만 사용하는 독특한 무기 중 하나입니다. 명중하면 대상에게 타는 듯한 산성 물질을 주입해 큰 고통을 주지만 심한 상처를 남기지는 않습니다.
 
 다른 생물에게 고통과 괴로움을 주는 데서 즐거움을 느끼는 드로우 여성들이 특히 애용하는 무기입니다."
-wblmfh009,uti,LocalizedName,0,수탈자 +1
+wblmfh009,uti,LocalizedName,0,약탈자 +1
 wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblmhw003,uti,LocalizedName,0,노움 전쟁망치
 wblmhw003,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."

@@ -127,7 +127,7 @@ alkranal_1,dlg,ReplyList/57/Text,0,내가 실패하면 잠긴 문과 상자를 �
 alkranal_1,dlg,ReplyList/58/Text,0,"좋아, 이제 가자"
 alkranal_1,dlg,ReplyList/59/Text,0,"더 이상 스텔스를 사용하지 말고, 직진해 가세요."
 alkranal_1,dlg,ReplyList/60/Text,0,"좋아, 이제 가자"
-alkranal_1,dlg,ReplyList/61/Text,0,우리에게 더 많은 숨김술이 필요해. 움직임을 숨기려고 노력해.
+alkranal_1,dlg,ReplyList/61/Text,0,우리에게는 은신 능력이 더 필요해. 움직임을 숨기도록 해 봐.
 alkranal_1,dlg,ReplyList/62/Text,0,"좋아, 이제 가자"
 alkranal_1,dlg,ReplyList/63/Text,0,"공격하고, 근접 무기로 공격하라."
 alkranal_1,dlg,ReplyList/64/Text,0,"좋아, 이제 가자"
@@ -346,7 +346,7 @@ hanxam_1,dlg,EntryList/13/Text,0,"""내가 이미 남쪽으로 버섯들 사이�
 hanxam_1,dlg,EntryList/14/Text,0,"""대형. 내게 주면 당신이 원하는 정보를 드릴게요."""
 hanxam_1,dlg,EntryList/15/Text,0,"""당신을 배신할 것 같습니까?"""
 hanxam_1,dlg,EntryList/16/Text,0,"<StartAction>[웃음]</Start> ""파라노이드 드워, 상관없어. 난 당신을 쉽게 죽일 수 있어. 그래서 들어보게."""
-hanxam_1,dlg,EntryList/17/Text,0,"""수면으로 올라갈 길은 하나뿐입니다. 마인드 플레이어 은폐소장 근처 남쪽으로 가서 유해 가스가 가득한 화산 터널을 찾아보세요. 이 길로 올라갈 수 있습니다."""
+hanxam_1,dlg,EntryList/17/Text,0,"""지상으로 올라가는 길은 하나뿐입니다. 마인드 플레이어 은신처 남쪽으로 가서 유독 가스로 가득 찬 화산 터널을 찾으세요. 그곳이 올라가는 길입니다."""
 hanxam_1,dlg,EntryList/18/Text,0,"""음, 이것은 마법의 기원입니다. 제 항마법 눈으로 독 효과를 부정하는 것은 꽤 쉬웠습니다. 아마 당신은 이를 해소해 보는 것이 좋겠습니다. 이 방법이 효과가 없다면 길을 정화하기 위해 무엇인가 사용하십시오. 이제 제게 마인드플레이어의 뇌를 주십시오."""
 hanxam_1,dlg,EntryList/19/Text,0,"""그런데 당신이 원하는 대로. 당신을 죽이는 건 즐거워."""
 hanxam_1,dlg,EntryList/20/Text,0,"""좋아. 그 외에 다른 것이 있나?"""
@@ -1024,7 +1024,7 @@ tarnes_2,dlg,ReplyList/0/Text,0,타르네스! 어떻게 여기까지 왔나?
 tarnes_2,dlg,ReplyList/1/Text,0,"""모든 다프로드가 악한 것은 아니다, 타네스. 나는 널 해방시켰다. 기억나?"""
 tarnes_2,dlg,ReplyList/3/Text,0,"""최후의 문을 열어, 마법사님! 지나가게 해주세요!"""
 tarnes_2,dlg,ReplyList/5/Text,0,"타르네스, 우리의 목적은 탐사가 아니라 전쟁이 아닙니다. 우리는 표면 주민들에게 해를 끼치지 않을 것입니다."
-thriandir_4,dlg,EntryList/1/Text,0,"<StartAction>[너에게 분노한 표정을 준다]</Start> 그러니 나 혼자 있어, 바보."
+thriandir_4,dlg,EntryList/1/Text,0,"<StartAction>[화난 눈빛을 보낸다]</Start> 그러니 날 내버려 둬, 바보야."
 thriandir_4,dlg,EntryList/2/Text,0,<StartAction>[화가 날]</Start> 비어있는 손으로 왔다. 더 많은 결정석을 찾아와. 최소 세 개는 필요해!
 thriandir_4,dlg,EntryList/3/Text,0,"당신은 몇 개의 결정체만 가져왔나 봅니다. 더 많은 것을 필요로 합니다. 여기, 저는 그들을 바꾸기 위해 한 개의 독 구체를 제안합니다."
 thriandir_4,dlg,EntryList/4/Text,0,여기 있어. 아마 이 지역에 더 많은 결정석이 있을지도 몰라. 찾으면 다시 와라.
@@ -2939,7 +2939,7 @@ themadmage,git,Door List/0/LocName,0,태양문
 themadmage,git,SoundList/0/LocName,0,벼랑 위 폭포 (중)
 themadmage,git,StoreList/0/LocName,0,타르네스 가게
 themadmage,git,StoreList/0/StoreList/1/ItemList/0/LocalizedName,0,강타의 곤봉
-themadmage,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,"이 클럽은 강력한 힘을 가지고 있으며, 고렘을 때면 건물이 완전히 즉시 파괴될 가능성이 높습니다."
+themadmage,git,StoreList/0/StoreList/1/ItemList/0/DescIdentified,0,"이 곤봉들은 강력한 힘을 지니고 있어 골렘을 내리치면 그 구조체가 완전히, 즉시 파괴될 가능성이 큽니다."
 themadmage,git,TriggerList/0/LocalizedName,0,매게토캠프2
 themadmage,git,WaypointList/0/MapNote,0,차단된 통로
 themadmage,git,WaypointList/1/LocalizedName,0,지도 설명
@@ -3456,8 +3456,8 @@ wblfl003,uti,DescIdentified,0,"이 무기는 드로우만 사용하는 독특한
 
 다른 생물에게 고통과 괴로움을 주는 데서 즐거움을 느끼는 드로우 여성들이 특히 애용하는 무기입니다."
 wblmcl013,uti,LocalizedName,0,강타의 곤봉
-wblmcl013,uti,DescIdentified,0,"이 클럽은 강력한 힘을 가지고 있으며, 고렘을 때면 건물이 완전히 즉시 파괴될 가능성이 높습니다."
-wblmfh009,uti,LocalizedName,0,수탈자 +1
+wblmcl013,uti,DescIdentified,0,"이 곤봉들은 강력한 힘을 지니고 있어 골렘을 내리치면 그 구조체가 완전히, 즉시 파괴될 가능성이 큽니다."
+wblmfh009,uti,LocalizedName,0,약탈자 +1
 wblmfh009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblmhw003,uti,LocalizedName,0,노움 전쟁망치
 wblmhw003,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
