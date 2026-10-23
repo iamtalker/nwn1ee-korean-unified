@@ -1897,7 +1897,7 @@ eb_hen_sanraal,dlg,EntryList/341/Text,0,"""몇 가지는 여전히 익숙하지�
 eb_hen_sanraal,dlg,EntryList/342/Text,0,"</Start>San-Raal은 너를 빳빳이 웃고 눈을 찌르며 말한다. <StartAction> ""아니, 내가 당신을 살려주었지. 그 이후로도, 나의 마법은 우리 모두의 생명을 한 번 더 구해줬으니까. 그래서 점수를 세면, 당신은 나에게 빚을 지고 있을 거야."""
 eb_hen_sanraal,dlg,EntryList/343/Text,0,"</Start>San-Raal가 당신을 비웃고 <StartAction> ""당신이 들은 이야기들은 거의 표면을 긁지 않는다. 아, 네, 어떻게 표현했는가... 'Drow 문화'는 정말 비슷하다. 우리는 이런 말을 합니다: Nindyn vel'uss kyorl nind ratha thalra elghinn dal lil alust - '앞에서 등을 지켜보는 사람들은 죽음을 맞이한다.'"
 eb_hen_sanraal,dlg,EntryList/344/Text,0,"샌-랄은 당신을 경멸하는 눈빛으로 바라보며 말한다. ""왜 그러지 않나? 난생 처음으로 살았던 곳은 혼란 속에서 생존을 위해 끊임없는 투쟁을 벌였던 곳이야. 가장 적합한 자만이 견뎌냈어."""
-eb_hen_sanraal,dlg,EntryList/345/Text,0,"젊은 형제는 당신을 죽여 자신의 자리를 차지할 수 있으며, 나이가 많은 형제는 먼저 당신을 죽일 수도 있습니다. 전문적인 경쟁자들이라 해도 다르지 않습니다. 우리 사회는 약자를 배제하고 강자를 무기로 키워내는 법을 알고 있습니다."
+eb_hen_sanraal,dlg,EntryList/345/Text,0,동생은 네 자리를 차지하려고 널 죽일 거야. 형이나 누나는 네가 똑같이 할까 봐 먼저 널 죽일지도 몰라. 직업상의 경쟁자? 다를 바 없지. 약자를 솎아 내고 강자를 무기로 벼려 내는 것이 우리 사회의 방식이야.
 eb_hen_sanraal,dlg,EntryList/346/Text,0,"여러분 중 몇몇은 어떻게 견디고 살아남을 수 있는지 놀랍습니다. 심지어 투쟁을 극복할 수 있을 정도로요. 생명을 살아가는 동안 부드럽게 보호받아 거친 진실로부터 멀리 떨어져 지낸 몇몇은, 발가락 밑에 양배추처럼 짓밟혀 버려지곤 합니다. 저희가 수년 전에 이곳에서 힘을 얻을 때 토자크 사람들은 그러한 운명을 겪었죠."
 eb_hen_sanraal,dlg,EntryList/347/Text,0,"""즐거움은 내 과거 생활과는 거의 관련이 없었어. 나는 이 곳으로 왔다. 나는 태어난 곳에서 주장할 수 있는 어떤 것보다 더 높은 지위를 찾고 있었어."""
 eb_hen_sanraal,dlg,EntryList/348/Text,0,"멘즈베란잔은 당신의 표면 도시들을 수치스럽게 만든다. 아름다움, 힘, 우아함... 그런 것들을 당신은 결코 이해하지 못할 것이다."
@@ -15202,12 +15202,14 @@ hunger001,uti,LocalizedName,0,굶주림
 hunger002,uti,LocalizedName,0,굶주림
 hunger003,uti,LocalizedName,0,굶주림
 insalnote,uti,LocalizedName,0,인살 노트
-insalnote,uti,DescIdentified,0,"용감한 모험가들, 너무 빨리 떠나서 미안합니다만, 나에게 별불이 필요해! 몇 가지 물건을 가져왔지만, 놓치지 않을 거예요.
+insalnote,uti,DescIdentified,0,"용감한 모험가들께,
 
-행운을 빕니다.
+일찍 떠나게 되어 미안하지만, 나는 별불꽃이 꼭 필요했소! 물건 몇 개를 가져갔소. 없어도 아쉽지 않을 거요.
+
+행운을 빌며
 인살
 
-부록: 이 곳은 비밀로 가득 차 있습니다. 오래된 셀 근처 북동쪽 벽을 살펴보세요."
+추신: 이곳은 비밀로 가득하오. 내 옛 감방 근처 북동쪽 벽을 살펴보시오."
 insalsbackpack,uti,LocalizedName,0,인살의 가방
 insalsbackpack,uti,Description,0,인살의 가방
 insalsbackpack,uti,DescIdentified,0,인살의 가방

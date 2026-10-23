@@ -1644,7 +1644,7 @@ _be_rnd_m2,dlg,EntryList/8/Text,0,"""그건 주장하든 말든."""
 _be_rnd_m2,dlg,EntryList/9/Text,0,"""여긴 너무 어둡지 않나? 다이너를 하나도 셀 수 없잖아! 100 다이너 아니면 거래는 안 돼!"""
 _be_rnd_m2,dlg,EntryList/10/Text,0,"""어느 정도는 먹게 해주겠지. 이 디나르들이 다 끝나면 다시 먹게 해야 해, 그래서 돌아올 때는 비참하게 버려두지 마."""
 _be_rnd_m2,dlg,EntryList/11/Text,0,"""내가 그들을 죽인 후에야, 아이들이 살아 남으면 소리칠 수 있습니다. 신선하지는 않지만 여전히 매우 좋습니다""."
-_be_rnd_m2,dlg,EntryList/12/Text,0,"""예, 예. 대부분의 시간에는 그러죠. 가야 할 때만 나가요. 여기 누군가를 보면 따라가고 싶은 사람, 죽이고 싶은 사람, 먹고 싶은 사람을 발견하곤 합니다."""
+_be_rnd_m2,dlg,EntryList/12/Text,0,"""그래, 그래. 대부분은 그렇지. 꼭 나가야 할 때만 나가. 여기서 마음에 드는 사람을 볼 때. 따라가고 싶은 사람. 죽이고 싶은 사람. 먹고 싶은 사람."""
 _be_rnd_m2,dlg,EntryList/13/Text,0,"""어느 사람들은 나이트 헤그라는 이름을 외치지만 당신은 또한 나를 월비스라고 부를 수 있습니다. 내가 당신을 먹으면 원하는 이름을 외치실 수 있습니다""."
 _be_rnd_m2,dlg,EntryList/14/Text,0,<CUSTOM1004> 그는 피부비린 눈으로 당신을 단순히 쳐다보고 있습니다.
 _be_rnd_m2,dlg,ReplyList/0/Text,0,계속해.
@@ -21891,7 +21891,7 @@ area031,git,WaypointList/6/LocalizedName,0,SPAWN_WERERAT3_SEWER_LVL1
 area031,git,WaypointList/7/LocalizedName,0,SEWER_ARRIVE_RE_LVL1
 area031,git,Placeable List/13/LocName,0,다락방 문
 area032,git,Creature List/0/FirstName,0,인간 남성
-area032,git,Creature List/0/Description,0,"이 구석에 앉아 있는 사람은 60대가 된 노인이며, 길고 기름진 흰색과 갈색의 머리카락이 얼굴과 어깨를 덮고 있다. 손톱은 시간이 지나면서 노랗게 변색되어 있다. 그는 한숨을 쉬어, 드러난 작은 치아를 보여주고 갈색 눈은 당신을 쳐다보고 있다."
+area032,git,Creature List/0/Description,0,이 우리 안에 앉아 있는 남자는 예순에 가까워 보인다. 길고 기름진 흰색과 회색 머리카락이 얼굴과 어깨 위로 늘어져 있다. 손톱은 오랜 세월에 누렇게 물들었다. 그가 하품을 하며 얼마 남지 않은 작은 이빨을 드러낸다. 갈색 눈이 당신을 지켜본다.
 area032,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,스트리트 어치니 의복
 area032,git,Creature List/0/Equip_ItemList/0/Description,0,"이 노른 옷은 한때 거리의 주민이 입었던 옷이었고, 그 냄새는 썩어버린 냄새가 나는 것 같다."
 area032,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"이 노른 옷은 한때 거리의 주민이 입었던 옷이었고, 그 냄새는 썩어버린 냄새가 나는 것 같다."
@@ -27716,7 +27716,9 @@ dockward,git,StoreList/0/StoreList/4/ItemList/6/Description,0,"외부 포장에�
 dockward,git,StoreList/0/StoreList/4/ItemList/6/DescIdentified,0,거대 거미의 실로 만든 이 무기는 던져진 순간 폭발하여 생물에게 거미줄에 얽히게 합니다. 이 물건은 로세틸 거리에서 구입되었습니다.
 dockward,git,StoreList/0/StoreList/4/ItemList/7/LocalizedName,0,즐거운 재미
 dockward,git,StoreList/0/StoreList/4/ItemList/7/Description,0,이 물체의 냄새는 참 웃기네요.
-dockward,git,StoreList/0/StoreList/4/ItemList/7/DescIdentified,0,미르베란의 웃음 덩어리에서 나는 기름과 질소산화탄소를 섞은 건강한 분량은 적에게 던지면 웃음으로 터져버립니다.
+dockward,git,StoreList/0/StoreList/4/ItemList/7/DescIdentified,0,"머베란의 웃음 구덩이에서 나는 기름에 아산화질소를 알맞게 섞은 것. 상대에게 던지면 웃음이 터져 나와 쓰러진다.
+
+이 물건은 로제틸 거리의 노점에서 구입한 것이다."
 dockward,git,TriggerList/0/LocalizedName,0,배의 옆에 끈을 고정시킵니다.
 dockward,git,TriggerList/1/LocalizedName,0,피를 달린 배의 선상은 비어 있는 것 같습니다.
 dockward,git,TriggerList/2/LocalizedName,0,AUTO_SAVE
@@ -31854,7 +31856,7 @@ festerpot,utc,Description,0,"이 남자의 눈에는 멀리 보이는 시선이 
 fingers_merc,utc,FirstName,0,인간 남성
 fingers_merc,utc,Description,0,"이 인간 남성의 얼굴에는 눈부신 검은색, 잘 다듬은 수염이 있으며, 그의 파란 눈은 당신이 그의 가게에서 물건을 둘러보는 것을 지켜보고 있습니다."
 firiem,utc,FirstName,0,인간 남성
-firiem,utc,Description,0,"이 구석에 앉아 있는 사람은 60대가 된 노인이며, 길고 기름진 흰색과 갈색의 머리카락이 얼굴과 어깨를 덮고 있다. 손톱은 시간이 지나면서 노랗게 변색되어 있다. 그는 한숨을 쉬어, 드러난 작은 치아를 보여주고 갈색 눈은 당신을 쳐다보고 있다."
+firiem,utc,Description,0,이 우리 안에 앉아 있는 남자는 예순에 가까워 보인다. 길고 기름진 흰색과 회색 머리카락이 얼굴과 어깨 위로 늘어져 있다. 손톱은 오랜 세월에 누렇게 물들었다. 그가 하품을 하며 얼마 남지 않은 작은 이빨을 드러낸다. 갈색 눈이 당신을 지켜본다.
 fjalar,utc,FirstName,0,인간 남성
 fjalar,utc,Description,0,피야러는 가슴과 손목을 따라 흐르는 주요 톱을 따라 검은색과 보라색의 억양을 가진 밝은 빨간색 천옷을 입고 있습니다. 룸 애비뉴의 거리에서 사업을 수행하는 동안 뚜 은 요소를 멀리합니다.
 flaux,utc,FirstName,0,인간 남성
@@ -33175,7 +33177,9 @@ darwiensclothing,uti,Description,0,이 특별한 의복은 다르비안이 마�
 darwiensclothing,uti,DescIdentified,0,이 특별한 의복은 다르비안이 마지막으로 입었던 옷과 일치합니다. 적색 분홍색 쇼트와 진흙색의 가죽 신발이 동반되는 밝은 보라색 톱입니다.
 delightfulamusem,uti,LocalizedName,0,즐거운 재미
 delightfulamusem,uti,Description,0,이 물체의 냄새는 참 웃기네요.
-delightfulamusem,uti,DescIdentified,0,미르베란의 웃음 덩어리에서 나는 기름과 질소산화탄소를 섞은 건강한 분량은 적에게 던지면 웃음으로 터져버립니다.
+delightfulamusem,uti,DescIdentified,0,"머베란의 웃음 구덩이에서 나는 기름에 아산화질소를 알맞게 섞은 것. 상대에게 던지면 웃음이 터져 나와 쓰러진다.
+
+이 물건은 로제틸 거리의 노점에서 구입한 것이다."
 diamonddust,uti,LocalizedName,0,다이아몬드 입자
 diamonddust,uti,DescIdentified,0,이 값싼 황색 다이아몬드 먼지는 모든 복원 마법에 필요한 것입니다.
 diamonddust001,uti,LocalizedName,0,다이아몬드 입자
