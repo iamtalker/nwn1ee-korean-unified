@@ -689,7 +689,7 @@ bridgecom,dlg,ReplyList/6/Text,0,혼자서? tú이 밀릴 거야!
 bridgecom,dlg,ReplyList/7/Text,0,"네가 원하는 대로, 네 이름을 항상 기억하도록 하겠다, 테리누스. 이는 정말로 자비로운 행동이다."
 bridgecom,dlg,ReplyList/8/Text,0,"걱정 마, 우리는 가는 거야. 마법사야, 그놈들에게 맹렬히 싸우도록."
 castle_knight,dlg,EntryList/4/Text,0,네? 도와드릴까요?
-castle_knight,dlg,EntryList/6/Text,0,"아니요, 전혀 없습니다. 공작이나 공주로부터 허가만 받으시면 됩니다. 이는 신중한 조치일 뿐입니다."
+castle_knight,dlg,EntryList/6/Text,0,아니요. 들어오거나 나갈 때 공작이나 공주님의 허가만 받으면 됩니다. 신중을 기하기 위한 조치일 뿐입니다.
 castle_knight,dlg,EntryList/8/Text,0,"물론이죠, 문을 열어드리겠습니다."
 castle_knight,dlg,ReplyList/0/Text,0,"아.. 아니요, 감사하지 않습니다. 귀찮게 냅다 죄송합니다."
 castle_knight,dlg,ReplyList/1/Text,0,난 성을 떠나고 싶어.
@@ -1495,7 +1495,7 @@ drivfer,dlg,ReplyList/7/Text,0,"아, 그래요. 아직 갈 준비가 안 돼."
 drivfer,dlg,ReplyList/8/Text,0,좋은 사람이다.
 elfmage,dlg,EntryList/0/Text,0,안녕하세요
 elfmage,dlg,EntryList/1/Text,0,정말 그렇습니다. 마법의 힘을 구입하고 싶으세요? 아니면 다른 것을 찾고 계신가요?
-elfmage,dlg,EntryList/2/Text,0,"그럼 가, 나는 당신을 막지 않을 거야. 놀랍지 않지만, 난 비난당하는 것보다 더 중요한 일들을 해야 하기 때문에."
+elfmage,dlg,EntryList/2/Text,0,"그럼 가. 막지는 않겠다. 놀랄지도 모르지만, 모욕이나 듣고 있을 만큼 한가한 건 아니다."
 elfmage,dlg,EntryList/3/Text,0,"어쩌면, 비용도 꽤 높을 것 같아요."
 elfmage,dlg,EntryList/4/Text,0,"괜찮아, 잘 가세요."
 elfmage,dlg,EntryList/5/Text,0,"그건 저의 마법진에 따라 달라집니다. 제가 이 일에 매우 능숙하고, 제 작품의 품질을 반영하는 가격입니다."
@@ -2792,7 +2792,7 @@ hench_nellise,dlg,ReplyList/6/Text,0,적어도 잠시 머물고 테리누스가 
 hench_nellise,dlg,ReplyList/7/Text,0,저 역시 피가 흘렸어요
 hench_nellise,dlg,ReplyList/8/Text,0,"이제는 충분해. 저도 좀 의심스러운데, 결과를 봐야겠어."
 hench_nellise,dlg,ReplyList/9/Text,0,"만약 그가 이 '대단한 위협'을 만들어낸다면, 먼저 줄을 서야 한다. 그러니 나가자, 이 일은 빨리 처리해야 한다."
-hench_nellise,dlg,ReplyList/10/Text,0,너 자신에게 너무 가혹하지 마. 의심의 여지가 있으면 적어도 잠시 그 생각을 내려놓는 것이 좋다.
+hench_nellise,dlg,ReplyList/10/Text,0,자신을 너무 몰아붙이지 마. 스스로에게 유리하게 생각해 봐. 적어도 그 생각은 잠시 접어 두도록 해.
 hench_nellise,dlg,ReplyList/12/Text,0,아직도 나와 함께 계신지 확인해.
 hench_nellise,dlg,ReplyList/13/Text,0,이 지역에서 몇 가지 물건을 모아올 수 있을까요?
 hench_nellise,dlg,ReplyList/14/Text,0,그룹의 치유 마법을 날려줘.
@@ -3343,7 +3343,7 @@ insidiae2,dlg,EntryList/23/Text,0,<StartAction>[테리누스 껴안고]</Start> 
 insidiae2,dlg,EntryList/24/Text,0,"그런 장치의 힘은 유혹적이지만 실제로는 별 쓸모가 없다고 인정하겠소. 게다가 이곳은 지겹고, 죽지 않는 혼돈의 힘에 맞서 이곳을 영원히 지켜야 하오. 아니, 난 지옥에 있는 내 영지의 안전에 만족하겠소."
 insidiae2,dlg,EntryList/25/Text,0,무기를 준비하십시오. 적은 언제든지 공격할 것입니다.
 insidiae2,dlg,EntryList/26/Text,0,"우리가 승리했다! 아바돈은 마침내 자신의 엉덩이가 접시에 내려놓이는 기분을 알게 되었다. 포털은 내 통제 아래에 있으며, 감사의 표시로, 당신이 원하는 곳으로 언제든지 보내드릴 수 있다. 적들을 파괴하고 싶지 않나?"
-insidiae2,dlg,EntryList/27/Text,0,"저는 그것을 어떻게 작동하는지 압니다, 두려워하지 마세요. 여러분이 저만큼 오랫동안 살아온 후, 몇 가지를 배웁니다. 그러한 장치들은 기본적인 양자 입자 상호작용 원리를 따르며, 양자 문자열 이론에 대한 탄탄한 이해는 어떠한 매립 장치의 기능을 이해하는 데 도움이 됩니다."
+insidiae2,dlg,EntryList/27/Text,0,작동법은 알고 있으니 걱정하지 마세요. 저만큼 오래 살아 보면 몇 가지 알게 되는 법이죠. 그런 장치는 아원자 입자 상호작용의 기본 원리를 따릅니다. 양자 끈 이론의 탄탄한 기초가 있으면 이런 얽힘 장치의 작동 원리를 이해할 수 있습니다.
 insidiae2,dlg,EntryList/28/Text,0,<StartCheck>[실패]</Start> 그리고 분명히 내가 무슨 말을 하는지 모르는 것 같아. 나는 그것을 '과학'이라고 부르지. '돈' 이후 가장 악한 발명품이야. 나는 그것을 우주 전역의 모든 인간의 영혼을 억압하기 위해 사용하려고 해. 그런데 이 말은 무리하게 전해지지 않도록 해. 이건 놀라움으로 남겨두고 싶거든.
 insidiae2,dlg,EntryList/30/Text,0,"하지만 이런 일들에 대해선 그만두자. 네가다움도 쉬어야 한다. 다음 전투는 이번보다 훨씬 더 어려울 거라네. 나는 가능한 한 네 동료들을 치료했으니, 그 대가로 마지막으로 네 서비스에 대한 보상이었지. 네가 나의 옛 적들을 멸망시켰으니, 나는 감사하지 않지 않아."
 insidiae2,dlg,EntryList/31/Text,0,"네, 그것은 분명히 당신의 이해력으로는 넘어가지 않는 것입니다. 하지만 이런 것들에 대해 더 이상 이야기는 하지 않겠습니다. 당신들은 쉬어야 합니다. 다음 전투는 이번보다 훨씬 더 어려울 것입니다. 나는 가능한 한 최선을 다해 당신 동료들을 치료했습니다. 당신들이 저의 오랜 적들을 멸망시키는 데 도움을 주었기 때문입니다. 저는 감사하지 않을 수 없습니다."
@@ -3998,7 +3998,7 @@ matheson,dlg,ReplyList/10/Text,0,<StartCheck>[경박]</Start>###################
 matheson,dlg,ReplyList/11/Text,0,물론입니다. 당신께 소리를 높였다는 점 죄송합니다. 이제 당신에게 방해가 되지 않도록 물러날게요.
 matheson,dlg,ReplyList/12/Text,0,하지만... 하지만..
 matheson,dlg,ReplyList/13/Text,0,"그래, 경님, 작별히요"
-matheson,dlg,ReplyList/14/Text,0,<StartCheck>[설득]</Start> 전 부는 독성이 있으며 극히 치명적인 투소니아 거대 미니어터미티 죽음의 거미가 침투한 것 같습니다.
+matheson,dlg,ReplyList/14/Text,0,<StartCheck>[설득]</Start> 유감스럽게도 화물 전체에 독성이 있고 극도로 치명적인 투소니아 거대 미니어처 죽음의 흰개미가 들끓고 있습니다.
 matheson,dlg,ReplyList/16/Text,0,<StartCheck>[ 설득]</Start># 저는 모든 배급이 치명적인 아타시아 습지 침수기로 침투되었기 때문일 것 같습니다.
 matheson,dlg,ReplyList/17/Text,0,<StartCheck>[경박]</Start>#####################################################################################################################################################################################################################################################
 matheson,dlg,ReplyList/18/Text,0,물론입니다. 당신께 소리를 높였다는 점 죄송합니다. 이제 당신에게 방해가 되지 않도록 물러날게요.
@@ -4919,7 +4919,7 @@ south_guard,dlg,ReplyList/3/Text,0,경고를 해주셔서 감사합니다.
 south_guard,dlg,ReplyList/5/Text,0,난 도시를 떠나야 한다.
 south_guard,dlg,ReplyList/6/Text,0,하지만 난 마을을 떠나야 해!
 south_guard,dlg,ReplyList/7/Text,0,"좋아, 고마워요"
-southguard,dlg,EntryList/1/Text,0,"이럴 때마다 항상 이런 일이 벌어진다. 산맥의 눈이 녹으면서 모든 것이 이 지역으로 흐르게 된다. 한 주나 두 주 후면 되돌아갈 것이다, 하지만 이래로 추운 겨울 탓에 좀 더 오래 걸릴 수도 있다."
+southguard,dlg,EntryList/1/Text,0,"이맘때면 늘 이런 일이 일어난다. 산의 눈이 녹아 이 지역 일대에 물이 고인다. 한두 주면 물이 빠지겠지만, 평년보다 추운 겨울이라 더 오래 걸릴 수도 있다."
 southguard,dlg,ReplyList/0/Text,0,"아. 이상하군, 겨울 내내 이런 일은 없었는데."
 southguard,dlg,ReplyList/1/Text,0,고마워요 다른 방향으로 갈게요
 sparky,dlg,EntryList/0/Text,0,"안녕하세요, 제 이름은 시몬입니다. 하지만 다들 스파키라고 부르죠."
@@ -5717,7 +5717,7 @@ veritus,dlg,EntryList/26/Text,0,승천하라. 굳건히 서서 아엘라덴의 �
 veritus,dlg,EntryList/27/Text,0,이제 그녀는 정말로 제 딸이 되었습니다.
 veritus,dlg,EntryList/28/Text,0,"제 딸로서 그녀는 이미 깨달음의 길을 걷고 있었습니다. 저는 단지 그 목표를 조금 더 빠르게 달성하게끔 도와주었을 뿐입니다. 제외하고는 다른 누군가에게 이런 짓을 할 수 없었습니다. 넘실레, 네 마음은 어떠한가?"
 veritus,dlg,EntryList/29/Text,0,"<StartAction>[네일리스는 그녀의 얼굴에 놀라움과 경외의 표정을 가지고 있습니다.]</Start> 나는 지금만큼의 평화를 느끼지 못했습니다. 내 영혼을 괴롭힌 모든 혼란과 도덕적 갈등이 해결되었습니다. 마침내, 나는 이제 왕과 나라를 배신하는 것이 옳다는 것을 깨닫습니다. 결국, 우리는 모두 구해 줄 것입니다.<StartAction>[강철의 결단적인 표정이 평온의 표정을 대체합니다. ]</Start> 아무것도 우리의 길에 서지 않을 것입니다. 우리의 원인은 정의롭기 때문입니다."
-veritus,dlg,EntryList/30/Text,0,"<StartAction>[네일리스가 자신있게 웃는다.]</Start> 이건 아니야, 난 당신을 확신합니다, <FirstName>. 지금 느끼는 감정은 말로 표현할 수 없을 정도로 강렬해. 나는 마지막으로 완전해졌어."
+veritus,dlg,EntryList/30/Text,0,"<StartAction>[넬리스가 자신 있게 미소 짓습니다.]</Start> 장담하지만, 이건 그런 게 아니에요, <FirstName>. 지금 느끼는 감정은… 말로 표현할 수 없어요. 드디어 온전해진 기분이에요."
 veritus,dlg,EntryList/31/Text,0,"그건 내 의도의 일부였고, 다른 부분은 임무가 성공한 후 그녀의 접근 권한을 확보하는 것이었다. 인간으로서 그녀의 접근 권한은 의심의 여지가 있었지만, 이제 그녀는 우리 중 하나로 환영받게 될 것이다. 나를 떠나야 하는 것은 아쉽지만, 앞으로의 전투를 대비하여 준비해야 한다는 의무가 있다. 지금 이 자리에서 작별 인사를 드리지만, 다음 만남을 기대하며, 친구들."
 veritus,dlg,EntryList/32/Text,0,"고마워, 아버지. 다음 만남을 기대하며 더욱 큰 기대로 기다리겠습니다. 그러므로, 지금까지, 안녕."
 veritus,dlg,EntryList/33/Text,0,"어둠에 상처받았네, <FirstName>. 우리가 네 도움을 원해, 하지만 이 큰 위험 속에서 배신의 위험을 감수할 용기가 없다. 가서, 운이 네 편이길."
@@ -6695,14 +6695,14 @@ area001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,기사 헬름
 area001,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,엘리트 기사 갑옷
 area001,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 area001,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area001,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area001,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area001,git,Creature List/1/FirstName,0,투소나이트 왕실 경비병
 area001,git,Creature List/1/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,기사 헬름
 area001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,엘리트 기사 갑옷
 area001,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 area001,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area001,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area001,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area001,git,Creature List/2/FirstName,0,사카린 드레인호트
 area001,git,Creature List/2/Description,0,사카아린은 선두 공격을 주도하고 적을 폭력적으로 공격하기 위해 이 강력한 조각물들을 잘 설계했습니다. 이들은 모든 마법에 면역하고 물리적 공격에 매우 강하게 저항합니다.
 area001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,타격4d10
@@ -6843,7 +6843,7 @@ area006,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area006,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area006,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area006,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area006,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area006,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area006,git,Creature List/1/FirstName,0,투소나이트 왕실 경비병
 area006,git,Creature List/1/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area006,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -6852,7 +6852,7 @@ area006,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area006,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area006,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area006,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area006,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area006,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area006,git,Creature List/2/FirstName,0,투소나이트 왕실 경비병
 area006,git,Creature List/2/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area006,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -6861,7 +6861,7 @@ area006,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area006,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area006,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area006,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area006,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area006,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area006,git,Creature List/3/FirstName,0,투소나이트 왕실 경비병
 area006,git,Creature List/3/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area006,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -6870,19 +6870,19 @@ area006,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area006,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area006,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area006,git,Creature List/3/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area006,git,Creature List/3/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area006,git,Creature List/3/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area006,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,기사 갑옷
 area006,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 area006,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,기사의 방패
-area006,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area006,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area006,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,기사 갑옷
 area006,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 area006,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,기사의 방패
-area006,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area006,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area006,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,기사 갑옷
 area006,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 area006,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,기사의 방패
-area006,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area006,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area006,git,Creature List/7/FirstName,0,투소나이트 왕실 경비병
 area006,git,Creature List/7/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area006,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -6891,7 +6891,7 @@ area006,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area006,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area006,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area006,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area006,git,Creature List/7/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area006,git,Creature List/7/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area006,git,Creature List/8/FirstName,0,하녀
 area006,git,Creature List/8/Description,0,성의 기능을 유지하는 데 도움이 되는 일반인들은 낮은 계급들 사이에서 매우 인기 있는 위치를 차지했습니다.
 area006,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,하녀 의복
@@ -7025,7 +7025,7 @@ area007,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area007,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area007,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area007,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area007,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area007,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area007,git,Creature List/1/FirstName,0,투소나이트 왕실 경비병
 area007,git,Creature List/1/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area007,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -7034,7 +7034,7 @@ area007,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area007,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area007,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area007,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area007,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area007,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area007,git,Creature List/2/FirstName,0,투소나이트 왕실 경비병
 area007,git,Creature List/2/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area007,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -7043,7 +7043,7 @@ area007,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area007,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area007,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area007,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area007,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area007,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area007,git,Creature List/3/FirstName,0,투소나이트 왕실 경비병
 area007,git,Creature List/3/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area007,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -7052,7 +7052,7 @@ area007,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area007,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area007,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area007,git,Creature List/3/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area007,git,Creature List/3/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area007,git,Creature List/3/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area007,git,Creature List/4/FirstName,0,투소나이트 왕실 경비병
 area007,git,Creature List/4/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area007,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -7061,7 +7061,7 @@ area007,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area007,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area007,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area007,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area007,git,Creature List/4/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area007,git,Creature List/4/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area007,git,Creature List/5/FirstName,0,투소니트 대령
 area007,git,Creature List/5/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area007,git,Creature List/5/ItemList/1/LocalizedName,0,가스톤의 짧은 검
@@ -7088,7 +7088,7 @@ area007,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area007,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area007,git,Creature List/8/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area007,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area007,git,Creature List/8/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area007,git,Creature List/8/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area007,git,Creature List/9/FirstName,0,투소나이트 왕실 경비병
 area007,git,Creature List/9/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area007,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -7097,7 +7097,7 @@ area007,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모
 area007,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area007,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area007,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area007,git,Creature List/9/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area007,git,Creature List/9/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area007,git,Creature List/10/FirstName,0,투소나이트 왕실 경비병
 area007,git,Creature List/10/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 area007,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,기사 헬름
@@ -7106,7 +7106,7 @@ area007,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 �
 area007,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 area007,git,Creature List/10/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 area007,git,Creature List/10/Equip_ItemList/3/LocalizedName,0,기사의 방패
-area007,git,Creature List/10/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+area007,git,Creature List/10/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 area007,git,Door List/1/LocName,0,문
 area007,git,Door List/3/LocName,0,문
 area007,git,Door List/5/LocName,0,문
@@ -8089,21 +8089,21 @@ government,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,기사 헬름
 government,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,기사 갑옷
 government,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 government,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,기사의 방패
-government,git,Creature List/4/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+government,git,Creature List/4/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 government,git,Creature List/5/FirstName,0,투소니트 체발리어
 government,git,Creature List/5/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 government,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,기사 헬름
 government,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,기사 갑옷
 government,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 government,git,Creature List/5/Equip_ItemList/3/LocalizedName,0,기사의 방패
-government,git,Creature List/5/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+government,git,Creature List/5/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 government,git,Creature List/6/FirstName,0,투소니트 체발리어
 government,git,Creature List/6/Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 government,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,기사 헬름
 government,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,기사 갑옷
 government,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 government,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,기사의 방패
-government,git,Creature List/6/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+government,git,Creature List/6/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 government,git,Creature List/7/FirstName,0,일꾼
 government,git,Creature List/7/Description,0,왕궁 수리 작업을 하는 노동자 중 한 명
 government,git,Creature List/7/ItemList/0/LocalizedName,0,금화
@@ -8128,7 +8128,7 @@ government,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,"이 갑옷은
 government,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,쉐일리어 워하머
 government,git,Creature List/11/Equip_ItemList/2/DescIdentified,0,투소네 왕실 경비대의 선택인 이 전대는 소유자인 기사의 낙인으로 새겨져 있습니다.
 government,git,Creature List/11/Equip_ItemList/3/LocalizedName,0,기사의 방패
-government,git,Creature List/11/Equip_ItemList/3/DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+government,git,Creature List/11/Equip_ItemList/3/DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 government,git,Creature List/12/FirstName,0,테리누스
 government,git,Creature List/12/Description,0,왕국에서 가장 강력한 마술사인 테리누스는 대단한 존재입니다.
 government,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,지성의 뚜
@@ -9668,7 +9668,7 @@ palacecommander,utc,FirstName,0,투소니트 대령
 palacecommander,utc,Description,0,"투소네의 기사들은 용감함과 엄격한 행동 규범으로 유명하며, 전투에서는 무경심으로 알려져 있습니다."
 pascal,utc,FirstName,0,파스칼
 pascal,utc,LastName,0,루소
-pascal,utc,Description,0,미르펠의 중요한 지주 중 한 명인 파스칼은 투소네에서 가장 뛰어난 검투사 중 한 명으로도 알려져 있다. 그러나 도시에서의 조직 범죄와의 연관성에 대한 소문은 여전히 그 위상을 완전히 덮치지 못한다.
+pascal,utc,Description,0,미르펠의 가장 중요한 영주 중 한 명인 파스칼은 투소네에서 가장 뛰어난 검객 중 한 명으로도 꼽힙니다. 하지만 도시의 조직범죄와 연루되었다는 소문이 그의 명성을 완전히 가리지는 못합니다.
 pasha,utc,FirstName,0,파샤 샤키르
 pasha,utc,Description,0,트리니티의 작은 마을을 이끄는 파샤 xxxx는 보통 이 작은 오아시스를 통과하는 카라반들을 더 많이 통제하고자 하는 3개의 인근 국가들의 요구들 사이에서 위험한 상황을 겪으며 균형을 찾는 위치에 있습니다.
 patch,utc,FirstName,0,검은 고양이
@@ -9924,7 +9924,7 @@ veronica001,utc,FirstName,0,베로니크
 veronica001,utc,LastName,0,블?>>노어
 veronica001,utc,Description,0,"위대한 힘과 지식을 가진 마법사이고, 이 지역의 테리누스와의 상대자이다."
 voidwalker,utc,FirstName,0,알 수 없는 존재
-voidwalker,utc,Description,0,이 이상한 존재는 완전히 이 평면에 있지 않은 것 같아 보입니다.
+voidwalker,utc,Description,0,이 기묘한 존재는 이 차원에 완전히 속해 있는 것 같지는 않습니다.
 voidwalker1,utc,FirstName,0,아비드 악몽
 voidwalker1,utc,Description,0,이 뒤틀린 텐타클의 산더미는 악의 깊숙한 곳에서 생성된 것처럼 보입니다. 이는 악몽이 만들어지는 것 같은 존재입니다.
 voidwalker2,utc,FirstName,0,아비드 악몽
@@ -10385,7 +10385,7 @@ zep_frog_002,utc,FirstName,0,"거미, 아마존"
 zep_frog_002,utc,Description,0,이 작은 두족류는 곤충을 먹기 때문에 해롭지 않으며 유익합니다.
 zep_frog_003,utc,FirstName,0,"개구리, 화살"
 zep_frog_003,utc,Description,0,이 작은 두족류는 곤충을 먹기 때문에 해롭지 않으며 유익합니다.
-zep_frog_004,utc,FirstName,0,"토끼, 소"
+zep_frog_004,utc,FirstName,0,"개구리, 황소개구리"
 zep_frog_004,utc,Description,0,이 작은 두족류는 곤충을 먹기 때문에 해롭지 않으며 유익합니다.
 zep_frog_005,utc,FirstName,0,"개구리, 표범"
 zep_frog_005,utc,Description,0,이 작은 두족류는 곤충을 먹기 때문에 해롭지 않으며 유익합니다.
@@ -10957,7 +10957,7 @@ zep_yuantia1,utc,Description,0,유안티의 혐오스러운 것들은 모두 뱀
 zep_yuantia2,utc,FirstName,0,유안티 변태
 zep_yuantia2,utc,Description,0,유안티의 혐오스러운 것들은 모두 뱀이나 머리나 팔 같은 인간 특징을 가지고 있습니다.
 zep_zebra_001,utc,FirstName,0,제브라
-zep_zebra_001,utc,Description,0,"자바리, 보통 넓은 평야에서 발견되는 큰 떼로 자주 발견된다."
+zep_zebra_001,utc,Description,0,얼룩말. 보통 탁 트인 평원에서 큰 무리를 이루어 삽니다.
 zhai,utc,FirstName,0,제이
 zombie002,utc,FirstName,0,얼음 좀비
 zombie002,utc,Description,0,"시체들은 시신을 통해 부활시키고, 좀비들은 정신이 없는 죽은 자들로, 그들의 부패하는 장내의 굶주림의 고통에 만족하려고 돌아다니고 있습니다."
@@ -11294,9 +11294,9 @@ chev_helm,uti,LocalizedName,0,기사 헬름
 chev_helm001,uti,LocalizedName,0,기사 헬름
 chev_helm002,uti,LocalizedName,0,안드로이드 헬멧
 chev_shield,uti,LocalizedName,0,기사의 방패
-chev_shield,uti,DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+chev_shield,uti,DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 chev_shield001,uti,LocalizedName,0,어둠의 엘프 방패
-chev_shield001,uti,DescIdentified,0,"이 방패는 투소네의 표준을 지니고 있으며, 체바리에라고 알려진 기사들이 사용합니다."
+chev_shield001,uti,DescIdentified,0,"이 방패에는 투소네의 문장이 그려져 있으며, 슈발리에라고 불리는 투소네 기사들이 사용합니다."
 chimeofopening,uti,LocalizedName,0,열림의 차임벨
 cliffsedge,uti,LocalizedName,0,절벽의 전투
 cliffsedge,uti,DescIdentified,0,절벽 가장자리 전투에 관한 상세한 작품
@@ -12230,7 +12230,7 @@ largemetalshi005,uti,LocalizedName,0,인내의 방패
 largemetalshi006,uti,LocalizedName,0,듀에르가 대형 방패
 largemetalshi006,uti,DescIdentified,0,"종종 그들의 엘리트 전사들과 지도자들로부터 사용되며, 이러한 성격의 방패들은 지하에서 사는 일부 더러운 생물들, 특히 마비 독에 대항해 매우 유용합니다."
 largemetalshi007,uti,LocalizedName,0,거구의 금속 방패 +3
-largemetalshi008,uti,LocalizedName,0,거구의 금속 방패 +4
+largemetalshi008,uti,LocalizedName,0,대형 금속 방패 +4
 largemetalshi009,uti,LocalizedName,0,거구의 나무 방패
 largemetalshi010,uti,LocalizedName,0,하위 평면의 지옥 방패
 largemetalshi010,uti,DescIdentified,0,"지옥의 불에서 만들어진 이 방패는 더 큰 악마만 만들어 낼 수 있습니다. 보호 마법은 정말 강력하고, 보복력이 더 크습니다. 지옥은 이 방패를 사용하는 사람만큼 분노가 없습니다."
@@ -12670,7 +12670,7 @@ swashbuckler,uti,DescIdentified,0,"이 복장은 가벼운 옷으로 이루어�
 swashbuckler001,uti,LocalizedName,0,스와스부클러 의복
 swashbuckler001,uti,DescIdentified,0,"이 복장은 가벼운 옷으로 이루어져 있으며 몸의 주요 부위에 고정되고, 가슴에는 레이피어 같은 찌르는 무기로부터 어느 정도 보호해 주는 작고 단단한 가죽 판이 달려 있다. 착용자는 거의 느끼지 못할 만큼 눈에 띄지 않고 움직임을 거의 방해하지 않아 검객이 더욱 자유롭게 움직일 수 있다."
 swordoftheages,uti,LocalizedName,0,원소 정령 장검
-swordoftheages,uti,DescIdentified,0,"이 무기로부터 세 가지 다른 피해 형태가 결합되면, 다양한 적들에 효과적으로 사용할 수 있습니다. 적어도 하나의 피해 형태는 항상 적에 효과를 끼치게 됩니다."
+swordoftheages,uti,DescIdentified,0,"서로 다른 세 가지 피해 유형을 결합한 이 무기는 여러 적에게 효과적입니다. 피해 유형 중 적어도 하나는 반드시 통할 테니까요. 이 무기는 흡혈귀 카르타크의 것이었지만, 당신이 그에게서 빼앗았습니다."
 tacticalrapier,uti,LocalizedName,0,전술 세검
 tacticalrapier,uti,DescIdentified,0,이 래피어는 숙련된 손에 치명적인 무기입니다. 아름답게 제작된 무기입니다.
 talisman,uti,LocalizedName,0,폭풍의 탁신

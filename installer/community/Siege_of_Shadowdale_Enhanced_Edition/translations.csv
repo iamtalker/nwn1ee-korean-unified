@@ -884,11 +884,11 @@ ss_frogmaster,dlg,EntryList/1/Text,0,"""도드가 살게 내버려뒀어!"
 ss_frogmaster,dlg,EntryList/2/Text,0,"""구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구구"
 ss_frogmaster,dlg,EntryList/3/Text,0,"""우리는 터널에 침투할 때 도망쳐요. 어둠의 엘프들이 뭔가를 계획하고 있습니다. 더 이상 괴물들에게 안전하지 않습니다""."
 ss_frogmaster,dlg,EntryList/4/Text,0,"""내 친구다. 다드 다른 괴물들과는 다르지, 개구리를 좋아해요. 피부는 지만 마음은 진실합니다""."
-ss_frogmaster,dlg,EntryList/5/Text,0,"""남쪽 동굴에 있는 마그블레이트. 도드는 끼니를 즐기지 않나! 소가 없어지면 뱀파이어들을 먹이는데, 뱀파이어들은 친구들이지. 도드를 슬프게 만드는군."""
+ss_frogmaster,dlg,EntryList/5/Text,0,"""남쪽 동굴에 마그블랫이 있어. 도드는 족장이 싫어! 소가 떨어지면 워그들에게 개구리를 먹여. 개구리들은 친구야. 도드는 슬프게 해."""
 ss_frogmaster,dlg,EntryList/6/Text,0,"""호로호로, 뱀파이어 친구."""
 ss_frogmaster,dlg,ReplyList/0/Text,0,"""보안해"""
 ss_frogmaster,dlg,ReplyList/2/Text,0,"""살아도 안 돼. 죽을 준비를 해."""
-ss_frogmaster,dlg,ReplyList/4/Text,0,"""고블린들이 구멍 터널에서 뭘 하고 있어?"""
+ss_frogmaster,dlg,ReplyList/4/Text,0,"""싱크홀 터널에 고블린들이 왜 있는 거야?"""
 ss_frogmaster,dlg,ReplyList/5/Text,0,"""이 개구리들은 당신의 것인가요?"""
 ss_frogmaster,dlg,ReplyList/6/Text,0,"""당신의 리더는 어디에 있나?"""
 ss_gordrakk,dlg,EntryList/0/Text,0,"""오, 당신은 죽은 왕의 종이 아니야! 여기서 무엇을 하는 거야? 빨리 말해라, 그렇지 않으면 혀를 잘라버리겠어. 나는 성을 죽은 왕으로부터 되찾아야 해, Alokkair."""
@@ -1014,7 +1014,7 @@ ss_hench_berliad,dlg,ReplyList/52/Text,0,"""어떻게 지내세요?"""
 ss_hench_berliad,dlg,ReplyList/53/Text,0,"""그러면 돌아가라 너희가 서로 갈망한다면 내게는 손실이 없노라"""
 ss_hench_berliad,dlg,ReplyList/54/Text,0,"""나는 이제 가야 할 때라고 생각한다."""
 ss_hench_berliad,dlg,ReplyList/56/Text,0,"""너는 다른 일을 해봐."""
-ss_hench_berliad,dlg,ReplyList/57/Text,0,"""내 칼집무기의 재빠른 반응과 훌륭한 대화상대가 아니겠습니까."""
+ss_hench_berliad,dlg,ReplyList/57/Text,0,"""내 날카로운 재치와 훌륭한 말동무 덕분이겠지."""
 ss_hench_berliad,dlg,ReplyList/58/Text,0,"""나는 이제 가야 할 때라고 생각한다."""
 ss_hench_berliad,dlg,ReplyList/60/Text,0,"""너는 다른 일을 해봐."""
 ss_hench_berliad,dlg,ReplyList/61/Text,0,"""네렘울님, 우리 동맹국들에 대한 생각을 말씀해주실 수 있으신가요?"""
@@ -1418,7 +1418,7 @@ area006,git,Creature List/15/FirstName,0,"기요르단, 거짓 신자"
 area006,git,Creature List/16/FirstName,0,알오카이르
 area006,git,Creature List/16/Description,0,"이 뼈대 생물은 오래 전에 죽은 강력한 마법사의 부패한 고급 의복을 입고 있으며, 비열한 빛이 그 공허한 눈 구멍에서 춤을 추고 있다."
 area006,git,Creature List/17/FirstName,0,오티우
-area006,git,Creature List/17/Description,0,"오티우스는 지하에 사는 이상한 변칙성으로, 더러움과 내장을 먹는 것을 즐긴다."
+area006,git,Creature List/17/Description,0,"오티우그는 지하에 사는 기이한 괴물로, 오물과 내장을 먹는 것을 즐깁니다."
 area006,git,Creature List/17/Equip_ItemList/2/LocalizedName,0,오티우그 비트
 area006,git,Creature List/18/FirstName,0,블랙푸딩
 area006,git,Creature List/18/Description,0,이 무형의 생물은 잉크처럼 검은 암모바와 유사합니다.
@@ -2577,7 +2577,7 @@ module,jrl,Categories/1/EntryList/2/Text,0,헤일메이크는 이제 타워의 �
 module,jrl,Categories/2/Name,0,크라그 성
 module,jrl,Categories/2/EntryList/0/Text,0,"당신은 크라그 성의 유적들을 발견했지, 조르단의 옛 요새, 샤도데일의 거짓 부왕"
 module,jrl,Categories/2/EntryList/1/Text,0,"드락고르라는 오크 족장과 얘기했는데, 그 대장들은 강렬한 릭에 의해 거의 멸종됐다고 말했어요."
-module,jrl,Categories/2/EntryList/2/Text,0,"당신은 거짓 주주인 제르하단의 골격을 파괴했습니다. 알록카이르는 여전히 자유롭게 돌아다닙니다, 그러나 적어도 당신은 그에게 불편을 끼쳤습니다. 어쩌면 그는 시간이 걸리겠지만, 당신은 그가 다시 돌아올 것이라는 문제를 다른 모험가들에게 남길 것임을 의심합니다."
+module,jrl,Categories/2/EntryList/2/Text,0,"당신은 거짓 영주 제오르단의 해골 유해를 파괴했습니다. 알로카이르는 아직 잡히지 않았지만, 적어도 그에게 상당한 지장을 준 듯합니다. 언젠가 그가 돌아올지도 모르지만, 그 문제는 다른 모험가가 맡게 될 것 같습니다..."
 module,jrl,Categories/3/Name,0,축하합니다!
 module,jrl,Categories/3/EntryList/0/Text,0,"이 모듈 제작에 기여한 훌륭한 사람들의 목록은 아래 있습니다. 프로젝트 Q v4 컨텐츠 Tom Ventre의 프로젝트 Q 팀 시네마틱 아트 Tom Ventre의 로버트 J Bayley의 Elminster 초상화 예술 Tom Ventre의 마법사의 다른 사용자 지정 초상화 예술 데이브 존의 사용자 지정 음악 에드 그린우드, 로브 바르텔, 케빈 스미스, 폴 스티어 메리, 앨런 미란다, 오시안 스튜디오 Inc., 바이오웨어 Inc., 그리고 비엄 Inc. 이 모듈 제작에 기여한 훌륭한 사람들의 목록입니다. 이 모듈을 가능하게 하는 데 도움이 된 모든 민중 관대적인 기여에 대한 큰 호평을 전해야 합니다. 이 모듈의 개발에 대한 최신 정보를 확인하려면 https://www.patreon.com/luk을 방문하십시오."
 module,jrl,Categories/4/Name,0,드루이드의 숲
@@ -2884,7 +2884,7 @@ q_ochrejellylrg,utc,Description,0,이 무형의 생물은 어두운 구리색 �
 q_ochrejellymed,utc,Description,0,이 무형의 생물은 어두운 구리색 아미바와 비슷합니다.
 q_ochrejellysml,utc,Description,0,이 무형의 생물은 어두운 구리색 아미바와 비슷합니다.
 q_otyugh,utc,FirstName,0,오티우
-q_otyugh,utc,Description,0,"오티우스는 지하에 사는 이상한 변칙성으로, 더러움과 내장을 먹는 것을 즐긴다."
+q_otyugh,utc,Description,0,"오티우그는 지하에 사는 기이한 괴물로, 오물과 내장을 먹는 것을 즐깁니다."
 q_owl_f,utc,FirstName,0,오징어
 q_owlbear,utc,FirstName,0,오징어
 q_owlbear,utc,Description,0,오우 곰 은 오우 와 곰 사이 의 교차처럼 보이는 큰 마법 동물 이다. 공격적 인 것 과 야생 의 가장 무서운 맹수 중 하나 로 유명 하다

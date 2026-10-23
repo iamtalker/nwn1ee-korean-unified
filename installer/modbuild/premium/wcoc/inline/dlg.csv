@@ -330,7 +330,7 @@ broadhand,dlg,EntryList/79/Text,0,-1,"그는 유명한 요스터입니다. 군�
 broadhand,dlg,EntryList/8/Text,0,-1,"내가 말했듯이, 그는 힘을 존중한다. 그는 당신을 위협할 수도 있지만, 이번 일로 당신을 공격하지는 않을 것이다."
 broadhand,dlg,EntryList/80/Text,0,-1,<CUSTOM1064>을 보고 싶어요. 그는 도보로도 용감한 싸움꾼으로 알려져 있습니다.
 broadhand,dlg,EntryList/81/Text,0,-1,다음 토너먼트에 대한 주요 대화입니다. 나는 <CUSTOM1063>이 좋은 기회를 가지고 있다고 생각합니다. 그렇지 않나? 그의 주요 약점은 항상 왼쪽으로 낮은 곳을 목표로 하는 것이라고 할 수 있습니다.
-broadhand,dlg,EntryList/82/Text,0,-1,"만약 상대가 알아차린다면, 우측으로 기울어 그를 피하려고 한다. 그렇지 않으면, 그는 상대를 피하는 데 좋은 확률을 가지고 있다."
+broadhand,dlg,EntryList/82/Text,0,-1,상대가 눈치채면 그를 피하려고 오른쪽으로 기울일 겁니다. 그렇지 않다면 그에게 승산이 큽니다.
 broadhand,dlg,EntryList/83/Text,0,-1,"사실, 한 번 마르세ಂಬರ್에서 운전을 봤는데, 그도 똑같은 짓을 했다."
 broadhand,dlg,EntryList/84/Text,0,-1,<CUSTOM1062>는 다음 대회의 창 시합에서 꽤 주목받지만 늘 낮게 겨누지. 다른 기사 중 하나가 방패만 내리지 않으면 쉽게 이길 것 같아.
 broadhand,dlg,EntryList/85/Text,0,-1,저는 많은 유스트를 봤습니다. 그렇게 쉽게 포인트를 양보할 수 있습니다; 그들은 정교한 스트라이크를 하고 창을 깨고 있습니다.
@@ -654,7 +654,7 @@ caladnei2,dlg,EntryList/13/Text,0,-1,부대는 파괴된 농장 남쪽에 배치
 caladnei2,dlg,EntryList/14/Text,0,-1,부대는 유적지 북쪽에 배치될 것입니다.
 caladnei2,dlg,EntryList/15/Text,0,-1,그들은 약간 앞쪽에 있고 언덕의 남쪽에 서 있을 것입니다.
 caladnei2,dlg,EntryList/16/Text,0,-1,좋습니다. 그들은 그 곳에 위치할 것입니다. 다른 부대를 옮기지 않는 것이 좋습니다.
-caladnei2,dlg,EntryList/17/Text,0,-1,"정규 소대를 왼쪽과 오른쪽 측면에 배치하고 중간에는 무거운 장비를 준비해 두는 것이 좋습니다. 더 나아가, 최고의 병력을 예비로 두는 것도 좋습니다. 이렇게 하면 전투에 투입하기 전에 상대를 잘 파악할 수 있습니다."
+caladnei2,dlg,EntryList/17/Text,0,-1,"일반 부대는 좌우 측면에 배치하고, 중앙에는 더 중무장한 부대를 두는 게 좋습니다. 더 나은 방법은 최정예 부대를 예비대로 남겨 두는 것입니다. 그래야 전투에 투입하기 전에 적의 전력을 파악할 수 있습니다."
 caladnei2,dlg,EntryList/18/Text,0,-1,우리는 화살꾼들을 산등성이에 배치해야 합니다. 언덕은 직접적인 공격으로부터 그들을 보호하고 전장에 대한 좋은 시야를 제공합니다.
 caladnei2,dlg,EntryList/19/Text,0,-1,군대를 조심스럽게 배치하도록 확인해 주시기 바랍니다. 필요한 것은 무엇인가요?
 caladnei2,dlg,EntryList/2/Text,0,-1,"괜찮아, 준비되면 돌아오세요."
@@ -2483,7 +2483,7 @@ gnome,dlg,ReplyList/36/Text,0,-1,고맙소.
 gnome,dlg,ReplyList/37/Text,0,-1,그만 두세요.
 gnome,dlg,ReplyList/38/Text,0,-1,"마녀왕을 이미 물리쳤으니, 원하는 곳으로 갈 수 있어."
 gnome,dlg,ReplyList/39/Text,0,-1,마녀왕은 죽었다.
-gnome,dlg,ReplyList/4/Text,0,-1,당신이 어떤 장비를 찾을 수 있을까요?
+gnome,dlg,ReplyList/4/Text,0,-1,제 장비 몇 가지를 감정해 주실 수 있나요?
 gnome,dlg,ReplyList/40/Text,0,-1,마녀왕을 섬긴 후에 자유로울 수 있겠습니까?
 gnome,dlg,ReplyList/41/Text,0,-1,당신은 죽어야 한다.
 gnome,dlg,ReplyList/42/Text,0,-1,<StartAction>[공격]</Start>
@@ -3368,7 +3368,7 @@ hawklin2,dlg,EntryList/223/Text,0,-1,"강탈자들을 공격할 때는 그들이
 hawklin2,dlg,EntryList/224/Text,0,-1,"아니, 만약 정말 강력한 무언가를 발견했다면... 실제로 생각해보면, 당신이 가지고 갈 수 있는 모든 것을 가져가는 것이 더 낫겠다. 승리로 끝나는 것이 실패보다 낫고, 발렌토가 그렇게 생각하지 않은 것은 놀랍다."
 hawklin2,dlg,EntryList/225/Text,0,-1,"어차피, 나는 돌아갑니다. 난 당신을 매우 기쁘게 생각합니다 <FirstName> 당신은 가장 짧은 시간 동안 스쿠어리처럼 행동하지 않고 진정한 기사로서"
 hawklin2,dlg,EntryList/226/Text,0,-1,"Such valor is welcomed by Cormyr, <FirstName>. Tyr knows how stretched we are! Steadfast men and women who will serve the Crown are in short supply. For this reason, I hereby knight you Sir <FullName>, Knight of Cormyr. Step forward, Sir <FirstName>!"
-hawklin2,dlg,EntryList/227/Text,0,-1,"네 기사직은 당연히 왕의 인증을 받아야 하며, 나는 이를 적시에 이루어 줄 것입니다. 이제부터 당신은 '사이라'로 불리게 될 것입니다."
+hawklin2,dlg,EntryList/227/Text,0,-1,당신의 서임에는 왕실의 승인이 필요합니다. 때가 되면 승인을 받도록 하겠습니다. 이제부터 당신은 '경'이라고 불릴 것입니다.
 hawklin2,dlg,EntryList/228/Text,0,-1,"제왕이 되는 것은 형식적인 일이지만, 복수의 길을 계속한다면 왕은 그 결과에만 만족할 수밖에 없습니다. 이러한 시기에는 복수의 타이틀을 내린 땅마저 오래 걸릴 것입니다."
 hawklin2,dlg,EntryList/229/Text,0,-1,"그래도 그동안 성을 자유롭게 쓰셔도 됩니다. 위층에 방 하나를 내어 드리지요. 거기 있는 금고도 쓰십시오. 먼지만 쌓이느니 당신에게 더 어울릴 만한 물건 몇 가지를 넣어 두었습니다. 드릴 게 별로 없지만, 받아 주신다면 제게도 자랑스러운 일일 겁니다."
 hawklin2,dlg,EntryList/23/Text,0,-1,"새로운 배가 건조되고 새로운 해적들이 나타날 수 있습니다. 우리는 해적들의 기지를 파괴하고 호수에서 그들을 영원히 몰아내야 합니다. 와이번바포르가 성을 가지고 있는 동안, 그들은 언제든지 돌아올 수 있습니다."
@@ -3946,7 +3946,7 @@ huntcrown,dlg,EntryList/18/Text,0,-1,"첫째로, <CUSTOM1061>에게 방패를 �
 huntcrown,dlg,EntryList/19/Text,0,-1,"둘째, <CUSTOM1064>가 타고 있다면 헬름을 내리고 대부분의 경우 당신을 놓칠 것입니다."
 huntcrown,dlg,EntryList/2/Text,0,-1,"하지만 실제로는 어디 있는지 확실하지 않아서, 제가 말씀드리는 것은 별로 도움이 되지 않을 것 같아. 그래도 와이번워터 호수를 둘러보는 것이 좋겠어. 거기서 더 많은 목격 사례가 있었거든."
 huntcrown,dlg,EntryList/20/Text,0,-1,"그래, 실버트의 사촌인 길버트 씨는 거의 항상 맞추는 편이라네. 말을 너무 오른쪽으로 기대지 마라, 그렇지 않으면 그에게 밀릴 거야."
-huntcrown,dlg,EntryList/21/Text,0,-1,"<CUSTOM1066>... 그는 거의 항상 정확하게 공격하곤 하네. 말의 세트에서 너무 오른쪽으로 기대지 마, 그렇지 않으면 당신을 이길 거야."
+huntcrown,dlg,EntryList/21/Text,0,-1,"어디 보자… 아, 그래! <CUSTOM1066>…그는 거의 항상 정확히 맞힙니다. 안장에서 오른쪽으로 너무 기울지 마세요. 그러면 그가 당신을 이길 겁니다."
 huntcrown,dlg,EntryList/22/Text,0,-1,200개의 골드 사자를 주면 침묵할 수 있겠습니까?
 huntcrown,dlg,EntryList/23/Text,0,-1,여기 있네
 huntcrown,dlg,EntryList/24/Text,0,-1,<StartAction>[]</Start> 250골드 사자. 더 많은 금액이라면 왕실 행정부에서 내줄 벌금을 감수하고 싶지 않다.
@@ -4001,7 +4001,7 @@ huntcrown,dlg,EntryList/68/Text,0,-1,"둘째, <CUSTOM1064>가 타고 있다면 �
 huntcrown,dlg,EntryList/69/Text,0,-1,"그래, 실버트의 사촌인 길버트 씨는 거의 항상 맞추는 편이라네. 말을 너무 오른쪽으로 기대지 마라, 그렇지 않으면 그에게 밀릴 거야."
 huntcrown,dlg,EntryList/7/Text,0,-1,또한 유니콘 사냥은 '매우 흥미롭겠네요'라고 하셨습니다.
 huntcrown,dlg,EntryList/70/Text,0,-1,"마지막으로, 당신의 금전적 보상입니다. 호른을 다시 보게 돼 기쁩니다. 당신께 보상과 감사의 마음을 전합니다. 당신과의 거래가 매우 즐거웠습니다, <FirstName>."
-huntcrown,dlg,EntryList/71/Text,0,-1,"<CUSTOM1066>... 그는 거의 항상 정확하게 공격하곤 하네. 말의 세트에서 너무 오른쪽으로 기대지 마, 그렇지 않으면 당신을 이길 거야."
+huntcrown,dlg,EntryList/71/Text,0,-1,"어디 보자… 아, 그래! <CUSTOM1066>…그는 거의 항상 정확히 맞힙니다. 안장에서 오른쪽으로 너무 기울지 마세요. 그러면 그가 당신을 이길 겁니다."
 huntcrown,dlg,EntryList/72/Text,0,-1,우린 이미 얘기했지. 이 뿔은 숲민과는 아무 관련이 없어. 뿔을 주나 안 주나?
 huntcrown,dlg,EntryList/73/Text,0,-1,"만약 거래에 나온다면, 내 시간을 더 이상 낭비하지 말아."
 huntcrown,dlg,EntryList/74/Text,0,-1,"<StartCheck>[속임수]</Start> 사실, 지난 대회에서 시장에서 샀어요."
@@ -4954,7 +4954,7 @@ kathryn,dlg,EntryList/0/Text,0,-1,안녕하세요
 kathryn,dlg,EntryList/1/Text,0,-1,"보시다시피, 저의 파티에 참여할 수 있을까요? 성은 조금 답답하고 아버지는 제게 외부 활동을 허락하지 않습니다."
 kathryn,dlg,EntryList/10/Text,0,-1,"하지만 아버지는 바보가 아니니, 나는 그와 너무 비슷하다는 걸 알고 있어. 나는 그가 이성을 알게 될 것이라고 확신한다. 그래서 내가 할 수 있는 모든 것을 도와주실 거라고 생각해?"
 kathryn,dlg,EntryList/100/Text,0,-1,"성에 갇히면 아무것도 변하지 않으니, 필요할 때 썬더스톤으로 들어가고 나가는 방법을 스스로 찾았어. 내 생활은 더 비밀스러워졌고, 항상 하녀들을 피하면서..."
-kathryn,dlg,EntryList/101/Text,0,-1,"난 좀 지루하게 들릴지도 모르지만, 나는 너에게도 어두운 비밀을 가지고 있는 사람이다... 단지 지금은 나를 믿지 못하는 것 같아서 나의 비밀을 나누지 못하고 있을 뿐이다."
+kathryn,dlg,EntryList/101/Text,0,-1,내가 좀 지루하게 들릴 수도 있겠지. 하지만 나도 어두운 비밀이 있어… 지금은 아직 너와 나눌 준비가 되지 않았을 뿐이야.
 kathryn,dlg,EntryList/102/Text,0,-1,다른 게 필요해?
 kathryn,dlg,EntryList/103/Text,0,-1,<FirstName>?
 kathryn,dlg,EntryList/104/Text,0,-1,"그냥 잊어버리고 싶었는데, 사실 중요하지 않아."
@@ -5161,7 +5161,7 @@ kathryn,dlg,EntryList/285/Text,0,78288,"네, 당신이 아마도 맞을 것 같�
 kathryn,dlg,EntryList/286/Text,0,-1,좋은 <QuarterDay> <FullName>
 kathryn,dlg,EntryList/287/Text,0,-1,넌 내 친구라고 생각했지만 이제 내 교훈을 배웠어
 kathryn,dlg,EntryList/288/Text,0,-1,안녕. 나는 카트린 호클린이다. 당신은 <FullName>이 아니겠습니까?
-kathryn,dlg,EntryList/289/Text,0,-1,당신은! 내가 알았어. 아버지는 널 스쿠어로 받아들였지? 네가 그의 마음에 새로운 희망을 심어줬다고 했지. 아마 오와인의 방을 준비한 이유도 그 때문일 거야... 아마 네게 주기 위해였을 거야!
+kathryn,dlg,EntryList/289/Text,0,-1,너야! 알고 있었어. 아버지가 널 종자로 받아들였지? 네가 아버지의 마음에 새로운 희망을 심어 줬다고 하셨어. 아마 그래서 오웨인의 방을 준비하셨겠지… 널 위한 방이었을 거야!
 kathryn,dlg,EntryList/29/Text,0,86381,그렇게 되자!
 kathryn,dlg,EntryList/290/Text,0,-1,"오웨인, 네, 내 동생이었지만 전쟁에서 죽었어 아빠는 2년 넘게 그의 방이나 자일스 방에도 오지 않았어"
 kathryn,dlg,EntryList/291/Text,0,-1,"오, 만나서 얼마나 설레는지! 아버지는 널 많이 칭찬했어요. 네가 그의 마음에 새로운 희망을 심어주었다고 말했거든요. 아마 그런 이유로 오와인의 방을 준비한 것일지도... 아마 네게 주기 위해였을 거예요!"
@@ -7449,11 +7449,11 @@ salvatori3,dlg,EntryList/23/Text,0,-1,뭐? 당신이 그런 말을! 이제 그 �
 salvatori3,dlg,EntryList/24/Text,0,-1,"네, 발레토! 그건 어떻게 생각하나, 배신한 도둑!"
 salvatori3,dlg,EntryList/25/Text,0,-1,난 여기서 나가자!
 salvatori3,dlg,EntryList/26/Text,0,-1,"<FirstName>, 무엇을 선택하시겠습니까?"
-salvatori3,dlg,EntryList/27/Text,0,-1,"당신이 이해해야 합니다. 나는 해적이 아니에요. 나는 와이번바포를 위해 해적이 된 거예요. 우리는 돈과 땅이 필요해서, 전설의 와이번 왕관을 찾기 전에 악한 손에 빠지지 않게 하려 했어요."
+salvatori3,dlg,EntryList/27/Text,0,-1,당신도 이해해야 합니다. 나는 재미로 해적질을 하는 게 아닙니다. 주인 와이번베이퍼를 위해 해적이 된 거죠. 악의 손에 넘어가기 전에 전설의 와이번 왕관을 찾으려면 돈과 땅이 필요했습니다.
 salvatori3,dlg,EntryList/28/Text,0,-1,"제 명예와 제 생명도 있습니다. 옳은 일을 위해 둘 다 위험을 감수합니다. 때때로 더 큰 선은 길을 따라 희생이 필요합니다. <FirstName>님이라면 혹시나 엄격하게 심판관에게 나를 판단하실지 모르지만, 제 신발에 놓여 있다면 똑같이 행동하셨을 것 같습니다."
 salvatori3,dlg,EntryList/29/Text,0,-1,우리는 진정하고 합리적으로 행동해야 해. 중요한 것은 코르미르에서 죽음과 파괴를 멈추는 것임이야. 그게 여기서 가장 중요한 거야.
 salvatori3,dlg,EntryList/3/Text,0,-1,저한테는 그런 돈이 없어 다음에 썬더스톤에 있을 때는 지불해야 해.
-salvatori3,dlg,EntryList/30/Text,0,-1,"전혀 맞지 않는 말이다. 네가 그냥 이렇게 서서 저를 이대로 놔두고 싶지 않은 거지, <FirstName>?"
+salvatori3,dlg,EntryList/30/Text,0,-1,"전혀 말이 안 되잖아. <FirstName>, 네가 그냥 보고만 있다가 내가 이걸 받아들이길 바라는 건 아니겠지!"
 salvatori3,dlg,EntryList/31/Text,0,-1,이 말이 왜곡된 논리가 있지만 솔직히 제가 구매하는 것은 아닙니다.
 salvatori3,dlg,EntryList/32/Text,0,-1,"내가 할 수 있는 모든 도움을 주었는데, 사실 그의 사업 파트너의 배를 공격했지만,"
 salvatori3,dlg,EntryList/33/Text,0,-1,"또한, 나는 그의 농지를 공정한 가격에 사서, 그 누구도 할 수 없었던 것처럼 그에게서 샀다."
