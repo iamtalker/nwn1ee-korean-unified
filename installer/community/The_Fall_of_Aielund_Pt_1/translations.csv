@@ -1255,7 +1255,7 @@ fort_guard,dlg,ReplyList/3/Text,0,"그래, 그래, 그래, 그래, 그래, 그�
 fort_smith,dlg,EntryList/0/Text,0,"지금은 좀 바빠, 구매하고 싶다면 알리슨에게 가보세요."
 fort_smith,dlg,EntryList/1/Text,0,이게 우리가 만들 수 있는 최고의 무기야... 충분히 좋은지 희망해.
 fort_smith,dlg,EntryList/2/Text,0,저와 몇 명의 다른 사람들이 24시간 동안 무기와 장비를 확보하기 위해 노력했어요. 왕국에서 더 좋은 것은 찾아볼 수 없을 거예요.
-fort_smith,dlg,EntryList/3/Text,0,구매를 하고 싶다면 알리슨과 대화해보세요. 그녀는 우리를 대표하는 사람입니다. 아니면 여성이죠. 그래요.
+fort_smith,dlg,EntryList/3/Text,0,"구매하려면 앨리슨에게 말해요. 우리 대표 남자... 아니, 여자죠. 그래요."
 fortmage,dlg,EntryList/0/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 fortmage,dlg,EntryList/1/Text,0,확실히. 특별히 찾고 있던 것이 있었나요?
 fortmage,dlg,EntryList/2/Text,0,물론입니다.
@@ -2261,7 +2261,7 @@ horatio,dlg,EntryList/10/Text,0,확실히. 뭘 알고 싶으니?
 horatio,dlg,EntryList/11/Text,0,그 동안 배를 탐험해 주시면 감사하겠습니다. 저는 제 부관도 여러분을 만나보고 싶어할 것이라 생각합니다.
 horatio,dlg,EntryList/12/Text,0,마스터슨 대교에서 찾을 수 있어요. 이제 죄송합니다. 한 달 동안 보고서를 가지고 있습니다.
 horatio,dlg,EntryList/13/Text,0,내 배를 잘 둘러봤을 거 같네요. 그냥 내 방으로 돌아가서 휴식을 취해 주세요.
-horatio,dlg,EntryList/14/Text,0,"지적하셨네요. 예, 우리는 Tusone 해안에서 그들의 해군과의 전투를 보았습니다. 비록 우리는 숫자로는 밀렸지만, 우리의 배는 그들의 배보다 훨씬 우월했고, 한 번의 전투도 잃지 않았습니다."
+horatio,dlg,EntryList/14/Text,0,눈치가 빠르시군요. 맞습니다. 우리는 투손 해안에서 그들의 해군과 전투를 벌였습니다. 수적으로는 열세였지만 우리 함선이 훨씬 우수해서 단 한 번의 교전에서도 지지 않았습니다.
 horatio,dlg,EntryList/15/Text,0,"네, 맞았어요. 반대선에서 해병대에 의해 총을 맞았어요. 좋은 사람들, 우리는 매일 밤 그들의 기억을 추모합니다. 우리는 꽤 많은 피해를 당했습니다. 그래서 우리는 일찍 페어로크로 돌아가야 했습니다."
 horatio,dlg,EntryList/16/Text,0,"정말 그럴 수 있어, 내 친구. 그럼 다른 질문은 없나?"
 horatio,dlg,EntryList/17/Text,0,"천만에 불쾌한 일이야, 그건 확실해. 우리 역사상 처음으로 갈등을 일으킨 공격자였지. 저도 만족스럽다고는 말할 수 없어."
@@ -2554,7 +2554,7 @@ king_final,dlg,ReplyList/40/Text,0,요새에 대한 공격이 임박해 테리�
 king_final,dlg,ReplyList/41/Text,0,안녕하세요
 king_final,dlg,ReplyList/43/Text,0,"아직은 아닙니다,陛下."
 king_final,dlg,ReplyList/44/Text,0,"그래, 모두 여기 있어요."
-king_final,dlg,ReplyList/45/Text,0,정말 아이룬드의 첫 왕이 거기 누워있나요?
+king_final,dlg,ReplyList/45/Text,0,정말 저기 누워 있는 사람이 아이엘룬드의 초대 왕인가요?
 king_final,dlg,ReplyList/46/Text,0,어떻게든 아이언로드의 내부에 있었던 것 같군
 king_final,dlg,ReplyList/47/Text,0,하지만 그러면 그는 이백 살이 넘게 되잖아요.
 king_final,dlg,ReplyList/49/Text,0,하지만 왜 그 때는 왕국에 맞서 전쟁을 벌였을까?
@@ -4331,7 +4331,7 @@ area004,git,Creature List/15/Description,0,이와 같은 여자들은 이 이상
 area004,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,비싼 옷
 area004,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,"이 섬세하게 짜여진 옷은 아이룬드의 부유한 엘리트들에 의해 착용된다. 그것은 은혜, 균형의 이미지를 투영하며, 가장 덜 매력적인 사람조차도 눈에 더 매력적으로 보이게 한다. 이 특별한 디자인은 여성 인구 사이에서 가장 인기가 있습니다."
 area004,git,Creature List/16/FirstName,0,문지기
-area004,git,Creature List/16/Description,0,이 시설의 주인에게 고용된 이 거친 반포는 그의 정교하게 제작된 옷에서 거의 터져나오고 있습니다.
+area004,git,Creature List/16/Description,0,이 시설 주인에게 고용된 이 거친 하프오크는 몸에 꼭 맞게 재단한 양복이 터질 듯한 거구입니다.
 area004,git,Creature List/16/ItemList/2/LocalizedName,0,비즈니스 클럽의 키
 area004,git,Creature List/16/ItemList/2/DescIdentified,0,이 열쇠는 머프펠의 비즈니스 클럽 문을 열 수 있어.
 area004,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,존경받는 시민의 옷차림
@@ -4734,7 +4734,7 @@ area013,git,StoreList/0/StoreList/2/ItemList/3/LocalizedName,0,룸
 area013,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,모든 선원들의 가장 좋아하는 음료는 소금이 가치가 있습니다.
 area013,git,WaypointList/0/MapNote,0,출구
 club,git,Creature List/0/FirstName,0,문지기
-club,git,Creature List/0/Description,0,이 시설의 주인에게 고용된 이 거친 반포는 그의 정교하게 제작된 옷에서 거의 터져나오고 있습니다.
+club,git,Creature List/0/Description,0,이 시설 주인에게 고용된 이 거친 하프오크는 몸에 꼭 맞게 재단한 양복이 터질 듯한 거구입니다.
 club,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,존경받는 시민의 옷차림
 club,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"이 꽤 비싼 의복은 전투를 염두에 두고 디자인되었으며, 보호 마법으로 매우 강화되어 있습니다."
 club,git,Creature List/1/FirstName,0,레네
@@ -4761,15 +4761,15 @@ club,git,Creature List/5/FirstName,0,평민
 club,git,Creature List/5/Description,0,이 도시의 많은 평범한 사람들 중 한 명입니다.
 club,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,일반 의복
 club,git,Creature List/6/FirstName,0,바텐더
-club,git,Creature List/6/Description,0,이 시설의 주인에게 고용된 이 거친 반포는 그의 정교하게 제작된 옷에서 거의 터져나오고 있습니다.
+club,git,Creature List/6/Description,0,이 시설 주인에게 고용된 이 거친 하프오크는 몸에 꼭 맞게 재단한 양복이 터질 듯한 거구입니다.
 club,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,존경받는 시민의 옷차림
 club,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,"이 꽤 비싼 의복은 전투를 염두에 두고 디자인되었으며, 보호 마법으로 매우 강화되어 있습니다."
 club,git,Creature List/7/FirstName,0,문지기
-club,git,Creature List/7/Description,0,이 시설의 주인에게 고용된 이 거친 반포는 그의 정교하게 제작된 옷에서 거의 터져나오고 있습니다.
+club,git,Creature List/7/Description,0,이 시설 주인에게 고용된 이 거친 하프오크는 몸에 꼭 맞게 재단한 양복이 터질 듯한 거구입니다.
 club,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,존경받는 시민의 옷차림
 club,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,"이 꽤 비싼 의복은 전투를 염두에 두고 디자인되었으며, 보호 마법으로 매우 강화되어 있습니다."
 club,git,Creature List/8/FirstName,0,문지기
-club,git,Creature List/8/Description,0,이 시설의 주인에게 고용된 이 거친 반포는 그의 정교하게 제작된 옷에서 거의 터져나오고 있습니다.
+club,git,Creature List/8/Description,0,이 시설 주인에게 고용된 이 거친 하프오크는 몸에 꼭 맞게 재단한 양복이 터질 듯한 거구입니다.
 club,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,존경받는 시민의 옷차림
 club,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,"이 꽤 비싼 의복은 전투를 염두에 두고 디자인되었으며, 보호 마법으로 매우 강화되어 있습니다."
 club,git,Creature List/9/FirstName,0,귀족
@@ -5502,7 +5502,7 @@ fake,git,Placeable List/9/Description,0,큰 랜데리어
 fake,git,Placeable List/12/LocName,0,벽난로 - 켜짐
 fake,git,Placeable List/12/Description,0,벽난로
 fake,git,Placeable List/15/LocName,0,페인팅 - 큰 노파
-fake,git,Placeable List/16/LocName,0,그림 - 거구의 대인형 남자
+fake,git,Placeable List/16/LocName,0,그림 - 위풍당당한 남자
 fake,git,Placeable List/17/LocName,0,그림
 fake,git,Placeable List/22/LocName,0,그림
 fake,git,Placeable List/23/LocName,0,커튼 - 닫힌 빨간 넓은
@@ -6104,7 +6104,7 @@ hocarumruins,git,Placeable List/1/LocName,0,금화 더미
 hocarumruins,git,Placeable List/1/Description,0,큰 금 동전의 쌓임
 hocarumruins,git,Placeable List/8/LocName,0,X0_TRAP_ARROW
 hocarumruins,git,Placeable List/28/ItemList/0/LocalizedName,0,고대 전신 판금 갑옷 +4
-hocarumruins,git,Placeable List/28/ItemList/0/DescIdentified,0,"한 때는 멋진 갑옷이었지만, 그 아래의 저주는 여전히 강력하다."
+hocarumruins,git,Placeable List/28/ItemList/0/DescIdentified,0,한때는 훌륭한 갑옷이었지만 지금은 녹이 한 겹 덮여 있습니다. 그러나 그 아래 갑옷에 걸린 마법은 여전히 강력합니다.
 hocarumruins,git,Placeable List/28/ItemList/1/LocalizedName,0,사슬 헬멧
 hocarumruins,git,Placeable List/28/ItemList/1/DescIdentified,0,"이 헬멧은 다른 갑옷보다 더 좋은 상태지만, 분명히 같은 나이입니다."
 hocarumruins,git,Placeable List/28/ItemList/2/LocalizedName,0,빈 물 병
@@ -7104,7 +7104,7 @@ blacknpc,utc,FirstName,0,로버트
 blacknpc,utc,LastName,0,검은
 blacknpc,utc,Description,0,건강해 보이는 로버트 블랙은 분명 전선에서 매우 적합한 위치에 있습니다.
 bouncer,utc,FirstName,0,문지기
-bouncer,utc,Description,0,이 시설의 주인에게 고용된 이 거친 반포는 그의 정교하게 제작된 옷에서 거의 터져나오고 있습니다.
+bouncer,utc,Description,0,이 시설 주인에게 고용된 이 거친 하프오크는 몸에 꼭 맞게 재단한 양복이 터질 듯한 거구입니다.
 captain,utc,FirstName,0,드워프 캡틴
 captain,utc,Description,0,"스톤가드의 견고한 수비자들은 규율이 까다로우며, 철저히 훈련되어 매우 효과적인 전투력을 갖추고 있습니다."
 captive1,utc,FirstName,0,여성 포로
@@ -8332,7 +8332,7 @@ zep_harys2,utc,FirstName,0,해리스
 zep_harys2,utc,LastName,0,해치스
 zep_harys2,utc,Description,0,"해리스 해치스 (Harys Hatchis) 는 비범한 피치맨, 서비스의 하커, 케이지의 수천 가지 다른 제품, 비즈니스 및 인물의 프로모터이다. 가난에서 태어나서 자기로 만든 사람의 진정한 형상이라고 생각할 수 있습니다. 그러나 그렇지 않습니다. 그는 자신을 자유 리그의 자유 사상가로 간주하기 때문입니다. 해리스는 어떤 것을 홍보할 것입니다. 그는 그 안에 미래가 있다고 생각하거나 수익이있을 것이라고 생각하거나 단순히 그 홍보를 도전이라고 생각하면도 할 것입니다. 플라이러와 포스터 광고 제품과 그의 봉지를 착용하는 것은 시길에서 발견 될 수 있습니다. 레이디스 워드의 거리의 램프에서, 하비 워드의 벽에, 시장의 모든 곳에서 깨졌습니다. 그는 자신의 일을 수행합니다. 그는 그것을 다른 C 워드보다 더 잘합니다."
 zep_hippo,utc,FirstName,0,히포포타무스
-zep_hippo,utc,Description,0,"때로는 강마라고도 불리며, 황소류는 보통 강, 연못, 호수 근처에서 발견되는 거대한 포유류입니다."
+zep_hippo,utc,Description,0,"강말이라고도 불리는 하마는 강과 연못, 호수 안이나 근처에서 주로 발견되는 거대한 포유류입니다."
 zep_hiril,utc,FirstName,0,히릴
 zep_hiril,utc,Description,0,"이 금발 여자는 숙련된 전사처럼 보이고, 어떤 결정을 내릴지 고민하고 있는 것 같다."
 zep_hivekid,utc,FirstName,0,벌레 아이
@@ -8863,7 +8863,7 @@ aarcl038,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 
 aarcl039,uti,LocalizedName,0,비늘 갑옷 +1
 aarcl040,uti,LocalizedName,0,비늘 갑옷 +2
 aarcl041,uti,LocalizedName,0,고대 전신 판금 갑옷 +4
-aarcl041,uti,DescIdentified,0,"한 때는 멋진 갑옷이었지만, 그 아래의 저주는 여전히 강력하다."
+aarcl041,uti,DescIdentified,0,한때는 훌륭한 갑옷이었지만 지금은 녹이 한 겹 덮여 있습니다. 그러나 그 아래 갑옷에 걸린 마법은 여전히 강력합니다.
 aarcl042,uti,LocalizedName,0,가죽 갑옷+2
 aarcl043,uti,LocalizedName,0,훼손된 사슬 옷
 aarcl043,uti,DescIdentified,0,"자원이 소모되면서 투소네 군용은 지역의 모든 품질의 장비를 확보했고, 이런 오래된, 노후된 장비를 일반 사용에 남겼습니다."
@@ -11254,7 +11254,7 @@ zep_ci_pnt_002,utp,LocName,0,그림 - 거구의 여자와 아이
 zep_ci_pnt_003,utp,LocName,0,그림 - 거구의 선박
 zep_ci_pnt_004,utp,LocName,0,그림 - 거구의 내부
 zep_ci_pnt_005,utp,LocName,0,페인팅 - 큰 노파
-zep_ci_pnt_006,utp,LocName,0,그림 - 거구의 대인형 남자
+zep_ci_pnt_006,utp,LocName,0,그림 - 위풍당당한 남자
 zep_ci_pnt_007,utp,LocName,0,그림 - 거구의 사막
 zep_ci_pnt_008,utp,LocName,0,그림 - 작은 노파
 zep_ci_pnt_009,utp,LocName,0,그림 - 소형 내부

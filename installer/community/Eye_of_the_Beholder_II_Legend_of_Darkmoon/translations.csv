@@ -277,7 +277,7 @@ eb_guard_patrol,dlg,EntryList/9/Text,0,안녕하세요!
 eb_guard_patrol,dlg,EntryList/10/Text,0,괴롭히지 마세요!
 eb_guard_patrol,dlg,EntryList/11/Text,0,"안녕하세요, 우리 클랜과 함께 다시 한번 인사드리겠습니다."
 eb_halfast1,dlg,EntryList/0/Text,0,"술집 하녀는 잠시 중심한 것처럼 보였습니다. ""저하실로 들어가서는 안되요. 지금 안전하지 않은 곳이죠""."
-eb_halfast1,dlg,EntryList/1/Text,0,"술집 하녀는 숨을 죽여 잠시 멈추더니, ""이 모든 요리는 더 많은 맛을 필요로 한다. 요리사가 무슨 생각을 하고 있는지 확실하지 않다."""
+eb_halfast1,dlg,EntryList/1/Text,0,"술집 여종은 숨을 고르려고 잠시 멈춥니다. ""이 요리들은 전부 향신료를 더 넣어야 해. 요리사가 무슨 생각을 하는지 모르겠네."""
 eb_halfast1,dlg,EntryList/2/Text,0,"술집 여종업원이 잠시 심각한 표정을 짓는다. ""워터딥이 걱정돼요. 워터딥은 페이룬에서 하플링을 환영하는 몇 안 되는 도시 중 하나거든요."""
 eb_halfast1,dlg,EntryList/3/Text,0,"""우리는 요리사에게 '큰 엉덩이'라고 부르지만, 그의 얼굴에 말하지 않는다""."
 eb_halfast1,dlg,EntryList/4/Text,0,"술집 하녀는 요리사에게 노려보며 ""그는 일하기 참 괴로워."""
@@ -5869,10 +5869,10 @@ area007,git,Placeable List/24/LocName,0,크림슨 환영술 벽
 area007,git,Placeable List/25/LocName,0,크림슨 환영술 벽
 area007,git,Placeable List/26/LocName,0,크림슨 환영술 벽
 area007,git,Placeable List/27/LocName,0,크림슨 단단한 벽
-area007,git,Placeable List/28/LocName,0,불구경
+area007,git,Placeable List/28/LocName,0,화염 구슬
 area007,git,Placeable List/29/LocName,0,강력한 벽
 area007,git,Placeable List/29/Description,0,코콘의 중심핵을 둘러싸고 있는 벽돌 같은 웹 덩어리입니다.
-area007,git,Placeable List/30/LocName,0,불구경
+area007,git,Placeable List/30/LocName,0,화염 구슬
 area007,git,Placeable List/30/Description,0,이 이상한 장치는 유기적으로 보이고 촉각에 따뜻합니다. 당신이 만지면 떨림이나 파동이 통과합니다.
 area007,git,Placeable List/31/LocName,0,강력한 벽
 area007,git,Placeable List/31/Description,0,코콘의 중심핵을 둘러싸고 있는 벽돌 같은 웹 덩어리입니다.
@@ -6014,11 +6014,11 @@ area007,git,Placeable List/172/LocName,0,조각상 23
 area007,git,Placeable List/173/LocName,0,조각상 23
 area007,git,Placeable List/174/LocName,0,조각상 23
 area007,git,Placeable List/175/LocName,0,조각상 23
-area007,git,Placeable List/176/LocName,0,불구경
+area007,git,Placeable List/176/LocName,0,화염 구슬
 area007,git,Placeable List/176/Description,0,이 이상한 장치는 유기적으로 보이고 촉각에 따뜻합니다. 당신이 만지면 떨림이나 파동이 통과합니다.
 area007,git,Placeable List/177/LocName,0,강력한 벽
 area007,git,Placeable List/177/Description,0,코콘의 중심핵을 둘러싸고 있는 벽돌 같은 웹 덩어리입니다.
-area007,git,Placeable List/178/LocName,0,불구경
+area007,git,Placeable List/178/LocName,0,화염 구슬
 area007,git,Placeable List/179/LocName,0,강력한 벽
 area007,git,Placeable List/179/Description,0,코콘의 중심핵을 둘러싸고 있는 벽돌 같은 웹 덩어리입니다.
 area007,git,Placeable List/180/LocName,0,붉은 커튼
@@ -6592,9 +6592,9 @@ area009,git,Placeable List/90/LocName,0,바닥 탈진도 3
 area009,git,Placeable List/92/LocName,0,흙 부분 중간
 area009,git,Placeable List/94/LocName,0,반 먹힌 시체
 area010,git,Creature List/0/FirstName,0,방패 수호자
-area010,git,Creature List/0/Description,0,"마법사들에 의해 만들어졌으며 특별한 방패로 제어되는 방패 경호자들은 전투에서 주로 방어적인 역할을 하며, 흔들리지 않는 충성으로 주인을 보호합니다."
+area010,git,Creature List/0/Description,0,주문사들이 만들고 특별한 부적으로 조종하는 방패 수호자는 전투에서 주로 방어 역할을 하며 흔들림 없는 충성심으로 주인을 지킵니다.
 area010,git,Creature List/1/FirstName,0,방패 수호자
-area010,git,Creature List/1/Description,0,"마법사들에 의해 만들어졌으며 특별한 방패로 제어되는 방패 경호자들은 전투에서 주로 방어적인 역할을 하며, 흔들리지 않는 충성으로 주인을 보호합니다."
+area010,git,Creature List/1/Description,0,주문사들이 만들고 특별한 부적으로 조종하는 방패 수호자는 전투에서 주로 방어 역할을 하며 흔들림 없는 충성심으로 주인을 지킵니다.
 area010,git,Door List/2/LocName,0,룬 문
 area010,git,Door List/3/LocName,0,룬 문
 area010,git,Door List/4/LocName,0,룬 문
@@ -8122,7 +8122,7 @@ azuretower3east,git,Placeable List/8/LocName,0,아주우드 환영술 벽
 azuretower3east,git,Placeable List/9/LocName,0,아주우드 환영술 벽
 azuretower3east,git,Placeable List/10/LocName,0,아주우드 환영술 벽
 azuretower3east,git,Placeable List/12/LocName,0,아카나
-azuretower3east,git,Placeable List/22/LocName,0,불구경
+azuretower3east,git,Placeable List/22/LocName,0,화염 구슬
 azuretower3east,git,Placeable List/22/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 azuretower3east,git,Placeable List/23/LocName,0,불구름순환
 azuretower3east,git,Placeable List/23/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.

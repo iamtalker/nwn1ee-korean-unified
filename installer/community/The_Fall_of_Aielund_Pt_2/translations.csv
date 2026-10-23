@@ -1815,7 +1815,7 @@ fort_guard,dlg,ReplyList/3/Text,0,"그래, 그래, 그래, 그래, 그래, 그�
 fort_smith,dlg,EntryList/0/Text,0,"지금은 좀 바빠, 구매하고 싶다면 알리슨에게 가보세요."
 fort_smith,dlg,EntryList/1/Text,0,이게 우리가 만들 수 있는 최고의 무기야... 충분히 좋은지 희망해.
 fort_smith,dlg,EntryList/2/Text,0,저와 몇 명의 다른 사람들이 24시간 동안 무기와 장비를 확보하기 위해 노력했어요. 왕국에서 더 좋은 것은 찾아볼 수 없을 거예요.
-fort_smith,dlg,EntryList/3/Text,0,구매를 하고 싶다면 알리슨과 대화해보세요. 그녀는 우리를 대표하는 사람입니다. 아니면 여성이죠. 그래요.
+fort_smith,dlg,EntryList/3/Text,0,"구매하려면 앨리슨에게 말해요. 우리 대표 남자... 아니, 여자죠. 그래요."
 fortmage,dlg,EntryList/0/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 fortmage,dlg,EntryList/1/Text,0,확실히. 특별히 찾고 있던 것이 있었나요?
 fortmage,dlg,EntryList/2/Text,0,물론입니다.
@@ -2615,7 +2615,7 @@ hench_hotu,dlg,EntryList/49/Text,0,"""그들은 나를 놀라게하지 않을 �
 hench_hotu,dlg,EntryList/50/Text,0,"""심판하기 어렵지만 내가 무엇을 할 수 있는지 보여주마."""
 hench_hotu,dlg,EntryList/51/Text,0,"""좋아, 마지막 순간까지 기다리겠어!"""
 hench_hotu,dlg,EntryList/52/Text,0,"""좋아. 내가 느끼는 것이 가장 좋은 일을 할게."""
-hench_hotu,dlg,EntryList/53/Text,0,"""이제 나는 내 비손에 더 무거운 무기를 사용할 것이다."""
+hench_hotu,dlg,EntryList/53/Text,0,"""이제 보조 손에는 더 무거운 무기를 들겠어."""
 hench_hotu,dlg,EntryList/54/Text,0,"""지금은 손바닥에 가벼운 무기를 사용할 뿐이다""."
 hench_hotu,dlg,EntryList/55/Text,0,나는 이중 무기를 사용하지 않을 것이다.
 hench_hotu,dlg,EntryList/56/Text,0,이제 나는 양손 무기를 사용할 것이다.
@@ -7433,14 +7433,14 @@ area025,git,Creature List/1/FirstName,0,지옥불 용병
 area025,git,Creature List/1/Description,0,"이 지역의 최고 용병들로 알려진 지옥불병대는 전문적으로 운영되는 조직으로, 합의된 전투에서 거의 패배하지 않습니다."
 area025,git,Creature List/1/ItemList/1/LocalizedName,0,지옥화열의 방패
 area025,git,Creature List/1/ItemList/1/DescIdentified,0,"이 헤랄딕 방패는 아이룬드의 색상과 표준을 지니고 있으며, 이 방패는 왕관에 대한 사용자의 충성을 상징하는 강력한 방어 장치입니다."
-area025,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,지옥화판
+area025,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,지옥불 판금 갑옷
 area025,git,Creature List/1/Equip_ItemList/0/Description,0,이 갑옷은 눈을 끄는 방식으로 빛난다.
 area025,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,"군대에 용기를 주고 전투장에서 눈에 띄는 기록점으로 사용될 수 있도록 설계된 이 화려한 갑옷은 극도로 눈에 띄며, 착용하는 사람을 경외와 전설의 인물로 만듭니다."
 area025,git,Creature List/2/FirstName,0,지옥불 용병
 area025,git,Creature List/2/Description,0,"이 지역의 최고 용병들로 알려진 지옥불병대는 전문적으로 운영되는 조직으로, 합의된 전투에서 거의 패배하지 않습니다."
 area025,git,Creature List/2/ItemList/1/LocalizedName,0,지옥화열의 방패
 area025,git,Creature List/2/ItemList/1/DescIdentified,0,"이 헤랄딕 방패는 아이룬드의 색상과 표준을 지니고 있으며, 이 방패는 왕관에 대한 사용자의 충성을 상징하는 강력한 방어 장치입니다."
-area025,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,지옥화판
+area025,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,지옥불 판금 갑옷
 area025,git,Creature List/2/Equip_ItemList/0/Description,0,이 갑옷은 눈을 끄는 방식으로 빛난다.
 area025,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,"군대에 용기를 주고 전투장에서 눈에 띄는 기록점으로 사용될 수 있도록 설계된 이 화려한 갑옷은 극도로 눈에 띄며, 착용하는 사람을 경외와 전설의 인물로 만듭니다."
 area026,git,Creature List/0/FirstName,0,평민
@@ -7991,7 +7991,7 @@ castle2,git,Placeable List/9/Description,0,큰 랜데리어
 castle2,git,Placeable List/12/LocName,0,벽난로 - 켜짐
 castle2,git,Placeable List/12/Description,0,벽난로
 castle2,git,Placeable List/15/LocName,0,페인팅 - 큰 노파
-castle2,git,Placeable List/16/LocName,0,그림 - 거구의 대인형 남자
+castle2,git,Placeable List/16/LocName,0,그림 - 위풍당당한 남자
 castle2,git,Placeable List/17/LocName,0,그림
 castle2,git,Placeable List/22/LocName,0,그림
 castle2,git,Placeable List/23/LocName,0,커튼 - 닫힌 빨간 넓은
@@ -9690,14 +9690,14 @@ trinity001,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,비고의 불�
 trinity001,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,한때 용병사령자 비고 수데텐의 소유였던 이 불일치한 갑옷은 여전히 많은 마법으로 강력합니다.
 trinity001,git,Creature List/20/FirstName,0,지옥불 용병
 trinity001,git,Creature List/20/Description,0,"이 지역의 최고 용병들로 알려진 지옥불병대는 전문적으로 운영되는 조직으로, 합의된 전투에서 거의 패배하지 않습니다."
-trinity001,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,지옥화판
+trinity001,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,지옥불 판금 갑옷
 trinity001,git,Creature List/20/Equip_ItemList/0/Description,0,이 갑옷은 눈을 끄는 방식으로 빛난다.
 trinity001,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,"군대에 용기를 주고 전투장에서 눈에 띄는 기록점으로 사용될 수 있도록 설계된 이 화려한 갑옷은 극도로 눈에 띄며, 착용하는 사람을 경외와 전설의 인물로 만듭니다."
 trinity001,git,Creature List/20/Equip_ItemList/2/LocalizedName,0,지옥화열의 방패
 trinity001,git,Creature List/20/Equip_ItemList/2/DescIdentified,0,"이 헤랄딕 방패는 아이룬드의 색상과 표준을 지니고 있으며, 이 방패는 왕관에 대한 사용자의 충성을 상징하는 강력한 방어 장치입니다."
 trinity001,git,Creature List/21/FirstName,0,지옥불 용병
 trinity001,git,Creature List/21/Description,0,"이 지역의 최고 용병들로 알려진 지옥불병대는 전문적으로 운영되는 조직으로, 합의된 전투에서 거의 패배하지 않습니다."
-trinity001,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,지옥화판
+trinity001,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,지옥불 판금 갑옷
 trinity001,git,Creature List/21/Equip_ItemList/0/Description,0,이 갑옷은 눈을 끄는 방식으로 빛난다.
 trinity001,git,Creature List/21/Equip_ItemList/0/DescIdentified,0,"군대에 용기를 주고 전투장에서 눈에 띄는 기록점으로 사용될 수 있도록 설계된 이 화려한 갑옷은 극도로 눈에 띄며, 착용하는 사람을 경외와 전설의 인물로 만듭니다."
 trinity001,git,Creature List/21/Equip_ItemList/2/LocalizedName,0,지옥화열의 방패
@@ -9728,14 +9728,14 @@ trinity001,git,Creature List/25/FirstName,0,지옥불 용병
 trinity001,git,Creature List/25/Description,0,"이 지역의 최고 용병들로 알려진 지옥불병대는 전문적으로 운영되는 조직으로, 합의된 전투에서 거의 패배하지 않습니다."
 trinity001,git,Creature List/25/ItemList/1/LocalizedName,0,지옥화열의 방패
 trinity001,git,Creature List/25/ItemList/1/DescIdentified,0,"이 헤랄딕 방패는 아이룬드의 색상과 표준을 지니고 있으며, 이 방패는 왕관에 대한 사용자의 충성을 상징하는 강력한 방어 장치입니다."
-trinity001,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,지옥화판
+trinity001,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,지옥불 판금 갑옷
 trinity001,git,Creature List/25/Equip_ItemList/0/Description,0,이 갑옷은 눈을 끄는 방식으로 빛난다.
 trinity001,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,"군대에 용기를 주고 전투장에서 눈에 띄는 기록점으로 사용될 수 있도록 설계된 이 화려한 갑옷은 극도로 눈에 띄며, 착용하는 사람을 경외와 전설의 인물로 만듭니다."
 trinity001,git,Creature List/26/FirstName,0,지옥불 용병
 trinity001,git,Creature List/26/Description,0,"이 지역의 최고 용병들로 알려진 지옥불병대는 전문적으로 운영되는 조직으로, 합의된 전투에서 거의 패배하지 않습니다."
 trinity001,git,Creature List/26/ItemList/1/LocalizedName,0,지옥화열의 방패
 trinity001,git,Creature List/26/ItemList/1/DescIdentified,0,"이 헤랄딕 방패는 아이룬드의 색상과 표준을 지니고 있으며, 이 방패는 왕관에 대한 사용자의 충성을 상징하는 강력한 방어 장치입니다."
-trinity001,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,지옥화판
+trinity001,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,지옥불 판금 갑옷
 trinity001,git,Creature List/26/Equip_ItemList/0/Description,0,이 갑옷은 눈을 끄는 방식으로 빛난다.
 trinity001,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,"군대에 용기를 주고 전투장에서 눈에 띄는 기록점으로 사용될 수 있도록 설계된 이 화려한 갑옷은 극도로 눈에 띄며, 착용하는 사람을 경외와 전설의 인물로 만듭니다."
 trinity001,git,Creature List/27/FirstName,0,낙타
@@ -9996,7 +9996,7 @@ bob,utc,Description,0,한때 브랙워스 아르스 인의 소유자이자 운�
 bomb1,utc,FirstName,0,폭격자
 bomb1,utc,Description,0,"투소네 군대의 평범한 보병들, 이들은 그들의 군대의 주축을 이루고 있습니다."
 bouncer,utc,FirstName,0,문지기
-bouncer,utc,Description,0,이 시설의 주인에게 고용된 이 거친 반포는 그의 정교하게 제작된 옷에서 거의 터져나오고 있습니다.
+bouncer,utc,Description,0,이 시설 주인에게 고용된 이 거친 하프오크는 몸에 꼭 맞게 재단한 양복이 터질 듯한 거구입니다.
 bugbeara001,utc,FirstName,0,버그베어 루드러
 bugwiza001,utc,FirstName,0,버그베어 주술사
 captain,utc,FirstName,0,드워프 캡틴
@@ -11196,7 +11196,7 @@ zep_harys2,utc,FirstName,0,해리스
 zep_harys2,utc,LastName,0,해치스
 zep_harys2,utc,Description,0,"해리스 해치스 (Harys Hatchis) 는 비범한 피치맨, 서비스의 하커, 케이지의 수천 가지 다른 제품, 비즈니스 및 인물의 프로모터이다. 가난에서 태어나서 자기로 만든 사람의 진정한 형상이라고 생각할 수 있습니다. 그러나 그렇지 않습니다. 그는 자신을 자유 리그의 자유 사상가로 간주하기 때문입니다. 해리스는 어떤 것을 홍보할 것입니다. 그는 그 안에 미래가 있다고 생각하거나 수익이있을 것이라고 생각하거나 단순히 그 홍보를 도전이라고 생각하면도 할 것입니다. 플라이러와 포스터 광고 제품과 그의 봉지를 착용하는 것은 시길에서 발견 될 수 있습니다. 레이디스 워드의 거리의 램프에서, 하비 워드의 벽에, 시장의 모든 곳에서 깨졌습니다. 그는 자신의 일을 수행합니다. 그는 그것을 다른 C 워드보다 더 잘합니다."
 zep_hippo,utc,FirstName,0,히포포타무스
-zep_hippo,utc,Description,0,"때로는 강마라고도 불리며, 황소류는 보통 강, 연못, 호수 근처에서 발견되는 거대한 포유류입니다."
+zep_hippo,utc,Description,0,"강말이라고도 불리는 하마는 강과 연못, 호수 안이나 근처에서 주로 발견되는 거대한 포유류입니다."
 zep_hiril,utc,FirstName,0,히릴
 zep_hiril,utc,Description,0,"이 금발 여자는 숙련된 전사처럼 보이고, 어떤 결정을 내릴지 고민하고 있는 것 같다."
 zep_hivekid,utc,FirstName,0,벌레 아이
@@ -13270,7 +13270,7 @@ sunblade,uti,LocalizedName,0,썬블레이드
 sunfullpl001,uti,LocalizedName,0,지휘의 갑옷
 sunfullpl001,uti,Description,0,이 갑옷은 눈을 끄는 방식으로 빛난다.
 sunfullpl001,uti,DescIdentified,0,"군대에 용기를 주고 전투장에서 눈에 띄는 기록점으로 사용될 수 있도록 설계된 이 화려한 갑옷은 극도로 눈에 띄며, 착용하는 사람을 경외와 전설의 인물로 만듭니다."
-sunfullpl002,uti,LocalizedName,0,지옥화판
+sunfullpl002,uti,LocalizedName,0,지옥불 판금 갑옷
 sunfullpl002,uti,Description,0,이 갑옷은 눈을 끄는 방식으로 빛난다.
 sunfullpl002,uti,DescIdentified,0,"군대에 용기를 주고 전투장에서 눈에 띄는 기록점으로 사용될 수 있도록 설계된 이 화려한 갑옷은 극도로 눈에 띄며, 착용하는 사람을 경외와 전설의 인물로 만듭니다."
 sunfullpl004,uti,LocalizedName,0,드워프 왕의 갑옷
@@ -14265,7 +14265,7 @@ zep_ci_pnt_002,utp,LocName,0,그림 - 거구의 여자와 아이
 zep_ci_pnt_003,utp,LocName,0,그림 - 거구의 선박
 zep_ci_pnt_004,utp,LocName,0,그림 - 거구의 내부
 zep_ci_pnt_005,utp,LocName,0,페인팅 - 큰 노파
-zep_ci_pnt_006,utp,LocName,0,그림 - 거구의 대인형 남자
+zep_ci_pnt_006,utp,LocName,0,그림 - 위풍당당한 남자
 zep_ci_pnt_007,utp,LocName,0,그림 - 거구의 사막
 zep_ci_pnt_008,utp,LocName,0,그림 - 작은 노파
 zep_ci_pnt_009,utp,LocName,0,그림 - 소형 내부

@@ -756,7 +756,7 @@ cavemaze001,git,TriggerList/16/LocalizedName,0,스카우트_캠프
 cavemaze001,git,TriggerList/17/LocalizedName,0,신비한 납골당
 cavemaze001,git,TriggerList/18/LocalizedName,0,드로캠프
 cavemaze001,git,TriggerList/19/LocalizedName,0,강가 암붕
-cavemaze001,git,TriggerList/20/LocalizedName,0,잃어버린 드루이드
+cavemaze001,git,TriggerList/20/LocalizedName,0,길 잃은 드로우
 cavemaze001,git,TriggerList/21/LocalizedName,0,새 일반
 cavemaze001,git,WaypointList/1/LocalizedName,0,수정 방
 cavemaze001,git,WaypointList/1/MapNote,0,수정 방
@@ -2943,9 +2943,9 @@ module,ifo,Mod_Description,0,"1장 - 사냥이 시작됩니다.
 
 캐릭터는 적어도 4레벨이어야 합니다."
 module,jrl,Categories/0/Name,0,고블린들을 노예로 삼는 것
-module,jrl,Categories/0/EntryList/0/Text,0,"제 첫 번째 명령은 동쪽 강가에 위치한 고블린 웅덩이를 찾는 것입니다. 그들은 우리의 존재를 모르도록 해야 합니다. 미스터스 피우비엔은 성인 전사와 저항자, 그리고 어른들을 모두 살해하길 원합니다. 하지만 저는 아이들과 여성들을 노예로 잡아야 합니다.
+module,jrl,Categories/0/EntryList/0/Text,0,"제가 받은 첫 명령은 동쪽 강가의 고블린 소굴을 찾는 것입니다. 그들은 우리가 온 것을 모를 겁니다. 피위비엔 여주인은 성인 전사와 저항자, 장로들을 모두 죽이라고 했습니다. 하지만 아이들과 여자들은 노예로 삼아야 합니다.
 
-이 명령이 제 능력을 테스트하는 것인지 궁금합니다."
+ 이것이 제 능력을 시험하는 것인지 궁금합니다."
 module,jrl,Categories/0/EntryList/1/Text,0,"내 첫 명령은 동쪽 강가에 있는 고블린 소굴을 수색하는 것이다. 적들은 우리가 온 줄 몰라야 한다. 피위비엔 부인은 성인 전사와 저항자, 장로를 모두 죽이고 아이들과 여성은 노예로 삼으라고 했다.
 
 이게 내 능력을 시험하는 건가 싶다.
@@ -2961,7 +2961,7 @@ module,jrl,Categories/2/EntryList/0/Text,0,칼루리스는 전투에서 쓰러�
 module,jrl,Categories/3/Name,0,피우비엔을 죽이기
 module,jrl,Categories/3/EntryList/0/Text,0,트리안더는 내 변장을 간파하고 내 출신의 진실을 들이댔다. 그는 내가 드로우가 아니라는 걸 안다. 나는 목숨을 구하는 대가로 사냥 무리의 지도자 피위비엔 마님을 죽이기로 동의해야 했다. 가혹한 거래였다...
 module,jrl,Categories/3/EntryList/1/Text,0,"피우비엔 테트네스와 그 병사들을 죽이는 데 성공했고, 이 지역에는 소수의 독자들이 남아있었고, 트리안데르의 비행 후, 저는 이제 그 동굴을 혼자 탐험할 수 있게 되었습니다."
-module,jrl,Categories/4/Name,0,잃어버린 드루이드
+module,jrl,Categories/4/Name,0,길 잃은 드로우
 module,jrl,Categories/4/EntryList/0/Text,0,피우비엔 여주님이 도피하는 괴물들을 쫓아다니는 익사전사들을 보냈어요.
 module,jrl,Categories/4/EntryList/1/Text,0,거대 거미 괴물들의 소굴에서 실종된 순찰대의 흔적을 찾았어. 그들의 대장은 파이어버그 소굴에서 실종됐어.
 module,jrl,Categories/5/Name,0,피우비엔에 대한 음모
@@ -3078,7 +3078,7 @@ armhe014,uti,LocalizedName,0,감시자의 투구
 armhe014,uti,DescIdentified,0,"이 마법 의 헤드 피스 는 보호자 신 인 헬름 의 신자 들 이 만든 것 인가, 아니면 그 들 이 그 이름 을 더 편리한 상황 으로 얻었는지는 분명 하지 않습니다. 어떤 상황 이든, 그 들 은 경호자 들 과 경호자 들 에게 매우 소중 히 여긴다. 그 들 은 모두 그 어떤 종류 의 가시적 인 빛 을 낸다. 그리고 많은 사람 들 은 마법 으로 착용 하는 사람 의 감각 을 고르게 한다. 말할 필요 없이, 악당 들 은 그 들 을 착용 하기 시작 해 왔으며, '구스 에게 좋은 것 은 똥구멍 에 좋은 것'이라는 옛 속담 을 증명 한다."
 ashmlw011,uti,LocalizedName,0,대형 방패 +1
 ashmlw011,uti,DescIdentified,0,이 마법 방패는 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 특징을 나타내고 있지 않습니다.
-calandosstaff,uti,LocalizedName,0,캐스탄도의 마법사로드
+calandosstaff,uti,LocalizedName,0,카스탄도의 지팡이
 gnurmachsplainke,uti,LocalizedName,0,르마흐스 차원 열쇠
 gnurmachsskeleto,uti,LocalizedName,0,어마치스 해골 키
 granbakthsdungeo,uti,LocalizedName,0,그랜바크스 던전 키
@@ -3394,7 +3394,7 @@ cavedintunnel003,utt,LocalizedName,0,잠복 캠프
 cavedintunnel004,utt,LocalizedName,0,출구
 cavedintunnel005,utt,LocalizedName,0,고블린 레이어
 cavedintunnel006,utt,LocalizedName,0,강가 암붕
-cavedintunnel007,utt,LocalizedName,0,잃어버린 드루이드
+cavedintunnel007,utt,LocalizedName,0,길 잃은 드로우
 cavemaze,utt,LocalizedName,0,동굴 미로
 goblin_tunnel,utt,LocalizedName,0,고블린 터널
 intro,utt,LocalizedName,0,인트로

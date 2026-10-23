@@ -2547,7 +2547,9 @@ pig2,dlg,EntryList/1/Text,0,농부 드레이크는 예전처럼 행복하지 않
 pool,dlg,EntryList/0/Text,0,"이 연못의 물은 비교적 맑지만, 근처에 자라는 악취버섯 때문에 색이 탁하다.
 
 연못물을 마시겠는가?"
-pool,dlg,EntryList/1/Text,0,<StartCheck>[실패]</Start> 추가적인 정보를 알아볼 수 없습니다. 수영장에서 물을 마시고 싶습니까?
+pool,dlg,EntryList/1/Text,0,"<StartCheck>[실패]</Start> 추가 정보는 알아낼 수 없습니다.
+
+연못의 물을 마시겠습니까?"
 pool,dlg,EntryList/2/Text,0,<StartAction>[성공]</Start> 당신은 스텐치캡 토드스툴의 근접이 물에 유익한 특성을 준다는 것을 알 수 있습니다. 이는 토드스툴의 해로운 영향에 대항하고 아마도 다른 독소에 저항성을 제공 할 수 있습니다.
 pool,dlg,EntryList/3/Text,0,"<StartAction>[자연 지식]</Start> 이 수영장 의 물 은 비교적 신선 하긴 하지만, 근처 에 자라는 스텐치캡 토드스톨들 에 의해 색채 를 띠게 된다. 이 곰팡이에 대한 당신 의 지식 은 그 물 을 마시는 것 이 토드스톨들 의 해로운 영향 을 견제 해 줄 수 있으며, 아마도 다른 독성 에 대한 저항력 을 제공 할 수 있다고 제안 한다. 수영장 에서 마실 것 을 원하십니까?"
 pool,dlg,EntryList/4/Text,0,"스텐치캡 토드스툴의 근접성은 물에 유익한 성질을 부여하여 토드스툴의 해로운 영향을 상쇄하고 다른 독소에 대한 저항력을 제공할 수 있다는 것을 알고 있습니다. 
@@ -3010,7 +3012,7 @@ valour,dlg,ReplyList/13/Text,0,"아, 그래, 그게 바로 그것이야."
 valour,dlg,ReplyList/16/Text,0,스파이더 스틱이 있네! 지금 사용해서 힘장장을 없애볼 거야.
 valour,dlg,ReplyList/17/Text,0,아직은 아니야.
 valour,dlg,ReplyList/18/Text,0,- 잘 됐어
-vilma,dlg,EntryList/0/Text,0,"오, 내게 뛰어내렸네. 나이가 든 여자가 잠을 자 있을 때는 더 이상 방해하지 말아야 해."
+vilma,dlg,EntryList/0/Text,0,"어머, 깜짝 놀랐잖니. 낮잠 자는 노인을 방해하면 안 된다는 걸 모르니?"
 vilma,dlg,EntryList/1/Text,0,"60년 동안 오라네에 살았는데, 예전처럼 돌아가지 못해도 잘 보이지 않는 일이 거의 없습니다."
 vilma,dlg,EntryList/2/Text,0,'44년 대형 마른기근 이후 이렇게 힘든 시기는 없었습니다. 강이 너무 건조해서 '행운' 브리얼리의 골격이 보였습니다.
 vilma,dlg,EntryList/3/Text,0,23년 '그레이트 프라이즈'에서 그렇게 운이 좋지 않았죠. 그는 폭포로 내려가면서 얼음으로 추락하고 익사했을 때요.
@@ -4872,7 +4874,7 @@ fontenmereabbey,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,현혹된 �
 fontenmereabbey,git,Creature List/3/FirstName,0,레오폴드 형제
 fontenmereabbey,git,Creature List/3/Description,0,"이 유령처럼 보이는 존재는 황색 사제 의복을 입고 있으며, 많은 문신을 찍고 있습니다."
 fontenmereabbey,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,펠로르의 노랑 의복
-fontenmereabbey,git,Creature List/3/Equip_ItemList/0/Description,0,이 노란색 의복은 Fontenmere 아비리의 승려들이 착용하는 전형적인 의복이다.
+fontenmereabbey,git,Creature List/3/Equip_ItemList/0/Description,0,이 노란 옷은 폰텐미어 수도원의 수도승들이 입는 전형적인 복장입니다.
 fontenmereabbey,git,Creature List/4/FirstName,0,고블린 아커
 fontenmereabbey,git,Creature List/4/Description,0,이 도블린의 표기들은 숲에서 온 레드 스타 부족에 대한 충성을 나타냅니다.
 fontenmereabbey,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,현혹된 생명체의 피부
@@ -5085,7 +5087,7 @@ fontenmereabbey,git,Placeable List/168/Description,0,땅 위에 인간의 골기
 fontenmereabbey,git,Placeable List/168/ItemList/0/LocalizedName,0,태양 수리검
 fontenmereabbey,git,Placeable List/168/ItemList/0/DescIdentified,0,이 수리검은 종종 펠로르의 수도사들이 그의 정의로운 분노를 전달하기 위해 사용한다.
 fontenmereabbey,git,Placeable List/168/ItemList/1/LocalizedName,0,펠로르의 노랑 의복
-fontenmereabbey,git,Placeable List/168/ItemList/1/Description,0,이 노란색 의복은 Fontenmere 아비리의 승려들이 착용하는 전형적인 의복이다.
+fontenmereabbey,git,Placeable List/168/ItemList/1/Description,0,이 노란 옷은 폰텐미어 수도원의 수도승들이 입는 전형적인 복장입니다.
 fontenmereabbey,git,Placeable List/172/LocName,0,글꼴
 fontenmereabbey,git,Placeable List/172/Description,0,이 무너지는 병은 여전히 작은 양의 거룩한 물을 유지합니다.
 fontenmereabbey,git,Placeable List/177/LocName,0,캐비닛
@@ -11842,7 +11844,7 @@ woodsmansward,uti,LocalizedName,0,우드맨의 방어막
 woodsmansward,uti,DescIdentified,0,"이 가죽 갑옷은 딤 포레스트와 혼우드의 숲지기와 추적자들이 즐겨 입습니다. 위험한 숲의 적들로부터 몸을 숨기는 능력을 높여주며, 드루이드의 축복 덕분에 대부분의 숲 생물이 호의적으로 반응합니다."
 wthdt002,uti,LocalizedName,0,비늘
 yellowrobelath,uti,LocalizedName,0,펠로르의 노랑 의복
-yellowrobelath,uti,Description,0,이 노란색 의복은 Fontenmere 아비리의 승려들이 착용하는 전형적인 의복이다.
+yellowrobelath,uti,Description,0,이 노란 옷은 폰텐미어 수도원의 수도승들이 입는 전형적인 복장입니다.
 zakariasletter,uti,LocalizedName,0,자카리아의 편지
 zakariasletter,uti,Description,0,"도리안과 류빌란, 트롤 전쟁에서 함께 싸웠던 이후 제 인생에서 많은 일들이 일어났습니다. 언젠가 여러분들과 많은 즐거운 것들에 대해 이야기 할 기회를 가질 수 있기를 희망합니다. 안타깝게도, 지금 저의 용기 있는 동료들에게 극심한 필요시대에 제 백성에게 도움을 요청하는 것입니다. 저는 오르라네를 위협하는 위험을 설명조차 할 수 없습니다. 왜냐하면 그 진정한 본질을 알지 못하기 때문입니다. 저는 그것이 어떻게든 막을 수 없다면, 이 악은 제 작은 마을과 그 가족들을 소멸시킬 것임을 알고 있습니다. 우리는 역사의 먼지에 흔적을 남기지 않고 사라질 것입니다. 악의 힘은 여기서 작용하고 있으며, 두려움과 의심의 웹에 숨겨진 진정한 본질에 의해 더욱 무서운 것입니다. 나는 당신과 함께 오라네와 함께 와서 당신의 기술을 빌려주고, 그 위협을 보냅니다."
 zakschainmail,uti,LocalizedName,0,잭의 사슬갑옷

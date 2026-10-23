@@ -278,12 +278,12 @@ barkeep,dlg,EntryList/51/Text,0,"""타모라가 당신을 축복해요. 이 작�
 barkeep,dlg,EntryList/52/Text,0,"""...하지만 그는 확실히 좋은 동반자와 모험가가 될 것입니다. 어둠의 엘프로서 무엇을 도와드릴까요?"""
 barkeep,dlg,EntryList/53/Text,0,"""시장에서의 파괴를 보셨나요? 정말 많은 사람들이 죽었나 봅니다!"""
 barkeep,dlg,EntryList/54/Text,0,"""그들은 시장에 폭탄을 심어 놓았습니다. 여기에서도 폭발을 느낄 수 있었습니다. 일부 상인들이 죽었고, 대부분의 무역 상품과 재고는 불에 타서 가루가 되었습니다. 이 공격은 열흘 동안 세 번째 공격이었습니다!"""
-barkeep,dlg,EntryList/55/Text,0,"""아무도 확실하지 않지만, 주간타림이 몇 주 전에 이곳에 자신의 출장소를 세웠다기 때문에, 나는 그들이 잘못한 것이라고 확신한다. 놈들!"""
+barkeep,dlg,EntryList/55/Text,0,"""아무도 확실히는 모르지만, 젠타림이 몇 주 전에 이곳에 전초기지를 세웠으니 그들이 범인이라고 확신해. 망할 놈들!"""
 barkeep,dlg,EntryList/56/Text,0,"""진짜. 수색자들이 그들을 도시에 잡아두게 내버려두다니 이해가 가지 않네. 즉시 공격해야 했다."""
 barkeep,dlg,EntryList/57/Text,0,"""그들은 바보야. 자신을 한번 돌아봐. 어둠 속의 엘프가 자신의 뒷마당에서 자유롭게 돌아다닐 수가 있겠는가? 무엇을 원하는 거야?"""
 barkeep,dlg,EntryList/58/Text,0,"""오, 용서해 주세요. 당신은 어두운 엘프로서 매우 친절하고 이해하는 사람입니다. 무엇을 원하시나요?"""
 barkeep,dlg,EntryList/59/Text,0,당신은 얼음처럼 차가운 어둠의 엘프여. 나는 당신 같은 사람들을 위해 서비스를 제공하지 않습니다.
-barkeep,dlg,EntryList/60/Text,0,"""당신 같은 사람들을 위해 문을 닫았습니다. 다른 오두막을 찾아가세요."""
+barkeep,dlg,EntryList/60/Text,0,"""당신 같은 사람은 받지 않습니다. 다른 여관을 찾아보세요."""
 barkeep,dlg,ReplyList/1/Text,0,"""나는 가야 한다""."
 barkeep,dlg,ReplyList/2/Text,0,"""주기 좀 줘"""
 barkeep,dlg,ReplyList/3/Text,0,우유 좀 마시려고
@@ -3219,7 +3219,7 @@ nachnotu,dlg,ReplyList/7/Text,0,"""나는 죽은 탐구자 베란트를 찾기 �
 nachnotu,dlg,ReplyList/9/Text,0,"""베란트는 어떻게 이런 일을 할 수 있어?"""
 nachnotu,dlg,ReplyList/10/Text,0,"""이 책은 베란트에게 무덤에서 일어나는 무덤의 자식들을 부활시킬 힘을 주는가?"""
 nachnotu,dlg,ReplyList/11/Text,0,"""당신은 무령이 맞나? 왜 그런 세부 사항까지 알려주나?"""
-nachnotu,dlg,ReplyList/12/Text,0,"""아, 알겠습니다. 베란트와 그의 무덤군으로부터 당신의 라이어를 해방시키고 싶으세요."""
+nachnotu,dlg,ReplyList/12/Text,0,"""아, 알겠습니다. 베란트와 그의 언데드 군대로부터 당신의 소굴을 해방시켜 달라는 말씀이군요."""
 nachnotu,dlg,ReplyList/15/Text,0,"""이 책은 나의 것이다!"""
 nachnotu,dlg,ReplyList/16/Text,0,"""당신은 무덤 속의 자식이 맞나? 왜 주인에게 대항해 일하나?"""
 nachnotu,dlg,ReplyList/17/Text,0,"""나는 이것을 끝내기 위해 왔어."""
@@ -3584,7 +3584,7 @@ sememmon,dlg,EntryList/6/Text,0,"""그리고...?"""
 sememmon,dlg,EntryList/7/Text,0,"""우리는 파괴된 중심부에 대한 통제력을 확장하려고 노력하고 있지만 몇 가지 문제에 직면했습니다..."""
 sememmon,dlg,EntryList/8/Text,0,<StartAction>[불가]</Start>#####################################################################################################################################################################################################################################################
 sememmon,dlg,EntryList/9/Text,0,"""경비병, 그 어두운 엘프를 데리고 밖에서 기다리게. 나는 지금 세멘몬과 혼자 몇 마디 할 거야. 다시 불러줄 때 알려줄게."""
-sememmon,dlg,EntryList/10/Text,0,"<StartAction>[노는 분노로 울고]</Start> ""당신은 몸을 다시 가져오지 못했나?"""
+sememmon,dlg,EntryList/10/Text,0,"<StartAction>[분노로 얼굴이 창백해지며]</Start>""시체를 되찾지 못한 건가?"""
 sememmon,dlg,EntryList/11/Text,0,"""너 돌아왔군. 무덤에서 뭘 찾았어?"""
 sememmon,dlg,EntryList/12/Text,0,<StartAction>[놀라기]</Start>#################################################
 sememmon,dlg,EntryList/13/Text,0,"<StartAction>[그 분노를 진정시킬 수 거의 없습니다]</Start>""나는 개인적으로 이것을 바꿀 것입니다. 당신은 다시는 그들과 문제가 없을 것입니다. 나는 약속합니다""."
@@ -3710,7 +3710,7 @@ sememmon,dlg,EntryList/136/Text,0,"""아직도 가지고 있나?"""
 sememmon,dlg,EntryList/137/Text,0,"""이 유물을 내게 주시오. 저는 수십 년 동안 마법의 재능을 훈련시켜왔고, 당신의 능력이 실패할 때 그 재능을 드러낼 수 있습니다."""
 sememmon,dlg,EntryList/138/Text,0,"<StartAction>[주의자]</Start>""그래서 당신은 신성한 임무에 나왔나?"""
 sememmon,dlg,EntryList/139/Text,0,"""나를 오해하지 마세요. 저는 그냥 호기심이었어요. 이 지역은 제 통제하에 있고, 잘 알고 있어야 하는 것이 제 의무입니다."""
-sememmon,dlg,EntryList/140/Text,0,"""현재는 아니야.""<StartAction>[거친 미소를 지으며]</Start>""당신의 친구가 이미 내가 알고 싶은 모든 것을 말해줬어. 네가 자유롭게 돌아다닐 수 있지만, 경고를 받으시오. 곤경에서 멀리 떨어져 있으시오. 여기서는 위험한 사람들이 있어."""
+sememmon,dlg,EntryList/140/Text,0,"""지금은 아니야."" <StartAction>[그녀가 능글맞게 웃는다]</Start>""네 친구가 내가 알고 싶었던 건 이미 다 말해 줬어. 자유롭게 돌아다녀도 돼. 하지만 경고하지. 문제를 일으키지 마. 여기 위험한 자들이 있거든."""
 sememmon,dlg,EntryList/141/Text,0,"""캡틴, 그들을 밖으로 데리고 가서 오크 리더를 불러라."""
 sememmon,dlg,EntryList/142/Text,0,"""당신이 원하는 대로, 신사님""."
 sememmon,dlg,EntryList/144/Text,0,"""이상하네. 당신의 마음은 보호되어 있어. 나의 강력한 마법조차 그 방패를 관통할 수 없네."""
@@ -11308,7 +11308,7 @@ boltofholiness,uti,LocalizedName,0,거룩한 번개
 boltofslippering,uti,LocalizedName,0,슬립링의 번개
 broochshielding,uti,LocalizedName,0,차폐의 브로치
 bucklalsgarb,uti,LocalizedName,0,버클라의 의복
-calandosstaff,uti,LocalizedName,0,캐스탄도의 마법사로드
+calandosstaff,uti,LocalizedName,0,카스탄도의 지팡이
 calmdimingatekey,uti,LocalizedName,0,칼미딤 성문 열쇠
 cellarerrobe,uti,LocalizedName,0,셀러어의 의상
 chair,uti,LocalizedName,0,의자
@@ -11920,7 +11920,7 @@ cavedintunnel003,utt,LocalizedName,0,잠복 캠프
 cavedintunnel004,utt,LocalizedName,0,출구
 cavedintunnel005,utt,LocalizedName,0,고블린 레이어
 cavedintunnel006,utt,LocalizedName,0,강가 암붕
-cavedintunnel007,utt,LocalizedName,0,잃어버린 드루이드
+cavedintunnel007,utt,LocalizedName,0,길 잃은 드로우
 cavemaze,utt,LocalizedName,0,동굴 미로
 goblin_tunnel,utt,LocalizedName,0,고블린 터널
 intro,utt,LocalizedName,0,인트로
