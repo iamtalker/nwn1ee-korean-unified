@@ -594,7 +594,7 @@ challenge,dlg,ReplyList/3/Text,0,"나는 단순한 여행자이며, 투소네로
 challenge,dlg,ReplyList/4/Text,0,내가 도와줄 수 있을 것 같아
 challenge,dlg,ReplyList/5/Text,0,고마워요
 chamberguard,dlg,EntryList/1/Text,0,보여줘 내가 생각해볼게
-chamberguard,dlg,EntryList/2/Text,0,"<StartCheck>[실패]</Start> 가능성이 높은 이야기. 그들은 나에게 ""아무도 들어오지 못하게 해""라고 말했고, 신여, 그게 내가 할 일이에요."
+chamberguard,dlg,EntryList/2/Text,0,"<StartCheck>[실패]</Start>그럴듯한 이야기군. 그들이 내게 '아무도 들이지 마라'고 했고, 맹세코 난 그렇게 할 거야."
 chamberguard,dlg,EntryList/3/Text,0,"안돼, 안돼!"
 chamberguard,dlg,EntryList/4/Text,0,"<StartAction>[성공]</Start>...안전보다 좋지 않지만, 어차피 이렇게 됐으니 나아가보는 게 좋겠어. 하지만 이 부분에 대해선 확신이 없네. 내가 도움을 좀 가져오마."
 chamberguard,dlg,EntryList/5/Text,0,최대한 빨리 가겠어!
@@ -703,7 +703,7 @@ commoner_tomb,dlg,EntryList/8/Text,0,"좋아, 하지만 빨리 해봐. 나는 �
 commoner_tomb,dlg,EntryList/9/Text,0,그게 다야?
 commoner_tomb,dlg,EntryList/10/Text,0,"예전만큼 잘한 것 같아, 맞아."
 commoner_tomb,dlg,EntryList/11/Text,0,안녕. 아직 괜찮아.
-commoner_tomb,dlg,EntryList/12/Text,0,가난한 농부 톰. 그는 병을 몇 달 동안 숨겼을 거예요. 적어도 이제는 평화롭게 쉴 수 있게 되었네요.
+commoner_tomb,dlg,EntryList/12/Text,0,가엾은 농부 톰. 몇 달째 병을 숨기고 있었나 보네요. 적어도 이제는 편히 쉴 수 있겠어요.
 commoner_tomb,dlg,ReplyList/0/Text,0,"방해해서 미안하지만, 이 약품을 당신에게 바르기 위해 조금만 긁을 필요가 있어. 그냥 일반적인 절차라, 시간이 얼마 안 걸리겠지."
 commoner_tomb,dlg,ReplyList/1/Text,0,"그냥 약초로 병에 걸리지 않도록 해주는 약초입니다. 아주 무해합니다. 이제, 가만히 있으세요. <StartAction> [늑대줄을 적용하세요.] </Start>"
 commoner_tomb,dlg,ReplyList/5/Text,0,아직 괜찮아?
@@ -904,7 +904,9 @@ crpco_reaper,dlg,ReplyList/2/Text,0,나는 다시 살아 있는 세계로 돌아
 crpco_reaper,dlg,ReplyList/4/Text,0,이해했습니다. 저는 여행을 준비했습니다.
 crpco_reaper,dlg,ReplyList/6/Text,0,그럼 어떤 대가를 치르죠?
 crpco_reaper,dlg,ReplyList/7/Text,0,아직 돌아가기에는 준비가 되지 않았다.
-crpco_rest,dlg,EntryList/0/Text,0,선택을 입력하세요: <CUSTOM200>
+crpco_rest,dlg,EntryList/0/Text,0,"선택지를 고르세요:
+
+<CUSTOM200>"
 crpco_rest,dlg,ReplyList/0/Text,0,<StartAction> 취소</Start>
 crpco_rest,dlg,ReplyList/1/Text,0,<StartAction>상태 설정: 키보드에서 멀리</Start>
 crpco_rest,dlg,ReplyList/2/Text,0,<StartAction> 설정 상태: 다시</Start>
@@ -1167,7 +1169,7 @@ dmucontrol,dlg,ReplyList/28/Text,0,모든 캐릭터 시트 내보내기
 dockguard,dlg,EntryList/0/Text,0,<sir/madam> 도와드릴 게 있나요?
 dockguard,dlg,ReplyList/0/Text,0,도크랜드에 들어가고 싶었어. 문을 열 수 있을까?
 dockguard,dlg,ReplyList/1/Text,0,"좋아, 계속해."
-dockguard,dlg,ReplyList/2/Text,0,그래서 나에게 들어오라고 명령조차 할 수 없나?
+dockguard,dlg,ReplyList/2/Text,0,그럼 들여보내라고 명령조차 못 한다는 건가?
 dog,dlg,EntryList/0/Text,0,아프
 draco,dlg,EntryList/0/Text,0,나를 거스르는 자는 깨질 수밖에 없어.
 drag_white,dlg,EntryList/0/Text,0,이제 죽게 될 거야!
@@ -2029,7 +2031,7 @@ hasrinaxx,dlg,EntryList/9/Text,0,"누가 말할 수 있겠는가? 그들의 최�
 hasrinaxx,dlg,EntryList/10/Text,0,"아카디아의 대피는 불과 몇 주 전에 일어났으며, 왕은 그들이 떠났다는 것을 알지도 못할 가능성이 크다. 엘프들이 약탈자와 도적들을 막기 위해 트레언트를 깨워 냈기 때문이다. 숲 자체가 살아나고 침략자들을 물리치는 것처럼 보이면서, 왕은 캐어른우드를 불태워버리는 것을 명령했다."
 hasrinaxx,dlg,EntryList/11/Text,0,"그건 제게 할 수 있는 일이 아니라, 저는 그들을 대신해서 말하지 않습니다."
 hasrinaxx,dlg,EntryList/12/Text,0,<StartAction>[위대한 트레안트는 땅처럼 깊고 바람처럼 강한 목소리로 이야기한다.]</Start> 일케스.
-hasrinaxx,dlg,EntryList/13/Text,0,우리는 오래된 곳을 보호한다. 외부 사람들을 돕는 것은 우리의 방식이 아니다.
+hasrinaxx,dlg,EntryList/13/Text,0,우리는 오래된 곳들을 지킨다. 외부인을 돕는 건 우리의 방식이 아니다.
 hasrinaxx,dlg,EntryList/14/Text,0,<StartAction>[트레언트가 바닥을 차면서 땅이 흔들린다.]</Start> 아니!
 hasrinaxx,dlg,EntryList/15/Text,0,"<StartAction>[Ilkesh는 몇 분 동안 침묵을 지키고 있습니다.]</Start> 시간이 되면, 우리는 공격에 합류할 것입니다. 하지만 당신은 먼저 우리의 방어에 도움을 줄 필요가 있습니다."
 hasrinaxx,dlg,EntryList/17/Text,0,"아니, 여기 남아 숲을 지키고 지금까지 살아남은 상처받은 동물을 돌볼 필요가 있어. 하지만 숲을 위협하는 불들을 끄는 데 도움이 될 수 있어. 여기, 이 물건을 써봐. 이 물건은 많은 양의 물을 만들 수 있어 불들을 끄는 데 사용할 수 있고, 원소들을 상대할 때도 좋은 무기로 쓸 수 있어."
@@ -3071,7 +3073,7 @@ hench_nellise,dlg,ReplyList/201/Text,0,현재 어떻게 지내고 계신지 궁�
 hench_nellise,dlg,ReplyList/202/Text,0,잘 들었어요
 hench_nellise,dlg,ReplyList/203/Text,0,"오, 그 소식을 듣고 죄송합니다. 빨리 수리를 도와드리겠습니다."
 hench_nellise,dlg,ReplyList/204/Text,0,내가 뭘 할 수 있는지 보자
-hench_nellise,dlg,ReplyList/205/Text,0,"좋아, 좋아, 조심스레 해."
+hench_nellise,dlg,ReplyList/205/Text,0,"알았어, 알았어, 진정해."
 hench_nellise,dlg,ReplyList/206/Text,0,"빠르게, 먼저 몇 가지 일을 해야겠어"
 hench_nellise,dlg,ReplyList/208/Text,0,- 제발
 hench_nellise,dlg,ReplyList/212/Text,0,"그는 참 속임수를 잘하는군. 솔직히 말해, 그의 작은 계책에 인상받았네. 하지만 내가 돌아와서 상황을 바로잡을 때는 그를 구하지 못할 거야."
@@ -4238,7 +4240,7 @@ morik,dlg,EntryList/8/Text,0,"제가 장군이지만, 시마노는 제 백성들
 morik,dlg,EntryList/9/Text,0,탈론은 아버지의 죽음 이후 시마노를 맡았고 그는 블랙 타이거 부족의 마지막 사람이다.
 morik,dlg,EntryList/10/Text,0,"물론, 그의 아들은 아버지의 죽음 후 시마노를 맡았고, 그는 블랙 타이거 부족의 마지막 사람이다."
 morik,dlg,EntryList/11/Text,0,"그는 레이크토르 블랙 타이거의 유일한 생존자입니다. 고대 최고의 영웅이자 존경받는 지도자입니다. 그는 그것에 대해 말하지 않았지만, 그는 자신과 부족들에게 자신의 위대함을 증명해야 한다고 생각합니다."
-morik,dlg,EntryList/12/Text,0,"그는 뛰어난 재능을 가진 샤만이지만, 그 재능에는 마법의 어두운 면에 대한 매력도 포함되어 있다. 저는 네크로맨시에 대해 말하고 있습니다. 그것은 제 사람들 사이에서 금지된 예술이며, 그는 그것을 숙달한 상태이다. 이것을 몇 년 전에 발견했고, 만약 그가 그것을 멈추면 절대 아무에게도 말하지 않겠다고 맹세했다."
+morik,dlg,EntryList/12/Text,0,"그는 대단한 재능을 지닌 주술사지만, 그 재능에는 마법의 어두운 면에 대한 매혹도 포함됩니다. 바로 강령술입니다. 우리 민족에게 금지된 기술인데 그는 그것을 통달했습니다. 나는 얼마 전 이를 알게 되었고, 그가 그만둔다면 아무에게도 말하지 않겠다고 맹세했습니다."
 morik,dlg,EntryList/13/Text,0,"타론은 레이크토르의 영을 발할라에서 부르고, 그의 충성스러운 전사들과 함께 우리의 땅을 보호할 수 있다고 믿습니다."
 morik,dlg,EntryList/14/Text,0,"이런 방식으로 사용하는 것은 <FirstName>아, 그들이 삶에서 지키고 있던 모든 것을 모독하는 것일 뿐이다. 저는 탈롱에게 이것을 금지시켰지만, 그는 많은 부족 지도자들의 지지를 받고 있으며, 지금도 거룩한 땅에서 어두운 의식을 수행하려고 시도하고 있을 것이라고 생각한다."
 morik,dlg,EntryList/16/Text,0,"이 중요한 시기에 연합해야 하고 더 분열할 수 없습니다. 그리고 그들이 그것에 대해 말하지 않더라도, 많은 제 전사들은 레이크토르의 아바타를 직면하기를 두려워합니다. 하지만 그들은 이를 입에 올리지 못하고 있습니다. 아니요, 이 불결함을 멈추기 위해서는 외부인들이 필요합니다. 당신과 같은 분들 말입니다."
@@ -5125,7 +5127,7 @@ seamus,dlg,ReplyList/22/Text,0,"복수, 네 이름은 <FullName>이다."
 shad,dlg,EntryList/0/Text,0,"이 도시는 내 것이고, 당신은 나를 막을 수 없다."
 shadmonk,dlg,EntryList/0/Text,0,공작에게 도달해서는 절대 안 돼! 그들을 막아라!
 shaman,dlg,EntryList/0/Text,0,여기 있는 어떤 사람들은 타론이 그 계획을 성공시키길 바라리라 생각합니다. 우리 조상들이 우리를 구하러 왔다는 생각은 큰 힘을 가지고 있습니다.
-shaman,dlg,EntryList/1/Text,0,"탈론 검은호랑이는 항상 이상한 사람으로 여겨졌고, 은신술에 집착했으며, 이제 그의 집착은 우리 모두를 멸망시킬 것이다."
+shaman,dlg,EntryList/1/Text,0,탈론 검은 호랑이는 늘 이상한 사람이었고 오컬트에 집착했다. 이제 그 집착이 우리 모두를 파멸시킬 것이다.
 shaman,dlg,EntryList/2/Text,0,전 전쟁에서 존경받는 조상들을 만날 생각은 참을 수 없습니다. 우리는 어떻게 이런 상황에 직면할 수 있을까요?
 shaman,dlg,EntryList/3/Text,0,장관은 지혜로운 지도자이자 위대한 전사입니다. 그는 우리를 이 일을 통과시킬 것입니다.
 shaman,dlg,EntryList/4/Text,0,"안녕하세요, 아이런더"
@@ -5188,7 +5190,7 @@ sir_nigel,dlg,EntryList/29/Text,0,"그게 바로 그 정신이야, 그래, 그�
 sir_nigel,dlg,EntryList/30/Text,0,"<StartAction>[나이지엘 경의 표정이 굳어집니다.]</Start> 오, 당신은 그것에 대해 아주 열심히 시도했습니다. 그 이상을 요구할 수는 없습니다."
 sir_nigel,dlg,EntryList/31/Text,0,"흠? 그래, 그래, 괜찮아, 어쨌든 은퇴를 생각하고 있었지. 마침내 집으로 돌아가서 이 끝없는 열에서 벗어나면 좋겠어."
 sir_nigel,dlg,EntryList/33/Text,0,"흠? 그래, 그래, 괜찮아, 어쨌든 은퇴를 생각하고 있었지. 마침내 집으로 돌아가서 이 끝없는 열에서 벗어나면 좋겠어."
-sir_nigel,dlg,EntryList/34/Text,0,"나이지엘 경, 이렇게 되어 죄송합니다. 필요한 것이 있으시면 말씀만 하세요. 왕실이 제공하겠습니다."
+sir_nigel,dlg,EntryList/34/Text,0,"이렇게 되어 안타깝습니다, 나이젤 경. 필요한 것이 있다면 말씀만 하십시오, 왕실이 마련하겠습니다."
 sir_nigel,dlg,EntryList/35/Text,0,"고마워요, 대사님, 제가 술에 취한 늙은 사람이라는 점을 고려하면 너무 너그럽습니다."
 sir_nigel,dlg,EntryList/36/Text,0,"아! 내 귀여운 여사님, 저를 자랑스럽게 해주셨습니다. 이제 우리가 어딘가에 도달할 수 있을지도 모릅니다. 그러고는 저는 이 회의에 가겠습니다."
 sir_nigel,dlg,EntryList/37/Text,0,"아, 튼튼한 친구, 이제 우리가 어딘가에 갈 수 있을지도 몰라."
@@ -5344,7 +5346,7 @@ start,dlg,EntryList/0/Text,0,"좋은 아침, 제 <Lord/Lady>. 이건 정말 운�
 start,dlg,EntryList/1/Text,0,"네, 네, 네, 네, 네, 네, 네."
 start,dlg,EntryList/2/Text,0,"오! 아주 잘하셨습니다, 제 <Lord/Lady>. 완전히 놀랐네요. 정말 코미디언 같군요."
 start,dlg,EntryList/3/Text,0,사실 그녀는 내 <Lord/Lady>입니다. 만약 당신이 그녀의 고귀함을 방문해 주시면 감사하겠습니다.
-start,dlg,EntryList/4/Text,0,"선생님, 저는 평소와 같이 화려하게 말하고 있습니다. <Sir/Madam>이 말씀하시는 것이 무엇인지 확신이 없습니다."
+start,dlg,EntryList/4/Text,0,<Sir/Madam>이 무슨 말씀을 하시는지 도무지 모르겠군요. 저는 평소처럼 달변으로 말하고 있을 뿐입니다.
 start,dlg,EntryList/5/Text,0,그녀는 현재 왕좌실 남쪽에 있는 전쟁실에서 있습니다.
 start,dlg,ReplyList/0/Text,0,<Lord/Lady>?
 start,dlg,ReplyList/1/Text,0,이.. 물론 아니에요. 그냥 농담을 하고 있었어요. 귀족들이 가끔 하는 것처럼요.
@@ -6398,7 +6400,7 @@ zep_demi_regen_c,dlg,ReplyList/0/Text,0,델미치를 혼자 두세요.
 zep_demi_regen_c,dlg,ReplyList/1/Text,0,<CUSTOM1001>을 사용하여 반사기를 파괴하라.
 area001,git,Creature List/0/FirstName,0,장군 제브리엘 경
 area001,git,Creature List/0/LastName,0,듀케스네
-area001,git,Creature List/0/Description,0,동부 전선의 지휘관 듀케네는 이제 처음으로 아이룬드에 대한 카운터어택을 이끌 수 있는 위치에 있습니다.
+area001,git,Creature List/0/Description,0,동부 전선 사령관 뒤케인은 이제 처음으로 아이엘룬드에 대한 반격을 이끌 위치에 서게 되었다.
 area001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,기사 갑옷
 area001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 area001,git,Creature List/1/FirstName,0,투소니트 체발리어
@@ -6881,7 +6883,7 @@ area003,git,StoreList/0/StoreList/0/ItemList/37/LocalizedName,0,하늘의 힘의
 area003,git,StoreList/0/StoreList/0/ItemList/37/DescIdentified,0,"이 장갑은 강력한 마법으로 강화되어 있고, 특정 보편적인 진동에 맞춰져 있습니다. 이 특별한 장갑 쌍은 우주의 긍정적인 측면에서 힘을 얻으며, 승려에게 원수를 무력으로 때릴 수 있는 힘을 부여합니다."
 area003,git,StoreList/0/StoreList/0/ItemList/38/LocalizedName,0,범용 조화의 장갑
 area003,git,StoreList/0/StoreList/0/ItemList/38/DescIdentified,0,"이 장갑은 강력한 마법으로 강화되었으며, 특정 보편적인 진동에 맞춰져 있습니다. 이 장갑 쌍은 보편적 조화를 통해 힘을 얻어 승려에게 자연의 균형에 영향을 미치는 능력을 부여합니다."
-area003,git,StoreList/0/StoreList/0/ItemList/39/LocalizedName,0,불굴의 힘을 가진 장갑
+area003,git,StoreList/0/StoreList/0/ItemList/39/LocalizedName,0,불굴의 힘의 장갑
 area003,git,StoreList/0/StoreList/0/ItemList/39/DescIdentified,0,"이 장갑은 강력한 마법으로 강화되어 있고, 특정 보편적인 진동에 맞춰져 있습니다. 이 특정 장갑은 우주의 어두운 면에서 힘을 얻어 사제에게 삶과 죽음에 대한 힘을 주는 장갑입니다."
 area003,git,StoreList/0/StoreList/1/ItemList/4/LocalizedName,0,죽음의 별
 area003,git,StoreList/0/StoreList/1/ItemList/4/DescIdentified,0,아이룬드의 악명 높은 그림자 전사들이 사용하는 이 치명적인 무기는 단 한 번의 타격으로 목표를 죽일 수 있습니다.
@@ -7467,7 +7469,7 @@ area026,git,Creature List/5/ItemList/1/DescIdentified,0,"비가 수데텐과의 
 area026,git,Creature List/5/ItemList/2/LocalizedName,0,머리를 잘라내는
 area026,git,Creature List/5/ItemList/2/DescIdentified,0,이 치명적인 무기는 드워프의 명작가공의 산물입니다. 빛에 반짝이는 무기의 가장자리는 거의 자연스럽지 않은 날카로움을 유지하고 있습니다.
 area026,git,Creature List/5/ItemList/3/LocalizedName,0,전투도끼 + 5
-area026,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,탄력성 판금 판대기
+area026,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,굳건함의 팔랑크스 판금갑옷
 area026,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,한때 용병 사령관 비가 수데텐의 소유였던 이 방대한 갑옷은 착용자가 가장 다양한 적들에도 맞서 계속 싸울 수 있도록 막대한 매력을 지니고 있습니다. 이것은 당신이 만난 가장 막대한 매력을 가진 갑옷 중 하나입니다. 그리고 당신은 그녀가 그것을 어디서 얻었는지 궁금해합니다. 지금 그녀에게 물어보기에는 조금 늦습니다.
 area026,git,Creature List/6/FirstName,0,에레델
 area026,git,Creature List/6/LastName,0,메이슨
@@ -7488,14 +7490,14 @@ area026,git,Creature List/7/Description,0,비고의 엘리트 경비원 중 한 
 area026,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,뿔이 달린 헬멧
 area026,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,기본 헬멧 디자인으로 집중력을 높이지만 시력과 청력을 억제합니다.
 area026,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,비고의 불일치한 갑옷
-area026,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,한때 용병사령자 비고 수데텐의 소유였던 이 불일치한 갑옷은 여전히 많은 마법으로 강력합니다.
+area026,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,한때 용병 사령관 비고 수데텐의 소유였던 이 짝짝이 갑옷은 수많은 마법 덕분에 그럼에도 강력하다.
 area026,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,대검 +4
 area026,git,Creature List/8/FirstName,0,주거노트 용병
 area026,git,Creature List/8/Description,0,비고의 엘리트 경비원 중 한 명
 area026,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,뿔이 달린 헬멧
 area026,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,기본 헬멧 디자인으로 집중력을 높이지만 시력과 청력을 억제합니다.
 area026,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,비고의 불일치한 갑옷
-area026,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,한때 용병사령자 비고 수데텐의 소유였던 이 불일치한 갑옷은 여전히 많은 마법으로 강력합니다.
+area026,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,한때 용병 사령관 비고 수데텐의 소유였던 이 짝짝이 갑옷은 수많은 마법 덕분에 그럼에도 강력하다.
 area026,git,Creature List/9/FirstName,0,모래 용병
 area026,git,Creature List/9/Description,0,"샌드 용 용병 중 한 명, 전문적인 빠른 공격 전술로 유명하다."
 area026,git,Creature List/9/ItemList/2/LocalizedName,0,복합 장궁 + 5
@@ -7735,7 +7737,7 @@ bracksworthpaddo,git,Creature List/13/Equip_ItemList/0/Description,0,이 갑옷�
 bracksworthpaddo,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,로얄 레인저의 엘리트 멤버들이 사용하는 이 톱니 가죽 갑옷은 이동에 적은 비용으로 가벼운 버전보다 더 나은 보호를 제공합니다.
 bracksworthpaddo,git,Creature List/14/FirstName,0,장군 제브리엘 경
 bracksworthpaddo,git,Creature List/14/LastName,0,듀케스네
-bracksworthpaddo,git,Creature List/14/Description,0,동부 전선의 지휘관 듀케네는 이제 처음으로 아이룬드에 대한 카운터어택을 이끌 수 있는 위치에 있습니다.
+bracksworthpaddo,git,Creature List/14/Description,0,동부 전선 사령관 뒤케인은 이제 처음으로 아이엘룬드에 대한 반격을 이끌 위치에 서게 되었다.
 bracksworthpaddo,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,기사 헬름
 bracksworthpaddo,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,기사 갑옷
 bracksworthpaddo,git,Creature List/14/Equip_ItemList/1/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
@@ -8910,7 +8912,7 @@ market_cutscene,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,파손된 �
 market_cutscene,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,크리오사의 찢어진 옷 조각은 그녀와 스틸 타이거 용병들의 만남을 생생하게 상기시킵니다.
 market_cutscene,git,Creature List/10/FirstName,0,장군 제브리엘 경
 market_cutscene,git,Creature List/10/LastName,0,듀케스네
-market_cutscene,git,Creature List/10/Description,0,동부 전선의 지휘관 듀케네는 이제 처음으로 아이룬드에 대한 카운터어택을 이끌 수 있는 위치에 있습니다.
+market_cutscene,git,Creature List/10/Description,0,동부 전선 사령관 뒤케인은 이제 처음으로 아이엘룬드에 대한 반격을 이끌 위치에 서게 되었다.
 market_cutscene,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,기사 갑옷
 market_cutscene,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 market_cutscene,git,Creature List/11/FirstName,0,하스리나xx
@@ -9109,7 +9111,7 @@ southernfoothill,git,Placeable List/38/LocName,0,울프스베인
 southernfoothill,git,Placeable List/39/LocName,0,울프스베인
 stoneguardvil001,git,Creature List/0/FirstName,0,장군 제브리엘 경
 stoneguardvil001,git,Creature List/0/LastName,0,듀케스네
-stoneguardvil001,git,Creature List/0/Description,0,동부 전선의 지휘관 듀케네는 이제 처음으로 아이룬드에 대한 카운터어택을 이끌 수 있는 위치에 있습니다.
+stoneguardvil001,git,Creature List/0/Description,0,동부 전선 사령관 뒤케인은 이제 처음으로 아이엘룬드에 대한 반격을 이끌 위치에 서게 되었다.
 stoneguardvil001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,기사 갑옷
 stoneguardvil001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"이 갑옷은 모든 종류의 원거리 무기로부터 보호하기 위해 설계되었으며, 원거리 전투를 두려워하는 고귀한 투소네 기사들에게 큰 이익을 가져다줍니다."
 stoneguardvil001,git,Creature List/1/FirstName,0,투소나이트 장교
@@ -9672,7 +9674,7 @@ trinity001,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,언월도+2
 trinity001,git,Creature List/16/FirstName,0,주거노트 용병
 trinity001,git,Creature List/16/Description,0,주저나우트는 미묘함이 부족하고 과도한 피 흘리는 것을 좋아하는 용병 회사입니다.
 trinity001,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,비고의 불일치한 갑옷
-trinity001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,한때 용병사령자 비고 수데텐의 소유였던 이 불일치한 갑옷은 여전히 많은 마법으로 강력합니다.
+trinity001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,한때 용병 사령관 비고 수데텐의 소유였던 이 짝짝이 갑옷은 수많은 마법 덕분에 그럼에도 강력하다.
 trinity001,git,Creature List/17/FirstName,0,모래 용병
 trinity001,git,Creature List/17/Description,0,"샌드 용 용병 중 한 명, 전문적인 빠른 공격 전술로 유명하다."
 trinity001,git,Creature List/17/ItemList/2/LocalizedName,0,복합 장궁 + 5
@@ -9683,11 +9685,11 @@ trinity001,git,Creature List/17/Equip_ItemList/2/DescIdentified,0,마법의 마�
 trinity001,git,Creature List/18/FirstName,0,주거노트 용병
 trinity001,git,Creature List/18/Description,0,주저나우트는 미묘함이 부족하고 과도한 피 흘리는 것을 좋아하는 용병 회사입니다.
 trinity001,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,비고의 불일치한 갑옷
-trinity001,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,한때 용병사령자 비고 수데텐의 소유였던 이 불일치한 갑옷은 여전히 많은 마법으로 강력합니다.
+trinity001,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,한때 용병 사령관 비고 수데텐의 소유였던 이 짝짝이 갑옷은 수많은 마법 덕분에 그럼에도 강력하다.
 trinity001,git,Creature List/19/FirstName,0,주거노트 용병
 trinity001,git,Creature List/19/Description,0,주저나우트는 미묘함이 부족하고 과도한 피 흘리는 것을 좋아하는 용병 회사입니다.
 trinity001,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,비고의 불일치한 갑옷
-trinity001,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,한때 용병사령자 비고 수데텐의 소유였던 이 불일치한 갑옷은 여전히 많은 마법으로 강력합니다.
+trinity001,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,한때 용병 사령관 비고 수데텐의 소유였던 이 짝짝이 갑옷은 수많은 마법 덕분에 그럼에도 강력하다.
 trinity001,git,Creature List/20/FirstName,0,지옥불 용병
 trinity001,git,Creature List/20/Description,0,"이 지역의 최고 용병들로 알려진 지옥불병대는 전문적으로 운영되는 조직으로, 합의된 전투에서 거의 패배하지 않습니다."
 trinity001,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,지옥불 판금 갑옷
@@ -9864,7 +9866,7 @@ module,jrl,Categories/0/EntryList/4/Text,0,"데이비드는 울프가 장벽 안
 module,jrl,Categories/1/Name,0,피의 복수
 module,jrl,Categories/1/EntryList/0/Text,0,"샌드 드래곤즈의 리더를 만났는데, 페어로크를 공격하기에 매우 적합할 만한 유명한 용병 회사입니다. 그들의 리더인 에레델은 나와 함께하는 것에 대해 의지를 가지고 있지만, 내가 먼저 그의 오래된 적을 제거한다면 자신의 목숨을 위험에 빠뜨리려고 합니다. 지옥불 브리거드 용병 회사의 리더인 마르쿠스 카난지 외에는 아무도 없습니다. 분명히 이 회사 중 하나를 선택해야 할 것입니다. 그들은 함께 일하지 않을 것이기 때문에, 그리고 다른 회사의 리더를 죽인 후에는 나는 그들과 매우 인기가 없을 것입니다.."
 module,jrl,Categories/1/EntryList/1/Text,0,"저는 페어로크를 공격하기에 매우 적합한 유명한 용병사인 지옥불대병원 사장과 만났습니다. 그들의 지도자인 마르쿠스 카난지는 나와 함께하는 것에 대해 의문을 갖고 있지만, 내가 먼저 그의 오래된 적을 제거한다면 자신의 목숨을 위험에 빠뜨리려고 합니다. 샌드 드래곤즈 용병사업원장인 에레델 블랙워터 외에는 아무도 없습니다. 분명히 나는 이 회사 중 하나를 선택해야 할 것입니다. 그들은 함께 작동하지 않을 것이기 때문에, 다른 회사의 지도자를 죽인 후에는 나는 그들과 매우 인기가 없을 것입니다.."
-module,jrl,Categories/1/EntryList/2/Text,0,"저는 마르쿠스와 에레델의 소소한 분쟁에 개입하지 않기로 거부하고, 그들 스스로 해결하도록 두었습니다. 이렇게 해서 동맹을 얻지 못했으므로, 어느 한 쪽의 도움도 얻지 못한 채 살아가야 합니다."
+module,jrl,Categories/1/EntryList/2/Text,0,"나는 마르쿠스와 에레델의 사소한 다툼에 끼어들기를 거부하고, 두 사람이 알아서 해결하도록 놔두었다. 이 일로 동맹을 얻지는 못했으니, 어느 쪽의 도움도 없이 해 나가야 한다."
 module,jrl,Categories/1/EntryList/3/Text,0,마르쿠스 카난지를 죽이고 그의 머리를 죽임을 증명하는 증거로 가져갔어요
 module,jrl,Categories/1/EntryList/4/Text,0,"에레델은 마르쿠스의 죽음으로 매우 기뻐하며, 분명 정의가 이루어졌다고 느꼈습니다. 그래서 그는 우리의 전쟁에 가입하고 페어로크에 대한 공격이 시작될 때 우리에게 도움을 줄 것을 동의했습니다. 용의 활사꾼들은 이 사건에 매우 유용하게 작용할 것입니다."
 module,jrl,Categories/1/EntryList/5/Text,0,"저는 에레델의 머리를 그의 어깨에서 빼앗아갔고, 그와의 추가 협상 기회를 끊어버렸습니다. 그러나 이것은 지옥의 불꽃 부대의 도움을 얻는 것을 보장해 줄 것입니다. 마르쿠스는 자신의 적의 죽음에 매우 기뻐할 것입니다."
@@ -10339,7 +10341,7 @@ mason,utc,FirstName,0,드워프 건설공
 mason,utc,Description,0,이런 평민들은 스톤가드 도시를 운영하는데 도움이 됩니다.
 master,utc,FirstName,0,장군 제브리엘 경
 master,utc,LastName,0,듀케스네
-master,utc,Description,0,동부 전선의 지휘관 듀케네는 이제 처음으로 아이룬드에 대한 카운터어택을 이끌 수 있는 위치에 있습니다.
+master,utc,Description,0,동부 전선 사령관 뒤케인은 이제 처음으로 아이엘룬드에 대한 반격을 이끌 위치에 서게 되었다.
 matheson,utc,FirstName,0,탈봇 경
 matheson,utc,LastName,0,매서슨
 matheson,utc,Description,0,데니 전투에서 시장의 불행한 죽음 이후 마테슨 경이 이 도시의 지배를 맡았고
@@ -10394,7 +10396,7 @@ msg,utc,Description,0,"투소네 군대의 평범한 보병들, 이들은 그들
 nathell,utc,FirstName,0,나텔
 nathell,utc,Description,0,위험한 외모가 있는 이 사람 은 적어도 한 가지 숨은 무기를 들고 있는 것 같습니다.
 navalofficer,utc,FirstName,0,해군 장교
-navalofficer,utc,Description,0,"현명한, 비밀스러운 사람들, 투소네 해군의 장교들은 최근 전쟁에서 모든 것을 바쳤고, 죽음은 그들을 싸우게 하지 않을 것입니다."
+navalofficer,utc,Description,0,"약삭빠르고 교활한 자들인 투손 해군 장교들은 최근 전쟁에서 모든 것을 쏟아부었고, 죽음이 아니고서는 그들의 싸움을 멈출 수 없다."
 nawen,utc,FirstName,0,나윈
 nawen,utc,LastName,0,이'린팔렌
 nawen,utc,Description,0,왕의 궁중 마법사 테리누스의 대신인 나웬은 마법을 이용해 정보를 궁중과 전선 간에 상호 전달합니다.
@@ -11598,7 +11600,7 @@ zep_werebear,utc,Description,0,"인간 형태의 곰은 강하고 근육이 잘 
 zep_wereboar,utc,FirstName,0,배인
 zep_wereboar,utc,Description,0,인간형의 웨어보어스는 평균적인 키와 근육이 많은 체구를 가진 사람들입니다.
 zep_werecroc,utc,FirstName,0,악어
-zep_werecroc,utc,Description,0,"인간형 또는 거대형으로, 웨어크로코일은 키가 크고 얇으며 날카로운 특징을 가진다. 긴 코와 턱, 눈에 띄는 부리와 얇은 얼굴을 가지고 있다."
+zep_werecroc,utc,Description,0,"인간형 또는 거인형일 때 웨어크로커다일은 키가 크고 마른 체형에 날카로운 인상이며, 코와 턱이 길고 얼굴이 가늘며 눈에 띄는 윗니 돌출이 있다."
 zep_werefrog,utc,FirstName,0,늑대 개구리
 zep_werefrog,utc,Description,0,이 생물은 인간과 개구리의 혼합체처럼 보입니다.
 zep_werejag_001,utc,FirstName,0,가르
@@ -12527,7 +12529,7 @@ gauntletsofthebr,uti,LocalizedName,0,강력한 장갑
 gauntletsofthebr,uti,DescIdentified,0,이 장갑 의 창작자 는 잔인 한 언덕 거대 의 진정한 본질 을 포착 하여 자신 의 창작 을 이용 하는 데 있어서 단점 을 깨닫지 못 하였다. 그 장갑 을 착용 한 후 장갑 을 제거 하는 방법 을 알아내기 위해 너무 어리석게 되었다. 따라서 그 남은 날 을 노동자 로 보냈습니다.
 gauntletsofun001,uti,LocalizedName,0,하늘의 힘의 장갑
 gauntletsofun001,uti,DescIdentified,0,"이 장갑은 강력한 마법으로 강화되어 있고, 특정 보편적인 진동에 맞춰져 있습니다. 이 특별한 장갑 쌍은 우주의 긍정적인 측면에서 힘을 얻으며, 승려에게 원수를 무력으로 때릴 수 있는 힘을 부여합니다."
-gauntletsofun002,uti,LocalizedName,0,불굴의 힘을 가진 장갑
+gauntletsofun002,uti,LocalizedName,0,불굴의 힘의 장갑
 gauntletsofun002,uti,DescIdentified,0,"이 장갑은 강력한 마법으로 강화되어 있고, 특정 보편적인 진동에 맞춰져 있습니다. 이 특정 장갑은 우주의 어두운 면에서 힘을 얻어 사제에게 삶과 죽음에 대한 힘을 주는 장갑입니다."
 gauntletsofunive,uti,LocalizedName,0,범용 조화의 장갑
 gauntletsofunive,uti,DescIdentified,0,"이 장갑은 강력한 마법으로 강화되었으며, 특정 보편적인 진동에 맞춰져 있습니다. 이 장갑 쌍은 보편적 조화를 통해 힘을 얻어 승려에게 자연의 균형에 영향을 미치는 능력을 부여합니다."
@@ -12826,7 +12828,7 @@ item024,uti,DescIdentified,0,"우아하게 제작된 검, 이 악당 검은 용�
 item025,uti,LocalizedName,0,모험가의 일기
 item025,uti,DescIdentified,0,"죽은 자의 일기 를 돌아다닐 때, 관련 있는 정보 를 발견 하게 됩니다. 그가 누구든, 그가 누군지 모르는 사람이 테리누스를 죽이기 위해 보내준 것 같습니다. 누군가의 또는 무언가의 사정에 너무 자주 개입했기 때문 입니다. 일기 중간에 약, 문장 한 조각이 떨어집니다. ""가려서 넘어지지 않도록 회전하고 돌십시오. 아래의 길은 멈추게 될 것입니다"". 마침내 일기에는 마지막 한 가지 기록이 있습니다."
 item027,uti,LocalizedName,0,주저나우트 판금 갑옷
-item027,uti,DescIdentified,0,한때 용병사령자 비고 수데텐의 소유였던 이 불일치한 갑옷은 여전히 많은 마법으로 강력합니다.
+item027,uti,DescIdentified,0,한때 용병 사령관 비고 수데텐의 소유였던 이 짝짝이 갑옷은 수많은 마법 덕분에 그럼에도 강력하다.
 jovialevil,uti,LocalizedName,0,유쾌한 악마
 jovialevil,uti,DescIdentified,0,"악성 칼인 이 래피어는 괴상한 매력을 가지고 있는데, 그 매력이 공격 당한 사람이 통제 할 수 없는 웃음을 터뜨릴 수 있습니다. 물론, 이것은 상당히 방해가 되고, 무기가 웃으면서도 생명력을 끌어내게 합니다."
 khb_it_hide001,uti,LocalizedName,0,MrPointy 속성
@@ -13023,7 +13025,7 @@ performerscap002,uti,LocalizedName,0,저항망토
 performerscap002,uti,DescIdentified,0,이 망토는 원소적 손상을 흡수할 수 있게 하는 강력한 보호 마법으로 매료되어 있다.
 performerscape,uti,LocalizedName,0,연주자의 모피
 performerscape,uti,DescIdentified,0,"바르드들이 공연에 더 많은 마법을 추가하는 데 사용하는 화려한 옷입니다. 물론, 야생에서 여행하는 동안에도 이런 옷을 입는 것은 나쁘지 않습니다."
-phalanxplate,uti,LocalizedName,0,탄력성 판금 판대기
+phalanxplate,uti,LocalizedName,0,굳건함의 팔랑크스 판금갑옷
 phalanxplate,uti,DescIdentified,0,한때 용병 사령관 비가 수데텐의 소유였던 이 방대한 갑옷은 착용자가 가장 다양한 적들에도 맞서 계속 싸울 수 있도록 막대한 매력을 지니고 있습니다. 이것은 당신이 만난 가장 막대한 매력을 가진 갑옷 중 하나입니다. 그리고 당신은 그녀가 그것을 어디서 얻었는지 궁금해합니다. 지금 그녀에게 물어보기에는 조금 늦습니다.
 phyl,uti,LocalizedName,0,성구함
 phyl,uti,DescIdentified,0,이것은 의심할 여지 없이 위대한 드라코리치의 영혼병입니다. 이 물체를 파괴하면만 진정으로 패배할 수 있습니다.
@@ -14670,7 +14672,7 @@ zep_soot_002,utp,LocName,0,바닥에 닳은 흙 Dag2
 zep_soot_003,utp,LocName,0,바닥에 닳은 흙 Dag3
 zep_ss_pil_001,utp,LocName,0,고딕 기둥 - 제방
 zep_ss_pil_001,utp,Description,0,칼럼.
-zep_ss_pil_002,utp,LocName,0,고딕 기둥 - 줄무늬가 있는
+zep_ss_pil_002,utp,LocName,0,고딕 기둥 - 홈이 파인
 zep_ss_pil_002,utp,Description,0,칼럼.
 zep_statues031,utp,LocName,0,"조각상, 박쥐"
 zep_statues031,utp,Description,0,하프를 연주하는 바드의 동상.

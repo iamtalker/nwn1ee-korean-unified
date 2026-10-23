@@ -59,7 +59,7 @@ alkranal_1,dlg,ReplyList/7/Text,0,"""그는 나를 죽이려 했고, 그는 그�
 alkranal_1,dlg,ReplyList/8/Text,0,"""당신은 나를 모욕하려고 하지만 이 일은 효과가 없습니다. 나를 혼자 남겨, 독 스피터""."
 alkranal_1,dlg,ReplyList/9/Text,0,"""이건 네 관심사가 아니야, 알크라날. 자신의 일에 집중하는 게 현명할 거야."""
 alkranal_1,dlg,ReplyList/11/Text,0,"""나는 네라드를 방어해야 했다."""
-alkranal_1,dlg,ReplyList/12/Text,0,"""칼루리스는 우리가 첫 캠프에서 이사한 후 사라졌어요. 그에게 무슨 일이 있었는지 모르겠어요."""
+alkranal_1,dlg,ReplyList/12/Text,0,"""칼루리스는 첫 야영지에서 옮겨 올 때 사라졌어요. 어떻게 됐는지 모르겠어요."""
 alkranal_1,dlg,ReplyList/13/Text,0,"""리젠의 죽음과 나는 아무 관련 없어. 그를 죽인 건 스비르프네블린들이야. 너도 알고 있잖아."""
 alkranal_2,dlg,EntryList/0/Text,0,"""내가 다음 층으로 따라오라고 말하지 않았나?"""
 alkranal_2,dlg,EntryList/1/Text,0,"""그냥 말해줘... FOLLOW라는 단어가 어려웠는지, NEXT FLOOR라는 단어가 어려웠는지...?"""
@@ -80,7 +80,7 @@ alkranal_2,dlg,ReplyList/9/Text,0,"""다시 나에게 말해?"""
 alkranal_2,dlg,ReplyList/10/Text,0,"""이 경비 임무는 모욕이다!"""
 alkranal_2,dlg,ReplyList/12/Text,0,"""당신이 원하는 대로""."
 alkranal_2,dlg,ReplyList/14/Text,0,"알크라날, 난 자네의 명령을 받지 않는다."
-alkranal_3,dlg,EntryList/0/Text,0,"""나를 놔두고 가거라, 놈!"""
+alkranal_3,dlg,EntryList/0/Text,0,"""날 내버려 둬, 쓰레기 같은 놈!"""
 alkranal_3,dlg,EntryList/2/Text,0,"""어떻게 그런 말투로 우리에게 대담하게 말할 수 있는 용기가 있나!"""
 alkranal_3,dlg,EntryList/3/Text,0,"""사병님, 저는 여기 지휘관이고, 이 두 분은 제 명령을 따르실 겁니다""."
 alkranal_3,dlg,EntryList/4/Text,0,"""왜 이렇게 대하는지 궁금하냐?"""
@@ -386,7 +386,7 @@ iounstone_purple,dlg,EntryList/1/Text,0,어떤 마법을 사용하시겠습니�
 iounstone_purple,dlg,EntryList/2/Text,0,"이온 스톤은 당신을 떠나고, 이온 스톤에 마법을 던져야 합니다."
 iounstone_purple,dlg,EntryList/3/Text,0,파란색 유동 프리즘 이온 스톤에 보관되길 원하는 마법을 던지십시오.
 iounstone_purple,dlg,ReplyList/0/Text,0,돌을 가만히 두라
-iounstone_purple,dlg,ReplyList/1/Text,0,돌을 보관
+iounstone_purple,dlg,ReplyList/1/Text,0,이온 스톤을 보관한다
 iounstone_purple,dlg,ReplyList/2/Text,0,이온 돌에서 마법을 발동시키라
 iounstone_purple,dlg,ReplyList/3/Text,0,<StartAction>[<CUSTOM1306>]</Start>
 iounstone_purple,dlg,ReplyList/4/Text,0,<StartAction>[<CUSTOM1305>]</Start>
@@ -847,7 +847,7 @@ tarnes_1,dlg,EntryList/10/Text,0,"동쪽의 태양시계로 가서 ""멜론""이
 tarnes_1,dlg,EntryList/11/Text,0,마침내 이 고통은 끝났다....
 tarnes_1,dlg,EntryList/12/Text,0,"난 타네스 타네, 한때 녹색 타네스라고 불렸어."
 tarnes_1,dlg,EntryList/13/Text,0,"이 빛은 낮이고, 저는 평탄한 돌과 바위에서 표면 식물을 자랐습니다. 그들은 아름다운가요?"
-tarnes_1,dlg,EntryList/14/Text,0,이 동굴은 세기들을 거치면서 내 집이 되었습니다.
+tarnes_1,dlg,EntryList/14/Text,0,이 동굴은 수 세기 동안 내 집이었다.
 tarnes_1,dlg,EntryList/15/Text,0,"여러 년 동안 태양을 볼 수 없었지만, 이는 긴 이야기입니다."
 tarnes_1,dlg,EntryList/16/Text,0,"수백 년 전, 당신의 종족의 마지막 지상 침략 동안, 드워프, 스버프네블린, 고령 엘프들과 인간들은 동맹을 맺었습니다."
 tarnes_1,dlg,EntryList/17/Text,0,<StartAction>[만족으로]</Start>####################################################################################################################################################################################################################################################
@@ -1006,7 +1006,7 @@ thriandir_4,dlg,ReplyList/5/Text,0,"""당신은 여전히 마법품과 마법 �
 thriandir_4,dlg,ReplyList/6/Text,0,"""집 제일레에 대해 더 말해줘."""
 thriandir_4,dlg,ReplyList/7/Text,0,"""다른 질문이 있어요""."
 thriandir_4,dlg,ReplyList/8/Text,0,"""바에라운에 대해 좀 더 자세히 말해줄래?"""
-thriandir_4,dlg,ReplyList/10/Text,0,"""여러분이 세는 머리의 수는 몇 개인가?"""
+thriandir_4,dlg,ReplyList/10/Text,0,"""머리가 몇 개로 보이나?"""
 thriandir_4,dlg,ReplyList/11/Text,0,"""제일레 가문의 리더는 누구인가?"""
 thriandir_4,dlg,ReplyList/12/Text,0,"""마을 북쪽에는 동굴이 있습니다. 요새의 수원 시스템으로 연결됩니다. 아마 그럴 거야, 이건 당신이 찾는 뒷문일지도 모르죠."""
 thriandir_4,dlg,ReplyList/13/Text,0,"하지만 바깥은 밝고, 숲은 인간 군사로 가득하다."
@@ -1715,7 +1715,7 @@ area001,git,Placeable List/203/LocName,0,3
 area001,git,Placeable List/203/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 area001,git,Placeable List/204/LocName,0,진흙 1
 area001,git,Placeable List/204/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
-area001,git,Placeable List/205/LocName,0,먼지 푸른 곳
+area001,git,Placeable List/205/LocName,0,흙더미
 area001,git,Placeable List/205/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 area001,git,Placeable List/206/LocName,0,낙진 된 나무
 area001,git,Placeable List/206/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
@@ -4422,11 +4422,11 @@ forest,git,Placeable List/44/LocName,0,진흙 2
 forest,git,Placeable List/44/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 forest,git,Placeable List/45/LocName,0,진흙 2
 forest,git,Placeable List/45/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
-forest,git,Placeable List/46/LocName,0,먼지 푸른 곳
+forest,git,Placeable List/46/LocName,0,흙더미
 forest,git,Placeable List/46/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
-forest,git,Placeable List/47/LocName,0,먼지 푸른 곳
+forest,git,Placeable List/47/LocName,0,흙더미
 forest,git,Placeable List/47/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
-forest,git,Placeable List/48/LocName,0,먼지 푸른 곳
+forest,git,Placeable List/48/LocName,0,흙더미
 forest,git,Placeable List/48/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 forest,git,Placeable List/49/LocName,0,큰 장작더미
 forest,git,Placeable List/49/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
@@ -6913,9 +6913,9 @@ forrest,git,Placeable List/163/LocName,0,진흙 1
 forrest,git,Placeable List/163/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 forrest,git,Placeable List/164/LocName,0,진흙 2
 forrest,git,Placeable List/164/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
-forrest,git,Placeable List/165/LocName,0,먼지 푸른 곳
+forrest,git,Placeable List/165/LocName,0,흙더미
 forrest,git,Placeable List/165/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
-forrest,git,Placeable List/166/LocName,0,먼지 푸른 곳
+forrest,git,Placeable List/166/LocName,0,흙더미
 forrest,git,Placeable List/166/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 forrest,git,Placeable List/199/LocName,0,TN_Flower_Shamrock_A
 forrest,git,Placeable List/200/LocName,0,TN_Flower_Shamrock_A
@@ -9303,7 +9303,7 @@ monument02,git,Placeable List/203/LocName,0,3
 monument02,git,Placeable List/203/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 monument02,git,Placeable List/204/LocName,0,진흙 1
 monument02,git,Placeable List/204/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
-monument02,git,Placeable List/205/LocName,0,먼지 푸른 곳
+monument02,git,Placeable List/205/LocName,0,흙더미
 monument02,git,Placeable List/205/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 monument02,git,Placeable List/206/LocName,0,낙진 된 나무
 monument02,git,Placeable List/206/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.

@@ -699,8 +699,8 @@ area005,git,Placeable List/155/LocName,0,-1,횃불
 area005,git,Placeable List/156/LocName,0,-1,횃불
 area005,git,Placeable List/157/Description,0,14565,왕글의 라이버리
 area005,git,Placeable List/157/LocName,0,14561,왕글의 라이버리
-area005,git,Placeable List/158/Description,0,14565,가구의 운명 숙소
-area005,git,Placeable List/158/LocName,0,14561,가구의 운명 숙소
+area005,git,Placeable List/158/Description,0,14565,퍼니처스 페이트 여관
+area005,git,Placeable List/158/LocName,0,14561,퍼니처스 페이트 여관
 area005,git,Placeable List/159/Description,0,14565,썬더 인의 부호
 area005,git,Placeable List/159/LocName,0,14561,썬더 인의 부호
 area005,git,Placeable List/16/LocName,0,-1,TNO 통
@@ -1025,7 +1025,7 @@ area007,git,StoreList/1/StoreList/4/ItemList/7/DescIdentified,0,58562,"한 끝�
 area007,git,StoreList/1/StoreList/4/ItemList/7/LocalizedName,0,13490,밧줄
 area007,git,StoreList/1/StoreList/4/ItemList/8/DescIdentified,0,58570,과 이 가득한 텐더 박스
 area007,git,StoreList/1/StoreList/4/ItemList/8/LocalizedName,0,13498,티더박스
-area007,git,StoreList/1/StoreList/4/ItemList/9/DescIdentified,0,58570,"코르미르의 작은 애비리는 코르미르에서 중요한 상품으로, 작은 조각이라도 가치가 있습니다."
+area007,git,StoreList/1/StoreList/4/ItemList/9/DescIdentified,0,58570,작은 상아 조각. 상아는 코르미르에서 중요한 상품이라 작은 조각이라도 값어치가 있다.
 area007,git,StoreList/1/StoreList/4/ItemList/9/LocalizedName,0,13498,코끼리
 area007,git,StoreList/2/LocName,0,-1,대장장이 상점
 area007,git,StoreList/2/StoreList/0/ItemList/10/LocalizedName,0,12842,가슴판갑
@@ -3249,9 +3249,9 @@ castlewyvernw002,git,Placeable List/81/LocName,0,-1,TNO 통
 castlewyvernw002,git,Placeable List/82/LocName,0,-1,TNO 통
 castlewyvernw002,git,Placeable List/83/LocName,0,-1,TNO 통
 castlewyvernw002,git,Placeable List/89/Description,0,14577,"이 상자에는 ""Imelda Trading""라는 표시가 분명합니다."
-castlewyvernw002,git,Placeable List/89/ItemList/0/DescIdentified,0,58570,"코르미르의 작은 애비리는 코르미르에서 중요한 상품으로, 작은 조각이라도 가치가 있습니다."
+castlewyvernw002,git,Placeable List/89/ItemList/0/DescIdentified,0,58570,작은 상아 조각. 상아는 코르미르에서 중요한 상품이라 작은 조각이라도 값어치가 있다.
 castlewyvernw002,git,Placeable List/89/ItemList/0/LocalizedName,0,13498,코끼리
-castlewyvernw002,git,Placeable List/89/ItemList/1/DescIdentified,0,58570,"코르미르의 작은 애비리는 코르미르에서 중요한 상품으로, 작은 조각이라도 가치가 있습니다."
+castlewyvernw002,git,Placeable List/89/ItemList/1/DescIdentified,0,58570,작은 상아 조각. 상아는 코르미르에서 중요한 상품이라 작은 조각이라도 값어치가 있다.
 castlewyvernw002,git,Placeable List/89/ItemList/1/LocalizedName,0,13498,코끼리
 castlewyvernw002,git,Placeable List/90/Description,0,14577,느슨하게 못 박힌 상자.
 castlewyvernw002,git,Placeable List/91/Description,0,14577,느슨하게 못 박힌 상자.
@@ -4852,7 +4852,7 @@ hullackforest,git,WaypointList/4/LocalizedName,0,14817,떠돌아다니는 괴물
 hullackforest,git,WaypointList/5/LocalizedName,0,14817,떠돌아다니는 괴물 웨이포인트
 hullackforest,git,WaypointList/6/LocalizedName,0,14817,떠돌아다니는 괴물 웨이포인트
 hullackforest,git,WaypointList/7/LocalizedName,0,14817,PC 재시작 포인트
-ignore,git,Creature List/0/FirstName,0,-1,상인 팩션 대표
+ignore,git,Creature List/0/FirstName,0,-1,상인 파벌 대표
 ignore,git,Creature List/1/FirstName,0,-1,평민 팩션 대표
 ignore,git,Creature List/2/FirstName,0,-1,수비자 팩션 대표
 lakewyvernwater,git,Door List/0/Description,0,-1,강하고 견고한 나무 문에 금속이 프레임을 두르고 있습니다. 이 문은 거의 모든 것을 견딜 수 있을 것 같습니다.
@@ -6028,7 +6028,7 @@ tno_joust,git,Creature List/12/Description,0,-1,썬더스톤의 지역인
 tno_joust,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,12923,발병 최고의 옷 유니섹스
 tno_joust,git,Creature List/12/FirstName,0,-1,평민
 tno_joust,git,Creature List/13/Description,0,-1,썬더스톤의 지역인
-tno_joust,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,12923,상위급 하인 최고의 옷 남자
+tno_joust,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,12923,상층 하인 최고급 의상 남성
 tno_joust,git,Creature List/13/FirstName,0,-1,평민
 tno_joust,git,Creature List/14/Description,0,-1,썬더스톤의 지역인
 tno_joust,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,12923,로컬 의복

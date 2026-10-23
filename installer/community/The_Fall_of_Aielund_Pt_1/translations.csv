@@ -457,7 +457,7 @@ challenge,dlg,ReplyList/3/Text,0,"나는 단순한 여행자이며, 투소네로
 challenge,dlg,ReplyList/4/Text,0,내가 도와줄 수 있을 것 같아
 challenge,dlg,ReplyList/5/Text,0,고마워요
 chamberguard,dlg,EntryList/1/Text,0,보여줘 내가 생각해볼게
-chamberguard,dlg,EntryList/2/Text,0,"<StartCheck>[실패]</Start> 가능성이 높은 이야기. 그들은 나에게 ""아무도 들어오지 못하게 해""라고 말했고, 신여, 그게 내가 할 일이에요."
+chamberguard,dlg,EntryList/2/Text,0,"<StartCheck>[실패]</Start>그럴듯한 이야기군. 그들이 내게 '아무도 들이지 마라'고 했고, 맹세코 난 그렇게 할 거야."
 chamberguard,dlg,EntryList/3/Text,0,"안돼, 안돼!"
 chamberguard,dlg,EntryList/4/Text,0,"<StartAction>[성공]</Start>...안전보다 좋지 않지만, 어차피 이렇게 됐으니 나아가보는 게 좋겠어. 하지만 이 부분에 대해선 확신이 없네. 내가 도움을 좀 가져오마."
 chamberguard,dlg,EntryList/5/Text,0,최대한 빨리 가겠어!
@@ -505,7 +505,7 @@ charles,dlg,ReplyList/13/Text,0,아직은 아니지만 곧 할게요
 charles,dlg,ReplyList/15/Text,0,그들은 강했지만 그렇게 강하지는 않았습니다. 그리하여 이 근처에서는 오랜 시간 동안 그들의 모습을 볼 수 없을 것입니다.
 charles,dlg,ReplyList/16/Text,0,"마치 노예 제작소처럼 보였는데, 다른 여성들도 많이 억류되어 있었고,"
 charles,dlg,ReplyList/17/Text,0,그럼 좀 더 가까이
-charles,dlg,ReplyList/18/Text,0,"고마워, 찰스. 너의 배려는 정말로 고마워. 이것들을 잘 활용할게."
+charles,dlg,ReplyList/18/Text,0,"고마워요, 찰스. 정말 후하시군요. 잘 쓰겠습니다."
 charles,dlg,ReplyList/19/Text,0,행운을 빌어요.
 chev,dlg,EntryList/0/Text,0,이 기사는 당신을 무시하고 대신 자신의 의무에 집중합니다.
 com,dlg,EntryList/0/Text,0,자비심스러운 왕님께 말씀해 주시겠습니까?
@@ -854,7 +854,9 @@ crpco_reaper,dlg,ReplyList/2/Text,0,나는 다시 살아 있는 세계로 돌아
 crpco_reaper,dlg,ReplyList/4/Text,0,이해했습니다. 저는 여행을 준비했습니다.
 crpco_reaper,dlg,ReplyList/6/Text,0,그럼 어떤 대가를 치르죠?
 crpco_reaper,dlg,ReplyList/7/Text,0,아직 돌아가기에는 준비가 되지 않았다.
-crpco_rest,dlg,EntryList/0/Text,0,선택을 입력하세요: <CUSTOM200>
+crpco_rest,dlg,EntryList/0/Text,0,"선택지를 고르세요:
+
+<CUSTOM200>"
 crpco_rest,dlg,ReplyList/0/Text,0,<StartAction> 취소</Start>
 crpco_rest,dlg,ReplyList/1/Text,0,<StartAction>상태 설정: 키보드에서 멀리</Start>
 crpco_rest,dlg,ReplyList/2/Text,0,<StartAction> 설정 상태: 다시</Start>
@@ -2105,7 +2107,7 @@ hench_nellise,dlg,ReplyList/218/Text,0,현재 어떻게 지내고 계신지 궁�
 hench_nellise,dlg,ReplyList/219/Text,0,잘 들었어요
 hench_nellise,dlg,ReplyList/220/Text,0,"오, 그 소식을 듣고 죄송합니다. 빨리 수리를 도와드리겠습니다."
 hench_nellise,dlg,ReplyList/221/Text,0,내가 뭘 할 수 있는지 보자
-hench_nellise,dlg,ReplyList/222/Text,0,"좋아, 좋아, 조심스레 해."
+hench_nellise,dlg,ReplyList/222/Text,0,"알았어, 알았어, 진정해."
 hench_nellise,dlg,ReplyList/223/Text,0,"빠르게, 먼저 몇 가지 일을 해야겠어"
 hench_nellise,dlg,ReplyList/225/Text,0,- 제발
 hench_nellise,dlg,ReplyList/227/Text,0,잘 됐어요
@@ -3602,7 +3604,7 @@ start,dlg,EntryList/0/Text,0,"좋은 아침, 제 <Lord/Lady>. 이건 정말 운�
 start,dlg,EntryList/1/Text,0,"네, 네, 네, 네, 네, 네, 네."
 start,dlg,EntryList/2/Text,0,"오! 아주 잘하셨습니다, 제 <Lord/Lady>. 완전히 놀랐네요. 정말 코미디언 같군요."
 start,dlg,EntryList/3/Text,0,사실 그녀는 내 <Lord/Lady>입니다. 만약 당신이 그녀의 고귀함을 방문해 주시면 감사하겠습니다.
-start,dlg,EntryList/4/Text,0,"선생님, 저는 평소와 같이 화려하게 말하고 있습니다. <Sir/Madam>이 말씀하시는 것이 무엇인지 확신이 없습니다."
+start,dlg,EntryList/4/Text,0,<Sir/Madam>이 무슨 말씀을 하시는지 도무지 모르겠군요. 저는 평소처럼 달변으로 말하고 있을 뿐입니다.
 start,dlg,EntryList/5/Text,0,그녀는 현재 왕좌실 남쪽에 있는 전쟁실에서 있습니다.
 start,dlg,ReplyList/0/Text,0,<Lord/Lady>?
 start,dlg,ReplyList/1/Text,0,이.. 물론 아니에요. 그냥 농담을 하고 있었어요. 귀족들이 가끔 하는 것처럼요.
@@ -7504,7 +7506,7 @@ morik,utc,Description,0,이 야만족의 지도자인 모릭 파어 이글은 �
 nathell,utc,FirstName,0,나텔
 nathell,utc,Description,0,위험한 외모가 있는 이 사람 은 적어도 한 가지 숨은 무기를 들고 있는 것 같습니다.
 navalofficer,utc,FirstName,0,해군 장교
-navalofficer,utc,Description,0,"현명한, 비밀스러운 사람들, 투소네 해군의 장교들은 최근 전쟁에서 모든 것을 바쳤고, 죽음은 그들을 싸우게 하지 않을 것입니다."
+navalofficer,utc,Description,0,"약삭빠르고 교활한 자들인 투손 해군 장교들은 최근 전쟁에서 모든 것을 쏟아부었고, 죽음이 아니고서는 그들의 싸움을 멈출 수 없다."
 nawen,utc,FirstName,0,나윈
 nawen,utc,LastName,0,이'린팔렌
 nawen,utc,Description,0,왕의 궁중 마법사 테리누스의 대신인 나웬은 마법을 이용해 정보를 궁중과 전선 간에 상호 전달합니다.
@@ -8734,7 +8736,7 @@ zep_werebear,utc,Description,0,"인간 형태의 곰은 강하고 근육이 잘 
 zep_wereboar,utc,FirstName,0,배인
 zep_wereboar,utc,Description,0,인간형의 웨어보어스는 평균적인 키와 근육이 많은 체구를 가진 사람들입니다.
 zep_werecroc,utc,FirstName,0,악어
-zep_werecroc,utc,Description,0,"인간형 또는 거대형으로, 웨어크로코일은 키가 크고 얇으며 날카로운 특징을 가진다. 긴 코와 턱, 눈에 띄는 부리와 얇은 얼굴을 가지고 있다."
+zep_werecroc,utc,Description,0,"인간형 또는 거인형일 때 웨어크로커다일은 키가 크고 마른 체형에 날카로운 인상이며, 코와 턱이 길고 얼굴이 가늘며 눈에 띄는 윗니 돌출이 있다."
 zep_werefrog,utc,FirstName,0,늑대 개구리
 zep_werefrog,utc,Description,0,이 생물은 인간과 개구리의 혼합체처럼 보입니다.
 zep_werejag_001,utc,FirstName,0,가르
@@ -9627,7 +9629,7 @@ gauntletsofthebr,uti,LocalizedName,0,강력한 장갑
 gauntletsofthebr,uti,DescIdentified,0,"이 장갑의 창작자는 잔인한 언덕 거인의 진정한 본질을 포착하여 자신이 창조한 것의 단점을 깨닫지 못했다. 장갑을 착용한 후에는 장갑을 벗는 방법을 알아내지 못해 너무 어리석게 되었고, 결국 남은 날을 노동자로 보냈다."
 gauntletsofun001,uti,LocalizedName,0,하늘의 힘의 장갑
 gauntletsofun001,uti,DescIdentified,0,"이 장갑은 강력한 마법으로 강화되어 있고, 특정 보편적인 진동에 맞춰져 있습니다. 이 특별한 장갑 쌍은 우주의 긍정적인 측면에서 힘을 얻으며, 승려에게 원수를 무력으로 때릴 수 있는 힘을 부여합니다."
-gauntletsofun002,uti,LocalizedName,0,불굴의 힘을 가진 장갑
+gauntletsofun002,uti,LocalizedName,0,불굴의 힘의 장갑
 gauntletsofun002,uti,DescIdentified,0,"이 장갑은 강력한 마법으로 강화되어 있고, 특정 보편적인 진동에 맞춰져 있습니다. 이 특정 장갑은 우주의 어두운 면에서 힘을 얻어 사제에게 삶과 죽음에 대한 힘을 주는 장갑입니다."
 gauntletsofunive,uti,LocalizedName,0,범용 조화의 장갑
 gauntletsofunive,uti,DescIdentified,0,"이 장갑은 강력한 마법으로 강화되었으며, 특정 보편적인 진동에 맞춰져 있습니다. 이 장갑 쌍은 보편적 조화를 통해 힘을 얻어 승려에게 자연의 균형에 영향을 미치는 능력을 부여합니다."
@@ -10226,7 +10228,7 @@ sha_subrace_vamp,uti,LocalizedName,0,세부 종족: 흡혈귀
 sha_subrace_vamp,uti,DescIdentified,0,이제 뱀파이어 서브래스의 일원이라는 인정을 받았고 이 항목은 당신이 선택한 서브래스에 고유한 특별한 능력을 줄 것입니다.
 shadowveil,uti,LocalizedName,0,공허의 망토
 shadowveil,uti,Description,0,이 옷은 당신이 본 적에 가장 검은 옷이다.
-shadowveil,uti,DescIdentified,0,그늘의 본질로 만들어진 이 망토는 밤에 걸어가는 사람들에게 탁월한 보호와 숨은 능력을 향상시킵니다.
+shadowveil,uti,DescIdentified,0,그림자의 본질로 짜낸 이 망토는 밤에 걸어 다니는 이에게 훌륭한 방어와 향상된 은신 능력을 제공합니다.
 shieldoftheages,uti,LocalizedName,0,시대의 방패
 simplerobe,uti,LocalizedName,0,단순한 수의
 simplerobe001,uti,LocalizedName,0,사제 의복
@@ -11659,7 +11661,7 @@ zep_soot_002,utp,LocName,0,바닥에 닳은 흙 Dag2
 zep_soot_003,utp,LocName,0,바닥에 닳은 흙 Dag3
 zep_ss_pil_001,utp,LocName,0,고딕 기둥 - 제방
 zep_ss_pil_001,utp,Description,0,칼럼.
-zep_ss_pil_002,utp,LocName,0,고딕 기둥 - 줄무늬가 있는
+zep_ss_pil_002,utp,LocName,0,고딕 기둥 - 홈이 파인
 zep_ss_pil_002,utp,Description,0,칼럼.
 zep_statues031,utp,LocName,0,"조각상, 박쥐"
 zep_statues031,utp,Description,0,악보를 연주하는 바르드의 동상

@@ -757,9 +757,9 @@ ss_alokkair,dlg,ReplyList/2/Text,0,"""잠깐. 먼저 이 계획에 대해 말해
 ss_alokkair,dlg,ReplyList/3/Text,0,"""왜 아이언마우즈 오크들을 살해했어?"""
 ss_alokkair,dlg,ReplyList/7/Text,0,"<StartCheck>[지능]</Start> "".hlontar? 잃어버린 왕국?"""
 ss_alokkair2,dlg,EntryList/0/Text,0,"""당신은 끈질긴 비참자입니다. 아주 잘합니다. 저는 여러분께 주요르단을 소개합니다."
-ss_anabel,dlg,EntryList/0/Text,0,"""대형 창을 든 골렘은 내 셀의 열쇠를 가지고 있어! 제발 나를 풀어줘!"""
+ss_anabel,dlg,EntryList/0/Text,0,"""큰 도끼를 든 해골이 내 감방 열쇠를 갖고 있어! 제발 풀어 줘!"""
 ss_anabel,dlg,EntryList/1/Text,0,"""실바누스에게 감사해요. 이 어두운 곳에서 죽을 줄 알았어요. 제 이름은 아나벨입니다."
-ss_anabel,dlg,EntryList/2/Text,0,"""리히는 동쪽에 있는 오래된 사원에 있습니다. 그의 개인 방에서는 조심해야 합니다. 저는 그가 보호자 벨커로 그 곳에 연기 요소를 보관하고 있다고 생각합니다. 그리고 우물실에는 오르크들의 시체가 버려진 큰이고 혐오스러운 무언가가 있습니다."""
+ss_anabel,dlg,EntryList/2/Text,0,"""리치는 동쪽의 오래된 신전에 있어요. 그의 개인 방을 조심하세요. 수호자로 연기 정령, 벨커를 두고 있는 것 같아요. 그리고 오크 시체를 버린 우물방에는 크고 역겨운 무언가가 있어요."""
 ss_anabel,dlg,EntryList/3/Text,0,"""나는 서쪽 에 있는 옛 숲 에서 무슨 일 이 일어나고 있는 것 을 알려 내 드루이드 서클 에 서둘러 가야 한다. 드래곤 숭배 의 미친 분파 는 죽은 드래곤 을 다시 살리려고 하고 있다. 시간이 있다면, 당신 이 그들을 막을 수 있다면 감사 할 것 이다""."
 ss_anxioushorse,dlg,EntryList/0/Text,0,"이 말은 불안해서 우는 것 같고, 가만히 있을 수 없어 보인다."
 ss_anxioushorse,dlg,EntryList/1/Text,0,<StartCheck>[실패]</Start>마는 당신을 무시하고 계속 비명을 지르며 울음소리를 내요.
@@ -1802,7 +1802,7 @@ shadowaleoldskul,git,Placeable List/56/LocName,0,"게임 - 주사위, 육면체 
 shadowaleoldskul,git,Placeable List/57/LocName,0,"게임 - 주사위, 육면체 (6 이상)"
 shadowaleoldskul,git,Placeable List/58/LocName,0,"게임 - 주사위, 육면체 (2개 이상)"
 shadowaleoldskul,git,Placeable List/59/LocName,0,"보울 - 백색, 스티우"
-shadowaleoldskul,git,Placeable List/59/Description,0,길을 여행하는 견고한 모험가들에게 뜨거운 국은 환영받는 음식이다. 그러나 국 속에 무엇이 있는지에 대한 오래된 수수께끼는 여전히 계속된다.
+shadowaleoldskul,git,Placeable List/59/Description,0,뜨끈한 스튜 한 그릇은 길 위의 억센 모험가들에게 반가운 음식이다. 하지만 스튜에 정확히 무엇이 들어 있는지는 오래된 수수께끼로 남아 있다.
 shadowaleoldskul,git,Placeable List/60/LocName,0,그랜드 피아노
 shadowaleoldskul,git,Placeable List/60/Description,0,"멋진 오래된 피아노, 코끼리 키가 연주할 것을 촉구하는 것 같습니다."
 shadowdalebronns,git,Creature List/0/FirstName,0,브론
@@ -2609,7 +2609,7 @@ module,jrl,Categories/10/EntryList/1/Text,0,"포털에서 계속적으로 적들
 module,jrl,Categories/10/EntryList/2/Text,0,"그림자의 차원으로의 포털은 이제 닫혀졌지만, 어떻게 처음으로 열렸는지에 대한 질문은 여전히 남아 있습니다."
 module,jrl,Categories/11/Name,0,길 위에 하나
 module,jrl,Categories/11/EntryList/0/Text,0,제일레 하우스로부터 잠재적인 위협을 막는 영웅적인 행동은 확실히 당신의 명성을 높이고 모험의 새로운 기회를 가져다 줄 것입니다.
-module,jrl,Categories/11/EntryList/1/Text,0,쉐도우데일에는 여전히 많은 모험이 남아 있습니다. 보이지 않는 위협들이 아직도 우리를 기다리고 있는 것 같습니다.
+module,jrl,Categories/11/EntryList/1/Text,0,섀도데일에는 아직도 모험이 한가득 남아 있습니다! 가장 큰 위협은 아직 오지 않은 모양입니다...
 module,jrl,Categories/12/Name,0,"쥐, 쥐는 어디에나"
 module,jrl,Categories/12/EntryList/0/Text,0,베레그운드의 지하에 쥐 문제 해결을 합의했지
 module,jrl,Categories/12/EntryList/1/Text,0,"베레그운드의 지하에서 쥐를 제거하는 동안, 당신은 벌레의 명백한 리더를 만났어요. 이 미확인 이름의 베레라트입니다. 협상 과정에서 그의 노력에도 불구하고, 당신은 빠르게 그를 그의 불행에서 벗어났습니다. 당신은 당신의 성공을 베레그운드에 보고해야합니다."
@@ -3345,9 +3345,9 @@ q_plc_mktstnd006,utp,LocName,0,시장 노점 - 갈색 차양막
 q_plc_mktstnd006,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_mktstnd007,utp,LocName,0,마켓 스탠 - 살점상
 q_plc_mktstnd007,utp,Description,0,이 물체는 특별한 것이 없습니다.
-q_plc_mktstnd008,utp,LocName,0,시장대수 - 골목
+q_plc_mktstnd008,utp,LocName,0,시장 가판대 - 빈민가
 q_plc_mktstnd008,utp,Description,0,이 물체는 특별한 것이 없습니다.
-q_plc_mktstnd009,utp,LocName,0,시장대수 - 골목
+q_plc_mktstnd009,utp,LocName,0,시장 가판대 - 빈민가
 q_plc_mktstnd009,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_mrktcross,utp,LocName,0,시장 교차로
 q_plc_mrktcross,utp,Description,0,이 물체는 특별한 것이 없습니다.

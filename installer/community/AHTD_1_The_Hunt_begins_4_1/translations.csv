@@ -1,6 +1,6 @@
 Resource,ResType,FieldPath,LangID,Text
 cavemaze001,are,Name,0,동굴 미로
-dragoncrypt001,are,Name,0,용 납골당
+dragoncrypt001,are,Name,0,용의 지하 묘실
 drowcamp001,are,Name,0,드로우 야영지
 drowcamp002,are,Name,0,드로우 야영지
 drowcamp003,are,Name,0,드로우 야영지
@@ -165,7 +165,7 @@ goblin_slave,dlg,ReplyList/10/Text,0,가만히 있어 내가 널 쇠사슬로 �
 goblin_slave,dlg,ReplyList/11/Text,0,"""잠깐해!"""
 intro,dlg,EntryList/0/Text,0,"""안녕하세요, <FullName>. 마침내 당신은 미스터스 피위위안의 사냥 파티에 합류했습니다."
 klauth_21,dlg,EntryList/0/Text,0,"""누가 내 무덤을 방해하려는 용기가 있는가?"""
-klauth_21,dlg,EntryList/1/Text,0,"""나는 클라우스, 북부의 강력한 붉은 용이다."""
+klauth_21,dlg,EntryList/1/Text,0,"""나는 북쪽의 강대한 레드 드래곤, 클라우스다."""
 klauth_21,dlg,EntryList/2/Text,0,"""내 옛 몸은 죽었지만, 나는 생명력을 이 신선하고 젊은 몸으로 옮겼다. 당신은 나의 첫 번째 방문자이므로, 따라서 제 첫 번째 희생자가 되는 영광은 당신에게 있다."""
 klauth_21,dlg,ReplyList/0/Text,0,나는 <FullName>이다. 너는 누구니?
 klauth_21,dlg,ReplyList/1/Text,0,"""당신의 죽음에 대한 소문이 있었다""."
@@ -256,7 +256,7 @@ mad_mage,dlg,ReplyList/6/Text,0,"""오, 강력한 드래곤, 내게 자비해 �
 piwiewien1,dlg,EntryList/0/Text,0,"""이것이 무슨 뜻인가?! 내 경호자들은 우리 캠프 중에 외인이 걸어가고 있는 것을 보지 못하나? 너희 무능한 바보들이, 공격하라!"""
 piwiewien1,dlg,EntryList/1/Text,0,"<StartAction>[그녀의 눈에 위험한 빛이 번쩍]</Start> ""마침내 도착하셨군요. 기다리는 것은 좋지 않아요. 지연의 이유는 무엇인가요?"""
 piwiewien1,dlg,EntryList/2/Text,0,"""내가 당신의 어리석은 변명에 관심이 없다. 여기, 이 표지를 받아라. 이 표지는 당신을 내 그룹의 일원으로 식별할 것이다. 이제 들어라. 당신의 첫 번째 임무는 이미 기다리고 있다."""
-piwiewien1,dlg,EntryList/3/Text,0,"""너는 내 보복의 바닥없는 웅덩이의 가장자리에서 걸어가고 있어, 쓸모없는 놈아. 네 혀는 내 서비스에서 필요한 무기가 아니다. 필요로 하지 않는다면, 그것을 제거할 수 있다."""
+piwiewien1,dlg,EntryList/3/Text,0,"""너는 내 응징이라는 바닥없는 구덩이의 가장자리를 걷고 있다, 쓸모없는 놈. 내 밑에서 네게 필요한 무기는 혀가 아니다. 필요 없다면 뽑아 버릴 수도 있지..."""
 piwiewien1,dlg,EntryList/4/Text,0,"""이제 귀를 기울여라. 나는 이것을 한 번만 말할 것이다."""
 piwiewien1,dlg,EntryList/5/Text,0,"<StartAction>[눈을 가늘게 뜬다]</Start>""선을 넘었군, 벌레 같은 놈! 내가 널 채찍질하고 싶다면 넌 내 채찍의 먹잇감이 될 거다! 넌 내 지휘를 받고 있어! 이해하기 어렵다면 조치를 취해야겠지. 더는 내 인내심을 시험하지 마!"""
 piwiewien1,dlg,EntryList/6/Text,0,"""경호, 이 벌레를 없애라!"""
