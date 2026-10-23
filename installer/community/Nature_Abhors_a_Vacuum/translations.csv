@@ -1509,7 +1509,7 @@ hadush,dlg,EntryList/17/Text,0,"넌 뭐? 이미? 나가는 걸 본 적도 없었
 hadush,dlg,EntryList/18/Text,0,"<StartCheck>[성공]</Start>Hm 당신은 힘든 거래를 하지만 난 철이 필요해, 그래서 괜찮아요."
 hadush,dlg,EntryList/19/Text,0,넌 떠나지 않았어? 이미 그러고 있구나! 정말 똑똑하군!
 hadush,dlg,EntryList/20/Text,0,금이 있네요 철에 고마워요
-hadush,dlg,EntryList/21/Text,0,"어허. 하이마르크에서 철을 보내길 기대했지만 오지 않았어. 아마 그럴 거야, 아마 남쪽에서 진흙 속에 걸러졌을 거야."
+hadush,dlg,EntryList/21/Text,0,어허. 하이마치에서 철을 보내기로 했는데 오지 않았어. 아마 남쪽 진흙탕에 빠져 꼼짝 못 하는 모양이야.
 hadush,dlg,EntryList/22/Text,0,안녕하세요 아름다운 여사님. 여기서 무엇을 하시나요? 이 더러운 금단가게에서 무엇을 하셨나요?
 hadush,dlg,EntryList/23/Text,0,"아... 아... 죄송합니다, 마님."
 hadush,dlg,EntryList/24/Text,0,"검이나 그런 것들이 있긴 하지만, 장갑은 별로 없는데. 왕의 군대가 거의 다 가져갔다."
@@ -1631,7 +1631,7 @@ hasrin,dlg,EntryList/5/Text,0,"친구여, 물어봐."
 hasrin,dlg,EntryList/7/Text,0,- 다른 게 있었나요?
 hasrin,dlg,EntryList/8/Text,0,"사실, 작은 나무일 수도 있고, 여기 가장 큰 나무는 나보다 몇 살이나 나이가 많고, 물론, 귀에 닿을 수 있는 나무 절개꾼과 농부들이 12명이나 많지만..."
 hasrin,dlg,EntryList/9/Text,0,"오, 이제 더 이상 왕의 숲에 들어갈 수 없어. 이해관계가 너무 얽혀 있기 때문이야. 그는 나무를 베어 목재를 만들고 동물을 사냥하는데, 우리는 그걸 막으려고 해. 이렇게 하는 게 더 좋지 않겠나."
-hasrin,dlg,EntryList/10/Text,0,"네, 제 계급에 의해 모두가 공유되었으면 좋겠습니다. 몇몇은 현상태에 만족하지 않아 숲의 안전을 위해 극단적인 조치를 취할 수도 있습니다."
+hasrin,dlg,EntryList/10/Text,0,"네, 제 소속 단체 전체가 그렇게 생각해 주면 좋겠습니다. 그들 중 일부는 현상 유지에 만족하지 않아 숲의 안전을 위해 극단적인 행동을 할지도 모릅니다."
 hasrin,dlg,EntryList/11/Text,0,"네, 캐레스퍼 산맥에 깊숙이 들어가려는 계획이 있다면, 내가 너라면 조심해."
 hasrin,dlg,EntryList/12/Text,0,그 외에 다른 것이 원했나요?
 hasrin,dlg,EntryList/13/Text,0,"몇 가지 아이템이 있네. 나는 치료키트를 만들고, 약초를 모으고, 몇 가지 포션도 만들지."
@@ -1913,8 +1913,8 @@ hench_hotu,dlg,ReplyList/64/Text,0,"""나는 적이 중간 거리에 있다면 4
 hench_hotu,dlg,ReplyList/64/Text,2,"""나는 당신이 적의 거리가 평균 4~5미터 정도면 반대의 무기로 바뀌어야 한다고 생각합니다""."
 hench_hotu,dlg,ReplyList/64/Text,3,"""나는 당신이 적의 거리가 평균 4~5미터 정도면 반대의 무기로 바뀌어야 한다고 생각합니다""."
 hench_hotu,dlg,ReplyList/65/Text,0,"""미사일 무기를 잘 활용할 수 있기 때문에 적이 상대적으로 가까워질 때까지 기다려야 합니다. 3미터도 안 되는 거라면,"
-hench_hotu,dlg,ReplyList/65/Text,2,"""당신이 던전 무기와 잘 맞는 것 같으니, 적이 대략 3미터 이내로 가까워질 때까지 기다리세요."""
-hench_hotu,dlg,ReplyList/65/Text,3,"""당신이 던전 무기와 잘 맞는 것 같으니, 적이 대략 3미터 이내로 가까워질 때까지 기다리세요."""
+hench_hotu,dlg,ReplyList/65/Text,2,"""투사체 무기를 잘 다루시는 것 같으니, 적이 비교적 가까이, 즉 3미터 이내로 올 때까지 기다렸다가 근접 무기로 바꾸세요."""
+hench_hotu,dlg,ReplyList/65/Text,3,"""투사체 무기를 잘 다루시는 것 같으니, 적이 비교적 가까이, 즉 3미터 이내로 올 때까지 기다렸다가 근접 무기로 바꾸세요."""
 hench_hotu,dlg,ReplyList/66/Text,0,"""전투와 미사일 무기 사이를 언제 전환해야 하는지 직감에 의존하도록 믿어 보아라."""
 hench_hotu,dlg,ReplyList/66/Text,2,"""나는 당신이 순간마다 무기를 바꿀 때 자신의 직감을 신뢰하게 하고 싶다."""
 hench_hotu,dlg,ReplyList/66/Text,3,"""나는 당신이 순간마다 무기를 바꿀 때 자신의 직감을 신뢰하게 하고 싶다."""
@@ -3668,7 +3668,7 @@ tara,dlg,EntryList/18/Text,0,저한테 200명의 군인이만 있으면 수백 �
 tara,dlg,EntryList/19/Text,0,"압력이 없나 봐. 그래, 이제 시작해보자."
 tara,dlg,EntryList/20/Text,0,실제로는 꽤 많은 양이었습니다. 지역의 순찰자 사령관 아민 와이즈가 이 지역을 조사하기 위해 사람을 보내게 되었습니다.
 tara,dlg,EntryList/21/Text,0,바르바리아인들은 수년간 남쪽 산맥에서 평화롭게 살다가 몇 달 전에 그들의 지도력이 바뀌었습니다.
-tara,dlg,EntryList/22/Text,0,"새로운 상장인 에라그는 반오크로, 대부분의 반오크처럼 잔인하고 악랄한 존재입니다."
+tara,dlg,EntryList/22/Text,0,"새 족장 에라그는 하프오크이며, 대부분의 하프오크처럼 잔인하고 악랄한 자입니다."
 tara,dlg,EntryList/23/Text,0,"에라그는 나머지 사람들을 격렬하게 몰아넣었고, 그들은 이미 몇 주 동안 전쟁을 준비해 왔다."
 tara,dlg,EntryList/24/Text,0,"그 나머지 사람들은 그를 추모하기 위해 살살을 하거나,"
 tara,dlg,EntryList/25/Text,0,200명의 더러운 야만족이 키스하는 것보다 죽으면 좋겠어
@@ -10740,7 +10740,7 @@ shad_lord,utc,Description,0,"어둠의 끔찍한 창조물들, 그림자 주들�
 shadow001,utc,FirstName,0,그림자
 shadow001,utc,Description,0,"그림자는 생명 속에 사는 어둠의 존재로, 생명과 빛을 똑같이 열렬히 미워합니다. 그 접촉은 존재하지 않는 추운 느낌을 남기며, 매우 위험한 상대가 됩니다."
 shfiend002,utc,FirstName,0,그림자 마귀
-shfiend002,utc,Description,0,"어두운 và 위험한 존재들, 그림자 악마들은 굶주림이나 목마름을 느끼지 않으며, 악을 행하기만을 원하여 공격한다."
+shfiend002,utc,Description,0,"두려운 하계에서 온 어둡고 위험한 그림자 악마들은 굶주리거나 목마르지 않으며, 오직 악을 행하려는 욕망을 채우기 위해 공격합니다."
 sister001,utc,FirstName,0,메린의 조수
 sister001,utc,Description,0,도발적이고 속임수를 잘 사용하는 것은 이 개인을 잘 묘사하는 두 단어입니다.
 slywolf,utc,FirstName,0,슬라이 울프
@@ -11389,9 +11389,9 @@ zep_kuotoa_002,utc,FirstName,0,쿠오토아 사냥꾼
 zep_kuotoa_002,utc,Description,0,쿠오토아 (Koo-toa) 는 악의적 성격과 악마적 성향으로 유명한 고대 수중인류의 일종이다.
 zep_kuotoa_003,utc,FirstName,0,쿠오토아 사냥꾼
 zep_kuotoa_003,utc,Description,0,쿠오토아 (Koo-toa) 는 악의적 성격과 악마적 성향으로 유명한 고대 수중인류의 일종이다.
-zep_kuotoa_004,utc,FirstName,0,쿠오토아 숭배자
+zep_kuotoa_004,utc,FirstName,0,쿠오토아 주술사
 zep_kuotoa_004,utc,Description,0,쿠오토아 (Koo-toa) 는 악의적 성격과 악마적 성향으로 유명한 고대 수중인류의 일종이다.
-zep_kuotoa_005,utc,FirstName,0,쿠오토아 숭배자
+zep_kuotoa_005,utc,FirstName,0,쿠오토아 주술사
 zep_kuotoa_005,utc,Description,0,쿠오토아 (Koo-toa) 는 악의적 성격과 악마적 성향으로 유명한 고대 수중인류의 일종이다.
 zep_kyoht1,utc,FirstName,0,키오트
 zep_kyoht1,utc,Description,0,키오츠는 토끼나 코요토와 비슷한 인형이다.

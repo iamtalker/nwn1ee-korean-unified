@@ -388,7 +388,7 @@ boy_crypt,dlg,EntryList/19/Text,0,"왜 누군가가 나쁜 왕으로 만들라�
 boy_crypt,dlg,EntryList/20/Text,0,<StartAction>[네일리스가 창백해진다.]</Start> 그들은 그렇게 해야 합니다.
 boy_crypt,dlg,ReplyList/0/Text,0,뭐하는 거야?
 boy_crypt,dlg,ReplyList/1/Text,0,"영웅은 과대평가된 거야, 꼬마야. 이상한 생각은 하지 마."
-boy_crypt,dlg,ReplyList/2/Text,0,"그리고 이 남자는 인생에서 한 일로 인해 영웅이었지, 죽음에서 보이는 모습으로는 아니었다."
+boy_crypt,dlg,ReplyList/2/Text,0,그건 그저 관일 뿐이야. 그리고 이 남자는 죽은 뒤의 모습 때문이 아니라 살아 있을 때 한 일 때문에 영웅이었어.
 boy_crypt,dlg,ReplyList/3/Text,0,"그는 왕 의 불공평 한 법 을 지키기 보다는 어려운 사람 들 을 돕는 것 을 선택 하였다. 그 는 경력 과 정치 생활 을 잃었지만, 그 는 그 의 가치 를 느꼈다."
 boy_crypt,dlg,ReplyList/4/Text,0,"사실 그렇습니다. 그는 이 무덤을 지켰고, 자신의 유산을 다음 세대에 전해지도록 보호했습니다."
 boy_crypt,dlg,ReplyList/5/Text,0,이름이 뭐였어?
@@ -950,7 +950,7 @@ dante,dlg,EntryList/6/Text,0,그렇다고 군대를 데려가야 한다는 의�
 dante,dlg,EntryList/7/Text,0,그럼 그냥 지나가주시면 좋겠나?
 dante,dlg,EntryList/8/Text,0,"이런 상황이야. 왕이 미쳤다고 생각할 수도 있지만, 그는 여전히 왕이니까. 저는 평생 그가 한 일에 한 번도 동의한 적이 없지만, 그래도 그가 말하는 대로 행동해. 그러니 그가 미쳤다고 말한다고 해도 제게 큰 변화는 없어. 그가 이 도시를 지키라고 명령했으니, 화가 나든 물이 높든 그 명령을 따르게 될 거야."
 dante,dlg,EntryList/9/Text,0,"<StartCheck>[실패]</Start> 잘 보시다시피, 이게 이렇습니다. 당신은 왕이 미쳤다고 생각할 수도 있지만, 그는 여전히 왕입니다. 저는 그가 평생 한 일에 동의한 적이 없다고 생각합니다. 하지만 여전히 그가 내게 명령하는 대로합니다. 그래서 그가 미쳤다고 말하는 것은 저에게 큰 변화를 주지 않습니다. 그는 나에게 이 도시를 지키고 지옥이나 높은 물로 오라고 말했습니다. 그것이 내가 할 것입니다."
-dante,dlg,EntryList/10/Text,0,"우리 둘 다 상황의 희생자인 것 같네요. 나는 내 매력적인 외모와 정직한 윤리관으로, 그리고 넌... 무엇이든 네가 가지고 있는 것처럼. 오랜만이야, 친구."
+dante,dlg,EntryList/10/Text,0,"우리 둘 다 처지 탓에 이런 상황에 놓인 것 같군. 나는 잘생긴 외모와 고결한 윤리관을 가졌고, 자네는… 뭐든 자네가 가진 것 때문에 말이야. 그럼 잘 가게, 친구."
 dante,dlg,EntryList/11/Text,0,"네, 머리가 바둑에 붙어야 하는 것이 부끄러울 거야. 그런 일이 항상 엉망이야. 이리 나가라. 내가 정말 훌륭한 남자이기 때문에, 새로운 친구들한테 다시 걸어갈게 해. 그 후에? <StartAction>[Dante shrug.]</Start> 오픈 시즌"
 dante,dlg,EntryList/13/Text,0,<StartCheck>#[실패]</Start>##################################################
 dante,dlg,EntryList/14/Text,0,<StartAction>[성공]</Start><StartAction>##</Start>#############################################################################################################################################################################################################################################
@@ -1947,7 +1947,7 @@ halberdier,dlg,EntryList/1/Text,0,우리 험한 캠프에 오신 것을 환영�
 halberdier,dlg,EntryList/2/Text,0,우리의 새로운 폭격은 그들의 요새에 충분히 대응할 것입니다.
 halberdier,dlg,EntryList/3/Text,0,국경에 약해진 아이엘런더들을 상대로 지금이 우리 공격할 때야!
 halberdier,dlg,EntryList/4/Text,0,당신들이 추가 지원군이란 말이야? 더 많은 지원군을 기대하고 있었는데.
-halberdier2,dlg,EntryList/0/Text,0,"장군은 우리를 이 단계까지 이르게 한 것이 전반적으로 잘한 일이다. 만약 그가 요청한다면, 나는 그와 함께 지옥까지 들어갈 것이다."
+halberdier2,dlg,EntryList/0/Text,0,장군님은 우리를 여기까지 잘 이끌어 오셨습니다. 명령하신다면 지옥까지도 따라가겠습니다.
 halberdier2,dlg,EntryList/1/Text,0,보강군이 도착하면 움직일 준비가 돼 있을 거야
 halberdier2,dlg,EntryList/2/Text,0,"보시다시피 스톤가드의 드워프들은 어떻게 말하죠? ""취해서 잠들었나?""... 아마도 그들은 우리가 여기서 모여 준비할 시간을 사주었을지도 모르죠?"
 halberdier2,dlg,EntryList/3/Text,0,길거리가 길었지만 끝은 얼마 남지 않았습니다.
@@ -1979,7 +1979,7 @@ hasrin,dlg,EntryList/5/Text,0,"친구여, 물어봐."
 hasrin,dlg,EntryList/7/Text,0,- 다른 게 있었나요?
 hasrin,dlg,EntryList/8/Text,0,"사실, 작은 나무일 수도 있고, 여기 가장 큰 나무는 나보다 몇 살이나 나이가 많고, 물론, 귀에 닿을 수 있는 나무 절개꾼과 농부들이 12명이나 많지만..."
 hasrin,dlg,EntryList/9/Text,0,"오, 이제 더 이상 왕의 숲에 들어갈 수 없어. 이해관계가 너무 얽혀 있기 때문이야. 그는 나무를 베어 목재를 만들고 동물을 사냥하는데, 우리는 그걸 막으려고 해. 이렇게 하는 게 더 좋지 않겠나."
-hasrin,dlg,EntryList/10/Text,0,"네, 제 계급에 의해 모두가 공유되었으면 좋겠습니다. 몇몇은 현상태에 만족하지 않아 숲의 안전을 위해 극단적인 조치를 취할 수도 있습니다."
+hasrin,dlg,EntryList/10/Text,0,"네, 제 소속 단체 전체가 그렇게 생각해 주면 좋겠습니다. 그들 중 일부는 현상 유지에 만족하지 않아 숲의 안전을 위해 극단적인 행동을 할지도 모릅니다."
 hasrin,dlg,EntryList/11/Text,0,"네, 캐레스퍼 산맥에 깊숙이 들어가려는 계획이 있다면, 내가 너라면 조심해."
 hasrin,dlg,EntryList/12/Text,0,그 외에 다른 것이 원했나요?
 hasrin,dlg,EntryList/13/Text,0,"몇 가지 아이템이 있네. 나는 치료키트를 만들고, 약초를 모으고, 몇 가지 포션도 만들지."
@@ -2426,7 +2426,7 @@ hench_criosa,dlg,ReplyList/122/Text,0,적과 직접 전투를 할 때도 여전�
 hench_criosa,dlg,ReplyList/125/Text,0,적과 직접 전투를 벌이고 있는 동안 마법을 쓰지 마세요.
 hench_criosa,dlg,ReplyList/128/Text,0,"당신은 괜찮으시지만, 마법을 절약해 주셨으면 합니다. 우리에게 더 강한 적들이 있을 때 사용할 수 있도록 마법을 보존해 주세요."
 hench_criosa,dlg,ReplyList/130/Text,0,마법을 낭비하고 있어. 적이 어느 정도 도전적인 경우에만 사용하도록.
-hench_criosa,dlg,ReplyList/132/Text,0,"나는 매번 매력을 사용하는 것이 좋다고 생각해. 적이 농담처럼 느껴지지 않는다면, 사용하지 마라."
+hench_criosa,dlg,ReplyList/132/Text,0,항상 주문을 사용하는 게 좋다고 생각해! 적이 그저 만만한 상대일 때만 주문을 아껴.
 hench_criosa,dlg,ReplyList/134/Text,0,내가 전에 말한 모든 것을 잊고 마법을 쓸 때 본능을 믿으면 좋겠어
 hench_criosa,dlg,ReplyList/136/Text,0,무기 전술에 대해 이야기해 보죠.
 hench_criosa,dlg,ReplyList/137/Text,0,지금은 다른 것은 바꾸고 싶지 않아.
@@ -3977,7 +3977,7 @@ marcus,dlg,EntryList/42/Text,0,"그 때 저는 결심에서 한 순간의 망설
 marcus,dlg,EntryList/43/Text,0,그리고 나머지는 역사로 남았다. 에레델은 계획을 지키지 못해 부하 절반을 죽게 한 책임을 내게 돌린다. 그는 분노에 미쳐 이제 날 죽이려 한다!
 marcus,dlg,EntryList/44/Text,0,정의 또는 복수?
 marcus,dlg,EntryList/45/Text,0,어쩌면 다른 방법이 있을지도 모르지만
-marcus,dlg,EntryList/46/Text,0,"만약 에레델을 죽인다면, 지옥불브레이드를 네 손에 맡겨줄게. 우리는 샌드 용의 두 배 크고, 우리 중장부대에는 강력한 마법사들이 포함되어 있어."
+marcus,dlg,EntryList/46/Text,0,"대신 에레델을 죽이면 지옥불 여단을 당신 뜻대로 움직이게 해 주겠어. 우리는 샌드 드래곤의 두 배 규모고, 강력한 주문 시전자를 대원으로 둔 유일한 용병단이야."
 marcus,dlg,EntryList/47/Text,0,"<StartAction>[마르쿠스가 미소를 지른다]</Start> 에레델의 죽음과 1만 금화, 그것이야말로. 그 이후의 일은 진심으로 신경 쓰지 않아. 다만 그의 죽음을 증명할 그의 머리를 가져와주면 됩니다. 계약이 성립되었나요?"
 marcus,dlg,EntryList/48/Text,0,이해했습니다. 가서 생각해보세요. 어디서 찾을 수 있는지 알고 있으니...
 marcus,dlg,EntryList/49/Text,0,"<StartAction>[마법사의 눈이 놀람으로 부풀어오른.]</Start> 뭐? 싸움을 시작하기 전에, 내가 무엇을 하고 있다고 비난하는 거야?"
@@ -4060,7 +4060,7 @@ marcus,dlg,ReplyList/88/Text,0,찾았어요 늦은 것에 미안해요
 matheson,dlg,EntryList/0/Text,0,뭐하고 싶은데?
 matheson,dlg,EntryList/2/Text,0,"여러분의 말씀은 매우 친절하지만, 저는 여기서 자부심을 가져볼 수 없습니다. 저는 지난 주에 이 임무를 맡기 위해 도착했고, 재건에 대해서는 거의 결정권이 없었습니다. 그 영광은 국민들 스스로가 이 장소를 다시 위대하게 만들기로 결정하여 노력하는 동안 얻은 것입니다."
 matheson,dlg,EntryList/3/Text,0,남쪽 게이트는 이 아름다운 땅을 약탈하려는 좆같은 사람들로 가득한 길이야!
-matheson,dlg,EntryList/4/Text,0,"만약 당신이 이 끔직한 상황을 만족스러운 해결책으로 이끌어내려는 의도가 있다면, 나는 당신을 방해하지 않을 거예요. 모든 방법으로 카미서스 아리엘 중령에게 말씀드리는 것을 권합니다. 나는 그녀가 당신에게 더 도움을 줄 수 있다고 생각합니다."
+matheson,dlg,EntryList/4/Text,0,"이 끔찍한 상황을 만족스럽게 해결하려는 게 목적이라면, 당신을 막지 않겠습니다. 얼마든지 아리엘 사령관과 이야기해 보세요. 분명 더 도와줄 수 있을 겁니다."
 matheson,dlg,EntryList/5/Text,0,네가 떠나기 전에 내가 할 수 있는 다른 일이 있어?
 matheson,dlg,EntryList/6/Text,0,그럼 가거라. 밤새워서 이 모든 보고서들을 처리해야 하니 잠시 기다려주길. 공작의 일은 결코 끝나지 않는다고 말해본다.
 matheson,dlg,EntryList/8/Text,0,오? 말해봐.
@@ -9883,7 +9883,7 @@ module,jrl,Categories/4/EntryList/2/Text,0,모리크 족장은 타론을 단호�
 module,jrl,Categories/4/EntryList/3/Text,0,"전 탈롱에게 공포 레지온을 키우지 말라고 설득했고, 즉석에서 생각해 낸 격려의 말 덕분에 그는 결국 그렇게 하지 않았다. 그 과정에서 탈롱은 여전히 자신이 옳은 일을 하고 있다고 믿고 있었다. 어쨌든, 모릭 장관은 이 결과에 만족할 것이다. 즉시 그에게 돌아가 이야기해야겠다."
 module,jrl,Categories/5/Name,0,피해로부터 안전하다
 module,jrl,Categories/5/EntryList/0/Text,0,"제브리엘 경은 서쪽으로 산을 지나는 화살꾼들의 병사로부터 연락을 받았습니다. 그들은 함정에 직면했고, 도움을 받지 않으면 확실히 잃어버릴 것입니다. 저는 캠프에서 한 순간에 움직일 준비가 된 유일한 사람이라, 그들이 통과할 수 있도록 할 수 있는 모든 것을 할 것입니다. 그들은 여기서 서쪽으로, 침묵의 계곡에 있습니다."
-module,jrl,Categories/5/EntryList/1/Text,0,나는 화살수들을 구하지 못했어... 저항이 너무 강해서 시간 내로 도달하지 못했거든. 실제로는 함께 죽지 않아 다행이었어. 이 뜻은 투슨 화살수들이 마지막에 우리와 함께하지 않을 거라는 뜻이야... 그래서는 안 될 것들을 대체해야 해.
+module,jrl,Categories/5/EntryList/1/Text,0,나는 궁수들을 구하지 못했어... 저항이 너무 강해서 제때 그들에게 도달할 수 없었지. 사실 그들과 함께 죽지 않은 것만 해도 정말 운이 좋았어. 이제 투손 궁수들은 마지막 전투에 함께하지 못할 거야... 남은 병력으로 어떻게든 버텨야겠어.
 module,jrl,Categories/5/EntryList/2/Text,0,"저는 투소네 궁수 소대가 침묵의 계곡에서 매복을 뚫고 나가도록 도와 성공했고, 그 결과 페어로흐에 대한 다가오는 공격에 그들이 참여할 수 있게 했습니다."
 module,jrl,Categories/5/EntryList/3/Text,0,"난 투소네 활사꾼들을 완전히 파괴당하지 않게 적의 선을 뚫을 수 있었지만, 적의 저항이 더 예상된다. 현재 활사꾼들을 안전하게 지키는 것이 최우선이다."
 module,jrl,Categories/6/Name,0,도시민들을 위한 물자
@@ -10496,7 +10496,7 @@ shad_lord,utc,Description,0,"어둠의 끔찍한 창조물들, 그림자 주들�
 shadow001,utc,FirstName,0,그림자
 shadow001,utc,Description,0,"그림자는 생명 속에 사는 어둠의 존재로, 생명과 빛을 똑같이 열렬히 미워합니다. 그 접촉은 존재하지 않는 추운 느낌을 남기며, 매우 위험한 상대가 됩니다."
 shfiend002,utc,FirstName,0,그림자 마귀
-shfiend002,utc,Description,0,"어두운 và 위험한 존재들, 그림자 악마들은 굶주림이나 목마름을 느끼지 않으며, 악을 행하기만을 원하여 공격한다."
+shfiend002,utc,Description,0,"두려운 하계에서 온 어둡고 위험한 그림자 악마들은 굶주리거나 목마르지 않으며, 오직 악을 행하려는 욕망을 채우기 위해 공격합니다."
 shguard001,utc,FirstName,0,미스릴 방패 수호자
 shguard001,utc,Description,0,"주문 시전자가 만들고 특수한 부적으로 조종하는 방패 수호자는 주로 전투에서 방어적으로 움직이며, 흔들림 없는 충성으로 주인을 지킨다. 이 개체는 미스릴로 도금되어 훨씬 더 단단한 방어력을 지닌다."
 simon,utc,FirstName,0,시몬 경
@@ -11265,9 +11265,9 @@ zep_kuotoa_002,utc,FirstName,0,쿠오토아 사냥꾼
 zep_kuotoa_002,utc,Description,0,쿠오토아 (Koo-toa) 는 악의적 성격과 악마적 성향으로 유명한 고대 수중인류의 일종이다.
 zep_kuotoa_003,utc,FirstName,0,쿠오토아 사냥꾼
 zep_kuotoa_003,utc,Description,0,쿠오토아 (Koo-toa) 는 악의적 성격과 악마적 성향으로 유명한 고대 수중인류의 일종이다.
-zep_kuotoa_004,utc,FirstName,0,쿠오토아 숭배자
+zep_kuotoa_004,utc,FirstName,0,쿠오토아 주술사
 zep_kuotoa_004,utc,Description,0,쿠오토아 (Koo-toa) 는 악의적 성격과 악마적 성향으로 유명한 고대 수중인류의 일종이다.
-zep_kuotoa_005,utc,FirstName,0,쿠오토아 숭배자
+zep_kuotoa_005,utc,FirstName,0,쿠오토아 주술사
 zep_kuotoa_005,utc,Description,0,쿠오토아 (Koo-toa) 는 악의적 성격과 악마적 성향으로 유명한 고대 수중인류의 일종이다.
 zep_kyoht1,utc,FirstName,0,키오트
 zep_kyoht1,utc,Description,0,키오츠는 토끼나 코요토와 비슷한 인형이다.
@@ -12071,7 +12071,7 @@ crpi_g_ruby,uti,DescIdentified,0,"루비는 깊은 빨간색으로 인해 사랑
 crpi_g_sapphire,uti,LocalizedName,0,사파이어
 crpi_g_sapphire,uti,DescIdentified,0,"이 보석은 밤하늘의 깊은 파란색에서 모든 사람들을 매료시키는 맑고 아름다운 여름하늘의 밝고 깊은 파란색에 이르기까지 모든 파란색의 파란색으로 존재합니다. 그러나 화려한 보석은 먼 지평의 투명한 회색의 흐릿한 파란색뿐만 아니라 황색, 분홍색, 주황색 및 보라색의 밝은 불꽃놀이를 표시합니다. 그것은 또한 항우울제 및 정신신화증, 텔레파시, 청각증 및 천성 투명에 도움이 된다고 간주됩니다."
 crpi_g_starruby,uti,LocalizedName,0,스타 루비
-crpi_g_starruby,uti,DescIdentified,0,"이 루비들은 일반 루비보다 훨씬 매력적이고, 가치는 훨씬 높습니다."
+crpi_g_starruby,uti,DescIdentified,0,이 루비들은 평범한 루비처럼 보이지만 안에 여섯 갈래 별이 들어 있습니다. 별 루비는 매우 아름답고 일반 루비보다 훨씬 값집니다.
 crpi_g_starsapph,uti,LocalizedName,0,별 사파이어
 crpi_g_starsapph,uti,DescIdentified,0,이것들은 보통의 사파이어처럼 보이나 내부에 여섯 갈래의 별이 들어 있습니다. 별 사파이어는 매우 아름답고 일반적인 종류보다 훨씬 더 가치가 있습니다.
 crpi_graphook,uti,DescIdentified,0,"이 튼튼한 강철 갈고리는 견고하면서도 가볍다. 갈고리 꼬리 쪽 고리에 밧줄을 묶을 수 있다.
@@ -12870,7 +12870,7 @@ lightbringer,uti,LocalizedName,0,광통기
 lightbringer,uti,Description,0,이 아름다운 검은 아주 부드럽게 노래하고 있는 것 같습니다. 당신의 정신을 날려주는 목소리입니다.
 lightbringer,uti,DescIdentified,0,"천국의 힘으로 충만한 이 강력한 검은 악의 힘에 대한 처절한 징벌이다. 전설에 따르면, 아이룬드의 첫 왕의 챔피언, 용기와 순결의 기사로 알려진 기사가 이 검을 사용했다고 한다. 최근에 이 검을 잡은 누군가가 더욱 강력해졌다는 말도 있다."
 lightkey,uti,LocalizedName,0,스펙트럴 타일리스먼트
-lightkey,uti,DescIdentified,0,"의심할 여지 없이 마법으로 가득 찬 이 작은 페르소나는 순수한 빛의 원소로부터 얻은 것이며, 아마도 빛의 벽과 연결되어 있을 가능성이 큽니다."
+lightkey,uti,DescIdentified,0,의심할 여지 없이 마법이 깃든 이 작은 부적은 순수한 빛의 정령에게서 가져온 것입니다. 통로를 막고 있는 빛의 장벽과 연결되어 있을 가능성이 큽니다.
 lightplate,uti,LocalizedName,0,여성 라이트 플레이트 +3
 lightplate,uti,DescIdentified,0,"보통 여성들이 착용하고 있는 (뚜렷한 이유 때문에) 이 빛의 판으로 된 옷은 이동하기 훨씬 쉬워지고, 마법사를 던지려는 마법사들에게는 더욱 제한적이지 않습니다."
 lordsattire,uti,LocalizedName,0,주님의 옷
