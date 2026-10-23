@@ -17,7 +17,7 @@ angmarshouse,git,WaypointList/0/MapNote,0,14815,브로건의 팔에
 brogansarm,git,Creature List/0/Description,0,12677,"이런 무거운 운반 동물들은 농부들이 모두 소유할 수 있는 물건이 아니며, 소들은 농구와 곡식을 갈기 위해 매우 적합합니다."
 brogansarm,git,Creature List/0/FirstName,0,12678,황소
 brogansarm,git,Creature List/1/Description,0,-1,시원한 수강사 눈은 의심의 여지없이 그의 일을 할 때 그의 아래쪽 입술은 게 매달리고 있으며 그 회색의 치아를 그의 왜곡된 치아 아래에서 벗고 있습니다.
-brogansarm,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,이 내구성 있는 가죽 의복은 용공에서 날아온 번개에 찢어지고 흉터가 있습니다.
+brogansarm,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,이 튼튼한 가죽옷에는 대장간에서 튄 불꽃 자국과 흉터가 남아 있습니다.
 brogansarm,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,대장장이 가죽
 brogansarm,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,-1,WW 세부 종족: 케이른 드워프
 brogansarm,git,Creature List/1/FirstName,0,-1,앙마르
@@ -134,7 +134,7 @@ brogansarm,git,SoundList/9/LocName,0,-1,이야기꾼139
 brogansarm,git,StoreList/0/LocName,0,14812,앙마르의 상점
 brogansarm,git,StoreList/0/StoreList/0/ItemList/35/DescIdentified,0,-1,세 번 짜여진 강철으로 만들어져 있는 왜성 척도는 거의 모든 충격으로부터 강력한 보호를 제공합니다.
 brogansarm,git,StoreList/0/StoreList/0/ItemList/35/LocalizedName,0,-1,드워프 비늘 갑옷
-brogansarm,git,StoreList/0/StoreList/0/ItemList/36/DescIdentified,0,-1,이 내구성 있는 가죽 의복은 용공에서 날아온 번개에 찢어지고 흉터가 있습니다.
+brogansarm,git,StoreList/0/StoreList/0/ItemList/36/DescIdentified,0,-1,이 튼튼한 가죽옷에는 대장간에서 튄 불꽃 자국과 흉터가 남아 있습니다.
 brogansarm,git,StoreList/0/StoreList/0/ItemList/36/LocalizedName,0,-1,대장장이 가죽
 brogansarm,git,StoreList/0/StoreList/4/ItemList/2/DescIdentified,0,-1,이것은 표준적인 일회용 등불입니다. 그 수명은 제한적이므로 미리 준비해두고 필요할 때까지 보관하는 것이 현명합니다.
 brogansarm,git,StoreList/0/StoreList/4/ItemList/2/LocalizedName,0,-1,횃불
@@ -541,9 +541,9 @@ guildhallexhibit,git,Door List/0/Description,0,-1,"이 문 의 표면 은 세련
 guildhallexhibit,git,Door List/0/LocName,0,5349,내장된 문
 guildhallexhibit,git,Door List/1/Description,0,-1,"이 문 의 표면 은 세련 된 조각 으로 덮여 있습니다. 이 문 은 고품질 의 작품 이며, 의심 의 여지 없이 꽤 많은 비용 으로 제작 되었습니다."
 guildhallexhibit,git,Door List/1/LocName,0,5349,내장된 문
-guildhallexhibit,git,Placeable List/0/Description,0,14700,이 역은 브로건의 팔의 왜성 기드 협의회의 더 큰 역사 전시회의 일부입니다. 전시회는 바로우 드워프의 문화적 역사와 마을 자체를 설명합니다.
+guildhallexhibit,git,Placeable List/0/Description,0,14700,이 전시 구역은 브로건의 팔 드워프 길드 평의회가 마련한 대규모 역사 전시의 일부입니다. 전시에서는 바로우 드워프의 문화사와 마을의 역사를 설명합니다.
 guildhallexhibit,git,Placeable List/0/LocName,0,14701,"1 - 바로우 드워프, 브로건의 자손"
-guildhallexhibit,git,Placeable List/1/Description,0,14700,이 역은 브로건의 팔의 왜성 기드 협의회의 더 큰 역사 전시회의 일부입니다. 전시회는 바로우 드워프의 문화적 역사와 마을 자체를 설명합니다.
+guildhallexhibit,git,Placeable List/1/Description,0,14700,이 전시 구역은 브로건의 팔 드워프 길드 평의회가 마련한 대규모 역사 전시의 일부입니다. 전시에서는 바로우 드워프의 문화사와 마을의 역사를 설명합니다.
 guildhallexhibit,git,Placeable List/1/LocName,0,14701,2 - 브로건의 스티지아로의 여행
 guildhallexhibit,git,Placeable List/10/LocName,0,14657,협회 전시회
 guildhallexhibit,git,Placeable List/11/LocName,0,14657,협회 전시회
@@ -551,17 +551,17 @@ guildhallexhibit,git,Placeable List/12/LocName,0,14657,협회 전시회
 guildhallexhibit,git,Placeable List/13/LocName,0,14657,협회 전시회
 guildhallexhibit,git,Placeable List/14/LocName,0,14657,협회 전시회
 guildhallexhibit,git,Placeable List/15/LocName,0,14657,협회 전시회
-guildhallexhibit,git,Placeable List/2/Description,0,14700,이 역은 브로건의 팔의 왜성 기드 협의회의 더 큰 역사 전시회의 일부입니다. 전시회는 바로우 드워프의 문화적 역사와 마을 자체를 설명합니다.
+guildhallexhibit,git,Placeable List/2/Description,0,14700,이 전시 구역은 브로건의 팔 드워프 길드 평의회가 마련한 대규모 역사 전시의 일부입니다. 전시에서는 바로우 드워프의 문화사와 마을의 역사를 설명합니다.
 guildhallexhibit,git,Placeable List/2/LocName,0,14701,3 - 브로건 나치자거의 죽음과 클랜의 추방
-guildhallexhibit,git,Placeable List/3/Description,0,14700,이 역은 브로건의 팔의 왜성 기드 협의회의 더 큰 역사 전시회의 일부입니다. 전시회는 바로우 드워프의 문화적 역사와 마을 자체를 설명합니다.
+guildhallexhibit,git,Placeable List/3/Description,0,14700,이 전시 구역은 브로건의 팔 드워프 길드 평의회가 마련한 대규모 역사 전시의 일부입니다. 전시에서는 바로우 드워프의 문화사와 마을의 역사를 설명합니다.
 guildhallexhibit,git,Placeable List/3/LocName,0,14701,4 - 노인 카바노와 브로건의 팔의 발견
-guildhallexhibit,git,Placeable List/4/Description,0,14700,이 역은 브로건의 팔의 왜성 기드 협의회의 더 큰 역사 전시회의 일부입니다. 전시회는 바로우 드워프의 문화적 역사와 마을 자체를 설명합니다.
+guildhallexhibit,git,Placeable List/4/Description,0,14700,이 전시 구역은 브로건의 팔 드워프 길드 평의회가 마련한 대규모 역사 전시의 일부입니다. 전시에서는 바로우 드워프의 문화사와 마을의 역사를 설명합니다.
 guildhallexhibit,git,Placeable List/4/LocName,0,14701,5a - 카바노 돌과 브로건의 눈물
-guildhallexhibit,git,Placeable List/5/Description,0,14700,이 역은 브로건의 팔의 왜성 기드 협의회의 더 큰 역사 전시회의 일부입니다. 전시회는 바로우 드워프의 문화적 역사와 마을 자체를 설명합니다.
+guildhallexhibit,git,Placeable List/5/Description,0,14700,이 전시 구역은 브로건의 팔 드워프 길드 평의회가 마련한 대규모 역사 전시의 일부입니다. 전시에서는 바로우 드워프의 문화사와 마을의 역사를 설명합니다.
 guildhallexhibit,git,Placeable List/5/LocName,0,14701,5b - 카바노 돌과 브로건의 눈물
-guildhallexhibit,git,Placeable List/6/Description,0,14700,이 역은 브로건의 팔의 왜성 기드 협의회의 더 큰 역사 전시회의 일부입니다. 전시회는 바로우 드워프의 문화적 역사와 마을 자체를 설명합니다.
+guildhallexhibit,git,Placeable List/6/Description,0,14700,이 전시 구역은 브로건의 팔 드워프 길드 평의회가 마련한 대규모 역사 전시의 일부입니다. 전시에서는 바로우 드워프의 문화사와 마을의 역사를 설명합니다.
 guildhallexhibit,git,Placeable List/6/LocName,0,14701,6 - 유령 바위: 슈타인파어 보석광산
-guildhallexhibit,git,Placeable List/7/Description,0,14700,이 역은 브로건의 팔의 왜성 기드 협의회의 더 큰 역사 전시회의 일부입니다. 전시회는 바로우 드워프의 문화적 역사와 마을 자체를 설명합니다.
+guildhallexhibit,git,Placeable List/7/Description,0,14700,이 전시 구역은 브로건의 팔 드워프 길드 평의회가 마련한 대규모 역사 전시의 일부입니다. 전시에서는 바로우 드워프의 문화사와 마을의 역사를 설명합니다.
 guildhallexhibit,git,Placeable List/7/LocName,0,14701,7 - 자저 슈타인파어와 철맥
 guildhallexhibit,git,Placeable List/8/LocName,0,14657,협회 전시회
 guildhallexhibit,git,Placeable List/9/LocName,0,14657,협회 전시회
@@ -695,103 +695,103 @@ homeofthenightha,git,WaypointList/1/MapNote,0,-1,밤 하가
 homeofthenightha,git,WaypointList/2/LocalizedName,0,14814,산성 묘지로 가는 것
 homeofthenightha,git,WaypointList/2/MapNote,0,14815,산성 묘지로 가는 것
 modulestart001,git,Creature List/0/Description,0,-1,이 왜기는 전쟁에 분노하고 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 modulestart001,git,Creature List/0/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/1/Description,0,-1,이 반장이는 칼술에 너무 집중해서 도움을 청할 수 없어.
-modulestart001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,포근한 왕의 갑옷
 modulestart001,git,Creature List/1/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/10/Description,0,-1,이 반 오크의 분노의 외치는 너무 높아서 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 modulestart001,git,Creature List/10/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/11/Description,0,-1,이 남자는 심각하게 다쳤습니다. 그는 당신의 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 modulestart001,git,Creature List/11/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/12/Description,0,-1,이 반 오크의 분노의 외치는 너무 높아서 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 modulestart001,git,Creature List/12/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/13/Description,0,-1,이 반인구는 목표에 집중해서 당신의 도움 청을 듣지 못해.
-modulestart001,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 modulestart001,git,Creature List/13/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/14/Description,0,-1,이 엘프는 전투에 너무 집중해서 도움을 청할 수 없어
-modulestart001,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 modulestart001,git,Creature List/14/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/15/Description,0,-1,이 반 오크의 분노의 외치는 너무 높아서 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 modulestart001,git,Creature List/15/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/16/Description,0,-1,이 남자는 심각하게 다쳤습니다. 그는 당신의 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 modulestart001,git,Creature List/16/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/17/Description,0,-1,이 반장이는 칼술에 너무 집중해서 도움을 청할 수 없어.
-modulestart001,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,포근한 왕의 갑옷
 modulestart001,git,Creature List/17/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/18/Description,0,-1,이 고블린은 칼술에 너무 집중해서 당신의 도움 청을 듣지 못한다.
-modulestart001,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 modulestart001,git,Creature List/18/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/19/Description,0,-1,이 여성은 공격자들에 의해 둘러싸여 있어 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 modulestart001,git,Creature List/19/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/2/Description,0,-1,이 고블린은 전투에 너무 집중해서 당신의 도움 청을 듣지 못한다.
-modulestart001,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 modulestart001,git,Creature List/2/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/20/Description,0,-1,이 남자는 심각하게 다쳤습니다. 그는 당신의 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 modulestart001,git,Creature List/20/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/21/Description,0,-1,이 반장이는 칼술에 너무 집중해서 도움을 청할 수 없어.
-modulestart001,git,Creature List/21/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/21/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,-1,포근한 왕의 갑옷
 modulestart001,git,Creature List/21/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/22/Description,0,-1,이 왜기는 전쟁에 분노하고 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/22/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/22/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 modulestart001,git,Creature List/22/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/23/Description,0,-1,이 남자는 심각하게 다쳤습니다. 그는 당신의 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 modulestart001,git,Creature List/23/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/24/Description,0,-1,이 반 오크의 분노의 외치는 너무 높아서 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/24/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/24/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 modulestart001,git,Creature List/24/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/25/Description,0,-1,이 남자는 심각하게 다쳤습니다. 그는 당신의 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 modulestart001,git,Creature List/25/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/26/Description,0,-1,이 고블린은 칼술에 너무 집중해서 당신의 도움 청을 듣지 못한다.
-modulestart001,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 modulestart001,git,Creature List/26/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/27/Description,0,-1,이 반장이는 칼술에 너무 집중해서 도움을 청할 수 없어.
-modulestart001,git,Creature List/27/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/27/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/27/Equip_ItemList/0/LocalizedName,0,-1,포근한 왕의 갑옷
 modulestart001,git,Creature List/27/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/28/Description,0,-1,이 왜기는 전쟁에 분노하고 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/28/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/28/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/28/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 modulestart001,git,Creature List/28/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/29/Description,0,-1,이 고블린은 칼술에 너무 집중해서 당신의 도움 청을 듣지 못한다.
-modulestart001,git,Creature List/29/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/29/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/29/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 modulestart001,git,Creature List/29/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/3/Description,0,-1,이 남자는 심각하게 다쳤습니다. 그는 당신의 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 modulestart001,git,Creature List/3/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/30/Description,0,-1,이 여성은 공격자들에 의해 둘러싸여 있어 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/30/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/30/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/30/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 modulestart001,git,Creature List/30/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/31/FirstName,0,-1,텐타클 들판 스포너
@@ -800,32 +800,32 @@ modulestart001,git,Creature List/33/FirstName,0,-1,텐타클 들판 스포너
 modulestart001,git,Creature List/34/Description,0,-1,이 무능한 존재는 개막영화에서 군인들을 위한 분위기를 가지고 있습니다. 개막 지역에서 그를 제거하지 마십시오.
 modulestart001,git,Creature List/34/FirstName,0,-1,시네마틱 팩션 홀더
 modulestart001,git,Creature List/35/Description,0,-1,이 남자는 심각하게 다쳤습니다. 그는 당신의 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/35/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 modulestart001,git,Creature List/35/FirstName,0,-1,죽은 인간 병사
 modulestart001,git,Creature List/36/FirstName,0,-1,텐타클 들판 스포너
 modulestart001,git,Creature List/4/Description,0,-1,이 고블린은 전투에 너무 집중해서 당신의 도움 청을 듣지 못한다.
-modulestart001,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 modulestart001,git,Creature List/4/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/5/Description,0,-1,이 왜기는 전쟁에 분노하고 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 modulestart001,git,Creature List/5/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/6/Description,0,-1,이 왜기는 전쟁에 분노하고 도움을 청할 수 없습니다.
-modulestart001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 modulestart001,git,Creature List/6/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/7/Description,0,-1,이 고블린은 전투에 너무 집중해서 당신의 도움 청을 듣지 못한다.
-modulestart001,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 modulestart001,git,Creature List/7/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/8/Description,0,-1,이 고블린은 칼술에 너무 집중해서 당신의 도움 청을 듣지 못한다.
-modulestart001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 modulestart001,git,Creature List/8/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Creature List/9/Description,0,-1,이 반장이는 칼술에 너무 집중해서 도움을 청할 수 없어.
-modulestart001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+modulestart001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 modulestart001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,포근한 왕의 갑옷
 modulestart001,git,Creature List/9/FirstName,0,-1,알 수 없는 병사
 modulestart001,git,Placeable List/69/Description,0,14656,"왕자의 입술에 피가 묻어 있고, 아래쪽으로 떨어져 바닥을 적신다. 분명히 그는 오래 살지 못할 것 같아 보인다. 그러나 그의 파란 눈은 당신에게 집중되어 있어, 빛나고 강렬하다."
@@ -1082,7 +1082,7 @@ planeofsorrow2,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,-1,WW 세부
 planeofsorrow2,git,Creature List/2/FirstName,0,-1,요한
 planeofsorrow2,git,Creature List/2/LastName,0,-1,헌터스펠트
 planeofsorrow2,git,Creature List/3/Description,0,12439,"이 자랑스러운 엘켄비스트는 주변을 경계하는 눈빛으로 둘러보며, 배에 감쪽같이 들어간 뾰족한 구멍 주변에는 타국의 흔적들이 남아 있고, 타긴 한 육체의 냄새가 진하게 감돌고 있다."
-planeofsorrow2,git,Creature List/3/FirstName,0,12441,유령 고슴도치
+planeofsorrow2,git,Creature List/3/FirstName,0,12441,유령 엘켄비스트
 planeofsorrow2,git,Creature List/3/ItemList/0/DescIdentified,0,-1,이 섬세한 피부는 북부 엘켄비스트의 피부이다. 그들의 떼는 한때 북부 산맥을 지배했지만 사냥으로 인해 그 수는 크게 줄었다.
 planeofsorrow2,git,Creature List/3/ItemList/0/LocalizedName,0,-1,고래 동물 은신
 planeofsorrow2,git,Creature List/4/Description,0,-1,"비록 당신에게 나쁜 의도를 품고 있지 않는 것처럼 보이지만, 이 이상한 생물은 당신의 물건에 대해 확실히 관심을 가지고 있습니다."
@@ -1301,7 +1301,7 @@ planeofsorrow3,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,-1,WW 세부
 planeofsorrow3,git,Creature List/3/FirstName,0,-1,요한
 planeofsorrow3,git,Creature List/3/LastName,0,-1,헌터스펠트
 planeofsorrow3,git,Creature List/4/Description,0,12439,"이 자랑스러운 엘켄비스트는 주변을 경계하는 눈빛으로 둘러보며, 배에 감쪽같이 들어간 뾰족한 구멍 주변에는 타국의 흔적들이 남아 있고, 타긴 한 육체의 냄새가 진하게 감돌고 있다."
-planeofsorrow3,git,Creature List/4/FirstName,0,12441,유령 고슴도치
+planeofsorrow3,git,Creature List/4/FirstName,0,12441,유령 엘켄비스트
 planeofsorrow3,git,Creature List/4/ItemList/0/DescIdentified,0,-1,이 섬세한 피부는 북부 엘켄비스트의 피부이다. 그들의 떼는 한때 북부 산맥을 지배했지만 사냥으로 인해 그 수는 크게 줄었다.
 planeofsorrow3,git,Creature List/4/ItemList/0/LocalizedName,0,-1,고래 동물 은신
 planeofsorrow3,git,Creature List/5/Description,0,-1,"비록 당신에게 나쁜 의도를 품고 있지 않는 것처럼 보이지만, 이 이상한 생물은 당신의 물건에 대해 확실히 관심을 가지고 있습니다."
@@ -1518,7 +1518,7 @@ planeofsorrow3,git,WaypointList/9/MapNote,0,14815,생명의 나무
 planeofsorrows,git,Creature List/0/Description,0,-1,"비록 당신에게 나쁜 의도를 품고 있지 않는 것처럼 보이지만, 이 이상한 생물은 당신의 물건에 대해 확실히 관심을 가지고 있습니다."
 planeofsorrows,git,Creature List/0/FirstName,0,-1,에테르화 도둑
 planeofsorrows,git,Creature List/1/Description,0,12439,"이 자랑스러운 엘켄비스트는 주변을 경계하는 눈빛으로 둘러보며, 배에 감쪽같이 들어간 뾰족한 구멍 주변에는 타국의 흔적들이 남아 있고, 타긴 한 육체의 냄새가 진하게 감돌고 있다."
-planeofsorrows,git,Creature List/1/FirstName,0,12441,유령 고슴도치
+planeofsorrows,git,Creature List/1/FirstName,0,12441,유령 엘켄비스트
 planeofsorrows,git,Creature List/1/ItemList/0/DescIdentified,0,-1,이 섬세한 피부는 북부 엘켄비스트의 피부이다. 그들의 떼는 한때 북부 산맥을 지배했지만 사냥으로 인해 그 수는 크게 줄었다.
 planeofsorrows,git,Creature List/1/ItemList/0/LocalizedName,0,-1,고래 동물 은신
 planeofsorrows,git,Creature List/2/Description,0,-1,"비록 당신에게 나쁜 의도를 품고 있지 않는 것처럼 보이지만, 이 이상한 생물은 당신의 물건에 대해 확실히 관심을 가지고 있습니다."
@@ -1721,146 +1721,146 @@ planeofsorrows,git,WaypointList/7/LocalizedName,0,14814,장벽
 planeofsorrows,git,WaypointList/7/MapNote,0,14815,장벽
 planeofsorrows,git,WaypointList/8/LocalizedName,0,14814,생명의 나무
 planeofsorrows,git,WaypointList/8/MapNote,0,14815,생명의 나무
-playerawakes001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 playerawakes001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,1519,쇠뇌화살
 playerawakes001,git,Creature List/0/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 playerawakes001,git,Creature List/1/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/10/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 playerawakes001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,1522,곤봉
 playerawakes001,git,Creature List/11/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 playerawakes001,git,Creature List/12/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/13/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/14/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/14/ItemList/0/DescIdentified,0,-1,이것은 표준적인 일회용 등불입니다. 그 수명은 제한적이므로 미리 준비해두고 필요할 때까지 보관하는 것이 현명합니다.
 playerawakes001,git,Creature List/14/ItemList/0/LocalizedName,0,-1,횃불
-playerawakes001,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/15/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 playerawakes001,git,Creature List/16/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/17/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 playerawakes001,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 playerawakes001,git,Creature List/18/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 playerawakes001,git,Creature List/19/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 playerawakes001,git,Creature List/2/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/20/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/21/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/21/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 playerawakes001,git,Creature List/21/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/22/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/22/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/22/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/23/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/24/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 playerawakes001,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 playerawakes001,git,Creature List/24/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 playerawakes001,git,Creature List/25/Equip_ItemList/2/LocalizedName,0,1521,탄환
 playerawakes001,git,Creature List/25/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/26/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/27/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 playerawakes001,git,Creature List/27/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 playerawakes001,git,Creature List/27/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/28/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/28/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/28/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 playerawakes001,git,Creature List/28/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/29/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/29/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/29/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 playerawakes001,git,Creature List/29/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 playerawakes001,git,Creature List/3/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/30/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 playerawakes001,git,Creature List/30/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 playerawakes001,git,Creature List/30/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/31/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/31/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/31/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/31/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/32/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/32/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/32/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 playerawakes001,git,Creature List/32/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/33/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 playerawakes001,git,Creature List/33/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 playerawakes001,git,Creature List/33/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/34/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/34/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/34/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/34/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/35/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 playerawakes001,git,Creature List/35/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/36/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/36/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/36/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/36/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/37/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/37/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/37/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 playerawakes001,git,Creature List/37/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/38/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/38/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/38/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 playerawakes001,git,Creature List/38/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/38/ItemList/0/DescIdentified,0,-1,"이 간단한 칼은 돌을 깎는 데 무게를 띠고 있으며, 날에 있는 흉터를 보아하니 오랫동안 잘 사용된 것 같다. 필요할 때 무기를 사용할 수도 있지만, 그런 용도로 사용하면 매우 불편할 것이다."
 playerawakes001,git,Creature List/38/ItemList/0/LocalizedName,0,-1,치젤
 playerawakes001,git,Creature List/38/ItemList/1/DescIdentified,0,-1,이것은 표준적인 일회용 등불입니다. 그 수명은 제한적이므로 미리 준비해두고 필요할 때까지 보관하는 것이 현명합니다.
 playerawakes001,git,Creature List/38/ItemList/1/LocalizedName,0,-1,횃불
-playerawakes001,git,Creature List/39/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/39/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/39/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/39/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/4/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/4/ItemList/0/DescIdentified,0,-1,이것은 표준적인 일회용 등불입니다. 그 수명은 제한적이므로 미리 준비해두고 필요할 때까지 보관하는 것이 현명합니다.
 playerawakes001,git,Creature List/4/ItemList/0/LocalizedName,0,-1,횃불
-playerawakes001,git,Creature List/40/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/40/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/40/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/40/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/41/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/41/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/41/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/41/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/42/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/42/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/42/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 playerawakes001,git,Creature List/42/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/43/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/43/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/43/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 playerawakes001,git,Creature List/43/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/44/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 playerawakes001,git,Creature List/44/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 playerawakes001,git,Creature List/44/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/45/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/45/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/45/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 playerawakes001,git,Creature List/45/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/46/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/46/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/46/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 playerawakes001,git,Creature List/46/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/46/ItemList/0/DescIdentified,0,-1,이것은 표준적인 일회용 등불입니다. 그 수명은 제한적이므로 미리 준비해두고 필요할 때까지 보관하는 것이 현명합니다.
 playerawakes001,git,Creature List/46/ItemList/0/LocalizedName,0,-1,횃불
-playerawakes001,git,Creature List/47/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/47/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/47/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 playerawakes001,git,Creature List/47/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/48/Description,0,-1,래그피커는 당신이 쓰러진 동료들의 물건들을 찾아다니는 것을 보고 만족하고 추운 공중에서 자신을 포옹하고 있어
@@ -1877,13 +1877,13 @@ playerawakes001,git,Creature List/48/ItemList/3/LocalizedName,0,-1,이상한 철
 playerawakes001,git,Creature List/48/ItemList/4/DescIdentified,0,-1,이 절단된 손가락 밑에 혈액의 껍질이 붙어있었는데 반지를 들고 있었습니다.
 playerawakes001,git,Creature List/48/ItemList/4/LocalizedName,0,-1,손가락
 playerawakes001,git,Creature List/49/FirstName,0,6008,도마뱀 라이어
-playerawakes001,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 playerawakes001,git,Creature List/5/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/50/FirstName,0,6008,도마뱀 라이어
 playerawakes001,git,Creature List/51/FirstName,0,6008,도마뱀 라이어
 playerawakes001,git,Creature List/52/FirstName,0,6008,도마뱀 라이어
-playerawakes001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/6/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/6/ItemList/0/DescIdentified,0,-1,이것은 표준적인 일회용 등불입니다. 그 수명은 제한적이므로 미리 준비해두고 필요할 때까지 보관하는 것이 현명합니다.
@@ -1894,7 +1894,7 @@ playerawakes001,git,Creature List/7/FirstName,0,-1,시체 쌓임
 playerawakes001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 playerawakes001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 playerawakes001,git,Creature List/8/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/9/FirstName,0,-1,시체 쌓임
 playerawakes001,git,List/0/LocalizedName,0,1517,화살
@@ -1943,19 +1943,19 @@ playerawakes001,git,SoundList/9/LocName,0,-1,파일 루프
 playerawakes001,git,StoreList/0/LocName,0,-1,라그피커 상점
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/0/DescIdentified,0,-1,"왕 의 봉사 의 남자 들 과 여자 들 이 착용 하는 이 갑옷 은 실용적 으로나 의식적 으로 사용 하기 위해 사용 되어 있다. 그러나 가슴 은 실종 되어 있으며, 그 옷 은 전투 에 있어서 찢어지고 진흙 이 다."
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/0/LocalizedName,0,-1,찢어진 왕 의 갑옷
-playerawakes001,git,StoreList/0/StoreList/0/ItemList/1/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,StoreList/0/StoreList/0/ItemList/1/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/1/LocalizedName,0,-1,포근한 왕의 갑옷
-playerawakes001,git,StoreList/0/StoreList/0/ItemList/2/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,StoreList/0/StoreList/0/ItemList/2/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/2/LocalizedName,0,-1,왕의 가죽
-playerawakes001,git,StoreList/0/StoreList/0/ItemList/3/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,StoreList/0/StoreList/0/ItemList/3/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/3/LocalizedName,0,-1,스터드 장군 갑옷
-playerawakes001,git,StoreList/0/StoreList/0/ItemList/4/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,StoreList/0/StoreList/0/ItemList/4/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/4/LocalizedName,0,-1,왕의 무게대
-playerawakes001,git,StoreList/0/StoreList/0/ItemList/5/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,StoreList/0/StoreList/0/ItemList/5/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/5/LocalizedName,0,-1,왕의 갑옷
-playerawakes001,git,StoreList/0/StoreList/0/ItemList/6/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,StoreList/0/StoreList/0/ItemList/6/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/6/LocalizedName,0,-1,왕의 막대기
-playerawakes001,git,StoreList/0/StoreList/0/ItemList/7/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+playerawakes001,git,StoreList/0/StoreList/0/ItemList/7/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/7/LocalizedName,0,-1,왕의 행진 판금
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/8/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 playerawakes001,git,StoreList/0/StoreList/0/ItemList/8/LocalizedName,0,-1,왕 의복
@@ -2155,136 +2155,136 @@ stygia,git,WaypointList/5/LocalizedName,0,14816,스티지아 거구 스파운
 stygia,git,WaypointList/6/LocalizedName,0,14816,스티지아 거구 스파운
 stygia,git,WaypointList/7/LocalizedName,0,14816,스티지아 거구 스파운
 stygia,git,WaypointList/8/LocalizedName,0,14816,스티지아 플레이어 Spawn
-thebattlefield,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 thebattlefield,git,Creature List/0/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 thebattlefield,git,Creature List/1/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 thebattlefield,git,Creature List/10/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/11/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/12/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/13/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 thebattlefield,git,Creature List/14/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/15/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/16/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 thebattlefield,git,Creature List/17/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/18/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 thebattlefield,git,Creature List/19/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/2/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/20/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/21/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/21/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/21/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/22/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/22/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 thebattlefield,git,Creature List/23/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/24/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/24/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/24/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/25/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 thebattlefield,git,Creature List/26/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/27/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/27/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/27/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 thebattlefield,git,Creature List/27/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/28/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/28/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/28/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/29/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/29/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/29/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/29/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 thebattlefield,git,Creature List/3/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/30/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/30/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/30/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 thebattlefield,git,Creature List/30/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/31/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/31/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/31/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/32/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/32/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/32/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/32/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/33/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/33/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/33/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 thebattlefield,git,Creature List/33/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/34/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/34/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/34/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/34/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/35/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 thebattlefield,git,Creature List/35/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/36/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/36/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/36/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 thebattlefield,git,Creature List/36/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/37/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/37/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/37/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/37/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/38/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/38/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/38/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/38/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/39/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/39/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/39/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/39/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/4/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/40/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/40/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/40/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 thebattlefield,git,Creature List/40/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/41/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/41/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/41/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/41/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/42/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/42/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/42/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/43/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/43/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/43/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 thebattlefield,git,Creature List/43/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/44/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/44/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/44/Equip_ItemList/0/LocalizedName,0,-1,스터드 장군 갑옷
 thebattlefield,git,Creature List/44/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/45/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/45/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/45/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 thebattlefield,git,Creature List/45/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/46/Description,0,-1,"노인 라그피커는 불에서 멀리 떨어져 있고, 따뜻함의 가장자리에서 떠있는 것처럼 보입니다. 그녀는 이 곳에서 떠나려는 것 같지만, 떠나기 위한 긴 여행처럼 보이는 것만으로 뒤에 남아 있습니다."
 thebattlefield,git,Creature List/46/Equip_ItemList/0/LocalizedName,0,12902,래그피커 의복
 thebattlefield,git,Creature List/46/FirstName,0,-1,라그피커
-thebattlefield,git,Creature List/47/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/47/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/47/Equip_ItemList/0/LocalizedName,0,-1,왕의 가죽
 thebattlefield,git,Creature List/47/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/48/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/48/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/48/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 thebattlefield,git,Creature List/48/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/49/Description,0,12686,차가운 눈과 빛나는 검은 깃털을 가진 공중의 청소꾼들은 종종 죽음의 징조나 죽음의 예지로 여겨진다.
@@ -2305,13 +2305,13 @@ thebattlefield,git,Creature List/54/FirstName,0,6008,도마뱀 라이어
 thebattlefield,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/6/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 thebattlefield,git,Creature List/7/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,왕의 갑옷
 thebattlefield,git,Creature List/8/FirstName,0,-1,시체 쌓임
-thebattlefield,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+thebattlefield,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 thebattlefield,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,왕의 행진 판금
 thebattlefield,git,Creature List/9/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Placeable List/138/Description,0,66885,"큰, 단단한 광석 조각이 땅에서 튀어나와 있습니다."
@@ -2543,7 +2543,7 @@ thesouthernpa001,git,WaypointList/4/MapNote,0,14815,브로건의 팔에
 tourofsorrow,git,Creature List/0/Description,0,-1,"비록 당신에게 나쁜 의도를 품고 있지 않는 것처럼 보이지만, 이 이상한 생물은 당신의 물건에 대해 확실히 관심을 가지고 있습니다."
 tourofsorrow,git,Creature List/0/FirstName,0,-1,에테르화 도둑
 tourofsorrow,git,Creature List/1/Description,0,-1,백발백중으로 희미한 이 귀신성 난쟁이는 왼쪽 옆으로 끔찍한 상처를 입고 있다. 그의 내장들은 깨진 다리에서 아래의 광대한 어둠으로 매달려 있다. 그가 입는 군복은 당신에게 너무 익숙하다.
-tourofsorrow,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,왕의 서비스에 종사하는 남녀들이 착용하는 이 갑옷은 전투와 의식용으로 사용된다.
+tourofsorrow,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 tourofsorrow,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 tourofsorrow,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,WW 세부 종족: 케이른 드워프
 tourofsorrow,git,Creature List/1/FirstName,0,-1,모리우스

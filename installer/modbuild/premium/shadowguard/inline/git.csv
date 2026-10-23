@@ -1305,7 +1305,7 @@ ghaarakimperi001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,표준 
 ghaarakimperi001,git,Creature List/7/FirstName,0,-1,제국 시민
 ghaarakimperi001,git,Door List/0/LocName,0,5349,문
 ghaarakimperi001,git,Placeable List/2/Description,0,14577,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
-ghaarakimperi001,git,Placeable List/2/ItemList/0/DescIdentified,0,13410,농민의 집에서 덤벨루의 어둠만큼 자주 사용되는 이 간단한 혼합물은 아바란 전역에서 흔합니다.
+ghaarakimperi001,git,Placeable List/2/ItemList/0/DescIdentified,0,13410,농민의 집에서도 던전의 어둠 속에서도 자주 쓰이는 이 간단한 혼합물은 아바란 전역에서 흔합니다.
 ghaarakimperi001,git,Placeable List/2/ItemList/0/LocalizedName,0,13411,가벼운 상처 치료의 물약
 ghaarakimperi001,git,Placeable List/2/ItemList/1/DescIdentified,0,13448,"이 치료약은 대부분의 민간인에게 너무 비싸서, 거의 전적으로 군인과 모험가들에 의해 사용됩니다."
 ghaarakimperi001,git,Placeable List/2/ItemList/1/LocalizedName,0,13449,일반 중상 치료의 물약
@@ -1396,7 +1396,7 @@ ghaarakmarket001,git,Creature List/5/FirstName,0,-1,여종업원
 ghaarakmarket001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,여종업원 옷 1
 ghaarakmarket001,git,Creature List/6/FirstName,0,-1,여종업원
 ghaarakmarket001,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,-1,이 갑옷은 블러드하크 노예 조직의 상징으로 장식되어 있습니다.
-ghaarakmarket001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,블러드하크 장식 가죽
+ghaarakmarket001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,블러드호크 징 박힌 가죽 갑옷
 ghaarakmarket001,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,-1,"이 무기는 작은 마법으로 충전되어 있다. 물론 흔치 않지만, 그러한 마법은 중간 정도의 마법 사용자에게는 상당히 쉽게 만들어진다."
 ghaarakmarket001,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,-1,매혹된 소검
 ghaarakmarket001,git,Creature List/7/FirstName,0,-1,블러드하크
@@ -1443,7 +1443,9 @@ ghaarakmarket001,git,Placeable List/9/LocName,0,5822,NPC 의자 (플롯)
 ghaarakmarket001,git,StoreList/0/LocName,0,-1,표준 식사 가게
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/0/DescIdentified,0,-1,"이 패키지는 모험 일일을 위한 충분한 음식과 물을 포함합니다. 대부분의 귀족들과 상인들은 제국의 야외 지역에서 여행하는 동안 이 종류의 음식 패키지를 사용합니다. 전통적인 포장 식량 대신 다른 많은 것이 있지만, 이는 부담을 감당할 수 있는 사람들 사이에서 가장 인기 있는 선택입니다. 이 아이템은 식량으로 사용할 수 있습니다. 휴식을 취하려면 인벤토리에 어떤 형태의 식량이 있어야 합니다."
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/0/LocalizedName,0,-1,포장된 식량
-ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/1/DescIdentified,0,-1,"샤카라 과일은 샤라칸 제국 전역에 널리 알려져 있으며, 크기보다 훨씬 더 영양가가 높은 것으로 알려져 있습니다. 이 과일의 몇 덩이만으로 어른의 배를 채울 수 있으며, 하루 동안의 식사에 필요한 영양을 제공합니다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 혜택을 얻으려면 인벤토리에 어떤 형태의 비급이 필요합니다."
+ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/1/DescIdentified,0,-1,"샤카라 열매는 크기에서 짐작되는 것보다 훨씬 영양가가 높아 샤라칸 제국 전역에 잘 알려져 있습니다. 한 줌이면 성인 남성의 배를 채우기에 충분하고 하루치 식량으로 필요한 영양을 제공합니다.
+
+이 아이템은 식량으로 사용할 수 있습니다. 휴식의 혜택을 받으려면 인벤토리에 어떤 형태로든 식량이 있어야 합니다."
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/1/LocalizedName,0,-1,차카라 과일
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/2/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/2/LocalizedName,0,-1,그라민어
@@ -1606,7 +1608,7 @@ ghaarakmarket002,git,Placeable List/47/LocName,0,5727,자갈
 ghaarakmarket002,git,Placeable List/5/Description,0,14642,등불은 주변을 더 따뜻한 색으로 밝혀준다. 그 빛에 감사하다는 생각이 든다.
 ghaarakmarket002,git,Placeable List/5/LocName,0,14643,횃불 걸이
 ghaarakmarket002,git,Placeable List/50/Description,0,14594,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
-ghaarakmarket002,git,Placeable List/50/ItemList/0/DescIdentified,0,-1,"[이것은 15피트 길이의 줄이며, 끝에는 매달린 다이버전트가 있습니다. 여행 중에 이 줄을 약간 활용할 수 있을 것입니다...]"
+ghaarakmarket002,git,Placeable List/50/ItemList/0/DescIdentified,0,-1,"[이것은 길이 15피트의 밧줄이며, 한쪽 끝에는 갈고리가 달려 있습니다. 여행 중에 쓸모가 있을지도 모릅니다...]"
 ghaarakmarket002,git,Placeable List/50/ItemList/0/LocalizedName,0,-1,밧줄 을 수 있는 밧줄
 ghaarakmarket002,git,Placeable List/50/LocName,0,5348,상자
 ghaarakmarket002,git,Placeable List/6/Description,0,14642,등불은 주변을 더 따뜻한 색으로 밝혀준다. 그 빛에 감사하다는 생각이 든다.
@@ -1694,7 +1696,7 @@ ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/6/DescIdentified,0,13422,"
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/6/LocalizedName,0,13423,맑은 정신을 부여하는 물약
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/7/DescIdentified,0,13414,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/7/LocalizedName,0,13415,치명상처 치료의 물약
-ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/8/DescIdentified,0,13410,농민의 집에서 덤벨루의 어둠만큼 자주 사용되는 이 간단한 혼합물은 아바란 전역에서 흔합니다.
+ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/8/DescIdentified,0,13410,농민의 집에서도 던전의 어둠 속에서도 자주 쓰이는 이 간단한 혼합물은 아바란 전역에서 흔합니다.
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/8/LocalizedName,0,13411,가벼운 상처 치료의 물약
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/9/DescIdentified,0,13448,"이 치료약은 대부분의 민간인에게 너무 비싸서, 거의 전적으로 군인과 모험가들에 의해 사용됩니다."
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/9/LocalizedName,0,13449,일반 중상 치료의 물약
@@ -1984,7 +1986,7 @@ ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/6/DescIdentified,0,13422,"
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/6/LocalizedName,0,13423,맑은 정신을 부여하는 물약
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/7/DescIdentified,0,13414,"죽음을 근간으로 사람들을 다시 되살릴 수 있는 힘으로, 이 포션은 저렴하지 않습니다."
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/7/LocalizedName,0,13415,치명상처 치료의 물약
-ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/8/DescIdentified,0,13410,농민의 집에서 덤벨루의 어둠만큼 자주 사용되는 이 간단한 혼합물은 아바란 전역에서 흔합니다.
+ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/8/DescIdentified,0,13410,농민의 집에서도 던전의 어둠 속에서도 자주 쓰이는 이 간단한 혼합물은 아바란 전역에서 흔합니다.
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/8/LocalizedName,0,13411,가벼운 상처 치료의 물약
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/9/DescIdentified,0,13448,"이 치료약은 대부분의 민간인에게 너무 비싸서, 거의 전적으로 군인과 모험가들에 의해 사용됩니다."
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/9/LocalizedName,0,13449,일반 중상 치료의 물약
@@ -2008,7 +2010,9 @@ ghaarakmarketdis,git,StoreList/2/StoreList/4/ItemList/1/LocalizedName,0,13524,�
 ghaarakmarketdis,git,StoreList/3/LocName,0,-1,표준 식사 가게
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/0/DescIdentified,0,-1,"이 패키지는 모험 일일을 위한 충분한 음식과 물을 포함합니다. 대부분의 귀족들과 상인들은 제국의 야외 지역에서 여행하는 동안 이 종류의 음식 패키지를 사용합니다. 전통적인 포장 식량 대신 다른 많은 것이 있지만, 이는 부담을 감당할 수 있는 사람들 사이에서 가장 인기 있는 선택입니다. 이 아이템은 식량으로 사용할 수 있습니다. 휴식을 취하려면 인벤토리에 어떤 형태의 식량이 있어야 합니다."
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/0/LocalizedName,0,-1,포장된 식량
-ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/1/DescIdentified,0,-1,"샤카라 과일은 샤라칸 제국 전역에 널리 알려져 있으며, 크기보다 훨씬 더 영양가가 높은 것으로 알려져 있습니다. 이 과일의 몇 덩이만으로 어른의 배를 채울 수 있으며, 하루 동안의 식사에 필요한 영양을 제공합니다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 혜택을 얻으려면 인벤토리에 어떤 형태의 비급이 필요합니다."
+ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/1/DescIdentified,0,-1,"샤카라 열매는 크기에서 짐작되는 것보다 훨씬 영양가가 높아 샤라칸 제국 전역에 잘 알려져 있습니다. 한 줌이면 성인 남성의 배를 채우기에 충분하고 하루치 식량으로 필요한 영양을 제공합니다.
+
+이 아이템은 식량으로 사용할 수 있습니다. 휴식의 혜택을 받으려면 인벤토리에 어떤 형태로든 식량이 있어야 합니다."
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/1/LocalizedName,0,-1,차카라 과일
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/2/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/2/LocalizedName,0,-1,그라민어

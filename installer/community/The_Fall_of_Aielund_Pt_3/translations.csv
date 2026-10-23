@@ -81,7 +81,7 @@ aftersex1,dlg,ReplyList/10/Text,0,지옥이 막아도 안 돌아오게 해
 aftersex1,dlg,ReplyList/12/Text,0,"잠깐, 공주님, 정확히 제가 어떤 사람과 비교하고 있는지 말씀해주실 수 있나요?"
 aftersex1,dlg,ReplyList/13/Text,0,적어도 우리 중 한 명이 결혼 전 특권 생활을 했다는 걸 알고 있어요
 aftersex1,dlg,ReplyList/14/Text,0,내가 정말 괜찮아? 아니면 정말 괜찮아?
-aftersex1,dlg,ReplyList/15/Text,0,"제 영광이었습니다, 왕님. 그리고 당신의 영광도 분명합니다."
+aftersex1,dlg,ReplyList/15/Text,0,폐하를 모실 수 있어 기뻤습니다. 보아하니 폐하께서도 즐거우셨던 것 같군요!
 aftersex1,dlg,ReplyList/16/Text,0,"이것은 내가 할 수 있는 최소한의 일이지만, 돌아올 때까지는 이것으로 대체할 수밖에 없군. 그런데... 당신은 나와 가보는 게 어떨까?"
 aftersex1,dlg,ReplyList/17/Text,0,"예, 저는... 매력적으로 보이지 않아요."
 aftersex2,dlg,EntryList/0/Text,0,"<StartAction>[당신과 로버트가 몇 시간 동안 사랑을 나누며, 이 짧은 순간을 즐기고.]</Start>"
@@ -141,7 +141,7 @@ aiope,dlg,EntryList/23/Text,0,<StartAction>[Aoipe의 눈이 놀라 넓어진다.
 aiope,dlg,EntryList/24/Text,0,"어떤 보상이라도 받고 싶지 않나? 네, 네. 당신이 다시 하프를 주면, 나는 너에게 보상으로 무엇이든 주마!"
 aiope,dlg,EntryList/27/Text,0,"아뇨, 귀여워요, 하지만 당신은 확실히 어떤 보상을 받을 자격이 있습니다. 방패와 갑옷은 어떻게 될까요?"
 aiope,dlg,EntryList/28/Text,0,"아름다워! 그럼 여기 있습니다. 이 장비는 매우 강력한 것이며, 계속되는 탐험에서 유용하게 사용하실 것입니다."
-aiope,dlg,EntryList/29/Text,0,"<FirstName>님의 모험에 행운을 기원합니다. 그럼 이만! <StartAction>[Aoipe는 그녀의 하프에 관심을 기울이고, 그것을 조정하기 시작합니다.]</Start>"
+aiope,dlg,EntryList/29/Text,0,"당신의 모험을 도울 수 있어 기쁩니다. <FirstName>, 여정에 행운이 함께하길 바랍니다. 안녕히 가세요! <StartAction>[아오이페는 하프에 다시 주의를 돌리고 조율하기 시작한다.]</Start>"
 aiope,dlg,EntryList/30/Text,0,"오, 당신은 아마도 그 힘을 완전히 활용할 수 없었을 거예요. 그것은 특별히 나를 위해 설계되었고, 당신이 생각하는 것보다 많은 혜택을 주지 못할 거예요. 하지만 당신에게는 유용할 다른 것을 가지고 있어요."
 aiope,dlg,EntryList/31/Text,0,너는 확실히 바르드가 아니야. 그럼 여기 사용하는 천사들이 쓰는 갑옷은 어때?
 aiope,dlg,EntryList/32/Text,0,내 옷과 내가 오래 전에 입었던 이 멋진 옷은 당신 몸집에 맞게 될 것 입니다. 두려워하지 마세요. 이 물건들은 이 하파보다 당신 생활 방식에 더 잘 어울리죠.
@@ -253,7 +253,7 @@ badguard,dlg,EntryList/0/Text,0,"그래, 구나?"
 badguard,dlg,EntryList/1/Text,0,그리고?
 badguard,dlg,EntryList/2/Text,0,<StartAction> [경호가 미소를 짓는다.] </Start> 당신은 괜찮아요 <sir/madam>
 badguard,dlg,EntryList/3/Text,0,"<StartCheck>[실패]</Start>Bah, 여기 내가 괜찮다고 생각했는데, 당신은 다른 신부들처럼 거칠게 엉덩이예요."
-badguard,dlg,EntryList/7/Text,0,"<StartAction>[성공.]</Start>그럼, 주<Lord/Lady>님, 제 행동을 자제하겠습니다."
+badguard,dlg,EntryList/7/Text,0,"<StartAction>[성공.]</Start>그렇다면 <Lord/Lady>님, 명령하신 대로 자제하겠습니다."
 badguard,dlg,EntryList/8/Text,0,난... 하지만 그는 나에게 피투성이의 돌을 던졌어!
 badguard,dlg,EntryList/12/Text,0,뭐든
 badguard,dlg,EntryList/14/Text,0,"이곳엔 볼 게 없어, 지나가게."
@@ -333,7 +333,7 @@ benedictum,dlg,EntryList/35/Text,0,"저는 그가 추구하는 동맹의 함정�
 benedictum,dlg,EntryList/36/Text,0,"당신은 그를 속이기로는 몇 안 되는 인간 중 한 명입니다, <FirstName>. 그리고 저는 그 점을 존중합니다. 그의 거짓말에 대해, 내 앙숙은 자신의 관점에서 진실을 말했습니다. 하지만 아바데논은 지옥의 미미한 왕좌에 대해 관심이 없으니, 그는 더 큰 꿈을 가지고 있습니다."
 benedictum,dlg,EntryList/37/Text,0,"왜냐하면 지옥으로 돌아가는 것이 그의 욕망이 아니기 때문입니다. 그럼에도 불구하고. 이 포털을 통해, 그는 원시 물질적 평면에서 완전히 나타나고, 악마의 군대를 통해 정복할 수 있을 것입니다. 어떤 마술도 그를 지옥의 자국적 평면으로 다시 보낼 수 없을 것입니다. 그가 도착하는 순간, 원시 물질은 * 그의 자국적 평면이 될 것입니다. 당신의 탄생의 무감각한 세계에 방출된 이 힘의 악마의 주인은 거의 멈추지 않을 것이며, 수백만 명이 멸망할 것입니다. 그 때만, 그의 힘이 증대되면, 그는 지옥에 내려가서 모든 악의 왕으로서의 왕관을 주장할 것입니다."
 benedictum,dlg,EntryList/38/Text,0,"<StartAction>[로버트가 담배를 피우고 베네딕텀의 얼굴에 연기를 뿜어넣는다.]</Start> 제 생각에는 그를 막기 위해 어떤 군대가 필요할 것 같아. 예를 들어, 많은 수의 신성한 존재들이 이와 같은 적을 물리치는 데에 *정확히* 맞는 힘을 가진 존재들 말이야. 실제로 바로 밖에 있는 바로 그 군대처럼 말이야..."
-benedictum,dlg,EntryList/39/Text,0,"<StartAction>[베네딕텀은 담배 연기에 관심이 없는 것 같습니다.]</Start> 용병님, 당신의 의미는 분명합니다. 건조한 유머도 그렇지만요. 형제들과 제 능력은 이 영역이나 당신의 영역을 넘어서지 않습니다. 존재의 평면 사이에서 아바돈과 전투를 벌이는 것은 훨씬 더 위험합니다. 하지만 이 야수를 멈추는 데는 반드시 제가 예지한 대립이 필요합니다."
+benedictum,dlg,EntryList/39/Text,0,"<StartAction>[베네딕툼은 시가 연기를 알아차리지 못하는 듯합니다.]</Start> 용병이여, 썰렁한 농담을 하려 했지만 무슨 뜻인지는 분명하구나. 형제들과 내 힘은 이 차원이나 너희 차원의 경계를 크게 넘어설 수 없다. 존재 차원 사이에서 아바돈과 싸우는 일은 훨씬 더 위험하지. 그래도 우리는 이 야수를 막을 것이다. 네 운명에 정해진 대결을 내가 미리 보았으니."
 benedictum,dlg,EntryList/41/Text,0,"베리투스, 내 동료, 과장한다. 종종 나는 무슨 일이 일어날지에 대한 인상을 받는다. 그러나 내가 목격한 모든 예언들 중, 네게 오는 것보다 더 명확하게 내게 오는 예언은 없었다. 네는 위대한 악과의 싸움에 향한 운명을 가지게 되었으며, 네가 더 나은 동반자를 요구할 수는 없을 것이다. 넬리스 산니먼과 함께 내 영토에 오신 것을 환영한다, 사랑하는 제자여."
 benedictum,dlg,EntryList/42/Text,0,"<StartAction>[넬리스는 베네딕텀의 친절한 인사에 거의 무릎을 꿇을 것 같았습니다.]</Start> 이.. 감사합니다, 신성한 베네딕텀님. 당신의 나라의 아름다움은 진심으로 경외심을 불러일으킵니다."
 benedictum,dlg,EntryList/43/Text,0,"네일리스, 넓이세, 당신 또한 여기 오게 되어 있었으며, 당신의 마음은 많은 질문으로 흩어져 있지만, 저는 당신의 인내심을 조금 더 요구해야 합니다. 더 긴급한 문제들이 있습니다. 하지만 두려워하지 마라. 모든 질문은 적절한 시간에 대답될 것이다."
@@ -342,7 +342,7 @@ benedictum,dlg,EntryList/45/Text,0,"네일리스, 네가 여기 온 것도 운�
 benedictum,dlg,EntryList/46/Text,0,물론이죠. 우리의 탐구와 비교해 내 걱정은 순전히 사소한 것 같습니다. 부탁이면 말씀해 주세요.
 benedictum,dlg,EntryList/47/Text,0,"<FullName>, 환영합니다. 당신 같은 사람이 이 성당에 있는 것은 우리의 관습이 아니라는 것을 알고 있습니다. 하지만 예외가 필요한 상황이 발생합니다."
 benedictum,dlg,EntryList/48/Text,0,"자네의 도착은 기대되었으며, 자네의 존재는 언제나 불변의 사실이었어."
-benedictum,dlg,EntryList/49/Text,0,"두려움으로 다른 사람을 동원하고 고통을 즐기는 자, 네 행위는 반드시 멸망으로 이끌 것이다. 그러나 그 전에 네가 길을 바꿀 수 있을지도 모른다."
+benedictum,dlg,EntryList/49/Text,0,"두려움으로 남을 움직이고 그들의 고통을 즐기는 자여, 너는 결국 파멸로 이어질 사건의 굴레에 놓여 있다. 하지만 그 일이 닥치기 전에는 네 방식을 바꿀 시간이 있을지도 모른다."
 benedictum,dlg,EntryList/50/Text,0,"당신보다 더 큰 악과 싸워야 하니, 그것이 바로 운명이다. 나는 그것이 예견되었음을 알게 되었다."
 benedictum,dlg,EntryList/51/Text,0,네가 추구하는 것이 가장 중요하다는 것을 알라 네 모든 용기와 함께 지옥으로 가라 네 노력은 보상이 될 것이다
 benedictum,dlg,EntryList/53/Text,0,인시디아의 시체에 달린 톨리스마인이 있었지.
@@ -538,7 +538,7 @@ black,dlg,ReplyList/56/Text,0,"나를 지키고, 내가 공격하기 전까지�
 black,dlg,ReplyList/58/Text,0,무기 전술에 대해 이야기해 보죠.
 black,dlg,ReplyList/59/Text,0,지금은 다른 것은 바꾸고 싶지 않아.
 black,dlg,ReplyList/61/Text,0,가까운 장거리 전투를 전혀 하지 않길 바라요. 적이 너무 가까이 있다면 멀리 떨어져라!
-black,dlg,ReplyList/62/Text,0,공격적으로 행동하세요. 적이 6미터 이내로 다가오면 무기로 공격하세요!
+black,dlg,ReplyList/62/Text,0,공격적으로 행동하세요. 적이 6미터 정도 안으로 다가오면 근접 공격으로 돌격하세요!
 black,dlg,ReplyList/63/Text,0,적이 4~5미터 정도 떨어져 있는 경우 교전으로 전환해야 한다고 생각합니다.
 black,dlg,ReplyList/64/Text,0,"미사일 무기가 너무 좋아서 적이 상대적으로 가까이 갈 때까지 기다려야 합니다. 3미터도 안 되는 거라면,"
 black,dlg,ReplyList/65/Text,0,언제 전투와 미사일 무기 사이를 전환해야 하는지에 대한 본능에 신뢰를 두어야 합니다.
@@ -625,7 +625,7 @@ boy_crypt2,dlg,EntryList/4/Text,0,안녕. 누구니?
 boy_crypt2,dlg,EntryList/5/Text,0,나는 곰이다. 샤먼은 내 피에 큰 곰의 힘이 있다고 해서 나를 곰이라고 불렀다.
 boy_crypt2,dlg,EntryList/6/Text,0,"아마 그럴 거야. 큰 망치로 무언가를 치게 될 텐데, 많은 피가 흘러 엉망이네. 샤먼은 내가 특별하다고 말하네. 아마 나도 그와 같은 샤먼이 될 수 있을지도 몰라."
 boy_crypt2,dlg,EntryList/7/Text,0,행운 필요 없어. 곰 피가 있어!
-boy_crypt2,dlg,EntryList/8/Text,0,난 널 좋아해! 만약 모든 낯선 사람들이 너처럼이라면 세상은 정말 좋은 곳이야. 나이가 들면 세상을 탐험하고 싶어.
+boy_crypt2,dlg,EntryList/8/Text,0,난 네가 좋아! 낯선 사람들이 다 너 같다면 세상은 분명 좋은 곳일 거야. 크면 세상을 구경하고 싶어.
 boy_crypt2,dlg,EntryList/9/Text,0,마을 사람 모두 곰 돕기 좋아해. 항상 곰 도와줘. 언젠가 곰도 그들 도와줄지 몰라. 두고 봐.
 boy_crypt2,dlg,EntryList/10/Text,0,"마나 같은 말을 하고, 이제 마나 되고 싶어 하니까 곰도 마나"
 boy_crypt2,dlg,ReplyList/1/Text,0,어... 그래. 그럼 자라서 전사가 될 거니?
@@ -730,7 +730,7 @@ commander,dlg,EntryList/1/Text,0,우리 나라를 아이룬드 군인들로부�
 commander,dlg,EntryList/2/Text,0,우리 왕국을 지키기 위해 싸우고 죽었소! 어떻게 그런 말을 할 수 있소!
 commander,dlg,EntryList/4/Text,0,"<StartAction>[사령관의 눈이 넓혀지고, 그는 당신의 장비를 검사합니다.]</Start> 당신은 보기에는 별로인 것 같아, 알고 있나, 맞나?"
 commander,dlg,EntryList/5/Text,0,왜 제 왕님에게 보고를 올리고 싶으신가요?
-commander,dlg,EntryList/6/Text,0,"잠깐! 당신의 무례한 말투에도 불구하고, 만약 이 싸움에서 도와줄 수 있다면, 나는 당신을 왕에게 데려갈 뿐만 아니라 성직자로 추천할 것이다. 또한 내 딸과의 혼인도 제안하겠지만, 당신이 사내인 것 같아 불필요한 고통을 당하지 않길 바라서 그런 제안을 하지 않았다."
+commander,dlg,EntryList/6/Text,0,"잠깐! 말버릇은 무례하지만, 이 싸움에서 우리를 도와준다면 왕에게 데려가는 것은 물론 성인으로 추대하겠습니다. 딸과 결혼시켜 드리고 싶기도 합니다만, 신사분 같으시니 괜한 고생을 시키고 싶진 않군요."
 commander,dlg,EntryList/7/Text,0,"잠깐! 당신의 무례한 말투에도 불구하고, 만약 이 싸움에서 도와주실 수 있다면, 나는 당신을 왕에게 데려갈 뿐만 아니라, 당신을 성인으로 추대하기까지 할 것입니다. 또한, 내 아들과의 결혼을 제안하고 싶지만, 당신이 품위 있는 여인으로 보여서 무리하게 결혼시키는 것은 싫습니다."
 commander,dlg,EntryList/8/Text,0,"솔직히 말해, 낯선 사람, 만약 당신이 이 싸움에서 우리를 도와준다면, 왕에게 당신을 데려가지 않을 뿐만 아니라 성성으로 추천할 수도 있을 것이다. 또한 내 딸과의 결혼도 제안하겠지만, 당신이 사내인 것 같아 무분별한 고통을 겪지 않길 바라지 않는다."
 commander,dlg,EntryList/9/Text,0,"솔직히 말해, 낯선 사람여, 만약 당신이 이 싸움에서 승리할 수 있다면, 나는 당신을 왕에게 데려갈 뿐만 아니라 신성으로 추대할 것이다. 또한 내 아들와의 결혼을 제안하려고도 했지만, 당신이 품위 있는 여인으로 보여서 불필요하게 고통을 겪지 않길 바라서 그러지 않았다."
@@ -885,7 +885,7 @@ criosa,dlg,EntryList/20/Text,0,"네, 그는 베로니크의 탑으로 텔레포�
 criosa,dlg,EntryList/21/Text,0,<StartAction>[로버트가 고 맹세하고 장갑수먹을 벽에 고]</Start>
 criosa,dlg,EntryList/22/Text,0,불행히도 그렇습니다.
 criosa,dlg,EntryList/23/Text,0,그리고 당신은 그녀의 탑으로 돌아갈 방법이 없을 것이라 확신합니까?
-criosa,dlg,EntryList/24/Text,0,"물론 방법이 있습니다. 탑은 매우 안전하지만, 접근을 막는 마법을 해제할 수 있습니다. 하지만 시간이 걸릴 수 있으며, 아마 한 주 정도는 필요한 것 같지만, 우리는 그 시간을 가질 수 없습니다."
+criosa,dlg,EntryList/24/Text,0,"물론 방법은 있습니다. 탑은 매우 안전하지만 출입을 막는 마법을 풀 수는 있습니다. 다만 시간이 걸릴 겁니다. 일주일 이상 걸릴 수도 있는데, 우리에겐 그 시간이 없습니다."
 criosa,dlg,EntryList/25/Text,0,이 새끼는 우리 모두를 이용해서 그 토워에 1주 동안 누워있어요
 criosa,dlg,EntryList/26/Text,0,"나는 그가 언제든지 타워를 떠날 수 있을 것 같아서, 그가 떠나면 추적해야 할 수도 있겠지만, 그건 다른 때의 일일 것이다."
 criosa,dlg,EntryList/27/Text,0,"저는 모두를 방해하는 게 싫지만, 테리누스가 여기 왜 있는지 정말 이해가 가지 않습니다. 그 남자는 악마입니다!"
@@ -1005,7 +1005,7 @@ criosa_final,dlg,EntryList/8/Text,0,<StartAction>[크리오사 쓴웃음]</Start
 criosa_final,dlg,EntryList/9/Text,0,"<StartAction>[그녀는 웃는다.]</Start> 충분히 많이 볼 수 있을 거예요, 약속합니다. 하지만 당신의 현재 임무를 더 이상 방해하지 않도록 빨리 말씀드리겠습니다. 당신이 그것이 무엇인지 말할 수 있을지 모르겠네요?"
 criosa_final,dlg,EntryList/10/Text,0,"이해했습니다. 모든 사람들 중 당신을 걱정하게 만드는 것은 무엇인지 모르겠지만, 당신이 그것을 처리할 수 있다는 것을 알고 있습니다. 나는 당신을 믿으며, 당신이 아이룬드의 최선을 위해 일하고 있다는 것을 알고 있습니다."
 criosa_final,dlg,EntryList/14/Text,0,"그래야지. 결국 널 곁에 두기로 하겠어. 자, 가라, 쿨데니의 영웅, 아이언로드를 처치한 자여. 감사하는 온 나라의 기도와 마음이 매 걸음 너와 함께한다는 걸 알고서 이 마지막 위대한 임무를 끝내라. 가라, <FirstName>, 그리고 승리하여 내게 돌아오라."
-criosa_final,dlg,EntryList/15/Text,0,"작별히, 내 챔피언."
+criosa_final,dlg,EntryList/15/Text,0,"안녕히, 나의 용사여."
 criosa_final,dlg,EntryList/16/Text,0,"이해했습니다. 모든 사람들 중 당신을 걱정하게 만드는 것은 무엇인지 모르겠지만, 당신이 그것을 처리할 수 있다는 것을 알고 있습니다. 나는 당신을 믿으며, 당신이 아이룬드의 최선을 위해 일하고 있다는 것을 알고 있습니다."
 criosa_final,dlg,EntryList/17/Text,0,"더 가기 전에, 크리오사여, 듣고 싶은 것이 있으니 기다려 주시기 바랍니다."
 criosa_final,dlg,EntryList/18/Text,0,"그게 무엇인가요? 권위 있는 자리 제안을 할까도 생각했지만, 우리는 마지막에 그랬을 때 당신이 거절하고 더 군인을 연기하기 위해 도망쳐갔기 때문에..."
@@ -1142,7 +1142,7 @@ crpco_demo,dlg,ReplyList/22/Text,0,안전한 문이 어디인지 어떻게 알�
 crpco_demo,dlg,ReplyList/24/Text,0,"아니, 나는 어떻게 그리핑 허크와 줄을 이용해 이 구덩이의 다른 쪽으로 올라갈 수 있는지 알고 싶다."
 crpco_demo,dlg,ReplyList/27/Text,0,더 이상 당신의 도움이 필요 없어.
 crpco_demo,dlg,ReplyList/29/Text,0,구덩이로 내려가기 위해 밧줄을 어떻게 사용할 수 있을까요?
-crpco_demo,dlg,ReplyList/33/Text,0,"아니, 난 그냥 계단을 뛰어넘을 거야 하지만 어떻게 해야 하는지 알아야 돼?"
+crpco_demo,dlg,ReplyList/33/Text,0,"아니, 그냥 구덩이를 뛰어넘을 거야. 그런데 어떻게 해야 하지?"
 crpco_demo,dlg,ReplyList/35/Text,0,그렇소.
 crpco_demo,dlg,ReplyList/36/Text,0,전체 상점 목록을 보고 싶어요.
 crpco_demo,dlg,ReplyList/37/Text,0,<StartAction> 출구</Start>
@@ -1273,7 +1273,7 @@ cuthbeort,dlg,ReplyList/7/Text,0,<StartCheck>#[법률]</Start>##################
 cuthbeort,dlg,ReplyList/8/Text,0,<StartAction>[인사이트]</Start>#####################################################################################################################################################################################################################################################
 cuthbeort,dlg,ReplyList/9/Text,0,나에게 뭔가를 주면 뭐가 있나? 알지만 좀 바빠.
 cuthbeort,dlg,ReplyList/10/Text,0,"이제 말을 하니까, 강력한 장비를 찾고 있어. 전설의 물건 같은 거야. 네가 알아듣겠지."
-cuthbeort,dlg,ReplyList/11/Text,0,물론 도와드릴게요. 대가로는 제가 정보를 제공할 수 있으면 좋겠습니다. 가능한 빨리 가장 강력한 무기를 찾는 것이 필요해요.
+cuthbeort,dlg,ReplyList/11/Text,0,물론 도와드릴게요. 대신 당신이 제게 정보를 좀 알려 주셨으면 합니다. 가능한 한 빨리 구할 수 있는 가장 강력한 무기들을 찾아야 해요.
 cuthbeort,dlg,ReplyList/12/Text,0,"안다, 최고의 것을 찾거나 훔치거나 구입할 수 있도록."
 cuthbeort,dlg,ReplyList/13/Text,0,"난 쉽게 생각하지 않았어. 우리는 계약을 맺었으니까, 먼저 이 슬라드들을 처리하자. 그런 다음에 이곳에 대해 더 말해줄게."
 cuthbeort,dlg,ReplyList/14/Text,0,나는 이해했네. 운이 우리에게 유리되길.
@@ -1332,7 +1332,7 @@ david,dlg,ReplyList/11/Text,0,당신은 정말 운이 좋았습니다. 그 다�
 david,dlg,ReplyList/12/Text,0,"데이비드, 당신은 분명히 운이 좋았지만, 용기를 내서 그런 것들을 맞섰습니다."
 david,dlg,ReplyList/13/Text,0,여기 있는 누군가가 어떻게든 늑대인간들에게 당신이 올 것이라고 말했을 거라고 생각하십니까?
 david,dlg,ReplyList/14/Text,0,"하지만 그 이론이 성립하려면, 이 늑대인수 정보 제공자가 누구든 간에, 당신들의 마을에 오랫동안 머물렀어야 한다. 물론 여기에 외인들이 없다고 가정하는 것이다..."
-david,dlg,ReplyList/15/Text,0,"넌 전문가야, 그들이 늑대인간과 함께 있나 보지?"
+david,dlg,ReplyList/15/Text,0,"넌 전문가잖아. 어느 쪽이라고 생각해? 그들이 늑대인간 편이야, 아니야?"
 david,dlg,ReplyList/16/Text,0,- 어떻게?
 david,dlg,ReplyList/17/Text,0,이런 것의 소리가 마음에 들어. 어디서 구할 수 있을까?
 david,dlg,ReplyList/18/Text,0,"좋아, 그냥 나가서 늑대인간을 맞서 찾아볼게."
@@ -1390,7 +1390,7 @@ dinner,dlg,EntryList/28/Text,0,바로 이 때문에 그들을 물리치기 위�
 dinner,dlg,EntryList/29/Text,0,이 계획이 점점 마음에 들어오기 시작했어.
 dinner,dlg,EntryList/30/Text,0,임할 과제는 일시적으로 좋은 식사와 같은 단순한 즐거움을 제공하는 시간이 거의 없을 것이다.
 dinner,dlg,EntryList/32/Text,0,"어딨어? 네, 식사를 즐겼어?"
-dinner,dlg,ReplyList/3/Text,0,대량 살인자 앞에서 그런 식사를 받아들이는 것은 힘들었습니다.
+dinner,dlg,ReplyList/3/Text,0,연쇄 살인범과 마주 앉아 그런 식사를 하는 건 도저히 견디기 힘들었습니다.
 dinner,dlg,ReplyList/5/Text,0,"넬, 계속 노력해"
 dinner,dlg,ReplyList/8/Text,0,"네, 그런 식사량으로는 오랜 시간이 지났어. 고마워."
 dinner,dlg,ReplyList/9/Text,0,당신이 언급한 임무는 오스릭 왕을 다치게 하는 것이냐? vì 나는 정말로... 네가 알아차릴 수 있을 정도로 오스릭을 다치게 하고 싶어.
@@ -1880,7 +1880,7 @@ feybourne,dlg,EntryList/2/Text,0,"그러나 이 지역은 인구들 사이에서
 feybourne,dlg,EntryList/3/Text,0,"도시가 멸망하기 직전 드루이드 계급에서 급진적 지도자가 등장하여, 자연이 그들을 실패하지 못하게 할 것이라고 전신으로 자신의 형제들을 연합하여 숲을 위해 싸웠다. 그는 자살 공격으로 보이는 도시 수비자들에 맞서 그의 추종자들을 이끌면서 '승리는 확실했다'고 외쳤다. 많은 드루이드들은 자연과의 관계에서 특별한 힘을 가지고 있었고, 그들을 돕기 위해 폭풍과 지역 야생동물을 불러왔지만, 이것조차도 아말리스의 견고한 수비자를 격파하기에 충분하지 않았을 것입니다."
 feybourne,dlg,EntryList/4/Text,0,"그러나 한 주 동안의 피 흘린 후 한 운명적 밤 에 도시 는 지진 으로 급속히 사라졌다. 어떤 영혼 도 이 어떻게 일어났는지 설명 하기 위해 파괴 를 살아남지 않았다. 그 이전 에 보도 된 것 보다 훨씬 더 자연 과 조화 를 맺은 드루이드 지도자 가 있다고 생각 한다. 일부 는 자연 이 그 숲 의 파괴 에 대한 분노 로 지진 을 일으켰다고 말 한다. 한 가지 는 확실 하다. 드루이드 들 은 이제 페이번 의 폐허 를 통제 하고 있으며, 그 어느 때도 자랑스러운 도시 를 되찾으려는 생각 을 한 사람도 없다."
 feybourne,dlg,EntryList/5/Text,0,"왕은 드루이드들의 존재를 전국에 금지시켰지만, 드루이드들이 권력을 주장하는 지역에서는 이 법을 적용할 수 없었다. 그리고 그들이 한 해 동안 도시 전체를 파괴할 수 있는 방법을 모르는 왕은 그들을 공격하는 위험을 감수하지 않았다. 그래서 수년 동안 대립은 그 세력들 사이에서 지속되었다. 어떤 사람들은 그림자 드루이드들이 왕국의 나머지 지역에 대한 계획을 가지고 있다고 말하지만, 오직 시간만이 이를 증명할 것이다."
-feybourne,dlg,EntryList/6/Text,0,"오늘날까지, 페이보른 외의 드루이드는 드물다. 그들은 쿨든리와 브랙스워스의 사람들이 페이보른의 손실에 영향을 받지 않았기 때문에, 왕국 서부 반부분에서는 문명적으로 대우를 받는다. 그리고 지역 치료사들이 그런 일에 책임을 지지 않는다는 것을 확실히 한다."
+feybourne,dlg,EntryList/6/Text,0,"오늘날 페이번 외부에서 드루이드는 드뭅니다. 왕국 서부에서만 그나마 정중한 대우를 받죠. 쿨데니와 브랙스워스 사람들은 페이번의 상실로 피해를 보지 않았고, 지역 치료사들에게 그런 일의 책임을 묻지도 않으니까요."
 feybourne,dlg,ReplyList/0/Text,0,- 아니
 feybourne,dlg,ReplyList/1/Text,0,그래.
 feybourne,dlg,ReplyList/2/Text,0,책을 닫으세요.
@@ -1990,7 +1990,7 @@ garg1,dlg,EntryList/13/Text,0,"좋아요, 한번 생각해보겠습니다. 제�
 garg1,dlg,EntryList/14/Text,0,내 바지? 그게 무슨 대답이야?
 garg1,dlg,EntryList/15/Text,0,<StartAction>[밥이 빨아들인다.]</Start>
 garg1,dlg,EntryList/16/Text,0,"어쨌든 걱정 마, 여기 또 하나 있는데, 뇌가 뜨거워질 거야."
-garg1,dlg,EntryList/17/Text,0,"잘했어, 친구야. 네가 머리를 잘 써서 좋았어. 하지만 나는 더 좋은 머리로 널 테스트할 거야, 브ób?"
+garg1,dlg,EntryList/17/Text,0,"잘했어! 자네 꽤 머리가 좋군, 친구. 하지만 자네를 시험할 더 좋은 수수께끼가 있지! 그렇지, 밥?"
 garg1,dlg,EntryList/18/Text,0,- 그렇습니다.
 garg1,dlg,EntryList/19/Text,0,"여기 또 하나 있는데, 당신의 뇌가 뜨거워질 겁니다. 제가 하는 질문은 다음과 같습니다. 아침에 가장 먼저 하는 일은 무엇일까요?"
 garg1,dlg,EntryList/20/Text,0,맞습니다. 조금 속임수적인 질문입니다. 하지만 제 작은 속임수를 통해 알아냈어요. 잘 해냈어요. 이제 다음 질문으로: 사람들이 무엇을 만들어서 아무도 볼 수 없는 걸까요?
@@ -2128,7 +2128,7 @@ harbin,dlg,ReplyList/7/Text,0,"네, 네 주식을 보여줘"
 harp,dlg,EntryList/0/Text,0,"<StartAction>[이것은 훌륭한 해프라, 아마도 제일 최고의 해프라이다. 이 해프라는 금과 플래티넘으로 얇게 코팅되어 있으며, 끈은 천사의 털로 만들어졌다.]</Start>"
 harp,dlg,EntryList/1/Text,0,당신은 내 호프를 빼려고 하는 건가요? 만약 그렇게 한다면 조금 화가 날 거예요!
 harp,dlg,EntryList/2/Text,0,넌 가질 수 없어. 내 거야.
-harp,dlg,EntryList/3/Text,0,"그 호프는 가격도 없이, 나에게 원하는 것이 없어. 이제 그 앞에서 물러나거라."
+harp,dlg,EntryList/3/Text,0,그 하프는 값을 매길 수 없을 만큼 귀중해. 네가 가진 것 중 내가 원하는 건 없어. 이제 그만 물러가.
 harp,dlg,EntryList/4/Text,0,<StartAction>[Xyrnamaxus는 극강의 힘으로 울면서 당신을 공격하기 위해 일어납니다!]</Start>
 harp,dlg,EntryList/5/Text,0,물론이죠. 멀리서 감상하세요. 당신이 이렇게 하니까 저는 좀 불안해지네요.
 harp,dlg,EntryList/6/Text,0,"아오이페는 이전 소유자였지만, 지금은 내 호프입니다."
@@ -2140,7 +2140,7 @@ harp,dlg,EntryList/11/Text,0,<StartAction>[Xyrnamaxus는 극강의 힘으로 울
 harp,dlg,EntryList/13/Text,0,"<StartAction>[드래곤이 갑자기 매우 불편해 보인다.]</Start> Uh... 예, 예, 그건 당신에게 적절할 것 같습니다. 반드시 그녀에게 제 인사도 전해 주십시오."
 harp,dlg,EntryList/16/Text,0,당신의 논리는 설득력이 있어요. 내 명령에 따라 연기해 보세요!
 harp,dlg,EntryList/17/Text,0,"<StartCheck>[실패]</Start><StartAction>[당신이 연주하는 음악은 지금까지의 최고작 중 하나이지만, 드래곤은 아직도 만족하지 않는 것 같아.]</Start> 이건 아름다운 음악이란가? 나는 모르겠지만, 좀 더 위대한 것을 기대하고 있었어."
-harp,dlg,EntryList/18/Text,0,"음, 이제는 이해가 됩니다. 음악은 나쁘지 않았지만, 거기서는 나의 해프를 팔고 싶지 않았습니다. 그래서 제안 드리면, 당신은 다른 곳에서 기술을 연습하고 해프는 놔두는 것이 좋겠습니다."
+harp,dlg,EntryList/18/Text,0,"그래, 이제 이해가 되는군. 나름대로 나쁘지 않은 곡이긴 했지만, 내 하프를 내놓을 만큼은 아니었어. 그러니 다른 곳에서 연주 연습을 하고 하프는 그냥 두는 게 좋겠어."
 harp,dlg,EntryList/19/Text,0,<StartAction>[성공] 드래곤의 에 은색 눈물이 흘러가고 연주를 마친 후에.]</Start> 내가 다 들었을 것 같았어요. 우주를 돌아다니며 문명 전체가 상승과 쇠퇴하는 것을 보았던 나. 당신의 유령적인 노래는 내가 수백 년 동안 느끼지 못한 방식으로 감동했습니다. 그 공연에 감사드립니다. 작아. 당신은 분명히 악기를 마스터 뮤지션이 소유해야한다는 것을 증명했습니다. 당신이 여행하는 곳마다 그러한 아름다움을 퍼뜨릴 수 있습니다. 그래서 나는 그것을 당신에게 유산합니다.
 harp,dlg,EntryList/20/Text,0,멀어질 말았어!
 harp,dlg,EntryList/21/Text,0,"<StartAction>[이렇게 큰 악기를 어떻게 들고 다니는지 궁금할 때, 악기는 갑자기 머리 크기로 줄어들게 되고, 손쉽게 배낭에 넣을 수 있게 됩니다.]</Start>"
@@ -2171,7 +2171,7 @@ harp,dlg,ReplyList/26/Text,0,원하는 대로
 harp,dlg,ReplyList/27/Text,0,"지혜로운 결정을 내려주셔서 고마워, Xyrnamaxus. 호프는 반드시 좋은 용도로 사용될 거야, 확실해."
 harp,dlg,ReplyList/28/Text,0,가보라. 내 일은 네가 해줘.
 harp,dlg,ReplyList/30/Text,0,무작위 노트를 연주하세요.
-hellion,dlg,EntryList/0/Text,0,폭풍에 이렇게 가까이 서 있으면 머리카락이 서서히 굽히게 됩니다. 주변 공기는 에너지로 차가집니다.
+hellion,dlg,EntryList/0/Text,0,템페스트에 이렇게 가까이 서 있으면 머리카락이 곤두섭니다. 주변 공기는 에너지로 파직거립니다.
 hench_black,dlg,EntryList/0/Text,0,"그래, 종말적인 탐구에서 조금의 도움이 필요해, 아니면 그냥 차와 크럼프츠를 먹으러 왔나?"
 hench_black,dlg,EntryList/1/Text,0,나? 난 그냥 피치야. 나랑 다시 얘기하지 마. 너랑 함께 싸우길 원하지 않는 한. 그렇지 않으면 내 시간을 낭비할거야.
 hench_black,dlg,EntryList/2/Text,0,지금은 이야기를 나누는 중이다. 그럼 우주에 도전해 보자.
@@ -2272,7 +2272,7 @@ hench_black,dlg,ReplyList/56/Text,0,"나를 지키고, 내가 공격하기 전�
 hench_black,dlg,ReplyList/58/Text,0,무기 전술에 대해 이야기해 보죠.
 hench_black,dlg,ReplyList/59/Text,0,지금은 다른 것은 바꾸고 싶지 않아.
 hench_black,dlg,ReplyList/61/Text,0,가까운 장거리 전투를 전혀 하지 않길 바라요. 적이 너무 가까이 있다면 멀리 떨어져라!
-hench_black,dlg,ReplyList/62/Text,0,공격적으로 행동하세요. 적이 6미터 이내로 다가오면 무기로 공격하세요!
+hench_black,dlg,ReplyList/62/Text,0,공격적으로 행동하세요. 적이 6미터 정도 안으로 다가오면 근접 공격으로 돌격하세요!
 hench_black,dlg,ReplyList/63/Text,0,적이 4~5미터 정도 떨어져 있는 경우 교전으로 전환해야 한다고 생각합니다.
 hench_black,dlg,ReplyList/64/Text,0,"미사일 무기가 너무 좋아서 적이 상대적으로 가까이 갈 때까지 기다려야 합니다. 3미터도 안 되는 거라면,"
 hench_black,dlg,ReplyList/65/Text,0,언제 전투와 미사일 무기 사이를 전환해야 하는지에 대한 본능에 신뢰를 두어야 합니다.
@@ -2346,7 +2346,7 @@ hench_cleric,dlg,ReplyList/32/Text,0,"나를 지키고, 내가 공격하기 전�
 hench_cleric,dlg,ReplyList/34/Text,0,무기 전술에 대해 이야기해 보죠.
 hench_cleric,dlg,ReplyList/35/Text,0,지금은 다른 것은 바꾸고 싶지 않아.
 hench_cleric,dlg,ReplyList/37/Text,0,가까운 장거리 전투를 전혀 하지 않길 바라요. 적이 너무 가까이 있다면 멀리 떨어져라!
-hench_cleric,dlg,ReplyList/38/Text,0,공격적으로 행동하세요. 적이 6미터 이내로 다가오면 무기로 공격하세요!
+hench_cleric,dlg,ReplyList/38/Text,0,공격적으로 행동하세요. 적이 6미터 정도 안으로 다가오면 근접 공격으로 돌격하세요!
 hench_cleric,dlg,ReplyList/39/Text,0,적이 4~5미터 정도 떨어져 있는 경우 교전으로 전환해야 한다고 생각합니다.
 hench_cleric,dlg,ReplyList/40/Text,0,"미사일 무기가 너무 좋아서 적이 상대적으로 가까이 갈 때까지 기다려야 합니다. 3미터도 안 되는 거라면,"
 hench_cleric,dlg,ReplyList/41/Text,0,언제 전투와 미사일 무기 사이를 전환해야 하는지에 대한 본능에 신뢰를 두어야 합니다.
@@ -2430,7 +2430,7 @@ hench_criosa,dlg,EntryList/89/Text,0,"아니, 아직 아니야. <StartAction>[�
 hench_criosa,dlg,EntryList/90/Text,0,"여긴 정말 위험하다니, 저런 곳에 사라졌나 보다..."
 hench_criosa,dlg,EntryList/91/Text,0,"그렇습니다. 우리는 강해져야 합니다. 그럼, 가봅시다."
 hench_criosa,dlg,EntryList/92/Text,0,"네가 원하는 대로, 여기서 기다리며 좀 쉬어."
-hench_criosa,dlg,ReplyList/0/Text,0,저는 단지 당신을 확인하러 온 것이에요. 아직 지역이 충분히 안전하다고 확신하고 있어요.
+hench_criosa,dlg,ReplyList/0/Text,0,그냥 안부를 확인하러 왔습니다. 당신이 머물기에 이 지역이 충분히 안전한지 계속 살피고 있어요.
 hench_criosa,dlg,ReplyList/1/Text,0,"좋아, 다시 움직이자."
 hench_criosa,dlg,ReplyList/3/Text,0,무슨 일이 있었는지 모르겠어요. 내가 기억하는 마지막 건 조용한 맥주를 한두잔 한 번 먹었거든요.
 hench_criosa,dlg,ReplyList/5/Text,0,"왜 다리에서 구구줄이 붙어있었는지, 그리고 왜 사막 한가운데에 있는 지, 그리고 네일리스랑 여기서 뭐하고 있는지?"
@@ -2442,7 +2442,7 @@ hench_criosa,dlg,ReplyList/12/Text,0,저는 세무스와 더 이상 함께할 �
 hench_criosa,dlg,ReplyList/14/Text,0,"우리의 선택은 다소 제한되어 있으며, 어쩌면 투소네로 가서 무슨 일이 벌어질지 보는 것이 좋을 것 같습니다."
 hench_criosa,dlg,ReplyList/16/Text,0,"이 크리오사도 마음에 들지 않을 수도 있지만, 툴소네로 가서 오스리크 왕과 함께 봉사해야 합니다."
 hench_criosa,dlg,ReplyList/18/Text,0,"고마워, 크리오사. 지난 주에 많은 일을 겪었잖아."
-hench_criosa,dlg,ReplyList/19/Text,0,저는 단지 당신을 확인하러 온 것이에요. 아직 지역이 충분히 안전하다고 확신하고 있어요.
+hench_criosa,dlg,ReplyList/19/Text,0,그냥 안부를 확인하러 왔습니다. 당신이 머물기에 이 지역이 충분히 안전한지 계속 살피고 있어요.
 hench_criosa,dlg,ReplyList/20/Text,0,"좋아, 다시 움직이자."
 hench_criosa,dlg,ReplyList/23/Text,0,이 지역에서 몇 가지 물건을 모아올 수 있을까요?
 hench_criosa,dlg,ReplyList/24/Text,0,나는 네가 그룹에 대한 버프 마법을 쓰도록 해달 필요가 있어.
@@ -2482,7 +2482,7 @@ hench_criosa,dlg,ReplyList/139/Text,0,내가 전에 말한 모든 것을 잊고 
 hench_criosa,dlg,ReplyList/141/Text,0,무기 전술에 대해 이야기해 보죠.
 hench_criosa,dlg,ReplyList/142/Text,0,지금은 다른 것은 바꾸고 싶지 않아.
 hench_criosa,dlg,ReplyList/144/Text,0,가까운 장거리 전투를 전혀 하지 않길 바라요. 적이 너무 가까이 있다면 멀리 떨어져라!
-hench_criosa,dlg,ReplyList/145/Text,0,공격적으로 행동하세요. 적이 6미터 이내로 다가오면 무기로 공격하세요!
+hench_criosa,dlg,ReplyList/145/Text,0,공격적으로 행동하세요. 적이 6미터 정도 안으로 다가오면 근접 공격으로 돌격하세요!
 hench_criosa,dlg,ReplyList/146/Text,0,적이 4~5미터 정도 떨어져 있는 경우 교전으로 전환해야 한다고 생각합니다.
 hench_criosa,dlg,ReplyList/147/Text,0,"미사일 무기가 너무 좋아서 적이 상대적으로 가까이 갈 때까지 기다려야 합니다. 3미터도 안 되는 거라면,"
 hench_criosa,dlg,ReplyList/148/Text,0,언제 전투와 미사일 무기 사이를 전환해야 하는지에 대한 본능에 신뢰를 두어야 합니다.
@@ -2653,7 +2653,7 @@ hench_jezelle,dlg,ReplyList/170/Text,0,내가 전에 말한 모든 것을 잊고
 hench_jezelle,dlg,ReplyList/172/Text,0,무기 전술에 대해 이야기해 보죠.
 hench_jezelle,dlg,ReplyList/173/Text,0,지금은 다른 것은 바꾸고 싶지 않아.
 hench_jezelle,dlg,ReplyList/175/Text,0,가까운 장거리 전투를 전혀 하지 않길 바라요. 적이 너무 가까이 있다면 멀리 떨어져라!
-hench_jezelle,dlg,ReplyList/176/Text,0,공격적으로 행동하세요. 적이 6미터 이내로 다가오면 무기로 공격하세요!
+hench_jezelle,dlg,ReplyList/176/Text,0,공격적으로 행동하세요. 적이 6미터 정도 안으로 다가오면 근접 공격으로 돌격하세요!
 hench_jezelle,dlg,ReplyList/177/Text,0,적이 4~5미터 정도 떨어져 있는 경우 교전으로 전환해야 한다고 생각합니다.
 hench_jezelle,dlg,ReplyList/178/Text,0,"미사일 무기가 너무 좋아서 적이 상대적으로 가까이 갈 때까지 기다려야 합니다. 3미터도 안 되는 거라면,"
 hench_jezelle,dlg,ReplyList/179/Text,0,언제 전투와 미사일 무기 사이를 전환해야 하는지에 대한 본능에 신뢰를 두어야 합니다.
@@ -2786,7 +2786,7 @@ hench_nellise,dlg,EntryList/123/Text,0,"아니, 전혀 아니, 그냥 다른 삶
 hench_nellise,dlg,ReplyList/0/Text,0,그냥 인사하러 왔어. 또 보게 되겠지.
 hench_nellise,dlg,ReplyList/1/Text,0,"아직 우리 일은 끝나지 않았어, 네일리스."
 hench_nellise,dlg,ReplyList/3/Text,0,테리누스는 어떤 임무를 수행하기 위해 당신과 내 도움이 필요하다고 생각합니다. 우리는 다시 그의 탑에 있습니다.
-hench_nellise,dlg,ReplyList/4/Text,0,네가 그보다 더 강하다는 걸 증명했어. 만약 네 신이 그가 이길 것을 원했다면... 이렇게는 안 될 걸다.
+hench_nellise,dlg,ReplyList/4/Text,0,네가 그보다 강하다는 걸 증명했잖아. 네 신이 정말 그가 이기길 바랐다면 그랬겠지... 그렇지?
 hench_nellise,dlg,ReplyList/5/Text,0,하지만 그 독재자와 싸우는 것은 옳은 일이었다!
 hench_nellise,dlg,ReplyList/6/Text,0,적어도 잠시 머물고 테리누스가 무엇을 말씀하실지 들어보는 것은 어떨까요.
 hench_nellise,dlg,ReplyList/7/Text,0,저 역시 피가 흘렸어요
@@ -2849,7 +2849,7 @@ hench_nellise,dlg,ReplyList/179/Text,0,내가 전에 말한 모든 것을 잊고
 hench_nellise,dlg,ReplyList/181/Text,0,무기 전술에 대해 이야기해 보죠.
 hench_nellise,dlg,ReplyList/182/Text,0,지금은 다른 것은 바꾸고 싶지 않아.
 hench_nellise,dlg,ReplyList/184/Text,0,가까운 장거리 전투를 전혀 하지 않길 바라요. 적이 너무 가까이 있다면 멀리 떨어져라!
-hench_nellise,dlg,ReplyList/185/Text,0,공격적으로 행동하세요. 적이 6미터 이내로 다가오면 무기로 공격하세요!
+hench_nellise,dlg,ReplyList/185/Text,0,공격적으로 행동하세요. 적이 6미터 정도 안으로 다가오면 근접 공격으로 돌격하세요!
 hench_nellise,dlg,ReplyList/186/Text,0,적이 4~5미터 정도 떨어져 있는 경우 교전으로 전환해야 한다고 생각합니다.
 hench_nellise,dlg,ReplyList/187/Text,0,"미사일 무기가 너무 좋아서 적이 상대적으로 가까이 갈 때까지 기다려야 합니다. 3미터도 안 되는 거라면,"
 hench_nellise,dlg,ReplyList/188/Text,0,언제 전투와 미사일 무기 사이를 전환해야 하는지에 대한 본능에 신뢰를 두어야 합니다.
@@ -2892,9 +2892,9 @@ hench_nellise,dlg,ReplyList/225/Text,0,이해해요 다른 것에 대해 얘기�
 hench_nellise,dlg,ReplyList/226/Text,0,"네가 해야 할 일을 했어, 자신을 탓하지 마."
 hench_nellise,dlg,ReplyList/227/Text,0,"네, 그 역할을 해냈어, 고칠 방법을 찾아야 돼, 그렇지 않으면 결코 평화를 알지 못해"
 hench_nellise,dlg,ReplyList/228/Text,0,"세상을 고대 악으로부터 구하려는 거냐? 우리는 이미 그렇게 했어! 자, 좀 기분 좋게 해. 우리가 이 모든 몬스터들을 파괴한 후에는, 넌 충분히 반성할 시간이 있을 거야."
-hench_nellise,dlg,ReplyList/229/Text,0,이게 무시할 만한 거야.
+hench_nellise,dlg,ReplyList/229/Text,0,별말씀을요.
 hench_nellise,dlg,ReplyList/230/Text,0,"그래, 잘 견디고 있네. 좋다."
-hench_nellise,dlg,ReplyList/231/Text,0,"네, 잘 들었습니다. 최근 몇 가지 중요한 문제들을 다루고 있었나 봅니다. 다시 돌아와서 다행입니다. 날개까지 함께."
+hench_nellise,dlg,ReplyList/231/Text,0,"그렇다니 다행이네요. 최근 꽤 중요한 문제들을 겪고 계셨던 게 분명하니, 돌아오셔서 기쁩니다. 날개까지 달고 말이죠."
 hench_nellise,dlg,ReplyList/232/Text,0,거기서 새로운 친구들을 만날 수 있게 해.
 hench_nellise,dlg,ReplyList/233/Text,0,"네일리스, 내가 부러워하는 것은 내 자신의 짐을 짊어져야 할 것이고"
 hench_nellise,dlg,ReplyList/234/Text,0,그래서 내가 결국 거기에 도달할 것이라고 생각하나요?
@@ -3085,7 +3085,7 @@ hench_teri,dlg,ReplyList/165/Text,0,내가 전에 말한 모든 것을 잊고 �
 hench_teri,dlg,ReplyList/167/Text,0,무기 전술에 대해 이야기해 보죠.
 hench_teri,dlg,ReplyList/168/Text,0,지금은 다른 것은 바꾸고 싶지 않아.
 hench_teri,dlg,ReplyList/170/Text,0,가까운 장거리 전투를 전혀 하지 않길 바라요. 적이 너무 가까이 있다면 멀리 떨어져라!
-hench_teri,dlg,ReplyList/171/Text,0,공격적으로 행동하세요. 적이 6미터 이내로 다가오면 무기로 공격하세요!
+hench_teri,dlg,ReplyList/171/Text,0,공격적으로 행동하세요. 적이 6미터 정도 안으로 다가오면 근접 공격으로 돌격하세요!
 hench_teri,dlg,ReplyList/172/Text,0,적이 4~5미터 정도 떨어져 있는 경우 교전으로 전환해야 한다고 생각합니다.
 hench_teri,dlg,ReplyList/173/Text,0,"미사일 무기가 너무 좋아서 적이 상대적으로 가까이 갈 때까지 기다려야 합니다. 3미터도 안 되는 거라면,"
 hench_teri,dlg,ReplyList/174/Text,0,언제 전투와 미사일 무기 사이를 전환해야 하는지에 대한 본능에 신뢰를 두어야 합니다.
@@ -3340,7 +3340,7 @@ insidiae2,dlg,EntryList/20/Text,0,"포털을 만드는 기기를 조사했고, �
 insidiae2,dlg,EntryList/21/Text,0,저는 그러한 장치가 불가능하다고 생각했었습니다. 기회가 생기면 파괴되기 전에 그것을 살펴보겠습니다.
 insidiae2,dlg,EntryList/22/Text,0,"이 매력적인 영역에서 벗어나는 유일한 출구라는 점을 고려하면, 활성화되면 시간을 낭비하지 않을 것입니다. 저는 여러분이 임무에 집중하는 것을 권장하며, 빛나는 장난감에 분산되지 않기를 제안합니다."
 insidiae2,dlg,EntryList/23/Text,0,<StartAction>[테리누스 껴안고]</Start> 우리가 죽은 후에 파괴될 때까지는 중요하지 않습니다.
-insidiae2,dlg,EntryList/24/Text,0,"이런 장치의 힘은 유혹적이지만 실질적으로는 별로 유용하지 않다. 또한 이곳이 지루하다는 것도 사실이지만, 죽지 않을 혼돈의 힘에 대항해 영원히 지키는 것은 불가능하다. 아니면, 나는 지옥의 영토에서의 안전함에 만족할 것이다."
+insidiae2,dlg,EntryList/24/Text,0,"그런 장치의 힘은 유혹적이지만 실제로는 별 쓸모가 없다고 인정하겠소. 게다가 이곳은 지겹고, 죽지 않는 혼돈의 힘에 맞서 이곳을 영원히 지켜야 하오. 아니, 난 지옥에 있는 내 영지의 안전에 만족하겠소."
 insidiae2,dlg,EntryList/25/Text,0,무기를 준비하십시오. 적은 언제든지 공격할 것입니다.
 insidiae2,dlg,EntryList/26/Text,0,"우리가 승리했다! 아바돈은 마침내 자신의 엉덩이가 접시에 내려놓이는 기분을 알게 되었다. 포털은 내 통제 아래에 있으며, 감사의 표시로, 당신이 원하는 곳으로 언제든지 보내드릴 수 있다. 적들을 파괴하고 싶지 않나?"
 insidiae2,dlg,EntryList/27/Text,0,"저는 그것을 어떻게 작동하는지 압니다, 두려워하지 마세요. 여러분이 저만큼 오랫동안 살아온 후, 몇 가지를 배웁니다. 그러한 장치들은 기본적인 양자 입자 상호작용 원리를 따르며, 양자 문자열 이론에 대한 탄탄한 이해는 어떠한 매립 장치의 기능을 이해하는 데 도움이 됩니다."
@@ -3353,7 +3353,7 @@ insidiae2,dlg,EntryList/34/Text,0,"더 이상 제게 제안할 것이 없다면,
 insidiae2,dlg,EntryList/35/Text,0,"그런 정신이다! 증오에 굴복하라, 그렇게 되면 강해질 것이다. 준비가 되면, 나가기 위해 장치를 작동시킬 것이다."
 insidiae2,dlg,EntryList/36/Text,0,"네. 하지만 네가 다시 지옥에 나타나면, 난 너를 파괴하지 않을까 봐 망설임이 없을 거야."
 insidiae2,dlg,EntryList/37/Text,0,"더 이상 제게 제안할 것이 없다면, 우리의 거래는 끝났습니다. 전투로 피곤한 제 군대는 어쨌든 떠나야 할 것입니다. 하지만 당신이 상대를 이길 수 있다고 의심합니다. 특히 제젤이 당신 옆에 있다면 더욱 그렇습니다."
-insidiae2,dlg,EntryList/39/Text,0,그럴 생각이에요. 정말로 인간들을 물리치는 것은 오랜만이에요.
+insidiae2,dlg,EntryList/39/Text,0,"아, 그럴 생각이야. 필멸자들을 실컷 물어뜯어 본 지 정말 오래됐거든."
 insidiae2,dlg,EntryList/40/Text,0,<StartAction>[제젤 웃음]</Start> 너무 밝지 않은데
 insidiae2,dlg,EntryList/41/Text,0,적들을 물리치기 위해 준비되셨습니까?
 insidiae2,dlg,EntryList/42/Text,0,너무 오래 기다리지 마라. 이 지역은 매우 안전하지 않다.
@@ -3491,7 +3491,7 @@ katsumi,dlg,EntryList/12/Text,0,"그것은 슬픈 이야기입니다. 그 이야
 katsumi,dlg,EntryList/13/Text,0,"그러나 모든 것 처럼 우리 황금 시대도 끝났다. 100 년 전, 우리는 갑자기 우리 자신 보다 훨씬 더 강력 한 다른 세계 와 전쟁 을 벌였습니다. 세부 사항은 부족하지만, 우리 는 크게 우월되었다는 것이 분명했습니다. 그럼에도 불구하고, 우리 민족이 생존의 도전에 직면하면서 전쟁은 수년 동안 계속되었다. 그러나 우리 의 최선의 노력에도 불구하고, 우리는 전쟁 을 잃었습니다. 상상 할 수 있는 가장 끔찍한 방법으로."
 katsumi,dlg,EntryList/14/Text,0,"어떤 종류의 파괴적인 무기, 하늘에서 발사되었다. 그것은 태양처럼 뜨거운 불로 우리 도시를 타격을 입었고, 여러 마일 떨어진 땅을 파괴했습니다. 파괴의 먼지가 하늘을 뒤집어, 태양이 거의 침투할 수 없을 정도로 두꺼운 구름입니다. 이것은 많은 년 동안 지속되었습니다. <StartAction>[Sato의 눈은 특별히 아무것도 쳐다보지 않지만 그녀의 마음은 의심할 여지없이 과거 사건들을 본다.]</Start> 공기는 화려한 육체의 냄새를 맡았고 하늘은 이 시간 동안 불타는 산을 비가 내렸다."
 katsumi,dlg,EntryList/15/Text,0,"전쟁 을 보지 못했지만, 그 긴 밤 을 너무 잘 기억 합니다. 20 년 전 에 불과 한 번 에 태양 이 마침내 다시 솟아 나갔지만, 우리 의 공포 에 그 는 더 이상 움직이지 않았습니다. 그 무기 들 이 우리 세상 에 무슨 해 를 끼쳤든, 그 는 더 이상 별 들 을 통해 같은 방식으로 움직이지 않았습니다. 우리 는 영원 한 암흑 속에서 살고 있지만, 세계의 다른 지역 은 분명 영구적 으로 밤 이나 끝없는 낮 빛 이 있습니다. 그래서 보시다시피, 이 세상 을 떠나기 위한 우리 의 동기는 상당히 강력 합니다."
-katsumi,dlg,EntryList/16/Text,0,"제 엔지니어들은 이 마법을 유지하기 위한 스피어가 재해 때 깨진다고 말합니다. 다시 작동시키기 위해서는 스피어를 재활성화시켜야 합니다. 그래서 우리는 여기까지 왔습니다. 제 아버지는 이 곳이 한때 이런 마법을 걸러내던 장소였다고 믿었습니다. 우리는 이 장소가 어떻게 작동하는지 알아내기 위해 수년 동안 노력했지만, 아무런 성과를 거두지 못했습니다."
+katsumi,dlg,EntryList/16/Text,0,제 기술자들 말로는 그 장치를 유지하던 주문이 대재앙 때 깨졌다고 합니다. 다시 작동시키려면 주문을 재활성화해야 합니다. 그래서 우리가 여기 온 겁니다. 아버지는 이곳이 한때 그런 마법을 걸던 장소라고 믿으셨죠. 이곳의 작동 방식을 알아내려고 여러 해 노력했지만 소용없었습니다.
 katsumi,dlg,EntryList/17/Text,0,"그 후, 난민들이 혹독한 기후로부터 보호를 구하기 위해 우리와 함께 살기 시작했습니다. 그들 중 한 명은 근처 도시의 포털 시스템이 어떻게 작동하는지의 도표를 가져왔습니다. 그 그림은 이 요새 내부의 구조와 동일했지만, 한 가지 차이점이 있었습니다 - 그 중심에는 큰 결정체가 있었습니다."
 katsumi,dlg,EntryList/18/Text,0,"그것이 우리의 믿음이며, 우리는 다이어그램이 나왔던 곳이 지금 크리스탈이 있는 곳이라고 생각했습니다. 서쪽으로 몇 시간 거리에 있는 보타이 도시의 유적지라고 생각했죠."
 katsumi,dlg,EntryList/19/Text,0,"우리는 도시로 여러 차례 탐험대를 파견했지만, 아무도 돌아오지 않았습니다. 아직 그 이유를 파악하지 못했기 때문에 자원봉사자들도 더 이상 없었습니다. 탐험대원들이 사라지는 이유를 알아내지 않는 한, 다른 사람을 보내지 않을 것입니다."
@@ -3510,7 +3510,7 @@ katsumi,dlg,EntryList/34/Text,0,"그것은 매우 이해할 수 있습니다. �
 katsumi,dlg,EntryList/35/Text,0,"하늘에서 날아온 어떤 종류의 파괴적인 무기였습니다. 그것은 태양처럼 뜨거운 불길로 우리의 도시들을 침략했고, 주변 수십 마일을 파괴했습니다. 파괴의 먼지가 하늘로 일어나, 태양조차 거의 통과할 수 없을 정도로 두꺼운 구름이 되어 하늘을 가득 채웠습니다."
 katsumi,dlg,EntryList/36/Text,0,"저는 그런 무기를 잘 알고 있습니다. 그 파괴는 재앙과 다름없습니다. 우리가 여기로 오는 길에서 분명히 확인한 바와 같이요. 당신이 그것의 도입 이후의 후유증을 겪어야 했다는 점에 대해 죄송합니다, 여사님."
 katsumi,dlg,EntryList/37/Text,0,"우리가 바깥으로 여행할 때, 당신이 보는 것을 참고하십시오. 우리가 실패하면 아이룬드를 기다리고 있는 운명이기 때문입니다."
-katsumi,dlg,EntryList/38/Text,0,가장 나쁜 일은 여러 년 동안 지속되었다. 많은 년. <StartAction>[사토의 눈은 특별히 아무것도 쳐다보지 않지만 그녀의 마음은 의심할 여지없이 오래 전의 사건을 본다.]</Start> 공기는 타는 육체의 냄새를 맡았고 하늘은 불타는 산소를 뿌리며 이 시간 동안 비를 했다.
+katsumi,dlg,EntryList/38/Text,0,"가장 끔찍한 시기는 여러 해 동안 계속되었어요. 여러 해나요. <StartAction>[사토의 눈은 특정한 곳을 바라보지 않지만, 마음속으로는 분명 오래전 일을 보고 있다.]</Start> 그동안 공기에서는 탄 살 냄새가 났고 하늘에서는 불타는 산성비가 쏟아졌어요."
 katsumi,dlg,EntryList/39/Text,0,지금까지 어디까지 진행했나요?
 katsumi,dlg,EntryList/42/Text,0,"말해봐, 태양 수정을 찾았어?"
 katsumi,dlg,EntryList/43/Text,0,부탁드립니다. 그 없이는 길을 잃을 것 같습니다.
@@ -3629,13 +3629,13 @@ lucas,dlg,EntryList/15/Text,0,"그래, 클래식은 언제나 좋지 않나, 아
 lucas,dlg,EntryList/16/Text,0,"그래, 루카스는 오래되었어."
 lucas,dlg,EntryList/17/Text,0,"너무 열정적으로 들리지 마, 애들아, 우리가 망명이나 추방을 즐기고 있는 것처럼 잘못된 인상을 줄 수도 있다!"
 lucas,dlg,EntryList/18/Text,0,"물론이죠, 귀여운 분, 무엇이든지 원하시면 됩니다. 하지만 몇 가지 임무가 있어서 무례하게 굴게 됐네요. 조금 뒤에 다시 만나겠습니다."
-lucas,dlg,EntryList/19/Text,0,<StartAction>[사피론 윙크]</Start> 내 방법이야. 토도루스.
+lucas,dlg,EntryList/19/Text,0,<StartAction>[사피론이 윙크한다.]</Start> 내 방식이 있지. 그럼 이만.
 lucas,dlg,EntryList/20/Text,0,예쁘지 않나요?
 lucas,dlg,EntryList/21/Text,0,비밀 방이 있으면 아무나 걸어다니면서 머리를 찌르면 말이 안 되겠나?
 lucas,dlg,EntryList/22/Text,0,"보통의 비밀 문이 아니야, 그 이유야! 하나는 '영구적 착각' 마법이었어. 테리누스, 누군가가 그가 원하지 않는 것을 볼 수 없게 해주렴!"
 lucas,dlg,EntryList/23/Text,0,"오, 모든 종류의 비밀이야, 진짜 비밀이야, 착각을 꺼버렸기 때문에, 그는 언젠가는 당신에게 큰 투어를 하고 싶어할 것 같아. 그래서 내가 더 이상 당신의 시간을 내 '내 끊임없는 말거리'로 쓸지 않을거야."
 lucas,dlg,EntryList/24/Text,0,"맞아, 확실히 그러고 보니 한 번도 속일 수 없어, 맞지!"
-lucas,dlg,EntryList/25/Text,0,"테리누스는 당신이 다른 일을 하기 전에 말하고 싶어 했으니, 먼저 남자와 한 말씀 나누고 돌아다니면서 쉬는 시간을 갖는 것은 어떨까요?"
+lucas,dlg,EntryList/25/Text,0,사실 테리누스가 당신이 다른 일을 하기 전에 먼저 이야기하고 싶어 했어요. 그에게 가서 느긋하게 이야기를 나누고 오세요. 그러면 사피와 제가 저녁을 준비하는 동안 쉴 수 있습니다.
 lucas,dlg,EntryList/26/Text,0,"좋아 친구, 아직 방에 있어, 먼저 알아봐요."
 lucas,dlg,EntryList/27/Text,0,"오, 더 이상 말하지 마. 내가 이래오기 전에 외국품 가게의 주인이었지. 너의 물건을 좀 사서 공간을 확보할 수 있게 도와줄게. 뭐가 있니?"
 lucas,dlg,EntryList/28/Text,0,"선생님, 손 좀 빌려줄래요?"
@@ -3662,7 +3662,7 @@ lucas,dlg,ReplyList/7/Text,0,"잠깐만, 저는 그가 전쟁의 주범이라고
 lucas,dlg,ReplyList/8/Text,0,그는 수천 명을 죽게 만든 전쟁을 일으켰습니다. 범인이라 부르는 게 더 적절할 것 같습니다.
 lucas,dlg,ReplyList/9/Text,0,"좋아, 이제 가서 말할 것 같아."
 lucas,dlg,ReplyList/10/Text,0,고마워 루카스
-lucas,dlg,ReplyList/11/Text,0,"당신이 진실을 말하고 있다고 가정하면, 몇 가지 흥미로운 것들을 열어주셨군요. 하지만 어떻게 알 수 있어요? 당신이 그의 말을 따르고 거짓말을 하고 있다는 걸요?"
+lucas,dlg,ReplyList/11/Text,0,진실을 말하고 있다고 치면 흥미롭게 생각해 볼 만한 점들을 알려 주셨군요. 하지만 당신이 그의 지시를 받고 이야기를 꾸며내는 게 아닌지 제가 어떻게 알겠습니까?
 lucas,dlg,ReplyList/12/Text,0,분명히. 곧 가서 얘기할게요. 아내가 있다고 말했잖아요. 그녀는 여기에 계신가요?
 lucas,dlg,ReplyList/13/Text,0,아내가 있다고 말했잖아. 그녀는 여기에 계신가요?
 lucas,dlg,ReplyList/14/Text,0,당연히. 서두르지 않아.
@@ -4042,7 +4042,7 @@ michel,dlg,EntryList/18/Text,0,"그리고 당신, 오늘의 영웅! 프롤리스
 michel,dlg,EntryList/19/Text,0,"여기 오래된 갑옷이 있습니다. 강력하지만... 부동화에요. 그래도 손상을 잘 견디고, 발을 떨어뜨리지 않게 해줄 거예요."
 michel,dlg,EntryList/20/Text,0,다 끝냈소. 용감한 서비스에 대한 좋은 보상입니다.
 michel,dlg,EntryList/21/Text,0,"정말 그렇습니다. 이제 저는 다시 공부로 돌아가야 합니다. 그런 일이 다시는 일어나지 않도록 하기 위해서요. 친구여, 향후 행운을 빕니다."
-michel,dlg,EntryList/22/Text,0,"강력한 마법의 자주막, 사실 저의 것이에요. 몇 년 동안 사용하지 않았지만, 여행에서 유용하게 사용하실 수 있을 거예요. 하지만 마법사나 마법사에게만 유용하긴 합니다. 그래도 좋아하시면 받으셔도 좋습니다."
+michel,dlg,EntryList/22/Text,0,"강력한 마법 지팡이입니다. 사실 제 것이죠. 몇 년째 쓰지 않았지만 여행 중 유용할지도 모릅니다. 위저드나 소서러에게만 쓸모가 있긴 하지만, 원한다면 가져가세요."
 michel,dlg,EntryList/23/Text,0,"강력한 마법의 자주막, 사실 저 자신의 것입니다. 하지만 몇 년 동안 사용하지 않았지만, 당신의 여행에서 유용하게 사용하실 수 있을 것입니다."
 michel,dlg,EntryList/24/Text,0,"네, 마지막 아이템입니다. 강력한 방패대가리 세트는 착용자에게 활사술 능력을 부여하여 전설적인 활사가로 변하게 합니다!"
 michel,dlg,EntryList/25/Text,0,어쩔 수 없이 계속해
@@ -4284,7 +4284,7 @@ pasha,dlg,ReplyList/14/Text,0,"보아, 이건 기존보다 전통적인 타이�
 pasha,dlg,ReplyList/15/Text,0,Tusone와 Aielund 사이의 상황에 대해 어떻게 생각하십니까?
 pasha,dlg,ReplyList/16/Text,0,그렇게 말할 수도 있겠네. 그들이 이 문제를 해결할 확률은 얼마일까?
 pasha,dlg,ReplyList/17/Text,0,"아일런드는 투소네 군대를 물리쳤다고 들었는데, 왜 항복하지 않았을까?"
-pasha,dlg,ReplyList/18/Text,0,확연히 그렇나 보다. 두 대사관원을 다시 대화시킬 수 있을까?
+pasha,dlg,ReplyList/18/Text,0,그런가 봐. 두 대사가 다시 대화하게 할 수 있을까?
 pasha,dlg,ReplyList/19/Text,0,"저렇게 할 수도 있겠지만, 이 상황은 누구에게도 좋지 않습니다."
 pasha,dlg,ReplyList/22/Text,0,모든 것이 처음이다.
 pasha,dlg,ReplyList/23/Text,0,생각도 망가졌어
@@ -4558,7 +4558,7 @@ rock,dlg,ReplyList/1/Text,0,밖으로 내려가
 safe,dlg,EntryList/0/Text,0,이 상자가 잠겨 있습니다. 열쇠 구멍 대신 외부 가장자리에 숫자가 배치된 회전 덤블러가 있습니다. 무엇을 하시겠습니까?
 safe,dlg,EntryList/1/Text,0,"금고는 당신보다 훨씬 튼튼하다. 몇 차례의 긴장된 시도 끝에, 여전히 이전과 같은 거리에서 열리지 않음을 발견했다."
 safe,dlg,EntryList/2/Text,0,"회전할 때, 각 숫자가 다이얼의 위를 지나갈 때 클릭 소리가 납니다."
-safe,dlg,EntryList/3/Text,0,"당신은 시계를 34번 왼쪽으로, 45번 오른쪽으로, 다시 12번 왼쪽으로 돌리면, 안전 금고가 '클렁크' 소리를 내며 이제 잠금이 풀린 것 같습니다."
+safe,dlg,EntryList/3/Text,0,"다이얼을 왼쪽으로 34, 오른쪽으로 45, 다시 왼쪽으로 12까지 돌립니다. 금고에서 덜컥 소리가 나며 잠금이 풀린 듯합니다."
 safe,dlg,ReplyList/0/Text,0,그냥 놔두자.
 safe,dlg,ReplyList/1/Text,0,세이프를 강제로 열어보라.
 safe,dlg,ReplyList/2/Text,0,덤블러를 돌리십시오.
@@ -4681,7 +4681,7 @@ sarge,dlg,EntryList/2/Text,0,"아니, 촌장은 지금 우리를 하나로 묶�
 sarge,dlg,EntryList/3/Text,0,"좋아, 그럼 나가기 위해 준비해볼게."
 sarge,dlg,EntryList/4/Text,0,올라프와 대화해 보세요.
 sarge,dlg,ReplyList/0/Text,0,"hé, 기뻐요, 잘 왔다. 여기서 얼마나 오랫동안 갇혀 있었나?"
-sarge,dlg,ReplyList/1/Text,0,저는 그렇게 생각해요. 그럼 여기서 책임은 당신이 맡으시나요?
+sarge,dlg,ReplyList/1/Text,0,그럴 줄 알았어요. 그럼 여기 책임자는 당신인가요?
 sarge,dlg,ReplyList/2/Text,0,"좋아, 촌장과 얘기해보고, 너희들을 여기서 안전하게 데려갈 수 있는지 확인해볼게."
 sarge2,dlg,EntryList/0/Text,0,"반격이 오고 있어, 남자들이!"
 scared_commoner,dlg,EntryList/0/Text,0,너무 무서워!
@@ -4815,7 +4815,7 @@ shaman,dlg,EntryList/3/Text,0,장관은 지혜로운 지도자이자 위대한 �
 shaman,dlg,EntryList/4/Text,0,"안녕하세요, 아이런더"
 shield,dlg,EntryList/0/Text,0,모든 침입자를 파괴하라.
 sign,dlg,EntryList/0/Text,0,"<StartAction>[책은 매우 오래되었고, 이상한 언어로 쓰여져 있습니다.]</Start>"
-sign,dlg,EntryList/1/Text,0,<StartCheck>[학습]</Start> 당신은 언어를 이해하려고 몇 분 동안 헛되이 노력하지만 그것의 의미를 파악할 수 없습니다.
+sign,dlg,EntryList/1/Text,0,<StartCheck>[전승 지식]</Start>몇 분 동안 그 언어를 이해하려고 애써 보지만 끝내 뜻을 알아내지 못합니다.
 sign,dlg,EntryList/2/Text,0,<StartAction>[성공.]</Start>#####################################################################################################################################################################################################################################################
 sign,dlg,ReplyList/0/Text,0,책을 닫으세요.
 sir_nigel,dlg,EntryList/0/Text,0,"어흥. 오, 안녕하세요. 오늘 토퍼링 날이네요."
@@ -4931,7 +4931,7 @@ sparky,dlg,EntryList/5/Text,0,"여기, 한번 봐."
 sparky,dlg,EntryList/6/Text,0,내 취미야. 그거랑 정말 좋은 물건 찾기. 그것도 꽤 잘해.
 sparky,dlg,EntryList/7/Text,0,"오, 보시다시피 일로 고생하고 계시네요. 좋습니다, 제가 일로 고민하고 계셨다면 아마 무엇인가를 제안할 수 있을 것 같습니다."
 sparky,dlg,EntryList/8/Text,0,"상원 지역에 사는 한 남자가 있어, 드문 그림을 수집하는 걸 좋아해."
-sparky,dlg,EntryList/9/Text,0,"하지만 하나의 물건이 정말 값비싸요. 그것은 정말 예쁜 여자의 그림이고, 이건 유일한 것일지도 모르겠습니다. 그림을 가져다 주실 수 있나요? 판매 가격은 절반씩 나눠 가지겠습니다!"
+sparky,dlg,EntryList/9/Text,0,원하시면 그렇게 하셔도 돼요. 하지만 정말 값진 물건이 하나 있어요. 아주 예쁜 여인의 그림인데 세상에 하나뿐이죠. 그 그림을 가져다주시겠어요? 팔리면 대금을 반씩 나눠 갖죠!
 sparky,dlg,EntryList/10/Text,0,"그리고 나는 그것을 팔 수 있는 곳을 알고 있으니, 거리의 가격으로 싶지 않다면 내게 가져와."
 sparky,dlg,EntryList/11/Text,0,마음 바꾼다면 바로 여기 있을 거야
 sparky,dlg,EntryList/12/Text,0,"오, 넌 똑똑한 사람이야, 내가 반아리야, 그냥 사람들에게 말하지 마"
@@ -5039,7 +5039,7 @@ stranger,dlg,EntryList/1/Text,0,<StartAction>[그 그림은 남쪽을 가리키�
 stranger,dlg,EntryList/2/Text,0,<StartAction>[그 인물은 머리를 한쪽으로 기울이고 다시 남쪽으로 가리킵니다.]</Start>
 stranger,dlg,EntryList/3/Text,0,<StartAction>[남자는 당신에게 인내심을 잃는 것처럼 보입니다. 왜냐하면 그는 두 개의 훌륭한 긴 검과 공격을 그리기 때문입니다!]</Start>
 stranger,dlg,ReplyList/1/Text,0,가만히 있어. 움직이면 죽는다.
-stranger,dlg,ReplyList/2/Text,0,"<StartAction>[아침없이 말하라.]</Start> 미안해, 당신의 말을 이해하지 못해. 나에게 해를 끼치려고는 하지 않아."
+stranger,dlg,ReplyList/2/Text,0,"<StartAction>[부드럽게 말한다.]</Start> 미안해요, 무슨 말인지 모르겠어요. 당신을 해칠 생각은 없어요."
 stranger,dlg,ReplyList/4/Text,0,"아니, 그럴 리 없어. 넌 누구야?"
 stranger,dlg,ReplyList/5/Text,0,네가 나쁜 짓을 하려고 했구나! 나에게 덤비게!
 stranger,dlg,ReplyList/6/Text,0,남쪽으로 갈게요
@@ -5120,12 +5120,12 @@ teri_citadel1,dlg,ReplyList/0/Text,0,"이곳이 보이는데, 창고처럼 보�
 teri_citadel1,dlg,ReplyList/1/Text,0,여기 우리의 목표가 정확히 무엇인가요? 자세한 정보가 필요합니다.
 teri_citadel1,dlg,ReplyList/2/Text,0,어떤 종류의 저항을 기대할 수 있나?
 teri_citadel1,dlg,ReplyList/3/Text,0,그들의 고렘들은 더 많은 괴물들을 볼 수 있을까?
-teri_citadel1,dlg,ReplyList/4/Text,0,공정한 거죠. 아직 우리가 감지되지 않았다는 건 우리가 주도권을 잡은 거죠. 가능한 한 빨리 다리로 이동하려고 합니다.
+teri_citadel1,dlg,ReplyList/4/Text,0,알겠어. 그러면 아직 발각되지 않은 게 맞지? 우리가 주도권을 쥔 셈이군. 그 이점을 최대한 살려 가능한 한 빨리 다리로 가고 싶어.
 teri_citadel1,dlg,ReplyList/5/Text,0,그럼 더 이상 시간을 끄집어내지 마시오.
 teri_citadel1,dlg,ReplyList/6/Text,0,- 맞아요
 teri_citadel2,dlg,EntryList/0/Text,0,우리가 발각되었다! 최고 지휘관의 정신 능력을 과소평가한 것 같다.
 teri_citadel2,dlg,EntryList/1/Text,0,사실. <StartAction> [발 아래 바닥이 갑자기 숨어있다.] </Start> 성곽이 움직이고 있습니다... 우리는 많은 시간을 가지 않습니다. 최고 지휘관은 땅에 대한 공격에 성곽을 배치 할 것입니다.
-teri_citadel2,dlg,EntryList/2/Text,0,그런 것 같아. <StartAction>[바닥이 갑자기 발 아래에서 뒤집어집니다.]</Start> 성전이 움직이고 있어... 우리는 많은 시간을 가질 수 없어. 최고 지휘관은 성전을 지상에 대한 공격 위치에 배치할 것이다.
+teri_citadel2,dlg,EntryList/2/Text,0,그런 것 같아. <StartAction>[바닥이 갑자기 발밑에서 흔들린다.]</Start> 성채가 움직이고 있어... 시간이 얼마 없어. 최고사령관이 지상을 공격할 수 있도록 성채의 위치를 잡고 있을 거야.
 teri_citadel2,dlg,EntryList/3/Text,0,"만약 우리가 무기를 발견하고 파괴하지 못한다면, 네. 우리는 빨리 움직여야 합니다. 무기의 방은 여기 남쪽에 있습니다. 우리는 방의 결정들을 파괴해야 합니다."
 teri_citadel2,dlg,EntryList/4/Text,0,"크리스탈을 대체하는 것 뿐이야. 하지만, 다리에 도달할 충분한 시간을 얻을 수 있어. 서둘러야 해!"
 teri_citadel2,dlg,ReplyList/0/Text,0,무슨 소리야?
@@ -5167,7 +5167,7 @@ teri_cold1,dlg,ReplyList/12/Text,0,얼어붙은 바위가 우리가 다루지 �
 teri_cold1,dlg,ReplyList/13/Text,0,어떻게?
 teri_cold1,dlg,ReplyList/14/Text,0,"실제로는 그렇게 할 수 없다고는 할 수 없지만, 어쨌든 관계 없으니. 함께 둘러보자."
 teri_cold1,dlg,ReplyList/18/Text,0,"그래, 이거 문제가 될 거야?"
-teri_ether1,dlg,EntryList/0/Text,0,"우리는 국경 에테르화 평면에 들어가고 있습니다. 이 평면은 해안에서 바다가 얕고, 바다로 나아갈수록 깊어지는 것과 같이 에테레알 평면과 연결되어 있습니다."
+teri_ether1,dlg,EntryList/0/Text,0,우리는 경계 에테르 차원에 들어가고 있습니다. 이 차원은 바닷가가 얕고 먼바다로 갈수록 깊어지는 바다처럼 에테르 차원과 연결되어 있습니다.
 teri_ether1,dlg,EntryList/2/Text,0,"사실 그렇습니다. 이곳은 아이룬드 북부, 페어로크 서쪽에 위치해 있습니다. 해빙거 강이 해안과 만나는 곳입니다. 이테럴 평면의 주머니 차원으로 통하는 문이 있습니다. 위대한 드래곤 시르나마스가 거주하고 있습니다. 우리는 이 지형을 통과하고 문으로 들어가야 합니다."
 teri_ether1,dlg,EntryList/3/Text,0,당신은 놀라운 것 같네요.
 teri_ether1,dlg,EntryList/4/Text,0,"에더는 많은 위험한 생물들이 살고 있으며, 당신은 이 점을 잘 알고 있습니다. 당신의 경계심은 비록 과장된 것처럼 보이지만, 매우 현명합니다. <StartAction>[마법사가 한 손을 흔듭니다.]</Start> 그 후."
@@ -5192,7 +5192,7 @@ teri_heaven1,dlg,EntryList/1/Text,0,실제로 당신은 약간 창백해 보입�
 teri_heaven1,dlg,EntryList/2/Text,0,그래. 놈들은... 음... 당신 같은 사람들이 있는 걸 참지 못해.
 teri_heaven1,dlg,EntryList/3/Text,0,악성.
 teri_heaven1,dlg,EntryList/4/Text,0,그것은 불변의 사실이다.
-teri_heaven1,dlg,EntryList/5/Text,0,"난 전에 신적인 존재와 싸운 적이 없지만, 당신에게 약속드립니다. 나는 그럴 때를 기다리지 않을 것입니다."
+teri_heaven1,dlg,EntryList/5/Text,0,"나는 신성한 존재와 싸워 본 적은 없지만, 싸워야 한다면 주저하지 않을 것을 약속합니다."
 teri_heaven1,dlg,EntryList/7/Text,0,"하지만, 이 세상의 존재들은 당신의 탐구에 긍정적으로 보일 수 있으며, 그들의 강력한 아이템을 주거나, 당신의 서비스를 교환하는 일정을 조정해 줄 수도 있습니다."
 teri_heaven1,dlg,EntryList/8/Text,0,"물론입니다. 저는 천상의 계단을 자주 방문할 기회가 없었습니다. 실제로, 그들은 제 존재에 대해 문제를 제기할 수도 있습니다. 제 영혼은 '순결'이라고 부르기에는 조금은 더러운 편입니다."
 teri_heaven1,dlg,EntryList/9/Text,0,이 곳이나 매우 가까운 곳에서 언젠가 나쁜 상황이 벌어질 때 결국 거기로 갈 거라고 생각합니다.
@@ -5212,7 +5212,7 @@ teri_heaven1,dlg,ReplyList/8/Text,0,당신은 그냥 추측만 하고 있지 않
 teri_heaven1,dlg,ReplyList/9/Text,0,그럼 돌아보면서 뭔가를 찾아보자.
 teri_heaven1,dlg,ReplyList/10/Text,0,이게 내가 상상했던 것보다 더 아름답습니다.
 teri_heaven1,dlg,ReplyList/11/Text,0,내가 살 수 있어 내 죽음이 필요하더라도
-teri_heaven1,dlg,ReplyList/12/Text,0,"저는 옳다고 생각하는 일을 하려고 노력합니다. 이 곳은 매우 좋지만, 죽고 나서 여기에 끝날 거라고 믿는 것은 내 결정에 아무런 영향을 미치지 않습니다."
+teri_heaven1,dlg,ReplyList/12/Text,0,"옳다고 생각하는 일을 하려고 할 뿐입니다. 이곳은 참 좋은 곳이지만, 죽은 뒤 이곳에 오게 되리라고 믿는다고 해서 제 결정이 달라지지는 않습니다."
 teri_heaven1,dlg,ReplyList/13/Text,0,"그랬겠지. 하지만 얘기는 이만하고, 이곳을 더 둘러보고 싶어. 해야 할 일이 있잖아."
 teri_heaven1,dlg,ReplyList/15/Text,0,"그래, 하지만 나는 그렇게 심각하게 생각하지 않아."
 teri_heaven1,dlg,ReplyList/16/Text,0,"저는 이미 알고 있었는데, 제 믿음이 제 생애 동안 저를 지탱해준 덕분이었고, 이제 그것이 헛되지 않았다는 것을 보았습니다."
@@ -5349,7 +5349,7 @@ terinus1,dlg,ReplyList/14/Text,0,넌 날 독살하려 하지 않나?
 terinus1,dlg,ReplyList/15/Text,0,"아니, 괜찮아. 그냥 확인하고 있었어. 같이 먹자!"
 terinus1,dlg,ReplyList/16/Text,0,"공정하다. 현재 더 긴급한 문제들이 있다면, 그보다 더 중요한 것이 있다."
 terinus1,dlg,ReplyList/21/Text,0,로버트와 동의합니다. 한 번이라도 당신의 얼굴을 보고 싶어요.
-terinus1,dlg,ReplyList/25/Text,0,대량 살인자 앞에서 그런 식사를 받아들이는 것은 힘들었습니다.
+terinus1,dlg,ReplyList/25/Text,0,연쇄 살인범과 마주 앉아 그런 식사를 하는 건 도저히 견디기 힘들었습니다.
 terinus1,dlg,ReplyList/27/Text,0,"넬, 계속 노력해"
 terinus1,dlg,ReplyList/30/Text,0,"네, 그런 식사량으로는 오랜 시간이 지났어. 고마워."
 terinus1,dlg,ReplyList/31/Text,0,"당신이 언급한 임무는 오스리크 왕을 다치게 하는 것이냐? vì 나는 정말로... 아, 네가 알아차릴 수 있을 거다... 오스리크를 다치게 하고 싶어한다."
@@ -5439,7 +5439,7 @@ terinus3,dlg,ReplyList/23/Text,0,"전에 전군을 파괴한 적이 있는데, �
 terinus3,dlg,ReplyList/24/Text,0,"그가 얼마나 많은 도움을 받든 관계 없이, 우리는 그를 막아야 한다."
 terinus3,dlg,ReplyList/25/Text,0,무슨 뜻이죠?
 terinus3,dlg,ReplyList/26/Text,0,- 맞아요
-terinus3,dlg,ReplyList/28/Text,0,저는 이 제안을 두 번째로 합니다.
+terinus3,dlg,ReplyList/28/Text,0,저도 그 제안에 찬성합니다.
 terinus3,dlg,ReplyList/30/Text,0,"아, 모르겠지만, 저는 그녀의 윤리에 대해 좀 더 자세히 조사할 수 있었을 것 같습니다."
 terinus3,dlg,ReplyList/31/Text,0,"그래, 하지만 나도 웃을 거야"
 terinus3,dlg,ReplyList/32/Text,0,"그래, 그냥 농담만 하고 있었어."
@@ -5661,7 +5661,7 @@ vale,dlg,EntryList/10/Text,0,나가 할 거야?
 vale,dlg,EntryList/11/Text,0,"이 거리를 너보다 잘 아는 사람은 없지, 내 녀석."
 vale,dlg,EntryList/12/Text,0,그건 그냥 소문일 뿐이야. 난 다른 사람처럼 아무것도 모르는 거야.
 vale,dlg,EntryList/13/Text,0,"나는 네 과거를 잘 알고 있어, 나이트하크. 해군에 가입하는 사람들을 검토할 때 배경 조사를 하지 않으려는 생각은 없나?"
-vale,dlg,EntryList/14/Text,0,<StartAction>[로난은 선장에게 노려보며 더 창백해진다.]</Start> 나는 그걸 덮었다고 생각했다.
+vale,dlg,EntryList/14/Text,0,<StartAction>[로난은 선장을 노려보며 창백해진다.]</Start> 그건 감췄다고 생각했는데. 오랫동안 아무도 날 나이트호크라고 부르지 않았어.
 vale,dlg,EntryList/15/Text,0,"로난, 나는 널 괴롭히지 않을 거야. 하지만 지금은 위험한 시기고, 네... 독특한 재능을 가진 남자들은 드물다. 정말로 네 도움이 필요해."
 vale,dlg,EntryList/16/Text,0,"선장님, 군에 들어가서 그로부터 벗어나려 했어요. 제 자신을 마주하는 것을 그리 재미있게 생각하지 않아요."
 vale,dlg,EntryList/17/Text,0,"우리 모두 해야 할 일을 해줘요, 로난."
@@ -5713,7 +5713,7 @@ veritus,dlg,EntryList/22/Text,0,언제나 그렇듯 제 주인 베네딕텀의 �
 veritus,dlg,EntryList/23/Text,0,<StartAction>[베리투스는 올라가서 날아가간다.]</Start>
 veritus,dlg,EntryList/24/Text,0,"난 언제나처럼 내 주 베네딕텀의 오른손으로 서게 될 거야, 네일리스야, 내 딸. 네가 지옥의 세력마저 이기게 되어 승리했다. 이제 마침내 내가 약속한 선물을 너에게 줄 수 있어."
 veritus,dlg,EntryList/25/Text,0,무슨 일이야?
-veritus,dlg,EntryList/26/Text,0,"승천. 굳건히 서라, 그리고 에라덴의 축복을 받아라. <StartAction>[베리투스는 미소를 지으며, 앞으로 기울어 넬리스의 이마를 만진다.]</Start>"
+veritus,dlg,EntryList/26/Text,0,승천하라. 굳건히 서서 아엘라덴의 축복을 받아라. <StartAction>[베리투스가 미소 지으며 몸을 숙여 넬리스의 이마를 만진다.]</Start>
 veritus,dlg,EntryList/27/Text,0,이제 그녀는 정말로 제 딸이 되었습니다.
 veritus,dlg,EntryList/28/Text,0,"제 딸로서 그녀는 이미 깨달음의 길을 걷고 있었습니다. 저는 단지 그 목표를 조금 더 빠르게 달성하게끔 도와주었을 뿐입니다. 제외하고는 다른 누군가에게 이런 짓을 할 수 없었습니다. 넘실레, 네 마음은 어떠한가?"
 veritus,dlg,EntryList/29/Text,0,"<StartAction>[네일리스는 그녀의 얼굴에 놀라움과 경외의 표정을 가지고 있습니다.]</Start> 나는 지금만큼의 평화를 느끼지 못했습니다. 내 영혼을 괴롭힌 모든 혼란과 도덕적 갈등이 해결되었습니다. 마침내, 나는 이제 왕과 나라를 배신하는 것이 옳다는 것을 깨닫습니다. 결국, 우리는 모두 구해 줄 것입니다.<StartAction>[강철의 결단적인 표정이 평온의 표정을 대체합니다. ]</Start> 아무것도 우리의 길에 서지 않을 것입니다. 우리의 원인은 정의롭기 때문입니다."
@@ -5743,7 +5743,7 @@ veroniqe,dlg,EntryList/11/Text,0,"그는 실제로 매우 파괴적일 정도로
 veroniqe,dlg,EntryList/13/Text,0,저는 그에 동의할 수 있다고 생각합니다.
 veroniqe,dlg,EntryList/14/Text,0,"고렘? 오, 드레드나우트라는 것을 의미하세요. 고렘은 너무 고구려한 용어인데, 그런 구조에 적합하지 않습니다."
 veroniqe,dlg,EntryList/15/Text,0,그리고 왜 이 소식을 듣지 못했나?
-veroniqe,dlg,EntryList/16/Text,0,"<StartAction>[베로니크 껴안아.]</Start> 만약 우리 친구들이 당신에게 그것에 대해 말하지 않았다면, 당신은 알아야 할 필요가 없었을 것입니다. 이 하나는 어쨌든 프로토타입입니다. 그래서 아마도 그들은 당신에게 하나를 줄 때까지 어떻게 작동하는지 지켜보고 있습니다."
+veroniqe,dlg,EntryList/16/Text,0,"<StartAction>[베로니크가 어깨를 으쓱한다.]</Start> 우리 친구들이 말해 주지 않았다면, 네가 알 필요가 없었던 거겠지. 어차피 이건 시제품이니까, 하나 주기 전에 어떻게 작동하는지 지켜보는 중일지도 몰라."
 veroniqe,dlg,EntryList/17/Text,0,"요즘은 많은 문제들에 대해 외면당하는 것 같지만, 그래도 제가 왔던 목적을 이룬 것 같으니 이제 나가보려 합니다."
 veroniqe,dlg,EntryList/19/Text,0,"베로니크, 난 네 장난감이 아니야. 사용하고 버리는 대상이 아니야. 좋은 날을!"
 veroniqe,dlg,EntryList/20/Text,0,"자기네 선택이야. 그리고 테리야? 오스릭한테 가까이 가지 마, 내 프로젝트니까, 너가 내 노력을 망치는 일은 없게."
@@ -6173,7 +6173,7 @@ xyrna,dlg,EntryList/11/Text,0,"물론이죠. 당신의 용기는 재미있네요
 xyrna,dlg,EntryList/12/Text,0,어떤 적을 말하는가?
 xyrna,dlg,EntryList/13/Text,0,"<StartAction>[드래곤은 잠시 동안 침묵으로 당신을 묵상하고, 충격에 빠진 것처럼.]</Start> 난 그래요. 오히려 불쾌한 생물들은, 왜 당신이 그들을 죽길 원하는지 알 수 있습니다. 하지만 그것은 나에게 무슨 상관이 있습니까?"
 xyrna,dlg,EntryList/14/Text,0,<StartAction>[드래곤이 귀를 긁는다.]</Start> 이곳에 손님이 몇 십 년 동안 없었던 것 같군요. 오! 딱 맞는 게 있습니다. 수수께끼!
-xyrna,dlg,EntryList/15/Text,0,"오, 그렇게 해야겠네요. 저는 많은 년간 엄청난 수수께끼를 만들어 왔고, 이제 누군가에게 풀어보려 합니다. 이렇게 말합시다, 이 게임을 흥미롭게 만들어 보죠. 당신이 올바르게 풀 수 있는 수수께끼마다, 제가 선택할 수 있는 마법의 아이템을 하나 주겠습니다. 그래서 당신은 여기 있는 이유가 바로 이것 때문인가요?"
+xyrna,dlg,EntryList/15/Text,0,"오, 그래야겠지. 나는 수년 동안 아주 골치 아픈 수수께끼들을 만들어 왔고 누군가에게 내보고 싶었어. 이렇게 하자. 흥미롭게 만들어 보겠어. 네가 수수께끼를 하나 맞힐 때마다 마법 아이템 중 하나를 네가 고를 수 있게 해주지. 그래서 여기에 온 거잖아, 그렇지?"
 xyrna,dlg,EntryList/16/Text,0,"<StartAction>[드래곤이 치밀하게 웃고 있습니다.]</Start> 그렇게 말해야겠군! 지루하지 않았다면, 나는 당신에게 이것을 제안하지 않았을 거야. 그래서 운이 좋다고 생각해라. 이제 앞에 놓인 도전을 위해 마음을 준비해라."
 xyrna,dlg,EntryList/17/Text,0,"네, 네 첫 번째 수수께끼는 눈에서 맹목, 코에서 기침을 일으킨다."
 xyrna,dlg,EntryList/18/Text,0,"죄송하지만, 올바른 답은 '연기'입니다. 하지만 여러분의 생각은 흥미롭군요. 도전을 계속할까요?"
@@ -6743,50 +6743,50 @@ area002,git,Creature List/6/FirstName,0,등불 집정관
 area002,git,Creature List/7/FirstName,0,천사의 영혼
 area002,git,Creature List/7/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/8/FirstName,0,천사의 영혼
 area002,git,Creature List/8/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/9/FirstName,0,천사의 영혼
 area002,git,Creature List/9/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/10/FirstName,0,천사의 영혼
 area002,git,Creature List/10/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/11/FirstName,0,천사의 영혼
 area002,git,Creature List/11/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/12/FirstName,0,천사의 영혼
 area002,git,Creature List/12/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/13/FirstName,0,천사의 영혼
 area002,git,Creature List/13/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/14/FirstName,0,천사의 영혼
 area002,git,Creature List/14/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/15/FirstName,0,천사의 영혼
 area002,git,Creature List/15/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/16/FirstName,0,아오이프
-area002,git,Creature List/16/Description,0,이 아름답고 신성한 존재는 평화와 조화로운 분위기로 둘러싸여 있다. 그러나 이 영역의 다른 천사들과는 다르게 보이지 않는다.
+area002,git,Creature List/16/Description,0,이 아름답고 신성한 존재는 평화와 평온의 기운에 둘러싸여 있습니다. 하지만 이 차원의 다른 천사들과는 사뭇 달라 보입니다.
 area002,git,Creature List/16/ItemList/0/LocalizedName,0,우주력 방패
 area002,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,여인복
 area002,git,Creature List/16/Equip_ItemList/2/LocalizedName,0,무즈의 망토
@@ -6795,7 +6795,7 @@ area002,git,Creature List/16/Equip_ItemList/6/LocalizedName,0,천사 숨기기
 area002,git,Creature List/17/FirstName,0,천사의 영혼
 area002,git,Creature List/17/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area002,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area002,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area002,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area002,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area002,git,Creature List/18/FirstName,0,등불 집정관
 area002,git,Door List/0/LocName,0,문
@@ -6806,7 +6806,7 @@ area002,git,WaypointList/1/MapNote,0,빛의 섬
 area003,git,Creature List/0/FirstName,0,속성골렘
 area003,git,Creature List/0/Description,0,"이 구성체는 순수한 아다망티움으로 만들어진 것 같아 보인다. 몸에서 열이 방출되는 반면, 무기는 주변 공기를 냉각시킨다. 대부분의 구성체들에 비해 이 구성체는 격조 있고 균형이 잘 잡혀 움직인다. 이 구성체를 만든 사람은 공예의 마스터였던 것 같다."
 area003,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,안드로이드 헬멧
-area003,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,수리버 갑옷
+area003,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,수은 갑옷
 area003,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"가장 훌륭 한 갑옷 으로 만들어졌는데, 이 갑옷 을 착용 하는 사람 에게도 완벽 히 어울리며, 거의 매끄러운 금속 의 옷 이 되고 있다. 그 위에 놓여 있는 마법 은 착용자 가 멈출 수, 느려질 수, 또는 그 밖 에 그 자리를 잡을 수 없도록 하여, 전사 는 전술적 이동 을 충분히 할 수 있게 한다."
 area003,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,블랙시스
 area003,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"트라이라이트의 옛 주민들이 만든 치명적인 무기 중 하나인 이 검은, 수백 년 동안 존재해온 세계의 강렬한 추위를 흡수하여 지금은 소유자의 적들을 물리치는 데 사용하고 있습니다."
@@ -7385,8 +7385,8 @@ area012,git,Creature List/2/Equip_ItemList/6/LocalizedName,0,에리니에스 숨
 area012,git,WaypointList/0/MapNote,0,출구
 area013,git,Creature List/0/FirstName,0,시르나마쿠스
 area013,git,Creature List/0/Description,0,이번에 본 가장 큰 드래곤 중 하나인 이 위대한 생물은 평면 전체에서 현명하고 냉정한 사건 관찰자로 알려져 있습니다. 전투에서의 전설적인 힘에 대한 소문도 많습니다.
-area013,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,날치기 3d4+6
-area013,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,날치기 3d4+6
+area013,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,발톱 3d4+6
+area013,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,발톱 3d4+6
 area013,git,Placeable List/11/LocName,0,훌륭 한 하파
 area013,git,Placeable List/11/Description,0,"이 환상적인 해프는 가장 고급스러운 나무로 만들어졌으며, 금과 플래티넘으로 장식되어 있으며 천사의 머리카락으로 엮여 있습니다. 이 악기는 당신이 본 적 없는 가장 뛰어난 음악 도구이며, 그 가치는 측정할 수 없습니다."
 area014,git,Creature List/0/FirstName,0,천족 복수자
@@ -7415,7 +7415,7 @@ area014,git,Creature List/6/Equip_ItemList/2/DescIdentified,0,수반의 천사�
 area014,git,Creature List/7/FirstName,0,천사의 영혼
 area014,git,Creature List/7/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area014,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area014,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area014,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area014,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area014,git,Creature List/8/FirstName,0,천사
 area014,git,Creature List/8/Description,0,"엘리시움 평면의 빛과 선의 존재. 천사들은 신들의 메시지 전달자이며, 믿음을 지키는 수호자들이다."
@@ -7471,17 +7471,17 @@ area014,git,Creature List/13/Equip_ItemList/5/LocalizedName,0,천사 숨기기
 area014,git,Creature List/14/FirstName,0,천사의 영혼
 area014,git,Creature List/14/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area014,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area014,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area014,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area014,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area014,git,Creature List/15/FirstName,0,천사의 영혼
 area014,git,Creature List/15/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area014,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area014,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area014,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area014,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area014,git,Creature List/16/FirstName,0,천사의 영혼
 area014,git,Creature List/16/Description,0,"이 존재계와 조화를 이루는 영, 한때 필사적 영역의 일부였죠."
 area014,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,천사의 헬멧
-area014,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+area014,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 area014,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,천사의 옷
 area014,git,Creature List/17/FirstName,0,등불 집정관
 area014,git,WaypointList/0/MapNote,0,세라핌 성당
@@ -8498,7 +8498,7 @@ saqarincitadel,git,Creature List/1/FirstName,0,사카리린 갑옷
 saqarincitadel,git,Creature List/1/Description,0,이 갑옷은 철왕과 유사한 베어링을 지니고 있어 매우 오래되고 기능적이지 않습니다.
 saqarincitadel,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,아이언로드 재산
 saqarincitadel,git,Creature List/2/FirstName,0,사카리린 갑옷
-saqarincitadel,git,Creature List/2/Description,0,"이 갑옷은 철왕과 비슷한 베어링을 지니고 있으며, 매우 오래되고 상태가 좋지 않습니다."
+saqarincitadel,git,Creature List/2/Description,0,철왕과 놀라울 만큼 닮은 이 갑옷은 매우 오래되었고 상태도 좋지 않습니다.
 saqarincitadel,git,Creature List/2/ItemList/0/LocalizedName,0,골렘 다리
 saqarincitadel,git,Creature List/2/ItemList/0/DescIdentified,0,제대로 작동하는 다리가 아이언로드 유형의 기계에서 나온 것처럼 보입니다.
 saqarincitadel,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,아이언로드 재산
@@ -8979,7 +8979,7 @@ thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/118/LocalizedName,0,"가�
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/119/LocalizedName,0,"가죽 염료, 빛나는 청록색"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/120/LocalizedName,0,"가죽 염색, 은"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/121/LocalizedName,0,"가죽 염료, 슬레이트"
-thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/122/LocalizedName,0,"가죽 염료, 탄색"
+thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/122/LocalizedName,0,"가죽 염료, 황갈색"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/123/LocalizedName,0,"가죽 염료, 타우프"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/124/LocalizedName,0,"가죽 염료, 태일"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/125/LocalizedName,0,"가죽 염료, 탄자리색"
@@ -9021,7 +9021,7 @@ thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/160/LocalizedName,0,"금�
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/161/LocalizedName,0,"금속 염색, 조용한 금색"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/162/LocalizedName,0,"금속 염색, 누아트 녹색"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/163/LocalizedName,0,"금속 염료, 조용한 라벤더"
-thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/164/LocalizedName,0,"금속 염색, 조용한 마루안"
+thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/164/LocalizedName,0,"금속 염료, 차분한 적갈색"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/165/LocalizedName,0,"금속 염료, 무색 파랑"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/166/LocalizedName,0,"금속 염색, 감추진 오렌지"
 thetowerofbla003,git,StoreList/0/StoreList/4/ItemList/167/LocalizedName,0,"금속 염색, 조용한 무지개"
@@ -9140,7 +9140,7 @@ module,jrl,Categories/0/EntryList/2/Text,0,오래된 갑옷을 수리하는데 �
 module,jrl,Categories/0/EntryList/3/Text,0,장갑을 수리하기 위해 필요한 모든 부품을 찾았습니다. 이제 다시 가서 테리누스가 마법을 걸어볼까요.
 module,jrl,Categories/0/EntryList/4/Text,0,"고대의 갑옷이 수리되면서 우리 팀은 훨씬 더 강력해졌어! 테리누스는 주로 방어력을 강화하기 위해 사용할 것이지만, 마법이 떨어지면 검과 같은 근접무기를 사용할 수도 있어."
 module,jrl,Categories/1/Name,0,가정
-module,jrl,Categories/1/EntryList/0/Text,0,"저는 대부분의 필사자들이 죽기 전에 경험하지 못하는 기적들을 목격했습니다 - 수반의 기적들입니다. 수반은 천상의 한 평면으로, 많은 크고 강력한 신성한 존재들이 거주하고 있으며, 저는 그 존재들의 도움을 얻을 수 있는 가능성이 매우 높습니다."
+module,jrl,Categories/1/EntryList/0/Text,0,"저는 대부분의 필멸자가 죽기 전에 경험하지 못하는 경이, 승천계를 목격했습니다. 천상 차원 중 하나인 승천계에는 위대하고 강력한 신적 존재들이 많이 살고 있으며, 그들의 도움을 받아 사카린과 싸울 가능성이 높습니다."
 module,jrl,Categories/1/EntryList/1/Text,0,"저는 하나님의 오른손인 베네딕텀 대천사를 만나게 되었습니다. 그는 사카린과 싸우는데 저를 도울 준비가 되어 있습니다. 하지만 아바돈이라는 악마의 주인과의 싸움에서 제가 그를 도울 경우에만요. 이 목적을 위해 저는 9개의 지옥으로 여행하고 인시디아에 불리는 악마를 죽이고, 그로부터 천장을 가져야 합니다. 제가 가정으로 돌아왔을 때, 베네딕텀는 나에게 천사의 힘을 가진 장비를 주어 다가오는 전투에서 저를 도울 것입니다."
 module,jrl,Categories/1/EntryList/2/Text,0,난 폭풍의 타리스마를 인시디아의 차가운 죽은 손에서 성공적으로 얻어냈어. 가능한 한 빨리 아르카나 베네딕투스에게 이것을 돌려줘야 해.
 module,jrl,Categories/1/EntryList/3/Text,0,난 폭풍의 마법을 베네딕텀에게 돌려주었고 그는 아케론의 비행기에 나와 만나 아바돈을 마주하게 될 것입니다.
@@ -9158,7 +9158,7 @@ module,jrl,Categories/4/Name,0,지옥
 module,jrl,Categories/4/EntryList/0/Text,0,"사카린과 싸우기 위해 강력한 아이템들을 찾는 중에, 나는 9개의 지옥, 잔인한 억압과 상상할 수 없는 악의 장소인 곳에 들어가기로 결정했습니다. 그들은 자신들이 무엇을 당했는지 모를 거예요."
 module,jrl,Categories/4/EntryList/1/Text,0,"지옥의 이 지역에 대한 권위를 주장하는 아치 악마에 도착했을 때, 그는 나와 대화하는 데 관심이 있다는 것을 알게되어 놀랐습니다. 신중한 호기심으로 나는 그와 토론회를 열었고, 그의 이름은 인시디아 아르치두크라는 것을 알게되었습니다. 분명히 그는 사카린과 싸우는 나의 탐구에 대해 알고 있으며, 내가 그를 도와준다면 오래된 적을 그의 왕좌를 되찾지 못하게 도와줄 것을 제안했습니다. 그를 돕기 위해, 나는 강력한 생물에 의해 점령된 주머니 차원을 입력하고, 마법의 영역을 되찾아야합니다. 영역은 분명히 인시디아이 그의 적에게 방출하고자 하는 일종의 무기입니다. 사카린 시타델에 접근하는 방법을 알려준 때 나는 의심스러웠던 모든 것은 발견되지 않았습니다. 나는 사카린과 함께 그의 일시적인 동맹을 받아들이기로 결정했습니다."
 module,jrl,Categories/4/EntryList/2/Text,0,"반신과 싸웠고, 인시디아가 원하는 구슬을 포함한 보물을 얻어왔습니다. 그는 이것을 반환함으로써 보상을 주리라 합니다."
-module,jrl,Categories/4/EntryList/3/Text,0,"저는 인시디아가 적을 물리치기 위해 필요한 공을 넘겨주었습니다. 공 안에는 말할 수 없는 혐오인 폭풍이 갇혀 있습니다. 대가로 저는 많은 강력한 무기와 사카아린 요새로 가는 길을 받았습니다. 준비가 되면, 저는 아케론 평면으로 들어가 그와 만나야 합니다. 이것은 매우 성공적인 탐구였습니다!"
+module,jrl,Categories/4/EntryList/3/Text,0,인시디아가 적을 물리치는 데 필요한 구체를 넘겼다. 구체 안에는 템페스트라는 형언할 수 없는 흉물이 봉인되어 있다. 그 대가로 강력한 무기들과 사카린 요새로 들어가는 방법을 얻었다. 준비가 되면 아케론 차원으로 가서 그를 만나야 한다. 아주 성공적인 임무였다!
 module,jrl,Categories/4/EntryList/4/Text,0,"내가 왔고, 내가 보았고, 나는 악마의 무대를 물리쳤고, 그들의 힘이 엄청났지만, 나는 더 강하다는 것을 증명했습니다. 지옥이 나를 막을 수 없다면,"
 module,jrl,Categories/5/Name,0,국경에테르화
 module,jrl,Categories/5/EntryList/0/Text,0,"국경 에테레알을 걷는 지 몇 년이 지났지만, 비행기의 무서운 시간없는 모습은 내가 여기 발을 디딘 지 얼마 되지 않은 것처럼 느껴집니다. 거대한 금 용인 살린더는 이 비행기에 주머니 차원을 가지고 있었고, 분명히 강력한 보물들을 가진 다른 용이 여기 어딘가에 있습니다."
@@ -9322,7 +9322,7 @@ balrog,utc,FirstName,0,발로그
 banshee,utc,FirstName,0,반시
 banshee,utc,Description,0,악으로 변한 아름다운 엘프 마법사의 유골은 치명적인 적입니다.
 beholder002,utc,FirstName,0,주시자
-beholder002,utc,Description,0,"시야꾼들은 강력한 적으로, 다양한 끔찍한 방법으로 적들을 무력화시킬 수 있는 존재입니다."
+beholder002,utc,Description,0,"비홀더는 강력한 적으로, 여러 끔찍한 방식으로 적을 무력화할 수 있습니다."
 beholder004,utc,FirstName,0,주시자 마법학자
 beholder004,utc,Description,0,주시자 마법사들은 눈줄의 사용을 포기하여 더 전통적인 (그러나 똑같이 치명적인) 마법의 주문을 사용합니다.
 benedictum,utc,FirstName,0,대천사 베네딕텀
@@ -9591,7 +9591,7 @@ king,utc,FirstName,0,세마스 왕
 king,utc,LastName,0,로베크
 king,utc,Description,0,"이것은 세무스 왕의 출현으로 보이며, 아이룬드의 주권자이자 크리오사의 아버지이다."
 lantern,utc,FirstName,0,등불 집정관
-legion_sth7,utc,FirstName,0,철기병
+legion_sth7,utc,FirstName,0,철의 군단병
 legion_sth7,utc,Description,0,탄탄한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁이 匠이나 괴물 匠의 전문 지식과 숙련이 필요합니다.
 leif,utc,FirstName,0,리프
 leif,utc,LastName,0,알루핀
@@ -10195,7 +10195,7 @@ zep_dabus,utc,Description,0,"땅에서 몇 인치 떠 있는 이 생물은 키�
 zep_deerdoe_001,utc,FirstName,0,멧돼지
 zep_deerfn_001,utc,FirstName,0,멧돼지
 zep_direelephant,utc,FirstName,0,끔찍한 코끼리
-zep_direelephant,utc,Description,0,이 타이탄적인 초식 동물은 어느 정도 예측 불가능하고 기분이 불안정한 편이다. 거인들은 때로는 끔찍한 코끼리를 짐승으로서의 무거운 짐 운반용으로 사용한다.
+zep_direelephant,utc,Description,0,이 거대한 초식동물들은 다소 예측하기 어렵고 변덕스럽습니다. 거인들은 때때로 다이어 엘리펀트를 탈것이나 짐 나르는 짐승으로 이용합니다.
 zep_direrabbit,utc,FirstName,0,리 토끼
 zep_direrabbit,utc,Description,0,"거칠기 토끼는 더 크고, 더 악의적인 사촌들의 버전입니다."
 zep_dklord_001,utc,FirstName,0,어둠의 주군
@@ -10439,7 +10439,7 @@ zep_ghostf_006,utc,FirstName,0,"유령, 여성 회갈색"
 zep_ghostf_006,utc,Description,0,유령들은 어떤 이유로든 무덤에서 평화롭게 쉴 수 없는 지능적인 존재들의 유령입니다.
 zep_ghostf_007,utc,FirstName,0,"유령, 여성 검은색 - 파란색"
 zep_ghostf_007,utc,Description,0,유령들은 어떤 이유로든 무덤에서 평화롭게 쉴 수 없는 지능적인 존재들의 유령입니다.
-zep_ghostf_008,utc,FirstName,0,녹색 여인유령
+zep_ghostf_008,utc,FirstName,0,"여성 유령, 검정-초록"
 zep_ghostf_008,utc,Description,0,유령들은 어떤 이유로든 무덤에서 평화롭게 쉴 수 없는 지능적인 존재들의 유령입니다.
 zep_ghostf_009,utc,FirstName,0,"유령, 여성 검은색 - 빨간색"
 zep_ghostf_009,utc,Description,0,유령들은 어떤 이유로든 무덤에서 평화롭게 쉴 수 없는 지능적인 존재들의 유령입니다.
@@ -10670,13 +10670,13 @@ zep_mcenti_002,utc,Description,0,"괴물 백발들은 음식과 비슷한 모든
 zep_mcenti_003,utc,FirstName,0,"괴물 백발, 소형"
 zep_mcenti_003,utc,Description,0,"괴물 백발들은 음식과 비슷한 모든 것을 공격하는 경향이 있으며, 턱으로 물어 독을 주입합니다."
 zep_meenlock1,utc,FirstName,0,메인록
-zep_meenlock1,utc,Description,0,"메인락은 인간형 생물의 괴상하고 왜곡된 패러디이다. 높이는 약 2피트 정도지만, 몸은 구부러지고 변형되어 있어, 바닥에 손처럼 사용되는 꽤나 이상한 꼬부라진 발톱을 끌고 다닌다. 피부는 톱니바닥처럼 끈적한 스파인과 고통스러운 궤양으로 덮여 있다."
+zep_meenlock1,utc,Description,0,"민록은 인간형 생물을 뒤틀어 기괴하게 흉내 낸 존재입니다. 키는 약 2피트지만 등이 굽고 몸이 변형되어, 손처럼 쓰는 갈고리 발톱을 땅에 끌고 다닙니다. 피부는 덥수룩한 가시와 고통스러운 궤양으로 뒤덮여 있습니다."
 zep_meenlock2,utc,FirstName,0,메인록
-zep_meenlock2,utc,Description,0,"메인락은 인간형 생물의 괴상하고 왜곡된 패러디이다. 높이는 약 2피트 정도지만, 몸은 구부러지고 변형되어 있어, 바닥에 손처럼 사용되는 꽤나 이상한 꼬부라진 발톱을 끌고 다닌다. 피부는 톱니바닥처럼 끈적한 스파인과 고통스러운 궤양으로 덮여 있다."
+zep_meenlock2,utc,Description,0,"민록은 인간형 생물을 뒤틀어 기괴하게 흉내 낸 존재입니다. 키는 약 2피트지만 등이 굽고 몸이 변형되어, 손처럼 쓰는 갈고리 발톱을 땅에 끌고 다닙니다. 피부는 덥수룩한 가시와 고통스러운 궤양으로 뒤덮여 있습니다."
 zep_meenlock3,utc,FirstName,0,메인록
-zep_meenlock3,utc,Description,0,"메인락은 인간형 생물의 괴상하고 왜곡된 패러디이다. 높이는 약 2피트 정도지만, 몸은 구부러지고 변형되어 있어, 바닥에 손처럼 사용되는 꽤나 이상한 꼬부라진 발톱을 끌고 다닌다. 피부는 톱니바닥처럼 끈적한 스파인과 고통스러운 궤양으로 덮여 있다."
+zep_meenlock3,utc,Description,0,"민록은 인간형 생물을 뒤틀어 기괴하게 흉내 낸 존재입니다. 키는 약 2피트지만 등이 굽고 몸이 변형되어, 손처럼 쓰는 갈고리 발톱을 땅에 끌고 다닙니다. 피부는 덥수룩한 가시와 고통스러운 궤양으로 뒤덮여 있습니다."
 zep_meenlock4,utc,FirstName,0,메인록
-zep_meenlock4,utc,Description,0,"메인락은 인간형 생물의 괴상하고 왜곡된 패러디이다. 높이는 약 2피트 정도지만, 몸은 구부러지고 변형되어 있어, 바닥에 손처럼 사용되는 꽤나 이상한 꼬부라진 발톱을 끌고 다닌다. 피부는 톱니바닥처럼 끈적한 스파인과 고통스러운 궤양으로 덮여 있다."
+zep_meenlock4,utc,Description,0,"민록은 인간형 생물을 뒤틀어 기괴하게 흉내 낸 존재입니다. 키는 약 2피트지만 등이 굽고 몸이 변형되어, 손처럼 쓰는 갈고리 발톱을 땅에 끌고 다닙니다. 피부는 덥수룩한 가시와 고통스러운 궤양으로 뒤덮여 있습니다."
 zep_mezzoloth,utc,FirstName,0,메즐로트
 zep_mezzoloth,utc,Description,0,"메소로스는 인간 크기의 곤충과 비슷한 모양을 하고 있으며, 무거운 치틴으로 덮여 있고 네 개의 뾰족한 발톱이 달린 다리를 가지고 있다. 분노할 때 광대한 눈이 빨간색으로 빛나는데, 거의 항상 그렇다. 전투에 배치될 때, 메소로스는 트리던트를 휘두르고 방패를 들고 있다. 메소로스는 높이 7피트이고 무게는 250파운드이다."
 zep_minionenvy,utc,FirstName,0,질투의 종속자
@@ -10853,7 +10853,7 @@ zep_shguard_010,utc,FirstName,0,"방패 수호자, 러스트"
 zep_shguard_011,utc,FirstName,0,"방패 수호자,"
 zep_shguard_012,utc,FirstName,0,"방패 수호자, 나무"
 zep_shlord,utc,FirstName,0,그림자 주군
-zep_shlord,utc,Description,0,"어둠과 위험한 존재들로부터 오는 더러운 저차원에서, 그림자 왕들은 굶주림이나 갈증을 느끼지 않아, 악을 행하기만을 위해 공격한다."
+zep_shlord,utc,Description,0,"두려운 하위 차원계에서 온 어둡고 위험한 생물인 그림자 군주들은 굶주리거나 목마르지 않으며, 오직 악을 행하려는 욕망을 채우기 위해 공격합니다."
 zep_skeldyn_001,utc,FirstName,0,"해골, 동적"
 zep_smiley,utc,FirstName,0,미소
 zep_smiley,utc,Description,0,"마네스 (Manes) 는 3피트 높이의 인간형이고, 은 껍질이 고, 벌레가 고 있습니다. 그들의 흰 눈은 감각의 징후를 보이지 않지만, 그들의 손톱과 은 치아들은 그들의 야생 본성을 배신합니다."
@@ -11130,7 +11130,7 @@ angel_hide,uti,LocalizedName,0,천사 속성
 angelfyre,uti,LocalizedName,0,엔젤파이어
 angelfyre,uti,DescIdentified,0,천사의 개인 무기인 이 강력한 검은 존재의 모든 평면에서 악을 몰아내는 무기이다. 최근에는 망명한 기사의 무덤을 지키던 천사의 소유였었다.
 angelhelm,uti,LocalizedName,0,천사 모자
-angelhelm,uti,DescIdentified,0,"이 축복받은 허드는 승천의 천사들의 선물로, 믿음과 함께 갖는 겸손과 경건을 상징하며, 사제 생활 방식으로 얻을 수 있는 지혜와 존경을 상징한다. 착용자는 그에 따라 어둠의 힘에 대항하여 보호를 받는다."
+angelhelm,uti,DescIdentified,0,"승천의 천사들이 준 이 축복받은 두건은 신앙에 따르는 겸손과 경건함, 사제의 삶을 통해 얻을 수 있는 지혜와 존경을 상징합니다. 착용자는 어둠의 세력으로부터 보호받습니다."
 angelichood,uti,LocalizedName,0,천사 모자
 angelichood,uti,Description,0,이 어두운 후드는 착용자의 얼굴을 그림자로 완전히 가려 준다.
 angelichood,uti,DescIdentified,0,마법사들이 자주 선호하는 이 옷은 작은 부정적인 측면에도 불구하고 대학의 마법사들이 만든 인기 있는 아이템 중 하나이다.
@@ -11253,7 +11253,7 @@ bootsofagility,uti,LocalizedName,0,민첩성 장화
 bootsofmomentum,uti,LocalizedName,0,모멘텀 장화
 bootsofsilentwal,uti,LocalizedName,0,무음화 장화
 bootsoftravellin,uti,LocalizedName,0,여행 부츠
-bootsoftravellin,uti,DescIdentified,0,"이 견고한 부츠는 탁월한 밟음성과 뛰어난 수분방지 성능을 가지고 있지만, 주요 매력은 착용 중 여행 속도를 높일 수 있는 능력입니다."
+bootsoftravellin,uti,DescIdentified,0,이 튼튼한 부츠는 밑창의 접지력이 뛰어나고 방수성도 높습니다. 가장 큰 장점은 신고 다니면 이동 속도가 빨라진다는 점입니다.
 bootsofunrelenti,uti,LocalizedName,0,놀랍게 잡는 장화
 bracerofarmourpr,uti,LocalizedName,0,마법으로 강화된 방어술 손목 보호대
 bracerofarmourpr,uti,DescIdentified,0,"이 팔찌는 착용자에게 가슴갑옷, 체인메일, 스칼메일 등을 착용할 수 있는 능력을 부여한다. 평면의 전투마법사들을 위해 제작된 이 팔찌는 다른 이점도 제공한다."
@@ -11407,7 +11407,7 @@ crpi_g_blackopal,uti,DescIdentified,0,"흑색의 오팔은 매우 드물고, 종
 crpi_g_blacksaph,uti,LocalizedName,0,블랙 사파이어
 crpi_g_blacksaph,uti,DescIdentified,0,"사피어의 검은색 버전은 매우 드물고 어두운 예술을 실천하는 사람들, 특히 어두운 엘프들에게 종종 소중히 여겨집니다."
 crpi_g_diamond,uti,LocalizedName,0,다이아몬드
-crpi_g_diamond,uti,DescIdentified,0,"다이아몬드는 보통 무색이다. 그러나, 그해에 따라 갈색, 노란색, 녹색, 파란색, 보라색, 분홍색, 빨간색, 회색, 검은색의 변형도 발견된다. 보석에 사용되는 다이아몬드는 파란색 흰색에서 노란색으로 색을 기준으로 분류된다. 다이아몬드의 딱딱함, 밝기와 반짝이는 점이 보석으로 우월하지 않습니다."
+crpi_g_diamond,uti,DescIdentified,0,"다이아몬드는 보통 무색입니다. 하지만 포함된 불순물에 따라 갈색, 노란색, 녹색, 파란색, 보라색, 분홍색, 빨간색, 회색, 검은색 다이아몬드도 발견됩니다. 보석용 다이아몬드는 청백색에서 노란색까지 색을 기준으로 등급을 매깁니다. 다이아몬드는 단단하고 광채와 반짝임이 뛰어나 다른 보석이 따라올 수 없습니다."
 crpi_g_emerald,uti,LocalizedName,0,에메랄드
 crpi_g_emerald,uti,DescIdentified,0,"에스메랄다는 매력적인 보석이다. 그들은 상상할 수 있는 가장 아름다운, 가장 강렬하고 가장 빛나는 녹색을 가지고 있으며, 에스메랄다 녹색이라고 한다. 품질 좋은 에스메랄다는 다이아몬드보다 더 가치가 있다."
 crpi_g_fireopal,uti,LocalizedName,0,화염 오팔
@@ -11425,7 +11425,7 @@ crpi_g_starsapph,uti,DescIdentified,0,이것들은 보통의 사파이어처럼 
 crpi_graphook,uti,DescIdentified,0,"이 튼튼한 강철 갈고리는 견고하면서도 가볍다. 갈고리 꼬리 쪽 고리에 밧줄을 묶을 수 있다.
 
 밧줄을 대상으로 지정하면 갈고리가 그 끝에 고정된다."
-crpi_graprope,uti,LocalizedName,0,로프와 매달리기 줄
+crpi_graprope,uti,LocalizedName,0,밧줄과 갈고리
 crpi_graprope,uti,DescIdentified,0,이 견고한 길이는 한 끝 에 붙어 있는 밧줄 이 준비 된 모험가 들 에게 필수품 이다. 밧줄 을 坑 에 내려 놓을 수 있는 구덩이 범위 내에서 사용 한다. 그 에 밧줄 을 잡으려는 시도 를 하기 위해 밧줄 을 밧줄 의 범위 내에서 사용 한다.
 crpi_ironspikes,uti,LocalizedName,0,아이언 가시못
 crpi_ironspikes,uti,Description,0,"철 스피크 는 모험가 들 에게 여러 가지 방법 으로 유용 하다. 땅 이나 벽 에 꽂힌 경우, 스피크 를 이용 하여 문 을 열거나 닫거나 등산 도구 로 사용 하거나 로프 를 붙여 낸다."
@@ -11636,7 +11636,7 @@ dyel02,uti,LocalizedName,0,"가죽 염료, 갈색"
 dyel03,uti,LocalizedName,0,"가죽 염색, 어두운 갈색"
 dyel04,uti,LocalizedName,0,"가죽 염색, 가장 가벼운 갈색"
 dyel05,uti,LocalizedName,0,"가죽 염료, 약간의 갈색"
-dyel06,uti,LocalizedName,0,"가죽 염료, 탄색"
+dyel06,uti,LocalizedName,0,"가죽 염료, 황갈색"
 dyel07,uti,LocalizedName,0,"가죽 염색, 어두운 갈색"
 dyel08,uti,LocalizedName,0,"가죽 염색, 가장 가벼운 베이지색"
 dyel09,uti,LocalizedName,0,"가죽 염색, 가벼운 흰색"
@@ -11720,7 +11720,7 @@ dyem23,uti,LocalizedName,0,"금속 염색, 어두운 구리"
 dyem24,uti,LocalizedName,0,"금속 염색, 빨간색"
 dyem25,uti,LocalizedName,0,"금속 염색, 마르누"
 dyem26,uti,LocalizedName,0,"금속 염색, 조용한 빨간색"
-dyem27,uti,LocalizedName,0,"금속 염색, 조용한 마루안"
+dyem27,uti,LocalizedName,0,"금속 염료, 차분한 적갈색"
 dyem28,uti,LocalizedName,0,"금속 염색, 보라색"
 dyem29,uti,LocalizedName,0,"금속 염색, 어두운 보라색"
 dyem30,uti,LocalizedName,0,"금속 염료, 라벤더"
@@ -11859,7 +11859,7 @@ fullplate024,uti,DescIdentified,0,"이 환상적인 갑옷은 빛에 반짝이�
 fullplate025,uti,LocalizedName,0,흡혈귀 전비
 fullplate026,uti,LocalizedName,0,사교도의 갑옷
 fullplate027,uti,LocalizedName,0,판금 갑옷
-fullplate028,uti,LocalizedName,0,수리버 갑옷
+fullplate028,uti,LocalizedName,0,수은 갑옷
 fullplate028,uti,DescIdentified,0,"가장 훌륭 한 갑옷 으로 만들어졌는데, 이 갑옷 을 착용 하는 사람 에게도 완벽 히 어울리며, 거의 매끄러운 금속 의 옷 이 되고 있다. 그 위에 놓여 있는 마법 은 착용자 가 멈출 수, 느려질 수, 또는 그 밖 에 그 자리를 잡을 수 없도록 하여, 전사 는 전술적 이동 을 충분히 할 수 있게 한다."
 fullplate029,uti,LocalizedName,0,악마 전장갑
 gauntletsofthebr,uti,LocalizedName,0,강력한 장갑
@@ -11870,7 +11870,7 @@ gauntletsofun002,uti,LocalizedName,0,불굴의 힘을 가진 장갑
 gauntletsofun002,uti,DescIdentified,0,"이 장갑은 강력한 마법으로 강화되어 있고, 특정 보편적인 진동에 맞춰져 있습니다. 이 특정 장갑은 우주의 어두운 면에서 힘을 얻어 사제에게 삶과 죽음에 대한 힘을 주는 장갑입니다."
 gauntletsofunive,uti,LocalizedName,0,범용 조화의 장갑
 gauntletsofunive,uti,DescIdentified,0,"이 장갑은 강력한 마법으로 강화되었으며, 특정 보편적인 진동에 맞춰져 있습니다. 이 장갑 쌍은 보편적 조화를 통해 힘을 얻어 승려에게 자연의 균형에 영향을 미치는 능력을 부여합니다."
-gelugonhide,uti,LocalizedName,0,젤로건 숨기기
+gelugonhide,uti,LocalizedName,0,겔루곤 가죽
 gelugonsting,uti,LocalizedName,0,젤로건 스팅
 ginseng,uti,LocalizedName,0,"약초, 지인센"
 ginseng,uti,DescIdentified,0,"외국에서는 활력과 기운을 유지하려고 흔히 쓰이지만 아이엘룬드에서는 훨씬 드물어서, 원기를 북돋는 효능 때문에 그만큼 귀하게 여겨진다."
@@ -11944,7 +11944,7 @@ herb,uti,DescIdentified,0,"이 허브는 강력한 치유제로 사용되며, �
 herbbelladonna,uti,LocalizedName,0,"허브, 벨라도나"
 herbbelladonna,uti,DescIdentified,0,이 단순한 허브는 늑대 늑대와 다른 형태 변신자로부터 보호한다고 생각됩니다.
 herbgarlic,uti,LocalizedName,0,"허브, 마늘"
-herbgarlic,uti,DescIdentified,0,요리에 자주 사용되는 마늘은 또한 강력한 냉정제입니다.
+herbgarlic,uti,DescIdentified,0,요리에 흔히 쓰이는 마늘은 강력한 퇴치제이기도 합니다.
 herbgoldenseal,uti,LocalizedName,0,"허브, 금은초"
 herbgoldenseal,uti,DescIdentified,0,희귀하고 비싼 허브인 골든 시일은 몸을 병에 대항하여 강화시키고 정신을 맑게 합니다.
 holyshield,uti,LocalizedName,0,성스러운 에지스
@@ -12051,7 +12051,7 @@ it_crewpsp019,uti,LocalizedName,0,뷰드워커 스라이프
 it_crewpsp020,uti,LocalizedName,0,잃은 한 발톱
 it_crewpsp021,uti,LocalizedName,0,손톱 3d4+4
 it_crewpsp022,uti,LocalizedName,0,그림자호랑이 발톱 5d6+5
-it_crewpsp023,uti,LocalizedName,0,날치기 3d4+6
+it_crewpsp023,uti,LocalizedName,0,발톱 3d4+6
 it_crewpsp024,uti,LocalizedName,0,악몽의 손톱
 it_crewpsp029,uti,LocalizedName,0,코크라콘 할퀴기1d4 + 1
 it_crewsw004,uti,LocalizedName,0,발러 검
@@ -12192,7 +12192,7 @@ item024,uti,DescIdentified,0,한때 용병사령자 비고 수데텐의 소유�
 item025,uti,LocalizedName,0,시각장애인
 item025,uti,DescIdentified,0,이 무기는 투소네의 스미스 마스터가 된 게스톤의 표적을 가지고 있습니다.
 item026,uti,LocalizedName,0,장군의 쪽지
-item026,uti,DescIdentified,0,"이 종이에 적힌 직원 노트는 전쟁에 관한 것이며, 군대의 움직임과 물류 보고서 등이 포함되어 있습니다. 아일엘랜드 점령이 목표 중 하나로 기록되어 있었으나, 지금은 취소되어 있습니다."
+item026,uti,DescIdentified,0,"이 종이에는 전쟁 참모 기록이 적혀 있습니다. 병력 이동과 군수 보고서 등이 담겨 있죠. 아이엘룬드 점령도 목표 중 하나로 적혀 있었지만, 지금은 취소선이 그어져 있습니다."
 item027,uti,LocalizedName,0,니르바나의 승려의 깃이
 item028,uti,LocalizedName,0,평면의 닌자
 item028,uti,Description,0,이 검은 닌자 의 표준 검 이라고 한다. 하지만 의심 할 여지 없이 이 암살자 들 은 그들의 일 라인 에서 여러 종류의 검 을 사용 하였다. 이 특정 검 은 카타나 의 약 2/3 정도 길 이므로 신체 에서 숨기기 를 쉬워 한다.
@@ -12282,7 +12282,7 @@ marutslam2,uti,LocalizedName,0,마루트 슬램 2
 masterworkcompos,uti,LocalizedName,0,장인제작 복합 장궁
 masterworkcompos,uti,DescIdentified,0,"훌륭한 공예품, 이 품질의 활은 아이룬드에서 매우 드물지만 수집가들 사이에서 매우 소중합니다."
 mcloth014,uti,LocalizedName,0,마법사 의복
-mcloth014,uti,DescIdentified,0,페어로크의 비전 원에서 사용하도록 설계된 이 의복은 해외로 여행하고 전투에 참여하려는 중급 마법사들에게 유용하다. 적의 마법에 저항하고 활사공에 대한 방어막을 제공한다.
+mcloth014,uti,DescIdentified,0,페어로흐의 비전술사단에서 사용하도록 만든 이 예복은 먼 곳을 여행하고 전투에 나서는 숙련 마법사에게 유용합니다. 적의 마법에 저항력을 주고 궁수의 공격을 막는 방어막을 제공합니다.
 mcloth015,uti,LocalizedName,0,마법사의 전쟁 의복
 mcloth015,uti,DescIdentified,0,페어로크의 비전 원에서 사용하도록 설계된 이 의복은 해외로 여행하고 전투에 참여하려는 공예 마법사들에게 유용합니다. 적의 마법에 저항하고 활사공에 대한 방어 보호막을 제공합니다.
 mcloth016,uti,LocalizedName,0,블랙 마법사의 로브
@@ -12377,7 +12377,7 @@ originaielund3,uti,LocalizedName,0,아일런드 왕국의 짧은 역사 3부
 originaielund3,uti,DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
 origintusone,uti,LocalizedName,0,투소네 왕국의 짧은 역사
 origintusone,uti,DescIdentified,0,이 권 책은 이 왕국의 일부 역사에 대해 상세히 설명한다.
-oschorehide,uti,LocalizedName,0,오스코어 숨음
+oschorehide,uti,LocalizedName,0,오스코어 가죽
 osricsbreastpl,uti,LocalizedName,0,오스릭의 가슴판갑
 osyluthhide,uti,LocalizedName,0,오실루스 숨기기
 osyluthsting,uti,LocalizedName,0,오실루스 스팅
@@ -12997,9 +12997,9 @@ zep_cre_emtg,uti,Description,0,"보석으로 만든 치아, 비자연적인 빛�
 zep_cre_emtg,uti,DescIdentified,0,"보석으로 만든 치아, 비자연적인 빛으로 빛나는 치아"
 zep_cre_illit001,uti,LocalizedName,0,사'쿠아린 피스트
 zep_cre_leviatha,uti,LocalizedName,0,레비아탄 속성
-zep_cre_maug2sw,uti,Description,0,이 돌 무기는 엄청나게 무겁고 불편해서 잘 다루기 어렵습니다. 특히 마우그의 손에 있을 때만 그 진정한 힘을 발휘합니다.
-zep_cre_maugpulv,uti,Description,0,이 돌 무기는 엄청나게 무겁고 불편해서 잘 다루기 어렵습니다. 특히 마우그의 손에 있을 때만 그 진정한 힘을 발휘합니다.
-zep_cre_maugwh4,uti,Description,0,이 돌 무기는 엄청나게 무겁고 불편해서 잘 다루기 어렵습니다. 특히 마우그의 손에 있을 때만 그 진정한 힘을 발휘합니다.
+zep_cre_maug2sw,uti,Description,0,이 돌 무기들은 엄청나게 무겁고 다루기 어렵습니다. 마우그의 손에 들렸을 때만 예외입니다.
+zep_cre_maugpulv,uti,Description,0,이 돌 무기들은 엄청나게 무겁고 다루기 어렵습니다. 마우그의 손에 들렸을 때만 예외입니다.
+zep_cre_maugwh4,uti,Description,0,이 돌 무기들은 엄청나게 무겁고 다루기 어렵습니다. 마우그의 손에 들렸을 때만 예외입니다.
 zep_cre_mflay001,uti,LocalizedName,0,사쿠아린 속성
 zep_cre_mflay002,uti,LocalizedName,0,사카린의 속성
 zep_cre_mskel001,uti,LocalizedName,0,마법 스켈레톤 펀 +1
@@ -13280,7 +13280,7 @@ loot_bones_obj,utp,LocName,0,뼈
 loot_bones_obj,utp,Description,0,이 시체는 부서져서 조각으로 되어있어.
 metal_panel,utp,LocName,0,금속 판넬
 metal_panel,utp,Description,0,이것은 낯선 디자인의 작은 제어판입니다.
-metalpitpcbl,utp,LocName,0,금속 굴리
+metalpitpcbl,utp,LocName,0,금속 구덩이
 mythal,utp,LocName,0,전력 생성기
 mythal001,utp,LocName,0,엔진
 painting,utp,LocName,0,그림
@@ -13540,7 +13540,7 @@ zep_ce_car_013,utp,LocName,0,마차 (일)
 zep_ce_car_013,utp,Description,0,왕실의 코치
 zep_ce_chm_001,utp,LocName,0,하플링 침로 - 사각형
 zep_ce_chm_002,utp,LocName,0,하플링 침로 - 전체 벽
-zep_ce_chm_003,utp,LocName,0,하플링 피로 - 3 스택
+zep_ce_chm_003,utp,LocName,0,하플링 굴뚝 - 3단
 zep_ce_chm_004,utp,LocName,0,하플링 침지 - 사각형 (모시 덮인)
 zep_ce_chm_005,utp,LocName,0,하프링 니 - 높이가 평방
 zep_ce_flw_001,utp,LocName,0,심어 놓은 꽃 - 흰색/노란색
@@ -13931,11 +13931,11 @@ zep_lizardflk001,utp,LocName,0,호랑이인 험난한 동물 1
 zep_lizardflk001,utp,Description,0,둥근 물체
 zep_lizardflk002,utp,LocName,0,도마뱀인 danglies 2
 zep_lizardflk002,utp,Description,0,둥근 물체
-zep_lizardflk003,utp,LocName,0,도마뱀인 울타리
+zep_lizardflk003,utp,LocName,0,도마뱀인 장물아비
 zep_lizardflk003,utp,Description,0,둥근 물체
 zep_lizardflk004,utp,LocName,0,도마뱀인 울타리 문
 zep_lizardflk004,utp,Description,0,벽
-zep_lizardflk005,utp,LocName,0,도마뱀인 울타리
+zep_lizardflk005,utp,LocName,0,도마뱀인 장물아비
 zep_lizardflk005,utp,Description,0,벽.
 zep_lizardflk006,utp,LocName,0,도마뱀인 캐미오 문
 zep_lizardflk006,utp,Description,0,문.
@@ -13944,11 +13944,11 @@ zep_lizardflk007,utp,Description,0,한 집
 zep_lizardflk008,utp,LocName,0,호랑이집 2
 zep_lizardflk008,utp,Description,0,한 집
 zep_lizardflk009,utp,LocName,0,"도마뱀인 호루라기, 녹색"
-zep_lizardflk009,utp,Description,0,과일
+zep_lizardflk009,utp,Description,0,조롱박 하나
 zep_lizardflk010,utp,LocName,0,"도마뱀인 곰브, 보라"
-zep_lizardflk010,utp,Description,0,과일
+zep_lizardflk010,utp,Description,0,조롱박 하나
 zep_lizardflk011,utp,LocName,0,"도마뱀인 곰솔, 노랑"
-zep_lizardflk011,utp,Description,0,과일
+zep_lizardflk011,utp,Description,0,조롱박 하나
 zep_lizardflk012,utp,LocName,0,"도마뱀인 병기, lg"
 zep_lizardflk012,utp,Description,0,한 항아리
 zep_lizardflk013,utp,LocName,0,"도마뱀인 병기, 메디"
@@ -14312,4 +14312,4 @@ scriptedscene001,utt,LocalizedName,0,스크립트된 장면 NPC
 scriptedscene002,utt,LocalizedName,0,시나리오 장면 생성
 scriptedscene003,utt,LocalizedName,0,스크립트된 장면 스파운 + 실행
 wallbladetrap,utt,LocalizedName,0,벽 낫 함정
-whirlingbladetra,utt,LocalizedName,0,회전 검 갑옷 함정
+whirlingbladetra,utt,LocalizedName,0,회전 칼날 함정
