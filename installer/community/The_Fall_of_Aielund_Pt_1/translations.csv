@@ -31,7 +31,7 @@ hocarumruins,are,Name,0,호카룸 사막 - 폐허가 된 사원
 knighting,are,Name,0,배신
 lazylion2,are,Name,0,포트 하이마르치 - 2층 텐이 라이온 인
 magetower,are,Name,0,미르펠 - 마법탑
-myrarcher,are,Name,0,"머펠 - 더 롱샷, 화살공 & 화살조각공"
+myrarcher,are,Name,0,"미르펠 - 롱샷, 활과 화살 장인"
 myrfellsmithy,are,Name,0,미어펠 대장간
 scarlet,are,Name,0,스카르렛 레디 탑승
 ship2,are,Name,0,북쪽별에 탑승
@@ -120,7 +120,7 @@ ariel,dlg,EntryList/22/Text,0,"아, 너무 겸손하지 마, 그 괴물과의 �
 ariel,dlg,EntryList/24/Text,0,난 항상 내 사람들을 돌봐요
 ariel,dlg,EntryList/25/Text,0,폐하! 여기서 무엇을 하시는지요?
 ariel,dlg,EntryList/26/Text,0,내가 고향을 지키기 위해 하이마르크로 가는 거야
-ariel,dlg,EntryList/27/Text,0,하지만 이 일에 마음을 뺏기고 있는 걸 볼 수 있네.
+ariel,dlg,EntryList/27/Text,0,"많이. 하지만 어, 이걸 꼭 하고 싶은 모양이군."
 ariel,dlg,EntryList/28/Text,0,그건 뭐라고?
 ariel,dlg,ReplyList/0/Text,0,"안녕하세요, 다시 말씀드리겠습니다. 그리고 저는 아마 아일런드의 <Lord/Lady>가 되었으면 합니다."
 ariel,dlg,ReplyList/1/Text,0,"그녀가 그러셨지만, 여기서 추억하러 온 것은 아니니, 그것이 즐거웠다 해도 굳이 그런 것은 아니야. 여기서 군사상황이 발생하고 있다는 것을 이해하고 있어."
@@ -462,7 +462,7 @@ chamberguard,dlg,EntryList/3/Text,0,"안돼, 안돼!"
 chamberguard,dlg,EntryList/4/Text,0,"<StartAction>[성공]</Start>...안전보다 좋지 않지만, 어차피 이렇게 됐으니 나아가보는 게 좋겠어. 하지만 이 부분에 대해선 확신이 없네. 내가 도움을 좀 가져오마."
 chamberguard,dlg,EntryList/5/Text,0,최대한 빨리 가겠어!
 chamberguard,dlg,EntryList/6/Text,0,"젠장, 네가 맞다! 지금 들어가, 나가서 병력 지원을 불러오마."
-chamberguard,dlg,ReplyList/0/Text,0,"내 길을 비켜가게, 경찰관. 맘에 들든 싫든 저는 그 안으로 들어가겠습니다."
+chamberguard,dlg,ReplyList/0/Text,0,"비키시오, 경관. 당신이 좋아하든 말든 나는 저기로 들어갈 거요."
 chamberguard,dlg,ReplyList/1/Text,0,"저는 들어가야 합니다, 경찰님. 그들의 생명이 위험에 처할 수 있다는 증거가 있습니다."
 chamberguard,dlg,ReplyList/2/Text,0,"<StartCheck>[설득]</Start>그래, 난 지금 갖고는 있지 않다. 하지만 믿어주게! 난 거짓말하지 않을 거란 걸 알게 해줘."
 chamberguard,dlg,ReplyList/3/Text,0,넌 망가진 놈이야! 문을 뚫는 동안 물러서라.
@@ -567,7 +567,7 @@ commander,dlg,ReplyList/27/Text,0,<StartAction> [머리 곧바로 머펠로.]</S
 commander,dlg,ReplyList/28/Text,0,저는 교회가 전쟁에 완전히 뛰어든다는 것을 몰랐습니다. 이런 일이 어떻게 일어난 것일까요?
 commander,dlg,ReplyList/30/Text,0,"전직 동포들과 전쟁을 벌이는 것은 고통스럽지만, 그렇지 않을 수가 없습니다."
 commander,dlg,ReplyList/31/Text,0,"펜은 검보다 강하고, 혀도 마찬가지로 강하다. 내 혀를 말이다."
-commoner_culdeny,dlg,EntryList/0/Text,0,"굿네스 미, 이렇게 늦은 시간이야. 정말로 침대에 들러야겠어!"
+commoner_culdeny,dlg,EntryList/0/Text,0,"세상에, 시간이 늦었네. 정말 자러 가야겠어!"
 commoner_culdeny,dlg,EntryList/1/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 commoner_culdeny,dlg,EntryList/2/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 commoner_culdeny,dlg,EntryList/3/Text,0,안녕하세요 제 <Lord/Lady>
@@ -576,7 +576,7 @@ commoner_culdeny,dlg,EntryList/5/Text,0,"만약 남쪽이 이렇게 좋다면, �
 commoner_culdeny,dlg,EntryList/6/Text,0,"제 <Lord/Lady>, 저는 당신과 대화하는 것이 영광입니다!"
 commoner_culdeny,dlg,EntryList/7/Text,0,"전투 후 이 곳이 다시는 똑같지 않을 거라고 생각했고, 나는 맞았어! 지금 보라, 이 멋진 도시가 얼마나 달라졌는지."
 commoner_culdeny,dlg,EntryList/8/Text,0,쿨든은 이제 정말 도시처럼 보이기 시작했어!
-commoner_himarch,dlg,EntryList/0/Text,0,"굿네스 미, 이렇게 늦은 시간이야. 정말로 침대에 들러야겠어!"
+commoner_himarch,dlg,EntryList/0/Text,0,"세상에, 시간이 늦었네. 정말 자러 가야겠어!"
 commoner_himarch,dlg,EntryList/1/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 commoner_himarch,dlg,EntryList/2/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 commoner_himarch,dlg,EntryList/3/Text,0,안녕하세요 제 <Lord/Lady>
@@ -2004,14 +2004,14 @@ hench_nellise,dlg,EntryList/91/Text,0,감사합니다. 우리 적들이 정말 �
 hench_nellise,dlg,EntryList/92/Text,0,원하는 대로
 hench_nellise,dlg,EntryList/93/Text,0,그럼 더 이상 지연하지 않고 계속하자!
 hench_nellise,dlg,EntryList/94/Text,0,"벌써 파티가 다 됐어, 그냥 방해가 되겠네."
-hench_nellise,dlg,ReplyList/0/Text,0,저는 단순히 '안녕하세요'라고 합니다. 아마 다시 만나뵐 수 있을 것 같네요.
+hench_nellise,dlg,ReplyList/0/Text,0,그냥 인사하러 왔어. 또 보게 되겠지.
 hench_nellise,dlg,ReplyList/1/Text,0,내 그룹에 다시 합류해 주시겠습니까?
 hench_nellise,dlg,ReplyList/3/Text,0,"당신이 저를 죽이려 했다는 거예요? 네, 이제 회복되었습니다. 당신 덕분이네요. 괜찮으신가요? 당신은 좀 화가 나 보이네요."
 hench_nellise,dlg,ReplyList/4/Text,0,"네, 네가 옳았어, 넬. 우리가 왕을 빨리 제거할수록 우리 모두에게 더 좋을 거야."
 hench_nellise,dlg,ReplyList/5/Text,0,그럼 캠프에서 잠시 쉬어보세요.
 hench_nellise,dlg,ReplyList/7/Text,0,"걱정하지 마라. 빨리 움직여, 그렇지 않으면 이 곳이 우리를 죽이게 될 거야."
 hench_nellise,dlg,ReplyList/8/Text,0,"멋진 넬리즈, 지금까지 들은 최고의 소식이야 노력해줘서 고마워요"
-hench_nellise,dlg,ReplyList/10/Text,0,저는 단순히 '안녕하세요'라고 합니다. 아마 다시 만나뵐 수 있을 것 같네요.
+hench_nellise,dlg,ReplyList/10/Text,0,그냥 인사하러 왔어. 또 보게 되겠지.
 hench_nellise,dlg,ReplyList/11/Text,0,내 그룹에 다시 합류해 주시겠습니까?
 hench_nellise,dlg,ReplyList/14/Text,0,이 지역에서 몇 가지 물건을 모아올 수 있을까요?
 hench_nellise,dlg,ReplyList/15/Text,0,그룹의 치유 마법을 날려줘.
@@ -2554,7 +2554,7 @@ king_final,dlg,ReplyList/43/Text,0,"아직은 아닙니다,陛下."
 king_final,dlg,ReplyList/44/Text,0,"그래, 모두 여기 있어요."
 king_final,dlg,ReplyList/45/Text,0,정말 아이룬드의 첫 왕이 거기 누워있나요?
 king_final,dlg,ReplyList/46/Text,0,어떻게든 아이언로드의 내부에 있었던 것 같군
-king_final,dlg,ReplyList/47/Text,0,하지만 그는 200년이 넘게 된 셈이죠.
+king_final,dlg,ReplyList/47/Text,0,하지만 그러면 그는 이백 살이 넘게 되잖아요.
 king_final,dlg,ReplyList/49/Text,0,하지만 왜 그 때는 왕국에 맞서 전쟁을 벌였을까?
 king_final,dlg,ReplyList/50/Text,0,그래서 우리가 승리한 것 같아 보인다.
 king_final,dlg,ReplyList/51/Text,0,미쳤을 때 슬퍼하는 거야?
@@ -2580,7 +2580,7 @@ king_final,dlg,ReplyList/82/Text,0,군주권이 좋은 손에 있는 게 다행�
 king_final,dlg,ReplyList/83/Text,0,- 그래?
 king_final,dlg,ReplyList/85/Text,0,"고마워요, 대사님 나중에 더 얘기해 보겠습니다."
 king_final,dlg,ReplyList/86/Text,0,그럼 이제?
-king_final,dlg,ReplyList/88/Text,0,하지만 그는 200년이 넘게 된 셈이죠.
+king_final,dlg,ReplyList/88/Text,0,하지만 그러면 그는 이백 살이 넘게 되잖아요.
 king_trin,dlg,EntryList/0/Text,0,안녕하세요. 저희를 도와주신 분은 누구십니까?
 king_trin,dlg,EntryList/3/Text,0,"네, 저예요. 당신을 너무 걱정해서요! 다시 보니 정말 기쁩니다, 아버지."
 king_trin,dlg,EntryList/4/Text,0,"천만에요, 내가 널 페어로크로 보내서 여기서 멀리 있도록 했어요! 여기서 무엇을 하는 거예요?"
@@ -2772,7 +2772,7 @@ mali_dm_stage,dlg,ReplyList/29/Text,0,"네, 네"
 mali_dm_stage,dlg,ReplyList/30/Text,0,세 가지
 mali_dm_stage,dlg,ReplyList/31/Text,0,- 두 개
 mali_dm_stage,dlg,ReplyList/32/Text,0,- 1개
-mali_dm_stage,dlg,ReplyList/33/Text,0,재충전 가능한 사용 횟수 (rollover)
+mali_dm_stage,dlg,ReplyList/33/Text,0,사용 횟수를 충전한다 (이월 포함).
 mali_dm_stage,dlg,ReplyList/34/Text,0,사용 횟수를 변경한다.
 mali_dm_stage,dlg,ReplyList/35/Text,0,취소해
 mali_dm_stage,dlg,ReplyList/36/Text,0,- 뒤로!
@@ -3187,7 +3187,7 @@ pascal,dlg,EntryList/8/Text,0,"그가 내 여인들을 원하단 말인가! 이�
 pascal,dlg,EntryList/9/Text,0,"네 집에서 위협을 할 용기가 있어? 쓰레기, 죽어!"
 pascal,dlg,EntryList/10/Text,0,나가라고 했잖아! 나가지 않으면 안 돼!
 pascal,dlg,ReplyList/2/Text,0,"여기 모든 게 괜찮은 것 같네요, 그냥 가겠습니다."
-pascal,dlg,ReplyList/3/Text,0,난 이 도시에 새로 왔고 주변을 둘러보며 다녔어.
+pascal,dlg,ReplyList/3/Text,0,이 마을에 처음 와서 그냥 둘러보는 중이야.
 pascal,dlg,ReplyList/5/Text,0,저는 우리 둘 다 알고 있는 친구를 대표합니다.
 pascal,dlg,ReplyList/6/Text,0,"이... 왜 왔는지는 하나도 말하지 않았어. 하지만 짐작했으니, 그 사람에게는 많은 빚을 지고 있다는 걸 잘 알 거야."
 pascal,dlg,ReplyList/7/Text,0,"그는 지시하며 세 그림을 가리켰고, 그 그림들은 상당한 가치가 있었다."
@@ -3237,7 +3237,7 @@ phillips,dlg,EntryList/2/Text,0,최근 드래곤을 많이 보지 못했네. 이
 phillips,dlg,EntryList/3/Text,0,"저는 북 셔어 트레이딩 컴퍼니에서 일하고 있지만, 외부 계약자로서 내부 상황을 잘 모르겠습니다."
 phillips,dlg,EntryList/4/Text,0,"항구에서 상황은 매우 어둡고, 항만 노동자들은 기분이 좋지 않습니다."
 phillips,dlg,EntryList/5/Text,0,"나는 빠르게 이 문제를 해결해 줄 수 있기를 바라지만, 지금은 화물이 있으니 조만간 해주길 바래."
-pianoguy,dlg,EntryList/0/Text,0,"굿네스 미, 이렇게 늦은 시간이야. 정말로 침대에 들러야겠어!"
+pianoguy,dlg,EntryList/0/Text,0,"세상에, 시간이 늦었네. 정말 자러 가야겠어!"
 pianoguy,dlg,EntryList/1/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 pianoguy,dlg,EntryList/2/Text,0,"안녕하세요, 제 <Lord/Lady>. 무엇이든 도와드릴 수 있습니다."
 pianoguy,dlg,EntryList/3/Text,0,안녕하세요 제 <Lord/Lady>
@@ -3552,7 +3552,7 @@ south_guard,dlg,ReplyList/5/Text,0,난 도시를 떠나야 한다.
 south_guard,dlg,ReplyList/6/Text,0,하지만 난 마을을 떠나야 해!
 south_guard,dlg,ReplyList/7/Text,0,"좋아, 고마워요"
 southguard,dlg,EntryList/1/Text,0,"이럴 때마다 항상 이런 일이 벌어진다. 산맥의 눈이 녹으면서 모든 것이 이 지역으로 흐르게 된다. 한 주나 두 주 후면 되돌아갈 것이다, 하지만 이래로 추운 겨울 탓에 좀 더 오래 걸릴 수도 있다."
-southguard,dlg,ReplyList/0/Text,0,"재밌는 건, 이런 일이 일어나지 않고 겨울을 보냈네."
+southguard,dlg,ReplyList/0/Text,0,"아. 이상하군, 겨울 내내 이런 일은 없었는데."
 southguard,dlg,ReplyList/1/Text,0,고마워요 다른 방향으로 갈게요
 speaker,dlg,EntryList/0/Text,0,"베가네, 로드들은 당신 같은 사람들을 위해 너무 바쁘다."
 speaker,dlg,EntryList/1/Text,0,"저기, 여기서 무엇을 하시는 거예요? 어떻게 우리 회의를 방해하는 짓을 할 수 있으셨나요?"
@@ -3642,7 +3642,7 @@ teamster,dlg,ReplyList/2/Text,0,"아, 그 드래곤. 네, 아마도 그를 죽�
 teamster,dlg,ReplyList/4/Text,0,모두 서비스의 일부분이야? 가기로 합니까?
 teamster,dlg,ReplyList/5/Text,0,25 더하기 10은 35입니다.
 teamster,dlg,ReplyList/6/Text,0,전 강제로는 굴복하지 않겠습니다.
-teamster,dlg,ReplyList/7/Text,0,지금 내껀 그런 게 별로 없어.
+teamster,dlg,ReplyList/7/Text,0,지금은 그렇게 많이 가진 게 없어.
 teamster,dlg,ReplyList/9/Text,0,"좋아, 여기 돈이다."
 teamster,dlg,ReplyList/11/Text,0,"그래, 고마워요"
 teamster,dlg,ReplyList/12/Text,0,"현재는 아니에요, 현금 흐름 문제 있어요."
@@ -3672,7 +3672,7 @@ teamster2,dlg,ReplyList/5/Text,0,"아, 그 드래곤. 네, 아마도 그를 죽�
 teamster2,dlg,ReplyList/7/Text,0,모두 서비스의 일부분이야? 가기로 합니까?
 teamster2,dlg,ReplyList/8/Text,0,25 더하기 10은 35입니다.
 teamster2,dlg,ReplyList/9/Text,0,전 강제로는 굴복하지 않겠습니다.
-teamster2,dlg,ReplyList/10/Text,0,지금 내껀 그런 게 별로 없어.
+teamster2,dlg,ReplyList/10/Text,0,지금은 그렇게 많이 가진 게 없어.
 teamster2,dlg,ReplyList/12/Text,0,"좋아, 여기 돈이다."
 teamster2,dlg,ReplyList/14/Text,0,"그래, 고마워요"
 teamster2,dlg,ReplyList/15/Text,0,"현재는 아니에요, 현금 흐름 문제 있어요."
@@ -3920,7 +3920,7 @@ x2_associate,dlg,ReplyList/35/Text,0,"""당신은 비격 싸울 때 주수에 �
 x2_associate,dlg,ReplyList/36/Text,0,"""나는 당신이 당신의 손에 가벼운 무기를 사용하는 것을 원한다""."
 x2_associate,dlg,ReplyList/37/Text,0,"""나는 당신이 근접 무기를 양손으로 사용을 멈추게 하고 싶습니다."""
 x2_associate,dlg,ReplyList/38/Text,0,"""무기를 양손으로 휘두르도록 하세요."""
-x2_associate,dlg,ReplyList/39/Text,0,"""컴바트에서 근접 무기를 사용하지 마세요. 단거리 무기를 사용하세요."""
+x2_associate,dlg,ReplyList/39/Text,0,"""전투에서 근접 무기를 쓰지 마라. 원거리 무기만 써라."""
 x2_associate,dlg,ReplyList/40/Text,0,"""전투에서 더 이상 장거리 무기를 사용하지 말고, 근접 무기를 사용하라."""
 x2_associate,dlg,ReplyList/41/Text,0,"""스틸을 활용하는 방법에 대해 이야기해 봅시다."""
 x2_associate,dlg,ReplyList/41/Text,2,"""유적절함을 어떻게 이용하느냐에 대한 이야기""."
@@ -4018,7 +4018,7 @@ x2_associate,dlg,ReplyList/356/Text,0,"""당신은 비격 싸울 때 주수에 �
 x2_associate,dlg,ReplyList/357/Text,0,"""나는 당신이 당신의 손에 가벼운 무기를 사용하는 것을 원한다""."
 x2_associate,dlg,ReplyList/358/Text,0,"""나는 당신이 근접 무기를 양손으로 사용을 멈추게 하고 싶습니다."""
 x2_associate,dlg,ReplyList/359/Text,0,"""무기를 양손으로 휘두르도록 하세요."""
-x2_associate,dlg,ReplyList/360/Text,0,"""컴바트에서 근접 무기를 사용하지 마세요. 단거리 무기를 사용하세요."""
+x2_associate,dlg,ReplyList/360/Text,0,"""전투에서 근접 무기를 쓰지 마라. 원거리 무기만 써라."""
 x2_associate,dlg,ReplyList/361/Text,0,"""전투에서 더 이상 장거리 무기를 사용하지 말고, 근접 무기를 사용하라."""
 x2_associate,dlg,ReplyList/362/Text,0,"""스틸을 활용하는 방법에 대해 이야기해 봅시다."""
 x2_associate,dlg,ReplyList/362/Text,2,"""유적절함을 어떻게 이용하느냐에 대한 이야기""."
@@ -8685,9 +8685,9 @@ zep_tapir1,utc,Description,0,"타피어는 돼지와 비슷한 동물이고,"
 zep_tapir2,utc,FirstName,0,"타피르, 브라운"
 zep_tapir2,utc,Description,0,"타피어는 돼지와 비슷한 동물이고,"
 zep_terradon1,utc,FirstName,0,"케찰코아틀루스, 소형"
-zep_terradon1,utc,Description,0,퀘츠칼코틀루스 (quetzalcoatlus) 는 가장 큰 날개동물 중 하나이다.
+zep_terradon1,utc,Description,0,익룡의 일종인 케찰코아틀루스는 가장 큰 비행 동물 중 하나다.
 zep_terradon2,utc,FirstName,0,퀘츠칼코아트루스
-zep_terradon2,utc,Description,0,퀘츠칼코틀루스 (quetzalcoatlus) 는 가장 큰 날개동물 중 하나이다.
+zep_terradon2,utc,Description,0,익룡의 일종인 케찰코아틀루스는 가장 큰 비행 동물 중 하나다.
 zep_troll01,utc,FirstName,0,트롤
 zep_troll02,utc,FirstName,0,숲 트롤
 zep_troll03,utc,FirstName,0,석트롤

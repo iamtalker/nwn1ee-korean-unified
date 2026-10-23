@@ -153,7 +153,7 @@ ct1_stonegiant,dlg,ReplyList/0/Text,0,더 많은...
 ct1_stonegiant,dlg,ReplyList/1/Text,0,끝내...
 ct1_treegiant,dlg,EntryList/1/Text,0,"""당신은 없습니다! 없습니다! 가라! 떠나!"""
 ct1_treegiant,dlg,EntryList/2/Text,0,"<StartAction> 광신처럼 깜박이는 이상한 존재가 당신 앞에 서 있습니다. 그것은 명백히 알려지지 않은 힘에 의해 갇혀 있지만, 파티를 만질 수 있을 것 같습니다.</Start>"
-ct1_treegiant,dlg,EntryList/3/Text,0,오젤과 대화하고 싶나요? 아니면 오겔을 만지고 싶나요?
+ct1_treegiant,dlg,EntryList/3/Text,0,오젤과 이야기하겠습니까? 아니면 오젤을 만지겠습니까?
 ct1_treegiant,dlg,EntryList/4/Text,0,"초록색의 흐릿한 빛 속에서, 템팩클이 발짝 뛰고 파티를 잠시 니다."
 ct1_treegiant,dlg,EntryList/5/Text,0,"<StartAction> ""오젤 얼음 거인이 살아있는 나무로 변하는 것을 지켜보세요"".</Start>"
 ct1_treegiant,dlg,ReplyList/0/Text,0,계속...
@@ -4372,13 +4372,13 @@ area002,git,Placeable List/228/Description,0,이 무거운 지토 컵은 불 옆
 area002,git,Placeable List/229/LocName,0,"컵, 갈색 - 비어 있음"
 area002,git,Placeable List/229/Description,0,이 무거운 지토 컵은 불 옆에서 추운 밤에 뜨거운 음료를 마시는 데 이상적입니다.
 area002,git,Placeable List/230/LocName,0,"잔, 금 - 가득"
-area002,git,Placeable List/230/Description,0,이 황금잔의 빛나는 색상은 눈을 뗄 수 없게 만든다.
+area002,git,Placeable List/230/Description,0,이 황금 잔의 윤기 나는 빛깔이 쉽게 눈길을 끈다.
 area002,git,Placeable List/231/LocName,0,"잔, 금 - 가득"
-area002,git,Placeable List/231/Description,0,이 황금잔의 빛나는 색상은 눈을 뗄 수 없게 만든다.
+area002,git,Placeable List/231/Description,0,이 황금 잔의 윤기 나는 빛깔이 쉽게 눈길을 끈다.
 area002,git,Placeable List/232/LocName,0,"잔, 금 - 비어 있음"
-area002,git,Placeable List/232/Description,0,이 황금잔의 빛나는 색상은 눈을 뗄 수 없게 만든다.
+area002,git,Placeable List/232/Description,0,이 황금 잔의 윤기 나는 빛깔이 쉽게 눈길을 끈다.
 area002,git,Placeable List/233/LocName,0,"잔, 금 - 비어 있음"
-area002,git,Placeable List/233/Description,0,이 황금잔의 빛나는 색상은 눈을 뗄 수 없게 만든다.
+area002,git,Placeable List/233/Description,0,이 황금 잔의 윤기 나는 빛깔이 쉽게 눈길을 끈다.
 area002,git,Placeable List/234/LocName,0,"컵, 나무 - 가득"
 area002,git,Placeable List/234/Description,0,이 부드러운 목조 잔은 겸손한 단순함에서 더 화려한 사촌들과 실질적으로 동등합니다.
 area002,git,Placeable List/235/LocName,0,"잔, 보석으로 장식된 - 가득"
@@ -9542,7 +9542,7 @@ intro_cs_01,git,WaypointList/7/LocalizedName,0,OA_SP_카메라_03
 intro_cs_01,git,WaypointList/8/LocalizedName,0,OA_SP_카메라_04
 intro_cs_01,git,Placeable List/0/LocName,0,은 손톱 선술집
 intro_cs_01,git,Placeable List/1/LocName,0,가로등
-intro_cs_01,git,Placeable List/1/Description,0,램프 기둥은 밤의 혹독한 공기로 뚝뚝 벗겨져 있습니다.
+intro_cs_01,git,Placeable List/1/Description,0,가로등 기둥은 거친 밤공기에 패이고 상처투성이다.
 intro_cs_01,git,Placeable List/98/LocName,0,잊혀진 것 - 잔해
 intro_cs_01,git,Placeable List/98/Description,0,이 오포세트는 바닥이 없어 과거에 의문의 없이 끔찍한 목적을 위해 사용되었음을 알 수 있다. 여기에 던져진 사람은 도망갈 수 없고 영원히 잊혀질 것이다.
 intro_cs_01,git,Placeable List/99/LocName,0,잊혀진 것
@@ -9557,11 +9557,11 @@ introduction,git,WaypointList/5/LocalizedName,0,은 손톱 선술집
 introduction,git,WaypointList/5/MapNote,0,은 손톱 선술집
 introduction,git,Placeable List/0/LocName,0,은 손톱 선술집
 introduction,git,Placeable List/1/LocName,0,가로등
-introduction,git,Placeable List/1/Description,0,램프 기둥은 밤의 혹독한 공기로 뚝뚝 벗겨져 있습니다.
+introduction,git,Placeable List/1/Description,0,가로등 기둥은 거친 밤공기에 패이고 상처투성이다.
 introduction,git,Placeable List/2/LocName,0,가로등
-introduction,git,Placeable List/2/Description,0,램프 기둥은 밤의 혹독한 공기로 뚝뚝 벗겨져 있습니다.
+introduction,git,Placeable List/2/Description,0,가로등 기둥은 거친 밤공기에 패이고 상처투성이다.
 introduction,git,Placeable List/6/LocName,0,가로등
-introduction,git,Placeable List/6/Description,0,램프 기둥은 밤의 혹독한 공기로 뚝뚝 벗겨져 있습니다.
+introduction,git,Placeable List/6/Description,0,가로등 기둥은 거친 밤공기에 패이고 상처투성이다.
 introduction,git,Placeable List/221/LocName,0,잊혀진 것 - 잔해
 introduction,git,Placeable List/221/Description,0,이 오포세트는 바닥이 없어 과거에 의문의 없이 끔찍한 목적을 위해 사용되었음을 알 수 있다. 여기에 던져진 사람은 도망갈 수 없고 영원히 잊혀질 것이다.
 introduction,git,Placeable List/222/LocName,0,잊혀진 것
@@ -10646,7 +10646,7 @@ silvertowerthema,git,Placeable List/162/LocName,0,마블 조각상
 silvertowerthema,git,Placeable List/163/LocName,0,마블 조각상
 silvertowerthema,git,Placeable List/164/LocName,0,마블 조각상
 silvertowerthema,git,Placeable List/165/LocName,0,마블 조각상
-silvertowerthema,git,Placeable List/166/LocName,0,"""이것이 모든 것로부터의 쉼터니, 자유롭게 명상하라"""
+silvertowerthema,git,Placeable List/166/LocName,0,"""이곳은 모든 것으로부터의 안식처다. 자유로이 명상하라"""
 silvertowerthema,git,Placeable List/167/LocName,0,안크
 silvertowerthema,git,Placeable List/168/LocName,0,양탄자 1
 silvertowerthema,git,Placeable List/168/Description,0,"이 카펫은 아름답게 짜여져 있고, 복잡한 패턴이 있습니다."
@@ -14495,7 +14495,7 @@ module,jrl,Categories/11/EntryList/1/Text,0,"시간의 황폐함을 맛보는 �
 module,jrl,Categories/12/Name,0,수수께끼의 홀 2 - 탐욕 으로 태어난 물건
 module,jrl,Categories/12/EntryList/0/Text,0,"탐욕으로 탄생한 아이템이 필요해, 매년 하나씩, 그리고 하나 더 덜 두려워해야 해."
 module,jrl,Categories/12/EntryList/1/Text,0,"돌을 입에 넣고 씹으며 노래하기 시작했다. 잘했다. 그 대가로, 나는 노래를 부르리라."
-module,jrl,Categories/13/Name,0,퍼즐 3 홀 - 숨겨진 빛을 띤 물건!
+module,jrl,Categories/13/Name,0,수수께끼의 방 3 - 숨겨진 빛을 가진 것!
 module,jrl,Categories/13/EntryList/0/Text,0,"악마로부터, 아래로부터, 숨겨진 빛의 물건을 찾아라, 이 물건을 찾아라, 내게 찾아라, 그 때만 내가 너를 자유롭게 할 것이다."
 module,jrl,Categories/13/EntryList/1/Text,0,"나는 문의 경비자야! 문이 이제 열렸으니 축하해!
 

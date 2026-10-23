@@ -12,7 +12,7 @@ area009,are,Name,0,쉐도우데일: 베레건드 상인 - 지하실
 area088,are,Name,0,크라그 성: 마당
 castlecrag,are,Name,0,성 크래그: 접근
 cormanthyrhousej,are,Name,0,코르만토르: 자엘레 집 캠프
-elmwoodnpchouses,are,Name,0,쉐도우데일: 호아레브 니블핑거스의 캐비닛
+elmwoodnpchouses,are,Name,0,섀도데일: 호어브 님블핑거스의 오두막
 epilogue,are,Name,0,엘민스터의 탑: 에필로그
 housejaelrecampj,are,Name,0,코르만토르: 자엘레 집 캠프 - 제즈의 텐트
 kellashouse2ndfl,are,Name,0,쉐도우데일: 켈라의 집 - 올라가는 계단
@@ -192,7 +192,7 @@ ls_florin2,dlg,ReplyList/3/Text,0,"""그놈이 아직 살아있다고 생각하�
 ls_florin2,dlg,ReplyList/4/Text,0,"""당신이 원하는 대로 해. 개인적으로는 신경쓰지 않는다""."
 ls_florin2,dlg,ReplyList/6/Text,0,실로 너희는 너희 주님 앞에서 자식을 보호할 의무가 있나니
 ls_florin2,dlg,ReplyList/8/Text,0,shadowdale의 필요는 단 한 사람의 필요보다 먼저야.
-ls_florin2,dlg,ReplyList/9/Text,0,"""나는 내 목숨을 걸지 않겠어. 그런 떳떳하지 못한 아이를 위해서는."""
+ls_florin2,dlg,ReplyList/9/Text,0,"""잘난 척하는 어린애 하나 때문에 목숨을 걸진 않겠다."""
 ls_florin2,dlg,ReplyList/11/Text,0,"""내가 스코티를 그의 부모에게 돌려주겠다."""
 ls_florin2,dlg,ReplyList/13/Text,0,"<StartAction>[지혜]</Start> ""당신의 마음은 당신에게 무엇을 말해주는가? 그것이 올바른 결정일 것이다."""
 ls_forestwarden,dlg,EntryList/0/Text,0,친구여 평안하소서 그대가 숲으로 향할 것이라 면 주의하라 그곳은 약하고 무지한 자에게는 장소가 없노라
@@ -2572,7 +2572,7 @@ module,jrl,Categories/0/EntryList/2/Text,0,"두르만 히레스타 (Durman Hiles
 module,jrl,Categories/0/EntryList/3/Text,0,"결국, 당신은 3천개의 금으로 더먼의 마법 벨트를 샀습니다."
 module,jrl,Categories/1/Name,0,공포를 일으키라
 module,jrl,Categories/1/EntryList/0/Text,0,"터발은 장갑문의 열쇠를 주었다. 그곳에서 헬메이크드 호러, 강력한 마법 구조물을 찾을 수 있다. 이를 활성화하려면 '오마르'라고 말하면 된다."
-module,jrl,Categories/1/EntryList/1/Text,0,헬멧 공포를 활성화시켰습니다. 튜발에게 이 사실을 알려주세요.
+module,jrl,Categories/1/EntryList/1/Text,0,헬름드 호러를 작동시켰다. 서벌에게 돌아가 알려라.
 module,jrl,Categories/1/EntryList/2/Text,0,헤일메이크는 이제 타워의 지하층에서 순찰하고 있습니다. 그 무서운 존재는 드워프와의 싸움에서 큰 자산이 될 것입니다.
 module,jrl,Categories/2/Name,0,크라그 성
 module,jrl,Categories/2/EntryList/0/Text,0,"당신은 크라그 성의 유적들을 발견했지, 조르단의 옛 요새, 샤도데일의 거짓 부왕"
@@ -2953,9 +2953,9 @@ scotti002,utc,Description,0,스코티는 더러워져 있고 옷이 찢어져 �
 scotti003,utc,FirstName,0,스코티
 scotti003,utc,LastName,0,암카트라
 shadowself,utc,FirstName,0,그림자 복제
-shadowself,utc,Description,0,말랑타이르의 순수한 그림자로 이루어진 시뮬라크럼
+shadowself,utc,Description,0,순수한 그림자로 이루어진 말란티르의 환영체.
 shadowself001,utc,FirstName,0,그림자 복제
-shadowself001,utc,Description,0,말랑타이르의 순수한 그림자로 이루어진 시뮬라크럼
+shadowself001,utc,Description,0,순수한 그림자로 이루어진 말란티르의 환영체.
 shaerl,utc,FirstName,0,샤럴
 shaerl,utc,LastName,0,로반만트
 shaerl,utc,Description,0,"샤엘 암카트라는 중년의 매력적인 여성입니다. 최근 사건으로 인해 다소 불안해 보이지만, 잘 숨기고 있습니다."
@@ -3324,11 +3324,11 @@ q_plc_haystack,utp,Description,0,잔디 냄새가 신선하고 달콤합니다. 
 q_plc_lecturn001,utp,LocName,0,강의대
 q_plc_lecturn001,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_lecturn002,utp,LocName,0,강의대 - 책과 함께
-q_plc_lecturn002,utp,Description,0,"이 빈방의 탁자 위에 오래된 책이 놓여 있으며, 그 페이지는 나이를 먹고 노랗게 변했습니다."
+q_plc_lecturn002,utp,Description,0,"고서 한 권이 연단 위에 놓여 있고, 책장은 세월에 누렇게 바랬다."
 q_plc_millstn001,utp,LocName,0,밀돌 - 사이드 파워
-q_plc_millstn001,utp,Description,0,당신은 이 밀돌이 얼마나 많은 쌀을 갈았을까 궁금해지네요.
+q_plc_millstn001,utp,Description,0,이 맷돌이 몇 톤의 곡식을 갈았을지 궁금해진다.
 q_plc_millstn002,utp,LocName,0,밀스톤 - 최고 성능
-q_plc_millstn002,utp,Description,0,당신은 이 밀돌이 얼마나 많은 쌀을 갈았을까 궁금해지네요.
+q_plc_millstn002,utp,Description,0,이 맷돌이 몇 톤의 곡식을 갈았을지 궁금해진다.
 q_plc_millstn003,utp,LocName,0,밀러스톤
 q_plc_millstn003,utp,Description,0,"여기 두 대의 큰 밀석이 있으며, 사용될 때까지 기다리고 있습니다."
 q_plc_mktstnd001,utp,LocName,0,시장 장터 - 비어 있음

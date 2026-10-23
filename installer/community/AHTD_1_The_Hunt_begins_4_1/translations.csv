@@ -130,7 +130,7 @@ gob_scouts,dlg,EntryList/9/Text,0,"""우리에게는 아무것도 없는데, 우
 gob_scouts,dlg,EntryList/10/Text,0,"""서쪽으로 가면 빛이 보이고, 동쪽으로는 어둠으로 돌아갈 수 있습니다. 서쪽 동굴에 광신 마법사가 살고 있고, 동쪽 동굴에는 큰 벽사들이 있습니다. 남쪽으로는 뱀들이 강합니다. 이것들이 우리가 아는 모든 것 입니다."""
 gob_scouts,dlg,ReplyList/0/Text,0,"""침묵하라, 고블린 쓰레기. 네 운명을 막았어!"""
 gob_scouts,dlg,ReplyList/1/Text,0,"""어떻게 도망칠 엄두를 내다?"""
-gob_scouts,dlg,ReplyList/2/Text,0,"""당신은 우리의 언어를 잘 구사합니다. 갓린으로 보이지만."""
+gob_scouts,dlg,ReplyList/2/Text,0,"""고블린치고는 우리 말을 잘하는군."""
 gob_scouts,dlg,ReplyList/3/Text,0,"""당신은 놀라지 않은 것 같네요. 지금 어떤 일을 기대하고 있나요?"""
 gob_scouts,dlg,ReplyList/4/Text,0,"""너가 내가 널 죽이러 왔다고 생각하니."""
 gob_scouts,dlg,ReplyList/5/Text,0,"""네 말이 맞습니다, 저를 죽이도록 명령받았지만, 이제 더 이상 당신의 죽음에 관심이 없습니다."""
@@ -1556,7 +1556,7 @@ drowcamp001,git,Placeable List/3/ItemList/6/DescIdentified,0,미사일 머리 �
 drowcamp001,git,Placeable List/49/LocName,0,NW_TARGET
 drowcamp001,git,Placeable List/49/Description,0,"덩어리 머리와 쓰레기통 같은 머리와 짚으로 가득한 가슴으로, 전투 도미는 위협적으로 보이지 않습니다."
 drowcamp001,git,Placeable List/50/LocName,0,NW_TARGET
-drowcamp001,git,Placeable List/50/Description,0,이 화살무늬 목표의 빔 bulls-eye는 신선하게 칠해졌습니다.
+drowcamp001,git,Placeable List/50/Description,0,이 양궁 과녁의 고리버들 중심 원에는 새 페인트가 칠해져 있다.
 drowcamp001,git,Placeable List/59/LocName,0,침낭
 drowcamp001,git,Placeable List/59/Description,0,잠자리 매트는 얇지만 추운 땅 위에서 어느 정도 보호를 제공합니다.
 drowcamp001,git,Placeable List/76/LocName,0,통
@@ -1886,7 +1886,7 @@ drowcamp002,git,Placeable List/3/ItemList/6/DescIdentified,0,미사일 머리 �
 drowcamp002,git,Placeable List/53/LocName,0,NW_TARGET
 drowcamp002,git,Placeable List/53/Description,0,"덩어리 머리와 쓰레기통 같은 머리와 짚으로 가득한 가슴으로, 전투 도미는 위협적으로 보이지 않습니다."
 drowcamp002,git,Placeable List/54/LocName,0,NW_TARGET
-drowcamp002,git,Placeable List/54/Description,0,이 화살무늬 목표의 빔 bulls-eye는 신선하게 칠해졌습니다.
+drowcamp002,git,Placeable List/54/Description,0,이 양궁 과녁의 고리버들 중심 원에는 새 페인트가 칠해져 있다.
 drowcamp002,git,Placeable List/79/LocName,0,나무 상자
 drowcamp002,git,Placeable List/79/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 drowcamp002,git,Placeable List/81/LocName,0,통
@@ -2223,7 +2223,7 @@ drowcamp003,git,Placeable List/7/Description,0,인간 크기의 생물들을 감
 drowcamp003,git,Placeable List/52/LocName,0,NW_TARGET
 drowcamp003,git,Placeable List/52/Description,0,"덩어리 머리와 쓰레기통 같은 머리와 짚으로 가득한 가슴으로, 전투 도미는 위협적으로 보이지 않습니다."
 drowcamp003,git,Placeable List/53/LocName,0,NW_TARGET
-drowcamp003,git,Placeable List/53/Description,0,이 화살무늬 목표의 빔 bulls-eye는 신선하게 칠해졌습니다.
+drowcamp003,git,Placeable List/53/Description,0,이 양궁 과녁의 고리버들 중심 원에는 새 페인트가 칠해져 있다.
 drowcamp003,git,Placeable List/70/LocName,0,나무 상자
 drowcamp003,git,Placeable List/70/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 drowcamp003,git,Placeable List/71/LocName,0,통
@@ -2430,9 +2430,9 @@ goblincamp,git,Placeable List/177/Description,0,등불은 주변을 더 따뜻�
 goblincamp,git,Placeable List/178/LocName,0,횃불 걸이
 goblincamp,git,Placeable List/178/Description,0,등불은 주변을 더 따뜻한 색으로 밝혀준다. 그 빛에 감사하다는 생각이 든다.
 goblincamp,git,Placeable List/179/LocName,0,소형 융단
-goblincamp,git,Placeable List/179/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/179/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/180/LocName,0,노랑 카펫
-goblincamp,git,Placeable List/180/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/180/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/181/LocName,0,바닥에 벗겨진 피부
 goblincamp,git,Placeable List/181/Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
 goblincamp,git,Placeable List/182/LocName,0,바닥에 벗겨진 피부
@@ -2718,31 +2718,31 @@ goblincamp,git,Placeable List/321/Description,0,한때 귀족이었던 이 얼�
 goblincamp,git,Placeable List/322/LocName,0,가시못
 goblincamp,git,Placeable List/322/Description,0,한때 귀족이었던 이 얼굴은 이제 죽음의 끔찍한 마스크를 입고 있습니다. 눈의 정액은 피가 흘리고 공허합니다. 까마귀들은 이미 nektar을 뽑아냈습니다.
 goblincamp,git,Placeable List/323/LocName,0,보라색 카펫
-goblincamp,git,Placeable List/323/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/323/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/324/LocName,0,노랑 카펫
-goblincamp,git,Placeable List/324/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/324/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/325/LocName,0,보라색 카펫
-goblincamp,git,Placeable List/325/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/325/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/326/LocName,0,보라색 카펫
-goblincamp,git,Placeable List/326/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/326/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/327/LocName,0,보라색 카펫
-goblincamp,git,Placeable List/327/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/327/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/328/LocName,0,노랑 카펫
-goblincamp,git,Placeable List/328/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/328/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/329/LocName,0,보라색 카펫
-goblincamp,git,Placeable List/329/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/329/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/330/LocName,0,보라색 카펫
-goblincamp,git,Placeable List/330/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/330/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/331/LocName,0,노랑 카펫
-goblincamp,git,Placeable List/331/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/331/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/332/LocName,0,보라색 카펫
-goblincamp,git,Placeable List/332/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/332/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/333/LocName,0,보라색 카펫
-goblincamp,git,Placeable List/333/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/333/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/334/LocName,0,노랑 카펫
-goblincamp,git,Placeable List/334/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/334/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 goblincamp,git,Placeable List/335/LocName,0,노랑 카펫
-goblincamp,git,Placeable List/335/Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+goblincamp,git,Placeable List/335/Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 mysteriouscrypt,git,Creature List/0/FirstName,0,클라우스
 mysteriouscrypt,git,Creature List/0/Description,0,붉은 용은 모든 용들 중 가장 탐욕스러운 존재입니다. 예외적으로 자만심이 강한 붉은 용들은 항상 다른 생물들이 자신들에게 제복을 바치도록 만드는 방법을 찾고 있습니다.
 mysteriouscrypt,git,TriggerList/0/LocalizedName,0,Madmage_lair
@@ -2981,7 +2981,7 @@ module,jrl,Categories/6/EntryList/3/Text,0,"발굴 소리들이 스비르프네�
 module,jrl,Categories/7/Name,0,사냥의 끝
 module,jrl,Categories/7/EntryList/0/Text,0,"더 이상 피우비엔의 굴욕을 견디지 못한 나는, 그녀가 나를 죽이려 할 때 방어하며 모든 동료들을 죽였다. 피우비엔의 사냥은 이제 끝났다."
 module,jrl,Categories/8/Name,0,스카우트의 도주
-module,jrl,Categories/8/EntryList/0/Text,0,"롬이르가 말했어요, 그들은 괴물 스카우트들과 문제가 있다고."
+module,jrl,Categories/8/EntryList/0/Text,0,"로미르가 말해 줬어요, 그들이 고블린 정찰병 때문에 골치라고."
 module,jrl,Categories/8/EntryList/1/Text,0,북쪽의 터널에 갇힌 괴물 스카우트들은 북쪽 벽을 파헤쳐 자유로워졌고 동굴 미로로 도망쳤다. 여주인 피우비엔은 나를 이 미로로 보내서 모든 도망치는 자들을 처단하라고 한다.
 module,jrl,Categories/8/EntryList/2/Text,0,북쪽의 무인터널에 갇힌 괴물 스카우트는 북쪽 벽을 파고 자유로 가는 길을 찾았어요. 그들은 동굴의 진막으로 도망쳤어요. 미스터스 피비웨이언은 내가 이 진막으로 들어가서 모든 피난민을 죽이고 싶어합니다. 괴물 터널은 붕괴되었습니다. 나는 캠프로 돌아갈 다른 길을 찾아야 할 것입니다.
 module,jrl,Categories/8/EntryList/3/Text,0,"북쪽의 막다른 터널에 갇혔던 고블린 정찰병들이 북쪽 벽을 파고 나가 자유를 찾았다. 그들은 동굴 미로로 달아났다. 피위비엔 여주인은 내가 이 미로에 들어가 도망자를 모조리 죽이기를 원한다.
@@ -3346,13 +3346,13 @@ tent01,utp,LocName,0,텐트01
 tent02,utp,LocName,0,텐트02
 tent03,utp,LocName,0,텐트03
 throwrug001,utp,LocName,0,소형 융단
-throwrug001,utp,Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+throwrug001,utp,Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 throwrug002,utp,LocName,0,보라색 카펫
-throwrug002,utp,Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+throwrug002,utp,Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 throwrug003,utp,LocName,0,노랑 카펫
-throwrug003,utp,Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+throwrug003,utp,Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 throwrug004,utp,LocName,0,보라색 카펫
-throwrug004,utp,Description,0,"간단한 매트가 바닥을 장식하고, 사용됨으로써 희미하고 닳아 있습니다."
+throwrug004,utp,Description,0,소박한 매트가 바닥에 깔려 있다. 색이 바래고 닳았다.
 urn001,utp,LocName,0,스테이크
 urn001,utp,Description,0,발자취의 소리가 당신에게 반사되어 어두운 유리의 깊이에서 울려 퍼집니다.
 urn002,utp,LocName,0,투수

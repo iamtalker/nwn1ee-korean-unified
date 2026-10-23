@@ -1,7 +1,7 @@
 Resource,ResType,FieldPath,LangID,Text
 _area00,are,Name,0,* 테스트 지역*
 area,are,Name,0,서장: 트레디메트의 해방
-area001,are,Name,0,"달이 지난 후, 파이르타른 궁전, 다롬아르..."
+area001,are,Name,0,"다로마르, 페른타른 궁전: 한 달 후..."
 area002,are,Name,0,다로마르: 바다사자의 자부심 - 위층
 area003,are,Name,0,다로마르: 바다 사자 자부심
 area004,are,Name,0,다르로마르: 왕실 지역
@@ -366,7 +366,7 @@ blacktalon,dlg,EntryList/36/Text,0,"""좋은 일이야, 잘 어울릴 거야. �
 blacktalon,dlg,EntryList/37/Text,0,"""네 어저음에 꽂아봐, 나이트블레이드."""
 blacktalon,dlg,EntryList/38/Text,0,"""그건 정신이야! 이제 오시오, 나의 기쁨의 동료들아! 시간은 남녀를 기다리지 않으니, 이 풍요로운 도시에서 아직 황금을 약탈할 기회가 남아 있습니다!"""
 blacktalon,dlg,EntryList/39/Text,0,"""모리엔, 그렇게 말하는 걸 좋아해. 피부가 오그라드는구나! 그리고... 아래쪽에서 이상한 일이 일어나고 있어!"""
-blacktalon,dlg,EntryList/40/Text,0,"""노인친구여, 더 많은 것을 알고 있었어. 그깟 필요한 것보다 훨씬 더 많은 것을."""
+blacktalon,dlg,EntryList/40/Text,0,"""알 필요 이상이었어, 오랜 친구. 훨씬 더."""
 blacktalon,dlg,ReplyList/6/Text,0,"""나는 그냥 지나가는거야""."
 blacktalon,dlg,ReplyList/8/Text,0,"""블랙 탈론?"""
 blacktalon,dlg,ReplyList/11/Text,0,"""나는 가야 한다""."
@@ -497,7 +497,7 @@ captainvard5,dlg,ReplyList/12/Text,0,"""캡틴, 그것 나와."""
 captainvard5,dlg,ReplyList/13/Text,0,"""나는 이것이 내 자신의 어떤 무모한 모험을 포함하지 않기를 바랍니다. 하지만 나는 그것이 그렇게 될 것이라고 기대합니다."""
 captainvard5,dlg,ReplyList/14/Text,0,"""너가 이 카즈다그를 쫓아가서 어깨에서 머리를 뜯어내고 싶니?"""
 captainvard5,dlg,ReplyList/15/Text,0,"""나는 다시 한 번 영웅이 될 거야."""
-captainvard5,dlg,ReplyList/16/Text,0,"""당신이 제 지휘하에 1,000명의 엘리트 맴버시를 소유하고 있다고 말하는 건가?"""
+captainvard5,dlg,ReplyList/16/Text,0,"""내 지휘 아래 정예 용병 천 명이 있다는 말이오?"""
 captainvard5,dlg,ReplyList/17/Text,0,"""좋아, 내가 준비됐어"""
 captainvard5,dlg,ReplyList/18/Text,0,"""당신의 끊임없는 불평과 요구에서 한숨을 돌릴 수 있을 거라네, 확실히."""
 captainvard5,dlg,ReplyList/19/Text,0,"""신부님, 바드""."
@@ -750,7 +750,7 @@ ct_gamalon,dlg,EntryList/33/Text,0,"""제발, 그를 죽이지 마세요."""
 ct_gamalon,dlg,EntryList/34/Text,0,"""이건 제 잘못입니다. 저는 그를 위해 거기 있어야 했어야 했는데 --"""
 ct_gamalon,dlg,EntryList/35/Text,0,"""그음, 오아시스에서 들렸어. 혼란을 확인해봐 달라. 나는 네레뮬을 확인해야 해."""
 ct_gamalon,dlg,EntryList/36/Text,0,"""오아시스에서 무슨 일이 벌어지고 있어. 그냥 서지 말고 영웅이 되어보자!"""
-ct_gamalon,dlg,EntryList/37/Text,0,"""네레뮬, 돌아가! 이 악마는 너를 초월한 것이다!"""
+ct_gamalon,dlg,EntryList/37/Text,0,"""물러서, 네레물! 이 악마는 네가 감당할 수 없어!"""
 ct_gamalon,dlg,EntryList/38/Text,0,"""당신은 어떤 종류의 악마인가?"""
 ct_gamalon,dlg,EntryList/39/Text,0,"""우리는 몰라이데스입니다. 우리는 죽음의 인신입니다""."
 ct_gamalon,dlg,EntryList/40/Text,0,"""죽음자여... 당신 안에 증오가 있습니다. 우리는 그것을 습니다. 우리로 합류하세요. 이 늙은이를 죽여라. 이 탐욕한 상인이라. 이 비참하고 울리는 아이라."
@@ -773,7 +773,7 @@ ct_gamalon,dlg,ReplyList/16/Text,0,주얼러는 이상한 결정체를 줬어요
 ct_gamalon,dlg,ReplyList/17/Text,0,"""막 중 한 곳에는 베빌리스가 있었다."""
 ct_gamalon,dlg,ReplyList/32/Text,0,"""마침내! 나는 네 얼굴에서 그 자만한 미소를 지우고 싶었어."""
 ct_gamalon,dlg,ReplyList/33/Text,0,"""어울린다면 좋은 동반자겠지만, 당신의 경우는 그렇지 못하다."""
-ct_gamalon,dlg,ReplyList/34/Text,0,"""이 시간이나 장소가 아니야, 네레뮬. 제발 물러서거라."""
+ct_gamalon,dlg,ReplyList/34/Text,0,"""지금은 때도 장소도 아니야, 네레물. 제발 물러서."""
 ct_general,dlg,EntryList/0/Text,0,"""바자르에 오신 것을 환영합니다, 내 친구. 모든 종류의 물건을 조금 가지고 있습니다. 당신은 무엇을 필요로 하시나요?"""
 ct_general,dlg,EntryList/1/Text,0,"""이봐, 내 친구 칼림산. 많은 사람들에게 '이상'은 일상적인 현상일 뿐이지. 하지만, 아니, 평범하지 않은 것은 없다""."
 ct_general,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
@@ -1602,7 +1602,7 @@ grimlock,dlg,EntryList/5/Text,0,"<StartCheck>[실패]</Start># ""아, 넌 멍청
 grimlock,dlg,EntryList/6/Text,0,"<StartAction>[성공]</Start># ""엄... 넌 거칠고, 벨루르단보다 거칠고, 우린 너와 싸우고 싶지 않아. 우린 여기서 머물고 곰 튀김을 즐기고 있어. 아름다운 엘프 시티를 떠나라""."
 grimlock,dlg,EntryList/7/Text,0,<StartCheck>[실패]</Start>#####################################################################################################################################################################################################################################################
 grimlock,dlg,EntryList/9/Text,0,"""왜 아직도 여기 있어? 내가 이미 엘프 도시를 공격하지 말라고 이미 말했어! 가버려!"""
-grimlock,dlg,ReplyList/0/Text,0,"""나는 그냥 지나가고 있었는데, 당신꼐서는 용서해주시면, 저는 가겠습니다."""
+grimlock,dlg,ReplyList/0/Text,0,"""그냥 지나가던 길입니다. 실례하겠습니다, 이만 가 보겠소."""
 grimlock,dlg,ReplyList/1/Text,0,"""나와 같은 사람에게 설명할 필요가 없어, 끔찍한 몬스터! 죽을 준비를 해!"""
 grimlock,dlg,ReplyList/3/Text,0,"""당신은 여기서 무엇을 하시는 거예요?"""
 grimlock,dlg,ReplyList/4/Text,0,"""그럴 경우, 당신은 죽어야 한다."""
@@ -1885,15 +1885,15 @@ loric3,dlg,ReplyList/55/Text,0,"""더 이상 대화할 게 없어. 가자."""
 loric3,dlg,ReplyList/57/Text,0,"""우리는 궁전에서 탈출하고 당국에 알리고야 말아야 합니다. 혼자 크림슨 경비병을 막을 수는 없습니다."""
 loric3,dlg,ReplyList/58/Text,0,"""이 음모에 참여하지 않은 다른 사람들은 어떻게 될까요?"""
 loric3,dlg,ReplyList/59/Text,0,"올라, 가자."
-malfred,dlg,EntryList/0/Text,0,"""어, 무엇이죠... 아니요? 당신이 내 스푼을 봤나요?"""
+malfred,dlg,EntryList/0/Text,0,"""어, 뭐... 응? 내 숟가락 봤어?"""
 malfred,dlg,EntryList/1/Text,0,"""이렇게 빨리 가는데? 떠나기 전에 왜 나와 함께 차 한 잔 안 마시지? 잠깐만요."
 malfred,dlg,EntryList/2/Text,0,"""나는 너에게 경고해야 해, 우리에게는 가장 다양한 마법 도구를 선택할 수는 없어. 그래도 여기서는 너가 마음에 들어할 게 있을 거야. 아쉽게도 납알은 없어."""
-malfred,dlg,EntryList/3/Text,0,"""스푼? 어떤 스푼? 스푼에 대해 누가 말했나?"""
+malfred,dlg,EntryList/3/Text,0,"""숟가락? 무슨 숟가락? 누가 숟가락 얘기를 했지?"""
 malfred,dlg,EntryList/4/Text,0,"""그럼요? 기억이 나지 않아. 내 마음은 예전 같지 않아."""
 malfred,dlg,EntryList/5/Text,0,"""젊은<man/woman>, 너는 나를 바보로 생각하냐? 나는 늙고, 때때로 내 마음이 방황하고 있지만, 나는 확실히 세니얼이 아니다! 이제 다른 것이 있는가, 아니면 너는 다시 내 스푼을 찾기 위해 갈 것인가?"""
 malfred,dlg,EntryList/6/Text,0,"""그게 다! 신들에게 감사해! 그 없이 저는 미쳤어요. 이제, 나의 귀중한 여인아, 다시는 내 시선에서 떠나지 않을 거예요! 이 영웅적 행위에 대해 갚을 수 있는 게 있나요?"""
 malfred,dlg,EntryList/7/Text,0,"""알지 않는 게 낫다, <lad/lass>."""
-malfred,dlg,EntryList/8/Text,0,"""아, 스푼 베어러가 돌아왔군! 무엇을 도와드릴까요?"""
+malfred,dlg,EntryList/8/Text,0,"""아, 숟가락을 든 분이 돌아오셨군! 무엇을 도와드릴까요?"""
 malfred,dlg,ReplyList/0/Text,0,"""보안해"""
 malfred,dlg,ReplyList/2/Text,0,"""당신이 팔고 있는 것을 보여주십시오."""
 malfred,dlg,ReplyList/3/Text,0,<StartAction>[ 떠나.]</Start>
@@ -1903,7 +1903,7 @@ malfred,dlg,ReplyList/6/Text,0,"""그냥 물건들을 보여줘."""
 malfred,dlg,ReplyList/7/Text,0,"""그냥 그랬어."""
 malfred,dlg,ReplyList/8/Text,0,"<StartAction>[거짓말]</Start>하지만, 예쁘게 보이는 그 수레가 주신 대로 주실 거라면 그걸로 만족하겠습니다."
 malfred,dlg,ReplyList/9/Text,0,"""옷을 확인해본 적 있어?"
-malfred,dlg,ReplyList/10/Text,0,"""이게 당신이 찾고 있는 스푼이 아니냐?"""
+malfred,dlg,ReplyList/10/Text,0,"""이게 당신이 찾던 숟가락입니까?"""
 malfred,dlg,ReplyList/11/Text,0,"""보안해"""
 malfred,dlg,ReplyList/12/Text,0,"""왜 늙은 마법사들이 스푼에 이렇게 매력을 느끼는지 말해줄래?"""
 malfred,dlg,ReplyList/13/Text,0,"""실제로, 당신의 물건을 보고 싶군."""
@@ -1919,7 +1919,7 @@ mercenary2,dlg,EntryList/0/Text,0,"""저는 우리가 전장에 들어가기 전
 mercenary3,dlg,EntryList/0/Text,0,"""나는 강하고 맛있는 드워프 맥주 한 잔 필요해!"""
 mercenary3,dlg,EntryList/1/Text,0,"""이 유혈 비가 멈출 수 있었으면 좋겠다. 내 방광을 파괴하고 있어""."
 mercenary3,dlg,EntryList/2/Text,0,"""아어, 네가 정말 용감한 놈이야. 그 괴물들은 우리를 보자마자 언덕으로 뛰어들 거야!"""
-mercenary3,dlg,EntryList/3/Text,0,"""나는 괴물 뼛대를 짓밟을 때까지 기다릴 수 없다!"""
+mercenary3,dlg,EntryList/3/Text,0,"""고블린 머리통을 부수고 싶어 못 참겠어!"""
 mercenary4,dlg,EntryList/0/Text,0,"환영합니다, 아름다운 사람들아!"
 merchant1,dlg,EntryList/0/Text,0,"""오, 모험가님. 만약 물건을 찾으셨다면, 여기가 제일 맞는 곳입니다! 무엇을 필요로 하십니까? 무기, 의복, 일반 물품들? 모두 여기에 있으며, 가장 좋은 가격으로 준비되어 있습니다!"""
 merchant1,dlg,EntryList/1/Text,0,"""무엇이 필요하면 반드시 돌아오세요!"""
@@ -1943,7 +1943,7 @@ merchant_spice,dlg,EntryList/0/Text,0,안녕. 제 물건을 보고 싶으신가�
 merchant_spice,dlg,ReplyList/0/Text,0,지금은 아니야.
 merchant_spice,dlg,ReplyList/1/Text,0,그래.
 merkul,dlg,EntryList/0/Text,0,"""Eh, 지금 당신은 무슨 일을 내 방으로 침투하는거야? 내 문 밖의 그 망할 누출이 나를 충분히 슬픔을 일으키지 않는 것처럼! 지금 밖으로 나가, 아니면 내가 당신을 내쫓을 것이다!"""
-merkul,dlg,EntryList/1/Text,0,"""너의 못생긴 꼴을 다시 보지 않게, 들었어?"""
+merkul,dlg,EntryList/1/Text,0,"""네 못생긴 낯짝을 다시 보게 하지 마, 알겠어?"""
 merkul,dlg,EntryList/2/Text,0,"""그게, 당신은 그것을 요청했다!"""
 merkul,dlg,EntryList/3/Text,0,"""나는 차가운 바닥을 선호한다. 깃털과 베개? '그건 피를 흘리는 약자들을 위한 것이다! 지금, 나가라는 것이야!' 이제, 여기서 나가지 않으면 네 멍청한 뼈를 찢어버리겠다!"""
 merkul,dlg,ReplyList/0/Text,0,"""죄송합니다. 그냥 가고 있어."""
@@ -2276,7 +2276,7 @@ ogson1,dlg,ReplyList/11/Text,0,"""당신은 전쟁에 가는 군대와 함께 �
 ogson1,dlg,ReplyList/12/Text,0,"""당신이 나를 모욕하려고 하나 봅니다! 죽을 준비를 해!"""
 ogson1,dlg,ReplyList/13/Text,0,이제 작별을 고할 때가 됐어.
 ogson1,dlg,ReplyList/15/Text,0,"""이거 그만해, 팔릴 수 있는 걸 보여줘""."
-ogson1,dlg,ReplyList/16/Text,0,"""그걸로 네가 노를 잤다는 것을 배웠을 거야!"""
+ogson1,dlg,ReplyList/16/Text,0,"""창녀랑 자더니 쌤통이다!"""
 ogson1,dlg,ReplyList/17/Text,0,"""무엇이든 할 수 있나? 그럴 경우, 무엇을 만지는 것은 포함되지 않나?"""
 ogson1,dlg,ReplyList/18/Text,0,"""잊어라, 난 당신의 통보다 더 중요한 문제들을 처리해야 한다""."
 ogson1,dlg,ReplyList/19/Text,0,"""강에 도착하면 이 식물을 찾아볼게."""
@@ -2527,8 +2527,8 @@ sewerguard,dlg,ReplyList/14/Text,0,"""나는 어떤 끔찍한 악이 작용하�
 sewerguard,dlg,ReplyList/15/Text,0,"""관류가 안전해 이제 내가 책임있는 정신 비행기를 죽였어"""
 shadowthief,dlg,EntryList/0/Text,0,"""무엇을 원하십니까? 제 비즈니스는 제 사안이고, 그렇게 두고 싶습니다!"""
 slagar,dlg,EntryList/0/Text,0,"""그들이 여기 있나! 빨리 죽여라! 남은 군대가 도착하기 전에 우리는 이 곳을 떠나야 한다!"""
-slave,dlg,EntryList/0/Text,0,"""우리가 이 운명을 받을 자격이 뭔가? 툰모라, 자비를 베푸소서!"""
-slave,dlg,EntryList/2/Text,0,"""우리가 이 운명을 받을 자격이 뭔가? 툰모라, 자비를 베푸소서!"""
+slave,dlg,EntryList/0/Text,0,"""우리가 무엇을 했다고 이런 일을 당하나? 타이모라여, 자비를!"""
+slave,dlg,EntryList/2/Text,0,"""우리가 무엇을 했다고 이런 일을 당하나? 타이모라여, 자비를!"""
 slave,dlg,EntryList/3/Text,0,"""우리 네 명은 얼마 전에 들어왔던 큰 배에서 화물들을 내리차고 있었다. 언제였을까? 일주일 전이었나? 시간을 잃어버렸다. 아무튼, 일을 마친 후에, 우리는 배의 함부동에서 조용한 술과 주사위 게임을 즐겼다. 다음에 알 수 있는 것은, 우리는 여기 감옥에 있다. 모든 것을 빼앗겨 묶여 있는 것 같았다."""
 slave,dlg,EntryList/4/Text,0,"""그 새끼 아산더. 그는 때때로 여기 와서 '상품'을 확인합니다. 그는 우리를 부르고 있습니다. 그는 우리가 두 개의 경찰에 가치가 없다고 말했습니다. 하지만 지금 우리를 죽이는 것보다 더 많은 문제가 될 것입니다. 그는 Teldorn라는 사람이 최근 주식에 실망하고 있다고 언급했습니다. 제발, <lord/lady>, 우리는 지금 갈 수 있습니까?"""
 slave,dlg,EntryList/5/Text,0,"""그 새끼가 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 당당하게 되었습니다""."
@@ -2683,7 +2683,7 @@ tethyrianofficer,dlg,ReplyList/2/Text,0,"""크림슨 경비대는 거의 전멸�
 tethyrianofficer,dlg,ReplyList/3/Text,0,"""그 다섯 사람에 대해?"""
 tethyrianofficer,dlg,ReplyList/6/Text,0,"""더 이상 침투할 수 있는 경우에 난 여기 남아있을 거야."""
 tethyrianofficer,dlg,ReplyList/7/Text,0,"""나가서 무엇을 할 수 있는지 확인하러 가겠다."""
-tethyrsoldier1,dlg,EntryList/0/Text,0,"""이봐, 이 모든 기다림은 나를 비틀거리는 꼼장이로 만들었다."""
+tethyrsoldier1,dlg,EntryList/0/Text,0,"""젠장, 이 기다림에 정신이 나가서 횡설수설하게 생겼어."""
 tethyrsoldier1,dlg,EntryList/1/Text,0,"""시틸레니언들과 마주치는 생각으로 내 입가가 움츠러들고 있어, 인정하는 것조차 두렵다."""
 tethyrsoldier1,dlg,EntryList/2/Text,0,"""이 모든 용병들이 저를 불안하게 합니다. 만약 그들이 테티리아 권위에 반란을 결심한다면 어떨까요?"""
 thebard,dlg,EntryList/0/Text,0,"""..."
@@ -2958,7 +2958,7 @@ vance,dlg,EntryList/4/Text,0,"""물론이죠! 캡틴 바드가 권한을 초월�
 vance,dlg,EntryList/5/Text,0,"""듣고, 바그라 장군이 군단의 가장 앞부분에 있어요. 지금 나가서 그녀에게 보고하세요. 바그라를 기다리는 것은 좋지 않은 생각입니다."""
 vance,dlg,ReplyList/1/Text,0,"""<FirstName>. 이 이름 들어보셨나?"""
 vance,dlg,ReplyList/2/Text,0,"""나는 <FullName>이고, 방금 이 고블린들의 지도자를 죽였어."""
-vance,dlg,ReplyList/3/Text,0,"""그만 떠들어, 아직 시체를 뺏어야 해!"""
+vance,dlg,ReplyList/3/Text,0,"""헛소리 그만해, 아직 약탈할 시체가 남았어!"""
 vance,dlg,ReplyList/5/Text,0,"""문제가 있나, 경관?"""
 vard,dlg,EntryList/0/Text,0,"""좋은 소식. 나 는 테티리아 군 의 중위인 바르드 이다. 신입병 들 과 가입 의 의도를 가진 사람 들 에게 전쟁 에 관한 정보 를 전달 하는 의무 가 맡겨졌다. 캠페인 에 관해 무엇 이든지 알아야 한다면, 나 를 물어볼 수 있는 사람 이다""."
 vard,dlg,EntryList/1/Text,0,"""그럼 이만. 만나서 반가웠습니다."""
@@ -4413,13 +4413,13 @@ area023,git,Creature List/23/ItemList/0/Description,0,"장인제작 아이템은
 area023,git,Creature List/23/ItemList/1/LocalizedName,0,노예 주인의 열쇠
 area023,git,Creature List/23/ItemList/1/DescIdentified,0,이 열쇠는 아산더의 저택의 셀을 잠금 해제해야 합니다.
 area023,git,Creature List/24/FirstName,0,노예 우두머리
-area023,git,Creature List/24/Description,0,이 노예들은 더러워지고 반쯤 굶주리고 있다.
+area023,git,Creature List/24/Description,0,이 노예들은 더럽고 반쯤 굶주려 있다.
 area023,git,Creature List/25/FirstName,0,노예
-area023,git,Creature List/25/Description,0,이 노예들은 더러워지고 반쯤 굶주리고 있다.
+area023,git,Creature List/25/Description,0,이 노예들은 더럽고 반쯤 굶주려 있다.
 area023,git,Creature List/26/FirstName,0,노예
-area023,git,Creature List/26/Description,0,이 노예들은 더러워지고 반쯤 굶주리고 있다.
+area023,git,Creature List/26/Description,0,이 노예들은 더럽고 반쯤 굶주려 있다.
 area023,git,Creature List/27/FirstName,0,노예
-area023,git,Creature List/27/Description,0,이 노예들은 더러워지고 반쯤 굶주리고 있다.
+area023,git,Creature List/27/Description,0,이 노예들은 더럽고 반쯤 굶주려 있다.
 area023,git,Door List/5/LocName,0,문
 area023,git,Door List/7/LocName,0,문
 area023,git,Door List/11/LocName,0,문
@@ -4489,7 +4489,7 @@ area028,git,TriggerList/0/LocalizedName,0,px_아래가 숨겨진 곳
 area028,git,WaypointList/4/MapNote,0,창고
 area028,git,WaypointList/5/MapNote,0,사다리
 area028,git,Placeable List/8/Description,0,"이 표지판 에는 이렇게 적혀 있습니다. ""허가 없는 침입자 는 신속 하고 잔인 한 죽음 으로 처벌 될 것 이다"". - 다크룬."
-area028,git,Placeable List/9/Description,0,이 시체는 어떤 큰 짐승에 의해 반쪽으로 갉아먹혔습니다.
+area028,git,Placeable List/9/Description,0,이 시체는 어떤 큰 짐승에게 반쯤 뜯어 먹혔다.
 area029,git,Creature List/0/FirstName,0,알란드라 케인
 area029,git,Creature List/0/Description,0,이 키가 크고 근육이 강한 여성은 한 눈을 잃어도 여전히 매력적이다.
 area029,git,Creature List/5/FirstName,0,드워프 용병
@@ -7677,11 +7677,11 @@ q_plc_haystack,utp,Description,0,"레몬 향이 나는 듯한 신선하고 달�
 q_plc_lecturn001,utp,LocName,0,강의대
 q_plc_lecturn001,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_lecturn002,utp,LocName,0,강의대 - 책과 함께
-q_plc_lecturn002,utp,Description,0,"이 빈방의 탁자 위에 오래된 책이 놓여 있으며, 그 페이지는 나이를 먹고 노랗게 변했습니다."
+q_plc_lecturn002,utp,Description,0,"고서 한 권이 연단 위에 놓여 있고, 책장은 세월에 누렇게 바랬다."
 q_plc_millstn001,utp,LocName,0,밀돌 - 사이드 파워
-q_plc_millstn001,utp,Description,0,당신은 이 밀돌이 얼마나 많은 쌀을 갈았을까 궁금해지네요.
+q_plc_millstn001,utp,Description,0,이 맷돌이 몇 톤의 곡식을 갈았을지 궁금해진다.
 q_plc_millstn002,utp,LocName,0,밀스톤 - 최고 성능
-q_plc_millstn002,utp,Description,0,당신은 이 밀돌이 얼마나 많은 쌀을 갈았을까 궁금해지네요.
+q_plc_millstn002,utp,Description,0,이 맷돌이 몇 톤의 곡식을 갈았을지 궁금해진다.
 q_plc_millstn003,utp,LocName,0,밀러스톤
 q_plc_millstn003,utp,Description,0,"여기 두 대의 큰 밀석이 있으며, 사용될 때까지 기다리고 있습니다."
 q_plc_mktstnd001,utp,LocName,0,시장 장터 - 비어 있음

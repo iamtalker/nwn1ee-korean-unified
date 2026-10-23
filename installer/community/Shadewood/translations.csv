@@ -69,7 +69,7 @@ area063,are,Name,0,행진하는 산 - 미스터리: [탑]
 area064,are,Name,0,행진하는 산 - 미스터리 언노히르: [만션]
 area065,are,Name,0,행진하는 산 - 미스터리 언노히르: [만션]
 area066,are,Name,0,미르의 숲 - 볼로템프 - 머드베리 맨션: [주인의 방]
-area067,are,Name,0,미르의 숲 - 볼로템프 - 머드베리 맘션: [상위 복도]
+area067,are,Name,0,미르의 숲 - 볼로탐프 - 머드베리 저택: [위층 복도]
 area068,are,Name,0,미르의 숲 - 볼로템프 - 머드베리 맨션: [윗층]
 area069,are,Name,0,행진하는 산 - 미스터리: [깊은 우물]
 area070,are,Name,0,행진하는 산 - 미스터리 언노하이르: [나무가게]
@@ -93,7 +93,7 @@ azgreet,are,Name,0,... 아즈울다스의 인사
 brarrival,are,Name,0,... '피를 뛰는 사람'에서
 fomcave,are,Name,0,미르의 숲 - 볼로템프: [굴]
 fomlab,are,Name,0,미르 숲 - 볼로템프: [연구실]
-home,are,Name,0,알브라이벤 - 엔클라브 워드 - 라모아 대로: [홈]
+home,are,Name,0,알마라이벤 - 엔클레이브 구역 - 룸 가: [집]
 ic1_basement,are,Name,0,미르의 숲 - 볼로템프 - 머드베리 맨션: [ 와인 베일러]
 lod_002,are,Name,0,. . . . 고위 의회의 의장실 에서
 lod_003,are,Name,0,. . . 그림자의 섬유
@@ -940,7 +940,7 @@ _annex,dlg,ReplyList/357/Text,0,"안녕하세요, 어넥스, 고마워요."
 _annex,dlg,ReplyList/358/Text,0,뭐라도 배운 건가?
 _annex,dlg,ReplyList/359/Text,0,계속해.
 _annex,dlg,ReplyList/360/Text,0,계속 가라.
-_annex,dlg,ReplyList/361/Text,0,나는 죽어가는 남자의 말을 듣느라 바빴다.
+_annex,dlg,ReplyList/361/Text,0,죽어 가는 남자의 말을 듣느라 너무 바빴어.
 _annex,dlg,ReplyList/362/Text,0,죽어가는 사람이 말한 것이 더 중요합니다.
 _annex,dlg,ReplyList/363/Text,0,계속 가라.
 _annex,dlg,ReplyList/364/Text,0,무엇을 배웠나?
@@ -3266,7 +3266,7 @@ _colir,dlg,ReplyList/352/Text,0,계속해.
 _colir,dlg,ReplyList/353/Text,0,모든 것을 상세하게 설명해줘.
 _colir,dlg,ReplyList/354/Text,0,계속해.
 _colir,dlg,ReplyList/355/Text,0,계속해.
-_colir,dlg,ReplyList/356/Text,0,"아니, 모퉁이 너머에 덫이 있었다."
+_colir,dlg,ReplyList/356/Text,0,"아니, 모퉁이를 돌자 매복이 있었어."
 _colir,dlg,ReplyList/357/Text,0,그 다음엔 속삭이는 바람의 선원을 만났다.
 _colir,dlg,ReplyList/358/Text,0,그때 내가 마라바와 얼굴을 맞대게 된 거야
 _colir,dlg,ReplyList/359/Text,0,계속해.
@@ -3518,7 +3518,7 @@ _colir,dlg,ReplyList/604/Text,0,계속해.
 _colir,dlg,ReplyList/605/Text,0,모든 것을 상세하게 설명해줘.
 _colir,dlg,ReplyList/606/Text,0,계속해.
 _colir,dlg,ReplyList/607/Text,0,계속해.
-_colir,dlg,ReplyList/608/Text,0,"아니, 모퉁이 너머에 덫이 있었다."
+_colir,dlg,ReplyList/608/Text,0,"아니, 모퉁이를 돌자 매복이 있었어."
 _colir,dlg,ReplyList/609/Text,0,그 다음엔 속삭이는 바람의 선원을 만났다.
 _colir,dlg,ReplyList/610/Text,0,그때 내가 마라바와 얼굴을 맞대게 된 거야
 _colir,dlg,ReplyList/611/Text,0,계속해.
@@ -5024,7 +5024,7 @@ _fom_ambon_dune,dlg,EntryList/22/Text,0,"""마을에 한 사람이 나무가 바
 _fom_ambon_dune,dlg,EntryList/23/Text,0,"<CUSTOM1004> 눈물이 다시 형성되기 시작했고, 그녀의 유령 얼굴이"
 _fom_ambon_dune,dlg,EntryList/24/Text,0,"""우리 모두 집을 떠나서 가능한 물건을 싣고 알브라이벤으로 도망치라고 했다. 거의 누구도 이를 듣지 않았고, 분명 나는 같은 운명을 맞았을 것이다."""
 _fom_ambon_dune,dlg,EntryList/26/Text,0,"""그 때 나무 를 깎는 사람 들 이 사라지기 시작 하였다. 도끼 가나 발자국 가도 발견 되지 않았다. 포도 들 은 야생 으로 자라기 시작 하였다. 뿌리 는 좋은 사람 들 을 밟고 그 들 의 가지 는 다른 사람 들 에게 떨어졌다""."
-_fom_ambon_dune,dlg,EntryList/27/Text,0,<CUSTOM1004>Ambon이 멈추고 눈물이 글썽오는 눈으로 당신을 바라봅니다.
+_fom_ambon_dune,dlg,EntryList/27/Text,0,<CUSTOM1004>암본이 말을 멈추고 눈물 어린 눈으로 당신을 바라본다.
 _fom_ambon_dune,dlg,EntryList/30/Text,0,"""이제 그는 영원히 살아있는 땅에서 어린아이로 남게 될 것이다, 더 이상 변화하지 않을 것이다."""
 _fom_ambon_dune,dlg,EntryList/31/Text,0,"""그들은 대부분 서로를 지키며, 많은 날과 밤 숲을 탐구했습니다."""
 _fom_ambon_dune,dlg,EntryList/35/Text,0,"""왜, 나무를 베러 가면 숲에서 사라지는 나무꾼들의 보고나, 밤 깊이에 흐르는 이상한 속삭임들"""
@@ -8375,7 +8375,7 @@ _shayla,dlg,EntryList/256/Text,0,"""이 모든 지역은 가장 어두운 밤보
 _shayla,dlg,EntryList/257/Text,0,"""만약 당신이 가려는 곳이라면, 우리가 멸망으로 가는 것임에도 불구하고, 나는 따라가리라."" <CUSTOM1004> 그녀의 눈이 닫히고 손가락은 막대기를 둘러싸고 있다. 몇 분이 지나서야 다시 열린다."
 _shayla,dlg,EntryList/258/Text,0,"""나라는 장벽을 어떻게 넘어야 하는지 몰라요. 하지만 그녀는 그 장벽은 세 개의 띠로 묶여있다고 말해줬어요. 둘은 매우 악성적이죠""."
 _shayla,dlg,EntryList/261/Text,0,"""사람 들 이 무슨 일 이 일어났는지 알 때, 뱀 은 사라지고 그 사람 은 냄비 에 있 었 다! 나는 어떻게 그렇게 되었는지조차 보지 못했고, 나라 는 마법 이 전혀 관련 되지 않았다고 오늘날 까지 맹세 한다""."
-_shayla,dlg,EntryList/262/Text,0,"<CUSTOM1004> 샤일라는 생각에 잠기며, 더러운 손가락으로 턱을 짚고 있습니다."
+_shayla,dlg,EntryList/262/Text,0,<CUSTOM1004>샤일라가 더러운 손가락으로 턱을 두드리며 생각에 잠긴다.
 _shayla,dlg,EntryList/264/Text,0,"<CUSTOM1004>나라는 몇 개의 잎을 흔들어 관심을 끌고 <CUSTOM1001>""나라는 제게 엮기를 활성화하려면, 각각 색상이 다른 세 개의 용기에 하나씩 놓여 있는 물체를 찾아야 한다고 말합니다."""
 _shayla,dlg,EntryList/266/Text,0,"아쩌면 냄비에 그려진 그림들은 암시일지도 모릅니다. 모래 해변, 바다 파도; 일종의 주제처럼요."
 _shayla,dlg,EntryList/274/Text,0,"나라 는 반지 에 묶여 있는 아주 작은 조직 을 느낄 수 있기 때문 에, 아마도 그 반지를 착용 하는 것 은 어떤 결과 를 가져올 수 있을 것 이다""."
@@ -10433,15 +10433,15 @@ auntaries,dlg,EntryList/33/Text,0,"""시간이 늘 그렇듯이 지나갔다가 
 auntaries,dlg,EntryList/34/Text,0,<CUSTOM1004> 바람은 울음을 동반하고 가지들이 높은 곳에 흔들리고 잎은 주변에서 울고 있습니다.
 auntaries,dlg,EntryList/35/Text,0,"""숲이 우리 모두에게 정말 불쾌하게 된 며칠 후 보호 뚜 이 있습니다""."
 auntaries,dlg,EntryList/36/Text,0,"""저가 당신을 무시한 점이 있나요?"""
-auntaries,dlg,EntryList/37/Text,0,<CUSTOM1004> 흰빛을 띤 눈은 당신의 모든 움직임을 지켜보고 있습니다.
+auntaries,dlg,EntryList/37/Text,0,<CUSTOM1004>뿌옇게 흐린 눈이 당신의 모든 움직임을 지켜본다.
 auntaries,dlg,EntryList/38/Text,0,"""나 같은 영혼이 당신의 영역에서 떠다니는 것처럼?"""
 auntaries,dlg,EntryList/39/Text,0,"""그럼 직사위를 만드는 사람이라고 하셨나요? 마법의 힘을 소환할 수 있는 그런 직사위를 만드는 사람인가요? 아리나처럼 말입니다."""
-auntaries,dlg,EntryList/40/Text,0,<CUSTOM1004> 흰빛을 띤 눈은 당신의 모든 움직임을 지켜보고 있습니다.
+auntaries,dlg,EntryList/40/Text,0,<CUSTOM1004>뿌옇게 흐린 눈이 당신의 모든 움직임을 지켜본다.
 auntaries,dlg,EntryList/41/Text,0,"""그래서 지저분 전쟁은 많은 책들이 주장하는 것처럼 아우렌 섬유공단 (Auren Society of Weavers) 을 이 영역에서 해방시키지 않았다""."
 auntaries,dlg,EntryList/42/Text,0,"""칼림포트의 카스터 대학에서 미스터리 역사를 공부했습니다. 아우렌이 여기 있어 다행입니다""."
 auntaries,dlg,EntryList/43/Text,0,"""나는 이레나의 사촌누나입니다. 그녀는 알브라이벤의 에블린 사상가회에서 철학을 공부했습니다. 당신은 그녀의 마법이 아직 당신 주위에 남아 있습니다."""
 auntaries,dlg,EntryList/44/Text,0,"""말해봐, 내 사촌은 어떻게 되었는지 그리고 왜 당신과 같은 위치에 있지 않은가? 나는 그녀에게 일기와 함께 도움을 청하는 편지를 보냈지만 답을 받지 못했다."""
-auntaries,dlg,EntryList/45/Text,0,<CUSTOM1004> 흰빛을 띤 눈은 당신의 모든 움직임을 지켜보고 있습니다.
+auntaries,dlg,EntryList/45/Text,0,<CUSTOM1004>뿌옇게 흐린 눈이 당신의 모든 움직임을 지켜본다.
 auntaries,dlg,EntryList/46/Text,0,"""나는 서쪽 통로를 따라 있는 창고 근처에 있는 제단을 직접 발견했다. 그 오래된 탑 안에서 이 제단을 발견했고, 아마도 과거에는 종교 의식에 사용되었지만 최근에는 희생을 위해 사용되었다."""
 auntaries,dlg,EntryList/47/Text,0,"""숲을 탐구하고 연구하면서 쌍둥이 둘 다 부상을 당했고 그들의 영은 살아 있는 땅으로 돌아갈 수 있었다는 것을 알게 되었습니다""."
 auntaries,dlg,EntryList/48/Text,0,"""그들의 뼈는 반드시 발견되어 살아 있을 때 소유하던 물건과 함께 그들의 무덤으로 반환되어야 합니다. 그렇게만 해야만 그들은 휴식을 취하게 되고, 저는 다시 그 나무가 휴식을 취할 것이라고 바랍니다."""
@@ -10852,7 +10852,7 @@ book004,dlg,ReplyList/2/Text,0,계속해.
 book004,dlg,ReplyList/3/Text,0,현재는 이를 제외하고 다른 일에 집중하라.
 book004,dlg,ReplyList/4/Text,0,읽어보세요
 bookcase,dlg,EntryList/0/Text,0,<CUSTOM1004> 책들이 선반을 가득 채우고 있습니다.
-bookcase,dlg,EntryList/1/Text,0,<CUSTOM1004> 당신의 눈은 수백 권의 책들을 번쩍이면서 훑어보는 중입니다.
+bookcase,dlg,EntryList/1/Text,0,<CUSTOM1004>당신의 눈이 수백 권의 책 위를 빠르게 훑는다.
 bookcase,dlg,EntryList/2/Text,0,<CUSTOM1004> 현재는 아무것도 눈에 띄지 않는 것 같아.
 bookcase,dlg,EntryList/3/Text,0,<CUSTOM1004>지구 갈색의 책이 눈에 들어옵니다. 그 척추는 금으로 부각되어 남쪽 드워프들을 읽습니다.
 bookcase,dlg,EntryList/5/Text,0,"<CUSTOM1004>박다가 남긴 표지가 찍힌 책을 발견하고, 그 책을 책장에서 꺼내온다."
@@ -12105,7 +12105,7 @@ fom_keth,dlg,ReplyList/88/Text,0,안녕하세요
 fombookcase,dlg,EntryList/0/Text,0,창고
 fombookcase,dlg,EntryList/1/Text,0,"<CUSTOM1004> 당신이 찾고 있는 책을 몇 초 만에 찾을 수 있었는데, 그것은 부패한 엄지처럼 눈에 띄는 것 같았다."
 fombookcase,dlg,EntryList/4/Text,0,<CUSTOM1004> 책들이 선반을 가득 채우고 있습니다.
-fombookcase,dlg,EntryList/5/Text,0,<CUSTOM1004> 당신의 눈은 수백 권의 책들을 번쩍이면서 훑어보는 중입니다.
+fombookcase,dlg,EntryList/5/Text,0,<CUSTOM1004>당신의 눈이 수백 권의 책 위를 빠르게 훑는다.
 fombookcase,dlg,EntryList/6/Text,0,<CUSTOM1004> 현재는 아무것도 눈에 띄지 않는 것 같아.
 fombookcase,dlg,EntryList/13/Text,0,"<CUSTOM1004> 당신은 무엇을 찾고 있는지 알아내는데 오래 걸리지 않습니다. 척추에 갈색 글자가 있는 두꺼운 책에는 <CUSTOM1001> ""천사와 악마의 날개""가 적혀 있습니다."
 fombookcase,dlg,ReplyList/0/Text,0,계속해.
@@ -14471,7 +14471,9 @@ area001,git,Placeable List/259/LocName,0,왜곡된 뿌리
 area001,git,Placeable List/260/LocName,0,고갈된 표지판
 area001,git,Placeable List/260/Description,0,위험요! 돌이 앞으로 떨어질 거야.
 area001,git,Placeable List/261/LocName,0,다 로
-area001,git,Placeable List/261/Description,0,여기 찐다 루이 있습니다. 그녀는 길을 벗어났고 뿌리에 의해 죽었습니다.
+area001,git,Placeable List/261/Description,0,"여기 챈다 로 잠들다.
+그녀는 길을 벗어났다가
+나무뿌리에 목숨을 잃었다."
 area001,git,Placeable List/262/LocName,0,가니카누라
 area001,git,Placeable List/262/Description,0,"꽃을 피우는 젊은이들, 지나가면서, 그리고 이 경로를 살펴보세요. 지금과 같이, 내가 한 때, 지금과 같이, 당신은 되어야 합니다. 죽음을 준비하고 나를 따르십시오."
 area001,git,Placeable List/263/LocName,0,왜곡된 뿌리
@@ -25184,7 +25186,7 @@ area065,git,Placeable List/163/LocName,0,스모크 패프
 area065,git,Placeable List/236/LocName,0,스모크 패프
 area065,git,Placeable List/237/ItemList/0/LocalizedName,0,치명타 회복 양피지
 area065,git,Placeable List/237/ItemList/0/DescIdentified,0,양털로 만든 이 낙엽 종이에는 치명적인 상처 치료 casting에 적합한 구성 요소와 주문 속임수들이 있습니다.
-area065,git,Placeable List/238/Description,0,이 작은 용기의 뚜껑은 눈으로 덮여 있습니다.
+area065,git,Placeable List/238/Description,0,이 작은 용기의 뚜껑은 눈으로 덮여 있다.
 area065,git,Placeable List/238/ItemList/0/LocalizedName,0,황금 호신부
 area065,git,Placeable List/238/ItemList/0/Description,0,이 황금 φυλα지는 손바닥에 빛나는 것입니다.
 area065,git,Placeable List/238/ItemList/0/DescIdentified,0,이 황금자리에는 금속의 끈이 잘 싸여있기 때문에 주의가 기울여 있습니다. 이자리들이 빛을 반사하도록 돌리면 이국적이고 신비로운 상징들이 볼 수 있습니다.
@@ -25390,7 +25392,7 @@ area067,git,Placeable List/107/LocName,0,창문 오래된 붉은 커튼
 area067,git,Placeable List/108/LocName,0,촛불 004
 area067,git,Placeable List/109/LocName,0,촛불 004
 area067,git,Placeable List/115/LocName,0,캐비닛 문
-area067,git,Placeable List/115/Description,0,이 캐비닛의 나무 문은 때때로 떨린다.
+area067,git,Placeable List/115/Description,0,이 장식장의 나무 문이 이따금 덜컹거린다.
 area067,git,Placeable List/115/ItemList/0/LocalizedName,0,질병 조제된 물약
 area067,git,Placeable List/115/ItemList/0/Description,0,"이건 집에서 만든 질병 통제 포션인데, 머드베리 맘션에서 발견했네.
 보이는 것처럼 누군가 측정외의 조제를 하고 있었어."
@@ -27430,7 +27432,7 @@ ic1_basement,git,Placeable List/132/ItemList/0/LocalizedName,0,쪽지
 ic1_basement,git,Placeable List/132/ItemList/0/Description,0,이 종이에 몇 가지 그림과 함께 음악 상자를 만드는 데 필요한 사항에 대한 지침이 있습니다. 기어까지 상세합니다. 아마도 누군가가 누군가에게 선물을 만들고 완료하는 과정에 있었으나 완료하지 못했습니다.
 ic1_basement,git,Placeable List/132/ItemList/0/DescIdentified,0,이 종이에 몇 가지 그림과 함께 음악 상자를 만드는 데 필요한 사항에 대한 지침이 있습니다. 기어까지 상세합니다. 아마도 누군가가 누군가에게 선물을 만들고 완료하는 과정에 있었으나 완료하지 못했습니다.
 ic1_basement,git,Placeable List/133/LocName,0,웹링
-ic1_basement,git,Placeable List/133/Description,0,고착된 덫 덩이와 더는 없어.
+ic1_basement,git,Placeable List/133/Description,0,"끈끈한 거미줄 조각이 있을 뿐, 다른 건 없다."
 ic1_basement,git,Placeable List/133/ItemList/0/LocalizedName,0,스파이더 실침
 ic1_basement,git,Placeable List/133/ItemList/0/Description,0,"이 끈적한 물질은 스파이더 실크입니다, 제조에 필요한 재료 중 하나입니다."
 ic1_basement,git,Placeable List/133/ItemList/0/DescIdentified,0,"이 끈적한 물질은 스파이더 실크입니다, 제조에 필요한 재료 중 하나입니다."
