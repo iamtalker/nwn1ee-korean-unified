@@ -709,7 +709,7 @@ ls_towerguard1,dlg,EntryList/7/Text,0,"""결국, 익사해의 인간 노예가 �
 ls_towerguard1,dlg,EntryList/8/Text,0,"""내가 말했듯이, 모어그림 경과 그의 레이디 샤를은 가리지 않고 있습니다. 그들은 중요한 손님들을 수용하고 있습니다. 며칠 후에 다시 오세요."
 ls_towerguard1,dlg,EntryList/9/Text,0,"""어리석은 소리 마라. 이 문들은 용의 공격도 견딜 수 있고, 안에는 무장한 경비병이 백 명이나 있다. 게다가 스톰 실버핸드 같은 인물까지 있고. 내가 너라면 켈렘보르를 만나겠다고 그렇게 서두르지 않겠다."""
 ls_towerguard1,dlg,EntryList/10/Text,0,"""하나님께 맹세코레, 드워가 다시 돌아와 타워를 되찾으려 해!"""
-ls_towerguard1,dlg,EntryList/11/Text,0,"""타워 경비대 지휘관 튜르발에게 말해보세요. 그는 탑 안으로 들어가면서 바로 앞쪽에 있는 입구홀에 있습니다."""
+ls_towerguard1,dlg,EntryList/11/Text,0,"""탑 경비대장 서발에게 말해 보세요. 탑 안으로 들어서자마자 보이는 입구 홀에 있습니다."""
 ls_towerguard1,dlg,EntryList/12/Text,0,"""이 탑은 수백 년 전 드로우의 요새였습니다. 우리는 언더다크 입구 근처에서 사소한 교전을 벌였지만, 이렇게 대규모의 공격은 처음입니다. 그들의 수는 전체 골짜기를 압도할 수 있습니다!"""
 ls_towerguard1,dlg,EntryList/13/Text,0,"""잠을 막아야 한다!"""
 ls_towerguard1,dlg,ReplyList/0/Text,0,"""보안해"""
@@ -1164,7 +1164,7 @@ ss_hole,dlg,ReplyList/1/Text,0,<StartAction>[홀을 둘러봐.]</Start>
 ss_hole,dlg,ReplyList/3/Text,0,<StartAction>[ 떠나.]</Start>
 ss_hole,dlg,ReplyList/4/Text,0,<StartAction>[반짝이는 물체를 찾아라.]</Start>
 ss_kragpassage,dlg,EntryList/0/Text,0,"벽의 이 균열은 어두운 통로로 이어집니다. 통로는 약간 좁아서 통과하기는 힘들지만, 어두운 통로 내부에서 작은 발소리가 들립니다."
-ss_kragpassage,dlg,EntryList/1/Text,0,"침묵의 한 순간이 지나고, 슥삭하는 소리가 들리자 무엇인가가 당신에게 직진해 온다!"
+ss_kragpassage,dlg,EntryList/1/Text,0,한순간의 침묵이 흐른다 - 그리고 후다닥거리는 소리를 내던 무언가가 곧장 당신에게 달려든다!
 ss_kragpassage,dlg,EntryList/2/Text,0,더 이상 보는 것이 없어.
 ss_kragpassage,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
 ss_kragpassage,dlg,ReplyList/1/Text,0,<StartAction> [어둠에 울라.]</Start>
@@ -1436,7 +1436,7 @@ area006,git,TriggerList/2/LocalizedName,0,맛_예술
 area006,git,WaypointList/0/MapNote,0,성 마당
 area006,git,WaypointList/10/LocalizedName,0,인카운터
 area006,git,Placeable List/0/LocName,0,두개골 조각상
-area006,git,Placeable List/0/Description,0,거대한 돌로 만든 골골이 당신 앞에 우뚝 서 있습니다. 조각가가 미소를 지었는지 아닌지 확실하지 않습니다.
+area006,git,Placeable List/0/Description,0,거대한 돌 해골이 당신 앞에 우뚝 서 있다. 조각가가 웃는 얼굴로 만들었는지는 알기 어렵다.
 area006,git,Placeable List/1/LocName,0,침대 - 베개
 area006,git,Placeable List/1/Description,0,잘 만들어진 이 침대는 부드러운 담요로 덮여 있어 가장 황실에서도 가장 특별히 다루지 않는 왕족들을도 편안하게 해줄 것 같았다.
 area006,git,Placeable List/2/LocName,0,책장
