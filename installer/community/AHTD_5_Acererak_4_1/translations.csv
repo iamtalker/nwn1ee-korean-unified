@@ -253,7 +253,7 @@ human01,dlg,EntryList/0/Text,0,"""Drow?! 그래서 나는 Acererak의 손에서 
 human01,dlg,EntryList/1/Text,0,"""이곳에 들어온 건 바보야."""
 human01,dlg,EntryList/2/Text,0,"""우리는 일곱 명이어서 에세레라크의 무덤에 들어갔다."""
 human01,dlg,EntryList/3/Text,0,"""데빈, 우리의 도적은 오른쪽 입구 통로에서 함정을 해제하는 동안 사라졌습니다."""
-human01,dlg,EntryList/4/Text,0,"""우리는 중간 입구로 나갔지만 다른 두 명은 비밀 통로에서 함정을 트이자 화상을 입어 불에 탔습니다."""
+human01,dlg,EntryList/4/Text,0,"""우리는 중간 입구로 향했지만, 나머지 둘은 비밀 통로에서 함정을 건드려 재가 되도록 타 죽었소."""
 human01,dlg,EntryList/5/Text,0,"""우리는 통로를 미로처럼 만들었지만 문이 잠겨있었고, 골렘들이 이곳을 지키고 있습니다."""
 human01,dlg,EntryList/6/Text,0,"""우리는 둘러싸여 있었고, 그들이 우리를 조각내기 시작했을 때 나는 유일하게 도망칠 수 있었다."""
 human01,dlg,EntryList/7/Text,0,"""그러므로 여기 있는 나는 약하고 상처받은 상태며, 대부분의 장비가 없어졌다. 네가 해야 할 일을 하거나 내 길을 내버려두게."""
@@ -810,9 +810,9 @@ acerakentrance,git,Placeable List/43/Description,0,새혈에 새겨진 불분명
 acerakentrance,git,Placeable List/48/LocName,0,빛줄기
 acerakentrance,git,Placeable List/48/Description,0,불타는 오렌지색 빛이 보이지 않는 곳에서 내려옵니다.
 acerakentrance,git,Placeable List/50/LocName,0,조각상
-acerakentrance,git,Placeable List/50/Description,0,이 무표정한 눈은 당신을 바라보는 것조차도 눈을 뗄 수 없다. 이 인물이 누구였는지 알 수 있는 표시는 없다.
+acerakentrance,git,Placeable List/50/Description,0,이 조각상의 깜박이지 않는 눈이 멍하니 당신의 시선을 마주한다. 이 인물이 누구였는지 알려 주는 표식은 없다.
 acerakentrance,git,Placeable List/51/LocName,0,조각상
-acerakentrance,git,Placeable List/51/Description,0,이 무표정한 눈은 당신을 바라보는 것조차도 눈을 뗄 수 없다. 이 인물이 누구였는지 알 수 있는 표시는 없다.
+acerakentrance,git,Placeable List/51/Description,0,이 조각상의 깜박이지 않는 눈이 멍하니 당신의 시선을 마주한다. 이 인물이 누구였는지 알려 주는 표식은 없다.
 acerakentrance,git,Placeable List/52/LocName,0,받침대
 acerakentrance,git,Placeable List/52/Description,0,"낮은 기둥은 알바스터색으로 빛나며, 그 그림자가 조각난 기둥을 따라 흐른다."
 acerakentrance,git,Placeable List/52/ItemList/0/LocalizedName,0,아세레라크의 무덤 열쇠
@@ -916,7 +916,7 @@ acerakentrance,git,Placeable List/223/Description,0,두꺼운 금속띠가 배�
 acerakentrance,git,Placeable List/225/LocName,0,고대 오븐
 acerakentrance,git,Placeable List/225/Description,0,"강렬한 파도가 용기에서 불을 불어넣는다. 공기는 뜨겁게 달아오르며, 머리가 어지럽고 자신이 아닌 것 같은 느낌이 든다."
 acerakentrance,git,Placeable List/228/LocName,0,조각상
-acerakentrance,git,Placeable List/228/Description,0,이 무표정한 눈은 당신을 바라보는 것조차도 눈을 뗄 수 없다. 이 인물이 누구였는지 알 수 있는 표시는 없다.
+acerakentrance,git,Placeable List/228/Description,0,이 조각상의 깜박이지 않는 눈이 멍하니 당신의 시선을 마주한다. 이 인물이 누구였는지 알려 주는 표식은 없다.
 acerakentrance,git,Placeable List/229/Description,0,"작은 바람이 물 표면을 가르며, 당신의 반사가 살아 있는 것처럼 보입니다."
 acerakentrance,git,Placeable List/246/LocName,0,먼지 둥글
 acerakentrance,git,Placeable List/246/Description,0,"주의 깊게 들으면, 청동 종이 당신의 존재를 인정하는 것처럼 당신의 걸음마다 부드럽게 울리는 소리를 들을 수 있습니다."
@@ -1344,7 +1344,7 @@ area001,git,Creature List/16/ItemList/0/DescIdentified,0,"The Watch 라는 전�
 area001,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,바론의 제례 갑옷
 area001,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 area001,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,화염의 쇠뇌화살
-area001,git,Creature List/16/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
+area001,git,Creature List/16/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 발사되면 불길에 휩싸이며, 기름에 적셔 불을 붙인 비마법 볼트와 거의 같은 효과를 낸다."
 area001,git,Creature List/17/FirstName,0,경비의 기사
 area001,git,Creature List/17/ItemList/0/LocalizedName,0,헬름의 사제식 갑옷
 area001,git,Creature List/17/ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
@@ -1358,7 +1358,7 @@ area001,git,Creature List/17/Equip_ItemList/2/DescIdentified,0,"혼란스럽거�
 area001,git,Creature List/17/Equip_ItemList/3/LocalizedName,0,기사의 방패
 area001,git,Creature List/17/Equip_ItemList/3/DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
 area001,git,Creature List/17/Equip_ItemList/4/LocalizedName,0,화염의 쇠뇌화살
-area001,git,Creature List/17/Equip_ItemList/4/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
+area001,git,Creature List/17/Equip_ItemList/4/DescIdentified,0,"불의 볼트는 발사되면 불길에 휩싸이며, 기름에 적셔 불을 붙인 비마법 볼트와 거의 같은 효과를 낸다."
 area001,git,Creature List/18/FirstName,0,경비의 기사
 area001,git,Creature List/18/ItemList/0/LocalizedName,0,헬름의 사제식 갑옷
 area001,git,Creature List/18/ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
@@ -1372,7 +1372,7 @@ area001,git,Creature List/18/Equip_ItemList/2/DescIdentified,0,"혼란스럽거�
 area001,git,Creature List/18/Equip_ItemList/3/LocalizedName,0,기사의 방패
 area001,git,Creature List/18/Equip_ItemList/3/DescIdentified,0,"The Watch 라는 전투 브리거드를 결성한 후, 의 적 사회를 적 정신이 통제한 것으로 보인다. 이 새로운 지도자가 가진 계획은 엘리트 전사들이 가지고 있는 방패의 창조에서만 짐작할 수 있습니다. 유목민족은 몇 부족이 완전히 사라진 후, 경계하기 시작했습니다."
 area001,git,Creature List/18/Equip_ItemList/4/LocalizedName,0,화염의 쇠뇌화살
-area001,git,Creature List/18/Equip_ItemList/4/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
+area001,git,Creature List/18/Equip_ItemList/4/DescIdentified,0,"불의 볼트는 발사되면 불길에 휩싸이며, 기름에 적셔 불을 붙인 비마법 볼트와 거의 같은 효과를 낸다."
 area001,git,Creature List/19/FirstName,0,엘프 궁수
 area001,git,Creature List/19/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 area001,git,Creature List/19/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2181,7 +2181,7 @@ area003,git,Placeable List/62/Description,0,의심스럽게 둘러보지만 아�
 area003,git,Placeable List/63/LocName,0,투명 물체
 area003,git,Placeable List/63/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 area003,git,Placeable List/65/LocName,0,조각상
-area003,git,Placeable List/65/Description,0,이 무표정한 눈은 당신을 바라보는 것조차도 눈을 뗄 수 없다. 이 인물이 누구였는지 알 수 있는 표시는 없다.
+area003,git,Placeable List/65/Description,0,이 조각상의 깜박이지 않는 눈이 멍하니 당신의 시선을 마주한다. 이 인물이 누구였는지 알려 주는 표식은 없다.
 area003,git,Placeable List/68/LocName,0,썩은궤짝
 area003,git,Placeable List/68/Description,0,"이상한 룬과 그림자, 아마도 미묘한 자연, 이 은폐된 강박의 옆구리에 불태워졌습니다."
 area003,git,Placeable List/68/ItemList/0/LocalizedName,0,네테릴의 히스토리 - 3부
@@ -3039,7 +3039,7 @@ lookingdownthehi,git,Creature List/0/ItemList/3/DescIdentified,0,"이 헬멧은 
 lookingdownthehi,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,헬름의 사제식 갑옷
 lookingdownthehi,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 lookingdownthehi,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,화염의 쇠뇌화살
-lookingdownthehi,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
+lookingdownthehi,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 발사되면 불길에 휩싸이며, 기름에 적셔 불을 붙인 비마법 볼트와 거의 같은 효과를 낸다."
 lookingdownthehi,git,Creature List/1/FirstName,0,경비의 기사
 lookingdownthehi,git,Creature List/1/ItemList/0/LocalizedName,0,헬름의 사제식 갑옷
 lookingdownthehi,git,Creature List/1/ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
@@ -3053,7 +3053,7 @@ lookingdownthehi,git,Creature List/1/ItemList/3/DescIdentified,0,"이 헬멧은 
 lookingdownthehi,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,헬름의 사제식 갑옷
 lookingdownthehi,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 lookingdownthehi,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,화염의 쇠뇌화살
-lookingdownthehi,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
+lookingdownthehi,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 발사되면 불길에 휩싸이며, 기름에 적셔 불을 붙인 비마법 볼트와 거의 같은 효과를 낸다."
 lookingdownthehi,git,Creature List/2/FirstName,0,바론 프레드릭
 lookingdownthehi,git,Creature List/2/LastName,0,모닝시드
 lookingdownthehi,git,Creature List/2/ItemList/0/LocalizedName,0,기사의 방패
@@ -3061,7 +3061,7 @@ lookingdownthehi,git,Creature List/2/ItemList/0/DescIdentified,0,"The Watch 라�
 lookingdownthehi,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,바론의 제례 갑옷
 lookingdownthehi,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,"이 의복은 베오룬나의 우물의 우스그르트 마을에서 임시 도금융장에서 일하던 왜인 바룬 (Barun) 의 표적을 지니고 있다. 그는 1373년 DR 후반에, 북부 도시 네버윈터와 Лор드 동맹을 향해 행진했던 배신자 레이디 아리베트에 대한 전쟁 노력을 돕기 위해 만들어 냈다."
 lookingdownthehi,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,화염의 쇠뇌화살
-lookingdownthehi,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
+lookingdownthehi,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"불의 볼트는 발사되면 불길에 휩싸이며, 기름에 적셔 불을 붙인 비마법 볼트와 거의 같은 효과를 낸다."
 lookingdownthehi,git,Creature List/3/FirstName,0,엘프 궁수
 lookingdownthehi,git,Creature List/3/ItemList/0/LocalizedName,0,나무껍질 피부의 물약
 lookingdownthehi,git,Creature List/3/ItemList/0/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -4085,11 +4085,11 @@ piwiewienshea001,uti,Description,0,"이것은 피우비안 테트니스, 로스�
 piwiewienshead,uti,LocalizedName,0,피우비엔 머리
 piwiewienshead,uti,Description,0,"이것은 피우비안 테트니스, 로스의 제사장의 무사한 머리입니다."
 poisonamplifi001,uti,LocalizedName,0,독성 증폭기
-poisonamplifi001,uti,Description,0,이 이상한 모양의 기계는 분명히 어떤 종류의 증폭기인 것 같다. 화산 즙을 매우 독성적인 기체로 변환한다.
+poisonamplifi001,uti,Description,0,이 기이하게 생긴 장치는 분명 일종의 증폭기다. 화산의 증기를 맹독 가스로 바꾼다.
 poisonamplifi002,uti,LocalizedName,0,독성 증폭기
-poisonamplifi002,uti,Description,0,이 이상한 모양의 기계는 분명히 어떤 종류의 증폭기인 것 같다. 화산 즙을 매우 독성적인 기체로 변환한다.
+poisonamplifi002,uti,Description,0,이 기이하게 생긴 장치는 분명 일종의 증폭기다. 화산의 증기를 맹독 가스로 바꾼다.
 poisonamplifier,uti,LocalizedName,0,독성 증폭기
-poisonamplifier,uti,Description,0,이 이상한 모양의 기계는 분명히 어떤 종류의 증폭기인 것 같다. 화산 즙을 매우 독성적인 기체로 변환한다.
+poisonamplifier,uti,Description,0,이 기이하게 생긴 장치는 분명 일종의 증폭기다. 화산의 증기를 맹독 가스로 바꾼다.
 sash001,uti,LocalizedName,0,희미한 빛의 띠
 sash001,uti,DescIdentified,0,"마법사 중밤이 그녀의 능력이 신들 사이에서 자리를 차지할 정도로 커지는 것을 보았을 때, 그녀의 영혼은 직결의 조직에서 마법을 마셨다. 그녀는 상승하여, 그녀의 육체적 자아와 소유물을 많이 버렸지만, 그들도 변형되었다. 그녀가 착용한 허리띠는 너무 많은 에너지를 흡수하여 갈라지고, 각각의 조각은 독자적으로 강력한 아이템이 되어 휘두르는 자를 마법으로부터 보호했다."
 sei_sla_1,uti,LocalizedName,0,마법적인 능력
@@ -4123,13 +4123,13 @@ wammar014,uti,DescIdentified,0,이 마법 탄약은 손상을 입는 부너스�
 wammbo005,uti,LocalizedName,0,관통의 관통화살
 wammbo005,uti,DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
 wammbo006,uti,LocalizedName,0,화염의 쇠뇌화살
-wammbo006,uti,DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
+wammbo006,uti,DescIdentified,0,"불의 볼트는 발사되면 불길에 휩싸이며, 기름에 적셔 불을 붙인 비마법 볼트와 거의 같은 효과를 낸다."
 wammbo008,uti,LocalizedName,0,독 화살
 wammbo008,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 wammbo009,uti,LocalizedName,0,약한 독 화살
 wammbo009,uti,DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 wammbo010,uti,LocalizedName,0,화염의 쇠뇌화살
-wammbo010,uti,DescIdentified,0,"불의 볼트는 불에 부딪히면서 불에 튀어나오는데, 그 효과는 기름에 담긴 비마법적인 볼트와 거의 동일하다."
+wammbo010,uti,DescIdentified,0,"불의 볼트는 발사되면 불길에 휩싸이며, 기름에 적셔 불을 붙인 비마법 볼트와 거의 같은 효과를 낸다."
 wammbo011,uti,LocalizedName,0,마비의 쇠뇌 화살
 wammbo011,uti,DescIdentified,0,이 유형의 볼트는 목표물을 놀라게 할 수 있습니다. 하지만 전력과 기간은 볼트의 크리에이터의 힘에 의해 결정됩니다.
 wammbo012,uti,LocalizedName,0,독 화살

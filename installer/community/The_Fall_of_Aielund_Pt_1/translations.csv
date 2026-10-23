@@ -627,7 +627,7 @@ courtier,dlg,EntryList/0/Text,0,"우리 함대의 대부분이 여기 돌아와�
 courtier,dlg,EntryList/1/Text,0,쿨든리 주변에서 이상한 일이 벌어지고 있다고 들었어요. 심각한 일이라면 바람직하지 않네요.
 courtier,dlg,EntryList/2/Text,0,"왕으로부터 들은 마지막 말은 그가 승리의 가장자리에 있다는 것을 암시했고, 나는 이 모든 것이 빨리 끝나길 희망한다."
 courtier,dlg,EntryList/3/Text,0,항구에는 선원들이 넘쳐나서 사랑이나 돈으로도 들어갈 수 없어.
-courtier,dlg,EntryList/4/Text,0,"전국적으로 이상한 날씨가 가라앉아서, 우리는 좋은 봄을 앞두고 있습니다!"
+courtier,dlg,EntryList/4/Text,0,"소문에 의하면 이 땅 전역을 덮었던 이상한 날씨가 가라앉았고, 우리 앞에 멋진 봄이 다가오고 있다고 합니다!"
 criosa,dlg,EntryList/2/Text,0,"부탁해, '왕후'라고 부르지 마, 너무 많은 형식들을 함께 해왔어."
 criosa,dlg,EntryList/4/Text,0,고스란히 부적절합니다. 이례적으로 이례적인 규정을 허용하는 것에 반발합니다.
 criosa,dlg,EntryList/6/Text,0,"당신의 고귀함, 진심으로!"
@@ -2727,7 +2727,9 @@ mali_dm_paa,dlg,ReplyList/84/Text,0,<CUSTOM11012>
 mali_dm_paa,dlg,ReplyList/85/Text,0,<CUSTOM11011>
 mali_dm_paa,dlg,ReplyList/86/Text,0,<CUSTOM11010>
 mali_dm_stage,dlg,EntryList/1/Text,0,현재 <CUSTOM11034>와 맞서고 있습니다. 조정을 선택하세요.
-mali_dm_stage,dlg,EntryList/3/Text,0,현재 사용 횟수: <CUSTOM11030> 최대 사용 횟수: <CUSTOM11031> 동시 설정 허용: <CUSTOM11032>
+mali_dm_stage,dlg,EntryList/3/Text,0,"현재 사용 횟수: <CUSTOM11030>
+최대 사용 횟수: <CUSTOM11031>
+동시 허용 세트 수: <CUSTOM11032>"
 mali_dm_stage,dlg,EntryList/4/Text,0,동시 설정이 허용됩니다: <CUSTOM11032> 한 번에 플레이어가 몇 개를 생성할 수 있는지 선택하세요.
 mali_dm_stage,dlg,EntryList/5/Text,0,"최대 사용 횟수: <CUSTOM11031>
 플레이어가 이 세트를 몇 번까지 사용할 수 있도록 하시겠습니까?"
@@ -3235,7 +3237,7 @@ pat,dlg,ReplyList/15/Text,0,"알았어, 그를 찾아내야 할 시간이라고 
 phillips,dlg,EntryList/0/Text,0,나는 배를 빨리 싸매줄 수 있으면 다시 나가야 해.
 phillips,dlg,EntryList/1/Text,0,회사 이사들이 재건에서 금을 쌓고 있다고 들었어요.
 phillips,dlg,EntryList/2/Text,0,최근 드래곤을 많이 보지 못했네. 이 둥지를 따라가는 드래곤이 좋은 징조일 바라네.
-phillips,dlg,EntryList/3/Text,0,"저는 북 셔어 트레이딩 컴퍼니에서 일하고 있지만, 외부 계약자로서 내부 상황을 잘 모르겠습니다."
+phillips,dlg,EntryList/3/Text,0,북쪽 해안 무역회사에서 일하긴 하지만 외부 계약자라서 그쪽 내부 사정은 잘 모릅니다.
 phillips,dlg,EntryList/4/Text,0,"항구에서 상황은 매우 어둡고, 항만 노동자들은 기분이 좋지 않습니다."
 phillips,dlg,EntryList/5/Text,0,"나는 빠르게 이 문제를 해결해 줄 수 있기를 바라지만, 지금은 화물이 있으니 조만간 해주길 바래."
 pianoguy,dlg,EntryList/0/Text,0,"세상에, 시간이 늦었네. 정말 자러 가야겠어!"
@@ -5062,14 +5064,14 @@ fairloch,git,Creature List/50/FirstName,0,민병대 궁수
 fairloch,git,Creature List/50/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 fairloch,git,Creature List/50/Equip_ItemList/0/LocalizedName,0,경비원의 갑옷
 fairloch,git,Creature List/50/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-fairloch,git,Creature List/50/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+fairloch,git,Creature List/50/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 fairloch,git,Creature List/50/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 fairloch,git,Creature List/50/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 fairloch,git,Creature List/51/FirstName,0,민병대 궁수
 fairloch,git,Creature List/51/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 fairloch,git,Creature List/51/Equip_ItemList/0/LocalizedName,0,경비원의 갑옷
 fairloch,git,Creature List/51/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-fairloch,git,Creature List/51/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+fairloch,git,Creature List/51/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 fairloch,git,Creature List/51/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 fairloch,git,Creature List/51/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 fairloch,git,Creature List/52/FirstName,0,민병대 대장
@@ -5891,28 +5893,28 @@ highmarchg,git,Creature List/10/FirstName,0,민병대 궁수
 highmarchg,git,Creature List/10/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 highmarchg,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,경비원의 갑옷
 highmarchg,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-highmarchg,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+highmarchg,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 highmarchg,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 highmarchg,git,Creature List/10/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 highmarchg,git,Creature List/11/FirstName,0,민병대 궁수
 highmarchg,git,Creature List/11/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 highmarchg,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,경비원의 갑옷
 highmarchg,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-highmarchg,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+highmarchg,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 highmarchg,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 highmarchg,git,Creature List/11/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 highmarchg,git,Creature List/12/FirstName,0,민병대 궁수
 highmarchg,git,Creature List/12/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 highmarchg,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,경비원의 갑옷
 highmarchg,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-highmarchg,git,Creature List/12/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+highmarchg,git,Creature List/12/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 highmarchg,git,Creature List/12/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 highmarchg,git,Creature List/12/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 highmarchg,git,Creature List/13/FirstName,0,민병대 궁수
 highmarchg,git,Creature List/13/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 highmarchg,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,경비원의 갑옷
 highmarchg,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-highmarchg,git,Creature List/13/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+highmarchg,git,Creature List/13/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 highmarchg,git,Creature List/13/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 highmarchg,git,Creature List/13/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 highmarchg,git,Creature List/14/FirstName,0,평민
@@ -5977,7 +5979,7 @@ himarchsth,git,Creature List/0/FirstName,0,민병대 궁수
 himarchsth,git,Creature List/0/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 himarchsth,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,경비원의 갑옷
 himarchsth,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-himarchsth,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+himarchsth,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 himarchsth,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 himarchsth,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 himarchsth,git,Creature List/1/FirstName,0,민병대
@@ -6250,14 +6252,14 @@ knighting,git,Creature List/19/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/19/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/19/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/19/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/19/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/19/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/19/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/20/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/20/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/20/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/20/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/20/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/20/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/20/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/21/FirstName,0,테리누스
@@ -6274,56 +6276,56 @@ knighting,git,Creature List/23/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/23/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/23/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/23/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/23/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/23/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/23/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/24/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/24/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/24/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/24/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/24/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/24/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/24/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/25/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/25/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/25/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/25/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/25/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/25/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/25/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/26/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/26/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/26/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/26/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/26/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/26/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/26/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/27/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/27/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/27/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/27/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/27/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/27/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/27/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/27/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/28/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/28/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/28/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/28/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/28/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/28/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/28/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/28/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/29/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/29/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/29/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/29/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/29/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/29/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/29/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/29/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/30/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/30/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/30/Equip_ItemList/0/LocalizedName,0,사슬갑옷
 knighting,git,Creature List/30/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-knighting,git,Creature List/30/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+knighting,git,Creature List/30/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 knighting,git,Creature List/30/Equip_ItemList/2/LocalizedName,0,호신부 갑옷 +2
 knighting,git,Creature List/30/Equip_ItemList/2/DescIdentified,0,"고령이 전투에서 은퇴를 강요했을 때, 전사 테렌은 대신 교사가 되어 지역 청소년들에게 전투 예술을 가르쳤다. 마법에 대한 오랜 관심은 재조동되었고, 그의 기술이 향상됨에 따라, 그는 자신의 학생들이 자신을 해치지 않도록 이러한 Amulet을 만들기 시작했습니다. 결국 그의 작업은 너무 좋아서 조용한 삶을 포기하고 모험을 재개했습니다."
 knighting,git,Creature List/31/FirstName,0,코르티어
@@ -6546,7 +6548,7 @@ myrarcher,git,StoreList/0/StoreList/1/ItemList/8/DescIdentified,0,"이것은 포
 myrarcher,git,StoreList/0/StoreList/1/ItemList/13/LocalizedName,0,보드킨 화살
 myrarcher,git,StoreList/0/StoreList/1/ItemList/13/DescIdentified,0,악의적인 날카로운 금속 끝의 화살은 육체를 더 쉽게 찢는다.
 myrarcher,git,StoreList/0/StoreList/1/ItemList/15/LocalizedName,0,가장 큰 영향력
-myrarcher,git,StoreList/0/StoreList/1/ItemList/15/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+myrarcher,git,StoreList/0/StoreList/1/ItemList/15/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 myrarcher,git,StoreList/0/StoreList/4/ItemList/11/LocalizedName,0,"가죽 염료, 주황색"
 myrarcher,git,StoreList/0/StoreList/4/ItemList/12/LocalizedName,0,"가죽 염색, 검정"
 myrarcher,git,StoreList/0/StoreList/4/ItemList/13/LocalizedName,0,"가죽 염료, 파랑"
@@ -7356,7 +7358,7 @@ henchman_ponysp,utc,FirstName,0,"말, 점무늬 *"
 henchman_ponysp,utc,Description,0,"포니들은 가벼운 말과 비슷하고, 라이더를 타고서는 싸우지 못한다."
 henry,utc,FirstName,0,헨리
 henry,utc,LastName,0,넬슨
-henry,utc,Description,0,요새의 마법 장비 공급을 유지하기 위해 헨리는 이 작은 요새 도시에서 탑을 운영합니다.
+henry,utc,Description,0,요새의 마법 장비 보급을 책임지고 있는 헨리가 이 작은 요새 도시의 탑을 운영한다.
 horse002,utc,FirstName,0,호스 파우더
 huge_viper,utc,FirstName,0,거대한 사막 독사
 ignatius,utc,FirstName,0,이그나치우스
@@ -9036,14 +9038,14 @@ camoflagearmo001,uti,Description,0,이 갑옷은 착용자가 자연 환경과 �
 camoflagearmo001,uti,DescIdentified,0,로얄 레인저의 엘리트 멤버들이 사용하는 이 톱니 가죽 갑옷은 이동에 적은 비용으로 가벼운 버전보다 더 나은 보호를 제공합니다.
 camoflagearmo002,uti,LocalizedName,0,카모프레이지 갑옷
 camoflagearmo002,uti,Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-camoflagearmo002,uti,DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+camoflagearmo002,uti,DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 camoflagearmo003,uti,LocalizedName,0,엘리트 드루이드 갑옷
 camoflagearmo003,uti,DescIdentified,0,아이룬드의 폭력적인 드루이드 종파에 의해 착용된 이 갑옷은 토테믹 동물의 가죽으로 의식적으로 제작되었습니다. 비록 낡은 모습을 보이지만 여전히 효과적입니다.
 camoflagearmo004,uti,LocalizedName,0,드루이드 방어구
 camoflagearmo004,uti,DescIdentified,0,아이룬드의 폭력적인 드루이드 종파에 의해 착용된 이 갑옷은 토테믹 동물의 가죽으로 의식적으로 제작되었습니다. 비록 낡은 모습을 보이지만 여전히 효과적입니다.
 camoflagearmour,uti,LocalizedName,0,카모프레이지 갑옷
 camoflagearmour,uti,Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-camoflagearmour,uti,DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+camoflagearmour,uti,DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 canolothskin,uti,LocalizedName,0,카노로스 피부
 canolothtongue,uti,LocalizedName,0,카노로드 언어
 casque,uti,LocalizedName,0,갑옷 & 코프
@@ -9673,7 +9675,7 @@ hardleatherboots,uti,DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘�
 harpofnightmares,uti,LocalizedName,0,악몽의 해프
 harpofnightmares,uti,DescIdentified,0,이 악기 를 이용 하는 것 은 청취자 에게 최악의 공포 를 초래 할 수 있다는 이색적 인 점 들. 이 악기 를 연주 하는 것 은 가장 왜곡 된 바르드 들 이 자신 의 적 들 에게도 상상 할 수 있다.
 heavycrossbowofi,uti,LocalizedName,0,충격 크로스보우
-heavycrossbowofi,uti,DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+heavycrossbowofi,uti,DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 heavymaceoforder,uti,LocalizedName,0,질서의 중장 망치
 helm006,uti,LocalizedName,0,훼손된 사슬 헬멧
 helm006,uti,DescIdentified,0,이 사용 가능한 헬멧은 절단 무기로부터 우수한 보호를 제공합니다.

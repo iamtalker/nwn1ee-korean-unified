@@ -905,7 +905,7 @@ cul_innkeeper,dlg,EntryList/10/Text,0,"나는 너희를 갈아치우라고 했�
 cul_innkeeper,dlg,EntryList/11/Text,0,"내가 할 수 있는 또 다른 일이 있어, 친구?"
 cul_innkeeper,dlg,EntryList/12/Text,0,네 선생님의 스타일이 마음에 들어요. 항상 환영합니다.
 cul_innkeeper,dlg,ReplyList/1/Text,0,"고마워, 친구"
-cul_innkeeper,dlg,ReplyList/2/Text,0,"<StartCheck>[해적의 목소리]</Start>아, 선원님, 루미를 준비해오지 않으면, 배 아래로 끌어내리고 바닷속에 던져버리겠어요!"
+cul_innkeeper,dlg,ReplyList/2/Text,0,"<StartCheck>[해적 말투]</Start>어이, 친구, 럼주를 내놔라, 아니면 용골 밑으로 끌고 가서 깊은 바다에 처넣어 주마!"
 cul_innkeeper,dlg,ReplyList/3/Text,0,젠장
 cul_innkeeper,dlg,ReplyList/4/Text,0,어어!
 cul_innkeeper,dlg,ReplyList/5/Text,0,술을 좀 마시고 싶어요.
@@ -2142,7 +2142,7 @@ innkeeper,dlg,EntryList/12/Text,0,"실제로, 네 도움이 필요해."
 innkeeper,dlg,EntryList/13/Text,0,"마법사? 아니요, 근처에 아무도 없어요. 하지만 오래된 다일은 좀 지혜로운 사람입니다. 그는 당신이 살 수 있는 오래된 스크롤 몇 가지를 가지고 있을지도 몰라요."
 innkeeper,dlg,EntryList/14/Text,0,그는 여관 바로 서쪽에 있어. 큰 집이라 놓칠 수 없을 거야.
 innkeeper,dlg,EntryList/15/Text,0,"하지만 그렇게는 아니에요. 하지만 드루이드가 있다는 걸 믿을 수 있겠네요. 이름은 모르지만, 도시 남동쪽에 진영을 치고 있어요. 필요로 하는 무엇이든 도와줄 수 있을 거예요."
-innkeeper,dlg,EntryList/16/Text,0,로라 팰리엘의 가게는 거리 아래에 있습니다. 그녀와 남편은 다양한 옷과 가죽 상품을 판매합니다.
+innkeeper,dlg,EntryList/16/Text,0,이 길 바로 아래에 로라 파틸의 가게가 있어요. 그녀와 남편은 다양한 옷과 가죽 제품을 팔죠.
 innkeeper,dlg,EntryList/17/Text,0,"예, 젊은 하두시는 거리로 조금만 걸어가면 볼 수 있습니다. 어떤 이유로 인해 그의 가게 재고는 약간 부족하지만, 충분한 물건으로 당신을 시작할 수 있게 해줄 것입니다."
 innkeeper,dlg,EntryList/18/Text,0,이 모든 비가 내리는 동안 그들은 지나갈 수 없습니다. 한 달 동안 강렬한 비가 내렸어요. 저는 그런 것을 본 적이 없습니다. 도시 전체가 물에 잠겼습니다.
 innkeeper,dlg,EntryList/19/Text,0,나도 그 감정을 잘 안다! 북쪽 쿨든리로 사람을 보내보려 했는데 돌아오지 않았다.
@@ -2400,7 +2400,9 @@ mali_dm_paa,dlg,ReplyList/84/Text,0,<CUSTOM11012>
 mali_dm_paa,dlg,ReplyList/85/Text,0,<CUSTOM11011>
 mali_dm_paa,dlg,ReplyList/86/Text,0,<CUSTOM11010>
 mali_dm_stage,dlg,EntryList/1/Text,0,현재 <CUSTOM11034>와 맞서고 있습니다. 조정을 선택하세요.
-mali_dm_stage,dlg,EntryList/3/Text,0,현재 사용 횟수: <CUSTOM11030> 최대 사용 횟수: <CUSTOM11031> 동시 설정 허용: <CUSTOM11032>
+mali_dm_stage,dlg,EntryList/3/Text,0,"현재 사용 횟수: <CUSTOM11030>
+최대 사용 횟수: <CUSTOM11031>
+동시 허용 세트 수: <CUSTOM11032>"
 mali_dm_stage,dlg,EntryList/4/Text,0,동시 설정이 허용됩니다: <CUSTOM11032> 한 번에 플레이어가 몇 개를 생성할 수 있는지 선택하세요.
 mali_dm_stage,dlg,EntryList/5/Text,0,"최대 사용 횟수: <CUSTOM11031>
 플레이어가 이 세트를 몇 번까지 사용할 수 있도록 하시겠습니까?"
@@ -3481,7 +3483,7 @@ sailor1,dlg,EntryList/0/Text,0,여기 활처럼 다리를 휘두르는 여자들
 sailor1,dlg,EntryList/1/Text,0,여인의 지갑이군요! 그 지갑은 해상에서 배가 침몰한 이후에 5명의 남성이 들어가본 적이 없을 거예요!
 sailor1,dlg,EntryList/2/Text,0,네 다리는 여자다! 나는 그 얇은 다리들이 네 눈앞에서 바다로 휩쓸려 내려진 적이 없다고 장담한다!
 sailor1,dlg,EntryList/3/Text,0,위층에서 파티가 열린다고 들었어. 나도 가고 싶지만 나중에 일해야 해서.
-sailor1,dlg,EntryList/4/Text,0,최근은 바빠서 쉬는 시간이 별로 없었어. 이 전쟁땜에 물자도 스스로 움직이지 않아!
+sailor1,dlg,EntryList/4/Text,0,요즘 정말 바빴지. 이 전쟁 통에 쉴 틈이 별로 없어. 저 물자들이 저절로 움직이진 않으니까!
 sailor1,dlg,EntryList/5/Text,0,안녕하세요
 sailor2,dlg,EntryList/0/Text,0,"아하이, 선원. 서둘러 가거라."
 sailor3,dlg,EntryList/0/Text,0,"이건 술집이 아니야, 가버려."
@@ -5485,7 +5487,7 @@ area004,git,StoreList/1/StoreList/0/ItemList/2/LocalizedName,0,징박은 가죽 
 area004,git,StoreList/1/StoreList/0/ItemList/3/LocalizedName,0,가죽 갑옷 +1
 area004,git,StoreList/1/StoreList/0/ItemList/4/LocalizedName,0,카모프레이지 갑옷
 area004,git,StoreList/1/StoreList/0/ItemList/4/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-area004,git,StoreList/1/StoreList/0/ItemList/4/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+area004,git,StoreList/1/StoreList/0/ItemList/4/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 area004,git,StoreList/1/StoreList/0/ItemList/5/LocalizedName,0,어두운 망토
 area004,git,StoreList/1/StoreList/0/ItemList/5/DescIdentified,0,이 옷은 어두운 색뿐만 아니라 신체의 특유의 형태를 깨뜨리면서 눈에 띄는 것이 좀 어려워집니다.
 area004,git,StoreList/1/StoreList/0/ItemList/6/LocalizedName,0,수디 부츠
@@ -5711,7 +5713,7 @@ area006,git,Creature List/13/ItemList/1/LocalizedName,0,목재 장방패
 area006,git,Creature List/13/ItemList/1/DescIdentified,0,타워 방패는 추가된 무게와 부담을 감당할 수 있는 모험가에게 효과적인 보호가 된다. 나무 방패는 둔기로 인한 손해에 취약하다.
 area006,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,철 호랑이의 반판
 area006,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,충격 크로스보우
-area006,git,Creature List/13/Equip_ItemList/1/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+area006,git,Creature List/13/Equip_ItemList/1/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 area006,git,Creature List/13/Equip_ItemList/2/LocalizedName,0,산화뇌화살
 area006,git,Creature List/13/Equip_ItemList/2/DescIdentified,0,"각 볼트에는 작은 액체 산이 담겨 있으며, 충돌 시 목표물에 부딪혀 상처를 타고 넣어 큰 통증을 일으킵니다."
 area006,git,Door List/0/LocName,0,문
@@ -6183,7 +6185,7 @@ bracksworthin001,git,Creature List/8/LastName,0,콜트
 bracksworthin001,git,Creature List/8/Description,0,"면도도 안 한, 겉으로 보기에는 씻은 것 같지 않은 이 남자는 사회적 관례에 별 관심을 두지 않는 것처럼 보이지만 거칠고 어떤 상황에도 대비가 되어 있는 것처럼 보입니다."
 bracksworthin001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,단테의 카모플라주 갑옷
 bracksworthin001,git,Creature List/8/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-bracksworthin001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+bracksworthin001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 bracksworthin001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,단단한 가죽 부츠
 bracksworthin001,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘으로, 이 부츠는 싸움 중에 착용자가 발을 잘 세우도록 돕습니다."
 bracksworthin001,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,순찰자의 망토
@@ -6564,12 +6566,12 @@ calespurrange001,git,Placeable List/5/ItemList/5/DescIdentified,0,그 종류 중
 calespurrange002,git,Creature List/0/FirstName,0,순찰자 쿼터마스터
 calespurrange002,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurrange002,git,Creature List/0/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurrange002,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurrange002,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurrange002,git,Door List/0/LocName,0,문
 calespurrange002,git,StoreList/0/LocName,0,쿼터마스터
 calespurrange002,git,StoreList/0/StoreList/0/ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurrange002,git,StoreList/0/StoreList/0/ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurrange002,git,StoreList/0/StoreList/0/ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurrange002,git,StoreList/0/StoreList/0/ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurrange002,git,StoreList/0/StoreList/0/ItemList/1/LocalizedName,0,중장 카모플레이지 갑옷
 calespurrange002,git,StoreList/0/StoreList/0/ItemList/1/Description,0,이 갑옷은 착용자가 자연 환경과 잘 어울리도록 색칠되어 있습니다.
 calespurrange002,git,StoreList/0/StoreList/0/ItemList/1/DescIdentified,0,로얄 레인저의 엘리트 멤버들이 사용하는 이 톱니 가죽 갑옷은 이동에 적은 비용으로 가벼운 버전보다 더 나은 보호를 제공합니다.
@@ -6598,7 +6600,7 @@ calespurranges,git,Creature List/0/LastName,0,마셜
 calespurranges,git,Creature List/0/Description,0,왕의 숲을 수호하기로 맹세한 이 남녀들은 그들의 관할 지역 내의 동물들을 돌보는 의무도 가지고 있습니다.
 calespurranges,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurranges,git,Creature List/0/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurranges,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurranges,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurranges,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,복합 장궁
 calespurranges,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
 calespurranges,git,Creature List/1/FirstName,0,오소리
@@ -6615,7 +6617,7 @@ calespurranges,git,Creature List/5/ItemList/0/LocalizedName,0,장인제작 장�
 calespurranges,git,Creature List/5/ItemList/0/DescIdentified,0,"이 무기는 쿨든리 시의 석공 앨런 성직자가 제작한 무기입니다. 원래는 왕국의 기사에게 사용될 예정이었지만, 기사가 이를 요구하기 위해 오지 않을 때 팔리기 전에 몇 주 동안 방치되어 있었습니다."
 calespurranges,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurranges,git,Creature List/5/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurranges,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurranges,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurranges,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,복합 장궁
 calespurranges,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
 calespurranges,git,Creature List/5/Equip_ItemList/3/LocalizedName,0,충격화살
@@ -6626,7 +6628,7 @@ calespurranges,git,Creature List/6/ItemList/0/LocalizedName,0,장인제작 장�
 calespurranges,git,Creature List/6/ItemList/0/DescIdentified,0,"이 무기는 쿨든리 시의 석공 앨런 성직자가 제작한 무기입니다. 원래는 왕국의 기사에게 사용될 예정이었지만, 기사가 이를 요구하기 위해 오지 않을 때 팔리기 전에 몇 주 동안 방치되어 있었습니다."
 calespurranges,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurranges,git,Creature List/6/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurranges,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurranges,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurranges,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,장인제작 복합 장궁
 calespurranges,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,"훌륭한 공예품, 이 품질의 활은 아이룬드에서 매우 드물지만 수집가들 사이에서 매우 소중합니다."
 calespurranges,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
@@ -6708,7 +6710,7 @@ calespurranges,git,Creature List/24/ItemList/1/LocalizedName,0,단검 + 1
 calespurranges,git,Creature List/24/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 calespurranges,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurranges,git,Creature List/24/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurranges,git,Creature List/24/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurranges,git,Creature List/24/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurranges,git,Creature List/24/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
 calespurranges,git,Creature List/24/Equip_ItemList/3/LocalizedName,0,충격화살
 calespurranges,git,Creature List/24/Equip_ItemList/3/DescIdentified,0,이 화살는 부딪히면 부딪히는 특이한 화살 머리로 일반 화살보다 더 많은 타격을 줄 수 있다.
@@ -6718,7 +6720,7 @@ calespurranges,git,Creature List/25/ItemList/0/LocalizedName,0,장인제작 장�
 calespurranges,git,Creature List/25/ItemList/0/DescIdentified,0,"이 무기는 쿨든리 시의 석공 앨런 성직자가 제작한 무기입니다. 원래는 왕국의 기사에게 사용될 예정이었지만, 기사가 이를 요구하기 위해 오지 않을 때 팔리기 전에 몇 주 동안 방치되어 있었습니다."
 calespurranges,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurranges,git,Creature List/25/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurranges,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurranges,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurranges,git,Creature List/25/Equip_ItemList/1/LocalizedName,0,복합 장궁
 calespurranges,git,Creature List/25/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
 calespurranges,git,Creature List/25/Equip_ItemList/3/LocalizedName,0,충격화살
@@ -6731,7 +6733,7 @@ calespurranges,git,Creature List/26/ItemList/1/LocalizedName,0,단검 + 1
 calespurranges,git,Creature List/26/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 calespurranges,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurranges,git,Creature List/26/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurranges,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurranges,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurranges,git,Creature List/26/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
 calespurranges,git,Creature List/26/Equip_ItemList/3/LocalizedName,0,충격화살
 calespurranges,git,Creature List/26/Equip_ItemList/3/DescIdentified,0,이 화살는 부딪히면 부딪히는 특이한 화살 머리로 일반 화살보다 더 많은 타격을 줄 수 있다.
@@ -6858,7 +6860,7 @@ calespurrangesth,git,Creature List/1/ItemList/1/LocalizedName,0,단검 + 1
 calespurrangesth,git,Creature List/1/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 calespurrangesth,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurrangesth,git,Creature List/1/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurrangesth,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurrangesth,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurrangesth,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
 calespurrangesth,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,충격화살
 calespurrangesth,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,이 화살는 부딪히면 부딪히는 특이한 화살 머리로 일반 화살보다 더 많은 타격을 줄 수 있다.
@@ -6870,7 +6872,7 @@ calespurrangesth,git,Creature List/2/ItemList/1/LocalizedName,0,단검 + 1
 calespurrangesth,git,Creature List/2/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 calespurrangesth,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 calespurrangesth,git,Creature List/2/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-calespurrangesth,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+calespurrangesth,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 calespurrangesth,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
 calespurrangesth,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,충격화살
 calespurrangesth,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,이 화살는 부딪히면 부딪히는 특이한 화살 머리로 일반 화살보다 더 많은 타격을 줄 수 있다.
@@ -7453,7 +7455,7 @@ culdenymayorsoff,git,Creature List/1/LastName,0,마셜
 culdenymayorsoff,git,Creature List/1/Description,0,이 남자는 촌장과 격렬한 논쟁을 벌이고 있습니다.
 culdenymayorsoff,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 culdenymayorsoff,git,Creature List/1/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-culdenymayorsoff,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+culdenymayorsoff,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 culdenymayorsoff,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,순찰자의 망토
 culdenymayorsoff,git,Door List/0/LocName,0,문
 culdenymayorsoff,git,Door List/1/LocName,0,문
@@ -9097,7 +9099,7 @@ orccaves,git,Creature List/2/ItemList/2/DescIdentified,0,"레인저의 시체에
 순찰자 아르민, 순찰장 소속"
 orccaves,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 orccaves,git,Creature List/2/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-orccaves,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+orccaves,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 orccaves,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,복합 장궁
 orccaves,git,Creature List/3/FirstName,0,야만전사 투사
 orccaves,git,Creature List/3/Description,0,"치열하고 용감한 전사들아, 남쪽 산 부족들은 전투에 익숙하다."
@@ -9526,7 +9528,7 @@ orccavesupperlev,git,Placeable List/72/Description,0,방수통.
 southernfooth001,git,Creature List/0/FirstName,0,레인저
 southernfooth001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,카모프레이지 갑옷
 southernfooth001,git,Creature List/0/Equip_ItemList/0/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-southernfooth001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+southernfooth001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 southernfooth001,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,복합 장궁
 southernfooth001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,순찰자의 망토
 southernfooth001,git,Creature List/1/FirstName,0,용병 중사
@@ -11888,16 +11890,16 @@ camoflagearmo001,uti,Description,0,이 갑옷은 착용자가 자연 환경과 �
 camoflagearmo001,uti,DescIdentified,0,로얄 레인저의 엘리트 멤버들이 사용하는 이 톱니 가죽 갑옷은 이동에 적은 비용으로 가벼운 버전보다 더 나은 보호를 제공합니다.
 camoflagearmo002,uti,LocalizedName,0,카모프레이지 갑옷
 camoflagearmo002,uti,Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-camoflagearmo002,uti,DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+camoflagearmo002,uti,DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 camoflagearmo003,uti,LocalizedName,0,단테의 카모플라주 갑옷
 camoflagearmo003,uti,Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-camoflagearmo003,uti,DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+camoflagearmo003,uti,DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 camoflagearmo004,uti,LocalizedName,0,카모프레이지 갑옷
 camoflagearmo004,uti,Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-camoflagearmo004,uti,DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+camoflagearmo004,uti,DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 camoflagearmour,uti,LocalizedName,0,카모프레이지 갑옷
 camoflagearmour,uti,Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-camoflagearmour,uti,DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+camoflagearmour,uti,DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 canolothskin,uti,LocalizedName,0,카노로스 피부
 canolothtongue,uti,LocalizedName,0,카노로드 언어
 casque,uti,LocalizedName,0,갑옷 & 코프
@@ -12247,7 +12249,7 @@ hardleatherbo002,uti,DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘�
 hardleatherboots,uti,LocalizedName,0,단단한 가죽 부츠
 hardleatherboots,uti,DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘으로, 이 부츠는 싸움 중에 착용자가 발을 잘 세우도록 돕습니다."
 heavycrossbowofi,uti,LocalizedName,0,충격 크로스보우
-heavycrossbowofi,uti,DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+heavycrossbowofi,uti,DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 helm5,uti,LocalizedName,0,보이스드 헬름
 helm5,uti,DescIdentified,0,이 우아하게 제작 된 헬멧 은 머리 에 뚫린 충격 을 막는 데 도움 이 된다. 하지만 대부분의 헬멧 과 마찬가지로 시력 을 제한 하고 소리 를 억제 한다.
 henchmanbackpack,uti,LocalizedName,0,추종자 백팩

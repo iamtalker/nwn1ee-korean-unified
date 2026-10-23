@@ -4903,7 +4903,9 @@ mali_dm_paa,dlg,ReplyList/84/Text,0,<CUSTOM11012>
 mali_dm_paa,dlg,ReplyList/85/Text,0,<CUSTOM11011>
 mali_dm_paa,dlg,ReplyList/86/Text,0,<CUSTOM11010>
 mali_dm_stage,dlg,EntryList/1/Text,0,현재 <CUSTOM11034>와 맞서고 있습니다. 조정을 선택하세요.
-mali_dm_stage,dlg,EntryList/3/Text,0,현재 사용 횟수: <CUSTOM11030> 최대 사용 횟수: <CUSTOM11031> 동시 설정 허용: <CUSTOM11032>
+mali_dm_stage,dlg,EntryList/3/Text,0,"현재 사용 횟수: <CUSTOM11030>
+최대 사용 횟수: <CUSTOM11031>
+동시 허용 세트 수: <CUSTOM11032>"
 mali_dm_stage,dlg,EntryList/4/Text,0,동시 설정이 허용됩니다: <CUSTOM11032> 한 번에 플레이어가 몇 개를 생성할 수 있는지 선택하세요.
 mali_dm_stage,dlg,EntryList/5/Text,0,"최대 사용 횟수: <CUSTOM11031>
 플레이어가 이 세트를 몇 번까지 사용할 수 있도록 하시겠습니까?"
@@ -5884,7 +5886,7 @@ ronan_docks,dlg,EntryList/3/Text,0,"왕국의 기사가 페어 메이든 인에�
 ronan_docks,dlg,EntryList/4/Text,0,"신경 쓰지 마, 친구. 그냥 너무 거만해서 진심으로 도와줄 마음이 없다는 뜻일 뿐이야."
 ronan_docks,dlg,EntryList/5/Text,0,"왕국의 기사가 페어 메이든 인에서 자주 보이는데, 그는 당신과 함께 가고 싶어할 거라고 확신한다. 꾸준하고 정직한 남자다."
 ronan_docks,dlg,EntryList/6/Text,0,"내가 그랬다고 생각했잖아, 같이 가자."
-ronan_docks,dlg,EntryList/7/Text,0,"재밌는 건 내가 이 도시 골목에서 대부분의 생을 보냈지만, 열린 바다로 한 번도 나가 본 적이 없었다."
+ronan_docks,dlg,EntryList/7/Text,0,"있잖아, 웃기게도 난 평생 이 도시 뒷골목에서 살았는데 탁 트인 바다로는 한 번도 나가 본 적이 없어."
 ronan_docks,dlg,EntryList/8/Text,0,"페어로크는 항구도시였는데, 근처에 물이 많았지만, 나는 바다를 사랑해 본적이 없어서 다른 시각으로 바라볼 수 있었습니다."
 ronan_docks,dlg,EntryList/9/Text,0,"이봐, 지금은 따뜻하고 편안한 것과는 비교도 안 되었는데. 이제 바다를 찾게 되었으니, 지하세계로 다시 들어가야 하는 건 참 아이러니하네."
 ronan_docks,dlg,EntryList/10/Text,0,"맞아, 친구. 내가 안 하면 캡틴 베일이 당국에 알리겠지."
@@ -8501,7 +8503,7 @@ area002,git,StoreList/0/StoreList/0/ItemList/6/Description,0,이 갑옷은 착�
 area002,git,StoreList/0/StoreList/0/ItemList/6/DescIdentified,0,왕실 순찰자의 엘리트 멤버들이 사용하는 이 은가죽 갑옷은 이동에 거의 영향을 주지 않고 가벼운 버전보다 더 나은 보호를 제공합니다.
 area002,git,StoreList/0/StoreList/0/ItemList/7/LocalizedName,0,카모프레이지 갑옷
 area002,git,StoreList/0/StoreList/0/ItemList/7/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-area002,git,StoreList/0/StoreList/0/ItemList/7/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+area002,git,StoreList/0/StoreList/0/ItemList/7/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 area002,git,StoreList/0/StoreList/0/ItemList/8/LocalizedName,0,징박은 가죽 갑옷 +2
 area002,git,StoreList/0/StoreList/0/ItemList/8/DescIdentified,0,이 잘 만들어진 가죽 장갑은 좋은 보호를 제공하고 같은 종류의 일반 장갑보다 훨씬 가볍습니다.
 area002,git,StoreList/0/StoreList/0/ItemList/9/LocalizedName,0,징박은 가죽 갑옷 +3
@@ -11194,7 +11196,7 @@ fairlochmacabies,git,StoreList/0/StoreList/0/ItemList/0/LocalizedName,0,궁술�
 fairlochmacabies,git,StoreList/0/StoreList/1/ItemList/6/LocalizedName,0,살인적인 정확성의 투석구
 fairlochmacabies,git,StoreList/0/StoreList/1/ItemList/6/DescIdentified,0,"이 디자인의 투석구는 드물지만, 남쪽 멀리 있는 반형의 고향에서 기원된 것이라고 생각된다. 이 무기는 경험이 있는 투석꾼의 손에 치명적일 수 있다."
 fairlochmacabies,git,StoreList/0/StoreList/1/ItemList/8/LocalizedName,0,충격 크로스보우
-fairlochmacabies,git,StoreList/0/StoreList/1/ItemList/8/DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+fairlochmacabies,git,StoreList/0/StoreList/1/ItemList/8/DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 fairlochmacabies,git,StoreList/0/StoreList/1/ItemList/9/LocalizedName,0,속도 크로스보우
 fairlochmacabies,git,StoreList/0/StoreList/1/ItemList/9/DescIdentified,0,이 사용하기 쉬운 크로스보이는 혁명적인 디자인 덕분에 훨씬 더 빠르게 재장전할 수 있습니다. 또한 균형 잡힌 정확한 무기입니다.
 fairlochmacabies,git,StoreList/0/StoreList/1/ItemList/10/LocalizedName,0,심장을 찾는
@@ -13006,7 +13008,7 @@ fairlochtanner,git,StoreList/0/StoreList/0/ItemList/1/Description,0,이 갑옷�
 fairlochtanner,git,StoreList/0/StoreList/0/ItemList/1/DescIdentified,0,왕실 순찰자의 엘리트 멤버들이 사용하는 이 은가죽 갑옷은 이동에 거의 영향을 주지 않고 가벼운 버전보다 더 나은 보호를 제공합니다.
 fairlochtanner,git,StoreList/0/StoreList/0/ItemList/2/LocalizedName,0,카모프레이지 갑옷
 fairlochtanner,git,StoreList/0/StoreList/0/ItemList/2/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-fairlochtanner,git,StoreList/0/StoreList/0/ItemList/2/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+fairlochtanner,git,StoreList/0/StoreList/0/ItemList/2/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 fairlochtanner,git,StoreList/0/StoreList/0/ItemList/3/LocalizedName,0,가죽 갑옷+2
 fairlochtanner,git,StoreList/0/StoreList/0/ItemList/3/DescIdentified,0,"이 가죽 갑옷은 검은색으로 염색되어 있으며, 좋은 첫인상을 남기는 것을 좋아하는 모험가에게 적합합니다."
 fairlochtanner,git,StoreList/0/StoreList/0/ItemList/4/LocalizedName,0,징박은 가죽 갑옷 +2
@@ -14646,7 +14648,7 @@ ship,git,StoreList/0/StoreList/0/ItemList/8/LocalizedName,0,비늘 갑옷
 ship,git,StoreList/0/StoreList/0/ItemList/9/LocalizedName,0,가슴판갑
 ship,git,StoreList/0/StoreList/0/ItemList/10/LocalizedName,0,카모프레이지 갑옷
 ship,git,StoreList/0/StoreList/0/ItemList/10/Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-ship,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+ship,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 ship,git,StoreList/0/StoreList/0/ItemList/11/LocalizedName,0,징박은 가죽 갑옷
 ship,git,StoreList/0/StoreList/0/ItemList/12/LocalizedName,0,사슬갑옷 +1
 ship,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
@@ -18891,7 +18893,7 @@ camoflagearmo001,uti,Description,0,이 갑옷은 착용자가 자연 환경과 �
 camoflagearmo001,uti,DescIdentified,0,왕실 순찰자의 엘리트 멤버들이 사용하는 이 은가죽 갑옷은 이동에 거의 영향을 주지 않고 가벼운 버전보다 더 나은 보호를 제공합니다.
 camoflagearmo002,uti,LocalizedName,0,카모프레이지 갑옷
 camoflagearmo002,uti,Description,0,이 갑옷은 착용자가 자연 환경과 어울릴 수 있도록 분명히 색이 조정되어 있다.
-camoflagearmo002,uti,DescIdentified,0,왕실의 순찰자들을 위해 특별히 설계된 이 갑옷은 숲과 더 자연스럽게 융합할 수 있게 해줍니다.
+camoflagearmo002,uti,DescIdentified,0,왕실 레인저 전용으로 설계된 이 갑옷은 숲에 더 쉽게 녹아들 수 있게 해 준다.
 camoflagearmo003,uti,LocalizedName,0,엘리트 드루이드 갑옷
 camoflagearmo003,uti,DescIdentified,0,아이룬드의 폭력적인 드루이드 종파에 의해 착용된 이 갑옷은 토테믹 동물의 가죽으로 의식적으로 제작되었습니다. 비록 낡은 모습을 보이지만 여전히 효과적입니다.
 camoflagearmo004,uti,LocalizedName,0,여성 드루이드 갑옷
@@ -19489,7 +19491,7 @@ hardleatherboots,uti,DescIdentified,0,"단단한 가죽 부츠와 강한 잡힘�
 hasteboots,uti,LocalizedName,0,가속된 민첩성 부츠
 hasteboots,uti,DescIdentified,0,"발을 더 민첩하고 빠르게 움직일 수 있게 해주는 장화는 페어로크 대학의 불행한 학생이 디자인했습니다. 그는 이 장화에 짧은 속도 부여를 위한 마법을 걸었지만, 그것으로는 자신의 목숨을 구할 만한 충분한 힘이 아니었습니다."
 heavycrossbowofi,uti,LocalizedName,0,충격 크로스보우
-heavycrossbowofi,uti,DescIdentified,0,이 중무기는 믿을 수 없을 정도로 강력한 정확도로 정확한 샷을 날릴 수 있어 진정한 장거리 피해를 gây할 수 있는 무기입니다.
+heavycrossbowofi,uti,DescIdentified,0,엄청난 힘으로 정확한 사격을 꽂아 넣을 수 있는 이 중화기는 진정한 장거리 피해 능력을 지닌다.
 helm5,uti,LocalizedName,0,보이스드 헬름
 helm5,uti,DescIdentified,0,이 우아하게 제작 된 헬멧 은 머리 에 뚫린 충격 을 막는 데 도움 이 된다. 하지만 대부분의 헬멧 과 마찬가지로 시력 을 제한 하고 소리 를 억제 한다.
 helmofpresenc001,uti,LocalizedName,0,축복 받은 명령의 헬멧
