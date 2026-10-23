@@ -238,7 +238,7 @@ armin,dlg,EntryList/13/Text,0,"서쪽에서 전쟁에 참전한 강한 사람들
 armin,dlg,EntryList/14/Text,0,하이웨이맨을 살아남았다면 내가 널 쓸 수 있을 거야
 armin,dlg,EntryList/15/Text,0,"간단해. 숲을 순찰병으로 돌아다니고, 만날 때마다 사냥꾼이나 도둑을 처리하라. 보통은 그들을 체포하려 했지만, 이 어려운 시기에는 쿨든으로 보내지 못해."
 armin,dlg,EntryList/16/Text,0,우리는 더 강력한 설득 수단에 의존해야 합니다. 왕의 동물을 죽이려는 그들을 막기 위함입니다. 그래서 그들이 괴롭히면 망설이지 말고 대처하세요.
-armin,dlg,EntryList/17/Text,0,"좋은 공연이었어. 북쪽 지역은 이미 다뤄졌으니, 남쪽 지역에 집중해. 더 필요한 것이 있나?"
+armin,dlg,EntryList/17/Text,0,잘했어. 산맥 북쪽은 우리가 맡고 있으니 남쪽 지역에 힘을 쏟아. 더 알아야 할 게 있나?
 armin,dlg,EntryList/18/Text,0,"아, 도착이 제때왔군요. 그 저주쟁이들이 지난 주 동안 저를 짜증나게 해왔어요. 짜증은 나를 복통으로 만들기 때문이죠."
 armin,dlg,EntryList/19/Text,0,그 들 에 대해 알고 싶었던 것 은 무엇 입니까?
 armin,dlg,EntryList/20/Text,0,토마르 페어칠드의 사적 봉기를 가져오면 300개의 금을 줄게
@@ -451,7 +451,7 @@ bidoc,dlg,ReplyList/6/Text,0,"관심 없어, 널 내릴 수 있는 만큼 널 �
 bidoc,dlg,ReplyList/7/Text,0,"오케이, 길을 안내해"
 bidoc,dlg,ReplyList/8/Text,0,앞으로 나가십시오.
 bidoc,dlg,ReplyList/9/Text,0,"보통은 이런 기회에 뛰어들고 싶었지만, 여기서 잘 하고 있어서 망치고 싶지 않아. 아마 그럴 거야. 테스트에서 좀 더 노력해봐야 할 거야."
-bidoc,dlg,ReplyList/10/Text,0,<StartCheck>[시작]</Start>이 정령은 몇 년 동안 이렇게 정성껏 기다리고 지켜보았는데... 당신은 그에게 훔치고 싶단 말인가?
+bidoc,dlg,ReplyList/10/Text,0,<StartCheck>[선]</Start>이 영혼은 수년간 이토록 한결같이 기다리며 지켜보았는데... 그런 그에게서 훔치고 싶다고?
 bidoc,dlg,ReplyList/11/Text,0,<StartCheck>[질서]</Start> 더 이상 듣고 싶지 않다. 저는 질서를 지키면서 이 마지막 작업을 완료할 수 있다고 확신한다.
 black_pete,dlg,EntryList/0/Text,0,뭐하고 싶은데?
 black_pete,dlg,EntryList/1/Text,0,"다른 곳을 둘러봐, 난 여기서 배를 운영하려고 해요."
@@ -961,7 +961,7 @@ cul_mayor,dlg,ReplyList/15/Text,0,다른 누가 그 배들이 나가고 있다�
 cul_mayor,dlg,ReplyList/16/Text,0,또 하나 물어볼게요
 cul_mayor,dlg,ReplyList/17/Text,0,"네, 맞을 것 같네요. 시간을 내주셔서 감사합니다."
 cul_mayor,dlg,ReplyList/18/Text,0,당신은 장트맨 클럽의 회원인가요?
-cul_mayor,dlg,ReplyList/19/Text,0,"나는 노스 셔프 트레이딩 컴퍼니의 공동 소유주인 로널드 바르트렛과 대화해야 합니다만, 클럽에 들어가지 못하게 금지당했다고 들었습니다."
+cul_mayor,dlg,ReplyList/19/Text,0,"노스쇼어 무역회사 공동 소유주 로널드 바틀릿과 이야기해야 하는데, 클럽에는 들어갈 수 없다고 들었습니다."
 cul_mayor,dlg,ReplyList/20/Text,0,"아, 하지만 당신이 대신 말한다면, 그들은 다시 생각하겠지 확신합니다."
 cul_mayor,dlg,ReplyList/22/Text,0,날 클럽에 데려가면 마을의 모든 사람들이 이 소식을 듣게 될 거야
 cul_mayor,dlg,ReplyList/24/Text,0,넬리스에게 말해
@@ -4784,9 +4784,9 @@ zep_demi_regen_c,dlg,EntryList/1/Text,0,"데밀히의 뼈 조각에 <CUSTOM1001>
 zep_demi_regen_c,dlg,ReplyList/0/Text,0,델미치를 혼자 두세요.
 zep_demi_regen_c,dlg,ReplyList/1/Text,0,<CUSTOM1001>을 사용하여 반사기를 파괴하라.
 abandonedmine001,git,Creature List/0/FirstName,0,버그베어 주술사
-abandonedmine001,git,Creature List/0/Description,0,"버그베어는 괴물 중 가장 크고 가장 강한 종류이며, 곰처럼 생긴 코, 강한 상체, 그리고 뚜렷한 냄새를 맡는 능력에서 이름을 얻었습니다."
+abandonedmine001,git,Creature List/0/Description,0,"고블린류 중 가장 크고 강한 버그베어는 곰을 닮은 코, 튼튼한 상체, 예민한 후각 때문에 그런 이름을 얻었다."
 abandonedmine001,git,Creature List/1/FirstName,0,버그베어 족장
-abandonedmine001,git,Creature List/1/Description,0,"버그베어는 괴물 중 가장 크고 가장 강한 종류이며, 곰처럼 생긴 코, 강한 상체, 그리고 뚜렷한 냄새를 맡는 능력에서 이름을 얻었습니다."
+abandonedmine001,git,Creature List/1/Description,0,"고블린류 중 가장 크고 강한 버그베어는 곰을 닮은 코, 튼튼한 상체, 예민한 후각 때문에 그런 이름을 얻었다."
 abandonedmine001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,카타나 +1
 abandonedmine001,git,Creature List/1/Equip_ItemList/1/Description,0,"카타나는 검수인의 공예의 최고점이며, 부드러운 디자인과 날카로운 효율성을 결합하고 있다.  
 기본 피해: 1d8  
@@ -10367,11 +10367,11 @@ thereturn,git,Placeable List/113/LocName,0,폐허가 된 빌딩 1
 thereturn,git,Placeable List/114/LocName,0,폐허가 된 빌딩 1
 thereturn,git,Placeable List/115/LocName,0,폐허가 된 빌딩 1
 treasury,git,Creature List/0/FirstName,0,버그베어
-treasury,git,Creature List/0/Description,0,"버그베어는 괴물 중 가장 크고 가장 강한 종류이며, 곰처럼 생긴 코, 강한 상체, 그리고 뚜렷한 냄새를 맡는 능력에서 이름을 얻었습니다."
+treasury,git,Creature List/0/Description,0,"고블린류 중 가장 크고 강한 버그베어는 곰을 닮은 코, 튼튼한 상체, 예민한 후각 때문에 그런 이름을 얻었다."
 treasury,git,Creature List/1/FirstName,0,버그베어
-treasury,git,Creature List/1/Description,0,"버그베어는 괴물 중 가장 크고 가장 강한 종류이며, 곰처럼 생긴 코, 강한 상체, 그리고 뚜렷한 냄새를 맡는 능력에서 이름을 얻었습니다."
+treasury,git,Creature List/1/Description,0,"고블린류 중 가장 크고 강한 버그베어는 곰을 닮은 코, 튼튼한 상체, 예민한 후각 때문에 그런 이름을 얻었다."
 treasury,git,Creature List/2/FirstName,0,버그베어
-treasury,git,Creature List/2/Description,0,"버그베어는 괴물 중 가장 크고 가장 강한 종류이며, 곰처럼 생긴 코, 강한 상체, 그리고 뚜렷한 냄새를 맡는 능력에서 이름을 얻었습니다."
+treasury,git,Creature List/2/Description,0,"고블린류 중 가장 크고 강한 버그베어는 곰을 닮은 코, 튼튼한 상체, 예민한 후각 때문에 그런 이름을 얻었다."
 treasury,git,Creature List/3/FirstName,0,조각상
 treasury,git,Creature List/3/Description,0,한때 이 은 장갑은 왜성 공예에 대한 훌륭한 경부였지만 세월이 흐르면서 서서히 쇠퇴하고 있습니다.
 treasury,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,조각상 헬멧
@@ -10588,7 +10588,7 @@ barbarianwarrior,utc,FirstName,0,야만전사 투사
 barbarianwarrior,utc,Description,0,"치열하고 용감한 전사들아, 남쪽 산 부족들은 전투에 익숙하다."
 bugbear_warrior,utc,FirstName,0,버그베어 투사
 bugchiefa001,utc,FirstName,0,버그베어 영웅
-bugchiefa001,utc,Description,0,"버그베어는 괴물 중 가장 크고 가장 강한 종류이며, 곰처럼 생긴 코, 강한 상체, 그리고 뚜렷한 냄새를 맡는 능력에서 이름을 얻었습니다."
+bugchiefa001,utc,Description,0,"고블린류 중 가장 크고 강한 버그베어는 곰을 닮은 코, 튼튼한 상체, 예민한 후각 때문에 그런 이름을 얻었다."
 celestialchar001,utc,FirstName,0,유니콘 천족 충전기
 celestialcharger,utc,FirstName,0,유니콘 천족 충전기
 cep_unicorn,utc,FirstName,0,유니콘
@@ -10927,7 +10927,7 @@ zep_bugbear_005,utc,FirstName,0,버그베어 투사
 zep_bugbear_006,utc,FirstName,0,버그베어 투사
 zep_bugbear_007,utc,FirstName,0,버그베어 투사
 zep_bugbear_008,utc,FirstName,0,"버그베어, 어린"
-zep_bugbear_008,utc,Description,0,"버그베어는 괴물 중 가장 크고 가장 강한 종류이며, 곰처럼 생긴 코, 강한 상체, 그리고 뚜렷한 냄새를 맡는 능력에서 이름을 얻었습니다."
+zep_bugbear_008,utc,Description,0,"고블린류 중 가장 크고 강한 버그베어는 곰을 닮은 코, 튼튼한 상체, 예민한 후각 때문에 그런 이름을 얻었다."
 zep_camel_001,utc,FirstName,0,낙타
 zep_camel_001,utc,Description,0,낙타는 음식이나 물 없이 멀리 여행할 수 있는 능력으로 알려져 있습니다.
 zep_camel_002,utc,FirstName,0,"낙타, 짐마차"
@@ -11503,15 +11503,15 @@ zep_mscorpm,utc,Description,0,이 생물 들 은 굶주림 으로 인도 될 곳
 zep_mscorps,utc,FirstName,0,"괴상한 스코피언, 작은"
 zep_mscorps,utc,Description,0,이 생물 들 은 굶주림 으로 인도 될 곳 에 여행 합니다. 그들은 작은 동물 들 을 먹으려 합니다. 하지만 인간 동물 이나 다른 더 큰 먹이를 공격 하는 데 주저 하지 않습니다.
 zep_mspiderg,utc,FirstName,0,"괴물 거미, 거물"
-zep_mspiderg,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspiderg,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_mspiderl,utc,FirstName,0,괴물 거구 거미
-zep_mspiderl,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspiderl,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_mspiderm,utc,FirstName,0,괴물 중간 크기 스파이더
-zep_mspiderm,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspiderm,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_mspiders,utc,FirstName,0,"괴물 거미, 소형"
-zep_mspiders,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspiders,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_mspidert,utc,FirstName,0,"괴물 스파이더, 작음"
-zep_mspidert,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspidert,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_nabassu,utc,FirstName,0,나바수
 zep_nabassu,utc,Description,0,"나바소 는 물질적 지표 에서 일생 중 상당 한 시간 을 보내야 하는 유일한 참 악마 들 이기 때문 에 특이한 것 이다. 그 결과, 이 악성적 인 피조물 들 은 그 지표 에서 거주 하는 사람 들 에게 특히 증오 를 품고 있으며, 마치 이 망명 의 겸손 에 대해 물질적 지표 의 거주자 들 을 비난 하는 것 처럼 이다."
 zep_nighthag,utc,FirstName,0,밤 하가

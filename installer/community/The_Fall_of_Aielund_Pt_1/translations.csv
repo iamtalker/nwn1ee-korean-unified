@@ -687,7 +687,7 @@ criosa_kneel,dlg,ReplyList/0/Text,0,"이 배신자와 동맹을 맺고 있다면
 criosaromance,dlg,EntryList/0/Text,0,"여긴 정말 흥미롭죠. 열린 길에서 함께 있고, 위험과 같은 상황에 직면해있죠."
 criosaromance,dlg,EntryList/1/Text,0,"오, 들어봐, 미스터 '전에 이런 일은 모두 해봤어!'"
 criosaromance,dlg,EntryList/2/Text,0,"이런 위험, 도전, 로맨스가 당신을 설레게하지 않나?"
-criosaromance,dlg,EntryList/3/Text,0,이런 종류의 소설을 많이 읽었어. 젊고 아름다운 사람들이 상황 때문에 뭉쳐서 혼란스러운 세상에서 사랑을 발견하는 것이다.
+criosaromance,dlg,EntryList/3/Text,0,"아, 이런 이야기를 다룬 소설은 많이 읽었죠. 젊고 아름다운 이들이 상황에 떠밀려 함께하게 되고, 미쳐 돌아가는 세상에서 사랑을 찾는 이야기요."
 criosaromance,dlg,EntryList/5/Text,0,"오, 맞아요, 물론 그렇죠. 난 그냥 너랑 재미있게 놀았어요. 나한테 신경 쓰지 마, 난 그냥 망할 어린 소녀일 뿐이야."
 criosaromance,dlg,EntryList/6/Text,0,"확실히, 네가 너무 늦게 왔어. 내가 너라면 주의를 기울여야 해, 아무리 작은 일이라도 언제든 일어날 수 있으니까."
 criosaromance,dlg,EntryList/7/Text,0,"이 모험은 더 흥미롭다고 약속하지만, 이제까지 당신들의 시간을 충분히 보냈습니다."
@@ -3298,7 +3298,7 @@ rene,dlg,EntryList/7/Text,0,"물론 그렇지 않다. 왜냐하면 네가 그런
 rene,dlg,EntryList/8/Text,0,"넌 누구야, 넌 아무것도 아니지, 낯선 사람이야, 내 주머니에 왕국이 전부 있고,"
 rene,dlg,EntryList/9/Text,0,"<StartAction>[레네 웃음]</Start> 오, 당신은 자기 자신에 대한 부풀이 감각을 가지고 있지 않나요?"
 rene,dlg,EntryList/10/Text,0,이런 포즈는 지루하게 만드네. 난 당신들이 가는 게 좋겠어.
-rene,dlg,EntryList/11/Text,0,"그럼 우리는 막상태에 빠졌습니다. 왜냐하면 제가 그렇게 할 수 없기 때문이죠. 하지만 당신이 저에게 무엇인가를 해주면, 저의 무한한 베풂을 보여드릴 수 있습니다."
+rene,dlg,EntryList/11/Text,0,그럼 교착 상태로군요. 저는 그렇게 하지 않을 테니까요. 제 끝없는 아량을 보여 드리는 대가로 당신이 저를 위해 뭔가 해 주지 않는 한 말이죠?
 rene,dlg,EntryList/13/Text,0,"여기서 멀지 않은 곳에 파스칼 루소라는 부유한 사람이 살고 있습니다. 우리 귀한 가스톤처럼, 이 사람은 저에게 많은 빚을 지고 있습니다."
 rene,dlg,EntryList/14/Text,0,그는 상당한 가치가 있는 3개의 그림을 소유하고 있습니다. 그림을 가져와주세요.
 rene,dlg,EntryList/15/Text,0,"그래, 그래요"
@@ -4639,23 +4639,23 @@ area011,git,Placeable List/27/ItemList/0/DescIdentified,0,이 책은 수천 년 
 area012,git,Creature List/0/FirstName,0,선원
 area012,git,Creature List/0/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area012,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,선원 의복
-area012,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area012,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area012,git,Creature List/1/FirstName,0,선원
 area012,git,Creature List/1/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area012,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,선원 의복
-area012,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area012,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area012,git,Creature List/2/FirstName,0,선원
 area012,git,Creature List/2/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area012,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,선원 의복
-area012,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area012,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area012,git,Creature List/3/FirstName,0,선원
 area012,git,Creature List/3/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area012,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,선원 의복
-area012,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area012,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area012,git,Creature List/4/FirstName,0,선원
 area012,git,Creature List/4/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area012,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,선원 의복
-area012,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area012,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area012,git,Creature List/5/FirstName,0,평민
 area012,git,Creature List/5/Description,0,이 도시의 평범한 시민 중 한 명입니다.
 area012,git,Creature List/5/ItemList/0/LocalizedName,0,금화
@@ -4667,15 +4667,15 @@ area012,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,평민의 겨울 �
 area012,git,Creature List/7/FirstName,0,시니케이트 선원
 area012,git,Creature List/7/Description,0,노동조합에서 일하는 높은 급여의 상인 해병사들은 용병보다 더 많습니다.
 area012,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,선원 의복
-area012,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area012,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area012,git,Creature List/8/FirstName,0,시니케이트 선원
 area012,git,Creature List/8/Description,0,노동조합에서 일하는 높은 급여의 상인 해병사들은 용병보다 더 많습니다.
 area012,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,선원 의복
-area012,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area012,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area012,git,Creature List/9/FirstName,0,시니케이트 선원
 area012,git,Creature List/9/Description,0,노동조합에서 일하는 높은 급여의 상인 해병사들은 용병보다 더 많습니다.
 area012,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,선원 의복
-area012,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area012,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area012,git,Door List/0/LocName,0,문
 area012,git,Door List/1/LocName,0,문
 area012,git,WaypointList/0/MapNote,0,정부 구역
@@ -4692,29 +4692,29 @@ area013,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,평민의 겨울 �
 area013,git,Creature List/1/FirstName,0,선원
 area013,git,Creature List/1/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area013,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,선원 의복
-area013,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area013,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area013,git,Creature List/2/FirstName,0,선원
 area013,git,Creature List/2/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area013,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,선원 의복
-area013,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area013,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area013,git,Creature List/3/FirstName,0,선원
 area013,git,Creature List/3/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area013,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,선원 의복
-area013,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area013,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area013,git,Creature List/4/FirstName,0,선원
 area013,git,Creature List/4/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area013,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,선원 의복
-area013,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area013,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area013,git,Creature List/5/FirstName,0,선원
 area013,git,Creature List/5/Description,0,"이 해병들은 아이룬드 해군과 해상에서 참전한 참전용사들로, 삶이 짧고, 그들에게 중요한 것은 승리가 있다는 것을 배웠습니다."
 area013,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,선원 의복
-area013,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area013,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area013,git,Creature List/6/FirstName,0,지미
 area013,git,Creature List/6/Description,0,이 반인의 의복과 태도는 주변 남성들과 크게 다릅니다. 이는 지역 전역에서 활동하는 프리랜서 상인 중 한 명일 수 있습니다.
 area013,git,Creature List/6/ItemList/0/LocalizedName,0,반데레이 장신구
 area013,git,Creature List/6/ItemList/0/DescIdentified,0,"실제 보석과 비슷하게, 이 보석은 약간 결함이 있는 돌로, 가장 잘 배운 평가자를 제외하고는 모든 사람을 속일 수 있습니다."
 area013,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,선원 의복
-area013,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+area013,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 area013,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,강력한 갑옷 장갑
 area013,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,"이 장갑은 겨루는 사람에게 가장 큰 혜택을 주지만, 착용자에게 강력한 체력 보너스를 제공하며 화살과 칼에 대한 추가적인 보호를 제공합니다."
 area013,git,Creature List/7/FirstName,0,선술집 소녀
@@ -5541,7 +5541,7 @@ fake,git,Placeable List/61/LocName,0,이중등걸이
 fake,git,Placeable List/61/Description,0,스콘스
 forthighmarch,git,Creature List/0/FirstName,0,앨리슨
 forthighmarch,git,Creature List/0/LastName,0,린지
-forthighmarch,git,Creature List/0/Description,0,하이마르크 전역에 장비를 조직하고 배포하는 업무를 맡은 이 여성은 왕국에서 가장 포괄적인 무기 수집을 보유하고 있습니다.
+forthighmarch,git,Creature List/0/Description,0,하이마치 전역의 장비 조직과 보급을 맡은 이 여성은 왕국에서 가장 방대한 무기 수집품을 갖고 있다.
 forthighmarch,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,앨리슨의 의상
 forthighmarch,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,보이스드 헬름
 forthighmarch,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,이 우아하게 제작 된 헬멧 은 머리 에 뚫린 충격 을 막는 데 도움 이 된다. 하지만 대부분의 헬멧 과 마찬가지로 시력 을 제한 하고 소리 를 억제 한다.
@@ -5671,11 +5671,11 @@ forthighmarch,git,StoreList/1/StoreList/1/ItemList/45/Description,0,이 아름�
 forthighmarch,git,StoreList/1/StoreList/1/ItemList/45/DescIdentified,0,그 종류 중 가장 훌륭한 예 중 하나인 이 롱보이는 50파운드 이상의 놀라운 추력을 가지고 있으며
 forthighmarch,git,StoreList/1/StoreList/1/ItemList/46/LocalizedName,0,럭bow
 forthighmarch,git,StoreList/1/StoreList/1/ItemList/47/LocalizedName,0,폭발화살
-forthighmarch,git,StoreList/1/StoreList/1/ItemList/47/DescIdentified,0,치명적인 화살이 타겟을 맞추면 불 폭발의 힘으로 폭발합니다. 이러한 탄약은 매우 드물고 꽤 비싸죠.
+forthighmarch,git,StoreList/1/StoreList/1/ItemList/47/DescIdentified,0,목표에 맞으면 화염구의 위력으로 폭발하는 치명적인 화살이다. 이런 탄약은 극히 드물고 꽤 비싸다.
 forthighmarch,git,StoreList/1/StoreList/1/ItemList/48/LocalizedName,0,폭발화살
-forthighmarch,git,StoreList/1/StoreList/1/ItemList/48/DescIdentified,0,치명적인 화살이 타겟을 맞추면 불 폭발의 힘으로 폭발합니다. 이러한 탄약은 매우 드물고 꽤 비싸죠.
+forthighmarch,git,StoreList/1/StoreList/1/ItemList/48/DescIdentified,0,목표에 맞으면 화염구의 위력으로 폭발하는 치명적인 화살이다. 이런 탄약은 극히 드물고 꽤 비싸다.
 forthighmarch,git,StoreList/1/StoreList/1/ItemList/49/LocalizedName,0,폭발화살
-forthighmarch,git,StoreList/1/StoreList/1/ItemList/49/DescIdentified,0,치명적인 화살이 타겟을 맞추면 불 폭발의 힘으로 폭발합니다. 이러한 탄약은 매우 드물고 꽤 비싸죠.
+forthighmarch,git,StoreList/1/StoreList/1/ItemList/49/DescIdentified,0,목표에 맞으면 화염구의 위력으로 폭발하는 치명적인 화살이다. 이런 탄약은 극히 드물고 꽤 비싸다.
 forthighmarch,git,StoreList/1/StoreList/1/ItemList/50/LocalizedName,0,폭발 쇠뇌화살
 forthighmarch,git,StoreList/1/StoreList/1/ItemList/50/DescIdentified,0,폭발 마법으로 축복된 실험용 화살을 조심스럽게 사용하세요.
 forthighmarch,git,StoreList/1/StoreList/1/ItemList/51/LocalizedName,0,폭발 쇠뇌화살
@@ -7027,7 +7027,7 @@ module,jrl,Categories/3/Name,0,프로스티릭스!
 module,jrl,Categories/3/EntryList/0/Text,0,"미르펠의 마법사 미셸 듀폰이 우연히 도시 위에 거대한 얼음 요소일을 방출했으며, 더 큰 피해를 입기 전에 파괴해 달라고 제 도움을 요청했습니다. 현재는 그 요소일을 공격할 최적의 기회입니다."
 module,jrl,Categories/3/EntryList/1/Text,0,"난 프로스티릭스라는 원소를 파괴했지만, 더 작은 조각으로 갈라져 여전히 나를 공격하고 있어. 이 몬스터의 모든 조각을 파괴해야만 그가 다시 일어나지 않을 것임을 확신할 수 있어."
 module,jrl,Categories/3/EntryList/2/Text,0,프로스티리쿠스가 파괴되자 미셸은 내 수고에 대한 감사와 함께 상당한 보상을 제안했다.
-module,jrl,Categories/3/EntryList/3/Text,0,"프로스티릭스의 모든 조각들이 마침내 파괴되면서, 나는 미셸에게 승리로 돌아와 그의 창조물이 중단되었다고 알릴 수 있습니다."
+module,jrl,Categories/3/EntryList/3/Text,0,"프로스티리쿠스의 모든 조각이 마침내 파괴되었으니, 미셸에게 승리하고 돌아가 그의 창조물이 저지되었다고 알릴 수 있다."
 module,jrl,Categories/4/Name,0,죽은 것으로 남겨진
 module,jrl,Categories/4/EntryList/0/Text,0,"고속도로 옆에서 사막 강도들의 공격으로 회복 중인 한 노인을 만났어요. 그는 자신의 상처를 치료했지만, 말할 수 있는 물이 없어 목마르면 죽을 것 같아요. 문제는 나도 충분한 물을 구해야 한다는 점입니다."
 module,jrl,Categories/4/EntryList/1/Text,0,"저는 고속도로에서 노인에게 물병을 주어 그가 혼자서도 생존할 수 있을 만큼 충분히 오래 살 수 있도록 했습니다. 그는 어떤 보상도 거부했지만, 물질적 이익을 위해서가 아니라 어려움을 겪는 사람을 도와주기 위해서였습니다. 이런 시기에 더욱 원칙을 지키는 것이 중요합니다."
@@ -8515,15 +8515,15 @@ zep_mscorpm,utc,Description,0,이 생물 들 은 굶주림 으로 인도 될 곳
 zep_mscorps,utc,FirstName,0,"괴상한 스코피언, 작은"
 zep_mscorps,utc,Description,0,이 생물 들 은 굶주림 으로 인도 될 곳 에 여행 합니다. 그들은 작은 동물 들 을 먹으려 합니다. 하지만 인간 동물 이나 다른 더 큰 먹이를 공격 하는 데 주저 하지 않습니다.
 zep_mspiderg,utc,FirstName,0,"괴물 거미, 거물"
-zep_mspiderg,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspiderg,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_mspiderl,utc,FirstName,0,괴물 거구 거미
-zep_mspiderl,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspiderl,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_mspiderm,utc,FirstName,0,괴물 중간 크기 스파이더
-zep_mspiderm,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspiderm,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_mspiders,utc,FirstName,0,"괴물 거미, 소형"
-zep_mspiders,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspiders,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_mspidert,utc,FirstName,0,"괴물 스파이더, 작음"
-zep_mspidert,utc,Description,0,"괴물 스파이더는 두 가지 일반적인 종류로 나뉘어져 있습니다: 사냥꾼과 줄다리기꾼. 사냥꾼은 돌아다니며, 줄다리기꾼은 보통 먹이를 잡으려 합니다."
+zep_mspidert,utc,Description,0,"괴물 거미는 크게 두 종류로 나뉜다: 사냥꾼과 거미줄을 치는 놈. 사냥꾼은 돌아다니고, 거미줄 치는 놈은 보통 먹이를 가두려 한다."
 zep_nabassu,utc,FirstName,0,나바수
 zep_nabassu,utc,Description,0,"나바수 는 물질적 평면 에서 일생 의 상당 부분 을 보내야 할 유일한 참 악마 들 이기 때문 에 특이한 것 이다. 그 결과 이 악성적 인 피조물 들 은 그 곳 에 사는 사람 들 을 특히 증오 하고, 마치 이 망명 의 겸손 에 대해 물질적 평면 의 거주자 들 을 비난 하는 것 처럼 이다."
 zep_nighthag,utc,FirstName,0,밤 하가
@@ -9579,9 +9579,9 @@ finecomposite003,uti,DescIdentified,0,그 종류 중 가장 훌륭한 예 중 �
 fineelvenwine,uti,LocalizedName,0,좋은 엘프 와인
 fineelvenwine,uti,DescIdentified,0,수천 년 동안 버려진 폐허에서 남겨진 이 와인은 그 초월적인 질감과 맛으로 인해 귀중품처럼 가치가 있습니다.
 firestars,uti,LocalizedName,0,타오르는 별
-firestars,uti,DescIdentified,0,"던졌을 때, 이 마법으로 불타는 슈리케인은 금속을 남기지 않고 타겟에 큰 불꽃 피해를 입힙니다."
+firestars,uti,DescIdentified,0,던지면 이 마법 수리검은 불꽃으로 터져 목표에 맞는 금속은 남지 않지만 상당한 화염 피해를 입힌다.
 firestormarrows,uti,LocalizedName,0,폭발화살
-firestormarrows,uti,DescIdentified,0,치명적인 화살이 타겟을 맞추면 불 폭발의 힘으로 폭발합니다. 이러한 탄약은 매우 드물고 꽤 비싸죠.
+firestormarrows,uti,DescIdentified,0,목표에 맞으면 화염구의 위력으로 폭발하는 치명적인 화살이다. 이런 탄약은 극히 드물고 꽤 비싸다.
 firstking,uti,LocalizedName,0,아이룬드의 첫 왕
 firstking,uti,DescIdentified,0,이 책은 아이룬드 왕국의 창시자인 알레일의 삶과 시대를 다룹니다.
 fish,uti,LocalizedName,0,물고기
@@ -10125,7 +10125,7 @@ rum_5,uti,DescIdentified,0,모든 선원들의 가장 좋아하는 음료는 소
 rustedarmour,uti,LocalizedName,0,은 전신 판금 갑옷
 rustedarmour,uti,DescIdentified,0,"한때 생명적인 영역을 보호하기 위해 살아있는 갑옷으로 매료된 이 갑옷은 세월이 흐르면서 침해되어 왔고, 한때 그것을 침범한 힘의 그림자만 남아 있습니다. 몬스터를 파괴하는 것은 그 상태에 전혀 도움이 되지 않았습니다."
 sailorsoutfit,uti,LocalizedName,0,선원 의복
-sailorsoutfit,uti,DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+sailorsoutfit,uti,DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 sailorsoutfit001,uti,LocalizedName,0,해군 장교 의복
 sailorsoutfit001,uti,DescIdentified,0,아이룬드 해군의 모든 장교들이 착용하는 이 옷은 실용적이면서도 정교합니다.
 sailorsoutfit002,uti,LocalizedName,0,해군 장교 유니폼 (모자 포함)
@@ -10135,9 +10135,9 @@ sailorsoutfit003,uti,DescIdentified,0,"왕실 해병대에서 사용되는 기�
 sailorsoutfit004,uti,LocalizedName,0,시나디케이트 캡틴의 갑옷
 sailorsoutfit004,uti,DescIdentified,0,스 대장의 소유물이었던 이 멋진 옷은 내구성이 있고 마법으로부터 훌륭한 보호를 제공합니다.
 sailorsoutfit005,uti,LocalizedName,0,선원 의복
-sailorsoutfit005,uti,DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+sailorsoutfit005,uti,DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 sailorsoutfit007,uti,LocalizedName,0,선원 의복
-sailorsoutfit007,uti,DescIdentified,0,선박업자들이 주로 착용하는 이 옷은 햇볕 아래에서 일할 때 시원하게 유지하기 위해 가볍고 통풍이 잘 되도록 설계되어 있습니다.
+sailorsoutfit007,uti,DescIdentified,0,뱃일하는 사람들이 흔히 입는 이 옷은 햇볕 아래서 일하는 동안 시원하게 지내도록 가볍고 바람이 잘 통하게 만들어졌다.
 seal,uti,LocalizedName,0,투소네 사령관의 인장
 seal,uti,DescIdentified,0,호카럼 평야 전투에서 투소네 지휘관의 시체에서 얻은 이 찍은 문장은 경비대에 제시될 경우 아마 수도에 들어갈 수 있을 것입니다.
 secundusskin,uti,LocalizedName,0,세카두스 피부
@@ -10424,7 +10424,7 @@ wine_quality001,uti,DescIdentified,0,"천 년 동안 매혹된 오크에 보관�
 wine_quality_5,uti,LocalizedName,0,고급 와인
 wine_quality_5,uti,DescIdentified,0,어두운 빨간색이나 가벼운 노란색으로 만들 수 있는 와인은 발효와 노화된 포도를 짜서 만든 것이다. 이 특별한 와인은 풍부하고 깊은 맛을 가진 어두운 액체이다.
 winterchill,uti,LocalizedName,0,겨울 차가움
-winterchill,uti,DescIdentified,0,이 토테믹 스탭은 가장 추운 겨울의 깊숙한 곳에서 스톤가드 산맥에 사는 얼음 거인 샤맨들에 의해 추적용으로 제작되었습니다.
+winterchill,uti,DescIdentified,0,이 토템 지팡이는 스톤가드 산맥에 사는 서리 거인 주술사들이 가장 추운 겨울 한복판에서 냉간 단조로 만들었다.
 wintercloak,uti,LocalizedName,0,겨울 망토
 wintercloak,uti,DescIdentified,0,산에서 얼어붙는 날씨에 차가운 기운을 막는 데 유용합니다.
 wizardscloth,uti,LocalizedName,0,마법사의 로브
