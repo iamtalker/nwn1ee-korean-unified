@@ -267,7 +267,7 @@ broadhand,dlg,EntryList/21/Text,0,-1,"<FirstName>, 당신이 어떤 결정을 �
 broadhand,dlg,EntryList/22/Text,0,-1,"직업이란 직업이고, 급여는 좋은 편이다. 왜 그것을 하지 않는가?"
 broadhand,dlg,EntryList/23/Text,0,-1,"이 임무는 좋은 생각처럼 들리지 않아. 호클린의 도움이 필요하다면, 이 일은 도움이 되지 않을 거야."
 broadhand,dlg,EntryList/24/Text,0,-1,그럼 무엇인가요?
-broadhand,dlg,EntryList/25/Text,0,-1,"그게 중요한지 확실히 모르겠지만, 만약 우리가 길버트 호클린의 좋은 편에 있을 수 있다면 그런 일은 하고 싶지 않나?"
+broadhand,dlg,EntryList/25/Text,0,-1,그게 중요한지는 모르겠군. 길버트 호클린 경의 눈 밖에 나지 않으려면 그런 일을 맡는 게 맞을까?
 broadhand,dlg,EntryList/26/Text,0,-1,이 일을 피하는 게 좋지 않나 싶다.
 broadhand,dlg,EntryList/27/Text,0,-1,그는 알아야 할 필요가 없습니다.
 broadhand,dlg,EntryList/28/Text,0,-1,그는 알아야 할 필요가 없습니다.
@@ -609,7 +609,7 @@ caladnei1,dlg,EntryList/61/Text,0,-1,"No. Whatever poisons <him/her> is not cura
 caladnei1,dlg,EntryList/62/Text,0,-1,창 시합에서 누군가 창끝에 독을 발랐소. 당신은 경기장에서 나오다가 쓰러졌지. 치료하려고 이곳으로 데려왔소.
 caladnei1,dlg,EntryList/63/Text,0,-1,하지만 당신은 아직 완전히 치유되지 않았습니다. 그건 내가 할 수 없는 일이에요. 독은 평범한 독이 아니기 때문이에요. 그래도 궁금한 점이 있으실 거예요?
 caladnei1,dlg,EntryList/7/Text,0,-1,"네, 앞으로의 전투를 위해 줄게"
-caladnei1,dlg,EntryList/8/Text,0,-1,"만약 난쟁이 마왕을 마주치지 않으면, 독이 당신을 죽일 것이다 <CUSTOM1021> <FirstName>."
+caladnei1,dlg,EntryList/8/Text,0,-1,마녀 군주와 맞서지 않으면 독이 당신을 죽일 거야 <CUSTOM1021> <FirstName>.
 caladnei1,dlg,EntryList/9/Text,0,-1,여기 이 막대가 필요해 마법사의 공포를 극복하고 그의 마술에 대항할 수 있어
 caladnei1,dlg,ReplyList/0/Text,0,-1,더 이상 질문이 없어요.
 caladnei1,dlg,ReplyList/16/Text,0,-1,이제 준비되었습니다.
@@ -4040,7 +4040,7 @@ huntcrown,dlg,ReplyList/106/Text,0,-1,"아니, 그만해"
 huntcrown,dlg,ReplyList/108/Text,0,-1,그렇소.
 huntcrown,dlg,ReplyList/109/Text,0,-1,난 패라딘이야 거짓말은 쉽게 알아낼 수 있어
 huntcrown,dlg,ReplyList/110/Text,0,-1,<StartAction>[속임수 저항]</Start> 난 당신을 믿지 않습니다. 아마 유니콘을 죽이고 그 모뿔을 가져갔을 거다.
-huntcrown,dlg,ReplyList/111/Text,0,-1,"<StartCheck>[위협]</Start> 네가 다시 숲 민속을 사냥하지 않겠다는 서면 맹세를 해주길 원해, 그렇지 않으면 호루라기를 주지 못하고 당신을 신고할 거야."
+huntcrown,dlg,ReplyList/111/Text,0,-1,<StartCheck>[위협]</Start> 다시는 숲 사람들을 사냥하지 않겠다는 서면 맹세를 받아야겠어. 그러지 않으면 뿔은 못 주고 널 신고하겠어.
 huntcrown,dlg,ReplyList/115/Text,0,-1,그 제안이 좋네요. 받아들이겠습니다.
 huntcrown,dlg,ReplyList/117/Text,0,-1,나에게 방향을 알려주십시오.
 huntcrown,dlg,ReplyList/118/Text,0,-1,안녕하세요
@@ -4472,7 +4472,7 @@ innsign,dlg,EntryList/24/Text,0,-1,내 사촌이 일 저녁에 천둥석을 혼�
 innsign,dlg,EntryList/25/Text,0,-1,"마지막으로 발레토의 배가 썬더스톤에 왔을 때, 배에 상아가 실린 것 같았어. 그는 목재 상인이라던데. 이멜다라는 상인을 위해 몰래 짐을 나르는 걸지도 몰라. 참 이상하지. 둘은 항상 서로를 싫어하는 척하거든."
 innsign,dlg,EntryList/26/Text,0,-1,세미비아 국경에서 많은 움직임이 일어나고 있습니다. 그들은 침략을 준비하고 있을지도 모릅니다. 이것이 왜 보라색 용들이 침략자들을 쫓는 것보다 그들의 바락에 더 많은 시간을 보내는 이유를 설명할 수 있습니다.
 innsign,dlg,EntryList/27/Text,0,-1,"상품을 살 수만 있다면 정당한 소유자가 누구인지는 상관없다고 생각하신다면, 앨리스 브로드핸드를 찾아가세요. 그녀는 식스 코퍼스 무역조합에 자주 어슬렁거립니다."
-innsign,dlg,EntryList/28/Text,0,-1,와글의 레이버리에 새로운 용기공이 생겼습니다. 그녀의 마법 무기 제작 기술은 정말 놀랍습니다. 물론 요즘 일반 무기가 부족해서 거의 마법 무기를 만들 기회가 없네요.
+innsign,dlg,EntryList/28/Text,0,-1,웽글의 마구간에 새로 온 대장장이를 적극 추천합니다. 마법 물건을 다루는 솜씨가 놀랍습니다. 물론 요즘은 일반 무기가 워낙 부족해서 마법을 부여할 기회가 거의 없지만요.
 innsign,dlg,EntryList/29/Text,0,-1,그녀는 다시 마법 작업의 기회를 환영할 것이라고 확신합니다.
 innsign,dlg,EntryList/3/Text,0,-1,"천둥의 간판 여관에는 중요한 손님들이 많이 드나들기 때문에, 당연히 이곳을 통해 소식이 오갑니다."
 innsign,dlg,EntryList/30/Text,0,-1,사실 그녀는 매우 좋은 철공사입니다.
@@ -5488,7 +5488,7 @@ lacinda,dlg,EntryList/12/Text,0,-1,안녕하세요
 lacinda,dlg,EntryList/120/Text,0,-1,"내 가족이 무너진 이후로, 왕에게 위협이 될 수 있는 어떠한 경력도 추구할 수 없었다. 모든 문이 열려있을 때는 있었지만, 지금은 닫혀 있다. 권력의 모든 자리들은 사라졌지만, 저를 가장 아프게 한 것은 육체적 능력의 추구였다. 지금은 저를 보고도 육체적 능력이 뛰어난 무사로 보지 않을지도 모른다지만, 우리 가족이 무너지기 전에는 훌륭한 무사로 인정받고 있었다."
 lacinda,dlg,EntryList/121/Text,0,-1,"기사가 되는 것이 제 목표였고, 당신은 이제 그 목표를 이루셨지요. 마상 시합에서 영광을 누리고, 제 기술과 기사도로 온 나라에 이름을 알리는 모습을 꿈꿨습니다. 몰락이 닥친 뒤에는 참가할 마상 시합을 찾기 어려웠습니다. 겨우 참가해도 사람들은 제게 오물과 심지어 돌을 던졌고, 말이 겁을 먹어 저는 물러날 수밖에 없었습니다."
 lacinda,dlg,EntryList/122/Text,0,-1,"배신으로 인해, <FirstName>, 내 것이 아니라 다른 사람들."
-lacinda,dlg,EntryList/123/Text,0,-1,"어쩌면, <FirstName>, 어쩌면. 약한 순간에 왕이 더 많은 것을 남기지 않았다면 좋겠다. 하지만 그 자리에선 나조차 친절하지 않았을 것이다."
+lacinda,dlg,EntryList/123/Text,0,-1,"어쩌면, <FirstName>, 어쩌면. 약해진 순간에는 왕이 우리에게 더 많은 것을 남겨 주었으면 하고 바라기도 한다. 하지만 그의 처지였다면 나도 더 친절하진 못했을 것이다."
 lacinda,dlg,EntryList/124/Text,0,-1,"그 이후 몇 년 동안 고난을 겪었지만, 이제는 내 마음에는 희망이 있습니다. 더 이상 과거에 대해 이야기할 필요는 없습니다."
 lacinda,dlg,EntryList/125/Text,0,-1,"<FirstName>, 내 머릿속에는 왕의 정의가 필요하다고 합니다. 우리 가족은 너무 자주 배신한 적이 있습니다"
 lacinda,dlg,EntryList/126/Text,0,-1,"그 배신 때문에 잃은 것을 생각하면 가슴이 아파요. 연루된 자들을 뼛속 깊이 증오합니다. 어떤 이들은 코르미르에 대한 내 충성을 의심하지만, 오히려 더 굳건해졌어요. 내가 잃은 것은 배신자들 때문이었으니까요."
@@ -5910,7 +5910,7 @@ lacinda,dlg,ReplyList/277/Text,0,-1,네 도움이 필요없다는 건 분명해!
 lacinda,dlg,ReplyList/278/Text,0,-1,"괜찮아, 여기 있어"
 lacinda,dlg,ReplyList/28/Text,0,-1,"이 건방진 암소야. 손해 보는 건 너지, 내가 아니야!"
 lacinda,dlg,ReplyList/280/Text,0,-1,"아니, 지금은 필요 없어. 아마 그럴 거야."
-lacinda,dlg,ReplyList/282/Text,0,-1,내 시선에서 사라지거라! 당신이 나를 그렇게 실망시켜서 속상하다!
+lacinda,dlg,ReplyList/282/Text,0,-1,내 눈앞에서 꺼져라. 넌 역겹다!
 lacinda,dlg,ReplyList/285/Text,0,-1,지금은 시간이 없어.
 lacinda,dlg,ReplyList/286/Text,0,-1,무슨 일이야?
 lacinda,dlg,ReplyList/32/Text,0,-1,<StartCheck>[조롱]</Start> 이런 조심스러운 태도로는 아무 명예도 얻지 못할 거야!
@@ -6245,7 +6245,7 @@ magnus,dlg,EntryList/36/Text,0,-1,"유니콘은 큰 마법의 능력을 가진 �
 magnus,dlg,EntryList/37/Text,0,-1,썬더스톤에 있는 템푸스의 성당은 겸손한 곳이지만 여전히 내가 할 수 있는 모든 방법으로 템푸스에 봉사하는 것이 나의 의무입니다. 좋은 무기는 진정한 전사의 친구입니다.
 magnus,dlg,EntryList/38/Text,0,-1,"아아, 그럴 수도 있겠지만 교회가 실제로 이 무기를 만들 형편이 되려면 오랜 시간이 걸릴 겁니다."
 magnus,dlg,EntryList/39/Text,0,-1,템푸스는 내 손을 이끌고 있는 것 같아.
-magnus,dlg,EntryList/4/Text,0,-1,"제니 드래브와 대화하지 않았다면, 그녀를 찾아보는 것이 좋습니다. 그녀는 정원에서 자주 있어 그녀가 알고 있을지도 모르겠습니다. 그녀는 가구 운명에서 세탁을 도맡고 있어서 그 곳에서 찾을 수 있습니다."
+magnus,dlg,EntryList/4/Text,0,-1,알아보려 했지만 허사였어. 제니 드랩과 아직 이야기하지 않았다면 찾아봐. 그녀는 정원에 자주 있으니 뭔가 알지도 몰라. 그녀는 여러 곳 가운데 퍼니처스 페이트의 빨래도 맡고 있으니 거기서 찾을 수도 있어.
 magnus,dlg,EntryList/40/Text,0,-1,그건 정말 설득력 있는 논증이야.
 magnus,dlg,EntryList/41/Text,0,-1,<StartAction>[성공]</Start> Hmmm. 어쩌면 내가 그...
 magnus,dlg,EntryList/42/Text,0,-1,이 호른 때문에 교회에 무엇을 바칠 수 있을까요?
@@ -6449,7 +6449,7 @@ mander,dlg,EntryList/5/Text,0,-1,스트는 습지에 살고 있습니다. 이곳
 mander,dlg,EntryList/6/Text,0,-1,"하지만 지도가 없다면, 당신은 단지 저주를 받은 곳을 찾을 수 있을 뿐, 보물은 찾을 수 없을 것입니다."
 mander,dlg,EntryList/7/Text,0,-1,<CUSTOM1008> 골든 라이언들?
 mander,dlg,EntryList/8/Text,0,-1,"여기 네 지도가 있어, 코르스트가 널 기다리고 있을 때 대비해"
-mander,dlg,EntryList/9/Text,0,-1,"부끄러운 일이지만, 한두 년 더 기다려 볼까 합니다. 다른 사람이 나타날지도 모르니까!"
+mander,dlg,EntryList/9/Text,0,-1,"아쉽지만, 한두 해 더 기다리면 다른 사람이 나타날지도 모르죠!"
 mander,dlg,ReplyList/0/Text,0,-1,시간 주셔서 감사합니다.
 mander,dlg,ReplyList/1/Text,0,-1,이 보물 지도에 대해 좀 더 자세히 말해줄래?
 mander,dlg,ReplyList/10/Text,0,-1,그럼 주세요.
@@ -6899,7 +6899,7 @@ matron,dlg,ReplyList/2/Text,0,-1,그건 합리적인 것 같네요. 그를 찾�
 matron,dlg,ReplyList/21/Text,0,-1,내 이름은 중요하지 않아
 matron,dlg,ReplyList/22/Text,0,-1,나는 <FullName>이다.
 matron,dlg,ReplyList/23/Text,0,-1,론드로에 대해 얘기 좀 하자.
-matron,dlg,ReplyList/24/Text,0,-1,"가난한 영혼은 당신을 위해 열심히 일하고 있지만, 당신은 그를 노예처럼 대합니다!"
+matron,dlg,ReplyList/24/Text,0,-1,"아무것도 아니다. 불쌍한 놈이 당신을 위해 뼈 빠지게 일하는데, 당신은 그를 노예처럼 부려 먹는군!"
 matron,dlg,ReplyList/25/Text,0,-1,론드로는 네가 그를 노예처럼 대하는 걸 말해줬어. 이제 그걸 바꿔야 해.
 matron,dlg,ReplyList/26/Text,0,-1,어떤 의미로?
 matron,dlg,ReplyList/27/Text,0,-1,그가 노예제에서 해방되는 것을 보게 되면 마법품을 만들어주겠다고 약속했네. 더 많은 돈을 주겠니?
@@ -8119,7 +8119,7 @@ transition,dlg,EntryList/4/Text,0,-1,"<StartAction>[밤에, 토너먼트 지역�
 transition,dlg,EntryList/5/Text,0,-1,"<StartAction>[투너먼트 지역은 아직 열리지 않았지만, 태양이 완전히 뜨면 열릴 것입니다...]</Start>"
 transition,dlg,ReplyList/0/Text,0,-1,<StartAction> [이곳에 머물러.] </Start>
 transition,dlg,ReplyList/1/Text,0,-1,<StartAction>[천둥석에 있는 모든 말을 모아.]</Start>
-transition,dlg,ReplyList/10/Text,0,-1,<StartAction>[천둥석 조스팅 지구]</Start>
+transition,dlg,ReplyList/10/Text,0,-1,<StartAction>[썬더스톤 창 시합장]</Start>
 transition,dlg,ReplyList/11/Text,0,-1,<StartAction>[천둥석 토너먼트 경기장]</Start>
 transition,dlg,ReplyList/12/Text,0,-1,<StartAction>[천둥석 타운 게이트]</Start>
 transition,dlg,ReplyList/13/Text,0,-1,<StartAction>[숙소를 이용하는 것과 그렇지 않은 것의 차이점은 무엇인가요?]</Start>

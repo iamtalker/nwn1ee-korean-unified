@@ -142,7 +142,7 @@ ct1_insal,dlg,EntryList/1/Text,0,"<StartAction>""이전에 카타콤에서 석�
 ct1_insal,dlg,EntryList/2/Text,0,"""내 친구들아, 너희가 다시 나를 도울 수 있었으면 좋겠다. 그러나 나는 영원히 갇혀있을까 두려워한다! 내가 빌린 것을 돌려주었으면 좋겠지만, 드란은 내 모든 것을 빼앗아갔다. 그래도 나는 그의 것을 부동화시킬 수 있었다! 그것은 비밀의 동전이다. 나는 그 목적에 대해 확신하지 못하지만, 너희가 필요로 할 것을 알고 있다. 그것을 가지고 가라, 그가 돌아오기 전에."
 ct1_insal,dlg,ReplyList/0/Text,0,끝...
 ct1_insal,dlg,ReplyList/1/Text,0,계속...
-ct1_insal,dlg,ReplyList/2/Text,0,"<StartAction>""인살의 운명은 그대로 두리.""</Start>"
+ct1_insal,dlg,ReplyList/2/Text,0,"<StartAction>""인살을 운명에 맡기고 떠난다.""</Start>"
 ct1_reddisk,dlg,EntryList/0/Text,0,"<StartAction></Start>""앞에 빨간색 디스크를 볼 수 있습니다. 한 쪽에 찌꺼기가 잘려져 있습니다. 디스크는 네 가지 위치로 회전할 수 있습니다. 위로, 아래로, 왼쪽, 오른쪽으로""."
 ct1_reddisk,dlg,EntryList/1/Text,0,끝...
 ct1_reddisk,dlg,ReplyList/0/Text,0,"""디스크를 상위 위치로 돌리세요"""
@@ -3176,7 +3176,7 @@ in_dm_dungonmstr,dlg,EntryList/4/Text,0,"그럼 됩니다. 잠시 생각해 보�
 in_dm_dungonmstr,dlg,EntryList/5/Text,0,"어드벤처레이터님, 안녕하세요. 저는 던전 마스터이고, 저는 당분간 여러분의 호스트가 될 것입니다. 이 모듈에 제공된 리드메이를 읽어 본다면, 원래의 ""더크문 레전드""는 4명의 플레이어를 위해 만들어졌다는 것을 알고 있습니다. 레벨 7부터 시작됩니다. 일부 플레이어가 스스로 모듈을 플레이하기를 좋아한다는 것을 알고 있기 때문에, 나는 덜 플레이어가있을 때 모험을 쉽게 하려고 노력했습니다. 그리고 또한 주변에 당신을 도울 사람들이있을 것입니다. 그러나, 나는 던전 마스터이기 때문에, 나는 당신에게 이 레벨에 도달할 충분한 경험을 제공함으로써 시작하겠습니다. 아직 준비가 되지 않은 경우, 준비하고, 나에게로 돌아가십시오."
 in_dm_dungonmstr,dlg,EntryList/6/Text,0,준비되면 다시 이야기 하다
 in_dm_dungonmstr,dlg,EntryList/7/Text,0,좋아. 이제 나가 준 경험을 사용해 보시오. 끝나면 다시 말씀해 보시기 바랍니다.
-in_dm_dungonmstr,dlg,EntryList/8/Text,0,'더크월의 전설'에 오신 것을 환영합니다. 곧 모험을 시작할 수 있게 해드리겠습니다. 하지만 먼저 여러분이 경험할 예정인 것에 대해 몇 가지 알려드리고 싶습니다.
+in_dm_dungonmstr,dlg,EntryList/8/Text,0,"'다크문의 전설'에 오신 것을 환영합니다. 곧 모험을 시작하게 해 드리겠지만, 그 전에 앞으로 겪게 될 일에 관해 몇 가지 알려 드리고 싶습니다."
 in_dm_dungonmstr,dlg,EntryList/9/Text,0,"이제 당신은 적어도 레벨 7 인 캐릭터를 가지고 있어야 합니다. 이 모험은 네 명의 파티를 위해 만들어졌기 때문에 몇 명의 친구를 함께 갖는 것이 좋습니다. 당신은 모험 동안 동맹국들을 채용할 기회가 있으므로 정확히 4 명의 사람이 필요는 없습니다. 다음 방에서는 무기와 갑옷, 심지어 몇 개의 스크롤을 찾을 수 있습니다. 그들을 현명하게 공유하십시오. 기억하십시오, 동맹국을 약화시키는 것은 이 모험에서 도움이 되지 않습니다."
 in_dm_dungonmstr,dlg,EntryList/10/Text,0,"그럼, 가세요. 돌아오시면 제가 당신과 그들을 기다리고 있을 것입니다."
 in_dm_dungonmstr,dlg,EntryList/11/Text,0,"다크문 전설은 이전에 메인 게임만 플레이한 경우 익숙하지 않은 몇 가지 요소를 포함합니다. 예를 들어, 당신은 먹어야 합니다. 그렇지 않으면 굶어 죽을 것입니다. 동맹국에게 무기와 갑옷을 장착할 수 있습니다. 이 모듈에는 상인이 없습니다. 이 모험은 숨겨진 벽, 함정, 그리고 주의를 기울여야 할 요소들이 가득합니다."
@@ -3608,7 +3608,7 @@ tavern_oldman,dlg,EntryList/5/Text,0,"""우리가 그를 깨끗이 하고 상처
 tavern_oldman,dlg,EntryList/6/Text,0,"""다음 몇 일 동안 그는 열병으로 인해 망령될텐데 침대에 누워야 했습니다. 망령된 상태에서 그는 무덤에서 일어난 무사들과 다른 악마의 생물들의 군대, 그리고 워터딥의 정복에 대해 이야기했습니다. 그러한 것을 상상할 수 있습니까? 워터딥의 빛나는 도시를 정복하는 것이요!"""
 tavern_oldman,dlg,EntryList/7/Text,0,"""우리 는 그 들 이 성전 암흑 달 에 대해 이야기 하기 시작 했을 때, 열병 에 관한 것 처럼 그 들 의 거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거거"
 tavern_oldman,dlg,EntryList/8/Text,0,"""지금 은 암흑 달 이 재건 된 것 과 같이 보이지만, 그 는 이제 자신 을 드란 이라고 부르는 사람 의 지도 아래 있는 것 이다. 그 는 그렇게 오래 전 의 드란 이 될 수 있는가? 그렇게 한다면 드란 은 꽤 오래 된 것 과 아마도 꽤 강력 한 것 과 같이 보일 것 이다. 이 점 은 이 곳 과 인근 마을 의 모든 신비 한 마을 의 주민 들 의 사라진 이유 도 될 수 있다""."
-tavern_oldman,dlg,EntryList/9/Text,0,"드로우는 냉정하고 악한 존재로서 자기들 사이에서 권력을 놓고 다투기 시작하여 결국 파괴로 이어졌지만, 그 중 리더 드란은 아무런 흔적 없이 사라졌습니다."
+tavern_oldman,dlg,EntryList/9/Text,0,"""드로우는 원래 냉혹하고 사악한 존재들이라 자기들끼리 권력을 다투기 시작했고, 그것이 결국 몰락으로 이어졌다. 다만 지도자 드란만은 흔적도 없이 사라졌다."""
 tavern_oldman,dlg,EntryList/10/Text,0,"""그는 말했던 나머지 대부분의 것 들 은 정신 을 이해 하기 위해 너무 무관성적 이었다. 그러나 우리가 함께 조각 할 수 있었던 것 은 그가 분명히 성전 안으로 들어가서 스누프에 성공 했다는 것 이다. 우리는 우리 친구가 밤 동안 떠났다는 것을 발견 한 때 몇 일 지나갔다. """
 tavern_oldman,dlg,EntryList/11/Text,0,"""그는 우리의 도움과 호의에 대해 감사하는 메모만 남겼고, 워터딥에 있는 검은지팡이 Khelben에게 보고서를 보내기 위해 떠났다고 말했습니다. 그래서 아마도 Khelben은 어둠의 성전 Darkmoon으로 그룹을 보내서 드란의 끔찍한 계획을 막을 수 있을지도 모릅니다."""
 tavern_oldman,dlg,EntryList/12/Text,0,"<StartAction> 그 늙은이가 미소를 지으며 타버너의 입구로 걸어가자 </Start> ""우리의 미래는 당신의 손에 달려 있어, 젊은 영웅! 미스트라와 티모라가 당신의 길을 안내해 주시기를. 잘 만났다, 행운을 빌어!"""
@@ -6590,7 +6590,7 @@ area009,git,Placeable List/88/LocName,0,바닥 피 - 오래된 2
 area009,git,Placeable List/89/LocName,0,바닥 탈진도 3
 area009,git,Placeable List/90/LocName,0,바닥 탈진도 3
 area009,git,Placeable List/92/LocName,0,흙 부분 중간
-area009,git,Placeable List/94/LocName,0,반 먹힌 시체
+area009,git,Placeable List/94/LocName,0,반쯤 뜯어먹힌 시체
 area010,git,Creature List/0/FirstName,0,방패 수호자
 area010,git,Creature List/0/Description,0,주문사들이 만들고 특별한 부적으로 조종하는 방패 수호자는 전투에서 주로 방어 역할을 하며 흔들림 없는 충성심으로 주인을 지킵니다.
 area010,git,Creature List/1/FirstName,0,방패 수호자
@@ -7079,7 +7079,7 @@ area011,git,Placeable List/237/LocName,0,물막이
 area011,git,Placeable List/238/LocName,0,물막이
 area011,git,Placeable List/239/LocName,0,물막이
 area011,git,Placeable List/240/LocName,0,물막이
-area011,git,Placeable List/245/LocName,0,"""너희 같은 운명을 탓할 처지에 있는 사람들이 나를 전투에서 이기다니, 누가 짐작할 수 있었겠는가! 우리는 다시 만날 것이다."""
+area011,git,Placeable List/245/LocName,0,"""너희 같은 불운해 보이는 일행이 나를 싸움에서 이길 줄 누가 짐작했겠는가! 우리는 다시 만날 것이다"""
 area011,git,Placeable List/247/LocName,0,타락한 모험가
 area011,git,Placeable List/247/ItemList/2/LocalizedName,0,마비의 막대
 area011,git,Placeable List/247/ItemList/2/DescIdentified,0,"이런 물건을 만드는 이들은 잔혹하거나 배신적이라는 비난을 자주 받아 이름을 쉽게 밝히지 않습니다. 마비의 마법봉은 유용하지만, 강인한 전사들이 무력화되어 온갖 끔찍한 일을 당했다는 이야기와 늘 엮입니다. 그런 이야기는 술집 손님들에게 환영받지 못하죠."
@@ -14953,7 +14953,7 @@ door_fancy001,utd,LocName,0,문
 door_fancy002,utd,LocName,0,문
 door_metal001,utd,LocName,0,견고한 문
 gn_door21,utd,LocName,0,관문
-gn_door21,utd,Description,0,크로스 크로스하는 금속 스트립과 수직 금속 바가 얽혀 이 가벼운 그러나 강한 문을 형성한다.
+gn_door21,utd,Description,0,엇갈린 금속 띠와 수직 금속 창살이 얽혀 이 가볍지만 튼튼한 문을 이룬다.
 gn_door22,utd,LocName,0,문
 gn_door22,utd,Description,0,"잘 사용 된 이 문 은 수많은 스크래치 와 더러운 흔적 을 가지고 있지만, 견고 한 오크 패널 들 은 얼마 안 지나지 않아 을 을 것 같지 않습니다."
 gn_door23,utd,LocName,0,돌 문
