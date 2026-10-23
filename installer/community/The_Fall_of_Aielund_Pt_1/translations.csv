@@ -1278,7 +1278,7 @@ gaston,dlg,EntryList/2/Text,0,"하! 당신이 이 일을 하기 위해 내가 �
 gaston,dlg,EntryList/3/Text,0,"아니, 기다리세요... 방금 생각이 들었어요. 당신은 평판이 좋은 사람들조차도 대하는 것에 익숙해져 있나?"
 gaston,dlg,EntryList/4/Text,0,"신왕이 필요한 모든 방법으로 더 많은 무기와 갑옷을 만들라고 명령했을 때, 저는 곤경에 처해 있었습니다. 금속 공급이 매우 낮았기 때문입니다."
 gaston,dlg,EntryList/5/Text,0,저는 많은 빚을 지고 있습니다. 불행한 사람이죠. 그는 사막에서 연락을 취하고 있습니다. 그 사람은 그가 필요로 하는 모든 것을 '수집'하고 있습니다. 그리고 저는 그의 작은 금속 공급에 빚을 지고 있습니다. 그는 지금 그의 용의를 요구하고 있습니다.
-gaston,dlg,EntryList/6/Text,0,"하지만 만약 이 사람을 내 빚을 갚으라고 설득할 수 있다면, 나는 당신에게 화려한 무기를 만들게 될 거야!"
+gaston,dlg,EntryList/6/Text,0,그 일에 대해서는 말하지 않겠습니다. 하지만 이 사람을 설득해 제 빚을 탕감해 준다면 당신을 위해 훌륭한 무기를 만들어 드리겠습니다!
 gaston,dlg,EntryList/7/Text,0,"파하. 어떤 영웅이냐. 내 처지에 처한 사람들에게 판결을 내리다니. 이제 당신의 의도가 명확해졌으니, 가라. 그리고 이 일에 대해 누군가에게 말하면 레네가 당신이 다시는 아무도 만나지 못하게 할 것이다."
 gaston,dlg,EntryList/8/Text,0,"그는 레네로 알려져 있으며, 그와 그의 친구들은 여기 서쪽에 사업을 하고 있습니다. 비밀번호가 필요합니다. 문을 두드리면 '자유'라고 말하면 들어갈 수 있습니다."
 gaston,dlg,EntryList/9/Text,0,"고마워, 외지인. 자네의 말을 기다리고 있어. 잘해보시오."
@@ -3186,7 +3186,7 @@ pascal,dlg,EntryList/3/Text,0,"어... 좋습니다. 다행이군요. 경관님, 
 pascal,dlg,EntryList/4/Text,0,"오, 그리고 그건 사람들의 집에 침입하는 것도 포함돼요!"
 pascal,dlg,EntryList/5/Text,0,여기서 뭐하는 거야?
 pascal,dlg,EntryList/7/Text,0,그가 정확히 무엇을 원하는지.
-pascal,dlg,EntryList/8/Text,0,"그가 내 여인들을 원하단 말인가! 이것은 용납될 수 없다! 나가서, 그 야만인에게 내가 원하는 것을 내게서 빼려고 한다면, 그를 끝낼 거다. 가."
+pascal,dlg,EntryList/8/Text,0,"내 여인들을 원한다고? 용납할 수 없다! 나가서 그 야만인에게, 내 것을 빼앗을 수 있다고 생각한다면 내가 끝장내겠다고 전해라. 가!"
 pascal,dlg,EntryList/9/Text,0,"네 집에서 위협을 할 용기가 있어? 쓰레기, 죽어!"
 pascal,dlg,EntryList/10/Text,0,나가라고 했잖아! 나가지 않으면 안 돼!
 pascal,dlg,ReplyList/2/Text,0,"여기 모든 게 괜찮은 것 같네요, 그냥 가겠습니다."
@@ -5358,78 +5358,78 @@ fairlochsenat015,git,Creature List/5/FirstName,0,나리
 fairlochsenat015,git,Creature List/5/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/5/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/6/FirstName,0,나리
 fairlochsenat015,git,Creature List/6/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/6/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/7/FirstName,0,나리
 fairlochsenat015,git,Creature List/7/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/7/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/8/FirstName,0,나리
 fairlochsenat015,git,Creature List/8/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/8/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/9/FirstName,0,나리
 fairlochsenat015,git,Creature List/9/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/9/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/10/FirstName,0,나리
 fairlochsenat015,git,Creature List/10/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/10/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/11/FirstName,0,나리
 fairlochsenat015,git,Creature List/11/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/11/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/12/FirstName,0,나리
 fairlochsenat015,git,Creature List/12/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/12/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/13/FirstName,0,나리
 fairlochsenat015,git,Creature List/13/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/13/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/14/FirstName,0,나리
 fairlochsenat015,git,Creature List/14/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/14/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/15/FirstName,0,나리
 fairlochsenat015,git,Creature List/15/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/15/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/16/FirstName,0,나리
 fairlochsenat015,git,Creature List/16/LastName,0,아이룬드
 fairlochsenat015,git,Creature List/16/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/17/FirstName,0,"로드 코빙턴, 집의장"
 fairlochsenat015,git,Creature List/17/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/18/FirstName,0,하벨록 경
 fairlochsenat015,git,Creature List/18/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/19/FirstName,0,켄트 경
 fairlochsenat015,git,Creature List/19/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/20/FirstName,0,네이선 경
 fairlochsenat015,git,Creature List/20/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 fairlochsenat015,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,주님의 옷
-fairlochsenat015,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+fairlochsenat015,git,Creature List/20/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 fairlochsenat015,git,Creature List/21/FirstName,0,도시 감시관
 fairlochsenat015,git,Creature List/21/Description,0,경계심이 가득하고 충실한 이 지키는 자들은 아이룬드 전역의 진정한 경찰력을 이루고 있습니다.
 fairlochsenat015,git,Creature List/21/ItemList/0/LocalizedName,0,상원 회의실 키
@@ -5844,7 +5844,7 @@ forthighmarch,git,Placeable List/85/LocName,0,anvil_hit_object9
 forthighmarch,git,Placeable List/97/ItemList/0/LocalizedName,0,비싼 옷
 forthighmarch,git,Placeable List/97/ItemList/0/DescIdentified,0,"이 섬세하게 짜여진 옷은 아이룬드의 부유한 엘리트들에 의해 착용된다. 그것은 은혜, 균형의 이미지를 투영하며, 가장 덜 매력적인 사람조차도 눈에 더 매력적으로 보이게 한다. 이 특별한 디자인은 여성 인구 사이에서 가장 인기가 있습니다."
 forthighmarch,git,Placeable List/97/ItemList/1/LocalizedName,0,주님의 옷
-forthighmarch,git,Placeable List/97/ItemList/1/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+forthighmarch,git,Placeable List/97/ItemList/1/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 highmarchg,git,Creature List/0/FirstName,0,민병대
 highmarchg,git,Creature List/0/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 highmarchg,git,Creature List/0/ItemList/1/LocalizedName,0,이마어치_키
@@ -6153,7 +6153,7 @@ knighting,git,Creature List/0/FirstName,0,찰스 대공
 knighting,git,Creature List/0/LastName,0,몬테고
 knighting,git,Creature List/0/Description,0,이 친절한 노인은 시내에서 가장 영향력 있는 정치인 중 한 명으로 보입니다.
 knighting,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/1/FirstName,0,기사
 knighting,git,Creature List/1/Description,0,왕의 기사들은 경계심을 가지고 충실하게 행동하며 전국을 평화로운 곳으로 지키고 있습니다.
 knighting,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,기사 로움 을 수 있는 헬멧
@@ -6164,28 +6164,28 @@ knighting,git,Creature List/2/FirstName,0,세마스 왕
 knighting,git,Creature List/2/LastName,0,로베크
 knighting,git,Creature List/2/Description,0,아이룬드의 주권자이자 크리오사의 아버지
 knighting,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,왕 의복
-knighting,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/3/FirstName,0,하원의장
 knighting,git,Creature List/3/Description,0,아일런드의 실효 통치자로서 상원의원을 대체하는 로더들은 균형 잡힌 정부가 허용하는 것보다 훨씬 더 많은 권한을 부여받았습니다.
 knighting,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/4/FirstName,0,코르티어
 knighting,git,Creature List/4/Description,0,왕을 돕는 많은 귀족들 중 한 명
 knighting,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/5/FirstName,0,찰스 대공
 knighting,git,Creature List/5/LastName,0,몬테고
 knighting,git,Creature List/5/Description,0,이 친절한 노인은 시내에서 가장 영향력 있는 정치인 중 한 명으로 보입니다.
 knighting,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/6/FirstName,0,코르티어
 knighting,git,Creature List/6/Description,0,왕을 돕는 많은 귀족들 중 한 명
 knighting,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/7/FirstName,0,코르티어
 knighting,git,Creature List/7/Description,0,왕을 돕는 많은 귀족들 중 한 명
 knighting,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/8/FirstName,0,코르티어
 knighting,git,Creature List/8/Description,0,왕을 돕는 많은 귀족들 중 한 명
 knighting,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,여인의 옷
@@ -6236,7 +6236,7 @@ knighting,git,Creature List/16/FirstName,0,세마스 왕
 knighting,git,Creature List/16/LastName,0,로베크
 knighting,git,Creature List/16/Description,0,아이룬드의 주권자이자 크리오사의 아버지
 knighting,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,왕 의복
-knighting,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/17/FirstName,0,윌리엄 경
 knighting,git,Creature List/17/LastName,0,브라이스 클리프트
 knighting,git,Creature List/17/Description,0,그의 생애 60대에 들어도 이 사람은 기사단의 색채를 드러내며 자랑스럽고 키가 크다.
@@ -6271,7 +6271,7 @@ knighting,git,Creature List/22/FirstName,0,세마스 왕
 knighting,git,Creature List/22/LastName,0,로베크
 knighting,git,Creature List/22/Description,0,아이룬드의 주권자이자 크리오사의 아버지
 knighting,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,왕 의복
-knighting,git,Creature List/22/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/22/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/23/FirstName,0,아이룬드 궁수
 knighting,git,Creature List/23/Description,0,"현재 민병대라고 알려진 도시 경비대는 참전용사들의 부재 속에서 훌륭한 일을 하고 있으며, 최근에 많은 경험을 쌓아냈습니다."
 knighting,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,사슬갑옷
@@ -6331,7 +6331,7 @@ knighting,git,Creature List/30/Equip_ItemList/2/DescIdentified,0,"고령이 전�
 knighting,git,Creature List/31/FirstName,0,코르티어
 knighting,git,Creature List/31/Description,0,왕을 돕는 많은 귀족들 중 한 명
 knighting,git,Creature List/31/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/31/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/31/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/32/FirstName,0,코르티어
 knighting,git,Creature List/32/Description,0,왕을 돕는 많은 귀족들 중 한 명
 knighting,git,Creature List/32/Equip_ItemList/0/LocalizedName,0,여인의 옷
@@ -6340,15 +6340,15 @@ knighting,git,Creature List/33/FirstName,0,찰스 대공
 knighting,git,Creature List/33/LastName,0,몬테고
 knighting,git,Creature List/33/Description,0,이 친절한 노인은 시내에서 가장 영향력 있는 정치인 중 한 명으로 보입니다.
 knighting,git,Creature List/33/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/33/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/33/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/34/FirstName,0,코르티어
 knighting,git,Creature List/34/Description,0,왕을 돕는 많은 귀족들 중 한 명
 knighting,git,Creature List/34/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/34/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/34/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/35/FirstName,0,코르티어
 knighting,git,Creature List/35/Description,0,왕을 돕는 많은 귀족들 중 한 명
 knighting,git,Creature List/35/Equip_ItemList/0/LocalizedName,0,주님의 옷
-knighting,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+knighting,git,Creature List/35/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 knighting,git,Creature List/36/FirstName,0,기사
 knighting,git,Creature List/36/Description,0,왕의 기사들은 경계심을 가지고 충실하게 행동하며 전국을 평화로운 곳으로 지키고 있습니다.
 knighting,git,Creature List/36/Equip_ItemList/0/LocalizedName,0,기사 로움 을 수 있는 헬멧
@@ -8419,11 +8419,11 @@ zep_lamb_001,utc,Description,0,"가장 오래된 가축 중 하나인 양은 털
 zep_lamb_002,utc,FirstName,0,"양, 흰색"
 zep_lamb_002,utc,Description,0,"가장 오래된 가축 중 하나인 양은 털, 육류, 우유를 위해 양육된다."
 zep_leech_l,utc,FirstName,0,"거머리, 거구"
-zep_leech_l,utc,Description,0,침범은 더 큰 생물의 혈액으로 살아가는 기생충입니다. 이는 크레터의 훨씬 더 큰 변형입니다.
+zep_leech_l,utc,Description,0,거머리는 더 큰 생물의 피를 먹고 사는 기생충이다. 이것은 그 생물의 훨씬 큰 변종이다.
 zep_leech_m,utc,FirstName,0,"거머리, 중간"
-zep_leech_m,utc,Description,0,침범은 더 큰 생물의 혈액으로 살아가는 기생충입니다. 이는 크레터의 훨씬 더 큰 변형입니다.
+zep_leech_m,utc,Description,0,거머리는 더 큰 생물의 피를 먹고 사는 기생충이다. 이것은 그 생물의 훨씬 큰 변종이다.
 zep_leech_s,utc,FirstName,0,"거머리, 소형"
-zep_leech_s,utc,Description,0,침범은 더 큰 생물의 혈액으로 살아가는 기생충입니다. 이는 크레터의 훨씬 더 큰 변형입니다.
+zep_leech_s,utc,Description,0,거머리는 더 큰 생물의 피를 먹고 사는 기생충이다. 이것은 그 생물의 훨씬 큰 변종이다.
 zep_legendan_001,utc,FirstName,0,전설적인 늑대
 zep_legendan_001,utc,Description,0,전설적인 동물들은 자연 (또는 신) 의 힘으로 그 종류의 일반적인 동물에서 만들어집니다. 적절한 레벨의 누군가가 그러한 동반자가 필요할 때마다.
 zep_legendan_002,utc,FirstName,0,전설적인 곰
@@ -9933,7 +9933,7 @@ lightkey,uti,DescIdentified,0,"의심할 여지 없이 마법으로 가득 찬 �
 lightplate,uti,LocalizedName,0,여성 라이트 플레이트 +3
 lightplate,uti,DescIdentified,0,"보통 여성들이 착용하고 있는 (뚜렷한 이유 때문에) 이 빛의 판으로 된 옷은 이동하기 훨씬 쉬워지고, 마법사를 던지려는 마법사들에게는 더욱 제한적이지 않습니다."
 lordsattire,uti,LocalizedName,0,주님의 옷
-lordsattire,uti,DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+lordsattire,uti,DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 lordsattire001,uti,LocalizedName,0,여인의 옷
 lordsattire001,uti,DescIdentified,0,"페어로크의 통치자들이 보통 착용하는 이 의복은 매우 고급스러운 품질로, 누구나 부드럽고 문화적인 사람처럼 보이게 만듭니다. 이 의복은 현재는 상원의원이 통치하지만, 과거에는 로드가 통치하던 시대를 회상하게 합니다. 그러나 전통상 이 의복을 계속 착용합니다."
 lordsattire002,uti,LocalizedName,0,협의자의 옷차림
@@ -9943,7 +9943,7 @@ lordsattire004,uti,DescIdentified,0,"페어로크의 통치자들이 보통 착�
 lordsattire005,uti,LocalizedName,0,쿠트베어트의 옷차림
 lordsattire005,uti,DescIdentified,0,"페어로크의 통치자들이 보통 착용하는 이 의복은 매우 고급스러운 품질로, 누구나 부드럽고 문화적인 사람처럼 보이게 만듭니다. 이 의복은 현재는 상원의원이 통치하지만, 과거에는 로드가 통치하던 시대를 회상하게 합니다. 그러나 전통상 이 의복을 계속 착용합니다."
 lordsattire006,uti,LocalizedName,0,왕 의복
-lordsattire006,uti,DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+lordsattire006,uti,DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 maarcl040,uti,LocalizedName,0,겨울의 망토
 maarcl040,uti,DescIdentified,0,가장 추운 눈 폭풍에서도 착용자를 따뜻하고 편안하게 유지할 수 있는 이 유형의 담요는 더운 기후의 주민들과도 전투할 때 매우 유용하다.
 maarcl058,uti,DescIdentified,0,"엘프 레인저와 스카우트는 이와 같은 망토를 받게 되는데, 이 망토의 효과는 원래 소유자의 지위에 따라 달라집니다."

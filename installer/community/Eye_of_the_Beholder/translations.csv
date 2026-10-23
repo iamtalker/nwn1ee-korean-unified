@@ -73,7 +73,7 @@ eb_armun,dlg,EntryList/13/Text,0,"아니, 아니, <lad/lass>, 네가 보관해 �
 eb_armun,dlg,EntryList/14/Text,0,"이레리아, 저게 당신인가요? 어땠어요? 지난 3주 전에 친구들과 함께 봤어요."
 eb_armun,dlg,EntryList/15/Text,0,"안타까운 소식이군, 아직 안 들어본다면, 마지막 방문 후 얼마 지나지 않아,"
 eb_armun,dlg,EntryList/16/Text,0,"어서 가자, 더 이상 지연을 하지 않겠다. 우리가 여기서 끝낼 때 서둘러 딜리나르를 만나자."
-eb_armun,dlg,EntryList/17/Text,0,"아니요, 그렇습니다. 우리의 신부가 보고한 바로는 그는 점점 더 코마 상태로 빠져들고 있습니다. 빠르게 치료법을 찾지 못하면 그가 살아남을 수 없을 것 같아 걱정됩니다."
+eb_armun,dlg,EntryList/17/Text,0,안타깝게도 아닙니다. 성직자가 보고하기를 그는 점점 더 깊은 혼수상태에 빠지고 있다고 합니다. 곧 치료법을 찾지 못하면 살아남지 못할까 두렵습니다.
 eb_armun,dlg,EntryList/18/Text,0,"예, 그 이름은 울리는 소리입니다. 얼마 전, 어두운 옷을 입은 마법사가 물품을 구하기 위해 이 홀을 통과했습니다. 우리는 그를 경계했습니다. 하지만 그는 금으로 지불하고 계속했습니다. 최근, 많은 낯선 사람들이 지나갔습니다. 저질렀던 모험가들과 함께 된 거만한 마지, 그리고 나중에 우리와 연결된 젊은 사제. 그녀의 방문 후 얼마 되지 않아, 드로우는 공격을 시작했습니다."
 eb_armun,dlg,EntryList/19/Text,0,우리 왕국이 어둠 속에 빠졌어 상상할 수 있는 가장 사악한 생물들이 몰입하고 있어
 eb_armun,dlg,EntryList/20/Text,0,"<StartAction>아무는 잠시 동안 생각을 잃어 멈추고 말하기 전에 </Start> 내가 궁금해하는 것은 왕이 수년 동안 숨겨놓은 특유의 모양의 막대기일 수 있을까. 나는 그것을 한 번만 봤습니다. 그가 비밀 장소에서 잠금 보관하고 있습니다. 나는 그가 한 번만 언급한 것을 기억합니다. 그것은 큰 힘을 가지고 있다고 말하며, 어느 날, 큰 악을 극복하는 데 왜성들에게 도움이 될 것입니다. 이것이 당신이 언급하는 유물입니까?"
@@ -1312,7 +1312,7 @@ eb_hen_kirath,dlg,ReplyList/186/Text,0,"아니, 나는 당신의 종이 아니�
 eb_hen_kirath,dlg,ReplyList/187/Text,0,내가 누구고 왜 여기 왔는지 궁금하지 않나요?
 eb_hen_kirath,dlg,ReplyList/188/Text,0,저는 <FirstName>입니다. 우리는 워터디프의 신부들에 의해 악의 범죄 신부인 잔나타르를 찾아서 그의 악의적인 계획을 멈추도록 지시되었습니다.
 eb_hen_kirath,dlg,ReplyList/189/Text,0,"보시다시피, 한 가지 명확히 해두자: 네가 나와 함께 가야 해, 반대는 아니야."
-eb_hen_kirath,dlg,ReplyList/190/Text,0,나는 너처럼 자만심 넘치고 자기중심적인 사람에게 필요 없어. 여기 남아서 무덤덤히 죽은 자들과 함께 끊임없이 썩어라.
+eb_hen_kirath,dlg,ReplyList/190/Text,0,너처럼 오만하고 이기적인 자는 필요 없어. 여기 남아 언데드와 함께 썩어라.
 eb_hen_kirath,dlg,ReplyList/191/Text,0,제가 협력하는 것이 대안보다 더 유리하다고 생각합니다.
 eb_hen_kirath,dlg,ReplyList/192/Text,0,- 무슨 소리야?
 eb_hen_kirath,dlg,ReplyList/193/Text,0,좋아...
@@ -25243,7 +25243,7 @@ lvl7_urd_n,git,Placeable List/73/LocName,0,분산된 서류 4
 lvl7_urd_n,git,Placeable List/74/LocName,0,분산된 서류 4
 lvl7_urd_n,git,Placeable List/79/LocName,0,"바베라스, 바다의 여신"
 lvl7_urd_n,git,Placeable List/80/LocName,0,아름다운 고위 여신 아바
-lvl7_urd_n,git,Placeable List/81/LocName,0,"제리알, 수확의 신"
+lvl7_urd_n,git,Placeable List/81/LocName,0,"제리알, 수확의 여신"
 lvl7_urd_n,git,Placeable List/92/LocName,0,불구리 발산기 1
 lvl7_urd_n,git,Placeable List/92/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 lvl7_urd_n,git,Placeable List/93/LocName,0,운명의 여신 세엘라
@@ -37462,7 +37462,7 @@ waxmgr006,uti,LocalizedName,0,티르고의 구원
 waxmgr006,uti,DescIdentified,0,"알도 (대도끼) 의 성격에 대해서는 거의 알려져 있지 않지만 큰 힘을 가지고 있으며 가장 어두운 시간에 왜성들을 제외한 한 날을 예언하는 것으로 잘 알려진 바 있다. 티르고의 구속은 시대를 거치면서 각왜성 왕에게 전해져 왔으며, 만일 그 예언이 실현될 경우 어느 날 보호되고 사용되었다. 타이르ગો의 해방을 만든 위대한矮人黑匠 트리거로 이 거대한 도끼는 언젠가 족들에게 닥칠 커다란 악에 대해 말한 고대 예전에 관한 이야기입니다. 이제 Teirgoh's Redemption라는 이름으로 알려졌는데, 새왕마다 보존된 후 새로운 왕의 이름을 따서 그의 명예로 이름 붙여졌으며 다음 왕에게 전달 될 때까지 또는 선지자의 도착까지 보호를 위탁받았습니다."
 waxmgr007,uti,LocalizedName,0,글래디에이터의 도끼 +2
 waxmgr007,uti,DescIdentified,0,"오래전, 포르미안 사람들은 거대한 지하 도시와 광대하고 동굴적인 제국들을 건설했습니다. 전쟁 사회는 노예와 포로가 잔인한 재미를 위해 싸웠던 군중들의 피와 영광으로 드러났다. 그러한 군중 중 한 사람은 인간 에이얀이었습니다. 그는 자신의 포르미안 마스터의斧을 훔쳐서 그의 사랑인 조이와 함께 표면에 탈출하기 위해 사용했습니다."
-waxmgr008,uti,LocalizedName,0,글래디레이터의 창 +3
+waxmgr008,uti,LocalizedName,0,검투사의 도끼 +3
 waxmgr008,uti,DescIdentified,0,"오래전, 포르미안 사람들은 거대한 지하 도시와 광대하고 동굴적인 제국들을 건설했습니다. 전쟁 사회는 노예와 포로가 잔인한 재미를 위해 싸웠던 군중들의 피와 영광으로 드러났다. 그러한 군중 중 한 사람은 인간 에이얀이었습니다. 그는 자신의 포르미안 마스터의斧을 훔쳐서 그의 사랑인 조이와 함께 표면에 탈출하기 위해 사용했습니다."
 waxmgr009,uti,LocalizedName,0,언데드 전투 도끼
 wblfh002,uti,LocalizedName,0,아스트랄 중도리깨

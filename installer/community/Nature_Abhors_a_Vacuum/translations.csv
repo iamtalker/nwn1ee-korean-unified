@@ -3945,8 +3945,8 @@ x0_skill_ctrap,dlg,ReplyList/48/Text,0,<StartAction> 다음 말. </Start>
 x0_skill_ctrap,dlg,ReplyList/48/Text,4,<StartAction>Nächstes Pferd. </Start>
 x0_skill_ctrap,dlg,ReplyList/48/Text,5,<StartAction>Nächstes Pferd. </Start>
 x0_skill_ctrap,dlg,ReplyList/49/Text,0,"<StartAction>신체 수정:</Start> 신체 부위를 변경 (머리, 문신, 꼬리, 날개, 유전자형)"
-x0_skill_ctrap,dlg,ReplyList/49/Text,4,"<StartAction>Medizin (Schönheitschirurg):</Start> 몸부림 변경 (머리, 문신, 꼬리, 날개, 유전자형)."
-x0_skill_ctrap,dlg,ReplyList/49/Text,5,"<StartAction>Medizin (Schönheitschirurg):</Start> 몸부림 변경 (머리, 문신, 꼬리, 날개, 유전자형)."
+x0_skill_ctrap,dlg,ReplyList/49/Text,4,"<StartAction>시술(성형):</Start> 신체 부위 변경(머리, 문신, 꼬리, 날개, 표현형)."
+x0_skill_ctrap,dlg,ReplyList/49/Text,5,"<StartAction>시술(성형):</Start> 신체 부위 변경(머리, 문신, 꼬리, 날개, 표현형)."
 x0_skill_ctrap,dlg,ReplyList/50/Text,0,<StartCheck>중단</Start>
 x0_skill_ctrap,dlg,ReplyList/50/Text,4,<StartCheck> 아브레첸</Start>
 x0_skill_ctrap,dlg,ReplyList/50/Text,5,<StartCheck> 아브레첸</Start>
@@ -8324,7 +8324,7 @@ gentlemansclub,git,Creature List/4/Description,0,"세월이 흐르면서도, 이
 gentlemansclub,git,Creature List/4/ItemList/1/LocalizedName,0,남자회관 키
 gentlemansclub,git,Creature List/4/ItemList/1/DescIdentified,0,이 우아한 열쇠는 북부 상거래 회사의 사무실 위에 있는 든의 남성 클럽에 들어갈 수 있게 해줄 것입니다.
 gentlemansclub,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,주님의 옷
-gentlemansclub,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+gentlemansclub,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 gentlemansclub,git,Creature List/5/FirstName,0,귀족
 gentlemansclub,git,Creature List/5/Description,0,자만하고 멀리 떨어져 있는 이 남자의 표현은 그가 당신에 대해 생각하는 것에 대해 의심의 여지가 없습니다.
 gentlemansclub,git,Creature List/5/ItemList/0/LocalizedName,0,상인의 세검
@@ -8332,7 +8332,7 @@ gentlemansclub,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,비싼 옷
 gentlemansclub,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,"이 섬세 한 섬세 한 옷 은 아이 룬드의 부유 한 엘리트 들 이 입는다. 이 옷 은 은혜 와 균형 의 이미지 를 선사 하고, 심지어 가장 미묘 한 사람 들 이도 눈 에 더 매력적 으로 보일 수 있게 해 준다."
 gentlemansclub,git,Creature List/6/FirstName,0,로버트
 gentlemansclub,git,Creature List/6/LastName,0,검은
-gentlemansclub,git,Creature List/6/Description,0,면도가 없고 흉터가 있는 이 남자는 부드러운 근위자들로 가득한 방에서 어울리지 않는 것처럼 보입니다.
+gentlemansclub,git,Creature List/6/Description,0,수염도 깎지 않고 흉터투성이인 이 남자는 세련된 귀족들로 가득한 방에 어울리지 않아 보인다.
 gentlemansclub,git,Creature List/6/ItemList/2/LocalizedName,0,남자회관 키
 gentlemansclub,git,Creature List/6/ItemList/2/DescIdentified,0,이 우아한 열쇠는 북부 상거래 회사의 사무실 위에 있는 든의 남성 클럽에 들어갈 수 있게 해줄 것입니다.
 gentlemansclub,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,블랙의 은밀한 갑옷
@@ -8758,7 +8758,7 @@ mercenaryhide001,git,Creature List/1/ItemList/0/DescIdentified,0,"철호랑이�
 
 (증거로 이것을 유지하십시오)."
 mercenaryhide001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,주님의 옷
-mercenaryhide001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+mercenaryhide001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 mercenaryhide001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,상인의 세검
 mercenaryhide001,git,Door List/0/LocName,0,문
 mercenaryhide001,git,Door List/1/LocName,0,문
@@ -8787,7 +8787,7 @@ mercenaryhideout,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,철 호랑
 mercenaryhideout,git,Creature List/1/FirstName,0,로널드 바르트렛
 mercenaryhideout,git,Creature List/1/Description,0,이 남자는 앞에 서 있는 갑옷을 입은 사람과 격렬히 논쟁하고 있습니다.
 mercenaryhideout,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,주님의 옷
-mercenaryhideout,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+mercenaryhideout,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 mercenaryhideout,git,Creature List/2/FirstName,0,용병장
 mercenaryhideout,git,Creature List/2/Description,0,"공무원임에도 불구하고, 이 남자는 이 조직을 운영하는 것 같지 않습니다."
 mercenaryhideout,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,마음 보호 헬멧
@@ -11408,11 +11408,11 @@ zep_lamb_001,utc,Description,0,"가장 오래된 가축 중 하나인 양은 털
 zep_lamb_002,utc,FirstName,0,"양, 흰색"
 zep_lamb_002,utc,Description,0,"가장 오래된 가축 중 하나인 양은 털, 육류, 우유를 위해 양육된다."
 zep_leech_l,utc,FirstName,0,"거머리, 거구"
-zep_leech_l,utc,Description,0,침범은 더 큰 생물의 혈액으로 살아가는 기생충입니다. 이는 크레터의 훨씬 더 큰 변형입니다.
+zep_leech_l,utc,Description,0,거머리는 더 큰 생물의 피를 먹고 사는 기생충이다. 이것은 그 생물의 훨씬 큰 변종이다.
 zep_leech_m,utc,FirstName,0,"거머리, 중간"
-zep_leech_m,utc,Description,0,침범은 더 큰 생물의 혈액으로 살아가는 기생충입니다. 이는 크레터의 훨씬 더 큰 변형입니다.
+zep_leech_m,utc,Description,0,거머리는 더 큰 생물의 피를 먹고 사는 기생충이다. 이것은 그 생물의 훨씬 큰 변종이다.
 zep_leech_s,utc,FirstName,0,"거머리, 소형"
-zep_leech_s,utc,Description,0,침범은 더 큰 생물의 혈액으로 살아가는 기생충입니다. 이는 크레터의 훨씬 더 큰 변형입니다.
+zep_leech_s,utc,Description,0,거머리는 더 큰 생물의 피를 먹고 사는 기생충이다. 이것은 그 생물의 훨씬 큰 변종이다.
 zep_legendan_001,utc,FirstName,0,전설적인 늑대
 zep_legendan_001,utc,Description,0,전설적인 동물들은 자연 (또는 신) 의 힘으로 그 종류의 일반적인 동물에서 만들어집니다. 적절한 레벨의 누군가가 그러한 동반자가 필요할 때마다.
 zep_legendan_002,utc,FirstName,0,전설적인 곰
@@ -12372,7 +12372,7 @@ largemetalshi002,uti,LocalizedName,0,거구의 금속 방패 +2
 largemetalshield,uti,LocalizedName,0,거구의 금속 방패
 leatherarmour,uti,LocalizedName,0,가죽 갑옷 +3
 lordsattire,uti,LocalizedName,0,주님의 옷
-lordsattire,uti,DescIdentified,0,보통 페어로크의 통치자들이 착용하는 이 옷들은 매우 우수한 품질을 지니고 있어 누구나 부드럽고 문화적인 인상을 줄 수 있습니다.
+lordsattire,uti,DescIdentified,0,페어로흐의 통치자들이 흔히 입는 이 옷은 품질이 매우 뛰어나 누구든 우아하고 교양 있어 보이게 한다.
 luteofslumber,uti,LocalizedName,0,잠자리 류트
 luteofslumber,uti,DescIdentified,0,"한 번 헤르만 더-이크리디블-바드-에 의해 연주되었습니다. 그는 자신의 연주로 많은 청중들을 잠에 빠뜨리다가, 영감을 얻은 강도들이 그의 경력을 끝내기 시작하기 전까지는 매우 지루하게 연주했습니다."
 mali_dm_paa,uti,LocalizedName,0,DM 위치 지정 가능한 태도 조절기
