@@ -570,7 +570,7 @@ q1e,git,WaypointList/2/LocalizedName,0,14817,지도설명: 출구 웨이포인�
 q1e,git,WaypointList/2/MapNote,0,-1,출구
 q2b001,git,Creature List/0/Description,0,-1,이곳은 요새의 경비원 중 한 명이다.
 q2b001,git,Creature List/0/FirstName,0,-1,경비병
-q2b001,git,Creature List/1/Description,0,-1,"이 상인은 눈빛이 매우 불안정하며, 고객과 거래할 때 코가 떨립니다."
+q2b001,git,Creature List/1/Description,0,-1,"이 가게 주인은 눈빛이 몹시 불안하고, 손님과 거래할 때 코가 씰룩거린다."
 q2b001,git,Creature List/10/FirstName,0,-1,거지
 q2b001,git,Creature List/11/Description,0,-1,이곳은 요새의 경비원 중 한 명이다.
 q2b001,git,Creature List/11/FirstName,0,-1,경비병
@@ -842,7 +842,7 @@ q2c,git,Door List/6/LocName,0,5349,맨소 입구
 q2c,git,Door List/7/LocName,0,5349,맨소 입구
 q2c,git,Door List/8/LocName,0,5349,감옥 입구
 q2c,git,Door List/9/LocName,0,5349,성전 입구
-q2c,git,Placeable List/10/LocName,0,14561,베케트 마노르
+q2c,git,Placeable List/10/LocName,0,14561,베케트 저택
 q2c,git,Placeable List/8/LocName,0,14561,마니브릭 매너 (Manybrick Manor - Haunted)
 q2c,git,Placeable List/9/LocName,0,14561,실버톤게 맨어
 q2c,git,TriggerList/0/LocalizedName,0,14759,알리아스 투표 트리거
@@ -887,7 +887,7 @@ q2c013,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,40663,"이 스�
 q2c013,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,13334,"칼라히의 사제들이 축복받은 이 부츠는 상인과 여행의 신에게 바쳐져 있어 가장 힘든 여정을 더 쉽게, 더 편안하게 만들어준다. 이는 착용자에게 속도를 높이는 것이 아니라 더 견고하고 고통을 더 잘 견디는 능력을 주기 때문에 가능하다. 이러한 부츠의 다양한 버전이 존재하며, 그 힘은 축복을 준 사제에 따라 크게 다름을 알 수 있다."
 q2c013,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,13334,"칼라히의 사제들이 축복받은 이 부츠는 상인과 여행의 신에게 바쳐져 있어 가장 힘든 여정을 더 쉽게, 더 편안하게 만들어준다. 이는 착용자에게 속도를 높이는 것이 아니라 더 견고하고 고통을 더 잘 견디는 능력을 주기 때문에 가능하다. 이러한 부츠의 다양한 버전이 존재하며, 그 힘은 축복을 준 사제에 따라 크게 다름을 알 수 있다."
 q2c013,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
-q2c013,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,13329,"전설에 따르면, 마지 시대가 끝날 무렵, 발라타의 첫 황제는 희생자들에 의해 사용되는 많은 마법에 저항하는 사냥꾼들을 사용했다고 한다. 황제의 통치가 끝날 무렵, 발라타 전역의 대부분의 마법사들을 파괴했다. 오늘날에도 강력한 마법사는 거의 찾아보기 어렵다."
+q2c013,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,13329,전설에 따르면 마법사의 시대가 끝나 갈 무렵 발라라타의 초대 황제는 희생자들이 쓰는 주문 대부분에 저항하는 듯한 사냥꾼들을 부렸다. 통치가 끝날 즈음 황제는 발라라타 전역의 마법사 대부분을 몰살시켰다. 오늘날에도 힘 있는 마법사는 드물다.
 q2c013,git,StoreList/0/StoreList/0/ItemList/8/DescIdentified,0,67729,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
 q2c013,git,StoreList/0/StoreList/0/ItemList/8/Description,0,-1,이건 마법의 옷이야
 q2c013,git,StoreList/0/StoreList/0/ItemList/9/DescIdentified,0,67731,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
@@ -906,7 +906,7 @@ q2c013,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,40663,"이 스�
 q2c013,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,13334,"칼라히의 사제들이 축복받은 이 부츠는 상인과 여행의 신에게 바쳐져 있어 가장 힘든 여정을 더 쉽게, 더 편안하게 만들어준다. 이는 착용자에게 속도를 높이는 것이 아니라 더 견고하고 고통을 더 잘 견디는 능력을 주기 때문에 가능하다. 이러한 부츠의 다양한 버전이 존재하며, 그 힘은 축복을 준 사제에 따라 크게 다름을 알 수 있다."
 q2c013,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,13334,"칼라히의 사제들이 축복받은 이 부츠는 상인과 여행의 신에게 바쳐져 있어 가장 힘든 여정을 더 쉽게, 더 편안하게 만들어준다. 이는 착용자에게 속도를 높이는 것이 아니라 더 견고하고 고통을 더 잘 견디는 능력을 주기 때문에 가능하다. 이러한 부츠의 다양한 버전이 존재하며, 그 힘은 축복을 준 사제에 따라 크게 다름을 알 수 있다."
 q2c013,git,StoreList/1/StoreList/0/ItemList/13/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
-q2c013,git,StoreList/1/StoreList/0/ItemList/14/DescIdentified,0,13329,"전설에 따르면, 마지 시대가 끝날 무렵, 발라타의 첫 황제는 희생자들에 의해 사용되는 많은 마법에 저항하는 사냥꾼들을 사용했다고 한다. 황제의 통치가 끝날 무렵, 발라타 전역의 대부분의 마법사들을 파괴했다. 오늘날에도 강력한 마법사는 거의 찾아보기 어렵다."
+q2c013,git,StoreList/1/StoreList/0/ItemList/14/DescIdentified,0,13329,전설에 따르면 마법사의 시대가 끝나 갈 무렵 발라라타의 초대 황제는 희생자들이 쓰는 주문 대부분에 저항하는 듯한 사냥꾼들을 부렸다. 통치가 끝날 즈음 황제는 발라라타 전역의 마법사 대부분을 몰살시켰다. 오늘날에도 힘 있는 마법사는 드물다.
 q2c013,git,StoreList/1/StoreList/0/ItemList/8/DescIdentified,0,67731,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
 q2c013,git,StoreList/1/StoreList/0/ItemList/8/Description,0,-1,이건 마법의 옷이야
 q2c013,git,StoreList/1/StoreList/0/ItemList/9/DescIdentified,0,67729,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.

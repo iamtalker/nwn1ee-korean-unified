@@ -16,7 +16,7 @@ level4upperle001,are,Name,0,4레벨 - 상위 드워프 광산 - 남
 level4upperlevel,are,Name,0,레벨 4 - 상위 레벨 드워프 광산 - 북
 level5dwarvenc,are,Name,0,레벨 5 - 드워프 광산 - 남쪽
 level5dwarvenrui,are,Name,0,레벨 5 - 드워프 광산 - 서부
-level6lowerle001,are,Name,0,레벨 6 - 드워프 광산의 더 낮은 레벨 - 서쪽
+level6lowerle001,are,Name,0,6레벨 - 드워프 광산 하층 - 서쪽
 level6lowerlevel,are,Name,0,레벨 6 - 드워프 광산의 하부 레벨 - 동
 level6lowerlvn,are,Name,0,레벨 6 - 드워프 광산의 하부 지하층 - 북
 level9lowera,are,Name,0,레벨 9 - 드로우의 하위 영역 - 서쪽
@@ -498,7 +498,7 @@ eb_hen_anya,dlg,EntryList/21/Text,0,"""이 지역은 내겐 너무 추운데 왜
 eb_hen_anya,dlg,EntryList/22/Text,0,"""잠깐만 <FirstName>; 이 지역에서 뭔가 이상하다고 느껴집니다. 저는 그 근처에 함정이 있다는 것을 감지합니다."""
 eb_hen_anya,dlg,EntryList/23/Text,0,"""잠깐만 <FirstName>; 이 지역에서 뭔가 이상하다고 느껴집니다. 저는 그 근처에 함정이 있다는 것을 감지합니다."""
 eb_hen_anya,dlg,EntryList/24/Text,0,"""보라! 이것은 최근에 죽은 모험가의 골골처럼 보이는데, 아마도 그들을 부활시켜 보는 것이 좋을 것 같다."""
-eb_hen_anya,dlg,EntryList/25/Text,0,"""아, <FirstName> 여기의 동상들과 어울리지 않는 것 같아, 그들의 눈이 저를 지켜보고 있다는 느낌이 들어."""
+eb_hen_anya,dlg,EntryList/25/Text,0,"""아, <FirstName>, 여기 조각상들을 건드리는 건 좋은 생각이 아닐 것 같아. 눈이 나를 지켜보는 느낌이 들어."""
 eb_hen_anya,dlg,EntryList/26/Text,0,"""저는 더 이상 텔레포트 장치를 사용하지 않아도 되길 바랍니다. 그 마지막 하나는 저를 매우 어지럽게 만들었습니다."""
 eb_hen_anya,dlg,EntryList/27/Text,0,"""나는 우리가 그 지역 안으로 들어가야 한다고 생각하지 않는다. 우리가 마지막으로 갔던 지역은 나를 아프게 했다""."
 eb_hen_anya,dlg,EntryList/28/Text,0,"""<FirstName> 이전과 같은 함정으로 보이네요. 그들을 공격해야 할까요?"""
@@ -1282,7 +1282,7 @@ eb_hen_kirath,dlg,ReplyList/6/Text,0,"네, 그래, 그리고 너나 너의 썩�
 eb_hen_kirath,dlg,ReplyList/8/Text,0,"""그래, 난쟁이 전당으로 돌아가는 게 어때."""
 eb_hen_kirath,dlg,ReplyList/11/Text,0,"<StartAction>""지금은 다른 어떤 것도 바꾸고 싶지 않아.""</Start>"
 eb_hen_kirath,dlg,ReplyList/159/Text,0,"키라스님, 몇 가지 질문이 있습니다."
-eb_hen_kirath,dlg,ReplyList/160/Text,0,당신의 최근 발언은 몇 가지 우려를 불러일으켰습니다. 우리는 이것을 더 깊이 있게 논의해야 합니다.
+eb_hen_kirath,dlg,ReplyList/160/Text,0,당신의 마지막 발언이 걱정스럽습니다. 이 문제를 더 이야기해야 할 것 같아요.
 eb_hen_kirath,dlg,ReplyList/161/Text,0,"네 의견은 이번에 잠시 넘어가지만, 네 태도는 정말로 신경을 쓰게 만들고 있어, 킬라스."
 eb_hen_kirath,dlg,ReplyList/162/Text,0,"<StartAction> 당신은 혐오로 머리를 흔들고, 키라트의 무례한 발언을 간과하려고 노력합니다. </Start> 저는 칸타르를 어떻게 물리칠 것인가에 대해 점점 더 걱정됩니다. 그를 더 많이 생각하면, 우리의 전략을 의심하게 됩니다. 만약 그가 독을 통제할 수 있다면, 그는 엄청나게 강력한 사람이거나, 독마족마저 워터딥과 전면 전쟁을 감수할 정도로 매력적인 거래를 한 것입니다."
 eb_hen_kirath,dlg,ReplyList/163/Text,0,"그건 아직까지 좋은 계획처럼 들립니다. 당신이 말씀하신 것처럼, 우리는 실제로 그 과정에 들어가서야 전체적인 상황을 파악할 수 있습니다. 통찰력에 감사드립니다. 그것은 꽤 도움이 되었습니다."
@@ -1871,7 +1871,7 @@ eb_lordpiergeiro,dlg,EntryList/42/Text,0,그렇게 되자
 eb_lordpiergeiro,dlg,EntryList/43/Text,0,"만약 당신이 원하는 보상이 있다면, <lad/lass>, 그 과정에서 많은 보물이 발견될 것이고... 그리고 이것이 내가 의심하는 만큼 중요하다면, 그 후에도 보상을 받게 될 것이다. 명성이 풍부할 것이고, 더 많은 일이 올 것이다."
 eb_lordpiergeiro,dlg,EntryList/44/Text,0,"난 피어제이론, 워터디프의 관장이자 시티 워치의 지휘자 그리고 나 옆에는 Danilo Thann, 한때 유명한 모험가, 그리고 지금은 워터디프의 주인의 봉사에서 연습생입니다."
 eb_lordpiergeiro,dlg,EntryList/45/Text,0,"<StartAction>(물 깊은 주님과의 만남은 갑자기 중단됩니다. 빛의 빛나는 번쩍은 빛은 Khelben 블랙스태프의 도착을 알리는 동안, 그는 힘과 권력의 광경으로 물질화됩니다.) </Start> <StartCheck>[Piergeiron]</Start> </Start>Khelben, 당신을 보는 것이 좋습니다."
-eb_lordpiergeiro,dlg,EntryList/48/Text,0,"넌 바보나 장난감꾼이거나, 그리고 네 예의는 오크의 예의와 견줄 만하다, 젊은 <man/woman>. 이번 일은 용서해 주지만, 조심해 -- 다시 내 인내심을 시험하면, 네 자신을 우리의 감옥에 갇힐 수 있게 만들지도 모른다."
+eb_lordpiergeiro,dlg,EntryList/48/Text,0,"너는 바보이거나 광대이며, 예의는 오크에 버금가는구나, 젊은 <man/woman>. 이번 무례는 용서하겠다만, 조심하라. 내 인내심을 다시 시험하면 우리 감옥에 갇히게 될 수도 있다."
 eb_lordpiergeiro,dlg,EntryList/51/Text,0,"최근 일어난 일을 말씀드리겠습니다. 이틀 전 밤, 경비대장 올텍이 드로우 첩자를 붙잡았습니다. 혹독한 심문 끝에 첩자는 심각하고 불길한 계획을 털어놓았습니다."
 eb_lordpiergeiro,dlg,EntryList/52/Text,0,그는 악성 범죄의 주인에게 봉사하고 있다고 고백했습니다.
 eb_lordpiergeiro,dlg,EntryList/53/Text,0,이 악의적인 범죄 주인은 도브를 워터디프로 이동시키는데 마술을 사용했다고 합니다.
@@ -2305,7 +2305,7 @@ eb_nebin,dlg,ReplyList/51/Text,0,다른 질문을 해도 될까요?
 eb_nebin,dlg,ReplyList/52/Text,0,지난 몇 일에 대해 말해줄 수 있는 게 뭐죠?
 eb_nebin,dlg,ReplyList/53/Text,0,누가 사라졌나?
 eb_nebin,dlg,ReplyList/54/Text,0,"안심하세요, 네빈, 하수도 사건 뒤에 있는 진실을 밝혀내어"
-eb_nebin,dlg,ReplyList/55/Text,0,"저는 여러분의 조언을 들었고, 가장 신중하게 진행하겠습니다. 친절한 관심에 감사합니다."
+eb_nebin,dlg,ReplyList/55/Text,0,충고를 새겨듣고 최대한 조심해서 나아가겠습니다. 친절한 걱정에 감사합니다. 정말 고맙게 생각합니다.
 eb_nebin,dlg,ReplyList/56/Text,0,저는 좀 더 물어볼 수 있나요?
 eb_oltec,dlg,EntryList/1/Text,0,그 후에 찾아오시오.
 eb_oltec,dlg,EntryList/2/Text,0,"""나는 많은 것을 기대했다. 걱정할 필요가 없습니다 - Khelben는 적절한 시간에 그를 처리 할 것입니다, 그리고 곧 우리는 이 악성 범죄 주인에 대해 알아야 할 모든 것을 발견 할 것입니다."
@@ -2323,7 +2323,7 @@ eb_oltec,dlg,ReplyList/6/Text,0,"감사합니다, 캡틴. 이 문제에 대한 �
 eb_oltec,dlg,ReplyList/7/Text,0,그가 나랑 공유하는 모든 걸 전해주고 있어
 eb_recall_portal,dlg,EntryList/1/Text,0,이 마법의 포털은 당신이 마지막으로 기억물약을 사용한 곳으로 이동시킬 것입니다.
 eb_recall_portal,dlg,EntryList/2/Text,0,"이 수수께끼와 마법 같은 용수리에는 불투명하고 점성질이 강한 액체가 가득 차 있으며, 그 액체는 강력한 힘의 분위기를 퍼트린다. 용수리 근처에 서 있을 때만 해도 신성한 의지에 찬 깊은 느낌을 받게 된다. 용수리 주변에는 복잡한 새겨짐이 있어 용수리의 목적을 드러낸다."
-eb_recall_portal,dlg,EntryList/3/Text,0,"""불멸자 타르의 신성한 본질로 가득 찬 의로운 에너지 웅덩이는 정의로운 하느님을 섬기는 사람들의 유물을 회복할 힘을 가지고 있습니다. 타르의 거룩한 힘을 존중하는 겸손한 제사짐은 환영받고 감사드립니다."""
+eb_recall_portal,dlg,EntryList/3/Text,0,"""불멸의 티르의 신성한 본질이 깃든 정의로운 에너지의 샘은 정의로운 신을 섬기는 이들이 잃어버린 유물을 복원할 힘을 지니고 있습니다. 티르의 거룩한 힘을 기리는 소박한 공물은 환영받고 감사히 여겨집니다."""
 eb_recall_portal,dlg,ReplyList/2/Text,0,<StartAction>엔터 차원문으로 이동합니다. 마지막으로 리콜 물약을 사용한 장소로 순간이동하시겠습니까?</Start>
 eb_remv_wall_11,dlg,EntryList/1/Text,0,<StartCheck>[성공]</Start><StartAction># 방패를 신중하게 조사한 후 방패 표면에 숨겨진 버튼을 발견합니다.</Start>
 eb_remv_wall_11,dlg,EntryList/2/Text,0,<StartCheck>[실패]</Start> <StartAction>방패를 면밀히 검토한 후 아무것도 발견할 수 없었습니다.</Start>
@@ -2419,7 +2419,7 @@ eb_rugnar,dlg,EntryList/25/Text,0,"""지금 당신이 들고 있는 무기는 �
 eb_rugnar,dlg,EntryList/27/Text,0,내 동생이 미안해 하지만 내 가족 유산을 돌려주셔서 감사합니다.
 eb_rugnar,dlg,EntryList/28/Text,0,난 드러그나르라고 불리네 난 공예가이고 무기공예가니까 다른 어떤 것도 할 수 없는 일을 할 수 있어
 eb_rugnar,dlg,EntryList/29/Text,0,난 당신의 무기를 그리고 마법적인 속성을 업그레이드하여 더 좋은 무기로 만들어줄 수 있어.
-eb_rugnar,dlg,EntryList/30/Text,0,"제 일은 매우 특별합니다; 제 가족법에 따르면 제 마법을 이 땅의 낯선 사람들을 돕는 데 사용할 수는 없습니다. 제 마법은 우리 족속을 위해만 사용할 수 있습니다. 하지만 관심이 있다면 제안을 해볼게요, 친구여, 어떻게 생각하세요?"
+eb_rugnar,dlg,EntryList/30/Text,0,"내 일은 아주 특별해서, 씨족의 법상 이 땅의 낯선 이를 돕는 데 쓸 수 없네. 내 마법은 우리 씨족을 위해서만 쓸 수 있지. 하지만 관심이 있다면 거래를 하나 하지, 어떻게 생각하나, 친구?"
 eb_rugnar,dlg,EntryList/31/Text,0,"난 내 형제 키간을 마취와의 전투에서 잃었다. 바보가 포털을 통해 마취를 쫓아 도망쳤고. 나는 당신이 나를 찾으려고 시도해보고 싶었습니다. 그리고 그는 매우 특별한 왜기 도끼를 가지고 있었다. 그것은 내 부족에서 많은 세대에 걸쳐있다. 나는 당신이 살아있는 내 형제를 찾을 것이라고 생각하지 않습니다. 하지만 만약 당신이 할 경우, 바보에게 빨리 돌아가라고 말하십시오. 그가 죽은 경우 내 도끼를 되찾고 나에게 그것을 가져오십시오. 당신의 도움의 대가로 나는 당신의 선택의 무기를 고칠 준비가 될 것입니다."
 eb_rugnar,dlg,EntryList/32/Text,0,"네, 선택이시고 시간 주셔서 감사합니다. 안녕."
 eb_rugnar,dlg,EntryList/33/Text,0,"아주 잘, 날 찾아오시죠. 그리고 내가 얘기했던 우리 족속 법에 대해 걱정하지 마세요."
@@ -2536,7 +2536,7 @@ eb_search_ch20,dlg,ReplyList/6/Text,0,버튼은 건들지 마.
 eb_search_ch20,dlg,ReplyList/7/Text,0,버튼을 누르세요
 eb_sewer_guard,dlg,EntryList/3/Text,0,"만약 <lad/lass>의 소문일 뿐. 어떤 사람들은 드로우가 워터딥에 대한 공격을 계획하고 있다고 생각하지만, 다른 사람들은 마법사들과 잘못된 마법이 될 수 있다고 생각합니다. 하지만 이것들은 단지 소문일 뿐, 아직 아무런 근거가 없습니다."
 eb_sewer_guard,dlg,EntryList/5/Text,0,"그래, 난 드로우를 쫓아다니는 경비원 중 하나였어"
-eb_sewer_guard,dlg,EntryList/6/Text,0,"한 마디도 안 돼. 그 드로우는 매우 미묘하고 날카롭고, 그 작은 놈은 거의 우리에게 도망쳤다! 실제로 우리는 그 다리 옆의 잡초밭에서 그를 잡았다. 당신은 수사를 거기서 시작해 보는 것이 좋을 것 같아."
+eb_sewer_guard,dlg,EntryList/6/Text,0,"한마디도 못 들었어. 그 드로우들은 아주 교활하고 날카로워서, 그 작은 놈도 하마터면 우리에게서 빠져나갈 뻔했지! 사실 다리 건너편의 저 잡초밭 근처에서 잡았어. 거기서 조사를 시작해 보는 게 좋겠어."
 eb_sewer_guard,dlg,EntryList/7/Text,0,"그는 몇 가지 물건들을 가지고 있었습니다. 실제로 살펴볼 가치가 없는 물건들, 그리고 편지도 있었지만, 경비원 올테크 대장이 가져갔어요."
 eb_sewer_guard,dlg,EntryList/8/Text,0,"이 노트는 워터딥 아래의 터널과 동굴에 관한 정보를 포함하고 있으며, 함정과 괴물들을 피해야 하는 곳을 지적하는 여러 노트도 포함하고 있다. 또한 여행에 유용할 수 있는 아이템들도 언급되어 있다."
 eb_sewer_guard,dlg,EntryList/10/Text,0,"내가 아는 한, 그는 전면적으로 경비를 받고 있다. 올테크와 검은지팡이 켈벤이 그를 여전히 심문하고 있다고 들었다. 불행한 놈에게는 결코 쾌적한 일이 아닐 것이다!"
@@ -2559,7 +2559,7 @@ eb_sewer_guard,dlg,EntryList/32/Text,0,수중의 주들이 알게 되면 난 큰
 eb_sewer_guard,dlg,EntryList/35/Text,0,이 열쇠를 가져가 게이트를 열게 해
 eb_sewer_guard,dlg,EntryList/38/Text,0,"만약 <lad/lass>의 소문일 뿐. 어떤 사람들은 드로우가 워터딥에 대한 공격을 계획하고 있다고 생각하지만, 다른 사람들은 마법사들과 잘못된 마법이 될 수 있다고 생각합니다. 하지만 이것들은 단지 소문일 뿐, 아직 아무런 근거가 없습니다."
 eb_sewer_guard,dlg,EntryList/40/Text,0,"그래, 난 드로우를 쫓아다니는 경비원 중 하나였어"
-eb_sewer_guard,dlg,EntryList/41/Text,0,"한 마디도 안 돼. 그 드로우는 매우 미묘하고 날카롭고, 그 작은 놈은 거의 우리에게 도망쳤다! 실제로 우리는 그 다리 옆의 잡초밭에서 그를 잡았다. 당신은 수사를 거기서 시작해 보는 것이 좋을 것 같아."
+eb_sewer_guard,dlg,EntryList/41/Text,0,"한마디도 못 들었어. 그 드로우들은 아주 교활하고 날카로워서, 그 작은 놈도 하마터면 우리에게서 빠져나갈 뻔했지! 사실 다리 건너편의 저 잡초밭 근처에서 잡았어. 거기서 조사를 시작해 보는 게 좋겠어."
 eb_sewer_guard,dlg,EntryList/42/Text,0,"그는 몇 가지 물건들을 가지고 있었습니다. 실제로 살펴볼 가치가 없는 물건들, 그리고 편지도 있었지만, 경비원 올테크 대장이 가져갔어요."
 eb_sewer_guard,dlg,EntryList/43/Text,0,"이 노트는 워터딥 아래의 터널과 동굴에 관한 정보를 포함하고 있으며, 함정과 괴물들을 피해야 하는 곳을 지적하는 여러 노트도 포함하고 있다. 또한 여행에 유용할 수 있는 아이템들도 언급되어 있다."
 eb_sewer_guard,dlg,EntryList/45/Text,0,"내가 아는 한, 그는 전면적으로 경비를 받고 있다. 올테크와 검은지팡이 켈벤이 그를 여전히 심문하고 있다고 들었다. 불행한 놈에게는 결코 쾌적한 일이 아닐 것이다!"
@@ -2663,7 +2663,7 @@ eb_taghor_hall,dlg,EntryList/1/Text,0,"그래요, 당신들이 나를 떠난 지
 eb_taghor_hall,dlg,EntryList/2/Text,0,"친구여, 고마워; 그녀를 죽이는 게 정말 힘들었을 거라는 걸 안다."
 eb_taghor_hall,dlg,EntryList/3/Text,0,"네, 당신이 우리를 위해 한 용감한 일은 정말로 매우 용감한 일이었습니다."
 eb_taghor_hall,dlg,EntryList/4/Text,0,"당신은 매우 겸손하시네요, <FirstName>님; 귀하의 불편을 보상으로 이 금을 수락해 주십시오."
-eb_taghor_hall,dlg,EntryList/5/Text,0,잘 지내시길 바랍니다.
+eb_taghor_hall,dlg,EntryList/5/Text,0,"건강하게 지내게, 친구."
 eb_taghor_hall,dlg,EntryList/6/Text,0,"<StartAction> 타고르의 얼굴이 실망으로 변합니다. </Start> 음, <lad/lass> 당신이 고생한 만큼은 받을 자격이 있다고 생각합니다. 여기 금 1000골드 있습니다. 잘 사용하세요."
 eb_taghor_hall,dlg,EntryList/7/Text,0,젊은 <lad/lass>를 듣고 실망스럽습니다. 지금쯤은 그녀를 발견하고 죽였으면 좋겠다고 생각했습니다.
 eb_taghor_hall,dlg,EntryList/8/Text,0,"만약 그렇게 느끼는 거라면, 지금 바로 나가보는 게 좋겠어."
@@ -2834,10 +2834,10 @@ eob_headstone3,dlg,ReplyList/0/Text,0,<StartAction> 돌을 가만히 두세요. 
 eob_runestone1,dlg,EntryList/0/Text,0,"<StartAction>석은 수많은 왜성 룬으로 새겨져 있으며, 그 복잡한 설계는 고대적이고 수수께끼입니다. 이 언어는 해독하기 어렵지만, 신중한 연구와 인내로 그 의미를 발견하고 돌의 목적의 미스테리를 풀 수 있습니다.</Start>"
 eob_runestone1,dlg,ReplyList/0/Text,0,<StartAction> 돌을 가만히 두세요. </Start>
 eob_runestone2,dlg,EntryList/0/Text,0,"<StartAction>[암석에는 수많은 드워프의 룬이 새겨져 있으며, 그 복잡한 디자인은 고대적이고 수수께끼 같은 느낌이 듭니다. 이 언어는 해독이 어려워 보이나, 신중한 연구와 인내심을 가지고 있으면 그 의미를 발견하고 돌의 목적의 미스테리를 풀 수 있을 것입니다.]</Start>"
-eob_runestone2,dlg,EntryList/2/Text,0,<StartCheck>[실패]</Start> <StartAction>[당신이 글이 아마도 드워프인 것을 알아차리지만 읽을 수 없습니다.]</Start>
+eob_runestone2,dlg,EntryList/2/Text,0,<StartCheck>[실패]</Start> <StartAction>[글이 아마 드워프어임은 알아보지만 읽을 수는 없다.]</Start>
 eob_runestone2,dlg,ReplyList/0/Text,0,<StartAction>[암을 혼자 놔두세요.]</Start>
 eob_runestone3,dlg,EntryList/0/Text,0,"<StartAction>[암석에는 수많은 드워프의 룬이 새겨져 있으며, 그 복잡한 디자인은 고대적이고 수수께끼 같은 느낌이 듭니다. 이 언어는 해독이 어려워 보이나, 신중한 연구와 인내심을 가지고 있으면 그 의미를 발견하고 돌의 목적의 미스테리를 풀 수 있을 것입니다.]</Start>"
-eob_runestone3,dlg,EntryList/2/Text,0,<StartCheck>[실패]</Start> <StartAction>[당신이 글이 아마도 드워프인 것을 알아차리지만 읽을 수 없습니다.]</Start>
+eob_runestone3,dlg,EntryList/2/Text,0,<StartCheck>[실패]</Start> <StartAction>[글이 아마 드워프어임은 알아보지만 읽을 수는 없다.]</Start>
 eob_runestone3,dlg,ReplyList/0/Text,0,<StartAction>[암을 혼자 놔두세요.]</Start>
 identifi_items,dlg,EntryList/0/Text,0,"나는 '지식 제단'이며, 지혜와 통찰력을 제공하는 원천이다. 만약 당신이 힘의 구구를 소유하고 있다면, 일시적으로 당신의 정체불명의 물건을 식별할 수 있는 능력을 부여할 수 있다. 이제, 도움을 청하나?"
 identifi_items,dlg,EntryList/1/Text,0,이제 나는 당신에게 지식의 힘을 주게 될 것이다.
@@ -3393,7 +3393,7 @@ eb_sublv1,git,Placeable List/31/Description,0,"한 다리가 약간 느슨해 �
 eb_sublv1,git,Placeable List/32/LocName,0,등받이 없는 의자
 eb_sublv1,git,Placeable List/32/Description,0,"한 다리가 약간 느슨해 보이는데, 의자가 얼마나 오래 지속될지 궁금합니다."
 eb_sublv1,git,Placeable List/46/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/46/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/46/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/46/ItemList/0/LocalizedName,0,금화
 eb_sublv1,git,Placeable List/46/ItemList/2/LocalizedName,0,축복의 물약
 eb_sublv1,git,Placeable List/46/ItemList/2/DescIdentified,0,"더 냉소적인 모험가들이 ""손잡이 사제""라고 부르는 이 성스러운 주입물은 보통의 모험가에게 큰 도움이 된다."
@@ -3418,9 +3418,9 @@ eb_sublv1,git,Placeable List/59/Description,0,바닥에서 올라온 얇은 레�
 eb_sublv1,git,Placeable List/60/LocName,0,"""하수구 레벨 2"""
 eb_sublv1,git,Placeable List/60/Description,0,신중하게 설정된 관심 지점을 표시하는 마커
 eb_sublv1,git,Placeable List/61/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/61/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/61/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/62/LocName,0,순찰자 시체
-eb_sublv1,git,Placeable List/62/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/62/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/62/ItemList/0/LocalizedName,0,축복의 반지
 eb_sublv1,git,Placeable List/62/ItemList/1/LocalizedName,0,나무껍질 피부의 물약
 eb_sublv1,git,Placeable List/62/ItemList/1/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3430,19 +3430,19 @@ eb_sublv1,git,Placeable List/62/ItemList/3/DescIdentified,0,"이 화살은 목�
 eb_sublv1,git,Placeable List/62/ItemList/4/LocalizedName,0,두 번째 죽음 의 발자국
 eb_sublv1,git,Placeable List/62/ItemList/4/DescIdentified,0,"이 볼트는 목표물을 뚫고, 부딪히면 알케미컬 산의 분사가 발생하며, 언데드에게 추가적인 산 피해를 입힙니다."
 eb_sublv1,git,Placeable List/63/LocName,0,투사 시체
-eb_sublv1,git,Placeable List/63/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/63/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/63/ItemList/0/LocalizedName,0,치명상처 치료의 물약
 eb_sublv1,git,Placeable List/63/ItemList/0/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 eb_sublv1,git,Placeable List/63/ItemList/1/LocalizedName,0,금화
 eb_sublv1,git,Placeable List/64/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/64/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/64/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/65/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/65/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/65/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/65/ItemList/0/LocalizedName,0,금화
 eb_sublv1,git,Placeable List/65/ItemList/1/LocalizedName,0,유리병에 담긴 기름
 eb_sublv1,git,Placeable List/65/ItemList/1/DescIdentified,0,기름 단지다. 일종의 윤활유다. 아마 삐걱거리는 문 경첩이나 그 밖에 제대로 안 움직이는 것에 쓰였을 것이다.
 eb_sublv1,git,Placeable List/66/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/66/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/66/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/66/ItemList/0/LocalizedName,0,치명상처 치료의 물약
 eb_sublv1,git,Placeable List/66/ItemList/0/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 eb_sublv1,git,Placeable List/66/ItemList/1/LocalizedName,0,금화
@@ -3478,7 +3478,7 @@ eb_sublv1,git,Placeable List/83/Description,0,오랜 세월 동안 무너진 글
 eb_sublv1,git,Placeable List/84/LocName,0,T NC NT D G N
 eb_sublv1,git,Placeable List/84/Description,0,오랜 세월 동안 무너진 글자가 많은 고대 돌이 있어 돌 표기판에 쓰여진 글자를 읽는 것이 어렵죠.
 eb_sublv1,git,Placeable List/85/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/85/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/85/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/86/LocName,0,전복된 의자 1
 eb_sublv1,git,Placeable List/87/LocName,0,파손된자리1
 eb_sublv1,git,Placeable List/88/LocName,0,파손된 통 1
@@ -3641,15 +3641,15 @@ eb_sublv1,git,Placeable List/435/Description,0,그 안쪽 은 어둡고 은 을 
 eb_sublv1,git,Placeable List/436/LocName,0,병 - 파랑
 eb_sublv1,git,Placeable List/436/Description,0,이 훌륭 한 포도주 병 은 유명한 와인 공장 의 특징 을 지니고 있습니다.
 eb_sublv1,git,Placeable List/443/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/443/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/443/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/444/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/444/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/444/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/445/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/445/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/445/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/446/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/446/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/446/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/447/LocName,0,죄수 시체
-eb_sublv1,git,Placeable List/447/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+eb_sublv1,git,Placeable List/447/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 eb_sublv1,git,Placeable List/448/LocName,0,해골 - 교수형 1
 eb_sublv1,git,Placeable List/448/Description,0,이 햇빛으로 말라버린 골격은 바람에 불안하게 떨린다.
 eb_sublv1,git,Placeable List/449/LocName,0,해골 - 교수형 2
@@ -5091,7 +5091,7 @@ level11xanath001,git,Creature List/0/FirstName,0,( ) ( )
 level11xanath001,git,Creature List/0/Description,0,"야망에 의해, 어떤 강력한 마녀들은 죽음을 속이고 싶어합니다. 성공한 사람들은 리쉬가 되고 실패한 사람들은 애호가로 던져집니다."
 level11xanath001,git,Creature List/0/ItemList/0/LocalizedName,0,금화
 level11xanath001,git,Creature List/0/ItemList/1/LocalizedName,0,힘의 구슬
-level11xanath001,git,Creature List/0/ItemList/1/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level11xanath001,git,Creature List/0/ItemList/1/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level11xanath001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,의 옷
 level11xanath001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,켈`주르의 힘의 지팡이
 level11xanath001,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,권능의 반지
@@ -7267,11 +7267,11 @@ level12xanatha,git,Encounter List/40/LocalizedName,0,망령
 level12xanatha,git,Encounter List/41/LocalizedName,0,골렘
 level12xanatha,git,List/8/LocalizedName,0,두개골 열쇠
 level12xanatha,git,List/10/LocalizedName,0,힘의 구슬
-level12xanatha,git,List/10/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanatha,git,List/10/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanatha,git,List/11/LocalizedName,0,힘의 구슬
-level12xanatha,git,List/11/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanatha,git,List/11/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanatha,git,List/12/LocalizedName,0,힘의 구슬
-level12xanatha,git,List/12/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanatha,git,List/12/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanatha,git,SoundList/0/LocName,0,횃불 불꽃 (소)
 level12xanatha,git,SoundList/1/LocName,0,횃불 불꽃 (소)
 level12xanatha,git,SoundList/2/LocName,0,횃불 불꽃 (소)
@@ -7514,15 +7514,15 @@ level12xanatha,git,Placeable List/51/ItemList/4/LocalizedName,0,금화
 level12xanatha,git,Placeable List/53/LocName,0,훼손된 조각상
 level12xanatha,git,Placeable List/53/Description,0,붕괴된 동상은 여전히 예전의 존엄성의 그림자를 가지고 있습니다.
 level12xanatha,git,Placeable List/53/ItemList/0/LocalizedName,0,힘의 구슬
-level12xanatha,git,Placeable List/53/ItemList/0/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanatha,git,Placeable List/53/ItemList/0/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanatha,git,Placeable List/54/LocName,0,조각상
 level12xanatha,git,Placeable List/54/Description,0,이 조각상의 깜박이지 않는 눈이 멍하니 당신의 시선을 마주한다. 이 인물이 누구였는지 알려 주는 표식은 없다.
 level12xanatha,git,Placeable List/54/ItemList/0/LocalizedName,0,힘의 구슬
-level12xanatha,git,Placeable List/54/ItemList/0/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanatha,git,Placeable List/54/ItemList/0/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanatha,git,Placeable List/57/LocName,0,훼손된 조각상
 level12xanatha,git,Placeable List/57/Description,0,붕괴된 동상은 여전히 예전의 존엄성의 그림자를 가지고 있습니다.
 level12xanatha,git,Placeable List/57/ItemList/0/LocalizedName,0,힘의 구슬
-level12xanatha,git,Placeable List/57/ItemList/0/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanatha,git,Placeable List/57/ItemList/0/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanatha,git,Placeable List/58/LocName,0,조각상
 level12xanatha,git,Placeable List/58/Description,0,"이 구부러진 생물은 암흑암으로 만들어져 있습니다. 눈의 한 구석에서 거의 움직일 것 같지만,"
 level12xanatha,git,Placeable List/59/LocName,0,조각상
@@ -8218,11 +8218,11 @@ level12xanathars,git,Placeable List/94/ItemList/0/LocalizedName,0,금화
 level12xanathars,git,Placeable List/94/ItemList/1/LocalizedName,0,완치 물약
 level12xanathars,git,Placeable List/94/ItemList/1/DescIdentified,0,"이 약물은 환원, 치유 및 치유의 훌륭한 효과입니다. 마치 치유 마법을 통해 대부분의 병을 치료하는 것처럼요."
 level12xanathars,git,Placeable List/94/ItemList/2/LocalizedName,0,힘의 구슬
-level12xanathars,git,Placeable List/94/ItemList/2/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanathars,git,Placeable List/94/ItemList/2/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanathars,git,Placeable List/95/LocName,0,보물
 level12xanathars,git,Placeable List/95/Description,0,귀중품을 보관하기 위한 작은 상자.
 level12xanathars,git,Placeable List/95/ItemList/0/LocalizedName,0,힘의 구슬
-level12xanathars,git,Placeable List/95/ItemList/0/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanathars,git,Placeable List/95/ItemList/0/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanathars,git,Placeable List/95/ItemList/1/LocalizedName,0,금화
 level12xanathars,git,Placeable List/96/LocName,0,나무 상자
 level12xanathars,git,Placeable List/96/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
@@ -8233,7 +8233,7 @@ level12xanathars,git,Placeable List/101/Description,0,"이 나무 상자는 일�
 level12xanathars,git,Placeable List/102/LocName,0,보물
 level12xanathars,git,Placeable List/102/Description,0,귀중품을 보관하기 위한 작은 상자.
 level12xanathars,git,Placeable List/102/ItemList/0/LocalizedName,0,힘의 구슬
-level12xanathars,git,Placeable List/102/ItemList/0/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level12xanathars,git,Placeable List/102/ItemList/0/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level12xanathars,git,Placeable List/102/ItemList/1/LocalizedName,0,금화
 level12xanathars,git,Placeable List/103/LocName,0,성 환영술 벽 2
 level12xanathars,git,Placeable List/104/LocName,0,성환영술벽 1
@@ -8484,7 +8484,7 @@ level4s,git,WaypointList/4/MapNote,0,추종자 재시작 포인트
 level4s,git,WaypointList/5/LocalizedName,0,레벨 4 - 남쪽 광산
 level4s,git,WaypointList/5/MapNote,0,레벨 4 - 남쪽 광산
 level4s,git,Placeable List/0/LocName,0,알민
-level4s,git,Placeable List/0/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+level4s,git,Placeable List/0/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 level4s,git,Placeable List/0/ItemList/2/LocalizedName,0,드워프 키
 level4s,git,Placeable List/1/LocName,0,부패한 몸체
 level4s,git,Placeable List/1/Description,0,부패하는 시체
@@ -8544,7 +8544,7 @@ level4s,git,Placeable List/18/Description,0,코콘의 중심핵을 둘러싸고 
 level4s,git,Placeable List/19/LocName,0,고치
 level4s,git,Placeable List/19/Description,0,코콘의 중심핵을 둘러싸고 있는 벽돌 같은 웹 덩어리입니다.
 level4s,git,Placeable List/25/LocName,0,죽은 광부
-level4s,git,Placeable List/25/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+level4s,git,Placeable List/25/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 level4s,git,Placeable List/25/ItemList/0/LocalizedName,0,웬틀리 켈소의 일지 노트
 level4s,git,Placeable List/25/ItemList/0/Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 자신 을 ""명གྲགས་ 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터 딥 의 세로 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
 level4s,git,Placeable List/25/ItemList/0/DescIdentified,0,우리는 남쪽으로 계속 나아갑니다. 일부 지형이 점점 더 익숙해지기 시작했습니다. 저는 이걸 좋은 징조로 생각합니다. 하지만 가이드가 얼마나 더 많은 거미 물을 견딜 수 있는지 모르겠습니다.
@@ -8686,8 +8686,8 @@ level4s,git,Placeable List/136/ItemList/0/LocalizedName,0,금화
 level4s,git,Placeable List/136/ItemList/1/LocalizedName,0,석탑 포털 키
 level4s,git,Placeable List/136/ItemList/1/DescIdentified,0,이 작은 돌의 스펙터는 돌의 스펙터 포털을 열기 위해 사용되는 열쇠입니다.
 level4s,git,Placeable List/136/ItemList/2/LocalizedName,0,신비한 알 스테인
-level4s,git,Placeable List/136/ItemList/2/Description,0,알레 스태인을 더 자세히 살펴보니 아래쪽에 드워프의 글씨로 새겨진 글씨가 보인다. 하지만 이를 읽을 수 없다.
-level4s,git,Placeable List/136/ItemList/2/DescIdentified,0,알레 스태인을 더 자세히 살펴보니 아래쪽에 드워프의 글씨로 새겨진 글씨가 보인다. 하지만 이를 읽을 수 없다.
+level4s,git,Placeable List/136/ItemList/2/Description,0,에일 슈타인을 자세히 살펴보니 바닥에 새겨진 글귀가 보인다. 드워프 문자인데 읽을 수 없다.
+level4s,git,Placeable List/136/ItemList/2/DescIdentified,0,에일 슈타인을 자세히 살펴보니 바닥에 새겨진 글귀가 보인다. 드워프 문자인데 읽을 수 없다.
 level4s,git,Placeable List/137/LocName,0,마법 스파크
 level4s,git,Placeable List/137/Description,0,서늘한 밤공기 속에서 도깨비불처럼 주황색 불꽃이 땅 위로 떠오른다.
 level4s,git,Placeable List/139/LocName,0,광산 튼튼한 벽 2
@@ -8713,13 +8713,13 @@ level4s,git,Placeable List/165/LocName,0,핏자국 8
 level4s,git,Placeable List/166/LocName,0,핏자국 3
 level4s,git,Placeable List/167/LocName,0,핏자국 2
 level4s,git,Placeable List/168/LocName,0,핏자국 8
-level4s,git,Placeable List/169/LocName,0,피트레일 1
+level4s,git,Placeable List/169/LocName,0,혈흔 1
 level4s,git,Placeable List/170/LocName,0,블러드트레일 2
 level4s,git,Placeable List/171/LocName,0,혈투 4
 level4s,git,Placeable List/172/LocName,0,블러드트레일 2
 level4s,git,Placeable List/173/LocName,0,핏자국 5
 level4s,git,Placeable List/174/LocName,0,핏자국 7
-level4s,git,Placeable List/175/LocName,0,피트레일 1
+level4s,git,Placeable List/175/LocName,0,혈흔 1
 level4s,git,Placeable List/176/LocName,0,블러드트레일 2
 level4s,git,Placeable List/177/LocName,0,핏자국 7
 level4s,git,Placeable List/178/LocName,0,핏자국 6
@@ -9437,7 +9437,7 @@ level4upperc,git,Creature List/0/FirstName,0,야마코
 level4upperc,git,Creature List/0/Description,0,"오우거는 끔찍하고 탐욕스러운 생물들이다. 그들은 습격과 떠돌이 생활을 통해 살아간다. 오우거들은 거인과 트롤과 자유롭게 어울리며, 약자를 사냥하기 위해 연합한다."
 level4upperc,git,Creature List/0/ItemList/0/LocalizedName,0,금화
 level4upperc,git,Creature List/0/ItemList/1/LocalizedName,0,힘의 구슬
-level4upperc,git,Creature List/0/ItemList/1/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+level4upperc,git,Creature List/0/ItemList/1/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 level4upperc,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,야모코의 대형 검
 level4upperc,git,Door List/0/LocName,0,문
 level4upperc,git,Door List/1/LocName,0,문
@@ -13090,7 +13090,7 @@ level5dwarvenc,git,Placeable List/221/LocName,0,녹색 안개
 level5dwarvenc,git,Placeable List/225/LocName,0,핏자국 3
 level5dwarvenc,git,Placeable List/226/LocName,0,핏자국 5
 level5dwarvenc,git,Placeable List/227/LocName,0,핏자국 2
-level5dwarvenc,git,Placeable List/228/LocName,0,피트레일 1
+level5dwarvenc,git,Placeable List/228/LocName,0,혈흔 1
 level5dwarvenc,git,Placeable List/229/LocName,0,블러드트레일 2
 level5dwarvenc,git,Placeable List/230/LocName,0,블러드트레일 2
 level5dwarvenc,git,Placeable List/231/LocName,0,핏자국 4
@@ -14841,7 +14841,7 @@ level6lowerle001,git,Placeable List/154/LocName,0,걸레지클로브
 level6lowerle001,git,Placeable List/154/Description,0,켄쿠 침검
 level6lowerle001,git,Placeable List/155/LocName,0,불꽃 파란색
 level6lowerle001,git,Placeable List/156/LocName,0,핏자국 8
-level6lowerle001,git,Placeable List/157/LocName,0,피트레일 1
+level6lowerle001,git,Placeable List/157/LocName,0,혈흔 1
 level6lowerle001,git,Placeable List/158/LocName,0,블러드트레일 2
 level6lowerle001,git,Placeable List/159/LocName,0,핏자국 5
 level6lowerle001,git,Placeable List/160/LocName,0,핏자국 3
@@ -17083,7 +17083,7 @@ level9lowera,git,Placeable List/1/ItemList/0/DescIdentified,0,대상 생물은 �
 level9lowera,git,Placeable List/2/LocName,0,"""만한들 속임수만 살아남을 거야"""
 level9lowera,git,Placeable List/2/Description,0,신중하게 설정된 관심 지점을 표시하는 마커
 level9lowera,git,Placeable List/3/LocName,0,마리트
-level9lowera,git,Placeable List/3/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+level9lowera,git,Placeable List/3/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 level9lowera,git,Placeable List/3/ItemList/0/LocalizedName,0,금화
 level9lowera,git,Placeable List/3/ItemList/2/LocalizedName,0,완치 물약
 level9lowera,git,Placeable List/3/ItemList/2/DescIdentified,0,"이 약물은 환원, 치유 및 치유의 훌륭한 효과입니다. 마치 치유 마법을 통해 대부분의 병을 치료하는 것처럼요."
@@ -17319,7 +17319,7 @@ level9lowera,git,Placeable List/200/LocName,0,핏자국 8
 level9lowera,git,Placeable List/201/LocName,0,핏자국 7
 level9lowera,git,Placeable List/202/LocName,0,핏자국 3
 level9lowera,git,Placeable List/203/LocName,0,핏자국 8
-level9lowera,git,Placeable List/204/LocName,0,피트레일 1
+level9lowera,git,Placeable List/204/LocName,0,혈흔 1
 level9lowera,git,Placeable List/205/LocName,0,블러드트레일 2
 level9lowera,git,Placeable List/206/LocName,0,혈투 4
 level9lowera,git,Placeable List/207/LocName,0,핏자국 8
@@ -17534,7 +17534,7 @@ level9lowerreach,git,Placeable List/18/Description,0,화석 은 부드럽고 촉
 level9lowerreach,git,Placeable List/18/ItemList/0/LocalizedName,0,열쇠
 level9lowerreach,git,Placeable List/18/ItemList/0/DescIdentified,0,이 곳에서 키의 복사본을 찾을 수 있습니다. 이 키는 게임이 플레이어가 문을 열기 위해 필요한 키를 가지고 있던 캐릭터와 충돌했을 때만 필요합니다.
 level9lowerreach,git,Placeable List/19/LocName,0,죽은 야만전사
-level9lowerreach,git,Placeable List/19/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+level9lowerreach,git,Placeable List/19/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 level9lowerreach,git,Placeable List/19/ItemList/0/LocalizedName,0,금화
 level9lowerreach,git,Placeable List/19/ItemList/1/LocalizedName,0,의지력 반지
 level9lowerreach,git,Placeable List/19/ItemList/1/DescIdentified,0,"낮은 마법사 후후스는 트롤 육체를 재생 시약으로 증축하는 효율적인 방법을 발견했으나, 비참한 액체를 마실 수 있는 사람이 드물었고 실패로 간주되었다. 수십 년 후, 그의 학생 중 한 명이 이러한 기초를 바탕으로 트롤 이코어와 뇌의 조각으로 연료를 공급하는 재생 반지를 만들었다. 이 외부 사용은 훨씬 덜 메스꺼움을 유발했으며, 발명은 성공했다."
@@ -17960,7 +17960,7 @@ level9lowers,git,Placeable List/3/ItemList/0/LocalizedName,0,금화
 level9lowers,git,Placeable List/3/ItemList/1/LocalizedName,0,완치 물약
 level9lowers,git,Placeable List/3/ItemList/1/DescIdentified,0,"이 약물은 환원, 치유 및 치유의 훌륭한 효과입니다. 마치 치유 마법을 통해 대부분의 병을 치료하는 것처럼요."
 level9lowers,git,Placeable List/4/LocName,0,타론
-level9lowers,git,Placeable List/4/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+level9lowers,git,Placeable List/4/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 level9lowers,git,Placeable List/5/LocName,0,전리품 주머니
 level9lowers,git,Placeable List/5/Description,0,가방은 부피가 많고 가득 차 보입니다.
 level9lowers,git,Placeable List/5/ItemList/0/LocalizedName,0,금화
@@ -19041,7 +19041,7 @@ lostancienta,git,Placeable List/47/Description,0,피와 붉은 반딧불이 바�
 lostancienta,git,Placeable List/52/LocName,0,상자
 lostancienta,git,Placeable List/52/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 lostancienta,git,Placeable List/53/LocName,0,파라딘이 쓰러졌어요
-lostancienta,git,Placeable List/53/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+lostancienta,git,Placeable List/53/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 lostancienta,git,Placeable List/53/ItemList/9/LocalizedName,0,반수검의 불
 lostancienta,git,Placeable List/53/ItemList/9/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 lostancienta,git,Placeable List/53/ItemList/10/LocalizedName,0,성기사의 일지 항목
@@ -19132,7 +19132,7 @@ lostancienta,git,Placeable List/102/Description,0,이 상자는 낮고 평평하
 lostancienta,git,Placeable List/103/LocName,0,관
 lostancienta,git,Placeable List/103/Description,0,죽은 존재의 휴식 장소
 lostancienta,git,Placeable List/104/LocName,0,악의 제단
-lostancienta,git,Placeable List/134/LocName,0,피트레일 1
+lostancienta,git,Placeable List/134/LocName,0,혈흔 1
 lostancienta,git,Placeable List/135/LocName,0,핏자국 5
 lostancienta,git,Placeable List/136/LocName,0,핏자국 4
 lostancienta,git,Placeable List/137/LocName,0,핏자국 3
@@ -19147,7 +19147,7 @@ lostancienta,git,Placeable List/145/LocName,0,핏자국 6
 lostancienta,git,Placeable List/146/LocName,0,핏자국 4
 lostancienta,git,Placeable List/155/LocName,0,혈투 4
 lostancienta,git,Placeable List/156/LocName,0,블러드트레일 2
-lostancienta,git,Placeable List/157/LocName,0,피트레일 1
+lostancienta,git,Placeable List/157/LocName,0,혈흔 1
 lostancienta,git,Placeable List/158/LocName,0,혈투 3
 lostancienta,git,Placeable List/159/LocName,0,혈투 4
 lostancienta,git,Placeable List/160/LocName,0,혈투 4
@@ -20454,10 +20454,10 @@ lostancienttomb,git,Placeable List/485/LocName,0,바닥 헤웬 04 Lg
 lostancienttomb,git,Placeable List/486/LocName,0,바닥 헤웬 04 Lg
 lostancienttomb,git,Placeable List/487/LocName,0,바닥 헤웬 04 Lg
 lv5_drc_e001,git,Creature List/0/FirstName,0,크루그 트윈피스트
-lv5_drc_e001,git,Creature List/0/Description,0,"에티니는 악성적이고 예측 불가능한 사냥꾼으로, 밤을 돌아다니며 사냥한다. 두 개의 머리 때문에 그들은 매우 날카로운 시력과 경계심을 가진다."
+lv5_drc_e001,git,Creature List/0/Description,0,"에틴, 즉 머리 둘 달린 거인은 밤을 배회하는 흉포하고 종잡을 수 없는 사냥꾼이다. 머리가 둘이라 눈이 유난히 날카롭고 경계심이 강하다."
 lv5_drc_e001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,에틴의 곤봉
 lv5_drc_e001,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,에틴의 곤봉
-lv5_drc_e001,git,Creature List/1/Description,0,"에티니는 악성적이고 예측 불가능한 사냥꾼으로, 밤을 돌아다니며 사냥한다. 두 개의 머리 때문에 그들은 매우 날카로운 시력과 경계심을 가진다."
+lv5_drc_e001,git,Creature List/1/Description,0,"에틴, 즉 머리 둘 달린 거인은 밤을 배회하는 흉포하고 종잡을 수 없는 사냥꾼이다. 머리가 둘이라 눈이 유난히 날카롭고 경계심이 강하다."
 lv5_drc_e001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,에틴의 곤봉
 lv5_drc_e001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,에틴의 곤봉
 lv5_drc_e001,git,Creature List/2/FirstName,0,차원문 수호자
@@ -21146,7 +21146,7 @@ lv5_drc_s,git,Placeable List/182/LocName,0,오래된 동굴 II 벽
 lv5_drc_s,git,Placeable List/183/LocName,0,오래된 동굴 II 벽
 lv5_drc_s,git,Placeable List/184/LocName,0,오래된 동굴 II 벽
 lv5_drc_s,git,Placeable List/185/LocName,0,오래된 동굴 II 벽
-lv5_drc_s,git,Placeable List/192/LocName,0,피트레일 1
+lv5_drc_s,git,Placeable List/192/LocName,0,혈흔 1
 lv5_drc_s,git,Placeable List/193/LocName,0,핏자국 2
 lv5_drc_s,git,Placeable List/194/LocName,0,블러드트레일 2
 lv5_drc_s,git,Placeable List/195/LocName,0,블러드트레일 2
@@ -21576,7 +21576,7 @@ lv5_drc_s,git,Placeable List/415/LocName,0,타이르의 조각상
 lv5_drc_s,git,Placeable List/416/LocName,0,타이르의 조각상
 lv5_drc_s,git,Placeable List/417/LocName,0,앵글 조각상
 lv5_drc_s,git,Placeable List/418/LocName,0,앵글 조각상
-lv5_drc_s,git,Placeable List/419/LocName,0,조각상의 수정
+lv5_drc_s,git,Placeable List/419/LocName,0,티르 조각상 수정
 lv5_drc_s,git,Placeable List/420/LocName,0,자갈 01
 lv5_drc_s,git,Placeable List/420/Description,0,"여기 몇 개의 작은 돌들이 모여 있으며, 그 진한 표면은 깨끗하게 씻겨져 있습니다."
 lv5_drc_s,git,Placeable List/421/LocName,0,자갈 02
@@ -21685,7 +21685,7 @@ lv5_drc_s,git,Placeable List/492/LocName,0,핏자국 5
 lv5_drc_s,git,Placeable List/493/LocName,0,핏자국 6
 lv5_drc_s,git,Placeable List/494/LocName,0,핏자국 2
 lv5_drc_s,git,Placeable List/495/LocName,0,핏자국 8
-lv5_drc_s,git,Placeable List/496/LocName,0,피트레일 1
+lv5_drc_s,git,Placeable List/496/LocName,0,혈흔 1
 lv5_drc_s,git,Placeable List/497/LocName,0,핏자국 8
 lv5barracks,git,Creature List/0/FirstName,0,드워프 투사
 lv5barracks,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,드워프 방패
@@ -24854,7 +24854,7 @@ lvl7_urd_c,git,Placeable List/13/ItemList/1/DescIdentified,0,"이 무기들은 �
 lvl7_urd_c,git,Placeable List/14/LocName,0,"""하나의 희생"""
 lvl7_urd_c,git,Placeable List/14/Description,0,신중하게 설정된 관심 지점을 표시하는 마커
 lvl7_urd_c,git,Placeable List/15/LocName,0,타락한 모험가
-lvl7_urd_c,git,Placeable List/15/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+lvl7_urd_c,git,Placeable List/15/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 lvl7_urd_c,git,Placeable List/15/ItemList/0/LocalizedName,0,루비 키
 lvl7_urd_c,git,Placeable List/16/LocName,0,보석의 손
 lvl7_urd_c,git,Placeable List/16/Description,0,"""경고"" 만약 재고에 여러 키가 쌓여 있다면, 키들을 분할하고 한 번에 하나의 키만 상자에 넣어야 합니다. 그렇지 않으면 모든 키가 파괴되고, 하나의 키만 생성됩니다."
@@ -24913,7 +24913,7 @@ lvl7_urd_c,git,Placeable List/43/ItemList/2/DescIdentified,0,"이 약은 모험�
 lvl7_urd_c,git,Placeable List/44/LocName,0,드로우 궤짝
 lvl7_urd_c,git,Placeable List/44/Description,0,이 궤짝은 보통 드로우가 사는 언더다크 지역에서 발견되는 검고 반짝이는 돌로 만든 듯하다.
 lvl7_urd_c,git,Placeable List/44/ItemList/0/LocalizedName,0,힘의 구슬
-lvl7_urd_c,git,Placeable List/44/ItemList/0/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+lvl7_urd_c,git,Placeable List/44/ItemList/0/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 lvl7_urd_c,git,Placeable List/45/LocName,0,검은 궤찍
 lvl7_urd_c,git,Placeable List/45/Description,0,언더다크에서 발견되는 검은 돌로 제작된 저장함
 lvl7_urd_c,git,Placeable List/45/ItemList/0/LocalizedName,0,보석 장식된 키
@@ -25017,15 +25017,15 @@ lvl7_urd_c,git,Placeable List/144/Description,0,이 흔적은 인간형 존재�
 lvl7_urd_c,git,Placeable List/145/LocName,0,바닥 함정
 lvl7_urd_c,git,Placeable List/146/Description,0,이 궤짝은 보통 드로우가 사는 언더다크 지역에서 발견되는 검고 반짝이는 돌로 만든 듯하다.
 lvl7_urd_c,git,Placeable List/146/ItemList/0/LocalizedName,0,힘의 구슬
-lvl7_urd_c,git,Placeable List/146/ItemList/0/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+lvl7_urd_c,git,Placeable List/146/ItemList/0/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 lvl7_urd_c,git,Placeable List/146/ItemList/1/LocalizedName,0,힘의 구슬
-lvl7_urd_c,git,Placeable List/146/ItemList/1/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+lvl7_urd_c,git,Placeable List/146/ItemList/1/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 lvl7_urd_c,git,Placeable List/146/ItemList/2/LocalizedName,0,힘의 구슬
-lvl7_urd_c,git,Placeable List/146/ItemList/2/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+lvl7_urd_c,git,Placeable List/146/ItemList/2/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 lvl7_urd_c,git,Placeable List/147/LocName,0,핏자국 3
 lvl7_urd_c,git,Placeable List/148/LocName,0,핏자국 8
 lvl7_urd_c,git,Placeable List/149/LocName,0,핏자국 7
-lvl7_urd_c,git,Placeable List/150/LocName,0,피트레일 1
+lvl7_urd_c,git,Placeable List/150/LocName,0,혈흔 1
 lvl7_urd_c,git,Placeable List/151/LocName,0,블러드트레일 2
 lvl7_urd_c,git,Placeable List/152/LocName,0,혈투 4
 lvl7_urd_c,git,Placeable List/153/LocName,0,블러드트레일 2
@@ -25036,7 +25036,7 @@ lvl7_urd_c,git,Placeable List/157/LocName,0,핏자국 4
 lvl7_urd_c,git,Placeable List/158/LocName,0,핏자국 5
 lvl7_urd_c,git,Placeable List/159/LocName,0,핏자국 8
 lvl7_urd_c,git,Placeable List/160/LocName,0,핏자국 8
-lvl7_urd_c,git,Placeable List/161/LocName,0,피트레일 1
+lvl7_urd_c,git,Placeable List/161/LocName,0,혈흔 1
 lvl7_urd_c,git,Placeable List/162/LocName,0,핏자국 8
 lvl7_urd_c,git,Placeable List/163/LocName,0,블러드트레일 2
 lvl7_urd_c,git,Placeable List/164/LocName,0,블러드트레일 2
@@ -25134,7 +25134,7 @@ lvl7_urd_n,git,List/2/LocalizedName,0,신성한 상징
 lvl7_urd_n,git,List/3/LocalizedName,0,썩은 가죽 갑옷
 lvl7_urd_n,git,List/3/DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
 lvl7_urd_n,git,List/5/LocalizedName,0,루그나르의 드워프 도끼
-lvl7_urd_n,git,List/5/DescIdentified,0,"이 도끼는 고대 드워프 길드가 새긴 기호를 지니고 있으며, 도끼에 새겨진 드워프 기호는 매우 오래된 것 같습니다. 또한, 이 도끼는 루그너의 형제가 잃어버린 도끼입니다. 도끼에 새겨진 드워프 조각은 당신이 본 적 없는 어떤 도끼와도 같지 않으며, 당신은 읽을 수 없습니다. 이 도끼는 진정으로 뛰어난 공예품입니다."
+lvl7_urd_n,git,List/5/DescIdentified,0,"이 도끼에는 고대 드워프 대장장이의 표식이 새겨져 있는데, 그 드워프 문양이 몹시 오래되었다. 이것이 루그나르의 형제가 잃어버린 도끼라는 것도 알아챈다. 도끼에 새겨진 드워프 문양은 당신이 본 어떤 도끼와도 달라서 읽을 수 없다. 이 도끼는 실로 놀라운 공예품이다."
 lvl7_urd_n,git,List/6/LocalizedName,0,키건의 갑옷
 lvl7_urd_n,git,List/7/LocalizedName,0,돌 글자
 lvl7_urd_n,git,List/7/Description,0,돌 문양 앞면에는 떼어낼 수 없는 녹색 보석이 박혀 있습니다. 숫자 2도 문양에 새겨져 있습니다.
@@ -26082,7 +26082,7 @@ lvl8_lrd_n,git,Placeable List/129/Description,0,냄새 나는 검은 구멍
 lvl8_lrd_n,git,Placeable List/130/LocName,0,핏자국 7
 lvl8_lrd_n,git,Placeable List/131/LocName,0,핏자국 3
 lvl8_lrd_n,git,Placeable List/132/LocName,0,블러드트레일 2
-lvl8_lrd_n,git,Placeable List/133/LocName,0,피트레일 1
+lvl8_lrd_n,git,Placeable List/133/LocName,0,혈흔 1
 lvl8_lrd_n,git,Placeable List/134/LocName,0,블러드트레일 2
 lvl8_lrd_n,git,Placeable List/135/LocName,0,핏자국 6
 lvl8_lrd_n,git,Placeable List/136/LocName,0,핏자국 5
@@ -26098,7 +26098,7 @@ lvl8_lrd_n,git,Placeable List/145/LocName,0,핏자국 5
 lvl8_lrd_n,git,Placeable List/146/LocName,0,핏자국 8
 lvl8_lrd_n,git,Placeable List/147/LocName,0,블러드트레일 2
 lvl8_lrd_n,git,Placeable List/148/LocName,0,블러드트레일 2
-lvl8_lrd_n,git,Placeable List/149/LocName,0,피트레일 1
+lvl8_lrd_n,git,Placeable List/149/LocName,0,혈흔 1
 lvl8_lrd_n,git,Placeable List/150/LocName,0,핏자국 5
 lvl8_lrd_n,git,Placeable List/151/LocName,0,핏자국 6
 lvl8_lrd_n,git,Placeable List/152/LocName,0,핏자국 7
@@ -26107,7 +26107,7 @@ lvl8_lrd_n,git,Placeable List/154/LocName,0,핏자국 5
 lvl8_lrd_n,git,Placeable List/155/LocName,0,핏자국 8
 lvl8_lrd_n,git,Placeable List/156/LocName,0,해골 유해 마법사
 lvl8_lrd_n,git,Placeable List/157/LocName,0,블러드트레일 2
-lvl8_lrd_n,git,Placeable List/158/LocName,0,피트레일 1
+lvl8_lrd_n,git,Placeable List/158/LocName,0,혈흔 1
 lvl8_lrd_n,git,Placeable List/159/LocName,0,핏자국 6
 lvl8_lrd_n,git,Placeable List/160/LocName,0,핏자국 7
 lvl8_lrd_n,git,Placeable List/171/LocName,0,차원문
@@ -26227,7 +26227,7 @@ lvl8_lrd_s,git,Placeable List/51/ItemList/0/DescIdentified,0,"골란에서 인�
 lvl8_lrd_s,git,Placeable List/51/ItemList/2/LocalizedName,0,천사의 영혼
 lvl8_lrd_s,git,Placeable List/51/ItemList/2/DescIdentified,0,"이 세트 아이템은 성직자용 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 제작한 결코 겨울야행시 MOD 주시자의 눈입니다."
 lvl8_lrd_s,git,Placeable List/52/LocName,0,진한 몸체
-lvl8_lrd_s,git,Placeable List/52/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+lvl8_lrd_s,git,Placeable List/52/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 lvl8_lrd_s,git,Placeable List/52/ItemList/3/LocalizedName,0,금화
 lvl8_lrd_s,git,Placeable List/52/ItemList/4/LocalizedName,0,금화
 lvl8_lrd_s,git,Placeable List/57/LocName,0,전리품 주머니
@@ -26349,7 +26349,7 @@ lvl8_lrd_w,git,Placeable List/8/LocName,0,마른 단단 한 벽
 lvl8_lrd_w,git,Placeable List/25/LocName,0,드로우 궤짝
 lvl8_lrd_w,git,Placeable List/25/Description,0,이 궤짝은 보통 드로우가 사는 언더다크 지역에서 발견되는 검고 반짝이는 돌로 만든 듯하다.
 lvl8_lrd_w,git,Placeable List/25/ItemList/0/LocalizedName,0,힘의 구슬
-lvl8_lrd_w,git,Placeable List/25/ItemList/0/DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+lvl8_lrd_w,git,Placeable List/25/ItemList/0/DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 lvl8_lrd_w,git,Placeable List/25/ItemList/1/LocalizedName,0,얼음용갑옷
 lvl8_lrd_w,git,Placeable List/26/LocName,0,드로우 궤짝
 lvl8_lrd_w,git,Placeable List/26/Description,0,이 궤짝은 보통 드로우가 사는 언더다크 지역에서 발견되는 검고 반짝이는 돌로 만든 듯하다.
@@ -27101,7 +27101,7 @@ sewers002,git,Creature List/0/Description,0,"코볼트는 작은 인간형으로
 sewers002,git,Creature List/0/ItemList/0/LocalizedName,0,금화
 sewers002,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,아다만틴 가슴판갑
 sewers002,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,"이 갑옷 은 익사 가공 의 상표 를 지니고 있지만, 그 표준 에 따라도 명백 히 예외적 이다. 최근 에 여러 가지 예 들 이 발견 되었으며, 학자들은 이 의복 들 이 낮 빛 에 노출 된 후 보통 아다마틴 을 괴롭히는 부패 를 어떻게 피할 수 있는지 설명 할 수 없다. 명백 한 해답 은 이 물건 들 은 대장 길고 많은 수의 표면 세계 여행 을 위해 의도 되어 있었을 것 이다."
-sewers002,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,블라지온의 불꽃 링거
+sewers002,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,블라지온의 화염 철퇴
 sewers002,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 sewers002,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,여명의 방패 +1
 sewers002,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,"곤경의 시기, 라탄더는 영토를 돌아다니는 무사들의 수가 혼란스러웠다. 이를 견제하기 위해 그는 그의 여러 추종자들에게 이러한 방패를 만드는 방법을 가르쳤다. 방패는 이제 무사자를 사냥하고 파괴하는 가장 큰 능력을 보이는 신자들에게 주어진다."
@@ -27991,7 +27991,7 @@ sewerslevel2,git,Placeable List/3/Description,0,가방은 부피가 많고 가�
 sewerslevel2,git,Placeable List/3/ItemList/0/LocalizedName,0,치명상처 치료의 물약
 sewerslevel2,git,Placeable List/3/ItemList/0/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 sewerslevel2,git,Placeable List/4/LocName,0,토르덱
-sewerslevel2,git,Placeable List/4/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sewerslevel2,git,Placeable List/4/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sewerslevel2,git,Placeable List/4/ItemList/0/LocalizedName,0,치명상처 치료의 물약
 sewerslevel2,git,Placeable List/4/ItemList/0/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 sewerslevel2,git,Placeable List/4/ItemList/1/LocalizedName,0,금화
@@ -28156,7 +28156,7 @@ sewerslevel2,git,Placeable List/100/LocName,0,빛줄기
 sewerslevel2,git,Placeable List/100/Description,0,불꽃처럼 뜨거운 흰색 빛이 보이지 않는 곳에서 내려옵니다.
 sewerslevel2,git,Placeable List/101/LocName,0,구덩이
 sewerslevel2,git,Placeable List/103/LocName,0,펜위크
-sewerslevel2,git,Placeable List/103/Description,0,이 불쌍한 놈은 혼자 이 세상을 정복할 수 있다고 생각했구나. 이건 디비아노 페니크가 아니야!
+sewerslevel2,git,Placeable List/103/Description,0,이 불쌍한 놈은 혼자서 세상을 상대할 수 있다고 생각했군. 이건 디아블로 펜윅이 아니야!
 sewerslevel2,git,Placeable List/103/ItemList/0/LocalizedName,0,오염된 은 열쇠
 sewerslevel2,git,Placeable List/103/ItemList/3/LocalizedName,0,의식의 단검
 sewerslevel2,git,Placeable List/103/ItemList/3/DescIdentified,0,"이런 종류의 무기는 원래대로라면 존재할 수 없다. 탈론 단검은 들쭉날쭉한 날을 보이며, 한때 더 큰 무기 하나의 일부였을지도 모른다. 마법의 날을 부러뜨리려면 정말 엄청난 힘이 필요했을 것이다."
@@ -29635,7 +29635,7 @@ sewerslevel3,git,WaypointList/6/MapNote,0,하수도 2단계
 sewerslevel3,git,WaypointList/7/LocalizedName,0,3단계 - 남쪽 하수구
 sewerslevel3,git,WaypointList/7/MapNote,0,3단계 - 남쪽 하수구
 sewerslevel3,git,Placeable List/0/LocName,0,토잔
-sewerslevel3,git,Placeable List/0/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sewerslevel3,git,Placeable List/0/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sewerslevel3,git,Placeable List/0/ItemList/1/LocalizedName,0,오염된 은 열쇠
 sewerslevel3,git,Placeable List/1/LocName,0,나무 상자
 sewerslevel3,git,Placeable List/1/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
@@ -33751,7 +33751,7 @@ sub2ds,git,Placeable List/106/Description,0,죽음 속에서 가슴을 내비치
 sub2ds,git,Placeable List/106/ItemList/0/LocalizedName,0,방사 완드
 sub2ds,git,Placeable List/106/ItemList/0/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 sub2ds,git,Placeable List/110/LocName,0,경비원장
-sub2ds,git,Placeable List/110/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/110/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/110/ItemList/0/LocalizedName,0,감시자의 투구
 sub2ds,git,Placeable List/110/ItemList/0/DescIdentified,0,"이 마법 의 헤드 피스 는 보호자 신 인 헬름 의 신자 들 이 만든 것 인가, 아니면 그 들 이 그 이름 을 더 편리한 상황 으로 얻었는지는 분명 하지 않습니다. 어떤 상황 이든, 그 들 은 경호자 들 과 경호자 들 에게 매우 소중 히 여긴다. 그 들 은 모두 그 어떤 종류 의 가시적 인 빛 을 낸다. 그리고 많은 사람 들 은 마법 으로 착용 하는 사람 의 감각 을 고르게 한다. 말할 필요 없이, 악당 들 은 그 들 을 착용 하기 시작 해 왔으며, '구스 에게 좋은 것 은 똥구멍 에 좋은 것'이라는 옛 속담 을 증명 한다."
 sub2ds,git,Placeable List/110/ItemList/1/LocalizedName,0,전신 판금 갑옷 +1
@@ -33781,11 +33781,11 @@ sub2ds,git,Placeable List/117/Description,0,"단순한 의자지만, 그 선의 
 sub2ds,git,Placeable List/118/LocName,0,의자
 sub2ds,git,Placeable List/118/Description,0,"단순한 의자지만, 그 선의 우아함은 제작의 품질을 말해줍니다."
 sub2ds,git,Placeable List/119/LocName,0,경비자 시체
-sub2ds,git,Placeable List/119/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/119/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/120/LocName,0,경비자 시체
-sub2ds,git,Placeable List/120/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/120/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/121/LocName,0,경비자 시체
-sub2ds,git,Placeable List/121/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/121/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/128/LocName,0,신성한 웅덩이
 sub2ds,git,Placeable List/128/Description,0,화석 은 부드럽고 촉각 이 차갑다. 이 수영장은 잃어버린 중요 한 물건 들 이 나타난다.
 sub2ds,git,Placeable List/128/ItemList/0/LocalizedName,0,열쇠
@@ -33874,21 +33874,21 @@ sub2ds,git,Placeable List/245/LocName,0,핏자국 3
 sub2ds,git,Placeable List/246/LocName,0,핏자국 4
 sub2ds,git,Placeable List/247/LocName,0,핏자국 8
 sub2ds,git,Placeable List/248/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/249/LocName,0,피트레일 1
+sub2ds,git,Placeable List/249/LocName,0,혈흔 1
 sub2ds,git,Placeable List/250/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/251/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/252/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/253/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/254/LocName,0,피트레일 1
+sub2ds,git,Placeable List/254/LocName,0,혈흔 1
 sub2ds,git,Placeable List/255/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/256/LocName,0,피트레일 1
+sub2ds,git,Placeable List/256/LocName,0,혈흔 1
 sub2ds,git,Placeable List/257/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/258/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/259/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/260/LocName,0,피트레일 1
+sub2ds,git,Placeable List/260/LocName,0,혈흔 1
 sub2ds,git,Placeable List/261/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/262/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/263/LocName,0,피트레일 1
+sub2ds,git,Placeable List/263/LocName,0,혈흔 1
 sub2ds,git,Placeable List/264/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/265/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/266/LocName,0,블러드트레일 2
@@ -33909,7 +33909,7 @@ sub2ds,git,Placeable List/280/LocName,0,혈벽 8
 sub2ds,git,Placeable List/281/LocName,0,혈벽 5
 sub2ds,git,Placeable List/282/LocName,0,피벽 3
 sub2ds,git,Placeable List/283/LocName,0,피벽 2
-sub2ds,git,Placeable List/284/LocName,0,피트레일 1
+sub2ds,git,Placeable List/284/LocName,0,혈흔 1
 sub2ds,git,Placeable List/285/LocName,0,핏자국 3
 sub2ds,git,Placeable List/286/LocName,0,핏자국 8
 sub2ds,git,Placeable List/287/LocName,0,블러드트레일 2
@@ -33918,7 +33918,7 @@ sub2ds,git,Placeable List/289/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/290/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/291/LocName,0,핏자국 2
 sub2ds,git,Placeable List/292/LocName,0,핏자국 3
-sub2ds,git,Placeable List/293/LocName,0,피트레일 1
+sub2ds,git,Placeable List/293/LocName,0,혈흔 1
 sub2ds,git,Placeable List/294/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/295/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/296/LocName,0,블러드트레일 2
@@ -33927,7 +33927,7 @@ sub2ds,git,Placeable List/298/LocName,0,핏자국 5
 sub2ds,git,Placeable List/299/LocName,0,핏자국 3
 sub2ds,git,Placeable List/300/LocName,0,핏자국 6
 sub2ds,git,Placeable List/301/LocName,0,핏자국 8
-sub2ds,git,Placeable List/302/LocName,0,피트레일 1
+sub2ds,git,Placeable List/302/LocName,0,혈흔 1
 sub2ds,git,Placeable List/303/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/304/LocName,0,혈투 3
 sub2ds,git,Placeable List/305/LocName,0,핏자국 3
@@ -33938,14 +33938,14 @@ sub2ds,git,Placeable List/309/LocName,0,혈투 4
 sub2ds,git,Placeable List/310/LocName,0,핏자국 2
 sub2ds,git,Placeable List/311/LocName,0,핏자국 4
 sub2ds,git,Placeable List/312/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/313/LocName,0,피트레일 1
+sub2ds,git,Placeable List/313/LocName,0,혈흔 1
 sub2ds,git,Placeable List/314/LocName,0,핏자국 8
 sub2ds,git,Placeable List/315/LocName,0,핏자국 7
 sub2ds,git,Placeable List/316/LocName,0,핏자국 5
 sub2ds,git,Placeable List/317/LocName,0,핏자국 4
 sub2ds,git,Placeable List/318/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/319/LocName,0,혈투 4
-sub2ds,git,Placeable List/320/LocName,0,피트레일 1
+sub2ds,git,Placeable List/320/LocName,0,혈흔 1
 sub2ds,git,Placeable List/321/LocName,0,핏자국 8
 sub2ds,git,Placeable List/322/LocName,0,핏자국 8
 sub2ds,git,Placeable List/323/LocName,0,핏자국 3
@@ -33979,17 +33979,17 @@ sub2ds,git,Placeable List/359/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/360/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/361/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/362/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/363/LocName,0,피트레일 1
+sub2ds,git,Placeable List/363/LocName,0,혈흔 1
 sub2ds,git,Placeable List/364/LocName,0,혈투 4
 sub2ds,git,Placeable List/365/LocName,0,핏자국 8
 sub2ds,git,Placeable List/366/LocName,0,핏자국 5
 sub2ds,git,Placeable List/367/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/368/LocName,0,혈투 4
-sub2ds,git,Placeable List/369/LocName,0,피트레일 1
+sub2ds,git,Placeable List/369/LocName,0,혈흔 1
 sub2ds,git,Placeable List/370/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/371/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/372/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/373/LocName,0,피트레일 1
+sub2ds,git,Placeable List/373/LocName,0,혈흔 1
 sub2ds,git,Placeable List/374/LocName,0,핏자국 6
 sub2ds,git,Placeable List/375/LocName,0,핏자국 7
 sub2ds,git,Placeable List/376/LocName,0,핏자국 3
@@ -33997,7 +33997,7 @@ sub2ds,git,Placeable List/377/LocName,0,핏자국 3
 sub2ds,git,Placeable List/378/LocName,0,핏자국 3
 sub2ds,git,Placeable List/379/LocName,0,핏자국 3
 sub2ds,git,Placeable List/380/LocName,0,핏자국 3
-sub2ds,git,Placeable List/381/LocName,0,피트레일 1
+sub2ds,git,Placeable List/381/LocName,0,혈흔 1
 sub2ds,git,Placeable List/382/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/383/LocName,0,혈투 4
 sub2ds,git,Placeable List/384/LocName,0,혈투 4
@@ -34027,21 +34027,21 @@ sub2ds,git,Placeable List/406/Description,0,켄쿠 침검
 sub2ds,git,Placeable List/407/LocName,0,부서진 의자 1
 sub2ds,git,Placeable List/408/LocName,0,부서진 의자 1
 sub2ds,git,Placeable List/409/LocName,0,경비자 시체
-sub2ds,git,Placeable List/409/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/409/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/410/LocName,0,경비자 시체
-sub2ds,git,Placeable List/410/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/410/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/411/LocName,0,경비자 시체
-sub2ds,git,Placeable List/411/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/411/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/412/LocName,0,핏자국 5
 sub2ds,git,Placeable List/413/LocName,0,핏자국 4
 sub2ds,git,Placeable List/414/LocName,0,핏자국 7
 sub2ds,git,Placeable List/415/LocName,0,핏자국 8
 sub2ds,git,Placeable List/419/LocName,0,경비자 시체
-sub2ds,git,Placeable List/419/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/419/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/420/LocName,0,경비자 시체
-sub2ds,git,Placeable List/420/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/420/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/421/LocName,0,경비자 시체
-sub2ds,git,Placeable List/421/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+sub2ds,git,Placeable List/421/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/422/LocName,0,거구의 기
 sub2ds,git,Placeable List/422/Description,0,켄쿠 침검
 sub2ds,git,Placeable List/423/LocName,0,거구의 기
@@ -35313,7 +35313,7 @@ module,jrl,Categories/19/EntryList/0/Text,0,"긴급한 소식이 우리 주의�
 module,jrl,Categories/20/Name,0,키라트
 module,jrl,Categories/20/EntryList/0/Text,0,"키라트, 그의 흔들리지 않는 자부심과 자신감 있는 태도와 함께, 당신의 정당에 합류했습니다. 그의 동기는 분명합니다. 그는 칸타르의 쉼터에 있는 것으로 전해지는 마법의 물건을 발견하는 데 독자적으로 집중하고 있습니다. 그의 자기 이익은 워터디프의 복지와 그 문제와 일치하지 않습니다. 당신이 키라트를 당신의 순위에 환영하지만, 당신은 그의 진정한 충성에 대해 신중하게 유지됩니다. 오직 시간이 그의 마음이 진정으로 어디에 있는지 보여줍니다. 그의 자부심은 그릴 수 있습니다. 그러나 아마도 그의 능력은 그가 주장하는 것처럼 무서운 것입니다. 당신은 단지 시나타르와 대결할 때 키라트의 능력은 당신의 사유에 귀중한 것으로 입증 될 것이라고 희망 할 수 있습니다."
 module,jrl,Categories/21/Name,0,코볼트 리더
-module,jrl,Categories/21/EntryList/0/Text,0,길메트는 워터딥 주민들에 대한 깊은 증오심을 가진 코볼드 지도자에 대한 중요한 정보를 공개합니다. 코볼드 위협을 제거하기 위해서는 그들의 지도자를 상대하고 패배해야 합니다. 이를 통해 그들의 조직을 해체하고 워터딥을 추가적인 해로부터 보호할 수 있습니다.
+module,jrl,Categories/21/EntryList/0/Text,0,굴메스는 워터딥 사람들에 대한 뿌리 깊은 증오로 큰 위협이 되는 코볼드 지도자에 대한 결정적인 정보를 알려 줍니다. 코볼드의 위협을 없애려면 그들의 지도자와 맞서 물리쳐야 합니다. 그렇게 하면 조직을 와해시키고 워터딥을 더 이상의 피해로부터 지킬 수 있습니다.
 module,jrl,Categories/21/EntryList/1/Text,0,"코볼트 지도자는 패망하였고, 워터딥은 더 이상 그들의 위협에 시달리지 않게 되었다. 코볼트의 위협이 제거되면서, 도시와 그 주민들은 이제 한숨을 돌릴 수 있으며, 새로운 평화를 누릴 수 있게 되었다."
 module,jrl,Categories/22/Name,0,고란의 보석
 module,jrl,Categories/22/EntryList/0/Text,0,"하층 광산으로 들어가서 꾸란의 특별한 보석을 찾아서, 이 귀한 돌들을 찾아서 꾸란으로 돌려보내십시오. 이 작업에 성공하면 여러분의 동맹을 강화하고 더 큰 일에 기여할 것입니다."
@@ -36477,8 +36477,8 @@ eb_stake,uti,DescIdentified,0,아주 날카로운 나무 조각입니다.
 eb_statue_jewl,uti,LocalizedName,0,얼음 장신구
 eb_statue_jewl,uti,DescIdentified,0,이 귀중한 얼음 보석은 얼음 거인 슬라브의 눈입니다. 이 보석은 다른 보석과는 다른 깊은 파란색 빛이 빛나고 있습니다.
 eb_stein,uti,LocalizedName,0,신비한 알 스테인
-eb_stein,uti,Description,0,알레 스태인을 더 자세히 살펴보니 아래쪽에 드워프의 글씨로 새겨진 글씨가 보인다. 하지만 이를 읽을 수 없다.
-eb_stein,uti,DescIdentified,0,알레 스태인을 더 자세히 살펴보니 아래쪽에 드워프의 글씨로 새겨진 글씨가 보인다. 하지만 이를 읽을 수 없다.
+eb_stein,uti,Description,0,에일 슈타인을 자세히 살펴보니 바닥에 새겨진 글귀가 보인다. 드워프 문자인데 읽을 수 없다.
+eb_stein,uti,DescIdentified,0,에일 슈타인을 자세히 살펴보니 바닥에 새겨진 글귀가 보인다. 드워프 문자인데 읽을 수 없다.
 eb_stone_item,uti,LocalizedName,0,돌 글자
 eb_stone_item,uti,Description,0,돌판의 표면에는 녹색 보석이 삽입되어 있어 이를 제거할 수 없습니다.
 eb_stone_item,uti,DescIdentified,0,"돌 글리프를 자세히 살펴보니, 표면에 드워프의 기원을 알 수 있는 특별한 표기가 있고, 왼쪽 부분에 더 깊이 절단된 1과, 중앙에 2, 오른쪽에 3이 각각 새겨져 있다. 이 표기는 드워프의 기원을 나타내며, 특별한 목적을 가지고 있을 수 있다."
@@ -36859,7 +36859,7 @@ maarcl754,uti,LocalizedName,0,징박은 가죽 갑옷 +2
 maarcl754,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
 maceofdisrupti,uti,LocalizedName,0,분단쇄의 메이스 +3
 maceofdisrupti,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
-maceofflame,uti,LocalizedName,0,블라지온의 불꽃 링거
+maceofflame,uti,LocalizedName,0,블라지온의 화염 철퇴
 maceofflame,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 magerobes,uti,LocalizedName,0,키라스의 마법학자 로브
 magerobes001,uti,LocalizedName,0,사로의 마법학자 로브
@@ -37122,7 +37122,7 @@ nunchaku01,uti,LocalizedName,0,쌍절곤 +1
 nunchaku02,uti,LocalizedName,0,쌍절곤 +2
 nunchaku3,uti,LocalizedName,0,쌍절곤 +3
 orb_of_power,uti,LocalizedName,0,힘의 구슬
-orb_of_power,uti,DescIdentified,0,이 검은 파워 오브는 나중에 사용할 특별한 아이템입니다.
+orb_of_power,uti,DescIdentified,0,이 검은 힘의 오브는 나중에 쓰일 특별한 아이템입니다.
 paladinshield,uti,LocalizedName,0,성기사 방패
 paladinsjourna,uti,LocalizedName,0,성기사의 일지 항목
 paladinsjourna,uti,Description,0,"저널 엔트리 23일, 8월 5일. 우리 주인의 해. 이 어둠의 영역으로 내 여행 중에, 나는 이 고대 동굴 안에 사는 악성 세력들에 의해 오염된 구명수수지에 부딪혔다. 동굴 내 좋은 잔해들은 내게 다가와서 도움을 청했습니다. 그들은 나에게 이 깊은 곳에서 숨겨진 고대 유물을 찾아달라고 촉구했습니다. 엄청난 치유 능력의 신성한 돌. 이 유물을 수영장 안에 배치하면 그것을 정화시키고, 원래의 신성한 본질을 회복시키고, 그것을 손상시키는 악을 물리칠 것입니다. 나의 탐구는 이 파괴된 동굴에 깊어져야합니다. 그럼에도 불구하고, 여기에 존재하는 악은 수영장의 신성한 에너지를 회복하려는 나의 노력을 감지 할 수 있습니다. 나는 경계해야 합니다. 또는 이 악성 세력 안에 숨어있는 피해자에게 계속 떨어지는 위험을 감수합니다."
@@ -37207,7 +37207,7 @@ ruby,uti,LocalizedName,0,루비
 ruby,uti,DescIdentified,0,이 게임에선 특별한 루비입니다.
 rubykey,uti,LocalizedName,0,루비 키
 rugnarsaxe,uti,LocalizedName,0,루그나르의 드워프 도끼
-rugnarsaxe,uti,DescIdentified,0,"이 도끼는 고대 드워프 길드가 새긴 기호를 지니고 있으며, 도끼에 새겨진 드워프 기호는 매우 오래된 것 같습니다. 또한, 이 도끼는 루그너의 형제가 잃어버린 도끼입니다. 도끼에 새겨진 드워프 조각은 당신이 본 적 없는 어떤 도끼와도 같지 않으며, 당신은 읽을 수 없습니다. 이 도끼는 진정으로 뛰어난 공예품입니다."
+rugnarsaxe,uti,DescIdentified,0,"이 도끼에는 고대 드워프 대장장이의 표식이 새겨져 있는데, 그 드워프 문양이 몹시 오래되었다. 이것이 루그나르의 형제가 잃어버린 도끼라는 것도 알아챈다. 도끼에 새겨진 드워프 문양은 당신이 본 어떤 도끼와도 달라서 읽을 수 없다. 이 도끼는 실로 놀라운 공예품이다."
 rugnarsshirt001,uti,LocalizedName,0,루그너스의 티셔츠
 rugnarsshirt001,uti,DescIdentified,0,오래된 왜성 갑옷이 노화해버렸어
 rust,uti,LocalizedName,0,노생산 망토
@@ -37665,7 +37665,7 @@ bloodstain007,utp,LocName,0,핏자국 8
 bloodtrail002,utp,LocName,0,블러드트레일 2
 bloodtrail003,utp,LocName,0,혈투 3
 bloodtrail004,utp,LocName,0,혈투 4
-bloodtrail1,utp,LocName,0,피트레일 1
+bloodtrail1,utp,LocName,0,혈흔 1
 bloodwall002,utp,LocName,0,피벽 2
 bloodwall003,utp,LocName,0,피벽 3
 bloodwall004,utp,LocName,0,피벽 4
@@ -37927,7 +37927,7 @@ gg044,utp,LocName,0,토텀 수정 조각상
 gg045,utp,LocName,0,토텀 마블 조각상
 gg046,utp,LocName,0,조각상 15 수정
 gg047,utp,LocName,0,조각상 17 수정
-gg048,utp,LocName,0,조각상의 수정
+gg048,utp,LocName,0,티르 조각상 수정
 gg049,utp,LocName,0,돌고래 조각상
 hangingcage,utp,LocName,0,박된 케이지
 hangingcage2,utp,LocName,0,박된 케이지

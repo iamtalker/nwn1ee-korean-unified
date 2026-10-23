@@ -6,7 +6,7 @@ area002,are,Name,0,다로마르: 바다사자의 자부심 - 위층
 area003,are,Name,0,다로마르: 바다 사자 자부심
 area004,are,Name,0,다르로마르: 왕실 지역
 area005,are,Name,0,다로마르: 블랙 쿼터
-area006,are,Name,0,다르로마르: 신전 지역
+area006,are,Name,0,다로마르: 신전 구역
 area007,are,Name,0,다르로마르: 카라반 정거장
 area008,are,Name,0,다르로마르: 마법사 길드 탑 - 1층
 area009,are,Name,0,다로마르: 마법사 길드 탑 - 1층
@@ -302,7 +302,7 @@ betrayal2,dlg,EntryList/0/Text,0,"""그들의 죽음은 빠르지만 고통스�
 betrayal2,dlg,EntryList/1/Text,0,"""당신은 우리를 독살시켰나요? 하지만 왜요?"
 betrayal2,dlg,EntryList/2/Text,0,"""내 이유는 시간이 지나면 분명해질 것이다. 복수는 너무 오래 걸려서 너무 빨리 드러내는 것은 망설여지게 한다. 자기 만족을 하는가? 아마 그렇겠지만. 언젠가 당신은 이해하게 될 것이다."""
 betrayal2,dlg,EntryList/3/Text,0,"""네 독이 우리에게 아무런 영향도 주지 않는다는 걸 알아야 한다. 헤드라크와 나는 모든 알려진 독에 면역력이 있다. 내 경도나 <FirstName>도 어떤 와인을 만지지 않았다."
-betrayal2,dlg,EntryList/4/Text,0,"""이런 말은 속임수를 쓰는 여왕이 하는 말이다. 그녀가 누구와 무엇을 마주하고 있는지조차 모르는 것이다."""
+betrayal2,dlg,EntryList/4/Text,0,"""자신이 마주한 상대가 누구인지, 무엇인지 조금도 모르는 사기꾼 여왕이 하는 말이군. 똑똑히 보아라."""
 betrayal3,dlg,EntryList/0/Text,0,"""내 용병들이 궁전에 침투했습니다. 저는 궁전의 여러 지점을 연결하는 봉사자 터널들의 숨겨진 네트워크가 있을 것이라고 생각했고, 이를 확인하기 위해 청소부 한 명을 납치해 보았습니다. 여기 있는 동료들은 이 지식을 잘 활용했습니다. 이 홀을 제외한 궁전의 모든 사람들은 죽임을 당하거나 무력화되었습니다."""
 betrayal3,dlg,EntryList/1/Text,0,"""당신은 미쳤나요? 우리 옆에 전쟁에 나가서 대부분의 부대를 희생해서 시틸레니언을 물리치고,"
 betrayal3,dlg,EntryList/2/Text,0,"""게임? 여기서는 게임이 없습니다. 오랜 세월의 계획의 결실 뿐입니다. 신중한 계획, 최고의 수준의 조작, 그리고 가장 민첩한 마음마저 혼란스럽게 하는 계획 속에 계획이 가득합니다. 하지만 이제, 마침내, 마지막 게임이 가까워졌습니다. 매우 가까워졌습니다."""
@@ -731,7 +731,7 @@ ct_gamalon,dlg,EntryList/14/Text,0,"""무슨 일이야? 이 크리스탈 안에 
 ct_gamalon,dlg,EntryList/15/Text,0,"""비빌리스? 아즈투스! 이것이 내 의심을 확인시킵니다. 매우 강력한 악마만이 비빌리스를 소환하여 봉사하도록 강요할 수 있습니다. 아마도 이 악마는 이 시장에서 비빌리스를 방출하려 했을 것입니다. 악마들은 학살과 고통을 위해 존재합니다."""
 ct_gamalon,dlg,EntryList/16/Text,0,"""계속 탐색하라. 아직 발견할 수 있는 더 많은 단서가 있을 것이다."""
 ct_gamalon,dlg,EntryList/17/Text,0,"""나는 필요한 모든 증거를 확보했다고 믿는다. 이제 악마가 가발을 쓴 간구자라는 결론을 내릴 수 있다!"""
-ct_gamalon,dlg,EntryList/18/Text,0,"""오, 끔찍한 악마여, 돌아와! 네가 범한 모든 일에 대해 책임을 지게 될 때가 왔다! 하지만 아직은 기다리자."""
+ct_gamalon,dlg,EntryList/18/Text,0,"""돌아와라, 더러운 악마여! 네가 저지른 모든 일에 대답할 때가 됐다! 때가-- 잠깐."""
 ct_gamalon,dlg,EntryList/19/Text,0,"""네레무엘, 네가 이 곳에 무슨 일을 하느냐? 네가 내게 불만을 품고 있든, 무고한 사람들의 목숨이 위기에 처해 있다."
 ct_gamalon,dlg,EntryList/20/Text,0,"""결백하다고요? 사람의 마음에는 결백함이란 없습니다, 아버지. 숨겨진 야망과 탐욕만 있을 뿐이죠. 누구보다도 당신이 잘 아실 겁니다."""
 ct_gamalon,dlg,EntryList/21/Text,0,"""나는 네게 해를 끼치려는 생각은 없었어, 내 아이야."""
@@ -912,7 +912,7 @@ cynthia,dlg,ReplyList/19/Text,0,"""그들은 모두 죽었어""."
 cynthia,dlg,ReplyList/20/Text,0,"""상품은 어때?"""
 cynthia,dlg,ReplyList/22/Text,0,<StartAction>[신티아에게 무슨 일이 일어났는지 말해.]</Start>
 cynthia,dlg,ReplyList/26/Text,0,"""예, 그들은 일시적으로 대립을 피하기로 합의했다."""
-cynthia,dlg,ReplyList/32/Text,0,"""당신은 놀라운 일을 본 것 같아."""
+cynthia,dlg,ReplyList/32/Text,0,"""마치 유령이라도 본 얼굴이군."""
 cynthia,dlg,ReplyList/33/Text,0,"반오르크 카라즈, 카라즈를 알고 있었나요?"
 cyrus,dlg,EntryList/0/Text,0,"이 거대한 남자는 자신의 강력한 도끼를 어깨에 얹고, 자신의 몸을 덮는 수많은 작은 절단에 대해 신경 쓰지 않고 있다. ""이 작은 악당들은 내가 본 것들 중 대부분보다 훨씬 더 단단하지만, 여전히 내 도끼 앞에서는 쓸모없는 물건처럼 떨어진다! 하하!"""
 cyrus,dlg,EntryList/1/Text,0,"""하하하하하! 저건 정말 좋은 거야. 한 번 제 허리 사이에 괴물의 두개골을 쳐버렸어요."
@@ -1334,7 +1334,7 @@ elfnoble,dlg,EntryList/0/Text,0,"""나를 가만히 두세요""."
 elfnoble,dlg,EntryList/1/Text,0,"""우리 아름다운 도시가 작은 인종들에게 문을 열어준 날 저는 슬퍼합니다."""
 elfnoble,dlg,EntryList/2/Text,0,"""당신이 수행해야 할 중요한 임무는 없나요?"""
 elfnoble,dlg,EntryList/3/Text,0,"""지금 당신과 대화할 시간이 없어."""
-elfslave,dlg,EntryList/0/Text,0,"""지옥으로 가라, 악마들! 이미 말했듯, 너희는 나로부터 아무것도 얻을 수 없다! 아무것도! 너희가 나를 너희 사악한 신에게 바치려 한다면 빨리 해라!"""
+elfslave,dlg,EntryList/0/Text,0,"""지옥에나 떨어져라, 악마들! 이미 말했잖아, 나한테서 얻을 건 아무것도 없다고! 아무것도! 너희의 더러운 신에게 나를 바칠 셈이면 빨리 해라!"""
 elfslave,dlg,EntryList/1/Text,0,"""당신은 농담을 하려는 건가? 이 죄수는 방비할 수 없을 정도로 무방비 상태입니다. 카즈다그의 습격 때 시틸레시안들이 그를 포로로 잡았을 거라고 생각합니다."""
 elfslave,dlg,EntryList/2/Text,0,"""정말이오? 마레시를 죽이겠다고? 한쪽 눈을 잃었고 나머지 눈도 부어서 당신들이 잘 보이지 않소. 하지만 당신들의 말을 믿겠소. 어떻게 신전 이곳까지 올 수 있었소? 아래층 병영에는 수백 명의 야만인이 득실거리는데, 당신들은 고작 여섯 명 아니오."""
 elfslave,dlg,EntryList/3/Text,0,"""우리가 어떻게 여기로 왔는지는 당신과는 관계 없습니다. 간단히 말해서, 우리는 테티르와 수다네셀러 시를 위해 싸우고 있으며, 스스로를 잘 돌볼 수 있습니다. 당신은 카즈다그의 약탈로 인해 잡혔다고 생각합니다."""
@@ -1560,7 +1560,7 @@ garguth,dlg,ReplyList/0/Text,0,"""보안해"""
 garguth,dlg,ReplyList/2/Text,0,"""성전 재물을 보고 싶습니다."""
 garguth,dlg,ReplyList/4/Text,0,"""나는 체언테인스에 대해 논의하기 위해 여기 왔습니다."""
 garguth,dlg,ReplyList/5/Text,0,"""난 충분히 들었어! 죽을 준비가 돼 있어!"""
-garguth,dlg,ReplyList/7/Text,0,"<StartAction>[지식]</Start> ""하지만 차운타인은 도시에 풍요를 가져옵니다. 농업의 지식과 농작물이 실패하는 곳의 안내적인 손길."""
+garguth,dlg,ReplyList/7/Text,0,"<StartAction>[지식]</Start> ""하지만 차운티아 신도들은 이 도시에 풍요를 가져옵니다. 농사 지식, 작물이 시들 때 이끌어 주는 손길을요."""
 garguth,dlg,ReplyList/8/Text,0,"""반대로, 나는 밤처럼 차가우며 무자비하다. 바보야, 죽어라!"""
 garguth,dlg,ReplyList/9/Text,0,"""테티르는 곧 전쟁에 빠질 수 있다. 지금은 종교적 갈등의 시간이 아니다."""
 garguth,dlg,ReplyList/12/Text,0,<StartAction>[주문숙련]</Start>가르그루스에서 마법을 탐지하려고 시도합니다.
@@ -1817,7 +1817,7 @@ loric3,dlg,EntryList/16/Text,0,"""공평하네. 더 필요한 게 있나, <lad/l
 loric3,dlg,EntryList/17/Text,0,"""그러면 빨리 움직이자."""
 loric3,dlg,EntryList/18/Text,0,"""죽음의 지옥, <lad/lass>. 당신이 구출되자마자, 당신은 다시 혼자 헤어보고 싶어합니다!"
 loric3,dlg,EntryList/19/Text,0,"""그건 문제가 되지 않아. 모험하면서 많은 마법을 경험했으니 봐주게."""
-loric3,dlg,EntryList/20/Text,0,"""그래, 아마 당신은 나를 앉혀 놓고 엘레나가 잠금을 처리하도록 내버려두고 싶을 것 같아."""
+loric3,dlg,EntryList/20/Text,0,"""그래, 내가 가만히 앉아 있고 엘레나가 자물쇠를 맡게 하라는 거겠지."""
 loric3,dlg,EntryList/21/Text,0,"""나는 도둑질 능력이 없지만, 단단한 발걸음이 할 수 있는 일은 놀랍습니다."""
 loric3,dlg,EntryList/22/Text,0,"""너가 얼마나 가까이 따라와야 해?"""
 loric3,dlg,EntryList/23/Text,0,다 하고 끝났어
@@ -2111,7 +2111,7 @@ neremul,dlg,ReplyList/77/Text,0,"""당신은 삶에 대해 매우 부정적인 �
 neremul,dlg,ReplyList/78/Text,0,"""네 말이 맞아. 내가 가장 예상치 못했을 때 배신하지 않겠다고 어떻게 알 수 있어?"""
 neremul,dlg,ReplyList/79/Text,0,"""나는 이제 가야 할 때라고 생각한다."""
 neremul,dlg,ReplyList/80/Text,0,"""너는 다른 일을 해봐."""
-neremul,dlg,ReplyList/81/Text,0,"너를 믿을 수 있어, 넬레무엘."
+neremul,dlg,ReplyList/81/Text,0,"""믿어도 돼, 네레물."""
 neremul,dlg,ReplyList/82/Text,0,"""나는 이제 가야 할 때라고 생각한다."""
 neremul,dlg,ReplyList/84/Text,0,"""너는 다른 일을 해봐."""
 neremul,dlg,ReplyList/85/Text,0,"""칼림산에서 일어난 일에 대해 더 알고 싶습니다""."
@@ -2598,7 +2598,7 @@ sythillis,dlg,ReplyList/17/Text,0,"""테티르가 책임지는 증거는 무엇�
 talamar,dlg,EntryList/0/Text,0,"""안녕하세요. 저는 고위 마법사 타라마르입니다. 무엇을 도와드릴까요?"""
 talamar,dlg,EntryList/1/Text,0,"""실례하겠습니다. 처리해야 할 중요한 일이 있습니다."""
 talamar,dlg,EntryList/2/Text,0,"""나는 어떤 가치 있는 물건과 헤어지는 것을 싫어하지만, 불행히도 금은 문명의 필수적인 악입니다. 너무 오래 탐색하지 않도록 노력하세요. 이것은 박물관이나 미스터리한 전설의 도서관도 아닙니다!"" *Grumble*"
-talamar,dlg,EntryList/3/Text,0,나는 매우 바빠요. 질문은 짧게 해 주세요.
+talamar,dlg,EntryList/3/Text,0,"""나는 아주 바쁘니, 질문은 짧게 해 주시오."""
 talamar,dlg,EntryList/5/Text,0,"나는 수르덴셀러의 최고 마법사이며, 직위의 전임자가 도시를 떠났을 때부터 그렇게 해왔습니다. 나는 수르덴셀러의 모든 엘프들을 위해 마법을 사용합니다. 나는 드란노르의 영광을 기억할 수 있는 몇 안 되는 사람들 중 하나입니다."
 talamar,dlg,EntryList/6/Text,0,"신화 드라너는 코르만토르의 보석이었다 - 엘프, 왜성, 반성, 반인, 인간들이 조화롭게 함께 살아가는 환상적인 천국이었다. 그러나 이런 선은 영원히 유지되지 못하고, 신화 드라너는 암흑의 행위와 마법에 빠져 무너져 내렸다. 엘프들의 운명은 큰 선이 나타나기까지 오랜 세월을 보내고, 그 선이 어두움으로 변하는 것을 목격해야 하는 저주이다."""
 talamar,dlg,EntryList/7/Text,0,"""그는 내 동시대 사람이었어. 함께 자라고 공부했지. 나는 수재로 여겨졌지만 그는 언제나 나를 앞질렀어. 안타깝게도 점점 커지는 그의 힘은 그를 뒤틀어 신이 될 수 있다고 믿게 만들었지. 조넬리스 이레니쿠스는 미스 드란 전성기 이후 가장 위대한 엘프 마법사이자 우리에게 가장 큰 수치였어."""
@@ -2647,7 +2647,7 @@ talamar,dlg,ReplyList/11/Text,0,"""다른 것에 대해 이야기 해 봅시다"
 talamar,dlg,ReplyList/12/Text,0,"""그는 내 취향인 것 같네요! 이레니쿠스에 대해 더 알아보는 방법은 어디서 찾을 수 있을까요?"""
 talamar,dlg,ReplyList/13/Text,0,"""권력이 사람을 부패시키는 건 언제나 안타까운 일입니다. 그에 대해 더 알고 싶군요."""
 talamar,dlg,ReplyList/14/Text,0,"""방금 외부에서 암살자들에게 공격을 받았어! 무슨 일이 벌어지고 있나?"""
-talamar,dlg,ReplyList/15/Text,0,"""저는 몸체들을 조사해 보겠습니다. 이 사건의 배후를 알 수 있는 단서가 있을 거라 생각합니다."""
+talamar,dlg,ReplyList/15/Text,0,"""시신을 조사해 보겠습니다. 누가 이 일의 배후인지 알 단서가 있을 겁니다."""
 talamar,dlg,ReplyList/17/Text,0,"""이 편지가 암살자 중 한 명의 몸에 있었습니다. 이 사건의 배후가 누군지 아시나요?"""
 talamar,dlg,ReplyList/18/Text,0,"""벤티나리 가문의 마지막 한 명도 놓치지 않고 도시의 가장자리에서 던져버릴 거야! 나이가 많든 어린이든... 모두가 이 일로 인해 죽어야 한다."""
 talamar,dlg,ReplyList/19/Text,0,"""왜 나를 암살하려 했을까? 여기서 무슨 일이 벌어지고 있는지 모르겠다."""
@@ -2700,7 +2700,7 @@ thebard,dlg,EntryList/10/Text,0,"<StartAction>[성공]</Start> 당신은 바르�
 thebard,dlg,EntryList/11/Text,0,"""나의... 나의 사랑하는 안드레아! 오, 어떻게 신들이 나를 이렇게 저주할 수 있겠는가? 나는 그녀에게 천장을 주었다! 이 모든 것에 대해 내가 책임이 있다! 데네어, 내 어두운 영혼에 자비가 있으라!"" 바르드는 허리바닥에서 래피어를 끌어내고 그 점을 자신의 마음에 겨냥한다."
 thebard,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
 thebard,dlg,ReplyList/1/Text,0,"""어, 안녕?"""
-thebard,dlg,ReplyList/2/Text,0,"""답변하지 않으면 후회할 거야."""
+thebard,dlg,ReplyList/2/Text,0,"""대답해라, 아니면 후회하게 될 거다."""
 thebard,dlg,ReplyList/3/Text,0,"""내게 소리가 들리나요?"""
 thebard,dlg,ReplyList/4/Text,0,"""내가 도와줄 수 있는 게 있나요?"""
 thebard,dlg,ReplyList/6/Text,0,"""당신 사랑하는 사람에게 준 이 미술품은 저주받은 유물입니다. 불행히도, 안드레아를 죽여야 했습니다."
@@ -2747,7 +2747,7 @@ thefive1,dlg,ReplyList/11/Text,0,"""누군 새끼라고 부르는 거야?"""
 thewarden,dlg,EntryList/0/Text,0,이 문 너머로 나서는 안 되요. 그 너머의 숲은 지옥과 왜곡된 장소입니다.
 thewarden,dlg,EntryList/1/Text,0,간수는 고개를 끄덕이고 다시 직무를 수행한다.
 thewarden,dlg,EntryList/2/Text,0,"""한때 술단넬러의 전 대마법사가 다스리던 영역이었지. 그의 웅장한 상아탑은 숲의 수관 위로 솟아올라 미스 드란의 이상적인 장관을 빛나게 기렸어. 지금은 폐허만 남았고, 산산이 부서진 잔해는 옛 주인 존 이레니쿠스의 최후를 되새기게 하지."""
-thewarden,dlg,EntryList/3/Text,0,"""이레니쿠스는 수년 전에 추방되었음에도 불구하고, 그의 탑을 둘러싼 마법의 방벽을 아무도 침투할 수 없었다. 그 방벽 안에 무엇이 기적처럼 숨어 있으며, 실제로는 무서운 것들이 남아 있다고 누가 말할 수 있겠는가? 탑 안에 악이 남아 있어야만, 그 탑이 왜곡되고 왜곡되어 주변 숲까지 변화시키는 것을 이해할 수 있다."""
+thewarden,dlg,EntryList/3/Text,0,"""이레니쿠스는 오래전에 추방되었지만, 그가 탑 둘레에 쳐 둔 마법 결계를 뚫은 자는 아무도 없다. 그 벽 안에 어떤 경이가, 그리고 정말로 어떤 공포가 봉인되어 있는지 누가 알겠는가? 탑 안에 어떤 악이 남아 있는 게 분명하다. 탑이 뒤틀리고 일그러져 주변의 숲마저 바꿔 놓았으니."""
 thewarden,dlg,EntryList/4/Text,0,"간수는 단호히 머리를 흔들었다. ""누군가를 통과시킬 수는 없습니다. 이 문은 호기심 많은 방문객들을 안전하게 지키는 것 뿐 아니라, 부러진 왕국의 불쾌한 주민들을 도시로 들어오지 못하게 막습니다. 오늘도 문을 통해 누군가가 통과했습니다. 다시는 이런 일이 일어나지 않도록 할 수 없습니다."""
 thewarden,dlg,EntryList/5/Text,0,"당신은 관장님의 말에서 분노를 느낄 수 있습니다. ""나는 그것이 마법사였다고 믿습니다. 큰 힘을 가진 마법사였죠. 그는 저를 속일 수 있을 만큼 오랫동안 통과시켰습니다. 저는 그가 다가오는 것을 기억합니다... 그리고 그 다음, 모든 것이 흐려졌습니다."""
 thewarden,dlg,EntryList/6/Text,0,"""그래, 그 사람이야. 너도 아는 사람인가 보군. 강하고 실력도 좋았지만 그것만으로는 부족할 거야. 숲의 주민들이 머지않아 그의 목숨을 앗아갈 테니까."""
@@ -4846,7 +4846,7 @@ area038,git,Creature List/3/Equip_ItemList/1/Description,0,"장인제작 아이�
 area038,git,StoreList/0/LocName,0,리리파네 신전의 상인
 area039,git,Creature List/3/FirstName,0,배고픈 곰
 area039,git,Creature List/4/FirstName,0,그림록
-area039,git,Creature List/4/Description,0,"이 작은 에틴의 리더 같아 보이지만, 다른 이들보다는 약간 더 똑똑해 보이고, 냄새는 똑같이 나쁘다."
+area039,git,Creature List/4/Description,0,이자가 에틴 소규모 무리의 우두머리인 모양이다. 다른 에틴보다 조금 더 영리해 보이지만 냄새는 똑같이 고약하다.
 area039,git,WaypointList/0/MapNote,0,동굴 출구
 area040,git,Creature List/0/FirstName,0,언덕 거인
 area040,git,Creature List/4/FirstName,0,버미나트라크스
@@ -6894,7 +6894,7 @@ greatergargoyle,utc,Description,0,"더 크고, 더 강하며, 더 빠르며, 약
 greaterwolfwere,utc,FirstName,0,더 큰 늑대인간
 greaterwolfwere,utc,Description,0,"더 큰 늑대는 형태를 변화시킵니다. 그것은 늑대 (이것의 진정한 형태), 중간 크기의 인형 또는 둘의 조합을 가질 수 있습니다. 늑대는 인류의 재앙입니다. 그들은 인간, 엘프, 반동물 맛을 좋아합니다. 가장 무서운 것은 더 큰 늑대들이 자신의 상처에서 무서운 속도로 재생되므로 그들을 죽이는 것은 매우 어렵습니다."
 grimlock,utc,FirstName,0,그림록
-grimlock,utc,Description,0,"이 작은 에틴의 리더 같아 보이지만, 다른 이들보다는 약간 더 똑똑해 보이고, 냄새는 똑같이 나쁘다."
+grimlock,utc,Description,0,이자가 에틴 소규모 무리의 우두머리인 모양이다. 다른 에틴보다 조금 더 영리해 보이지만 냄새는 똑같이 고약하다.
 grom,utc,FirstName,0,크롬
 grom,utc,Description,0,이 반오르크는 매우 강하고 매우 멍청해 보인다.
 guard,utc,FirstName,0,경비병

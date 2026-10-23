@@ -291,7 +291,7 @@ alan3,dlg,EntryList/0/Text,0,난 싸우지 않고는 내려가지 않을 거야!
 alan_tome,dlg,EntryList/0/Text,0,<StartAction>[당신 앞에 있는 책권은 마법이 담긴 페이지에 열려 있습니다. 당신은 무엇을 하고 싶습니까?]</Start>
 alan_tome,dlg,EntryList/1/Text,0,"<StartCheck>[실패]</Start> 이 책에는 당신이 거의 모르는 여러 분야가 포함되어 있지만, 그것은 고대 엘프어로 분명히 기록되어 있습니다. 그 외에는 어떤 정보도 얻을 수 없습니다."
 alan_tome,dlg,EntryList/2/Text,0,"이 책 은 고대 엘프 방언 으로 기록 되어 있다. 이 책 은 천 년 전 에 엘더 들 이 만들어 낸 것 을 알 수 있다. 그 후 에 전 세계 에서 사라진 엘프 들 의 한 소속 이다. 그 마법 은 여행, 아마도 이상한 장소 로 이동 하는 것 과 관련 된 것 같다."
-alan_tome,dlg,EntryList/3/Text,0,이 책은 고대 엘프 방언으로 쓰여져 있습니다. 여러분의 유산 덕분에 이 책은 천 년 전 엘더족이 만든 것을 알 수 있습니다. 이들 마법들은 여행과 관련되어 보입니다. 아마도 어떤 이상한 장소로 텔레포트하는 것 같네요.
+alan_tome,dlg,EntryList/3/Text,0,"이 책은 고대 엘프 방언으로 쓰여 있다. 당신의 혈통 덕분에 이 책이 천 년도 더 전에 이 세상에서 사라진 엘프 하위 종족 엘다르가 만들었다는 것을 알 수 있다. 주문은 여행과 관련된 듯하고, 어쩌면 어떤 낯선 장소로의 순간이동일지도 모른다."
 alan_tome,dlg,EntryList/4/Text,0,<StartCheck>실패</Start><StartAction>[마술이 무엇을 하는지 알아내려고 몇 분을 보냈지만 아무 효과도 없었다.]</Start>
 alan_tome,dlg,EntryList/5/Text,0,"<StartAction>[성공]</Start>이것은 텔레포트 마법처럼 보이지만, 본 적 없는 어떤 것과도 다르다. 목표 위치는 알려져 있지 않고, 변경될 수 없다는 것 같아. 실제로는 다른 어떤 마법보다도 회수 마법과 더 가깝다."
 alan_tome,dlg,ReplyList/0/Text,0,책만 남겨두세요.
@@ -329,7 +329,7 @@ anitea,dlg,EntryList/5/Text,0,전혀! 제 주식을 보세요.
 anitea,dlg,ReplyList/0/Text,0,"실제로, 저는 당신의 재고를 확인하기 위해 왔습니다."
 anitea,dlg,ReplyList/1/Text,0,"'당신 같은 사람들'? 그런 말을 하는 이유를 설명해 주시겠습니까, 여사님?"
 anitea,dlg,ReplyList/2/Text,0,"그래, 그럼 가지고 있는 물건을 보여주게."
-anitea,dlg,ReplyList/3/Text,0,"아니, 더 많은 물건을 사고 싶어요, 그게 너무 큰 문제 아니면요."
+anitea,dlg,ReplyList/3/Text,0,아니요. 너무 번거롭지 않다면 당신에게서 물건을 더 사고 싶을 뿐이에요.
 apoth,dlg,EntryList/0/Text,0,- 그래?
 apoth,dlg,EntryList/1/Text,0,그렇습니다. 필요하신 것이 있으신가요?
 apoth,dlg,EntryList/2/Text,0,"안녕하세요, 다시요. 내 술이 필요해요?"
@@ -929,7 +929,7 @@ chesterton,dlg,EntryList/14/Text,0,"이 전쟁에 대한 몇 가지 더 많은 �
 chesterton,dlg,EntryList/15/Text,0,"마지막으로 들은 바에 따르면, 세무스 왕은 투소니트 군대를 우회하는 데 잘 성공했다. 그의 목표는 이 땅을 정복하는 것이 아니라 특정 지역에 접근하는 것이다."
 chesterton,dlg,EntryList/16/Text,0,"우리 해군으로서는 분쟁이 시작된 이래로 2척만 잃었고, 적은 총 5척을 잃었습니다."
 chesterton,dlg,EntryList/17/Text,0,주로 전쟁지역으로 추가 군과 물품을 운송합니다. 그렇게 되면 우리는 해안에서 방화 지원을 제공하고
-chesterton,dlg,EntryList/18/Text,0,"12개의 프리가트, 23개의 코베트, 총 35개의 전함으로, 투슨보다 6개 더 많습니다. 우리는 가능한 모든 우위를 가질 필요가 있습니다."
+chesterton,dlg,EntryList/18/Text,0,"프리깃 12척과 코르벳 23척, 도합 35척의 전함으로, 투손보다 여섯 척 더 많습니다. 우리는 얻을 수 있는 모든 이점이 필요합니다."
 chesterton,dlg,EntryList/19/Text,0,"그들의 군대는 우리의 것보다 훨씬 우수합니다. 바다를 통제하더라도 그렇습니다. 왕이 더 오래 그곳에 머무르는 시간이 길수록, 우리의 군대는 점점 약해집니다."
 chesterton,dlg,EntryList/20/Text,0,"투소네 국가 내부에서 어떤 위협이 존재하지만, 그들의 사회의 일부는 아닌 것 같다. 우리는 외교적으로 직접 그 곳에 군대를 파견하려 했으나, 모든 시도에서 거부당했다. 왕은 이 위협이 전쟁을 정당화할 정도로 크다고 느꼈다."
 chesterton,dlg,EntryList/21/Text,0,"작지만 강력한 세력이 있지만, 그 세부 사항은 아직 알려지지 않았습니다. 왕은 이러한 정보가 지금 당장 필요하지 않다고 느꼈기 때문에 알려주지 않았습니다."
@@ -1329,7 +1329,7 @@ deckard,dlg,EntryList/0/Text,0,내가 도와줄 게 있어?
 deckard,dlg,EntryList/1/Text,0,다른 곳으로 가봐야 할 일이 있어
 deckard,dlg,EntryList/2/Text,0,저스틴이라는 사람이 이 그룹을 이끌고 있나요?
 deckard,dlg,EntryList/3/Text,0,"지난 몇 달 동안 수술을 확장해 왔고, 제 머리통이 심해졌지만"
-deckard,dlg,EntryList/4/Text,0,이해합니다. 도움이 필요한 만큼은 다 주는 거죠. 당신의 마음을 바꿀 수는 없나요?
+deckard,dlg,EntryList/4/Text,0,이해합니다. 그래도 도움은 얻을 수 있는 만큼 필요한데요. 정말 마음을 바꿀 수 없을까요?
 deckard,dlg,EntryList/5/Text,0,당신의 뜻대로 해주셔서 고마워. 저스틴과 그의 팀들이 감옥에 갇히도록 하겠습니다.
 deckard,dlg,EntryList/7/Text,0,"좋아. 네가 다시 들어가면 내 부하들이 네 뒤를 보러갈게. 체포하려 하지만, 아마 저항할 거야. 필요하다면 그렇게 해보도록."
 deckard,dlg,EntryList/8/Text,0,"최근은 좀 손이 부족해서, 몇 달 전에 많은 사람들이 징집되었다는 건 언급할 필요도 없지."
@@ -1685,7 +1685,7 @@ desmond,dlg,ReplyList/0/Text,0,당신은 던스모드님입니까?
 desmond,dlg,ReplyList/1/Text,0,제 이름은 <FullName>입니다.
 desmond,dlg,ReplyList/3/Text,0,그럴 수 있어
 desmond,dlg,ReplyList/6/Text,0,무기를 마법으로 만들 수 있어?
-desmond,dlg,ReplyList/7/Text,0,이 과정은 어떻게 작동하나요?
+desmond,dlg,ReplyList/7/Text,0,그 과정은 어떻게 이루어지나요?
 desmond,dlg,ReplyList/8/Text,0,그리고 어떤 힘을 주실 수 있을까요?
 desmond,dlg,ReplyList/9/Text,0,무기를 마법으로 축원하고 싶다.
 desmond,dlg,ReplyList/10/Text,0,내 생각이야
@@ -1774,9 +1774,9 @@ desmond,dlg,ReplyList/194/Text,0,"그래, 다시 돌아가야 해요"
 desmond,dlg,ReplyList/196/Text,0,"아니, 7분 동안 아무도 괴롭히지 않았다는 걸 깨달았어, 그리고 당신이 가장 가까운 사람이라니."
 desmond,dlg,ReplyList/197/Text,0,"괜찮아, 하지만 돌아오지 않을 수 없지"
 desmond,dlg,ReplyList/198/Text,0,저쪽으로 좀 돌아보며 돌아다니다. 귀찮게 끼어드려 죄송해.
-desmond,dlg,ReplyList/199/Text,0,"네, 뒤에"
+desmond,dlg,ReplyList/199/Text,0,먼저 가세요.
 desmond_portal,dlg,EntryList/0/Text,0,포털이 이제 열렸습니다. 상당히 안전해 보이니 즉시 안으로 들어가도록 하겠습니다.
-desmond_portal,dlg,ReplyList/0/Text,0,"네, 뒤에"
+desmond_portal,dlg,ReplyList/0/Text,0,먼저 가세요.
 doomknight,dlg,EntryList/0/Text,0,누구도 들어와서 내 주인을 방해하지 마라!
 drago,dlg,EntryList/0/Text,0,"안녕하세요, <Brother/Sister>. 이 부적절한 지역으로 오시는 이유는 무엇일까요?"
 drago,dlg,EntryList/1/Text,0,실제로! 저와 제 형제들이 이 수도원을 30년 전에 세웠습니다. 그렇게 함으로써 평화롭게 존재를 탐구할 수 있는 장소를 마련하고자 했습니다.
@@ -1949,7 +1949,7 @@ duke,dlg,ReplyList/1/Text,0,두 사람이 전에 만난 것 같아 시작합니�
 duke,dlg,ReplyList/4/Text,0,"시장을 중심으로 한 곳이었는데, 대학에서 어떤 실험으로 인해 도로의 일부가 손상되었는데, 우리는 몇 개의 골목을 돌봐야 했습니다."
 duke,dlg,ReplyList/5/Text,0,그런 위험을 감수하는 것에 대해 호기심이 들다. 그들이 임금으로 일한다고 가정하는 것은 맞나요?
 duke,dlg,ReplyList/7/Text,0,여러분들은 그들에 대해 많은 지식을 가지고 있는 것 같습니다.
-duke,dlg,ReplyList/8/Text,0,안녕. 이 암살자들에 대해 또 뭘 아나?
+duke,dlg,ReplyList/8/Text,0,안녕하세요. 이 암살자들에 대해 달리 아시는 게 있나요?
 duke,dlg,ReplyList/9/Text,0,만나서 반갑습니다.
 duke,dlg,ReplyList/10/Text,0,고마워. 이제 이 암살자들에 대해 더 뭘 아나?
 duke,dlg,ReplyList/11/Text,0,크리오사 공주가 도시를 떠나서 복수사건이 아닐 거야
@@ -2051,13 +2051,13 @@ duke3,dlg,EntryList/0/Text,0,"<FirstName>, 성에 많은 사기꾼들이 있습�
 duke3,dlg,EntryList/1/Text,0,뭐... 뭐?! 나는 그런 짓을 하지 않았어! 어디서 이 비참한 말도 안 되는 것을 생각해냈어?
 duke3,dlg,EntryList/2/Text,0,"아니, 그는 초월의 왕관을 되찾기 위해 임무로 떠났다."
 duke3,dlg,EntryList/3/Text,0,하지만 나는 그와는 아무런 관련이 없어!
-duke3,dlg,EntryList/4/Text,0,"제발 <FirstName>님, 진실을 말씀드리겠습니다. 저는 오늘 아침에 일어나서 이 모든 모자를 쓴 사람들이 달리고 있었습니다. 기사들은 그들을 막으려고 했지만 너무 많았습니다."
+duke3,dlg,EntryList/4/Text,0,"제발요, <FirstName>, 진실을 말씀드리는 거예요! 오늘 아침에 일어나 보니 두건을 쓴 사람들이 사방을 뛰어다니고 있었어요! 기사들이 막으려 했지만 너무 많았어요."
 duke3,dlg,EntryList/5/Text,0,하지만... 그 책에 내가 준 항목을 본 적이 있어!
 duke3,dlg,EntryList/6/Text,0,확실한가? 그 책을 접한 유일한 사람은... 우리에게 그 홀(笏)에 주목하게 만든 사람이었어! 성주 말이야!
 duke3,dlg,EntryList/7/Text,0,"'자신로 해라'는 얼마나 쉬운지 놀라실 겁니다. 어쨌든, 글씨가 정확할 필요는 없었어요. 결국 듀크는 내 모든 말을 신뢰합니다."
 duke3,dlg,EntryList/9/Text,0,맞아요. 내가 죽기보다는 크리오사에게 '잃어버리'라고 강요하고 싶었어요. 내가 떠난 후에는 아이룬드 왕으로서의 새로운 지위에 대항할 사람은 없을 겁니다.
 duke3,dlg,EntryList/10/Text,0,저는 그 사실을 몰랐습니다. 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아도
-duke3,dlg,EntryList/11/Text,0,"나는 널 섬으로 보내서 죽일 수 있을 것 같았는데, 보아하니 내 능력이 너의 능력보다 작았던 모양이다."
+duke3,dlg,EntryList/11/Text,0,"섬으로 보내면 널 죽이기에 충분할 줄 알았는데, 네 힘을 과소평가했던 모양이군."
 duke3,dlg,EntryList/12/Text,0,말콤 경! 어떻게 이런 짓을 해주셨나요? 이 어리석음으로 인해 모든 맹세를 배반한 것은 어떻게 해주셨나요?
 duke3,dlg,EntryList/13/Text,0,"어려운 선택이었지만, 더 힘들었을 것은 아이언로드가 페어로크로 향하는 동안 내 나라가 불에 타는 것을 지켜보는 것이었다."
 duke3,dlg,EntryList/14/Text,0,"오, 그렇지만 그렇지는 않아. 마지막 고대 용이 사라졌지만, 철왕을 파괴하려면 반신조차도 충분하지 않을 정도로 강하다. 동료들이 말하기를, 영원한 부활 신전을 파괴하더라도 무의미할 것이라고. 철왕은 어디서든 다시 나타나리라."
@@ -2486,7 +2486,7 @@ enchant1,dlg,ReplyList/0/Text,0,당신은 던스모드님입니까?
 enchant1,dlg,ReplyList/1/Text,0,제 이름은 <FullName>입니다.
 enchant1,dlg,ReplyList/3/Text,0,그럴 수 있어
 enchant1,dlg,ReplyList/6/Text,0,무기를 마법으로 만들 수 있어?
-enchant1,dlg,ReplyList/7/Text,0,이 과정은 어떻게 작동하나요?
+enchant1,dlg,ReplyList/7/Text,0,그 과정은 어떻게 이루어지나요?
 enchant1,dlg,ReplyList/8/Text,0,그리고 어떤 힘을 주실 수 있을까요?
 enchant1,dlg,ReplyList/9/Text,0,무기를 마법으로 축원하고 싶다.
 enchant1,dlg,ReplyList/10/Text,0,내 생각이야
@@ -2559,7 +2559,7 @@ enchant1,dlg,ReplyList/154/Text,0,"아니, 7분 동안 아무도 괴롭히지 �
 enchant1,dlg,ReplyList/155/Text,0,"괜찮아, 하지만 돌아오지 않을 수 없지"
 enchant1,dlg,ReplyList/156/Text,0,저쪽으로 좀 돌아보며 돌아다니다. 귀찮게 끼어드려 죄송해.
 enchant1,dlg,ReplyList/157/Text,0,제 무기를 매료시키고 싶습니다.
-enchant1,dlg,ReplyList/158/Text,0,"네, 뒤에"
+enchant1,dlg,ReplyList/158/Text,0,먼저 가세요.
 enchant2,dlg,EntryList/1/Text,0,"네, 아니면 적어도 완성될 경우 그렇게 될 것입니다."
 enchant2,dlg,EntryList/2/Text,0,어떤 바보가 전쟁을 일으켜 이 집 건설에 쓰여진 돈을 빼앗아갔어!
 enchant2,dlg,EntryList/3/Text,0,사실 아니죠. 이 쓰레기 전부는 북쪽에서 공간이 부족하기 때문에 여기 보관되어 있습니다. 하지만 여러분이 원한다면 상자를 열고 마법사의 서적이나 다른 물건을 팔 수 있습니다. 저는 또한 당신을 위해 아이템을 식별할 수 있습니다. 그리고 저는 마법 아이템도 충전할 수 있습니다. 어떤 식으로든 생계를 유지해야 합니다.
@@ -3342,7 +3342,7 @@ guide,dlg,ReplyList/5/Text,0,- 고마워요
 guide,dlg,ReplyList/6/Text,0,마법 장비를 구매할 수 있는 곳이 있나요?
 guide,dlg,ReplyList/7/Text,0,고마워요
 guild_guard,dlg,EntryList/0/Text,0,여기 들어오면 안 돼!
-guild_guard,dlg,EntryList/1/Text,0,어느 분이시죠? 귀하가 문제를 일으키러 왔다면 싸움을 피할 수 없겠네요.
+guild_guard,dlg,EntryList/1/Text,0,대체 당신은 누구요? 말썽을 일으키러 왔다면 한판 붙어야 할 거요.
 guild_guard,dlg,EntryList/2/Text,0,"괜찮아, 하지만 조심해, 그렇지 않으면 당할 거야"
 guild_guard,dlg,EntryList/3/Text,0,페리가 늘 그렇듯이 왕좌에 앉아 있어
 guild_guard,dlg,EntryList/4/Text,0,"조심해 친구, 최근엔 많은 문제가 있어"
@@ -3353,7 +3353,7 @@ guild_guard,dlg,ReplyList/3/Text,0,- 고마워요
 hashan,dlg,EntryList/0/Text,0,"안녕하세요, 제가 도와드릴 게 있나요?"
 hashan,dlg,EntryList/1/Text,0,"오, 여기서는 그런 걸 자주 들리지 않아. 도시 중심에 있는 '패션 하우스'에 사는 과한 여인은 그런 걸 좋아해. 그녀의 손님들은 그런 걸 좋아하니까. 놈들이 다 비둘기 같아."
 hashan,dlg,EntryList/2/Text,0,"물론이죠. 좋은 양질의 가죽을 원하시다면, 킹스우드의 아델레이를 방문하는 것이 좋겠습니다. 그 지역에서는 더 많은 수요가 있습니다."
-hashan,dlg,EntryList/4/Text,0,"물론, 계속해."
+hashan,dlg,EntryList/4/Text,0,"그래, 어서 해 봐."
 hashan,dlg,EntryList/5/Text,0,돌아왔어? 오늘은 놀라운 날이야. 반복적인 고객을 많이 받지 마.
 hashan,dlg,EntryList/6/Text,0,"네, 네, 네, 뭐든..."
 hashan,dlg,ReplyList/0/Text,0,여기 패딩된 갑옷이 별로 없네. 왜 그러지?
@@ -3642,7 +3642,7 @@ hench_nellise,dlg,EntryList/66/Text,0,확실히. 무엇에 대해 이야기하�
 hench_nellise,dlg,EntryList/67/Text,0,그럼 괜찮아
 hench_nellise,dlg,EntryList/68/Text,0,"저는 행동에 대한 책임을 지게 될 것이라고 생각합니다. 어느 시점에 재판이 있을지도 모르지만, 그때까지는 부상자들을 돌보고, 나라를 재건하는 데 도움을 주겠습니다."
 hench_nellise,dlg,EntryList/70/Text,0,물론 그렇게 될 겁니다. 장담하죠. 사람들이 피해를 입었으니 누군가는 책임을 져야 합니다.
-hench_nellise,dlg,EntryList/71/Text,0,"네, *때문에* 그렇습니다. 제 친구, 누군가가 그들을 경계선을 넘게 만들 필요가 있었고, 그 사람이 바로 나였습니다. 반드시 징벌이 있을 것입니다, 확실합니다."
+hench_nellise,dlg,EntryList/71/Text,0,"네, 나 *때문에* 그렇소. 누군가는 그들이 선을 넘도록 몰아붙여야 했고, 그게 나였소, 친구. 대가는 반드시 치르게 될 거요."
 hench_nellise,dlg,EntryList/72/Text,0,아마도. 저는 이 문제에서 비난을 피할 수 있을 것이라고 믿기 어렵습니다. 특히 교회의 역할과 관련해서는 더더욱 그렇습니다.
 hench_nellise,dlg,EntryList/73/Text,0,나는 행동을 받아들이기 전까지는 잠시 수도원에서 혼자 있을 거 같아. 그 후에는 어떻게 될지 알 수 없어.
 hench_nellise,dlg,EntryList/74/Text,0,"제 생각에는 그렇지 않나. <StartAction>[네일리스는 잠시 침묵합니다.]</Start> 에.. 다른 이야기도 있었나? 때때로 가장 개인적인 질문을 하는 거 같네, <FirstName>!"
@@ -3810,14 +3810,14 @@ hench_nellise,dlg,ReplyList/240/Text,0,"알았어, 알았어, 진정해."
 hench_nellise,dlg,ReplyList/241/Text,0,"빠르게, 먼저 몇 가지 일을 해야겠어"
 hench_nellise,dlg,ReplyList/243/Text,0,넌 여전히 이 파티의 소중한 멤버야 넬
 hench_nellise,dlg,ReplyList/245/Text,0,테리누스는 이 모든 것 후에 새로운 침대가 필요할 거야. 우리는 그 걸 *파괴*했으니까!
-hench_nellise,dlg,ReplyList/246/Text,0,"어쩌면, 하지만 꼭 말하고 싶었어."
+hench_nellise,dlg,ReplyList/246/Text,0,"그럴지도, 하지만 정말 말하고 싶었어."
 hench_nellise,dlg,ReplyList/248/Text,0,"나에겐 개인적인 일이야, 넬. 너무 자세히는 말하고 싶지 않아."
 hench_nellise,dlg,ReplyList/249/Text,0,네 목소리에서 후회가 들리나요?
 hench_nellise,dlg,ReplyList/250/Text,0,더 동의할 수 없네요. 가자.
 hench_nellise,dlg,ReplyList/251/Text,0,그래서 넌 절대...
 hench_nellise,dlg,ReplyList/252/Text,0,"알았어, 다시 일하자"
 hench_nellise,dlg,ReplyList/253/Text,0,테리누스는 이 모든 것 후에 새로운 침대가 필요할 거야. 우리는 그 걸 *파괴*했으니까!
-hench_nellise,dlg,ReplyList/254/Text,0,"어쩌면, 하지만 꼭 말하고 싶었어."
+hench_nellise,dlg,ReplyList/254/Text,0,"그럴지도, 하지만 정말 말하고 싶었어."
 hench_nellise,dlg,ReplyList/256/Text,0,"나에겐 개인적인 일이야, 넬. 너무 자세히는 말하고 싶지 않아."
 hench_nellise,dlg,ReplyList/257/Text,0,네 목소리에서 후회가 들리나요?
 hench_nellise,dlg,ReplyList/258/Text,0,더 동의할 수 없네요. 가자.
@@ -4076,7 +4076,7 @@ hench_varlennia,dlg,ReplyList/0/Text,0,"하지만 지금은 아니야. 하지만
 hench_varlennia,dlg,ReplyList/2/Text,0,"그래, 그들의 군대가"
 hench_varlennia,dlg,ReplyList/3/Text,0,물론입니다.
 hench_varlennia,dlg,ReplyList/4/Text,0,누군가 강한 전사를 찾고 있다.
-hench_varlennia,dlg,ReplyList/5/Text,0,네.. 선원들이 술을 마시는 곳에서 이렇게 서 있는 것은 약간의 개방적인 초대장과 같아 보입니다.
+hench_varlennia,dlg,ReplyList/5/Text,0,"어, 그런 차림으로 선원 선술집에 서 있으면 건드려 달라는 초대나 마찬가지지."
 hench_varlennia,dlg,ReplyList/6/Text,0,<FullName>
 hench_varlennia,dlg,ReplyList/7/Text,0,"좋아, 발렌니아라고 불러."
 hench_varlennia,dlg,ReplyList/8/Text,0,"맞아. 이 도시에 문제가 생겼고, 내 곁에서 싸워줄 강한 동료가 필요해."
@@ -5423,7 +5423,7 @@ p002c000douglas,dlg,EntryList/0/Text,0,안녕. 죄송하지만 도서관은 임�
 p002c000douglas,dlg,EntryList/1/Text,0,"표식이 잘못되어 있군요. 그 부분을 바꾸는 중이에요, 불편을 끼쳐 죄송합니다. 안녕히가세요."
 p002c000douglas,dlg,EntryList/2/Text,0,"긴장? 나, 긴장? <StartAction>[그는 매우 긴장한 듯 웃는다.]</Start> 전혀!"
 p002c000douglas,dlg,EntryList/3/Text,0,"<StartAction>[그는 잠시 당신을 쳐다보며]</Start> 아니, 이상한 일이 없네요, 그냥 많은 책을 읽고 있을 뿐입니다. 예, 좋은, 건강한 책을 읽는 거죠, 하나님의 뜻대로요.<StartAction>[그의 말은 '아니오'라고 하지만 눈은 계단을 가리키고 있습니다.]</Start>"
-p002c000douglas,dlg,EntryList/4/Text,0,"아니, 넌 멍청한 놈이다! 내가 네게 올라가서 끔찍한 괴물을 죽이라고 말하려고 하는 걸 알아? 정말로, 요즘 영웅들은 머리가 굳은 것 같구나."
+p002c000douglas,dlg,EntryList/4/Text,0,"아니, 이 멍청이야! 위층에 올라가서 끔찍한 괴물을 죽이라는 말이잖아! 세상에, 요즘 영웅들은 정말 머리가 둔하군."
 p002c000douglas,dlg,EntryList/5/Text,0,"난 당신을 확신 <sir/madam>, 당신은이 멋진 시설의 첫 층을 방문 할 수 없습니다, 우리의 폐쇄 때문에. 당신은 또한 ... '관리있는' 읽기 볼 수 없습니다."
 p002c000douglas,dlg,EntryList/6/Text,0,내 의지를 거역한 거로 너를 저주하라 내가 죽을 고통으로 너를 내버려 두는 것 외에는 선택이 없다!
 p002c000douglas,dlg,EntryList/8/Text,0,"다른 시간에 다시 오세요, 내가 보여드릴 때..."
@@ -5499,7 +5499,7 @@ p002c001nw_dmvro,dlg,ReplyList/0/Text,0,너 누구야?
 p002c001nw_dmvro,dlg,ReplyList/1/Text,0,나는 곤경의 냄새를 맡았어. 어쨌든 너 때문인 것 같아.
 p002c001nw_dmvro,dlg,ReplyList/2/Text,0,"물론 아니에요. 물어봤지만, 그냥 피했죠."
 p002c001nw_dmvro,dlg,ReplyList/3/Text,0,그 말은 모뿔을 설명해 줄 것 같군. 그럼 여기에 왜 있는 거지?
-p002c001nw_dmvro,dlg,ReplyList/4/Text,0,여기 우연히 왔으니 이제 집에 가는 때가 됐나 보다.
+p002c001nw_dmvro,dlg,ReplyList/4/Text,0,그럼 우연히 여기 온 거로군. 이제 집에 돌아갈 때가 된 모양이야.
 p002c001nw_dmvro,dlg,ReplyList/5/Text,0,<StartCheck>[악]</Start> 흥미로운 생각.
 p002c001nw_dmvro,dlg,ReplyList/6/Text,0,여기 말하는 것이 얼마나 중요한가요?
 p002c001nw_dmvro,dlg,ReplyList/7/Text,0,나는 당신을 믿지 않아. 실제로는 진짜 힘을 보여주기 전에 떠나는 게 좋을 것 같아.
@@ -5621,7 +5621,7 @@ peri,dlg,EntryList/5/Text,0,그리고 내가 그렇다고 말해 주기만 하�
 peri,dlg,EntryList/6/Text,0,이런 일은 일어나지 않을 겁니다. 우리는 어떤 협정을 하고 있습니다. 우리는 그들을 무시하고 그들은 우리를 무시합니다. 고용된 살인자 조직을 넘어서서는 안 됩니다. 사업에 좋지 않습니다.
 peri,dlg,EntryList/7/Text,0,"공주가 공격당했다는 걸 알아, 그리고 그 뒤에 누가 있는지 추적하고 있다는 걸 알아, 하지만 난 관여할 수 없어. 크리오사도 다른 남자와 마찬가지로 사랑하고 있지만, 이런 사람들에게는 도전해서는 안 돼!"
 peri,dlg,EntryList/8/Text,0,"우리가 다 죽으면 금은 쓸모가 없어. 공주가 공격당했고, 그 배후를 추적하고 있다는 걸 알고 있지만, 제대로 개입할 수 없어. 크리오사에 대한 사랑은 다른 남자들과 다를 바 없지만, 이런 사람들과는 도전하지 않아!"
-peri,dlg,EntryList/9/Text,0,무슨... 당신은 그들을 전부 죽일 거야?! HA! <StartAction>[페리와 주변 도둑들 대부분은 오랫동안 웃음으로 울고 있습니다.]</Start>
+peri,dlg,EntryList/9/Text,0,뭐... 그들을 전부 죽이겠다고?! 하하! <StartAction>[페리가 주변의 도둑 대부분과 함께 한참 동안 폭소를 터뜨린다.]</Start>
 peri,dlg,EntryList/10/Text,0,"아, 가끔 웃는 건 좋다. 코미디 해주셔서 감사하다. 넌 반 미친 반 미친 자아!"
 peri,dlg,EntryList/11/Text,0,"그렇지 않을 수도 있겠지만, 당신이 무슨 말을 하는지 잘 모르게 될 수도 있겠죠. 만약 당신이 그들을 모두 죽이지 않는다면,"
 peri,dlg,EntryList/13/Text,0,그래. 홀리스터 스위프트블레이드라는 자야. 도시에서 가장 치명적인 검객이지. 원로원 구역의 미술관 지하에 길드 본부를 차려 놨어. 책장 뒤에 비밀 문이 있고 거기서 지하실로 내려가.
@@ -5636,8 +5636,8 @@ peri,dlg,EntryList/21/Text,0,"네, 너같은 미니어처는 날 놀라게 해. 
 peri,dlg,EntryList/22/Text,0,"글리브, 항상 그렇듯이 왜 지금 당장 죽이지 않는지 말해줘"
 peri,dlg,EntryList/23/Text,0,내가 필요한 마지막 건 또 다른 두통이니까 지금은 모든게 사라질 거야
 peri,dlg,EntryList/24/Text,0,내가 할 수 있어
-peri,dlg,EntryList/25/Text,0,그리고 나는!
-peri,dlg,EntryList/26/Text,0,그리고 나는!
+peri,dlg,EntryList/25/Text,0,나도!
+peri,dlg,EntryList/26/Text,0,나도!
 peri,dlg,EntryList/27/Text,0,"친구여, 암살자들에겐 행운을 빌어주어야 해."
 peri,dlg,EntryList/28/Text,0,누가 아직 죽지 않았는지 보세요!
 peri,dlg,EntryList/29/Text,0,누가 아직 죽지 않았는지 보세요!
@@ -6078,7 +6078,7 @@ royal_guard,dlg,EntryList/5/Text,0,"아, 아... 좋아. 들어가세요."
 royal_guard,dlg,EntryList/6/Text,0,또 다시. 왕실 방으로 들어가기 위한 조건에 대해 말씀드릴 수밖에 없습니다.
 royal_guard,dlg,EntryList/7/Text,0,<Sir/Madam>
 royal_guard,dlg,ReplyList/0/Text,0,나. <FullName> 당신의 왕과 얘기하고 싶습니다.
-royal_guard,dlg,ReplyList/1/Text,0,저런 것들은 없어.
+royal_guard,dlg,ReplyList/1/Text,0,그런 건 없는 것 같아요.
 royal_guard,dlg,ReplyList/2/Text,0,"구강을 조심하라. 그렇지 않으면 나는 그것을 뽑아들고, 너의 가치와 신들을 모욕하는 데서 즐거움을 느끼는 뻔뻔한 연극을 벌일 것이다."
 royal_guard,dlg,ReplyList/4/Text,0,"무례하게 굴 필요 없어, 나 가러 갈게."
 royal_guard,dlg,ReplyList/5/Text,0,"- 네, 당신이 말한 대로"
@@ -6152,7 +6152,7 @@ sothby,dlg,EntryList/2/Text,0,"이 건물로 이사한 지 두 주 전이었는�
 sothby,dlg,EntryList/3/Text,0,"네, 물론입니다. 무엇을 도와드릴까요?"
 sothby,dlg,EntryList/4/Text,0,"그래, 원하는 게 있었나?"
 sothby,dlg,EntryList/5/Text,0,고마워. 그렇게 내 문제를 풀어버리려고는 생각하지 않았어. 여기 와서 다른 이유가 있는 거야?
-sothby,dlg,EntryList/6/Text,0,"오, 그렇군요! 그렇다면, 당신이 이미 눈치채셨겠지만, 답변은 예, 당신에게 아주 중요한 일임을 맡겨드릴 일이 있습니다."
+sothby,dlg,EntryList/6/Text,0,"아, 그렇군요! 보시다시피 답은 '예'입니다. 당신에게 맡길 만한 아주 중요한 일이 있습니다."
 sothby,dlg,EntryList/7/Text,0,드루이드 집단은 내 도시를 숲으로 바꾸려는 의도로 시야를 세웠다고 정보원들은 말합니다.
 sothby,dlg,EntryList/8/Text,0,"군대가 떠난 지 얼마 지나지 않아 드루이드들이 움직이고 있다는 소식이 들려왔습니다. ""예언의 날""이나 그 같은 일이 다가오고 있습니다."
 sothby,dlg,EntryList/9/Text,0,"정말로. 우리 사회의 표면 아래에서 이렇게 많은 문제들이 존재한다는 것을 몰랐습니다. 오랜 세월 동안 평화로운 것처럼 보였지만, 왕의 통치가 약화되고 인근 국가들이 진면목을 드러내기 시작한 것입니다."
@@ -6545,13 +6545,13 @@ test,dlg,EntryList/2/Text,0,"네, 그게 맞아. 그가 책을 읽고 있었지.
 test,dlg,EntryList/3/Text,0,뭐... 뭐?! 나는 그런 짓을 하지 않았어! 어디서 이 비참한 말도 안 되는 것을 생각해냈어?
 test,dlg,EntryList/4/Text,0,"아니, 그는 트랜스젠테이션의 막대기를 되찾기 위한 임무로 떠났다."
 test,dlg,EntryList/5/Text,0,하지만 나는 그와는 아무런 관련이 없어!
-test,dlg,EntryList/6/Text,0,"제발 <FirstName>님, 진실을 말씀드리겠습니다. 저는 오늘 아침에 일어나서 이 모든 모자를 쓴 사람들이 달리고 있었습니다. 기사들은 그들을 막으려고 했지만 너무 많았습니다."
+test,dlg,EntryList/6/Text,0,"제발요, <FirstName>, 진실을 말씀드리는 거예요! 오늘 아침에 일어나 보니 두건을 쓴 사람들이 사방을 뛰어다니고 있었어요! 기사들이 막으려 했지만 너무 많았어요."
 test,dlg,EntryList/7/Text,0,하지만... 그 책에 내가 준 항목을 본 적이 있어!
 test,dlg,EntryList/8/Text,0,확실한가? 그 책을 접한 유일한 사람은... 우리에게 그 홀(笏)에 주목하게 만든 사람이었어! 성주 말이야!
 test,dlg,EntryList/9/Text,0,"'자신로 해라'는 얼마나 쉬운지 놀라실 겁니다. 어쨌든, 글씨가 정확할 필요는 없었어요. 결국 듀크는 내 모든 말을 신뢰합니다."
 test,dlg,EntryList/11/Text,0,맞아요. 내가 죽기보다는 크리오사에게 '잃어버리'라고 강요하고 싶었어요. 내가 떠난 후에는 아이룬드 왕으로서의 새로운 지위에 대항할 사람은 없을 겁니다.
 test,dlg,EntryList/12/Text,0,저는 그 사실을 몰랐습니다. 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아 보아도
-test,dlg,EntryList/13/Text,0,"나는 널 섬으로 보내서 죽일 수 있을 것 같았는데, 보아하니 내 능력이 너의 능력보다 작았던 모양이다."
+test,dlg,EntryList/13/Text,0,"섬으로 보내면 널 죽이기에 충분할 줄 알았는데, 네 힘을 과소평가했던 모양이군."
 test,dlg,EntryList/14/Text,0,말콤 경! 어떻게 이런 짓을 해주셨나요? 이 어리석음으로 인해 모든 맹세를 배반한 것은 어떻게 해주셨나요?
 test,dlg,EntryList/15/Text,0,"어려운 선택이었지만, 더 힘들었을 것은 아이언로드가 페어로크로 향하는 동안 내 나라가 불에 타는 것을 지켜보는 것이었다."
 test,dlg,EntryList/16/Text,0,"오, 그렇지만 그렇습니다. 마지막 고대 용이 사라졌고, 이제는 반신만이 철왕을 파괴할 수 있게 되었습니다. 제 동료들은 영원한 부활의 신전을 파괴하려고 해도 무용지물일 것이며, 철왕은 다른 곳에서 다시 나타날 것입니다."
@@ -11053,19 +11053,19 @@ fairlochhouseoff,git,Creature List/2/FirstName,0,귀부인
 fairlochhouseoff,git,Creature List/2/Description,0,이와 같은 여자들은 이 이상한 시대에도 거의 일을 하지 않습니다.
 fairlochhouseoff,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,비싼 옷
 fairlochhouseoff,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,"이 섬세 한 섬세 한 옷 은 아이 룬드의 부유 한 엘리트 들 이 입는다. 이 옷 은 은혜 와 균형 의 이미지 를 선사 하고, 심지어 가장 미묘 한 사람 들 이도 눈 에 더 매력적 으로 보일 수 있게 해 준다."
-fairlochhouseoff,git,Creature List/3/FirstName,0,옷 디스플레이
+fairlochhouseoff,git,Creature List/3/FirstName,0,의류 진열대
 fairlochhouseoff,git,Creature List/3/Description,0,의류 전시대는 모든 종류의 옷을 전시하기 위해 사용됩니다.
 fairlochhouseoff,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,비싼 옷
 fairlochhouseoff,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,"이 섬세 한 섬세 한 옷 은 아이 룬드의 부유 한 엘리트 들 이 입는다. 이 옷 은 은혜 와 균형 의 이미지 를 선사 하고, 심지어 가장 미묘 한 사람 들 이도 눈 에 더 매력적 으로 보일 수 있게 해 준다."
-fairlochhouseoff,git,Creature List/4/FirstName,0,옷 디스플레이
+fairlochhouseoff,git,Creature List/4/FirstName,0,의류 진열대
 fairlochhouseoff,git,Creature List/4/Description,0,의류 전시대는 모든 종류의 옷을 전시하기 위해 사용됩니다.
 fairlochhouseoff,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,비싼 옷
 fairlochhouseoff,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,"이 섬세하게 짜여진 옷은 아이룬드의 부유한 엘리트들에 의해 착용된다. 그것은 은혜, 균형의 이미지를 투영하며, 가장 덜 매력적인 사람조차도 눈에 더 매력적으로 보이게 한다. 이 특별한 디자인은 여성 인구 사이에서 가장 인기가 있습니다."
-fairlochhouseoff,git,Creature List/5/FirstName,0,옷 디스플레이
+fairlochhouseoff,git,Creature List/5/FirstName,0,의류 진열대
 fairlochhouseoff,git,Creature List/5/Description,0,의류 전시대는 모든 종류의 옷을 전시하기 위해 사용됩니다.
 fairlochhouseoff,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,꽃 드레스는
 fairlochhouseoff,git,Creature List/5/Equip_ItemList/0/Description,0,아름다운 드레스다. 가문 좋은 숙녀라면 누구든 편안하게 입을 만하다.
-fairlochhouseoff,git,Creature List/6/FirstName,0,옷 디스플레이
+fairlochhouseoff,git,Creature List/6/FirstName,0,의류 진열대
 fairlochhouseoff,git,Creature List/6/Description,0,의류 전시대는 모든 종류의 옷을 전시하기 위해 사용됩니다.
 fairlochhouseoff,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,귀부인의 드레스
 fairlochhouseoff,git,Creature List/6/Equip_ItemList/0/Description,0,"이 옷은 사랑스러운 드레스로, 교양 있는 여인이라면 누구나 착용해도 편안할 것 같은 옷입니다. 겉옷도 포함되어 있어 겨울의 차가움을 쫓아낼 수 있습니다."
@@ -16482,7 +16482,7 @@ thelostcityof002,git,Placeable List/22/Description,0,자연은 이 고대 기둥
 thelostcityof002,git,Placeable List/23/LocName,0,잡초가 무성한 기둥
 thelostcityof002,git,Placeable List/23/Description,0,자연은 이 고대 기둥을 다시 되찾기 시작하여 식물로 덮었습니다.
 thelostcityof002,git,Placeable List/28/LocName,0,모험가의 시체
-thelostcityof002,git,Placeable List/28/Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+thelostcityof002,git,Placeable List/28/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 thelostcityof002,git,Placeable List/28/ItemList/0/LocalizedName,0,에테르의 갑옷
 thelostcityof002,git,Placeable List/28/ItemList/0/DescIdentified,0,이 훌륭한 갑옷을 착용하는 사람은 부분적으로 이더리얼 평면으로 건너갈 수 있으며 전투 중에 더 큰 보호를 제공합니다.
 thelostcityoffey,git,Creature List/0/FirstName,0,죽음의 야망자
@@ -17905,7 +17905,7 @@ zep_craniumrat,utc,FirstName,0,크라니움 레이트
 zep_croc_001,utc,FirstName,0,알리거토
 zep_croc_001,utc,Description,0,호랑이는 크고 육식 동물로 수중 파충류입니다.
 zep_croc_002,utc,FirstName,0,악어
-zep_croc_002,utc,Description,0,악어들은 크고 육식동물인 수중 파충류입니다.
+zep_croc_002,utc,Description,0,악어는 크고 육식성인 수생 파충류입니다.
 zep_croc_003,utc,FirstName,0,가리알
 zep_croc_003,utc,Description,0,가리얼은 크고 육식적인 수중 파충류입니다.
 zep_cw_cre,utc,FirstName,0,CEP 생명체 마법사
@@ -18479,13 +18479,13 @@ zep_pumpkin,utc,Description,0,이 뚜 에는 무서운 얼굴이 새겨져 있�
 zep_purpleworm,utc,FirstName,0,보라색 벌레
 zep_purpleworm,utc,Description,0,이 거대한 사냥꾼들은 발견한 모든 유기물질을 섭취하려고 한다. 보라색 벌레들은 전체 그룹의 모험가들이 한 명씩 그들의 입 속으로 사라져 두려워한다.
 zep_pygmy_001,utc,FirstName,0,피그미 궁수
-zep_pygmy_001,utc,Description,0,이 존재는 어두운 피부를 가진 반인이고 동물의 가죽을 입고 원시적인 장비를 들고 있는 것 같습니다.
+zep_pygmy_001,utc,Description,0,이 존재는 동물 가죽을 두르고 원시적인 장비를 든 검은 피부의 하플링으로 보인다.
 zep_pygmy_002,utc,FirstName,0,피그미 챔피언
-zep_pygmy_002,utc,Description,0,이 존재는 어두운 피부를 가진 반인이고 동물의 가죽을 입고 원시적인 장비를 들고 있는 것 같습니다.
+zep_pygmy_002,utc,Description,0,이 존재는 동물 가죽을 두르고 원시적인 장비를 든 검은 피부의 하플링으로 보인다.
 zep_pygmy_003,utc,FirstName,0,피그미 총수
-zep_pygmy_003,utc,Description,0,이 존재는 어두운 피부를 가진 반인이고 동물의 가죽을 입고 원시적인 장비를 들고 있는 것 같습니다.
+zep_pygmy_003,utc,Description,0,이 존재는 동물 가죽을 두르고 원시적인 장비를 든 검은 피부의 하플링으로 보인다.
 zep_pygmy_004,utc,FirstName,0,피그미 투사
-zep_pygmy_004,utc,Description,0,이 존재는 어두운 피부를 가진 반인이고 동물의 가죽을 입고 원시적인 장비를 들고 있는 것 같습니다.
+zep_pygmy_004,utc,Description,0,이 존재는 동물 가죽을 두르고 원시적인 장비를 든 검은 피부의 하플링으로 보인다.
 zep_qotal,utc,FirstName,0,깃털 용인 고탈
 zep_qotal,utc,Description,0,"탈 (Qotal) 은 깃털의 용과 깃털의 왕이라고 불리는데, 마즈티칸의 신들 중 가장 아름답고 다채로운 인물이다. 그는 일반적으로 거대한 황금 용으로 묘사되지만, 스케일의 대신 밝은, 둥근 깃털로 덮여 있다."
 zep_quagga_001,utc,FirstName,0,쿼가
@@ -19515,7 +19515,7 @@ heraldicshield,uti,DescIdentified,0,전통과 유산으로 휩싸인 이 디자�
 herb,uti,LocalizedName,0,"허브, 성당 요한의 루트"
 herb,uti,DescIdentified,0,"이 허브는 강력한 치유제로 사용되며, 수치를 빠르게 회복시키는 수축 효과가 있다."
 herb001,uti,LocalizedName,0,극심한 추운 크리스탈
-herb001,uti,DescIdentified,0,"이 결정석은 동부 산맥에서 채굴되며, 이는 극히 드물게 서쪽 깊숙이에서 발견된다. 이는 놀라운 보석으로, 스스로 차가운 것을 저장하고 있으며, 깨질 때 얼음 폭발로 방출된다."
+herb001,uti,DescIdentified,0,"이 수정은 동쪽 산맥에서 채굴되며 이렇게 서쪽까지 오는 일은 드물다. 놀라운 보석으로, 안에 냉기를 저장하고 있다가 깨지면 얼음 폭발로 내뿜는다."
 herb002,uti,LocalizedName,0,보호 글리프
 herb002,uti,DescIdentified,0,"이 룬으로 새겨진 바위는 해로움을 막는 방패로 매법으로 보호되어 있지만, 한 번만 사용할 수 있는 충분한 힘을 가지고 있습니다."
 herbbelladonna,uti,LocalizedName,0,"허브, 벨라도나"
@@ -19681,7 +19681,7 @@ largemetalshi002,uti,LocalizedName,0,도시 경비병 방패
 largemetalshi003,uti,LocalizedName,0,거구의 금속 방패 +2
 largemetalshi004,uti,LocalizedName,0,대형 방패 +2
 largemetalshield,uti,LocalizedName,0,거구의 금속 방패
-largeorcshiel001,uti,LocalizedName,0,거구 드루이드 방패
+largeorcshiel001,uti,LocalizedName,0,대형 드루이드 방패
 largeorcshiel002,uti,LocalizedName,0,대형 재생 방패
 largeorcshiel002,uti,DescIdentified,0,자연의 재생력으로 가득 차 있는 이 방패는 충분한 시간으로 사용자를 완전히 치유할 수 있습니다.
 largeorcshield,uti,LocalizedName,0,거구 오크 방패
@@ -20002,7 +20002,7 @@ softleatherboots,uti,LocalizedName,0,수디 부츠
 softleatherboots,uti,DescIdentified,0,이 부드러운 가죽 부츠는 착용자가 좀 더 조용하게 움직일 수 있게 해줍니다.
 sorcerersclothin,uti,LocalizedName,0,학생의 의복
 spiritwarriorshe,uti,LocalizedName,0,투사의 헬멧
-spiritwarriorshe,uti,DescIdentified,0,"미스틱 웨스트에서 극히 소중히 여기는 유물인 이 헬멧은 마법을 사용하는 적들과 싸우는 전사에게 큰 힘을 주며, 그들에게 큰 도움이 됩니다."
+spiritwarriorshe,uti,DescIdentified,0,"신비한 서방에서 가장 탐내는 유물인 이 투구는 쓴 전사에게 큰 힘을 주며, 마법을 쓰는 적과 싸우는 이들에게 특히 유용하다."
 stable_key,uti,LocalizedName,0,마구간 열쇠
 staffof,uti,LocalizedName,0,주제사대
 staffof,uti,DescIdentified,0,"여행자 마법사 가 외국 을 여행 하려고 할 때, 때때로 그 여행 에 도움 을 주기 위해 직원 을 부여 한다. 그러나 그 마법사 들 은 매우 인기 있는 물건 이므로, 이 점 은 종종 젊은 마법사 에게 원치 않는 관심 을 불러 일으킨다."
@@ -20581,7 +20581,7 @@ codiwall2,utp,LocName,0,벽
 codiwall3,utp,LocName,0,벽
 codiwall4,utp,LocName,0,벽
 corpse,utp,LocName,0,모험가의 시체
-corpse,utp,Description,0,얼굴을 내려서 있으면 피해자가 남성인지 여성인지 쉽게 알 수 없다.
+corpse,utp,Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 crowsnest,utp,LocName,0,까마귀 둥지
 crp_luckycoin,utp,LocName,0,마법동전
 crpp_adv_corpse,utp,LocName,0,모험가의 시체

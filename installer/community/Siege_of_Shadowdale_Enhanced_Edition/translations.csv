@@ -211,7 +211,7 @@ ls_glamerie,dlg,EntryList/6/Text,0,"""하지만 당연히 그래. 우리의 가�
 ls_glamerie,dlg,EntryList/7/Text,0,"""큰 어머니 는 모든 성장 의 여신 이다. 그녀는 농부 들, 정원 들, 일반 사람 들 이 숭배 하는 것 이며, 땅 을 재배 하는 모든 사람 들 이 사랑 하는 것 이다""."
 ls_glamerie,dlg,EntryList/8/Text,0,"""교인 들 은 영원 한 순환 을 믿으며 모든 것 이 성장 하고 결국 죽어야 한다는 것 이다. 그 자체 를 위해 파괴 하는 것 은 낭비 이다. 그리고 우리 는 모든 생명체 의 자연적 순환 을 유지 하려고 노력 한다""."
 ls_glamerie,dlg,EntryList/9/Text,0,"""안녕하세요, 어떻게 도와드릴까요?"""
-ls_glamerie,dlg,EntryList/10/Text,0,어둠의 엘프들이 공격하고 있습니다! 먼저 신성한 여신께 우리의 마법을 재생시키도록 기도해야 합니다. 그리고 우리는 골짜기의 방어로 가야 합니다.
+ls_glamerie,dlg,EntryList/10/Text,0,"""다크 엘프들이 공격하고 있어! 먼저 여신께 기도해 마법을 되살리고, 그다음 골짜기를 지키러 가자."""
 ls_glamerie,dlg,ReplyList/0/Text,0,"""보안해"""
 ls_glamerie,dlg,ReplyList/2/Text,0,나는 치유가 필요하다.
 ls_glamerie,dlg,ReplyList/3/Text,0,"""버려."""
@@ -840,7 +840,7 @@ ss_cultleader,dlg,ReplyList/5/Text,0,"""드라코닉 재앙의 숭배?"""
 ss_cultleader,dlg,ReplyList/6/Text,0,"<StartAction>[지능 10+]</Start> ""용의 재앙? 듣기로는 드래곤 컬트 같군."""
 ss_cultleader,dlg,ReplyList/7/Text,0,"""올라"""
 ss_cultleader,dlg,ReplyList/8/Text,0,"""용 숭배가 널 쫓아냈어?"""
-ss_cultleader,dlg,ReplyList/9/Text,0,"""이제 충분히 들었으니, 이 뻔한 짓을 끝내는 때이다."""
+ss_cultleader,dlg,ReplyList/9/Text,0,"""들을 만큼 들었다. 이 헛소리를 끝낼 때다."""
 ss_cultleader,dlg,ReplyList/11/Text,0,"""당신의 계획은 미친 것처럼 들린다."""
 ss_cultleader,dlg,ReplyList/12/Text,0,"""보라색을 입은 자들?"""
 ss_cultleader,dlg,ReplyList/13/Text,0,"""계속해서 의식을 마치오."""
@@ -1057,7 +1057,7 @@ ss_hench_berliad,dlg,ReplyList/104/Text,0,"""내 동물친구에게 던져라.""
 ss_hench_berliad,dlg,ReplyList/105/Text,0,"""내게 쓰여."""
 ss_hench_berliad,dlg,ReplyList/106/Text,0,"""자기 자신에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/108/Text,0,"""네 자신에 대해 좀 말해봐."""
-ss_hench_ferret,dlg,EntryList/0/Text,0,"""안녕, 친구. 나는 블랙 아일랜드 반구역의 페레트라고 불리우고 있어. 다른 사람들이 생각조차 하지 않을 곳까지 도달할 수 있어. 그것이 나에게 이익이 된다면, 내 서비스는 모두 네 것이 될 것이다."""
+ss_hench_ferret,dlg,EntryList/0/Text,0,"""안녕, 친구. 블랙 아일의 하플링, 페럿이라고 불러. 다른 사람은 갈 생각도 못 할 곳까지 갈 수 있지. 내게 이득이 되게 해 주면 내 솜씨는 전부 네 것이야."""
 ss_hench_ferret,dlg,EntryList/1/Text,0,"""따라 보자"""
 ss_hench_ferret,dlg,EntryList/2/Text,0,"""정말 훌륭합니다! 모험은 매력적입니다!"""
 ss_hench_ferret,dlg,EntryList/3/Text,0,"""아니, 우리 둘만 있으면 더 잘 맞을 것 같아."""
@@ -2857,7 +2857,7 @@ q_giantslug,utc,FirstName,0,거대 민달팽이
 q_giantslug,utc,Description,0,"얇고 혐오스럽고 거센 사슴은 습지에 사는 혐오스러운 생물이고, 먹이를 찾기 위해 떠돌아다니며 죽거나 부패하는 유기물을 선호합니다."
 q_gianttoad_huge,utc,FirstName,0,거대한 거시구
 q_gianttoad_lrg,utc,FirstName,0,거인 개구리
-q_gianttoad_lrg,utc,Description,0,"거인 개구리들은 육식 동물이며, 먹을 것처럼 보이는 모든 것을 잡아먹으려고 시도할 수 있습니다."
+q_gianttoad_lrg,utc,Description,0,"자이언트 두꺼비는 육식성으로, 먹을 수 있어 보이는 것이면 뭐든 삼키려 든다."
 q_goat,utc,FirstName,0,염소
 q_goat,utc,Description,0,일반적으로 순종적인 성격을 가진 이 악적적인 초식동물들은 가축으로 키워진다.
 q_grayooze,utc,FirstName,0,그레이 오즈
@@ -3067,7 +3067,7 @@ item,uti,LocalizedName,0,자에르타의 노트
 item,uti,Description,0,"자에르타, 여기 서쪽에 있는 작은 엘프 순찰에 대한 소식을 들었습니다. 그 바보 할린오르가 이끄는 것입니다. 이 귀여운, 이 번거리는 우리를 한 번 더 해소하는 적절한 시간입니다. 나는 그의 머리를 오늘 밤 말까지 나에게 제공 할 것으로 기대합니다. 미스트레델에 대한 습격은 내일 아침 계획대로 진행됩니다. 그래서 늦지 않으려고 노력하십시오."
 item001,uti,LocalizedName,0,터발의 키
 item001,uti,DescIdentified,0,이 열쇠는 꺾인 탑의 2층으로 이르는 문을 열 수 있습니다.
-item002,uti,LocalizedName,0,베레그운드의 지하실 키
+item002,uti,LocalizedName,0,베레건드의 지하실 열쇠
 item002,uti,DescIdentified,0,이 열쇠는 베레그운드의 가게의 지하로 들어가는 문을 열어줍니다.
 item003,uti,LocalizedName,0,아나벨의 감방 열쇠
 item003,uti,DescIdentified,0,이 열쇠는 아나벨의 셀에 사용됩니다. 성 크라그 지하층에 있는 아나벨의 셀입니다.

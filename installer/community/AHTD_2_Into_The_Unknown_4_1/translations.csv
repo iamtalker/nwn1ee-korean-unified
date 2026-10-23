@@ -1014,7 +1014,7 @@ piwiewien_5,dlg,EntryList/6/Text,0,"""여러분이 군대를 데리고 서쪽으
 piwiewien_5,dlg,EntryList/7/Text,0,"<StartAction>[그녀의 분노를 억제할 수 거의 없다]</Start> ""그는... 무슨...? 그는 지역을 확보하는 명령을 받았어요..."
 piwiewien_5,dlg,EntryList/8/Text,0,이제 당신께 말씀 드리겠습니다. 당신은 군대를 이끌고 서쪽 통로를 확보해야 합니다. 그것은 gnome 세력에 의해 강하게 방어되어 있습니다. 그들을 물리치고 북쪽의 철문에 대한 어떤 단서도 찾아보세요. 필요하다면 휴식을 취한 후에 출발하십시오.
 piwiewien_5,dlg,ReplyList/0/Text,0,"""나의 여주인, 저는 감옥을 점검하고 있습니다."""
-piwiewien_5,dlg,ReplyList/1/Text,0,"""지하정글은 안전하다. 콤마더 라로미와 그의 남자들이 1층을 약탈하고 있었다."""
+piwiewien_5,dlg,ReplyList/1/Text,0,"""지하 감옥은 확보했습니다. 로미르 사령관과 그의 부하들이 1층을 약탈하는 걸 발견했습니다."""
 piwiewien_5,dlg,ReplyList/2/Text,0,"""나는 한 셀에서 드라이더 생물체를 발견했고, 그놈들은 그것을 연구하고 있었다."""
 piwiewien_5,dlg,ReplyList/3/Text,0,"""나는 모든 것을 철저히 확인했습니다. 동굴은 이제 비어 있습니다."""
 piwiewien_5,dlg,ReplyList/4/Text,0,"""그의 사람들이 1층을 약탈하고 있습니다. 아마 그는 그들과 함께 있을지도 모릅니다."""
@@ -2580,12 +2580,12 @@ outpostbasement,git,Creature List/14/Equip_ItemList/2/LocalizedName,0,방어의 
 outpostbasement,git,Creature List/14/Equip_ItemList/2/DescIdentified,0,"이 종류 의 스태프 는 미묘 한 마법사 들 에게 매우 필요 한 보호 를 제공한다. 각 예 를 따라 방어 수준 은 달라지지만, 모두 유용 하다. 대부분 은 사용 이 아닌 악명 을 위해 만들어진 특정 제작자 의 표지 를 가지고 있지 않다."
 outpostbasement,git,Creature List/14/Equip_ItemList/4/LocalizedName,0,하급 권능의 반지
 outpostbasement,git,Creature List/14/Equip_ItemList/4/DescIdentified,0,"마인세릴 로스트본 (Mynseril Lostbone) 은 마라르의 강력한 사제였으며, 많은 피의 싸움이나 전투를 즐겼지만, 그러한 전투가 너무 조기에 끝났다고 느꼈다. 마인세릴은 트롤의 재생 능력을 연구하면서 일반 전투장보다 재생 전사장에서 더 많은 엔터테인먼트 가치를 얻을 수 있다고 확신했다. 그래서 그는 여러 강력한 반지의 제작을 위탁했습니다. 반지가 완료되면, 그는 특히 악의적인 전사들에게 배포했습니다."
-outpostbasement,git,Encounter List/0/LocalizedName,0,스비르프네블린 전사
-outpostbasement,git,Encounter List/1/LocalizedName,0,스비르프네블린 전사
+outpostbasement,git,Encounter List/0/LocalizedName,0,스버프네블린 투사
+outpostbasement,git,Encounter List/1/LocalizedName,0,스버프네블린 투사
 outpostbasement,git,Encounter List/2/LocalizedName,0,스비르브네블린 환상사
-outpostbasement,git,Encounter List/3/LocalizedName,0,스비르프네블린 전사
-outpostbasement,git,Encounter List/4/LocalizedName,0,스비르프네블린 전사
-outpostbasement,git,Encounter List/5/LocalizedName,0,스비르프네블린 전사
+outpostbasement,git,Encounter List/3/LocalizedName,0,스버프네블린 투사
+outpostbasement,git,Encounter List/4/LocalizedName,0,스버프네블린 투사
+outpostbasement,git,Encounter List/5/LocalizedName,0,스버프네블린 투사
 outpostbasement,git,TriggerList/0/LocalizedName,0,뉴 에이리어 트랜지션
 outpostbasement,git,TriggerList/1/LocalizedName,0,수감소
 outpostbasement,git,WaypointList/0/LocalizedName,0,이정표
@@ -4256,7 +4256,7 @@ earth2,ute,LocalizedName,0,대지 2
 fighters,ute,LocalizedName,0,전사
 summonedearthele,ute,LocalizedName,0,소환된 대지 원소 정령
 svirvneblinillus,ute,LocalizedName,0,스비르브네블린 환상사
-svrifneblinfight,ute,LocalizedName,0,스비르프네블린 전사
+svrifneblinfight,ute,LocalizedName,0,스버프네블린 투사
 warcommander,ute,LocalizedName,0,전쟁 사령관
 arhe002,uti,LocalizedName,0,노움 투구
 arhe004,uti,LocalizedName,0,팔린의 투구
