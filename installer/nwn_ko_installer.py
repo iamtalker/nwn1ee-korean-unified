@@ -811,8 +811,10 @@ AUTOSWITCH_NOTICE = (
     "설치되는 파일\n"
     " - 이 기능은 [엔진·UI 한글 지원] 이 게임 폴더(Neverwinter Nights\\bin\\win32)에 설치하는 version.dll 안에 들어 있습니다.\n"
     "   원래 게임에는 이 파일이 없으며, 엔진을 [패치]하면 설치(교체)되고 [원복]하면 지워집니다. nwmain.exe 도 이미 한글 엔진 패치 대상입니다.\n"
-    " - 이 기능의 설정 파일(nwn_ko_autoswitch.txt)이 같은 폴더에 만들어집니다.\n\n"
+    " - 이 기능의 설정 파일(nwn_ko_autoswitch.txt, nwn_ko_autoswitch_skip.txt)이 같은 폴더에 만들어집니다.\n\n"
     "알아 둘 점\n"
+    " - 공식 모듈(Doom of Icewind Dale, Tyrants of the Moonsea 등)과 리소스 이름이 겹치는 파일(약 800개, 전체의 4%)은 링크를 만들지 않습니다.\n"
+    "   겹치는 이름을 깔아 두면 그 공식 모듈이 \"모듈을 로드할 수 없습니다\"로 열리지 않기 때문입니다. 대신 커뮤니티 캠페인의 그 파일들은 번역이 적용되지 않습니다.\n"
     " - 게임을 켤 때 5~10초 늦게 시작될 수 있습니다.\n"
     " - 자동 전환 기능 자체는 nwmain.exe 와 캠페인 파일을 바꾸지 않고, development 폴더의 파일 링크만 만들고 지웁니다.\n"
     " - 지금 번역본이 없는 캠페인 20개의 번역본을 미리 만드느라 처음에는 10~20분이 걸릴 수 있습니다.\n"
@@ -827,6 +829,69 @@ def autoswitch_enabled() -> bool:
         return False
 
 
+AUTOSWITCH_SKIP = BIN / "nwn_ko_autoswitch_skip.txt"   # 깔지 않을 이름 목록 (hook/autoswitch.c 가 읽는다)
+_ERF_EXT = {2002: "mdl", 2009: "ncs", 2010: "nss", 2012: "are", 2013: "set", 2014: "ifo", 2015: "bic", 2016: "wok",
+            2017: "2da", 2022: "txi", 2023: "git", 2025: "uti", 2027: "utc", 2029: "dlg", 2030: "itp", 2032: "utt",
+            2033: "dds", 2035: "uts", 2036: "ltr", 2037: "gff", 2038: "fac", 2040: "ute", 2042: "utd", 2044: "utp",
+            2045: "dft", 2046: "gic", 2047: "gui", 2051: "utm", 2052: "dwk", 2053: "pwk", 2056: "jrl", 2058: "utw",
+            2060: "ssf", 2064: "ndb", 2065: "ptm", 2066: "ptt"}
+
+
+def _erf_names(path) -> set:
+    """ERF 컨테이너(.nwm/.mod/.hak)의 리소스 이름 집합('이름.확장자', 소문자). 읽을 수 없으면 빈 집합."""
+    import struct
+    try:
+        with open(path, "rb") as f:
+            h = f.read(160)
+            if len(h) < 32:
+                return set()
+            cnt, koff = struct.unpack("<I", h[16:20])[0], struct.unpack("<I", h[24:28])[0]
+            f.seek(koff)
+            keys = f.read(24 * cnt)
+    except OSError:
+        return set()
+    out = set()
+    for i in range(len(keys) // 24):
+        r = keys[i * 24:(i + 1) * 24]
+        t = struct.unpack("<H", r[20:22])[0]
+        out.add(r[:16].split(b"\0")[0].decode("latin1").lower() + "." + _ERF_EXT.get(t, str(t)))
+    return out
+
+
+def write_autoswitch_skip(slugs) -> int:
+    """자동 전환이 development 에 깔 이름 중, 공식 모듈·hak 의 리소스 이름과 겹치는 것의 목록을 쓴다.
+
+    엔진은 development 의 파일 이름 목록을 시작할 때 정하는데, 그 목록에 공식 모듈(Doom of Icewind Dale,
+    Tyrants of the Moonsea 등)과 같은 이름(예: testarea.are)이 있으면 그 모듈이 자기 리소스 대신 development 의
+    파일을 찾다가 "모듈을 로드할 수 없습니다"로 실패한다(2026-10-25 확인). 겹치는 이름은 깔지 않는다.
+    반환: 목록에 쓴 이름 수.
+    """
+    seeds = set()
+    for slug in slugs:
+        d = DOCS / "ko_campaigns" / slug
+        try:
+            seeds.update(p.name.lower() for p in d.iterdir() if p.is_file() and p.name.lower() != "_complete.json")
+        except OSError:
+            pass
+    official = set()
+    for pat_dir, pat in ((GAME / "data" / "nwm", "*.nwm"), (GAME / "data" / "mod", "*.mod"), (HAK, "*.hak")):
+        try:
+            files = sorted(pat_dir.glob(pat))
+        except OSError:
+            files = []
+        for f in files:
+            official |= _erf_names(f)
+    hit = sorted(seeds & official)
+    if hit:
+        AUTOSWITCH_SKIP.write_text("\n".join(hit) + "\n", encoding="utf-8", newline="\n")
+    else:
+        try:
+            AUTOSWITCH_SKIP.unlink()
+        except OSError:
+            pass
+    return len(hit)
+
+
 def write_autoswitch_config(enabled=True) -> int:
     """설정 파일을 쓴다. 번역본이 만들어진 커뮤니티 캠페인만 포함. 반환: 포함한 캠페인 수"""
     import sqlite3
@@ -834,6 +899,7 @@ def write_autoswitch_config(enabled=True) -> int:
     db = nws / "nwsyncmeta.sqlite3"
     lines = [f"enabled={1 if enabled else 0}", f"dev={DEV}", f"lib={DOCS / 'ko_campaigns'}", f"logs={DOCS / 'logs'}"]
     n = 0
+    slugs = []
     if db.exists():
         meta = sqlite3.connect(str(db))
         for it in ITEMS.values():
@@ -842,8 +908,11 @@ def write_autoswitch_config(enabled=True) -> int:
                 row = meta.execute("select manifest_sha1 from manifest_metadata where module_name=?", (name,)).fetchone()
                 if row:
                     lines.append(f"map\t{row[0]}\t{it.slug}")
+                    slugs.append(it.slug)
                     n += 1
     AUTOSWITCH_CFG.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
+    if enabled:
+        write_autoswitch_skip(slugs)
     return n
 
 
@@ -947,10 +1016,11 @@ class AutoSwitch(Item):
             raise RuntimeError("번역본이 준비된 캠페인이 없습니다. 게임의 커뮤니티 탭에서 캠페인을 먼저 내려받으세요.")
 
     def restore(self):
-        try:
-            AUTOSWITCH_CFG.unlink()
-        except OSError:
-            pass
+        for f in (AUTOSWITCH_CFG, AUTOSWITCH_SKIP):
+            try:
+                f.unlink()
+            except OSError:
+                pass
         autoswitch_cleanup()
 
 

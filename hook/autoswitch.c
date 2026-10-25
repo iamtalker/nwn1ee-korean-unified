@@ -31,6 +31,8 @@ typedef struct {
     wchar_t** name;            /* 정렬된 소문자 이름 */
     unsigned char* has;        /* has[s * nname + i] */
     signed char* cur;          /* cur[i] = 현재 연결된 캠페인 번호, -1 = 없음 */
+    int nskip;                 /* 깔지 않을 이름 수(공식 모듈·hak 의 리소스 이름과 겹치는 것) */
+    wchar_t** skip;            /* 정렬된 소문자 이름 */
     int enabled;
     volatile LONG stop;
     HANDLE thread;
@@ -76,6 +78,24 @@ static int as_load_config(void) {
         }
     }
     fclose(f);
+    /* 공식 모듈과 이름이 겹치는 리소스 목록(한 줄에 하나, UTF-8). 이 이름이 development 에 있으면 엔진이
+     * 공식 모듈 자신의 같은 이름 리소스 대신 그 파일을 찾다가 모듈 로드에 실패한다. 없으면 아무것도 안 한다. */
+    FILE* sf = fopen("nwn_ko_autoswitch_skip.txt", "rb");
+    if (sf) {
+        int cap = 1024;
+        as_g.skip = (wchar_t**)malloc(cap * sizeof(wchar_t*));
+        while (fgets(line, sizeof(line), sf)) {
+            as_trim(line);
+            if (!line[0]) continue;
+            if (as_g.nskip == cap) { cap *= 2; as_g.skip = (wchar_t**)realloc(as_g.skip, cap * sizeof(wchar_t*)); }
+            wchar_t w[128];
+            as_utf8_to_w(line, w, 128);
+            for (wchar_t* p = w; *p; p++) *p = as_lower(*p);
+            as_g.skip[as_g.nskip++] = _wcsdup(w);
+        }
+        fclose(sf);
+        qsort(as_g.skip, as_g.nskip, sizeof(wchar_t*), as_cmp);
+    }
     return as_g.enabled && as_g.dev[0] && as_g.lib[0] && as_g.logs[0] && as_g.nslug > 0;
 }
 
@@ -137,6 +157,7 @@ static int as_scan(int s, wchar_t*** out) {
         if (n == cap) { cap *= 2; v = (wchar_t**)realloc(v, cap * sizeof(wchar_t*)); }
         wchar_t* d = _wcsdup(fd.cFileName);
         for (wchar_t* p = d; *p; p++) *p = as_lower(*p);
+        if (as_g.nskip && bsearch(&d, as_g.skip, as_g.nskip, sizeof(wchar_t*), as_cmp)) { free(d); continue; }
         v[n++] = d;
     } while (FindNextFileW(h, &fd));
     FindClose(h);
