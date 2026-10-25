@@ -5,7 +5,7 @@ static FARPROC real_fn(const char* name) {
     if (!real_ver) {
         char p[MAX_PATH];
         GetSystemDirectoryA(p, MAX_PATH);
-        strcat(p, "\version.dll");
+        strcat(p, "\\version.dll");  /* C 문자열에서 역슬래시는 두 개여야 한다(하나면  가 세로탭이 되어 진짜 version.dll 을 못 불러온다) */
         real_ver = LoadLibraryA(p);
     }
     return real_ver ? GetProcAddress(real_ver, name) : NULL;

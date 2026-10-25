@@ -482,27 +482,47 @@ static void write_log(const char* format, ...) {
 // nwmain 베이스 주소 찾기
 // ============================================================================
 
+// 지원하는 게임 빌드(8193.37)의 PE 헤더 값. 이 값이 다르면 하드코딩된 RVA 가 맞지 않으므로 아무것도 건드리지 않는다.
+#define NK_BUILD_TIMESTAMP   0x68e408bcu
+#define NK_BUILD_IMAGESIZE   0x1716000u
+
+// 이 이미지가 지원 빌드의 nwmain.exe 인지 PE 헤더로 확인한다.
+static BOOL verify_build(HMODULE m) {
+    const IMAGE_DOS_HEADER* dos = (const IMAGE_DOS_HEADER*)m;
+    if (!m || dos->e_magic != IMAGE_DOS_SIGNATURE) return FALSE;
+    const IMAGE_NT_HEADERS* nt = (const IMAGE_NT_HEADERS*)((const uint8_t*)m + dos->e_lfanew);
+    if (nt->Signature != IMAGE_NT_SIGNATURE) return FALSE;
+    return nt->FileHeader.TimeDateStamp == NK_BUILD_TIMESTAMP &&
+           nt->OptionalHeader.SizeOfImage == NK_BUILD_IMAGESIZE;
+}
+
+// rva 가 속한 구역(section)의 특성 플래그를 돌려준다(없으면 0).
+static DWORD section_flags_for_rva(HMODULE m, DWORD rva) {
+    const IMAGE_DOS_HEADER* dos = (const IMAGE_DOS_HEADER*)m;
+    const IMAGE_NT_HEADERS* nt = (const IMAGE_NT_HEADERS*)((const uint8_t*)m + dos->e_lfanew);
+    const IMAGE_SECTION_HEADER* sec = IMAGE_FIRST_SECTION(nt);
+    for (unsigned i = 0; i < nt->FileHeader.NumberOfSections; i++) {
+        DWORD sz = sec[i].Misc.VirtualSize ? sec[i].Misc.VirtualSize : sec[i].SizeOfRawData;
+        if (rva >= sec[i].VirtualAddress && rva < sec[i].VirtualAddress + sz) return sec[i].Characteristics;
+    }
+    return 0;
+}
+
+// 함수 포인터가 실제로 nwmain.exe 코드 영역(실행 가능 구역)을 가리키는지 확인한다.
+static BOOL ptr_in_engine_code(HMODULE m, const void* p) {
+    uintptr_t base = (uintptr_t)m, v = (uintptr_t)p;
+    if (v < base || v - base >= NK_BUILD_IMAGESIZE) return FALSE;
+    return (section_flags_for_rva(m, (DWORD)(v - base)) & IMAGE_SCN_MEM_EXECUTE) != 0;
+}
+
+// 이 프로세스의 실행 파일이 nwmain.exe 일 때만 그 베이스 주소를 돌려준다.
+// (EnumProcessModules 로 모듈을 훑지 않고 로더 락 안에서도 안전한 GetModuleHandle 만 쓴다)
 static HMODULE find_nwmain_base(void) {
-    // 현재 프로세스의 모든 모듈 순회
-    HMODULE modules[1024];
-    DWORD needed;
-
-    if (!EnumProcessModules(GetCurrentProcess(), modules, sizeof(modules), &needed)) {
-        return NULL;
-    }
-
-    int count = needed / sizeof(HMODULE);
-    for (int i = 0; i < count; i++) {
-        char name[MAX_PATH];
-        if (GetModuleFileNameA(modules[i], name, sizeof(name))) {
-            // nwmain.exe 찾기
-            if (strstr(name, "nwmain.exe")) {
-                return modules[i];
-            }
-        }
-    }
-
-    return NULL;
+    HMODULE m = GetModuleHandleA(NULL);
+    char name[MAX_PATH];
+    if (!m || !GetModuleFileNameA(m, name, sizeof(name))) return NULL;
+    for (char* c = name; *c; c++) if (*c >= 'A' && *c <= 'Z') *c += 32;
+    return strstr(name, "nwmain.exe") ? m : NULL;
 }
 
 // ============================================================================
@@ -733,8 +753,8 @@ static BOOL install_bake_hook(void) {
     write_log("[Hook] Function pointer at: %p (RVA 0x%08x)\n", func_ptr, AUR_GET_TTF_TEXTURE_PTR_RVA);
     write_log("[Hook] Current value: %p\n", *func_ptr);
 
-    // 함수 포인터가 아직 초기화되지 않았는지 확인
-    if (*func_ptr == NULL || (uintptr_t)(*func_ptr) < 0x140000000) {
+    // 함수 포인터가 아직 초기화되지 않았는지 확인 (엔진 코드 영역을 가리켜야 유효)
+    if (*func_ptr == NULL || !ptr_in_engine_code(nwmain_base, *func_ptr)) {
         write_log("[Hook] WARNING: Function pointer not initialized yet, will retry later\n");
         return FALSE;
     }
@@ -778,7 +798,7 @@ static DWORD WINAPI bake_hook_thread(LPVOID param) {
         // 함수 포인터가 초기화되었는지 확인
         void** func_ptr = (void**)((uintptr_t)nwmain_base + AUR_GET_TTF_TEXTURE_PTR_RVA);
 
-        if (*func_ptr && (uintptr_t)(*func_ptr) >= 0x140000000) {
+        if (*func_ptr && ptr_in_engine_code(nwmain_base, *func_ptr)) {
             // 유효한 함수 포인터 발견!
             if (install_bake_hook()) {
                 write_log("[Bake Thread] SUCCESS! Hook installed after %d attempts\n", attempts);
@@ -2131,7 +2151,6 @@ static BOOL install_nk_pair_hooks(void) {
 #include "autoswitch.c"   /* 커뮤니티 캠페인 번역 자동 전환 (설정 파일이 있을 때만 동작) */
 
 BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
-    (void)hinstDLL;
     (void)lpvReserved;
 
     if (fdwReason == DLL_PROCESS_ATTACH) {
@@ -2154,11 +2173,24 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
         // nwmain.exe 베이스 주소 찾기
         nwmain_base = find_nwmain_base();
         if (!nwmain_base) {
-            write_log("[Hook] ERROR: Could not find nwmain.exe\n");
-            return FALSE;
+            /* nwmain.exe 가 아니면(툴셋·서버 등) 프록시 역할만 하고 아무것도 건드리지 않는다.
+               예전에는 여기서 FALSE 를 돌려 DLL 로드 자체를 실패시켰다. */
+            write_log("[Hook] Not nwmain.exe - hooks skipped\n");
+            return TRUE;
         }
-
         write_log("[Hook] nwmain.exe base: %p\n", nwmain_base);
+        if (!verify_build(nwmain_base)) {
+            /* 지원 빌드가 아니면 하드코딩된 주소를 믿을 수 없으므로 후킹하지 않는다(한글만 깨지고 게임은 정상 실행). */
+            write_log("[Hook] Unsupported nwmain.exe build (PE header mismatch) - hooks skipped\n");
+            nwmain_base = NULL;
+            return TRUE;
+        }
+        if (!(section_flags_for_rva(nwmain_base, AUR_GET_TTF_TEXTURE_PTR_RVA) & IMAGE_SCN_MEM_WRITE)) {
+            write_log("[Hook] Bake pointer RVA is not in a writable section - hooks skipped\n");
+            nwmain_base = NULL;
+            return TRUE;
+        }
+        DisableThreadLibraryCalls(hinstDLL);
 
         // Phase 2: 함수 포인터 후킹 시도
         if (!install_bake_hook()) {
