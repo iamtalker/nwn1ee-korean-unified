@@ -788,8 +788,9 @@ static DWORD WINAPI bake_hook_thread(LPVOID param) {
 
     write_log("[Bake Thread] Started polling for function pointer initialization...\n");
 
-    // 최대 30초 대기 (100ms 간격)
-    for (int attempts = 0; attempts < 300; attempts++) {
+    // 최대 10분 대기 (100ms 간격). 첫 실행의 셰이더 생성·Steam 확인이 길어지면
+    // 함수 포인터가 늦게 채워지는데, 30초로는 모자라 한글이 안 나올 수 있었다.
+    for (int attempts = 0; attempts < 6000; attempts++) {
         if (bake_hook_active) {
             write_log("[Bake Thread] Hook already active, exiting\n");
             return 0;
@@ -808,7 +809,7 @@ static DWORD WINAPI bake_hook_thread(LPVOID param) {
 
         Sleep(100);
 
-        if (attempts % 50 == 0 && attempts > 0) {
+        if (attempts % 600 == 0 && attempts > 0) {
             write_log("[Bake Thread] Still waiting... attempt %d\n", attempts);
         }
     }

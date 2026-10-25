@@ -89,7 +89,7 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 - 게임의 "Find more content!"로 새 캠페인을 내려받으면, 설치 프로그램 목록 맨 아래 **"번역 없음"** 묶음에 이름이 표시됩니다(번역은 개발자가 따로 만들어야 합니다). 커뮤니티 목록은 알파벳순입니다.
 - 게임 내 동작은 아직 충분히 검증되지 않았습니다. 문제가 있으면 [원복] 후 알려 주세요.
 
-## 지금까지의 진행 기록 (2026-10-25 기준, v0.2.42)
+## 지금까지의 진행 기록 (2026-10-25 기준, v0.2.43)
 
 번역은 4단계로 만들었습니다: ① 기계번역(NLLB, CPU) → ② 로컬 LLM(Qwen2.5-7B) 감수 → ③ 자동 규칙 검사와 표본 판정 → ④ **3차 감수**(v0.2.3\~): 의심 문장을 걸러 사람이(Claude 가) 직접 읽고 고침. 방법은 [번역 방법서](https://github.com/iamtalker/game-translation-pipeline)에 정리했습니다.
 
@@ -110,6 +110,7 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 | v0.2.40 | 설치 프로그램을 켤 때 자동 전환이 꺼진 상태로 남은 `development` 링크를 자동 정리 | 남은 링크가 일부 프리미엄 캠페인(Furiae, Wyvern Crown, Infinite Dungeons)을 "모듈 손상"으로 만들던 문제 |
 | v0.2.41 | 설치 프로그램이 GitHub 의 새 릴리스를 확인해 알려 줌, [원복]이 백업 없는 게임 원본 모듈을 지우지 않게 보강 | 최신 버전을 쓰고 있는지 알기 어려웠고, 한 PC 에서 전체 원복 뒤 게임 모듈이 사라진 것처럼 보인 일(원인은 미확인, 예방 조치) |
 | v0.2.42 | `version.dll` 을 같은 소스로 다시 빌드해 교체(소스 변경 없음) | Windows Defender 가 이전 파일을 `Trojan:Script/Wacatac.C!ml`(머신러닝 일반 판정)로 잡은 일. 새 빌드는 한 PC 의 Defender 검사를 통과했고 다른 PC 에서는 확인하지 못함 |
+| v0.2.43 | 한글 후킹을 기다리는 시간을 약 30초에서 약 10분으로 늘림 | 첫 실행에서 셰이더 생성이나 Steam 확인이 길어지면 엔진 함수 준비가 늦어져 후킹이 시간 초과로 실패하고 한글이 안 나올 수 있어서(다른 한글 후킹 소스를 읽다가 알게 된 것으로, 이 PC 에서 겪은 문제는 아님) |
 
 버전마다 무엇을 왜 바꿨는지는 [Releases](../../releases) 노트에 적었습니다.
 
