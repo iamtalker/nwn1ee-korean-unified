@@ -1,24 +1,30 @@
+/* 시스템 version.dll 의 내보내기 17개를 전부 진짜 함수로 넘겨 주는 프록시.
+ * 게임 폴더의 version.dll 이 먼저 로드되면, 같은 프로세스의 다른 모듈(예: 그래픽 드라이버)이
+ * version.dll 의 다른 함수를 가져다 쓸 때도 같은 파일을 보게 되므로 빠진 함수가 없어야 한다. */
 #include <windows.h>
-#include <string.h>
-static HMODULE real_ver;
-static FARPROC real_fn(const char* name) {
-    if (!real_ver) {
-        char p[MAX_PATH];
-        GetSystemDirectoryA(p, MAX_PATH);
-        strcat(p, "\\version.dll");  /* C 문자열에서 역슬래시는 두 개여야 한다(하나면  가 세로탭이 되어 진짜 version.dll 을 못 불러온다) */
-        real_ver = LoadLibraryA(p);
-    }
-    return real_ver ? GetProcAddress(real_ver, name) : NULL;
-}
-__declspec(dllexport) BOOL WINAPI GetFileVersionInfoA(LPCSTR f, DWORD h, DWORD l, LPVOID d) {
-    BOOL (WINAPI *fn)(LPCSTR, DWORD, DWORD, LPVOID) = (void*)real_fn("GetFileVersionInfoA");
-    return fn ? fn(f, h, l, d) : FALSE;
-}
-__declspec(dllexport) DWORD WINAPI GetFileVersionInfoSizeA(LPCSTR f, LPDWORD h) {
-    DWORD (WINAPI *fn)(LPCSTR, LPDWORD) = (void*)real_fn("GetFileVersionInfoSizeA");
-    return fn ? fn(f, h) : 0;
-}
-__declspec(dllexport) BOOL WINAPI VerQueryValueA(LPCVOID b, LPCSTR s, LPVOID* p, PUINT l) {
-    BOOL (WINAPI *fn)(LPCVOID, LPCSTR, LPVOID*, PUINT) = (void*)real_fn("VerQueryValueA");
-    return fn ? fn(b, s, p, l) : FALSE;
+
+#define FN_LIST(X) \
+    X(GetFileVersionInfoA) X(GetFileVersionInfoByHandle) X(GetFileVersionInfoExA) \
+    X(GetFileVersionInfoExW) X(GetFileVersionInfoSizeA) X(GetFileVersionInfoSizeExA) \
+    X(GetFileVersionInfoSizeExW) X(GetFileVersionInfoSizeW) X(GetFileVersionInfoW) \
+    X(VerFindFileA) X(VerFindFileW) X(VerInstallFileA) X(VerInstallFileW) \
+    X(VerLanguageNameA) X(VerLanguageNameW) X(VerQueryValueA) X(VerQueryValueW)
+
+#define DECL_PTR(n) FARPROC pfn_##n;
+FN_LIST(DECL_PTR)
+
+/* 각 함수는 진짜 함수 주소로 그냥 점프한다(인자·반환을 건드리지 않음) */
+#define DEF_STUB(n) __asm__(".text\n.globl " #n "\n" #n ":\n\tjmp *pfn_" #n "(%rip)\n");
+FN_LIST(DEF_STUB)
+
+#define LOAD_PTR(n) pfn_##n = GetProcAddress(h, #n);
+
+__attribute__((constructor)) static void proxy_init(void) {
+    wchar_t p[MAX_PATH];
+    UINT n = GetSystemDirectoryW(p, MAX_PATH);
+    if (n == 0 || n > MAX_PATH - 16) return;
+    lstrcatW(p, L"\\version.dll");
+    HMODULE h = LoadLibraryW(p);
+    if (!h) return;
+    FN_LIST(LOAD_PTR)
 }
