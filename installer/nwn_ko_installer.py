@@ -153,12 +153,15 @@ def put_bytes(data: bytes, dst: Path):
     dst.write_bytes(data)
 
 
-def unput(dst: Path):
+def unput(dst: Path, keep_original=False):
+    """설치한 파일을 되돌린다. 백업(.orig)이 있으면 그것으로 되돌리고, 없으면 설치 프로그램이 새로 만든 파일이니 지운다.
+    keep_original=True 는 dst 가 원래 게임에 있던 파일(게임 모듈 등)일 때 쓴다: 백업이 없으면 지우지 않고 그대로 둔다
+    (백업이 없는 원본을 지워 버리면 게임 파일을 잃기 때문)."""
     bak = bak_of(dst)
     if bak.exists():
         shutil.copy2(bak, dst)
         bak.unlink()
-    elif dst.exists():
+    elif dst.exists() and not keep_original:
         dst.unlink()
 
 
@@ -538,7 +541,7 @@ class BuiltMod(Item):
             self._marker().write_text(json.dumps({"haks": placed, "stamp": stamp}, ensure_ascii=False), encoding="utf-8")
 
     def restore(self):
-        unput(self.dst)
+        unput(self.dst, keep_original=True)   # 게임 원본 모듈: 백업이 없으면 지우지 않는다
         try:
             for f in json.loads(self._marker().read_text(encoding="utf-8")).get("haks", []):
                 unput_dev(Path(f))             # 번역 HAK 와 예전 .orig 를 함께 삭제
@@ -1051,6 +1054,36 @@ def register_unsupported():
 
 
 # ----------------------------------------------------------------- GUI
+RELEASES_API = "https://api.github.com/repos/iamtalker/nwn1ee-korean-unified/releases/latest"
+
+
+def _ver_tuple(v):
+    import re as _re
+    return tuple(int(x) for x in _re.findall(r"\d+", v or "")[:4])
+
+
+def latest_release(timeout=6):
+    """GitHub 의 최신 릴리스 (태그, 주소). 네트워크 오류 등으로 못 가져오면 None. 읽기 요청 한 번뿐이며 아무 정보도 보내지 않는다."""
+    try:
+        req = urllib.request.Request(RELEASES_API, headers={"User-Agent": "nwn1ee-korean-installer", "Accept": "application/vnd.github+json"})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            d = json.loads(r.read().decode("utf-8"))
+        return d.get("tag_name") or "", d.get("html_url") or ""
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def newer_release_available():
+    """지금 설치 프로그램보다 새 릴리스가 있으면 (태그, 주소), 아니면 None (개발판이거나 확인 실패도 None)."""
+    cur = _ver_tuple(VERSION)
+    if not cur:
+        return None
+    r = latest_release()
+    if not r or not r[0]:
+        return None
+    return r if _ver_tuple(r[0]) > cur else None
+
+
 def run_gui():
     import tkinter as tk
     from tkinter import filedialog, messagebox, ttk
@@ -1104,6 +1137,11 @@ def run_gui():
             ttk.Label(head, text=f"통합 한글패치 {VERSION}", font=("", 11, "bold")).pack(anchor="w")
             ttk.Label(head, text=f"게임 경로: {GAME}", foreground="#666").pack(anchor="w")
             ttk.Label(head, text=f"문서 경로: {DOCS}", foreground="#666").pack(anchor="w")
+            self.upd = ttk.Label(head, text="", foreground="#c60", cursor="hand2", font=("", 10, "bold"))
+            self.upd.pack(anchor="w")
+            self._upd_res = []
+            threading.Thread(target=lambda: self._upd_res.append(newer_release_available()), daemon=True).start()
+            self.after(1500, lambda: self._poll_update(0))
 
             bar = ttk.Frame(self, padding=10)
             bar.pack(side="bottom", fill="x")
@@ -1274,6 +1312,18 @@ def run_gui():
                     jobs.append((it, patch))
             self._run_jobs([(it, True) if isinstance(it, _Call) else (it, p) for it, p in jobs])
 
+        def _poll_update(self, n):
+            """백그라운드 확인 결과를 기다렸다가, 새 릴리스가 있으면 머리글 아래에 안내한다(클릭하면 릴리스 페이지가 열림)."""
+            if not self._upd_res:
+                if n < 10:
+                    self.after(1000, lambda: self._poll_update(n + 1))
+                return
+            r = self._upd_res[0]
+            if r:
+                import webbrowser
+                self.upd.configure(text=f"새 버전 {r[0]} 이(가) 있습니다 (지금 {VERSION}). 여기를 누르면 내려받는 페이지가 열립니다.")
+                self.upd.bind("<Button-1>", lambda e: webbrowser.open(r[1]))
+
         def all_patch(self):
             self._each(True)
 
@@ -1288,6 +1338,13 @@ def main():
     STALE_CLEANED = cleanup_stale_autoswitch_links()
     if STALE_CLEANED:
         print(f"[정리] 남아 있던 자동 전환 링크 {STALE_CLEANED}개를 지웠습니다.")
+    if "--check-update" in sys.argv:
+        r = latest_release()
+        if not r:
+            print("최신 릴리스를 확인하지 못했습니다(네트워크 오류 등). 지금 버전:", VERSION)
+        else:
+            print("지금 버전:", VERSION, "| 최신 릴리스:", r[0], r[1], "|", "새 버전이 있습니다" if _ver_tuple(r[0]) > _ver_tuple(VERSION) else "최신입니다")
+        return
     if "--list" in sys.argv:
         register_unsupported()
         print("GAME:", GAME, "\nDOCS:", DOCS)
