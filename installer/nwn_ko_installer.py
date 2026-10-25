@@ -863,6 +863,49 @@ def autoswitch_cleanup():
     return n
 
 
+def _game_running() -> bool:
+    """nwmain.exe 가 실행 중인지 (실행 중에는 자동 전환이 링크를 직접 관리하므로 건드리지 않는다)."""
+    try:
+        out = subprocess.run(["tasklist", "/FI", "IMAGENAME eq nwmain.exe"], capture_output=True, timeout=15).stdout
+        return b"nwmain.exe" in out.lower()
+    except Exception:  # noqa: BLE001
+        return True   # 확인할 수 없으면 안전하게 건드리지 않는다
+
+
+STALE_CLEANED = 0   # 이번 실행 시작 때 정리한 잔여 링크 수 (GUI 안내용)
+
+
+def cleanup_stale_autoswitch_links() -> int:
+    """자동 전환이 꺼져 있는데 development 에 예전 자동 전환 링크가 남아 있으면 지운다.
+
+    자동 전환을 끄거나 게임이 비정상 종료돼 링크가 남으면(설정 파일이 없어 게임이 켜져도 정리하지 않음)
+    같은 이름의 프리미엄 모듈 파일을 덮어써 "모듈 손상" 오류가 난다. 그래서 설치 프로그램을 켤 때마다 점검한다.
+    안전장치: ① 자동 전환이 켜져 있으면 DLL 이 관리하므로 건드리지 않고, ② 게임이 실행 중이면 건드리지 않으며,
+    ③ 상태 파일(_dll_seed.txt)에 적힌 이름 중 하드링크(링크 수 2 이상)인 것만 지운다(복사본은 지우지 않음).
+    """
+    sp = DOCS / "ko_campaigns" / "_dll_seed.txt"
+    try:
+        if autoswitch_enabled() or not sp.exists() or _game_running():
+            return 0
+        names = [x.strip() for x in sp.read_text(encoding="utf-8").splitlines() if x.strip()]
+    except OSError:
+        return 0
+    n = 0
+    for name in names:
+        f = DEV / name
+        try:
+            if f.is_file() and os.stat(f).st_nlink > 1:
+                f.unlink()
+                n += 1
+        except OSError:
+            pass
+    try:
+        sp.unlink()
+    except OSError:
+        pass
+    return n
+
+
 class AutoSwitch(Item):
     """게임을 켜면 version.dll 이 캠페인을 열 때 그 캠페인의 번역을 자동으로 연결한다 (선택 기능, 사전 고지 후 켠다)."""
 
@@ -1011,6 +1054,12 @@ def register_unsupported():
 def run_gui():
     import tkinter as tk
     from tkinter import filedialog, messagebox, ttk
+
+    if STALE_CLEANED:
+        _r = tk.Tk()
+        _r.withdraw()
+        messagebox.showinfo("정리했습니다", f"자동 전환이 꺼져 있는데 예전에 만든 링크가 {STALE_CLEANED}개 남아 있어 지웠습니다."+chr(10)+"(남아 있으면 일부 프리미엄 캠페인이 '모듈 손상' 오류를 낼 수 있습니다.)")
+        _r.destroy()
 
     # 게임 폴더를 자동으로 못 찾았으면 폴더 선택 창을 띄우고, 고른 경로를 기억한 뒤 다시 시작한다.
     if not (GAME / "bin" / "win32" / "nwmain.exe").exists():
@@ -1235,6 +1284,10 @@ def run_gui():
 
 
 def main():
+    global STALE_CLEANED
+    STALE_CLEANED = cleanup_stale_autoswitch_links()
+    if STALE_CLEANED:
+        print(f"[정리] 남아 있던 자동 전환 링크 {STALE_CLEANED}개를 지웠습니다.")
     if "--list" in sys.argv:
         register_unsupported()
         print("GAME:", GAME, "\nDOCS:", DOCS)
