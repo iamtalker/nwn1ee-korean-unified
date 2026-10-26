@@ -180,7 +180,7 @@ ashimar_1,dlg,ReplyList/10/Text,0,"""그곳으로 가는 방법을 알려 주실
 ashimar_1,dlg,ReplyList/11/Text,0,"""아쉽군. 다른 길이 있나?"""
 cedric_2,dlg,EntryList/0/Text,0,"<StartAction>[貪 ]</Start> ""그들은 죽었어 이제 그들의 보물을 가져가자!"""
 cedric_2,dlg,EntryList/1/Text,0,"""어둠의 거주자여, 한 가지 질문을 드리려고 한다. 우리는 모험가이며, 항상 보물을 찾고 있다. 당신이 어떤 곳에서 얻을 수 있는지 아는가?"""
-cedric_2,dlg,EntryList/2/Text,0,"""잘못해 이해해, 우리는 좋은 쪽이야. 아마 그럴 거야, 근처에 악한 오크 무리가 있을지도 몰라."""
+cedric_2,dlg,EntryList/2/Text,0,"""오해하지 마, 우리는 선한 편이야. 근처에 사악한 오크 부족이 있다거나 그런 식이지."""
 cedric_2,dlg,EntryList/3/Text,0,"<StartAction>[탐욕스러운 눈빛]</Start> ""무슨 일이야...?"""
 cedric_2,dlg,EntryList/4/Text,0,"""그들의 둥지에 대해 말해줄 수 있어?"""
 cedric_2,dlg,EntryList/5/Text,0,"<StartAction>[만고한 미소]</Start> ""정말 좋네요. 우리는 이 위협을 종식시켰습니다. 친구들, 남쪽으로 가자."""
@@ -192,7 +192,7 @@ cedric_2,dlg,ReplyList/4/Text,0,"""그들은 많은 상인단의 물품을 축�
 dras_1,dlg,EntryList/0/Text,0,"""네, 악당들은 죽었어. 이제 그들의 보물에 대해 봐볼까."""
 dras_1,dlg,EntryList/2/Text,0,"""당신은 석탄처럼 검은색입니다. 당신은 좋은 사람입니까 아니면 나쁜 사람입니까?"""
 dras_1,dlg,EntryList/3/Text,0,"""무슨?"""
-dras_1,dlg,EntryList/4/Text,0,"""우리는 좋은 쪽이야. 네가 누구를 보았는지 보았나?"""
+dras_1,dlg,EntryList/4/Text,0,"""우린 선한 편이야. 혹시 누군가를..."""
 dras_1,dlg,ReplyList/0/Text,0,"""나는 당신의 빛을 보고 이 동굴을 통과했다."""
 dras_1,dlg,ReplyList/1/Text,0,"""양과 악은 관점에 따라 상대적입니다. 여러분의 정체성은 무엇입니까?"""
 dras_1,dlg,ReplyList/2/Text,0,"""당신은 선한가요 아니면 악한가요?"""
@@ -288,23 +288,23 @@ drow_mis1_fin,dlg,EntryList/8/Text,0,우린 위험에 처해 있고 지휘관도
 drow_mis1_fin,dlg,EntryList/9/Text,0,"완전히 명확해, 지휘관."
 drow_mis1_fin,dlg,EntryList/10/Text,0,우린 위험에 처해 있고 지휘관도 캠프에 보고해
 drow_mis1_fin,dlg,EntryList/11/Text,0,"완전히 명확해, 지휘관."
-drow_mis1_fin,dlg,ReplyList/0/Text,0,이 지역에 아직 몇몇이 남아 있을 수도 있어. 이 동굴을 지키고 있을게. 나는 리더에게 보고할게.
+drow_mis1_fin,dlg,ReplyList/0/Text,0,이 지역에 아직 그들이 몇몇 남아 있을지도 모른다. 남아서 이 동굴을 경비해라. 내가 가서 우리 지도자에게 보고하겠다.
 drow_mis1_fin,dlg,ReplyList/1/Text,0,네가 말한 걸 잊을 거야 하지만 내가 경고하네 네가 나를 실망시키면 후회할 거야
 drow_mis1_fin,dlg,ReplyList/2/Text,0,"내 명령에 의문을 제기하지 마, 놈. 내가 말하는 대로 해. 나를 실패시키려 해도 생각하지 마. 내가 분명히 했나?"
 drow_mis1_fin,dlg,ReplyList/3/Text,0,"좋아, 해고"
-drow_mis1_fin,dlg,ReplyList/4/Text,0,이 지역에 아직 몇몇이 남아 있을 수도 있어. 이 동굴을 지키고 있을게. 나는 리더에게 보고할게.
+drow_mis1_fin,dlg,ReplyList/4/Text,0,이 지역에 아직 그들이 몇몇 남아 있을지도 모른다. 남아서 이 동굴을 경비해라. 내가 가서 우리 지도자에게 보고하겠다.
 drow_mis1_fin,dlg,ReplyList/5/Text,0,네가 말한 걸 잊을 거야 하지만 내가 경고하네 네가 나를 실망시키면 후회할 거야
 drow_mis1_fin,dlg,ReplyList/6/Text,0,"내 명령에 의문을 제기하지 마, 놈. 내가 말하는 대로 해. 나를 실패시키려 해도 생각하지 마. 내가 분명히 했나?"
 drow_mis1_fin,dlg,ReplyList/7/Text,0,"좋아, 해고"
-drow_mis1_fin,dlg,ReplyList/8/Text,0,이 지역에 아직 몇몇이 남아 있을 수도 있어. 이 동굴을 지키고 있을게. 나는 리더에게 보고할게.
+drow_mis1_fin,dlg,ReplyList/8/Text,0,이 지역에 아직 그들이 몇몇 남아 있을지도 모른다. 남아서 이 동굴을 경비해라. 내가 가서 우리 지도자에게 보고하겠다.
 drow_mis1_fin,dlg,ReplyList/9/Text,0,"당신이 말한 것을 잊을 것이지만, 경고합니다. 만약 당신이 제게 실패한다면, 그 결과는 당신에게 매우 아쉬운 경험이 될 것입니다. 중위 알'크란알?"
 drow_mis1_fin,dlg,ReplyList/10/Text,0,"내 명령에 의문을 제기하지 마, 놈. 내가 말하는 대로 해. 나를 실패시키려 해도 생각하지 마. 내가 분명히 했나?"
 drow_mis1_fin,dlg,ReplyList/11/Text,0,"잘 됐어, 중위 알크란알?!"
-drow_mis1_fin,dlg,ReplyList/12/Text,0,이 지역에 아직 몇몇이 남아 있을 수도 있어. 이 동굴을 지키고 있을게. 나는 리더에게 보고할게.
-drow_mis1_fin,dlg,ReplyList/13/Text,0,"내가 당신이 말한 것을 잊을 것이지만, 경고합니다. 만약 당신이 나를 실망시키면, 당신은 매우 후회할 것입니다."
+drow_mis1_fin,dlg,ReplyList/12/Text,0,이 지역에 아직 그들이 몇몇 남아 있을지도 모른다. 남아서 이 동굴을 경비해라. 내가 가서 우리 지도자에게 보고하겠다.
+drow_mis1_fin,dlg,ReplyList/13/Text,0,"네가 한 말은 잊어주겠다만, 경고해 두지. 나를 실망시키면 뼈저리게 후회하게 될 것이다. 넬래드 중위?!"
 drow_mis1_fin,dlg,ReplyList/14/Text,0,"내 명령에 의문을 제기하지 마, 놈. 내가 말하는 대로 해. 나를 실패시키려 해도 생각하지 마. 내가 분명히 했나?"
 drow_mis1_fin,dlg,ReplyList/15/Text,0,네라드 중위?
-drow_mis1_fin,dlg,ReplyList/16/Text,0,이 지역에 아직 몇몇이 남아 있을 수도 있어. 이 동굴을 지키고 있을게. 나는 리더에게 보고할게.
+drow_mis1_fin,dlg,ReplyList/16/Text,0,이 지역에 아직 그들이 몇몇 남아 있을지도 모른다. 남아서 이 동굴을 경비해라. 내가 가서 우리 지도자에게 보고하겠다.
 drow_mis1_fin,dlg,ReplyList/17/Text,0,네가 말한 걸 잊을 거야 하지만 내가 경고하네 네가 나를 실망시키면 후회할 거야
 drow_mis1_fin,dlg,ReplyList/18/Text,0,"내 명령에 의문을 제기하지 마, 놈. 내가 말하는 대로 해. 나를 실패시키려 해도 생각하지 마. 내가 분명히 했나?"
 drow_mis1_fin,dlg,ReplyList/19/Text,0,"좋아, 해고"
@@ -336,7 +336,7 @@ hanxam_1,dlg,EntryList/3/Text,0,"""남쪽 동굴을 확인해 보세요. 다른 
 hanxam_1,dlg,EntryList/4/Text,0,"""그놈을 본 적이 없어. 전투장에서 찾았나?"""
 hanxam_1,dlg,EntryList/5/Text,0,"""트레이웨이를 따라가면 뼈가 널려 있는 넓은 지역을 발견할 수 있으며, 이 곳은 드루와 그들의 적들 간의 마지막 전투가 벌어진 장소이다."""
 hanxam_1,dlg,EntryList/6/Text,0,"""나는 그곳에 한번도 가 본 적이 없어. 하지만 svirfneblin은 비용을 아끼지 않고 피한다. 이것만이 내가 아는 것이야. 다른 것은 아무것도 없어?"""
-hanxam_1,dlg,EntryList/7/Text,0,"<StartAction>[ 지루하게 되는 것]</Start>#""불더크의 일반적인 혼합물"""
+hanxam_1,dlg,EntryList/7/Text,0,"<StartAction>[지루해하며]</Start> ""언더다크의 평범한 잡탕이지."""
 hanxam_1,dlg,EntryList/8/Text,0,"<StartAction>[Sighs]</Start> ""내 숨기는 곳의 서쪽에는 움버 헐크 유적이 있습니다. 남쪽에 건조꾼들이 있고, 스윙프네블린들은 이 동굴들을 일종의 무역도로로 사용하고 있어요""."
 hanxam_1,dlg,EntryList/9/Text,0,"""너 돌아왔구나. 그 지저분한 미지개미의 뇌를 가져왔니?"""
 hanxam_1,dlg,EntryList/10/Text,0,마인드 플레이어와의 싸움이 끝나면 돌아와라.
@@ -367,7 +367,7 @@ hanxam_1,dlg,EntryList/34/Text,0,"""마인드프레이더는 언더다크 가장
 hanxam_1,dlg,EntryList/35/Text,0,"""그는 은밀한 통로 뒤에 자신의 동굴을 숨겼습니다. 드라이더 동굴의 큰 교차로로 돌아가 동쪽의 동굴을 찾아보세요. 이 동굴의 북쪽 벽에 두 개의 빛나는 버섯을 보게 될 것입니다. 그들을 조사하면 통로를 찾을 수 있습니다."""
 hanxam_1,dlg,EntryList/36/Text,0,"""시간을 좀 좀 좀 좀 좀 좀 좀 기다려"""
 hanxam_1,dlg,EntryList/37/Text,0,"""나는 비홀더이다. 우리는 표면 세계의 가장 중요한 부분을 통제한다."""
-hanxam_1,dlg,EntryList/38/Text,0,"<StartAction>[웃음]</Start>#""우리는 몰래와 속임수로 행동한다""."
+hanxam_1,dlg,EntryList/38/Text,0,"<StartAction>[미소 짓는다]</Start> ""우리는 은밀함과 교활함으로 움직이지."""
 hanxam_1,dlg,ReplyList/0/Text,0,"""이 지역에 대해 좀 더 자세히 말해봐."""
 hanxam_1,dlg,ReplyList/1/Text,0,"""나는 지금 가야 합니다."""
 hanxam_1,dlg,ReplyList/2/Text,0,"""저는 드로우 마법사 시우럼을 찾고 있습니다. 그분에 대해 들은 것이 있나요?"""
@@ -487,7 +487,7 @@ illithid_1,dlg,ReplyList/81/Text,0,"""그건 내가 알아보도록 하겠어.""
 illithid_1,dlg,ReplyList/82/Text,0,"""내가 예방 조치를 취해 왔어. 당신은 자신의 종들처럼 내 마음을 조작하지 못할 거야."""
 illithid_1,dlg,ReplyList/83/Text,0,"""너는 내 머릿속에 있지! 생명체야, 이게 뭐야?"""
 lich_1,dlg,EntryList/0/Text,0,"""다시 뭘 원하나?"""
-lich_1,dlg,EntryList/1/Text,0,"""기이한데, 아마 그럴 거야. 이 가스가 적들과 관련이 있을지도 몰라. 네가 가스를 해산시킨 적이 있나?"""
+lich_1,dlg,EntryList/1/Text,0,"""흥미롭군. 어쩌면 우리의 적들과 관련이 있을지도 몰라. 가스를 없애보려고 했나?"""
 lich_1,dlg,EntryList/2/Text,0,"""그건 나쁘다. 너도 여기 갇혀 있는 것 같다."""
 lich_1,dlg,EntryList/3/Text,0,"""아쩌면 해야 해""."
 lich_1,dlg,EntryList/4/Text,0,이상하네. 공기를 정화하는 방법을 찾아보시는 게 좋을 것 같아.
@@ -500,7 +500,7 @@ lich_1,dlg,EntryList/10/Text,0,"""우리는 승리를 얻었다고 생각했지�
 lich_1,dlg,EntryList/11/Text,0,"""우리는 스피르프네블린, 왜성, 표면 엘프, 심지어 인간으로 둘러싸여 있을 때 우리의 놀라움을 상상해 보세요""."
 lich_1,dlg,EntryList/12/Text,0,"""우리는 기회를 잡지 못했어요. 전투장에서 물러나 이 지역을 찾았습니다. 생존할 유일한 기회는 스스로 봉인 마법사로 변신하는 것이었습니다."""
 lich_1,dlg,EntryList/13/Text,0,"""나는 변신식을 매우 서두르게 시작해야 했다. 뭔가 문제가 생겨 영원히 이 지역에 갇혀 있어야 했다."""
-lich_1,dlg,EntryList/14/Text,0,<StartAction>[놀라기]</Start>이것은 불가능이다. 천년 전에 모두가 죽었어야 했다.
+lich_1,dlg,EntryList/14/Text,0,"<StartAction>[놀람]</Start>""있을 수 없는 일이다. 수세기 전에 모두 죽었을 텐데."""
 lich_1,dlg,EntryList/15/Text,0,"""그들은 이제는 나이로 죽었을 것이다..."""
 lich_1,dlg,EntryList/16/Text,0,그리스티스로 계획에 실패한 자들의 운명은 실로 무서운 벌이다.
 lich_1,dlg,EntryList/17/Text,0,"<StartAction>[불쾌한]</Start>""그들은 뭐라고 말하나?"""
@@ -533,7 +533,7 @@ llomir_1,dlg,EntryList/0/Text,0,"""너 돌아왔군. 이번엔 뭘 원하느냐?
 llomir_1,dlg,EntryList/1/Text,0,<StartAction>[ 속삭임]</Start>###########################
 llomir_1,dlg,EntryList/2/Text,0,나는 단순한 전투수야. 다른 사람에게 물어봐.
 llomir_1,dlg,EntryList/3/Text,0,"""그녀는 Lolth의 사제입니다. 나는 틀렸으면 좋겠습니다. 하지만 Lolth의 호의를 잃었다는 것을 두려워합니다. 스파이더퀸은 그녀에게 마법을 주지 않으려 합니다."""
-llomir_1,dlg,EntryList/4/Text,0,"""나는 그렇게 두려워한다. <StartAction>[소리를 낮추는]</Start>#""우리는 조심해야 한다. Piwiewien 이 쓴 진실을 해소하기 위해 무엇이든 할 것이다""."
+llomir_1,dlg,EntryList/4/Text,0,"""유감스럽지만 그렇소. <StartAction>[목소리를 낮추며]</Start>""우린 조심해야 하네. 피위에비엔은 이 씁쓸한 진실을 숨기기 위해 무슨 짓이든 할 테니까."""
 llomir_1,dlg,EntryList/5/Text,0,"""좋아요. 이 어려운 시기에 함께 일하겠습니다. 저를 속이지 마라."""
 llomir_1,dlg,EntryList/6/Text,0,"""정체를 모르는 드로우라고요? 이 근처에 다른 외지 드로우들이 있다는 뜻입니까?"""
 llomir_1,dlg,EntryList/7/Text,0,"""이상한데, 어디서 왔는지 아세요?"""
@@ -653,7 +653,7 @@ nelad_1,dlg,ReplyList/3/Text,0,"""우리는 여기서 갈라져야 한다."""
 nelad_1,dlg,ReplyList/4/Text,0,"""미안해. 다시 생각해봤어. 잊어."""
 nelad_1,dlg,ReplyList/5/Text,0,"""예, 지금은 당신의 도움이 필요 없어요."""
 nelad_1,dlg,ReplyList/6/Text,0,"""나가 다시 임명할 때 당신의 계급은 돌아올 것입니다."""
-nelad_1,dlg,ReplyList/7/Text,0,"""나는 그것이 필요하다는 것을 두려워한다""."
+nelad_1,dlg,ReplyList/7/Text,0,"""유감이지만 피할 수 없는 일이야."""
 nelad_1,dlg,ReplyList/8/Text,0,"""아무것도 없어요, 그냥 궁금해서요""."
 nelad_1,dlg,ReplyList/9/Text,0,"""전략을 바꿔야 한다."""
 nelad_1,dlg,ReplyList/10/Text,0,"""아, 아니요. 그냥 궁금하던 거예요. 이제 가자."""
@@ -732,7 +732,7 @@ nelad_2,dlg,ReplyList/2/Text,0,"""우리는 여기서 갈라져야 한다."""
 nelad_2,dlg,ReplyList/3/Text,0,"""미안해. 다시 생각해봤어. 잊어."""
 nelad_2,dlg,ReplyList/4/Text,0,"""예, 지금은 당신의 도움이 필요 없어요."""
 nelad_2,dlg,ReplyList/5/Text,0,"""나가 다시 임명할 때 당신의 계급은 돌아올 것입니다."""
-nelad_2,dlg,ReplyList/6/Text,0,"""나는 그것이 필요하다는 것을 두려워한다""."
+nelad_2,dlg,ReplyList/6/Text,0,"""유감이지만 피할 수 없는 일이야."""
 nelad_2,dlg,ReplyList/7/Text,0,"""아, 아니야. 그냥 궁금해서 묻는 거야. 중요한 건 없어."""
 nelad_2,dlg,ReplyList/8/Text,0,"""전략을 바꿔야 한다."""
 nelad_2,dlg,ReplyList/9/Text,0,"""아, 아니요. 그냥 궁금하던 거예요. 이제 가자."""
@@ -763,7 +763,7 @@ nelad_2,dlg,ReplyList/33/Text,0,"""어떻게 생각해?"""
 nelad_2,dlg,ReplyList/34/Text,0,"""그리고 두 번째 설명?"""
 nelad_2,dlg,ReplyList/35/Text,0,"""첫 번째 설명이 맞았으면 좋겠어."""
 nelad_2,dlg,ReplyList/36/Text,0,"""주제를 바꿔보자."""
-nelad_2,dlg,ReplyList/37/Text,0,"""네라드, 무엇을 원하는가. 그들은 내 머리를 원한다. 왜 넌 나를 방해하려 하지 않겠는가?"""
+nelad_2,dlg,ReplyList/37/Text,0,"""네라드, 원하는 게 뭔가. 저들은 내 목을 노리고 있어. 그냥 내버려 둘 수 없는 건가?"""
 nelad_2,dlg,ReplyList/38/Text,0,"""당신은 저를 도와주고 싶나요?"""
 nelad_2,dlg,ReplyList/39/Text,0,"""왜 그렇게 하는 거야?"""
 nelad_2,dlg,ReplyList/40/Text,0,"""당신의 가격은 얼마입니까?"""
@@ -800,7 +800,7 @@ ormus_1,dlg,ReplyList/6/Text,0,"""내 이름은 <FullName>입니다. 이 곳에�
 piwiewien_1,dlg,EntryList/0/Text,0,"<StartAction> [자부심을 가지고 당신을 조사] </Start> ""나는 당신이 좋은 휴식을 있었으면 좋겠다, 지휘관 <LastName>""."
 piwiewien_1,dlg,EntryList/1/Text,0,"<StartAction>[중심되는 것]</Start> ""비전이야? 더 말해봐."""
 piwiewien_1,dlg,EntryList/2/Text,0,"<StartAction>[초조해한다]</Start>""말해라, 무엇이 중요하고 무엇이 아닌지는 내가 정한다!"""
-piwiewien_1,dlg,EntryList/3/Text,0,"<StartAction>[눈이 넓혀지는]</Start> ""우리 여신... ?"""
+piwiewien_1,dlg,EntryList/3/Text,0,"<StartAction>[눈을 크게 뜨며]</Start>""우리 여신님을 만났다고... ?"""
 piwiewien_1,dlg,EntryList/4/Text,0,"""그러므로 이런 소치로 괴롭히지 마. 중요한 일이 있어."""
 piwiewien_1,dlg,EntryList/5/Text,0,"""네 주변을 탐험해 보길 바래. 표면으로 나가는 출구가 가까이 있을 것 같아."""
 piwiewien_1,dlg,EntryList/6/Text,0,"<StartAction>[가울]</Start> ""내가 여기서 뭘 하고 있다고 생각하니? 나는 당신이 탐험을 위해 당신의 사람들에게 보내지 않기를 원한다. 나는... 너... 가기를 원한다."""
@@ -810,7 +810,7 @@ piwiewien_1,dlg,ReplyList/0/Text,0,"""이상한 비전을 봤어. 이거 좀 이
 piwiewien_1,dlg,ReplyList/1/Text,0,"<StartAction>[중심]</Start>""나는 잘 모르겠어. 확실히 중요하지 않은 것 같아."""
 piwiewien_1,dlg,ReplyList/2/Text,0,"""스파이더 퀸은 나를 그녀의 영역으로 불러서 나와 이야기했다""."
 piwiewien_1,dlg,ReplyList/3/Text,0,"<StartAction>[웃음]</Start>#""그건 그저 이상한 꿈이었어."
-piwiewien_1,dlg,ReplyList/4/Text,0,"<StartAction>[불안해지는 것]</Start>""아마 그럴 거야. 모든 세부사항을 제대로 기억하지 못해."""
+piwiewien_1,dlg,ReplyList/4/Text,0,"<StartAction>[불안해하며]</Start> ""내가 착각했나 봐. 모든 세부 사항이 제대로 기억나지 않아."""
 piwiewien_1,dlg,ReplyList/5/Text,0,"""죄송합니다, 여인님."""
 piwiewien_1,dlg,ReplyList/6/Text,0,"""새롭군. 내 도움이 필요하나?"""
 piwiewien_1,dlg,ReplyList/7/Text,0,"""Svirfneblin 전지대에 몇 명의 손실이 있었습니다. 남자들은 재편성하고 상처를 치유하는 데 시간이 필요합니다."""
@@ -957,7 +957,7 @@ tarnes_1,dlg,EntryList/13/Text,0,"""이 빛은 낮의 빛이고, 저는 평탄�
 tarnes_1,dlg,EntryList/14/Text,0,"""이 동굴은 세기 동안 내 집이었습니다."""
 tarnes_1,dlg,EntryList/15/Text,0,"나는 수년간 태양을 보지 못했지만, 이는 긴 이야기일 따름이다."
 tarnes_1,dlg,EntryList/16/Text,0,"""세기 전, 당신의 종족의 마지막 지상 침략 동안, 드워프, 스버프네블린, 엘프고와 인간들이 동맹을 맺었다."""
-tarnes_1,dlg,EntryList/17/Text,0,"<StartAction>[만족스럽게]</Start> ""나는 마침내 이 지역에서 독수리들을 물리친 세력의 일원이었고, 그들의 말할 수 없는 범죄로 인해 그들을 갚아야 했습니다. 당신들의 혐오스러운 형제들 중 한 명도 당신들의 둔갑으로 돌아오지 못했습니다."""
+tarnes_1,dlg,EntryList/17/Text,0,"<StartAction>[만족스럽다는 듯]</Start> ""나는 마침내 이 지역에서 드로우들을 물리치고 그들이 저지른 씻을 수 없는 범죄에 대한 대가를 치르게 만든 군대의 일원이었다. 너희 비열한 동족 중 단 한 명도 소굴로 살아서 돌아가지 못했지."""
 tarnes_1,dlg,EntryList/18/Text,0,"""동맹은 전투가 끝나면 이 지역을 강화하기로 결정했습니다."
 tarnes_1,dlg,EntryList/19/Text,0,"""그러므로 스비르프네블린은 하위 통로들을 보호하기 위해 큰 포스트를 세웠고, 드워프들은 표면으로 나가는 출구 주변에 큰 미로를 건설했다."""
 tarnes_1,dlg,EntryList/20/Text,0,내 역할은 바보처럼 행동하는 것이었다.
@@ -983,7 +983,7 @@ tarnes_1,dlg,ReplyList/2/Text,0,"""표면으로 가는 길에 대한 더 많은 
 tarnes_1,dlg,ReplyList/3/Text,0,"""마법적인 통신기를 찾았는데, 완전히 갇혀있어요""."
 tarnes_1,dlg,ReplyList/4/Text,0,"""아니요, 그냥 통로와 같아요..."""
 tarnes_1,dlg,ReplyList/5/Text,0,"""네. 그런 일이 일어날 때마다 방향감을 잃는다."""
-tarnes_1,dlg,ReplyList/6/Text,0,"<StartAction>[아이러니하게도]</Start> ""대형. 당신 도움 없이는 내가 뭘 할 수 있겠지, 타네스?"""
+tarnes_1,dlg,ReplyList/6/Text,0,"<StartAction>[아이러니하게도]</Start> ""대단하네. 네 도움이 없었으면 난 뭘 할 뻔했겠어, 타네스."""
 tarnes_1,dlg,ReplyList/7/Text,0,"""미로의 경비원들은 매우 튼튼해. 당신이 그들을 도와줄 수 있겠습니까?"""
 tarnes_1,dlg,ReplyList/8/Text,0,"""아니요, 지금은 필요 없어요."""
 tarnes_1,dlg,ReplyList/9/Text,0,"""정확해요""."
@@ -1026,7 +1026,7 @@ tarnes_2,dlg,ReplyList/3/Text,0,"""최후의 문을 열어, 마법사님! 지나
 tarnes_2,dlg,ReplyList/5/Text,0,"타르네스, 우리의 목적은 탐사가 아니라 전쟁이 아닙니다. 우리는 표면 주민들에게 해를 끼치지 않을 것입니다."
 thriandir_4,dlg,EntryList/1/Text,0,"<StartAction>[화난 눈빛을 보낸다]</Start> 그러니 날 내버려 둬, 바보야."
 thriandir_4,dlg,EntryList/2/Text,0,<StartAction>[화가 날]</Start> 비어있는 손으로 왔다. 더 많은 결정석을 찾아와. 최소 세 개는 필요해!
-thriandir_4,dlg,EntryList/3/Text,0,"당신은 몇 개의 결정체만 가져왔나 봅니다. 더 많은 것을 필요로 합니다. 여기, 저는 그들을 바꾸기 위해 한 개의 독 구체를 제안합니다."
+thriandir_4,dlg,EntryList/3/Text,0,"당신은 수정 몇 개만 가져왔군요. 난 훨씬 더 많이 필요합니다. 자, 그 대가로 독 구체 하나를 주지요."
 thriandir_4,dlg,EntryList/4/Text,0,여기 있어. 아마 이 지역에 더 많은 결정석이 있을지도 몰라. 찾으면 다시 와라.
 thriandir_4,dlg,EntryList/5/Text,0,"더 많은 결정석을 기대했지만, 이 수량은 제 요구에 충분하지 않아 보여요. 당신의 결정석을 5개 주시면 화염 구체 1개와 독 구체 2개를 드릴 수 있습니다. 이에 동의하십니까?"
 thriandir_4,dlg,EntryList/6/Text,0,더 많은 결정체를 찾으면 돌아오세요.
@@ -1067,7 +1067,7 @@ thriandir_4,dlg,ReplyList/0/Text,0,"아니, 아직 아무것도 찾지 못했어
 thriandir_4,dlg,ReplyList/3/Text,0,"넘겨줘, 마법사님."
 thriandir_4,dlg,ReplyList/5/Text,0,이게 괜찮아 보여. 계약이 성립되었네요.
 thriandir_4,dlg,ReplyList/8/Text,0,당신만큼 강력한 마법사라면 반드시 방법을 찾을 거야
-thriandir_4,dlg,ReplyList/9/Text,0,2개의 불글로브와 2개의 독글로브를 주면 거래가 됩니다.
+thriandir_4,dlg,ReplyList/9/Text,0,화염 글로브 두 개와 독성 글로브 두 개를 주면 거래는 성사되는 거다.
 thriandir_4,dlg,ReplyList/10/Text,0,세 개의 독 구체와 불 구체를 주면 거래가 되겠습니다.
 thriandir_4,dlg,ReplyList/12/Text,0,그럼 불글로브 2개를 줘서 거래가 되죠
 thriandir_4,dlg,ReplyList/14/Text,0,이게 괜찮아 보여. 계약이 성립되었네요.
@@ -1782,7 +1782,7 @@ drowcamp,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
 drowcamp,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 drowcamp,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,독 화살
 drowcamp,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
-drowcamp,git,TriggerList/0/LocalizedName,0,거미들의 캠프
+drowcamp,git,TriggerList/0/LocalizedName,0,거미들의 야영지
 drowcamp,git,TriggerList/1/LocalizedName,0,좌측으로 차단
 drowcamp,git,TriggerList/2/LocalizedName,0,trigger_question
 drowcamp,git,TriggerList/3/LocalizedName,0,뉴 에이리어 트랜지션
@@ -2345,7 +2345,7 @@ drowcamp001,git,Placeable List/135/Description,0,"침대는 깨끗하고 부드�
 drowcamp001,git,Placeable List/136/LocName,0,버섯
 drowcamp001,git,Placeable List/136/Description,0,"침대는 깨끗하고 부드럽게 덮여 있으며, 깃털 베개와 부드러운 천단이 시트 위에 덮여 있습니다."
 dwarvenmaze,git,Creature List/0/FirstName,0,철 골렘
-dwarvenmaze,git,Creature List/0/Description,0,탄탄한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁기 수강자나 괴물 공작자의 기술과 숙련이 필요 합니다.
+dwarvenmaze,git,Creature List/0/Description,0,통철로 단조된 이 강력한 저거너트를 제작하려면 보통 드워프 대장장이들이나 노움 장인들의 전문 지식과 숙련된 기술이 필요합니다.
 dwarvenmaze,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,철 골렘 속성
 dwarvenmaze,git,Door List/0/LocName,0,첫 문
 dwarvenmaze,git,Door List/1/LocName,0,마세토니어
@@ -2818,7 +2818,7 @@ innermaze001,git,Creature List/8/Description,0,"헬드 호러는 마법으로 �
 innermaze001,git,Creature List/9/FirstName,0,투구쓴 공포
 innermaze001,git,Creature List/9/Description,0,"헬드 호러는 마법으로 생기와 목적을 가진 빈 갑옷이다. 그들은 피곤하지 않고 매우 효과적인 보호자, 군인, 보상 사냥꾼으로서의 역할을 수행한다."
 innermaze001,git,Creature List/10/FirstName,0,철 골렘
-innermaze001,git,Creature List/10/Description,0,탄탄한 철로 만든 이 거대한 거저나우트를 만드는 데에는 쟁기 수강자나 괴물 공작자의 기술과 숙련이 필요 합니다.
+innermaze001,git,Creature List/10/Description,0,통철로 단조된 이 강력한 저거너트를 제작하려면 보통 드워프 대장장이들이나 노움 장인들의 전문 지식과 숙련된 기술이 필요합니다.
 innermaze001,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,철 골렘 속성
 innermaze001,git,Door List/1/LocName,0,내부마저마저마저
 innermaze001,git,Door List/2/LocName,0,내마저 코디도
@@ -2842,7 +2842,7 @@ spidercave,git,Encounter List/2/LocalizedName,0,"해충, 거미 무리"
 spidercave,git,Encounter List/3/LocalizedName,0,"해충, 거미 무리"
 spidercave,git,Encounter List/4/LocalizedName,0,"해충, 거미 무리"
 spidercave,git,Encounter List/5/LocalizedName,0,"해충, 거미 무리"
-spidercave,git,TriggerList/0/LocalizedName,0,거미들을 캠핑지로
+spidercave,git,TriggerList/0/LocalizedName,0,거미들을 야영지로
 spidercave,git,WaypointList/0/LocalizedName,0,wp_3_start
 spidercave,git,WaypointList/1/LocalizedName,0,s_webcenter3
 spidercave,git,WaypointList/2/LocalizedName,0,s_webcenter4
@@ -3495,7 +3495,7 @@ wswmdg011,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 
 wswmdg012,uti,LocalizedName,0,단검 + 1
 wswmdg012,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 wswmka010,uti,LocalizedName,0,검성자의 유산 +4
-wswmka010,uti,DescIdentified,0,"이 무기는 드워프 바룬의 마크를 지니고 있으며, 바룬은 베오룬나의 우물에 있는 우스그르트 마을에서 improvised forge에서 일했습니다. 그는 1373년 DR 후반에 배신자 레이디 아리베스와의 전쟁을 돕기 위해 북부 도시 네버윈터와 라드스 연합을 향해 행진하던 아리베스를 지원하기 위해 그것을 제작했습니다."
+wswmka010,uti,DescIdentified,0,"이 무기는 베오룬나의 우물에 있는 우스그르트 마을의 임시 대장간에서 일했던 숙련된 대장장이 드워프 바룬의 낙인을 지니고 있습니다. 그는 1373년 DR 후반에, 당시 북부 도시 네버윈터와 로즈 연합을 향해 진군하던 배신자 레이디 아리베스와의 전쟁을 돕기 위해 이것을 제작했습니다."
 wswmrp013,uti,LocalizedName,0,날카로운
 wswmrp013,uti,DescIdentified,0,"최근 몇 년 동안, 몇몇 도둑 조합은 이 칼에 의해 멤버를 잃었다고 보고했다. 피해자의 가슴에 잔혹한 서명으로 남겨진 무기. 그 뒤에 있는 공예가 알려지지 않았지만, 그들을 사용하는 집단의 의도는 충분히 분명했다: 자신의 확장을 촉진하기 위해 기존 그룹을 불안정화하기 위해. 그러나 마지막 살인 이후 몇 년이 지났고, 침입이 포기되었거나 폭력적인 수단으로 성공했다는 것을 암시합니다. 지하 지역 사회의 구성원들은 정보를 제공하지 않았습니다."
 wswmsc003,uti,LocalizedName,0,시미터 +1
@@ -3560,7 +3560,7 @@ blockedtoright,utt,LocalizedName,0,오른쪽으로 차단
 bugbearstoblocke,utt,LocalizedName,0,버그베어 막힌
 camp_driders,utt,LocalizedName,0,캠프_드라이더
 camptomaze,utt,LocalizedName,0,캄포마지
-camptospiders,utt,LocalizedName,0,거미들의 캠프
+camptospiders,utt,LocalizedName,0,거미들의 야영지
 cavedintunnel,utt,LocalizedName,0,터널에 구멍이 뚫려
 cavemaze,utt,LocalizedName,0,동굴 미로
 cavernstoblocked,utt,LocalizedName,0,동굴가 막힌
@@ -3575,7 +3575,7 @@ newgeneric001,utt,LocalizedName,0,시움사르코파고스
 openstonedoorsho,utt,LocalizedName,0,돌문을 열어 공포를 풀어놓기
 resurrection,utt,LocalizedName,0,부활
 set_maze_2,utt,LocalizedName,0,set_maze_2
-spiderstocamp,utt,LocalizedName,0,거미들을 캠핑지로
+spiderstocamp,utt,LocalizedName,0,거미들을 야영지로
 start_gas,utt,LocalizedName,0,시작_가스
 start_gas001,utt,LocalizedName,0,start_fire
 teleport_to_star,utt,LocalizedName,0,텔레포트_투_start

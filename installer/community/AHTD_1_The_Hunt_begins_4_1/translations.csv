@@ -96,8 +96,7 @@ drow1,dlg,EntryList/1/Text,0,"""그래서 난사에서 벗어나고 싶니? 아�
 drow1,dlg,EntryList/2/Text,0,"""내 일에선 나를, 네 일에선 네 자신을 챙기게."""
 drow2,dlg,EntryList/0/Text,0,"""발걸음을 조심해. 여기 사람들은 거칠다."""
 drow2,dlg,EntryList/1/Text,0,"""문제에서 벗어나, 친구."""
-drow2,dlg,EntryList/2/Text,0,"""당신의 비즈니스를 신경 쓰지.""
--> ""당신의 일에 신경 쓰지."""
+drow2,dlg,EntryList/2/Text,0,"""네 일이나 신경 쓰시지."""
 drow3,dlg,EntryList/0/Text,0,"""당신은 노예를 가져오지 않았습니다. 그건 나쁜 예증입니다."
 drow3,dlg,EntryList/1/Text,0,"""그 자식들을 몇 명밖에 데려오지 않았군. 여주인께서 기뻐하지 않으실 거야."""
 drow3,dlg,EntryList/2/Text,0,"""그래서 당신은 이 라이어를 찾아서 정말 강한 공격을 퍼부었어."""
@@ -127,7 +126,7 @@ gob_scouts,dlg,EntryList/6/Text,0,"어둠의 길이야, 우리를 죽이기 위�
 gob_scouts,dlg,EntryList/7/Text,0,"""고블린들을 내버려두었나?"""
 gob_scouts,dlg,EntryList/8/Text,0,"""너 정말 특별한 암흑자. 우리는 기억할 것이다. 서쪽은 죽은 사람들이 걷는 오래된 전투입니다. 빛으로 가는 길이 있습니다. 동쪽은 강을 따라 다시 암흑으로 돌아가십시오."
 gob_scouts,dlg,EntryList/9/Text,0,"""우리에게는 아무것도 없는데, 우리는 이 지역을 잘 안다."""
-gob_scouts,dlg,EntryList/10/Text,0,"""서쪽으로 가면 빛이 보이고, 동쪽으로는 어둠으로 돌아갈 수 있습니다. 서쪽 동굴에 광신 마법사가 살고 있고, 동쪽 동굴에는 큰 벽사들이 있습니다. 남쪽으로는 뱀들이 강합니다. 이것들이 우리가 아는 모든 것 입니다."""
+gob_scouts,dlg,EntryList/10/Text,0,"""서쪽으로 가면 빛이 보이고, 동쪽으로는 어둠으로 돌아갈 수 있습니다. 서쪽 동굴에 광신 마법사가 살고 있고, 동쪽 동굴에는 큰 거미들이 있습니다. 남쪽으로는 뱀들이 강합니다. 이것들이 우리가 아는 전부입니다."""
 gob_scouts,dlg,ReplyList/0/Text,0,"""침묵하라, 고블린 쓰레기. 네 운명을 막았어!"""
 gob_scouts,dlg,ReplyList/1/Text,0,"""어떻게 도망칠 엄두를 내다?"""
 gob_scouts,dlg,ReplyList/2/Text,0,"""고블린치고는 우리 말을 잘하는군."""
@@ -197,7 +196,7 @@ llomir2,dlg,ReplyList/7/Text,0,"""조심해, 로미르. 인원은 모두 세어 
 llomir2,dlg,ReplyList/8/Text,0,"""나는 아직 그들의 여성이나 어린이를 찾지 못했어."""
 llomir2,dlg,ReplyList/9/Text,0,"""좋아, 다시 찾아볼게. 하지만 나쁜 정보로 인해 책임을 지는 건 어떻게 해야 하는지 모르겠어..."""
 llomir2,dlg,ReplyList/10/Text,0,"""내가 마주한 방어는 당신이 생각보다 훨씬 더 무거운 것 이다. 그들은 심지어 그들의 친척을 죽였어 그들이 데려갈 것을 허용하지 않았다!""<StartAction>[Mutter]</Start>"
-llomir2,dlg,ReplyList/11/Text,0,<StartAction>[잠근히 떠나기] </Start>
+llomir2,dlg,ReplyList/11/Text,0,<StartAction>[조용히 자리를 뜬다] </Start>
 llomir2,dlg,ReplyList/12/Text,0,"""네, 많은 노예들을 가지고 돌아왔다."""
 llomir2,dlg,ReplyList/13/Text,0,"""그러면 됩니까."""
 llomir2,dlg,ReplyList/14/Text,0,"""잡을 수 있는 노예가 거의 없었지만, 내가 찾은 몇 명을 체포대로 묶었다."""
@@ -216,7 +215,7 @@ llomir3,dlg,ReplyList/4/Text,0,"""리젠이 사라졌나? 피위비엔은 우리
 llomir3,dlg,ReplyList/5/Text,0,"""이상하게도, 그의 어머니는 이 부적절한 멍청이를 위해 정말로 너무 많은 일을 했습니다. 드워프 모녀로서는 너무나도 많은 일이었습니다..."""
 llomir_c2,dlg,EntryList/1/Text,0,"여기서 우리는 같은 계급이오, <LastName>. 그런 모욕적인 말은 필요 없소. 더구나 여기서 틀린 쪽은 당신이니까. 나는 당신의 포로를 인계받으라는 명령을 받았소. 그러니 내게 보고하시오. 포로를 몇 명이나 잡았소?"
 llomir_c2,dlg,EntryList/3/Text,0,"빈손으로 돌아오다니, 용기라도 있는가?"
-llomir_c2,dlg,EntryList/4/Text,0,네가 그렇게 생각할지도 모르지. 내가 너에게 한 가지 말해줄게. 가서 우리 마스터스에게 보고해. 아마 그녀와 이 문제를 논의해야 할지도 모르지.
+llomir_c2,dlg,EntryList/4/Text,0,그렇게 생각하겠지. 내 말 잘 들어. 가서 우리의 여주인께 보고해. 이 일은 아마 그녀와 논의해야 할 걸?
 llomir_c2,dlg,EntryList/5/Text,0,피위비엔 여주인에게 보고해. 우리는 그들을 캠핑지로 데려가겠다.
 llomir_c2,dlg,EntryList/6/Text,0,그래서 다시 가서 그들의 둥지에 좀 더 잘 들여다보세요. 여주인 피위비엔은 당신이 비어 돌아오면 기뻐하지 않을 것입니다.
 llomir_c2,dlg,EntryList/7/Text,0,"나쁜 소식이야, 피비비언 여인이 어떻게 받아들이는지 모르겠어, 대부분의 갓린 스카우트를 잃었지, 나쁜 예명이야, 빨리 여인을 찾아서"
@@ -284,7 +283,7 @@ piwiewien2,dlg,EntryList/4/Text,0,"""내가 듣게 될 것 같은 이야기 하�
 piwiewien2,dlg,EntryList/5/Text,0,"""버렸어? 멍청아! 스파이더 여왕의 자물 속에 거미도 찾을 수 없었어. 네가 나를 실망시켰어. 내가 네 피부를 벗기지 말아야 할 좋은 이유 하나만 줘""."
 piwiewien2,dlg,EntryList/7/Text,0,"""아마 그럴 거야. 하지만 기억해, 이건 마지막 기회야. 다시 실망시키지 마."""
 piwiewien2,dlg,EntryList/8/Text,0,"""무용한 말들을 내버려두고 들어라. 북쪽의 사망자 터널에 진영한 괴물 스카우트들은 현재 잠시의 자유를 얻어 파업을 시작했다. 드로우 경비대가 그들을 쫓아왔지만 아직 돌아오지 않았다. 그 비참한 스카우트들을 찾아서 하나도 빠짐없이 죽여라. 실종된 경비대들에 대해 가능한 모든 것을 알아보라. 하지만 이것은 중요하지 않다. 해고되었다."""
-piwiewien2,dlg,EntryList/9/Text,0,"""너의 무능함을 변명할 수 있는 것은 피와 가문 뿐이다. 나를 설득할 유일한 이유는 하나도 없나?"""
+piwiewien2,dlg,EntryList/9/Text,0,"""너의 무능을 변명할 수 있는 건 너의 피와 가문뿐이다. 내가 너를 살려두어야 할 단 하나의 이유를 대 보아라."""
 piwiewien2,dlg,EntryList/11/Text,0,"""너가 그들을 놔주었어?!"""
 piwiewien2,dlg,EntryList/12/Text,0,"""아마도. 그러나 조심해야 한다, vì 이건 네 마지막 기회니까. 다시 실패하면 오그리들이 네 걱정 중 가장 작은 문제일 뿐이다."""
 piwiewien2,dlg,EntryList/14/Text,0,"<StartAction>[깜짝 놀라며]</Start> ""당신은 나를 기쁘게 만듭니다..."""
@@ -360,7 +359,7 @@ piwiewien_c3,dlg,ReplyList/20/Text,0,"""나는 봉사한다. 당신의 힘은 �
 piwiewien_c3,dlg,ReplyList/21/Text,0,"""우리가 기대할 수 있는 가장 좋은 소식은 아니죠. 여기서 우리는 어디로 갈까요?"""
 piwiewien_c3,dlg,ReplyList/22/Text,0,"""그러면 표면으로 가는 계획이야?"""
 piwiewien_c3,dlg,ReplyList/23/Text,0,"""제 장비를 모아야 하지만 잠시 후에 도착할게."""
-ponder_exit,dlg,EntryList/0/Text,0,"""저는 이 생물들을 예전에 들어 본 적이 있다. 나사드맨은 보통 표면세계로 나가는 출구 근처에서 발견된다. 아마 그 근처에 하나 있을지도 모르겠다."""
+ponder_exit,dlg,EntryList/0/Text,0,"""저는 이 생물들에 대해 들어 본 적이 있습니다. 리저드맨은 보통 지상 세계로 통하는 출구 근처에서 발견되지요. 아마 근처에 출구가 있을지도 모릅니다."""
 pool,dlg,EntryList/0/Text,0,<StartHighlight>[수면 위의 상자에는 흰색 파우더가 있습니다. 수중의 물은 암실에서 붉은 용의 그림을 보여줍니다.]</Start>
 pool,dlg,EntryList/1/Text,0,"시나리오가 바뀌고, 물은 드워프 그룹의 모습을 보여준다."
 pool,dlg,EntryList/2/Text,0,수영장은 다시 붉은 용의 상황을 보여줍니다.
@@ -710,11 +709,11 @@ cavemaze001,git,Encounter List/8/LocalizedName,0,언데드 해골들
 cavemaze001,git,Encounter List/9/LocalizedName,0,언데드 해골들
 cavemaze001,git,Encounter List/10/LocalizedName,0,언데드 해골들
 cavemaze001,git,SoundList/0/LocName,0,"동굴의 바위가 부서짐, 큼"
-cavemaze001,git,SoundList/1/LocName,0,물방울 떨어지는 움직임
-cavemaze001,git,SoundList/2/LocName,0,물방울 떨어지는 움직임
-cavemaze001,git,SoundList/3/LocName,0,물방울 떨어지는 움직임
-cavemaze001,git,SoundList/4/LocName,0,물방울 떨어지는 움직임
-cavemaze001,git,SoundList/5/LocName,0,물방울 떨어지는 움직임
+cavemaze001,git,SoundList/1/LocName,0,물방울 떨어지는 소리
+cavemaze001,git,SoundList/2/LocName,0,물방울 떨어지는 소리
+cavemaze001,git,SoundList/3/LocName,0,물방울 떨어지는 소리
+cavemaze001,git,SoundList/4/LocName,0,물방울 떨어지는 소리
+cavemaze001,git,SoundList/5/LocName,0,물방울 떨어지는 소리
 cavemaze001,git,SoundList/6/LocName,0,동굴 터널의 시냇물 소리
 cavemaze001,git,SoundList/7/LocName,0,동굴 터널의 시냇물 소리
 cavemaze001,git,SoundList/8/LocName,0,중형 동굴 내의 개울
@@ -747,7 +746,7 @@ cavemaze001,git,TriggerList/4/LocalizedName,0,실명 함정
 cavemaze001,git,TriggerList/5/LocalizedName,0,실명 함정
 cavemaze001,git,TriggerList/6/LocalizedName,0,실명 함정
 cavemaze001,git,TriggerList/7/LocalizedName,0,가스 터널
-cavemaze001,git,TriggerList/8/LocalizedName,0,도마뱀 라이어
+cavemaze001,git,TriggerList/8/LocalizedName,0,도마뱀 소굴
 cavemaze001,git,TriggerList/9/LocalizedName,0,호랑이 동굴
 cavemaze001,git,TriggerList/13/LocalizedName,0,버그 둥지
 cavemaze001,git,TriggerList/14/LocalizedName,0,잠복 캠프
@@ -760,7 +759,7 @@ cavemaze001,git,TriggerList/20/LocalizedName,0,길 잃은 드로우
 cavemaze001,git,TriggerList/21/LocalizedName,0,새 일반
 cavemaze001,git,WaypointList/1/LocalizedName,0,수정 방
 cavemaze001,git,WaypointList/1/MapNote,0,수정 방
-cavemaze001,git,WaypointList/2/LocalizedName,0,도마뱀 라이어
+cavemaze001,git,WaypointList/2/LocalizedName,0,도마뱀 소굴
 cavemaze001,git,WaypointList/2/MapNote,0,나사드맨 둔전
 cavemaze001,git,WaypointList/3/LocalizedName,0,화염 곤충 라이어
 cavemaze001,git,WaypointList/3/MapNote,0,파이어버그 소굴
@@ -1006,7 +1005,7 @@ dragoncrypt001,git,Placeable List/45/ItemList/0/LocalizedName,0,금화
 dragoncrypt001,git,Placeable List/46/LocName,0,상자
 dragoncrypt001,git,Placeable List/46/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 dragoncrypt001,git,Placeable List/46/ItemList/0/LocalizedName,0,아스라드 블레이드 +2
-dragoncrypt001,git,Placeable List/46/ItemList/0/DescIdentified,0,"이 무기는 드워프 바룬의 마크를 지니고 있으며, 바룬은 베오룬나의 우물에 있는 우스그르트 마을에서 improvised forge에서 일했습니다. 그는 1373년 DR 후반에 배신자 레이디 아리베스와의 전쟁을 돕기 위해 북부 도시 네버윈터와 라드스 연합을 향해 행진하던 아리베스를 지원하기 위해 그것을 제작했습니다."
+dragoncrypt001,git,Placeable List/46/ItemList/0/DescIdentified,0,"이 무기는 베오룬나의 우물에 있는 우스그르트 마을의 임시 대장간에서 일했던 숙련된 대장장이 드워프 바룬의 낙인을 지니고 있습니다. 그는 1373년 DR 후반에, 당시 북부 도시 네버윈터와 로즈 연합을 향해 진군하던 배신자 레이디 아리베스와의 전쟁을 돕기 위해 이것을 제작했습니다."
 dragoncrypt001,git,Placeable List/47/LocName,0,상자
 dragoncrypt001,git,Placeable List/47/Description,0,금속 링이 이 장식된 가구 상자의 목재 작업을 관통하고 있다. 이 강상함은 뛰어난 제작 기술로 보아 대중에게 전시하기 위해 제작된 것 같다는 판단이 난다.
 dragoncrypt001,git,Placeable List/49/LocName,0,차원문
@@ -2330,7 +2329,7 @@ goblincamp,git,WaypointList/0/MapNote,0,지하 강으로 나가기
 goblincamp,git,WaypointList/1/LocalizedName,0,고블린 가족
 goblincamp,git,WaypointList/1/MapNote,0,고블린 메인 캠프
 goblincamp,git,WaypointList/2/LocalizedName,0,표면으로부터의 빛
-goblincamp,git,WaypointList/2/MapNote,0,고개를 들어 보상받을 낮의 빛이 떨어지는 곳부터
+goblincamp,git,WaypointList/2/MapNote,0,아득히 높은 곳에서 비치는 낮의 빛
 goblincamp,git,Placeable List/1/LocName,0,통
 goblincamp,git,Placeable List/1/Description,0,두꺼운 금속띠가 배럴판을 감싸며 밀폐를 확실히 합니다.
 goblincamp,git,Placeable List/2/LocName,0,통
@@ -2989,11 +2988,11 @@ module,jrl,Categories/8/EntryList/3/Text,0,"북쪽의 막다른 터널에 갇혔
 고블린 터널이 무너졌다. 야영지로 돌아갈 다른 길을 찾아야 한다.
 
 정찰병들을 찾았지만 학대받은 불쌍한 생물들이었다. 나는 그들이 언더다크 위쪽 터널로 계속 도망치도록 놓아주었다."
-module,jrl,Categories/8/EntryList/4/Text,0,"북쪽의 교착 터널에 갇힌 괴뢰 스카우트들은 북쪽 벽을 파고 자유로워졌습니다. 그들은 동굴 미로로 도망쳤습니다. 미스터스 피비비언은 내가 이 미로로 들어가서 모든 피난민을 죽이고 싶어합니다.
+module,jrl,Categories/8/EntryList/4/Text,0,"북쪽의 막힌 터널에 갇힌 고블린 정찰병들이 북쪽 벽을 파고 나와 자유를 찾았다. 그들은 동굴 미로로 도망쳤다. 피위위엔 여주인은 내가 이 미로로 들어가 도망자들을 모두 죽이기를 원한다.
 
-괴뢰 터널이 붕괴되었습니다. 나는 캠프로 돌아갈 다른 길을 찾아야 할 것입니다.
+고블린 터널이 무너졌다. 캠프로 돌아갈 다른 길을 찾아야 한다.
 
-나는 스카우트를 찾았고, 피난민을 죽이기 위해 나의 임무를 성취했습니다."
+정찰병들을 찾아내어 처치하라는 임무를 완수했다."
 module,jrl,Categories/9/Name,0,스버프네블린 공격
 module,jrl,Categories/9/EntryList/0/Text,0,저는 서쪽 터널로 돌아가서 스비르프네블린 공격군의 지도자를 죽여야 합니다.
 module,jrl,Categories/9/EntryList/1/Text,0,"저는 스비르프네블린 군대를 통해 싸워 파르린, 습격군의 지휘관을 죽였습니다."
@@ -3030,7 +3029,7 @@ sm_blackhatch,utc,FirstName,0,"용, 검은 부화"
 sm_blackhatch,utc,Description,0,흑룡의 부화
 sm_bluehatch,utc,FirstName,0,"용, 파란 새끼용"
 sm_bluehatch,utc,Description,0,부화된 청룡
-sm_brasshatch,utc,FirstName,0,"용, 금용 부화"
+sm_brasshatch,utc,FirstName,0,황동 용 부화새끼
 sm_brasshatch,utc,Description,0,부화된 청동용
 sm_bronzehatch,utc,FirstName,0,청동 드래곤 새끼
 sm_bronzehatch,utc,Description,0,부화된 청동용
@@ -3038,7 +3037,7 @@ sm_coppehatch,utc,FirstName,0,"용, 구리부화"
 sm_coppehatch,utc,Description,0,구리 드래곤
 sm_goldhatch,utc,FirstName,0,"용, 골드 부화"
 sm_goldhatch,utc,Description,0,황금 드래곤
-sm_greenhatch,utc,FirstName,0,"용, 녹색 부화"
+sm_greenhatch,utc,FirstName,0,"용, 녹색 새끼"
 sm_greenhatch,utc,Description,0,녹색 용 부화
 sm_redhatch,utc,FirstName,0,"용, 빨간 부화"
 sm_redhatch,utc,Description,0,부화된 붉은 용
@@ -3189,7 +3188,7 @@ wswmdg011,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 
 wswmdg012,uti,LocalizedName,0,단검 + 1
 wswmdg012,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 wswmka010,uti,LocalizedName,0,검성자의 유산 +4
-wswmka010,uti,DescIdentified,0,"이 무기는 드워프 바룬의 마크를 지니고 있으며, 바룬은 베오룬나의 우물에 있는 우스그르트 마을에서 improvised forge에서 일했습니다. 그는 1373년 DR 후반에 배신자 레이디 아리베스와의 전쟁을 돕기 위해 북부 도시 네버윈터와 라드스 연합을 향해 행진하던 아리베스를 지원하기 위해 그것을 제작했습니다."
+wswmka010,uti,DescIdentified,0,"이 무기는 베오룬나의 우물에 있는 우스그르트 마을의 임시 대장간에서 일했던 숙련된 대장장이 드워프 바룬의 낙인을 지니고 있습니다. 그는 1373년 DR 후반에, 당시 북부 도시 네버윈터와 로즈 연합을 향해 진군하던 배신자 레이디 아리베스와의 전쟁을 돕기 위해 이것을 제작했습니다."
 wswmsc004,uti,LocalizedName,0,시미터 +1
 wswmsc004,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 wthmdt011,uti,LocalizedName,0,다트+1
@@ -3399,6 +3398,6 @@ cavemaze,utt,LocalizedName,0,동굴 미로
 goblin_tunnel,utt,LocalizedName,0,고블린 터널
 intro,utt,LocalizedName,0,인트로
 intro001,utt,LocalizedName,0,호랑이 동굴
-intro002,utt,LocalizedName,0,도마뱀 라이어
+intro002,utt,LocalizedName,0,도마뱀 소굴
 intro003,utt,LocalizedName,0,가스 터널
 toamysteriouscav,utt,LocalizedName,0,신비한 동굴

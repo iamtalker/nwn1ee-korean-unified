@@ -115,7 +115,7 @@ delade_1,dlg,EntryList/31/Text,0,"""불! 나는 네가 불 없이 여기 머물�
 delade_1,dlg,EntryList/32/Text,0,"""이 세상 이 너무 추워서 발가락이 얼지 않아""."
 delade_1,dlg,EntryList/33/Text,0,"""엘프들이 널 찾아서 막대기 위에 놓으면 엉덩이를 태워버릴 거야!"""
 delade_1,dlg,EntryList/34/Text,0,"<StartAction>[그녀의 목소리를 높인다]</Start> ""두 분, 잠시 조용히 해주세요! 우리가 어디 있는지 잊은 건가요?"""
-delade_1,dlg,EntryList/35/Text,0,"<StartAction>[너에게 돌아]</Start>""모든 게 괜찮아,<FirstName> ?"""
+delade_1,dlg,EntryList/35/Text,0,"<StartAction>[당신을 돌아보며]</Start>""다 괜찮아, <FirstName>?"""
 delade_1,dlg,ReplyList/0/Text,0,"""이 간단한 속임수로는 날 속일 수 없어."""
 delade_1,dlg,ReplyList/4/Text,0,"""나는 엘프들과 치열한 싸움을 했지만 그들의 화살에서 벗어나는데 성공했다."""
 delade_1,dlg,ReplyList/6/Text,0,"""나는 떠나야 한다""."
@@ -464,11 +464,11 @@ lomildur_1,dlg,ReplyList/10/Text,0,"""사령에 따라 스스로 싸울 것이�
 lomildur_1,dlg,ReplyList/11/Text,0,"""아무래도""."
 lomildur_1,dlg,ReplyList/12/Text,0,"""아니, 관심 없어."""
 lomildur_1,dlg,ReplyList/13/Text,0,"""아쩌다""."
-mythallar_1,dlg,EntryList/1/Text,0,<StartAction>[미신에 대한 공격은 당신이 미신을 찾아갈 때 분노의 절정에 도달합니다.]</Start>
+mythallar_1,dlg,EntryList/1/Text,0,<StartAction>[당신이 유물에 손을 뻗자 정신을 향한 공격이 광기 어린 절정에 달합니다.]</Start>
 mythallar_1,dlg,EntryList/2/Text,0,<StartAction>[하지만 롤스의 마법은 당신을 보호합니다. 당신은 유물을 얻을 수 있습니다.]</Start>
-mythallar_1,dlg,ReplyList/0/Text,0,<StartAction>[미살라를 떠나라]</Start>
+mythallar_1,dlg,ReplyList/0/Text,0,<StartAction>[미살라를 떠난다]</Start>
 mythallar_1,dlg,ReplyList/1/Text,0,<StartAction>[미살라를 가져라]</Start>
-redcrystal,dlg,EntryList/0/Text,0,"<StartAction>[네 머릿속의 목소리]</Start> 낯선 분, 안녕히 주무시다니 만나서 반갑습니다. 좀 더 가까이 오시고, 가장 깊은 생각과 바람을 나누어 보시겠습니까?"
+redcrystal,dlg,EntryList/0/Text,0,"<StartAction>[당신의 머릿속 목소리]</Start> 안녕하가, 이방인이여. 좀 더 가까이 다가와 네가 품은 가장 깊은 생각과 소원을 나와 나누어 다오."
 redcrystal,dlg,EntryList/1/Text,0,"""당신의 소망이 이뤄질 것이다."""
 redcrystal,dlg,EntryList/2/Text,0,"""아니, 나는 욕망의 수정이야. 네가 원하는 대로 말해줘, 내가 그걸 실현시킬거야."""
 redcrystal,dlg,EntryList/3/Text,0,"""황금, 강력한 무기, 명예, ...?"""
@@ -480,8 +480,8 @@ redcrystal,dlg,EntryList/8/Text,0,"""내가 여기 있어, 너의 모든 욕구�
 redcrystal,dlg,EntryList/9/Text,0,"네가 원하는 대로, 내가 봉사하러 왔어 네가 원하는 대로 할 거야"
 redcrystal,dlg,EntryList/10/Text,0,다른 사람들은 부와 권위를 원하지만 당신은 침묵과 엄숙한 것을 원합니다.
 redcrystal,dlg,EntryList/11/Text,0,내가 원하는 건 아무것도 없어서 봉사하러 왔어
-redcrystal,dlg,EntryList/12/Text,0,"<StartAction>[네 머릿속의 목소리]</Start> 낯선 분, 안녕히 주무시다니 만나서 반갑습니다. 좀 더 가까이 오시고, 가장 깊은 생각과 바람을 나누어 보시겠습니까?"
-redcrystal,dlg,EntryList/14/Text,0,"<StartAction>[네 머릿속의 목소리]</Start> 낯선 분, 안녕히 주무시다니 만나서 반갑습니다. 좀 더 가까이 오시고, 가장 깊은 생각과 바람을 나누어 보시겠습니까?"
+redcrystal,dlg,EntryList/12/Text,0,"<StartAction>[당신의 머릿속 목소리]</Start> 안녕하가, 이방인이여. 좀 더 가까이 다가와 네가 품은 가장 깊은 생각과 소원을 나와 나누어 다오."
+redcrystal,dlg,EntryList/14/Text,0,"<StartAction>[당신의 머릿속 목소리]</Start> 안녕하가, 이방인이여. 좀 더 가까이 다가와 네가 품은 가장 깊은 생각과 소원을 나와 나누어 다오."
 redcrystal,dlg,ReplyList/0/Text,0,"""나는 여기서 벗어나는 길을 보지 못해. 이 방에서 나가게 해."""
 redcrystal,dlg,ReplyList/2/Text,0,"""나는 미살라를 찾기 위해 왔어. 당신은 그런 존재인가?"""
 redcrystal,dlg,ReplyList/3/Text,0,"""무엇을 제안할 수 있나?"""
@@ -498,7 +498,7 @@ redcrystal,dlg,ReplyList/16/Text,0,"""이 부와 권력에 대해 더 자세히 
 redcrystal,dlg,ReplyList/17/Text,0,"""이게 뭐야, 뭘 원하는 거야?"""
 redcrystal,dlg,ReplyList/18/Text,0,"""당신이 제 장비를 가져갔군. 돌려줘!"""
 redcrystal,dlg,ReplyList/19/Text,0,"""당신은 나를 가짜 무덤으로 보내셨군. 올바른 곳으로 보내줘!"""
-sage,dlg,EntryList/0/Text,0,"""아크세라크 시리즈의 어둠을 통과한 사냥""에 오신 것을 환영합니다."
+sage,dlg,EntryList/0/Text,0,"""어둠을 통한 사냥 시리즈""에 오신 것을 환영합니다. 당신은 5부: 아세레라크를 플레이하고 있습니다."
 sage,dlg,EntryList/1/Text,0,"""이 시리즈는 종족으로 엘프를, 하위 종족으로 드로우를 선택해야 합니다. 1장부터 시작하시기를 강력히 권합니다."""
 sage,dlg,EntryList/2/Text,0,"""미안하지만 15레벨 정도의 엘프 캐릭터가 필요해요. 준비되면 다시 오세요."""
 sage,dlg,EntryList/3/Text,0,"""이미 엘프 종족을 선택하셨나 봅니다. 제 5 장은 약 15 레벨의 인물을 필요로 합니다. 게임을 시작하시겠습니까?"""
@@ -685,9 +685,9 @@ acerakentrance,git,SoundList/4/LocName,0,좀비 신음소리
 acerakentrance,git,SoundList/5/LocName,0,악마의 마법 차원문
 acerakentrance,git,SoundList/6/LocName,0,악마의 마법 차원문
 acerakentrance,git,SoundList/7/LocName,0,마법의 반짝이는 공
-acerakentrance,git,SoundList/8/LocName,0,실내의 노래하는 남성
-acerakentrance,git,SoundList/9/LocName,0,실내의 노래하는 남성
-acerakentrance,git,SoundList/10/LocName,0,실내의 노래하는 남성
+acerakentrance,git,SoundList/8/LocName,0,실내에서 주문을 외우는 남성들
+acerakentrance,git,SoundList/9/LocName,0,실내에서 주문을 외우는 남성들
+acerakentrance,git,SoundList/10/LocName,0,실내에서 주문을 외우는 남성들
 acerakentrance,git,SoundList/11/LocName,0,납골당의 음산한 소리
 acerakentrance,git,TriggerList/0/LocalizedName,0,살인적인 기체 함정
 acerakentrance,git,TriggerList/1/LocalizedName,0,살인적인 가시못 함정
@@ -848,9 +848,9 @@ acerakentrance,git,Placeable List/172/Description,0,"농가 테이블은 칼자�
 acerakentrance,git,Placeable List/173/LocName,0,미미화 테이블
 acerakentrance,git,Placeable List/173/Description,0,"농가 테이블은 칼자국과 희미한 석탄 문양, 그리고 흘린 음식물의 얼룩으로 가득 차 있다."
 acerakentrance,git,Placeable List/184/LocName,0,부패한 재료의 자루
-acerakentrance,git,Placeable List/184/Description,0,봉투들은 썩은 밀가루처럼 습기로 인해 냉정한 냄새를 풍깁니다.
+acerakentrance,git,Placeable List/184/Description,0,자루들에서는 눅눅한 곳에서 밀가루가 서서히 썩어가는 듯한 퀴퀴한 냄새가 풍겨옵니다.
 acerakentrance,git,Placeable List/185/LocName,0,부패한 재료의 자루
-acerakentrance,git,Placeable List/185/Description,0,봉투들은 썩은 밀가루처럼 습기로 인해 냉정한 냄새를 풍깁니다.
+acerakentrance,git,Placeable List/185/Description,0,자루들에서는 눅눅한 곳에서 밀가루가 서서히 썩어가는 듯한 퀴퀴한 냄새가 풍겨옵니다.
 acerakentrance,git,Placeable List/186/LocName,0,썩은 시체 가리개
 acerakentrance,git,Placeable List/186/Description,0,"먼 동부에서 온 실크, 바다 건너에서 온 가벼운 족단, 지역 양에서 손으로 만든 털, 모두 외국 마을처럼 섞여 있었습니다."
 acerakentrance,git,Placeable List/187/LocName,0,썩은 시체 가리개
@@ -858,13 +858,13 @@ acerakentrance,git,Placeable List/187/Description,0,"먼 동부에서 온 실크
 acerakentrance,git,Placeable List/188/LocName,0,썩은 시체 가리개
 acerakentrance,git,Placeable List/188/Description,0,"먼 동부에서 온 실크, 바다 건너에서 온 가벼운 족단, 지역 양에서 손으로 만든 털, 모두 외국 마을처럼 섞여 있었습니다."
 acerakentrance,git,Placeable List/189/LocName,0,부패한 재료의 자루
-acerakentrance,git,Placeable List/189/Description,0,봉투들은 썩은 밀가루처럼 습기로 인해 냉정한 냄새를 풍깁니다.
+acerakentrance,git,Placeable List/189/Description,0,자루들에서는 눅눅한 곳에서 밀가루가 서서히 썩어가는 듯한 퀴퀴한 냄새가 풍겨옵니다.
 acerakentrance,git,Placeable List/190/LocName,0,부패한 재료의 자루
-acerakentrance,git,Placeable List/190/Description,0,봉투들은 썩은 밀가루처럼 습기로 인해 냉정한 냄새를 풍깁니다.
+acerakentrance,git,Placeable List/190/Description,0,자루들에서는 눅눅한 곳에서 밀가루가 서서히 썩어가는 듯한 퀴퀴한 냄새가 풍겨옵니다.
 acerakentrance,git,Placeable List/191/LocName,0,잔해
-acerakentrance,git,Placeable List/191/Description,0,잔재와 유물들은 불아울한 덩어리에 붙어 있습니다.
+acerakentrance,git,Placeable List/191/Description,0,조각들과 파편들이 흉측한 더미를 이루어 엉켜 있습니다.
 acerakentrance,git,Placeable List/192/LocName,0,잔해
-acerakentrance,git,Placeable List/192/Description,0,잔재와 유물들은 불아울한 덩어리에 붙어 있습니다.
+acerakentrance,git,Placeable List/192/Description,0,조각들과 파편들이 흉측한 더미를 이루어 엉켜 있습니다.
 acerakentrance,git,Placeable List/194/LocName,0,환골탈태urn
 acerakentrance,git,Placeable List/194/Description,0,발자취의 소리가 당신에게 반사되어 어두운 유리의 깊이에서 울려 퍼집니다.
 acerakentrance,git,Placeable List/197/LocName,0,쌓인 책
@@ -2087,8 +2087,8 @@ area003,git,SoundList/2/LocName,0,좀비 신음소리
 area003,git,SoundList/3/LocName,0,마법 수정 악
 area003,git,SoundList/4/LocName,0,웃는 남자
 area003,git,SoundList/5/LocName,0,웃는 여자
-area003,git,SoundList/6/LocName,0,실내의 노래하는 남성
-area003,git,SoundList/7/LocName,0,실내의 노래하는 남성
+area003,git,SoundList/6/LocName,0,실내에서 주문을 외우는 남성들
+area003,git,SoundList/7/LocName,0,실내에서 주문을 외우는 남성들
 area003,git,SoundList/8/LocName,0,납골당의 음산한 소리
 area003,git,TriggerList/0/LocalizedName,0,뉴 에이리어 트랜지션
 area003,git,TriggerList/1/LocalizedName,0,새 일반
@@ -3649,7 +3649,7 @@ module,jrl,Categories/3/EntryList/5/Text,0,"아세레라크는 마침내 사라�
 module,jrl,Categories/3/EntryList/6/Text,0,"저는 치명적인 함정과 강력한 수호자들에 의해 보호받는 이상한 설비를 발견했습니다. 이것은 어느 정도 낡은 것 같아, 지금까지 본 모든 것보다 훨씬 오래된 것 같습니다."
 module,jrl,Categories/3/EntryList/7/Text,0,성소나 신전 같은 중앙 방을 찾았습니다. 어쩌면 이 모든 일의 배후에 있는 존재는 일종의 신일지도 모릅니다…
 module,jrl,Categories/3/EntryList/8/Text,0,"저는 애비시안 깊은 곳의 괴물인 피트피엔드를 만났습니다. 그는 예배당 뒤에 작은 방을 지키고 있었고, 아마 그 방에는 특별한 것이 있을지도 모르겠습니다."
-module,jrl,Categories/3/EntryList/9/Text,0,"특별한 포털을 찾았지만 잠겨져 있어. 아마 그럴 거야, 어떤 종류의 메커니즘이 열 수 있을지도 모르지. 아마 메모리스 방에서 힌트를 찾을 수 있을 거야?"
+module,jrl,Categories/3/EntryList/9/Text,0,특별한 포털을 찾았지만 잠겨 있다. 장치를 작동시키면 열릴지도 모른다. 미라실에서 단서를 찾을 수 있을까?
 module,jrl,Categories/3/EntryList/10/Text,0,난 갇혀 있어. 다리 문을 열 수 있는 메커니즘이 있어야 해.
 module,jrl,Categories/3/EntryList/11/Text,0,네 개의 특이한 보석을 찾아서 결합해야 합니다.
 module,jrl,Categories/3/EntryList/12/Text,0,길이 다시 열렸어. 공기 중에서 악의 기운이 느껴져. 이 앞에 뭔가 강력한 게 있는 게 분명해.
@@ -3927,16 +3927,16 @@ iounstonedustyro,uti,LocalizedName,0,이온 돌
 iounstonedustyro,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 그 소유자로부터 3피트 이내에 있어야 한다. 사용될 때, 이 돌들은 사용자의 머리에 대한 순환 궤도를 취한다고 한다. 그 다음, 돌은 소유자로부터 분리하기 위해 붙잡거나 망을 잡아야 한다. 이 돌은 먼지 로즈이며, 프리즘 모양이다."
 iounstonedustyro,uti,DescIdentified,0,"이 돌은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 사용이 가능합니다. 돌을 사용할 때, 그것은 사용자의 머리에 1~3피트까지 순환 궤도를 취하고 있습니다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 망을 잡아야 합니다. 소유자는 자발적으로 돌을 잡고 보관할 수 있지만, 그 동안 돌의 혜택을 잃습니다. 이 특정 돌은 Dusty Rose이며, 프리스마 모양을 가지고 있습니다. 이 돌이 궤도를 돌고있는 동안, 소유자는 자신의 갑옷 직업에 +1 회전 보너스를 얻습니다."
 iounstonegreyell,uti,LocalizedName,0,이온 돌
-iounstonegreyell,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야만 사용할 수 있다. 사용될 때, 이 돌들은 사용자의 머리 위를 돌돌 돌리는 궤도를 취한다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 네트로 잡아야 한다. 이 돌은 덜그레이색이며, 엘립소이드 형태이다."
+iounstonegreyell,uti,Description,0,"이 돌들은 항상 공중에 떠 있으며 소유자로부터 3피트 이내에 있어야만 사용할 수 있다. 사용될 때 이 돌들은 사용자의 머리 주위를 선회하는 궤도를 그리며 움직인다고 한다. 그 후, 소유자와 돌을 분리하려면 손으로 잡거나 그물로 건져야 한다. 이 특정한 돌은 칙칙한 회색이며, 타원체 모양이다."
 iounstonegreyell,uti,DescIdentified,0,"이 돌은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 어떤 용도로도 사용할 수 있습니다. 돌을 사용할 때, 그것은 사용자의 머리에 1~3피트 정도의 순환 궤도를 취합니다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 망을 매아야 합니다. 소유자는 자발적으로 돌을 잡고 보관할 수 있지만, 그 동안 돌의 혜택을 잃습니다. 이 특정 돌은 둔한 회색이며, 엘립소이드 모양을 가지고 있습니다. 이 특정 돌은 더 이상의 힘을 갖지 않고 순환합니다."
 iounstonegreypri,uti,LocalizedName,0,이온 돌
-iounstonegreypri,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 한다. 사용될 때, 이 돌들은 사용자의 머리에 대한 순환 궤도를 취한다고 한다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 망을 잡아야 한다. 이 돌은 Dull Grey이며, 프리즘 모양이다."
+iounstonegreypri,uti,Description,0,"이 돌들은 항상 공중에 떠 있으며, 쓸모가 있으려면 소유자로부터 3피트 이내에 있어야 한다. 사용하면 이 돌은 사용자의 머리 주위를 둥글게 공전한다고 한다. 그 후, 소유자와 분리하려면 이 돌을 붙잡거나 그물로 잡아야 한다. 이 특정 돌은 칙칙한 회색이며 프리즘 모양이다."
 iounstonegreypri,uti,DescIdentified,0,"이 돌은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 어떤 용도로도 사용할 수 있습니다. 돌을 사용할 때, 그것은 사용자의 머리에 1~3피트까지 순환 궤도를 취합니다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 망을 잡아야 합니다. 소유자는 자발적으로 돌을 잡고 보관할 수 있지만, 그 동안 돌의 혜택을 잃습니다. 이 특정 돌은 Dull Grey이며, 프리즘 모양을 가지고 있습니다. 이 특정 돌은 더 이상의 권한없이 순환합니다."
 iounstonegreyrho,uti,LocalizedName,0,이온 돌
 iounstonegreyrho,uti,Description,0,"이 돌 들 은 항상 공중 에 떠 있는 것 이며, 그 소유자 에게서 3피트 안 에 있어야 한다. 이 돌 들 은 사용 을 할 때, 사용자의 머리 를 둘러싼 순환 궤도를 취한다고 한다. 그 후, 돌 을 집어 잡거나 그 소유자 로부터 분리 하기 위해 망 을 잡아야 한다. 이 특정 돌 은 Dull Grey 이며, 롬보이드 모양 이다."
 iounstonegreyrho,uti,DescIdentified,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 한다. 이 돌을 사용하면 사용자의 머리에 1~3피트 정도의 순환 궤도를 취한다. 그 후, 돌을 붙잡거나 그물을 엮어 소유자로부터 분리해야 한다. 소유자는 자발적으로 돌을 잡고 보관할 수 있지만, 그 기간 동안 돌의 혜택을 잃는다. 이 돌은 Dull Grey이며, 롬보이드 모양을 가지고 있다. 이 돌은 더 이상의 권한 없이 순환한다."
 iounstonegreysph,uti,LocalizedName,0,이온 돌
-iounstonegreysph,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야만 사용할 수 있다. 사용될 때마다 돌들은 사용자의 머리 위를 돌리는 궤도를 따라 돌진한다고 한다. 그 후, 돌을 분리하기 위해 잡아야거나 네트로 잡아야 한다. 이 돌은 Dull Grey이며 구형이다."
+iounstonegreysph,uti,Description,0,"이 돌들은 항상 공중에 떠 있으며, 사용하려면 소유자로부터 3피트 이내에 있어야 한다. 사용될 때 이 돌들은 사용자의 주위를 원형으로 궤도 그리며 돈다고 한다. 그 후, 돌을 소유자로부터 분리하려면 손으로 잡거나 그물로 잡아야 한다. 이 특정 돌은 둔한 회색이며 구형이다."
 iounstonegreysph,uti,DescIdentified,0,"이 돌은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 어떤 용도로도 사용할 수 있습니다. 돌을 사용할 때, 그것은 사용자의 머리에 1~3피트까지 순환 궤도를 취합니다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 망을 잡아야 합니다. 소유자는 자발적으로 돌을 잡고 보관할 수 있지만, 그 동안 돌의 혜택을 잃습니다. 이 특정 돌은 Dull Grey이며, 구구 모양을 가지고 있습니다. 이 특정 돌은 더 이상의 권한없이 순환합니다."
 iounstonegreyspi,uti,LocalizedName,0,이온 돌
 iounstonegreyspi,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 한다. 사용될 때, 이 돌들은 사용자의 머리에 대한 순환 궤도를 취한다고 한다. 그 후, 돌을 붙잡거나 그물로 묶어서 소유자로부터 분리해야 한다. 이 돌은 Dull Grey이며, 스핀드 모양이다."
@@ -3951,7 +3951,7 @@ iounstonelavende,uti,LocalizedName,0,이온 돌
 iounstonelavende,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야만 사용할 수 있다. 사람들이 이 돌을 사용했을 때는 사용자의 머리 주변을 돌면서 순환 궤도를 취한다고 한다. 그 후, 돌을 붙잡거나 네트로 분리시켜야만 소유자로부터 분리할 수 있다. 이 돌은 보라색과 녹색이며, 엘립소이드 모양이다."
 iounstonelavende,uti,DescIdentified,0,"이 돌은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 합니다. 돌을 사용하면 사용자의 머리에 1~3피트까지 순환 궤도를 취합니다. 그 후, 돌을 붙잡거나 그 소유자로부터 분리하기 위해 망을 잡아야 합니다. 소유자는 자발적으로 돌을 잡고 보관할 수 있지만, 그 동안 돌의 혜택을 잃게 됩니다. 이 특정 돌은 라벤더와 그린이며, 엘립소이드 모양입니다. 이 돌이 궤도를 돌고 있는 동안, 그 소유자는 주문으로부터 보호를 얻습니다. 이 돌은 주문이 돌 소유자에게 영향을 주지 않는 8 차원의 주문을 흡수합니다. 돌은 총 50 차원을 흡수 할 수 있습니다. 그 후에 돌이 불타는 데 쓸모가 없습니다. 이 돌은 작업 능력에 대해 주위를 돌고 있어야 합니다. 이 돌은 스스로 회복을 위해 휴식을 취합니다."
 iounstonepaleblu,uti,LocalizedName,0,이온 돌
-iounstonepaleblu,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야만 사용할 수 있다. 사용 시에는 사용자의 머리 주변을 돌면서 원형 궤도를 그리게 된다. 그 후, 돌을 분리하기 위해 잡아야거나 망으로 잡아야 한다. 이 돌은 흔히 백파란색이며, 루비오이드 모양이다."
+iounstonepaleblu,uti,Description,0,이 돌들은 항상 공중에서 떠다니며 쓸모가 있으려면 소유자로부터 3피트 이내에 있어야 한다. 사용하면 이 돌들은 사용자의 머리 주변을 원형 궤도로 회전한다고 한다. 그 후에는 소유자로부터 떼어내려면 손으로 붙잡거나 그물로 건져야 한다. 이 특정 돌은 연한 청색이며 마름모꼴 모양이다.
 iounstonepaleblu,uti,DescIdentified,0,"이 돌은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 어떤 용도로도 사용할 수 있습니다. 돌을 사용할 때, 그것은 사용자의 머리에 1~3피트까지 순환 궤도를 취합니다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 망을 잡아야 합니다. 소유자는 자발적으로 돌을 잡고 보관할 수 있지만, 그 동안 돌의 혜택을 잃습니다. 이 특정 돌은 맑은 파란색이며, 롬보이드 모양입니다. 이 돌이 궤도를 돌고있는 동안, 소유자는 자신의 강도에 +2 증강을 얻습니다."
 iounstonepalegre,uti,LocalizedName,0,이온 돌
 iounstonepalegre,uti,Description,0,"이 돌들은 항상 공중에서 떠다니며 소유자로부터 3피트 이내에 있어야 한다. 사용될 때, 이 돌들은 사용자의 머리 위를 돌리는 궤도를 취한다. 그 후, 돌은 소유자로부터 분리하기 위해 붙잡거나 네트로 잡아야 한다. 이 특정 돌은 녹색이며, 프리즘 모양이다."
@@ -4197,7 +4197,7 @@ wswmdg012,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 
 wswmka005,uti,LocalizedName,0,신성한 분노
 wswmka005,uti,DescIdentified,0,"""...밤에 불의 비가 내렸고, 돌처럼 폭발하여 광장에 구덩이를 만들었다. 그 구덩이 안에는 별들이 있었으며, 우리는 그 별로부터 복수심을 불러내어 조상들의 땅을 되찾았다."" Kaa Mihnd의 글은 가난한 어촌이 부유한 지배자에게 도전할 수 있는 무기를 소유한 방법을 설명하고 있다. 이 기록은 아직 검증되지 않았지만, 이러한 칼들은 그의 설명과 일치한다."
 wswmka010,uti,LocalizedName,0,검성자의 유산 +4
-wswmka010,uti,DescIdentified,0,"이 무기는 드워프 바룬의 마크를 지니고 있으며, 바룬은 베오룬나의 우물에 있는 우스그르트 마을에서 improvised forge에서 일했습니다. 그는 1373년 DR 후반에 배신자 레이디 아리베스와의 전쟁을 돕기 위해 북부 도시 네버윈터와 라드스 연합을 향해 행진하던 아리베스를 지원하기 위해 그것을 제작했습니다."
+wswmka010,uti,DescIdentified,0,"이 무기는 베오룬나의 우물에 있는 우스그르트 마을의 임시 대장간에서 일했던 숙련된 대장장이 드워프 바룬의 낙인을 지니고 있습니다. 그는 1373년 DR 후반에, 당시 북부 도시 네버윈터와 로즈 연합을 향해 진군하던 배신자 레이디 아리베스와의 전쟁을 돕기 위해 이것을 제작했습니다."
 wswmrp013,uti,LocalizedName,0,날카로운
 wswmrp013,uti,DescIdentified,0,"최근 몇 년 동안, 여러 도둑 조합은 이 칼에 의해 멤버를 잃었다고 보고했습니다. 피해자의 가슴에 잔혹한 서명으로 남겨진 무기. 그 뒤에 있는 공예가 알려지지 않았지만, 그들을 사용하는 집단의 의도는 충분히 분명했습니다. 기존 그룹을 불안정하게 만들고 자신의 확장을 촉진하기 위해. 그러나 마지막 살인 이후 몇 년이 지났지만, 침입이 포기되었거나 폭력적인 수단으로 성공했다는 것을 암시합니다. 지하 공동체의 구성원들은 정보를 제공하지 않았습니다."
 wswmsc003,uti,LocalizedName,0,시미터 +1
@@ -4432,7 +4432,7 @@ blockedtoright,utt,LocalizedName,0,오른쪽으로 차단
 bugbearstoblocke,utt,LocalizedName,0,버그베어 막힌
 camp_driders,utt,LocalizedName,0,캠프_드라이더
 camptomaze,utt,LocalizedName,0,캄포마지
-camptospiders,utt,LocalizedName,0,거미들의 캠프
+camptospiders,utt,LocalizedName,0,거미들의 야영지
 cavedintunnel,utt,LocalizedName,0,터널에 구멍이 뚫려
 cavemaze,utt,LocalizedName,0,동굴 미로
 cavernstoblocked,utt,LocalizedName,0,동굴가 막힌
@@ -4447,7 +4447,7 @@ newgeneric001,utt,LocalizedName,0,시움사르코파고스
 openstonedoorsho,utt,LocalizedName,0,돌문을 열어 공포를 풀어놓기
 resurrection,utt,LocalizedName,0,부활
 set_maze_2,utt,LocalizedName,0,set_maze_2
-spiderstocamp,utt,LocalizedName,0,거미들을 캠핑지로
+spiderstocamp,utt,LocalizedName,0,거미들을 야영지로
 start_gas,utt,LocalizedName,0,시작_가스
 start_gas001,utt,LocalizedName,0,start_fire
 teleport_to_star,utt,LocalizedName,0,텔레포트_투_start

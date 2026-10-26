@@ -365,7 +365,7 @@ id_potion020,uti,DescIdentified,0,90921,"흡수기 주위에는 장벽을 만들
 id_potion020,uti,LocalizedName,0,90920,물약으로 만든 상급 주문 망토
 id_potion021,uti,DescIdentified,0,90921,이 매술은 흡수자에게 10/+5의 손상을 줄여줍니다. 매술 수준에 10 점의 인접한 손상을 흡수합니다.
 id_potion021,uti,LocalizedName,0,90920,돌 피부 물약
-id_potion022,uti,DescIdentified,0,90921,"이 매법은 마비자에게 20/+5의 피해 감소를 부여합니다. 이 매법은 매술 레벨당 10 포인트의 근접 피해를 흡수하며, 최대 150까지 흡수된 후 사라집니다."
+id_potion022,uti,DescIdentified,0,90921,"마신 자에게 20/+5의 피해 감소를 부여한다. 이 주문은 소멸하기 전까지 주문 레벨당 10포인트의 근접 피해를 흡수하며, 최대 150포인트까지 흡수한다."
 id_potion022,uti,LocalizedName,0,90920,상급 돌 피부 물약
 id_potion023,uti,DescIdentified,0,90921,"이 포션은 마시는 자를 정신에 영향을 미치는 마법과 마법 같은 효과로부터 면역 상태로 만드고, 그러한 마법에 의한 모든 부정적인 효과를 제거합니다."
 id_potion023,uti,LocalizedName,0,90920,하급 정신 차단 물약
@@ -404,7 +404,7 @@ id_potion037,uti,DescIdentified,0,90921,마법의 직관으로 공격 굴레에 
 id_potion037,uti,LocalizedName,0,90920,완벽한 일격 물약
 id_potion038,uti,DescIdentified,0,90921,"음취자의 암시야 능력이 다크비전 보다 훨씬 더 향상되며, 이 마법을 적용할 때마저 마법적 어둠의 효과까지 뚫린다."
 id_potion038,uti,LocalizedName,0,90920,초시야 물약
-id_potion039,uti,DescIdentified,0,90921,"음수자는 야만인처럼 분노에 빠집니다. 음수자는 근력을 +2, 체질을 +2 증가시키며, 의지를 +1 증가시킵니다. 하지만 AC에는 -1의 패널티가 적용됩니다."
+id_potion039,uti,DescIdentified,0,90921,"마신 자는 야만인과 유사한 분노 상태에 빠집니다. 마신 자는 근력과 체질에 +2 보너스를 얻고 의지 내성굴림에 +1 보너스를 얻지만, AC에 -1 페널티를 받습니다."
 id_potion039,uti,LocalizedName,0,90920,피 펀지 약
 id_potion040,uti,DescIdentified,0,90921,"주입자의 색상은 주변 환경에 맞게 변하고, 모든 Hide 체크에 대해 +10의 자격 보너스를 얻습니다."
 id_potion040,uti,LocalizedName,0,90920,위장 물약
@@ -432,7 +432,7 @@ id_potion051,uti,DescIdentified,0,90921,음식물 섭취자는 그들의 체내�
 id_potion051,uti,LocalizedName,0,90920,독 중화 물약
 id_potion052,uti,DescIdentified,0,90921,모든 동맹국들은 시각과 청각 장애를 치료받습니다.
 id_potion052,uti,LocalizedName,0,90920,시각실명/청각실명을 제거하는 물약
-id_potion053,uti,DescIdentified,0,90921,"음주자는 방어력에 +2 회피 보너스를 얻으며, 음주의 레벨이 6마다 추가 +1 보너스를 얻는다 (최대 +5)."
+id_potion053,uti,DescIdentified,0,90921,"마신 자는 방어 등급에 +2 회피 보너스를 얻으며, 물약의 6레벨마다 추가로 +1 보너스를 얻습니다 (최대 +5)."
 id_potion053,uti,LocalizedName,0,90920,믿음의 방패 물약
 id_potion054,uti,DescIdentified,0,90921,음주자는 청취 체크에 +20 보너스를 얻습니다.
 id_potion054,uti,LocalizedName,0,90920,증폭 물약
@@ -566,7 +566,7 @@ id_wand116,uti,LocalizedName,0,-1,생명체 소환 4 마법봉
 id_wand117,uti,LocalizedName,0,-1,태양폭발 마법봉
 id_wand118,uti,LocalizedName,0,-1,타샤의 끔찍한 웃음 마법봉
 id_wand119,uti,LocalizedName,0,-1,불사를 죽음으로로의 마법봉
-id_wand120,uti,LocalizedName,0,-1,덩굴 지뢰 스틱
+id_wand120,uti,LocalizedName,0,-1,덩굴 지뢰 마법봉
 id_wand121,uti,LocalizedName,0,-1,불의 장벽 마법봉
 id_wand122,uti,LocalizedName,0,-1,웹의 막대
 id_wand123,uti,LocalizedName,0,-1,차원의 협력자 마법봉

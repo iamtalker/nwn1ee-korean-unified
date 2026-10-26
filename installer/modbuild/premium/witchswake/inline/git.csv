@@ -138,9 +138,9 @@ brogansarm,git,StoreList/0/StoreList/0/ItemList/36/DescIdentified,0,-1,이 튼�
 brogansarm,git,StoreList/0/StoreList/0/ItemList/36/LocalizedName,0,-1,대장장이 가죽
 brogansarm,git,StoreList/0/StoreList/4/ItemList/2/DescIdentified,0,-1,이것은 표준적인 일회용 등불입니다. 그 수명은 제한적이므로 미리 준비해두고 필요할 때까지 보관하는 것이 현명합니다.
 brogansarm,git,StoreList/0/StoreList/4/ItemList/2/LocalizedName,0,-1,횃불
-brogansarm,git,TriggerList/0/LocalizedName,0,14759,바로우 사이트 컨브
-brogansarm,git,TriggerList/1/LocalizedName,0,14759,바로우 사이트 컨브
-brogansarm,git,TriggerList/2/LocalizedName,0,14759,바로우 사이트 컨브
+brogansarm,git,TriggerList/0/LocalizedName,0,14759,고분 지역 회담
+brogansarm,git,TriggerList/1/LocalizedName,0,14759,고분 지역 회담
+brogansarm,git,TriggerList/2/LocalizedName,0,14759,고분 지역 회담
 brogansarm,git,WaypointList/0/LocalizedName,0,14814,길드 하우스
 brogansarm,git,WaypointList/0/MapNote,0,14815,길드 하우스
 brogansarm,git,WaypointList/1/LocalizedName,0,14814,슈타인파어 철광장
@@ -840,7 +840,7 @@ modulestart001,git,SoundList/6/LocName,0,-1,가까이서 천둥 치는 소리
 modulestart001,git,WaypointList/0/LocalizedName,0,14817,모듈 시작점
 mountaincemetery,git,Door List/0/Description,0,-1,이 무거운 돌 문의 표면에는 피의 얼룩과 신비한 표적이 있습니다.
 mountaincemetery,git,Door List/0/LocName,0,5349,피투성이 문
-mountaincemetery,git,Door List/1/Description,0,-1,"강렬한 나무판, 철띠로 덮여 있는 나무판, 여행자 들 이 묘지 를 방문 하지 못하게 한다."
+mountaincemetery,git,Door List/1/Description,0,-1,튼튼한 나무판자와 그 위를 두른 철띠가 여행자들이 묘지를 방문하는 것을 막아줍니다.
 mountaincemetery,git,Door List/1/LocName,0,5349,묘지 문
 mountaincemetery,git,Door List/2/Description,0,-1,"위험한 터널이 블리프의 면으로 파여들어, 어떤 종류의 동굴로 이어진다. 높은 소리와 싸움 소리가 내부에서 울려 퍼진다."
 mountaincemetery,git,Door List/2/LocName,0,5349,동굴 입구
@@ -1264,8 +1264,8 @@ planeofsorrow2,git,SoundList/6/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow2,git,SoundList/7/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow2,git,SoundList/8/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow2,git,SoundList/9/LocName,0,-1,횃불 불꽃 (소)
-planeofsorrow2,git,TriggerList/0/LocalizedName,0,14759,필치어 죽이기
-planeofsorrow2,git,TriggerList/1/LocalizedName,0,14759,필치어 죽이기
+planeofsorrow2,git,TriggerList/0/LocalizedName,0,14759,좀도둑 살해자
+planeofsorrow2,git,TriggerList/1/LocalizedName,0,14759,좀도둑 살해자
 planeofsorrow2,git,TriggerList/10/LocalizedName,0,14759,필치블 오프
 planeofsorrow2,git,TriggerList/2/LocalizedName,0,14759,훔칠 수 있음: 켬
 planeofsorrow2,git,TriggerList/3/LocalizedName,0,14759,필치블 오프
@@ -1490,8 +1490,8 @@ planeofsorrow3,git,SoundList/6/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow3,git,SoundList/7/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow3,git,SoundList/8/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow3,git,SoundList/9/LocName,0,-1,횃불 불꽃 (소)
-planeofsorrow3,git,TriggerList/0/LocalizedName,0,14759,필치어 죽이기
-planeofsorrow3,git,TriggerList/1/LocalizedName,0,14759,필치어 죽이기
+planeofsorrow3,git,TriggerList/0/LocalizedName,0,14759,좀도둑 살해자
+planeofsorrow3,git,TriggerList/1/LocalizedName,0,14759,좀도둑 살해자
 planeofsorrow3,git,TriggerList/10/LocalizedName,0,14759,필치블 오프
 planeofsorrow3,git,TriggerList/2/LocalizedName,0,14759,훔칠 수 있음: 켬
 planeofsorrow3,git,TriggerList/3/LocalizedName,0,14759,필치블 오프
@@ -1697,8 +1697,8 @@ planeofsorrows,git,SoundList/6/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrows,git,SoundList/7/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrows,git,SoundList/8/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrows,git,SoundList/9/LocName,0,-1,횃불 불꽃 (소)
-planeofsorrows,git,TriggerList/0/LocalizedName,0,14759,필치어 죽이기
-planeofsorrows,git,TriggerList/1/LocalizedName,0,14759,필치어 죽이기
+planeofsorrows,git,TriggerList/0/LocalizedName,0,14759,좀도둑 살해자
+planeofsorrows,git,TriggerList/1/LocalizedName,0,14759,좀도둑 살해자
 planeofsorrows,git,TriggerList/10/LocalizedName,0,14759,필치블 오프
 planeofsorrows,git,TriggerList/2/LocalizedName,0,14759,훔칠 수 있음: 켬
 planeofsorrows,git,TriggerList/3/LocalizedName,0,14759,필치블 오프
@@ -1876,13 +1876,13 @@ playerawakes001,git,Creature List/48/ItemList/3/DescIdentified,0,-1,"소형 인�
 playerawakes001,git,Creature List/48/ItemList/3/LocalizedName,0,-1,이상한 철 반지
 playerawakes001,git,Creature List/48/ItemList/4/DescIdentified,0,-1,이 절단된 손가락 밑에 혈액의 껍질이 붙어있었는데 반지를 들고 있었습니다.
 playerawakes001,git,Creature List/48/ItemList/4/LocalizedName,0,-1,손가락
-playerawakes001,git,Creature List/49/FirstName,0,6008,도마뱀 라이어
+playerawakes001,git,Creature List/49/FirstName,0,6008,도마뱀 소굴
 playerawakes001,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 playerawakes001,git,Creature List/5/FirstName,0,-1,시체 쌓임
-playerawakes001,git,Creature List/50/FirstName,0,6008,도마뱀 라이어
-playerawakes001,git,Creature List/51/FirstName,0,6008,도마뱀 라이어
-playerawakes001,git,Creature List/52/FirstName,0,6008,도마뱀 라이어
+playerawakes001,git,Creature List/50/FirstName,0,6008,도마뱀 소굴
+playerawakes001,git,Creature List/51/FirstName,0,6008,도마뱀 소굴
+playerawakes001,git,Creature List/52/FirstName,0,6008,도마뱀 소굴
 playerawakes001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 playerawakes001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,왕의 무게대
 playerawakes001,git,Creature List/6/FirstName,0,-1,시체 쌓임
@@ -2288,20 +2288,20 @@ thebattlefield,git,Creature List/48/Equip_ItemList/0/DescIdentified,0,-1,왕을 
 thebattlefield,git,Creature List/48/Equip_ItemList/0/LocalizedName,0,-1,왕의 막대기
 thebattlefield,git,Creature List/48/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/49/Description,0,12686,차가운 눈과 빛나는 검은 깃털을 가진 공중의 청소꾼들은 종종 죽음의 징조나 죽음의 예지로 여겨진다.
-thebattlefield,git,Creature List/49/FirstName,0,6008,도마뱀 라이어
+thebattlefield,git,Creature List/49/FirstName,0,6008,도마뱀 소굴
 thebattlefield,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/5/FirstName,0,-1,시체 쌓임
 thebattlefield,git,Creature List/50/Description,0,12686,차가운 눈과 빛나는 검은 깃털을 가진 공중의 청소꾼들은 종종 죽음의 징조나 죽음의 예지로 여겨진다.
-thebattlefield,git,Creature List/50/FirstName,0,6008,도마뱀 라이어
+thebattlefield,git,Creature List/50/FirstName,0,6008,도마뱀 소굴
 thebattlefield,git,Creature List/51/Description,0,12686,차가운 눈과 빛나는 검은 깃털을 가진 공중의 청소꾼들은 종종 죽음의 징조나 죽음의 예지로 여겨진다.
-thebattlefield,git,Creature List/51/FirstName,0,6008,도마뱀 라이어
+thebattlefield,git,Creature List/51/FirstName,0,6008,도마뱀 소굴
 thebattlefield,git,Creature List/52/Description,0,12686,차가운 눈과 빛나는 검은 깃털을 가진 공중의 청소꾼들은 종종 죽음의 징조나 죽음의 예지로 여겨진다.
-thebattlefield,git,Creature List/52/FirstName,0,6008,도마뱀 라이어
+thebattlefield,git,Creature List/52/FirstName,0,6008,도마뱀 소굴
 thebattlefield,git,Creature List/53/Description,0,12686,차가운 눈과 빛나는 검은 깃털을 가진 공중의 청소꾼들은 종종 죽음의 징조나 죽음의 예지로 여겨진다.
-thebattlefield,git,Creature List/53/FirstName,0,6008,도마뱀 라이어
+thebattlefield,git,Creature List/53/FirstName,0,6008,도마뱀 소굴
 thebattlefield,git,Creature List/54/Description,0,12686,차가운 눈과 빛나는 검은 깃털을 가진 공중의 청소꾼들은 종종 죽음의 징조나 죽음의 예지로 여겨진다.
-thebattlefield,git,Creature List/54/FirstName,0,6008,도마뱀 라이어
+thebattlefield,git,Creature List/54/FirstName,0,6008,도마뱀 소굴
 thebattlefield,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,이 의복 은 왕 의 봉사 의 남자 들 과 여자 들 이 입는 옷 으로써 전투 와 의식 의 사용 을 목적으로 한다.
 thebattlefield,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,왕 의복
 thebattlefield,git,Creature List/6/FirstName,0,-1,시체 쌓임
@@ -2731,8 +2731,8 @@ tourofsorrow,git,SoundList/6/LocName,0,-1,횃불 불꽃 (소)
 tourofsorrow,git,SoundList/7/LocName,0,-1,횃불 불꽃 (소)
 tourofsorrow,git,SoundList/8/LocName,0,-1,횃불 불꽃 (소)
 tourofsorrow,git,SoundList/9/LocName,0,-1,횃불 불꽃 (소)
-tourofsorrow,git,TriggerList/0/LocalizedName,0,14759,필치어 죽이기
-tourofsorrow,git,TriggerList/1/LocalizedName,0,14759,필치어 죽이기
+tourofsorrow,git,TriggerList/0/LocalizedName,0,14759,좀도둑 살해자
+tourofsorrow,git,TriggerList/1/LocalizedName,0,14759,좀도둑 살해자
 tourofsorrow,git,TriggerList/10/LocalizedName,0,14759,스티지아 게이트 닫는 자
 tourofsorrow,git,TriggerList/11/LocalizedName,0,14759,스티지아 게이트 닫는 자
 tourofsorrow,git,TriggerList/12/LocalizedName,0,14759,스티지아 게이트 닫는 자
