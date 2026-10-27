@@ -39,7 +39,7 @@ dicebag,dlg,EntryList/7/Text,0,-1,몇 개의 12면 주사위를 굴리고 싶습
 dicebag,dlg,EntryList/8/Text,0,-1,몇 개의 10면 주사위를 굴리고 싶습니까?
 dicebag,dlg,EntryList/9/Text,0,-1,몇 개의 8면 주사위를 굴리고 싶나요?
 dicebag,dlg,ReplyList/0/Text,0,-1,방송 모드 변경
-dicebag,dlg,ReplyList/1/Text,0,-1,<StartAction>[개인]</Start> 나만 굴려 결과를 알려줘.
+dicebag,dlg,ReplyList/1/Text,0,-1,<StartAction>[개인]</Start> 나에게만 주사위 굴림 결과를 보여줍니다.
 dicebag,dlg,ReplyList/10/Text,0,-1,5d100
 dicebag,dlg,ReplyList/100/Text,0,-1,7d20
 dicebag,dlg,ReplyList/101/Text,0,-1,6d20
@@ -110,7 +110,7 @@ dicebag,dlg,ReplyList/16/Text,0,-1,10d20
 dicebag,dlg,ReplyList/160/Text,0,-1,2d4
 dicebag,dlg,ReplyList/161/Text,0,-1,1d4
 dicebag,dlg,ReplyList/162/Text,0,-1,방송 모드 변경
-dicebag,dlg,ReplyList/163/Text,0,-1,<StartAction>[개인]</Start> 나만 굴려 결과를 알려줘.
+dicebag,dlg,ReplyList/163/Text,0,-1,<StartAction>[개인]</Start> 나에게만 주사위 굴림 결과를 보여줍니다.
 dicebag,dlg,ReplyList/164/Text,0,-1,<StartAction>[GLOBAL]</Start> 제 롤을 서버에 있는 모든 사람에게 방송하세요.
 dicebag,dlg,ReplyList/165/Text,0,-1,<StartAction>[지역]</Start> 내 롤을 바로 근처에 있는 사람들에게 알려주세요.
 dicebag,dlg,ReplyList/166/Text,0,-1,d100
@@ -262,7 +262,7 @@ dicebag,dlg,ReplyList/79/Text,0,-1,2d4
 dicebag,dlg,ReplyList/8/Text,0,-1,7d100
 dicebag,dlg,ReplyList/80/Text,0,-1,1d4
 dicebag,dlg,ReplyList/81/Text,0,-1,방송 모드 변경
-dicebag,dlg,ReplyList/82/Text,0,-1,<StartAction>[개인]</Start> 나만 굴려 결과를 알려줘.
+dicebag,dlg,ReplyList/82/Text,0,-1,<StartAction>[개인]</Start> 나에게만 주사위 굴림 결과를 보여줍니다.
 dicebag,dlg,ReplyList/83/Text,0,-1,<StartAction>[GLOBAL]</Start> 제 롤을 서버에 있는 모든 사람에게 방송하세요.
 dicebag,dlg,ReplyList/84/Text,0,-1,<StartAction>[지역]</Start> 내 롤을 바로 근처에 있는 사람들에게 알려주세요.
 dicebag,dlg,ReplyList/85/Text,0,-1,d100
@@ -283,8 +283,8 @@ dicebag,dlg,ReplyList/98/Text,0,-1,9d20
 dicebag,dlg,ReplyList/99/Text,0,-1,8d20
 ww1_alchemytable,dlg,EntryList/0/Text,0,-1,"향신료가 냄비에서 타고 있으며, 방은 강한 보라색 연기로 가득 차 있습니다."
 ww1_angmar,dlg,EntryList/0/Text,0,-1,"근육질의 드워프가 아랫입술을 깨물며 모루를 두드린다. 당신의 기척을 느낀 그는 돌아서서 당신을 본다. ""뭘 원하지?"" 그가 얼굴을 찌푸리며 묻는다."
-ww1_angmar,dlg,EntryList/1/Text,0,-1,"""전체 회사,"" 그는 고개를 끄덕이며, 거의 비어 있는 자신의 가게를 둘러보며 손짓을 한다. 무기와 갑옷은 단순하고 평범하게 보인다. ""나를 샀다,"" 그는 설명하며, 머리에 묻은 흙과 땀을 닦는다."
-ww1_angmar,dlg,EntryList/10/Text,0,-1,"<StartAction>[성공]</Start> ""오, 그래?"" 덤비드는 분노하며 말한다. 아마 며칠 동안 말한 것보다 더 많은 말을 하고 있는 것 같다. ""도둑 손들이 뽑을 수 있는 잠금 뒤에 있는 것보다 엘켄트 트리 밑에 있는 것이 낫다!"""
+ww1_angmar,dlg,EntryList/1/Text,0,-1,"""전부 다요."" 그는 고개를 끄덕인다. 남자가 거의 텅 빈 가게 안을 손짓으로 가리킨다. 무기와 갑옷들은 수수하고 평범해 보인다. ""다 팔아치웠지,"" 그가 이마에 맺힌 그을음 섞인 땀을 훔치며 설명한다."
+ww1_angmar,dlg,EntryList/10/Text,0,-1,"<StartAction>[성공]</Start> ""오, 그래?"" 드워프가 며칠 동안 한 말보다도 더 많은 말을 쏟아내며 발끈합니다. ""도둑놈들이 훔치려고 잠금장치 뒤에 숨겨두는 것보다는 엘켄트리 아래가 낫지!"""
 ww1_angmar,dlg,EntryList/11/Text,0,-1,그는 당신에게 등을 돌리고 또 다시 그의 을 기 시작합니다. 그의 하쪽 입술은 치아 사이에 갇혀 있습니다. 의심할 여지없이 그는 과거에 그를 자극하는 사람들이 충분히 있었다.
 ww1_angmar,dlg,EntryList/12/Text,0,-1,"그 사람 의 손 은 잘 먹여 있는 새우 처럼 날고, 그 의 시체 를 보고 놀란 것 이다. ""무엇 이 잘못 된 것 이다"". 그는 남쪽 을 가리키는 검은 손톱 손가락 으로 말 한다. ""그리드 사업""."
 ww1_angmar,dlg,EntryList/13/Text,0,-1,"남자의 두 손이 옆구리로 떨어진다. 붓고 갈라진 입술이 이빨 우리에서 축 늘어진다. 그가 턱을 내밀어 북쪽 건물을 가리킨다. ""길드 홀이야."" 그가 설명한다."
@@ -312,12 +312,12 @@ ww1_angmar,dlg,EntryList/32/Text,0,-1,"이 드워프는 씹는 동작을 멈추�
 ww1_angmar,dlg,EntryList/4/Text,0,-1,<StartAction>[DC: 13]</Start> 자극적인 전술을 선택합니다.
 ww1_angmar,dlg,EntryList/5/Text,0,-1,이 드워프는 침착해지고 당신을 덜 의심하는 것 같습니다.
 ww1_angmar,dlg,EntryList/6/Text,0,-1,"<StartAction>[성공]</Start> 드워프는 당신의 말을 이해하려는 듯 눈썹을 찌푸립니다. ""엘켄트리 아래…"" 그가 중얼거립니다. ""그걸 묻는 건가?"""
-ww1_angmar,dlg,EntryList/7/Text,0,-1,"<StartAction>[불가 전술]</Start> 죄송합니다, 현재 혼란을 시전할 수 없습니다."
+ww1_angmar,dlg,EntryList/7/Text,0,-1,<StartAction>[잘못된 전술]</Start> 죄송합니다. 현재 혼란을 시전할 수 없습니다.
 ww1_angmar,dlg,EntryList/8/Text,0,-1,"<StartAction>[성공]</Start> ""오, 그래요?"" 은 거칠게 분노하며, 아마도 며칠 동안 말한 것보다 더 많은 말을 하고 있습니다. ""엘켄트 트리 아래로 가서 사람들이 내 작품에 대해 어떻게 생각하는지 보게 될 것입니다!"""
 ww1_angmar,dlg,EntryList/9/Text,0,-1,<StartAction>[실패]</Start> 왜기는 당신을 무시하고 다시 한 번 그의 을 때리기 시작합니다. 그는 그의 치아 사이에 그의 입술을 잡고 씹기 시작합니다.
 ww1_angmar,dlg,ReplyList/0/Text,0,-1,"""보안해"""
 ww1_angmar,dlg,ReplyList/1/Text,0,-1,"""최근 낯선 사람이 왔나?"""
-ww1_angmar,dlg,ReplyList/10/Text,0,-1,"<StartAction>[조롱]</Start> ""이 쓰레기로 내가 가장 좋은 걸 만들어 봤나 봐!"""
+ww1_angmar,dlg,ReplyList/10/Text,0,-1,"<StartAction>[도발: 조롱]</Start> ""내기하건대 이 쓰레기가 네가 만든 최고작일걸!"""
 ww1_angmar,dlg,ReplyList/11/Text,0,-1,"<StartAction>[provoke: 지혜]</Start> ""안전하지 않은 것 같네""..."
 ww1_angmar,dlg,ReplyList/12/Text,0,-1,"<StartAction>[provoke: Cast Confusion]</Start> ""좋아요. 하지만 어디서 숨겼어요?"""
 ww1_angmar,dlg,ReplyList/14/Text,0,-1,"<StartAction>[조롱: Taunt]</Start> ""이 쓰레기는 당신이 만들 수 있는 가장 좋은 거야!"""
@@ -356,7 +356,7 @@ ww1_angmar,dlg,ReplyList/46/Text,0,-1,가자
 ww1_angmar,dlg,ReplyList/47/Text,0,-1,"""이봐, 문을 열기 위해 25골드를 주게."""
 ww1_angmar,dlg,ReplyList/5/Text,0,-1,"""그게 큰 돈을 벌게 해야 할 거야."""
 ww1_angmar,dlg,ReplyList/6/Text,0,-1,"""당신은 많은 돈을 벌었나 봅니다."""
-ww1_angmar,dlg,ReplyList/7/Text,0,-1,<StartAction>[부추기]</Start> 그에게 숨은 곳을 말하게 만들도록 유도한다.
+ww1_angmar,dlg,ReplyList/7/Text,0,-1,<StartAction>[도발]</Start>하여 그가 숨어 있는 장소를 불게 만든다.
 ww1_angmar,dlg,ReplyList/8/Text,0,-1,그를 자극하지 마세요.
 ww1_angmar,dlg,ReplyList/9/Text,0,-1,"<StartAction> [provoke: Cast Confusion]</Start> ""유, 하지만 어디 숨기는거야?"""
 ww1_armsman,dlg,EntryList/0/Text,0,-1,"수비대원은 경계하는 눈빛으로 당신을 쳐다보며 긴장한 상태로 당신을 맞이한다. ""브로건의 팔에서 무엇을 하러 왔느냐?"" 그는 어깨를 돌려 뒤의 그림자를 살피며 물었다."
@@ -367,7 +367,7 @@ ww1_armsman,dlg,EntryList/4/Text,0,-1,"""예, 마스터 자저가 내가 보통 
 ww1_armsman,dlg,EntryList/5/Text,0,-1,"남자가 신음합니다. ""몰라. 아침에 와 보니 예거 주인님이 문에 쪽지를 붙여 두셨더군. 예전에도… 문제가 있었어."""
 ww1_armsman,dlg,EntryList/6/Text,0,-1,"""아무것도요,"" 그는 의도적으로 당신의 시선을 피하며 말한다. ""만약 알고 싶다면, 길드 홀의 전시물을 읽어 보시오. 그건 협의회 승인으로 되어 있으니, 나는 그것과 반대하는 말을 하지 않을 거다."""
 ww1_armsman,dlg,EntryList/7/Text,0,-1,"""그건 남쪽 길이지, 산에서 벗어나는 유일한 길이야. 그 자리에 서 있는 동안 그 길을 지나지 않은 유일한 방법은 브로건에서 태어난 사람 뿐이야."""
-ww1_armsman,dlg,EntryList/8/Text,0,-1,"""아무 문제가 없어,"" 덤비가 으르렁거린다. ""지금이라도 움직이거라."""
+ww1_armsman,dlg,EntryList/8/Text,0,-1,"""아무 문제 없어,"" 드워프가 으르렁거린다. ""자, 지나가라고."""
 ww1_armsman,dlg,EntryList/9/Text,0,-1,"경비원은 짜증나는 표정으로 ""이제 가십시오. 제 업무를 방해하지 않도록 해주세요."""
 ww1_armsman,dlg,ReplyList/0/Text,0,-1,가자
 ww1_armsman,dlg,ReplyList/1/Text,0,-1,"""최근 낯선 사람들이 여기 왔나요?"""
@@ -441,7 +441,7 @@ ww1_barrowcine,dlg,ReplyList/4/Text,0,-1,"""나는 엘프를 위해 여기 왔�
 ww1_barrowcine,dlg,ReplyList/5/Text,0,-1,"""잠깐, 나는 아무것도 모르겠어!"""
 ww1_barrowcine,dlg,ReplyList/6/Text,0,-1,"""잠깐, 난 카바노 돌을 찾아왔어."""
 ww1_barrowconv_1,dlg,EntryList/0/Text,0,-1,"""그 엘프를 쏴!"""
-ww1_barrowconv_1,dlg,EntryList/1/Text,0,-1,"""암이 사라진 거 확실하냐? 아마 추락해서 우리가 찾을 수 없는 어두운 곳으로 스치고 지나갔을지도 몰라."""
+ww1_barrowconv_1,dlg,EntryList/1/Text,0,-1,"""돌이 사라진 게 확실해? 어쩌면 떨어져서 우리가 찾을 수 없는 어두운 구석으로 굴러들어 갔을지도 몰라."""
 ww1_barrowconv_1,dlg,EntryList/2/Text,0,-1,"""카바노 돌이 사라졌어요, 신부님, 그리고 그 안의 브로건의 명예도 외국인이 훔쳐갔어요""."
 ww1_barrowconv_1,dlg,EntryList/3/Text,0,-1,"""네, 그 사람이야, 어딘가에 숨겼어""."
 ww1_barrowconv_1,dlg,EntryList/4/Text,0,-1,"""음마 좀 좀 더 조용해봐요, 마을 전체가 무슨 일이 벌어졌는지 모르게요""."
@@ -581,7 +581,7 @@ ww1_caldrian,dlg,EntryList/11/Text,0,-1,"그 소년 은 거리에 시선을 다.
 ww1_caldrian,dlg,EntryList/12/Text,0,-1,"""왕?"" 그는 단어의 의미를 이해하려고 애쓰는 것을 보고 계시다. ""그런가 봐요,"" 그는 인정한다. ""모든 것을 잊어버렸어."""
 ww1_caldrian,dlg,EntryList/13/Text,0,-1,"그 소년은 땅바닥 아래에 있는 대포를 바라보며 약간 얼굴이 뜨거워진다. ""쥐다."" 그는 인정한다. ""고기는 약간 딱딱하지만 적어도 충분한 공급은 있다."""
 ww1_caldrian,dlg,EntryList/14/Text,0,-1,"엘프가 껍질과 뼈만 드러나는 것처럼 어깨를 으쓱했다. 당신이 말하는 사람을 모르는 것 같지 않나. ""죄송하지만, 어떻게 대답해야 할지 모르겠어. 뭔가 잘못된 것 같아. 나는 다만 작성한 내용만 가지고 있어."""
-ww1_caldrian,dlg,EntryList/15/Text,0,-1,"그는 손가락으로 머리카락을 쓸어 넘기고, 머리가 퍼질러져 있는 상태로 남겼다. 그의 아몬드 모양의 눈은 짜증을 내며 감추고, 상상 속의 하늘을 향해 얼굴을 들어 올렸다. ""우리가 속아넘어갔군."" 그는 한숨을 쉬었다."
+ww1_caldrian,dlg,EntryList/15/Text,0,-1,"그는 손가락으로 머리칼을 쓸어넘겨 헝클어지게 만들었다. 답답하다는 듯 아몬드 같은 눈을 감고는 상상 속의 하늘을 향해 고개를 치켜들었다. ""당한 거군,"" 그가 한숨을 쉰다."
 ww1_caldrian,dlg,EntryList/16/Text,0,-1,"""우리는 마녀가 된 것 같아요. 마법... 어떻게 설명할 수 있을까요?"" 엘프가 그의 손길을 의 차가운 강철에 던지면서 ""내가 기록한 것에 뭔가 있을지도 모른다""."
 ww1_caldrian,dlg,EntryList/17/Text,0,-1,"""나는 기억할 수 있도록 글을 써보려고 했지만, 다시 읽어보면 절반은 말이 안 되는 것 같다."""
 ww1_caldrian,dlg,EntryList/18/Text,0,-1,"""잘 모르겠어. 계속 새로운 메시지를 발견하고 있어."" 불 속에서 기름이 탁탁 튀었지만 젊은 남자는 시선을 돌리지 않았다. ""지금까지 알아낸 건 이 정도야."""
@@ -761,7 +761,7 @@ ww1_firestatue,dlg,ReplyList/0/Text,0,-1,가자
 ww1_firestatue,dlg,ReplyList/1/Text,0,-1,움푹 파인 곳에 손을 넣으세요.
 ww1_firestatue,dlg,ReplyList/2/Text,0,-1,<StartAction>[마법 기구 사용]</Start> 마법을 사용하려고 시도하세요.
 ww1_firestatue,dlg,ReplyList/3/Text,0,-1,에너지가 가라앉게 해주세요.
-ww1_firestatue,dlg,ReplyList/4/Text,0,-1,에너지 방출하라.
+ww1_firestatue,dlg,ReplyList/4/Text,0,-1,에너지를 방출해라.
 ww1_firestatue,dlg,ReplyList/6/Text,0,-1,움푹 파인 곳에 손을 넣으세요.
 ww1_gleerider,dlg,EntryList/0/Text,0,-1,"그 눈빛은 당신의 영혼을 뚫고, 칼을 서로 쏘아, 위협적인 미소를 불러일으키죠."
 ww1_gleerider,dlg,ReplyList/0/Text,0,-1,가자
@@ -771,7 +771,9 @@ ww1_headstone,dlg,EntryList/1/Text,0,-1,"네 손가락 아래에서 이 단어�
 ww1_headstone_1,dlg,EntryList/0/Text,0,-1,"드워프 룬 문자가 돌에 거칠고 깊게 새겨져 있다. 그 아래에는 더 가벼운 손으로 공용어 글귀가 새겨져 있다:
 
 ""군터 블라우하르트, 슈타인파르의 어리석음 전투에서 전사하다."""
-ww1_headstone_2,dlg,EntryList/0/Text,0,-1,"이 장면 은 이리프 성 성 성벽 에 대한 전투 를 묘사 한다. 외로운 이리프 는 웃음 으로 머리 를 던지고 공격 한 군대를 막는다. 이 장면 은 아래 에 유쾌 한 스크립트 로 묘사 되어 있다. ""여기 는 Gleeriders 의 마지막 인 페니모어 Aelde 의 유적 들 이 있다""."
+ww1_headstone_2,dlg,EntryList/0/Text,0,-1,"부조 레플리카 장면은 엘프 성채의 성벽 위에서 벌어지는 전투를 묘사하고 있다. 고개를 뒤로 젖힌 채 웃음을 터뜨리는 홀로 남은 엘프가 공격해오는 무리를 막아내고 있다. 그 아래에는 우아한 필체로 다음과 같은 글이 적혀 있다.
+
+""여기 글리라이더스의 마지막 남은 이인 페니모어 올드의 유해가 잠들어 있다."""
 ww1_headstone_3,dlg,EntryList/0/Text,0,-1,"한 손자국, 크고 거칠게, 돌에 찍혀 있는 것 같습니다. 아래에는 짧은 메시지가 새겨져 있습니다.
 
 ""여행자여, 계속 여행하라..."""
@@ -787,7 +789,7 @@ ww1_helga,dlg,EntryList/12/Text,0,-1,"그는 갑옷을 입고 있었고, 피부�
 ww1_helga,dlg,EntryList/13/Text,0,-1,"""엘프는 밤새 위층 전시실에 있었고, 그가 떠날 때 나는 자고 있었던 모양이오. 아침에 먼지 털러 올라갔을 땐 이미 없었으니까."""
 ww1_helga,dlg,EntryList/14/Text,0,-1,"""그렇게 해드릴 수 있을 것 같아요."" 그녀가 고개를 끄덕인다. ""부족이 뿌리를 늘 기억하도록 의회가 그것들을 위에 보관하고 있어요."""
 ww1_helga,dlg,EntryList/15/Text,0,-1,"""씨족 바깥 사람들은 50길더를 내야 해. 하지만 엘프처럼 상냥하면 절반만 받고 들여보내 줄지도 모르지."""
-ww1_helga,dlg,EntryList/16/Text,0,-1,"회갈색 얼굴 속에서 늙은 드워프의 눈이 빛난다. ""정말이지? 그렇다면 돌 전시물로 우리 전시관을 방문하는 게 어떨까요! 당신이 그것을 찾고 있다면, 그 돌에 대해 알아보는 것은 더 좋은 일이 어디 있겠습니까?"""
+ww1_helga,dlg,EntryList/16/Text,0,-1,"회갈색 얼굴 속에서 늙은 드워프의 눈이 반짝인다. ""그렇지? 그래, 우리한텐 그 돌에 관한 전시관이 통째로 있다네! 자네가 그걸 찾고 있다면, 그에 대해 모조리 알아보는 것보다 더 좋은 일이 어디 있겠나?"""
 ww1_helga,dlg,EntryList/17/Text,0,-1,"""하느님 아시다시피"", 여자 는 외치 는 것 이다. ""협의회 는 어떤 날 들 에 게시 들 의 한 무리 와 비슷 하게 될 것 이다. 서로 를 어. 그것은 카바노 돌 에 관한 것 이다. 내가 아는 것 은 그것 이다""."
 ww1_helga,dlg,EntryList/18/Text,0,-1,"나는 헬가 아인스워터입니다 — W로 표기되어 V처럼 들립니다! 저는 길드 홀을 한 덩어리로 유지하고, 위원회 회의 후에 청소하며, 전시회를 관리합니다. '보울더스보다 나이가 많아요!'라고 저를 부르죠!"
 ww1_helga,dlg,EntryList/19/Text,0,-1,"""내가 무슨 말인지 생각하세요? 이미 보려고 돈을 지불하셨어요. 올라가서 내가 무슨 말인지 확실히 알 수 있을 겁니다""."
@@ -801,11 +803,11 @@ ww1_helga,dlg,EntryList/25/Text,0,-1,<StartAction>[DC: 12]</Start> 호감을 얻
 ww1_helga,dlg,EntryList/26/Text,0,-1,"<StartAction> [실패] </Start> 당신의 마법은 그녀의 붉은 눈을 뚫지 못하는 것 같습니다. ""50 킬러, <boy/girl>... 나는 당신이 마른 것처럼 생각하지 않습니다""."
 ww1_helga,dlg,EntryList/27/Text,0,-1,"<StartAction>[성공]</Start> 늙은 드워프의 눈이 당신의 마법으로 점점 흐려지기 시작합니다. ""25 길더라고요? 왜 그게 좋은 가격인가요?"""
 ww1_helga,dlg,EntryList/28/Text,0,-1,"<StartAction>[불가 전술]</Start> 죄송합니다, 현재 사람 현혹을 사용할 수 없습니다."
-ww1_helga,dlg,EntryList/29/Text,0,-1,"<StartAction>[실패]</Start> 늙은 드워프는 당신의 호소를 웃으며 대답한다. ""당신의 관심은 지갑을, 지갑은 지능을 뛰어넘는다! 설득자여, 나는 네게 충고한다. 50 금화가 필요하고, 그것보다 작은 것은 없다!"""
-ww1_helga,dlg,EntryList/3/Text,0,-1,"""당신의 질문을 고민하다 보니 약간 흔들립니다. 노인 니머마어는 아마 알키메이스트일 수 있어요. 그는 그런 어리석은 생각들이 자신의 생활의 기본이 될 수 있어요. 그는 바로우 사이트 근처에 살고 있어요."""
+ww1_helga,dlg,EntryList/29/Text,0,-1,"<StartAction>[실패]</Start> 늙은 드워프는 당신의 호소에 낄낄거린다. ""네 호기심은 주머니를 넘어서고 네 주머니는 지능을 넘어서는구만! 매력적인 양반, 충고하건대 50 길더요, 그 밑으로는 안 돼!"""
+ww1_helga,dlg,EntryList/3/Text,0,-1,"그녀는 당신의 질문을 고민하며 몸을 살짝 비틀었다. ""늙은이 니머마어라면 알지도 몰라. 그는 연금술사라서 그런 어리석은 상상들이 그의 밥줄이거든. 그는 고인돌 유적지 근처에 살고 있어."""
 ww1_helga,dlg,EntryList/30/Text,0,-1,"<StartAction>[성공]</Start> 그녀는 그녀의 입술을 닦는다. ""좋아, 괜찮아요! 늙은 헤르가를 이용하세요, 왜 안 하시겠습니까? 당신은 태양이 25 킬러에 달하지 않을 것이라고 생각했을 것입니다!"""
-ww1_helga,dlg,EntryList/31/Text,0,-1,"<StartAction>[실패]</Start> 늙은 드워프는 타격을 입은 것 같았다. ""네, 맞아. 하지만... 그건 협의회 규칙이니까. 나처럼 늙은 놈이 할 수 있는 게 없어. 50골드면 네도 해줄게."""
-ww1_helga,dlg,EntryList/32/Text,0,-1,"<StartAction>[성공]</Start> 늙은 드워프는 타격을 받은 것처럼 보인다. ""네, 맞아요. 하지만... 협의회 규칙에 따라야지, 그게 전부야... 오, 돼지 문제! 여기, 동료 드워프를 위해 반으로 던질게요!"""
+ww1_helga,dlg,EntryList/31/Text,0,-1,"<StartAction>[실패]</Start> 늙은 드워프는 큰 충격을 받은 듯했다. ""네 말이 맞다마는... 의회 규칙이 그래. 나 같은 늙은 주정뱅이가 어떻게 해볼 도리가 없구먼. 너라고 해도 50길더는 받아야 해."""
+ww1_helga,dlg,EntryList/32/Text,0,-1,"<StartAction>[성공]</Start> 늙은 드워프는 충격을 받은 듯하다. ""자네 말이 맞지만... 의회 규칙이 그러한 걸 어쩌겠나... 아이고 귀찮아라! 자, 동족 드워프를 위해 내가 절반을 부담하지!"""
 ww1_helga,dlg,EntryList/33/Text,0,-1,"<StartAction>[불가 전술]</Start> 죄송합니다, 이 캐릭터는 같은 인종에 대한 친분만을 표현합니다."
 ww1_helga,dlg,EntryList/34/Text,0,-1,"<StartAction>[실패]</Start> ""다른 녀석들은 그리 값진 녀석들이 아니야,"" 그녀가 웃으며 말한다. ""50 길더나 아무것도, 선생님."""
 ww1_helga,dlg,EntryList/35/Text,0,-1,"<StartAction>[성공]</Start> 그녀가 음탕한 미소를 흘린다. ""뭐든 원하는 대로 사랑해 줄게요, 나리. 그 게임을 할 거라면 25길더로 하죠."""
@@ -833,7 +835,7 @@ ww1_helga,dlg,ReplyList/2/Text,0,-1,"""나는 이 메시지가 물가에 새겨�
 ww1_helga,dlg,ReplyList/21/Text,0,-1,"""나는 카바노 돌을 찾는다."""
 ww1_helga,dlg,ReplyList/22/Text,0,-1,"""나는 카바노 돌을 찾고 있습니다."""
 ww1_helga,dlg,ReplyList/23/Text,0,-1,"""구멍이?"""
-ww1_helga,dlg,ReplyList/24/Text,0,-1,"""어떤 종류의... 키프러프?"""
+ww1_helga,dlg,ReplyList/24/Text,0,-1,"""어떤 종류의... 소동 말인가요?"""
 ww1_helga,dlg,ReplyList/25/Text,0,-1,"""당신은 누구세요?"""
 ww1_helga,dlg,ReplyList/26/Text,0,-1,"""당신은 누구세요?"""
 ww1_helga,dlg,ReplyList/27/Text,0,-1,"""전시장? 그게 무슨 의미야?"""
@@ -851,10 +853,10 @@ ww1_helga,dlg,ReplyList/38/Text,0,-1,"<StartAction>[시작: 친족의 혜택]</S
 ww1_helga,dlg,ReplyList/39/Text,0,-1,"<StartAction>[혜택을 얻으세요: 플러트]</Start> ""당신은 내 돈 때문에 나를 좋아하나 봐."""
 ww1_helga,dlg,ReplyList/4/Text,0,-1,"""그것을 알아내는 사람을 아세요?"""
 ww1_helga,dlg,ReplyList/40/Text,0,-1,"<StartAction>[좋아요: 캐스트 매크 인]</Start> ""25 금은 어때?"""
-ww1_helga,dlg,ReplyList/43/Text,0,-1,"<StartAction>[혜택을 얻으세요: 설득]</Start> ""제 관심은 지갑을 넘었습니다."""
+ww1_helga,dlg,ReplyList/43/Text,0,-1,"<StartAction>[혜택 획득: 설득]</Start> “제발, 제 호기심이 제 주머니 사정을 넘어섰습니다.”"
 ww1_helga,dlg,ReplyList/45/Text,0,-1,"<StartAction>[호감 얻기: 혈연]</Start> ""씨족의 유산에 값을 매기겠다는 건가?"""
 ww1_helga,dlg,ReplyList/48/Text,0,-1,"<StartAction>[혜택을 얻음: 플러트]</Start> ""당신은 내 돈 때문에 나를 사랑하나요?"""
-ww1_helga,dlg,ReplyList/5/Text,0,-1,"""누군가 이걸 번역할 수 있을지 알아보셨나?"""
+ww1_helga,dlg,ReplyList/5/Text,0,-1,"""누가 이걸 번역할 수 있는지 아나?"""
 ww1_helga,dlg,ReplyList/51/Text,0,-1,"""여기 50골드. 전시물을 보고 싶어요."""
 ww1_helga,dlg,ReplyList/52/Text,0,-1,"""여기 50골드 있습니다. 전시물을 보여주세요."""
 ww1_helga,dlg,ReplyList/53/Text,0,-1,가자
@@ -881,14 +883,14 @@ ww1_ilsa,dlg,EntryList/21/Text,0,-1,"그 여인은 소시지 같은 손을 내�
 ww1_ilsa,dlg,EntryList/22/Text,0,-1,"""바로 옆에 있는 나무 건물이야. 아래 광산으로 내려가는 수갱을 덮고 있지. 한때 아래에는 내 주먹만 한 보석도 있었는데 이제는 없어. 지금은 주로 철을 캐."""
 ww1_ilsa,dlg,EntryList/23/Text,0,-1,"""브로건의 팔에 있는 우리 통치체입니다. 주로 부족의 장로들과 그 같은 사람들로 구성되어 있습니다. 만약 여러분들이 그렇게 관심이 있다면,"
 ww1_ilsa,dlg,EntryList/24/Text,0,-1,"""네, 어제 대략 50명 정도가 지나갔어요. 저는 직접 본 적은 없지만 남편은 그들이 남쪽의 어떤 먼 기사단의 기사들이라고 말했어요."""
-ww1_ilsa,dlg,EntryList/25/Text,0,-1,"""아마 그들은 북쪽 경로를 통해 북상했다. 밤 하가를 보기 위해 왔을 거라고 생각하지만, 그 이유는 잘 모르겠다. 하지만 때때로는 그녀를 찾아오는 사람들이 있다."""
+ww1_ilsa,dlg,EntryList/25/Text,0,-1,"""고갯길을 통해 북쪽으로 올라간 모양이더군. 영문은 모르겠지만 아마 나이트 해그를 만나러 온 거겠지. 그래도 가끔 그녀를 찾는 사람들이 지나가곤 해."""
 ww1_ilsa,dlg,EntryList/26/Text,0,-1,"여자는 몸무게를 다른 발로 옮기며 몸을 펴는데, 새로운 빛에서 눈 아래에 어두운 눈가가 형성되기 시작하는 것을 볼 수 있습니다."
 ww1_ilsa,dlg,EntryList/27/Text,0,-1,"이 반석 같은 와이번은 잠시 생각했다. ""그릴드 협의회는 이 점에 대해 잘 알고 있을 거예요. 관심이 있다면, 길드 홀의 헬가에게 물어보는 게 좋을 거예요."""
 ww1_ilsa,dlg,EntryList/28/Text,0,-1,"""그 여자는 마녀야. 고갯길 묘지에서 계속 내려와 더러운 누더기를 팔아. 우리 드워프는 가능한 한 그녀를 피하니, 자네도 그러는 게 현명해."""
 ww1_ilsa,dlg,EntryList/29/Text,0,-1,"""아뇨, <sir/madam> 안 사요. 그 여자 는 틀림 없이 죽은 사람 들 의 시체 에서 훔쳐가는 것 입니다""."
 ww1_ilsa,dlg,EntryList/3/Text,0,-1,<StartAction>[DC: 12]</Start> 속임수 전술을 선택합니다.
 ww1_ilsa,dlg,EntryList/30/Text,0,-1,"""카바노 돌? 바로우 지점에서? 구일드 협의회는 폭풍 속에서 어제 밤에 와서 내 남편을 찾아서 돌에 문제가 있다고 말했습니다. 그 이후로 돌아오지 않았습니다""."
-ww1_ilsa,dlg,EntryList/31/Text,0,-1,"여자의 눈은 피곤한 시선으로 내다보며, 분명히 혼란 이후 잠을 이루지 못한 것 같았다. ""나는 어떻게 알 수 있을까? 하지만 모든 위원회는 활동하고 있었고, 그들은 내 남편이 필요하다고 말했다."""
+ww1_ilsa,dlg,EntryList/31/Text,0,-1,"여자는 피로한 눈으로 당신을 바라보았다. 소동이 일어난 이후로 잠을 한숨도 못 잔 것이 분명했다. ""내가 어떻게 알겠어? 하지만 의회 전체가 소란스러웠고, 내 남편이 필요하다고 하더군."""
 ww1_ilsa,dlg,EntryList/32/Text,0,-1,"""그건 남쪽의 큰 건물입니다. 하늘로 펼쳐져 있고, 노인 카바노가 브로건의 부서진 팔을 처음 발견한 밤 클랜이 자던 곳입니다."""
 ww1_ilsa,dlg,EntryList/33/Text,0,-1,"그 여자 는 그 의 을 보고 숨쉬는 것 이다. ""진짜 는 아무도 모른다. 전설 은 브로건 의 깨진 팔 이 지하 세계 에서 나오자, 그 팔 은 카바노 돌 을 손목 에 꽉 쥐고 있었다고만 한다""."
 ww1_ilsa,dlg,EntryList/34/Text,0,-1,"""보아라, 당신이 사물의 역사에 대해 호기심이 있다면, 당신은 최선으로 길드 홀에 가서 헬가와 이야기를 나누는 것이 좋을 것이다."" 그녀는 돌아가며 엮기를 다시 시작하는 것을 의지하고 있었다."
@@ -901,7 +903,7 @@ ww1_ilsa,dlg,EntryList/8/Text,0,-1,"<StartAction>[실패]</Start> 그녀의 눈 
 ww1_ilsa,dlg,EntryList/9/Text,0,-1,"<StartAction> [성공] </Start> 여자 가 붉어지고, 밝은 회색 표면에 환영의 색이 나타납니다. ""정말 죄송합니다. 우리가 기다리는 동안 어떻게 도와드릴 수 있을까요?"""
 ww1_ilsa,dlg,ReplyList/1/Text,0,-1,가자
 ww1_ilsa,dlg,ReplyList/10/Text,0,-1,"<StartAction>[Fool: Perform]</Start> ""I am <Lord/Lady> <LastName>, at your husband's service."""
-ww1_ilsa,dlg,ReplyList/11/Text,0,-1,"<StartAction>[이매: 속임수]</Start> ""그는 곧 올 것이고 나를 앞서 보내게 될 것이다."""
+ww1_ilsa,dlg,ReplyList/11/Text,0,-1,"<StartAction>[바보: 허세]</Start> ""그는 곧 올 것이고 나를 먼저 보냈어."""
 ww1_ilsa,dlg,ReplyList/13/Text,0,-1,"""보안해"""
 ww1_ilsa,dlg,ReplyList/14/Text,0,-1,"""브로건의 팔에 대해 알아야 해요""."
 ww1_ilsa,dlg,ReplyList/15/Text,0,-1,"""브로건의 팔에 대해 알아야 해요""."
@@ -931,7 +933,7 @@ ww1_ilsa,dlg,ReplyList/36/Text,0,-1,"""어느 것이니?"""
 ww1_ilsa,dlg,ReplyList/37/Text,0,-1,"""그릴드 협의회? 그게 뭐야?"""
 ww1_ilsa,dlg,ReplyList/38/Text,0,-1,"""게이드 콘슬턴트. 그게 뭐야?"""
 ww1_ilsa,dlg,ReplyList/39/Text,0,-1,"""다른 낯선 사람이 지나가나요?"""
-ww1_ilsa,dlg,ReplyList/4/Text,0,-1,알도 베라 (<StartAction> [Fool]</Start>) 는 남편의 동료라고 주장합니다.
+ww1_ilsa,dlg,ReplyList/4/Text,0,-1,<StartAction>[바보]</Start> 그녀 남편의 동료라고 주장한다.
 ww1_ilsa,dlg,ReplyList/40/Text,0,-1,"""최근에 낯선 사람이 마을을 지나쳤나요?"""
 ww1_ilsa,dlg,ReplyList/42/Text,0,-1,"""다른 질문으로 돌아가, 알았어?"""
 ww1_ilsa,dlg,ReplyList/43/Text,0,-1,"""죄송합니다. 다시 다른 질문으로 돌아가겠습니다."""
@@ -939,7 +941,7 @@ ww1_ilsa,dlg,ReplyList/44/Text,0,-1,"""이 기사들에 대해 누가 더 잘 �
 ww1_ilsa,dlg,ReplyList/45/Text,0,-1,"""이 기사들에 대해 알려 줄 사람이 누구죠?"""
 ww1_ilsa,dlg,ReplyList/46/Text,0,-1,"""나이트 헤그에 대해 뭘 알겠어?"""
 ww1_ilsa,dlg,ReplyList/47/Text,0,-1,"""나이트 헤그에 대해 뭘 알겠어?"""
-ww1_ilsa,dlg,ReplyList/48/Text,0,-1,"""밤 여신이 래그 판매자일까?"""
+ww1_ilsa,dlg,ReplyList/48/Text,0,-1,"""나이트 해그가 넝마 장수라고?"""
 ww1_ilsa,dlg,ReplyList/49/Text,0,-1,"""밤 하그가 옷차림을 팔죠?"""
 ww1_ilsa,dlg,ReplyList/5/Text,0,-1,"<StartAction>[미치한: 사람 현혹]</Start> ""우우, 그는 이미 나를 알고 있다."""
 ww1_ilsa,dlg,ReplyList/50/Text,0,-1,"""나는 카바노 돌을 찾는다."""
@@ -963,7 +965,7 @@ ww1_ilsa,dlg,ReplyList/66/Text,0,-1,"""지하세계에서""?"
 ww1_ilsa,dlg,ReplyList/67/Text,0,-1,"""지하세계에서""?"
 ww1_ilsa,dlg,ReplyList/68/Text,0,-1,"""그럼 어떻게 길드홀로 가는 거야?"""
 ww1_ilsa,dlg,ReplyList/69/Text,0,-1,"""길드 홀로 어떻게 가면 좋나?"""
-ww1_ilsa,dlg,ReplyList/7/Text,0,-1,"<StartAction>[미친놈: 속임수]</Start> ""그는 곧 올 거야. 나가 먼저 보내지."""
+ww1_ilsa,dlg,ReplyList/7/Text,0,-1,"<StartAction>[바보: 속임수]</Start> ""그가 곧 온다. 내가 먼저 보내졌다."""
 ww1_ilsa,dlg,ReplyList/8/Text,0,-1,"<StartAction>[미치기: 캐스트 매력은 사람]</Start> ""당신의 남편은 이미 나를 알고 있습니다""."
 ww1_itemhandler,dlg,EntryList/0/Text,0,-1,당신은 나이트 해그가 준 마법사의 타로트를 바라봅니다. 그림은 턱이 뾰족한 인물이 피투성이의 손으로 금잔을 뻗치는 모습을 보여줍니다. 당신에게는 한 가지 시각이 들어옵니다...
 ww1_itemhandler,dlg,EntryList/1/Text,0,-1,"너 자신을 배신한 바보와 함께 여행하는 걸 상상해보라. 그는 너의 얼굴을 더 이상 알아보지 못하고, 함께하는 긴 여정 동안 너를 알아보지 못할 것이다."
@@ -983,7 +985,7 @@ ww1_itemhandler,dlg,EntryList/21/Text,0,-1,당신은 마법사의 나이트 해�
 ww1_itemhandler,dlg,EntryList/22/Text,0,-1,"따뜻한 돌 바닥에 피가 있었고, 성당에서 전투의 소리가 울려 퍼져 있었습니다."
 ww1_itemhandler,dlg,EntryList/23/Text,0,-1,당신은 더 많은 것을 기억하기 위해 노력하지만 당신의 마음을 가득 채우는 유일한 이미지는 먼지 회색의 하늘입니다.
 ww1_itemhandler,dlg,EntryList/24/Text,0,-1,이 치명적인 나이트시드 식물의 건조 된 잎은 당신이 구입한 나이트 헤그에 의해 조심스럽게 포장되어 있습니다. 이 양을 섭취하면 신속하지만 고통 없는 죽음으로 이어질 것입니다.
-ww1_itemhandler,dlg,EntryList/25/Text,0,-1,맛은 쓴맛과 달콤함이 혼합된 것처럼 느껴진다. 몇 초 만에numbness가 몸 전체로 퍼져나가기 시작한다. 당신은 눈을 감고... 떠나가기 시작한다...
+ww1_itemhandler,dlg,EntryList/25/Text,0,-1,맛은 달콤 쌉싸름하다. 몇 초 만에 온몸으로 퍼져나가는 저림을 느낄 수 있다. 당신은 눈을 감고... 스르륵... 의식을 잃어간다...
 ww1_itemhandler,dlg,EntryList/26/Text,0,-1,이 종이 조각에는 여전히 원본 엘프의 메시지가 신중히 복사되었습니다.
 ww1_itemhandler,dlg,EntryList/27/Text,0,-1,<StartAction>[실패]</Start> 엘프 문자를 해독하려고 머리를 쥐어짜 보지만 소용이 없습니다.
 ww1_itemhandler,dlg,EntryList/28/Text,0,-1,"<StartAction>[성공]</Start> 당신은 페이지의 뒤쪽에 번역을 만들 수 있습니다: ""카바노 돌이 브로건 눈물을 낳았다면, 어머니를 찾기 위해서는 아이를 쫓아야 합니다""."
@@ -991,7 +993,7 @@ ww1_itemhandler,dlg,EntryList/29/Text,0,-1,"""카바노 돌이 브로건의 눈�
 ww1_itemhandler,dlg,EntryList/3/Text,0,-1,"마녀의 타로트, 나이트 하그가 준 것을 보면, 황금 컵에 손을 잡고 있는 그림이 그려져 있습니다. 친구들과 동포들은 그 그림이 도달할 수 있는 곳에 올라갑니다."
 ww1_itemhandler,dlg,EntryList/30/Text,0,-1,이 종이 조각에 원본 엘프의 메시지가 열심히 복사되어 있습니다. 아무리 노력해도 그 의미를 알 수 없네요. 번역자를 찾아야겠네요.
 ww1_itemhandler,dlg,EntryList/31/Text,0,-1,녹슨 투구는 잘 맞지 않고 불편한 움푹 팬 자국이 몇 군데 있습니다. 바이저는 들어 올려진 채 그 위치에 녹슬어 고정되어 있습니다.
-ww1_itemhandler,dlg,EntryList/32/Text,0,-1,이 황색된 헬멧은 황색된 비저와 함께 있다. 금속이 자신을 향해 크르르 소리내며 당신이 락과 닫기 위해 노력할 때.
+ww1_itemhandler,dlg,EntryList/32/Text,0,-1,이 녹슨 투구는 마찬가지로 녹슨 가리개를 함께 갖추고 있다. 투구를 들어 올리고 내리려고 하면 금속끼리 삐걱거리는 소리가 난다.
 ww1_itemhandler,dlg,EntryList/33/Text,0,-1,"투구를 쓴다. 잘 맞지 않고, 불편하게 움푹 팬 곳이 몇 군데 있다."
 ww1_itemhandler,dlg,EntryList/34/Text,0,-1,"금속이 괴로운 소리를 내며 비저를 강제로 내려놓는다. 갑자기 비저가 무거운 소리와 함께 닫히고, 눈을 뜨자 그릴을 통해 다른 장소와 다른 시대를 바라보고 있는 것을 발견한다."
 ww1_itemhandler,dlg,EntryList/35/Text,0,-1,"당신은 숲 속 광장 위에 서 있으며, 팔꿈치에 쌍사포를 들고 있습니다. 오른쪽으로는 깊은 골이 내려다보이며, 앞에 긴 다리가 뻗어 있어 전투가 치열하게 벌어지고 있습니다."
@@ -1002,16 +1004,16 @@ ww1_itemhandler,dlg,EntryList/39/Text,0,-1,틈이 없어서 끔찍한 존재가 
 ww1_itemhandler,dlg,EntryList/4/Text,0,-1,"여러분은 오랜 친구와 만나고 있는 것을 상상해 보세요. 그 친구와 함께 많은 거리를 여행한 적이 있습니다. 두 사람이 이야기를 교환하는 동안, 근처에 있는 침에 고기가 구워지고 있습니다. 그는 여러분을 도와달라고 권합니다."
 ww1_itemhandler,dlg,EntryList/40/Text,0,-1,"이 정교하게 제작된 창칼을 바라보면서, 아흐메드 왕자의 부서진 몸이 그 위에 매달려 있는 기억이 떠오릅니다. 당신의 마음은 절망으로 가득하며, 머릿속은 어두운 생각으로 가득합니다."
 ww1_itemhandler,dlg,EntryList/41/Text,0,-1,<StartAction>[의지굴림: 실패]</Start> 당신은 그것을 할 수 없습니다. 울면서 눈을 돌립니다.
-ww1_itemhandler,dlg,EntryList/42/Text,0,-1,"<StartAction>[의지굴림: 성공]</Start> 회색 같은 작업을 견디기 위해 마음을 굳히고, 당신은 가슴으로pike를 박아넣는다."
+ww1_itemhandler,dlg,EntryList/42/Text,0,-1,"<StartAction>[의지 내성굴림: 성공]</Start> 끔찍한 임무에 맞서 마음을 굳게 먹고, 당신은 가슴에 창을 꽂아 넣는다."
 ww1_itemhandler,dlg,EntryList/43/Text,0,-1,"의 넓은 머리가 肋骨 사이를 지나가는 것을 느낄 때 고통의 충격이 생기게 됩니다. 서서히, 당신 주변의 모든 것이 검은색으로 사라집니다."
 ww1_itemhandler,dlg,EntryList/44/Text,0,-1,이곳에 대한 기억은 아직 너무 생생하다. 왕자의 얼굴이 떠올라 도저히 해낼 수 없다. 당신은 흐느끼며 고개를 돌린다.
 ww1_itemhandler,dlg,EntryList/45/Text,0,-1,반지는 손가락에 차가워지고 얇게 느껴진다. 어두운 형상들이 철대를 둘러싸고 혼돈적으로 춤을 추고 있다.
 ww1_itemhandler,dlg,EntryList/46/Text,0,-1,"당신은 반지의 과거 속삭임을 찾기 위해 귀를 기울입니다만, 바람 속에서 아무것도 들리지 않습니다. 적어도 지금은 사라진 것 같습니다."
 ww1_itemhandler,dlg,EntryList/47/Text,0,-1,"먼 거리에서 보이지 않는 바람에 의해 찢어지는 속삭임을 듣고, 반지를 바라봅니다."
 ww1_itemhandler,dlg,EntryList/48/Text,0,-1,이 이상한 철 반지를 바라보며 빛을 향해 들고 있습니다. 혼돈의 형상들이 그 가장자리에 따라 끝없이 춤을 추고 있습니다.
-ww1_itemhandler,dlg,EntryList/49/Text,0,-1,손가락에 반지를 끼우자 금속이 차가운 느낌이 들고 용서를 받지 못하는 듯한 느낌도 든다. 이번에는 아무 소리도 들리지 않는다. 속삭임은 적어도 지금은 사라진 것 같다.
+ww1_itemhandler,dlg,EntryList/49/Text,0,-1,손가락에 반지를 끼우자 차갑고 매정한 금속의 감촉이 느껴진다. 이번에는 아무 소리도 들리지 않는다. 적어도 지금은 속삭임이 사라진 것 같다.
 ww1_itemhandler,dlg,EntryList/5/Text,0,-1,더 많이 보려고 하지만 시력이 사라집니다. 당신이 붙잡을 수 있는 것은 금색의 성금잔의 이미지 뿐입니다.
-ww1_itemhandler,dlg,EntryList/50/Text,0,-1,"손가락에 반지를 끼우자 금속이 차가운데도 용서를 내지 않았다. 그렇게 하는 순간, 멀리서 들려오는 속삭임이 보이지 않는 바람에 찢어져 있었다."
+ww1_itemhandler,dlg,EntryList/50/Text,0,-1,"당신이 반지를 손가락에 끼우자, 금속은 차갑고 매정하기 그지없었다. 반지를 끼우는 순간, 보이지 않는 바람에 찢긴 먼 곳의 속삭임이 들려왔다."
 ww1_itemhandler,dlg,EntryList/51/Text,0,-1,"속삭임은 점점 가까워져 온 사방에서 들리는 듯합니다. ""<FullName>"" 하고 그것이 숨결처럼 말합니다. ""돌아와 줘서 기쁘구나. 그대는 왕자께 큰 영예를 안겼다."""
 ww1_itemhandler,dlg,EntryList/52/Text,0,-1,"""당신 은 그 를 들어갔으며, 그 의 마음 을 들어갔으며, 그 들 은 자신 들 의 마음 을 들어갔으며, 당신 은 그 의 뜻 을 따르고, 그 들 의 뜻 을 계속 하십니다. 그 점 을 잊지 마십시오""."
 ww1_itemhandler,dlg,EntryList/53/Text,0,-1,"그 속삭이는 당신의 뼈 안에 울려 퍼져 있습니다. ""왕자는 죽었으니, 왕자는 오래 살거라""."
@@ -1029,10 +1031,10 @@ ww1_itemhandler,dlg,EntryList/8/Text,0,-1,"더 많이 볼려고 하지만 비전
 ww1_itemhandler,dlg,EntryList/9/Text,0,-1,"당신은 마녀의 나이트 해그가 준 전쟁사제의 타로를 바라봅니다. 그림에는 흰색 옷을 입은 인물이 그려져 있으며, 빛의 축이 그 얼굴을 성스러운 빛으로 비춰줍니다. 갑자기 당신은 기억납니다..."
 ww1_itemhandler,dlg,ReplyList/16/Text,0,-1,타로 카드를 내려놔
 ww1_itemhandler,dlg,ReplyList/17/Text,0,-1,치명적인 다크나이트셰이드를 내려놔.
-ww1_itemhandler,dlg,ReplyList/18/Text,0,-1,치명적인 다크나이트셰이드를 입에 넣으시오.
+ww1_itemhandler,dlg,ReplyList/18/Text,0,-1,치명적인 투구꽃을 입에 넣으시오.
 ww1_itemhandler,dlg,ReplyList/20/Text,0,-1,종이 조각을 내려놓아요
 ww1_itemhandler,dlg,ReplyList/21/Text,0,-1,<StartAction>[lore]</Start> 메시지를 번역하세요.
-ww1_itemhandler,dlg,ReplyList/22/Text,0,-1,<StartAction>[레이스]</Start> 메시지를 읽으시오.
+ww1_itemhandler,dlg,ReplyList/22/Text,0,-1,<StartAction>[종족]</Start> 메시지를 읽습니다.
 ww1_itemhandler,dlg,ReplyList/23/Text,0,-1,종이 조각을 내려놓아요
 ww1_itemhandler,dlg,ReplyList/24/Text,0,-1,헬멧을 내려놔
 ww1_itemhandler,dlg,ReplyList/25/Text,0,-1,부식된 헬멧을 쓰다.
@@ -1085,7 +1087,7 @@ ww1_johann,dlg,ReplyList/11/Text,0,-1,"""그분은 크래그 고양이가 당신
 ww1_johann,dlg,ReplyList/12/Text,0,-1,"""그는 당신을 죽인 암벽 고양이에 대해 말해줬어요""."
 ww1_johann,dlg,ReplyList/13/Text,0,-1,"""번하르트 말하길 겨울 넘기고 짝도 찾았다."""
 ww1_johann,dlg,ReplyList/14/Text,0,-1,"""번하르트 말로는 겨울을 넘기고 짝도 찾았다더군."""
-ww1_johann,dlg,ReplyList/15/Text,0,-1,"<StartAction>[거짓]</Start> ""그는 복수를 위해 잡아서 죽인다."""
+ww1_johann,dlg,ReplyList/15/Text,0,-1,"<StartAction>[거짓말]</Start> ""그는 복수를 위해 그것을 쫓아가 죽였다오."""
 ww1_johann,dlg,ReplyList/16/Text,0,-1,"<StartAction>[거짓]</Start> ""그는 당신을 복수하기 위해 추적하여 죽였습니다."""
 ww1_johann,dlg,ReplyList/18/Text,0,-1,"""그는 여전히 클랜의 엘켄비스트 떼를 돌고 있습니다."""
 ww1_johann,dlg,ReplyList/19/Text,0,-1,"""그는 여전히 클랜의 엘켄비스트 양육을 하고 있습니다."""
@@ -1096,7 +1098,7 @@ ww1_johann,dlg,ReplyList/5/Text,0,-1,"""당신은 누구세요?"""
 ww1_johann,dlg,ReplyList/6/Text,0,-1,"""당신은 누구세요?"""
 ww1_johann,dlg,ReplyList/7/Text,0,-1,"""버너하르트 헌터스펠트의 형제입니까?"""
 ww1_johann,dlg,ReplyList/8/Text,0,-1,"""버너하르트 헌터스펠트의 형제입니까?"""
-ww1_johann,dlg,ReplyList/9/Text,0,-1,"""미안하지만, 당신이 원하는 대로 말해야 하는 게 모르겠어."""
+ww1_johann,dlg,ReplyList/9/Text,0,-1,"""미안. 내가 무슨 말을 해야 할지 모르겠어."""
 ww1_launchww2,dlg,EntryList/0/Text,0,-1,"축하합니다! 롭 바르텔이 제작한 5부작 <StartAction>마녀의 깨어남</Start> 시리즈의 첫 번째 모듈인 ""전장의 들판""을 성공적으로 완료했습니다."
 ww1_launchww2,dlg,EntryList/1/Text,0,-1,"""마녀 사냥꾼""의 2부를 시작하시겠습니까? 캐릭터들은 자동으로 저장되며 스토리 정보는 새로운 모듈로 전송되기 전에 <StartAction>마녀의 깨우침</Start> 데이터베이스에 저장됩니다."
 ww1_launchww2,dlg,EntryList/2/Text,0,-1,"아주 잘, 하지만 당신은 스태인파어 광산 안에 봉쇄되어 있습니다. 쥐들은 약하지만 여전히 많아서 당신을 죽일 수 있습니다. 언제든 준비가 되면 나에게 돌아와서 다음 모듈을 시작하도록 제가 발동시켜 드리겠습니다."
@@ -1114,11 +1116,11 @@ ww1_memorial,dlg,EntryList/13/Text,0,-1,돌에 철저히 문장의 시작 부분
 ww1_memorial,dlg,EntryList/14/Text,0,-1,"작업은 고되고 더디며, 손에 쥔 끌은 얼음처럼 차갑습니다."
 ww1_memorial,dlg,EntryList/15/Text,0,-1,"작업은 고되고 더디며, 손에 쥔 끌은 얼음처럼 차갑습니다."
 ww1_memorial,dlg,EntryList/16/Text,0,-1,"작업은 고되고 더디며, 손에 쥔 끌은 얼음처럼 차갑습니다."
-ww1_memorial,dlg,EntryList/17/Text,0,-1,"눈앞에서 땀을 닦아서, 당신은 당신의 일에 눈을 뜨게 됩니다. 이제 그것을 바꾸기에는 너무 늦습니다."
+ww1_memorial,dlg,EntryList/17/Text,0,-1,이마의 땀을 훔치며 당신은 작업한 물건을 바라봅니다. 이제 와서 고치기에는 너무 늦었습니다.
 ww1_memorial,dlg,EntryList/18/Text,0,-1,끌과 망치를 배낭에 다시 넣고 일어선다.
 ww1_memorial,dlg,EntryList/19/Text,0,-1,"마지막 발자국으로, 당신은 당신의 이름으로 ""<FullName>""를 습니다."
-ww1_memorial,dlg,EntryList/2/Text,0,-1,<StartAction>[DC: 11]</Start> 당신은 팩에서 돌가공자의 도끼를 꺼내 손잡이를 잡아당기고 망치에 꼭 붙인다. 이 끔찍한 장소에 당신의 기호를 남기고 싶은 갑작스러운 욕구를 느낀다.
-ww1_memorial,dlg,EntryList/20/Text,0,-1,"글자는 부드럽지 않고, 줄은 각 방향으로 기울어져 있습니다. 그래도 무엇이 적혀 있는지 알아볼 수 있습니다."
+ww1_memorial,dlg,EntryList/2/Text,0,-1,<StartAction>[DC: 11]</Start> 당신은 배낭에서 석공의 정을 꺼내 망치를 쥔 손에 힘을 단단히 줍니다. 이 끔찍한 장소에 당신의 흔적을 남겨야겠다는 느닷없는 충동이 솟구칩니다.
+ww1_memorial,dlg,EntryList/20/Text,0,-1,"글자는 엉망진창이고, 줄은 사방으로 기울어져 있다. 그럼에도 무엇이라고 적혀 있는지 알아볼 수 있다:"
 ww1_memorial,dlg,EntryList/21/Text,0,-1,"문자 는 단순 이긴 하지만 깨끗 하고 직선 이지만, 분명 히 사랑 과 주의 로 조각 되어 있다. 그 문장 은 깊고 가시 로 보이지만, 멀리 떨어져 있더라도 알 수 있다."
 ww1_memorial,dlg,EntryList/22/Text,0,-1,"""<CUSTOM9385><CUSTOM9386><CUSTOM9387><CUSTOM9388>"" <CUSTOM9389>"
 ww1_memorial,dlg,EntryList/23/Text,0,-1,"기석과 해머를 준비하면서, 어떤 말들이 그러한 개막선을 이어갈 수 있는지 생각해보세요."
@@ -1134,7 +1136,7 @@ ww1_memorial,dlg,EntryList/31/Text,0,-1,"칼과 주조를 준비하면서, 당�
 ww1_memorial,dlg,EntryList/32/Text,0,-1,"칼과 주조를 준비하면서, 당신은 메시지에 적절한 마침표를 생각합니다."
 ww1_memorial,dlg,EntryList/33/Text,0,-1,"칼과 주조를 준비하면서, 당신은 메시지에 적절한 마침표를 생각합니다."
 ww1_memorial,dlg,EntryList/34/Text,0,-1,"칼과 주조를 준비하면서, 당신은 메시지에 적절한 마침표를 생각합니다."
-ww1_memorial,dlg,EntryList/35/Text,0,-1,짐 속에 돌가위의 무게를 느낄 수 있다. 만약에 망치라도 있으면 좋을 텐데.
+ww1_memorial,dlg,EntryList/35/Text,0,-1,배낭 안에서 석공용 정의 무게가 느껴진다. 그 정을 두드릴 망치만 있다면 좋을 텐데.
 ww1_memorial,dlg,EntryList/36/Text,0,-1,"석의 흰 얼굴에 새겨진 메시지가 남아 있습니다. 눈은 균열에 쌓이기 시작했지만, 글씨는 여전히 최근에 새겨진 것 같습니다."
 ww1_memorial,dlg,EntryList/4/Text,0,-1,<StartAction> [성공]</Start> 첫 번째 타격은 빠르고 확실하고 문자는 우아합니다. 당신은 자신있게 계속됩니다.
 ww1_memorial,dlg,EntryList/5/Text,0,-1,돌에 철저히 문장의 시작 부분을 새겨넣습니다.
@@ -1222,7 +1224,7 @@ ww1_memorial,dlg,ReplyList/79/Text,0,-1,"""...자신의 목숨을 바친 사람�
 ww1_memorial,dlg,ReplyList/8/Text,0,-1,"""우리는 모두 죽지만 어쨌든 승리한다."""
 ww1_memorial,dlg,ReplyList/80/Text,0,-1,"""...내가 싸우게 도와주는 사람."""
 ww1_memorial,dlg,ReplyList/81/Text,0,-1,"""...내 옆에서 싸웠던"""
-ww1_memorial,dlg,ReplyList/82/Text,0,-1,메시지를 서명하지 말고 남겨두세요.
+ww1_memorial,dlg,ReplyList/82/Text,0,-1,메시지에 서명하지 말고 남겨두어라.
 ww1_memorial,dlg,ReplyList/83/Text,0,-1,네 이름을 서명해
 ww1_memorial,dlg,ReplyList/84/Text,0,-1,메세지를 읽어봐
 ww1_memorial,dlg,ReplyList/87/Text,0,-1,메시지를 완성하세요.
@@ -1253,7 +1255,7 @@ ww1_morrius,dlg,EntryList/0/Text,0,-1,백발백중으로 희미한 이 귀신성
 ww1_morrius,dlg,EntryList/1/Text,0,-1,"""<FirstName>!"" he barks, his voice gruff and dry. ""Thank the gods ye've come. Ye be in grave danger, <lad/lass>."""
 ww1_morrius,dlg,EntryList/10/Text,0,-1,"그는 동의하고, 그의 야만적인 상처를 넘어서 팔을 고, 비공개로 바라보고 돌아갑니다."
 ww1_morrius,dlg,EntryList/11/Text,0,-1,"그는 놀라 뒤로 물러섭니다. ""거짓말쟁이! 거짓말! 내게서 떨어져, 이 개 같은 놈아! 저리 가!"" 그는 당신의 존재에 갑자기 겁을 먹은 듯 공황 상태에 빠져 있습니다."
-ww1_morrius,dlg,EntryList/12/Text,0,-1,"<StartAction>[DC: 12]</Start> 배를 붙잡으며, 그는 당신을 야생적으로 바라보고 있습니다."
+ww1_morrius,dlg,EntryList/12/Text,0,-1,<StartAction>[근력/판정 DC: 12]</Start> 그는 배를 움켜쥔 채 광기 어린 눈으로 당신을 바라보았다.
 ww1_morrius,dlg,EntryList/13/Text,0,-1,"<StartAction>[무효한 전술]</Start> 죄송합니다, 현재 당신은 ""공황을 제거하라""를 캐스팅할 수 없습니다."
 ww1_morrius,dlg,EntryList/14/Text,0,-1,"<StartAction>[불가 전술]</Start> 죄송합니다, 현재 사람 현혹을 사용할 수 없습니다."
 ww1_morrius,dlg,EntryList/15/Text,0,-1,"<StartAction>[실패]</Start> 유령 드워프는 점점 더 분노하고, 입에서 거품이 끓기 시작한다. 당신이 가까이 갈 때마다 보이지 않는 힘이 그를 다시 물리치기 전에 당신을 물려고 뛰어든다."
@@ -1308,7 +1310,7 @@ ww1_morrius,dlg,ReplyList/20/Text,0,-1,"""감사합니다, 잘 지켜볼게."""
 ww1_morrius,dlg,ReplyList/21/Text,0,-1,"""그래, 내가 그를 죽이자마자 봤어."""
 ww1_morrius,dlg,ReplyList/22/Text,0,-1,"""네, 그는 죽었어. 나는 그가 죽는 것을 봤어."""
 ww1_morrius,dlg,ReplyList/23/Text,0,-1,그만 두세요.
-ww1_morrius,dlg,ReplyList/24/Text,0,-1,<StartAction>[평화]</Start> 왜성을 정정하여 그의 두려움을 진정시키려고 노력합니다.
+ww1_morrius,dlg,ReplyList/24/Text,0,-1,<StartAction>[평화]</Start> 드워프를 진정시키고 그의 두려움을 가라앉히려고 시도합니다.
 ww1_morrius,dlg,ReplyList/25/Text,0,-1,"<StartAction>[Pacify: Cast 공포 해제]</Start> ""보아라, 여기서 무서운 게 없어, 알겠나?"""
 ww1_morrius,dlg,ReplyList/26/Text,0,-1,"<StartAction>[진정: 인간 매혹 시전]</Start> ""그래, 이제 아주 진정됐을 거야."""
 ww1_morrius,dlg,ReplyList/27/Text,0,-1,"<StartAction>[평화: 설득]</Start> ""우, 내가 틀렸지. 모든 게 괜찮아""."
@@ -1373,7 +1375,7 @@ ww1_nighthag,dlg,EntryList/122/Text,0,-1,"""당신 보다 더 행복 한 것 같
 ww1_nighthag,dlg,EntryList/123/Text,0,-1,"그녀의 손가락이 목조의 노드 위에 멈춘다. ""아무 것도 없네요, <FirstName>... 마지막에 널 데리러 왔을 때, 네가 돌아올 줄은 몰랐어요. 그런데 지금 넌 돌아왔고, 나는 다시 작별인사를 준비하고 있어요."""
 ww1_nighthag,dlg,EntryList/124/Text,0,-1,"""당신은 나를 다른 종류의 괴물로 착각하나 봐, <FirstName>."" 그녀의 손이 눈을 문지르며 올라간다. ""당신을 이용한 적이 있고, 지금도 이용하고 있습니다. 그게 전부야! 이 사실을 잊지 않는 게 좋겠어."""
 ww1_nighthag,dlg,EntryList/125/Text,0,-1,"나이트 해그가 몸을 곧추세우며 갑자기 진지해진다. ""브로건스 암에 만나야 할 사람이 있어. 그라면 내가 말해 줄 수 없는 것들을 알려 줄 수 있을 거야."""
-ww1_nighthag,dlg,EntryList/126/Text,0,-1,"""브로건의 팔은 여기 남쪽, 묘역 문 너머에 있다. 그 길에는 위험이 따르리라. 특히 코볼드 부족으로부터."""
+ww1_nighthag,dlg,EntryList/126/Text,0,-1,"나이트 해그는 늘 그렇듯 슬픈 미소를 지으며 고개를 끄덕인다. ""브로건의 팔은 묘지 문을 지나 이 남쪽에 있다. 가는 길에 위험이 도사리고 있을 것이야, 특히 코볼트 부족들을 조심해라."""
 ww1_nighthag,dlg,EntryList/127/Text,0,-1,"""찾는 남자를 찾기는 어려울 겁니다. 하지만 캐버노 스톤을 찾아가면 틀림없을 거예요. 묘지 문 열쇠는 이미 갖고 있으니 지체하지 마세요."""
 ww1_nighthag,dlg,EntryList/128/Text,0,-1,"""찾는 남자는 찾기 어려울 것이다. 하지만 캐버노 스톤을 찾으면 실패하지 않을 것이다. 자, 묘지 문이 잠겨 있다면 쓸 수 있는 열쇠다."""
 ww1_nighthag,dlg,EntryList/129/Text,0,-1,"""그것이 당신이 찾고 있는 사람에게 가는 길이다. 그것만이 당신이 알아야 할 것 이다. 아마도 그는 더 많은 것을 밝혀 줄 것이다""."
@@ -1416,7 +1418,7 @@ ww1_nighthag,dlg,EntryList/161/Text,0,-1,"""그럼 그랬을지도 모르지. �
 ww1_nighthag,dlg,EntryList/162/Text,0,-1,"""지금은 슬픈 고대의 이야기가 있습니다... 이 지역의 유적은 그들의 조상 브로건의 시대에 있던 드워프 요새들의 붕괴된 유적입니다."""
 ww1_nighthag,dlg,EntryList/163/Text,0,-1,"""브로건은 자부심과 어리석음으로 이 북쪽 땅 위에 악마들을 불러내었고, 그의 클랜은 위와 아래에서 달의 3회 회전 동안 그들과 싸웠다."""
 ww1_nighthag,dlg,EntryList/164/Text,0,-1,"""최후의 전투는 현재의 메어우드에서 벌어졌는데, 그곳에서 브로건 클랜의 3분의 2가 학살당했다. 죽은 자들은 여전히 숲을 지키고 살아남은 자들은 미쳐버렸다고 전해진다."""
-ww1_nighthag,dlg,EntryList/165/Text,0,-1,"""그녀의 무표정한 눈이 연민으로 부드러워진다. '누가 말할 수 있겠는가... 죽은 사람들은 각자 살아 있을 때와 마찬가지로 독특하고, 각기 다른 열정에 의해 움직이고 있다. 그들을 통해 배울 수 있는 것을 배우고, 마음에 맞는 대로 하라.'"""
+ww1_nighthag,dlg,EntryList/165/Text,0,-1,"그녀의 무표정한 눈에 연민이 어린다. ""누가 알겠는가... 죽은 이들은 살아생전과 다름없어. 저마다 고유하며 각자의 열정에 사로잡혀 있지. 그들에게서 배울 수 있는 것을 배우고 그대 뜻에 따라 행동하게."""
 ww1_nighthag,dlg,EntryList/166/Text,0,-1,"나이트 하그 는 웃음 을 줍어 하며, ""그건 그렇게 될 것 같았어요. 몇 가지 물건 을 당신 에게 모아 놓았어요""."
 ww1_nighthag,dlg,EntryList/17/Text,0,-1,"""고마워, <FirstName>. 나는 당신에게 요청한 것을 후회하지 않게 하도록 하겠소. 제발... 마녀의 손을 뽑아 보시오."""
 ww1_nighthag,dlg,EntryList/18/Text,0,-1,"네 질문으로 놀랐던 것 같네. 그녀의 미소는 부드러워지네. ""그렇게 엄마가 가르쳐줬어. 마녀의 손이 먼저 왔고, 마녀의 손이 패배했다""."
@@ -1449,7 +1451,7 @@ ww1_nighthag,dlg,EntryList/41/Text,0,-1,"""그러면 그것이 당신의 운명�
 ww1_nighthag,dlg,EntryList/42/Text,0,-1,"""당신은 열정적인 제자 아니야..."" 그녀의 표정에서, 그녀가 당신의 열정을 기뻐하는지 알 수는 없어. ""좋아, 이제 네게 죽음 이후 악마로부터 영혼을 지키는 방법을 가르쳐야 해."""
 ww1_nighthag,dlg,EntryList/43/Text,0,-1,"그녀는 죄책감에 찬 즐거움으로 미소 지으며 말했다. ""좋아하나요? 나는 당신을 위해 준비해 왔습니다."""
 ww1_nighthag,dlg,EntryList/44/Text,0,-1,"나이트 해그의 피부가 불쾌감으로 잿빛이 된다. ""널 구하기 위해서다."" 당신이 멍한 표정을 짓자 그녀가 서둘러 설명한다. ""네가 죽을 때 악마들로부터 영혼을 지켜 줄 것이다."""
-ww1_nighthag,dlg,EntryList/45/Text,0,-1,"""이것은 당신을 구하기 위한 것이다."" 당신의 표정이 이해되지 않자, 그녀는 설명하기 위해 서두르며 말한다. ""이것은 당신이 죽을 때 귀신들로부터 영혼을 지키기 위한 것이다."""
+ww1_nighthag,dlg,EntryList/45/Text,0,-1,"나이트 해그가 의기양양하게 빛난다. ""너를 구하기 위한 거란다."" 그녀는 당신의 멍한 표정을 알아채고는 서둘러 설명했다. ""네가 죽을 때 악마들로부터 영혼을 지켜줄 거다."""
 ww1_nighthag,dlg,EntryList/46/Text,0,-1,"""그래. 그곳의 모든 묘비는 내 마법으로 새긴 거야. 필멸자의 영혼을 악마의 손아귀에서 지키는 것은 나이트 해그가 해야 할 일이거든."""
 ww1_nighthag,dlg,EntryList/47/Text,0,-1,"""예, 네가 죽으면"". 그녀의 은 녹색 얼굴은 거의 어린아이와 무죄로 보이며 네 영혼은 스티지아에서 왔고 그곳으로 돌아가고 싶어한다."
 ww1_nighthag,dlg,EntryList/48/Text,0,-1,"""예, 스티지안 깊은 곳의 주인들"" 그녀의 희한 녹색 얼굴은 거의 아기자기하고 무죄로 보이면서 당신 앞에 떠납니다."
@@ -1469,7 +1471,7 @@ ww1_nighthag,dlg,EntryList/6/Text,0,-1,"그녀는 잠시 미소를 지으며, �
 ww1_nighthag,dlg,EntryList/60/Text,0,-1,"""그건 선물 뿐이야. 네가 원한다면 카드를 파괴하고 내 말을 잊고 너의 운명을 무시할 수 있다. 하지만 이제 카드를 선택하고 말들을 말했어요. 그들은 취소할 수 없다""."
 ww1_nighthag,dlg,EntryList/61/Text,0,-1,"그녀는 죄책감에 찬 즐거움으로 미소 지으며 말했다. ""좋아하나요? 나는 당신을 위해 준비해 왔습니다."""
 ww1_nighthag,dlg,EntryList/62/Text,0,-1,"나이트 해그의 피부가 불쾌감으로 잿빛이 된다. ""널 구하기 위해서다."" 당신이 멍한 표정을 짓자 그녀가 서둘러 설명한다. ""네가 죽을 때 악마들로부터 영혼을 지켜 줄 것이다."""
-ww1_nighthag,dlg,EntryList/63/Text,0,-1,"""이것은 당신을 구하기 위한 것이다."" 당신의 표정이 이해되지 않자, 그녀는 설명하기 위해 서두르며 말한다. ""이것은 당신이 죽을 때 귀신들로부터 영혼을 지키기 위한 것이다."""
+ww1_nighthag,dlg,EntryList/63/Text,0,-1,"나이트 해그가 의기양양하게 빛난다. ""너를 구하기 위한 거란다."" 그녀는 당신의 멍한 표정을 알아채고는 서둘러 설명했다. ""네가 죽을 때 악마들로부터 영혼을 지켜줄 거다."""
 ww1_nighthag,dlg,EntryList/64/Text,0,-1,"""그래. 그곳의 모든 묘비는 내 마법으로 새긴 거야. 필멸자의 영혼을 악마의 손아귀에서 지키는 것은 나이트 해그가 해야 할 일이거든."""
 ww1_nighthag,dlg,EntryList/65/Text,0,-1,"""예, 네가 죽으면"". 그녀의 은 녹색 얼굴은 거의 어린아이와 무죄로 보이며 네 영혼은 스티지아에서 왔고 그곳으로 돌아가고 싶어한다."
 ww1_nighthag,dlg,EntryList/66/Text,0,-1,"""예, 스티지안 깊은 곳의 주인들"" 그녀의 희한 녹색 얼굴은 거의 아기자기하고 무죄로 보이면서 당신 앞에 떠납니다."
@@ -1494,9 +1496,9 @@ ww1_nighthag,dlg,EntryList/82/Text,0,-1,"""좋아요. 도착했을 때 저를 �
 ww1_nighthag,dlg,EntryList/83/Text,0,-1,"나이트 해그가 말을 할 때, 그녀의 집 바닥은 점점 사라지기 시작한다. 바람을 느끼지 못하지만 떨어지는 느낌을 경험한다. 당신 주변에 다른 영혼의 비명과 울음소리가 울려 퍼진다. 당신은 눈을 감았다."
 ww1_nighthag,dlg,EntryList/84/Text,0,-1,"""많은 사람들이 인식하는 것보다 더 흔하지만, 여전히 찾아봐야 할 만큼 드물다. 주변 지역에 몇몇 다른 것들을 알고 있으며, 멀리 떨어진 곳에서 그들의 기록을 읽은 바 있다."""
 ww1_nighthag,dlg,EntryList/85/Text,0,-1,"""유출 은 우리 의 세상 과 그 밖 의 큰 세상 을 분리 하는 장벽 에 있는 작은 균열 이다"".라고 그녀는 설명 합니다. ""여러분 이 볼 수 있는 톱니들은 유출 을 통해 빠져나가고 흩어지는 암흑 에너지 의 반열 이다""."
-ww1_nighthag,dlg,EntryList/86/Text,0,-1,"""대부분의 사람들이 그들을 볼 수 없으므로, 운이 좋거나 미리 경고받은 것으로 생각하세라. 심지어 무덤의 자들마저 그들을 피하고 멀리 떨어져 있을 정도로 두려워합니다."""
+ww1_nighthag,dlg,EntryList/86/Text,0,-1,"""대부분의 사람들은 그것들을 볼 수 없으니, 운이 좋다고 여기거나 미리 경고를 받았다고 생각하게. 심지어 언데드조차도 덩굴손이 자신들을 죽음의 땅으로 다시 끌고 갈까 두려워 대개는 그것들을 멀리 피해 가네."""
 ww1_nighthag,dlg,EntryList/87/Text,0,-1,"그녀는 말을 곰곰이 생각하며 심각한 표정을 짓습니다. ""고갯길을 통해 새어 들어오는 소식은 없어요. 미안하지만 당신이 착각한 게 틀림없어요. 알다시피 당신은 크게 다쳤고 심한 압박을 받고 있었으니까요."""
-ww1_nighthag,dlg,EntryList/88/Text,0,-1,"""그리고 당신이 바보임을 증명하는 것이 있다. 그렇게 많은 것이 보였다면 장벽이 완전히 깨어졌다는 것을 의미한다. 아무리 생각해도, 당신이 깨어나서 보았을 때 그들은 아직 있었을까? 이제 당신의 거짓말은 그만, <FirstName>."""
+ww1_nighthag,dlg,EntryList/88/Text,0,-1,"""그리고 그건 네가 바보라는 증거지. 그렇게 많은 이들이 보였다는 건 장벽이 완전히 깨졌다는 뜻이야. 게다가 네가 일어났을 때도 그들이 거기 있었던가? 헛소리는 그만해라, <FirstName>."""
 ww1_nighthag,dlg,EntryList/89/Text,0,-1,"야간 은 땅 밖의 안개로 덮여 있고, 그 뒤에는 찢어진 다리가 서서히 공허로 무너져 내린다. 당신은 감기에 떨고 있다는 것을 깨닫습니다."
 ww1_nighthag,dlg,EntryList/9/Text,0,-1,"""좋아."" 그녀는 미소를 지으며 말했다. ""이 물건들에는 마법이 있다. 시간을 주면, 네 손가락이 그 목적을 스스로 알려줄 것이다..."""
 ww1_nighthag,dlg,EntryList/90/Text,0,-1,"""환영합니다, <Lord/Lady> <LastName>님. 이곳 슬픔의 평면은 저에게서 멀어진 고향 같은 곳이 되었고, 아마 시간이 지나면서 당신도 같은 빛을 발견하실 것입니다."""
@@ -1605,12 +1607,12 @@ ww1_nighthag,dlg,ReplyList/216/Text,0,-1,"""당신이 작별에 대해 언급했
 ww1_nighthag,dlg,ReplyList/217/Text,0,-1,"""좋아, 내가 가서 보러 가자""."
 ww1_nighthag,dlg,ReplyList/218/Text,0,-1,"""그러면 나는 그를 찾아가야 할 것 같다."""
 ww1_nighthag,dlg,ReplyList/22/Text,0,-1,"""나를 도와주실 수 있다고 들었습니다."""
-ww1_nighthag,dlg,ReplyList/221/Text,0,-1,"""카바노 돌을 찾아보세요. 알겠습니다, 제가 합니다."""
+ww1_nighthag,dlg,ReplyList/221/Text,0,-1,"""캐너웨이 스톤을 찾아라. 알았다, 내가 하지."""
 ww1_nighthag,dlg,ReplyList/222/Text,0,-1,"""카바노 돌을 찾아라. 좋다, 내가 하겠어."""
 ww1_nighthag,dlg,ReplyList/223/Text,0,-1,"""카바노 돌, 그게 뭐야?"""
 ww1_nighthag,dlg,ReplyList/224/Text,0,-1,"""카바노 돌? 그게 뭐야?"""
 ww1_nighthag,dlg,ReplyList/226/Text,0,-1,"""아니요, 하그 여사. 가기 준비되었어요."""
-ww1_nighthag,dlg,ReplyList/227/Text,0,-1,"""아니, 밤 늑대인간... 그럼 이만."""
+ww1_nighthag,dlg,ReplyList/227/Text,0,-1,"""사양하겠어, 나이트 해그... 잘 가라."""
 ww1_nighthag,dlg,ReplyList/228/Text,0,-1,"""어, 물건이 필요해."""
 ww1_nighthag,dlg,ReplyList/229/Text,0,-1,"""네, 그럴게."""
 ww1_nighthag,dlg,ReplyList/230/Text,0,-1,"""내가 가고 싶지 않다면?"""
@@ -1629,7 +1631,7 @@ ww1_nighthag,dlg,ReplyList/245/Text,0,-1,"""나이트 해그, 몇 가지 답변�
 ww1_nighthag,dlg,ReplyList/246/Text,0,-1,"""괜찮아, 그만 물어보자."""
 ww1_nighthag,dlg,ReplyList/247/Text,0,-1,"""좋아, 이제 질문은 충분해."""
 ww1_nighthag,dlg,ReplyList/248/Text,0,-1,"""당신은 '카바노 돌'을 찾아라..."""
-ww1_nighthag,dlg,ReplyList/249/Text,0,-1,"""당신이 찾으라고 한 캐번나 돌을..."""
+ww1_nighthag,dlg,ReplyList/249/Text,0,-1,"""당신이 캐번나 돌을 찾아달라고 했잖아..."""
 ww1_nighthag,dlg,ReplyList/25/Text,0,-1,"""나는 그리지 않을거야, 헤그. 나는 내 과거를 내 방식으로 찾을거야""."
 ww1_nighthag,dlg,ReplyList/250/Text,0,-1,"""좋아, 다른 질문으로 돌아가자."""
 ww1_nighthag,dlg,ReplyList/251/Text,0,-1,"""다른 질문으로 돌아가기."""
@@ -1665,8 +1667,7 @@ ww1_nighthag,dlg,ReplyList/28/Text,0,-1,"""나는 그림을 그리지 말아!"""
 ww1_nighthag,dlg,ReplyList/282/Text,0,-1,"""저 벽 반대편의 유령들을 어떻게 도와줄 수 있을까?"""
 ww1_nighthag,dlg,ReplyList/283/Text,0,-1,"""어떻게 장벽 반대편의 영들을 도울 수 있을까?"""
 ww1_nighthag,dlg,ReplyList/284/Text,0,-1,"""전품이 부족해, 내가 살 수 있는 물건이 있나요?"""
-ww1_nighthag,dlg,ReplyList/285/Text,0,-1,"""전품이 부족하니 구입할 수 있는 물건이 있나?""
-나는 필요한 물품이 부족하다. 구입할 수 있는 물건이 있나?"
+ww1_nighthag,dlg,ReplyList/285/Text,0,-1,"""보급품이 부족한데, 혹시 살 만한 것 좀 있나?"""
 ww1_nighthag,dlg,ReplyList/286/Text,0,-1,뷰 스토어
 ww1_nighthag,dlg,ReplyList/29/Text,0,-1,"""그냥 그림을 그리지 않겠다고 했잖아."""
 ww1_nighthag,dlg,ReplyList/3/Text,0,-1,"""너 나이트 해그지, 응?"""
@@ -1681,9 +1682,9 @@ ww1_nighthag,dlg,ReplyList/38/Text,0,-1,"""마법사? 마녀? 무슨 소리야?"
 ww1_nighthag,dlg,ReplyList/39/Text,0,-1,나이트 해그의 손에서 카드를 뽑으세요.
 ww1_nighthag,dlg,ReplyList/4/Text,0,-1,"""당신은 밤의 여신이어야 합니다."""
 ww1_nighthag,dlg,ReplyList/5/Text,0,-1,"""어떻게 내 이름을 알 수 있어?"""
-ww1_nighthag,dlg,ReplyList/51/Text,0,-1,"""아니, 내가 그리지 않아. 미래는 내 것이야."""
+ww1_nighthag,dlg,ReplyList/51/Text,0,-1,"""아니, 내가 그려지는 게 아니야. 미래는 내가 만들어가는 거지."""
 ww1_nighthag,dlg,ReplyList/52/Text,0,-1,"""나는 그림을 그리지 않을 거야, 하그. 미래는 나의 것이야."""
-ww1_nighthag,dlg,ReplyList/53/Text,0,-1,"""아니요, 그림을 그리지 않아. 미래에 관심 있는 사람이 누가 있나?"""
+ww1_nighthag,dlg,ReplyList/53/Text,0,-1,"""아니, 난 안 그려. 미래에 누가 신경 쓴다고..."""
 ww1_nighthag,dlg,ReplyList/54/Text,0,-1,"""나는 그림을 그리지 않을 거야, 하그. 내 미래는 신경 쓰지 않아."""
 ww1_nighthag,dlg,ReplyList/55/Text,0,-1,"""마녀의 손? 왜 그렇게 불렀나?"""
 ww1_nighthag,dlg,ReplyList/56/Text,0,-1,"""왜 마녀의 손이라고 부르죠?"""
@@ -1755,8 +1756,8 @@ ww1_nimmermaer,dlg,EntryList/36/Text,0,-1,"""어떤 이유 를 위해 모든 것
 ww1_nimmermaer,dlg,EntryList/37/Text,0,-1,"그는 잠시 당신을 쳐다보며 내면의 논쟁을 해결합니다. ""그럼 나이트 해그가 그 일에 관여했을 수도 있습니다. 나는 내가 아는 것을 알고 있지만, 그녀가 관여한다면, 신들조차 무슨 일이 일어날 수 있는지 이해할 수 없습니다."""
 ww1_nimmermaer,dlg,EntryList/38/Text,0,-1,"He eyes you for a moment, resolving some internal debate. ""Now I can tell ye be a <man/woman> with a whit of sense about ye and ye know enough not to be consorting with one such as the Night Hag..."""
 ww1_nimmermaer,dlg,EntryList/39/Text,0,-1,"""아마도 이 늙은 사람에게 도움이 될 수 있겠지만. 당신은 겉으로 보이는 것들로 여행자가 될 수 있습니다. 내가 아닌 것 같습니다. 나는 오랫동안 이 누출을 지도하고 패턴에 무엇이 쓰여 있는지 보고 싶었습니다""."
-ww1_nimmermaer,dlg,EntryList/4/Text,0,-1,"걸어오는 그는 보행자로를 어깨에 기대고, 당신의 편지를 받아들여 빛을 비추며 살펴봅니다. ""엘프군요? 전시회에도요? 그럼 제가 한번 봐볼게요..."""
-ww1_nimmermaer,dlg,EntryList/40/Text,0,-1,여기 내가 사용할 수 있는 기기 있소. 가까운 것들로 연습하고 싶다면 그렇게 하여도 좋소. 그러나 더 중요한 것은 멀리 있는 것들일세. 이 일로 나를 도와주겠소?
+ww1_nimmermaer,dlg,EntryList/4/Text,0,-1,"지팡이를 어깨에 기대어 세운 채, 그는 당신이 베껴 쓴 메시지를 받아 들고 불빛에 비추어 본다. ""엘프어인가? 게다가 전시실에서? 음, 어디 보자..."""
+ww1_nimmermaer,dlg,EntryList/40/Text,0,-1,"""여기 내 대신 그것들을 표시하는 데 쓸 수 있는 도구가 있소. 원한다면 근처에 있는 것들로 연습해도 좋지만, 더 중요한 것은 멀리 있는 것들일세. 이 일들을 해 주겠나?"""
 ww1_nimmermaer,dlg,EntryList/41/Text,0,-1,"""노인은 한숨을 쉰다. ""좋아, 좋아. 요즘 젊은이들을 교육하는 게 참 어렵네. 상관없어. 아무리 여기 오는 사람이 많지 않아도, 그들 모두 어떤 종류의 여행자들일 뿐이다. 그 외에 다른 건 없겠나?"""
 ww1_nimmermaer,dlg,EntryList/42/Text,0,-1,"노인은 한숨을 쉬며 말했다. ""네가 내 가난한 라그글레가만큼 문제를 일으키는구나. 그래, 그래, 더 많은 것이 있다. 여기, 받고 필요로 하는 곳에서 사용하도록 하거라."""
 ww1_nimmermaer,dlg,EntryList/43/Text,0,-1,"그 나이 든 광인은 어깨에 기대어 창을 기대고 주머니를 뒤적이며 이상한 장치를 꺼내들었다. ""여기 있네. 잘 챙기고 잘 사용해."""
@@ -1783,13 +1784,13 @@ ww1_nimmermaer,dlg,EntryList/61/Text,0,-1,"""어?"" 그는 회색 머리로 흔�
 ww1_nimmermaer,dlg,EntryList/62/Text,0,-1,"분노에 찬 한 손으로, 한 팔의 드워프는 걷는 막대기를 휘두르며 책장에 거의 부딪히려고 한다. ""마저 성공할 때까지도 실패하는구나! 아, 죄송하다, 가난한 라그글레타그."""
 ww1_nimmermaer,dlg,EntryList/63/Text,0,-1,"""날 의심하느냐, 어리석은 <lad/lass>? 직접 해 보면 알 것이다. 길더를 관에 던져 넣어 보면 때로는 더 많이 나오고 때로는 덜 나온다는 걸 곧 알게 될 것이다."" 그의 찌푸린 얼굴이 더 깊어진다."
 ww1_nimmermaer,dlg,EntryList/64/Text,0,-1,"""나처럼 머지않아 너한테 텅 비어 있는 <man/woman>, <lad/lass>를 남길 거야. 적어도 이제 내가 아그마르의 금이라고 알고 있잖아. 지난 몇 밤 동안 그녀가 다시 을 걸렸다는 걸 알았어야 했어""."
-ww1_nimmermaer,dlg,EntryList/65/Text,0,-1,"이 드워프는 한숨을 쉬며 허약하고 노렇게 보입니다. ""만약 그 노파가 발견된 것을 부끄러워하지 않고 죄책감 없이 죽지 않았다면, 아마 곧 다시 집에 돌아올지도 모르겠다. 비단 줄 한 줄을 베어가는 것처럼... 가난한 여인아."""
+ww1_nimmermaer,dlg,EntryList/65/Text,0,-1,"드워프는 여위고 늙은 모습으로 한숨을 쉰다. ""그 늙은이가 들통난 게 부끄러워 죽은 게 아니라면, 아마 곧 집으로 돌아와서는 또 한 몫 챙기겠지... 불쌍한 사람."""
 ww1_nimmermaer,dlg,EntryList/66/Text,0,-1,<StartAction>[DC: 13]</Start> 얻기 위한 전술을 선택하세요.
 ww1_nimmermaer,dlg,EntryList/67/Text,0,-1,"<StartAction> [실패] </Start> ""아니, 아가씨. 네 손가락이 이렇게 쪼그려있지 않아! 캐스팅 중 중간쯤에 마찰을 당할 수 있다!"""
-ww1_nimmermaer,dlg,EntryList/68/Text,0,-1,"<StartAction>[Success]</Start> 늙은 마법사는 미소를 지었습니다. ""사람 현혹이라는 간단한 마법이지만, 당신은 충분히 잘 사용했습니다. 오세요, 기교를 잘 쓰는 마법사라면 항상 최상의 가격을 얻을 수 있습니다."""
+ww1_nimmermaer,dlg,EntryList/68/Text,0,-1,"<StartAction>[성공]</Start> 늙은 마법사가 씩 웃는다. ""사람 현혹이라는 단순한 마법이지만, 꽤 잘 쓰는군. 자, 기교 있는 영창자라면 언제든 내 최고의 가격을 받을 수 있지."""
 ww1_nimmermaer,dlg,EntryList/69/Text,0,-1,"<StartAction>[불가 전술]</Start> 죄송합니다, 현재 사람 현혹을 사용할 수 없습니다."
 ww1_nimmermaer,dlg,EntryList/7/Text,0,-1,"회색 된 늙은 왜성 은 그 페이지 에 있는 그림 을 흥미 로 보고 있다. ""예, 그것은 요정 의 언어로 쓰여졌지만, 그 에 관해 더 많은 것 은 거의 알려 줄 수 없다""."
-ww1_nimmermaer,dlg,EntryList/70/Text,0,-1,"<StartAction>[실패]</Start> ""더 많은 이유로 추가로 요금을 부과해야 한다,"" 늙은이가 반박한다."
+ww1_nimmermaer,dlg,EntryList/70/Text,0,-1,"<StartAction>[실패]</Start> ""그렇다면 요금을 더 받아야 할 이유가 늘었군,"" 노인이 맞받아칩니다."
 ww1_nimmermaer,dlg,EntryList/71/Text,0,-1,"<StartAction>[성공]</Start> ""그것이 오고 가지만, 나는 가난한 라글레타그의 습관을 고려해야 한다고 생각한다. 그래도 공정한 가격이 낫다."""
 ww1_nimmermaer,dlg,EntryList/72/Text,0,-1,"<StartAction>[실패]</Start> 늙은이가 당신을 비웃습니다. ""우리 드워프들은 브로건의 시절부터 모자처럼 미쳤고, 우리의 어리석음을 끝없이 자랑스럽게 여겼습니다. 재탄생된다면 엘프처럼 되기를 희망합니다..."""
 ww1_nimmermaer,dlg,EntryList/73/Text,0,-1,"<StartAction>[성공]</Start> ""그렇지 않은 경우보다는 훨씬 낫겠지,"" 노인은 의미심장하게 킬킬거렸다. ""내 훌륭한 솜씨에 대한 소문이 자네 클랜에 전해지기만 한다면야."""
@@ -1806,8 +1807,8 @@ ww1_nimmermaer,dlg,ReplyList/10/Text,0,-1,"""밤 헤그가 사는 곳에서 이 
 ww1_nimmermaer,dlg,ReplyList/100/Text,0,-1,"<StartAction>[혜택을 얻으세요: 설득]</Start> ""사업이 느려지네, ?"""
 ww1_nimmermaer,dlg,ReplyList/101/Text,0,-1,"<StartAction>[혜택 획득: 친족]</Start> ""동족에게는 얼마의 비용이 드는가."""
 ww1_nimmermaer,dlg,ReplyList/102/Text,0,-1,<StartAction> (Flirt) </Start> 윙크
-ww1_nimmermaer,dlg,ReplyList/103/Text,0,-1,"<StartAction>[좋아요: 사람 현혹]</Start> ""최고의 가격을 부탁드립니다."""
-ww1_nimmermaer,dlg,ReplyList/105/Text,0,-1,"<StartAction>[혜택을 얻으세요: 설득]</Start> ""업무는 여기서 느리게 진행되는 것 같아."""
+ww1_nimmermaer,dlg,ReplyList/103/Text,0,-1,"<StartAction>[호감도 획득: 매혹 시전]</Start> ""최상의 가격으로 부탁하네."""
+ww1_nimmermaer,dlg,ReplyList/105/Text,0,-1,"<StartAction>[호감도 획득: 설득]</Start> ""이 동네는 장사가 꽤 안 되나 보군요."""
 ww1_nimmermaer,dlg,ReplyList/106/Text,0,-1,"<StartAction>[시작 행동: 친족의 인연 얻기]</Start> ""동료 드워프에게 드릴 가격은 얼마입니까?"""
 ww1_nimmermaer,dlg,ReplyList/108/Text,0,-1,<StartAction> (Flirt) </Start> 윙크
 ww1_nimmermaer,dlg,ReplyList/11/Text,0,-1,"""이 책을 밤 헤그의 집에서 찾았어요."""
@@ -1882,7 +1883,7 @@ ww1_nimmermaer,dlg,ReplyList/91/Text,0,-1,"""나는 네 까마귀를 찾았어""
 ww1_nimmermaer,dlg,ReplyList/92/Text,0,-1,"""그녀는 엘켄트나무 밑에서 금을 훔쳤다."""
 ww1_nimmermaer,dlg,ReplyList/93/Text,0,-1,"""왜? 이 장치는 뭘 하는 거야?"""
 ww1_nimmermaer,dlg,ReplyList/95/Text,0,-1,"""정말 얇은 공중에서 금을 뽑아내는 거야?"""
-ww1_nimmermaer,dlg,ReplyList/98/Text,0,-1,<StartAction>[시작]</Start> 더 좋은 가격을 얻기 위해 협상하세요.
+ww1_nimmermaer,dlg,ReplyList/98/Text,0,-1,<StartAction>[호감도 획득]</Start> 더 좋은 가격으로 흥정합니다.
 ww1_nimmermaer,dlg,ReplyList/99/Text,0,-1,"<StartAction>[호의 획득: 사람 매혹 시전]</Start> ""싸게 파는 거야, 알지?"""
 ww1_princeahmed,dlg,EntryList/0/Text,0,-1,"눈이 떠지고 당신 주변의 불꽃의 밝기에 찌르는 듯합니다. 전투의 소리가 크고 가까이 울려 퍼지며, 마치 두개골 안에 묻혀 있는 것처럼 들립니다. 피가 차가운 땅에 스며들고 있습니다."
 ww1_princeahmed,dlg,EntryList/1/Text,0,-1,"전투의 소리가 점점 더 멀어지고, 멀리서 왕자의 마지막 말을 들을 수 있었다. ""왕에게 그녀는 죽었다고 말하라."""
@@ -1893,7 +1894,7 @@ ww1_princeahmed,dlg,EntryList/13/Text,0,-1,"""나는 네게 안다, <FirstName>.
 ww1_princeahmed,dlg,EntryList/14/Text,0,-1,"눈을 감고 숨이 찬 그 부진한 남자가 계속했다. ""왕에게 그녀는 죽었습니다..."""
 ww1_princeahmed,dlg,EntryList/15/Text,0,-1,피곤해서 눈을 감고 주변에서 벌어지는 전투를 끝낼 수 있도록 노력하면
 ww1_princeahmed,dlg,EntryList/16/Text,0,-1,왕자는 마지막으로 눈을 뜨고 네 눈을 바라보고 빛나는 파란색은 서서히 희미한 먼지의 색으로 사라지고
-ww1_princeahmed,dlg,EntryList/17/Text,0,-1,"너는 오랜 시간을 기다렸다. 네가 보이는 위쪽으로 구름이 갈라지며 밤하늘의 별들이 드러나고, 아흐메드 왕자는 죽었다. 피곤해진 너는 다시 시작하여 별을 센다."
+ww1_princeahmed,dlg,EntryList/17/Text,0,-1,너는 한참 동안 기다렸다. 네 머리 위로 구름이 걷히며 밤하늘의 별들이 드러났다. 아흐메드 왕자는 죽었다. 지친 너는 세기 시작한다...
 ww1_princeahmed,dlg,EntryList/18/Text,0,-1,"어젯밤의 사건으로 인해 여전히 부동화하고, 아흐메드 왕자의 시체를 조심스럽게 지켜보며 주시하고 있습니다. 전투가 주변을 휩쓸던 중, 그는 ""왕에게 그녀가 죽은 것을 말하라""고 명령했습니다. 만약 당신만이 알았다면, 그 말의 의미는 무엇이었을까요..."
 ww1_princeahmed,dlg,EntryList/19/Text,0,-1,"그는 창에 꽂히기 전에 옷을 홀딱 벗겨진 듯하다. 누가 그랬든, 그에게 속옷 천 한 장만 남겨 두었다."
 ww1_princeahmed,dlg,EntryList/2/Text,0,-1,"노력 을 기울이면 얼굴 이 하늘 을 향해 돌고, 밤 의 바람 이 피부 를 찌르고, 웃음을 유발 한다. 이 순간 은 당신 의 생애 의 가장 아름다운 순간 일 수 있습니다. 당신 의 눈 은 서서히 당신 위 에 있는 실루에트 를 집중 합니다."
@@ -1922,7 +1923,7 @@ ww1_princeahmed,dlg,ReplyList/12/Text,0,-1,"""왕자""..."
 ww1_princeahmed,dlg,ReplyList/13/Text,0,-1,"""제 영주님""..."
 ww1_princeahmed,dlg,ReplyList/15/Text,0,-1,그 사람의 말을 기다리세요.
 ww1_princeahmed,dlg,ReplyList/16/Text,0,-1,"""어머, 킹에게 내가 뭐라고 해야 할지 말해줘!"""
-ww1_princeahmed,dlg,ReplyList/17/Text,0,-1,"""왕에게 뭐라고 말해야 하나? 뭐가 필요하니?"""
+ww1_princeahmed,dlg,ReplyList/17/Text,0,-1,"""왕에게 뭐라고? 내가 뭘 말해야 하지?"""
 ww1_princeahmed,dlg,ReplyList/19/Text,0,-1,"""힘내라. 내가 네 곁에 있어."""
 ww1_princeahmed,dlg,ReplyList/20/Text,0,-1,"""내 왕자, 강해 있어, 내가 여기 있어""."
 ww1_princeahmed,dlg,ReplyList/22/Text,0,-1,그가 계속할 때까지 기다리십시오.
@@ -1946,7 +1947,7 @@ ww1_princeahmed,dlg,ReplyList/4/Text,0,-1,"""누가 우리에게 이런 짓을 �
 ww1_princeahmed,dlg,ReplyList/40/Text,0,-1,왕자의 시체를 에서 내려가라
 ww1_princeahmed,dlg,ReplyList/41/Text,0,-1,"""라그피커, 이 사람을 조사해봤나?"""
 ww1_princeahmed,dlg,ReplyList/42/Text,0,-1,왕자의 시체를 탐색하세요.
-ww1_princeahmed,dlg,ReplyList/43/Text,0,-1,아흐메드 공작을 위한 묘비를 만들고
+ww1_princeahmed,dlg,ReplyList/43/Text,0,-1,아흐메드 왕자를 위한 매장 무덤을 건설하라.
 ww1_princeahmed,dlg,ReplyList/46/Text,0,-1,"""라그피커, 이 사람을 조사해봤나?"""
 ww1_princeahmed,dlg,ReplyList/47/Text,0,-1,왕자의 영혼을 위해 기도하라
 ww1_princeahmed,dlg,ReplyList/5/Text,0,-1,"""누가 우리에게 이런 짓을 했나?!"""
@@ -1960,7 +1961,7 @@ ww1_ragpicker,dlg,EntryList/10/Text,0,-1,"""당신이 걷기 다리를 아래로
 ww1_ragpicker,dlg,EntryList/11/Text,0,-1,"그 여자 의 눈 은 좁지만, 그 여자 는 당신 이 그 를 관찰 하는 것 을 감시 할 때, 당신 을 뒤돌아보게 됩니다. ""그러면 당신 이 함께 있는 악마 에게!""라고 그녀는 고무 합니다."
 ww1_ragpicker,dlg,EntryList/12/Text,0,-1,"5분 전까지만 해도 죽음의 모습을 보였던 <man/woman>에게 좋은 눈이 있습니다. 오늘 많은 반지를 찾았어요. 어느 반지를 당신인지 모르겠지만, 제가..."
 ww1_ragpicker,dlg,EntryList/13/Text,0,-1,"""내가 생각하기에 여러분 중 절반 정도가 철을 착용했고, 나머지 절반 정도는..."" 여자가 땅을 노려보며 말했다. ""네, 그리고 일부분은 금을 착용했습니다. 이제 내가 말한 대로 들으셨으니, 아마 모두를 훔치려고 할 거예요."""
-ww1_ragpicker,dlg,EntryList/14/Text,0,-1,"""오, 그래도 되겠네. 내 수입 중 하나를 골라주게. 하지만 한 번만, 잘 생각해 봐. 한 개의 반지를 고르게. 나머지 반지는 돈으로 살게."" 그녀는 협상을 봉인하는 것처럼 옆으로 뱉는다."
+ww1_ragpicker,dlg,EntryList/14/Text,0,-1,"""오 좋지, 내 수입 중에서 하나를 고르게 해주마! 딱 하나뿐이야, 명심해. 반지 하나를 골라라. 나머지는 돈을 내야 할 거다."" 그녀는 거래를 확정 짓는 듯 바닥에 침을 뱉었다."
 ww1_ragpicker,dlg,EntryList/15/Text,0,-1,"당신의 팔 털이 피와 더러움에 저항하기 시작한다. 철반지. 당신은 그것을 기억한다, 혼란스러운 인물들이 그 외곽 띠 주변에서 춤을 추고 있었다. 그것이 당신 것인가? 그것은 어떤 방식으로든 중요했다. 그것에 대해서는 확신한다."
 ww1_ragpicker,dlg,EntryList/16/Text,0,-1,"""네, 죽은 사람의 보물이니, 당신이 가는 무덤으로 가져갈 수는 없겠지. 만약 당신이 무엇을 원한다면, 브로건의 팔에서처럼 정당하게 사려고 하면 좋겠어."""
 ww1_ragpicker,dlg,EntryList/17/Text,0,-1,"""당신은 거짓말쟁이로 성장하고 있습니다. <boy/girl>. 한 반지를 가지고 있었고 한 반지를 얻습니다. 나머지는 제 것입니다""."
@@ -1968,16 +1969,16 @@ ww1_ragpicker,dlg,EntryList/18/Text,0,-1,"""그건 가져가고, 그렇게 되�
 ww1_ragpicker,dlg,EntryList/19/Text,0,-1,"그 노부인은 꺼려하며 그물을 건네주며, ""만약 생각이 있다면 브로건의 팔목에 팔 수 있을 거예요,""라고 덧붙입니다. 아침 햇빛 속에서 빛나는 금은 당신에게는 빛나는 것처럼 보일 거예요. 당신은 그것을 주머니에 넣습니다."
 ww1_ragpicker,dlg,EntryList/2/Text,0,-1,<StartAction>[실패]</Start> 너무 느려서 손가락이 날카로운 칼에 의해 절단되면서 갑자기 통증의 충격을 느끼며
 ww1_ragpicker,dlg,EntryList/20/Text,0,-1,"""나? 난 래프픽터야. 나는 잔재와 소품을 모아 브로건의 팔에 돌아가 팔고 있다. 그들이 네가 패스로 향했다고 말했을 때, 캠프를 짓밟았을 때 잔재를 남길 수 있을 것이라고 생각했다."""
-ww1_ragpicker,dlg,EntryList/21/Text,0,-1,"""네, 네, 그건 래프피커에게는 비상한 일일 수도 있지만, 낯선 사람한테는 좋은 일은 없어. 그리고 넌 이 지역이 아니야, 그렇지?"""
+ww1_ragpicker,dlg,EntryList/21/Text,0,-1,"""내 생각에, 너희들 일행이 여기서 피투성이가 되어 쓰러져 있는 것을 보았을 때 내가 얼마나 놀랐겠나! ...그래, 고물상에게는 횡재일지 몰라도 낯선 자들에게서 좋은 일이 생길 리는 없지. 그리고 넌 이 동네 사람이 아니잖아, 그렇지..."""
 ww1_ragpicker,dlg,EntryList/22/Text,0,-1,"""이곳은 이름이 없어요, <sir/madam> 그냥 'The Edge'라고 부르죠. 이곳은 멀리 떨어져 있는 곳이고, 북쪽은 북쪽으로 갈만큼 멀리 있습니다."
 ww1_ragpicker,dlg,EntryList/23/Text,0,-1,"""정확히 모르겠지만 여러분 모두 같은 옷을 입으셨네요. 마치 여러분들이 여기서 스스로를 죽이려는 것 같군요. 부끄러움을 당했을 때 군인들이 그렇게 하는 곳도 들었어요."""
 ww1_ragpicker,dlg,EntryList/24/Text,0,-1,"""당신은 아직 살아있다고 판단하면, 당신은 그 일을 잘 하지 않았다고 생각합니다"". 노인이 옆으로 쳐다보며 ""당신은 이 지역 출신이 아니죠?"""
 ww1_ragpicker,dlg,EntryList/25/Text,0,-1,"""아, 눈빛과 볼뼈의 각도에서 알 수 있네. 넌 남쪽에서 오고, 아주 먼 남쪽에서 왔어. 더 나쁜 것은 기억이 조금 부족해 보이는 거야..."""
-ww1_ragpicker,dlg,EntryList/26/Text,0,-1,"""좋아, 만약 내가 당신이라면, 패스 위의 야간 하가를 찾아가서 그녀의 도움을 정말 친절하게 청해야겠어. 마을 사람들은 그녀를 두려워하고, 그건 맞다지만, 그녀는 무엇을 해야 할지 알 거야."""
+ww1_ragpicker,dlg,EntryList/26/Text,0,-1,"""그래, 나라면 고개 너머에 있는 나이트 해그를 찾아가 그녀의 도움을 아주 정중하게 부탁하겠어. 마을 사람들은 그녀를 두려워하고 또 그럴 만도 하지만, 그녀라면 어떻게 해야 할지 알 거야."""
 ww1_ragpicker,dlg,EntryList/27/Text,0,-1,"""이 와중에, 당신들이 죽은 형제들의 시체를 구출하는 데 도움이 될 수 있습니다. 그것은 더러운 작업이지만, 당신이 발견한 것에 대해 지불 할 것입니다. 그리고 당신이 관심이 있다면 상품을 거래에 줄 것입니다""."
-ww1_ragpicker,dlg,EntryList/28/Text,0,-1,"노인은 미간을 찌푸리며 비판적으로 바라봅니다. ""네가 주변을 둘러보라. 어제 밤 여기서 일어난 일은 이 세상 너머의 것과 관련이 있을지도 모른다."""
+ww1_ragpicker,dlg,EntryList/28/Text,0,-1,"노파는 비판적인 눈빛으로 눈썹을 치켜올립니다. ""주변을 둘러보게. 어젯밤 이곳에 일어난 일은 어쩐지 저 세상의 일과 관련이 있는 것 같으니."""
 ww1_ragpicker,dlg,EntryList/29/Text,0,-1,"""Yet here you be, alive where by all rights you should be dead and asking questions to which I not be having answers. Aye, I don't quite know what to make of you <lad/lass>, but the Night Hag will."""
-ww1_ragpicker,dlg,EntryList/3/Text,0,-1,"<StartAction>[성공]</Start> 네 목소리는 목이 찢어지는 듯한 떨림을 동반하지만 그것만으로도 충분했다. 눈을 뜨자, 나이든 여인은 찌르려던 손가락을 가까스로 멈추고 너의 손을 내려놓았다."
+ww1_ragpicker,dlg,EntryList/3/Text,0,-1,<StartAction>[성공]</Start> 목소리가 거칠게 쉰 소리로 새어 나오지만 그것으로 충분했다. 눈을 뜨자 노파는 손가락을 깊숙이 베어버릴 뻔했던 칼날을 멈추고 네 손을 놓아준다.
 ww1_ragpicker,dlg,EntryList/30/Text,0,-1,"""그들로 하여금 어떻게 더 존경하게 할 수 있겠습니까?"" 의심을 느낀 그녀는 계속해서 말한다. ""그들은 당신의 친구였죠, 아니오? 만약 전투의 혼란 속에서 칼이 부서진다면, 그들은 당신에게 자신의 칼을 주지 않았겠습니까?"""
 ww1_ragpicker,dlg,EntryList/31/Text,0,-1,"""만약 당신의 영혼이 그렇게 의무가 있다면, 그 의무를 잘 기억하세요. 당신은 살아 있고, 그들은 죽은 채로 누워있죠. 즉, 그들의 이야기를 말할 수 있는 유일한 사람이신다면."
 ww1_ragpicker,dlg,EntryList/32/Text,0,-1,"""그래, 그렇다. 이 무기는 쓰러진 자들의 무기다. 자랑스럽게 사용하고, 그들의 주인들의 기억을 위해. 나는 Ragpicker다. 만약 이 상황이 수치스러운 것이 있다면, 내가 그 수치를 진작해야 한다."""
@@ -1986,7 +1987,7 @@ ww1_ragpicker,dlg,EntryList/34/Text,0,-1,"""어쨌든 밤을 넘기려면 보급
 ww1_ragpicker,dlg,EntryList/35/Text,0,-1,"""브로건'스, 바로우 왜브의 마을이야, 거리를 지나서 남쪽으로 갈 수 있어."
 ww1_ragpicker,dlg,EntryList/36/Text,0,-1,"""그들은 한때 캐어른 드워프라고 불렸습니다. 예, 그 때에도 그들은 피부가 희고, 얼굴이 냉정했습니다. 사람들을 지상에 묻는다고 하네요, 돌로 덮인 언덕 아래에."""
 ww1_ragpicker,dlg,EntryList/37/Text,0,-1,"그 노부인은 어깨를 으쓱하며 손톱 아래에서 무언가를 건져냈다. ""그들은 예전보다는 적지만 여전히 내 옷과 찌꺼기를 사주지."""
-ww1_ragpicker,dlg,EntryList/38/Text,0,-1,"창상된 손에서 피가 흘러내리고, 망치된 검지가 빛을 발산한다. 괴로운 표정을 지으며, 당신은 흙투성이 옷에서 조각을 찢어 붕대를 감기 시작한다."
+ww1_ragpicker,dlg,EntryList/38/Text,0,-1,"만신창이가 된 손에서 피가 흘러내린다. 잘려 나간 네 번째 손가락의 단단한 절단면에서 피가 배어 나온다. 일그러진 표정으로, 당신은 바지에서 흙묻은 천 조각을 찢어내어 붕대를 감기 시작한다."
 ww1_ragpicker,dlg,EntryList/39/Text,0,-1,"그녀의 얼굴은 미묘하고, 그 늙은 여자는 당신의 절단된 손가락을 당신의 품에 던집니다. ""엄, 당신은 이것을 다시 원할 것입니다, 그럼, 나는 가정합니다""..."
 ww1_ragpicker,dlg,EntryList/4/Text,0,-1,<StartAction>[실패]</Start> 너무 느려서 손가락이 날카로운 칼에 의해 절단되면서 갑자기 통증의 충격을 느끼며
 ww1_ragpicker,dlg,EntryList/40/Text,0,-1,"늙은 여인은 당신 이 쓰러진 동료 들 의 사물 을 찾아다니는 것을 보고 기뻐하고, 차가운 공중 에 자신을 포옹 하고 있습니다."
@@ -2055,7 +2056,7 @@ ww1_ragpicker,dlg,ReplyList/55/Text,0,-1,"""브로건의 팔? 뭔가요?"""
 ww1_ragpicker,dlg,ReplyList/56/Text,0,-1,"""바로우 드워프?"""
 ww1_ragpicker,dlg,ReplyList/59/Text,0,-1,라그픽커를 차가운 곳에 남겨두게.
 ww1_ragpicker,dlg,ReplyList/60/Text,0,-1,"""나이트헤그 여자에 대해 말해. 누군지 말해?"""
-ww1_ragpicker,dlg,ReplyList/61/Text,0,-1,"""이 밤 하가가 누구인가?"""
+ww1_ragpicker,dlg,ReplyList/61/Text,0,-1,“네가 말한 그 나이트 해그는 누구지?”
 ww1_ragpicker,dlg,ReplyList/63/Text,0,-1,"""이런 옷들을 다 입고 있는 것들을 본 적 있어?"""
 ww1_ragpicker,dlg,ReplyList/64/Text,0,-1,"""이런 유니폼을 본 적 있나?"""
 ww1_ragpicker,dlg,ReplyList/65/Text,0,-1,"""좋아, 여기 거래용 물건이 있어."""
@@ -2067,7 +2068,7 @@ ww1_ragpicker,dlg,ReplyList/70/Text,0,-1,"<StartAction>[혜택을 얻으세요: 
 ww1_ragpicker,dlg,ReplyList/71/Text,0,-1,"<StartAction>[혜택을 얻으세요: 플러트]</Start> ""뭐? 아름다운 여자가 자비를 보이지 않나요?"""
 ww1_ragpicker,dlg,ReplyList/72/Text,0,-1,"<StartAction>[혜택을 얻으세요: 사람 현혹]</Start> ""나는 할인 혜택을 받고 있다고 생각합니다."""
 ww1_ragpicker,dlg,ReplyList/74/Text,0,-1,"<StartAction>[호의 얻기: 설득]</Start> ""부탁합니다, 길을 잃고 혼자예요..."""
-ww1_ragpicker,dlg,ReplyList/75/Text,0,-1,"<StartAction>[혜택을 얻음: 플러트]</Start> ""나는 사랑스러운 여성의 자비 앞에 덤비는 것이다."""
+ww1_ragpicker,dlg,ReplyList/75/Text,0,-1,"<StartAction>[호감도 획득: 추파]</Start> ""사랑스러운 여인의 자비에 나를 맡기지."""
 ww1_ragpicker,dlg,ReplyList/77/Text,0,-1,<StartAction>[두려워하게 하기]</Start> 그녀를 두려워하게 하여 더 좋은 가격을 얻는다.
 ww1_ragpicker,dlg,ReplyList/78/Text,0,-1,<StartAction> 다른 접근법을 시도해 보세요. </Start>
 ww1_ragpicker,dlg,ReplyList/79/Text,0,-1,"<StartAction>[ 겁주기: Scare을 사용]</Start> ""두려워할 만한 것이 많아."""
@@ -2106,7 +2107,7 @@ ww1_ratling,dlg,ReplyList/11/Text,0,-1,"""어떻게 내 이름을 알 수 있어
 ww1_ratling,dlg,ReplyList/12/Text,0,-1,"""어떻게 내 이름을 알 수 있어?"""
 ww1_ratling,dlg,ReplyList/13/Text,0,-1,"""하! 당신은 어떤 왕의 궁중에서 바론이 될 수 있나?"""
 ww1_ratling,dlg,ReplyList/14/Text,0,-1,거짓말자! 당신은 왕궁의 백론이야?
-ww1_ratling,dlg,ReplyList/15/Text,0,-1,"""안드롤레스 백작... 당연히요."""
+ww1_ratling,dlg,ReplyList/15/Text,0,-1,"""어, 안드롤레스 백작님... 네, 물론입니다."""
 ww1_ratling,dlg,ReplyList/16/Text,0,-1,"""아, 바론 안드로레스... 당연히."""
 ww1_ratling,dlg,ReplyList/17/Text,0,-1,"""죄송하지만, 그런 이름을 가진 사람을 잘 모르겠어."""
 ww1_ratling,dlg,ReplyList/18/Text,0,-1,"""죄송합니다, 그런 이름을 가진 사람을 모르겠습니다."""
@@ -2138,8 +2139,8 @@ ww1_ratroast,dlg,ReplyList/0/Text,0,-1,가자
 ww1_ratroast,dlg,ReplyList/1/Text,0,-1,안감을 잘라서 먹어라.
 ww1_ratroast,dlg,ReplyList/2/Text,0,-1,더 많은 고기를 자르세요
 ww1_rockclimb,dlg,EntryList/0/Text,0,-1,"<StartAction>[DC: 12]</Start> 이 바위는 추위 때문에 금이 가 있다. 그 높이에서 떨어지고 싶지는 않겠지만, 이 바위를 타고 올라가 저 위의 고원에 도달할 수 있을 것 같다."
-ww1_rockclimb,dlg,EntryList/1/Text,0,-1,"<StartAction>[실패]</Start> 당신이 꼭대기에 다가오면서 발판이 아래로 무너집니다. 어색하게 바닥으로 떨어지는 동안, 피부는 침암으로 덮인 바위와 긁히며 아프게 느껴집니다."
-ww1_rockclimb,dlg,EntryList/2/Text,0,-1,<StartAction> [성공] </Start> 당신은 잔디가 자라는 덩굴까지 자신을 끌어올립니다.
+ww1_rockclimb,dlg,EntryList/1/Text,0,-1,"<StartAction>[실패]</Start> 꼭대기에 가까워질수록 발판이 무너져 내린다. 당신은 어색하게 아래로 굴러떨어지며, 추락하면서 이끼 낀 바위에 피부가 긁힌다."
+ww1_rockclimb,dlg,EntryList/2/Text,0,-1,<StartAction>[성공]</Start> 당신은 위쪽의 풀 언덕으로 기어올라 갑니다.
 ww1_rockclimb,dlg,EntryList/3/Text,0,-1,찢어진 바위를 발판으로 이용하면 쉽게 내려갈 수 있어야 합니다.
 ww1_rockclimb,dlg,ReplyList/0/Text,0,-1,가자
 ww1_rockclimb,dlg,ReplyList/1/Text,0,-1,<StartAction>[근력]</Start> 바위에 기어오르는 시도
@@ -2147,14 +2148,14 @@ ww1_rockclimb,dlg,ReplyList/4/Text,0,-1,<StartAction>DM - 강력 등반</Start>
 ww1_rockclimb,dlg,ReplyList/5/Text,0,-1,여기 좀 더 머물러 있겠나?
 ww1_rockclimb,dlg,ReplyList/6/Text,0,-1,내려와
 ww1_sorrowselk,dlg,EntryList/0/Text,0,-1,"이 자랑스러운 엘켄비스트는 겁먹은 듯 주변을 두리번거린다. 배에 난 너덜너덜한 구멍 둘레에는 그을린 자국이 있고, 탄 살 냄새가 고귀한 짐승 주변에 짙게 감돈다."
-ww1_sorrowselk,dlg,EntryList/1/Text,0,-1,"동물은 무서움 없이 당신을 쳐다보며, 뿔이 달린 머리를 높이 들고 있습니다. 당신의 무지함에도 불구하고, 왜 그 동물이 거기에 기다리고 있는지 알 수 없습니다. 비록 걱정해 보이지 않는 것처럼 보이지만, 그것이 걱정하지 않는 것처럼 보이지는 않습니다."
+ww1_sorrowselk,dlg,EntryList/1/Text,0,-1,"동물은 두려움 없이 뿔이 달린 머리를 높이 쳐들고 당신을 응시합니다. 어째서 거기에 기다리고 있는지는 알 수 없지만, 당신이 모른다고 해서 불안해하는 것 같지는 않습니다."
 ww1_sorrowselk,dlg,EntryList/10/Text,0,-1,엘킨비스트는 당신의 답변에 만족한 것처럼 보이나 아무런 대답을 하지 않습니다. 그것은 당신의 눈을 깊이 들여다보고 있습니다.
-ww1_sorrowselk,dlg,EntryList/11/Text,0,-1,"""나는 시간을 기다린다."" 머리를 끄덕이며 유리 같은 눈을 깜빡인 엘켄비스트는 뒤로 물러나서 가상의 풀을 먹기 시작했다. 그의 발굽은 고대 돌로 된 바닥에서 철철 울렸다."
+ww1_sorrowselk,dlg,EntryList/11/Text,0,-1,"엘켄비스트가 유리 같은 눈을 깜빡이며 고개를 끄덕인다. ""나는 시간을 기다린다."" 녀석은 뒤로 물러나 존재하지 않는 풀을 뜯어먹기 시작한다. 녀석의 발굽이 고대의 돌바닥에 부딪혀 딱딱 소리를 낸다."
 ww1_sorrowselk,dlg,EntryList/12/Text,0,-1,유령 동물은 당신의 질문을 무시하고 먼지와 거미줄을 먹으며 만족해 보인다.
 ww1_sorrowselk,dlg,EntryList/2/Text,0,-1,"<StartAction>[DC: 13]</Start> 동물은 두려움 없이 당신을 바라보고, 뿔을 높이 들고 있습니다."
 ww1_sorrowselk,dlg,EntryList/3/Text,0,-1,<StartAction>[실패]</Start> 엘킨비스트는 당신의 속삭임을 무시하고 돌들 사이의 균열에서 돌을 씹는 것에 만족합니다.
-ww1_sorrowselk,dlg,EntryList/4/Text,0,-1,"<StartAction>[성공]</Start> 그 껍데기를 가까이 비비면서, 육체가 부드러운 흰색 껍데기 아래에서 이상하게 따뜻해 보인다. ""인간의 아이여, 인사한다,"" 그는 속삭인다."
-ww1_sorrowselk,dlg,EntryList/5/Text,0,-1,"""사람의 아들아, 네 삶을 살아라. 온전히 살아라."""
+ww1_sorrowselk,dlg,EntryList/4/Text,0,-1,"<StartAction>[성공]</Start> 그것이 바짝 파고들자, 당신은 부드러운 흰 털 아래의 살결이 그렇게 죽어 있는 것치고는 이상하게 따뜻하다는 것을 느낍니다. ""반갑다, 인간의 아이여,"" 그것이 속삭입니다."
+ww1_sorrowselk,dlg,EntryList/5/Text,0,-1,"엘켄비스트가 다시 가까이 다가와 애정 어리게 당신의 옷자락을 갉아먹습니다. ""인간의 아이여, 네 삶을 살아라. 온전히 살아라."""
 ww1_sorrowselk,dlg,EntryList/6/Text,0,-1,"""나는 고귀한 사유로 죽었어."" 그 액체 눈이 나를 바라보며 말한다. ""사람의 아들아, 네가 무슨 사유로 죽었느냐, 아이?"""
 ww1_sorrowselk,dlg,EntryList/7/Text,0,-1,"엘켄비스트가 뒷다리로 일어서자, 아무 특징도 없는 안개를 배경으로 흰 그림자처럼 보입니다. ""희망이 살아남도록 나는 죽었다."""
 ww1_sorrowselk,dlg,EntryList/8/Text,0,-1,"""걱정하지 마."" 엘켄비스트가 속삭인다. ""모래 한 알마다 이유가 있고, 풀잎 하나마다 목적이 있지. 인간의 자손도 계절 속에 저마다 자리가 있단다."""
@@ -2165,7 +2166,7 @@ ww1_sorrowselk,dlg,ReplyList/11/Text,0,-1,"""나는 이유가 없다."""
 ww1_sorrowselk,dlg,ReplyList/12/Text,0,-1,"""나는 아무 이유도 없다."""
 ww1_sorrowselk,dlg,ReplyList/13/Text,0,-1,"""나는 이유를 가지고 있지만 그것이 영광스러운 것은 아니다."""
 ww1_sorrowselk,dlg,ReplyList/14/Text,0,-1,"""내 일은 고귀한 것만은 아니다."""
-ww1_sorrowselk,dlg,ReplyList/15/Text,0,-1,"""어, 나도 마찬가지야. 귀족적인 이유야."""
+ww1_sorrowselk,dlg,ReplyList/15/Text,0,-1,"""어, 나도 마찬가지야. 고결한 대의지."""
 ww1_sorrowselk,dlg,ReplyList/16/Text,0,-1,"""나는 또한 숭고한 이유로 죽었습니다."""
 ww1_sorrowselk,dlg,ReplyList/17/Text,0,-1,"""누가 여기 기다리고 있어?"""
 ww1_sorrowselk,dlg,ReplyList/18/Text,0,-1,"""누가 여기 기다리고 있어?"""
@@ -2179,7 +2180,7 @@ ww1_sorrowselk,dlg,ReplyList/6/Text,0,-1,"""너에게 무슨 일이 있었어?""
 ww1_sorrowselk,dlg,ReplyList/7/Text,0,-1,"""이 귀한 일로 죽음을 선택한 이유는 무엇인가?"""
 ww1_sorrowselk,dlg,ReplyList/8/Text,0,-1,"""당신은 어떤 영광스러운 이유로 죽었습니까?"""
 ww1_sorrowselk,dlg,ReplyList/9/Text,0,-1,"""내가 내 목적을 알고 있었으면 좋겠어."""
-ww1_tearsmessage,dlg,EntryList/0/Text,0,-1,"<StartAction>[DC: 14]</Start> 습한 돌에 크리드로 적힌 메시지가 남아 있습니다. 무작위로, 아마 비루한 손으로 쓴 것 같습니다. 부드러운 글씨는 분명 엘프의 기원에 있습니다."
+ww1_tearsmessage,dlg,EntryList/0/Text,0,-1,<StartAction>[DC: 14]</Start> 축축한 돌벽에 분필로 메시지가 휘갈겨져 있다. 심심풀이로 쓴 것처럼 대충 쓴 것 같다. 우아한 글씨체는 분명 엘프의 것이다.
 ww1_tearsmessage,dlg,EntryList/1/Text,0,-1,<StartAction>[실패]</Start> 당신은 머리를 쥐어짜며 엘프의 글씨를 해독하려 했지만 실패했다. 그래도 글을 쓴 사람은 분명 브로간의 눈물에 관심이 있었던 것 같다.
 ww1_tearsmessage,dlg,EntryList/2/Text,0,-1,"당신은 일기에서 한 페이지를 찢어내어, 번역되지 않은 텍스트를 조심스럽게 적어둡니다. 아마도 이를 번역해줄 사람을 찾을 수 있을 것입니다."
 ww1_tearsmessage,dlg,EntryList/3/Text,0,-1,"<StartAction>[성공]</Start> 희미한 빛에도 불구하고, 당신은 엘프 텍스트를 해독하는 데 성공합니다: ""카바노 돌이 브로건의 눈물을 낳았다면"
@@ -2190,7 +2191,7 @@ ww1_tearsmessage,dlg,EntryList/7/Text,0,-1,"""카바노 돌이 브로건의 눈�
 ww1_tearsmessage,dlg,ReplyList/0/Text,0,-1,가자
 ww1_tearsmessage,dlg,ReplyList/1/Text,0,-1,<StartAction>[lore]</Start> 메시지를 번역하세요.
 ww1_tearsmessage,dlg,ReplyList/2/Text,0,-1,메세지를 복사하세요.
-ww1_tearsmessage,dlg,ReplyList/3/Text,0,-1,<StartAction>[레이스]</Start> 메시지를 읽으시오.
+ww1_tearsmessage,dlg,ReplyList/3/Text,0,-1,<StartAction>[종족]</Start> 메시지를 읽습니다.
 ww1_tearsmessage,dlg,ReplyList/4/Text,0,-1,메세지를 읽어봐
 ww1_well,dlg,EntryList/0/Text,0,-1,"우물은 오래되고 풀이 자라고 있으며, 아래에서 불쾌한 냄새가 솟아오릅니다."
 ww1_well,dlg,EntryList/1/Text,0,-1,"로프는 소금으로 덮여 있고, 은 등에 달리고 있습니다. 연기와 호흡을 멈추고, 아래쪽 따뜻한 어둠 속으로 내려갑니다."
@@ -2245,9 +2246,9 @@ ww_abilityuse,dlg,EntryList/44/Text,0,-1,"<StartAction>[성공]</Start> 대화�
 ww_abilityuse,dlg,EntryList/45/Text,0,-1,"<StartAction>[무효적인 전술]</Start> 죄송합니다, 현재 침묵을 캐스팅할 수 없습니다."
 ww_abilityuse,dlg,EntryList/46/Text,0,-1,<StartAction>[실패]</Start> NPC는 경보를 울립니다 (지역에서 UD 이벤트를 발생시킵니다)
 ww_abilityuse,dlg,EntryList/47/Text,0,-1,<StartAction>[성공]</Start> 대화가 끝나고 NPC는 적대적 태도로 변하지만 일시적으로 움직일 수 없게 됩니다. 마법이 사라질 때까지 살아 있다면 알람이 울립니다.
-ww_abilityuse,dlg,EntryList/48/Text,0,-1,"<StartAction>[불가 전술]</Start> 죄송합니다, 이 전술을 사용하려면 현재 경직권을 사용할 수 있어야 합니다."
+ww_abilityuse,dlg,EntryList/48/Text,0,-1,<StartAction>[잘못된 전술]</Start> 죄송합니다. 이 전술을 사용하려면 현재 '기절시키는 주먹'을 사용할 수 있어야 합니다.
 ww_abilityuse,dlg,EntryList/49/Text,0,-1,<StartAction>[실패]</Start> NPC는 경보를 울립니다 (지역에서 UD 이벤트를 발생시킵니다)
-ww_abilityuse,dlg,EntryList/5/Text,0,-1,"<StartAction>[불가 전술]</Start> 죄송합니다, 현재 혼란을 시전할 수 없습니다."
+ww_abilityuse,dlg,EntryList/5/Text,0,-1,<StartAction>[잘못된 전술]</Start> 죄송합니다. 현재 혼란을 시전할 수 없습니다.
 ww_abilityuse,dlg,EntryList/50/Text,0,-1,<StartAction>[성공]</Start> 대화가 끝난다. NPC는 경보가 울리기 전에 살해된다.
 ww_abilityuse,dlg,EntryList/51/Text,0,-1,<StartAction>[DC: 15]</Start> 협박 전술을 선택합니다.
 ww_abilityuse,dlg,EntryList/52/Text,0,-1,<StartAction>[실패]</Start> NPC는 플레이어에게 시도에 대한 비난을 가합니다.
@@ -2286,15 +2287,15 @@ ww_abilityuse,dlg,ReplyList/29/Text,0,-1,<StartAction>[시작: 친족을 얻으�
 ww_abilityuse,dlg,ReplyList/3/Text,0,-1,<StartAction>[provoke: 조롱]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/30/Text,0,-1,<StartAction>[좋아요: 플러트]</Start> 부지런한 반응
 ww_abilityuse,dlg,ReplyList/31/Text,0,-1,<StartAction>[좋아요: 사람 현혹 사용]</Start> 지능적인 반응
-ww_abilityuse,dlg,ReplyList/33/Text,0,-1,<StartAction>[애를 얻으세요: 설득]</Start> 인지적인 대답
+ww_abilityuse,dlg,ReplyList/33/Text,0,-1,<StartAction>[호감도 획득: 설득]</Start> 지적인 대답
 ww_abilityuse,dlg,ReplyList/34/Text,0,-1,<StartAction>[시작: 친족의 인연 얻기]</Start> 지능적인 반응
-ww_abilityuse,dlg,ReplyList/36/Text,0,-1,<StartAction>[시작: 유혹]</Start> 지능적인 반응
+ww_abilityuse,dlg,ReplyList/36/Text,0,-1,<StartAction>[호의 획득: 유혹]</Start> 지적인 반응
 ww_abilityuse,dlg,ReplyList/38/Text,0,-1,<StartAction> </Start>
 ww_abilityuse,dlg,ReplyList/39/Text,0,-1,<StartAction>[침묵: 사람 포박]</Start> 무지한 반응
 ww_abilityuse,dlg,ReplyList/4/Text,0,-1,<StartAction>[provoke: 지혜]</Start> 무지한 반응
 ww_abilityuse,dlg,ReplyList/40/Text,0,-1,<StartAction>[침묵: 침묵을 사용]</Start> 무지한 반응
 ww_abilityuse,dlg,ReplyList/41/Text,0,-1,<StartAction>[침묵: 경직권]</Start> 무지한 반응
-ww_abilityuse,dlg,ReplyList/42/Text,0,-1,<StartAction> [침묵: 민첩]</Start> 그 사람이 울기 전에 목을 어요. 무지한 반응.
+ww_abilityuse,dlg,ReplyList/42/Text,0,-1,<StartAction>[침묵: 민첩]</Start> 소리를 지르지 못하도록 대상의 목을 꺾어버린다. 지각없는 반응
 ww_abilityuse,dlg,ReplyList/43/Text,0,-1,<StartAction>[침묵: 사람 포박]</Start> 지능적인 반응
 ww_abilityuse,dlg,ReplyList/45/Text,0,-1,<StartAction>[침묵: 침묵을 시전]</Start> 지능적인 반응
 ww_abilityuse,dlg,ReplyList/47/Text,0,-1,<StartAction>[침묵: 경직권]</Start> 지능적인 반응
@@ -2307,18 +2308,18 @@ ww_abilityuse,dlg,ReplyList/53/Text,0,-1,<StartAction>[위협: 분노]</Start> �
 ww_abilityuse,dlg,ReplyList/54/Text,0,-1,<StartAction>[위협: 근력]</Start> 무지한 반응
 ww_abilityuse,dlg,ReplyList/55/Text,0,-1,<StartAction>[위협: 공포를 부여]</Start> 지능적인 반응
 ww_abilityuse,dlg,ReplyList/57/Text,0,-1,<StartAction>[위협: 분노]</Start> 지능적인 반응
-ww_abilityuse,dlg,ReplyList/59/Text,0,-1,<StartAction>[위협: 근력]</Start> 지능적 대응
+ww_abilityuse,dlg,ReplyList/59/Text,0,-1,<StartAction>[위협: 근력]</Start> 지능적인 반응
 ww_abilityuse,dlg,ReplyList/7/Text,0,-1,<StartAction>[조롱: 조롱]</Start> 지능적인 반응
 ww_abilityuse,dlg,ReplyList/8/Text,0,-1,<StartAction>[도발: 지혜]</Start> 지혜로운 반응
 ww_abilityuse,dlg,ReplyList/9/Text,0,-1,<StartAction>[평화]</Start>
 ww_etherealleak,dlg,EntryList/0/Text,0,-1,"부정적인 에너지가 작은 균열을 통해 흐르며, 고통의 평면에서 이 세상으로 새어나옵니다."
 ww_etherealleak,dlg,EntryList/1/Text,0,-1,다리와 몸매를 둘러싼 에너지의 톱니가 얼어붙은 촉각을 느낄 수 있습니다. 짧은 시간 후에 그들은 흥미를 느끼지 않고 계속 움직입니다.
-ww_etherealleak,dlg,EntryList/2/Text,0,-1,"당신은 얼음 같은 감촉을 느끼며, 에너지의 줄기들이 다리와 몸을 감싸고 있다. 그 안에서 느껴지는 것은 영혼이 회전하며 흡수되는 것 같은 느낌이다."
+ww_etherealleak,dlg,EntryList/2/Text,0,-1,에너지의 줄기가 다리와 몸통을 휘감으면서 얼어붙을 듯한 차가움이 느껴진다. 그것들이 몸속에서 꿈틀거리며 영혼을 빨아들이는 것이 느껴진다.
 ww_etherealleak,dlg,EntryList/3/Text,0,-1,어두운 에너지의 어린이들이 땅에서 솟아나와 치명적인 춤을 추며 휘날린다. 이전에 본 것 같은 느낌이 든다.
 ww_etherealleak,dlg,EntryList/4/Text,0,-1,장치는 순간적으로 당신의 손에 달린 후 작은 열기가 느껴진 뒤 아무것도 없어진다. 노인 닐러마르의 유출을 지도하는 데 자신의 의무를 수행했을 것이라고 가정할 수밖에 없다.
 ww_etherealleak,dlg,EntryList/5/Text,0,-1,장치는 순간적으로 당신의 손에 달린 후 작은 열기가 느껴진 뒤 아무것도 없어진다. 노인 닐러마르의 유출을 지도하는 데 자신의 의무를 수행했을 것이라고 가정할 수밖에 없다.
 ww_etherealleak,dlg,ReplyList/0/Text,0,-1,물러서
-ww_etherealleak,dlg,ReplyList/1/Text,0,-1,톱니가 너를 감싸들게
+ww_etherealleak,dlg,ReplyList/1/Text,0,-1,촉수가 너를 덮치게 두어라.
 ww_etherealleak,dlg,ReplyList/3/Text,0,-1,가자
 ww_etherealleak,dlg,ReplyList/4/Text,0,-1,이더리얼 누출에 네머마어의 장치를 사용하세요.
 ww_nighthag_tmp1,dlg,EntryList/0/Text,0,-1,지하 세계를 여행한 후 나이트 해그의 존재에 들어가는 것을 설명해 주세요.

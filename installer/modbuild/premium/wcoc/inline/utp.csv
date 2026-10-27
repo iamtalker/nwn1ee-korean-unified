@@ -10,7 +10,7 @@ bones3,utp,Description,0,66888,지상에 슬픈 인간형 뼈 무리가 있습�
 bridgeboulder001,utp,LocName,0,52998,해조류
 bridgeboulder002,utp,LocName,0,52998,해조류
 bridgeboulder003,utp,LocName,0,52998,쓰러진 나무
-chest3,utp,Description,0,14596,개인용 발렛박스
+chest3,utp,Description,0,14596,개인 소지품을 넣는 발함.
 chest3,utp,LocName,0,5348,발자국
 coin,utp,LocName,0,5348,금 동전
 cyrricaltar,utp,Description,0,68932,"이 제단은 이 예배당에 새로 놓인 것으로 사악한 기운을 내뿜습니다. 시야 가장자리에서 빛이 춤추고, 턱 없는 해골이 마치 사이릭 자신의 상징처럼 제단 위에 떠 있는 듯합니다."
@@ -68,14 +68,14 @@ invistalk,utp,Description,0,14662,의심스럽게 둘러보지만 아무것도 �
 invistalk,utp,LocName,0,5800,어
 ivorycrate,utp,Description,0,14577,"이 상자에는 ""Imelda Trading""라는 표시가 분명합니다."
 joustlist1,utp,LocName,0,-1,주스트 리스트 1
-joustlist1w,utp,LocName,0,-1,"Joust List 1, 걷을 수 있는"
+joustlist1w,utp,LocName,0,-1,"창 시합 목록 1, 이동 가능"
 joustlist2,utp,LocName,0,-1,주스트 리스트 2
 joustlist2w,utp,LocName,0,-1,"Joust List 2, 걷을 수 있는"
 joustlist3,utp,LocName,0,-1,주스터 리스트 3
 joustlist3w,utp,LocName,0,-1,"주스트 리스트 3, 걷을 수 있는"
 joustlist4,utp,LocName,0,-1,창 시합 명단 4
 joustlist4w,utp,LocName,0,-1,"주스트 리스트 4, 통과 가능"
-lancerack,utp,LocName,0,-1,거창 랙
+lancerack,utp,LocName,0,-1,랜스 거치대
 oilbarrel,utp,Description,0,-1,무거운 기름 배럴입니다. 만약 불을 붙이면 아마 폭발할지도 모릅니다.
 oilbarrel,utp,LocName,0,-1,기름 통
 oilbarrel2,utp,Description,0,-1,무거운 기름 배럴입니다. 만약 불을 붙이면 아마 폭발할지도 모릅니다.
@@ -115,7 +115,7 @@ tnobalconye,utp,LocName,0,-1,TNO 발코니 E
 tnobalconye2,utp,LocName,0,-1,TNO 발코니 E2
 tnobalconye3,utp,LocName,0,-1,TNO 발코니 E3
 tnobalconye4,utp,LocName,0,-1,TNO 발코니 E4
-tnobalconyf,utp,LocName,0,-1,TNO 피로수레 F
+tnobalconyf,utp,LocName,0,-1,TNO 굴뚝 F
 tnobalconyf2,utp,LocName,0,-1,TNO 굴뚝 F 2
 tnobalconyflag,utp,LocName,0,-1,TNO 발코니 기
 tnobarrel,utp,LocName,0,-1,TNO 통
@@ -123,7 +123,7 @@ tnobarrel002,utp,LocName,0,-1,TNO 통 2
 tnobarrel003,utp,LocName,0,-1,TNO 통 3
 tnobasket,utp,LocName,0,-1,TNO 바구니
 tnobencha,utp,LocName,0,14616,긴의자
-tnobenchb,utp,LocName,0,-1,TNO 긴의자
+tnobenchb,utp,LocName,0,-1,TNO 벤치
 tnobirchalg,utp,LocName,0,-1,TNO 비치 A Lg
 tnobirchamd,utp,LocName,0,-1,TNO 베리치 A Md
 tnobirchasm,utp,LocName,0,-1,TNO 비어 아 SM
@@ -161,7 +161,7 @@ tnoflage21,utp,LocName,0,14616,TNO 깃발 E21
 tnoflage22,utp,LocName,0,14616,TNO 깃발 E22
 tnoflage23,utp,LocName,0,-1,TNO 깃발 E23
 tnoflage24,utp,LocName,0,14616,TNO 깃발 E24
-tnoflage31,utp,LocName,0,14616,TNO 표지 E31
+tnoflage31,utp,LocName,0,14616,TNO 플래그 E31
 tnoflage32,utp,LocName,0,14616,TNO 깃발 E32
 tnoflage33,utp,LocName,0,14616,TNO 표지 E33
 tnoflage34,utp,LocName,0,14616,TNO 깃발 E34
@@ -183,17 +183,17 @@ tnoflage53,utp,LocName,0,14616,TNO 깃발 E53
 tnoflage54,utp,LocName,0,14616,TNO 깃발 E54
 tnogiantpot,utp,Description,0,-1,거대한 기름 냄비 아래에 불이 붙어 있습니다.
 tnogiantpot,utp,LocName,0,-1,TNO 거인용 냄비
-tnograsspatch,utp,Description,0,68824,그린밭.
+tnograsspatch,utp,Description,0,68824,풀밭 한 조각.
 tnograsspatch,utp,LocName,0,9268,TNO 잔디밭
-tnograsspatch2,utp,Description,0,68824,그린밭.
+tnograsspatch2,utp,Description,0,68824,풀밭 한 조각.
 tnograsspatch2,utp,LocName,0,9268,TNO 잔디밭
-tnograsspatch3,utp,Description,0,68824,그린밭.
+tnograsspatch3,utp,Description,0,68824,풀밭 한 조각.
 tnograsspatch3,utp,LocName,0,9268,TNO 잔디밭
 tnohangingcage,utp,LocName,0,-1,TNO 하링 가이지
 tnohangmanscaf,utp,LocName,0,-1,TNO 사형수대
 tnohayblock,utp,LocName,0,-1,TNO 해블록
 tnohayblock002,utp,LocName,0,-1,TNO 해블록 2
-tnolargearchw2,utp,LocName,0,-1,TNO 거구의 아치 창 2
+tnolargearchw2,utp,LocName,0,-1,TNO 대형 아치 창 2
 tnolargearchwind,utp,LocName,0,-1,TNO 거구의 아치 창문
 tnolargewindo2,utp,LocName,0,-1,TNO 거구의 창문 2개
 tnolargewindow,utp,LocName,0,-1,TNO 거구의 창문
@@ -205,7 +205,7 @@ tnorowboat,utp,LocName,0,-1,TNO 노트라보트
 tnosarchwindow,utp,LocName,0,14616,TNO 닫힌 아치형 창문
 tnosarchwindow2,utp,LocName,0,14616,TNO 닫힌 아치형 창문
 tnosarchwindow3,utp,LocName,0,14616,TNO 닫힌 아치형 창문
-tnoscaffoldinglg,utp,LocName,0,-1,TNO 대형 스탠드인
+tnoscaffoldinglg,utp,LocName,0,-1,TNO 비계 대형
 tnoscaffoldinsm,utp,LocName,0,-1,TNO 사다리 설치 Sm
 tnoscaflarge,utp,LocName,0,-1,"TNO 스캐플딩, 거구"
 tnoscafsmall,utp,LocName,0,-1,"TNO 스카프롤딩, 작은"
@@ -219,7 +219,7 @@ tnosmallwindo2,utp,LocName,0,-1,TNO 소형 창문 2
 tnosmallwindo3,utp,LocName,0,-1,TNO 소형 창문 3
 tnosmallwindow,utp,LocName,0,-1,TNO 소형 창문
 tnostocks,utp,LocName,0,-1,TNO 그루터기
-tnostocksprisone,utp,LocName,0,-1,TNO 그루터기 죄수
+tnostocksprisone,utp,LocName,0,-1,TNO 감옥 죄수
 tnotorch,utp,LocName,0,-1,횃불
 tnotorch001,utp,Description,0,-1,불을 붙이지 않은 횃불이 꽂이에 꽂혀 있다.
 tnotorch001,utp,LocName,0,-1,횃불 (점화 가능)
@@ -333,7 +333,7 @@ wcjars001,utp,LocName,0,83443,단지
 wclightl,utp,Description,0,68932,위쪽에서 내려오는 빛이 찍는다.
 wclightl,utp,LocName,0,68931,대형 빛기둥
 wclightm,utp,Description,0,68932,위쪽에서 내려오는 빛이 찍는다.
-wclightm,utp,LocName,0,68931,중간 빛나는 투명도
+wclightm,utp,LocName,0,68931,광선 중형
 wclights,utp,Description,0,68932,위쪽에서 내려오는 빛이 찍는다.
 wclights,utp,LocName,0,68931,빛기둥 소형
 wcmist,utp,LocName,0,68931,안개가
@@ -341,11 +341,11 @@ wcrootsroof,utp,Description,0,84191,몇 개의 오래된 돌 주전자가 바닥
 wcrootsroof,utp,LocName,0,83443,뿌리
 wcrootsroof001,utp,Description,0,84191,몇 개의 오래된 돌 주전자가 바닥에 방비처럼 서 있습니다.
 wcrootsroof001,utp,LocName,0,83443,뿌리
-wcrubble,utp,Description,0,68932,가루진 흔적.
+wcrubble,utp,Description,0,68932,잔해 더미.
 wcrubble,utp,LocName,0,68931,자갈
 wcrubble001,utp,Description,0,68932,모래가 여기에 씻겨졌어요.
 wcrubble001,utp,LocName,0,68931,모래
-wcrubble3,utp,Description,0,68932,가루진 흔적.
+wcrubble3,utp,Description,0,68932,잔해 더미.
 wcrubble3,utp,LocName,0,68931,자갈
 wcskull,utp,Description,0,68932,몸통 없는 두개골 하나가 공중에 떠 있다.
 wcskull,utp,LocName,0,68931,떠 있는 두개골

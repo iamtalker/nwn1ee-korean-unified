@@ -1,6 +1,6 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
 crestofthedefend,uti,DescIdentified,0,-1,"샤라칸 제국의 모든 시민들은 졸업 후 크레스트를 선택하도록 요청받습니다. 세 크레스트는 황제에게 봉사하는 세 가지 경로를 나타냅니다. 수호자의 경로, 집행자의 경로, 구제자의 경로."
-crestofthedefend,uti,LocalizedName,0,-1,수호자 갑옷
+crestofthedefend,uti,LocalizedName,0,-1,수호자의 문장
 crestoftheenforc,uti,DescIdentified,0,-1,"샤라칸 제국의 모든 시민들은 졸업 후 크레스트를 선택하도록 요청받습니다. 세 크레스트는 황제에게 봉사하는 세 가지 경로를 나타냅니다. 수호자의 경로, 집행자의 경로, 구제자의 경로."
 crestoftheenforc,uti,LocalizedName,0,-1,집행자의 봉심
 crestoftheredeem,uti,DescIdentified,0,-1,"샤라칸 제국의 모든 시민들은 졸업 후 크레스트를 선택하도록 요청받습니다. 세 크레스트는 황제에게 봉사하는 세 가지 경로를 나타냅니다. 수호자의 경로, 집행자의 경로, 구제자의 경로."
@@ -154,12 +154,12 @@ it_arm_light_801,uti,DescIdentified,0,-1,이 갑옷은 블러드하크 노예 �
 it_arm_light_801,uti,LocalizedName,0,-1,블러드호크 징 박힌 가죽 갑옷
 it_arm_light_802,uti,DescIdentified,0,-1,이 갑옷은 북부 리치에 영향력 있는 주왕 스톰크로우 가족의 상징을 지닙니다.
 it_arm_light_802,uti,LocalizedName,0,-1,스토밍크로우 스탠다드 가죽
-it_arm_light_901,uti,DescIdentified,0,-1,이 갈대색 가운은 타란라 섬의 제국 흑기사 사관학교의 교장 베로나가 입었던 것이다.
+it_arm_light_901,uti,DescIdentified,0,-1,이 로브는 잔타라 섬의 제국 흑기사 아카데미의 교장 베로나가 입던 것이다.
 it_arm_light_901,uti,LocalizedName,0,-1,베로나 교장의 망토
 it_arm_light_902,uti,LocalizedName,0,-1,황제의 가죽 갑옷
 it_arm_light_903,uti,LocalizedName,0,-1,황제 교육자의 옷
 it_arm_light_904,uti,LocalizedName,0,-1,노예 의 껍질
-it_arm_light_905,uti,LocalizedName,0,-1,나이트 크롤러 옷장
+it_arm_light_905,uti,LocalizedName,0,-1,나이트크롤러 복장
 it_arm_lsh_000,uti,LocalizedName,0,-1,IT_ARM_LSH_000
 it_arm_lsh_001,uti,LocalizedName,0,-1,대형 방패
 it_arm_lsh_003,uti,DescIdentified,0,-1,이 방패는 약간의 마법으로 축복되어 착용자에게 보호를 제공하는 것 같습니다.
@@ -175,7 +175,7 @@ it_arm_lsh_040,uti,LocalizedName,0,-1,IT_ARM_LSH_040
 it_arm_med_000,uti,LocalizedName,0,-1,IT_ARM_MED_000
 it_arm_med_001,uti,LocalizedName,0,-1,사슬 상의
 it_arm_med_002,uti,LocalizedName,0,-1,비늘 갑옷
-it_arm_med_003,uti,LocalizedName,0,-1,사슬갑옷
+it_arm_med_003,uti,LocalizedName,0,-1,낡은 드로우 사슬갑옷
 it_arm_med_004,uti,LocalizedName,0,-1,가슴판갑
 it_arm_med_005,uti,DescIdentified,0,-1,"이 갑옷은 샤라칸 제국의 우수한 갑옷 제작자들에 의해 제작되었습니다. 전투에서는 훨씬 더 내구성이 있으며, 착용자에게는 덜 무거워요."
 it_arm_med_005,uti,LocalizedName,0,-1,제국 사슬갑옷
@@ -191,7 +191,7 @@ it_arm_med_011,uti,LocalizedName,0,-1,매혹된 사슬 상의
 it_arm_med_012,uti,DescIdentified,0,-1,이 갑옷에는 약한 마법이 부여되어 착용자를 보호하는 것 같습니다.
 it_arm_med_012,uti,LocalizedName,0,-1,매혹된 비늘 갑옷
 it_arm_med_013,uti,DescIdentified,0,-1,이 갑옷에는 약한 마법이 부여되어 착용자를 보호하는 것 같습니다.
-it_arm_med_013,uti,LocalizedName,0,-1,매혹된 사슬갑옷
+it_arm_med_013,uti,LocalizedName,0,-1,마법 부여된 사슬갑옷
 it_arm_med_014,uti,DescIdentified,0,-1,이 갑옷에는 약한 마법이 부여되어 착용자를 보호하는 것 같습니다.
 it_arm_med_014,uti,LocalizedName,0,-1,마법의 가슴판갑
 it_arm_med_015,uti,DescIdentified,0,-1,"이 갑옷은 샤라칸 제국의 우수한 갑옷 제작자들에 의해 제작되었습니다. 전투에서는 훨씬 더 내구성이 있으며, 착용자에게는 덜 무거워요."
@@ -564,7 +564,7 @@ it_plot_000,uti,LocalizedName,0,-1,IT_PLOT_000
 it_plot_001,uti,DescIdentified,0,-1,"[이 소환은 개인적으로 당신에게 지안타라 섬에 오라고 요청하고 있습니다. 샤라칸 제국의 고위급 공무원인 보르카스 상부님께서는 ""큰 중요성""의 문제를 논의하고자 합니다.] 소환의 텍스트는 다음과 같습니다. - 전능하신 라카의 충실한 종이자 샤라카 제국의 위대함, 나는, 보르카스, 자라카의 제국 요새의 상부님, 이 소환을 제안타라 섬에 나와 함께 오라고 요청합니다. 샤라카스 제국은 당신과 당신의 능력에 대해 더 많은 것을 언급하고 있으며, 당신과 제국과 모두에게 이익이 될 제안에 대해 더 자세히 이야기하고 싶습니다. 샤라카스 제국의 충실한 종으로서 이 소환에 신속히 대답하는 것이 당신의 의무입니다. 우리는 조선에 도착할 수 있도록 조정을 마련했습니다. 보르카스 상부님과 함께 보르카스 항구에 방문할 예정입니다."
 it_plot_001,uti,LocalizedName,0,-1,제국의 소환
 it_plot_002,uti,DescIdentified,0,-1,"[이 패스는 도크마스터 칼림이 서명하고 허가한 것으로, 장타라의 황제 별장에 들어갈 수 있습니다. 진입을 위해 장타라의 문에서 이를 보여야 합니다.]"
-it_plot_002,uti,LocalizedName,0,-1,타라 입구
+it_plot_002,uti,LocalizedName,0,-1,잔타라 통행로
 it_plot_003,uti,DescIdentified,0,56640,"카라흐의 미노타우로스들에 의해 만들어진 이 브루치는 서로 사랑하기로 맹세한 두 미노타우로스 사이의 생명의 유대를 상징합니다. 이 브루치 중 하나가 미노타우로스의 소유를 제외한 다른 곳에서 발견되는 것은 매우 드물지만, 소문에 따르면 브루치의 이상한 돌 속에는 위대한 마법이 봉인되어 있다고 합니다."
 it_plot_003,uti,LocalizedName,0,56643,영혼 브로치
 it_plot_004,uti,DescIdentified,0,-1,이리리움 크리스탈은 강력하고 안정적인 마법의 힘의 근원이다. 이 보석은 다양한 주문과 의식에서 마법의 성분으로 사용되는 것이 일반적이다.
@@ -574,7 +574,7 @@ it_plot_005,uti,LocalizedName,0,-1,제어 돌 방의 열쇠
 it_plot_006,uti,DescIdentified,0,-1,"1372년 4월 1일, 내가 왜 사법관의 지위를 취하게 되었는지 궁금하기 시작했어요. 제 직무는 항상 저를 바쁘게 하고 있는 것 같습니다. 이제까지, 제 유일한 자녀의 졸업 날에도, 한 순간도 평화를 누릴 수 없습니다. 그럼에도 불구하고, 가라크에 대한 제 책임을 회피할 수 없으며, 아밀도르 그레이하우크에서 받은 편지에서는 이 도시의 안전에 대한 제 우려가 증가했습니다. 우리는 그 돌을 동굴에서 가져갈 수 없었을 것입니다. 내가 글을 쓰면서도, 그 목소리가 내 마음 속에 말하는 것처럼 보이며, 그 생각은 나를 놀라게 합니다. 제국은 이제 매우 두려워하는 것처럼 보이는 이 크림슨 예언자는 그 이상한 유적석의 깊숙한 곳에서 우리가 본 것과 같은 사람이라고 믿게 되었습니다. 그는 이미 우리의 길을 가고 있는 것처럼 보입니다. 이미 우리의 병든 탐험의 다른 지도자들은 다시 이야기합니다. 나는 그가 이 돌을 가지고 있다고 믿습니다. 그리고 그가 도착하기 전에, 그 돌을 더 이상으로 죽이고, 나는 그의 아버지와 함께 더 많은 것을 이야기 할 수 있다고 생각합니다. 그리고 그 말은, 아마도 그 전에, 나는 그것을 거부할 수 있습니다. 그리고 그 전에, 그 돌을 다시 들어올"
 it_plot_006,uti,LocalizedName,0,-1,가라크의 판사 오카리스의 일기
 it_plot_007,uti,DescIdentified,0,-1,"통제 돌은 가라크에서 만들어진 다른 장치와는 다른 장치입니다. 그 엄청난 힘은 많은 비범한 용도로 사용되었습니다. 이러한 업적 중 가장 위대한 것은 우리가 공격에 처할 가능성이 없는 사건에서 지구 문 위에 불러올 수 있는 불가침의 방패입니다. 또한, 돌은 일상의 작업에 도움을 주기 위해 마법의 건축물을 활동시키는 목적으로 광범위하게 사용되었습니다. 우리 제국 시민들에게 더 적합한 일을 수행할 충분한 시간을 허용합니다. 제어 돌의 활성화는 매우 간단합니다. 간단한 화살 문구, ""Milak Navok""는 돌의 힘을 불러올 수 있습니다. 물론 우리는 어떤 위험한 사용을 방지하기 위해 경호를 설치했습니다. 고 마법사 비하람은 통제의 사용에 배치되었습니다. 그래서 당신은 그를 사용해야 할 필요가 있습니다. 당신은 돌의 능력과 파괴적인 방법을 통해 매우 강력한 힘을 얻을 수 있습니다."
-it_plot_007,uti,LocalizedName,0,-1,레저 #13: 컨트롤 돌
+it_plot_007,uti,LocalizedName,0,-1,장부 #13: 제어석
 it_plot_008,uti,DescIdentified,0,-1,"건축물을 애니메이션화하는 것은 마술 예술에 대한 경험이 없는 사람이 가볍게 받아들이는 작업이 아닙니다. 그러나 미술에 잘 숙련된 사람들에게는 건축물은 훌륭하고 헌신적인 종으로 입증 될 수 있습니다. 올바르게 만들어지면 건축물은 마스터의 명령에 따라 간단한 노동에서 전투에서 무서운 동맹국까지 다양한 작업에 도움을 줄 수 있습니다. 초기 건축물이 건설되면, 비용이 비싸고 복잡합니다. 건설을 애니메이션화하기 위해 에너지원을 찾는 것이 필요합니다. 안정적인 원천을 위해, 일리륨 크리스탈을 사용하는 것이 강력히 권장됩니다. 종종 샤라칸 제국의 남부 지역에서 발견됩니다. 이러한 북부 국경 지역에서 조금 어렵지만, 이릴륨은 건축물의 애니메이션에 대한 유일한 신뢰할 수있는 원천이며, 다른 대체물이 권장되지 않습니다."
 it_plot_008,uti,LocalizedName,0,-1,구조물 애니메이션 가이드
 it_plot_009,uti,DescIdentified,0,-1,이 열쇠는 노예 조직인 블러드하크와 연관된 상인 슈라크에서 발견되었습니다.
@@ -596,7 +596,7 @@ it_plot_016,uti,LocalizedName,0,-1,미클 레이븐클라우드의 방의 열쇠
 it_plot_017,uti,DescIdentified,0,-1,"[미켈 라벤클라우의 소유에서 발견된 이 편지에는 다음과 같다: ""미켈, 과거 당신과 나 사이에 많은 관계가 없었다는 것을 알고 있지만, 그 상황을 바로잡고 싶습니다. 보시다시피, 나는... 덜 바람직한... 도움을 필요로 하는 위치에 있으며, 당신은 이 문제에 대해 나에게 도움을 줄 수 있다고 믿습니다. 난 곤란한 마지스트레이트 오카리스와 그의 갓난아이를 끝내고 싶습니다. 왜냐하면 그들이만 가라크를 통치하는 데 방해가 되고 있습니다. 당신이 마지스트레이트의 아이를 암살시킬 수 있다면, 나는 당신이 꿈꾸는 것보다 더 많은 금을 기꺼이 제공 할 것입니다. 또한, 나는 도시를 통치하기 위해 왔고, 더 수익성 있는 기회에 대해 더 이야기 할 수 있습니다. 한편, 나는 마지스트레이트 오카리스의 운명을 관리하려고 합니다. 그러나 나는 당신에게 말할 것입니다. 특히 바카르의 아버지에 대한 비공헌에 대한 비공헌에 대해, 나는 그의 운명에 대해 더 많은 관심을 가지고 있습니다. 그러나 나는 당신에게 말할 것입니다.]"
 it_plot_017,uti,LocalizedName,0,-1,미켈 라벤클라에게 보내는 편지
 it_plot_018,uti,DescIdentified,0,-1,"[가라크 장관 바르후의 책상에서 발견된 이 편지는 바르후가 서두르며 불태워버린 것으로 보이며, 그 글은 더 이상 읽을 수 없습니다...]"
-it_plot_018,uti,LocalizedName,0,-1,탄성난 편지
+it_plot_018,uti,LocalizedName,0,-1,불타버린 편지
 it_plot_019,uti,DescIdentified,0,-1,이 이상한 돌은 작은 비단한 생물을 불러모으킬 수 있는 룬으로 덮여 있어 파괴된 것 같습니다.
 it_plot_019,uti,Description,0,-1,"이 돌은 가라크의 차르후누 총장에게서 발견된 것이며, 이상한 문자로 덮여 있지만, 이 돌에 대한 정확한 식별을 위한 지식이 부족합니다."
 it_plot_019,uti,LocalizedName,0,-1,바르훈의 돌 (망가짐)
@@ -874,10 +874,10 @@ it_weap_gaxe_031,uti,DescIdentified,0,-1,"이 무기는 작은 마법으로 충�
 it_weap_gaxe_031,uti,LocalizedName,0,-1,마법으로 축복된 대도끼
 it_weap_gaxe_040,uti,LocalizedName,0,-1,IT_WEAP_GAXE_040
 it_weap_gswo_000,uti,LocalizedName,0,-1,IT_WEAP_GSWO_000
-it_weap_gswo_001,uti,LocalizedName,0,-1,대검
-it_weap_gswo_003,uti,LocalizedName,0,-1,대검
-it_weap_gswo_004,uti,LocalizedName,0,-1,대검
-it_weap_gswo_005,uti,LocalizedName,0,-1,대검
+it_weap_gswo_001,uti,LocalizedName,0,-1,양손도끼
+it_weap_gswo_003,uti,LocalizedName,0,-1,양손도끼
+it_weap_gswo_004,uti,LocalizedName,0,-1,양손도끼
+it_weap_gswo_005,uti,LocalizedName,0,-1,양손도끼
 it_weap_gswo_010,uti,LocalizedName,0,-1,IT_WEAP_GSWO_010
 it_weap_gswo_011,uti,DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 it_weap_gswo_011,uti,LocalizedName,0,-1,장인제작 대검
@@ -991,9 +991,9 @@ it_weap_lbow_020,uti,LocalizedName,0,-1,IT_WEAP_LBOW_020
 it_weap_lbow_030,uti,LocalizedName,0,-1,IT_WEAP_LBOW_030
 it_weap_lbow_040,uti,LocalizedName,0,-1,IT_WEAP_LBOW_040
 it_weap_lcro_000,uti,LocalizedName,0,-1,IT_WEAP_LCRO_000
-it_weap_lcro_001,uti,LocalizedName,0,-1,경수뇌
-it_weap_lcro_003,uti,LocalizedName,0,-1,경수뇌
-it_weap_lcro_004,uti,LocalizedName,0,-1,경수뇌
+it_weap_lcro_001,uti,LocalizedName,0,-1,경석궁
+it_weap_lcro_003,uti,LocalizedName,0,-1,경석궁
+it_weap_lcro_004,uti,LocalizedName,0,-1,경석궁
 it_weap_lcro_010,uti,LocalizedName,0,-1,IT_WEAP_LCRO_010
 it_weap_lcro_020,uti,LocalizedName,0,-1,IT_WEAP_LCRO_020
 it_weap_lcro_030,uti,LocalizedName,0,-1,IT_WEAP_LCRO_030
@@ -1080,7 +1080,7 @@ it_weap_msta_041,uti,DescIdentified,0,-1,능력 있는 보호 스태프 로 가�
 it_weap_msta_041,uti,LocalizedName,0,-1,방어의 지팡이
 it_weap_msta_042,uti,DescIdentified,0,-1,마법사에게 주어지는 이 막대기는 마법사의 마법 능력을 크게 증가시킵니다.
 it_weap_msta_042,uti,LocalizedName,0,-1,아데프트의 마법사배
-it_weap_msta_301,uti,DescIdentified,0,-1,"마법 예술에 입문한 후 훈련을 마친 후, 이러한 마법사 스틱은 종종 아카니스틱한 숙달 능력이 증가한 유망한 학생들에게 보상으로 주어집니다."
+it_weap_msta_301,uti,DescIdentified,0,-1,마법 예술의 입문자 훈련을 마친 이 지팡이들은 종종 비전 마법에 대한 숙련도가 높아진 유망한 학생들에게 보상으로 주어집니다.
 it_weap_msta_301,uti,LocalizedName,0,-1,초신자의 막대기
 it_weap_msta_900,uti,LocalizedName,0,-1,IT_WEAP_MSTA_900
 it_weap_msta_901,uti,LocalizedName,0,-1,커스텀 소서러의 지팡이
@@ -1146,7 +1146,7 @@ it_weap_shur_010,uti,LocalizedName,0,-1,IT_WEAP_SHUR_010
 it_weap_shur_020,uti,LocalizedName,0,-1,IT_WEAP_SHUR_020
 it_weap_shur_030,uti,LocalizedName,0,-1,IT_WEAP_SHUR_030
 it_weap_shur_031,uti,DescIdentified,0,-1,"이 무기는 작은 마법으로 충전되어 있다. 물론 흔치 않지만, 그러한 마법은 중간 정도의 마법 사용자에게는 상당히 쉽게 만들어진다."
-it_weap_shur_031,uti,LocalizedName,0,-1,마법으로 축소된 수리검
+it_weap_shur_031,uti,LocalizedName,0,-1,마법 수리검
 it_weap_shur_040,uti,LocalizedName,0,-1,IT_WEAP_SHUR_040
 it_weap_sick_000,uti,LocalizedName,0,-1,IT_WEAP_SICK_000
 it_weap_sick_001,uti,LocalizedName,0,-1,낫
@@ -1170,7 +1170,7 @@ it_weap_spea_011,uti,LocalizedName,0,-1,장인제작 창
 it_weap_spea_020,uti,LocalizedName,0,-1,IT_WEAP_SPEA_020
 it_weap_spea_030,uti,LocalizedName,0,-1,IT_WEAP_SPEA_030
 it_weap_spea_031,uti,DescIdentified,0,-1,"이 무기는 작은 마법으로 충전되어 있다. 물론 흔치 않지만, 그러한 마법은 중간 정도의 마법 사용자에게는 상당히 쉽게 만들어진다."
-it_weap_spea_031,uti,LocalizedName,0,-1,마법으로 축복된 창
+it_weap_spea_031,uti,LocalizedName,0,-1,마법의 창
 it_weap_spea_040,uti,LocalizedName,0,-1,IT_WEAP_SPEA_040
 it_weap_sswo_000,uti,LocalizedName,0,-1,IT_WEAP_SSWO_000
 it_weap_sswo_001,uti,LocalizedName,0,-1,소검

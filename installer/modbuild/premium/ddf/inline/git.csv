@@ -279,7 +279,7 @@ area011,git,Placeable List/39/ItemList/1/Description,0,13026,"이 노트 및 리
 area011,git,Placeable List/39/ItemList/1/LocalizedName,0,13025,수탉 횃대의 장부
 area011,git,Placeable List/39/LocName,0,68938,상자
 area011,git,Placeable List/5/Description,0,14700,"노란색이고 오염된 표지판: ""자신에게 앉으세요!"""
-area011,git,Placeable List/5/LocName,0,14701,"""자리를 차리세요!"""
+area011,git,Placeable List/5/LocName,0,14701,"""자리에 앉으시지요!"""
 area011,git,Placeable List/9/LocName,0,84565,책장
 area011,git,StoreList/0/LocName,0,-1,상인 바키퍼
 area011,git,WaypointList/1/MapNote,0,14815,지역 출입구
@@ -452,9 +452,9 @@ midtownmunicipal,git,Placeable List/16/LocName,0,14616,해상 시장
 midtownmunicipal,git,Placeable List/2/Description,0,41263,나무 문입니다.
 midtownmunicipal,git,Placeable List/2/LocName,0,63463,기록 건물 문
 midtownmunicipal,git,Placeable List/22/Description,0,6792,가루가 묻은 바구니.
-midtownmunicipal,git,Placeable List/22/LocName,0,111668,빵 상자
+midtownmunicipal,git,Placeable List/22/LocName,0,111668,빵 바구니
 midtownmunicipal,git,Placeable List/23/LocName,0,5656,천 가방
-midtownmunicipal,git,Placeable List/24/Description,0,84576,"밀가루가 묻은 종이 조각에 ""2분 후에... 약간의 오차는 있겠지만.""라고 적혀 있다."
+midtownmunicipal,git,Placeable List/24/Description,0,84576,"밀가루가 조금 묻은 종이 조각에 ""2시간쯤 후에... 오차는 조금 있고.""라고 적혀 있다."
 midtownmunicipal,git,Placeable List/24/LocName,0,84563,손으로 쓴 노트
 midtownmunicipal,git,Placeable List/37/Description,0,-1,파루아의 깃발.
 midtownmunicipal,git,Placeable List/37/LocName,0,-1,DDF 표지 C01
@@ -476,13 +476,13 @@ northmarket,git,Creature List/0/FirstName,0,-1,도시 경비병
 northmarket,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 northmarket,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,시티 경비병 갑옷
 northmarket,git,Creature List/1/FirstName,0,-1,도시 경비병
-northmarket,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+northmarket,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 northmarket,git,Creature List/2/FirstName,0,-1,시민
-northmarket,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+northmarket,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 northmarket,git,Creature List/3/FirstName,0,-1,시민
-northmarket,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+northmarket,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 northmarket,git,Creature List/4/FirstName,0,-1,시민
-northmarket,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+northmarket,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 northmarket,git,Creature List/5/FirstName,0,-1,시민
 northmarket,git,Door List/2/Description,0,-1,여기서 볼 게 없어.
 northmarket,git,Door List/2/LocName,0,-1,사용 불가능한 문
@@ -496,9 +496,9 @@ northmarket,git,Encounter List/0/LocalizedName,0,-1,노스 마켓 NPC 1
 northmarket,git,Encounter List/1/LocalizedName,0,-1,북 마켓 NPCs 2
 northmarket,git,Placeable List/0/Description,0,68960,이 창은 뚫려있어요.
 northmarket,git,Placeable List/0/LocName,0,68959,반쯤 열린 창문
-northmarket,git,Placeable List/20/ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
-northmarket,git,Placeable List/20/ItemList/1/LocalizedName,0,-1,평민의 옷 입은 것
-northmarket,git,Placeable List/20/ItemList/2/LocalizedName,0,-1,평민의 옷 입은 것
+northmarket,git,Placeable List/20/ItemList/0/LocalizedName,0,-1,평민의 옷
+northmarket,git,Placeable List/20/ItemList/1/LocalizedName,0,-1,평민의 옷
+northmarket,git,Placeable List/20/ItemList/2/LocalizedName,0,-1,평민의 옷
 northmarket,git,Placeable List/3/Description,0,14619,이웃 구역 입구를 표시하는 깃발
 northmarket,git,Placeable List/4/Description,0,14619,이웃 구역 입구를 표시하는 깃발
 northmarket,git,Placeable List/5/Description,0,-1,문 앞 매트
@@ -581,7 +581,7 @@ recordbuilding,git,Creature List/2/FirstName,0,-1,질서 형제단 회장
 recordbuilding,git,Door List/2/LocName,0,5349,문
 recordbuilding,git,Placeable List/27/Description,0,68936,음반책들이 다시 채워질 때까지 기다리고 있습니다.
 recordbuilding,git,Placeable List/27/LocName,0,68935,쌓인 책
-recordbuilding,git,Placeable List/28/Description,0,68934,"""기록 관리에 관한 The Care and Keeping of Records"" 이라는 아주 오래된 책으로, 기록 보관의 오랜 관습이 전해져 내려온 내용을 담고 있다."
+recordbuilding,git,Placeable List/28/Description,0,68934,"""기록의 관리와 유지"" 시대에 걸쳐 전해 내려온 기록 보관 모범 사례를 다룬 낡은 책이다."
 recordbuilding,git,Placeable List/28/LocName,0,68933,고서
 recordbuilding,git,Placeable List/5/Description,0,66696,모든 형태와 크기의 책자들로 가득 차 있는 이 책상 은 풍부한 지식 을 저장 합니다.
 seamarket,git,Creature List/0/Description,0,-1,"퀴리안은 몇 시간 동안 일하면서 몸을 굽히고 당신 앞에 서 있습니다. 그의 갈색 피부는 먼지와 먼지에 덮여 있습니다. 그는 부재로 지우지 않습니다. 그것은 도움이 없습니다. 파란색 머리카락은 그의 밋밋한 모자에서 튀어나옵니다. 또한 불확실한 성격의 더러운 것으로 니다. 그의 벨트에는 봉투로 묶여 있으며 다른 옷을 입고있는 것처럼 보입니다. 그의 반복에서 자켓까지 그의 벨트까지, 주머니로 만들어졌습니다. 그는 끊임없이 돌아보고 당신은 당신의 눈 모퉁이에서 그의 이미지를 윙윙하고 흔들고 맹세합니다."
@@ -649,14 +649,14 @@ seamarket,git,Creature List/37/Equip_ItemList/0/LocalizedName,0,-1,코크레인 
 seamarket,git,Creature List/37/FirstName,0,-1,코크레인
 seamarket,git,Creature List/38/Equip_ItemList/0/LocalizedName,0,-1,북쪽 끝 상인의 옷옷
 seamarket,git,Creature List/38/FirstName,0,-1,시민
-seamarket,git,Creature List/39/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+seamarket,git,Creature List/39/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 seamarket,git,Creature List/39/FirstName,0,-1,시민
 seamarket,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/4/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/40/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+seamarket,git,Creature List/40/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 seamarket,git,Creature List/40/FirstName,0,-1,시민
-seamarket,git,Creature List/41/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+seamarket,git,Creature List/41/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 seamarket,git,Creature List/41/FirstName,0,-1,시민
 seamarket,git,Creature List/42/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/42/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
@@ -683,7 +683,7 @@ seamarket,git,Creature List/48/FirstName,0,-1,도시 경비병
 seamarket,git,Creature List/49/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/49/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 seamarket,git,Creature List/49/FirstName,0,-1,도시 경비병
-seamarket,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,보석상의 옷품
+seamarket,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,보석상 의복
 seamarket,git,Creature List/5/FirstName,0,-1,보석 상인
 seamarket,git,Creature List/50/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 seamarket,git,Creature List/50/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
@@ -713,9 +713,9 @@ seamarket,git,Creature List/62/Description,0,-1,"작고 다부진 체격의 이 
 seamarket,git,Creature List/62/FirstName,0,-1,리안
 seamarket,git,Creature List/63/Description,0,-1,키가 크고 강하고 무서운 이 여성은 완벽한 군사 용병처럼 생겼습니다. 그리고 그녀는 이렇게 비열한 환경에서 오랫동안 전사로서 살아남았을 것입니다.
 seamarket,git,Creature List/63/FirstName,0,-1,스카일러
-seamarket,git,Creature List/64/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+seamarket,git,Creature List/64/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 seamarket,git,Creature List/64/FirstName,0,-1,시민
-seamarket,git,Creature List/65/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+seamarket,git,Creature List/65/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 seamarket,git,Creature List/65/FirstName,0,-1,시민
 seamarket,git,Creature List/7/FirstName,0,-1,시민
 seamarket,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,평민 옷 2
@@ -902,17 +902,17 @@ smoothies,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복
 smoothies,git,Creature List/10/FirstName,0,-1,귀족
 smoothies,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 2
 smoothies,git,Creature List/11/FirstName,0,-1,귀족
-smoothies,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,12928,마귀 1벌 의상
+smoothies,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,12928,악마 1 의상
 smoothies,git,Creature List/12/FirstName,0,-1,캄비온
 smoothies,git,Creature List/13/Description,0,111457,"말들은 유용한 짐동물이며, 그 중에서 가장 좋은 말들은 좋은 전쟁마로도 사용된다."
 smoothies,git,Creature List/13/FirstName,0,111456,말 너깃
-smoothies,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+smoothies,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 smoothies,git,Creature List/14/FirstName,0,-1,시민
-smoothies,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+smoothies,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 smoothies,git,Creature List/15/FirstName,0,-1,시민
 smoothies,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,귀족 의복 7
 smoothies,git,Creature List/16/FirstName,0,-1,귀족 시민
-smoothies,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+smoothies,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 smoothies,git,Creature List/18/FirstName,0,-1,귀족 시민
 smoothies,git,Creature List/19/Description,0,111457,"말들은 유용한 짐 동물로 사용되며, 가장 좋은 말들은 또한 좋은 엔터테인먼트를 제공한다."
 smoothies,git,Creature List/19/FirstName,0,111456,말 댄서
@@ -1017,7 +1017,7 @@ tunnels01,git,Creature List/6/FirstName,0,-1,노예
 tunnels01,git,Creature List/7/FirstName,0,-1,노예
 tunnels01,git,Creature List/8/FirstName,0,-1,노예
 tunnels01,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,노예복장
-tunnels01,git,Creature List/9/FirstName,0,-1,노예판매사용자
+tunnels01,git,Creature List/9/FirstName,0,-1,노예상 시전사
 tunnels01,git,Creature List/9/LastName,0,-1,노예상
 tunnels01,git,Door List/1/Description,0,9076,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
 tunnels01,git,Door List/1/LocName,0,5349,두꺼운 돌 문
@@ -1065,7 +1065,7 @@ yourapartmentnm,git,Placeable List/6/Description,0,68856,잘 만들어진 이 �
 yourapartmentnm,git,Placeable List/74/LocName,0,5748,신문 가판대
 yourneighborhood,git,Creature List/0/FirstName,0,-1,제킨스
 yourneighborhood,git,Creature List/1/FirstName,0,-1,스래시가르
-yourneighborhood,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+yourneighborhood,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 yourneighborhood,git,Creature List/10/FirstName,0,-1,시민
 yourneighborhood,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,테라나 클랭크의 옷
 yourneighborhood,git,Creature List/11/FirstName,0,-1,시민
@@ -1090,7 +1090,7 @@ yourneighborhood,git,Creature List/18/Equip_ItemList/1/LocalizedName,0,13798,도
 yourneighborhood,git,Creature List/18/FirstName,0,-1,도시 경비병
 yourneighborhood,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,월드와인 광신도 복장
 yourneighborhood,git,Creature List/2/FirstName,0,-1,트리샤나
-yourneighborhood,git,Creature List/3/FirstName,0,-1,네가네 판매인
+yourneighborhood,git,Creature List/3/FirstName,0,-1,누더기 행상인
 yourneighborhood,git,Creature List/4/Description,0,12415,이 날 수 없는 집집 새 는 부드러운 육류 와 거의 매일 튀는 달걀 으로서 소중 히 여긴다. 이 새 는 붉은색 이다.
 yourneighborhood,git,Creature List/4/FirstName,0,12416,붉은 암탉
 yourneighborhood,git,Creature List/5/Description,0,-1,"이 인간 은 남자 의 모습 으로 친절 한 사람 이지만, 그 밖 에 주목 할 수 없는 사람 이다. 술집 에서 화려 한 대화 를 하게 하고도 그 후 에 잘 설명 할 수 없는 사람 이다. 그의 둥근 얼굴 에서 발견 된 미소 는 따뜻 하고 대화 를 촉구 한다. 그의 팔 아래 에 뭉친 종이를 꽂고, 평평 한 갈색, 천 의 옷 에 둥지를 틀고 있다. 그의 눈 은 결코 한 시선 에 너무 오래 머물지 않는다."
@@ -1098,11 +1098,11 @@ yourneighborhood,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,태그 
 yourneighborhood,git,Creature List/5/FirstName,0,-1,태그
 yourneighborhood,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,바텐더의 옷옷
 yourneighborhood,git,Creature List/6/FirstName,0,-1,시민
-yourneighborhood,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+yourneighborhood,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 yourneighborhood,git,Creature List/7/FirstName,0,-1,시민
 yourneighborhood,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,평민 옷 3
 yourneighborhood,git,Creature List/8/FirstName,0,-1,시민
-yourneighborhood,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷 입은 것
+yourneighborhood,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,평민의 옷
 yourneighborhood,git,Creature List/9/FirstName,0,-1,시민
 yourneighborhood,git,Door List/1/LocName,0,5349,포프르의 가게 문
 yourneighborhood,git,Door List/3/LocName,0,5349,당신의 아파트 문

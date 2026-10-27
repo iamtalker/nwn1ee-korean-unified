@@ -28,7 +28,7 @@ area001,git,Creature List/2/Description,0,-1,"이 전직 노예는 이제 황제
 area001,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,-1,"이 갑옷은 샤라칸 제국의 우수한 갑옷 제작자들에 의해 제작되었습니다. 전투에서는 훨씬 더 내구성이 있으며, 착용자에게는 덜 무거워요."
 area001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,황제 전신 판금 갑옷
 area001,git,Creature List/2/FirstName,0,-1,마키오스
-area001,git,Creature List/2/ItemList/0/LocalizedName,0,-1,대검
+area001,git,Creature List/2/ItemList/0/LocalizedName,0,-1,양손도끼
 area001,git,Creature List/2/ItemList/1/LocalizedName,0,-1,대형 석궁
 area001,git,Creature List/2/ItemList/2/LocalizedName,0,-1,쇠뇌화살
 area001,git,Creature List/2/ItemList/3/LocalizedName,0,-1,쇠뇌화살
@@ -39,7 +39,7 @@ area001,git,Creature List/3/Description,0,-1,"이 전직 노예는 이제 황제
 area001,git,Creature List/3/Equip_ItemList/0/DescIdentified,0,-1,"이 갑옷은 샤라칸 제국의 우수한 갑옷 제작자들에 의해 제작되었습니다. 전투에서는 훨씬 더 내구성이 있으며, 착용자에게는 덜 무거워요."
 area001,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,황제 전신 판금 갑옷
 area001,git,Creature List/3/FirstName,0,-1,마키오스
-area001,git,Creature List/3/ItemList/0/LocalizedName,0,-1,대검
+area001,git,Creature List/3/ItemList/0/LocalizedName,0,-1,양손도끼
 area001,git,Creature List/3/ItemList/1/LocalizedName,0,-1,대형 석궁
 area001,git,Creature List/3/ItemList/2/LocalizedName,0,-1,쇠뇌화살
 area001,git,Creature List/3/ItemList/3/LocalizedName,0,-1,쇠뇌화살
@@ -71,14 +71,14 @@ area_beg_city,git,Creature List/1/FirstName,0,-1,제국 시민
 area_beg_city,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,제국 군복
 area_beg_city,git,Creature List/10/FirstName,0,-1,토스
 area_beg_city,git,Creature List/10/ItemList/0/DescIdentified,0,-1,"샤라칸 제국의 모든 시민들은 졸업 후 크레스트를 선택하도록 요청받습니다. 세 크레스트는 황제에게 봉사하는 세 가지 경로를 나타냅니다. 수호자의 경로, 집행자의 경로, 구제자의 경로."
-area_beg_city,git,Creature List/10/ItemList/0/LocalizedName,0,-1,수호자 갑옷
+area_beg_city,git,Creature List/10/ItemList/0/LocalizedName,0,-1,수호자의 문장
 area_beg_city,git,Creature List/10/LastName,0,-1,발명가
 area_beg_city,git,Creature List/11/FirstName,0,-1,구조물 XVII
 area_beg_city,git,Creature List/11/LastName,0,-1,", 제국 정보 구조물"
-area_beg_city,git,Creature List/12/FirstName,0,-1,제국 구조물
-area_beg_city,git,Creature List/13/FirstName,0,-1,제국 구조물
-area_beg_city,git,Creature List/14/FirstName,0,-1,제국 구조물
-area_beg_city,git,Creature List/15/FirstName,0,-1,제국 구조물
+area_beg_city,git,Creature List/12/FirstName,0,-1,제국 피조물
+area_beg_city,git,Creature List/13/FirstName,0,-1,제국 피조물
+area_beg_city,git,Creature List/14/FirstName,0,-1,제국 피조물
+area_beg_city,git,Creature List/15/FirstName,0,-1,제국 피조물
 area_beg_city,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,황제 투구
 area_beg_city,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,-1,황제 철판 갑옷
 area_beg_city,git,Creature List/16/Equip_ItemList/2/LocalizedName,0,-1,미늘창
@@ -171,7 +171,7 @@ area_beg_city,git,TriggerList/2/LocalizedName,0,14759,새 일반
 area_beg_city,git,TriggerList/3/LocalizedName,0,14759,새 일반
 area_beg_city,git,TriggerList/4/LocalizedName,0,14759,새 일반
 area_beg_city,git,WaypointList/0/LocalizedName,0,14814,지도 설명
-area_beg_city,git,WaypointList/0/MapNote,0,14815,제국 대성당
+area_beg_city,git,WaypointList/0/MapNote,0,14815,제국 대홀
 area_beg_city,git,WaypointList/1/LocalizedName,0,14814,지도 설명
 area_beg_city,git,WaypointList/1/MapNote,0,14815,가라크 제국 사관학교
 area_beg_city,git,WaypointList/10/LocalizedName,0,14817,이정표
@@ -221,15 +221,15 @@ area_beg_city002,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,황제
 area_beg_city002,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,-1,황제 철판 갑옷
 area_beg_city002,git,Creature List/16/Equip_ItemList/2/LocalizedName,0,-1,미늘창
 area_beg_city002,git,Creature List/16/FirstName,0,-1,제국 경비병
-area_beg_city002,git,Creature List/17/FirstName,0,-1,제국 구조물
-area_beg_city002,git,Creature List/18/FirstName,0,-1,제국 구조물
-area_beg_city002,git,Creature List/19/FirstName,0,-1,제국 구조물
+area_beg_city002,git,Creature List/17/FirstName,0,-1,제국 피조물
+area_beg_city002,git,Creature List/18/FirstName,0,-1,제국 피조물
+area_beg_city002,git,Creature List/19/FirstName,0,-1,제국 피조물
 area_beg_city002,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,황제 투구
 area_beg_city002,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,-1,황제 철판 갑옷
 area_beg_city002,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,-1,미늘창
 area_beg_city002,git,Creature List/2/FirstName,0,-1,제국 경비병
-area_beg_city002,git,Creature List/20/FirstName,0,-1,제국 구조물
-area_beg_city002,git,Creature List/3/FirstName,0,-1,제국 구조물
+area_beg_city002,git,Creature List/20/FirstName,0,-1,제국 피조물
+area_beg_city002,git,Creature List/3/FirstName,0,-1,제국 피조물
 area_beg_city002,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,크림슨 추종자 티나운
 area_beg_city002,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 area_beg_city002,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,-1,장인제작 손도끼
@@ -294,7 +294,7 @@ area_beg_city002,git,TriggerList/1/LocalizedName,0,14759,새 일반
 area_beg_city002,git,TriggerList/2/LocalizedName,0,14759,새 일반
 area_beg_city002,git,TriggerList/3/LocalizedName,0,14759,새 일반
 area_beg_city002,git,WaypointList/0/LocalizedName,0,14814,지도 설명
-area_beg_city002,git,WaypointList/0/MapNote,0,14815,제국 대성당
+area_beg_city002,git,WaypointList/0/MapNote,0,14815,제국 대홀
 area_beg_city002,git,WaypointList/1/LocalizedName,0,14814,지도 설명
 area_beg_city002,git,WaypointList/1/MapNote,0,14815,가라크 제국 사관학교
 area_beg_city002,git,WaypointList/10/LocalizedName,0,14817,이정표
@@ -319,15 +319,15 @@ area_cave_ghaa_n,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,-1,장인�
 area_cave_ghaa_n,git,Creature List/0/FirstName,0,-1,나이트크롤러 문지기
 area_cave_ghaa_n,git,Creature List/0/ItemList/0/DescIdentified,0,-1,이 열쇠는 가라크의 나이트 크래러의 숨길 곳에서 발견되었습니다.
 area_cave_ghaa_n,git,Creature List/0/ItemList/0/LocalizedName,0,-1,나이트크롤러 라이어 키
-area_cave_ghaa_n,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,나이트 크롤러 옷장
+area_cave_ghaa_n,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,나이트크롤러 복장
 area_cave_ghaa_n,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 area_cave_ghaa_n,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,장인제작 단검
 area_cave_ghaa_n,git,Creature List/1/FirstName,0,-1,나이트 크롤러 도적
-area_cave_ghaa_n,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,나이트 크롤러 옷장
+area_cave_ghaa_n,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,나이트크롤러 복장
 area_cave_ghaa_n,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 area_cave_ghaa_n,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,-1,장인제작 소검
 area_cave_ghaa_n,git,Creature List/2/FirstName,0,-1,나이트 크롤러 도적
-area_cave_ghaa_n,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,나이트 크롤러 옷장
+area_cave_ghaa_n,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,나이트크롤러 복장
 area_cave_ghaa_n,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,-1,"분쇄자의 날은 극히 날카롭고, 그 목적은 가늘은 옷과 육체를 더 쉽게 분쇄하는 것이다. 숙련된 도적의 손에 있으면, 분쇄자는 무주의한 상대방에 대한 파괴적인 효과로 사용될 수 있다."
 area_cave_ghaa_n,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,-1,분쇄자
 area_cave_ghaa_n,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
@@ -335,23 +335,23 @@ area_cave_ghaa_n,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,-1,장인�
 area_cave_ghaa_n,git,Creature List/3/FirstName,0,-1,말thar
 area_cave_ghaa_n,git,Creature List/3/ItemList/0/DescIdentified,0,-1,이 열쇠는 타린 라이트핑거스를 납치한 나이트크롤러 일당의 소굴 안에 있는 그의 감방을 여는 열쇠로 보인다.
 area_cave_ghaa_n,git,Creature List/3/ItemList/0/LocalizedName,0,-1,타린의 감방 열쇠
-area_cave_ghaa_n,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,나이트 크롤러 옷장
+area_cave_ghaa_n,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,나이트크롤러 복장
 area_cave_ghaa_n,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 area_cave_ghaa_n,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,-1,장인제작 단검
 area_cave_ghaa_n,git,Creature List/4/FirstName,0,-1,나이트크롤러 문지기
-area_cave_ghaa_n,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,나이트 크롤러 옷장
+area_cave_ghaa_n,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,나이트크롤러 복장
 area_cave_ghaa_n,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 area_cave_ghaa_n,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,-1,장인제작 단검
 area_cave_ghaa_n,git,Creature List/5/FirstName,0,-1,나이트 크롤러 도적
-area_cave_ghaa_n,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,나이트 크롤러 옷장
+area_cave_ghaa_n,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,나이트크롤러 복장
 area_cave_ghaa_n,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 area_cave_ghaa_n,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,-1,장인제작 소검
 area_cave_ghaa_n,git,Creature List/6/FirstName,0,-1,나이트크롤러 경비병
-area_cave_ghaa_n,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,나이트 크롤러 옷장
+area_cave_ghaa_n,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,나이트크롤러 복장
 area_cave_ghaa_n,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 area_cave_ghaa_n,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,-1,장인제작 단검
 area_cave_ghaa_n,git,Creature List/7/FirstName,0,-1,나이트 크롤러 도적
-area_cave_ghaa_n,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,나이트 크롤러 옷장
+area_cave_ghaa_n,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,나이트크롤러 복장
 area_cave_ghaa_n,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 area_cave_ghaa_n,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,-1,장인제작 단검
 area_cave_ghaa_n,git,Creature List/8/FirstName,0,-1,나이트 크롤러 도적
@@ -484,7 +484,7 @@ area_city_gha003,git,Placeable List/12/ItemList/2/DescIdentified,0,-1,"그라민
 area_city_gha003,git,Placeable List/12/ItemList/2/LocalizedName,0,-1,그라민어
 area_city_gha003,git,Placeable List/12/ItemList/3/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
 area_city_gha003,git,Placeable List/12/ItemList/3/LocalizedName,0,-1,그라민어
-area_city_gha003,git,Placeable List/12/LocName,0,5700,스테우트 팬지
+area_city_gha003,git,Placeable List/12/LocName,0,5700,스튜 냄비
 area_city_gha003,git,Placeable List/2/Description,0,14595,곰팡이와 부패로 이 가죽으로 덮인 튼튼한 상자가 얼룩져 있습니다.
 area_city_gha003,git,Placeable List/2/ItemList/0/DescIdentified,0,-1,이것은 블러드하크 노예 구실의 열쇠입니다.
 area_city_gha003,git,Placeable List/2/ItemList/0/LocalizedName,0,-1,노예 구실 키
@@ -728,7 +728,7 @@ area_cuts_2,git,WaypointList/46/LocalizedName,0,14817,쿠츠센 스파운포인�
 area_cuts_2,git,WaypointList/47/LocalizedName,0,14817,쿠츠센 스파운포인트
 area_cuts_2,git,WaypointList/48/LocalizedName,0,14817,쿠츠센 스파운포인트
 area_cuts_2,git,WaypointList/49/LocalizedName,0,14817,쿠츠센 스파운포인트
-area_cuts_2,git,WaypointList/5/LocalizedName,0,14817,시작 캐스트포인트
+area_cuts_2,git,WaypointList/5/LocalizedName,0,14817,컷신 시작 지점
 area_cuts_2,git,WaypointList/50/LocalizedName,0,14817,쿠츠센 스파운포인트
 area_cuts_2,git,WaypointList/51/LocalizedName,0,14817,쿠츠센 스파운포인트
 area_cuts_2,git,WaypointList/52/LocalizedName,0,14817,쿠츠센 스파운포인트
@@ -1036,7 +1036,7 @@ area_ghaa_gra001,git,Placeable List/40/ItemList/0/LocalizedName,0,-1,바르후�
 area_ghaa_gra001,git,Placeable List/40/LocName,0,14576,책장
 area_ghaa_gra001,git,Placeable List/41/Description,0,14594,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
 area_ghaa_gra001,git,Placeable List/41/ItemList/0/DescIdentified,0,-1,"통제 돌은 가라크에서 만들어진 다른 장치와는 다른 장치입니다. 그 엄청난 힘은 많은 비범한 용도로 사용되었습니다. 이러한 업적 중 가장 위대한 것은 우리가 공격에 처할 가능성이 없는 사건에서 지구 문 위에 불러올 수 있는 불가침의 방패입니다. 또한, 돌은 일상의 작업에 도움을 주기 위해 마법의 건축물을 활동시키는 목적으로 광범위하게 사용되었습니다. 우리 제국 시민들에게 더 적합한 일을 수행할 충분한 시간을 허용합니다. 제어 돌의 활성화는 매우 간단합니다. 간단한 화살 문구, ""Milak Navok""는 돌의 힘을 불러올 수 있습니다. 물론 우리는 어떤 위험한 사용을 방지하기 위해 경호를 설치했습니다. 고 마법사 비하람은 통제의 사용에 배치되었습니다. 그래서 당신은 그를 사용해야 할 필요가 있습니다. 당신은 돌의 능력과 파괴적인 방법을 통해 매우 강력한 힘을 얻을 수 있습니다."
-area_ghaa_gra001,git,Placeable List/41/ItemList/0/LocalizedName,0,-1,레저 #13: 컨트롤 돌
+area_ghaa_gra001,git,Placeable List/41/ItemList/0/LocalizedName,0,-1,장부 #13: 제어석
 area_ghaa_gra001,git,Placeable List/41/LocName,0,5348,상자
 area_ghaa_gra001,git,Placeable List/42/Description,0,14595,"이상한 룬과 그림자, 아마도 미묘한 자연, 이 은폐된 강박의 옆구리에 불태워졌습니다."
 area_ghaa_gra001,git,Placeable List/42/ItemList/0/DescIdentified,0,-1,이 갑옷에는 약한 마법이 부여되어 착용자를 보호하는 것 같습니다.
@@ -1230,7 +1230,7 @@ area_ghaa_grand_,git,Placeable List/43/Description,0,14575,눈이 어지러울 �
 area_ghaa_grand_,git,Placeable List/43/LocName,0,14576,책장
 area_ghaa_grand_,git,Placeable List/44/Description,0,14594,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
 area_ghaa_grand_,git,Placeable List/44/ItemList/0/DescIdentified,0,-1,"통제 돌은 가라크에서 만들어진 다른 장치와는 다른 장치입니다. 그 엄청난 힘은 많은 비범한 용도로 사용되었습니다. 이러한 업적 중 가장 위대한 것은 우리가 공격에 처할 가능성이 없는 사건에서 지구 문 위에 불러올 수 있는 불가침의 방패입니다. 또한, 돌은 일상의 작업에 도움을 주기 위해 마법의 건축물을 활동시키는 목적으로 광범위하게 사용되었습니다. 우리 제국 시민들에게 더 적합한 일을 수행할 충분한 시간을 허용합니다. 제어 돌의 활성화는 매우 간단합니다. 간단한 화살 문구, ""Milak Navok""는 돌의 힘을 불러올 수 있습니다. 물론 우리는 어떤 위험한 사용을 방지하기 위해 경호를 설치했습니다. 고 마법사 비하람은 통제의 사용에 배치되었습니다. 그래서 당신은 그를 사용해야 할 필요가 있습니다. 당신은 돌의 능력과 파괴적인 방법을 통해 매우 강력한 힘을 얻을 수 있습니다."
-area_ghaa_grand_,git,Placeable List/44/ItemList/0/LocalizedName,0,-1,레저 #13: 컨트롤 돌
+area_ghaa_grand_,git,Placeable List/44/ItemList/0/LocalizedName,0,-1,장부 #13: 제어석
 area_ghaa_grand_,git,Placeable List/44/LocName,0,5348,상자
 area_ghaa_grand_,git,Placeable List/53/ItemList/0/DescIdentified,0,-1,"이 패키지는 모험 일일을 위한 충분한 음식과 물을 포함합니다. 대부분의 귀족들과 상인들은 제국의 야외 지역에서 여행하는 동안 이 종류의 음식 패키지를 사용합니다. 전통적인 포장 식량 대신 다른 많은 것이 있지만, 이는 부담을 감당할 수 있는 사람들 사이에서 가장 인기 있는 선택입니다. 이 아이템은 식량으로 사용할 수 있습니다. 휴식을 취하려면 인벤토리에 어떤 형태의 식량이 있어야 합니다."
 area_ghaa_grand_,git,Placeable List/53/ItemList/0/LocalizedName,0,-1,포장된 식량
@@ -1326,7 +1326,7 @@ ghaarakimperi001,git,Placeable List/4/Description,0,14577,"이 나무 상자는 
 ghaarakimperi001,git,Placeable List/4/ItemList/0/LocalizedName,0,-1,화살
 ghaarakimperi001,git,Placeable List/4/ItemList/1/LocalizedName,0,-1,쇠뇌화살
 ghaarakimperi001,git,Placeable List/4/ItemList/2/LocalizedName,0,-1,탄환
-ghaarakimperi001,git,Placeable List/4/ItemList/3/LocalizedName,0,-1,경수뇌
+ghaarakimperi001,git,Placeable List/4/ItemList/3/LocalizedName,0,-1,경석궁
 ghaarakimperi001,git,Placeable List/4/ItemList/4/LocalizedName,0,-1,단궁
 ghaarakimperi001,git,Placeable List/4/ItemList/5/LocalizedName,0,-1,투석구
 ghaarakimperi001,git,Placeable List/4/ItemList/6/LocalizedName,0,-1,표창
@@ -1623,7 +1623,7 @@ ghaarakmarket002,git,StoreList/0/LocName,0,-1,표준무기 및 방어구 가게
 ghaarakmarket002,git,StoreList/0/StoreList/0/ItemList/0/LocalizedName,0,-1,생가죽 갑옷
 ghaarakmarket002,git,StoreList/0/StoreList/0/ItemList/1/LocalizedName,0,-1,가죽 갑옷
 ghaarakmarket002,git,StoreList/0/StoreList/0/ItemList/10/LocalizedName,0,-1,사슬 상의
-ghaarakmarket002,git,StoreList/0/StoreList/0/ItemList/11/LocalizedName,0,-1,사슬갑옷
+ghaarakmarket002,git,StoreList/0/StoreList/0/ItemList/11/LocalizedName,0,-1,낡은 드로우 사슬갑옷
 ghaarakmarket002,git,StoreList/0/StoreList/0/ItemList/12/LocalizedName,0,-1,비늘 갑옷
 ghaarakmarket002,git,StoreList/0/StoreList/0/ItemList/13/LocalizedName,0,-1,대형 방패
 ghaarakmarket002,git,StoreList/0/StoreList/0/ItemList/14/LocalizedName,0,-1,작은 방패
@@ -1653,7 +1653,7 @@ ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/20/LocalizedName,0,-1,미�
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/21/LocalizedName,0,-1,창
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/22/LocalizedName,0,-1,대낫
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/23/LocalizedName,0,-1,대형 석궁
-ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/24/LocalizedName,0,-1,경수뇌
+ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/24/LocalizedName,0,-1,경석궁
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/25/LocalizedName,0,-1,장궁
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/26/LocalizedName,0,-1,단궁
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/27/LocalizedName,0,-1,투석구
@@ -1664,7 +1664,7 @@ ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/30/LocalizedName,0,-1,투�
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/4/LocalizedName,0,-1,손도끼
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/5/LocalizedName,0,-1,전투도끼
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/6/LocalizedName,0,-1,단검
-ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/7/LocalizedName,0,-1,대검
+ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/7/LocalizedName,0,-1,양손도끼
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/8/LocalizedName,0,-1,장검
 ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/9/LocalizedName,0,-1,시미터
 ghaarakmarket002,git,StoreList/1/LocName,0,-1,표준 포션 상점
@@ -1869,7 +1869,7 @@ ghaarakmarketdis,git,Placeable List/9/LocName,0,14643,횃불 걸이
 ghaarakmarketdis,git,StoreList/0/LocName,0,-1,표준무기 및 방어구 가게
 ghaarakmarketdis,git,StoreList/0/StoreList/0/ItemList/0/LocalizedName,0,-1,생가죽 갑옷
 ghaarakmarketdis,git,StoreList/0/StoreList/0/ItemList/1/LocalizedName,0,-1,가죽 갑옷
-ghaarakmarketdis,git,StoreList/0/StoreList/0/ItemList/10/LocalizedName,0,-1,사슬갑옷
+ghaarakmarketdis,git,StoreList/0/StoreList/0/ItemList/10/LocalizedName,0,-1,낡은 드로우 사슬갑옷
 ghaarakmarketdis,git,StoreList/0/StoreList/0/ItemList/11/LocalizedName,0,-1,비늘 갑옷
 ghaarakmarketdis,git,StoreList/0/StoreList/0/ItemList/12/LocalizedName,0,-1,대형 방패
 ghaarakmarketdis,git,StoreList/0/StoreList/0/ItemList/13/LocalizedName,0,-1,작은 방패
@@ -1903,7 +1903,7 @@ ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/20/LocalizedName,0,-1,미�
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/21/LocalizedName,0,-1,창
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/22/LocalizedName,0,-1,대낫
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/23/LocalizedName,0,-1,대형 석궁
-ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/24/LocalizedName,0,-1,경수뇌
+ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/24/LocalizedName,0,-1,경석궁
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/25/LocalizedName,0,-1,장궁
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/26/LocalizedName,0,-1,단궁
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/27/LocalizedName,0,-1,투석구
@@ -1954,7 +1954,7 @@ ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/50/LocalizedName,0,-1,장�
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/51/DescIdentified,0,-1,장인제작 무기는 완벽하게 균형 잡혀 있으며 적절한 무게를 갖추어 전투에서 더 큰 통제와 정확성을 가능하게 합니다.
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/51/LocalizedName,0,-1,장인제작 창
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/6/LocalizedName,0,-1,단검
-ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/7/LocalizedName,0,-1,대검
+ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/7/LocalizedName,0,-1,양손도끼
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/8/LocalizedName,0,-1,장검
 ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/9/LocalizedName,0,-1,시미터
 ghaarakmarketdis,git,StoreList/1/LocName,0,-1,표준 포션 상점

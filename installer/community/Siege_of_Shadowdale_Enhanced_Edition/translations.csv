@@ -28,7 +28,7 @@ sinkholetunnels,are,Name,0,침몰 터널
 southernfarmsaba,are,Name,0,남부 농장: 버려진 농가
 southernfarmskul,are,Name,0,남부 농가: 쿨너 오하네의 농가
 templeofchauntea,are,Name,0,쉐도우데일: 풍요의 집
-theoldskull001,are,Name,0,구스카이
+theoldskull001,are,Name,0,올드 스컬
 twistedtower2ndf,are,Name,0,굽은 탑: 2층
 twistedtower3rdf,are,Name,0,굽은 탑: 3층
 twistedtowerdung,are,Name,0,휘어진 탑: 던전 레벨
@@ -37,24 +37,24 @@ twistedtowerlord,are,Name,0,왜곡된 탑: 주님의 고분
 twistedtowero002,are,Name,0,아샤바 의 왜곡 된 탑
 underdark,are,Name,0,언더다크: 상위 레벨
 underdarkmatrons,are,Name,0,언더다크: 매트론의 방
-underdarksecondl,are,Name,0,언더다크: 낮은 레벨
+underdarksecondl,are,Name,0,언더다크: 하층
 worldmap,are,Name,0,세계 지도
 jhessail,dlg,EntryList/0/Text,0,"안녕하세요, 저는 제시살이라고 합니다."
 lanseril,dlg,EntryList/0/Text,0,"""그루는 자연을 존중하지 않는다!"""
 ls_blaesgard,dlg,EntryList/0/Text,0,"""지원해 주셔서 감사합니다, 친구""."
 ls_bronn,dlg,EntryList/0/Text,0,"""내 가공자 환영합니다. 나는 Bronn입니다. '나는 이 일을 해왔다' 20 년 이상 가공. 나는 당신이 필요로 하는 모든 것을 만들 수 있습니다."
 ls_bronn,dlg,EntryList/1/Text,0,"""무엇이 필요하면 다시 오세요. 내 가꾸기는 항상 열려 있습니다""."
-ls_bronn,dlg,EntryList/2/Text,0,"""다시 왔군, 브론은 필요하신 무기와 갑옷, 무엇이든 다 해결해 줄게."""
+ls_bronn,dlg,EntryList/2/Text,0,"""또 왔나? 무기든 갑옷이든 필요한 게 있으면 이 늙은 브론이 다 해결해 주지."""
 ls_bronn,dlg,EntryList/3/Text,0,"""만약 나 보다 10 년 더 어린 사람 이라면, 나 자신 을 익사 하기 까지 을 짊어질 것 이다. 하지만 나 는 마을 의 수비자 들 을 잘 장비를 갖추게 하는 데 더 유용 한 것 이라고 생각 한다""."
 ls_bronn,dlg,ReplyList/0/Text,0,"""보안해"""
 ls_bronn,dlg,ReplyList/2/Text,0,<StartAction>[상가 시작]</Start>
 ls_bronnsmith,dlg,EntryList/0/Text,0,"브론 셀가르드, 대장간"
 ls_child01,dlg,EntryList/0/Text,0,"""내가 어른이 되면 모험가가 되고 싶어요! 신화 드라너의 기사들처럼! 난 랜서일 스노우만틀이 어떤 나무에 올라갈 수 있을거라고 확신합니다! 그는 아마도 스카이틀이나 그 어떤 것으로 변할 것입니다""."
 ls_child01,dlg,EntryList/1/Text,0,"""나중에 보자!"""
-ls_child01,dlg,EntryList/2/Text,0,"엄마한테 말하지 않았어? 네... 네가 다시 사과를 훔쳤다는 걸 말하지 않았어? 만약 엄마가 알아차렸다면, 적어도 열흘간 벌금을 내야 했을 거야!"
+ls_child01,dlg,EntryList/2/Text,0,“찾았다고요? 당신… 엄마한테 말 안 했죠? 엄마가 내가 또 서투르게 과일을 훔친 걸 알게 되면 적어도 열흘 동안은 외출 금지시킬 거라고요!”
 ls_child01,dlg,EntryList/3/Text,0,* 프*
 ls_child01,dlg,EntryList/4/Text,0,"""여!"
-ls_child01,dlg,EntryList/6/Text,0,"""아마 그럴 거야. 네가 올라갈 수 있을 거야. 사제 여자들이 널 보지 않도록 해봐. 그렇지 않으면 화를 낼 수도 있겠어."""
+ls_child01,dlg,EntryList/6/Text,0,"""차라리 네가 직접 올라가 보든가! 여사제들에게 들키지 않게 조심해, 아니면 엄청 화낼지도 모르니까."""
 ls_child01,dlg,EntryList/7/Text,0,"""당신... 당신은 농담을 하려는 거예요? 오, 좋은 농담이네요! 사과를 얻으면 다시 찾아오세요!"""
 ls_child01,dlg,EntryList/8/Text,0,"""오, 맨, 너무 흥분했어!"""
 ls_child01,dlg,EntryList/9/Text,0,"그 소년 은 혼란 스럽다. ""그게 한 사과 입니다. *피로 만든 것 입니다.* 아마 어떤 마법 일 것 이 아닐 것 입니다."
@@ -62,12 +62,12 @@ ls_child01,dlg,EntryList/10/Text,0,"""그게 있나? 보여줘!"""
 ls_child01,dlg,EntryList/11/Text,0,"""빨리 가자! 나는 곧 집에 가야 돼."""
 ls_child01,dlg,EntryList/12/Text,0,"""우. 그냥 평범한 오래된 사과야. 윌이 거짓말을 하고 있다는 걸 알았어야 했지! 고양이똥이 사탕 맛이 좋다고 말했을 때와 마찬가지로! 어쩌면 새로운 친구를 찾아야 할지도 모른다""."
 ls_child01,dlg,EntryList/13/Text,0,"""하하하하하하, <mister/missus>!"""
-ls_child01,dlg,EntryList/14/Text,0,"""또한 감사합니다!"""
+ls_child01,dlg,EntryList/14/Text,0,"""다시 한번 고마워!"""
 ls_child01,dlg,ReplyList/0/Text,0,"""그럼 이만, 아이."""
 ls_child01,dlg,ReplyList/2/Text,0,"""당신이 남긴 메시지에 대해 여기 왔습니다."""
 ls_child01,dlg,ReplyList/3/Text,0,"""당신이 원하는 것을 말하지 않으면 더 나쁜 일이 될 거다."""
 ls_child01,dlg,ReplyList/5/Text,0,"""당신의 비밀은 안전하게 지킬게."""
-ls_child01,dlg,ReplyList/8/Text,0,"""버려. 관심 없어."""
+ls_child01,dlg,ReplyList/8/Text,0,"""됐어. 관심 없어."""
 ls_child01,dlg,ReplyList/10/Text,0,"""내가 뭘 할 수 있는지 보자""."
 ls_child01,dlg,ReplyList/12/Text,0,"""이것에서 뭘 얻는 거야?"""
 ls_child01,dlg,ReplyList/13/Text,0,"""아직은 아니야."""
@@ -101,7 +101,7 @@ ls_durman,dlg,EntryList/2/Text,0,"""난 네가 장난을 치는 거라곤 믿지
 ls_durman,dlg,EntryList/3/Text,0,"""나도 말해야 할 게 없어요. 그건 내 비밀이야""."
 ls_durman,dlg,EntryList/4/Text,0,"<StartCheck>[실패]</Start> ""더는 말하지 않겠소. 이렇게 말해서 미안하지만, 당신에게는 도무지 정이 가지 않는 구석이 있소."""
 ls_durman,dlg,EntryList/5/Text,0,"<StartAction>[성공]</Start> ""아, 아마도 그건 큰 문제는 되지 않을 것 같습니다. 몇 년 전, 미스 드란 유적지로 가는 모험가들의 회사들은 이곳에서 몇 일 동안 머물렀습니다. 그들의 리더와 저는 그들이 머무는 동안 친구가 되었습니다. 결과로, 그들은 꽤 성공한 것으로 알려졌습니다."""
-ls_durman,dlg,EntryList/6/Text,0,"""마법사가 죽은 후, 그들은 유적지를 떠나 동료의 시체를 쉐도우데일로 가져갔다. 마법사는 풍요로운 집에서 자랐는데, 테이언들이 그런 것을 좋아하지 않아서 그 비용이 상당했다."""
+ls_durman,dlg,EntryList/6/Text,0,"""마법사가 살해당한 후 그들은 유적지를 떠나 동료의 시체를 이곳 섀도데일로 운구해 왔다. 마법사는 풍요의 집에 의해 부활했는데, 촌테아 신도들이 그런 종류의 일을 탐탁지 않게 여긴다는 점을 고려하면 상당한 양의 골드가 들었다오."""
 ls_durman,dlg,EntryList/7/Text,0,"""저에게 모험가들이 한 라운드의 음료를 사주고 나서, 지도자는 폐허에서 발견한 마법의 벨트를 선물로 주었다. 그는 모험 생활을 포기했기 때문에 더 이상 그 벨트는 필요하지 않다고 말했다. 벨트를 착용하면 소와 같은 힘을 발휘할 수 있다."""
 ls_durman,dlg,EntryList/8/Text,0,"""진실을 말하자면, 나는 전사가 아니고, 이 벨트가 나에게는 낭비된 것 같아. 하지만, 없으면 이 숙소를 자주 찾는 난리나는 모험가들에게 대처하기 힘들겠지. 자엘이 개입해야 하고, 그 다음엔 사람들은 *상처를 입을 것이라.*"""
 ls_durman,dlg,EntryList/9/Text,0,"""내가 뭘 말해줄게. 나이가 들었어 이래서 서 있는 것과 머리를 맞대는 일에 좀 피곤해졌지만, 제일은 나에게 친절했고, 그녀를 대체하지 않고 떠나고 싶지 않아. 새로운 바이킹을 찾아주면, 벨트를 주마."""
@@ -115,7 +115,7 @@ ls_durman,dlg,EntryList/16/Text,0,"""안녕하세요! 대체자를 찾으신 건
 ls_durman,dlg,EntryList/17/Text,0,"""계속 지켜보세요. 나는 확실히 누군가가 문을 지켜주면서 한 번에 백일 동안 따뜻한 식사와 한 금화를 받는 것을 꺼리지 않을 것이라고 확신합니다."""
 ls_durman,dlg,EntryList/18/Text,0,"""좋아, 누가 생각했을까! 구골 숙소에서 일하는 괴물! 다행스럽게도 여주인 자헤일은 인종에 따라 사람을 판단하지 않는다. 그는 확실히 충분히 열의를 보인다! 여기, 벨트를 가져가. 더 이상 필요 없을 것 같다."""
 ls_durman,dlg,EntryList/19/Text,0,"""그럼 이만. 신들이 당신을 축복하시오."""
-ls_durman,dlg,EntryList/20/Text,0,"""또한 감사합니다!"""
+ls_durman,dlg,EntryList/20/Text,0,"""다시 한번 고마워!"""
 ls_durman,dlg,ReplyList/0/Text,0,"""보안해"""
 ls_durman,dlg,ReplyList/2/Text,0,"""만약 내가 혼란을 일으키고 싶다면?"""
 ls_durman,dlg,ReplyList/3/Text,0,"""계속하거라..."""
@@ -130,7 +130,7 @@ ls_durman,dlg,ReplyList/17/Text,0,"""경험 많은 모험가들을 통제하는 
 ls_durman,dlg,ReplyList/18/Text,0,"""당신들이 자주 문제를 겪나요? 다일스포크 사람들은 평화로운 것 같네요."""
 ls_durman,dlg,ReplyList/19/Text,0,"<StartAction>[매력]</Start> ""당신은 무역 비밀을 언급했습니다..."""
 ls_durman,dlg,ReplyList/20/Text,0,"""아직은 아니야."""
-ls_durntrag,dlg,EntryList/0/Text,0,"""결국... 적임자로써 싸워볼 만한 적이야! 준비하거라, 너의 운명을 맞이하거라!"""
+ls_durntrag,dlg,EntryList/0/Text,0,"""드디어... 싸워볼 만한 상대를 만났군! 지옥으로 갈 준비를 해라!"""
 ls_elfranger1,dlg,EntryList/0/Text,0,"""좋은 만남. 눈과 귀가 열려 있고 숲 속을 경계하라. 이 시대는 위험하다""."
 ls_elminster1,dlg,EntryList/0/Text,0,"""빨리 달려가, <lad/lass>! 나는 곧 벌어질 일로부터 널 보호할 수 없어!"""
 ls_elminster1,dlg,EntryList/1/Text,0,"""그래서, 늙은 멍청이, 마침내 나타나다니. 나는 네가 용기와 지성을 잃었다고 생각하기 시작했었지. 보이는 것처럼, 죽음이 마침내 너를 잡은 것 같군!"""
@@ -183,7 +183,7 @@ ls_florin2,dlg,EntryList/6/Text,0,"""예, 나는 이것이 당신의 결정이 �
 ls_florin2,dlg,EntryList/7/Text,0,"""네, 난 해고. 하지만 그 모든 년 전 내가 기사들에게 맹세했을 때, 나의 첫 번째 맹세는 그들이 가장 필요한 곳마다 평범한 사람들을 보호하는 것이었다. 우리가 샤도데일 방어에 도움이 되지 않으면 다일스포크가 학살 될 것입니다. 스코티에 대한 희망은 여전히 있습니다."
 ls_florin2,dlg,EntryList/8/Text,0,"""친구여, 네가 우리와 함께 이렇게까지 왔으니, 시작한 일은 네가 마무리하는 것을 바라노라. 나의 눈에는 네가 성공할 것이라 믿게 하는 것이 보였노라."""
 ls_florin2,dlg,EntryList/9/Text,0,"""네, 당신이 맞습니다. 모어그림 자신조차도 그렇게 동의할 것이라 확신합니다. 그러나 그것이 얼마나 고통스러울지라도요. 친구여, 당신이 우리와 이렇게 멀리까지 함께 왔으니, 시작한 것을 끝내달라 합니다. 당신에게 보였던 것이 당신이 성공할 것이라 믿게 해주었습니다."""
-ls_florin2,dlg,EntryList/10/Text,0,"""그러면 그의 주군께 감사의 마음을 전해주십시오. 스코티의 안전한 귀환을 위해 그는 여러분을 대대적으로 보상할 것이라고 저는 압니다. 영웅성이 여러분을 움직이지 않는다면 탐욕은 확실히 움직일 것입니다. 제 기사들과 저는 이제 떠나야 합니다. 제발 저를 실망시키지 마세요, <FirstName>."""
+ls_florin2,dlg,EntryList/10/Text,0,"그분의 은혜를 생각해서라도 해주십시오! 스코티를 무사히 돌려보내 준다면 그분이 후하게 보상해 주실 겁니다. 영웅심이 움직이지 않는다면 탐욕이라도 움직이겠지요. 나와 내 기사들은 이만 떠나야 하니, 실망시키지 마십시오, <FirstName>."
 ls_florin2,dlg,EntryList/11/Text,0,"""그렇다면 진심으로 감사드립니다. 당신 같은 영웅들은 요즘 너무 드뭅니다. 우리가 샤도데일을 지키다 전투에서 쓰러지더라도, 어떤 역경을 뚫고서라도 당신이 계속 싸워줄 것을 아는 것만으로도 큰 위안이 됩니다. 잘 가시오, 내 친구여. 더 밝은 날에 다시 만나기를."""
 ls_florin2,dlg,EntryList/12/Text,0,"""내 마음... 내 마음은 우리 사람들을 익사로부터 구해야 한다고 말합니다. 물론 해야 합니다. 지금은 너무 명확합니다. 감사합니다""."
 ls_florin2,dlg,ReplyList/0/Text,0,"""우리가 없는 동안 왜곡된 탑이 버틸 수 있을까?"""
@@ -214,7 +214,7 @@ ls_glamerie,dlg,EntryList/9/Text,0,"""안녕하세요, 어떻게 도와드릴까
 ls_glamerie,dlg,EntryList/10/Text,0,"""다크 엘프들이 공격하고 있어! 먼저 여신께 기도해 마법을 되살리고, 그다음 골짜기를 지키러 가자."""
 ls_glamerie,dlg,ReplyList/0/Text,0,"""보안해"""
 ls_glamerie,dlg,ReplyList/2/Text,0,나는 치유가 필요하다.
-ls_glamerie,dlg,ReplyList/3/Text,0,"""버려."""
+ls_glamerie,dlg,ReplyList/3/Text,0,"""됐네."""
 ls_glamerie,dlg,ReplyList/4/Text,0,"""좋아, 그렇게 할게."""
 ls_glamerie,dlg,ReplyList/7/Text,0,"""여러분이 제공하는 서비스를 보고 싶습니다."""
 ls_glamerie,dlg,ReplyList/8/Text,0,<StartAction>[ 떠나.]</Start>
@@ -226,13 +226,13 @@ ls_grimbold,dlg,EntryList/2/Text,0,<StartCheck>[실패]</Start>#################
 ls_grimbold,dlg,EntryList/3/Text,0,"<StartAction>[성공]</Start> ""아... 맞아. 나는 늙었지만 아직 쉽게 죽고 싶지 않아. 잘 찾아오길 바라."""
 ls_grimbold,dlg,EntryList/4/Text,0,"""응? 대단한 주장이로군. 이렇게 하지. 난 아이들을 납치하는 짓 같은 건 별로 좋아하지 않으니, 500골드... 아... 500골드면 물러서도록 설득될 수도 있겠지. 1,000골드를 주면 아예 편을 바꿔 주지."""
 ls_grimbold,dlg,EntryList/5/Text,0,"""그건 아쉽지만, 나는 자선 단체가 아니야. 우리는 그냥 <race>에서 문제를 해결해야 해."""
-ls_grimbold,dlg,EntryList/6/Text,0,"""네, 그렇게 하겠고, 기뻐할게. 좋은 행운을!"""
+ls_grimbold,dlg,EntryList/6/Text,0,"""그래, 기꺼이 그러마. 행운을 빌네."""
 ls_grimbold,dlg,EntryList/7/Text,0,"""여호와 사업을 하게 되어 즐거웠습니다. 아래층의 익사 캠프 근처에서 만나겠습니다."""
 ls_grimbold,dlg,EntryList/8/Text,0,"""쳇. 어떻게 끝날지 뻔히 아는데 질문해서 뭐 하겠어? 그래도 나쁠 건 없겠지. 우리 중 누구도 이 일이 어떻게 끝나는지 서둘러 보고 싶어 하진 않겠지만 말이야."""
 ls_grimbold,dlg,EntryList/9/Text,0,"""그래, 어쩌면 우리가 그것에 도달할 때가 왔을지도 모른다."
 ls_grimbold,dlg,EntryList/11/Text,0,"""대리인은 그를 언더더크에서 인질로 잡고 있습니다. 그녀는 그를 너무 잔인하지 않았습니다. 적어도 익사 기준으로. 그녀는 사디스트일 수도 있지만, 키네타는 또한 비즈니스 여성입니다. 그녀는 그를 안전하게 지키고 있습니다."
 ls_grimbold,dlg,EntryList/12/Text,0,"""그 말은 그들이 바에라온 숭배자들과 함께 일하고 있는가? 아니, 거미를 입맞춤한 자들은 그들을 견디지 못한다. 실제로, 저는 자엘린 지도자 중 한 명이 최근에 살해되었다고 들었다. 그래서 주요 경쟁자들이 큰 타격을 입은 덕분에 키네스라는 것이 즉각 행동을 취한 것으로 보인다."""
-ls_grimbold,dlg,EntryList/13/Text,0,"""그건 자기모습의 매트론인 키네타 드라우린이야. '자기모습'이라고 말해. 엘프는 두루니프 가의 두 자매의 사촌이니까. 이 지역의 거미 키스러들의 진정한 힘이지. 키네타는 자신의 흔적을 남길 기회를 봤어."""
+ls_grimbold,dlg,EntryList/13/Text,0,"""그 자칭 매트론이라는 키네타 드라우린이겠지. '자칭'이라고 한 건, 이 엘프가 이 지역의 거미 추종자들 뒤에서 실세를 쥐고 있는 두루니프 가문의 두 자매 중 어린 사촌일 뿐이기 때문이야. 키네타는 한 몫 단단히 잡을 기회를 엿본 거지."""
 ls_grimbold,dlg,EntryList/14/Text,0,"""물론, 줄을 당기는 건 말랑타이르 자신이다. 그는 칼림샤의 인간 마법사라고 주장하지만, 나는 인간보다 더 인간이 아니라고 할 수 없다. 이 전체 동맹은 그의 아이디어에서 시작되었으며, 그는 드로우들이 셰도우데일을 침공하도록 도와주며, 그가 갈망하는 유물을 얻기 위해 이르렀다."""
 ls_grimbold,dlg,EntryList/15/Text,0,"""내 검을 맛보세요, 당신은 망할 익사!"""
 ls_grimbold,dlg,EntryList/16/Text,0,"""잘 싸웠지만, 이제 늙은 그림볼드는 언더다크 아래쪽으로 돌아갈 때가 된 것 같군. 그레이 프로텍터께서 자네에게 그분의 음울한 은총을 내려 주시길."""
@@ -253,7 +253,7 @@ ls_halinor,dlg,EntryList/0/Text,0,"""여행자님, 저는 하린오르 아발엘
 ls_halinor,dlg,EntryList/1/Text,0,"""이 숲을 가능한 빨리 떠나, 친구."""
 ls_halinor,dlg,EntryList/2/Text,0,"""그것 을 소중 히 여는 다른 사람 들 에게 당신 의 웅변 을 저장 하십시오. 당신 의 생명 은 당신 의 것 이다. 당신 의 마음 에 맞는 대로 버려두십시오""."
 ls_halinor,dlg,EntryList/3/Text,0,"""최고의 시대에도 불구하고, 위험한 짐승들과 인간형 동물들이 이 숲을 쫓아다니고 있지만, 코르만토르에는 새로운 악이 존재하고 있는 것 같습니다. 이 악은 더레스포크와 엘프 모두에게 엄청난 위협을 줄 수 있습니다""."
-ls_halinor,dlg,EntryList/4/Text,0,"""저주받은 드루이! 다일스포크족과 엘븐 궁중의 우리들이 그들을 지하로 몰아넣은 수백 년 후, 그들은 돌아왔다."""
+ls_halinor,dlg,EntryList/4/Text,0,"""저주받은 드로우! 데일즈폴크와 엘븐 코트의 우리에 의해 지하로 쫓겨난 지 수 세기가 지난 지금, 그들이 돌아왔다."""
 ls_halinor,dlg,EntryList/5/Text,0,"""지난 한 해 동안 코르만토르에서 세 가지 주요 한파가 생겨났습니다. 유목적 아우즈코빈 족속, 메노베르란잔의 배척된 하우스 자엘레, 그리고 그 악하고 타락한 한 여신인 롤트 (Lolth) 의 불순종 숭배자""."
 ls_halinor,dlg,EntryList/6/Text,0,"""우리는 하우스 자엘레가 한 때 멘조베란잔을 고향으로 삼았다고 믿습니다. 그들은 바에라운 신을 숭배하므로, 아마도 그 도시의 거친 롤트 숭배자들이 그들의 신념 때문에 그들을 쫓아냈을 것입니다. 어떤 경우든, 하우스 자엘레는 숲의 안전과 거룩함에 대한 위협입니다."""
 ls_halinor,dlg,EntryList/7/Text,0,"""이 분쟁에 데일즈포크에게 도움을 청하려 했지만, 그들도 제일레 가문과의 문제로 곤란한 처지인 듯하오. 우리 인간 이웃들을 향한 끊임없는 습격이 그들의 결의를 꺾은 모양이고, 우리의 싸움을 도울 마음도 자원도 없소."""
@@ -357,13 +357,13 @@ ls_jamble,dlg,ReplyList/2/Text,0,<StartAction>[상가 시작]</Start>
 ls_jamble,dlg,ReplyList/3/Text,0,"""왜 너를 '눈이'라고 불리나?"""
 ls_jamble,dlg,ReplyList/4/Text,0,<StartAction>[상가 시작]</Start>
 ls_jamblemerch,dlg,EntryList/0/Text,0,"블라임 더 아이, 상인"
-ls_jarman,dlg,EntryList/0/Text,0,"""운 좋은 날, <FirstName>."""
+ls_jarman,dlg,EntryList/0/Text,0,"행운을 빌어요, <FirstName>."
 ls_jarman,dlg,ReplyList/0/Text,0,안녕하세요
 ls_jarman,dlg,ReplyList/1/Text,0,안녕하세요
 ls_jhaele,dlg,EntryList/0/Text,0,"""올드 켈러 인에 오신 것을 환영합니다. 이 시설의 주인인 제일 실버맨입니다."
 ls_jhaele,dlg,EntryList/1/Text,0,"""그럼 이만."""
 ls_jhaele,dlg,EntryList/2/Text,0,"""건조한 느낌, <lad/lass>? 당신은 올바른 곳에 왔습니다. 우리는 용의 숨결 맥주, 셔도우다크 에일, 그리고 쓴 검은맥주를 가지고 있습니다. 그리고 엘민스터의 선택도 있습니다. 이 맥주는 주로 젊은 모험가들 사이에서 인기가 있지만, 엘 자신은 이 맥주를 견딜 수 없습니다."""
-ls_jhaele,dlg,EntryList/3/Text,0,"""그런 말을 하리라 생각했어."""
+ls_jhaele,dlg,EntryList/3/Text,0,"""그럴 줄 알았어."" *한숨*"
 ls_jhaele,dlg,EntryList/4/Text,0,"""물론이죠. 즐기세요."""
 ls_jhaele,dlg,EntryList/5/Text,0,"""물론이죠. 밤 동안에는 5골드피스가 필요합니다."""
 ls_jhaele,dlg,EntryList/6/Text,0,"""당신의 뜻대로, 필요하시면 방이 여기 있습니다."""
@@ -376,7 +376,7 @@ ls_jhaele,dlg,EntryList/12/Text,0,"""네, 지역의 치료사 호아레브 니�
 ls_jhaele,dlg,EntryList/13/Text,0,"""물론 케일라에게 약을 줘요, 그 대가로 내가 당신에게 금을 주고,"
 ls_jhaele,dlg,EntryList/14/Text,0,"""호아레브 닌블핑거의 집은 시내 중심가에 가깝다."
 ls_jhaele,dlg,EntryList/15/Text,0,<StartCheck>[실패]</Start>################################################
-ls_jhaele,dlg,EntryList/16/Text,0,"<StartAction>[성공]</Start> ""오, 좋다. 임금을 두 배로 두 개의 금으로 올리게 될게. 이건 내 마지막 제안이다. 받아들이거나 떠나라."""
+ls_jhaele,dlg,EntryList/16/Text,0,"<StartAction>[성공]</Start> ""오, 좋아. 품삯을 두 배로 쳐서 금화 두 닢을 주지. 내 마지막 제안이야. 받을 테면 받고 말아라."""
 ls_jhaele,dlg,EntryList/17/Text,0,"켈라는 좋은 여자지만, 사실 조금 게으르다. 그녀는 자신이 편할 때 돌아오기로 하면 만족할 것 같아. 치료를 주어진다면, 다시 돌아오지 않을 변명도 없을 거야."
 ls_jhaele,dlg,EntryList/18/Text,0,"""지금 당신이 언급한 것은, 남쪽 농장에서 약간의 문제가 있었습니다. 가축이 사라졌는데, 그건 이상한 일입니다. 여기 사람들은 주로 정직한 사람들입니다. 쿨너 오하네와 이야기하십시오. 남쪽으로 내려가는 길을 따라가십시오. 그의 농장은 당신이 처음 도착할 것입니다""."
 ls_jhaele,dlg,EntryList/19/Text,0,"""그 이름은 골짜기 북쪽에 있는 거대한 화산암 돌출부에서 왔어. 백악처럼 희고 모양도 해골을 닮아서 우리가 '올드 스컬'이라고 부르지. 맞아, 바로 그 해골 말이야."""
@@ -416,8 +416,8 @@ ls_kulnar,dlg,EntryList/0/Text,0,"""지원해줘서 고맙다, 낯선 분. 이 �
 ls_kulnar,dlg,EntryList/1/Text,0,"""지원해 주셔서 감사합니다, 친구""."
 ls_kulnar,dlg,EntryList/2/Text,0,"""은퇴한 모험가 출신 농부예요. 고블린들이 오거와 트롤, 그보다 더한 것까지 죽여 본 사내와 칼을 맞대리라곤 생각 못 했을 겁니다. 섀도데일이 그런 곳이죠. 겉보기에 평범한 이웃이 어떤 화려한 과거를 가졌는지 알 수 없다니까요."""
 ls_kulnar,dlg,EntryList/3/Text,0,"""나도 알았으면! 열흘 전부터 소가 사라지기 시작했소. 지키려 했지만 고블린들이 밤새 두 번이나 습격해 왔소. 감히 내 집까지 와서 나를 공격할 배짱은 없을 줄 알았는데. 놈들이 필사적이 된 모양이오."""
-ls_kulnar,dlg,EntryList/4/Text,0,"""나는 그들이 서쪽 구멍의 오래된 터널 잔해에서 살고 있다고 믿습니다."""
-ls_kulnar,dlg,EntryList/5/Text,0,"""Sinkhole는 한때 광산이었는데, 내 집과 같은 건물에 사용되는 돌의 대부분을 제공했지만, 광산이 스스로 붕괴된 이후부터는 그렇지 않아졌다."""
+ls_kulnar,dlg,EntryList/4/Text,0,"""제 생각엔 이 서쪽 싱크홀의 오래된 터널 잔해 속에 살고 있는 것 같아요."""
+ls_kulnar,dlg,EntryList/5/Text,0,"""싱크홀은 한때 채석장이었지. 광산이 무너지기 전까지는 우리 집 같은 가옥들을 짓는 데 쓰이는 지역 돌을 많이 공급해 주었어."""
 ls_kulnar,dlg,EntryList/6/Text,0,"""고블린들은 남은 곳에 거주하고 있을 거야. 누군가가 그들을 몰아내야 해."""
 ls_kulnar,dlg,EntryList/7/Text,0,"""그럴까? 정말 멋지다, <lad/lass>! 죽기 전에, 이 곤두스들이 몇몇 마르블라트라는 사람에 대해 떠들어대던 걸 들었어. 아마 그가 이 떼의 리더일지도 몰라. 그의 머리를 가져와주면 250골드를 지급할게."""
 ls_kulnar,dlg,EntryList/8/Text,0,"""이제는 내가 할 수 있는 게 없어. 새 동물은 비싸야 한다."""
@@ -476,7 +476,7 @@ ls_milly,dlg,EntryList/13/Text,0,"""내 아들을 구해줘서 고마워!"""
 ls_milly,dlg,ReplyList/0/Text,0,"""자신을 설명해!"""
 ls_milly,dlg,ReplyList/1/Text,0,"""느려지게! 누가 공격하느냐?"""
 ls_milly,dlg,ReplyList/2/Text,0,"""이건 내 문제 아니야""."
-ls_milly,dlg,ReplyList/3/Text,0,"""이런 뜻을 가지고 있으면 좋겠지만, 좋은 영웅은 돈이 들어."""
+ls_milly,dlg,ReplyList/3/Text,0,"""그러는 게 좋을 거야. 좋은 영웅은 돈이 드니까."""
 ls_milly,dlg,ReplyList/4/Text,0,"""나는 지금 기울어진 탑으로 갈 거야."""
 ls_milly,dlg,ReplyList/8/Text,0,"""어떻게 도망쳤나?"""
 ls_milly,dlg,ReplyList/9/Text,0,"""타워의 방어에 누가 책임지고 있습니까?"""
@@ -532,7 +532,7 @@ ls_ogre1,dlg,EntryList/5/Text,0,"""보안해"""
 ls_ogre1,dlg,EntryList/6/Text,0,"""나에게는 아무것도 없어. 그들은 내가 너무 어리석다고 해서 그들의 그룹을 떠나야 한다고 말하더래. 나는 숲을 떠돌이로 돌아다니다가도 지루해져. 대화할 사람이 없어."""
 ls_ogre1,dlg,EntryList/7/Text,0,"난 숙소를 찾아볼 수 있어! 지금 바로 가볼게. 고마워, 작은 <race>."
 ls_ogre1,dlg,EntryList/8/Text,0,"""무슨 일이죠?"""
-ls_ogre1,dlg,EntryList/9/Text,0,"""구르르구르르구르르! 크게 잘 해볼게!"""
+ls_ogre1,dlg,EntryList/9/Text,0,"""흐흐흐! 내가 아주 잘했다!"""
 ls_ogre1,dlg,ReplyList/0/Text,0,"""보안해"""
 ls_ogre1,dlg,ReplyList/1/Text,0,"""오물 같은 존재! 죽을 준비를 하라!"""
 ls_ogre1,dlg,ReplyList/3/Text,0,"""당신은 괴물처럼도 친절해 보이네요."""
@@ -541,7 +541,7 @@ ls_ogre1,dlg,ReplyList/5/Text,0,"""좋아요, 안녕하세요""."
 ls_ogre1,dlg,ReplyList/6/Text,0,"""죄송합니다, 그런 생각은 아니었습니다. 동료들은 어디에 계세요?"""
 ls_ogre1,dlg,ReplyList/7/Text,0,"""오, 가난한 자... 내 검에게 인사해!"""
 ls_ogre1,dlg,ReplyList/8/Text,0,"""아니, 죽을 거야, 오그레!"""
-ls_oldskullin,dlg,EntryList/0/Text,0,구골 체육관
+ls_oldskullin,dlg,EntryList/0/Text,0,올드 스컬 여관
 ls_pricha01,dlg,EntryList/0/Text,0,"""곡물 여신의 축복이 네게 있거라, 내 자식아!"""
 ls_rast,dlg,EntryList/0/Text,0,"""정지! 이 문 너머의 지역은 제한 지역입니다. 아무도 이 지점을 넘지 못하게 됩니다."""
 ls_rast,dlg,EntryList/1/Text,0,"""보안해"""
@@ -549,21 +549,21 @@ ls_rast,dlg,EntryList/2/Text,0,"""오십 년 전에 구골 근처에 짝짓기 �
 ls_rast,dlg,EntryList/4/Text,0,"""그래서, 농장 침공에 괴물들이 책임이 있나요?"" ""날 밤 돌고래 벽에 올라가는 모양을 봤다고 생각했지만 확신할 수 없었어요""."
 ls_rast,dlg,EntryList/5/Text,0,"""네, 스스로를 돌볼 줄 아는 것 같아. 늙은 쿨너가 널 신뢰한다면, 그만한 건데. 저 아래로 가는 데는 조심해. 터널에서 일어날 수 있는 일에 대해선 책임지지 않겠다."""
 ls_rast,dlg,EntryList/6/Text,0,"""내로 내려가서 조심해, 내 감시하에 누군가가 죽으면 로드 모어그림이 내 몸을 잡아먹을 거야""."
-ls_rast,dlg,EntryList/7/Text,0,"""어디서 그러셨나? 괴물 지도자까지 죽였나? 헬을 찬양하노! 나는 네게 무언가 있다고 생각했노."""
+ls_rast,dlg,EntryList/7/Text,0,"""방금 뭐라고 했나? 고블린 추장을 쓰러뜨렸다고? 헬 신의 가호가 있기를! 네놈한테 뭔가 특별한 구석이 있을 줄 알았지."""
 ls_rast,dlg,ReplyList/0/Text,0,"""보안해"""
 ls_rast,dlg,ReplyList/2/Text,0,"""왜 근처에 와이번 골격이 있는 거니?"""
 ls_rast,dlg,ReplyList/3/Text,0,"""문 너머에 무엇이 그렇게 위험한가?"""
-ls_rast,dlg,ReplyList/4/Text,0,<StartAction>[감시병에게 괴물들에 대해 말해주고 쿨너의 반지를 보여주.]</Start>
+ls_rast,dlg,ReplyList/4/Text,0,<StartAction>[감시병에게 고블린들에 대해 말해주고 쿨너의 반지를 보여준다.]</Start>
 ls_rethaun,dlg,EntryList/0/Text,0,"""당신 은 표면 의 거주자 로서 강한 사람 이다. 대모 는 그러한 저항 을 예상 하지 않았다""."
 ls_rethaun,dlg,EntryList/1/Text,0,"""진짜, 난 네 어리석은 질문들로 지쳐가고 있었다. 다행히 우리 작은 대화는 네가 너무 무례하게 방해한 것을 완성할 시간을 얻었다. 멍청아 죽어라!"""
 ls_rethaun,dlg,EntryList/2/Text,0,"""그는 신비한 사람이다. 나는 그가 인간이라고 믿지만 확신할 수 없다. 그는 흐르는 그림자로 둘러싸인 시복을 입고 얼굴을 드러내지 않았다. 그는 우리에게 와서 동맹을 제안했으며, 그의 증오의 능력은 놀랍다. 심지어 익사까지."""
-ls_rethaun,dlg,EntryList/3/Text,0,"""아, 인간 아이. 오르델은 그의 작은 속임수를 성공시켰나 보다. 그는 새로운 무기 트레이너로 변신하면서 소년을 납치한 것이다. 말라운티어는 즉시 소년의 심장을 원했지만, 모트론은 그를 금지했고, 지금 그는 언더다크 아래에서 그녀와 함께 있다."""
+ls_rethaun,dlg,EntryList/3/Text,0,"""아, 인간 아이. 오르델은 그 작은 속임수를 아주 잘 성공시켰지, 그렇지 않나? 새로운 무기 조교인 척하며 소년을 납치했으니까. 말라운티어는 당장 소년의 심장을 원했지만, 여사제장이 금지했어. 지금 소년은 아래쪽 언더다크에 그녀와 함께 있다."""
 ls_rethaun,dlg,EntryList/4/Text,0,"""우리가 표면 거주자들이 대일랜드라고 부르는 곳의 통치자들을 무너뜨리고, 우리 자신만의 새로운 고향을 만들려고 합니다. 로트는 우리에게 미소를 보내리라. 수천 년 전에 우리로부터 빼앗긴 것을 되찾은 우리가 이룬 일에 대해 만족스러워하실 것이니."""
 ls_rethaun,dlg,EntryList/5/Text,0,"""무지! 당신은 역사에 대해 아무것도 알지 못하거나, 당신의 종들은 모두 썩은 것만큼 무지인가? 그들의 질투와 자존심으로, 표면 엘프들은 우리를 땅에 던져버렸다. 축복받은 롯은 우리 백성을 구하고, 모든 작은 인종에 대해 독자들이 정당한 통치자가 된 운명을 보여주었습니다""."
 ls_rethaun,dlg,EntryList/6/Text,0,"""나는 레타운 D'메즈린입니다. 전 멘조베란잔에서 살았습니다. 제 부족은 쇼발라 가문에 대한 실패한 쿠데타 시도 후 거의 멸망했습니다. 저는 몇 명과 함께 살아남았고, 언더다크로 도망쳤습니다."""
 ls_rethaun,dlg,EntryList/7/Text,0,"""나는 우리 옛 집에서 추방된 그 파도들의 지도자인 마트론 키네타 드라우린에게 봉사합니다. 우리는 수많은 도시를 아우르는 다른 집에서 왔지만, 우리는 이 비참한 빛의 영역에서 스파이더 여왕의 영광을 위해 함께 연합했습니다!"""
 ls_rethaun,dlg,EntryList/8/Text,0,"""하하하!"""
-ls_rethaun,dlg,EntryList/9/Text,0,"""잠깐만, 나는 이길 수 없다!"""
+ls_rethaun,dlg,EntryList/9/Text,0,"""기다려! 항복하겠소..."""
 ls_rethaun,dlg,ReplyList/0/Text,0,"""더 이상 질문하지 마."""
 ls_rethaun,dlg,ReplyList/2/Text,0,"""말랑타이르는 누구야?"""
 ls_rethaun,dlg,ReplyList/3/Text,0,"""스코티 암카트라는 어디에 있나?"""
@@ -578,7 +578,7 @@ ls_scottidopple,dlg,EntryList/3/Text,0,"""내가 확신하건데 우리 는 익�
 ls_scottidopple,dlg,EntryList/4/Text,0,"""왜... 그래, 물론. 당신은 나를 잘못 들었어야 합니다. 늙은 튜르발, 그는 누구의 말도 안 안된다. drow 그들은 우리의 타워를 결코 보지 않았으면 좋겠다, 당신은 볼 것입니다!"""
 ls_scottidopple,dlg,EntryList/5/Text,0,"""나이가 더 많으면 좋겠어, 그러면 도움을 주고 드로우와 싸울 수 있을 테니까!"""
 ls_scottidopple,dlg,ReplyList/0/Text,0,"""보안해"""
-ls_scottidopple,dlg,ReplyList/2/Text,0,"""네 비즈니스에 개입하지 마, 아이."""
+ls_scottidopple,dlg,ReplyList/2/Text,0,"""네 일이나 신경 써, 꼬마야."""
 ls_scottidopple,dlg,ReplyList/4/Text,0,"""죄송하지만 그렇지 않습니다. 전투는 여전히 격돌하고 있습니다."""
 ls_scottidopple,dlg,ReplyList/5/Text,0,"""더발? 더브탈을 의미하지 않나요?"""
 ls_scottitrue,dlg,EntryList/1/Text,0,"""아니, 제발, 날 여기 두고 가지 마세요! 드로우들이 저를 자기들 여신께 제물로 바칠 거예요!"""
@@ -603,12 +603,12 @@ ls_shaerl,dlg,EntryList/2/Text,0,"""저는 제가 남편이 그럴 것을 확신
 ls_shaerl,dlg,EntryList/3/Text,0,"""여러분처럼 용감한 영웅들이 이 길을 이끌고 있다면, 저는 드로우가 패배할 것이라고 확신합니다."""
 ls_shaerl,dlg,EntryList/4/Text,0,"""안녕하세요. 내 안전에 대해 걱정하지 마세요. 저는 정당한 크기의 용에 대항하여 스톰을 지원할 수 있으며, 나 자신도 스스로를 보호할 수 있는 수단이 있습니다."""
 ls_shaerl,dlg,EntryList/5/Text,0,"""내 스코티가 사라졌어! 한두 분 전에 이 자리에 있었어. 스톰과 저는 탑의 오래된 지도를 둘러보던 중이었는데, 갑자기 그는 없어졌어."""
-ls_shaerl,dlg,EntryList/6/Text,0,"""어디가! 샤엘, <FirstName>가 놀라운 것을 발견했어. 지금 설명할 시간이 없어 - 스코티를 찾아야 해! <FirstName>, 당신은 탑의 하부 레벨을 탐색하거라. 나는 샤엘과 스톰과 함께 비밀 통로를 통해 상부 레벨을 탐색할 거야. 행운을 빈다, 친구!"""
+ls_shaerl,dlg,EntryList/6/Text,0,"""젠장! 샤엘, <FirstName>가 오싹한 것을 발견했어. 지금은 설명할 시간이 없어 - 스코티를 찾아야 해! <FirstName>, 네가 탑의 아래층을 수색해라. 나는 샤엘, 스톰과 함께 비밀 통로를 통해 위층을 수색하겠다. 행운을 빈다, 친구!"""
 ls_shaerl,dlg,ReplyList/0/Text,0,"""내 도착은 모든 사람들에게 큰 기분 좋은 반응을 불러일으켰다."""
 ls_shaerl,dlg,ReplyList/2/Text,0,"""아니요, 하지만 최선을 다하고 있습니다."""
 ls_storm,dlg,EntryList/0/Text,0,"""안녕하세요, 친구, 저는 스톰 실버핸드, 샤도델의 바드입니다."
 ls_storm,dlg,EntryList/1/Text,0,"<FirstName>님, 전투는 어떻게 진행되고 있나요? 우리가 처음 두려워했던 것처럼 상황이 여전히 절망적일까요?"
-ls_storm,dlg,EntryList/2/Text,0,"""이것은 정말 끔찍한 소식입니다. 쉐이드데일은 큰 위험에 처해 있습니다. 우리는 젠트 침략, 내전, 심지어 신성 아바타까지 살아남았지만, 항상 틴스티드 탑이라는 불가침 요새가 있었기 때문에 델을 보호할 수 있었습니다. 만약 탑이 무너지면, 나는 델도 곧 무너질 것이라 두려워합니다."""
+ls_storm,dlg,EntryList/2/Text,0,"""이것은 참으로 끔찍한 소식입니다! 섀도데일이 큰 위험에 처해 있습니다. 우리는 젠트의 침략, 내전, 심지어 신들의 아바타의 공격까지 이겨냈지만, 언제나 델을 지켜주는 트위스티드 탑이라는 깨지지 않는 보루가 있었습니다. 만약 그 탑이 무너진다면, 델도 곧 그 뒤를 따르게 될 것이라 두려워집니다."""
 ls_storm,dlg,EntryList/3/Text,0,"""미스트라가 널 지켜주길, <FirstName>."""
 ls_storm,dlg,EntryList/4/Text,0,"""나는 하퍼 정찰사 업무로 여기에 왔다. 동료들은 모어그림과 함께 있다. 그는 종종 이런 토론에 참여하도록 초대한다. 우리는 수년 동안 좋은 친구가 되었다. 공통의 어려움과 승리로 만들어진 관계다. 그는 좋은 사람이다."""
 ls_storm,dlg,EntryList/5/Text,0,"""만약 최악의 일이 일어나면, 당신이 나와 함께 싸워서 달스폴크에게 도망칠 시간을 사주었으면 영광입니다. 엘민스터가 여기 있다면, 더 우아한 해결책을 찾을 것이라 생각합니다. 그러나 제 강점은 검과 노래에 더 있습니다."""
@@ -626,7 +626,7 @@ ls_storm,dlg,ReplyList/8/Text,0,"""만약 상황이 훨씬 더 악화되면, 나
 ls_storm,dlg,ReplyList/9/Text,0,"""그게 내 일이라면 기꺼이 하겠습니다. 그래도 그렇게 되지 않기를 바랍니다."""
 ls_sulcar,dlg,EntryList/0/Text,0,"""당신은 보기에 괴물도 아닙니다. 작은 벌레들이 곳곳에 있습니다. 그들은 오늘 아침 내 집에 들어갔어요. 나는 도시에서 물품을 가져가면서, 그리고 거의 모든 가치있는 것을 가져갔어요."
 ls_sulcar,dlg,EntryList/1/Text,0,"""그래, 가자""."
-ls_sulcar,dlg,EntryList/2/Text,0,"""이런 태도야, 요즘 젊은이들한테서는 당연히 기대하고 있어. 아무런 존중도 없이..."""
+ls_sulcar,dlg,EntryList/2/Text,0,“요즘 젊은이들에게 딱 기대할 만한 태도군. 예의라고는 눈씻고 찾아볼 수가 없어…”
 ls_sulcar,dlg,EntryList/3/Text,0,"""<FirstName>, 하니? 당신은 모험가 같네요. 집에 침입한 그 괴물들이 풍차 근처의 버려진 농장에 숨어 있을 거예요. 그들을 잡아넣어 줄 수 있다면 감사하겠습니다."""
 ls_sulcar,dlg,EntryList/4/Text,0,"""나의 아내의 반지를 가져오면 이 마법의 무얼렛을 줄게"". ""무엇을 하는지 모르겠지만, 그 반지는 내게 쓸모가 없다"". ""그러나 반지는 내 사랑하는 늙은 지젤라를 마지막으로 기억하는 것 중 하나다""."
 ls_sulcar,dlg,EntryList/5/Text,0,"""내가 말했듯이, 그들은 버려진 농장에서 숨어 있습니다."
@@ -636,7 +636,7 @@ ls_sulcar,dlg,EntryList/8/Text,0,"""그것을 듣고 기쁩니다. <lad/lass>에
 ls_sulcar,dlg,EntryList/9/Text,0,"""왜... 그 반지는 지젤라의 반지야! 나는 당신이 그 일을 할 수 있다고 생각하지 않았지만, 내가 틀렸다는 사실이 증명되어 기쁘다."""
 ls_sulcar,dlg,EntryList/10/Text,0,"""아, 이 줄리엣을 가져와, 내 감사. 당신은 늙은 사람을 행복하게 했다. """
 ls_sulcar,dlg,ReplyList/0/Text,0,"""보안해"""
-ls_sulcar,dlg,ReplyList/2/Text,0,"""죄송하지만, 할아버지. 다른 일이 있어 걱정해야 합니다."""
+ls_sulcar,dlg,ReplyList/2/Text,0,"""안됐군요, 영감님. 신경 써야 할 다른 일들이 있거든요."""
 ls_sulcar,dlg,ReplyList/4/Text,0,"""나는 <FullName>입니다. 어쩌면 도움을 드릴 수 있을까요?"""
 ls_sulcar,dlg,ReplyList/8/Text,0,"""아니, 하지만 내가 찾아볼게."""
 ls_sulcar,dlg,ReplyList/10/Text,0,"""네. 고블린 샤만의 시체에서 찾았습니다."""
@@ -715,7 +715,7 @@ ls_towerguard1,dlg,EntryList/13/Text,0,"""잠을 막아야 한다!"""
 ls_towerguard1,dlg,ReplyList/0/Text,0,"""보안해"""
 ls_towerguard1,dlg,ReplyList/2/Text,0,"""모어그림 공에 대해 말해봐."""
 ls_towerguard1,dlg,ReplyList/3/Text,0,"""이 다른 신부들에 대해 말해줘""."
-ls_towerguard1,dlg,ReplyList/4/Text,0,"""왜 이 탑은 티저드 탑이라 불리는 걸까?"""
+ls_towerguard1,dlg,ReplyList/4/Text,0,"""왜 저 탑을 꼬인 탑이라고 부르는 거지?"""
 ls_towerguard1,dlg,ReplyList/7/Text,0,"""나는 왜곡된 탑에 들어가고 싶다."""
 ls_towerguard1,dlg,ReplyList/8/Text,0,"""내로 들어오지 않으면 문을 깨부수마!"""
 ls_towerguard1,dlg,ReplyList/10/Text,0,"""보안해"""
@@ -733,7 +733,7 @@ ls_waitress,dlg,EntryList/1/Text,0,"""만약 필요한 것이 있으면, 미스�
 ls_waitress,dlg,EntryList/2/Text,0,"제 말을 못 들으셨나요? 다른 웨이트리스인 켈라는 출근하지 않았고, 저는 이미 주문이 밀려 눈코 뜰 새가 없습니다. 저기 바 쪽에 있는 제하엘에게 말씀하시면 필요한 걸 전부 챙겨 줄 겁니다."
 ls_waitress,dlg,EntryList/4/Text,0,"""여기 그런 태도를 조심해! 우리는 대레스포크인들이 외부인에 대해 관용적이지만, 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주 여주"
 ls_waitress,dlg,EntryList/5/Text,0,"*기글* ""너가 날 빨강하게 해줘요. 유혹이 안 됐다고 말할 수는 없지만, 제일은 날 죽일 거예요."
-ls_waitress,dlg,EntryList/6/Text,0,"""오, 정말 매력적인 사람으로 보이지 않나? 당신이 허락해주면, 바에 있는 알코올 흔적난 부분을 닦는 게 더 선호할 것 같아."""
+ls_waitress,dlg,EntryList/6/Text,0,"""오, 정말 매력적인 분이시네? 실례가 안 된다면, 저기 바 옆에 맥주가 쏟아진 얼룩이나 닦고 싶군요..."""
 ls_waitress,dlg,EntryList/7/Text,0,"""드로우가 쳐들어오면 우린 끝장이야! 자엘레 말고는 아무도 칼 쓰는 법을 몰라."""
 ls_waitress,dlg,ReplyList/0/Text,0,"""보안해"""
 ls_waitress,dlg,ReplyList/2/Text,0,"""음료는 고맙습니다""."
@@ -762,7 +762,7 @@ ss_anabel,dlg,EntryList/1/Text,0,"""실바누스에게 감사해요. 이 어두�
 ss_anabel,dlg,EntryList/2/Text,0,"""리치는 동쪽의 오래된 신전에 있어요. 그의 개인 방을 조심하세요. 수호자로 연기 정령, 벨커를 두고 있는 것 같아요. 그리고 오크 시체를 버린 우물방에는 크고 역겨운 무언가가 있어요."""
 ss_anabel,dlg,EntryList/3/Text,0,"""나는 서쪽 에 있는 옛 숲 에서 무슨 일 이 일어나고 있는 것 을 알려 내 드루이드 서클 에 서둘러 가야 한다. 드래곤 숭배 의 미친 분파 는 죽은 드래곤 을 다시 살리려고 하고 있다. 시간이 있다면, 당신 이 그들을 막을 수 있다면 감사 할 것 이다""."
 ss_anxioushorse,dlg,EntryList/0/Text,0,"이 말은 불안해서 우는 것 같고, 가만히 있을 수 없어 보인다."
-ss_anxioushorse,dlg,EntryList/1/Text,0,<StartCheck>[실패]</Start>마는 당신을 무시하고 계속 비명을 지르며 울음소리를 내요.
+ss_anxioushorse,dlg,EntryList/1/Text,0,<StartCheck>[실패]</Start> 말이 당신을 무시한 채 계속해서 울음소리를 낸다.
 ss_anxioushorse,dlg,EntryList/2/Text,0,<StartAction>[성공]</Start> 말은 공기 중에 위험이 도사리고 있음을 감지합니다. 사과를 물리자 말이 진정됩니다.
 ss_anxioushorse,dlg,EntryList/3/Text,0,"이 말은 불안해서 우는 것 같고, 가만히 있을 수 없어 보인다."
 ss_anxioushorse,dlg,EntryList/4/Text,0,<StartAction>[성공]</Start> 말은 공기 중에 위험이 도사리고 있음을 감지합니다. 사과를 물리자 말이 진정됩니다.
@@ -796,7 +796,7 @@ ss_chauntean,dlg,EntryList/2/Text,0,"""우리는 모두 지모어머니의 자�
 ss_chauntean,dlg,EntryList/3/Text,0,"""안녕, 내 아이."""
 ss_companions,dlg,EntryList/0/Text,0,"""거기 방랑자 양반! 티르의 성직자에게 자비를 베풀어 나도 데리고 가 주시오! 이 두 사람을 조금만 더 상대해야 한다면, 난 상처 입은 자의 추종자답지 않은 짓을 저지르고 말 것 같소."""
 ss_companions,dlg,EntryList/1/Text,0,"""아, 그렇게 하지 마, 베리아드. 재미있게 보내고 있다고 생각했어!"""
-ss_companions,dlg,EntryList/2/Text,0,"""내 거룩한 책들을 훔치고 뻔뻔스럽게도 추잡한 시로 대체하는 것은 아무도 즐길 수 있는 일이 아니야! 네가 타이르의 공정한 손가락을 모독할 뻔했어!"""
+ss_companions,dlg,EntryList/2/Text,0,"""내 성스러운 경전을 훔쳐다 외설스럽고 뻔뻔스럽게도 끔찍한 시로 바꿔놓다니, 누구도 이걸 장난이라고 생각하진 않을 거야! 하마터면 공평한 타이르를 모독할 뻔했잖아!"""
 ss_companions,dlg,EntryList/3/Text,0,"""실제로, 베리아드. 네가 티르의 사제였을 때보다 더 오래 지속된 변이 일어난 적도 없어. 아마도 신앙심을 조금 진정시켜보는 게 좋을 것 같아."""
 ss_companions,dlg,EntryList/4/Text,0,"""내장 움직임?! 바로 이런 이유 때문에, 네가 보라색 용이 될 수 있다고 생각하지 않는데, 코르미르의 여인이라도 아닐까! 진정한 여인이 그런 더러운 말을 하지 않을 것이다!"""
 ss_companions,dlg,EntryList/5/Text,0,"""그건 *엑스*>보라 용입니다. 코르미르에서 왔던 길에 설명했습니다. 그리고 사실 저는 태어날 때부터 여인입니다. 만약 정확성에 대해 이야기한다면, 적어도 보라색 용의 상징을 지고 있습니다. 당신은 여전히 경비관의 유니폼을 입고 있습니다."""
@@ -805,7 +805,7 @@ ss_companions,dlg,EntryList/7/Text,0,나의 믿음은 차가운 빛나는 동전
 ss_companions,dlg,EntryList/8/Text,0,"""그건 당신을 도둑으로 만들죠. 만약 내가 샤도데일로 가는 카라반을 위해 돈을 모으지 않았다면,"
 ss_companions,dlg,EntryList/9/Text,0,"""더 이상 논쟁하지 마라. 우리는 분명 서로를 견디지 못해 보여. 다행히, 우리의 새로운 친구가 여기 있어 우리끼리의 만남에서 자비로운 휴식을 주러 왔는 것 같다."""
 ss_cultist,dlg,EntryList/0/Text,0,"""이리 떠나거라, 의식을 방해하지 않도록!"""
-ss_cultist,dlg,EntryList/1/Text,0,"""멸망이 온다! 아니야, 정말!"""
+ss_cultist,dlg,EntryList/1/Text,0,"""파멸이 다가온다! 오 그래!"""
 ss_cultist,dlg,EntryList/2/Text,0,곧 모든 다일랜드가 우리 앞에서 떨릴 거야!
 ss_cultist,dlg,EntryList/3/Text,0,"""죽은 용들의 힘을 칭송하라!"""
 ss_cultist,dlg,EntryList/4/Text,0,"""나는 지금 내 인생을 점검해야 할 때라고 생각한다."""
@@ -816,7 +816,7 @@ ss_cultleader,dlg,EntryList/3/Text,0,"""이 말을 들어라, 귀찮은 귀아! 
 ss_cultleader,dlg,EntryList/4/Text,0,"""내 옛 이름은 더 이상 아무 의미도 없습니다. 이제, 나는 단지 드라코닉 운명의 종파의 대변인 첫 목소리입니다!"""
 ss_cultleader,dlg,EntryList/5/Text,0,"""귀를 틀리셨나요? 그게 제가 말씀드린 것입니다! 곧 왕국은 죽은 용의 힘 앞에서 떨게 될 것입니다. 드라코리치즈가 아니라, 드래곤 숭배의 가슴에 기생하는 기생충들이 아니라, 진짜 죽은 용들 앞에서 말입니다!"""
 ss_cultleader,dlg,EntryList/6/Text,0,"""바보! 너는 아무것도 모르는구나! 보라색 옷을 입는 자들이 그들의 자만심으로 나를 거부했다. *나, 나의 세대에서 가장 유망한 시신술가*! 오, 그들은 후회할 때까지 살아 있을 것이다. 드라코닉 운명의 종파는 그들의 실패한 종파가 될 수 있는 모든 것보다 더 크고 강할 것이다."""
-ss_cultleader,dlg,EntryList/7/Text,0,"""그들은 내 힘, 내 무자비한 결단력, 내 흔들리지 않는 의지를 두려워하였다. 그들이 나를 추방함으로써, 죽은 용의 왕국 아래로 실버레인을 몰아넣을 불꽃 같은 내 열정을 더욱 크게 타올릴 것이라고는 생각지 못하였다."""
+ss_cultleader,dlg,EntryList/7/Text,0,"""그들은 나의 힘을 두려워했지! 나의 무자비한 헌신과 흔들림 없는 결의를 말이야! 하지만 그들은 나를 추방함으로써, 죽은 용족의 지배 아래 왕국들을 굴복시키겠다는 내 불타는 야망의 불길에 기름을 부을 뿐이라는 것을 알지 못했어!"""
 ss_cultleader,dlg,EntryList/8/Text,0,"""나를 막을 수 있다고 생각하나! 하하하! 드래곤 숭배 교단 놈들도 그렇게 생각했지. 놈들은 나를 어리석고 무모하며, 걷잡을 수 없이 예측 불가하다고 불렀다. 하지만 내가 그들에게 보여줬듯, 너에게도 보여주마. 보아라, 이 멍청이들아 — 때가 이르렀다!"""
 ss_cultleader,dlg,EntryList/9/Text,0,"""천재와 광기는 동전의 양면일 뿐입니다. 용족은 세계를 지배하도록 만들어졌지만, 살아 있는 용은 고집이 너무 세고 드라코리치는 망할 용의 교단에 지나치게 얽매여 있습니다. 내가 만든 언데드 용이야말로 완벽 그 자체일 겁니다!"""
 ss_cultleader,dlg,EntryList/10/Text,0,"""드래곤 숭배를 이끌고 있는 미련한 바보들의 카발"""
@@ -849,7 +849,7 @@ ss_dalesfolk,dlg,EntryList/1/Text,0,"""남쪽의 농장은 최근 쇠고기 도�
 ss_dalesfolk,dlg,EntryList/2/Text,0,"""베레그운드의 가격은 하루가 다르게 상승하고 있습니다. 아나우로치의 새로운 그림자 도시에 대한 미친 소문이 공황을 일으키고 수요가 증가하고 있습니다."""
 ss_dalesfolk,dlg,EntryList/3/Text,0,"""오드 켈러 인에 갔어? 제일은 수십 년 동안 이 곳을 운영해왔다""."
 ss_dalesfolk,dlg,EntryList/4/Text,0,"""지난타림족은 새로운 군 지휘관, 스킬루아 다크호프씨를 가지고 있습니다."
-ss_dalesfolk,dlg,EntryList/5/Text,0,"""너는 스인크홀 근처에 가는 것을 피하는 것이 좋겠어. 구멍 주변에는 녹색 껍질들이 보였어."""
+ss_dalesfolk,dlg,EntryList/5/Text,0,"""나라면 싱크홀 근처에는 얼씬도 안 하겠어. 그 구멍 주변에서 녹색 피부 녀석들이 목격되었거든."""
 ss_dalesfolk,dlg,EntryList/6/Text,0,"""노인 임블과 거래할 때는 주의를 기울이세요. 그는 태양까지 설득할 수 있을 정도로 입이 빡센 사람입니다."""
 ss_dalesfolk,dlg,EntryList/7/Text,0,"""Shadowdale에 오신 것을 환영합니다. 좋은 의도로 오신 분들은 자유롭게 오래 머물 수 있습니다."""
 ss_dalesfolk,dlg,EntryList/8/Text,0,"""젊은 스코티는 빠르게 성장하고 있습니다. 그는 이미 그의 아버지와 경쟁하기 위해 모험에 대한 맛을 가지고 있다고 합니다."
@@ -885,7 +885,7 @@ ss_frogmaster,dlg,EntryList/2/Text,0,"""구구구구구구구구구구구구구�
 ss_frogmaster,dlg,EntryList/3/Text,0,"""우리는 터널에 침투할 때 도망쳐요. 어둠의 엘프들이 뭔가를 계획하고 있습니다. 더 이상 괴물들에게 안전하지 않습니다""."
 ss_frogmaster,dlg,EntryList/4/Text,0,"""내 친구다. 다드는 다른 고블린들과 다르지. 개구리를 좋아해. 피부는 미끌거려도 마음은 진실하다고."""
 ss_frogmaster,dlg,EntryList/5/Text,0,"""남쪽 동굴에 마그블랫이 있어. 도드는 족장이 싫어! 소가 떨어지면 워그들에게 개구리를 먹여. 개구리들은 친구야. 도드는 슬프게 해."""
-ss_frogmaster,dlg,EntryList/6/Text,0,"""호로호로, 뱀파이어 친구."""
+ss_frogmaster,dlg,EntryList/6/Text,0,"""안녕, 개구리 친구."""
 ss_frogmaster,dlg,ReplyList/0/Text,0,"""보안해"""
 ss_frogmaster,dlg,ReplyList/2/Text,0,"""살아도 안 돼. 죽을 준비를 해."""
 ss_frogmaster,dlg,ReplyList/4/Text,0,"""싱크홀 터널에 고블린들이 왜 있는 거야?"""
@@ -894,13 +894,13 @@ ss_frogmaster,dlg,ReplyList/6/Text,0,"""당신의 리더는 어디에 있나?"""
 ss_gordrakk,dlg,EntryList/0/Text,0,"""오, 당신은 죽은 왕의 종이 아니야! 여기서 무엇을 하는 거야? 빨리 말해라, 그렇지 않으면 혀를 잘라버리겠어. 나는 성을 죽은 왕으로부터 되찾아야 해, Alokkair."""
 ss_gordrakk,dlg,EntryList/1/Text,0,"""내 도끼를 소개하기 전에 여기서 나가라""."
 ss_gordrakk,dlg,EntryList/2/Text,0,"""그냥 그러는 거야? 좋아, 나는 싸움을 위해 기다리고 있었다! 오라, 친구들!"""
-ss_gordrakk,dlg,EntryList/3/Text,0,"""그래? 아마 그럴 거야. 당신의 물건을 넘겨주면 드락고르에게 도움을 줄 수 있을 거야. 나는 그리고 내 친구들이 성을 되찾기 위해 그것이 필요해."""
+ss_gordrakk,dlg,EntryList/3/Text,0,"""그래? 네 물건을 내놓으면 드락고르님을 섬길 수 있을지도 모르지. 나와 우리 부하들은 그 늙은이한테서 성을 되찾으려면 그게 필요하거든."""
 ss_gordrakk,dlg,EntryList/6/Text,0,<StartCheck>[실패]</Start>###############################################################
 ss_gordrakk,dlg,EntryList/7/Text,0,<StartAction>[성공]</Start>#####################################################################################################################################################################################################################################################
-ss_gordrakk,dlg,EntryList/8/Text,0,전설에 따르면 그는 조상들의 시대에 그린킨의 군대를 지휘했습니다. 대 보스 릭으로 불렸습니다. 이제는 단지 엉덩이의 통증일 뿐입니다. 이제는 그의 보스 중의 보스 성을 빼앗을 리치가 없을 거라 생각하지 않습니다!
+ss_gordrakk,dlg,EntryList/8/Text,0,"""그 자를 못 들어봤다고? 전설에 따르면 내 조상의 시대에 그 녀석이 그린스킨 무리를 이끌었다더군. 대단한 리치 보스라고 불렸지. 지금은 내 골칫거리일 뿐이지만 말이야. 시시한 리치 따위가 보스 중의 보스의 성을 빼앗아 가도록 내버려 두진 않을 거다!"""
 ss_gordrakk,dlg,EntryList/9/Text,0,"""나는 드라크고르, 아이언마우즈 오크의 큰 보스야. 나와 나의 친구들은 이 인간 성을 1년 전에 점령했어. 죽은 왕이 나타나서 우리를 잠자고 있는 동안 아이언마우즈를 죽이러 온 죽은 군인들을 보내고 말았어. 지금은 우리 다섯 명만 남은 거야."""
 ss_gordrakk,dlg,EntryList/10/Text,0,"""그램쉬의 초록 볼들! 이제 무슨 일이야? 전략을 생각하려고 하는 중이야... 어떻게 성을 되찾을지 고민 중이지?"""
-ss_gordrakk,dlg,EntryList/11/Text,0,"""좋은 싸움이 없지! 네가 먼저 가도록 하지. 나와 내 친구들은 이 스켈리즈들과 좀 싸워볼 거야."""
+ss_gordrakk,dlg,EntryList/11/Text,0,"""제대로 된 싸움만 한 게 없지! 먼저 가 있어. 나와 내 부하들이 이 해골 녀석들과 좀 놀아줄 테니까."""
 ss_gordrakk,dlg,ReplyList/0/Text,0,"""이런 일은 잊어. 나는 가고 있어."""
 ss_gordrakk,dlg,ReplyList/2/Text,0,"""악마한 오크, 죽을 준비를 해라""."
 ss_gordrakk,dlg,ReplyList/4/Text,0,"나는 모험가이며, 아무도 섬기지 않는다."
@@ -946,7 +946,7 @@ ss_hench_berliad,dlg,EntryList/35/Text,0,"""당신은 이미 잘 알고 있듯�
 ss_hench_berliad,dlg,EntryList/36/Text,0,"""무엇을 헛되이 이야기하면서 시간을 낭비하지 말자."""
 ss_hench_berliad,dlg,EntryList/37/Text,0,"""그건 유머를 위한 시도였나 봅니다. 저는 여러분들과 함께 여행하고 싶은 제 개인적인 이유가 있지만, 지금은 말씀드리지 않기로 하겠습니다."""
 ss_hench_berliad,dlg,EntryList/38/Text,0,"""무엇을 헛되이 이야기하면서 시간을 낭비하지 말자."""
-ss_hench_berliad,dlg,EntryList/39/Text,0,"""당신이 제 조언을 구하려는 거군요? 당신이야말로 결국 제 광대한 지성을 인정하기 시작한 모양입니다! 전에 군대에 속한 적이 없고, 전쟁에 대해서도 잘 아는 편은 아닙. 하지만 한 가지 확실한 것은 동료라고 부르는 사람들을 주의 깊게 살펴보는 것입니다. 의지할 수 있는 사람, 의지할 수 없는 사람, 그리고 배신할 가능성이 높은 사람을 알아내는 것입니다."""
+ss_hench_berliad,dlg,EntryList/39/Text,0,"""내 조언을 구하겠다는 건가? 드디어 내 광대한 지혜를 알아보기 시작했군! 난 군대에 있어 본 적도 없고, 전쟁에 대해서도 잘 알지 못한다. 다만 한 가지 아는 것은, 네가 동료라 부르는 자들을 잘 주시해야 한다는 점이지. 누구를 믿어야 할지, 누구를 믿지 말아야 할지, 그리고 누가 뒤통수를 칠 자인지를 알아내야 해."""
 ss_hench_berliad,dlg,EntryList/40/Text,0,"""모든 주요 전쟁에서 은밀한 계획을 가지고 있는 사람들이 있습니다. 그들은 상황을 자신의 이익으로 만드는 데 이용하려고 합니다."""
 ss_hench_berliad,dlg,EntryList/41/Text,0,"""당신이 원하는 대로""."
 ss_hench_berliad,dlg,EntryList/42/Text,0,실로 여유로운 농담은 어리석은 습관이다.
@@ -970,7 +970,7 @@ ss_hench_berliad,dlg,EntryList/59/Text,0,"""최근까지만 해도, 저는 워�
 ss_hench_berliad,dlg,EntryList/60/Text,0,"""어느 밤, 축복받은 티어는 잠자리에 있을 때 비전을 주었고, 그의 이름으로 해머를 들고 왕국 전체에 정의를 전파하는 꿈을 꾸었다. 깨어난 순간, 인생이 새로운 목적을 얻었다는 것을 알았습니다. 저는 즉시 워터딥을 떠났습니다."""
 ss_hench_berliad,dlg,EntryList/61/Text,0,"""거기 방랑자 양반! 티르의 성직자에게 자비를 베풀어 나도 데리고 가 주시오! 이 두 사람을 조금만 더 상대해야 한다면, 난 상처 입은 자의 추종자답지 않은 짓을 저지르고 말 것 같소."""
 ss_hench_berliad,dlg,EntryList/62/Text,0,"""아, 그렇게 하지 마, 베리아드. 재미있게 보내고 있다고 생각했어!"""
-ss_hench_berliad,dlg,EntryList/63/Text,0,"""내 거룩한 책들을 훔치고 뻔뻔스럽게도 추잡한 시로 대체하는 것은 아무도 즐길 수 있는 일이 아니야! 네가 타이르의 공정한 손가락을 모독할 뻔했어!"""
+ss_hench_berliad,dlg,EntryList/63/Text,0,"""내 성스러운 경전을 훔쳐다 외설스럽고 뻔뻔스럽게도 끔찍한 시로 바꿔놓다니, 누구도 이걸 장난이라고 생각하진 않을 거야! 하마터면 공평한 타이르를 모독할 뻔했잖아!"""
 ss_hench_berliad,dlg,EntryList/64/Text,0,"""실제로, 베리아드. 네가 티르의 사제였을 때보다 더 오래 지속된 변이 일어난 적도 없어. 아마도 신앙심을 조금 진정시켜보는 게 좋을 것 같아."""
 ss_hench_berliad,dlg,EntryList/65/Text,0,"""내장 움직임?! 바로 이런 이유 때문에, 네가 보라색 용이 될 수 있다고 생각하지 않는데, 코르미르의 여인이라도 아닐까! 진정한 여인이 그런 더러운 말을 하지 않을 것이다!"""
 ss_hench_berliad,dlg,EntryList/66/Text,0,"""그건 *예전* 보라 용입니다. 코르미르에서 왔던 길에 설명했습니다. 그리고 사실 저는 태어날 때부터 여인입니다. 만약 정확성을 따진다면, 적어도 보라색 용의 문장장을 지니고 있습니다. 당신은 여전히 경비 장교의 유니폼을 입고 있습니다."""
@@ -1002,7 +1002,7 @@ ss_hench_berliad,dlg,ReplyList/39/Text,0,가자.
 ss_hench_berliad,dlg,ReplyList/40/Text,0,"""내가 잠겨있는 문이나 상자를 열지 못하면 도와주지 마."""
 ss_hench_berliad,dlg,ReplyList/41/Text,0,"""내가 잠금해제를 실패하면 문이나 상자를 열어주면 좋겠어."""
 ss_hench_berliad,dlg,ReplyList/42/Text,0,"""나로부터 멀리 떨어져 있는 거리를 바꾸고 싶어요""."
-ss_hench_berliad,dlg,ReplyList/43/Text,0,"""나와 긴 거리를 유지해."""
+ss_hench_berliad,dlg,ReplyList/43/Text,0,"""내게서 멀리 떨어져 있어."""
 ss_hench_berliad,dlg,ReplyList/44/Text,0,중간 거리를 유지하세요.
 ss_hench_berliad,dlg,ReplyList/45/Text,0,가까이 있어
 ss_hench_berliad,dlg,ReplyList/46/Text,0,"""적을 본 즉시 공격하라."""
@@ -1022,7 +1022,7 @@ ss_hench_berliad,dlg,ReplyList/62/Text,0,"""항상처럼 냉소적으로."""
 ss_hench_berliad,dlg,ReplyList/63/Text,0,"""우리 모두 같은 편이야. 조심할 필요가 없어."""
 ss_hench_berliad,dlg,ReplyList/64/Text,0,"""나는 당신의 말을 고려해볼 것이다."""
 ss_hench_berliad,dlg,ReplyList/65/Text,0,"""나는 이제 가야 할 때라고 생각한다."""
-ss_hench_berliad,dlg,ReplyList/66/Text,0,당신은 다른 일을 해주길 원합니다.
+ss_hench_berliad,dlg,ReplyList/66/Text,0,다른 일을 좀 해줬으면 하는데요.
 ss_hench_berliad,dlg,ReplyList/67/Text,0,"""당신은 자신에 대해 말한다고 생각하기 시작했군."""
 ss_hench_berliad,dlg,ReplyList/68/Text,0,"""나는 이제 가야 할 때라고 생각한다."""
 ss_hench_berliad,dlg,ReplyList/70/Text,0,"""너는 다른 일을 해봐."""
@@ -1034,27 +1034,27 @@ ss_hench_berliad,dlg,ReplyList/77/Text,0,"""너는 다른 일을 해봐."""
 ss_hench_berliad,dlg,ReplyList/78/Text,0,"""자유로운 이동."""
 ss_hench_berliad,dlg,ReplyList/79/Text,0,"""내 동물 조수에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/80/Text,0,"""내 동물친구에게 던져라."""
-ss_hench_berliad,dlg,ReplyList/81/Text,0,"""내게 쓰여."""
+ss_hench_berliad,dlg,ReplyList/81/Text,0,"""내게 걸어라."""
 ss_hench_berliad,dlg,ReplyList/82/Text,0,"""자기 자신에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/84/Text,0,"""질병 해제."""
 ss_hench_berliad,dlg,ReplyList/85/Text,0,"""내 동물 조수에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/86/Text,0,"""내 동물친구에게 던져라."""
-ss_hench_berliad,dlg,ReplyList/87/Text,0,"""내게 쓰여."""
+ss_hench_berliad,dlg,ReplyList/87/Text,0,"""내게 걸어라."""
 ss_hench_berliad,dlg,ReplyList/88/Text,0,"""자기 자신에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/90/Text,0,"""실명/청각 상실을 제거하십시오."""
 ss_hench_berliad,dlg,ReplyList/91/Text,0,"""내 동물 조수에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/92/Text,0,"""내 동물친구에게 던져라."""
-ss_hench_berliad,dlg,ReplyList/93/Text,0,"""내게 쓰여."""
+ss_hench_berliad,dlg,ReplyList/93/Text,0,"""내게 걸어라."""
 ss_hench_berliad,dlg,ReplyList/94/Text,0,"""자기 자신에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/96/Text,0,"""조원해""."
 ss_hench_berliad,dlg,ReplyList/97/Text,0,"""내 동물 조수에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/98/Text,0,"""내 동물친구에게 던져라."""
-ss_hench_berliad,dlg,ReplyList/99/Text,0,"""내게 쓰여."""
+ss_hench_berliad,dlg,ReplyList/99/Text,0,"""내게 걸어라."""
 ss_hench_berliad,dlg,ReplyList/100/Text,0,"""자기 자신에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/102/Text,0,"""안녕 다시 한번."""
 ss_hench_berliad,dlg,ReplyList/103/Text,0,"""내 동물 조수에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/104/Text,0,"""내 동물친구에게 던져라."""
-ss_hench_berliad,dlg,ReplyList/105/Text,0,"""내게 쓰여."""
+ss_hench_berliad,dlg,ReplyList/105/Text,0,"""내게 걸어라."""
 ss_hench_berliad,dlg,ReplyList/106/Text,0,"""자기 자신에게 사용하라."""
 ss_hench_berliad,dlg,ReplyList/108/Text,0,"""네 자신에 대해 좀 말해봐."""
 ss_hench_ferret,dlg,EntryList/0/Text,0,"""안녕, 친구. 블랙 아일의 하플링, 페럿이라고 불러. 다른 사람은 갈 생각도 못 할 곳까지 갈 수 있지. 내게 이득이 되게 해 주면 내 솜씨는 전부 네 것이야."""
@@ -1081,7 +1081,7 @@ ss_hench_ferret,dlg,EntryList/20/Text,0,"""하, 이제, 한 이야기가 있습�
 ss_hench_ferret,dlg,EntryList/21/Text,0,"""나는 자신의 이름을 세우는 때라고 생각하고 다일랜드로 떠났다. 우리 조직의 리더인 페르거스 사촌은 내가 큰 성과를 내지 못할 것이라고 의심하지만, 나는 그를 증명하려고 한다. 언젠가 블랙아일랜드 기일을 이끌게 될 거다."""
 ss_hench_ferret,dlg,EntryList/22/Text,0,"""거기 방랑자 양반! 티르의 성직자에게 자비를 베풀어 나도 데리고 가 주시오! 이 두 사람을 조금만 더 상대해야 한다면, 난 상처 입은 자의 추종자답지 않은 짓을 저지르고 말 것 같소."""
 ss_hench_ferret,dlg,EntryList/23/Text,0,"""아, 그렇게 하지 마, 베리아드. 재미있게 보내고 있다고 생각했어!"""
-ss_hench_ferret,dlg,EntryList/24/Text,0,"""내 거룩한 책들을 훔치고 뻔뻔스럽게도 추잡한 시로 대체하는 것은 아무도 즐길 수 있는 일이 아니야! 네가 타이르의 공정한 손가락을 모독할 뻔했어!"""
+ss_hench_ferret,dlg,EntryList/24/Text,0,"""내 성스러운 경전을 훔쳐다 외설스럽고 뻔뻔스럽게도 끔찍한 시로 바꿔놓다니, 누구도 이걸 장난이라고 생각하진 않을 거야! 하마터면 공평한 타이르를 모독할 뻔했잖아!"""
 ss_hench_ferret,dlg,EntryList/25/Text,0,"""실제로, 베리아드. 네가 티르의 사제였을 때보다 더 오래 지속된 변이 일어난 적도 없어. 아마도 신앙심을 조금 진정시켜보는 게 좋을 것 같아."""
 ss_hench_ferret,dlg,EntryList/26/Text,0,"""내장 움직임?! 바로 이런 이유 때문에, 네가 보라색 용이 될 수 있다고 생각하지 않는데, 코르미르의 여인이라도 아닐까! 진정한 여인이 그런 더러운 말을 하지 않을 것이다!"""
 ss_hench_ferret,dlg,EntryList/27/Text,0,"""그건 *엑스*>보라 용입니다. 코르미르에서 왔던 길에 설명했습니다. 그리고 사실 저는 태어날 때부터 여인입니다. 만약 정확성에 대해 이야기한다면, 적어도 보라색 용의 상징을 지고 있습니다. 당신은 여전히 경비관의 유니폼을 입고 있습니다."""
@@ -1108,18 +1108,18 @@ ss_hench_ferret,dlg,ReplyList/31/Text,0,"""네 자신에 대해 좀 말해봐.""
 ss_hench_lisabet,dlg,EntryList/0/Text,0,"""안녕하세요, 친구. 저는 레디 리사베스입니다. 전 보라색 드래곤과 지금은 검으로 임대되어 있습니다. 나는 내 말을 깎지 않을 것입니다."
 ss_hench_lisabet,dlg,EntryList/1/Text,0,"""그럼 이만."""
 ss_hench_lisabet,dlg,EntryList/2/Text,0,"""그게 내가 들으려 했던 거야."""
-ss_hench_lisabet,dlg,EntryList/3/Text,0,"""내가 다시 옛 카라반 동료와 견디고 싶지 않아. 덜 부담스러울 때 이야기해."""
+ss_hench_lisabet,dlg,EntryList/3/Text,0,"""옛 캐러밴 동료를 다시 겪고 싶지 않군. 조금 덜... 짐을 짊어졌을 때 이야기하지."""
 ss_hench_lisabet,dlg,EntryList/4/Text,0,"""또 만나서 반갑습니다."""
 ss_hench_lisabet,dlg,EntryList/5/Text,0,"""그럼 이만."""
 ss_hench_lisabet,dlg,EntryList/6/Text,0,"""그게 내가 들으려 했던 거야."""
-ss_hench_lisabet,dlg,EntryList/7/Text,0,"""내가 다시 옛 카라반 동료와 견디고 싶지 않아. 덜 부담스러울 때 이야기해."""
+ss_hench_lisabet,dlg,EntryList/7/Text,0,"""옛 캐러밴 동료를 다시 겪고 싶지 않군. 조금 덜... 짐을 짊어졌을 때 이야기하지."""
 ss_hench_lisabet,dlg,EntryList/8/Text,0,"""예? 말씀하고 싶으셨나요?"""
 ss_hench_lisabet,dlg,EntryList/9/Text,0,나는 어떤 일도 해낼 준비가 돼 있다.
 ss_hench_lisabet,dlg,EntryList/10/Text,0,"""보라 용에서 쫓겨났고, 가족으로부터 배제당한 후, 이제까지 거절에 익숙해졌다고 생각하면 좋겠지만, 그래도 나는 여전히 돌아와서 환영받기를 기대하고 있다. 그렇다면, 나는 언제든 다시 환영받기를 원하는 나의 위치인 하퍼의 언덕에서 카메라를 설치할 것이다."""
 ss_hench_lisabet,dlg,EntryList/11/Text,0,"""당신은 전장 지휘관처럼 들립니다. 나는 그 말투를 좋아합니다."""
 ss_hench_lisabet,dlg,EntryList/12/Text,0,"""네, 대위님."""
 ss_hench_lisabet,dlg,EntryList/13/Text,0,"""다른 것?"""
-ss_hench_lisabet,dlg,EntryList/14/Text,0,"""너가 혼란스럽게 돌아다니는 걸 볼 수 있어? 그래도 좋아."""
+ss_hench_lisabet,dlg,EntryList/14/Text,0,"""내가 허우적거리는 걸 구경하겠다고? 난 좋아."""
 ss_hench_lisabet,dlg,EntryList/15/Text,0,"""내가 최선을 다하겠다""."
 ss_hench_lisabet,dlg,EntryList/16/Text,0,"""나는 레드 기사처럼 될 것이다, 그녀의 적들을 파괴!"""
 ss_hench_lisabet,dlg,EntryList/17/Text,0,"""나는 경호 업무에 참여했다는 걸 몰랐지만, 당신의 명령에 따르겠습니다."""
@@ -1130,7 +1130,7 @@ ss_hench_lisabet,dlg,EntryList/21/Text,0,"""장편한 이야기를 정리하자�
 ss_hench_lisabet,dlg,EntryList/22/Text,0,"""이곳을 다 끝낼 때 다저포드로 가볼 수도 있겠네. 저는 항상 그 곳을 좋아했지. 제 자신만의 모험 회사를 시작할 수도 있겠네. 이름도 생각해 놓았네. 다저포드 공작들."""
 ss_hench_lisabet,dlg,EntryList/23/Text,0,"""거기 방랑자 양반! 티르의 성직자에게 자비를 베풀어 나도 데리고 가 주시오! 이 두 사람을 조금만 더 상대해야 한다면, 난 상처 입은 자의 추종자답지 않은 짓을 저지르고 말 것 같소."""
 ss_hench_lisabet,dlg,EntryList/24/Text,0,"""아, 그렇게 하지 마, 베리아드. 재미있게 보내고 있다고 생각했어!"""
-ss_hench_lisabet,dlg,EntryList/25/Text,0,"""내 거룩한 책들을 훔치고 뻔뻔스럽게도 추잡한 시로 대체하는 것은 아무도 즐길 수 있는 일이 아니야! 네가 타이르의 공정한 손가락을 모독할 뻔했어!"""
+ss_hench_lisabet,dlg,EntryList/25/Text,0,"""내 성스러운 경전을 훔쳐다 외설스럽고 뻔뻔스럽게도 끔찍한 시로 바꿔놓다니, 누구도 이걸 장난이라고 생각하진 않을 거야! 하마터면 공평한 타이르를 모독할 뻔했잖아!"""
 ss_hench_lisabet,dlg,EntryList/26/Text,0,"""실제로, 베리아드. 네가 티르의 사제였을 때보다 더 오래 지속된 변이 일어난 적도 없어. 아마도 신앙심을 조금 진정시켜보는 게 좋을 것 같아."""
 ss_hench_lisabet,dlg,EntryList/27/Text,0,"""내장 움직임?! 바로 이런 이유 때문에, 네가 보라색 용이 될 수 있다고 생각하지 않는데, 코르미르의 여인이라도 아닐까! 진정한 여인이 그런 더러운 말을 하지 않을 것이다!"""
 ss_hench_lisabet,dlg,EntryList/28/Text,0,"""그건 *엑스*>보라 용입니다. 코르미르에서 왔던 길에 설명했습니다. 그리고 사실 저는 태어날 때부터 여인입니다. 만약 정확성에 대해 이야기한다면, 적어도 보라색 용의 상징을 지고 있습니다. 당신은 여전히 경비관의 유니폼을 입고 있습니다."""
@@ -1168,8 +1168,8 @@ ss_kragpassage,dlg,EntryList/1/Text,0,한순간의 침묵이 흐른다 - 그리�
 ss_kragpassage,dlg,EntryList/2/Text,0,더 이상 보는 것이 없어.
 ss_kragpassage,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
 ss_kragpassage,dlg,ReplyList/1/Text,0,<StartAction> [어둠에 울라.]</Start>
-ss_messageboard,dlg,EntryList/0/Text,0,"이 오래된 나무판은 세월이 지나면서 낡아졌으며, 다양한 직업과 서비스를 알리는 흩어진 포스터로 덮여 있다. 그 중 많은 포스트는 나이로 인해 읽을 수 없지만, 몇 개는 최근에 붙여져 눈길을 끈다."
-ss_messageboard,dlg,EntryList/1/Text,0,"'만약 이 글을 읽고 계시다면, 이 임무의 위험성을 강조하고자 합니다. 즉, 나 는 능력 있는 분을 부탁 드립니다. 엘민스터 타워 근처에 있는 그 곳에 나타난 마법 포털을 조사해 주시기를 바랍니다. 다리 근처에서 만나십시오.' - E.A."
+ss_messageboard,dlg,EntryList/0/Text,0,"이 오래된 나무 게시판은 세월의 풍파에 삭아버렸고, 온갖 일자리와 의뢰를 광고하는 낡은 전단들로 뒤덮여 있다. 세월이 흘러 알아보기 힘든 게시물도 많지만, 눈에 띄는 최신 전단들도 몇 장 붙어 있다."
+ss_messageboard,dlg,EntryList/1/Text,0,"'이 글을 읽고 계신다면, 이 임무의 위험성을 강조하지 않을 수 없습니다. 즉, 능력 있는 분이 저와 함께 엘민스터의 탑 경내로 가서 그곳에 나타난 마법의 차원문을 조사해 주셨으면 합니다. 다리 근처에서 저를 만나십시오. - E. A.'"
 ss_messageboard,dlg,EntryList/2/Text,0,"'어젠장 괴물들, 그들은 며칠 동안 농장을 괴롭혔다. 오늘 아침에 내 결혼 반지를 훔쳤어!"
 ss_messageboard,dlg,EntryList/3/Text,0,'나는 은 한 두 개를 벌고 싶은 믿을만한 사람을 위해 작은 일을 가지고 있습니다. 바에서 나와 이야기하십시오. '
 ss_messageboard,dlg,EntryList/4/Text,0,"'내 노동자 중 한 명이 최근에 퇴직했고, 그 결과 창고는 매우 혼란스러운 상태로 남아 있습니다. 여기저기서 양치기 가 쌓여 있습니다! 강한 손길이 필요해요. 곳곳을 정리하는 데 도움을 주시면 감사하겠습니다. 문제 있는 창고로 찾아오세요. 제가 필요한 일을 설명해 드리겠습니다.' - 베레곤."
@@ -1244,7 +1244,7 @@ ss_woundedstag,dlg,ReplyList/1/Text,0,<StartAction>[동물 감응]</Start>
 ss_woundedstag,dlg,ReplyList/4/Text,0,<StartAction>[ 떠나.]</Start>
 ss_woundedstag,dlg,ReplyList/5/Text,0,<StartAction>[동물 감응]</Start>
 ss_woundedstag,dlg,ReplyList/7/Text,0,<StartAction>[ 떠나.]</Start>
-ss_youngwoman,dlg,EntryList/0/Text,0,"""일단 나는 폭풍 은손처럼 될 거야! 오, 내가 누구를 속이는 거야. 나는 누군가를 좋은 아내로 만들고 행복한 가족을 키울 거야. 그리고 그것에는 문제가 없어."""
+ss_youngwoman,dlg,EntryList/0/Text,0,"""언젠가 나도 스톰 실버핸드처럼 될 거야! 오, 내가 무슨 소릴 하는 거지. 그냥 좋은 아내가 돼서 단란한 가정을 꾸릴래. 그게 뭐 어때서."""
 tm_secret_potion,dlg,EntryList/0/Text,0,술가방은 비어 있어.
 tm_secret_potion,dlg,EntryList/1/Text,0,"화재로 파괴된 건물의 잔해 속에서, 기적적으로 살아남은 가방을 발견할 수 있었다."
 tm_secret_potion,dlg,EntryList/2/Text,0,가방은 어떻게든 화재에서 살아남은 포션으로 가득 차 있습니다. 조심스럽게 제거합니다.
@@ -1612,7 +1612,7 @@ housejaelrecampj,git,Placeable List/0/LocName,0,상자
 housejaelrecampj,git,Placeable List/0/Description,0,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
 housejaelrecampj,git,Placeable List/0/ItemList/0/LocalizedName,0,금화
 kellashouse2ndfl,git,Door List/2/LocName,0,문
-kellashouse2ndfl,git,SoundList/0/LocName,0,파일 루프
+kellashouse2ndfl,git,SoundList/0/LocName,0,파리 루프
 kellashouse2ndfl,git,Placeable List/0/LocName,0,책장
 kellashouse2ndfl,git,Placeable List/0/Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 kellashouse2ndfl,git,Placeable List/0/ItemList/0/LocalizedName,0,금화
@@ -1623,15 +1623,15 @@ kellashouse2ndfl,git,Placeable List/3/Description,0,"반짝이는 탁자 아래�
 kellashouse2ndfl,git,Placeable List/3/ItemList/0/LocalizedName,0,켈라의 일지
 kellashouse2ndfl,git,Placeable List/3/ItemList/0/Description,0,"이 작은 일기에는 몇 페이지가 깔끔한 손으로 덮여 있습니다. 당신은 뒷면 근처에 있는 한 페이지로 이동합니다. ""...나는 내일 아침까지 기분이 좋아졌으면 좋겠습니다. 노인 호어브는 정말로 그녀의 물건을 알고 있습니다. 실제로로 돌아가기를 기대합니다. 나는 결코 그렇게 말하는 것을 들릴 것이라고 생각하지 않았습니다. 그럼에도 불구하고, 자엘은 너그러운 애인이며, 내가 방에서 N와 비밀 만남을 할 때, 나는 여유 1분 또는 2 분을 가지고 있습니다. 그는 최근에 약간 이상하게 행동하고 있습니다. 이유를 알 수 없습니다. 오, 그는 지금 문에 있습니까?... "" 일기에는 이 시점에서 끝납니다."
 kellashouse2ndfl,git,Placeable List/4/LocName,0,슬레이드 해머
-kellashouse2ndfl,git,Placeable List/4/Description,0,무거운 도끼채
+kellashouse2ndfl,git,Placeable List/4/Description,0,무거운 대형 망치.
 kellashouse2ndfl,git,Placeable List/5/LocName,0,바닥 피 - 오래된 1
 kellashouse2ndfl,git,Placeable List/6/LocName,0,병 - 부서진 병
 kellashouse2ndfl,git,Placeable List/6/Description,0,이 병에서 남은 것은 날카로운 유리 조각뿐이다.
 kellashouse2ndfl,git,Placeable List/9/LocName,0,치즈 휠 - 노랑
 kellashouse2ndfl,git,Placeable List/9/Description,0,"두꺼운 밀랍에 싸인 이 풍미 좋은 치즈는 코를 돌릴 만한, 혹은 아예 막아 버릴 만한 짙은 냄새를 풍기고 있다."
-kellashouse2ndfl,git,Placeable List/10/LocName,0,병 - 지우기
+kellashouse2ndfl,git,Placeable List/10/LocName,0,병 - 투명
 kellashouse2ndfl,git,Placeable List/10/Description,0,그 안쪽 은 어둡고 은 을 넣는 것은 틀림없습니다.
-kellashouse2ndfl,git,Placeable List/11/LocName,0,병 - 지우기
+kellashouse2ndfl,git,Placeable List/11/LocName,0,병 - 투명
 kellashouse2ndfl,git,Placeable List/11/Description,0,그 안쪽 은 어둡고 은 을 넣는 것은 틀림없습니다.
 kulnarohanesfarm,git,Creature List/0/FirstName,0,그 다음에는
 kulnarohanesfarm,git,Creature List/0/LastName,0,오하네
@@ -1661,7 +1661,7 @@ melnpchouse6,git,Placeable List/8/ItemList/0/LocalizedName,0,"기요르단, 거�
 melnpchouse6,git,Placeable List/8/ItemList/0/DescIdentified,0,"쉐도우데일은 혼란스러운 역사 동안 몇 명의 거짓 주왕을 견디는 불행을 겪었지만, 어느 누구도 지요르단만큼 악명 높은 것이 아니다. 1339년 DR에서 아우머리가 지요르담 요원들에 의해 암살되었을 때, 지요르단은 이 암살자들을 포획하고 죽였으며, 아샤바의 서두리를 주장하고, 새로운 주왕으로 자신을 제시했으며, 쉐도우데일 주민들은 이에 동의했다. 지요르단은 전통적인 아샤바의 트위스트 타워에서 크라그 성으로 시요르담의 권력의 자리를 옮겼으며, 그 장소는 곧 지요르담 요원들로 가득했다. 인민들의 반란은 지요르담 요원으로부터 평화 유지 세력을 파견하게 되었고, 실요르담은 아우르단의 진정한 본질을 알고 있었음에도 불구하고, 아슈르담을 물리치려고 노력하기보다는 정권을 유지하려고 노력했다. 지요르단은 1345년에 메르담의 서두에서 사망했다. 그러나 지요르담의 주왕은 ""검은 서두르단""에 의해 명명되었다."
 melnpchouse6,git,Placeable List/12/LocName,0,침대 - 베개
 melnpchouse6,git,Placeable List/12/Description,0,잘 만들어진 이 침대는 부드러운 담요로 덮여 있어 가장 황실에서도 가장 특별히 다루지 않는 왕족들을도 편안하게 해줄 것 같았다.
-melnpchouse6,git,Placeable List/13/LocName,0,병 - 지우기
+melnpchouse6,git,Placeable List/13/LocName,0,병 - 투명
 melnpchouse6,git,Placeable List/13/Description,0,그 안쪽 은 어둡고 은 을 넣는 것은 틀림없습니다.
 melnpchouse6,git,Placeable List/14/LocName,0,벽난로 - 회색 벽돌
 melnpchouse6,git,Placeable List/18/LocName,0,"카펫, 동양식 - 보라 1"
@@ -1734,7 +1734,7 @@ shadowaleoldskul,git,SoundList/1/LocName,0,선술집 여직원
 shadowaleoldskul,git,SoundList/2/LocName,0,웃는 남자
 shadowaleoldskul,git,SoundList/3/LocName,0,웃는 여자
 shadowaleoldskul,git,SoundList/4/LocName,0,화덕
-shadowaleoldskul,git,StoreList/0/LocName,0,구골 체육관
+shadowaleoldskul,git,StoreList/0/LocName,0,올드 스컬 여관
 shadowaleoldskul,git,StoreList/0/StoreList/2/ItemList/2/LocalizedName,0,쓴 검은색
 shadowaleoldskul,git,StoreList/0/StoreList/2/ItemList/2/DescIdentified,0,비터 블랙은 아라벨에서 수출되어 아우로라의 전 세계 상품 카탈로그를 통해 판매되는 스타우트 맥주입니다.
 shadowaleoldskul,git,StoreList/0/StoreList/2/ItemList/3/LocalizedName,0,용의 숨결 맥주
@@ -1744,7 +1744,7 @@ shadowaleoldskul,git,StoreList/0/StoreList/2/ItemList/4/DescIdentified,0,이 어
 shadowaleoldskul,git,StoreList/0/StoreList/2/ItemList/5/LocalizedName,0,섀도우다크 에일
 shadowaleoldskul,git,StoreList/0/StoreList/2/ItemList/5/DescIdentified,0,"쉐도우 다크 맥주는 쉐도우데일에서 제조되며, 어두운 갈색의 흐린 거품이 일고 노란색의 거품 머리를 가집니다."
 shadowaleoldskul,git,WaypointList/0/LocalizedName,0,지도 설명
-shadowaleoldskul,git,WaypointList/0/MapNote,0,구골 철장 - 2층
+shadowaleoldskul,git,WaypointList/0/MapNote,0,올드 스컬 여관 - 2층
 shadowaleoldskul,git,WaypointList/1/LocalizedName,0,이정표
 shadowaleoldskul,git,WaypointList/2/LocalizedName,0,이정표
 shadowaleoldskul,git,WaypointList/3/LocalizedName,0,이정표
@@ -1901,14 +1901,14 @@ shadowdaletown,git,Encounter List/1/LocalizedName,0,"엘프, 드로우 그룹"
 shadowdaletown,git,Encounter List/2/LocalizedName,0,"엘프, 드로우 그룹"
 shadowdaletown,git,Encounter List/3/LocalizedName,0,"엘프, 드로우 그룹"
 shadowdaletown,git,List/0/LocalizedName,0,장인제작 손도끼
-shadowdaletown,git,List/0/Description,0,"장인제작 아이템은 매우 잘 만들어진 물건이다. 비용이 조금 더 들지만, 사용자에게는 품질이 향상된 이점을 제공한다. 이 아이템은 마법으로는 변하지 않지만, 마법으로 변화시킬 수 있는 것은 장인제작 아이템만이다."
+shadowdaletown,git,List/0/Description,0,"걸작 아이템은 매우 정교하게 제작된 물건이다. 가격은 더 비싸지만 뛰어난 품질로 사용자에게 이점을 준다. 마법적인 물건은 아니지만, 마법을 부여할 수 있는 것은 오직 걸작 아이템뿐이다."
 shadowdaletown,git,TriggerList/1/LocalizedName,0,뉴 에이리어 트랜지션
 shadowdaletown,git,TriggerList/2/LocalizedName,0,뉴 에이리어 트랜지션
 shadowdaletown,git,TriggerList/3/LocalizedName,0,뉴 에이리어 트랜지션
 shadowdaletown,git,TriggerList/5/LocalizedName,0,탐색 트리거
 shadowdaletown,git,WaypointList/0/MapNote,0,"브론 셀가르드, 스미티"
-shadowdaletown,git,WaypointList/1/MapNote,0,"눈을 가진 잭블, 호기심 거래인"
-shadowdaletown,git,WaypointList/2/MapNote,0,구골 체육관
+shadowdaletown,git,WaypointList/1/MapNote,0,"눈의 잼블, 호기심 상인"
+shadowdaletown,git,WaypointList/2/MapNote,0,올드 스컬 여관
 shadowdaletown,git,WaypointList/3/MapNote,0,"호아레브 니블핑거스, 치유자"
 shadowdaletown,git,WaypointList/4/MapNote,0,에릭의 동굴
 shadowdaletown,git,WaypointList/5/MapNote,0,풍요의 집
@@ -2167,9 +2167,9 @@ twistedtower2ndf,git,Creature List/4/Description,0,"드로우들은 악의 엘�
 twistedtower2ndf,git,Creature List/4/ItemList/0/LocalizedName,0,이상한 메시지
 twistedtower2ndf,git,Creature List/4/ItemList/0/Description,0,"""노인 바보는 아직 없어서 좋은 일이 될 수 밖에 없다. 그 개입한 노인 간섭자의 존재 없이는 우리의 계획에 대한 심각한 반대를 예측할 수 없다. 돌은 탑 안에 어딘가에 있습니다. 나는 그것을 느낄 수 있습니다. 그 비참한 Mourngrym은 아직 이 주제에 대한 내 미묘한 충동에 응답하지 않습니다. 거만한 부파는 그가 얻을 수있는 기회에 그의 모험적 업적을 더 이상 기쁘게 다. 이것은 어려울 수 있습니다. 그것은 단지 정보를 고문하는 것이 더 좋을 수 있습니다. 공격이 계획대로 시작해야한다고 당신의 대부에게 말하십시오. 내 속임수가 여기있을 때, 나는 탑 아래에있는 나머지 당신과 함께 합류 할 것입니다. 나는 단지 우리가 이 미스터리한 예술품에 대한 가치있는 보상을 할 것이라고 약속 할 수 있습니다. ""The Hidden One""."
 twistedtower2ndf,git,Creature List/7/FirstName,0,하퍼 정찰자
-twistedtower2ndf,git,Creature List/7/Description,0,"하퍼스는 반비밀 조직으로, 실세계에서 선을 증진하기 위해 활동하는 준비밀 조직입니다."
+twistedtower2ndf,git,Creature List/7/Description,0,하퍼는 렐름에서 선을 장려하기 위해 헌신하는 반비밀 조직입니다.
 twistedtower2ndf,git,Creature List/8/FirstName,0,하퍼 정찰자
-twistedtower2ndf,git,Creature List/8/Description,0,"하퍼스는 반비밀 조직으로, 실세계에서 선을 증진하기 위해 활동하는 준비밀 조직입니다."
+twistedtower2ndf,git,Creature List/8/Description,0,하퍼는 렐름에서 선을 장려하기 위해 헌신하는 반비밀 조직입니다.
 twistedtower2ndf,git,Creature List/9/FirstName,0,탑 궁수
 twistedtower2ndf,git,Creature List/9/Description,0,트위스트드 탑의 무장 중 한 명
 twistedtower2ndf,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,휘어진 탑 사슬갑옷
@@ -2182,7 +2182,7 @@ twistedtower2ndf,git,SoundList/3/LocName,0,작은 분수
 twistedtower2ndf,git,WaypointList/0/LocalizedName,0,지도 설명
 twistedtower2ndf,git,WaypointList/0/MapNote,0,주님의 방
 twistedtower2ndf,git,WaypointList/1/LocalizedName,0,지도 설명
-twistedtower2ndf,git,WaypointList/1/MapNote,0,사회실
+twistedtower2ndf,git,WaypointList/1/MapNote,0,응접실
 twistedtower2ndf,git,WaypointList/2/LocalizedName,0,지도 설명
 twistedtower2ndf,git,WaypointList/2/MapNote,0,도서관
 twistedtower2ndf,git,WaypointList/3/LocalizedName,0,지도 설명
@@ -2201,7 +2201,7 @@ twistedtower2ndf,git,Placeable List/35/LocName,0,책장
 twistedtower2ndf,git,Placeable List/35/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
 twistedtower2ndf,git,Placeable List/36/LocName,0,혈액 (제거 가능)
 twistedtower2ndf,git,Placeable List/36/Description,0,"불꽃이 치고 타오르며, 그 화염의 열로 모든 것을 소비한다."
-twistedtower3rdf,git,Creature List/0/FirstName,0,폭풍신의 축복
+twistedtower3rdf,git,Creature List/0/FirstName,0,폭풍
 twistedtower3rdf,git,Creature List/0/LastName,0,은손
 twistedtower3rdf,git,Creature List/0/Description,0,"이 눈부시게 높은, 아름다운 은발의 여성은 치명적인 맛으로 검을 들고 있습니다."
 twistedtower3rdf,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,행운의 검 +1
@@ -2218,7 +2218,7 @@ twistedtower3rdf,git,WaypointList/0/MapNote,0,휘어진 탑: 2층
 twistedtower3rdf,git,WaypointList/1/LocalizedName,0,이정표
 twistedtower3rdf,git,Placeable List/8/LocName,0,"지도 - 세계 지도, 벽에 장식된 것"
 twistedtower3rdf,git,Placeable List/8/Description,0,이 지도는 알려진 많은 지역을 나타냅니다.
-twistedtower3rdf,git,Placeable List/12/LocName,0,병 - 지우기
+twistedtower3rdf,git,Placeable List/12/LocName,0,병 - 투명
 twistedtower3rdf,git,Placeable List/12/Description,0,그 안쪽 은 어둡고 은 을 넣는 것은 틀림없습니다.
 twistedtower3rdf,git,Placeable List/13/LocName,0,촛불 01 (주위의)
 twistedtowerdung,git,Creature List/0/FirstName,0,드로우 지휘관
@@ -2227,7 +2227,7 @@ twistedtowerdung,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,Drow 레�
 twistedtowerdung,git,Creature List/2/FirstName,0,드로우 마법사
 twistedtowerdung,git,Creature List/2/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 twistedtowerdung,git,Creature List/3/FirstName,0,레타운
-twistedtowerdung,git,Creature List/3/Description,0,이 드루이 남자는 고압적인 기세를 뿜어내고 있습니다.
+twistedtowerdung,git,Creature List/3/Description,0,이 드로우 남자는 오만함을 발산하고 있습니다.
 twistedtowerdung,git,Creature List/3/Equip_ItemList/3/LocalizedName,0,리타운 속성
 twistedtowerdung,git,Creature List/4/FirstName,0,플로린
 twistedtowerdung,git,Creature List/4/LastName,0,발크손
@@ -2435,7 +2435,7 @@ twistedtowero002,git,Creature List/9/FirstName,0,탑 궁수
 twistedtowero002,git,Creature List/9/Description,0,트위스트드 탑의 무장 중 한 명
 twistedtowero002,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,휘어진 탑 사슬갑옷
 twistedtowero002,git,Door List/2/LocName,0,문
-twistedtowero002,git,WaypointList/0/MapNote,0,곡운 탑
+twistedtowero002,git,WaypointList/0/MapNote,0,뒤틀린 탑
 twistedtowero002,git,WaypointList/1/MapNote,0,샤도우데일 타운으로
 twistedtowero002,git,Placeable List/0/LocName,0,탑 - 중세 01
 twistedtowero002,git,Placeable List/1/LocName,0,탑 - 중세 01
@@ -2571,9 +2571,9 @@ module,jrl,Categories/0/EntryList/1/Text,0,"두르만 히레스타 (Durman Hiles
 module,jrl,Categories/0/EntryList/2/Text,0,"두르만 히레스타 (Durman Hilesta) 는 올드 클 인의 보너서입니다. 그는 당신에게 제안했습니다. 그가 착용자의 힘을 크게 향상시키는 그의 마법 벨트를 가질 것입니다, 당신이 그의 일을 수행하는 데 도움이 될 수있는 다른 방법을 찾을 수 있다면. 당신은 코르멘토르 숲에서 노드 클의 새로운 보너서가 될 준비가 된 외로난 오그르를 만났다. 희망적으로, 두르만은 이제 그의 벨트를 갈아 갈아 갈 준비가 될 것입니다. Durman은 그의 자리를 차지하기 위해 호그르 라른을 모집한 후에 그의 벨트를 갈아 갈아 갈 것을 기쁘게했다. 나무 크기의 클럽과 함께 10 피트 높은 오그르를 한 번 살펴보면, 가장 험한 타버너 후원자를 억제해야합니다."
 module,jrl,Categories/0/EntryList/3/Text,0,"결국, 당신은 3천개의 금으로 더먼의 마법 벨트를 샀습니다."
 module,jrl,Categories/1/Name,0,공포를 일으키라
-module,jrl,Categories/1/EntryList/0/Text,0,"터발은 장갑문의 열쇠를 주었다. 그곳에서 헬메이크드 호러, 강력한 마법 구조물을 찾을 수 있다. 이를 활성화하려면 '오마르'라고 말하면 된다."
+module,jrl,Categories/1/EntryList/0/Text,0,터발이 무기고 문 열쇠를 건넸다. 그곳에서 강력한 마법 구조물인 헬메드 호러를 찾을 수 있다. '오마르'라는 단어를 말해 활성화할 수 있다.
 module,jrl,Categories/1/EntryList/1/Text,0,헬름드 호러를 작동시켰다. 서벌에게 돌아가 알려라.
-module,jrl,Categories/1/EntryList/2/Text,0,헤일메이크는 이제 타워의 지하층에서 순찰하고 있습니다. 그 무서운 존재는 드워프와의 싸움에서 큰 자산이 될 것입니다.
+module,jrl,Categories/1/EntryList/2/Text,0,헬메드 호러가 이제 탑의 1층을 순찰하고 있습니다. 그 무시무시한 존재는 드로우와의 전투에서 큰 자산이 될 것입니다.
 module,jrl,Categories/2/Name,0,크라그 성
 module,jrl,Categories/2/EntryList/0/Text,0,"당신은 크라그 성의 유적들을 발견했지, 조르단의 옛 요새, 샤도데일의 거짓 부왕"
 module,jrl,Categories/2/EntryList/1/Text,0,"드락고르라는 오크 족장과 얘기했는데, 그 대장들은 강렬한 릭에 의해 거의 멸종됐다고 말했어요."
@@ -2583,7 +2583,7 @@ module,jrl,Categories/3/EntryList/0/Text,0,"이 모듈 제작에 기여한 훌�
 module,jrl,Categories/4/Name,0,드루이드의 숲
 module,jrl,Categories/4/EntryList/0/Text,0,크라그 성을 탐험하던 중 지하 감옥에서 아나벨이라는 드루이드를 구해냈다. 그녀는 죽은 용을 숭배하는 사교 집단이 최근 인근 드루이드 숲을 장악했다고 말했다. 그곳에 가서 사교도들이 무엇을 꾸미는지 알아봐 달라고 부탁했다.
 module,jrl,Categories/4/EntryList/1/Text,0,"드루이드 숲의 종파들은 드래곤 종파의 전 멤버가 이끌었고, 그는 심지어 악명 높은 조직조차도 용납할 수 없을 정도로 미쳤다는 것을 증명했습니다. 종파들은 드라콜리히와 비슷한 무사한 용을 만들 수 있는 의식을 수행했지만 실패했고, 대신 정신이 없는 좀비 용이 격렬하게 일어났습니다. 다행히 당신은 그것을 파괴할 수 있었습니다."
-module,jrl,Categories/5/Name,0,고블린 랜더스
+module,jrl,Categories/5/Name,0,고블린 약탈자
 module,jrl,Categories/5/EntryList/0/Text,0,"당신은 쉐도우데일 남쪽의 농장을 습격하고 파괴하는 괴물들을 사냥하고 파괴하기로 합의했습니다. 특히 쿨너 오하네의 농장을 습격했습니다. 그들은 스킨홀의 바닥에 있는 터널의 잔해에 숨어 있습니다. 터널에 들어가려면 경호인 라스트에게 쿨너의 반지를 제시해야 합니다. 리더인 마그블랫이 죽은 후에는, 당신은 250 개의 금 조각의 보상을 위해 쿨너로 돌아가야합니다. 괴물 리더의 머리는 당신의 성공의 증거로 요구됩니다."
 module,jrl,Categories/5/EntryList/1/Text,0,당신은 쉐도우데일 남쪽의 농장을 습격하고 파괴하는 괴물들을 사냥하고 파괴하기로 합의했습니다. 특히 쿨너 오하네의 농장을 습격했습니다. 그들은 스킨홀 바닥에 있는 터널의 잔해에 숨어 있습니다. 터널에 들어가려면 경호인 라스트에게 쿨너의 반지를 제시해야합니다. 리더인 마그블라트가 죽은 후에는 250 개의 금 조각의 보상을 위해 쿨너로 돌아가야합니다. 괴물 지도자의 머리가 당신의 성공을 증명하는 데 요구됩니다. 괴물의 지도자인 마그블라트는 죽은 것입니다. 최근 숲 속의 익사 활동이 괴물들이 오래된 터널로 이전하는 이유였던 것으로 보인다. 당신은 당신의 보상을 위해 쿨너로 돌아가야합니다.
 module,jrl,Categories/5/EntryList/2/Text,0,쿨나르에게 상금을 받았으니 농장이 겨울을 맞이할 때까지 회복되길 바랍니다.
@@ -2836,7 +2836,7 @@ q_cheetah,utc,Description,0,"치타는 숨을 잘 숨기는 사바나의 포식�
 q_chicken002,utc,FirstName,0,닭
 q_chicken003,utc,FirstName,0,닭
 q_coho,utc,FirstName,0,코호
-q_crystalooze,utc,FirstName,0,수정 오즈
+q_crystalooze,utc,FirstName,0,수정 우즈
 q_crystalooze,utc,Description,0,이 무형의 생물은 무해한 물웅덩이와 비슷하다.
 q_deathtyrant,utc,FirstName,0,죽음의 타락자
 q_dracolisk,utc,FirstName,0,드라콜리스크
@@ -2868,11 +2868,11 @@ q_lynx,utc,FirstName,0,린크스
 q_mimic,utc,FirstName,0,흉내쟁이
 q_moose,utc,FirstName,0,황소소
 q_moose,utc,Description,0,거대한 키와 무거운 몸집에 더해 협박적인 뿔을 지니고 있는 황소 앵무새는 자연적 맹수들에 의해 거의 위협받지 않는다.
-q_mustrdjellylrg,utc,FirstName,0,고추장 젤리
+q_mustrdjellylrg,utc,FirstName,0,머스타드 젤리
 q_mustrdjellylrg,utc,Description,0,이 모양모양 생물은 어두운 노란색 아메바와 비슷합니다.
-q_mustrdjellymed,utc,FirstName,0,고추장 젤리
+q_mustrdjellymed,utc,FirstName,0,머스타드 젤리
 q_mustrdjellymed,utc,Description,0,이 모양모양 생물은 어두운 노란색 아메바와 비슷합니다.
-q_mustrdjellysml,utc,FirstName,0,고추장 젤리
+q_mustrdjellysml,utc,FirstName,0,머스타드 젤리
 q_mustrdjellysml,utc,Description,0,이 모양모양 생물은 어두운 노란색 아메바와 비슷합니다.
 q_neootyugh,utc,FirstName,0,네오 오티우그
 q_npc_hu_001,utc,FirstName,0,워터딥 시티 워치
@@ -2923,11 +2923,11 @@ q_troll2head,utc,FirstName,0,두 머리 트롤
 q_trout,utc,FirstName,0,트로이트
 q_walleye,utc,FirstName,0,와일리
 q_whitetiger,utc,FirstName,0,백색 호랑이
-q_whtpuddinglrg,utc,FirstName,0,백색 루테아
+q_whtpuddinglrg,utc,FirstName,0,화이트 푸딩
 q_whtpuddinglrg,utc,Description,0,이 무형 생물은 습한 무거운 눈의 파동과 비슷합니다.
-q_whtpuddingmed,utc,FirstName,0,백색 루테아
+q_whtpuddingmed,utc,FirstName,0,화이트 푸딩
 q_whtpuddingmed,utc,Description,0,이 무형 생물은 습한 무거운 눈의 파동과 비슷합니다.
-q_whtpuddingsml,utc,FirstName,0,백색 루테아
+q_whtpuddingsml,utc,FirstName,0,화이트 푸딩
 q_whtpuddingsml,utc,Description,0,이 무형 생물은 습한 무거운 눈의 파동과 비슷합니다.
 q_wizardeye,utc,FirstName,0,마법사의 눈
 q_wizardeye,utc,Description,0,괴상한 크기의 분리된 눈구처럼 보이는 이 이상한 생물들은 강력한 마법사가 만들어서 괴상한 기기와 경호가 될 수 있습니다.
@@ -2965,7 +2965,7 @@ statue001,utc,FirstName,0,조각상
 statue001,utc,Description,0,이 동상은 매우 실제적으로 보입니다.
 statue002,utc,FirstName,0,조각상
 statue002,utc,Description,0,이 동상은 매우 실제적으로 보입니다.
-stormofthechosen,utc,FirstName,0,폭풍신의 축복
+stormofthechosen,utc,FirstName,0,폭풍
 stormofthechosen,utc,LastName,0,은손
 stormofthechosen,utc,Description,0,"이 눈부시게 높은, 아름다운 은발의 여성은 치명적인 맛으로 검을 들고 있습니다."
 sulcar,utc,FirstName,0,수르카르
@@ -3035,7 +3035,7 @@ bitterblack,uti,DescIdentified,0,비터 블랙은 아라벨에서 수출되어 �
 bitteroot,uti,LocalizedName,0,빗터로트
 bitteroot,uti,DescIdentified,0,비터루트는 고기처럼 두툼한 잎과 연분홍색 또는 흰색 꽃을 가진 식용 허브입니다. 이 허브로는 익숙해져야 좋아지는 독특한 맛과 훈연 향이 나는 음료를 만들 수 있습니다.
 bloodapple,uti,LocalizedName,0,피 사과
-bloodapple,uti,DescIdentified,0,"피로는 아니지만, 피나무의 사과는 야수의 바버리안 분노와 비슷한 효과를 일으키는 것으로 알려져 있다. 분노한 과수원 주인들이 피노크를 갈망하여 미쳐버린 젊은 스럼퍼들과 대치할 때마다 불행한 결과가 발생한 적이 있었다."
+bloodapple,uti,DescIdentified,0,"실제 피로 만들어진 것은 아니지만, 피나무의 사과를 먹으면 야만전사의 광포화와 비슷한 효과가 나타난다. 이 때문에 피에 굶주려 미쳐버린 젊은 서리꾼들과 분노한 과수원 주인들이 충돌하여 불행한 결과가 빚어지기도 했다."
 cloth006,uti,LocalizedName,0,엘민스터의 옷
 cloth029,uti,LocalizedName,0,실루네의 티나치
 cormanthor,uti,LocalizedName,0,코르망토르
@@ -3061,7 +3061,7 @@ it_creitem061,uti,LocalizedName,0,리타운 속성
 it_creitemdr006,uti,LocalizedName,0,말랑티어 용 속성
 it_creitemdrb001,uti,LocalizedName,0,엘민스터 용 속성
 it_creitemun005,uti,LocalizedName,0,그림자 본체 속성
-it_creitemunf001,uti,LocalizedName,0,상처입은 경비병 림프
+it_creitemunf001,uti,LocalizedName,0,부상당한 경비병
 it_crewpsp014,uti,LocalizedName,0,실루네 접기
 item,uti,LocalizedName,0,자에르타의 노트
 item,uti,Description,0,"자에르타, 여기 서쪽에 있는 작은 엘프 순찰에 대한 소식을 들었습니다. 그 바보 할린오르가 이끄는 것입니다. 이 귀여운, 이 번거리는 우리를 한 번 더 해소하는 적절한 시간입니다. 나는 그의 머리를 오늘 밤 말까지 나에게 제공 할 것으로 기대합니다. 미스트레델에 대한 습격은 내일 아침 계획대로 진행됩니다. 그래서 늦지 않으려고 노력하십시오."
@@ -3099,7 +3099,7 @@ margblatshead,uti,Description,0,이것은 고블린 리더 마그블라트의 �
 margblatsjournal,uti,LocalizedName,0,마그블라트의 일지
 margblatsjournal,uti,Description,0,"이것은 고블린 지도자인 마르글라트의 일간지인 것 같습니다. 글씨가 어린아이의 스크롤처럼 보이지만, 글쓰기가 대부분 비참하지만, 많은 부분이 읽을 수 있습니다. 몇 문항은 흥미롭습니다. ""...파, 지금 침습하는 것은 아닙니다. 우리는 라즈가 은 피부가 졸을 때 기사 때 소와 닭을 가져갑니다. 해, 우리는 오늘 밤 큰 파티를 합니다"". ""...식품이 사라졌습니다. 우리는 더 많은 음식을 얻어야합니다. 또는 마르글라트의 부족이 굶주립니다. 우리는 다시 농장을 침습합니다. 밤까지 기다릴 수 없습니다. 이들은 약하고, 우리는 그들을 죽이고, 인간들을 비난합니다!"" ""...마르글라트의 부족이 마르글라트보다 강합니다. 많은 마르글라트의 부족은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은 은"
 masterworkhandax,uti,LocalizedName,0,장인제작 손도끼
-masterworkhandax,uti,Description,0,"장인제작 아이템은 매우 잘 만들어진 물건이다. 비용이 조금 더 들지만, 사용자에게는 품질이 향상된 이점을 제공한다. 이 아이템은 마법으로는 변하지 않지만, 마법으로 변화시킬 수 있는 것은 장인제작 아이템만이다."
+masterworkhandax,uti,Description,0,"걸작 아이템은 매우 정교하게 제작된 물건이다. 가격은 더 비싸지만 뛰어난 품질로 사용자에게 이점을 준다. 마법적인 물건은 아니지만, 마법을 부여할 수 있는 것은 오직 걸작 아이템뿐이다."
 matronskey,uti,LocalizedName,0,매트론의 키
 matronskey,uti,Description,0,이 열쇠는 매우 특이한 디자인을 가지고 있습니다.
 mcloth007,uti,LocalizedName,0,태양광 갑옷
@@ -3129,7 +3129,7 @@ q_it_ccrawlrslam,uti,LocalizedName,0,캐리온 크롤러 촉수
 q_it_crystoozesl,uti,LocalizedName,0,크리스탈 오즈 슬램
 q_it_dracoliskpr,uti,LocalizedName,0,드라콜리스크 속성
 q_it_dthtyrprops,uti,LocalizedName,0,죽음의 독재자 속성
-q_it_dunpuddngpr,uti,LocalizedName,0,두넘 속성
+q_it_dunpuddngpr,uti,LocalizedName,0,회색 푸딩 특성
 q_it_gelcubeprop,uti,LocalizedName,0,젤리같은 육면체 속성
 q_it_gelcubeslam,uti,LocalizedName,0,젤라틴 큐브 강타
 q_it_grayoozepro,uti,LocalizedName,0,수정/그레이 부정형 속성
@@ -3145,7 +3145,7 @@ q_it_roperprops,uti,LocalizedName,0,로퍼 속성
 q_it_roperslam,uti,LocalizedName,0,로퍼 텐테클
 q_it_skfieryclaw,uti,LocalizedName,0,불타는 뼈 발톱
 q_it_slam1d3,uti,LocalizedName,0,Slam1d3
-q_it_slithtrckpr,uti,LocalizedName,0,슬라이딩 추적자 속성
+q_it_slithtrckpr,uti,LocalizedName,0,슬라이딩 트래커 특성
 q_it_slithtrcksl,uti,LocalizedName,0,미끄러지는 추적자 강타
 q_it_slugtongue,uti,LocalizedName,0,거대 스러그 혀
 q_it_watchmanclu,uti,LocalizedName,0,감시자의 곤봉
@@ -3187,7 +3187,7 @@ vorpalgreatsword,uti,LocalizedName,0,보팔 대검 +5
 wamar002,uti,LocalizedName,0,화살
 wandofarcana,uti,LocalizedName,0,아카나 와드
 wandofarcana,uti,DescIdentified,0,"이 스틱은 미스터리에 익숙하지 않은 모험가들의 가장 좋아하는 것 이다. 누구나 사용할 수 있으며, 스틱과 접촉했을 때 어떤 마법의 물체의 진정한 본질을 이해 할 수 있도록 한다. 이 스틱은 제한적인 요금을 가지고 있어, 소유자는 이 장치를 사용하는 방법에 주의해야 한다."
-storebar002,utm,LocName,0,구골 체육관
+storebar002,utm,LocName,0,올드 스컬 여관
 storeweap002,utm,LocName,0,무기와 방어구 상점
 drowrecallportal,utp,LocName,0,드로 귀환 차원문
 el_cleaner,utp,LocName,0,청소부
@@ -3303,13 +3303,13 @@ q_plc_foodbin002,utp,LocName,0,옥수수 바구니
 q_plc_foodbin002,utp,Description,0,아코른과 다른 나무 견과류로 가득한 위커 바구니.
 q_plc_foodbin003,utp,LocName,0,사과 상자
 q_plc_foodbin003,utp,Description,0,"맛있는 사과로 가득 찬 위커 바구니, 풍부한 붉은 색으로 익은."
-q_plc_foodbin004,utp,LocName,0,클램 바지르기
+q_plc_foodbin004,utp,LocName,0,조개 통
 q_plc_foodbin004,utp,Description,0,이 바구니를 가득 채우는 오징어는 풍부한 소금 냄새를 맡는다.
 q_plc_foodbin005,utp,LocName,0,그린 바구니
 q_plc_foodbin005,utp,Description,0,신선한 잎사귀들이 가득한 맨틀 바구니.
 q_plc_foodbin006,utp,LocName,0,과일 상자
 q_plc_foodbin006,utp,Description,0,신선한 과일로 가득한 나무 상자.
-q_plc_funrlpyre,utp,LocName,0,장례화기
+q_plc_funrlpyre,utp,LocName,0,화장터
 q_plc_funrlpyre,utp,Description,0,점화를 기다리는 침울한 장작 화장대.
 q_plc_garbage001,utp,LocName,0,쓰레기 쌓임
 q_plc_gizzard,utp,LocName,0,기저드
@@ -3317,7 +3317,7 @@ q_plc_grindwheel,utp,LocName,0,밀링 휠
 q_plc_grindwheel,utp,Description,0,이 밀링 바퀴의 돌은 수년간 사용된 바와 함께 어져 있습니다.
 q_plc_harp001,utp,LocName,0,하프
 q_plc_harp001,utp,Description,0,훌륭한 해프나 선조적으로 조율되어 연주할 준비가 된 상태입니다.
-q_plc_haybloc001,utp,LocName,0,하이 러브레지니
+q_plc_haybloc001,utp,LocName,0,건초 더미
 q_plc_haybloc001,utp,Description,0,잔디 냄새가 신선하고 달콤합니다. 어떤 농부의 노동의 산물입니다.
 q_plc_haystack,utp,LocName,0,하이스타크
 q_plc_haystack,utp,Description,0,잔디 냄새가 신선하고 달콤합니다. 어떤 농부의 노동의 산물입니다.
@@ -3337,7 +3337,7 @@ q_plc_mktstnd002,utp,LocName,0,시장 장터 - 비어 있음
 q_plc_mktstnd002,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_mktstnd003,utp,LocName,0,시장 상점
 q_plc_mktstnd003,utp,Description,0,이 물체는 특별한 것이 없습니다.
-q_plc_mktstnd004,utp,LocName,0,시장대수 - 파란 천막
+q_plc_mktstnd004,utp,LocName,0,시장 가판대 - 파란 천막
 q_plc_mktstnd004,utp,Description,0,이 물체는 특별한 것이 없습니다.
 q_plc_mktstnd005,utp,LocName,0,마켓 스탠 - 물고기상인
 q_plc_mktstnd005,utp,Description,0,이 물체는 특별한 것이 없습니다.
@@ -3375,11 +3375,11 @@ q_plc_sign001,utp,LocName,0,게시판
 q_plc_sign001,utp,Description,0,이 게시판에 여러 통보가 붙여져 있습니다.
 q_plc_table001,utp,LocName,0,탁자 - 좋고 거구
 q_plc_tools001,utp,LocName,0,걸려 있는 대장장이 집게
-q_plc_tools001,utp,Description,0,다양한 용공의 풍차
-q_plc_tools002,utp,LocName,0,대장장이의 휘자
+q_plc_tools001,utp,Description,0,다양한 대장장이 집게.
+q_plc_tools002,utp,LocName,0,매달린 대장장이 집게
 q_plc_tools002,utp,Description,0,금속을 잡고 형성하는 데 유용 한 여러 가지 도자
 q_plc_tools003,utp,LocName,0,슬레이드 해머
-q_plc_tools003,utp,Description,0,무거운 도끼채
+q_plc_tools003,utp,Description,0,무거운 대형 망치.
 q_plc_uvula,utp,LocName,0,유볼라
 q_plc_wagon001,utp,LocName,0,맥주 마차
 q_plc_wagon001,utp,Description,0,거대한 나무통이 낡은 카트에 의해 높이 들려져 있습니다.
@@ -3407,8 +3407,8 @@ wmi_outerc,utp,LocName,0,외부 코르망토르
 wmi_pin,utp,LocName,0,지도 마크
 wmi_shadowdale,utp,LocName,0,샤도우데일 타운
 wmi_southernf,utp,LocName,0,남부 농지
-wmi_theolds,utp,LocName,0,구스카이
-wmi_twistedt,utp,LocName,0,곡운 탑
+wmi_theolds,utp,LocName,0,올드 스컬
+wmi_twistedt,utp,LocName,0,뒤틀린 탑
 wmi_worldmap,utp,LocName,0,wmi_worldmap
 x0_fencerural3,utp,LocName,0,시골 울타리
 x0_fenceruralgt2,utp,LocName,0,시골 울타리 문 - 동작 가능

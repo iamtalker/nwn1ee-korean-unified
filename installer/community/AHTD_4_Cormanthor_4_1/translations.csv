@@ -22,7 +22,7 @@ foresttrail,are,Name,0,숲 오솔길
 forrest,are,Name,0,숲
 greathall,are,Name,0,대형 홀
 greathall2,are,Name,0,대형 홀
-largemanor,are,Name,0,거구의 저택
+largemanor,are,Name,0,대저택
 maintowerbasemen,are,Name,0,주요 탑 지하실
 maintowerfirs001,are,Name,0,주요 탑 1층
 maintowerfirstfl,are,Name,0,주탑 2층
@@ -63,7 +63,7 @@ alkranal_1,dlg,ReplyList/12/Text,0,"""칼루리스는 첫 야영지에서 옮겨
 alkranal_1,dlg,ReplyList/13/Text,0,"""리젠의 죽음과 나는 아무 관련 없어. 그를 죽인 건 스비르프네블린들이야. 너도 알고 있잖아."""
 alkranal_2,dlg,EntryList/0/Text,0,"""내가 다음 층으로 따라오라고 말하지 않았나?"""
 alkranal_2,dlg,EntryList/1/Text,0,"""그냥 말해줘... FOLLOW라는 단어가 어려웠는지, NEXT FLOOR라는 단어가 어려웠는지...?"""
-alkranal_2,dlg,EntryList/2/Text,0,"<StartAction>[위험적으로 조용]</Start>#""당신에게 완벽하게 명확하게 하기 위해..."""
+alkranal_2,dlg,EntryList/2/Text,0,"<StartAction>[위험할 정도로 차분하게]</Start> ""너한테 아주 확실히 말해주자면..."""
 alkranal_2,dlg,EntryList/3/Text,0,"""당신이 좋아하든 싫든 관계없다. 지금 나는 지휘권을 가지고 있으며, 당신은 내 명령을 따를 것이다! 이해했나?"""
 alkranal_2,dlg,EntryList/5/Text,0,"""사령관 알크라날님, 여쭤보겠습니다..."""
 alkranal_2,dlg,EntryList/6/Text,0,"""무슨 일이야? 아니면 내가 바쁜 걸 못 보는 거야?"""
@@ -144,7 +144,7 @@ drow_6,dlg,EntryList/0/Text,0,이 식물들은 멋지다.
 drow_7,dlg,EntryList/0/Text,0,"""이 지역은 버려진 것 같다."""
 drow_8,dlg,EntryList/0/Text,0,"""나는 이것에 대해 나쁜 느낌을 가지고 있습니다""."
 drowsearch,dlg,EntryList/0/Text,0,"""사령관 <FirstName>. 이 정착지의 모든 표면 거주자들을 처리하라는 명령이 있습니다. 여기서 어떤 사람들을 보셨나요?"""
-drowsearch,dlg,EntryList/1/Text,0,"""허마, 괜찮다면 둘러보겠습니다."""
+drowsearch,dlg,EntryList/1/Text,0,흠. 괜찮으시다면 주변을 좀 둘러보겠습니다.
 drowsearch,dlg,EntryList/2/Text,0,피위비엔은 모든 것을 신중히 확인하라고 말했다.
 drowsearch,dlg,EntryList/3/Text,0,"""명령은 명령이고 피위비엔은 실패를 용납하지 않는다."""
 drowsearch,dlg,EntryList/4/Text,0,"""네, 맞습니다. 가자."""
@@ -159,7 +159,7 @@ druid_1,dlg,EntryList/2/Text,0,"""당신은 돌아왔군요. 미엘리키의 자
 druid_1,dlg,EntryList/3/Text,0,"""그건 오래 전에 사라졌어. 엘프들이 데려갔어. 잊어버리고, 당신의 손이 닿지 않는 거야."""
 druid_1,dlg,EntryList/4/Text,0,"""축하합니다. 자신을 바쳐 미엘리키스의 아이들을 지키는 용기의 시험을 통과했습니다."""
 druid_1,dlg,EntryList/5/Text,0,"""이제 숲의 여신께 기도하고 그녀의 축복을 받으십시오."""
-druid_1,dlg,EntryList/6/Text,0,"""우림의 여여, 귀를 기울여 주시고, 이 충성스러운 종을 인식하시고, <he/she>가 마땅히 받을 복을 베풀어 주십시오."""
+druid_1,dlg,EntryList/6/Text,0,"""들으소서, 숲의 여신이여. 이 충실한 종을 알아보시고 <he/she>에게 마땅히 받아야 할 축복을 내려주소서."""
 druid_1,dlg,EntryList/7/Text,0,"""너도 더 잘할 수 있었어. 한 마리를만 살아남게 해버렸어."""
 druid_1,dlg,EntryList/8/Text,0,"""미엘리키는 당신의 드로우 능력, 주문 저항을 부여하고, 더 나아가 모든 언어를 이해할 수 있으며 햇빛으로부터 보호받을 수 있습니다."""
 druid_1,dlg,EntryList/9/Text,0,"""매우 좋습니다. 대부분의 사슴들이 살아남았습니다."""
@@ -173,7 +173,7 @@ druid_1,dlg,EntryList/16/Text,0,"""그리고 마지막으로 하루 한 번 그�
 druid_1,dlg,EntryList/17/Text,0,"""다시 돌아왔군. 미엘리키의 테스트를 다시 하고 싶니?"""
 druid_1,dlg,EntryList/18/Text,0,"""너는 돌아왔다. 숲의 여신의 길을 따르고 싶으신가?"""
 druid_1,dlg,EntryList/19/Text,0,"""그건 오래전에 사라졌어. 엘프들이 가져갔어. 잊어라. 너의 손에서 벗어난 것이야. 다른 것이 있니?"""
-druid_1,dlg,EntryList/20/Text,0,"<StartAction>[놀라움]</Start> ""정말로 교종을 하고 싶으신가요?"""
+druid_1,dlg,EntryList/20/Text,0,"<StartAction>[놀란 표정으로]</Start> ""정말로 개종하시겠습니까?"""
 druid_1,dlg,EntryList/21/Text,0,"""이런 성스러운 물건에 장난을 치지 마라. 내 눈에서 빠져나가."""
 druid_1,dlg,EntryList/22/Text,0,"""우림의 성모께서 우리에게 평화와 자연이 제공할 수 있는 모든 부를 주시옵소서."""
 druid_1,dlg,EntryList/23/Text,0,"""드로우의 삶을 비난하지 않지만, 금과 다른 사람들을 통제하는 권력은 시간의 바람에 불과한 먼지일 뿐이다."""
@@ -231,7 +231,7 @@ druid_1,dlg,EntryList/72/Text,0,"""당신의 뜻대로 하겠습니다. 내 좋�
 druid_1,dlg,EntryList/73/Text,0,"""당신의 사회를 한번 살펴보면, 내 말이 진실임을 보게 될 것이다!"""
 druid_1,dlg,EntryList/74/Text,0,"""오, 고령들의 신화 돌. 당신은 너무 늦었어, 그들은 수백 년 전에 떠나자마자 그 돌을 가지고 갔어""."
 druid_1,dlg,EntryList/75/Text,0,"""당신은 드로우가이므로, 이런 것에 익숙해져야 합니다."""
-druid_1,dlg,EntryList/76/Text,0,"""아무도 모르겠어. 내가 태어나기 몇 년 전에 이미 사라진 거야. 아마 그들은 언젠가 돌아올지도 몰라."""
+druid_1,dlg,EntryList/76/Text,0,"""아무도 몰라. 내가 태어났을 때 이미 오래전에 떠났지. 어쩌면 언젠가 돌아올지도 모르지."""
 druid_1,dlg,EntryList/77/Text,0,"""언더다크는 강력한 마법과 유물로 가득 차 있습니다. 어떤 유물이 그것일까요?"""
 druid_1,dlg,EntryList/78/Text,0,"""나는 당신 안에 있는 악을 느낄 수 있어. 당신은 나를 속일 수 없다."""
 druid_1,dlg,EntryList/79/Text,0,"넌 롤스의 자식이야, 너의 사악한 여신이 여기 힘이 없어"
@@ -246,7 +246,7 @@ druid_1,dlg,EntryList/87/Text,0,"""네. 당신의 종족은 파괴적입니다. 
 druid_1,dlg,EntryList/88/Text,0,미엘리키는 서로를 존중하고 우리 주변의 모든 동물과 자연과 함께 살아가는 법을 가르쳐줍니다.
 druid_1,dlg,EntryList/89/Text,0,"""우리의 삶은 아름답고 평화롭습니다. 숲은 우리를 길러주고 보호하며, 동물들은 우리의 이웃입니다."""
 druid_1,dlg,EntryList/90/Text,0,"""이건 맞습니다. 하지만 왜 누군가 이렇게 큰 대도시를 짓는지 모르겠습니다. 왜 작은 마을에 살지 않는지. 주민들은 서로를 잘 알고 서로를 도와줍니다."""
-druid_1,dlg,EntryList/91/Text,0,"""표면세계조차도 괴물, 강도, 권력욕 있는 통치자 등 악의 위협을 알고 있다. 우리 보호는 우리 둘러싼 숲이다. 그러나 평화와 균형을 믿는 것은 어리석지 않다. 미엘리키는 무기와 갑옷 훈련도 장려한다."""
+druid_1,dlg,EntryList/91/Text,0,"표면 세계조차도 괴물, 산적, 권력욕에 사로잡힌 통치자들 같은 사악한 위협들을 알고 있다. 우리를 지켜주는 것은 우리를 둘러싼 숲이다. 하지만 그렇다고 해서 평화와 균형을 믿는 것이 어리석다는 뜻은 아니다. 미엘리키는 무기와 갑옷 훈련 또한 장려하신다."
 druid_1,dlg,EntryList/92/Text,0,"""가보시오, 그러나 경고를 드린다. 이 숲에서 폭력을 용납하지 않으리라."""
 druid_1,dlg,EntryList/93/Text,0,"너가 인내심을 보여주고 예의를 지키고 있으니, 나는 매우 인상받았어. 무엇을 알고 싶은지 물어보거라."
 druid_1,dlg,EntryList/94/Text,0,미엘리키는 자녀들에게 치료와 도움을 줄 수 있는 모든 방법을 제공한다. 대량 파괴를 위한 강력한 마법은 필요하지 않다.
@@ -278,7 +278,7 @@ druid_1,dlg,ReplyList/39/Text,0,"""아니요, 진실과 균형의 길에 대해 
 druid_1,dlg,ReplyList/40/Text,0,"""균형?"""
 druid_1,dlg,ReplyList/43/Text,0,"""이것으로 충분히 알 수 있었습니다. 시험을 시작합시다."""
 druid_1,dlg,ReplyList/44/Text,0,"""네, 그래요""."
-druid_1,dlg,ReplyList/45/Text,0,"""나를 희생하여 사슴을 구한다. 미엘리키는 필요한 음식을 주리라."""
+druid_1,dlg,ReplyList/45/Text,0,"""사슴을 위해 나 자신을 희생하노라. 미엘리키께서 분명 내게 필요한 음식을 주실 것이다."""
 druid_1,dlg,ReplyList/46/Text,0,"""나는 사슴과 이야기하고, 우리는 겨울을 넘기 위한 좋은 해결책을 찾을 수 있을지도 모릅니다."""
 druid_1,dlg,ReplyList/47/Text,0,"""나는 우리 들 을 둘러싸고 울타리를 짓고 겨울 에 먹을 것 이 더 많을 곳을 찾으려고 노력 한다""."
 druid_1,dlg,ReplyList/49/Text,0,"""아마 그럴 거야. 포식자가 먹이를 주면 평화로워질 수 있을지도 모른다."""
@@ -382,7 +382,7 @@ iounstone_lavend,dlg,ReplyList/28/Text,0,3 레벨의 마법
 iounstone_lavend,dlg,ReplyList/29/Text,0,2 레벨의 마법
 iounstone_lavend,dlg,ReplyList/30/Text,0,1 주문 레벨
 iounstone_purple,dlg,EntryList/0/Text,0,뭘 하고 싶니?
-iounstone_purple,dlg,EntryList/1/Text,0,어떤 마법을 사용하시겠습니까?
+iounstone_purple,dlg,EntryList/1/Text,0,어떤 주문을 발동하시겠습니까?
 iounstone_purple,dlg,EntryList/2/Text,0,"이온 스톤은 당신을 떠나고, 이온 스톤에 마법을 던져야 합니다."
 iounstone_purple,dlg,EntryList/3/Text,0,파란색 유동 프리즘 이온 스톤에 보관되길 원하는 마법을 던지십시오.
 iounstone_purple,dlg,ReplyList/0/Text,0,돌을 가만히 두라
@@ -442,7 +442,7 @@ llomir_2,dlg,ReplyList/5/Text,0,"""평화란 환상일 뿐이야. 이 바닥의 
 llomir_2,dlg,ReplyList/6/Text,0,"""희망은 마지막에 사라지지 않는다."""
 llomir_2,dlg,ReplyList/7/Text,0,"""알 수 없지만, 그래도 시도해볼게."""
 llomir_2,dlg,ReplyList/8/Text,0,"""당신이 원하는 대로 해, 하지만 내 길을 방해하지 마, 라로미르."""
-llomir_2,dlg,ReplyList/9/Text,0,"""그거 볼게, 르로미르. 우리가 봐야지..."""
+llomir_2,dlg,ReplyList/9/Text,0,"""고작 그 정도겠지, 르로미르. 어디 두고 보자고..."""
 llomir_2,dlg,ReplyList/10/Text,0,"""항상 혼자 있지 않다는 건 좋다, 라로미르."""
 llomir_2,dlg,ReplyList/11/Text,0,"""이 감성적인 헛소리들을 내게 구해 주시오. 오직 강인만이 살아남을 수 있습니다."
 llomir_2,dlg,ReplyList/12/Text,0,"""다른 대안은 필요 없다. 나는 강하며 거미 여신님의 은총을 받고 있지. 징징대지 말고 시키는 대로 해라. 그렇지 않으면 불경죄로 네 목을 베어 버릴 테니."""
@@ -491,7 +491,7 @@ llomir_4,dlg,ReplyList/9/Text,0,"""이 지역을 더 이상 탐색하지 마라.
 llomir_4,dlg,ReplyList/10/Text,0,"좋아, 이제 가자."
 llomir_4,dlg,ReplyList/11/Text,0,"""이 지역을 도와서 찾는 데 도와주십시오."""
 llomir_4,dlg,ReplyList/12/Text,0,"좋아, 이제 가자."
-llomir_4,dlg,ReplyList/13/Text,0,"""문과 상자를 열지 못하면 도와줄래?"""
+llomir_4,dlg,ReplyList/13/Text,0,"""문이나 상자를 여는 데 실패해도 날 돕지 마라."""
 llomir_4,dlg,ReplyList/14/Text,0,"좋아, 이제 가자."
 llomir_4,dlg,ReplyList/15/Text,0,"""내가 실패하면 잠긴 문과 상자를 열어주도록 도와줘."""
 llomir_4,dlg,ReplyList/16/Text,0,"좋아, 이제 가자."
@@ -529,7 +529,7 @@ llomir_5,dlg,EntryList/9/Text,0,"""네가 원하는 대로 할 것이다."""
 llomir_5,dlg,EntryList/10/Text,0,"""네가 원하는 대로 할 것이다."""
 llomir_5,dlg,EntryList/11/Text,0,"""네가 원하는 대로 할 것이다."""
 llomir_5,dlg,EntryList/12/Text,0,"""네가 원하는 대로 할 것이다."""
-llomir_5,dlg,EntryList/13/Text,0,"""빛이 눈을 찌르고, 너무 밝아 눈이 시리다. 눈을 콧수염으로 가리키려 해도 여전히 제대로 볼 수 없다. 당신은 어때?"""
+llomir_5,dlg,EntryList/13/Text,0,"""빛이 눈을 찔러. 눈이 멀 정도로 밝아. 후드로 눈을 가리면 괜찮아질지도 모르겠지만, 그마저도 제대로 보기가 힘들군. 당신은 어때?"""
 llomir_5,dlg,EntryList/14/Text,0,"""나는 쉽게 속이지 않지만, 그는 독사처럼 위험하다."""
 llomir_5,dlg,EntryList/15/Text,0,"""나는 그가 우리를 두려워한다고 생각합니다. Thriandir의 결정에 따라 우리가 그의 군대에 합류하도록 동의하지 않는 것 같습니다."""
 llomir_5,dlg,EntryList/16/Text,0,"""트리안디르는 오늘 많은 병사들을 잃었습니다. 피위비엔의 병에서 일부를 얻은 것 같네요... 만약 제가 말씀드리는 것이 무엇인지 아시다면."""
@@ -564,7 +564,7 @@ llomir_5,dlg,ReplyList/6/Text,0,"""이 지역을 더 이상 탐색하지 마라.
 llomir_5,dlg,ReplyList/7/Text,0,"좋아, 이제 가자."
 llomir_5,dlg,ReplyList/8/Text,0,"""이 지역을 도와서 찾는 데 도와주십시오."""
 llomir_5,dlg,ReplyList/9/Text,0,"좋아, 이제 가자."
-llomir_5,dlg,ReplyList/10/Text,0,"""문과 상자를 열지 못하면 도와줄래?"""
+llomir_5,dlg,ReplyList/10/Text,0,"""문이나 상자를 여는 데 실패해도 날 돕지 마라."""
 llomir_5,dlg,ReplyList/11/Text,0,"좋아, 이제 가자."
 llomir_5,dlg,ReplyList/12/Text,0,"""내가 실패하면 잠긴 문과 상자를 열어주도록 도와줘."""
 llomir_5,dlg,ReplyList/13/Text,0,"좋아, 이제 가자."
@@ -609,7 +609,7 @@ llomir_5,dlg,ReplyList/55/Text,0,"""정확합니다. 그들은 우리의 모든 
 lolth_1,dlg,EntryList/0/Text,0,"표면으로의 통로는 다시 우리의 것이 되었습니다. 아들아, 나는 기뻐합니다."
 lolth_1,dlg,EntryList/1/Text,0,"<StartAction>[가열됨]</Start> 난 당신의 거만함을 좋아하지 않아, 드로우. 당신은 더 큰 힘과 마주할 때 더 겸손한 모습을 보여주는 것이 현명할 것이다!"
 lolth_1,dlg,EntryList/2/Text,0,이게 훨씬 좋아.
-lolth_1,dlg,EntryList/4/Text,0,"다른 사람들은 실망시켜도, 당신에서는 즐거움을 찾습니다."
+lolth_1,dlg,EntryList/4/Text,0,다른 이들은 모두 실망스러웠지만 당신에게서는 즐거움을 찾게 되는군요.
 lolth_1,dlg,EntryList/5/Text,0,"피위비엔의 겁쟁이와 어리석은 짓은 그만두고 더 큰 마법을 주지 않기로 했으며, 분노의 징표를 주려고 했다."
 lolth_1,dlg,EntryList/6/Text,0,하지만 다른 사람들이 실패했을 때 성공했어.
 lolth_1,dlg,EntryList/7/Text,0,"당신은 자신의 탐구가 끝났다고 생각할지도 모릅니다만, 그것은 단지 시작일 뿐입니다."
@@ -627,7 +627,7 @@ lolth_1,dlg,EntryList/18/Text,0,이제 내 눈에서 멀리 가서 임무를 수
 lolth_1,dlg,EntryList/19/Text,0,"아주 잘, 아주 잘, 제발, 이제 다시 롤스의 축복을 받으세요"
 lolth_1,dlg,EntryList/20/Text,0,"당신은 언더다크를 떠나고 지표면의 잔인한 태양으로부터 보호를 잃게 되지만, 걱정하지 마라. 내 무한한 힘으로 인해 당신을 보호할 것이며, 당신의 모든 마법도 잘 작동할 것이다."
 lolth_1,dlg,EntryList/21/Text,0,"또 한 번 더 특별한 은혜를 베풀어 드리겠습니다. 당신은 제 반려동물 중 하나, 거대한 거미를 하루에 한 번 불러내어 악한 표면 거주자들을 상대하는 데 도움을 받을 수 있습니다."
-lolth_1,dlg,ReplyList/0/Text,0,정답입니다. 저는 자신의 기준마저도 뛰어넘은 것이라 인정해야 합니다.
+lolth_1,dlg,ReplyList/0/Text,0,"인정하건대, 내 기준을 스스로 뛰어넘기까지 했지."
 lolth_1,dlg,ReplyList/1/Text,0,"미안합니다, 거미의 여왕님."
 lolth_1,dlg,ReplyList/2/Text,0,<StartAction>[마지못해]</Start> 제 숭배를 받도록 제게 무슨 짓을 한 것입니까?
 lolth_1,dlg,ReplyList/4/Text,0,"우리는 거의 당신의 호의를 잃은 것 같았습니다, 거미의 위대한 여왕님."
@@ -638,7 +638,7 @@ lolth_1,dlg,ReplyList/8/Text,0,이제 다시 멘조베란잔으로 돌아가지 
 lolth_1,dlg,ReplyList/9/Text,0,이 유물은 무엇이죠?
 lolth_1,dlg,ReplyList/10/Text,0,"미안합니다, 신성여님."
 lolth_1,dlg,ReplyList/11/Text,0,<StartAction>[기도하기를 거부한다]</Start> 나는 누구에게도 무릎을 꿇지 않아!
-lolth_1,dlg,ReplyList/13/Text,0,"<StartAction>[기도하는 척]</Start> Lolth, 모든 거미의 여왕여호, 당신의 눈을 내게 두르고 나의 호의를 나타내어 주시오."
+lolth_1,dlg,ReplyList/13/Text,0,"<StartAction>[기도하는 척 함]</Start> 모든 것을 보는 거미들의 여왕 롤스여, 저를 굽어살피시고 은총의 징표를 내려주소서."
 lolth_1,dlg,ReplyList/25/Text,0,"내 여신님, 제 최선을 다했습니다."
 lomildur_1,dlg,EntryList/0/Text,0,"""아, 우리 그룹에 새로운 얼굴이 생겼네. 피위비엔의 그룹에 있었나?"""
 lomildur_1,dlg,EntryList/1/Text,0,"""하하, 확실히 그러할 거야. 롤스의 신자들은 항상 나쁜 운명을 맞이한다."""
@@ -733,7 +733,7 @@ piwiewien_1,dlg,ReplyList/9/Text,0,"""나는 북쪽에서 작은 정착지를 �
 piwiewien_1,dlg,ReplyList/10/Text,0,"""그들은 우리 존재를 전혀 모르고 있습니다."""
 piwiewien_1,dlg,ReplyList/12/Text,0,"""저는 경보를 받았던 것 같아요. 저는 표면 주민들이 마을로 달려가는 것을 보았습니다."""
 piwiewien_1,dlg,ReplyList/13/Text,0,"""내가 여전히 당신의 명령을 수행하는 유일한 이유는 그것들이 지금 내 자신의 목표에 맞추어져 있기 때문입니다."""
-piwiewien_1,dlg,ReplyList/14/Text,0,"""다른 방향으로 둘러보라. 그 군인들 중 누가 네게 도와줄 것인가? 네가 그들에게 해준 모든 일로 말이다."""
+piwiewien_1,dlg,ReplyList/14/Text,0,"""주위를 둘러봐라. 그 군인들에게 네가 무슨 짓을 했는지 생각하면, 그들 중 누가 내 칼날에 맞서 너를 도우려고 할까?"""
 piwiewien_1,dlg,ReplyList/15/Text,0,"""사업으로 돌아가 보겠습니다. 그는 엘프들이 몇 세기 전에 이 지역을 떠난 때 신화석을 가지고 갔다고 말했습니다."""
 piwiewien_1,dlg,ReplyList/16/Text,0,"""사업으로 돌아가 봅시다. 북쪽에서 작은 정착지를 찾았어요. 아마 그럴 거야, 신화 돌에 대해 알고 있을지도 모릅니다."""
 piwiewien_1,dlg,ReplyList/17/Text,0,"""이곳이 우리가 가야 할 곳인가? 무슨 일이 있었나?"""
@@ -776,7 +776,7 @@ pleading,dlg,ReplyList/7/Text,0,"""나는 당신을 믿어요. 동료들이 떠�
 sage,dlg,EntryList/0/Text,0,"""아 다크 시리즈에 오신 것을 환영합니다. 현재 게임은 4부: 코르마스터입니다."""
 sage,dlg,EntryList/1/Text,0,"""이 시리즈는 종족으로 엘프를, 하위 종족으로 드로우를 선택해야 합니다. 1장부터 시작하시기를 강력히 권합니다."""
 sage,dlg,EntryList/2/Text,0,"""미안하지만 11레벨 정도의 엘프 캐릭터가 필요해요. 준비되면 다시 오세요."""
-sage,dlg,EntryList/3/Text,0,"""이미 엘프 인종을 선택하셨군요. 4장은 레벨 11의 캐릭터가 필요합니다. 게임을 시작하시겠습니까?"""
+sage,dlg,EntryList/3/Text,0,"""이미 엘프 종족을 선택하셨군요. 4장은 대략 11레벨의 캐릭터가 필요합니다. 플레이할 준비가 되셨습니까?"""
 sage,dlg,EntryList/4/Text,0,"""그러면 끝나면 다시 오세요""."
 sage,dlg,EntryList/5/Text,0,"""나는 이제 이야기 책에서 읽기 시작할 것이다, 내 아이여. 주의 깊게 들어라, 나는 방해를 좋아하지 않는다."""
 sage,dlg,EntryList/6/Text,0,"""이것은 영생을 향해 떨어지는 것 같아. 돌연 멈추기 전까지 회전하고 있어."""
@@ -805,10 +805,10 @@ sl5_nooble,dlg,EntryList/6/Text,0,"아니, 멋지네, 무서운거네"
 sl5_nooble,dlg,EntryList/7/Text,0,우리가 직면한 도전은 정직으로 맞서야 한다. 나는 그 외에 다른 조언을 드릴 수 없다.
 sl5_nooble,dlg,EntryList/8/Text,0,당신과 라탄더 대왕께는 신뢰를 가지고 있습니다. 아무런 도전도 우리가 견딜 수 없는 것이 없을 것입니다.
 sl5_nooble,dlg,EntryList/9/Text,0,우리는 어떤 상황에서도 최악의 상황을 찾으려고 노력해야 합니다.
-sl5_nooble,dlg,EntryList/10/Text,0,그럼 우리가 만나는 사람들을 악몽으로 만들어 보려고 해.
-sl5_nooble,dlg,EntryList/11/Text,0,충분히
+sl5_nooble,dlg,EntryList/10/Text,0,"좋아, 그럼 우리가 만나는 이들에게 악몽을 선사해 주도록 하지."
+sl5_nooble,dlg,EntryList/11/Text,0,그렇군요.
 sl5_nooble,dlg,EntryList/12/Text,0,"그러나 몇 달 전에는 팔라딘이 되는 것을 꿈꾸었는데, 지금은 그저 작은 꿈처럼만 느껴진다."
-sl5_nooble,dlg,EntryList/13/Text,0,"나는 여행이 사람을 어떤 사람으로 만들어주는 것보다, 탐험보다는 여행 자체가 더 중요하다고 생각한다. 몇 달 전의 나를 생각하면, 마치 무지한 사람 같아 보인다."
+sl5_nooble,dlg,EntryList/13/Text,0,나는 사람이 어떤 사람이 되는 것은 퀘스트 그 자체보다도 여행을 통해 이루어진다는 것을 깨달았다. 몇 달 전의 나를 떠올려보면 왠지 촌구석 풋내기 같다는 생각이 든다.
 sl5_nooble,dlg,EntryList/14/Text,0,"네, 네, 네, 네, 네, 네, 네."
 sl5_nooble,dlg,EntryList/15/Text,0,"저는 이제 자신의 모습으로 성장하고 있습니다. 어두운 분노를 마음대로 불러올 수 있게 되었습니다. 지옥의 길은 부자들로 가득 차 있으며, 저는 곧 그들을 즐기고자 합니다."
 sl5_nooble,dlg,EntryList/16/Text,0,나는 원하는 대로 계속할 거다.
@@ -818,11 +818,11 @@ sl5_nooble,dlg,EntryList/23/Text,0,숨기는 게 잘 안되지만 노력하겠�
 sl5_nooble,dlg,EntryList/24/Text,0,알았어. 이미 둘러보다가 있어.
 sl5_nooble,dlg,EntryList/25/Text,0,- 맞아요
 sl5_nooble,dlg,EntryList/29/Text,0,괜찮아요
-sl5_nooble,dlg,EntryList/31/Text,0,"매달리고 있을 거야, 그 외의 다른 것처럼."
+sl5_nooble,dlg,EntryList/31/Text,0,찰싹 달라붙어 있을게. 그리고 뭐... 그 외에 다른 것도.
 sl5_nooble,dlg,EntryList/37/Text,0,잘 됐다. 가능할 때 돌아와.
 sl5_nooble,dlg,ReplyList/0/Text,0,어떻게 지내나 노블?
 sl5_nooble,dlg,ReplyList/1/Text,0,지금은 아니죠
-sl5_nooble,dlg,ReplyList/2/Text,0,노블님과 함께 가시겠습니까?
+sl5_nooble,dlg,ReplyList/2/Text,0,"나와 함께 해주겠나, 누블?"
 sl5_nooble,dlg,ReplyList/3/Text,0,안녕하세요
 sl5_nooble,dlg,ReplyList/4/Text,0,이 곳은 어떠한가? 어떤 생각이 있나?
 sl5_nooble,dlg,ReplyList/5/Text,0,선택이 너무 어렵다면?
@@ -976,7 +976,7 @@ thriandir_4,dlg,EntryList/29/Text,0,이제 우리 자신을 소개할 때가 됐
 thriandir_4,dlg,EntryList/30/Text,0,"""이 숲의 이름이야. 내가 말하는 동안 조용히 있어, 쓰레기야!"""
 thriandir_4,dlg,EntryList/31/Text,0,"""우리 조상들은 멘조베란잔에서 전쟁에서 패했고, 언더다크로 몰려들었습니다."""
 thriandir_4,dlg,EntryList/32/Text,0,"""정확합니다. 우리 조상들은 롤스의 추종자들과의 전쟁에서 패했고, 언더다크로 몰려들었습니다."""
-thriandir_4,dlg,EntryList/33/Text,0,"""그곳에서 그들은 표면으로 나가는 포털을 발견하여, 그곳은 큰 숲으로 이어졌다."""
+thriandir_4,dlg,EntryList/33/Text,0,"""그곳에서 그들은 지상으로 이어지는 포털을 발견했고, 그곳은 이 거대한 숲 지역으로 연결되었다."""
 thriandir_4,dlg,EntryList/34/Text,0,메노베르란잔의 집들은 여전히 힘과 미친 여신 롤트의 호의를 얻기 위해 멍청한 권력 다툼을 벌이고 있습니다.
 thriandir_4,dlg,EntryList/35/Text,0,"""그러나 우리는 밤의 마스크 신인 바에라운을 믿는다."""
 thriandir_4,dlg,EntryList/36/Text,0,"""그는 우리의 익사 종족을 다시 표면에 이끌고 거미 여왕의 독재를 없애고 밤 위에서 우리의 적당한 자리를 되찾을 것이다""."
@@ -1087,7 +1087,7 @@ usestone_1,dlg,EntryList/14/Text,0,엘프 문명이 신화 드라너를 건설�
 usestone_1,dlg,EntryList/15/Text,0,"셀다린족도 자신들 중 가장 신뢰받는 아라우슈네, 코렐론 라레티안의 어두운 아름다운 배우자가 악의 신인 가우나다우르와 말라와 동맹을 맺고 아르반도르를 침략하려고 시도했다."
 usestone_1,dlg,EntryList/16/Text,0,"아라우슈네의 추종자들과 다른 셀다린의 추종자들 사이에 내전이 벌어졌으며, 결국에는 승리자가 없었다."
 usestone_1,dlg,EntryList/17/Text,0,아라우슈네와 그녀의 두 자녀인 바에라운과 이일스트라이 (Vhaeraun and Eilistraee) 는 그들의 추종자들을 데리고 언더더크의 깊숙한 곳으로 도망치도록 강요당했다. 그 날부터 엘프 인종은 갈라진다.
-usestone_1,dlg,ReplyList/1/Text,0,<StartAction>[학습]</Start> 루니스를 해독해보세요.
+usestone_1,dlg,ReplyList/1/Text,0,<StartAction>[지식]</Start> 룬 문자를 해독해 보십시오.
 usestone_2,dlg,EntryList/0/Text,0,이 큰 기둥은 이상한 룬으로 덮여 있습니다.
 usestone_2,dlg,EntryList/1/Text,0,여기서 아무것도 읽을 수 없습니다.
 usestone_2,dlg,EntryList/2/Text,0,"방문자여, 아침그늘의 대사제이자 현자 길렌딜의 무덤 앞에 선 채 내 말을 들으라."
@@ -1102,7 +1102,7 @@ usestone_2,dlg,EntryList/10/Text,0,많은 영웅이 엘프들의 구원 요청�
 usestone_2,dlg,EntryList/11/Text,0,"전쟁이 끝나자 미스 드란은 함락되었고, 빛의 세력은 흩어져 패배했다."
 usestone_2,dlg,EntryList/12/Text,0,"이 때 길렌델은 몇몇의 거주처를 잃은 엘프들을 책임지며, 깊은 코르만토의 내부로 그들을 새 집으로 이끌었다."
 usestone_2,dlg,EntryList/13/Text,0,"그들은 언덕 꼭대기에 더 겸손한 정착촌을 세우고, 그것을 '실 다노'라는 새 집으로 불렀다."
-usestone_2,dlg,ReplyList/1/Text,0,<StartAction>[학습]</Start> 루니스를 해독해보세요.
+usestone_2,dlg,ReplyList/1/Text,0,<StartAction>[지식]</Start> 룬 문자를 해독해 보십시오.
 usestone_3,dlg,EntryList/0/Text,0,이 큰 기둥은 이상한 룬으로 덮여 있습니다.
 usestone_3,dlg,EntryList/1/Text,0,여기서 아무것도 읽을 수 없습니다.
 usestone_3,dlg,EntryList/2/Text,0,많은 겨울이 오고 갔지만 외딴 곳에서도 새로운 위협이 발생했습니다.
@@ -1117,29 +1117,29 @@ usestone_3,dlg,EntryList/10/Text,0,그리고 다시 한 번 길렌딜은 그의 
 usestone_3,dlg,EntryList/11/Text,0,인간들은 깊은 숲으로 들어갔습니다.
 usestone_3,dlg,EntryList/12/Text,0,그리고 다시 길렌딜은 그들을 주변 환경과 조화롭게 살아가도록 설득했다.
 usestone_3,dlg,EntryList/13/Text,0,세기가 지나갔고 그 모든 시대는 황금하고 평화로운 시기였습니다.
-usestone_3,dlg,ReplyList/1/Text,0,<StartAction>[학습]</Start> 루니스를 해독해보세요.
+usestone_3,dlg,ReplyList/1/Text,0,<StartAction>[지식]</Start> 룬 문자를 해독해 보십시오.
 usestone_4,dlg,EntryList/0/Text,0,이 큰 기둥은 이상한 룬으로 덮여 있습니다.
 usestone_4,dlg,EntryList/1/Text,0,여기서 아무것도 읽을 수 없습니다.
 usestone_4,dlg,EntryList/2/Text,0,400여 겨울이 지나서 이리티리호가 새로운 공격을 시작하였다.
 usestone_4,dlg,EntryList/3/Text,0,이번에는 실 다논에 대한 공격에 대한 공격이 시작되는 숫자를 가지고 왔습니다.
 usestone_4,dlg,EntryList/4/Text,0,곧 그 공격은 표면에 포위소를 설치하기 위한 것이란 것이 분명해졌습니다.
-usestone_4,dlg,EntryList/5/Text,0,Gilendil은 이것을 절대 허용하지 않을 것이었습니다.
+usestone_4,dlg,EntryList/5/Text,0,이것만큼은 길렌딜이 절대 허락하지 않을 일이었다.
 usestone_4,dlg,EntryList/6/Text,0,하지만 그들이 죽인 모든 암흑 엘프를 죽이면 두 배 더 많은 암흑 엘프가 다시 공격해 온다.
 usestone_4,dlg,EntryList/7/Text,0,"그런 확률에도 불구하고, 실 다노미는 혼자서는 안 돼"
 usestone_4,dlg,EntryList/8/Text,0,400여 겨울이 지나서 이리티리호가 새로운 공격을 시작하였다.
 usestone_4,dlg,EntryList/9/Text,0,이번에는 실 다논에 대한 공격에 대한 공격이 시작되는 숫자를 가지고 왔습니다.
 usestone_4,dlg,EntryList/10/Text,0,곧 그 공격은 표면에 포위소를 설치하기 위한 것이란 것이 분명해졌습니다.
-usestone_4,dlg,EntryList/11/Text,0,Gilendil은 이것을 절대 허용하지 않을 것이었습니다.
+usestone_4,dlg,EntryList/11/Text,0,이것만큼은 길렌딜이 절대 허락하지 않을 일이었다.
 usestone_4,dlg,EntryList/12/Text,0,하지만 그들이 죽인 모든 암흑 엘프를 죽이면 두 배 더 많은 암흑 엘프가 다시 공격해 온다.
 usestone_4,dlg,EntryList/13/Text,0,"그런 확률에도 불구하고, 실 다노미는 혼자서는 안 돼"
-usestone_4,dlg,ReplyList/1/Text,0,<StartAction>[학습]</Start> 루니스를 해독해보세요.
+usestone_4,dlg,ReplyList/1/Text,0,<StartAction>[지식]</Start> 룬 문자를 해독해 보십시오.
 usestone_5,dlg,EntryList/0/Text,0,이 큰 기둥은 이상한 룬으로 덮여 있습니다.
 usestone_5,dlg,EntryList/1/Text,0,여기서 아무것도 읽을 수 없습니다.
 usestone_5,dlg,EntryList/2/Text,0,그리고 다시 지혜로운 늙은 기렌델이 그의 백성들을 위해 도움을 찾았습니다.
 usestone_5,dlg,EntryList/3/Text,0,"지혜로운 사람은 언더다크의 스비르프네블린, 언더마운틴의 드워프들과 평야의 인간들 사이에서 친구를 찾았다."
 usestone_5,dlg,EntryList/4/Text,0,빛의 동맹은 함께 방어선을 구축하고 이리티리족을 물리쳤다.
 usestone_5,dlg,EntryList/5/Text,0,이 승리에 있어서 모든 종족은 자신의 역할을 했다.
-usestone_5,dlg,EntryList/6/Text,0,스비르프네블린은 언더다크의 깊숙한 곳에 요새를 세워 표면으로 이어지는 길을 보호하기 위해 그곳에 마련했다.
+usestone_5,dlg,EntryList/6/Text,0,스비르프네블린은 지상으로 이어지는 길을 보호하기 위해 언더다크 깊은 곳에 요새를 건설했다.
 usestone_5,dlg,EntryList/7/Text,0,왜자들은 표면으로의 출구를 보호하기 위해 미로를 만들었습니다.
 usestone_5,dlg,EntryList/8/Text,0,"인류는 어둠과 빛 속에서 이리티리족과 싸웠고, 표면으로 나가는 출구를 보호하기 위해 여러 정착지를 세웠다."
 usestone_5,dlg,EntryList/9/Text,0,"그리고 길렌델과 그의 남자들은 그들의 모든 노력을와 힘을 사용하여 위대한 힘을 가진 유물을 만들었으며, 이는 신화라 불리는 것을 통해 동맹자들을 이리티리의 모든 악마법으로부터 보호하기 위해 사용되었다."
@@ -1147,11 +1147,11 @@ usestone_5,dlg,EntryList/10/Text,0,그리고 다시 지혜로운 늙은 기렌�
 usestone_5,dlg,EntryList/11/Text,0,"지혜로운 사람은 언더다크의 스비르프네블린, 언더마운틴의 드워프들과 평야의 인간들 사이에서 친구를 찾았다."
 usestone_5,dlg,EntryList/12/Text,0,빛의 동맹은 함께 방어선을 구축하고 이리티리족을 물리쳤다.
 usestone_5,dlg,EntryList/13/Text,0,이 승리에 있어서 모든 종족은 자신의 역할을 했다.
-usestone_5,dlg,EntryList/14/Text,0,스비르프네블린은 언더다크의 깊숙한 곳에 요새를 세워 표면으로 이어지는 길을 보호하기 위해 그곳에 마련했다.
+usestone_5,dlg,EntryList/14/Text,0,스비르프네블린은 지상으로 이어지는 길을 보호하기 위해 언더다크 깊은 곳에 요새를 건설했다.
 usestone_5,dlg,EntryList/15/Text,0,왜자들은 표면으로의 출구를 보호하기 위해 미로를 만들었습니다.
 usestone_5,dlg,EntryList/16/Text,0,"인류는 어둠과 빛 속에서 이리티리족과 싸웠고, 표면으로 나가는 출구를 보호하기 위해 여러 정착지를 세웠다."
 usestone_5,dlg,EntryList/17/Text,0,"그리고 길렌델과 그의 남자들은 그들의 모든 노력을와 힘을 사용하여 위대한 힘을 가진 유물을 만들었으며, 이는 신화라 불리는 것을 통해 동맹자들을 이리티리의 모든 악마법으로부터 보호하기 위해 사용되었다."
-usestone_5,dlg,ReplyList/1/Text,0,<StartAction>[학습]</Start> 루니스를 해독해보세요.
+usestone_5,dlg,ReplyList/1/Text,0,<StartAction>[지식]</Start> 룬 문자를 해독해 보십시오.
 usestone_6,dlg,EntryList/0/Text,0,이 큰 기둥은 이상한 룬으로 덮여 있습니다.
 usestone_6,dlg,EntryList/1/Text,0,여기서 아무것도 읽을 수 없습니다.
 usestone_6,dlg,EntryList/2/Text,0,하지만 마야의 창조는 길렌딜을 그의 옛 존재의 그림자로 남겼다.
@@ -1162,7 +1162,7 @@ usestone_6,dlg,EntryList/6/Text,0,하지만 마야의 창조는 길렌딜을 그
 usestone_6,dlg,EntryList/7/Text,0,그의 능력의 너무 많은 부분이 창조 과정에서 사용해야 하는 마법에 의해 소비되었습니다.
 usestone_6,dlg,EntryList/8/Text,0,그리고 그가 사라지면서 그의 사람들이 이 무덤을 만들어 그의 기억을 보존하기로 했습니다.
 usestone_6,dlg,EntryList/9/Text,0,"평화와 조화로 잠드시오, 길렌딜, 아침 그림자의 히로폰트, 지혜로운 지도자이고 지혜로운 친구이시며 조언자시다."
-usestone_6,dlg,ReplyList/1/Text,0,<StartAction>[학습]</Start> 루니스를 해독해보세요.
+usestone_6,dlg,ReplyList/1/Text,0,<StartAction>[지식]</Start> 룬 문자를 해독해 보십시오.
 westin,dlg,EntryList/0/Text,0,"""가자!"""
 westin,dlg,EntryList/1/Text,0,"""어째서 그렇게 괴물이여, 고문해대는가?"""
 westin,dlg,EntryList/2/Text,0,"""나는 늙었고 내 삶은 거의 끝나려고 한다. 도전해보라... 나는 준비되어 있다!"""
@@ -1305,7 +1305,7 @@ area,git,Placeable List/52/LocName,0,상자
 area,git,Placeable List/52/Description,0,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
 area,git,Placeable List/52/ItemList/0/LocalizedName,0,화살 +3
 area,git,Placeable List/52/ItemList/0/DescIdentified,0,"이 마법 탄약은 공격 피해에 보너스가 붙어 있지만, 특정 제작자의 특징은 없습니다."
-area,git,Placeable List/52/ItemList/1/LocalizedName,0,얼음 칼라리
+area,git,Placeable List/52/ItemList/1/LocalizedName,0,고드름 화살
 area,git,Placeable List/52/ItemList/1/DescIdentified,0,얼음 화살은 목표물을 공격할 때 차가운 추위를 방출하여 갑옷과 살도 동결시킵니다.
 area,git,Placeable List/52/ItemList/2/LocalizedName,0,화염 화살
 area,git,Placeable List/52/ItemList/2/DescIdentified,0,"불화살은 발사될 때 화염을 뿜어내며, 기름에 적신 비마법 화살과 거의 동일한 효과를 발휘합니다."
@@ -1968,7 +1968,7 @@ area003,git,Creature List/4/FirstName,0,인간 검사
 area003,git,Creature List/5/FirstName,0,인간 검사
 area003,git,Creature List/6/FirstName,0,경비병장
 area003,git,Creature List/7/FirstName,0,인간 명사수
-area003,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,번개의 번개화살
+area003,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,라이트닝 볼트
 area003,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,번개가 충돌에 번쩍이며 폭발하여 목표물에 전기적 손상을 입히게 됩니다.
 area003,git,Creature List/8/FirstName,0,인간 명사수
 area003,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,동상의 빙결화살
@@ -1980,7 +1980,7 @@ area003,git,Creature List/10/FirstName,0,인간 명사수
 area003,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,볼트 +2
 area003,git,Creature List/10/Equip_ItemList/2/DescIdentified,0,"이 마법 탄약은 공격 피해에 보너스가 붙어 있지만, 특정 제작자의 특징은 없습니다."
 area003,git,Creature List/11/FirstName,0,인간 명사수
-area003,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,관통의 관통화살
+area003,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,관통의 볼트
 area003,git,Creature List/11/Equip_ItemList/2/DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
 area003,git,SoundList/22/LocName,0,하수구 소리
 area003,git,SoundList/23/LocName,0,하수구 소리
@@ -2095,7 +2095,7 @@ castle001,git,Creature List/0/FirstName,0,드로우 병사
 castle001,git,Creature List/0/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 castle001,git,Creature List/0/ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/0/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/0/ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/0/ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/0/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/0/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 castle001,git,Creature List/0/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2119,7 +2119,7 @@ castle001,git,Creature List/1/FirstName,0,드로우 병사
 castle001,git,Creature List/1/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 castle001,git,Creature List/1/ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/1/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/1/ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/1/ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/1/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/1/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 castle001,git,Creature List/1/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2143,7 +2143,7 @@ castle001,git,Creature List/2/FirstName,0,드로우 병사
 castle001,git,Creature List/2/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 castle001,git,Creature List/2/ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/2/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/2/ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/2/ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/2/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/2/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 castle001,git,Creature List/2/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2167,7 +2167,7 @@ castle001,git,Creature List/3/FirstName,0,드로우 병사
 castle001,git,Creature List/3/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 castle001,git,Creature List/3/ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/3/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/3/ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/3/ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/3/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/3/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 castle001,git,Creature List/3/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2191,7 +2191,7 @@ castle001,git,Creature List/4/FirstName,0,드로우 병사
 castle001,git,Creature List/4/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 castle001,git,Creature List/4/ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/4/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/4/ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/4/ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/4/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/4/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 castle001,git,Creature List/4/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2215,7 +2215,7 @@ castle001,git,Creature List/5/FirstName,0,드로우 병사
 castle001,git,Creature List/5/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 castle001,git,Creature List/5/ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/5/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/5/ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/5/ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/5/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/5/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 castle001,git,Creature List/5/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2255,7 +2255,7 @@ castle001,git,Creature List/6/ItemList/7/LocalizedName,0,단검 + 1
 castle001,git,Creature List/6/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,독 화살
 castle001,git,Creature List/6/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -2279,7 +2279,7 @@ castle001,git,Creature List/7/ItemList/7/LocalizedName,0,단검 + 1
 castle001,git,Creature List/7/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,독 화살
 castle001,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -2303,7 +2303,7 @@ castle001,git,Creature List/8/ItemList/7/LocalizedName,0,단검 + 1
 castle001,git,Creature List/8/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,독 화살
 castle001,git,Creature List/8/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -2327,7 +2327,7 @@ castle001,git,Creature List/9/ItemList/7/LocalizedName,0,단검 + 1
 castle001,git,Creature List/9/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,독 화살
 castle001,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -2351,7 +2351,7 @@ castle001,git,Creature List/10/ItemList/7/LocalizedName,0,단검 + 1
 castle001,git,Creature List/10/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,독 화살
 castle001,git,Creature List/10/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -2375,7 +2375,7 @@ castle001,git,Creature List/11/ItemList/7/LocalizedName,0,단검 + 1
 castle001,git,Creature List/11/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,독 화살
 castle001,git,Creature List/11/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -2383,7 +2383,7 @@ castle001,git,Creature List/12/FirstName,0,드로우 병사
 castle001,git,Creature List/12/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 castle001,git,Creature List/12/ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/12/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/12/ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/12/ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/12/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/12/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 castle001,git,Creature List/12/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2403,7 +2403,7 @@ castle001,git,Creature List/13/FirstName,0,드로우 병사
 castle001,git,Creature List/13/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 castle001,git,Creature List/13/ItemList/0/LocalizedName,0,Drow 체인메일
 castle001,git,Creature List/13/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-castle001,git,Creature List/13/ItemList/1/LocalizedName,0,경수뇌 +1
+castle001,git,Creature List/13/ItemList/1/LocalizedName,0,경석궁 +1
 castle001,git,Creature List/13/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 castle001,git,Creature List/13/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 castle001,git,Creature List/13/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2488,9 +2488,9 @@ castle001,git,Placeable List/7/LocName,0,TN_Flower_Shamrock_A
 castle001,git,Placeable List/8/LocName,0,TN_Flower_Shamrock_A
 castle001,git,Placeable List/9/LocName,0,TN_Flower_Shamrock_A
 castle001,git,Placeable List/10/LocName,0,노포
-castle001,git,Placeable List/10/Description,0,"대포에 장착된 무거운 소총대가 긴장된 금속 선에 맞춰져 있으며, 잘 겨누면 하늘에서 용을 내리치는 힘을 가질 수 있을 것 같다는 생각이 듭니다."
+castle001,git,Placeable List/10/Description,0,발리스타의 팽팽하게 당겨진 줄에 무거운 투창이 홈을 따라 걸려 있다. 잘 조준된 한 방이라면 하늘에서 용을 떨어뜨릴 수도 있을 것 같은 위력이 느껴진다.
 castle001,git,Placeable List/11/LocName,0,노포
-castle001,git,Placeable List/11/Description,0,"대포에 장착된 무거운 소총대가 긴장된 금속 선에 맞춰져 있으며, 잘 겨누면 하늘에서 용을 내리치는 힘을 가질 수 있을 것 같다는 생각이 듭니다."
+castle001,git,Placeable List/11/Description,0,발리스타의 팽팽하게 당겨진 줄에 무거운 투창이 홈을 따라 걸려 있다. 잘 조준된 한 방이라면 하늘에서 용을 떨어뜨릴 수도 있을 것 같은 위력이 느껴진다.
 castle001,git,Placeable List/12/LocName,0,먼지 낀 지역
 castle001,git,Placeable List/12/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 castle001,git,Placeable List/13/LocName,0,먼지 낀 지역
@@ -2703,9 +2703,9 @@ castle002,git,Placeable List/7/LocName,0,TN_Flower_Shamrock_A
 castle002,git,Placeable List/8/LocName,0,TN_Flower_Shamrock_A
 castle002,git,Placeable List/9/LocName,0,TN_Flower_Shamrock_A
 castle002,git,Placeable List/10/LocName,0,노포
-castle002,git,Placeable List/10/Description,0,"대포에 장착된 무거운 소총대가 긴장된 금속 선에 맞춰져 있으며, 잘 겨누면 하늘에서 용을 내리치는 힘을 가질 수 있을 것 같다는 생각이 듭니다."
+castle002,git,Placeable List/10/Description,0,발리스타의 팽팽하게 당겨진 줄에 무거운 투창이 홈을 따라 걸려 있다. 잘 조준된 한 방이라면 하늘에서 용을 떨어뜨릴 수도 있을 것 같은 위력이 느껴진다.
 castle002,git,Placeable List/11/LocName,0,노포
-castle002,git,Placeable List/11/Description,0,"대포에 장착된 무거운 소총대가 긴장된 금속 선에 맞춰져 있으며, 잘 겨누면 하늘에서 용을 내리치는 힘을 가질 수 있을 것 같다는 생각이 듭니다."
+castle002,git,Placeable List/11/Description,0,발리스타의 팽팽하게 당겨진 줄에 무거운 투창이 홈을 따라 걸려 있다. 잘 조준된 한 방이라면 하늘에서 용을 떨어뜨릴 수도 있을 것 같은 위력이 느껴진다.
 castle002,git,Placeable List/12/LocName,0,먼지 낀 지역
 castle002,git,Placeable List/12/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 castle002,git,Placeable List/13/LocName,0,먼지 낀 지역
@@ -2925,7 +2925,7 @@ easternroad,git,Creature List/15/FirstName,0,드로우 병사
 easternroad,git,Creature List/15/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad,git,Creature List/15/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/15/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/15/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/15/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/15/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/15/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad,git,Creature List/15/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2950,7 +2950,7 @@ easternroad,git,Creature List/16/FirstName,0,드로우 병사
 easternroad,git,Creature List/16/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad,git,Creature List/16/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/16/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/16/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/16/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/16/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/16/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad,git,Creature List/16/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -2975,7 +2975,7 @@ easternroad,git,Creature List/17/FirstName,0,드로우 병사
 easternroad,git,Creature List/17/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad,git,Creature List/17/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/17/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/17/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/17/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/17/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/17/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad,git,Creature List/17/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3000,7 +3000,7 @@ easternroad,git,Creature List/18/FirstName,0,드로우 병사
 easternroad,git,Creature List/18/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad,git,Creature List/18/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/18/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/18/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/18/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/18/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/18/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad,git,Creature List/18/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3041,7 +3041,7 @@ easternroad,git,Creature List/19/ItemList/7/LocalizedName,0,단검 + 1
 easternroad,git,Creature List/19/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/19/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/19/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/19/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/19/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/19/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad,git,Creature List/19/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3110,7 +3110,7 @@ easternroad,git,Creature List/41/ItemList/7/LocalizedName,0,단검 + 1
 easternroad,git,Creature List/41/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/41/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/41/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/41/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/41/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/41/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/41/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad,git,Creature List/41/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3135,7 +3135,7 @@ easternroad,git,Creature List/42/ItemList/7/LocalizedName,0,단검 + 1
 easternroad,git,Creature List/42/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/42/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/42/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/42/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/42/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/42/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/42/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad,git,Creature List/42/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3160,7 +3160,7 @@ easternroad,git,Creature List/43/ItemList/7/LocalizedName,0,단검 + 1
 easternroad,git,Creature List/43/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/43/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/43/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/43/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/43/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/43/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/43/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad,git,Creature List/43/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3185,7 +3185,7 @@ easternroad,git,Creature List/44/ItemList/7/LocalizedName,0,단검 + 1
 easternroad,git,Creature List/44/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/44/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/44/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/44/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/44/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/44/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/44/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad,git,Creature List/44/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3210,7 +3210,7 @@ easternroad,git,Creature List/45/ItemList/7/LocalizedName,0,단검 + 1
 easternroad,git,Creature List/45/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/45/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/45/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/45/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/45/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/45/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/45/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad,git,Creature List/45/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3219,7 +3219,7 @@ easternroad,git,Creature List/46/FirstName,0,드로우 병사
 easternroad,git,Creature List/46/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad,git,Creature List/46/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad,git,Creature List/46/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad,git,Creature List/46/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad,git,Creature List/46/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad,git,Creature List/46/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad,git,Creature List/46/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad,git,Creature List/46/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3465,7 +3465,7 @@ easternroad002,git,Creature List/0/FirstName,0,드로우 병사
 easternroad002,git,Creature List/0/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad002,git,Creature List/0/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/0/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/0/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/0/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/0/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/0/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad002,git,Creature List/0/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3506,7 +3506,7 @@ easternroad002,git,Creature List/1/ItemList/7/LocalizedName,0,단검 + 1
 easternroad002,git,Creature List/1/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad002,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3531,7 +3531,7 @@ easternroad002,git,Creature List/2/ItemList/7/LocalizedName,0,단검 + 1
 easternroad002,git,Creature List/2/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad002,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3540,7 +3540,7 @@ easternroad002,git,Creature List/3/FirstName,0,드로우 병사
 easternroad002,git,Creature List/3/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad002,git,Creature List/3/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/3/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/3/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/3/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/3/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/3/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad002,git,Creature List/3/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3564,7 +3564,7 @@ easternroad002,git,Creature List/5/FirstName,0,드로우 병사
 easternroad002,git,Creature List/5/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad002,git,Creature List/5/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/5/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/5/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/5/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/5/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/5/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad002,git,Creature List/5/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3589,7 +3589,7 @@ easternroad002,git,Creature List/6/FirstName,0,드로우 병사
 easternroad002,git,Creature List/6/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad002,git,Creature List/6/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/6/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/6/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/6/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/6/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/6/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad002,git,Creature List/6/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3630,7 +3630,7 @@ easternroad002,git,Creature List/7/ItemList/7/LocalizedName,0,단검 + 1
 easternroad002,git,Creature List/7/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad002,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3655,7 +3655,7 @@ easternroad002,git,Creature List/8/ItemList/7/LocalizedName,0,단검 + 1
 easternroad002,git,Creature List/8/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad002,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3664,7 +3664,7 @@ easternroad002,git,Creature List/9/FirstName,0,드로우 병사
 easternroad002,git,Creature List/9/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 easternroad002,git,Creature List/9/ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/9/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/9/ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/9/ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/9/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/9/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 easternroad002,git,Creature List/9/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -3705,7 +3705,7 @@ easternroad002,git,Creature List/10/ItemList/7/LocalizedName,0,단검 + 1
 easternroad002,git,Creature List/10/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad002,git,Creature List/10/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -3730,7 +3730,7 @@ easternroad002,git,Creature List/11/ItemList/7/LocalizedName,0,단검 + 1
 easternroad002,git,Creature List/11/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 easternroad002,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-easternroad002,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+easternroad002,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 easternroad002,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 easternroad002,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 easternroad002,git,Creature List/11/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -4653,7 +4653,7 @@ forest001,git,Placeable List/35/LocName,0,TN_Bramble_Lrg
 forest001,git,Placeable List/36/LocName,0,TN_Bramble_Lrg
 forest001,git,Placeable List/37/LocName,0,TN_Bramble_Lrg
 forest001,git,Placeable List/38/LocName,0,TN_Bramble_Sml
-forest001,git,Placeable List/39/LocName,0,먼지 작은
+forest001,git,Placeable List/39/LocName,0,아주 작음
 forest001,git,Placeable List/39/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forest001,git,Placeable List/40/LocName,0,TN_Bramble_Lrg
 forest001,git,Placeable List/41/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -4806,7 +4806,7 @@ forest002,git,Placeable List/17/LocName,0,부시퍼렌
 forest002,git,Placeable List/17/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forest002,git,Placeable List/18/LocName,0,먼지 낀 지역
 forest002,git,Placeable List/18/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/19/LocName,0,먼지 작은
+forest002,git,Placeable List/19/LocName,0,아주 작음
 forest002,git,Placeable List/19/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forest002,git,Placeable List/20/LocName,0,고사리
 forest002,git,Placeable List/20/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
@@ -5304,17 +5304,17 @@ forest002,git,Placeable List/373/Description,0,풀 한 포기가 다른 것들�
 forest002,git,Placeable List/374/LocName,0,먼지 낀 지역
 forest002,git,Placeable List/374/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forest002,git,Placeable List/375/LocName,0,TN_Tree_Bonsai_A_Lrg
-forest002,git,Placeable List/376/LocName,0,먼지 작은
+forest002,git,Placeable List/376/LocName,0,아주 작음
 forest002,git,Placeable List/376/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/377/LocName,0,먼지 작은
+forest002,git,Placeable List/377/LocName,0,아주 작음
 forest002,git,Placeable List/377/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/378/LocName,0,먼지 작은
+forest002,git,Placeable List/378/LocName,0,아주 작음
 forest002,git,Placeable List/378/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/379/LocName,0,먼지 작은
+forest002,git,Placeable List/379/LocName,0,아주 작음
 forest002,git,Placeable List/379/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/380/LocName,0,먼지 작은
+forest002,git,Placeable List/380/LocName,0,아주 작음
 forest002,git,Placeable List/380/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/381/LocName,0,먼지 작은
+forest002,git,Placeable List/381/LocName,0,아주 작음
 forest002,git,Placeable List/381/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forest002,git,Placeable List/382/LocName,0,TN_Flower_Shamrock_A
 forest002,git,Placeable List/383/LocName,0,TN_Flower_Shamrock_B
@@ -5327,22 +5327,22 @@ forest002,git,Placeable List/387/LocName,0,TN_Tree_Oak_A_Mdm
 forest002,git,Placeable List/388/LocName,0,TN_Tree_Oak_A_Mdm
 forest002,git,Placeable List/389/LocName,0,TN_Tree_Oak_A_Mdm
 forest002,git,Placeable List/390/LocName,0,TN_Tree_Oak_A_ExLrg
-forest002,git,Placeable List/391/LocName,0,먼지 작은
+forest002,git,Placeable List/391/LocName,0,아주 작음
 forest002,git,Placeable List/391/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/392/LocName,0,먼지 작은
+forest002,git,Placeable List/392/LocName,0,아주 작음
 forest002,git,Placeable List/392/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/393/LocName,0,먼지 작은
+forest002,git,Placeable List/393/LocName,0,아주 작음
 forest002,git,Placeable List/393/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/394/LocName,0,먼지 작은
+forest002,git,Placeable List/394/LocName,0,아주 작음
 forest002,git,Placeable List/394/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forest002,git,Placeable List/395/LocName,0,TN_Flower_Shamrock_B
 forest002,git,Placeable List/396/LocName,0,TN_Flower_Shamrock_B
 forest002,git,Placeable List/397/LocName,0,TN_Flower_Shamrock_B
-forest002,git,Placeable List/398/LocName,0,먼지 작은
+forest002,git,Placeable List/398/LocName,0,아주 작음
 forest002,git,Placeable List/398/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/399/LocName,0,먼지 작은
+forest002,git,Placeable List/399/LocName,0,아주 작음
 forest002,git,Placeable List/399/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest002,git,Placeable List/400/LocName,0,먼지 작은
+forest002,git,Placeable List/400/LocName,0,아주 작음
 forest002,git,Placeable List/400/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forest002,git,Placeable List/401/LocName,0,TN_Bramble_Lrg_Unwalkable
 forest002,git,Placeable List/402/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -5650,11 +5650,11 @@ forest_day2,git,Placeable List/154/LocName,0,TN_Flower_Shamrock_A
 forest_day2,git,Placeable List/155/LocName,0,TN_Flower_Yellow
 forest_day2,git,Placeable List/156/LocName,0,더러스파일
 forest_day2,git,Placeable List/156/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest_day2,git,Placeable List/157/LocName,0,먼지 작은
+forest_day2,git,Placeable List/157/LocName,0,아주 작음
 forest_day2,git,Placeable List/157/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest_day2,git,Placeable List/158/LocName,0,먼지 작은
+forest_day2,git,Placeable List/158/LocName,0,아주 작음
 forest_day2,git,Placeable List/158/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forest_day2,git,Placeable List/159/LocName,0,먼지 작은
+forest_day2,git,Placeable List/159/LocName,0,아주 작음
 forest_day2,git,Placeable List/159/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forest_day2,git,Placeable List/160/LocName,0,TN_Flower_Shamrock_B
 forest_day2,git,Placeable List/161/LocName,0,TN_Flower_Shamrock_B
@@ -5816,7 +5816,7 @@ forestday01,git,Placeable List/17/LocName,0,부시퍼렌
 forestday01,git,Placeable List/17/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forestday01,git,Placeable List/18/LocName,0,먼지 낀 지역
 forestday01,git,Placeable List/18/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/19/LocName,0,먼지 작은
+forestday01,git,Placeable List/19/LocName,0,아주 작음
 forestday01,git,Placeable List/19/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forestday01,git,Placeable List/20/LocName,0,고사리
 forestday01,git,Placeable List/20/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
@@ -6314,17 +6314,17 @@ forestday01,git,Placeable List/373/Description,0,풀 한 포기가 다른 것들
 forestday01,git,Placeable List/374/LocName,0,먼지 낀 지역
 forestday01,git,Placeable List/374/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forestday01,git,Placeable List/375/LocName,0,TN_Tree_Bonsai_A_Lrg
-forestday01,git,Placeable List/376/LocName,0,먼지 작은
+forestday01,git,Placeable List/376/LocName,0,아주 작음
 forestday01,git,Placeable List/376/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/377/LocName,0,먼지 작은
+forestday01,git,Placeable List/377/LocName,0,아주 작음
 forestday01,git,Placeable List/377/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/378/LocName,0,먼지 작은
+forestday01,git,Placeable List/378/LocName,0,아주 작음
 forestday01,git,Placeable List/378/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/379/LocName,0,먼지 작은
+forestday01,git,Placeable List/379/LocName,0,아주 작음
 forestday01,git,Placeable List/379/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/380/LocName,0,먼지 작은
+forestday01,git,Placeable List/380/LocName,0,아주 작음
 forestday01,git,Placeable List/380/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/381/LocName,0,먼지 작은
+forestday01,git,Placeable List/381/LocName,0,아주 작음
 forestday01,git,Placeable List/381/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forestday01,git,Placeable List/382/LocName,0,TN_Flower_Shamrock_A
 forestday01,git,Placeable List/383/LocName,0,TN_Flower_Shamrock_B
@@ -6337,22 +6337,22 @@ forestday01,git,Placeable List/387/LocName,0,TN_Tree_Oak_A_Mdm
 forestday01,git,Placeable List/388/LocName,0,TN_Tree_Oak_A_Mdm
 forestday01,git,Placeable List/389/LocName,0,TN_Tree_Oak_A_Mdm
 forestday01,git,Placeable List/390/LocName,0,TN_Tree_Oak_A_ExLrg
-forestday01,git,Placeable List/391/LocName,0,먼지 작은
+forestday01,git,Placeable List/391/LocName,0,아주 작음
 forestday01,git,Placeable List/391/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/392/LocName,0,먼지 작은
+forestday01,git,Placeable List/392/LocName,0,아주 작음
 forestday01,git,Placeable List/392/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/393/LocName,0,먼지 작은
+forestday01,git,Placeable List/393/LocName,0,아주 작음
 forestday01,git,Placeable List/393/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/394/LocName,0,먼지 작은
+forestday01,git,Placeable List/394/LocName,0,아주 작음
 forestday01,git,Placeable List/394/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forestday01,git,Placeable List/395/LocName,0,TN_Flower_Shamrock_B
 forestday01,git,Placeable List/396/LocName,0,TN_Flower_Shamrock_B
 forestday01,git,Placeable List/397/LocName,0,TN_Flower_Shamrock_B
-forestday01,git,Placeable List/398/LocName,0,먼지 작은
+forestday01,git,Placeable List/398/LocName,0,아주 작음
 forestday01,git,Placeable List/398/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/399/LocName,0,먼지 작은
+forestday01,git,Placeable List/399/LocName,0,아주 작음
 forestday01,git,Placeable List/399/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-forestday01,git,Placeable List/400/LocName,0,먼지 작은
+forestday01,git,Placeable List/400/LocName,0,아주 작음
 forestday01,git,Placeable List/400/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 forestday01,git,Placeable List/401/LocName,0,TN_Tree_Bonsai_A_Mdm
 forestday01,git,Placeable List/402/LocName,0,TN_Bramble_Lrg_Unwalkable
@@ -6966,7 +6966,7 @@ forrest,git,Placeable List/244/LocName,0,TN_Tree_Oak_A_RSt_Lrg
 forrest,git,Placeable List/245/LocName,0,TN_Tree_Oak_A_RSt_Lrg
 greathall,git,Creature List/0/FirstName,0,드워프 조각상
 greathall,git,Creature List/1/FirstName,0,인간 조각상
-greathall,git,Creature List/2/FirstName,0,엘프 제 조각상
+greathall,git,Creature List/2/FirstName,0,엘프 석상
 greathall,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,사슬 상의
 greathall,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,엘프 궁정 활
 greathall,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,"이 자루의 자루는 전쟁 무기보다는 예술 작품에 가깝다. 정교한 새겨짐이 빛나는 나무 위를 춤추고 있으며, 활줄은 금색으로 빛나며, 당겨질 때 거의 노래처럼 울린다. 한때 엘프 공예의 독특하고 유일한 예술품으로 여겨졌으나, 미스 드란 유적지에서 반복된 형태의 활이 여섯 개 이상 발견되면서 이론은 깨졌다."
@@ -6979,7 +6979,7 @@ greathall,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,테이인의 관
 greathall,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,"티비안 서클트는 적색 마법사들이 공격적인 루스칸 형제단을 물리치는 데 도움을 주기 위해 만들어진 것이었다. 이 서클트는 마법을 더 잘 사용할 수 있도록 설계되었지만, 착용자의 끈기, 반사력, 의지력도 향상시키는 추가적인 이점을 가지고 있었다. 이 서클트가 도입된 이후로 두 집단 간의 갈등은 크게 완화되었다."
 greathall,git,Creature List/5/FirstName,0,드로우 민병대
 greathall,git,Creature List/5/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-greathall,git,Creature List/5/ItemList/0/LocalizedName,0,경수뇌
+greathall,git,Creature List/5/ItemList/0/LocalizedName,0,경석궁
 greathall,git,Creature List/5/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 greathall,git,Creature List/5/ItemList/1/LocalizedName,0,장인제작 장검
 greathall,git,Creature List/5/ItemList/1/DescIdentified,0,이 장검은 특별한 품질입니다.
@@ -6992,7 +6992,7 @@ greathall,git,Creature List/5/Equip_ItemList/2/LocalizedName,0,약한 독 화살
 greathall,git,Creature List/5/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 greathall,git,Creature List/6/FirstName,0,드로우 민병대
 greathall,git,Creature List/6/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-greathall,git,Creature List/6/ItemList/0/LocalizedName,0,경수뇌
+greathall,git,Creature List/6/ItemList/0/LocalizedName,0,경석궁
 greathall,git,Creature List/6/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 greathall,git,Creature List/6/ItemList/1/LocalizedName,0,장인제작 장검
 greathall,git,Creature List/6/ItemList/1/DescIdentified,0,이 장검은 특별한 품질입니다.
@@ -7005,7 +7005,7 @@ greathall,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,약한 독 화살
 greathall,git,Creature List/6/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 greathall,git,Creature List/7/FirstName,0,드로우 민병대
 greathall,git,Creature List/7/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-greathall,git,Creature List/7/ItemList/0/LocalizedName,0,경수뇌
+greathall,git,Creature List/7/ItemList/0/LocalizedName,0,경석궁
 greathall,git,Creature List/7/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 greathall,git,Creature List/7/ItemList/1/LocalizedName,0,장인제작 장검
 greathall,git,Creature List/7/ItemList/1/DescIdentified,0,이 장검은 특별한 품질입니다.
@@ -7018,7 +7018,7 @@ greathall,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,약한 독 화살
 greathall,git,Creature List/7/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 greathall,git,Creature List/8/FirstName,0,드로우 민병대
 greathall,git,Creature List/8/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-greathall,git,Creature List/8/ItemList/0/LocalizedName,0,경수뇌
+greathall,git,Creature List/8/ItemList/0/LocalizedName,0,경석궁
 greathall,git,Creature List/8/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 greathall,git,Creature List/8/ItemList/1/LocalizedName,0,장인제작 장검
 greathall,git,Creature List/8/ItemList/1/DescIdentified,0,이 장검은 특별한 품질입니다.
@@ -7037,7 +7037,7 @@ greathall,git,Creature List/9/ItemList/6/LocalizedName,0,시미터 +1
 greathall,git,Creature List/9/ItemList/6/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 greathall,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
-greathall,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+greathall,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 greathall,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,독 화살
 greathall,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -7049,7 +7049,7 @@ greathall,git,Creature List/10/ItemList/6/LocalizedName,0,시미터 +1
 greathall,git,Creature List/10/ItemList/6/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 greathall,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
-greathall,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+greathall,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 greathall,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,독 화살
 greathall,git,Creature List/10/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -7061,7 +7061,7 @@ greathall,git,Creature List/11/ItemList/6/LocalizedName,0,시미터 +1
 greathall,git,Creature List/11/ItemList/6/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 greathall,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
-greathall,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+greathall,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 greathall,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,독 화살
 greathall,git,Creature List/11/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -7073,7 +7073,7 @@ greathall,git,Creature List/12/ItemList/6/LocalizedName,0,시미터 +1
 greathall,git,Creature List/12/ItemList/6/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,사슬 상의 +1
 greathall,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
-greathall,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+greathall,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 greathall,git,Creature List/12/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/12/Equip_ItemList/2/LocalizedName,0,독 화살
 greathall,git,Creature List/12/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
@@ -7115,7 +7115,7 @@ greathall,git,Creature List/15/Equip_ItemList/7/LocalizedName,0,드로우 레벨
 greathall,git,Creature List/16/FirstName,0,넬라드
 greathall,git,Creature List/16/LastName,0,티에이'렌
 greathall,git,Creature List/16/Description,0,넬라드 티레렌은 함정을 찾아내고 무기를 제거하는 데 뛰어난 재능을 가진 숙련된 악당이다. 현재 그는 여주인 피비비언의 사냥 그룹에서 사용할 수 있는 최고의 함정을 찾는 사람이다. 넬라드는 전투 능력으로 잘 알려져 있으며 그의 짧은 검은 항상 심각하게 독이되어 적들을 치명적인 타격으로 놀라게 한다.
-greathall,git,Creature List/16/ItemList/4/LocalizedName,0,경수뇌 +1
+greathall,git,Creature List/16/ItemList/4/LocalizedName,0,경석궁 +1
 greathall,git,Creature List/16/ItemList/4/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall,git,Creature List/16/ItemList/6/LocalizedName,0,독침 검
 greathall,git,Creature List/16/ItemList/6/Description,0,"이 짧은 칼은 뛰어난 작품이고, 칼날은 이상한 녹색으로 빛난다."
@@ -7205,7 +7205,7 @@ greathall2,git,Creature List/0/FirstName,0,드로우 병사
 greathall2,git,Creature List/0/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/0/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/0/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/0/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/0/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/0/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/0/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/0/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7230,7 +7230,7 @@ greathall2,git,Creature List/1/FirstName,0,드로우 병사
 greathall2,git,Creature List/1/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/1/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/1/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/1/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/1/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/1/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/1/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/1/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7255,7 +7255,7 @@ greathall2,git,Creature List/2/FirstName,0,드로우 병사
 greathall2,git,Creature List/2/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/2/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/2/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/2/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/2/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/2/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/2/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/2/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7280,7 +7280,7 @@ greathall2,git,Creature List/3/FirstName,0,드로우 병사
 greathall2,git,Creature List/3/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/3/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/3/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/3/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/3/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/3/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/3/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/3/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7305,7 +7305,7 @@ greathall2,git,Creature List/4/FirstName,0,드로우 병사
 greathall2,git,Creature List/4/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/4/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/4/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/4/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/4/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/4/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/4/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/4/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7330,7 +7330,7 @@ greathall2,git,Creature List/5/FirstName,0,드로우 병사
 greathall2,git,Creature List/5/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/5/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/5/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/5/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/5/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/5/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/5/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/5/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7359,7 +7359,7 @@ greathall2,git,Creature List/7/LastName,0,마'페인
 greathall2,git,Creature List/7/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/7/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/7/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/7/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/7/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/7/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/7/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/7/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7383,7 +7383,7 @@ greathall2,git,Creature List/8/LastName,0,위프탈린
 greathall2,git,Creature List/8/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/8/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/8/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/8/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/8/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/8/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/8/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/8/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7404,7 +7404,7 @@ greathall2,git,Creature List/9/FirstName,0,드로우 병사
 greathall2,git,Creature List/9/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/9/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/9/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/9/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/9/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/9/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/9/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/9/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7429,7 +7429,7 @@ greathall2,git,Creature List/10/FirstName,0,드로우 병사
 greathall2,git,Creature List/10/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/10/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/10/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/10/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/10/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/10/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/10/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/10/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7454,7 +7454,7 @@ greathall2,git,Creature List/11/FirstName,0,드로우 병사
 greathall2,git,Creature List/11/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/11/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/11/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/11/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/11/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/11/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/11/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/11/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7479,7 +7479,7 @@ greathall2,git,Creature List/12/FirstName,0,드로우 병사
 greathall2,git,Creature List/12/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/12/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/12/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/12/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/12/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/12/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/12/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/12/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7504,7 +7504,7 @@ greathall2,git,Creature List/13/FirstName,0,드로우 병사
 greathall2,git,Creature List/13/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/13/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/13/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/13/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/13/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/13/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/13/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/13/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7529,7 +7529,7 @@ greathall2,git,Creature List/14/FirstName,0,드로우 병사
 greathall2,git,Creature List/14/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/14/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/14/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/14/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/14/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/14/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/14/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/14/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7554,7 +7554,7 @@ greathall2,git,Creature List/15/FirstName,0,드로우 병사
 greathall2,git,Creature List/15/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/15/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/15/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/15/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/15/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/15/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/15/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/15/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7579,7 +7579,7 @@ greathall2,git,Creature List/16/FirstName,0,드로우 병사
 greathall2,git,Creature List/16/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/16/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/16/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/16/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/16/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/16/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/16/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/16/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7603,7 +7603,7 @@ greathall2,git,Creature List/16/Equip_ItemList/3/DescIdentified,0,미사일 머�
 greathall2,git,Creature List/17/FirstName,0,로밀마르
 greathall2,git,Creature List/17/LastName,0,티레노스키아
 greathall2,git,Creature List/17/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-greathall2,git,Creature List/17/ItemList/0/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/17/ItemList/0/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/17/ItemList/0/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/17/ItemList/1/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/17/ItemList/1/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7628,7 +7628,7 @@ greathall2,git,Creature List/18/FirstName,0,드로우 병사
 greathall2,git,Creature List/18/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/18/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/18/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/18/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/18/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/18/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/18/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/18/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7653,7 +7653,7 @@ greathall2,git,Creature List/19/FirstName,0,드로우 병사
 greathall2,git,Creature List/19/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/19/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/19/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/19/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/19/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/19/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/19/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/19/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7678,7 +7678,7 @@ greathall2,git,Creature List/20/FirstName,0,드로우 병사
 greathall2,git,Creature List/20/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 greathall2,git,Creature List/20/ItemList/0/LocalizedName,0,Drow 체인메일
 greathall2,git,Creature List/20/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-greathall2,git,Creature List/20/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,Creature List/20/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,Creature List/20/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,Creature List/20/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 greathall2,git,Creature List/20/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -7751,7 +7751,7 @@ greathall2,git,StoreList/2/StoreList/0/ItemList/5/LocalizedName,0,속도의 사�
 greathall2,git,StoreList/2/StoreList/0/ItemList/5/DescIdentified,0,"알크라날은 신중함이 용기의 가장 좋은 부분이라고 굳게 믿었고, 그는 그의 체인메일의 도움으로 수십 번의 전투에서 그것을 증명했습니다. 비행의 예술이 익사 사회에서 가장 무시되는 기술 중 하나이기 때문에 알크라날은 익사자의 순위에 결코 멀리 도달하지 못했습니다."
 greathall2,git,StoreList/2/StoreList/1/ItemList/0/LocalizedName,0,루비 쇠뇌
 greathall2,git,StoreList/2/StoreList/1/ItemList/0/DescIdentified,0,"이 보석 박힌 물건의 첫 번째 제품은 의식용 장식으로 만들어진 것이어서 실제로 쓸 의도는 없었다. 그러나 실험 결과, 제작에 쓰인 기묘한 루비에서 에너지가 방출되어 표적에게 큰 공포를 안겨 준다는 사실이 밝혀졌다. 석궁과 보석을 제공한 조수는 곧 사라졌고, 이후 이 무기는 여러 차례 복제되었다."
-greathall2,git,StoreList/2/StoreList/1/ItemList/1/LocalizedName,0,경수뇌 +1
+greathall2,git,StoreList/2/StoreList/1/ItemList/1/LocalizedName,0,경석궁 +1
 greathall2,git,StoreList/2/StoreList/1/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 greathall2,git,StoreList/2/StoreList/1/ItemList/2/LocalizedName,0,엘프 궁정 활
 greathall2,git,StoreList/2/StoreList/1/ItemList/2/DescIdentified,0,"이 자루의 자루는 전쟁 무기보다는 예술 작품에 가깝다. 정교한 새겨짐이 빛나는 나무 위를 춤추고 있으며, 활줄은 금색으로 빛나며, 당겨질 때 거의 노래처럼 울린다. 한때 엘프 공예의 독특하고 유일한 예술품으로 여겨졌으나, 미스 드란 유적지에서 반복된 형태의 활이 여섯 개 이상 발견되면서 이론은 깨졌다."
@@ -7850,7 +7850,7 @@ greathall2,git,Placeable List/82/LocName,0,전리품 주머니
 greathall2,git,Placeable List/82/Description,0,가방은 부피가 많고 가득 차 보입니다.
 largemanor,git,Creature List/0/FirstName,0,드로우 민병대
 largemanor,git,Creature List/0/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-largemanor,git,Creature List/0/ItemList/0/LocalizedName,0,경수뇌
+largemanor,git,Creature List/0/ItemList/0/LocalizedName,0,경석궁
 largemanor,git,Creature List/0/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 largemanor,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 largemanor,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
@@ -7862,7 +7862,7 @@ largemanor,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,약한 독 화�
 largemanor,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 largemanor,git,Creature List/1/FirstName,0,드로우 민병대
 largemanor,git,Creature List/1/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-largemanor,git,Creature List/1/ItemList/0/LocalizedName,0,경수뇌
+largemanor,git,Creature List/1/ItemList/0/LocalizedName,0,경석궁
 largemanor,git,Creature List/1/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 largemanor,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 largemanor,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
@@ -7874,7 +7874,7 @@ largemanor,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,약한 독 화�
 largemanor,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 largemanor,git,Creature List/2/FirstName,0,드로우 민병대
 largemanor,git,Creature List/2/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-largemanor,git,Creature List/2/ItemList/0/LocalizedName,0,경수뇌
+largemanor,git,Creature List/2/ItemList/0/LocalizedName,0,경석궁
 largemanor,git,Creature List/2/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 largemanor,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 largemanor,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
@@ -8138,7 +8138,7 @@ maintowerfirs001,git,Creature List/0/FirstName,0,드로우 병사
 maintowerfirs001,git,Creature List/0/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 maintowerfirs001,git,Creature List/0/ItemList/0/LocalizedName,0,Drow 체인메일
 maintowerfirs001,git,Creature List/0/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-maintowerfirs001,git,Creature List/0/ItemList/1/LocalizedName,0,경수뇌 +1
+maintowerfirs001,git,Creature List/0/ItemList/1/LocalizedName,0,경석궁 +1
 maintowerfirs001,git,Creature List/0/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 maintowerfirs001,git,Creature List/0/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 maintowerfirs001,git,Creature List/0/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -8179,7 +8179,7 @@ maintowerfirs001,git,Creature List/1/ItemList/7/LocalizedName,0,단검 + 1
 maintowerfirs001,git,Creature List/1/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 maintowerfirs001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 maintowerfirs001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-maintowerfirs001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+maintowerfirs001,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 maintowerfirs001,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 maintowerfirs001,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 maintowerfirs001,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -8188,7 +8188,7 @@ maintowerfirs001,git,Creature List/2/FirstName,0,드로우 병사
 maintowerfirs001,git,Creature List/2/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 maintowerfirs001,git,Creature List/2/ItemList/0/LocalizedName,0,Drow 체인메일
 maintowerfirs001,git,Creature List/2/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-maintowerfirs001,git,Creature List/2/ItemList/1/LocalizedName,0,경수뇌 +1
+maintowerfirs001,git,Creature List/2/ItemList/1/LocalizedName,0,경석궁 +1
 maintowerfirs001,git,Creature List/2/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 maintowerfirs001,git,Creature List/2/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 maintowerfirs001,git,Creature List/2/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -8213,7 +8213,7 @@ maintowerfirs001,git,Creature List/3/FirstName,0,드로우 병사
 maintowerfirs001,git,Creature List/3/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 maintowerfirs001,git,Creature List/3/ItemList/0/LocalizedName,0,Drow 체인메일
 maintowerfirs001,git,Creature List/3/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-maintowerfirs001,git,Creature List/3/ItemList/1/LocalizedName,0,경수뇌 +1
+maintowerfirs001,git,Creature List/3/ItemList/1/LocalizedName,0,경석궁 +1
 maintowerfirs001,git,Creature List/3/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 maintowerfirs001,git,Creature List/3/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 maintowerfirs001,git,Creature List/3/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -8254,7 +8254,7 @@ maintowerfirs001,git,Creature List/4/ItemList/7/LocalizedName,0,단검 + 1
 maintowerfirs001,git,Creature List/4/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 maintowerfirs001,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 maintowerfirs001,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-maintowerfirs001,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+maintowerfirs001,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 maintowerfirs001,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 maintowerfirs001,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 maintowerfirs001,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -8332,9 +8332,9 @@ maintowerfirs001,git,Placeable List/3/LocName,0,무기 거치대
 maintowerfirs001,git,Placeable List/3/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
 maintowerfirs001,git,Placeable List/3/ItemList/0/LocalizedName,0,볼트 +2
 maintowerfirs001,git,Placeable List/3/ItemList/0/DescIdentified,0,"이 마법 탄약은 공격 피해에 보너스가 붙어 있지만, 특정 제작자의 특징은 없습니다."
-maintowerfirs001,git,Placeable List/3/ItemList/1/LocalizedName,0,번개의 번개화살
+maintowerfirs001,git,Placeable List/3/ItemList/1/LocalizedName,0,라이트닝 볼트
 maintowerfirs001,git,Placeable List/3/ItemList/1/DescIdentified,0,번개가 충돌에 번쩍이며 폭발하여 목표물에 전기적 손상을 입히게 됩니다.
-maintowerfirs001,git,Placeable List/3/ItemList/2/LocalizedName,0,관통의 관통화살
+maintowerfirs001,git,Placeable List/3/ItemList/2/LocalizedName,0,관통의 볼트
 maintowerfirs001,git,Placeable List/3/ItemList/2/DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
 maintowerfirs001,git,Placeable List/4/LocName,0,무기 거치대
 maintowerfirs001,git,Placeable List/4/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
@@ -9830,11 +9830,11 @@ rivulet,git,Placeable List/154/LocName,0,TN_Flower_Shamrock_A
 rivulet,git,Placeable List/155/LocName,0,TN_Flower_Yellow
 rivulet,git,Placeable List/156/LocName,0,더러스파일
 rivulet,git,Placeable List/156/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-rivulet,git,Placeable List/157/LocName,0,먼지 작은
+rivulet,git,Placeable List/157/LocName,0,아주 작음
 rivulet,git,Placeable List/157/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-rivulet,git,Placeable List/158/LocName,0,먼지 작은
+rivulet,git,Placeable List/158/LocName,0,아주 작음
 rivulet,git,Placeable List/158/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-rivulet,git,Placeable List/159/LocName,0,먼지 작은
+rivulet,git,Placeable List/159/LocName,0,아주 작음
 rivulet,git,Placeable List/159/Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 rivulet,git,Placeable List/160/LocName,0,TN_Flower_Shamrock_B
 rivulet,git,Placeable List/161/LocName,0,TN_Flower_Shamrock_B
@@ -9950,9 +9950,9 @@ smallbarn,git,TriggerList/1/LocalizedName,0,새 일반
 smallbarn,git,TriggerList/2/LocalizedName,0,새 일반
 smallbarn,git,WaypointList/0/LocalizedName,0,이정표
 smallbarn001,git,Creature List/0/FirstName,0,황소
-smallbarn001,git,Creature List/0/Description,0,"이런 무거운 운반 동물들은 농부들이 모두 소유할 수 있는 물건이 아니며, 소들은 농구와 곡식을 갈기 위해 매우 적합합니다."
+smallbarn001,git,Creature List/0/Description,0,이 무거운 짐승들은 모든 농부들이 가질 수 있는 귀중한 재산입니다. 소는 쟁기를 끌고 곡식을 빻는 일에 아주 적합합니다.
 smallbarn001,git,Creature List/1/FirstName,0,황소
-smallbarn001,git,Creature List/1/Description,0,"이런 무거운 운반 동물들은 농부들이 모두 소유할 수 있는 물건이 아니며, 소들은 농구와 곡식을 갈기 위해 매우 적합합니다."
+smallbarn001,git,Creature List/1/Description,0,이 무거운 짐승들은 모든 농부들이 가질 수 있는 귀중한 재산입니다. 소는 쟁기를 끌고 곡식을 빻는 일에 아주 적합합니다.
 smallbarn001,git,Creature List/2/FirstName,0,암소
 smallbarn001,git,Creature List/2/Description,0,"이 큰 초식 동물은 고기와 영양을 주는 우유를 위해 양육되는데, 농촌 농장의 주거인류입니다."
 smallbarn001,git,Door List/2/LocName,0,창고2문2
@@ -10410,7 +10410,7 @@ village001,git,Creature List/1/FirstName,0,드로우 병사
 village001,git,Creature List/1/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/1/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/1/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/1/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/1/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/1/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/1/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/1/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10435,7 +10435,7 @@ village001,git,Creature List/2/FirstName,0,드로우 병사
 village001,git,Creature List/2/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/2/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/2/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/2/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/2/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/2/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/2/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/2/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10460,7 +10460,7 @@ village001,git,Creature List/3/FirstName,0,드로우 병사
 village001,git,Creature List/3/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/3/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/3/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/3/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/3/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/3/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/3/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/3/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10485,7 +10485,7 @@ village001,git,Creature List/4/FirstName,0,드로우 병사
 village001,git,Creature List/4/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/4/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/4/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/4/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/4/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/4/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/4/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/4/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10510,7 +10510,7 @@ village001,git,Creature List/5/FirstName,0,드로우 병사
 village001,git,Creature List/5/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/5/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/5/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/5/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/5/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/5/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/5/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/5/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10551,7 +10551,7 @@ village001,git,Creature List/6/ItemList/7/LocalizedName,0,단검 + 1
 village001,git,Creature List/6/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 village001,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -10576,7 +10576,7 @@ village001,git,Creature List/7/ItemList/7/LocalizedName,0,단검 + 1
 village001,git,Creature List/7/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 village001,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -10601,7 +10601,7 @@ village001,git,Creature List/8/ItemList/7/LocalizedName,0,단검 + 1
 village001,git,Creature List/8/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 village001,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -10626,7 +10626,7 @@ village001,git,Creature List/9/ItemList/7/LocalizedName,0,단검 + 1
 village001,git,Creature List/9/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 village001,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -10651,7 +10651,7 @@ village001,git,Creature List/10/ItemList/7/LocalizedName,0,단검 + 1
 village001,git,Creature List/10/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 village001,git,Creature List/10/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -10660,7 +10660,7 @@ village001,git,Creature List/11/FirstName,0,드로우 병사
 village001,git,Creature List/11/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/11/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/11/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/11/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/11/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/11/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/11/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/11/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10685,7 +10685,7 @@ village001,git,Creature List/12/FirstName,0,드로우 병사
 village001,git,Creature List/12/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/12/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/12/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/12/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/12/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/12/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/12/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/12/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10708,7 +10708,7 @@ village001,git,Creature List/13/FirstName,0,드로우 병사
 village001,git,Creature List/13/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/13/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/13/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/13/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/13/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/13/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/13/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/13/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10733,7 +10733,7 @@ village001,git,Creature List/14/FirstName,0,드로우 병사
 village001,git,Creature List/14/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/14/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/14/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/14/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/14/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/14/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/14/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/14/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10756,7 +10756,7 @@ village001,git,Creature List/15/FirstName,0,드로우 병사
 village001,git,Creature List/15/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/15/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/15/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/15/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/15/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/15/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/15/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/15/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10779,7 +10779,7 @@ village001,git,Creature List/16/FirstName,0,드로우 병사
 village001,git,Creature List/16/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
 village001,git,Creature List/16/ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/16/ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/16/ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/16/ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/16/ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/16/ItemList/2/LocalizedName,0,나무껍질 피부의 물약
 village001,git,Creature List/16/ItemList/2/DescIdentified,0,"이 두꺼운 혼합물은 어두운 냄새와 무성한 냄새가 나며, 강수 후의 숲처럼 느껴진다."
@@ -10818,7 +10818,7 @@ village001,git,Creature List/17/ItemList/7/LocalizedName,0,단검 + 1
 village001,git,Creature List/17/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/17/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/17/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/17/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 village001,git,Creature List/17/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -10843,7 +10843,7 @@ village001,git,Creature List/18/ItemList/7/LocalizedName,0,단검 + 1
 village001,git,Creature List/18/ItemList/7/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,Drow 체인메일
 village001,git,Creature List/18/Equip_ItemList/0/DescIdentified,0,드로우 무기공들은 그들의 숙달로 잘 알려져 있습니다. 이 갑옷은 귀족 집안의 직무를 수행하는 낮은 계급의 드로우 전사들의 표준 갑옷입니다.
-village001,git,Creature List/18/Equip_ItemList/1/LocalizedName,0,경수뇌 +1
+village001,git,Creature List/18/Equip_ItemList/1/LocalizedName,0,경석궁 +1
 village001,git,Creature List/18/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/18/Equip_ItemList/2/LocalizedName,0,마법 저항 16
 village001,git,Creature List/18/Equip_ItemList/3/LocalizedName,0,독 화살
@@ -10880,7 +10880,7 @@ village001,git,Creature List/20/Equip_ItemList/2/LocalizedName,0,단검 + 1
 village001,git,Creature List/20/Equip_ItemList/2/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 village001,git,Creature List/21/FirstName,0,드로우 민병대
 village001,git,Creature List/21/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-village001,git,Creature List/21/ItemList/0/LocalizedName,0,경수뇌
+village001,git,Creature List/21/ItemList/0/LocalizedName,0,경석궁
 village001,git,Creature List/21/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 village001,git,Creature List/21/ItemList/1/LocalizedName,0,장인제작 장검
 village001,git,Creature List/21/ItemList/1/DescIdentified,0,이 장검은 특별한 품질입니다.
@@ -10893,7 +10893,7 @@ village001,git,Creature List/21/Equip_ItemList/2/LocalizedName,0,약한 독 화�
 village001,git,Creature List/21/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 village001,git,Creature List/22/FirstName,0,드로우 민병대
 village001,git,Creature List/22/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-village001,git,Creature List/22/ItemList/0/LocalizedName,0,경수뇌
+village001,git,Creature List/22/ItemList/0/LocalizedName,0,경석궁
 village001,git,Creature List/22/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 village001,git,Creature List/22/ItemList/1/LocalizedName,0,장인제작 장검
 village001,git,Creature List/22/ItemList/1/DescIdentified,0,이 장검은 특별한 품질입니다.
@@ -10906,7 +10906,7 @@ village001,git,Creature List/22/Equip_ItemList/2/LocalizedName,0,약한 독 화�
 village001,git,Creature List/22/Equip_ItemList/2/DescIdentified,0,미사일 머리 에는 은 노란색 물질 이 니다. 이 미사일 들 과 같은 미사일 들 은 그 미사일 을 타격 하는 사람 들 의 근육 의 힘 을 다고 한다.
 village001,git,Creature List/23/FirstName,0,드로우 민병대
 village001,git,Creature List/23/Description,0,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-village001,git,Creature List/23/ItemList/0/LocalizedName,0,경수뇌
+village001,git,Creature List/23/ItemList/0/LocalizedName,0,경석궁
 village001,git,Creature List/23/ItemList/0/DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 village001,git,Creature List/23/ItemList/1/LocalizedName,0,장인제작 장검
 village001,git,Creature List/23/ItemList/1/DescIdentified,0,이 장검은 특별한 품질입니다.
@@ -12241,7 +12241,7 @@ module,jrl,Categories/2/Name,0,릴미르의 요청
 module,jrl,Categories/2/EntryList/0/Text,0,"로미르 사령관이 비밀리에 말씀하고 싶으니, 강 서쪽 끝에서 만나세요."
 module,jrl,Categories/2/EntryList/1/Text,0,"루미어는 피위비엔이 우리를 재앙으로 이끌 것이라고 생각하여 비밀 동맹을 맺고 싶어 한다. 우리는 모두 피위비엔의 심문의 일부분이며, 피위비엔의 지도력과 기술을 고려하면 침몰하는 배를 시간 내에 떠나는 것이 현명하다. 그러나 나는 그를 믿을 수 있을지 확신하지 못한다."
 module,jrl,Categories/3/Name,0,네라드의 공격
-module,jrl,Categories/3/EntryList/0/Text,0,"네라드, 제 중위가 뒤에서 공격해 왔어. 이 일에 대해 확실히 모르지만 그를 꺾었어. 그가 의식을 회복할 때까지 몇 가지 질문을 하겠지."
+module,jrl,Categories/3/EntryList/0/Text,0,"네라드, 내 부하가 뒤에서 나를 공격했어. 왜 그랬는지는 모르겠지만 일단 때려눕혔지. 정신을 차리면 몇 가지 물어봐야겠어."
 module,jrl,Categories/3/EntryList/1/Text,0,"로스는 분명히 우리와 그녀의 왜곡된 게임을 하고 있습니다. 네라드는 그녀의 챔피언 중 한 명이었고, 그녀는 그에게 나를 공격하라고 명령했습니다. 그는 실패했고, 이제 스파이더 여왕은 그의 영혼을 삼키며, 그는 영원히 끝없는 고통 속에서 영원히 고통받게 될 것입니다. 나는 그를 죽여 그가 드라이더로 살아가는 것을 막았습니다."
 module,jrl,Categories/3/EntryList/2/Text,0,"로스는 분명히 우리와 그녀의 왜곡된 게임을 하고 있습니다. 네라드는 그녀의 챔피언 중 한 명이었고, 그녀는 그에게 나를 공격하라고 명령했습니다. 그는 실패했고, 이제 스파이더 여왕은 그의 영혼을 삼키고 영원히 끝없는 고통으로 남게 될 것입니다. 나는 배신자를 살려두고, 그의 변신을 마구로 지켜봤습니다. 그것이 드로우의 자비입니다."
 module,jrl,Categories/4/Name,0,스토리 라인
@@ -12388,7 +12388,7 @@ spectre002,utc,FirstName,0,엘프 악령
 spectre002,utc,Description,0,"악령들은 육체 없는 불사생물로 종종 유령으로 착각되곤 합니다. 그들은 죽은 곳을 괴롭히며, 여전히 감각을 가지고 있지만 이제 모든 살아있는 존재를 미워합니다."
 statue,utc,FirstName,0,드워프 조각상
 statue001,utc,FirstName,0,인간 조각상
-statue002,utc,FirstName,0,엘프 제 조각상
+statue002,utc,FirstName,0,엘프 석상
 statue003,utc,FirstName,0,스버프네블린 조각상
 summonedminion,utc,FirstName,0,소환된 하수인
 svirfneblin,utc,FirstName,0,스버프네블린
@@ -12455,7 +12455,7 @@ armhe014,uti,DescIdentified,0,"이 마법 의 헤드 피스 는 보호자 신 �
 armhe015,uti,LocalizedName,0,주교의 헬름
 armhe015,uti,Description,0,이 비상식적인 헬멧은 완전히 평범해 보입니다.
 armhe015,uti,DescIdentified,0,"이 헬멧은 실제 본성을 인식할 때까지 평범해 보인다. 화려한 은과 가벼운 철로 만든 광휘의 투구에는 다이아몬드, 루비나 불오팔 및 오발이 있으며 각각 크기가 크고 매혹적입니다. 밝은 빛에 부딪히면 휠체어는 왕자 모양의 보석 끝으로 모든 방향으로 반사선을 발송합니다. 주얼지는 착용자에게 다양한 강력한 주문을 던질 수 있습니다. 이러한 각각의 사용은 지휘봉에서 약간의 힘을 소모한다. 이들 특정 능력 외에도 선두는 상당한 양의 불을 흡수 할 수 있다. 운전자는 또한 손상의 빛을 집중시켜 플라임 타격 효과와 유사한 효과를 낼 것입니다. 아직까지 존재한다고 알려진 몇 가지 그 Helm들은 여전히 볼더스 게이트 (Baldur's Gate) 에서 온 큰 성직자에 거슬러 올라간다."
-arrows001,uti,LocalizedName,0,관통 화살 인류의 극한
+arrows001,uti,LocalizedName,0,관통 화살: 인간 파멸자
 arrows001,uti,DescIdentified,0,이 화살는 목표물에 깊숙이 찔러 타격을 당하면 추가적인 뚫는 손상을 입게 됩니다.
 ashmlw011,uti,LocalizedName,0,대형 방패 +1
 ashmlw011,uti,DescIdentified,0,이 마법 방패는 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 특징을 나타내고 있지 않습니다.
@@ -12645,7 +12645,7 @@ spellresist001,uti,LocalizedName,0,마법 저항 14
 spellresist18,uti,LocalizedName,0,마법 저항 16
 ssword001,uti,LocalizedName,0,운 좋은 이
 ssword001,uti,DescIdentified,0,"이 칼은 ""큰 거""들을 상대로 벌어진 대담한 싸움에서 끊임없이 사용된 스와시부클러의 칼입니다. 행운의 자들 용병 회사가 마지막 큰 수익을 얻은 후 여전히 돈이 충분한 상태에서 이 칼을 주문했습니다. 그들의 큰 수익 후에 그들은 모험을 단지 흥분으로 하며, 서로가 점점 더 대담한 엄두를 내는 도전을 벌였습니다. 왜 이러한 무기들은 더 이상 그들과 함께하지 않습니까? 때로는 ""큰 거""가 승리합니다."
-summoningbowl,uti,LocalizedName,0,언데드 소환볼
+summoningbowl,uti,LocalizedName,0,언데드 소환 그릇
 summoningbowl,uti,Description,0,이 그릇은 악의 희미한 분위기를 나타냅니다.
 summoningbowl,uti,DescIdentified,0,"이 그릇은 원래 다수의 언데드를 만들어 내기 위해 설계되었습니다.
 
@@ -12659,7 +12659,7 @@ thriapipe,uti,DescIdentified,0,이 파이프를 불어버리면 트리안디르�
 trappersgauntlet,uti,LocalizedName,0,트랩퍼 장갑
 trappersgauntlet,uti,DescIdentified,0,이 장갑은 드로우 선구자의 함정을 설정하는 능력을 향상시키기 위해 만들어졌습니다.
 villagekey,uti,LocalizedName,0,마을 키
-wammbo005,uti,LocalizedName,0,관통의 관통화살
+wammbo005,uti,LocalizedName,0,관통의 볼트
 wammbo005,uti,DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
 wammbo006,uti,LocalizedName,0,화염의 쇠뇌화살
 wammbo006,uti,DescIdentified,0,"불의 볼트는 불에 불타게 되는데, 거의 마법이 아닌 불에 기름이 담겨서 불타게 되는 효과와 비슷합니다."
@@ -12699,15 +12699,15 @@ wbwmln005,uti,LocalizedName,0,엘프 궁정 활
 wbwmln005,uti,DescIdentified,0,"이 자루의 자루는 전쟁 무기보다는 예술 작품에 가깝다. 정교한 새겨짐이 빛나는 나무 위를 춤추고 있으며, 활줄은 금색으로 빛나며, 당겨질 때 거의 노래처럼 울린다. 한때 엘프 공예의 독특하고 유일한 예술품으로 여겨졌으나, 미스 드란 유적지에서 반복된 형태의 활이 여섯 개 이상 발견되면서 이론은 깨졌다."
 wbwmxl003,uti,LocalizedName,0,노움 크로스보우
 wbwmxl003,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
-wbwmxl004,uti,LocalizedName,0,경수뇌 +1
+wbwmxl004,uti,LocalizedName,0,경석궁 +1
 wbwmxl004,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
 wbwmxl011,uti,LocalizedName,0,루비 쇠뇌
 wbwmxl011,uti,DescIdentified,0,"이 보석 박힌 물건의 첫 번째 제품은 의식용 장식으로 만들어진 것이어서 실제로 쓸 의도는 없었다. 그러나 실험 결과, 제작에 쓰인 기묘한 루비에서 에너지가 방출되어 표적에게 큰 공포를 안겨 준다는 사실이 밝혀졌다. 석궁과 보석을 제공한 조수는 곧 사라졌고, 이후 이 무기는 여러 차례 복제되었다."
-wbwxl003,uti,LocalizedName,0,경수뇌
+wbwxl003,uti,LocalizedName,0,경석궁
 wbwxl003,uti,DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
-wbwxl004,uti,LocalizedName,0,경수뇌
+wbwxl004,uti,LocalizedName,0,경석궁
 wbwxl004,uti,DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
-wbwxl005,uti,LocalizedName,0,경수뇌
+wbwxl005,uti,LocalizedName,0,경석궁
 wbwxl005,uti,DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가지고 있습니다.
 wdbmax007,uti,LocalizedName,0,아스코리아산 쌍날도끼
 wdbmax007,uti,DescIdentified,0,"셰어 근처에서 주장하는 신흥 강도 왕의 유배 피해자들에게 아스코리아산 쌍날도끼는 단순한 원주민 독재자가 몇 십 개의 조상 해적 금 상자, 새로 고용된 용병 군대, 그리고 그림자의 매개체로 교육받은 몇몇 인형 마법사들을 통해 무엇을 이룰 수 있는지 상징적으로 보여주는 물건이다. 그리고 사람 한 명이 더 이상 차이를 만들 수 없다고 말하는 사람들이 있다."
@@ -12827,7 +12827,7 @@ grasstuft004,utp,LocName,0,더러스파일
 grasstuft004,utp,Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 grasstuft005,utp,LocName,0,먼지 낀 지역
 grasstuft005,utp,Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
-grasstuft006,utp,LocName,0,먼지 작은
+grasstuft006,utp,LocName,0,아주 작음
 grasstuft006,utp,Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
 grasstuft007,utp,LocName,0,FallenLog
 grasstuft007,utp,Description,0,풀 한 포기가 다른 것들보다 위로 솟아 눈길을 끈다.
@@ -12958,7 +12958,7 @@ backtothecamp,utt,LocalizedName,0,캠프로 돌아가
 backtothecavemaz,utt,LocalizedName,0,동굴 미로로 돌아가
 battlesitetotrad,utt,LocalizedName,0,전투지로부터 무역로까지
 beginningandsitt,utt,LocalizedName,0,시작과 앉기
-beholdertotradew,utt,LocalizedName,0,통행료
+beholdertotradew,utt,LocalizedName,0,무역로로 가는 비홀더
 blockedtobugbear,utt,LocalizedName,0,개그어에 차단
 blockedtocaverns,utt,LocalizedName,0,동굴에 차단
 blockedtoleft,utt,LocalizedName,0,왼쪽에서 차단
@@ -12975,7 +12975,7 @@ destroyparty,utt,LocalizedName,0,파티 파괴
 dgastrap002,utt,LocalizedName,0,살인적인 기체 함정
 driders_camp,utt,LocalizedName,0,driders_camp
 enter_nelad,utt,LocalizedName,0,엔터_네라드
-magetocamp2,utt,LocalizedName,0,마법사가 캠프 2로 가세요
+magetocamp2,utt,LocalizedName,0,마법사가 캠프 2로 가라
 mazetocamp,utt,LocalizedName,0,마세토캠프
 newgeneric001,utt,LocalizedName,0,시움사르코파고스
 openstonedoorsho,utt,LocalizedName,0,돌문을 열어 공포를 풀어놓기
@@ -12988,7 +12988,7 @@ teleport_to_star,utt,LocalizedName,0,텔레포트_투_start
 toamysteriouscav,utt,LocalizedName,0,신비한 동굴
 toblockedleft,utt,LocalizedName,0,좌측으로 차단
 toblockedright,utt,LocalizedName,0,바로 차단
-tradewaytobattle,utt,LocalizedName,0,전투 경로로의 교통
+tradewaytobattle,utt,LocalizedName,0,전투 지역으로 가는 무역로
 tradewaytobehold,utt,LocalizedName,0,관측자에게 통행
 trapsdisabled,utt,LocalizedName,0,함정이 비활성화되었습니다
 trigger_area0_mo,utt,LocalizedName,0,trigger_area0_monsters

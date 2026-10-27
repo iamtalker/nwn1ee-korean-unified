@@ -6,7 +6,7 @@ bastionoftheenem,git,Creature List/42/FirstName,0,2925,코볼트 깡패
 bastionoftheenem,git,Creature List/42/ItemList/0/LocalizedName,0,-1,코볼트 키
 bastionoftheenem,git,Creature List/44/ItemList/0/LocalizedName,0,-1,드로우 키
 bastionoftheenem,git,Creature List/53/Description,0,64101,"드로우들은 악의 엘프로, 위험한 언더다크에서 깊은 지하에 거주하는 종족입니다."
-bastionoftheenem,git,Creature List/6/FirstName,0,3100,홉고블린 지목사
+bastionoftheenem,git,Creature List/6/FirstName,0,3100,홉고블린 족장
 bastionoftheenem,git,Creature List/6/ItemList/0/LocalizedName,0,-1,고블린 키
 bastionoftheenem,git,Door List/0/LocName,0,5349,문
 bastionoftheenem,git,Encounter List/1/LocalizedName,0,14506,"오크, 낮은 집단"
@@ -143,10 +143,10 @@ ccaves,git,Placeable List/30/Description,0,84170,"이 동상은 숭배하는 자
 ccaves,git,Placeable List/8/ItemList/1/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 ccaves,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
 ccaves,git,WaypointList/0/LocalizedName,0,14817,껍데기 키 웨이포인트
-ccaves,git,WaypointList/1/LocalizedName,0,14817,발톱 웨이포인트
+ccaves,git,WaypointList/1/LocalizedName,0,14817,가시 돋힌 열쇠 길목
 ccaves,git,WaypointList/2/LocalizedName,0,14817,황금 키 웨이포인트
 ccaves,git,WaypointList/3/LocalizedName,0,14817,두개골 열쇠 웨이포인트
-ccaves,git,WaypointList/4/LocalizedName,0,14817,치아 키 웨이포인트
+ccaves,git,WaypointList/4/LocalizedName,0,14817,이빨 열쇠 길잡이
 ccaves,git,WaypointList/5/LocalizedName,0,14817,구리 키 웨이포인트
 ccaves,git,WaypointList/6/LocalizedName,0,14817,은 열쇠 웨이포인트
 ccaves,git,WaypointList/7/LocalizedName,0,14817,불의 원소 정령 웨이포인트
@@ -156,18 +156,18 @@ ecumenicaltemple,git,Creature List/0/FirstName,0,-1,라파엘
 ecumenicaltemple,git,Creature List/0/LastName,0,-1,레오날로멘
 ecumenicaltemple,git,Creature List/1/Description,0,-1,이것은 라보스입니다. 죽음의 여주인 마스터스에게 섬기는 여사제입니다.
 ecumenicaltemple,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,13759,흑룡 갑옷
-ecumenicaltemple,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,발자국을 빠르게 남기는 장화 +6
+ecumenicaltemple,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,보행의 장화 +6
 ecumenicaltemple,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,-1,갑옷 손목 보호대 +6
 ecumenicaltemple,git,Creature List/1/Equip_ItemList/7/LocalizedName,0,-1,구름 거인 근력의 허리띠
 ecumenicaltemple,git,Creature List/1/FirstName,0,-1,라보스
 ecumenicaltemple,git,Creature List/1/LastName,0,-1,갈리아어
-ecumenicaltemple,git,Creature List/2/Description,0,-1,이는 보호소의 경건한 회원 중 하나이다.
+ecumenicaltemple,git,Creature List/2/Description,0,-1,이들은 요새의 독실한 구성원 중 한 명이다.
 ecumenicaltemple,git,Creature List/2/FirstName,0,-1,숭배자
-ecumenicaltemple,git,Creature List/3/Description,0,-1,이는 보호소의 경건한 회원 중 하나이다.
+ecumenicaltemple,git,Creature List/3/Description,0,-1,이들은 요새의 독실한 구성원 중 한 명이다.
 ecumenicaltemple,git,Creature List/3/FirstName,0,-1,숭배자
-ecumenicaltemple,git,Creature List/4/Description,0,-1,이는 보호소의 경건한 회원 중 하나이다.
+ecumenicaltemple,git,Creature List/4/Description,0,-1,이들은 요새의 독실한 구성원 중 한 명이다.
 ecumenicaltemple,git,Creature List/4/FirstName,0,-1,숭배자
-ecumenicaltemple,git,Creature List/5/Description,0,-1,이는 보호소의 경건한 회원 중 하나이다.
+ecumenicaltemple,git,Creature List/5/Description,0,-1,이들은 요새의 독실한 구성원 중 한 명이다.
 ecumenicaltemple,git,Creature List/5/FirstName,0,-1,숭배자
 ecumenicaltemple,git,Door List/0/LocName,0,5349,신전 출구
 ecumenicaltemple,git,Placeable List/0/LocName,0,68931,죽음 여주인의 성지
@@ -230,12 +230,12 @@ emptybtlthree,git,StoreList/0/StoreList/0/ItemList/30/DescIdentified,0,40655,이
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/31/DescIdentified,0,12867,"수히리 태양 여신의 성직자들이 제작한 이 방패들은 태양의 황금 불꽃으로 끊임없이 빛나고 있다. 제작자의 기술과 의도에 따라, 일부 방패들은 더 강력한 힘을 지니고 있다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/32/DescIdentified,0,48287,"이 간단한 로프 벨트는 사람의 허리를 감으면 무장 전투 능력을 증가시킵니다. 빛나는 달 사제단이 라이벌 사제단에 의해 공격받았을 때, 일부 수습 사제들은 일반적인 속도보다 더 빠르게 성장해야 했습니다. 이 벨트는 젊은 사제들이 큰 속도와 기술로 자신의 사제단을 방어할 수 있게 해주었습니다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/33/DescIdentified,0,13334,"칼라히의 사제들이 축복받은 이 부츠는 상인과 여행의 신에게 바쳐져 있어 가장 힘든 여정을 더 쉽게, 더 편안하게 만들어준다. 이는 착용자에게 속도를 높이는 것이 아니라 더 견고하고 고통을 더 잘 견디는 능력을 주기 때문에 가능하다. 이러한 부츠의 다양한 버전이 존재하며, 그 힘은 축복을 준 사제에 따라 크게 다름을 알 수 있다."
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/34/DescIdentified,0,67472,수히리의 추종자인 수도사들은 태양만큼 지속적이고 위험한 것은 없다는 것을 알고 있습니다. 이 신발은 일출 태양 교단의 다양한 기술을 마스터한 자들에게 보상으로 주어집니다.
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/34/DescIdentified,0,67472,수히리의 추종자인 수도사들은 태양만큼 지속적이거나 위험한 것은 없다는 것을 알고 있다. 이 신발은 일출 교단 내에서 다양한 기술을 마스터한 자들에게 보상으로 수여된다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/35/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/36/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/37/DescIdentified,0,67588,"국경 경호원 들 은 전통적 으로 직무 에서 이 옷 을 착용 하고 있다. 최근 몇 년 동안 국경 경지 들 은 더욱 위험 해지고 있으며, 발라타 북부 지역 으로 진출 하기 의 의 의지가 적어지고 있다."
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/38/DescIdentified,0,67487,"황색 장미 수도사단은 성 솔라르의 제자라고도 불리며, 동맹자에게는 큰 충성심을 보여주고 적들에게는 큰 파괴를 일으키는 행위로 유명하다. 이 계급의 수도사들은 제이스의 기사들과 자주 함께 여행하며, 종주사의 이 기사들에게 신뢰할 수 있는 가이드와 동반자로 봉사한다."
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/39/DescIdentified,0,67487,"황색 장미 수도사단은 성 솔라르의 제자라고도 불리며, 동맹자에게는 큰 충성심을 보여주고 적들에게는 큰 파괴를 일으키는 행위로 유명하다. 이 계급의 수도사들은 제이스의 기사들과 자주 함께 여행하며, 종주사의 이 기사들에게 신뢰할 수 있는 가이드와 동반자로 봉사한다."
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/38/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 팔라딘들과 자주 동행한다.
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/39/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 팔라딘들과 자주 동행한다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/40/DescIdentified,0,-1,이 의복의 어두운 땅색은 마법의 보호 성질로 강화되어 있습니다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/40/LocalizedName,0,12918,대지 마법사 가운
 emptybtlthree,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
@@ -389,7 +389,7 @@ gcaves,git,Placeable List/13/ItemList/0/Description,0,-1,"이것은 투박한 �
 음... 그리고 오거가 베드질을 곤죽으로 만들어 버려서 이제 새 짝이 필요하다."""
 gcaves,git,Placeable List/13/ItemList/0/LocalizedName,0,-1,고블린 쪽지
 gcaves,git,Placeable List/14/Description,0,66885,"큰, 단단한 광석 조각이 땅에서 튀어나와 있습니다."
-gcaves,git,Placeable List/2/LocName,0,-1,상장궤짝 - 들어가지 마세요!
+gcaves,git,Placeable List/2/LocName,0,-1,족장의 상자 - 접근 금지!
 gcaves,git,SoundList/2/LocName,0,-1,동굴 물방울 소리
 gcaves,git,SoundList/7/LocName,0,-1,동굴 박쥐
 gcaves,git,TriggerList/0/LocalizedName,0,14759,노예 출구 트리거
@@ -429,7 +429,7 @@ graveyard001,git,WaypointList/2/MapNote,0,-1,출구
 hcaves,git,Creature List/0/FirstName,0,2865,만티코어
 hcaves,git,Creature List/0/ItemList/0/DescIdentified,0,-1,이것은 당신이 죽인 맨티코어의 피부입니다.
 hcaves,git,Creature List/0/ItemList/0/Description,0,-1,이것은 당신이 죽인 맨티코어의 피부입니다.
-hcaves,git,Creature List/0/ItemList/0/LocalizedName,0,-1,만티코어 숨김
+hcaves,git,Creature List/0/ItemList/0/LocalizedName,0,-1,만티코어 가죽
 hcaves,git,Creature List/1/FirstName,0,12566,고블린
 hcaves,git,Creature List/1/ItemList/0/LocalizedName,0,-1,독 수정
 hcaves,git,Creature List/1/ItemList/1/LocalizedName,0,-1,정신석
@@ -457,9 +457,9 @@ hcaves,git,Placeable List/22/LocName,0,68840,거인 뼈
 hcaves,git,Placeable List/3/ItemList/0/LocalizedName,0,-1,독 수정
 hcaves,git,Placeable List/4/LocName,0,5800,투명 점프 객체
 hcaves,git,Placeable List/5/Description,0,84582,"이 배럴에 무언가를 넣을 수 있고, 적절한 레버를 당기면 그 물체가 짓눌릴 것 같습니다."
-hcaves,git,Placeable List/5/LocName,0,84567,수정 굴착 통
+hcaves,git,Placeable List/5/LocName,0,84567,수정 파쇄 통
 hcaves,git,Placeable List/6/Description,0,84582,"이 배럴에 무언가를 넣을 수 있고, 적절한 레버를 당기면 그 물체가 짓눌릴 것 같습니다."
-hcaves,git,Placeable List/6/LocName,0,84567,수정 굴착 통
+hcaves,git,Placeable List/6/LocName,0,84567,수정 파쇄 통
 hcaves,git,Placeable List/62/LocName,0,84571,아카네
 hcaves,git,Placeable List/63/LocName,0,84571,아카네
 hcaves,git,Placeable List/64/LocName,0,84571,아카네
@@ -559,7 +559,7 @@ prisondungeon,git,WaypointList/0/LocalizedName,0,14817,지도 설명: 비밀 입
 prisondungeon,git,WaypointList/0/MapNote,0,-1,비밀 입구
 prisondungeon,git,WaypointList/1/LocalizedName,0,14817,감옥 던전 출구
 prisondungeon,git,WaypointList/1/MapNote,0,-1,던전 출구
-prisondungeon,git,WaypointList/2/LocalizedName,0,14817,죄수 싸움 웨이포인트
+prisondungeon,git,WaypointList/2/LocalizedName,0,14817,죄수 전투 웨이포인트
 q1e,git,Door List/0/LocName,0,5349,동굴 출구
 q1e,git,Placeable List/13/Description,0,68824,"더러워지거나 진흙을 만드는 것 말고는 거의 아무 데도 쓸 수 없는, 넓은 흙바닥."
 q1e,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
@@ -568,11 +568,11 @@ q1e,git,WaypointList/0/LocalizedName,0,14814,카이달라의 집
 q1e,git,WaypointList/1/LocalizedName,0,14814,화염 괴물 웨이포인트
 q1e,git,WaypointList/2/LocalizedName,0,14817,지도설명: 출구 웨이포인트
 q1e,git,WaypointList/2/MapNote,0,-1,출구
-q2b001,git,Creature List/0/Description,0,-1,이곳은 요새의 경비원 중 한 명이다.
+q2b001,git,Creature List/0/Description,0,-1,이 자는 요새 경비병 중 한 명이다.
 q2b001,git,Creature List/0/FirstName,0,-1,경비병
 q2b001,git,Creature List/1/Description,0,-1,"이 가게 주인은 눈빛이 몹시 불안하고, 손님과 거래할 때 코가 씰룩거린다."
 q2b001,git,Creature List/10/FirstName,0,-1,거지
-q2b001,git,Creature List/11/Description,0,-1,이곳은 요새의 경비원 중 한 명이다.
+q2b001,git,Creature List/11/Description,0,-1,이 자는 요새 경비병 중 한 명이다.
 q2b001,git,Creature List/11/FirstName,0,-1,경비병
 q2b001,git,Creature List/12/FirstName,0,-1,로컬 경비병
 q2b001,git,Creature List/13/FirstName,0,12457,길거리 개
@@ -583,7 +583,7 @@ q2b001,git,Creature List/4/Description,0,-1,고구려의 평범한 사람들은 
 q2b001,git,Creature List/4/FirstName,0,12423,평민
 q2b001,git,Creature List/5/Description,0,-1,이곳의 평민입니다.
 q2b001,git,Creature List/5/FirstName,0,12423,평민
-q2b001,git,Creature List/6/Description,0,-1,이곳은 지배에 거주하는 많은 평민들 중 하나이다.
+q2b001,git,Creature List/6/Description,0,-1,요새에 있는 흔한 평민들 중 하나이다.
 q2b001,git,Creature List/6/FirstName,0,12422,평민
 q2b001,git,Creature List/7/FirstName,0,-1,로컬 경비병
 q2b001,git,Creature List/8/FirstName,0,-1,거지
@@ -668,14 +668,14 @@ q2b11,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,40659,"이 금속
 q2b11,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,40661,"이 헬멧은 착용자의 눈 위에 어두운 결정의 두 개의 렌즈를 장착한다. 렌즈는 불투명하지만, 착용자의 눈 위에 배치되면 정상적인 시력을 가능하게 하고 어두운 시력을 부여한다. 깊은 동굴과 지하 유적을 탐색하는 모험을 좋아하는 모험가들에게 일반적인 장비로, 이 헬멧은 또한 인간이 ""큰 평평""으로 칭송 받고 있으며 인간 악당들 사이에서 매우 인기가 있습니다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,67773,"로저 델포스 (Ronger Delphos) 는 성공적 인 상인으로서 도둑 반대 협회를 결성하기 위해 보안 전문가가 되기 위하여 돈을 지불했다. 경비자들은 사람 포박 마법으로 막대기를 사용하도록 훈련받았으며, 이 수사 조치를 견제하기 위해서 도둑협회가 마술 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 교단 사이의 격상되는 전쟁에서 이러한 벨트 중 상당수는 보금점과 장비 매장에 진입하였다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,56609,"춤추는 도둑은 전설적인 인물로, 화려한 함정을 설치한 후 춤을 추며 통과하여 폭발과 효과를 빚어내는 공연을 펼쳐 관객들을 즐겁게 했습니다. 관중들이 분산된 순간, 그의 추종자들, 젊은 주머니잡이들이 군중을 틈타 물건을 훔쳐가며 사라져갔습니다."
-q2b11,git,StoreList/0/StoreList/0/ItemList/13/LocalizedName,0,56610,춤추기 부츠 +1
+q2b11,git,StoreList/0/StoreList/0/ItemList/13/LocalizedName,0,56610,댄싱 부츠 +1
 q2b11,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,56609,"춤추는 도둑은 전설적인 인물로, 화려한 함정을 설치한 후 춤을 추며 통과하여 폭발과 효과를 빚어내는 공연을 펼쳐 관객들을 즐겁게 했습니다. 관중들이 분산된 순간, 그의 추종자들, 젊은 주머니잡이들이 군중을 틈타 물건을 훔쳐가며 사라져갔습니다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/14/LocalizedName,0,56611,춤추기 장화 +2
 q2b11,git,StoreList/0/StoreList/0/ItemList/15/DescIdentified,0,48317,텀블러들은 부유하고 강력한 귀족과 상인들을 실각시키기 위해 협력했던 암살자 집단이었다. 페니아스 4세 황제는 왕실로부터 거의 완전히 독립해 버린 발라타의 여러 지방을 다시 통제하기 위해 이들을 이용했다.
 q2b11,git,StoreList/0/StoreList/0/ItemList/15/LocalizedName,0,48318,텀블러들
 q2b11,git,StoreList/0/StoreList/0/ItemList/16/DescIdentified,0,48317,텀블러들은 부유하고 강력한 귀족과 상인들을 실각시키기 위해 협력했던 암살자 집단이었다. 페니아스 4세 황제는 왕실로부터 거의 완전히 독립해 버린 발라타의 여러 지방을 다시 통제하기 위해 이들을 이용했다.
 q2b11,git,StoreList/0/StoreList/0/ItemList/16/LocalizedName,0,48316,작은 투머블
-q2b11,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,67487,"황색 장미 수도사단은 성 솔라르의 제자라고도 불리며, 동맹자에게는 큰 충성심을 보여주고 적들에게는 큰 파괴를 일으키는 행위로 유명하다. 이 계급의 수도사들은 제이스의 기사들과 자주 함께 여행하며, 종주사의 이 기사들에게 신뢰할 수 있는 가이드와 동반자로 봉사한다."
+q2b11,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 팔라딘들과 자주 동행한다.
 q2b11,git,StoreList/0/StoreList/0/ItemList/18/DescIdentified,0,13369,"나이 든 사제 여인 밀라도린 은 나 와 그 동료 들 에게 나이 가 매우 빠르게 영향을 미치고 있으며, 그 들 의 손 들 을 흔들고 사제 의 직무 를 수행 하는 데 방해 가 되는 것 을 알게 되었다. 리코스 의 축복 으로, 밀라도린 은 그들의 손 들 을 안정 시키고 근육 통제 를 강화 하는 마법 의 장갑 을 만들었다. 몇 년 후, 젊은 리코소니아 인 한 사람 은 장갑 을 사용 한 혐의 로 잡혔습니다."
 q2b11,git,StoreList/0/StoreList/1/ItemList/38/DescIdentified,0,13925,"황제의 암살자들의 관심에서 벗어나기 위해 고군인 월리트 텐트는 요정인 카흐나하다로 도망쳤다. 평화와 아름다움은 이 땅에서 다른 모든 것 이상으로 높여져 있기 때문에 황제의 암살자들은 들어갈 수 없었다. 월리트가 떠나기로 결정했을 때, 요리는 그에게 전례 없는 선물을 주었다. 요정인 은 아름다움의 무기였지만 여전히 무기였다. 요정인 월리트에 준 요정인은 요정들이 세계에서 더 많이 살았고 큰 사람들에게 전쟁을 벌인 시대였다고 말했다."
 q2b11,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,13446,이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며 발라타의 동굴에서 자주 사용됩니다.
@@ -685,14 +685,14 @@ q2b11,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,40659,"이 금속
 q2b11,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,40661,"이 헬멧은 착용자의 눈 위에 어두운 결정의 두 개의 렌즈를 장착한다. 렌즈는 불투명하지만, 착용자의 눈 위에 배치되면 정상적인 시력을 가능하게 하고 어두운 시력을 부여한다. 깊은 동굴과 지하 유적을 탐색하는 모험을 좋아하는 모험가들에게 일반적인 장비로, 이 헬멧은 또한 인간이 ""큰 평평""으로 칭송 받고 있으며 인간 악당들 사이에서 매우 인기가 있습니다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,67773,"로저 델포스 (Ronger Delphos) 는 성공적 인 상인으로서 도둑 반대 협회를 결성하기 위해 보안 전문가가 되기 위하여 돈을 지불했다. 경비자들은 사람 포박 마법으로 막대기를 사용하도록 훈련받았으며, 이 수사 조치를 견제하기 위해서 도둑협회가 마술 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 교단 사이의 격상되는 전쟁에서 이러한 벨트 중 상당수는 보금점과 장비 매장에 진입하였다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/13/DescIdentified,0,56609,"춤추는 도둑은 전설적인 인물로, 화려한 함정을 설치한 후 춤을 추며 통과하여 폭발과 효과를 빚어내는 공연을 펼쳐 관객들을 즐겁게 했습니다. 관중들이 분산된 순간, 그의 추종자들, 젊은 주머니잡이들이 군중을 틈타 물건을 훔쳐가며 사라져갔습니다."
-q2b11,git,StoreList/1/StoreList/0/ItemList/13/LocalizedName,0,56610,춤추기 부츠 +1
+q2b11,git,StoreList/1/StoreList/0/ItemList/13/LocalizedName,0,56610,댄싱 부츠 +1
 q2b11,git,StoreList/1/StoreList/0/ItemList/14/DescIdentified,0,56609,"춤추는 도둑은 전설적인 인물로, 화려한 함정을 설치한 후 춤을 추며 통과하여 폭발과 효과를 빚어내는 공연을 펼쳐 관객들을 즐겁게 했습니다. 관중들이 분산된 순간, 그의 추종자들, 젊은 주머니잡이들이 군중을 틈타 물건을 훔쳐가며 사라져갔습니다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/14/LocalizedName,0,56611,춤추기 장화 +2
 q2b11,git,StoreList/1/StoreList/0/ItemList/15/DescIdentified,0,48317,텀블러들은 부유하고 강력한 귀족과 상인들을 실각시키기 위해 협력했던 암살자 집단이었다. 페니아스 4세 황제는 왕실로부터 거의 완전히 독립해 버린 발라타의 여러 지방을 다시 통제하기 위해 이들을 이용했다.
 q2b11,git,StoreList/1/StoreList/0/ItemList/15/LocalizedName,0,48316,작은 투머블
 q2b11,git,StoreList/1/StoreList/0/ItemList/16/DescIdentified,0,48317,텀블러들은 부유하고 강력한 귀족과 상인들을 실각시키기 위해 협력했던 암살자 집단이었다. 페니아스 4세 황제는 왕실로부터 거의 완전히 독립해 버린 발라타의 여러 지방을 다시 통제하기 위해 이들을 이용했다.
 q2b11,git,StoreList/1/StoreList/0/ItemList/16/LocalizedName,0,48318,텀블러들
-q2b11,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,67487,"황색 장미 수도사단은 성 솔라르의 제자라고도 불리며, 동맹자에게는 큰 충성심을 보여주고 적들에게는 큰 파괴를 일으키는 행위로 유명하다. 이 계급의 수도사들은 제이스의 기사들과 자주 함께 여행하며, 종주사의 이 기사들에게 신뢰할 수 있는 가이드와 동반자로 봉사한다."
+q2b11,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 팔라딘들과 자주 동행한다.
 q2b11,git,StoreList/1/StoreList/0/ItemList/18/DescIdentified,0,13369,"나이 든 사제 여인 밀라도린 은 나 와 그 동료 들 에게 나이 가 매우 빠르게 영향을 미치고 있으며, 그 들 의 손 들 을 흔들고 사제 의 직무 를 수행 하는 데 방해 가 되는 것 을 알게 되었다. 리코스 의 축복 으로, 밀라도린 은 그들의 손 들 을 안정 시키고 근육 통제 를 강화 하는 마법 의 장갑 을 만들었다. 몇 년 후, 젊은 리코소니아 인 한 사람 은 장갑 을 사용 한 혐의 로 잡혔습니다."
 q2b11,git,StoreList/1/StoreList/1/ItemList/39/DescIdentified,0,13925,"황제의 암살자들의 관심에서 벗어나기 위해 고군인 월리트 텐트는 요정인 카흐나하다로 도망쳤다. 평화와 아름다움은 이 땅에서 다른 모든 것 이상으로 높여져 있기 때문에 황제의 암살자들은 들어갈 수 없었다. 월리트가 떠나기로 결정했을 때, 요리는 그에게 전례 없는 선물을 주었다. 요정인 은 아름다움의 무기였지만 여전히 무기였다. 요정인 월리트에 준 요정인은 요정들이 세계에서 더 많이 살았고 큰 사람들에게 전쟁을 벌인 시대였다고 말했다."
 q2b11,git,StoreList/1/StoreList/2/ItemList/3/DescIdentified,0,13446,이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며 발라타의 동굴에서 자주 사용됩니다.
@@ -718,9 +718,9 @@ q2b14a,git,Creature List/15/FirstName,0,12423,평민
 q2b14a,git,Creature List/2/Description,0,-1,이 와인드라인 바드는 거친 자부심으로 행동한다.
 q2b14a,git,Creature List/2/FirstName,0,-1,커티스 경
 q2b14a,git,Creature List/2/LastName,0,-1,바드
-q2b14a,git,Creature List/3/Description,0,-1,이곳은 바녀입니다.
+q2b14a,git,Creature List/3/Description,0,-1,여관 여종업원입니다.
 q2b14a,git,Creature List/3/FirstName,0,-1,바텐더
-q2b14a,git,Creature List/4/Description,0,-1,이곳은 바녀입니다.
+q2b14a,git,Creature List/4/Description,0,-1,여관 여종업원입니다.
 q2b14a,git,Creature List/4/FirstName,0,-1,바텐더
 q2b14a,git,Creature List/5/FirstName,0,-1,로컬 경비병
 q2b14a,git,Creature List/6/FirstName,0,-1,로컬 경비병
@@ -755,11 +755,11 @@ q2b9,git,Creature List/2/FirstName,0,-1,트롤두르
 q2b9,git,Creature List/2/LastName,0,-1,자산
 q2b9,git,Creature List/3/FirstName,0,12422,평민
 q2b9,git,Creature List/4/Description,0,-1,이곳의 현지 사냥꾼 중 한 명입니다.
-q2b9,git,Creature List/4/FirstName,0,-1,로컬 투사
+q2b9,git,Creature List/4/FirstName,0,-1,지역 전사
 q2b9,git,Creature List/5/Description,0,-1,이 사람은 구석의 평범한 사람들 중 한 명입니다.
 q2b9,git,Creature List/5/FirstName,0,12423,평민
 q2b9,git,Creature List/6/Description,0,-1,고구려의 평범한 사람들은 긴장이 넘치는 삶을 살고 있습니다. 그들을 지도할 강력한 지도자를 절실히 찾습니다.
-q2b9,git,Creature List/6/FirstName,0,12423,로컬 투사
+q2b9,git,Creature List/6/FirstName,0,12423,지역 전사
 q2b9,git,Creature List/7/Description,0,-1,이 사람은 구석의 평범한 사람들 중 한 명입니다.
 q2b9,git,Creature List/7/FirstName,0,12423,평민
 q2b9,git,Door List/0/LocName,0,5349,쿼터마스터 출입구
@@ -800,7 +800,7 @@ q2c,git,Creature List/10/FirstName,0,-1,투명한 목소리
 q2c,git,Creature List/11/Description,0,-1,"이 성기사는 자신감이 넘치는 기운을 풍깁니다. 에니비드는 성채의 '손' 직책을 맡고 있지만, 더 높은 자리를 열망하고 있습니다."
 q2c,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,에니비드의 헬름
 q2c,git,Creature List/11/Equip_ItemList/0/Description,0,-1,에니비드의 헬름
-q2c,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,12849,고등급 용기
+q2c,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,12849,신성한 용기
 q2c,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,13820,신성 판금
 q2c,git,Creature List/11/Equip_ItemList/2/LocalizedName,0,14295,법정부 의원
 q2c,git,Creature List/11/FirstName,0,-1,에니비드
@@ -926,12 +926,12 @@ q2c013,git,TriggerList/3/LocalizedName,0,14759,치먼 엘레트라 트립
 q2c013,git,WaypointList/0/LocalizedName,0,14814,거울 웨이포인트
 q2c013,git,WaypointList/1/LocalizedName,0,14817,자볼리 집
 q2c19a,git,Door List/0/LocName,0,5349,곡물 창고 출구
-q2c19a,git,Placeable List/0/LocName,0,5800,투명한 쇠살대 객체
+q2c19a,git,Placeable List/0/LocName,0,5800,투명한 쇠살대 개체
 q2c19a,git,WaypointList/0/LocalizedName,0,14817,곡물 창고 탈출점
 q2c22a,git,Creature List/0/Description,0,-1,"엘리시아 실버톤은 아름다운 여성으로, 귀족들의 길드마스터입니다."
 q2c22a,git,Creature List/0/FirstName,0,-1,엘리시아
 q2c22a,git,Creature List/0/LastName,0,-1,은어
-q2c22a,git,Door List/0/LocName,0,5349,마네이어 출입구
+q2c22a,git,Door List/0/LocName,0,5349,매너 출구
 q2c22a,git,Placeable List/0/Description,0,76380,"그릴은 단단히 봉쇄되어 있습니다. 그러나 당신은 당신의 손을 그릴을 통해 넣을 수 있다고 의심하고, 아래에 있는 것을 느낄 수 있습니다."
 q2c22a,git,Placeable List/0/LocName,0,68907,쇠살대
 q2c22a,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
@@ -961,7 +961,7 @@ q2c24a,git,Placeable List/34/Description,0,14600,"그 사람이 처음에는 거
 q2c24a,git,Placeable List/41/LocName,0,5681,갑옷 거치대
 q2c24a,git,TriggerList/0/LocalizedName,0,14759,딜런이 트리거 발동
 q2c24a,git,TriggerList/1/LocalizedName,0,14759,헨치먼 감옥
-q2c24a,git,WaypointList/0/LocalizedName,0,14817,감옥 항목 웨이포인트
+q2c24a,git,WaypointList/0/LocalizedName,0,14817,감옥 입구 웨이포인트
 q2c24a,git,WaypointList/1/LocalizedName,0,14817,감옥 던전 지도설명
 q2c24a,git,WaypointList/1/MapNote,0,-1,감옥 던전
 q2c25,git,Creature List/0/Description,0,-1,마이크스 램프라이터 (Mykes Lamplighter) 는 요새의 카스텔란 (Castellan of the Keep) 이다.
@@ -972,12 +972,12 @@ q2c25,git,Creature List/1/FirstName,0,-1,세라
 q2c25,git,Creature List/1/LastName,0,-1,블랙핸드
 q2c25,git,Creature List/2/Description,0,-1,스탠은 반 오크의 전직 모험가입니다. 그는 모험가들에게 가장 잘하는 일을 위해 돈을 지불하는 고용 사업을 운영하고 있습니다. 그는 또한 트레이드들의 길드 마스터입니다.
 q2c25,git,Creature List/2/FirstName,0,-1,스탠
-q2c25,git,Creature List/3/Description,0,-1,이곳은 요새의 경비원 중 한 명이다.
+q2c25,git,Creature List/3/Description,0,-1,이 자는 요새 경비병 중 한 명이다.
 q2c25,git,Creature List/3/FirstName,0,-1,경비병
-q2c25,git,Creature List/4/Description,0,-1,이곳은 요새의 경비원 중 한 명이다.
+q2c25,git,Creature List/4/Description,0,-1,이 자는 요새 경비병 중 한 명이다.
 q2c25,git,Creature List/4/FirstName,0,-1,경비병
 q2c25,git,Creature List/5/Description,0,-1,이곳의 현지 사냥꾼 중 한 명입니다.
-q2c25,git,Creature List/5/FirstName,0,-1,로컬 투사
+q2c25,git,Creature List/5/FirstName,0,-1,지역 전사
 q2c25,git,Creature List/6/Description,0,-1,이곳의 평민입니다.
 q2c25,git,Creature List/6/FirstName,0,12422,평민
 q2c25,git,Creature List/7/Description,0,-1,고구려의 평범한 사람들은 긴장이 넘치는 삶을 살고 있습니다. 그들을 지도할 강력한 지도자를 절실히 찾습니다.
@@ -993,8 +993,8 @@ q2c25,git,TriggerList/5/LocalizedName,0,14759,투표 트리거 유지
 q2c25,git,WaypointList/0/LocalizedName,0,14817,페란은 웨이포인트를 떠났다
 q2c25,git,WaypointList/1/LocalizedName,0,14817,지도 설명: 토지 소유자 협회
 q2c25,git,WaypointList/1/MapNote,0,-1,토지 소유자 협회 사무실
-q2c25,git,WaypointList/10/LocalizedName,0,14814,군용 협회
-q2c25,git,WaypointList/10/MapNote,0,14815,군용 협회
+q2c25,git,WaypointList/10/LocalizedName,0,14814,군사 길드
+q2c25,git,WaypointList/10/MapNote,0,14815,군사 길드
 q2c25,git,WaypointList/11/LocalizedName,0,14814,상업
 q2c25,git,WaypointList/11/MapNote,0,14815,상업
 q2c25,git,WaypointList/12/LocalizedName,0,14814,지도설명: 사제 사무소
@@ -1039,7 +1039,7 @@ q2c5,git,Creature List/0/Description,0,-1,베켓 경의 경비관은 의심스�
 q2c5,git,Creature List/0/FirstName,0,-1,경비병
 q2c5,git,Creature List/1/Description,0,-1,베켓 경의 경비관은 의심스러운 눈빛으로 당신을 바라보고 있습니다.
 q2c5,git,Creature List/1/FirstName,0,-1,경비병
-q2c5,git,Door List/0/LocName,0,5349,마네이어 출입구
+q2c5,git,Door List/0/LocName,0,5349,매너 출구
 q2c5,git,Placeable List/0/Description,0,68862,단단한 나무 책상
 q2c5,git,Placeable List/0/ItemList/0/DescIdentified,0,-1,이 조각은 찢어진 것처럼 보입니다. 아래쪽에 있는 몇몇 단어가 찢어져 읽을 수가 없습니다. 만약 다른 조각을 가지고 있다면...
 q2c5,git,Placeable List/0/ItemList/0/Description,0,-1,이 조각은 찢어진 것처럼 보입니다. 아래쪽에 있는 몇몇 단어가 찢어져 읽을 수가 없습니다. 만약 다른 조각을 가지고 있다면...
@@ -1065,7 +1065,7 @@ q3d,git,SoundList/6/LocName,0,-1,동굴 물방울 소리
 q3d,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
 q3d,git,WaypointList/0/LocalizedName,0,14817,지도설명: 출구 웨이포인트
 q3d,git,WaypointList/0/MapNote,0,-1,출구
-q3d,git,WaypointList/1/LocalizedName,0,14817,지도설명: 드워프 성당
+q3d,git,WaypointList/1/LocalizedName,0,14817,지도 메모: 드워프 회관
 q3d,git,WaypointList/1/MapNote,0,-1,출구
 q3d,git,WaypointList/2/LocalizedName,0,14817,느슨한 돌 1 웨이포인트
 q3d,git,WaypointList/3/LocalizedName,0,14817,느슨한 돌 1 웨이포인트
@@ -1189,9 +1189,9 @@ tarnishedtankard,git,Creature List/14/Description,0,-1,이 사람은 구석의 �
 tarnishedtankard,git,Creature List/14/FirstName,0,12423,평민
 tarnishedtankard,git,Creature List/2/Description,0,-1,이 사람은 '빛바랜 탱커드'의 경비원 중 한 명입니다.
 tarnishedtankard,git,Creature List/2/FirstName,0,-1,맥
-tarnishedtankard,git,Creature List/3/Description,0,-1,이곳은 바녀입니다.
+tarnishedtankard,git,Creature List/3/Description,0,-1,여관 여종업원입니다.
 tarnishedtankard,git,Creature List/3/FirstName,0,-1,바텐더
-tarnishedtankard,git,Creature List/4/Description,0,-1,이곳은 바녀입니다.
+tarnishedtankard,git,Creature List/4/Description,0,-1,여관 여종업원입니다.
 tarnishedtankard,git,Creature List/4/FirstName,0,-1,바텐더
 tarnishedtankard,git,Creature List/5/Description,0,-1,고구려의 평범한 사람들은 긴장이 넘치는 삶을 살고 있습니다. 그들을 지도할 강력한 지도자를 절실히 찾습니다.
 tarnishedtankard,git,Creature List/5/FirstName,0,12423,평민
@@ -1213,11 +1213,11 @@ tarnishedtankard,git,WaypointList/4/LocalizedName,0,14817,여종업원 웨이포
 thanlormanor001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,램피의 빛
 thanlormanor001,git,Creature List/0/FirstName,0,-1,가지달린 촛대
 thanlormanor001,git,Creature List/1/FirstName,0,-1,갑옷인형
-thanlormanor001,git,Door List/3/LocName,0,5349,마네이어 출입구
+thanlormanor001,git,Door List/3/LocName,0,5349,매너 출구
 thanlormanor001,git,Encounter List/0/LocalizedName,0,14493,형체가 없는 언데드 무리
 thanlormanor001,git,Encounter List/1/LocalizedName,0,14493,형체가 없는 언데드 무리
 thanlormanor001,git,Placeable List/0/Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
-thanlormanor001,git,Placeable List/0/LocName,0,5800,투명한 쇠살대 객체
+thanlormanor001,git,Placeable List/0/LocName,0,5800,투명한 쇠살대 개체
 thanlormanor001,git,Placeable List/27/LocName,0,5800,km_ghostseat
 thanlormanor001,git,Placeable List/28/LocName,0,5800,km_ghostseat
 thanlormanor001,git,Placeable List/29/LocName,0,5800,km_ghostseat

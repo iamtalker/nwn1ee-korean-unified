@@ -52,7 +52,7 @@ battleol,utc,FirstName,0,12664,오우거 족장
 battleos,utc,Description,0,12663,"오우거는 끔찍하고 탐욕스러운 생물들이다. 그들은 습격과 떠돌이 생활을 통해 살아간다. 오우거들은 거인과 트롤과 자유롭게 어울리며, 약자를 사냥하기 위해 연합한다."
 battleos,utc,FirstName,0,12664,오우거
 battlepdka,utc,Description,0,-1,"코르미르의 보라색 용의 '검사', 코르미르의 정규 군인들. 최근 가즈네스와의 전쟁 후 견고하고 경험이 풍부한 이들은 힘들고 경험이 풍부한 사람들을 나타낸다."
-battlepdka,utc,FirstName,0,-1,보라색 용궁수
+battlepdka,utc,FirstName,0,-1,퍼플 드래곤 궁수
 battlepdkc,utc,Description,0,-1,코르미르의 군사 조직인 퍼플 드래곤 군단 소속 성직자
 battlepdkc,utc,FirstName,0,-1,보라용 성직자
 battlepdkl,utc,Description,0,-1,"보라색 용의 '리온어'이며, 코르미르의 정규 군인들입니다. 이 남녀들은 최근 가즈네스와의 전쟁 이후 힘들고 경험이 풍부해졌습니다."
@@ -60,7 +60,7 @@ battlepdkl,utc,FirstName,0,-1,보라용 라이온어
 battlepdkm,utc,Description,0,-1,"코르미르의 보라색 용의 '검사', 코르미르의 정규 군인들. 최근 가즈네스와의 전쟁 후 견고하고 경험이 풍부한 이들은 힘들고 경험이 풍부한 사람들을 나타낸다."
 battlepdkm,utc,FirstName,0,-1,보라색 용 칼
 battleskel,utc,FirstName,0,12704,해골 전사
-battlespec,utc,FirstName,0,12716,악마의 유령
+battlespec,utc,FirstName,0,12716,사악한 유령
 battlewl,utc,Description,0,12628,강력한 마녀왕과 리히 스사스 모르크. 400년 전 갈라거드 왕에 의해 패배한 것으로 생각되던 마녀왕들이 다시 돌아왔습니다.
 battlewl,utc,FirstName,0,12629,마녀왕
 birdy,utc,FirstName,0,6008,큰까마귀
@@ -89,7 +89,7 @@ caladnei,utc,FirstName,0,-1,칼라드니
 caravandriver,utc,Description,0,-1,살바토리의 카라반의 카트 운전사
 caravandriver,utc,FirstName,0,-1,카라반 운전사
 caravanguard,utc,FirstName,0,-1,카라반 경비병
-citywatch,utc,FirstName,0,-1,시티 웨이트
+citywatch,utc,FirstName,0,-1,도시 경비대
 commoner,utc,Description,0,-1,썬더스톤의 지역인
 commoner,utc,FirstName,0,-1,평민
 commoner001,utc,Description,0,-1,썬더스톤의 지역인
@@ -101,7 +101,7 @@ creature,utc,Description,0,-1,"'마트론'으로 더 흔히 불리는 엘라도�
 creature,utc,FirstName,0,-1,'마트론'
 creature,utc,LastName,0,-1,팔머
 creature001,utc,FirstName,0,-1,'여자'
-creature002,utc,Description,0,-1,서부부에서 온 상인이라고 불리는 사람이 호클린 성으로 비밀로 들어가는 길을 찾도록 보내졌어.
+creature002,utc,Description,0,-1,"호클린 성으로 가는 비밀 통로를 찾기 위해 파견된, 셈비아 출신의 자칭 상인."
 creature002,utc,FirstName,0,-1,세미안 상인
 creature003,utc,Description,0,-1,한 팔을 가진 마거크는 은퇴한 모험가이며 동료들을 위한 가게의 주인입니다.
 creature003,utc,FirstName,0,-1,한팔 마거크
@@ -109,7 +109,7 @@ curst004,utc,Description,0,66927,저주받은 커스트의 눈은 고통과 광�
 curst004,utc,FirstName,0,12437,커스트 순찰자
 dart_commoner,utc,FirstName,0,12374,평민
 dart_guardsman,utc,FirstName,0,-1,도시 경비원
-dart_knghterrant,utc,FirstName,0,-1,기사 유랑자
+dart_knghterrant,utc,FirstName,0,-1,방랑 기사
 dart_meroido,utc,FirstName,0,-1,메로이도
 dart_meroido,utc,LastName,0,-1,아파리스토
 derryhoggins,utc,FirstName,0,-1,데리 호그킨스
@@ -191,7 +191,7 @@ dla_opp_joust008,utc,FirstName,0,-1,지오린 와이번스퍼 경
 dla_opps_joust01,utc,FirstName,0,-1,반도브라스 톨만
 dla_opps_joust02,utc,FirstName,0,-1,발도 톨만
 dla_opps_joust03,utc,FirstName,0,-1,스트렌 스터넬름
-dla_opps_joust04,utc,FirstName,0,-1,하스나우 번더브라우
+dla_opps_joust04,utc,FirstName,0,-1,하스노르 썬더브라우
 dla_opps_joust05,utc,FirstName,0,-1,조스트링: 로즈 그린우드
 dla_opps_joust06,utc,FirstName,0,-1,인만 인사르
 dla_opps_joust07,utc,FirstName,0,-1,레이디 아리안나 피츠코르메릴
@@ -270,7 +270,7 @@ howler,utc,FirstName,0,-1,우러러
 hugewyvern,utc,Description,0,-1,오그르 보다 더 큰 이 큰 도마뱀 들 은 드래곤 들 의 먼 사촌 들 이다. 드래코닉적 인 말 을 할 수 있음에도 불구하고 지능 이 낮고 자연 으로 공격적 이다. 와이버너 들 은 와이버너 워터 호수 위 에 여전히 흔 하다.
 hugewyvern,utc,FirstName,0,-1,거대와이번
 huntsilverguard,utc,Description,0,-1,헌츠릴버 가문의 경비원
-huntsilverguard,utc,FirstName,0,-1,경비병 사냥꾼
+huntsilverguard,utc,FirstName,0,-1,헌트실버 경비병
 hurim,utc,Description,0,-1,후림 티오도르는 코르미르 왕국의 대표이다. 그는 아조온 4세 시절부터 왕세자 레전트 하에 이어 계속해서 일하고 있다. 그는 부패하지 않는 성격으로 잘 알려져 있다.
 hurim,utc,FirstName,0,-1,후림 티오도르
 hurim001,utc,Description,0,-1,후림 티오도르는 코르미르 왕국의 대표이다. 그는 아조온 4세 시절부터 왕세자 레전트 하에 이어 계속해서 일하고 있다. 그는 부패하지 않는 성격으로 잘 알려져 있다.
@@ -293,7 +293,7 @@ jonashuman,utc,Description,0,-1,"조나스 형은 그의 젊은 아내 레나와
 jonashuman,utc,FirstName,0,-1,조나스
 juvenilewyvern,utc,Description,0,-1,"이 큰 도마뱀들은 오그르보다 더 크고, 드래곤들의 먼 사촌들이다. 드래코닉한 말을 할 수 있지만 지능이 낮고, 성격은 공격적이다. 아직 완전히 성장하지 않은 청년들은 더 두려워한다."
 juvenilewyvern,utc,FirstName,0,-1,소년 와이번
-kathryn,utc,Description,0,-1,"카트린은 강인트 기르빌트의 마지막 생존자이다. 그녀의 두 형제는 전쟁에서 사망했다. 그 결과 기르빌트는 그의 남은 자녀에 대해 매우 보호적이고, 카트린은 성으로 들어가고 밖으로 나가기 위해 속임수를 써야 하고, 스파이하는 종들 눈 아래에서 빠져나와야 한다. 그녀는 모험을 갈망하며 아버지의 빚을 갚는 방법을 찾는 기회를 갈망한다."
+kathryn,utc,Description,0,-1,"카트린은 길버트 호클린 경의 마지막 남은 자녀이다. 그녀의 두 오빠는 전쟁에서 사망했다. 그 결과 길버트 경은 남은 자식에 대해 지나칠 정도로 과보호하게 되었고, 그녀는 성 안팎을 드나들며 감시하는 하인들의 눈을 피하기 위해 온갖 꾀를 부려야 했다. 그녀는 모험과 함께 아버지의 빚을 갚을 방법을 찾을 기회를 간절히 바라고 있다."
 kathryn,utc,FirstName,0,-1,카트린
 kathryn,utc,LastName,0,-1,호클린
 keeper,utc,Description,0,-1,이 성에 어울리지 않는 노인
@@ -359,7 +359,7 @@ poltergeist,utc,FirstName,0,-1,폴터게이스트
 purpledragonb001,utc,Description,0,-1,"코르미르의 보라색 용의 '검사', 코르미르의 정규 군인들. 최근 가즈네스와의 전쟁 후 견고하고 경험이 풍부한 이들은 힘들고 경험이 풍부한 사람들을 나타낸다."
 purpledragonb001,utc,FirstName,0,-1,보라색 용 칼
 purpledragonb002,utc,Description,0,-1,"코르미르의 보라색 용의 '검사', 코르미르의 정규 군인들. 최근 가즈네스와의 전쟁 후 견고하고 경험이 풍부한 이들은 힘들고 경험이 풍부한 사람들을 나타낸다."
-purpledragonb002,utc,FirstName,0,-1,보라색 용궁수
+purpledragonb002,utc,FirstName,0,-1,퍼플 드래곤 궁수
 purpledragonb003,utc,Description,0,-1,"코르미르의 보라색 용의 '검사', 코르미르의 정규 군인들. 최근 가즈네스와의 전쟁 후 견고하고 경험이 풍부한 이들은 힘들고 경험이 풍부한 사람들을 나타낸다."
 purpledragonb003,utc,FirstName,0,-1,죽은 보라 용
 purpledragonblad,utc,Description,0,-1,"코르미르의 보라색 용의 '검사', 코르미르의 정규 군인들. 최근 가즈네스와의 전쟁 후 견고하고 경험이 풍부한 이들은 힘들고 경험이 풍부한 사람들을 나타낸다."
@@ -389,9 +389,9 @@ sharkhammer001,utc,Description,0,110848,"자연적으로 조심스럽지만, 일
 sharkmako001,utc,Description,0,110847,"마코 상어는 대형 백색 상어의 작지만 더 빠른 친척으로, 보통 열린 물에서 발견되는 위험하고 공격적인 맹수들이다. 그들의 혈액을 주변보다 더 따뜻하게 유지할 수 있는 능력은 놀라운 속도로 튀어나갈 수 있게 해준다."
 sirgilbert,utc,Description,0,-1,썬더스톤에 거주하는 호클린 집안의 소위 귀족인 길버트 호클린 씨
 sirgilbert,utc,FirstName,0,-1,길버트 호클린 경
-sirgilbert001,utc,Description,0,-1,"서 길버트 호클린, 썬더스톤에 거주하는 호클린 가문의 소위 귀족"
+sirgilbert001,utc,Description,0,-1,"길버트 호클린 경, 썬더스톤을 기반으로 하는 호클린 가문의 하급 귀족."
 sirgilbert001,utc,FirstName,0,-1,길버트 호클린 경
-sirgilbert002,utc,Description,0,-1,"서 길버트 호클린, 썬더스톤에 거주하는 호클린 가문의 소위 귀족"
+sirgilbert002,utc,Description,0,-1,"길버트 호클린 경, 썬더스톤을 기반으로 하는 호클린 가문의 하급 귀족."
 sirgilbert002,utc,FirstName,0,-1,길버트 호클린 경
 smith,utc,Description,0,-1,이 반 엘프는 왈글의 라이버리의 새로운 수리자입니다. 그녀는 썬더스톤에 오래 머물지 않았지만 훌륭한 공예로 유명합니다.
 smith,utc,FirstName,0,-1,대장장이

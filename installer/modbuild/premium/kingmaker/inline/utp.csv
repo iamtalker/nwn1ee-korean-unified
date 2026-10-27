@@ -23,8 +23,8 @@ ooc_kai_lever,utp,LocName,0,14633,OOC 카이달라 레버
 os_combat_dummy,utp,Description,0,14599,양동이 머리와 짚으로 채운 가슴을 가진 전투 연습용 인형은 전혀 위협적으로 보이지 않는다.
 os_hidden_gwood,utp,LocName,0,68906,비밀 격자
 os_setup_axes,utp,LocName,0,14549,OOC 장식장 주먹대
-os_setup_bladed,utp,LocName,0,14549,OOC 장식날붙이
-os_setup_blunt,utp,LocName,0,14549,OOC 장식장 거친
+os_setup_bladed,utp,LocName,0,14549,OOC 장식장 검류
+os_setup_blunt,utp,LocName,0,14549,OOC 장식장 둔기
 os_setup_double,utp,LocName,0,14549,OOC 장식장 이중
 os_setup_exotic,utp,LocName,0,14549,OOC 장식장 이국적
 os_setup_polearm,utp,LocName,0,14549,OOC 장식대 창기
@@ -46,7 +46,7 @@ q1_plc_headdan,utp,Description,0,-1,"댄의 밝은 면은 상냥하고 명랑했
 q1_plc_headdan,utp,LocName,0,-1,다니엘의 비석
 q1_poisonhive,utp,LocName,0,14578,꿀벌
 q1e_kai_dirt,utp,Description,0,68824,"더러워지거나 진흙을 만드는 것 말고는 거의 아무 데도 쓸 수 없는, 넓은 흙바닥."
-q1e_kai_shrub,utp,Description,0,67632,불명확한 덤불
+q1e_kai_shrub,utp,Description,0,67632,평범한 덤불 조각.
 q1e_kai_tree,utp,Description,0,14746,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 q2_armorstand,utp,LocName,0,5681,갑옷 거치대
 q2_candelabra,utp,Description,0,14589,굵은 밀랍 양초들이 철제 받침대 위에서 낮게 타고 있다. 떨어진 밀랍이 쌓인 아래 바닥에는 작은 언덕이 생겼다.
@@ -73,10 +73,10 @@ q2_ooc_qmlev2,utp,LocName,0,14633,OOC 만티코어 오답
 q2_ooc_votelever,utp,Description,0,14632,레비오사 플롯을 함정 없이 완료하도록 설정
 q2_ooc_votelever,utp,LocName,0,14633,OOC 투표 레버
 q2_ring_grate,utp,LocName,0,68907,쇠살대
-q2c19_inv_grate,utp,LocName,0,5800,투명한 쇠살대 객체
+q2c19_inv_grate,utp,LocName,0,5800,투명한 쇠살대 개체
 q2c22_grate,utp,LocName,0,68906,쇠살대
-q2c22b_inv_grate,utp,LocName,0,5800,투명한 쇠살대 객체
-q2c24c_inv_grate,utp,LocName,0,5800,투명한 쇠살대 객체
+q2c22b_inv_grate,utp,LocName,0,5800,투명한 쇠살대 개체
+q2c24c_inv_grate,utp,LocName,0,5800,투명한 쇠살대 개체
 q2c_ooc_leverpri,utp,LocName,0,14633,OOC 감옥 레버
 q3_advisor,utp,LocName,0,14731,상담자
 q3_bale_grain,utp,LocName,0,-1,베일
@@ -115,7 +115,7 @@ q3ah_plc_invjump,utp,LocName,0,5800,투명 점프 객체
 q3ai_inv_q2ab,utp,LocName,0,5800,투명한 문 오브젝트
 q3d_doorlever,utp,Description,0,14632,레비오사 플롯을 함정 없이 완료하도록 설정
 q3h_gem_barrel,utp,Description,0,84582,[TEMP] 검은통 설명
-q3h_gem_barrel,utp,LocName,0,84567,수정 굴착 통
+q3h_gem_barrel,utp,LocName,0,84567,수정 파쇄 통
 q3h_mantilever,utp,Description,0,14632,레비오사 플롯을 함정 없이 완료하도록 설정
 q3h_mantilever,utp,LocName,0,14633,레버
 signpost001,utp,LocName,0,5732,북쪽 - 에메랄드 힐스 서쪽 - 시안의 보호구역
