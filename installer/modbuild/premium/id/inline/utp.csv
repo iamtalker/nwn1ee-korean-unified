@@ -1,7 +1,7 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
 arrow_plc,utp,LocName,0,14629,화살
 bluearrow,utp,LocName,0,-1,푸른 화살
-bossitemmarker,utp,Description,0,14720,시안색 빛이 시원하게 내려오는 것처럼 보입니다. 위에서 보이지 않는 곳에서요.
+bossitemmarker,utp,Description,0,14720,위쪽의 보이지 않는 곳에서 청록색 빛줄기가 맹렬하게 내리꽂힌다.
 bossitemmarker,utp,LocName,0,14719,보스ItemMarker
 brazier_plc,utp,Description,0,14579,화로가 뜨거운 빛을 내뿜는다. 손을 뻗자 손바닥에 땀방울이 맺히는 것이 느껴진다.
 catalogspeaker,utp,Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
@@ -11,7 +11,7 @@ color_plc_2,utp,LocName,0,5800,시안 루네
 color_plc_3,utp,LocName,0,5800,녹색 루네
 color_plc_4,utp,LocName,0,5800,주황 룬
 color_plc_5,utp,LocName,0,5800,보라색 룬
-color_plc_6,utp,LocName,0,5800,레드 루니
+color_plc_6,utp,LocName,0,5800,붉은 룬
 color_plc_7,utp,LocName,0,5800,백색 룬
 color_plc_8,utp,LocName,0,5800,노랑 룬
 cpu,utp,LocName,0,5800,CPU
@@ -62,8 +62,8 @@ id1_plc010,utp,LocName,0,-1,화살이 꽂힌 시체
 id1_plc011,utp,LocName,0,-1,배너
 id1_plc012,utp,LocName,0,-1,통
 id1_plc013,utp,LocName,0,-1,긴의자
-id1_plc014,utp,LocName,0,-1,거구의 구멍
-id1_plc015,utp,LocName,0,-1,거구 버섯
+id1_plc014,utp,LocName,0,-1,커다란 구멍
+id1_plc015,utp,LocName,0,-1,커다란 버섯
 id1_plc016,utp,LocName,0,-1,새 욕조
 id1_plc017,utp,LocName,0,-1,새장
 id1_plc018,utp,LocName,0,-1,검은 통
@@ -246,7 +246,7 @@ id1_plc194,utp,LocName,0,-1,나무 상자
 id1_plc195,utp,LocName,0,-1,나무 상자
 id1_plc196,utp,LocName,0,-1,나무 상자
 id1_plc197,utp,LocName,0,-1,쓰레기 쌓임
-id1_plc198,utp,LocName,0,-1,건초 비계
+id1_plc198,utp,LocName,0,-1,건초 더미
 id1_plc199,utp,LocName,0,-1,작은통
 id1_plc200,utp,LocName,0,-1,소형 융단
 id1_plc201,utp,LocName,0,-1,톱모탕
@@ -360,7 +360,7 @@ rune_plc_5,utp,LocName,0,14704,스위치
 rune_plc_7,utp,LocName,0,14704,스위치
 rune_plc_9,utp,LocName,0,14704,스위치
 solblue,utp,LocName,0,14719,블루 빛줄기
-solcyan,utp,Description,0,14720,시안색 빛이 시원하게 내려오는 것처럼 보입니다. 위에서 보이지 않는 곳에서요.
+solcyan,utp,Description,0,14720,위쪽의 보이지 않는 곳에서 청록색 빛줄기가 맹렬하게 내리꽂힌다.
 solcyan,utp,LocName,0,14719,시안의 빛줄기
 solgreen,utp,LocName,0,14719,녹색 빛줄기
 solorange,utp,LocName,0,14719,주황색 빛줄기
@@ -375,7 +375,7 @@ sparks_plc_3,utp,LocName,0,14673,녹색 스파크
 sparks_plc_4,utp,LocName,0,14673,주황 스파크
 sparks_plc_5,utp,Description,0,14677,보랏빛 불꽃이 서늘한 밤공기 속 도깨비불처럼 땅에서 솟아오릅니다.
 sparks_plc_5,utp,LocName,0,14673,보라색 번개
-sparks_plc_6,utp,LocName,0,14673,붉은 불꽃
+sparks_plc_6,utp,LocName,0,14673,붉은 불나비
 sparks_plc_7,utp,LocName,0,14673,하얀 불꽃
 sparks_plc_8,utp,Description,0,14680,맑은 밤 공기에서 지상에서 금빛 스파크가 윙크처럼 올라간다.
 sparks_plc_8,utp,LocName,0,14673,노랑 스파크
@@ -385,7 +385,7 @@ stdown,utp,LocName,0,-1,StDown
 stup,utp,LocName,0,-1,스터프
 switch_plc,utp,Description,0,14579,화로가 뜨거운 빛을 내뿜는다. 손을 뻗자 손바닥에 땀방울이 맺히는 것이 느껴진다.
 switchtemplate,utp,LocName,0,14704,템플릿 변경
-temporaryblocker,utp,Description,0,84577,이 마블 책장에는 먼지투성의 오래된 책들이 가득합니다.
+temporaryblocker,utp,Description,0,84577,이 대리석 책장에는 먼지 쌓인 오래된 고서들이 가득하다.
 temporaryblocker,utp,LocName,0,84564,임시 장애물
 tile00,utp,LocName,0,-1,타일00
 tile01,utp,LocName,0,-1,타일01

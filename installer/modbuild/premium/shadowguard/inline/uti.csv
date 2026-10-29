@@ -111,7 +111,7 @@ it_arm_helm_019,uti,LocalizedName,0,-1,황제 투구
 it_arm_helm_020,uti,LocalizedName,0,-1,IT_ARM_HELM_020
 it_arm_helm_030,uti,LocalizedName,0,-1,IT_ARM_HELM_030
 it_arm_helm_040,uti,LocalizedName,0,-1,IT_ARM_HELM_040
-it_arm_helm_801,uti,DescIdentified,0,-1,"이 헬멧은 스톰크로 가족, 북쪽 영향력 있는 귀족들이 사용하는 보병의 전형적인 머리장식입니다."
+it_arm_helm_801,uti,DescIdentified,0,-1,이 헬멧은 북쪽 리치의 영향력 있는 귀족인 스톰크로 가문의 고용된 보병들의 전형적인 머리장식입니다.
 it_arm_helm_801,uti,LocalizedName,0,-1,스토밍크로우 투구
 it_arm_helm_900,uti,LocalizedName,0,-1,IT_ARM_HELM_900
 it_arm_helm_901,uti,LocalizedName,0,-1,아카나 투구
@@ -153,7 +153,7 @@ it_arm_light_040,uti,LocalizedName,0,-1,IT_ARM_LIGHT_040
 it_arm_light_801,uti,DescIdentified,0,-1,이 갑옷은 블러드하크 노예 조직의 상징으로 장식되어 있습니다.
 it_arm_light_801,uti,LocalizedName,0,-1,블러드호크 징 박힌 가죽 갑옷
 it_arm_light_802,uti,DescIdentified,0,-1,이 갑옷은 북부 리치에 영향력 있는 주왕 스톰크로우 가족의 상징을 지닙니다.
-it_arm_light_802,uti,LocalizedName,0,-1,스토밍크로우 스탠다드 가죽
+it_arm_light_802,uti,LocalizedName,0,-1,스톰크로우 스터디드 레더
 it_arm_light_901,uti,DescIdentified,0,-1,이 로브는 잔타라 섬의 제국 흑기사 아카데미의 교장 베로나가 입던 것이다.
 it_arm_light_901,uti,LocalizedName,0,-1,베로나 교장의 망토
 it_arm_light_902,uti,LocalizedName,0,-1,황제의 가죽 갑옷
@@ -299,7 +299,7 @@ it_crea_hung_002,uti,LocalizedName,0,-1,배고픔 공격력 (2)
 it_crea_hung_003,uti,DescIdentified,0,-1,[이것은 굶주림으로 입은 효과입니다.]
 it_crea_hung_003,uti,LocalizedName,0,-1,고통스러운 배고픔 (3)
 it_crea_hung_004,uti,DescIdentified,0,-1,[이것은 굶주림으로 입은 효과입니다.]
-it_crea_hung_004,uti,LocalizedName,0,-1,배고픔 통증 (4)
+it_crea_hung_004,uti,LocalizedName,0,-1,허기 (4)
 it_crea_hung_005,uti,DescIdentified,0,-1,[이것은 굶주림으로 입은 효과입니다.]
 it_crea_hung_005,uti,LocalizedName,0,-1,고통스러운 배고픔 (5)
 it_crea_hung_006,uti,DescIdentified,0,-1,[이것은 굶주림으로 입은 효과입니다.]
@@ -431,9 +431,12 @@ it_misc_book_024,uti,DescIdentified,0,-1,"북쪽의 도달: 가이드 컬렉션
 
 제렉, 샤라칸 제국의 여행자가 집필"
 it_misc_book_024,uti,LocalizedName,0,-1,"북부 변경, 제7권 -"
-it_misc_book_025,uti,DescIdentified,0,-1,"북쪽의 도달: 가이드 컬렉션
+it_misc_book_025,uti,DescIdentified,0,-1,"북쪽의 오지:
+안내서 모음
 
-제렉, 샤라칸 제국의 여행자가 집필한 VIII권"
+샤라칸 제국의 여행자, 제렉 편찬
+
+제8권 -"
 it_misc_book_025,uti,LocalizedName,0,-1,"북쪽 극지, 제8권"
 it_misc_book_900,uti,LocalizedName,0,-1,IT_MISC_BOOK_900
 it_misc_boot_000,uti,LocalizedName,0,-1,IT_MISC_BOOT_000
@@ -616,7 +619,7 @@ it_plot_026,uti,DescIdentified,0,-1,[이 방패는 당신이 주인에게 돌려
 it_plot_026,uti,LocalizedName,0,-1,용기의 방패
 it_plot_027,uti,DescIdentified,0,-1,[이 열쇠는 그림자 경비자 훈련실에서 리더의 소유에서 얻어졌습니다.]
 it_plot_027,uti,LocalizedName,0,-1,수수께끼의 키
-it_plot_028,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_028,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_028,uti,LocalizedName,0,-1,카그림 왕의 열쇠
 it_plot_029,uti,DescIdentified,0,-1,이건 레드 플래곤 숙소에서 사용하는 방키가 보입니다.
 it_plot_029,uti,LocalizedName,0,-1,레드 플래곤 키
@@ -656,25 +659,25 @@ it_plot_046,uti,DescIdentified,0,-1,이 열쇠는 라카 방의 미친 마법사
 it_plot_046,uti,LocalizedName,0,-1,사카라의 키
 it_plot_047,uti,DescIdentified,0,-1,"도시 내의 제국 요새로부터 우리의 움직임을 더 잘 숨기는데 도움이 되기 위해, 두 사람은 더 이상의 통지를 받기 전까지 라벤클라우 타버너에서 두 사람이 있어야 합니다. 시장 지구에 있는 우리의 연락자, 그 혐오스러운 작은 마구 스라크는 그의 길을 건너가 될 잠재적인 구매자를 감시합니다. 그 다음 그는 그들을 당신에게 보낼 것입니다. 그리고 당신은 우리의 운영 기반을 통해 노예의 배달을 준비할 수 있습니다. 구매자를 발견하면, 우리 쉼터에서 나를 보러 데려오십시오. 우리는 거래를 하기 전에 우리의 일에 탐구하는 누구와도 이야기하고 싶습니다. 모든 잠재 고객들이 kloaks에서 당신을 만나고, 그리고 그 다음 기지의 위치를 밝힐 것입니다. 우리가 우리의 새로운 구매자를 신뢰하지 않는 것을 발견하면, 우리는 쉽게 우리 자신의 입장에서 그들을 처리 할 수 있습니다... 당신은 곧 문을 아래에서 손 잡을 수 있습니다, 우리는 함정을 가지고 있습니다. 우리는 우리의 마을에 숨겨져있는 몇 일 동안, 우리는 매우 안전하게 될 수 있습니다. 그러나 우리의 모든 문제점과 함께, 우리는 매우 좋은 기회를 얻을 수 있습니다."
 it_plot_047,uti,LocalizedName,0,-1,블러드하크 통지문
-it_plot_049,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_049,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_049,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_050,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_050,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_050,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_051,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_051,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_051,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_052,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_052,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_052,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_053,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_053,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_053,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_054,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_054,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_054,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_055,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_055,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_055,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_056,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_056,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_056,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_057,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_057,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_057,uti,LocalizedName,0,-1,카그림 왕의 열쇠
-it_plot_058,uti,DescIdentified,0,-1,[이 열쇠는 그림 왕의 소유에서 샤오가드 훈련실에서 얻었습니다.]
+it_plot_058,uti,DescIdentified,0,-1,[이 열쇠는 섀도어가드 훈련실에서 카그림 왕에게서 얻은 것입니다.]
 it_plot_058,uti,LocalizedName,0,-1,카그림 왕의 열쇠
 it_plot_1000,uti,DescIdentified,0,-1,시간을 알려주기 위해
 it_plot_1000,uti,LocalizedName,0,-1,테스트 시계
@@ -1218,5 +1221,5 @@ magerobes,uti,LocalizedName,0,-1,마법으로 축복받은 마법학자 로브
 sg_chronicles,uti,DescIdentified,0,-1,교수 자르비스는 졸업 선물로 이 책을 주셨습니다. 이 책은 아바란의 역사를 그리고 당신이 속한 샤라칸 제국의 상승을 기록하고 있습니다.
 sg_chronicles,uti,LocalizedName,0,-1,아바란의 기록
 slave_pen_key,uti,DescIdentified,0,-1,이것은 블러드하크 노예 구실의 열쇠입니다.
-slave_pen_key,uti,LocalizedName,0,-1,노예 구실 키
+slave_pen_key,uti,LocalizedName,0,-1,노예 우리 열쇠
 testhelmet,uti,LocalizedName,0,-1,시험 투구

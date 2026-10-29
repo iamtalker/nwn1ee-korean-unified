@@ -40,7 +40,7 @@ id1_gem_01_05,uti,LocalizedName,0,-1,빛나는 바다 진주
 id1_gem_02_01,uti,Description,0,-1,"이 이상한 모양의 보석은 거의 어떤 거대한 짐승의 척도처럼 보일 수 있다. 이 보석을 육신에 닿을 때마다 갑자기 심장이 급격히 뛰기 시작한다. 이 유형의 보석은 종종 마법의 조리재로 사용된다. 이 보석은 어두운 색을 띠며, 내부에는 빛이 없다."
 id1_gem_02_01,uti,LocalizedName,0,-1,짙은 금빛 비늘 보석
 id1_gem_02_02,uti,Description,0,-1,이 이상한 모양의 보석은 거의 어떤 거대한 짐승의 척도처럼 보일 정도다. 이 보석을 육신에 닿을 때마다 갑자기 심장이 급격히 뛰기 시작한다. 이 유형의 보석은 종종 마법의 조리법에 사용되는 구성 요소로 사용된다. 이 보석은 희미한 내부 빛으로 빛난다.
-id1_gem_02_02,uti,LocalizedName,0,-1,미세한 금색 스케일 보석
+id1_gem_02_02,uti,LocalizedName,0,-1,희미한 황금빛 비늘 보석
 id1_gem_02_03,uti,Description,0,-1,이 이상한 모양의 보석은 거의 어떤 거대한 짐승의 척도처럼 보일 수 있다. 이 보석을 육신에 닿을 때마다 갑자기 심장이 급격히 뛰기 시작한다. 이 유형의 보석은 종종 마법의 조리법의 구성 요소로 사용된다. 이 보석은 반짝이며 내부에서 빛나고 있다.
 id1_gem_02_03,uti,LocalizedName,0,-1,빛나는 황금 비늘 보석
 id1_gem_02_04,uti,Description,0,-1,이 이상한 모양의 보석은 거의 어떤 거대한 짐승의 척도처럼 보일 수 있다. 이 보석을 육신에 닿을 때마다 갑자기 심장이 빠르게 뛰기 시작한다. 이 유형의 보석은 종종 마법의 조리재로 사용된다. 이 보석의 내부 빛은 그 주변을 빛나고 있다.
@@ -186,7 +186,7 @@ id1_gem_14_05,uti,LocalizedName,0,-1,빛나는 황금 눈물 보석
 id1_gem_15_01,uti,Description,0,-1,이 깊은 파란색 보석은 악마의 얼음으로 보이며 강렬한 추위를 방출한다. 이 유형의 보석은 종종 마법 조리법의 구성 요소로 사용된다. 이 보석은 어두운 편이며 내부 빛이 없다.
 id1_gem_15_01,uti,LocalizedName,0,-1,암흑 아비살 얼음 보석
 id1_gem_15_02,uti,Description,0,-1,이 깊은 파란 보석 은 아마존 얼음 으로 형성 된 것 처럼 강렬한 추위를 방사 한다. 이 유형의 보석 은 마법 의 요리법 의 구성 요소 로 종종 사용 된다. 이 보석 은 희미 한 내면의 빛 으로 빛 을 낸다.
-id1_gem_15_02,uti,LocalizedName,0,-1,깊은 아비슬 얼음 보석
+id1_gem_15_02,uti,LocalizedName,0,-1,희미한 심연의 얼음 보석
 id1_gem_15_03,uti,Description,0,-1,이 깊은 파란 보석 은 아마존 얼음 으로 형성 된 것 처럼 강렬한 추위를 방사 한다. 이 유형의 보석 은 마법 의 요리법 의 구성 요소 로 자주 사용 된다. 이 보석 은 반짝이는 것 이며 내부 에서 밝게 빛난다.
 id1_gem_15_03,uti,LocalizedName,0,-1,반짝이는 악마의 얼음 보석
 id1_gem_15_04,uti,Description,0,-1,이 깊은 푸른 보석은 아비달 얼음으로 이루어진 것처럼 강렬한 추위를 방사합니다. 이 유형의 보석은 종종 마법 조리법의 구성 요소로 사용됩니다. 이 보석의 내부 빛은 그 주변을 빛나게 합니다.
@@ -337,7 +337,7 @@ id_potion006,uti,DescIdentified,0,90921,"유입자는 50% 숨김 효과를 얻�
 id_potion006,uti,LocalizedName,0,90920,변위 물약
 id_potion007,uti,DescIdentified,0,90921,"엠비버는 엠비버에 대한 성공적인 엠비버 공격에 성공한 모든 적에게 손상을 입히는 엠비버의 핑거의 불로 둘러싸여 있다. 엠비버의 피해는 매술 수준 1d6, +1 포인트이다. 엠비버는 또한 추위와 불에 대한 50% 면역력을 얻는다."
 id_potion007,uti,LocalizedName,0,90920,원소 방패 투약
-id_potion008,uti,DescIdentified,0,90921,흡수자는 모든 원소적 손상에 대해 10/-의 손상 저항을 얻는다. 이 마법은 어떤 원소적 유형에서 20 포인트의 손상을 흡수한 후에 끝난다.
+id_potion008,uti,DescIdentified,0,90921,마신 자는 모든 원소 피해 유형에 대해 10/-의 피해 저항을 얻습니다. 이 주문은 임의의 단일 원소 유형으로부터 20점의 피해를 흡수한 후 종료됩니다.
 id_potion008,uti,LocalizedName,0,90920,원소 인내 물약
 id_potion009,uti,DescIdentified,0,90921,이 물약을 마신 자는 모든 원소 피해 유형에 대해 피해 저항 20/-을 얻습니다. 한 가지 원소 유형으로부터 피해 30점을 흡수하면 주문 효과가 끝납니다.
 id_potion009,uti,LocalizedName,0,90920,원소 저항 물약
@@ -349,7 +349,7 @@ id_potion012,uti,DescIdentified,0,90921,이 마법의 캐스터에게 효과 영
 id_potion012,uti,LocalizedName,0,90920,함정 찾기 물약
 id_potion013,uti,DescIdentified,0,90921,"마신 자는 유령 같은 빛의 후광에 둘러싸여, 피해 감소 5/+1을 얻고 1레벨 이하 주문이 시전자에게 영향을 미치지 못하며 10% 은폐를 얻는다."
 id_potion013,uti,LocalizedName,0,90920,유령의 형상 물약
-id_potion014,uti,DescIdentified,0,90921,"음수자는 주변을 유령 같은 빛 nimbus가 둘러싸고 있으며, 20/+3의 피해 감소를 제공하고, 레벨 2 이하의 모든 마법이 음수자에게 영향을 미치지 못하게 하며, 25%의 숨김 보너스를 제공한다."
+id_potion014,uti,DescIdentified,0,90921,"마신 자의 주위를 유령 같은 빛의 아우리라가 감싸며, 20/+3의 피해 감소를 부여하고, 2급 이하의 모든 마법이 마신 자에게 영향을 미치는 것을 막아주며, 25%의 은신 보너스를 제공한다."
 id_potion014,uti,LocalizedName,0,90920,에테르 형상 물약
 id_potion015,uti,DescIdentified,0,90921,반짝이는 에너지 필드는 3등급 이하의 모든 마법을 흡수자에게 영향을 미치지 못하게 합니다.
 id_potion015,uti,LocalizedName,0,90920,하급 무적의 구체 물약
@@ -390,7 +390,7 @@ id_potion030,uti,DescIdentified,0,90921,이 약물을 마시는 자는 선한 �
 id_potion030,uti,LocalizedName,0,90920,선으로부터 보호를 주는 물약
 id_potion031,uti,DescIdentified,0,90921,모든 저주와 저주 효과는 음용자로부터 제거됩니다.
 id_potion031,uti,LocalizedName,0,90920,저주 해제 물약
-id_potion032,uti,DescIdentified,0,90921,음주자는 눈에 보이는 모든 무시무시한 존재들을 볼 수 있습니다.
+id_potion032,uti,DescIdentified,0,90921,이 물약을 마신 자는 시야 내의 투명한 존재를 모두 볼 수 있습니다.
 id_potion032,uti,LocalizedName,0,90920,투명 간파 물약
 id_potion033,uti,DescIdentified,0,90921,흡수자는 다음과 같은 효과로 보호되는 그림자의 덮개로 덮여있다: +5 자연 AC 보너스 10 / +3 손상을 줄이는 즉각적인 사망 효과에 대한 면역
 id_potion033,uti,LocalizedName,0,90920,그림자 방패 물약
@@ -398,7 +398,7 @@ id_potion034,uti,DescIdentified,0,90921,"음수자는 AC에 +4의 보너스를 �
 id_potion034,uti,LocalizedName,0,90920,방패 물약
 id_potion035,uti,DescIdentified,0,90921,"흡수자는 파괴의 엔진이 되고, 매 2 마술 레벨에 +1 공격 보너스, +4 천연 갑옷 AC 보너스, +2d4 강점, +2d4 Dexterity, +5에 그들의 강점 저장 던지기, 그리고 +1d6 추가 Hit 포인트 매술 레벨에."
 id_potion035,uti,LocalizedName,0,90920,텐서의 변신 물약
-id_potion036,uti,DescIdentified,0,90921,"음주자는 성역과 투명화 효과를 통과할 수 있으며, 자동으로 숨겨진 적들을 발견할 수 있습니다."
+id_potion036,uti,DescIdentified,0,90921,"음용자는 성역과 투명화 효과를 간파할 수 있으며, 숨어 있는 적을 자동으로 발견할 수 있습니다."
 id_potion036,uti,LocalizedName,0,90920,진실의 시야 물약
 id_potion037,uti,DescIdentified,0,90921,마법의 직관으로 공격 굴레에 +20 보너스를 얻습니다.
 id_potion037,uti,LocalizedName,0,90920,완벽한 일격 물약
@@ -459,7 +459,7 @@ id_wand009,uti,LocalizedName,0,-1,전투물결의 마법봉
 id_wand010,uti,LocalizedName,0,-1,빅비의 꽉쥐는 주먹 마법봉
 id_wand011,uti,LocalizedName,0,-1,빅비의 분쇄하는 손 관사
 id_wand012,uti,LocalizedName,0,-1,빅비의 강력한 손 마법봉
-id_wand013,uti,LocalizedName,0,-1,빅비의 움켜쥐는 손 주문
+id_wand013,uti,LocalizedName,0,-1,빅비의 움켜쥐는 손 마법봉
 id_wand014,uti,LocalizedName,0,-1,빅비의 방해하는 손의 마법봉
 id_wand015,uti,LocalizedName,0,-1,실명/청각 상실 마법봉
 id_wand016,uti,LocalizedName,0,-1,포격 마법봉
@@ -528,9 +528,9 @@ id_wand078,uti,LocalizedName,0,-1,하급 주문해제 마법봉
 id_wand079,uti,LocalizedName,0,-1,하급 주문 돌파 마법봉
 id_wand080,uti,LocalizedName,0,-1,번개의 마법봉
 id_wand081,uti,LocalizedName,0,-1,번개의 마법봉
-id_wand082,uti,LocalizedName,0,-1,마법 화살 완도
-id_wand083,uti,LocalizedName,0,-1,마법 화살 완도
-id_wand084,uti,LocalizedName,0,-1,마법 화살 완도
+id_wand082,uti,LocalizedName,0,-1,마법 화살 마법봉
+id_wand083,uti,LocalizedName,0,-1,마법 화살 마법봉
+id_wand084,uti,LocalizedName,0,-1,마법 화살 마법봉
 id_wand085,uti,LocalizedName,0,-1,멜프의 산성 화살 스틱
 id_wand086,uti,LocalizedName,0,-1,멜프의 산성 화살 스틱
 id_wand087,uti,LocalizedName,0,-1,멜프의 산성 화살 스틱
@@ -547,8 +547,8 @@ id_wand097,uti,LocalizedName,0,-1,가시 발사 마법봉
 id_wand098,uti,LocalizedName,0,-1,약화 광선 마법봉
 id_wand099,uti,LocalizedName,0,-1,서리 광선 주문의 나무
 id_wand100,uti,LocalizedName,0,-1,공포의 막대
-id_wand101,uti,LocalizedName,0,-1,반짝이는 구체 와이드
-id_wand102,uti,LocalizedName,0,-1,반짝이는 구체 와이드
+id_wand101,uti,LocalizedName,0,-1,찬란한 구체의 완드
+id_wand102,uti,LocalizedName,0,-1,찬란한 구체의 완드
 id_wand103,uti,LocalizedName,0,-1,타오르는 빛 마법봉
 id_wand104,uti,LocalizedName,0,-1,침묵 마법봉
 id_wand105,uti,LocalizedName,0,-1,수면의 마법봉

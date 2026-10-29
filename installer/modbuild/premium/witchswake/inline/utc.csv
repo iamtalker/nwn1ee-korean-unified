@@ -60,7 +60,7 @@ cinejager001,utc,LastName,0,-1,스타인파어
 cinejager002,utc,Description,0,-1,왕복을 입고 빛나는 이 왜기는 격렬한 자부심을 품고 있습니다.
 cinejager002,utc,FirstName,0,-1,자저
 cinejager002,utc,LastName,0,-1,스타인파어
-cinematicfaction,utc,Description,0,-1,이 무능한 존재는 개막영화에서 군인들을 위한 분위기를 가지고 있습니다. 개막 지역에서 그를 제거하지 마십시오.
+cinematicfaction,utc,Description,0,-1,이 개체는 오프닝 시네마틱에서 군인들의 세력을 담당합니다. 오프닝 지역에서 그를 제거하지 마십시오. 시네마틱이 망가지게 됩니다.
 cinematicfaction,utc,FirstName,0,-1,시네마틱 팩션 홀더
 etherealfilch001,utc,Description,0,-1,"비록 당신에게 나쁜 의도를 품고 있지 않는 것처럼 보이지만, 이 이상한 생물은 당신의 물건에 대해 확실히 관심을 가지고 있습니다."
 etherealfilch001,utc,FirstName,0,-1,에테르 필처
@@ -103,7 +103,7 @@ ragpicker,utc,Description,0,-1,래그피커는 당신이 쓰러진 동료들의 
 ragpicker,utc,FirstName,0,-1,라그피커
 ragpicker001,utc,Description,0,-1,래그피커는 당신이 쓰러진 동료들의 물건들을 찾아다니는 것을 보고 만족하고 추운 공중에서 자신을 포옹하고 있어
 ragpicker001,utc,FirstName,0,-1,라그피커
-ragpicker2,utc,Description,0,-1,"노인 라그피커는 불에서 멀리 떨어져 있고, 따뜻함의 가장자리에서 떠있는 것처럼 보입니다. 그녀는 이 곳에서 떠나려는 것 같지만, 떠나기 위한 긴 여행처럼 보이는 것만으로 뒤에 남아 있습니다."
+ragpicker2,utc,Description,0,-1,"나이 든 누더기 수집꾼은 불길에서 멀리 떨어져, 따스함의 경계에 어정쩡하게 서 있는 것처럼 보인다. 그녀는 이 장소에서의 볼일을 끝낸 것 같지만, 떠나는 것조차 먼 여정처럼 느껴져 자리를 지키고 있을 뿐이다."
 ragpicker2,utc,FirstName,0,-1,라그피커
 rangedkobold,utc,FirstName,0,2925,코볼트 투척수
 raven001,utc,FirstName,0,6008,도마뱀 소굴
@@ -132,7 +132,7 @@ sum_fie_dir_rat,utc,FirstName,0,-1,마족 흉포한 시궁쥐 소환
 sum_fie_dir_tigr,utc,FirstName,0,12448,마족 흉포한 호랑이 소환
 sum_fie_leopard,utc,FirstName,0,12414,마족 표범의 소환
 sum_fie_panther,utc,FirstName,0,5991,악성 판테라 의 소환
-sum_fiend_hawk,utc,FirstName,0,-1,마족의 날치의 소환
+sum_fiend_hawk,utc,FirstName,0,-1,소환된 마족의 매
 sum_fiend_hyena,utc,FirstName,0,-1,소환된 악마 하이에나
 sum_fiend_wolf,utc,FirstName,0,-1,마족 소환 늑대
 sum_fire_mephit,utc,FirstName,0,6001,화염 메피트 소환
@@ -194,7 +194,7 @@ unknownsoldie009,utc,Description,0,-1,이 반 오크의 분노의 외치는 너�
 unknownsoldie009,utc,FirstName,0,-1,알 수 없는 병사
 unknownsoldie010,utc,Description,0,-1,이 여성은 공격자들에 의해 둘러싸여 있어 도움을 청할 수 없습니다.
 unknownsoldie010,utc,FirstName,0,-1,알 수 없는 병사
-unknownsoldie011,utc,Description,0,-1,이 남자는 심각하게 다쳤습니다. 그는 당신의 도움을 청할 수 없습니다.
+unknownsoldie011,utc,Description,0,-1,이 남자는 심각하게 부상을 입었다. 당신의 도움을 요청하는 소리를 듣지 못한다.
 unknownsoldie011,utc,FirstName,0,-1,알 수 없는 병사
 unknownsoldie012,utc,FirstName,0,-1,시체 쌓임
 unknownsoldie013,utc,FirstName,0,-1,시체 쌓임
@@ -271,11 +271,11 @@ ww1_morrius,utc,LastName,0,-1,헬프스플리터
 ww1_morrius001,utc,Description,0,-1,"화백처럼 희미한 이 유령 난쟁이는 왼쪽 편에서 끔찍한 상처를 입고 있으며, 그의 내장들은 깨진 다리에서 아래의 거대한 어둠으로 처참히 매달려 있다."
 ww1_morrius001,utc,FirstName,0,-1,모리우스
 ww1_morrius001,utc,LastName,0,-1,헬프스플리터
-ww1_nimmermae001,utc,Description,0,-1,이 늙은 광부의 가죽 같은 피부는 회색보다 거의 파란색으로 보입니다. 그는 왼쪽 팔을 잃었고 어깨 부분의 소매는 꿰매져 있습니다.
+ww1_nimmermae001,utc,Description,0,-1,"이 늙은 드워프의 가죽 같은 피부는 회색빛보다 푸른빛에 더 가까워 보인다. 그는 왼쪽 팔이 없으며, 어깨 쪽 소매를 꿰매어 막아 놓았다."
 ww1_nimmermae001,utc,FirstName,0,-1,노인 닌메르마어
-ww1_nimmermaer,utc,Description,0,-1,이 늙은 광부의 가죽 같은 피부는 회색보다 거의 파란색으로 보입니다. 그는 왼쪽 팔을 잃었고 어깨 부분의 소매는 꿰매져 있습니다.
+ww1_nimmermaer,utc,Description,0,-1,"이 늙은 드워프의 가죽 같은 피부는 회색빛보다 푸른빛에 더 가까워 보인다. 그는 왼쪽 팔이 없으며, 어깨 쪽 소매를 꿰매어 막아 놓았다."
 ww1_nimmermaer,utc,FirstName,0,-1,노인 닌메르마어
-ww1_raggletag,utc,Description,0,12686,"노인 니메르마에르의 방랑하는 친숙한 노인 라그글레타그는 더러워 보이고 관리되지 않은 상태이다. 몇 개의 깃털이 없어진 것처럼 보이고, 수많은 다른 깃털들이 펴져 있거나 구부러져 있다. 새의 난장판 같은 태도는 그 새가 며칠 동안 잠을 이루지 못했음을 나타낸다."
+ww1_raggletag,utc,Description,0,12686,"니메르마에르 영감의 제멋대로인 사역마인 불쌍한 라그글레타그는 지저분하고 엉망진창이다. 깃털 여러 개가 빠져 있고, 수많은 다른 깃털들은 헝클어지거나 꺾여 있다. 이 새의 광기 어린 모습으로 보아 며칠째 잠을 자지 못한 모양이다."
 ww1_raggletag,utc,FirstName,0,6008,래그글타그
 ww1_ratling,utc,Description,0,-1,이 괴상한 변형된 생물은 영구적인 고통의 상태에 있는 것 같습니다. 쥐처럼 왜곡된 몸은 거의 인간처럼 보입니다.
 ww1_ratling,utc,FirstName,0,-1,쥐
@@ -283,7 +283,7 @@ ww1_ratling001,utc,Description,0,-1,이 괴상한 변형된 생물은 영구적�
 ww1_ratling001,utc,FirstName,0,-1,쥐
 ww1_treeraven,utc,Description,0,12686,차가운 눈과 빛나는 검은 깃털을 가진 공중의 청소꾼들은 종종 죽음의 징조나 죽음의 예지로 여겨진다.
 ww1_treeraven,utc,FirstName,0,6008,큰까마귀 사역마
-ww1_treeraven001,utc,Description,0,12686,"노인 니메르마에르의 방랑하는 친숙한 노인 라그글레타그는 더러워 보이고 관리되지 않은 상태이다. 몇 개의 깃털이 없어진 것처럼 보이고, 수많은 다른 깃털들이 펴져 있거나 구부러져 있다. 새의 난장판 같은 태도는 그 새가 며칠 동안 잠을 이루지 못했음을 나타낸다."
+ww1_treeraven001,utc,Description,0,12686,"니메르마에르 영감의 제멋대로인 사역마인 불쌍한 라그글레타그는 지저분하고 엉망진창이다. 깃털 여러 개가 빠져 있고, 수많은 다른 깃털들은 헝클어지거나 꺾여 있다. 이 새의 광기 어린 모습으로 보아 며칠째 잠을 자지 못한 모양이다."
 ww1_treeraven001,utc,FirstName,0,6008,래그글타그
 ww_doorbasher,utc,FirstName,0,-1,문 개장
 ww_sty_balor001,utc,Description,0,12442,불타는 날개와 뼈대 모양의 얼굴을 가진 이 악마들은 그 종류 중 가장 크고 가장 두려워지는 존재들 중 하나이다.

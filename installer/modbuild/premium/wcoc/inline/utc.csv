@@ -32,11 +32,11 @@ bandit003,utc,Description,0,-1,"전쟁 이후, 강도들은 코르미르의 길�
 bandit003,utc,FirstName,0,-1,산적
 bandit004,utc,Description,0,-1,강도들과 도적들은 코르미르에서 전쟁 이후 흔하다.
 bandit004,utc,FirstName,0,-1,산적
-bandithorse,utc,Description,0,-1,이 가벼운 말은 강도들과의 전투 후 남아 있습니다.
+bandithorse,utc,Description,0,-1,이 경마는 강도들과의 전투 후에 남겨진 것입니다.
 bandithorse,utc,FirstName,0,-1,말
 banditleader,utc,Description,0,-1,"전쟁 이후, 강도들은 코르미르의 길들, 특히 킹의 숲과 헐락 숲에서 흔한 일이 되었다."
 banditleader,utc,FirstName,0,-1,산적 지도자
-battlecurst,utc,Description,0,66927,저주받은 커스트의 눈은 고통과 광기를 드러냅니다. 이러한 생물들은 강력한 마법의 저주로 인해 무사하지 못하고 영생을 맞이합니다. 그들은 파괴될 때만 평화를 느낄 수 있습니다.
+battlecurst,utc,Description,0,66927,커스트의 눈에는 고통과 광기가 서려 있습니다. 이 불쌍한 피조물들은 언데드 상태로 얽매어 놓는 강력한 마법의 저주에 시달리고 있지요. 파괴될 때만이 비로소 평안을 얻을 수 있습니다.
 battlecurst,utc,FirstName,0,12437,커스트 순찰자
 battlehawk,utc,Description,0,-1,길버트 경의 개인 경호대의 군인
 battlehawk,utc,FirstName,0,-1,호클린 가정 경비병
@@ -105,7 +105,7 @@ creature002,utc,Description,0,-1,"호클린 성으로 가는 비밀 통로를 �
 creature002,utc,FirstName,0,-1,세미안 상인
 creature003,utc,Description,0,-1,한 팔을 가진 마거크는 은퇴한 모험가이며 동료들을 위한 가게의 주인입니다.
 creature003,utc,FirstName,0,-1,한팔 마거크
-curst004,utc,Description,0,66927,저주받은 커스트의 눈은 고통과 광기를 드러냅니다. 이러한 생물들은 강력한 마법의 저주로 인해 무사하지 못하고 영생을 맞이합니다. 그들은 파괴될 때만 평화를 느낄 수 있습니다.
+curst004,utc,Description,0,66927,커스트의 눈에는 고통과 광기가 서려 있습니다. 이 불쌍한 피조물들은 언데드 상태로 얽매어 놓는 강력한 마법의 저주에 시달리고 있지요. 파괴될 때만이 비로소 평안을 얻을 수 있습니다.
 curst004,utc,FirstName,0,12437,커스트 순찰자
 dart_commoner,utc,FirstName,0,12374,평민
 dart_guardsman,utc,FirstName,0,-1,도시 경비원
@@ -379,7 +379,7 @@ sailor,utc,FirstName,0,-1,선원
 salvatori,utc,Description,0,-1,"발레토는 헐락 숲 가장자리를 베는 목재 상인으로, 자신의 농장이 발레토로부터 렌트된 만큼 잘 알려져 있습니다. 그는 드래곤 호수를 건너 해외로 상품을 운송합니다."
 salvatori,utc,FirstName,0,-1,발레토 - 여기서부터 갱신하지 말 것
 salvatorimorfen,utc,Description,0,-1,"발레토는 헐락 숲 가장자리를 베는 목재 상인으로, 자신의 농장이 발레토로부터 렌트된 만큼 잘 알려져 있습니다. 그는 드래곤 호수를 건너 해외로 상품을 운송합니다."
-salvatorimorfen,utc,FirstName,0,-1,발레토 모르페노
+salvatorimorfen,utc,FirstName,0,-1,발레토 모르펜
 satyr,utc,Description,0,-1,사티로스는 황야에서 뛰노는 쾌락주의자다. 술과 만취를 좋아하지만 은밀한 사냥꾼이 되기도 한다.
 satyr,utc,FirstName,0,-1,사타르
 satyr001,utc,Description,0,-1,사티로스는 황야에서 뛰노는 쾌락주의자다. 술과 만취를 좋아하지만 은밀한 사냥꾼이 되기도 한다.
@@ -409,9 +409,9 @@ warwizardplaceho,utc,FirstName,0,-1,전쟁 마법사
 wc_hwk_cook,utc,Description,0,-1,호클린 가정의 요리사
 wc_hwk_cook,utc,FirstName,0,12422,호클린 요리사
 wc_hwk_nobelf,utc,Description,0,-1,호클린 가의 소규모 귀족
-wc_hwk_nobelf,utc,FirstName,0,12422,호클린 경미한 귀족
+wc_hwk_nobelf,utc,FirstName,0,12422,호클린 하급 귀족
 wc_hwk_nobelm1,utc,Description,0,-1,호클린 가의 소규모 귀족
-wc_hwk_nobelm1,utc,FirstName,0,12422,호클린 경미한 귀족
+wc_hwk_nobelm1,utc,FirstName,0,12422,호클린 하급 귀족
 wc_hwk_servant,utc,Description,0,-1,호클린 가문의 종입니다
 wc_hwk_servant,utc,FirstName,0,12422,호클린 하인
 wc_wolf,utc,Description,0,12815,사체의 냄새로 끌려온 늑대는 먹이를 먹기 위해 왔다...
@@ -419,7 +419,7 @@ wereboar,utc,Description,0,-1,어떤 형태이든 늑대들은 구석에 있는 
 wereboar,utc,FirstName,0,-1,배인
 whitestag,utc,Description,0,12439,"전설적인 순백색 수사슴, 허락 숲의 극히 신비로운 생물이다. 많은 사냥꾼들이 그 뼈를 쫓아 왔지만, 그것은 매우 빠르다."
 whitestag,utc,FirstName,0,12441,순백색 수사슴
-witchlord2,utc,Description,0,12628,"마녀왕 자신은 릭이며, 무서운 적이다..."
+witchlord2,utc,Description,0,12628,마녀왕 본인이다. 리치이자 엄청난 적이지...
 witchlord2,utc,FirstName,0,12629,마녀왕
 witchlordghost,utc,Description,0,12628,이 이상한 존재가 나타났다. 조나스가 반지를 들었을 때...
 witchlordghost,utc,FirstName,0,12629,이상한 영혼

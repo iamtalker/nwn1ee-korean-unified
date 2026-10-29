@@ -53,7 +53,7 @@ bagofbones,uti,LocalizedName,0,-1,뼈가방
 bagofsnuff,uti,DescIdentified,0,58560,현재 코르미르 귀족들 사이에서 특히 유행하는 코담배 주머니. 냄새를 맡으면 재채기가 터져 몇 초간 이어진다. 모험가들은 이 발명품이 딱히 쓸모 있다고 생각하지 않는다.
 bagofsnuff,uti,LocalizedName,0,13488,스누프통
 bagofwind,uti,DescIdentified,0,90539,바람의 가방. 열릴 때 강한 바람이 불어 적들을 발에서 쓰러뜨립니다.
-bagofwind,uti,Description,0,-1,"줄로 묶인 풀 가방으로 보이지만, 실제로는 공기만 가득한 것 같습니다."
+bagofwind,uti,Description,0,-1,끈으로 묶은 헐렁한 주머니. 굳이 따지자면 공기만 가득 차 있는 것 같다.
 bagofwind,uti,LocalizedName,0,90538,바람 가방
 bandedmail1,uti,LocalizedName,0,12843,철판 갑옷
 bandedmailv,uti,DescIdentified,0,-1,"이런 종류의 부분 갑옷이나 완전한 갑옷은 밴디드 메일이나 스플린트 메일에 맞먹는 보호력을 제공합니다. 이 갑옷처럼 약한 마법이 부여된 것도 있지만, 제작자 표식은 없습니다."
@@ -84,12 +84,12 @@ blackenedleathe,uti,LocalizedName,0,12835,검정 가죽 갑옷
 blackheartleath,uti,DescIdentified,0,-1,웨스트게이트에서 유래한 마법의 가죽은 착용자에게 속임수의 마스터로 만든다. 하지만 착용자를 인식한 사람들은 그에게 분명히 신뢰할 수 없는 것이 느껴진다.
 blackheartleath,uti,LocalizedName,0,12842,블랙하트 가죽
 blackhelm,uti,LocalizedName,0,-1,검은색 기수투구
-blackknight,uti,LocalizedName,0,-1,검은 갑옷 기사
+blackknight,uti,LocalizedName,0,-1,흑기사 갑옷
 blackmail,uti,DescIdentified,0,-1,"이 체인 셔츠 는 코르미르 초기 에 재벌 들 이 흔히 착용 한 것 이다. 그 들 의 검은 메일 셔츠 를 입고, 재벌 들 은 침묵 으로 농부 가족 들 을 공격 하며, 농부 들 이 돈을 지불 하지 않는 한 그들의 재물 뿐 아니라 그 들 의 여자 들 을 도 훔쳐갔다. '추적'과 '부족'이라는 용어 는 곧 일반적 인 용어 로 자리 잡았다."
 blackmail,uti,Description,0,-1,"이 메일 셔츠는 어두운 금속 합금으로 만들어졌지만, 특별한 점이 없어 눈에 띄지 않습니다."
 blackmail,uti,LocalizedName,0,-1,추방
 blackshield,uti,LocalizedName,0,-1,검은 방패
-blacksling,uti,DescIdentified,0,-1,이 검은색 수류는 마법으로 만들어졌습니다. 마지막 총알이 사용될 때마다 새로운 총알이 나타납니다. 또한 매우 정확합니다.
+blacksling,uti,DescIdentified,0,-1,"이 검은색 슬링은 마법이 깃들어 있어, 마지막 탄환을 다 쓰면 새로운 탄환이 생겨납니다. 또한 명중률이 매우 높습니다."
 blacksling,uti,Description,0,-1,검은색의 은 색채를 제외하고는 눈에 띄지 않습니다.
 blacksling,uti,LocalizedName,0,-1,블랙 투석구
 blackstaff,uti,DescIdentified,0,-1,이것은 매우 고품질의 스태프입니다. 이브니의 턱과 마하곤니 끝은 단단한 강철으로 밋밋합니다. 머리에 때리면 이 스태프의 충격은 너무 강해서 상대방을 놀라게 할 수 있습니다. 손이나 팔에 때리는 때리는 것은 종종 다리를 마취시키고 피해자가 무기를 떨어뜨리게 합니다.
@@ -116,7 +116,9 @@ boltsofmighty,uti,Description,0,-1,손에서 뛰는 쇠뇌화살
 boltsofmighty,uti,LocalizedName,0,13882,강력한 분노의 볼트
 boltsofsapping,uti,DescIdentified,0,13881,"각 볼트는 고대 룬으로 마크되어 있습니다. 볼트가 맞을 때, 그것이 희생자의 힘을 빼앗는 것 같습니다."
 boltsofsapping,uti,LocalizedName,0,13882,약화의 볼트
-bookofhealers,uti,DescIdentified,0,-1,"이 책은 팁, 트릭, 치료법, 오래된 항문의 지식으로 가득 차 있다. 다행히 마법의 특성 덕분에 몇 페이지 이상 스캔하면 모든 지식이 독자의 머리에 영원히 전달되며, 그 시점에서 책은 먼지로 붕괴된다. <c ÿÿ>단독 사용, 영구적인 +2 치유 보너스.<cÿÿÿ>"
+bookofhealers,uti,DescIdentified,0,-1,"이 책에는 온갖 팁, 요령, 치료법과 오래된 해독제에 관한 지식이 빼곡하게 담겨 있습니다. 다행히 마법의 힘이 깃들어 있어 몇 페이지만 대충 훑어봐도 그 모든 지식이 독자의 머릿속에 영원히 각인되며, 그 직후 책은 한 줌의 먼지로 바스러집니다.
+
+<c ÿÿ>일회용, 영구적인 +2 치유 보너스.<cÿÿÿ>"
 bookofhealers,uti,LocalizedName,0,13027,치유자의 책
 bookoflies,uti,DescIdentified,0,-1,"이 놀라운 책은 반 진실과 속임수로 가득 차 있으며, 그 내용은 매우 설득력이 있습니다. 이 책의 마법적인 성질 때문에 몇 페이지 이상을 스캔하면 독자는 영구적으로 +2 블러프 보너스를 얻게 됩니다. 이 시점에서 책은 먼지로 변해버립니다. <c ÿÿ>단일 사용, 영구적 +2 블러프 보너스.<cÿÿÿ>"
 bookoflies,uti,LocalizedName,0,13027,거짓말의 책
@@ -130,7 +132,7 @@ bootsofthehar,uti,LocalizedName,0,-1,하디의 부츠
 bootsofthewoo,uti,DescIdentified,0,-1,숲 속의 사람들과 요정 생물들은 무분별한 파괴를 막는 사람들을 위해 이러한 부츠를 선물로 주는 것으로 알려져 있습니다.
 bootsofthewoo,uti,Description,0,-1,단순한 부츠입니다. 특별한 점은 없습니다.
 bootsofthewoo,uti,LocalizedName,0,-1,숲의 부츠
-bracerofmalar,uti,DescIdentified,0,-1,"이 브레이저는 분명히 마라르, 짐승의 주인이에 헌신되어 있습니다. 마라르의 축복으로, 그것을 착용하는 사람들은 사냥의 갈증을 진정으로 즐길 수 있습니다. 마라르의 추종자들은 브레이저가 착용될 때 추가적인 힘을 가질 것입니다."
+bracerofmalar,uti,DescIdentified,0,-1,이 브레이저는 분명 짐승의 주인 말라르에게 바쳐진 것이다. 말라르의 축복을 받은 착용자는 사냥의 갈증을 진정으로 즐길 수 있다. 말라르의 추종자가 이 브레이저를 착용하면 추가적인 힘을 얻게 된다.
 bracerofmalar,uti,Description,0,-1,약간 장식된 팔목 장식물.
 bracerofmalar,uti,LocalizedName,0,-1,말라르의 손목 보호대
 brasstalisman,uti,DescIdentified,0,-1,이 작은 타리스마들은 보통 아주 기본적인 마법 속성을 가지고 있습니다.
@@ -175,7 +177,7 @@ chainshirtv,uti,LocalizedName,0,-1,고운 사슬 상의
 championsgaunt,uti,DescIdentified,0,-1,이 장갑들은 여러 챔피언들의 놀라운 힘의 비밀입니다.
 championsgaunt,uti,Description,0,-1,검과 망치의 상징으로 장식된 한 쌍의 장갑
 championsgaunt,uti,LocalizedName,0,-1,챔피언의 장갑
-championshelm,uti,DescIdentified,0,-1,"챔피언의 헬멧은 딱딱한 뿌리가 있는 매우 멋진 헬멧으로, 표준 헬멧보다 더 뛰어난 보호력을 제공합니다. 헬멧에 내재된 마법은 착용자의 어깨를 통해 흐르며, 상대방을 발로 쓰러뜨릴 만큼 강한 공격력을 부여합니다."
+championshelm,uti,DescIdentified,0,-1,"챔피언의 헬멧은 빳빳한 장식 깃이 달린 매우 멋진 투구로, 일반 투구보다 뛰어난 보호력을 제공합니다. 또한 투구에 담긴 마법이 착용자의 어깨를 타고 흘러들어 적을 바닥에 쓰러뜨릴 만큼 강력한 일격을 날리게 해 줍니다."
 championshelm,uti,Description,0,-1,매우 멋진 헬멧에 단단한 크레스트가 있습니다.
 championshelm,uti,LocalizedName,0,-1,챔피언의 헬멧
 chaosmail,uti,DescIdentified,0,-1,이 갑옷 표면에 작은 스파크가 뛰어다닙니다. 알려진 기원이 아닌 카오스 메일은 번개 에너지와 혼합된 합금으로 만들어졌습니다.
@@ -198,7 +200,7 @@ cloakofbluedr,uti,Description,0,-1,"드래곤의 상징으로 꾸며진 선형, 
 cloakofbluedr,uti,LocalizedName,0,-1,청룡의 망토
 cloakofcyrric,uti,DescIdentified,0,-1,"이 옷은 사이릭의 상징이 새겨진 멋진 망토이다. 이 망토는 사이릭의 악한 추종자들이 거짓말과 속임수를 퍼뜨릴 때 그들을 돕기 위해 사용된다. 망토는 누구나 착용할 수 있지만, 사이릭의 추종자들은 이 망토를 착용할 때 추가적인 힘을 발견하게 된다."
 cloakofcyrric,uti,Description,0,-1,사이릭의 표기판이 있는 멋진 옷장.
-cloakofcyrric,uti,LocalizedName,0,-1,키리크의 망토
+cloakofcyrric,uti,LocalizedName,0,-1,키릭의 망토
 cloakofdarknes,uti,DescIdentified,0,-1,이 검은 수건은 어둠을 비추고 그 안에 있는 매력을 암시하고
 cloakofdarknes,uti,Description,0,-1,찢어진 옷차림
 cloakofdarknes,uti,LocalizedName,0,-1,암흑 망토
@@ -236,7 +238,7 @@ coppertalisman,uti,DescIdentified,0,-1,이 작은 타리스마들은 보통 아�
 coppertalisman,uti,LocalizedName,0,-1,구리 부적
 cormaerilshield,uti,DescIdentified,0,-1,코마에릴 국장을 들고 있는 방패
 cormaerilshield,uti,LocalizedName,0,-1,코르메릴 방패
-crafteddagger,uti,DescIdentified,0,-1,단단한 합금 블레이드로 제작된 세련된 창기.
+crafteddagger,uti,DescIdentified,0,-1,담금질된 합금 날로 정교하게 제작된 단검.
 crafteddagger,uti,Description,0,-1,이상한 모양의 창검
 crafteddagger,uti,LocalizedName,0,-1,제작된 단검
 crusaderhelm,uti,DescIdentified,0,-1,이 실린더형 헬멧은 코르미르의 몇몇 중요한 귀족들을 위해 아즈온 4세가 튀이건 호르데와의 십자군 전쟁을 나서기 전에 제작된 여러 물품 중 하나였다. 적이 많을 때 용기는 쉽게 흔들릴 수 있다.
@@ -334,7 +336,7 @@ enchantring,uti,DescIdentified,0,-1,"보호 반지의 훨씬 더 향상된 버�
 enchantring,uti,Description,0,-1,좋은 반지
 enchantring,uti,LocalizedName,0,-1,마법의 반지
 endlesscrossbow,uti,DescIdentified,0,-1,겉으로 보기에는 평범하지만 특별한 이 화살총은 자체 탄약이 필요하지 않습니다.
-endlesscrossbow,uti,Description,0,-1,간단한 무거운 화살표
+endlesscrossbow,uti,Description,0,-1,평범한 중형 쇠뇌.
 endlesscrossbow,uti,LocalizedName,0,-1,끝없는 크로스보
 fatherhead,uti,DescIdentified,0,48895,네 아버지의 머리가 죽으면 그의 얼굴은 조용하고 귀한데 그의 시체를 묻기 위한 도구도 없고
 fatherhead,uti,LocalizedName,0,48893,네 아버지의 머리
@@ -382,7 +384,7 @@ fullplatev,uti,LocalizedName,0,-1,고급 전신 판금 갑옷
 ghostseeds,uti,DescIdentified,0,-1,"이 이상한 씨앗은 일시적으로 파티와 사회 모임에서 높은 패션으로 유행했습니다. 그들은 그것을 먹는 사람들에게 이상한, 유령 같은 효과를 줍니다."
 ghostseeds,uti,Description,0,-1,기름진 코팅을 가진 씨앗의 컬렉션
 ghostseeds,uti,LocalizedName,0,-1,유령 씨앗
-girdleoffireresi,uti,DescIdentified,0,-1,이 벨트는 화재가 흔한 위험에 처한 모든 분야에서 발견됩니다.
+girdleoffireresi,uti,DescIdentified,0,-1,이 벨트는 화재 위험이 흔한 모든 삶의 현장에서 찾아볼 수 있다.
 girdleoffireresi,uti,Description,0,-1,단순한 벨트
 girdleoffireresi,uti,LocalizedName,0,-1,불 저항 띠
 girdleofmight,uti,DescIdentified,0,-1,"겉보기에는 단순한 벨트지만, 착용자에게 힘을 증가시킵니다."
@@ -410,7 +412,7 @@ greaterringof,uti,Description,0,-1,"단순한 금 반지에, 한 개의 반정�
 greaterringof,uti,LocalizedName,0,13453,더 강력한 보호의 반지
 greatertruesigh,uti,DescIdentified,0,-1,"이 헬멧은 눈 틈에 얇고 투명한 물질로 덮여 있어 착용자에게 시야를 제공합니다. 하지만 이 효과는 마법적이라서, 특이한 시야에 익숙해지는 데 시간이 걸립니다. Truesight 헬멧의 더 큰 버전은 사용자가 환상을 너무 잘 볼 수 있어 종종 환상을 완전히 피할 수 있게 합니다."
 greatertruesigh,uti,Description,0,-1,이상한 헬멧
-greatertruesigh,uti,LocalizedName,0,-1,더 큰 진실시 헬멧
+greatertruesigh,uti,LocalizedName,0,-1,상급 진실시야 투구
 greatwandoflight,uti,DescIdentified,0,-1,"이 막대들은 마법의 명령에 빛을 줍니다. 불행히도, 그것을 사용할 수 있는 힘은 조금만 필요합니다."
 greatwandoflight,uti,Description,0,-1,단순한 마법대
 greatwandoflight,uti,LocalizedName,0,-1,상급 빛의 마법봉
@@ -516,7 +518,7 @@ kemper,uti,LocalizedName,0,-1,케퍼
 key,uti,DescIdentified,0,-1,바로우의 침략자들로부터 빼앗은 열쇠
 key,uti,LocalizedName,0,-1,열쇠
 keyambush,uti,DescIdentified,0,-1,이 열쇠는 곤경에 처한 여인으로 위장한 여자로부터 왔습니다.
-keyambush,uti,LocalizedName,0,-1,'난처녀'의 열쇠
+keyambush,uti,LocalizedName,0,-1,'조난당한 여인'의 열쇠
 keycwcchest1,uti,DescIdentified,0,-1,해적들의 둥지에서 발견된 열쇠
 keycwcchest1,uti,LocalizedName,0,-1,해적 키
 keycwcchest2,uti,DescIdentified,0,-1,해적들의 둥지에서 발견된 열쇠
@@ -548,7 +550,7 @@ keystone3,uti,LocalizedName,0,13498,키스톤
 keystrongbox,uti,DescIdentified,0,-1,호클린 성의 강함함 열쇠
 keystrongbox,uti,LocalizedName,0,-1,강박 키
 keytfschest,uti,DescIdentified,0,-1,"네 아버지는 항상 이 열쇠를 가지고 있었고, 그것이 아버지의 가방을 열 수 있었다."
-keytfschest,uti,LocalizedName,0,-1,아버지의 키
+keytfschest,uti,LocalizedName,0,-1,아버지의 열쇠
 keywerecat,uti,DescIdentified,0,-1,강도로부터의 열쇠
 keywerecat,uti,LocalizedName,0,-1,열쇠
 kheotomsointme,uti,DescIdentified,0,-1,이 매우 다재다능 한 기름 은 여러 가지 질병 을 치료 하기 위해 피부 에 마찰 하거나 삼킬 수 있다. 사용 목적 이 어떠하든지 이 기름 은 다섯 가지 복용량 을 포함 한다.
@@ -627,7 +629,7 @@ magicbean3,uti,DescIdentified,0,-1,콩 가방에서 뽑힌 마법콩.
 magicbean3,uti,LocalizedName,0,-1,마법콩
 magicbean4,uti,DescIdentified,0,-1,콩 가방에서 뽑힌 마법콩.
 magicbean4,uti,LocalizedName,0,-1,마법콩
-magicbsword,uti,DescIdentified,0,-1,마법의 끔찍한 검
+magicbsword,uti,DescIdentified,0,-1,마법의 바스타드 소드
 magicbsword,uti,LocalizedName,0,-1,마법검
 magicclaymore,uti,DescIdentified,0,-1,"미세하게 제작된 무기, 덕목이 가미된 무기."
 magicclaymore,uti,LocalizedName,0,-1,마법 클레이모어
@@ -646,7 +648,7 @@ magicfootflail,uti,LocalizedName,0,-1,마법 발대검
 magicgreataxe,uti,DescIdentified,0,-1,"훌륭한 무기로, 선성이 깃들여져 있습니다."
 magicgreataxe,uti,LocalizedName,0,-1,마법 대도끼
 magichammer,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
-magichammer,uti,LocalizedName,0,-1,마법 망치
+magichammer,uti,LocalizedName,0,-1,마법 철퇴
 magichandaxe,uti,DescIdentified,0,-1,"미세하게 제작된 무기, 덕목이 가미된 무기."
 magichandaxe,uti,LocalizedName,0,-1,마법 손도끼
 magichorseflail,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
@@ -694,7 +696,7 @@ mailoffleetnes,uti,Description,0,-1,"아름다운 체인메일 갑옷으로, 토
 mailoffleetnes,uti,LocalizedName,0,-1,유연함 의 우편
 mailoftheblac,uti,DescIdentified,0,-1,"방갑고 판갑의 조합. 중앙에는 아무것도 없는 구멍처럼 보이는 구멍이 있다. 파괴의 구슬에서 베어낸 구멍은 방갑에 맞아들어오는 많은 공격을 삼키는 역할을 한다. 하루에 한 번, 어둠이 그 구멍에서 터져나올 수 있다."
 mailoftheblac,uti,Description,0,-1,"우편과 접시에 달린 옷, 중앙에는 아무것도 없는 구멍이 있는 것 같습니다."
-mailoftheblac,uti,LocalizedName,0,-1,검은 마음의 편지
+mailoftheblac,uti,LocalizedName,0,-1,검은 심장의 갑옷
 mailoftheeagl,uti,DescIdentified,0,-1,"이 마법 의복 의 필수 요소 인 서코트 로 이름 지은 메일 오브 더 에이글 은 착용자 에게 뚫고 보이는 시력을 부여 한다. 또한, 메일 은 충격 의 힘 을 흡수 한다. 충분한 힘 을 흡수 한 한 번 에 착용자 에게 에너지 폭발 으로 방출 될 수 있으며, 그 속도 를 증가 시키게 된다. <c ÿÿ> 물품 에 대한 모든 충전 을 사용 한다면, 그것은 먼지로 붕괴 될 것 이다.<cÿÿÿ>"
 mailoftheeagl,uti,Description,0,-1,"전면 메일 갑옷으로, 방패 팔 부분은 더 가벼운 보호를 제공한다."
 mailoftheeagl,uti,LocalizedName,0,-1,이글의 메일
@@ -710,7 +712,7 @@ melfsrod,uti,Description,0,-1,검은색 막대기.
 melfsrod,uti,LocalizedName,0,-1,멜프의 레드로드
 merchantschart,uti,DescIdentified,0,48895,이 상인의 헌법은 7일 동안 무기를 무관하게 들고 다니도록 허용하고 있습니다. 그래서 합법적으로 카라반을 방어할 수 있습니다.
 merchantschart,uti,LocalizedName,0,48893,상인의 헌장
-merchantsring,uti,DescIdentified,0,-1,"이 반지는 많은 상인들이 착용합니다. 그들은 반정석을 가지고 있으며, 더 미묘한 덕목으로 제작되었습니다."
+merchantsring,uti,DescIdentified,0,-1,"이 반지들은 많은 상인들이 착용합니다. 보석에 담긴 가치도 있지만, 미묘한 마법적 힘도 깃들어 있습니다."
 merchantsring,uti,LocalizedName,0,-1,상인의 반지
 message1,uti,DescIdentified,0,-1,메신저 버드에서 전달된 이 글은 스어 길버트 호클린이 강도들의 기원에 대한 당신의 메시지에 대한 답변을 제시하고 있습니다. 강도들을 사냥하는 에드거 트루실버에 합류하도록 명령합니다. 하지만 당신은 이 강도가 어디에 있는지 확실하지 않습니다. 아마도 만티스는 당신을 도울 수 있습니다.
 message1,uti,LocalizedName,0,-1,메시지
@@ -783,7 +785,7 @@ performersarml,uti,LocalizedName,0,-1,연주자의 팔찌
 pinpointarrows,uti,DescIdentified,0,-1,"핀포인트 화살을 처음 만들었던 사람은 알려지지 않았지만, 거의 확실하게 어두운 곳에서의 전투를 돕기 위한 시도였던 것 같다. 이 방법으로 챔피언은 적어도 화살로 맞힌 적을 찾아 처리할 수 있었다."
 pinpointarrows,uti,LocalizedName,0,-1,정점 화살
 pitilesssling,uti,DescIdentified,0,-1,이 반감각적인 반발건은 그 소유자로부터 일부 잔인함을 흡수하기 시작했다.
-pitilesssling,uti,Description,0,-1,어두운 마크가 새겨진 스프링.
+pitilesssling,uti,Description,0,-1,어두운 문양이 수놓아진 슬링.
 pitilesssling,uti,LocalizedName,0,-1,무자비한 투석구
 platemail1,uti,LocalizedName,0,12838,판금 갑옷
 platemailv,uti,DescIdentified,0,-1,"전체 판의 보호만큼은 아니지만, 이 판의 우편은 그럼에도 불구하고 매우 잘 제작되어 있으며 추가적인 매력을 가지고 있습니다."
@@ -805,7 +807,7 @@ potionofprayer,uti,DescIdentified,0,13440,이것은 템푸스 계급의 전투 �
 potionofprayer,uti,LocalizedName,0,13441,기도 물약
 potionofprotec,uti,DescIdentified,0,13440,마법에 대한 보호 포션
 potionofprotec,uti,LocalizedName,0,13441,보호 물약
-potionofstonef,uti,DescIdentified,0,13440,"돌처럼 단단한 피부로, 거의 무엇이든 당신을 막을 수 없습니다."
+potionofstonef,uti,DescIdentified,0,13440,"돌처럼 단단한 피부를 가졌으니, 당신을 막을 수 있는 것은 거의 없습니다..."
 potionofstonef,uti,LocalizedName,0,13441,스톤폼 포션
 potionofstonew,uti,DescIdentified,0,13440,"이 강력한 포션은 음주자의 의지를 강화하여, 정신을 영향을 끼치는 마법과 효과에 매우 저항하게 만듭니다."
 potionofstonew,uti,LocalizedName,0,13441,스톤빌의 약
@@ -919,7 +921,7 @@ robesofthemoon,uti,LocalizedName,0,-1,달의 가운
 robesofthepuremi,uti,DescIdentified,0,-1,이 의복은 법에 헌신한 오래된 종교 집단의 가장 열렬한 수도자들의 소유였습니다.
 robesofthepuremi,uti,Description,0,-1,종교적인 옷처럼 보이는 의복
 robesofthepuremi,uti,LocalizedName,0,-1,순수한 마음의 의복
-rodofice,uti,DescIdentified,0,-1,이 막대는 얼음 기반의 마법을 포함하는 연극적인 마법 목록을 보관할 수 있도록 제작되었습니다.
+rodofice,uti,DescIdentified,0,-1,이 막대들은 얼음 계열 마법 목록을 담을 수 있도록 제작되었습니다.
 rodofice,uti,Description,0,-1,흰색 막대기.
 rodofice,uti,LocalizedName,0,-1,얼음 막대
 rodofresurrect,uti,LocalizedName,0,14166,부활의 단장
@@ -1063,7 +1065,7 @@ spiritualshield,uti,DescIdentified,0,-1,"이 속임수처럼 보이는 방패들
 spiritualshield,uti,Description,0,-1,중앙에 큰 금속 보스가 있는 단순한 나무 방패.
 spiritualshield,uti,LocalizedName,0,-1,영적 방패
 splintmail2,uti,LocalizedName,0,12838,미늘 갑옷
-splintmailv,uti,DescIdentified,0,-1,이 종류의 껍데기나 완전한 갑옷은 띠나 껍데기 갑옷과 같은 보호력을 제공합니다. 이 갑옷에는 마법이 걸려 있지만 제작자의 표지는 없습니다.
+splintmailv,uti,DescIdentified,0,-1,이러한 형태의 부분 갑옷이나 통갑옷은 밴디드 메일이나 스플린트 메일과 동등한 보호력을 제공합니다. 제작자의 표시는 없지만 마법이 깃들어 있습니다.
 splintmailv,uti,LocalizedName,0,12843,고운 미늘 갑옷
 staffofpower,uti,LocalizedName,0,14182,힘의 지팡이
 stalwartring,uti,DescIdentified,0,-1,이 단순한 은 끈 은 두 개의 거네트 로 씌여 있지만 그 의 진정한 가치 는 그 에 있는 보호 마법 에 있다. 전투 전 에 지휘관 들 을 위해 설계 되어 있는 이 힘 은 그 의 용기 가 흔들릴 위험 에 처 한 사람 들 에게 유익 할 것 이다.
@@ -1085,7 +1087,7 @@ superiorlongswo,uti,LocalizedName,0,166,더 뛰어난 장검
 superiormace,uti,DescIdentified,0,-1,"이 철퇴는 머리 부분에 작고 속이 빈 홈이 파여 있다. 철퇴 머리가 온전히 들어맞게 내리치면 머리가 울리며 울림이 퍼지고, 때로는 상대를 기절시킨다. 이런 철퇴의 성질이 마법인지 아닌지는 알려져 있지 않다."
 superiormace,uti,LocalizedName,0,-1,상위 망치
 supremeringof,uti,DescIdentified,0,13454,최상급 보호의 반지는 한평생 만나기 힘든 가장 강력한 보호 장신구 가운데 하나입니다.
-supremeringof,uti,Description,0,-1,"단순한 금 반지에, 단 하나의 귀중한 돌이 고립된 스타일로 장식되어 있습니다."
+supremeringof,uti,Description,0,-1,"단순한 금 반지에, 돋보기 모양으로 고정된 하나의 귀중한 보석이 박혀 있습니다."
 supremeringof,uti,LocalizedName,0,13453,최고의 보호의 반지
 swordoflight,uti,DescIdentified,0,-1,이 무기는 영적인 선인들의 손에 제작되었습니다. 악을 파괴하기 위해 만들어진 이 검들은 빛의 검으로 알려졌습니다.
 swordoflight,uti,Description,0,-1,"세련된 양손 검, 코끼리 가죽 핸들과 철 포메르가 있습니다."
@@ -1107,7 +1109,7 @@ therighteousbl,uti,DescIdentified,0,-1,"이 고급 판금 갑옷에 붙여진 �
 therighteousbl,uti,LocalizedName,0,12838,의로운 검은
 therighteouswh,uti,DescIdentified,0,-1,"이 고급 백색 판금 갑옷은 이른바 '공정한 백색'이라는 이름으로 불린다. 이 갑옷은 기사단원들을 위해 특별히 설계되었지만, 누구나 사용할 수 있다. 소문에 따르면, 같은 세트에 속한 다른 공정한 무장들도 제작되었다."
 therighteouswh,uti,LocalizedName,0,12838,의로운 흰색
-thewatcher,uti,DescIdentified,0,-1,"이 혈육검은 헬름 교회의 축복받은 무기입니다. 평신도들도 이 무기를 유용하게 사용할 수 있지만, 헬름을 따르는 자들은 더욱 효과적으로 사용할 수 있으며, 검을 잡을 때 추가적인 은닉된 힘을 발휘합니다."
+thewatcher,uti,DescIdentified,0,-1,"이 바스타드 소드는 헬름 교회의 축복받은 무기입니다. 평신도들도 이 무기를 유용하게 쓸 수 있지만, 헬름을 따르는 자들이라면 검을 다룰 때 숨겨진 추가 능력을 개방하여 더욱 유용하게 사용할 수 있습니다."
 thewatcher,uti,Description,0,-1,아주 세련된 반장검이 장갑에 눈의 문양이 새겨져 있습니다.
 thewatcher,uti,LocalizedName,0,-1,감시자
 thewitchring,uti,DescIdentified,0,-1,"이 반지는 마법사 주군과의 연결이 끊긴다고 해도 그 자체로 여전히 강력하지만, 마법사 주군이 살아 있을 때 착용하는 위험은 매우 높다. 이 반지로 마법사 주군은 가장 강한 의지를 제어할 수 있으며, 착용자의 본성에 관계없이 악의적이고 악한 행동을 하도록 만들 수 있다. 또한, 반지의 주인이 죽인 사람들의 영혼은 마법사 주군에게 직접적으로 강화된다."
@@ -1132,10 +1134,10 @@ trappotion,uti,DescIdentified,0,13440,"웨스트게이트의 밤 마스크의 �
 trappotion,uti,LocalizedName,0,13441,함정 탐지 물약
 treasuremap,uti,DescIdentified,0,-1,"이 보물 지도는 썬더스톤으로 가는 길에 있는 습지의 위치를 나타내고 있습니다. 경로는 점선으로 표시되어 있습니다. 다리를 건너는 도로에서 하천을 따라 숲으로 들어가십시오. 이는 습지로 이어집니다. 습지는 상세하게 묘사되어 있으며, 수영장 북쪽에 썬더스톤이 표시되어 있습니다. 지도에 적힌 노트는 ""이 썬더스톤 아래에 보물이 저장되어 있다""는 내용입니다."
 treasuremap,uti,LocalizedName,0,-1,보물 지도
-tribalcharm,uti,DescIdentified,0,-1,청동과 반정석으로 만든 청지는 저주를 해제할 수 있는 마법적인 성질을 가지고 있습니다.
+tribalcharm,uti,DescIdentified,0,-1,청동과 준보석으로 만들어져 저주를 해제하는 마법적 능력을 지닌 부적.
 tribalcharm,uti,Description,0,-1,청동과 반귀한 돌로 만든 매력은
 tribalcharm,uti,LocalizedName,0,-1,부족의 부적
-tridentofpinni,uti,DescIdentified,0,-1,"이 넓은 삼각형 트리드는 물에 내구성 있는 마법 요소로 끝이 달려 있으며, 희생자의 혈액을 통해 흐르면서 그들을 어지럽게하고 느리게 만듭니다."
+tridentofpinni,uti,DescIdentified,0,-1,"이 넓은 갈고리의 삼지창 끝에는 희생자의 혈류를 타고 흐르는 방수 마법 정수가 묻어 있어, 적을 몽롱하고 느리게 만든다."
 tridentofpinni,uti,Description,0,110846,이 3개의 톱니가 있는 창의 변형은 수중인류의 선호하는 무기입니다.
 tridentofpinni,uti,LocalizedName,0,67251,고정의 삼지창
 truesighthelm,uti,DescIdentified,0,-1,"이 헬멧은 눈 틈에 얇고 투명한 물질로 덮여 있어 착용자에게 시야를 제공한다. 하지만 이 도움은 마법적인 성질을 가지고 있어, 이상한 시야에 익숙해지기 위해 시간이 걸린다."
@@ -1155,10 +1157,10 @@ unicornhorn,uti,LocalizedName,0,13665,유니콘뿔
 vampirecoat,uti,DescIdentified,0,-1,강화된 가죽 재킷과 어두운 색의 가죽 코트가 잘 만들어져 있습니다.
 vampirecoat,uti,LocalizedName,0,12835,흡혈귀 외투
 vampiricdarts,uti,DescIdentified,0,-1,이 마법의 화살은 상처받은 사람의 생명력을 빼앗아 던진 사람에게 공급합니다.
-vampiricdarts,uti,LocalizedName,0,-1,뱀파이어 칼라반
+vampiricdarts,uti,LocalizedName,0,-1,뱀파이어릭 다트
 vialofdexterit,uti,DescIdentified,0,-1,"이 포션은 작은 양만을 포함하며, 마시는 사람의 민첩성을 영원히 증가시킵니다."
 vialofdexterit,uti,LocalizedName,0,-1,민첩의 병
-vialofstrength,uti,DescIdentified,0,-1,"이 포션은 가장 작은 마시는 양만을 포함하며, 마신 사람의 힘을 영원히 증가시킵니다."
+vialofstrength,uti,DescIdentified,0,-1,한 모금밖에 안 되는 양이 들어 있는 이 포션은 마신 이의 힘을 영구적으로 증가시켜 준다.
 vialofstrength,uti,LocalizedName,0,-1,힘의 약병
 vialofwisdom,uti,DescIdentified,0,-1,"이 포션은 가장 작은 한 잔만을 포함하며, 마신 사람의 지혜를 영원히 높일 것입니다."
 vialofwisdom,uti,LocalizedName,0,-1,지혜의 병
@@ -1267,7 +1269,7 @@ wcjshield67,uti,LocalizedName,0,-1,주스트 방패
 whitemail,uti,DescIdentified,0,-1,"이 스프링 스틸 스핀트 메일은 여러 축복으로 마법으로 강화되었다. 라탄더, 헬프, 타이르, 템푸스의 종류는 전국에서 흔히 볼 수 있지만, 이들 모두는 언데드와의 싸움에 사용된다. 때로는 그 신들의 추종자들은 선택한 갑옷이 추가적인 힘을 갖게 되며, 그들은 갑옷을 착용할 때 이런 힘이 풀린다."
 whitemail,uti,Description,0,-1,이 릴리트 메일 의복은 매우 가벼운 합금으로 만들어져 있습니다. 뛰어난 수공은 분명합니다.
 whitemail,uti,LocalizedName,0,12838,화이트메일
-whitestagbad,uti,DescIdentified,0,48895,"전설적인 순백색 수사슴의 가죽은 거의 확실히 몇몇 돈을 값지지만, 불행히도 심각하게 손상되었습니다."
+whitestagbad,uti,DescIdentified,0,48895,"전설적인 순백색 수사슴의 가죽. 불행히도 심하게 손상되기는 했지만, 거의 확실히 꽤 돈이 될 것이다."
 whitestagbad,uti,LocalizedName,0,48893,순백색 수사슴 숨음
 whitestaghide,uti,LocalizedName,0,-1,순백색 수사슴 숨음
 whitestagok,uti,DescIdentified,0,48895,전설적인 순백색 수사슴의 가죽은 거의 확실히 몇몇 돈을 값지게 할 것입니다.
