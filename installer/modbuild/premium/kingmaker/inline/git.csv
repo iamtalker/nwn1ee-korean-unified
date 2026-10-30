@@ -137,9 +137,9 @@ ccaves,git,Placeable List/0/ItemList/4/LocalizedName,0,-1,오염된 은 열쇠
 ccaves,git,Placeable List/0/ItemList/5/LocalizedName,0,-1,두개골 열쇠
 ccaves,git,Placeable List/0/ItemList/6/LocalizedName,0,-1,치아 키
 ccaves,git,Placeable List/0/LocName,0,5348,키 상자
-ccaves,git,Placeable List/1/Description,0,84170,"이 동상은 숭배하는 자세를 취한 인간형 생물을 묘사하고 있으며, 화염에 의해 다른 동상의 머리와 손이 손상되는 것과는 달리 어떤 종류의 돌로 만들어져야 합니다."
-ccaves,git,Placeable List/29/Description,0,84170,"이 동상은 숭배하는 자세를 취한 인간형 생물을 묘사하고 있으며, 화염에 의해 다른 동상의 머리와 손이 손상되는 것과는 달리 어떤 종류의 돌로 만들어져야 합니다."
-ccaves,git,Placeable List/30/Description,0,84170,"이 동상은 숭배하는 자세를 취한 인간형 생물을 묘사하고 있으며, 화염에 의해 다른 동상의 머리와 손이 손상되는 것과는 달리 어떤 종류의 돌로 만들어져야 합니다."
+ccaves,git,Placeable List/1/Description,0,84170,이 동상은 숭배하는 자세를 취한 인간형 생물을 묘사하고 있다. 동상의 머리와 손을 집어삼키는 화염의 영향을 받지 않는 어떤 종류의 돌로 만들어진 것이 틀림없다.
+ccaves,git,Placeable List/29/Description,0,84170,이 동상은 숭배하는 자세를 취한 인간형 생물을 묘사하고 있다. 동상의 머리와 손을 집어삼키는 화염의 영향을 받지 않는 어떤 종류의 돌로 만들어진 것이 틀림없다.
+ccaves,git,Placeable List/30/Description,0,84170,이 동상은 숭배하는 자세를 취한 인간형 생물을 묘사하고 있다. 동상의 머리와 손을 집어삼키는 화염의 영향을 받지 않는 어떤 종류의 돌로 만들어진 것이 틀림없다.
 ccaves,git,Placeable List/8/ItemList/1/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 ccaves,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
 ccaves,git,WaypointList/0/LocalizedName,0,14817,껍데기 키 웨이포인트
@@ -228,7 +228,9 @@ emptybtlthree,git,StoreList/0/LocName,0,-1,카라반
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/29/DescIdentified,0,67729,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/30/DescIdentified,0,40655,이 투구에는 착용자의 눈 앞에 특수한 수정 렌즈 두 개가 달려 있어 관찰 판정에 +5 보너스를 준다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/31/DescIdentified,0,12867,"수히리 태양 여신의 성직자들이 제작한 이 방패들은 태양의 황금 불꽃으로 끊임없이 빛나고 있다. 제작자의 기술과 의도에 따라, 일부 방패들은 더 강력한 힘을 지니고 있다."
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/32/DescIdentified,0,48287,"이 간단한 로프 벨트는 사람의 허리를 감으면 무장 전투 능력을 증가시킵니다. 빛나는 달 사제단이 라이벌 사제단에 의해 공격받았을 때, 일부 수습 사제들은 일반적인 속도보다 더 빠르게 성장해야 했습니다. 이 벨트는 젊은 사제들이 큰 속도와 기술로 자신의 사제단을 방어할 수 있게 해주었습니다."
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/32/DescIdentified,0,48287,"이 소박한 밧줄 허리띠는 사람의 허리에 두르면 맨손 전투 능력을 향상시켜 줍니다.
+
+빛나는 달 수도회가 라이벌 수도회의 공격을 받았을 때, 일부 수련생들은 평소보다 훨씬 빠르게 실력을 키워야 했습니다. 이 허리띠 덕분에 어린 수도승들은 놀라운 속도와 기예로 자신들의 수도회를 방어할 수 있었습니다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/33/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/34/DescIdentified,0,67472,수히리의 추종자인 수도사들은 태양만큼 지속적이거나 위험한 것은 없다는 것을 알고 있다. 이 신발은 일출 교단 내에서 다양한 기술을 마스터한 자들에게 보상으로 수여된다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/35/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
@@ -245,7 +247,7 @@ emptybtlthree,git,WaypointList/1/LocalizedName,0,14814,지도 참고: 묘지
 emptybtlthree,git,WaypointList/1/MapNote,0,14815,장지
 emptybtlthree,git,WaypointList/2/LocalizedName,0,14814,지도표: 입구 유지
 emptybtlthree,git,WaypointList/2/MapNote,0,14815,은둔자의 숲
-emptybtlthree,git,WaypointList/3/LocalizedName,0,14814,지도 참고: 시안을 보관하라
+emptybtlthree,git,WaypointList/3/LocalizedName,0,14814,지도 메모: 시안의 성채
 emptybtlthree,git,WaypointList/3/MapNote,0,14815,사이안 성
 faction1area,git,Creature List/0/FirstName,0,-1,q2_사실 남자
 faction2,git,Creature List/0/FirstName,0,-1,q2_사실 남자2
@@ -347,8 +349,8 @@ gcaves,git,Creature List/0/ItemList/1/LocalizedName,0,-1,정신석
 gcaves,git,Creature List/1/Description,0,-1,이들은 지역 농장에서 빼앗긴 노예들입니다. 그들은 낡고 상처투성이로 보입니다.
 gcaves,git,Creature List/1/FirstName,0,-1,노예 농노
 gcaves,git,Creature List/10/FirstName,0,12567,고블린 궁수
-gcaves,git,Creature List/11/FirstName,0,12567,고블린 폭탄수호병
-gcaves,git,Creature List/12/FirstName,0,12567,고블린 폭탄수호병
+gcaves,git,Creature List/11/FirstName,0,12567,고블린 폭탄병
+gcaves,git,Creature List/12/FirstName,0,12567,고블린 폭탄병
 gcaves,git,Creature List/13/FirstName,0,12567,고블린
 gcaves,git,Creature List/14/FirstName,0,12567,고블린
 gcaves,git,Creature List/15/FirstName,0,12567,고블린
@@ -373,7 +375,7 @@ gcaves,git,Creature List/7/FirstName,0,-1,고블린 물 마법사
 gcaves,git,Creature List/7/ItemList/9/DescIdentified,0,-1,이것은 일종의 마법의 우르나처럼 보입니다. 아마도 물 원자를 불러올 때 사용되었던 것 같습니다. 이렇게 약한 생물은 어떻게 물 원자를 통제할 수 있었는지 설명할 수 있습니다.
 gcaves,git,Creature List/7/ItemList/9/LocalizedName,0,-1,깨진 항아리
 gcaves,git,Creature List/9/Description,0,12565,"고블린은 종종 귀찮게 여겨지지만, 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다. 이는 고블린 아동입니다."
-gcaves,git,Creature List/9/FirstName,0,12567,고블린 폭탄수호병
+gcaves,git,Creature List/9/FirstName,0,12567,고블린 폭탄병
 gcaves,git,Door List/0/LocName,0,5349,동굴 출구
 gcaves,git,Door List/6/Description,0,-1,잠긴 다리 문
 gcaves,git,Door List/8/LocName,0,5349,우리 문
@@ -715,7 +717,7 @@ q2b14a,git,Creature List/14/Description,0,-1,고구려의 평범한 사람들은
 q2b14a,git,Creature List/14/FirstName,0,12423,평민
 q2b14a,git,Creature List/15/Description,0,-1,이 사람은 구석의 평범한 사람들 중 한 명입니다.
 q2b14a,git,Creature List/15/FirstName,0,12423,평민
-q2b14a,git,Creature List/2/Description,0,-1,이 와인드라인 바드는 거친 자부심으로 행동한다.
+q2b14a,git,Creature List/2/Description,0,-1,이 드워프 바드는 거만할 정도로 당당한 태도를 취하고 있다.
 q2b14a,git,Creature List/2/FirstName,0,-1,커티스 경
 q2b14a,git,Creature List/2/LastName,0,-1,바드
 q2b14a,git,Creature List/3/Description,0,-1,여관 여종업원입니다.
@@ -750,7 +752,7 @@ q2b9,git,Creature List/0/FirstName,0,-1,레비오'사
 q2b9,git,Creature List/1/Description,0,-1,이건 쿼터마스터의 상점에 자주 오는 사냥꾼 중 하나입니다.
 q2b9,git,Creature List/1/FirstName,0,-1,떨어졌어
 q2b9,git,Creature List/1/LastName,0,-1,좋은 관습
-q2b9,git,Creature List/2/Description,0,-1,"이것은 숲에서 살아남은 한 명의 포레스터로, 침입자들이 파괴될 때까지 성에 머물도록 강제당했습니다."
+q2b9,git,Creature List/2/Description,0,-1,침입자링 소탕될 때까지 요새에 머물러야 하는 삼림지기 중 한 명이다.
 q2b9,git,Creature List/2/FirstName,0,-1,트롤두르
 q2b9,git,Creature List/2/LastName,0,-1,자산
 q2b9,git,Creature List/3/FirstName,0,12422,평민
@@ -985,9 +987,9 @@ q2c25,git,Creature List/7/FirstName,0,12423,평민
 q2c25,git,Door List/0/LocName,0,5349,성 출구
 q2c25,git,Placeable List/27/Description,0,84167,당신은 이 거대한 돌 프레임의 빛나는 표면에 의해 만들어진 자신의 반사로 다시 한번 바라봅니다.
 q2c25,git,Placeable List/40/LocName,0,5800,빛줄기
-q2c25,git,TriggerList/0/LocalizedName,0,14759,트리거 유지
+q2c25,git,TriggerList/0/LocalizedName,0,14759,알리아스 요새 트리거
 q2c25,git,TriggerList/1/LocalizedName,0,-1,"OS 일 라인, 임의"
-q2c25,git,TriggerList/2/LocalizedName,0,14759,세라의 부하
+q2c25,git,TriggerList/2/LocalizedName,0,14759,부하 세라
 q2c25,git,TriggerList/3/LocalizedName,0,14759,스맨 페란
 q2c25,git,TriggerList/5/LocalizedName,0,14759,투표 트리거 유지
 q2c25,git,WaypointList/0/LocalizedName,0,14817,페란은 웨이포인트를 떠났다
@@ -1041,8 +1043,8 @@ q2c5,git,Creature List/1/Description,0,-1,베켓 경의 경비관은 의심스�
 q2c5,git,Creature List/1/FirstName,0,-1,경비병
 q2c5,git,Door List/0/LocName,0,5349,매너 출구
 q2c5,git,Placeable List/0/Description,0,68862,단단한 나무 책상
-q2c5,git,Placeable List/0/ItemList/0/DescIdentified,0,-1,이 조각은 찢어진 것처럼 보입니다. 아래쪽에 있는 몇몇 단어가 찢어져 읽을 수가 없습니다. 만약 다른 조각을 가지고 있다면...
-q2c5,git,Placeable List/0/ItemList/0/Description,0,-1,이 조각은 찢어진 것처럼 보입니다. 아래쪽에 있는 몇몇 단어가 찢어져 읽을 수가 없습니다. 만약 다른 조각을 가지고 있다면...
+q2c5,git,Placeable List/0/ItemList/0/DescIdentified,0,-1,찢어진 양피지 조각이다. 아래쪽에 있는 글자 일부가 뜯겨 나가 무슨 뜻인지 알아볼 수 없다... 다른 절반만 가지고 있다면 좋을 텐데.
+q2c5,git,Placeable List/0/ItemList/0/Description,0,-1,찢어진 양피지 조각이다. 아래쪽에 있는 글자 일부가 뜯겨 나가 무슨 뜻인지 알아볼 수 없다... 다른 절반만 가지고 있다면 좋을 텐데.
 q2c5,git,Placeable List/0/ItemList/0/LocalizedName,0,-1,노트 종이
 q2c5,git,TriggerList/0/LocalizedName,0,-1,"OS 일 라인, 임의"
 q2c5,git,WaypointList/0/LocalizedName,0,14817,베케트의 집 웨이포인트

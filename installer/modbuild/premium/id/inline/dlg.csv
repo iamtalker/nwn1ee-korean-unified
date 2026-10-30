@@ -49,7 +49,7 @@ id1_baccha,dlg,EntryList/13/Text,0,-1,"바차 가족은 파티로 악명이 높�
 id1_baccha,dlg,EntryList/14/Text,0,-1,"사실, 우리는 매우 선택적이지 않았습니다. 창녀, 시인, 노래꾼, 코미디언, 무능한 농민들과 기타 상류층에겐 이상한 존재들로, 다양한 사람들에게 관심을 가졌습니다."
 id1_baccha,dlg,EntryList/15/Text,0,-1,"사실, 우리는 우리의 파티에 누가 올 수 있는지에 대해 매우 선택적이지 않았습니다. 창녀, 시인, 배드, 클로언, 무모한 농민 및 다른 이상적인 상류 사회는 모두 초대되었습니다."
 id1_baccha,dlg,EntryList/16/Text,0,-1,"우리가 제일 좋아한 건 계집질 말고도, 아니 그보다 더, 진탕 취하고 사냥을 나가는 거였지. 우린 젊고 철이 없었고, 꼬치에 멧돼지를 구워 먹는 걸 정말 좋아했어."
-id1_baccha,dlg,EntryList/17/Text,0,-1,"하지만 그 밤 우리 먹이가 평소보다 똑똑해 보였는데, 취한 상태에서 얼마나 알기 힘든지와 마찬가지였습니다. 짐승은 나를 이기고 나를 끔찍하게 찌르고, 내 장을 찢어버렸습니다."
+id1_baccha,dlg,EntryList/17/Text,0,-1,"하지만 그날 밤, 우리 먹잇감은 평소보다 더 영민해 보였다. 술에 취했을 때가 그렇듯 알아차리기가 쉽지 않았지만 말이다. 짐승이 나를 압도하더니 끔찍하게 받아버렸다. 내 장이 쏟아져 나왔고 난 틀림없이 죽을 거라고 생각했다."
 id1_baccha,dlg,EntryList/18/Text,0,-1,"정말로, 나는 약해져 수개월 동안 침대에 누워 있었고, 자신의 죽음을 생각하며 비합리적으로 죽음에 두려워졌다. 아버지는 나의 치유 불능에 대해 매우 걱정되어 할라스터라는 젊고 강력한 마법사인 그의 친구를 불렀다."
 id1_baccha,dlg,EntryList/19/Text,0,-1,"오래 전 일이었는데, 내 라이칸트로피는 전투에서 크게 능력을 높여줍니다. 그때 사냥도 그리 나쁘지 않았어요. 이번 사냥의 먹이가 더 똑똑했죠."
 id1_baccha,dlg,EntryList/2/Text,0,-1,난 당신께 항복합니다. 그렇게 숙련된 적에게 가장 적절한 간청으로. 내가 모든 것을 내놓았어요.
@@ -132,7 +132,7 @@ id1_baccha,dlg,ReplyList/62/Text,0,-1,내가 무엇을 찾고 있는지 다시 �
 id1_baccha,dlg,ReplyList/63/Text,0,-1,나는 이걸 보관할 생각이야.
 id1_baccha,dlg,ReplyList/64/Text,0,-1,나는 당신을 믿을 수 있을지 모르겠다.
 id1_baccha,dlg,ReplyList/65/Text,0,-1,- 안 돼
-id1_baccha,dlg,ReplyList/66/Text,0,-1,나가 그걸 가지고 있다면 네게 통제권을 행사할 수 있을 거야
+id1_baccha,dlg,ReplyList/66/Text,0,-1,내가 이걸 가지고 있으면 널 통제할 수 있을 거라고 생각했거든.
 id1_baccha,dlg,ReplyList/67/Text,0,-1,그냥 네가 그것을 가지지 않았으면 좋겠어.
 id1_baccha,dlg,ReplyList/69/Text,0,-1,내 보상은 무엇인가?
 id1_baccha,dlg,ReplyList/7/Text,0,-1,난 그냥 널 죽일 것 같아
@@ -197,7 +197,7 @@ id1_follower,dlg,EntryList/8/Text,0,102763,"네, 조용히 있어요. 보이지 
 id1_follower,dlg,EntryList/9/Text,0,102764,그건 자네가 처리해 보시오.
 id1_follower,dlg,ReplyList/0/Text,0,103358,"고마워, 다 됐어."
 id1_follower,dlg,ReplyList/1/Text,0,103359,더 이상 당신의 도움이 필요 없어.
-id1_follower,dlg,ReplyList/10/Text,0,103367,더 이상 조용히 다가오지 마.
+id1_follower,dlg,ReplyList/10/Text,0,103367,더 이상 은신하려고 애쓰지 마.
 id1_follower,dlg,ReplyList/100/Text,0,102379,이동.
 id1_follower,dlg,ReplyList/101/Text,0,102380,주문해제
 id1_follower,dlg,ReplyList/102/Text,0,102381,죽음 방비
@@ -329,12 +329,12 @@ id1_forge,dlg,EntryList/20/Text,0,-1,어떤 종류의 피해에 대한 저항을
 id1_forge,dlg,EntryList/21/Text,0,-1,어떤 종류의 피해에 대한 면역력을 추가하고 싶습니까?
 id1_forge,dlg,EntryList/22/Text,0,-1,이 항목에 어떤 종류의 보너스를 추가하고 싶습니까?
 id1_forge,dlg,EntryList/23/Text,0,-1,어떤 인종에 대한 증가 보너스를 추가하고 싶으신가요?
-id1_forge,dlg,EntryList/24/Text,0,-1,어떤 종류의 정체성에 대해 증강 보너스를 추가하고 싶으신가요?
+id1_forge,dlg,EntryList/24/Text,0,-1,어떤 성향을 상대로 추가적인 강화 보너스를 얻고 싶으신가요?
 id1_forge,dlg,EntryList/25/Text,0,-1,어떤 성향을 대상으로 강화 보너스를 추가하시겠습니까?
-id1_forge,dlg,EntryList/26/Text,0,-1,어떤 연계 그룹에 대해 보너스를 추가하고 싶나요?
+id1_forge,dlg,EntryList/26/Text,0,-1,어떤 성향 그룹에 대해 강화 보너스를 추가하고 싶나요?
 id1_forge,dlg,EntryList/27/Text,0,-1,피해 보너스
 id1_forge,dlg,EntryList/28/Text,0,-1,어떤 인종에 대한 피해 보너스를 추가하고 싶으신가요?
-id1_forge,dlg,EntryList/29/Text,0,-1,어떤 종류의 정체성을 추가하여 손상 보너스를 얻고 싶으신가요?
+id1_forge,dlg,EntryList/29/Text,0,-1,어떤 성향을 대상으로 피해 보너스를 추가하고 싶으신가요?
 id1_forge,dlg,EntryList/3/Text,0,-1,<CUSTOM5111>는 이 항목에 사용할 수 있습니다. 이 레시피는 다음과 같은 구성 요소를 필요로 합니다: <CUSTOM5112> <CUSTOM5113> <CUSTOM5114> <CUSTOM5115> <CUSTOM5116> <CUSTOM5117> <CUSTOM5118>
 id1_forge,dlg,EntryList/30/Text,0,-1,어떤 특정 성향을 상대로 피해 보너스를 추가하시겠습니까?
 id1_forge,dlg,EntryList/31/Text,0,-1,어떤 연계 그룹에 대한 손해 보너스를 추가하고 싶습니까?
@@ -481,11 +481,11 @@ id1_forge,dlg,ReplyList/202/Text,0,-1,신성
 id1_forge,dlg,ReplyList/203/Text,0,-1,냉기
 id1_forge,dlg,ReplyList/204/Text,0,-1,둔기
 id1_forge,dlg,ReplyList/205/Text,0,-1,산성
-id1_forge,dlg,ReplyList/206/Text,0,-1,방어도(AC) 보너스 VS 조선
+id1_forge,dlg,ReplyList/206/Text,0,-1,성향별 방어구(AC) 보너스
 id1_forge,dlg,ReplyList/207/Text,0,-1,구체적인 가치관
 id1_forge,dlg,ReplyList/208/Text,0,-1,혼돈 악
 id1_forge,dlg,ReplyList/209/Text,0,-1,혼돈 중립
-id1_forge,dlg,ReplyList/21/Text,0,-1,항목 체중 감소
+id1_forge,dlg,ReplyList/21/Text,0,-1,아이템 무게 감소
 id1_forge,dlg,ReplyList/210/Text,0,-1,혼돈 선
 id1_forge,dlg,ReplyList/211/Text,0,-1,중립 악
 id1_forge,dlg,ReplyList/212/Text,0,-1,완전한 중립
@@ -648,7 +648,7 @@ id1_gzhorb,dlg,ReplyList/35/Text,0,-1,내가 무엇을 찾고 있는지 다시 �
 id1_gzhorb,dlg,ReplyList/36/Text,0,-1,나는 이걸 보관할 생각이야.
 id1_gzhorb,dlg,ReplyList/37/Text,0,-1,나는 당신을 믿을 수 있을지 모르겠다.
 id1_gzhorb,dlg,ReplyList/38/Text,0,-1,- 안 돼
-id1_gzhorb,dlg,ReplyList/39/Text,0,-1,나가 그걸 가지고 있다면 네게 통제권을 행사할 수 있을 거야
+id1_gzhorb,dlg,ReplyList/39/Text,0,-1,내가 이걸 가지고 있으면 널 통제할 수 있을 거라고 생각했거든.
 id1_gzhorb,dlg,ReplyList/4/Text,0,-1,전부를 바라보는 눈?
 id1_gzhorb,dlg,ReplyList/40/Text,0,-1,난 어둠을 조종하는 걸 좋아한다.
 id1_gzhorb,dlg,ReplyList/42/Text,0,-1,내 보상은 준비되어 있겠지?
@@ -685,10 +685,10 @@ id1_hagatha,dlg,EntryList/30/Text,0,-1,"할래스터의 중위원들을 아직 �
 id1_hagatha,dlg,EntryList/31/Text,0,-1,"당신은 할라스터의 중위들을 물리쳤지만, 여전히 그의 엘리트, 내부 원과 맞서야 합니다. 제 힘으로, 당신은 그들에게 대항할 기회를 가질 수도 있습니다. 그것 없이... 나는 그렇게 생각하지 않습니다. 제게서 탈출하는 방법을 제공할 수 있습니다. 이제 가세요, 행운을 빕니다."
 id1_hagatha,dlg,EntryList/32/Text,0,-1,"여기서 기다리며 내가 저지른 끔찍한 일들을 생각해. 약속을 지키고 나면 남편을 편히 눕히고 내 삶도 끝낼 수 있을 테니 기쁘겠지. 당신이 남편의 손가락을 찾지 못한 것 같은데, 그럼 무슨 일로 찾아왔지?"
 id1_hagatha,dlg,EntryList/33/Text,0,-1,"조심해. 여기엔 많은 함정과 강력한 괴물들이 있어. 나는 이미 알고 있다고 생각하긴 하지만, 그래도 조심해야 해. 좋은 운을 빕니다."
-id1_hagatha,dlg,EntryList/34/Text,0,-1,"내 백성들 중 많은 사람들이 그런 태도를 가지고 있을 거예요. 하지만 그래도 저는 아직도 그것을 듣고는 후회합니다. 저는 더 이상 운명에 맞서 싸우지 않겠습니다. 만약 진심으로 제 도움을 원하지 않는다면, 저를 죽이세요."
+id1_hagatha,dlg,EntryList/34/Text,0,-1,"내 종족 중에도 그런 태도를 가진 이들이 많지만, 그렇다 해도 이 소식을 들으니 유감입니다. 더 이상 운명에 거역하지 않겠습니다. 제 도움이 진정 필요 없다면, 기꺼이 저를 죽이십시오."
 id1_hagatha,dlg,EntryList/35/Text,0,-1,이런 것은 아닌 것 같아. 일이 끝나면 약속한 대로 주마. 지금 당장은 다른 것이 없어.
 id1_hagatha,dlg,EntryList/36/Text,0,-1,"할라스터는 내 남편의 손가락 뼈로 막대를 만들었다. 막대에는 여전히 결혼 반지가 달려 있으며, 할라스터는 그것을 제거하지 못했다. 만약 그 막대를 찾는다면, 나는 남편의 기억을 평안히 보내는 것이 가능할 것이다."
-id1_hagatha,dlg,EntryList/37/Text,0,-1,"드디어 막대기를 찾았습니다. 가난한 남편의 반지 손가락입니다. 아, 우리를 연결하려 했던 반지... 결혼의 마지막 상징이었습니다. 이걸 가져가 묻어야겠네요. 그래야 남편의 영혼도 평안을 찾을 수 있을 것입니다. 감사합니다."
+id1_hagatha,dlg,EntryList/37/Text,0,-1,"드디어 지팡이를 찾았습니다. 가난한 남편의 약지입니다. 아, 우리를 이어주기로 되어 있던 반지... 우리 결혼의 마지막 상징이군요. 이걸 가져가서 묻어야겠습니다. 그래야 남편의 영혼도 안식을 찾을 수 있겠지요. 정말... 감사합니다."
 id1_hagatha,dlg,EntryList/38/Text,0,-1,너... 뭐라고? 하지만... 왜? 그게 당신에게 무슨 소용이야? 네 탐욕 때문에 내 남편의 영혼이 영원토록 편히 쉬지 못하게 된다는 거야? 그게 네 말이야?
 id1_hagatha,dlg,EntryList/39/Text,0,-1,"만약 스태프를 가지고 있다면, 더 많은 신뢰를 줄 수 있겠는가? 만약 스태프를 주지 않는다면, 우리는 다시 싸워야 할 것이다. 하지만 이번에는 당신을 죽여서 더 많은 이익을 얻을 수 있고, 잃을 것이 적다. 이 점을 잘 생각해 보아라."
 id1_hagatha,dlg,EntryList/4/Text,0,-1,"아주 좋은 질문입니다. 그리고 저는 이 질문에 대답하기 위해 준비되어 있습니다. 만약 당신이 나를 도와주면, 저는 당신을 도와드릴 것입니다. 정말 그렇게 간단합니다."
@@ -703,7 +703,7 @@ id1_hagatha,dlg,EntryList/8/Text,0,-1,"나는 폭풍 거인과 결혼해 우리 
 id1_hagatha,dlg,EntryList/9/Text,0,-1,"힐고트의 손가락 뼈만 남았고, 할라스터가 이를 막대기로 만들었다. 막대기는 여전히 결혼 반지가 달려 있어, 할라스터가 제거하지 못했다. 그 막대기를 발견하면, 내 남편의 추억을 평안히 놓을 수 있을 것이다."
 id1_hagatha,dlg,ReplyList/1/Text,0,-1,왜 나에게 귀를 기울여야 해?
 id1_hagatha,dlg,ReplyList/10/Text,0,-1,무슨 일이 있었는지 말해봐.
-id1_hagatha,dlg,ReplyList/12/Text,0,-1,"로맨틱한 떡밥, 흥미로운 부분으로 가자"
+id1_hagatha,dlg,ReplyList/12/Text,0,-1,"로맨틱한 헛소리는 집어치우고, 흥미로운 부분으로 가자고."
 id1_hagatha,dlg,ReplyList/14/Text,0,-1,당신의 의식이 중단되었나요?
 id1_hagatha,dlg,ReplyList/16/Text,0,-1,이런 비극은 너무 자주 발생합니다.
 id1_hagatha,dlg,ReplyList/18/Text,0,-1,당신은 그의 편에 있는 척 해야 했어.
@@ -731,7 +731,7 @@ id1_hagatha,dlg,ReplyList/49/Text,0,-1,나는 이걸 보관할 생각이야.
 id1_hagatha,dlg,ReplyList/5/Text,0,-1,난 그냥 널 죽일 것 같아
 id1_hagatha,dlg,ReplyList/50/Text,0,-1,나는 당신을 믿을 수 있을지 모르겠다.
 id1_hagatha,dlg,ReplyList/51/Text,0,-1,- 안 돼
-id1_hagatha,dlg,ReplyList/52/Text,0,-1,나가 그걸 가지고 있다면 네게 통제권을 행사할 수 있을 거야
+id1_hagatha,dlg,ReplyList/52/Text,0,-1,내가 이걸 가지고 있으면 널 통제할 수 있을 거라고 생각했거든.
 id1_hagatha,dlg,ReplyList/53/Text,0,-1,나는 이것을 더 유용하게 생각해. 네가 제안한 것보다 더 그렇다.
 id1_hagatha,dlg,ReplyList/55/Text,0,-1,내 보상은 무엇인가?
 id1_hagatha,dlg,ReplyList/56/Text,0,-1,그것은 당신의 권리입니다.
@@ -745,7 +745,7 @@ id1_halaster,dlg,EntryList/11/Text,0,-1,뭐? 나한테 그렇게 할 수 없어!
 id1_halaster,dlg,EntryList/12/Text,0,-1,"이런 말을 하면 화가 납니다. 그래서, 제 친구, 당신은 원하는 대로 할 수 있습니다. 분명히 내 방어는 더 많은 테스트가 필요합니다. 그리고 나는 언더마운틴 자체가 나의 클론에게 진짜 할라스터라는 생각을 심어주지 않았을까 확신할 수 없습니다."
 id1_halaster,dlg,EntryList/13/Text,0,-1,"그 점을 염두에 두고, 저는 여러분에게 이 지하굴의 모든 측면에 대한 완전한 통제를 허락하겠습니다. 본능으로 치명적인 것을 생각해낼 수 있겠는지 보시기 바랍니다. 어떻게 생각하시나요? 하지만 먼저, 창고로 돌아가봅시다. 지금은 창고가 더 편합니다."
 id1_halaster,dlg,EntryList/14/Text,0,-1,"물론, 정말 영광과 특권이었죠. 내가 널 창고로 돌려보내면, 네가 원한다면 떠날 수 있어."
-id1_halaster,dlg,EntryList/15/Text,0,-1,나는 잘 돌보고 먹여주고 포옹하며 사랑하며 내 소중한 스노르트라고 부르겠어. (좋은 질문. 그런데 그 클론은 어디로 보냈지? 망할! 이미 그를 놓친 거 같아 믿을 수 없어.)
+id1_halaster,dlg,EntryList/15/Text,0,-1,"잘 보살피고, 먹이고, 안아주고, 사랑해 주면서 내 귀염둥이 스노르트라고 불러줄 거야. (좋은 질문이네. 그런데 내가 그 분신을 어디로 보냈더라? 빌어먹을! 벌써 어디다 흘렸는지 믿을 수가 없네.)"
 id1_halaster,dlg,EntryList/3/Text,0,-1,"난 네가 이 뒤에 있다는 걸 알았어, 멍청한 복제자! (그들은 어떻게 계속 여기에 들어갈 수 있어? 그리고 공기 중에 맛있는 냄새가 뭐야? 오, 내 종들의 화한 육지, 맞지!)"
 id1_halaster,dlg,EntryList/4/Text,0,-1,하지만 넌 내게 너무 친절했어! 집을 되찾게 해줘서 고마워! 여기서 다시 살 수 있게 돼서 정말 기뻐!
 id1_halaster,dlg,EntryList/5/Text,0,-1,"꼬마 티미는 이제 집에 가야 해. 걱정 마, 가난하고 상냥한 그 꼬마 아이는 아직 여기 어딘가에 있어. 내 집을 되찾도록 도와줘서 고마워! 다시 돌아오게 되어서 정말 기뻐!"
@@ -766,7 +766,7 @@ id1_halaster,dlg,ReplyList/9/Text,0,-1,정말 신경 쓰지 않아. 내가 이�
 id1_harat,dlg,EntryList/0/Text,0,-1,"하라트의 어둠이 당신을 맹목하게 해 주면 멍청아, 침입자들을 쳐내서 나로 끌고 가자"
 id1_harat,dlg,EntryList/1/Text,0,-1,이건 좀 굴욕적인데. 하라트를 이긴 사람은 지금까지 아무도 없었거든. 우리 이야기 좀 나누지.
 id1_harat,dlg,EntryList/10/Text,0,-1,그럼 내가 네 영혼을 살릴 수 있는 충분한 생명을 가지고 있는지 보자
-id1_harat,dlg,EntryList/11/Text,0,-1,"좋은 생각이지만, 그 전에 먼저 작은 유혹으로 시작해볼게. 나는 이걸 그냥 주는 거야... 그래도 즉시 나를 죽이지 않는다면."
+id1_harat,dlg,EntryList/11/Text,0,-1,"좋은 생각이지만, 그 전에 먼저 너를 위한 작은 유혹으로 시작해볼까 하지. 이건 공짜로 주지... 뭐, 당장 나를 죽여버리지 않는 조건으로 말이야."
 id1_harat,dlg,EntryList/12/Text,0,-1,"자네에게 작은 유혹 하나로 시작해 보겠네. 이걸 공짜로 주지... 뭐, 당장 나를 죽이지 않는 대가라고 해두지."
 id1_harat,dlg,EntryList/13/Text,0,-1,"이제 제 임무에 대한 세부사항으로 들어보겠습니다. 신이 되었을 때, 저는 막대한 잠재력을 가진 우주에서 작은 힘임을 알고 있었습니다. 저는 힘을 얻기 위해 강력한 인간을 찾아야겠다고 결정했습니다."
 id1_harat,dlg,EntryList/14/Text,0,-1,최근 몇 년간 많은 마법사들이 나와 같은 악마들을 소환하고 부리는 데 집중했습니다. 그래서 차원계 전반에서 그들을 감독할 누군가가 필요하다는 의견이 나왔죠. 지옥의 주요 세력인 나는 자연스러운 후보였습니다.
@@ -849,7 +849,7 @@ id1_harat,dlg,ReplyList/5/Text,0,-1,어둠의 신 하라트에 대해 들어본 
 id1_harat,dlg,ReplyList/50/Text,0,-1,저는 이걸 잡아두겠습니다.
 id1_harat,dlg,ReplyList/51/Text,0,-1,나는 당신을 믿을 수 있을지 모르겠다.
 id1_harat,dlg,ReplyList/52/Text,0,-1,- 안 돼
-id1_harat,dlg,ReplyList/53/Text,0,-1,나가 그걸 가지고 있다면 네게 통제권을 행사할 수 있을 거야
+id1_harat,dlg,ReplyList/53/Text,0,-1,내가 이걸 가지고 있으면 널 통제할 수 있을 거라고 생각했거든.
 id1_harat,dlg,ReplyList/55/Text,0,-1,"아니, 그냥 붙여줄게"
 id1_harat,dlg,ReplyList/56/Text,0,-1,나는 모르겠어. 어떻게 내가 이것을 안 빼앗길 거라고 믿을 수 있어?
 id1_harat,dlg,ReplyList/57/Text,0,-1,동의합니다.
@@ -983,7 +983,7 @@ id1_journal,dlg,EntryList/18/Text,0,-1,<CUSTOM5100>
 id1_journal,dlg,EntryList/180/Text,0,-1,생물들을 점검하고 있어.
 id1_journal,dlg,EntryList/181/Text,0,-1,상인 줄을 확인하고 있어.
 id1_journal,dlg,EntryList/182/Text,0,-1,영입 노동자들의 상태를 확인하고 있어.
-id1_journal,dlg,EntryList/183/Text,0,-1,괴물 판매자 줄을 확인하고 있어요.
+id1_journal,dlg,EntryList/183/Text,0,-1,괴물 상인 대사를 확인하는 중.
 id1_journal,dlg,EntryList/184/Text,0,-1,매술사의 라인을 확인하고 있어.
 id1_journal,dlg,EntryList/185/Text,0,-1,플롯 라인을 확인하고 있어요.
 id1_journal,dlg,EntryList/186/Text,0,-1,<CUSTOM5200>
@@ -1000,7 +1000,7 @@ id1_journal,dlg,EntryList/195/Text,0,-1,던전 가져오기 실패. 유효하지
 id1_journal,dlg,EntryList/196/Text,0,-1,동굴 수입이 실패했습니다.
 id1_journal,dlg,EntryList/197/Text,0,-1,던전 수입이 실패했습니다. 불가한 플롯 물체가 존재합니다.
 id1_journal,dlg,EntryList/198/Text,0,-1,던전 가져오기 실패. 잘못된 퍼즐이 있습니다.
-id1_journal,dlg,EntryList/199/Text,0,-1,던전 로딩 실패. 불법 컨테이너가 존재합니다.
+id1_journal,dlg,EntryList/199/Text,0,-1,던전 불러오기 실패. 잘못된 컨테이너가 존재합니다.
 id1_journal,dlg,EntryList/2/Text,0,-1,<CUSTOM5100>
 id1_journal,dlg,EntryList/20/Text,0,-1,<CUSTOM5100>
 id1_journal,dlg,EntryList/200/Text,0,-1,던전 가져오기에 실패했습니다. 유효하지 않은 피해 유형이 포함되어 있습니다.
@@ -1191,7 +1191,7 @@ id1_journal,dlg,ReplyList/181/Text,0,-1,스크롤 빈도를 변경하세요.
 id1_journal,dlg,ReplyList/182/Text,0,-1,물약 사용 빈도 변경.
 id1_journal,dlg,ReplyList/183/Text,0,-1,스틱 주파수를 변경하세요.
 id1_journal,dlg,ReplyList/184/Text,0,-1,그레나드 발사 간격 변경
-id1_journal,dlg,ReplyList/185/Text,0,-1,사용 가능한 빈도를 변경하세요.
+id1_journal,dlg,ReplyList/185/Text,0,-1,소비템 사용 빈도를 변경합니다.
 id1_journal,dlg,ReplyList/186/Text,0,-1,개별 악세서리 출현 빈도를 조정합니다.
 id1_journal,dlg,ReplyList/187/Text,0,-1,이게 뭐하는 거야?
 id1_journal,dlg,ReplyList/189/Text,0,-1,반지의 주파수를 변경하세요.
@@ -1215,9 +1215,9 @@ id1_journal,dlg,ReplyList/204/Text,0,-1,작은 방패 사용 빈도를 변경합
 id1_journal,dlg,ReplyList/205/Text,0,-1,방패 회전 주기를 변경하세요.
 id1_journal,dlg,ReplyList/206/Text,0,-1,개별 체중장갑 출현 빈도를 조정합니다.
 id1_journal,dlg,ReplyList/207/Text,0,-1,갑옷 빈도로 돌아가
-id1_journal,dlg,ReplyList/208/Text,0,-1,전체 판금 갑옷을 변경하십시오.
+id1_journal,dlg,ReplyList/208/Text,0,-1,전신 판금 갑옷의 사용 빈도를 변경합니다.
 id1_journal,dlg,ReplyList/209/Text,0,-1,반판 갑옷의 빈도를 변경하세요
-id1_journal,dlg,ReplyList/210/Text,0,-1,스핀트 메일과 반지 갑옷의 사용 빈도를 변경하십시오.
+id1_journal,dlg,ReplyList/210/Text,0,-1,스플린트 메일과 밴디드 아머의 출현 빈도를 변경합니다.
 id1_journal,dlg,ReplyList/211/Text,0,-1,가슴갑옷과 체인메일을 변경하십시오.
 id1_journal,dlg,ReplyList/212/Text,0,-1,사슬 셔츠와 비늘 갑옷의 출현 빈도를 변경한다.
 id1_journal,dlg,ReplyList/213/Text,0,-1,스터디드 레더 및 가죽 갑옷의 등장 빈도를 변경합니다.
@@ -1243,7 +1243,7 @@ id1_journal,dlg,ReplyList/231/Text,0,-1,리켄 주파수를 변경하세요.
 id1_journal,dlg,ReplyList/232/Text,0,-1,짧은 화살의 사용 빈도를 변경하세요.
 id1_journal,dlg,ReplyList/233/Text,0,-1,롱보우 발사 빈도를 변경하세요.
 id1_journal,dlg,ReplyList/234/Text,0,-1,경량 석궁 사용 빈도 변경
-id1_journal,dlg,ReplyList/235/Text,0,-1,무거운 반갑사의 사용 빈도를 변경하세요.
+id1_journal,dlg,ReplyList/235/Text,0,-1,무거운 쇠뇌 사용 빈도를 변경합니다.
 id1_journal,dlg,ReplyList/236/Text,0,-1,다트 출현 빈도 변경
 id1_journal,dlg,ReplyList/237/Text,0,-1,원거리 무기 발사 빈도 변경.
 id1_journal,dlg,ReplyList/238/Text,0,-1,개별 무기의 주파수를 조정합니다.
@@ -1271,9 +1271,9 @@ id1_journal,dlg,ReplyList/258/Text,0,-1,중형 도리깨의 사용 빈도를 변
 id1_journal,dlg,ReplyList/259/Text,0,-1,손도끼 사용 빈도를 변경한다.
 id1_journal,dlg,ReplyList/26/Text,0,-1,플레이어가 죽을 때 플레이어의 부하가 죽게 해
 id1_journal,dlg,ReplyList/260/Text,0,-1,하버드 주파수를 변경하세요.
-id1_journal,dlg,ReplyList/261/Text,0,-1,대형 검의 사용 빈도를 변경하세요.
+id1_journal,dlg,ReplyList/261/Text,0,-1,대검 사용 빈도 변경.
 id1_journal,dlg,ReplyList/262/Text,0,-1,대검 사용 빈도를 변경하세요.
-id1_journal,dlg,ReplyList/263/Text,0,-1,왜성 전쟁 도끼 사용 빈도를 변경하세요.
+id1_journal,dlg,ReplyList/263/Text,0,-1,드워프 전쟁 도끼의 빈도를 변경합니다.
 id1_journal,dlg,ReplyList/264/Text,0,-1,두 번의 도끼 사용 빈도를 변경하세요.
 id1_journal,dlg,ReplyList/265/Text,0,-1,끔찍한 매스 주파수를 바꾸세요.
 id1_journal,dlg,ReplyList/266/Text,0,-1,다그 주파수를 바꿔라
@@ -1295,7 +1295,7 @@ id1_journal,dlg,ReplyList/280/Text,0,-1,보물 상자의 빈도를 변경하세�
 id1_journal,dlg,ReplyList/281/Text,0,-1,보물 레벨 변경
 id1_journal,dlg,ReplyList/282/Text,0,-1,안전 구역 시스템
 id1_journal,dlg,ReplyList/283/Text,0,-1,이게 뭐하는 거야?
-id1_journal,dlg,ReplyList/285/Text,0,-1,캠프 장소 변경 주파수와 설정을 조정합니다.
+id1_journal,dlg,ReplyList/285/Text,0,-1,야영 빈도와 설정을 조정합니다.
 id1_journal,dlg,ReplyList/286/Text,0,-1,이게 뭐하는 거야?
 id1_journal,dlg,ReplyList/288/Text,0,-1,장식 변경 주기
 id1_journal,dlg,ReplyList/289/Text,0,-1,괴물 판매자 빈도를 변경하세요
@@ -1359,7 +1359,7 @@ id1_journal,dlg,ReplyList/349/Text,0,-1,이게 뭐하는 거야?
 id1_journal,dlg,ReplyList/35/Text,0,-1,플레이어는 사망한 지역의 입구에서 다시 부활합니다.
 id1_journal,dlg,ReplyList/351/Text,0,-1,장식 변경 주기
 id1_journal,dlg,ReplyList/352/Text,0,-1,던전 지도
-id1_journal,dlg,ReplyList/353/Text,0,-1,감옥 지도의 크기를 변경하세요.
+id1_journal,dlg,ReplyList/353/Text,0,-1,던전 맵의 크기를 변경합니다.
 id1_journal,dlg,ReplyList/354/Text,0,-1,이게 뭐하는 거야?
 id1_journal,dlg,ReplyList/356/Text,0,-1,지도의 크기는 레벨의 최대 너비와 길이입니다.
 id1_journal,dlg,ReplyList/357/Text,0,-1,"이 지도의 크기는 이 레벨의 모든 영역, 탐색되었든 그렇지 않든 동일합니다."
@@ -1461,7 +1461,7 @@ id1_journal,dlg,ReplyList/454/Text,0,-1,<CUSTOM5203>
 id1_journal,dlg,ReplyList/455/Text,0,-1,<CUSTOM5202>
 id1_journal,dlg,ReplyList/456/Text,0,-1,<CUSTOM5201>
 id1_journal,dlg,ReplyList/46/Text,0,-1,이게 뭐하는 거야?
-id1_journal,dlg,ReplyList/472/Text,0,-1,이 동굴은 수출 상태로 유지해라.
+id1_journal,dlg,ReplyList/472/Text,0,-1,던전을 추출되었을 때의 상태로 유지하십시오.
 id1_journal,dlg,ReplyList/474/Text,0,-1,던전을 탐사되지 않은 상태로 초기화하지만 내용은 동일하게 유지하세요.
 id1_journal,dlg,ReplyList/476/Text,0,-1,"웅덩이를 다시 설정하고, 그 내용을 제거하고,"
 id1_journal,dlg,ReplyList/478/Text,0,-1,웅덩이를 완전히 초기화하여 내용과 레이아웃을 모두 교체합니다.
@@ -1526,7 +1526,7 @@ id1_journal,dlg,ReplyList/56/Text,0,-1,플롯 시스템으로 돌아가십시오
 id1_journal,dlg,ReplyList/57/Text,0,-1,이게 뭐하는 거야?
 id1_journal,dlg,ReplyList/59/Text,0,-1,특정 물건을 찾기 위한 탐사의 확률을 변경합니다.
 id1_journal,dlg,ReplyList/6/Text,0,-1,<CUSTOM5108>
-id1_journal,dlg,ReplyList/60/Text,0,-1,특정 생물을 찾기 위한 탐구의 확률을 변경하세요.
+id1_journal,dlg,ReplyList/60/Text,0,-1,특정 크리처를 찾을 퀘스트가 등장할 비례 확률을 변경합니다.
 id1_journal,dlg,ReplyList/61/Text,0,-1,지역 탐험 퀘스트의 발생 확률을 변경합니다.
 id1_journal,dlg,ReplyList/62/Text,0,-1,상자에서 아이템을 찾을 확률을 조정합니다.
 id1_journal,dlg,ReplyList/63/Text,0,-1,생물에서 아이템을 찾을 가능성을 변경하세요.
@@ -1572,7 +1572,7 @@ id1_littletimmy,dlg,EntryList/101/Text,0,-1,"네 질문에 답할 수는 있지�
 id1_littletimmy,dlg,EntryList/102/Text,0,-1,"잘 알겠습니다. 다시 언더마운틴에 가고 싶으신지, 아니면 먼저 거래를 하고 싶으신지?"
 id1_littletimmy,dlg,EntryList/103/Text,0,-1,"언더마운틴에는 많은 생물들이 있으며, 그 중 많은 것들이 매우 강력합니다. 할라스터 이외에는 아무도 그 수를 모르는 것 같습니다. 그리고 할라스터가 꽤 미친 것처럼 보이기 때문에, 그마저도 확실하지 않습니다."
 id1_littletimmy,dlg,EntryList/104/Text,0,-1,그 이름을 말해서는 안 된다고 생각해요. 그 악에 대해 얘기했었는데요. 옛날엔 그렇게 나쁘지 않았다고 말하는 거 알아요. 하지만 지금은 완전히 정신이 나갔어요.
-id1_littletimmy,dlg,EntryList/105/Text,0,-1,"당신은 도와야 합니다! 그는 공포로 변했고, 절망의 무거운 손길로 언더마운틴의 생물을 지배합니다."
+id1_littletimmy,dlg,EntryList/105/Text,0,-1,"당신이 도와야 합니다! 그는 공포의 대상이 되었고, 절망의 무거운 손아귀로 언더마운틴의 피조물들을 지배하고 있습니다."
 id1_littletimmy,dlg,EntryList/106/Text,0,-1,"그가 무시무시한 폭군이 되어 언더마운틴의 모든 생물이 그에게 맞서기는커녕 말 한마디 건네기도 두려워한다는 건 알고 있습니다. 모험가가 감히 성공할 때마다 거품을 물고 광란하며, 모험가들보다 더 많은 이를 죽인다고들 합니다."
 id1_littletimmy,dlg,EntryList/107/Text,0,-1,"어떤 사람들은 그가 항상 미쳤다고 생각하지만, 다른 사람들은 미쳤다고 주장하면서 오랫동안 거짓으로 연기했다고 믿지만, 이제는 그의 마음을 완전히 지배한 것처럼 보입니다."
 id1_littletimmy,dlg,EntryList/108/Text,0,-1,"이 할라스터는 차를 마시는 것을 좋아한다고도 합니다. 하지만 사실은, 그는 차를 좋아하지 않았습니다. 수백 년이 지난 후에 맛을 키우는 이상한 일이죠. 정말! 차! 더 이상한 건 없어요!"
@@ -1600,7 +1600,7 @@ id1_littletimmy,dlg,EntryList/127/Text,0,-1,"곤충의 이름은 이렇지 않�
 id1_littletimmy,dlg,EntryList/128/Text,0,-1,"만약 그들이 그렇게 한다면, 그들이 사라진다면 어떻게 될까요? 언더마운틴은 변하지 않을까요? 아니면 어떤 상황에서도 계속 변화할까요? 이런 것들이 저를 밤에 잠 못 이루게 합니다. 언더마운틴에서 악의 세력은 얼마나 영향을 미치나요?"
 id1_littletimmy,dlg,EntryList/129/Text,0,-1,"하늘을 가로지르는 게 지쳤다고 해서 태양이 사라지도록 내버려 둬도 되는 걸까요, 그 빛이 없으면 우리 모두 아마 죽을 텐데도 말이에요? 모르겠어요. 어디서 선을 그어야 할까요? 저는 그저 어린아이일 뿐인데, 왜 저한테 이런 걸 물어보시는 거예요?"
 id1_littletimmy,dlg,EntryList/13/Text,0,-1,난 아직도 이비모인 마그리스를 통제할 수 있는 Amulet을 가지고 있어. 그녀가 도출하지도 죽지도 않았기에 기쁘다.
-id1_littletimmy,dlg,EntryList/130/Text,0,-1,"태양이 똑똑하지 않나요? 저는 그것이 신이라고 생각했습니다. 라탄더나 그런 것 같은 것. 심지어 신들도 자유는 제한받는다고 들었습니다. 그게 제가 들은 바지만, 저는 실제로 그렇게 많이 모르는 편이에요. 저는 확실히 당신에게 보여주신 것처럼, 그냥 아이일 뿐입니다."
+id1_littletimmy,dlg,EntryList/130/Text,0,-1,"태양이 생각이 없다고요? 전 신인 줄 알았는데요. 라탄더나 뭐 그런 거요. 신들조차 자유에는 한계가 있나 봐요. 그렇게 들었지만, 사실 잘은 몰라요. 아시겠지만 전 그냥 어린아이니까요."
 id1_littletimmy,dlg,EntryList/131/Text,0,-1,"그래서 던전은 어때? 정말 재미있는 곳이지? 난 정말 좋아해. 거기 들어갈 수만 있다면 말이야. 난 너무 어려서 못 들어가거든. 아빠는 내가 조숙하다고 했는데, 그게 무슨 뜻인지는 모르겠어."
 id1_littletimmy,dlg,EntryList/132/Text,0,-1,저기서 즐기세요.
 id1_littletimmy,dlg,EntryList/133/Text,0,-1,당연히 할 수 있어. 나는 항상 거래를 즐겨.
@@ -1681,7 +1681,7 @@ id1_littletimmy,dlg,EntryList/26/Text,0,-1,"이건 정말 재미있을거야! (�
 id1_littletimmy,dlg,EntryList/27/Text,0,-1,"그럼 거래하고 싶으세요? 아니면 그냥 미치광이처럼 뛰어다닐 계획인가요? (오, 어제 샤를에게 기부를 잊은 것 같아요. 아니면 셀루네라고 했나 봅니다? 항상 혼동이 되죠.)"
 id1_littletimmy,dlg,EntryList/28/Text,0,-1,"해가 지기를 기다리는 중이야. 그러고 나면 해가 다시 돌아오길 기다려야 하지. 매일 그렇게 해. 내가 기다리기를 그만두면 해가 다시 뜨는 걸 잊어버릴지도 모르고, 그러면 온갖 사람들이 내가 깜빡했다고 화낼 테니까. 그래, 요즘 어때?"
 id1_littletimmy,dlg,EntryList/29/Text,0,-1,"나는 생각한다. 네가 많은 생물들을 죽이는 것을 그만두고 내면의 문제들에 집중해야 한다. 네 안에 있는 악마들이 끊임없이 당신을 괴롭히고 있다. 때로는 외부로 공격해야 하고, 때로는 자신의 머리를 짓밟아야 한다! 오, 안녕. 이미 끝냈다?"
-id1_littletimmy,dlg,EntryList/3/Text,0,-1,"그는 다시 제 창조물을 저에게 반대하는 것을 시도할 것입니다. 그들은 항상 그렇게 합니다만, 그래도 모든 것이 흥미롭게 유지됩니다. (그 아름다운 미소나 호소적인 눈을 누가 저항할 수 있을까요?)"
+id1_littletimmy,dlg,EntryList/3/Text,0,-1,"그는 때가 되면 다시 내 피조물이 나를 적대하게 만들 것이다. 그들은 늘 그렇지만, 덕분에 흥미진진해지긴 하지. (그리고 저 아름다운 미소나 애원하는 눈빛을 누가 거부할 수 있겠는가?)"
 id1_littletimmy,dlg,EntryList/30/Text,0,-1,"리히의 유산을 약탈하는 데 조금 더 걸릴 거라고 생각했는데, 거기 좋은 물건이 있을거예요. 그래서, 이제 헤라스터만 이길 수 있을 것 같아요."
 id1_littletimmy,dlg,EntryList/31/Text,0,-1,"나가 생각했지, 당신은 좀 더 오래 걸리겠지 보스의 둥지를 약탈하는 데. 좋은 물건이 있어, 내 생각에. 그래서, 지금 패배할 유일한 할라스터, 나는 생각해. 당신은 모든 중요한 간섭을 제거한 것처럼 보이네. 하지만, 저 아래의 할라스터, 그는 언더마운틴처럼 나쁜 거야."
 id1_littletimmy,dlg,EntryList/32/Text,0,-1,악마의 소굴을 약탈하느라 시간이 더 걸릴 줄 알았는데. 안에 쓸 만한 게 많았겠지. 이제 할라스터만 쓰러뜨리면 될 것 같군. 중요한 방해물은 모두 없앤 듯하네. 하지만 저 아래 할라스터는 언더마운틴만큼이나 타락했어.
@@ -1814,7 +1814,7 @@ id1_littletimmy,dlg,ReplyList/179/Text,0,-1,나가겠습니다.
 id1_littletimmy,dlg,ReplyList/182/Text,0,-1,나는 조심해서 다치지 않으려고 노력할 거야.
 id1_littletimmy,dlg,ReplyList/184/Text,0,-1,언더마운틴의 비밀 출입구를 찾았다고 주장하고 있나요?
 id1_littletimmy,dlg,ReplyList/186/Text,0,-1,나는 결정을 내렸다.
-id1_littletimmy,dlg,ReplyList/187/Text,0,-1,지하벙정에 대해 말해봐.
+id1_littletimmy,dlg,ReplyList/187/Text,0,-1,던전에 대해 말해줘.
 id1_littletimmy,dlg,ReplyList/189/Text,0,-1,어떤 보물들을 가지고 계십니까?
 id1_littletimmy,dlg,ReplyList/19/Text,0,-1,"고마워요, 안녕하세요"
 id1_littletimmy,dlg,ReplyList/190/Text,0,-1,판매할 수 있는 물건을 보고 싶어요.
@@ -1835,7 +1835,7 @@ id1_littletimmy,dlg,ReplyList/207/Text,0,-1,"당신이 외치는 소리를 들�
 id1_littletimmy,dlg,ReplyList/208/Text,0,-1,항상 이렇게 행동하는 거예요?
 id1_littletimmy,dlg,ReplyList/209/Text,0,-1,그게 당신의 특별한 모험 장소인가요?
 id1_littletimmy,dlg,ReplyList/21/Text,0,-1,왜 아직도 리틀 티미가 된 척 하는 거야? 내가 알면서도 네가 할라스터인 거야?
-id1_littletimmy,dlg,ReplyList/210/Text,0,-1,왜 나는 쥐를 좋아한다고 생각하니?
+id1_littletimmy,dlg,ReplyList/210/Text,0,-1,왜 내가 쥐를 좋아한다고 생각하지?
 id1_littletimmy,dlg,ReplyList/211/Text,0,-1,난 쥐를 좋아하지 않아.
 id1_littletimmy,dlg,ReplyList/212/Text,0,-1,그만! 다른 질문이 있어.
 id1_littletimmy,dlg,ReplyList/213/Text,0,-1,무슨 상처가 있나?
@@ -1900,13 +1900,13 @@ id1_maggris,dlg,EntryList/12/Text,0,-1,"그는 우리 둥지에 먹을 것을 �
 id1_maggris,dlg,EntryList/13/Text,0,-1,"그분은 당신들이 음식이라 부르는 곳, 물호란드에서 우리에게 왔다. 그분이 와서 우리를 붙잡아 이곳으로 데려와 일하고 땅을 파게 했다. 우리는 반대했다. 자유를 원했다. 그분은 돌아가서 신성한 스카라브를 찾았다. 그것이 우리 정신을 으깬다. 우리 의지를 삼킨다. 우리에게는 자유가 없다."
 id1_maggris,dlg,EntryList/14/Text,0,-1,뮬홀랜드의 음식은 성스러운 스카라브를 이름으로 불렀습니다. 이마스카르의 스카라브 아뮬렛.
 id1_maggris,dlg,EntryList/15/Text,0,-1,가라. 그분께서 부적을 어디에 숨기셨는지는 우리도 모른다. 우리를 위해 이 스카라브를 찾아라. 그것이 우리 것이 되면 큰 힘을 주겠다. 여기 우리 벌집의 딸이 낳은 알이 있다. 데려가서 이용해라. 그 아이는 나와 연결되어 있으니 스카라브를 찾도록 도와주겠다.
-id1_maggris,dlg,EntryList/16/Text,0,-1,"음식에 대한 생각은 우리에게 낯설기 때문에, 우리는 음식에 대한 억제적인 말투를 사용하지 않고, 비어어의 부드러운 말투를 사용하지 않습니다. 당신의 결정을 보지 못하므로, 그 이유를 말해주세요."
+id1_maggris,dlg,EntryList/16/Text,0,-1,"음식의 생각은 우리에게 낯설다. 이것이 우리가 하이브통의 우아함이 아니라 음식의 더듬거리는 말로 말하는 이유다. 우리는 당신의 결정을 볼 수 없으니, 우리에게 말해다오."
 id1_maggris,dlg,EntryList/17/Text,0,-1,"그리고 당신은 그의 편에 서게 되었습니다. 그는 여기 있지 않으므로, 당신의 힘은 그의 힘과도 분리되어 있습니다. 그래서 우리는 지금 당신을 마주하게 되었고, 나중에는 그를 마주하게 될 것입니다."
 id1_maggris,dlg,EntryList/18/Text,0,-1,우리는 딸을 통해 너와 함께할 것이다. 종말이 와서 그분과 맞서야 한다면 우리가 돕겠다. 스카라브가 있다면. 없다면 통제력도 없다. 그분과 맞설 힘이 없다.
 id1_maggris,dlg,EntryList/19/Text,0,-1,우린 그가 자신을 지키기 위해 사용하는 군인들 중 한 명뿐이야 다른 사람들은 당신을 잡으려 하지만 우리의 힘으로 당신은 그들을 견딜 수 있어
 id1_maggris,dlg,EntryList/2/Text,0,-1,"두려움. 우리는 당신이 우리를 죽음으로 이끌고 오는 것을 두려워합니다. 논리. 이는 양쪽 모두가 추구해야 할 것이어야 합니다. 당신의 말은 만족입니까? 네. 당신은 강력합니다. 음식을 부르는 할라스터는 강력합니다. 당신은 우리를 해방시키는 힘이 될 수 있고, 우리를 죽일 수 있는 힘이 될 수 있습니다. 어쩌면 둘 다일지도 모릅니다."
 id1_maggris,dlg,EntryList/20/Text,0,-1,"우리의 동료들, 그 군단병들은 패배했다. 하지만 그들에게는 때를 기다리며 너를 파괴하려 드는 더 강력한 다른 자들이 있다. 우리의 힘은 너를 강하게 만들 것이다. 이너 서클을 상대하려면 강해져야 한다. 여기 탈출구가 있다. 새로운 던전을 찾아라. 서둘러라."
-id1_maggris,dlg,EntryList/21/Text,0,-1,"추운 것은 집의 따뜻함을 기억할 때 가장 좋지 않습니다. 하지만 무엇보다도 그것은 자유의 부족함을 말합니다. 우리는 움직이고, 건설하고, 파괴하고, 재건하고, 터널을 파고, 파고들고, 피곤해집니다. 그는 너무 많은 것을 명령합니다."
+id1_maggris,dlg,EntryList/21/Text,0,-1,"고향의 온기를 떠올릴 때면 이 추위는 정말 견디기 힘들다. 하지만 무엇보다 가장 힘든 것은 자유가 없다는 점이다. 우리는 이동하고, 짓고, 파괴하고, 재건하고, 터널을 파고, 땅을 파고, 지친다. 그분은 너무 많은 것을 명령하신다."
 id1_maggris,dlg,EntryList/22/Text,0,-1,"항상, 하지만 최근에 더 자주 그렇습니다. 모든 것이 너무 빨리, 너무 빨리 변하니, 이제는 더 많은 수컷이 생기지만 빨리 죽습니다. 그것은 우리를 피곤하게 합니다. 그래서 우리는 당신에게 많은 힘을 제공합니다."
 id1_maggris,dlg,EntryList/23/Text,0,-1,당신의 말은 때로는 우리를 혼란스럽게 합니다. 인내심이 있다면 우리는 노력합니다. 당신은 어떤 지식을 찾으시나요?
 id1_maggris,dlg,EntryList/24/Text,0,-1,"우리는 움직이고, 짓고, 부수고, 다시 짓고, 터널을 파고, 땅을 파고, 지칩니다. 고향의 따뜻함을 기억할 때 이 추위는 반갑지 않습니다. 하지만 무엇보다도 우리는 자유가 없는 것이 싫습니다."
@@ -1920,7 +1920,7 @@ id1_maggris,dlg,EntryList/30/Text,0,-1,"우리 집에 대한 시간이 충분해
 id1_maggris,dlg,EntryList/31/Text,0,-1,대답하기 어렵지만 우리가 할 수 있는 대로 대답합니다.
 id1_maggris,dlg,EntryList/32/Text,0,-1,"머리가 가득 차 있나, 아니면 더 많은 질문이 있나?"
 id1_maggris,dlg,EntryList/33/Text,0,-1,"남자들? 그들은 하이브손이 아니에요. 그들은 단지 남자들일 뿐이에요. 그들은 일하고 말한 대로 행동하지만, 나무 잎처럼 하늘을 따라 태양이 움직일 때 따라가는 것보다 더 똑똑하지 않아요."
-id1_maggris,dlg,EntryList/34/Text,0,-1,여동생이 죽으면 고통이 있습니다. 하지만 남성은 그렇지 않습니다. 그들은 출생의 노력 외에는 아무런 가치도 없습니다. 그들은 마그리그스에게 봉사하는 것 외에는 아무것도 원하지 않습니다. 그게 전부입니다.
+id1_maggris,dlg,EntryList/34/Text,0,-1,여왕벌의 딸이 죽으면 고통이 따르지. 수컷들은 그렇지 않아. 그들은 태어나는 수고를 제외하면 아무런 가치가 없다. 마그리그스에게 복종하는 것 외에는 아무런 욕구도 없지. 그게 다야.
 id1_maggris,dlg,EntryList/35/Text,0,-1,"마그리스는 거북이였지만, 거북이 딸들은 살아서 시간까지 봉사했습니다. 그 다음 마그리스는 자기 좋아하는 사람에게 자신을 바쳐주었습니다. 거북이 딸은 마그리스를 삼키고 그녀와 하나가 되었습니다."
 id1_maggris,dlg,EntryList/36/Text,0,-1,"죽음, 기억은 살아 있지만 의식은 없습니다. 육아와 육아 사이에 대화는 없습니다. 우리는 또한 필사적이지만 우리의 행동이 기억됩니다."
 id1_maggris,dlg,EntryList/37/Text,0,-1,"우리는 반어법에 대해 알고 있지만, 당신이 반어법을 쓰는 것인지 아니면 진심인지 확신할 수 없습니다. 정말 사랑스러운 관계군요. 아주 애정 어린 관계 말입니다. 음식에 대한 이해보다도 더 깊은 이해가 존재하는, 오랜 전통과 역사를 지닌 관계지요."
@@ -1953,7 +1953,7 @@ id1_maggris,dlg,EntryList/9/Text,0,-1,"그분은 마그리스를 지배하고 �
 id1_maggris,dlg,ReplyList/0/Text,0,-1,네가 옳다. 나는 강하다.
 id1_maggris,dlg,ReplyList/11/Text,0,-1,자유가 되고 싶다면 왜 그냥 떠나지 않겠나?
 id1_maggris,dlg,ReplyList/13/Text,0,-1,'그'가 '할라스터'라고 했잖아?
-id1_maggris,dlg,ReplyList/15/Text,0,-1,"내 머리 속 목소리는 참을 수 없이 고통스럽고, 더 이상 들어들을 수 없어."
+id1_maggris,dlg,ReplyList/15/Text,0,-1,내 머릿속에서 울리는 네 목소리는 너무 고통스러워. 더 이상 견딜 수가 없어.
 id1_maggris,dlg,ReplyList/16/Text,0,-1,우리가 이걸 빨리 처리할 수 있을까?
 id1_maggris,dlg,ReplyList/17/Text,0,-1,어떻게 시작되었나?
 id1_maggris,dlg,ReplyList/19/Text,0,-1,그건 도움이 될 수 있어.
@@ -1997,7 +1997,7 @@ id1_maggris,dlg,ReplyList/64/Text,0,-1,내가 무엇을 찾고 있는지 다시 
 id1_maggris,dlg,ReplyList/65/Text,0,-1,난 스카라브를 붙잡고 있을 거야
 id1_maggris,dlg,ReplyList/66/Text,0,-1,나는 당신을 믿을 수 있을지 모르겠다.
 id1_maggris,dlg,ReplyList/67/Text,0,-1,- 안 돼
-id1_maggris,dlg,ReplyList/68/Text,0,-1,나가 그걸 가지고 있다면 네게 통제권을 행사할 수 있을 거야
+id1_maggris,dlg,ReplyList/68/Text,0,-1,내가 이걸 가지고 있으면 널 통제할 수 있을 거라고 생각했거든.
 id1_maggris,dlg,ReplyList/69/Text,0,-1,나는 이걸 유용하게 생각해. 당신이 제안한 것보다 더 많은 도움이 된다.
 id1_maggris,dlg,ReplyList/71/Text,0,-1,내 보상은 당연하다.
 id1_maggris,dlg,ReplyList/72/Text,0,-1,여기 스카라브가 있습니다.
@@ -2039,7 +2039,7 @@ id1_masterius,dlg,EntryList/38/Text,0,-1,내 영혼을 되찾고 싶다. 할라�
 id1_masterius,dlg,EntryList/39/Text,0,-1,"네가 내 영혼을 발견했을 때 느껴졌어. 마치 에너지의 파도가 내 몸을 스치고, 내 뼈를 통해 내 존재의 본질을 만지는 것 같았어. 그것은 꽃이 태양을 향해 뻗어나가는 것처럼, 혹은 악마가 파괴된 영혼을 갈구하는 것처럼 느껴졌다."
 id1_masterius,dlg,EntryList/4/Text,0,-1,"죽음은 내가 바라는 해방이 아니다. 나는 마스테리우스, 한때 훨씬 작았던 워터딥의 왕이었으나 지금은 도시 아래에 갇힌 리치다. 헤아리기도 싫을 만큼 여러 세기를 이곳에 갇혀 있었다. 이것은 몸의 피로라기보다 정신의 지침이다."
 id1_masterius,dlg,EntryList/40/Text,0,-1,"나는 널 완전히 신뢰한 적이 없지만, 네가 나를 실망시킨 건 사실이야. 내 영혼을 지키는 데 아무런 가치가 없어 보이는데, 네가 할라스터처럼 사용하려는 계획이 있는지 모르겠네. 그렇게 하면 나는 더 이상 견딜 수 없을 것 같아."
-id1_masterius,dlg,EntryList/41/Text,0,-1,"내 영혼을 내주면 나의 서비스를 받을 수 있지만, 그것을 지키기 위해서는 나를 파괴해야 할 것이다. 그러면 내 영혼은 당신에게 무슨 도움이 될까?"
+id1_masterius,dlg,EntryList/41/Text,0,-1,"내 영혼을 돌려준다면 당신을 섬기겠지만, 그것을 계속 빼앗아 두겠다면 나를 파괴해야 할 것이다. 그래봐야 내 영혼이 당신에게 무슨 소용이 있겠는가?"
 id1_masterius,dlg,EntryList/42/Text,0,-1,네 불신에도 불구하고 논리적으로 생각해야 하니까 내가 도와주지 않으면 할래스터가 돌아가서 내 영혼을 빼앗을 수 있어
 id1_masterius,dlg,EntryList/43/Text,0,-1,"네 불신에도 불구하고 논리적으로 생각해야 한다. 내가 도와주지 않으면 진정한 할라스터가 돌아와 내 영혼을 빼앗을 수 있다. 내가 네 편에 있으면 할라스터는 네가 그의 클론처럼 그를 파괴할 수 있다고 두려워할 거다. 이제 오래고, 합리적으로 생각해 보라."
 id1_masterius,dlg,EntryList/44/Text,0,-1,"파괴되거나 나와 분리된다면... 그럴 경우나 마찬가지로 내 인생은 끝이 날 것입니다. 당신에게 기회가 주어졌고, 회복할 시간을 주었습니다. 이제 우리는 다시 전투를 벌이게 될 것입니다!"
@@ -2089,7 +2089,7 @@ id1_masterius,dlg,ReplyList/53/Text,0,-1,제가 무엇을 찾고 있었는지 �
 id1_masterius,dlg,ReplyList/54/Text,0,-1,난 네 영혼을 간직할 것 같아.
 id1_masterius,dlg,ReplyList/56/Text,0,-1,나는 당신을 믿을 수 있을지 모르겠다.
 id1_masterius,dlg,ReplyList/57/Text,0,-1,- 안 돼
-id1_masterius,dlg,ReplyList/58/Text,0,-1,나가 그걸 가지고 있다면 네게 통제권을 행사할 수 있을 거야
+id1_masterius,dlg,ReplyList/58/Text,0,-1,내가 이걸 가지고 있으면 널 통제할 수 있을 거라고 생각했거든.
 id1_masterius,dlg,ReplyList/59/Text,0,-1,뒤로 물러나지 않으면 네 영혼을 파괴할 거야!
 id1_masterius,dlg,ReplyList/6/Text,0,-1,"어떻게 피곤해할 수가 있어? 넌 리치잖아, 그렇지?"
 id1_masterius,dlg,ReplyList/61/Text,0,-1,"내 보상을 주시오, 마스테리우스."

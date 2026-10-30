@@ -39,7 +39,7 @@ generalstore,are,Name,0,일반 상점
 goldengrainin001,are,Name,0,골든 그레인 여관 2층
 goldengraininn,are,Name,0,황금 곡식 여관
 goldengraininnce,are,Name,0,골든 그레인 인 베일러
-goldengraininnfi,are,Name,0,골든 그레인 인 바닥
+goldengraininnfi,are,Name,0,황금 곡물 여관 1층
 goldengraintunne,are,Name,0,황금 곡물 통로
 helperarea,are,Name,0,조력자 지역
 hochoch,are,Name,0,호초크 - 공예가 거리
@@ -54,7 +54,7 @@ lookingglass,are,Name,0,거울을 통해
 luridvision,are,Name,0,광란의 시야
 marshcave,are,Name,0,마쉬 동굴
 marshdwelling,are,Name,0,마시 주거
-maspindlesfarm,are,Name,0,스프인드의 농장
+maspindlesfarm,are,Name,0,스핀들의 농장
 mausoleum,are,Name,0,석묘
 mayorshouse,are,Name,0,촌장의 거처
 mayorupper,are,Name,0,촌장의 거처 - 상층
@@ -80,7 +80,7 @@ summonedcreature,are,Name,0,일시적으로 사용불가능
 tailorshome,are,Name,0,재단의 집
 templefirstfloor,are,Name,0,메리카 신전 - 1층
 templeofmerik001,are,Name,0,메리카 성전
-thecrownjewels,are,Name,0,'관왕 보석품'
+thecrownjewels,are,Name,0,'왕실 보물'
 treehollow001,are,Name,0,나무 홀
 troglodytehut,are,Name,0,트로글로다이트 창호
 vilmascottage,are,Name,0,빌마의 캐빈
@@ -95,7 +95,7 @@ agaricus,dlg,EntryList/2/Text,0,"그 대가로, 그들은 우리 스포르에서
 agaricus,dlg,EntryList/3/Text,0,"하지만 동굴과 개미들의 둥지를 연결하는 터널이 붕괴되어 있습니다. 우리가 바위를 통과해서 무슨 일이 일어났는지 확인할 수 없고, 개미들은 우리에게 도달할 수 없거나 도달하지 않으려는 것 같습니다."
 agaricus,dlg,EntryList/4/Text,0,"만약 당신이 '위에서'부터 둥지를 들어가서 무슨 일이 일어났는지 볼 수 있다면, 우리는 매우 감사하겠습니다. 어쩌면 당신은 동굴 붕괴를 스스로 처리할 수 있을 것입니다."
 agaricus,dlg,EntryList/5/Text,0,물론입니다.
-agaricus,dlg,EntryList/6/Text,0,"물론, 몇 개의 부스러기가 곧 그를 밝게 만들 것입니다."
+agaricus,dlg,EntryList/6/Text,0,"물론, 포자 몇 개만 있으면 곧 그를 생기 있게 만들 수 있을 겁니다."
 agaricus,dlg,EntryList/7/Text,0,물론이죠. 몇 개의 스포르 몇 개만으로도 당신은 습한 것처럼 기분이 좋아질 거예요.
 agaricus,dlg,EntryList/8/Text,0,"하, 그걸 병이라고 부르나? 포자 몇 개면 싹 낫게 해줄 수 있어."
 agaricus,dlg,EntryList/9/Text,0,물론 가벼운 독일 뿐이에요. 포자 몇 개면 몸속의 독을 없앨 수 있어요.
@@ -183,11 +183,11 @@ altar,dlg,ReplyList/5/Text,0,그래.
 aqua,dlg,EntryList/0/Text,0,기침... 헛기침... 기침... 제발 도와주세요.
 aqua,dlg,EntryList/1/Text,0,"제 이름은.... 아쿠아예요. 저는.... 콜록.... 물의 님프예요.... 콜록, 콜록. 물이.... 콜록.... 독에 오염됐어요. 저는.... 으윽.... 제.... 콜록.... 연못에 머물 수가 없어요, 그것이 .... 저를 병들게 했어요.... 콜록.... 하지만 마른 땅에서도 오래 버티지 못해요.... 콜록.... 쪼그라들어 죽을 거예요.... 콜록, 콜록."
 aqua,dlg,EntryList/2/Text,0,"누군가가 물을 독해 버렸어요. 몇일 전... 기침을 했습니다. 하지만 저는... 기침을 몰랐습니다. 누가, 왜 그랬는지 모르겠어요."
-aqua,dlg,EntryList/3/Text,0,여러분의 방문을 환영합니다. .... 기침 ....을 시도해 보세요.
-aqua,dlg,EntryList/4/Text,0,난... 기침을 해... 마시려고 노력할 거야.
-aqua,dlg,EntryList/5/Text,0,난... 기침을 해... 마시려고 노력할 거야.
-aqua,dlg,EntryList/6/Text,0,난... 기침을 해... 마시려고 노력할 거야.
-aqua,dlg,EntryList/7/Text,0,난... 기침을 해... 마시려고 노력할 거야.
+aqua,dlg,EntryList/3/Text,0,어디 한번 .... 콜록 .... 시도해 보시지요.
+aqua,dlg,EntryList/4/Text,0,난.... 콜록 .... 이걸 마셔보도록 할게.
+aqua,dlg,EntryList/5/Text,0,난.... 콜록 .... 이걸 마셔보도록 할게.
+aqua,dlg,EntryList/6/Text,0,난.... 콜록 .... 이걸 마셔보도록 할게.
+aqua,dlg,EntryList/7/Text,0,난.... 콜록 .... 이걸 마셔보도록 할게.
 aqua,dlg,EntryList/8/Text,0,"기침, 기침, 기침, 기침, 기침, 기침..."
 aqua,dlg,EntryList/9/Text,0,"콜록... 좀 나아진 것 같아! 효과가 있나 봐! 나머지를 연못에 부어야겠어, 물을 정화할지도 몰라."
 aqua,dlg,EntryList/11/Text,0,"하지만... 기침... 누가 먹었든... ... 그도 나쁜 상태였을 겁니다... 기침, 기침. 물은... 기침... 독이 났을 때, 물고기는 몇 시간 후에 죽었습니다... 기침, 기침. 하지만 누가 이 수영장에서 그들을 이 동굴로 옮겼는지 모르겠어요."
@@ -221,7 +221,7 @@ aquarium,dlg,ReplyList/2/Text,0,창을 통해 아쿠아리움으로 들어가세
 ash,dlg,EntryList/0/Text,0,나는 어른이 되면 나무와 동물을 돌볼 거야. 아빠가 강아지를 키워보게 해주면 좋겠어.
 ash,dlg,EntryList/1/Text,0,"아빠는 이제 개를 구할 수 있다고 말했어요. <boy/girl>이면, <FirstName>라고 부르겠습니다!"
 azer,dlg,EntryList/0/Text,0,"필사자님, 축하드립니다. 저는 여러분께 Pelor가 재판을 마치게 되어 기뻐하시며, 이 수도원의 영령들이 마침내 그의 황금당으로 올라갈 수 있기를 희망하신다고 전합니다."
-azer,dlg,EntryList/1/Text,0,하지만 수도사들의 고문을 끝내려면 아직 한 번 더 시험이 남아 있다.
+azer,dlg,EntryList/1/Text,0,하지만 수도사들의 고통을 끝내려면 아직 한 번의 시험이 더 남아 있습니다.
 azer,dlg,EntryList/2/Text,0,"드라이든 아비트는 이 포털을 통해 내면의 빛의 방으로 가면 만날 수 있지만 조심하라! 그의 정신은 땅으로부터 어둠을 제거하지 못한 것으로 인해 고문을 받았다. 그의 슬픔이 커지고 절망이 증가함에 따라 어둠의 생물들이 그에게 끌려갔고, 펠로르의 종교인의 부패에 즐거워했다."
 azer,dlg,EntryList/3/Text,0,"만약 당신이 그를 괴롭히는 악령들을 물리치면, 그는 빛을 보게 될 것이고, 수도사들은 이 세상에서 다음 세상으로 이동할 수 있을 것이다. 이 악령들은 어두우며 싫증나지만, 당신의 행동으로 인해 페로의 뜻을 얻게 되었으므로, 당신의 임무를 완수하기 위해 도움을 드리겠다."
 azer,dlg,EntryList/4/Text,0,어둠의 피조물들은 태양 아버지의 밝은 빛과 정화불을 비방한다. 나는 당신의 무기를 펠로의 거룩한 불로 채워줄 수 있습니다.
@@ -246,7 +246,7 @@ belle,dlg,EntryList/3/Text,0,저기 있는 창고 말이에요. 나쁜 녀석들
 belle,dlg,EntryList/4/Text,0,저기 있는 창고 말이에요. 나쁜 녀석들 중 하나가 엄마를 끌고 갈 때 열쇠를 떨어뜨렸어요. 창고 문을 열 수 있을 거예요. 열쇠를 주면 엄마를 구해 주실 건가요?
 belle,dlg,ReplyList/1/Text,0,"나도 무서워, 죄송해."
 belle,dlg,ReplyList/2/Text,0,"진정해, 무슨 일이 있었는지 말해봐."
-belle,dlg,ReplyList/3/Text,0,그녀는 어디로 데려갔나?
+belle,dlg,ReplyList/3/Text,0,그녀를 어디로 데려갔나?
 belle,dlg,ReplyList/4/Text,0,"미안하지만, 다른 일이 있어요."
 belle,dlg,ReplyList/5/Text,0,"네, 도와드릴게, 열쇠를 주시겠어요?"
 belle,dlg,ReplyList/7/Text,0,"미안하지만, 다른 일이 있어요."
@@ -269,7 +269,7 @@ bertram,dlg,ReplyList/2/Text,0,최근 몇 달 동안 오르레인 주변에서 �
 bertram,dlg,ReplyList/4/Text,0,어쨌든 들어보려고 해.
 bertram,dlg,ReplyList/6/Text,0,"그건 다야, 고마워."
 bertram,dlg,ReplyList/7/Text,0,분위기가 좀... 가라앉아 보이네요. 다들 괜찮은 건가요?
-bertram,dlg,ReplyList/9/Text,0,올레인에 다른 오두막이 있나요?
+bertram,dlg,ReplyList/9/Text,0,올레인에 다른 여관이 있나요?
 bertram,dlg,ReplyList/10/Text,0,- 알았습니다.
 bertram,dlg,ReplyList/11/Text,0,하지만 포밍 마그 인은 어때?
 bertram,dlg,ReplyList/12/Text,0,프로밍 무그 인에서 무슨 일이 있었나요?
@@ -345,7 +345,7 @@ boatman,dlg,EntryList/28/Text,0,물론 그 대가로 제 도움을 드리겠습�
 boatman,dlg,EntryList/29/Text,0,하지만 마녀들의 마법은 당신이 이미 방문한 항구로만 데려갈 수 있다는 뜻입니다. 아마도 그 끔찍한 늙은이 마녀들은 아무도 그들의 동굴로 바로 들어가게 하기 싫었나 봅니다.
 boatman,dlg,EntryList/30/Text,0,"환영합니다, 친구. 무엇을 도와드릴까요?"
 boatman,dlg,EntryList/31/Text,0,세 명의 마녀가 저를 제 손에서 어린 소년을 구해줬다고 처벌했습니다. 그들은 저를 살아서 끓여 내 치명적인 상자를 영원히 뱃길로 보내버렸습니다. 제 영혼은 아마 악의 마녀들의 손에 갇혀 있습니다.
-boatman,dlg,EntryList/32/Text,0,내게 필요한 것이 있나요?
+boatman,dlg,EntryList/32/Text,0,내게 뭔가 필요한라도 있나?
 boatman,dlg,EntryList/35/Text,0,요구하는 것이 있으신가요?
 boatman,dlg,EntryList/36/Text,0,"환영합니다, 친구. 무엇을 도와드릴까요?"
 boatman,dlg,ReplyList/0/Text,0,"아직 아무것도 없네요, 감사합니다."
@@ -406,8 +406,8 @@ book_arcana,dlg,EntryList/22/Text,0,하데스의 회색 폐허는 그 안에 들
 book_arcana,dlg,EntryList/23/Text,0,"로스, 거미의 악마 여왕이고 졸음의 여신인 롤스는 애비스의 66번째 수준, 거미줄 지하에 통치하고 있습니다."
 book_arcana,dlg,EntryList/24/Text,0,"야수국으로 도착한 인간 영혼들은 동물 특성을 얻게 되며, 강한 전사는 소나 호랑이로 변할 수 있습니다."
 book_arcana,dlg,EntryList/25/Text,0,판데모니움의 광성 나는 바람은 사람을 미쳐버리게 만들 것이다!
-book_arcana,dlg,EntryList/26/Text,0,아이디얼릭 엘리시움의 축복!
-book_arcana,dlg,EntryList/27/Text,0,이 책의 빛나는 기호는 사라지고 평면적인 부여는 잠들어 있습니다.
+book_arcana,dlg,EntryList/26/Text,0,목가적인 엘리시움의 축복!
+book_arcana,dlg,EntryList/27/Text,0,이 책의 빛나는 상형 문자는 희미해졌으며 차원 마법은 현재 잠들어 있습니다.
 book_arcana,dlg,EntryList/28/Text,0,"<StartAction> 여러분은 외계계 계단과 관련된 흥미로운 부분들을 읽고, 대형 휠, 피 전쟁, 스티크스 강, 그리고 각 계단의 대형 휠과 환경에 대해 배울 수 있습니다.</Start>"
 book_arcana,dlg,EntryList/29/Text,0,<StartAction> 이 지식 은 신성적 인 마법 과 신비적 인 마법 의 본질 을 이해 하는 데 큰 유익 을 가져다 줍니다. 분명 히 더 많은 연구 를 요구 할 수 있는 빛나는 봉인 으로 표시 된 여러 페이지 가 있습니다.</Start>
 book_arcana,dlg,ReplyList/6/Text,0,우리 그렇지 않아.
@@ -450,7 +450,7 @@ book_arcanaold,dlg,EntryList/28/Text,0,하데스의 회색 폐허는 그 안에 
 book_arcanaold,dlg,EntryList/29/Text,0,"로스, 거미의 악마 여왕이고 졸음의 여신인 롤스는 애비스의 66번째 수준, 거미줄 지하에 통치하고 있습니다."
 book_arcanaold,dlg,EntryList/30/Text,0,"야수국으로 도착한 인간 영혼들은 동물 특성을 얻게 되며, 강한 전사는 소나 호랑이로 변할 수 있습니다."
 book_arcanaold,dlg,EntryList/31/Text,0,판데모니움의 광성 나는 바람은 사람을 미쳐버리게 만들 것이다!
-book_arcanaold,dlg,EntryList/32/Text,0,아이디얼릭 엘리시움의 축복!
+book_arcanaold,dlg,EntryList/32/Text,0,목가적인 엘리시움의 축복!
 book_arcanaold,dlg,ReplyList/7/Text,0,우리 그렇지 않아.
 book_arcanaold,dlg,ReplyList/8/Text,0,자발적으로 계약에 참여하지 않는 자
 book_arcanaold,dlg,ReplyList/9/Text,0,"아주 잘, 이 힘을 내게 해줘서 난 이 갇힌 영혼을 풀어줄께"
@@ -565,8 +565,8 @@ book_test2,dlg,EntryList/25/Text,0,하데스의 회색 폐허는 그 안에 들�
 book_test2,dlg,EntryList/26/Text,0,"로스, 거미의 악마 여왕이고 졸음의 여신인 롤스는 애비스의 66번째 수준, 거미줄 지하에 통치하고 있습니다."
 book_test2,dlg,EntryList/27/Text,0,"야수국으로 도착한 인간 영혼들은 동물 특성을 얻게 되며, 강한 전사는 소나 호랑이로 변할 수 있습니다."
 book_test2,dlg,EntryList/28/Text,0,판데모니움의 광성 나는 바람은 사람을 미쳐버리게 만들 것이다!
-book_test2,dlg,EntryList/29/Text,0,아이디얼릭 엘리시움의 축복!
-book_test2,dlg,EntryList/30/Text,0,이 책의 빛나는 기호는 사라지고 평면적인 부여는 잠들어 있습니다.
+book_test2,dlg,EntryList/29/Text,0,목가적인 엘리시움의 축복!
+book_test2,dlg,EntryList/30/Text,0,이 책의 빛나는 상형 문자는 희미해졌으며 차원 마법은 현재 잠들어 있습니다.
 book_test2,dlg,EntryList/31/Text,0,"<StartAction> 여러분은 외계계 계단과 관련된 흥미로운 부분들을 읽고, 대형 휠, 피 전쟁, 스티크스 강, 그리고 각 계단의 대형 휠과 환경에 대해 배울 수 있습니다.</Start>"
 book_test2,dlg,EntryList/32/Text,0,<StartAction> 이 지식 은 신성적 인 마법 과 신비적 인 마법 의 본질 을 이해 하는 데 큰 유익 을 가져다 줍니다. 분명 히 더 많은 연구 를 요구 할 수 있는 빛나는 봉인 으로 표시 된 여러 페이지 가 있습니다.</Start>
 book_test2,dlg,ReplyList/6/Text,0,우리 그렇지 않아.
@@ -709,7 +709,7 @@ derek,dlg,EntryList/6/Text,0,하지만 저한테는 통하지 않았어요! 아�
 derek,dlg,EntryList/7/Text,0,"하지만 그녀는 저를 떨어뜨리지 못했고, 저는 종파에 받아들여졌습니다. 그 이후로 저는 점차 계급을 올라가며 영향력을 얻었고, 물론 수익의 좋은 부분을 차지했습니다."
 derek,dlg,EntryList/8/Text,0,"내가 살아남기 위해 필요한 일을 해냈어요. 만약 탈출을 시도했다면 날 쫓아다니며 내 커버를 날려버렸겠죠. 다른 방법으로 해냈다고 척하지 마세요. 그리고 제가 이 과정에서 약간의 수익을 올린다면,"
 derek,dlg,EntryList/9/Text,0,머지않아 러시무어 습지에 있는 교단 기지로 가게 될 거야. 그곳엔 지독한 트로글로다이트가 많아. 모두 뱀 여인을 무슨 신이라도 되는 것처럼 여기지!
-derek,dlg,EntryList/10/Text,0,"어차피, 저는 습지를 통해 그들의 둥지를 향하는 길을 알고 있으므로, 안전하게 거친 길을 지나칠 수 있는 주요 지표들을 말씀드릴 수 있습니다. 심지어 지도조차 밀도가 높은 안개 속에서 항해할 때 무엇을 주의해야 하는지 모르게 만드는 데는 도움이 되지 않습니다."
+derek,dlg,EntryList/10/Text,0,"어차피, 저는 습지를 통해 그들의 둥지로 가는 길을 알고 있으므로, 그 진흙탕을 안전하게 지나갈 수 있는 주요 지표들을 말씀드릴 수 있습니다. 지도조차도 무엇을 주의해야 할지 모른다면 짙은 안개 속을 항해하는 데 도움이 되지 않습니다."
 derek,dlg,EntryList/11/Text,0,<StartAction> 데렉은 러시머 습지에 있는 교단의 기지를 찾아내기 위해 주요 랜드마크를 상세히 설명하는 시간을 보냈습니다.</Start>
 derek,dlg,EntryList/12/Text,0,<StartCheck>[실패]</Start>#####################################################################################################################################################################################################################################################
 derek,dlg,EntryList/13/Text,0,"<StartAction>[성공]</Start> 좋아, 좋아! 이 지역을 떠나기 전에 교단의 기지에 들러 금을 좀 챙기려고 했을 뿐이야, 알겠나? 하지만 목숨만 살려준다면, 그들의 비밀 보물실 위치를 알려주고 재물은 전부 당신이 갖게 해 주지."
@@ -725,7 +725,7 @@ derek,dlg,ReplyList/1/Text,0,무슨 소리야?
 derek,dlg,ReplyList/7/Text,0,당신의 주도성을 칭찬해야 한다고 생각합니다.
 derek,dlg,ReplyList/8/Text,0,"그러니까, 당신은 종파 활동에 완전히 참여했고, 그들의 영향도 받지 않았죠! 적어도 마을 주민들과 사제들은 그들의 행동을 완전히 통제하지 못했습니다."
 derek,dlg,ReplyList/9/Text,0,"너는 돌이킬 수 없는 악인, 데슬리. 비참한 네 존재는 이제 끝난다."
-derek,dlg,ReplyList/10/Text,0,<StartAction>[시작]</Start> 나는 그런 악행을 저지른 사람과 협상하지 않을 거야. 죽을 준비를 해!
+derek,dlg,ReplyList/10/Text,0,<StartAction>[선함]</Start> 이런 사악한 짓을 저지른 자와는 거래하지 않겠다. 죽을 준비를 해라!
 derek,dlg,ReplyList/11/Text,0,"그럼, 당신의 쓸모없는 피부를 구하기 위해 무엇을 제공 할 수 있다고 생각하십니까?"
 derek,dlg,ReplyList/13/Text,0,"네 비참한 생명을 살릴 만큼은 멀었어, 디슬리지. 죽을 준비를 하거라!"
 derek,dlg,ReplyList/14/Text,0,"좋아, 거래는 성사됐어. 교단의 은신처에 가는 방법을 말해줘."
@@ -770,7 +770,7 @@ dorian,dlg,EntryList/22/Text,0,"안녕하세요, <FirstName>, 여기까지 따�
 dorian,dlg,EntryList/24/Text,0,골든 그레인 인에서 어떻게 지내세요?
 dorian,dlg,EntryList/25/Text,0,무슨 얘기를 하고 싶니?
 dorian,dlg,EntryList/26/Text,0,"물론, 언제든 원하실 때 위층으로 올라가 휴식을 취하셔도 좋습니다. 방해받는 일이 없도록 저희가 잘 살피겠습니다."
-dorian,dlg,EntryList/27/Text,0,류빌란과 대화를 나눠보세요. 그는 '취득'을 책임지고 있습니다. 적당한 가격이라면 우리 남은 장비 중 일부가 거래될 수도 있다고 말할 용기가 있습니다.
+dorian,dlg,EntryList/27/Text,0,류빌란과 대화를 나누게. 그는 '물품 조달'을 담당하고 있으니까. 가격만 알맞다면 우리의 예비 장비 중 일부를 거래할 수도 있을 거라고 감히 말해두지.
 dorian,dlg,EntryList/28/Text,0,"그래, 그를 만났어. 그는 사교 집단의 활동에 깊이 관여하는 악질이야. 골든 그레인 여관과 사원을 오가고 있어."
 dorian,dlg,EntryList/29/Text,0,"그래, 그를 만났어. 그는 사교 집단의 활동에 깊이 관여하는 악질이야. 골든 그레인 여관과 사원을 오가고 있어."
 dorian,dlg,EntryList/30/Text,0,사실 그는 숙소에서의 납치 시도와 창원에서 일어난 배신 뒤에 있었겠죠
@@ -787,7 +787,7 @@ dorian,dlg,EntryList/40/Text,0,"아주 잘, 하지만 빨리 돌아와, 시간�
 dorian,dlg,EntryList/41/Text,0,"좋은 일, <FirstName>님, 우리는 이제 교단의 계획을 막을 기회가 있습니다."
 dorian,dlg,EntryList/43/Text,0,"준비해, <FirstName>, 종파가 오고 있어!"
 dorian,dlg,EntryList/45/Text,0,불쌍한 릴윌런. 그 오랜 세월을 나란히 싸워 왔는데 여기서 이렇게 끝나다니... 그래도 저 망할 교단원 몇은 그와 함께 데려갔군.
-dorian,dlg,EntryList/46/Text,0,숨을 쉬듯이. 여기서 정리하고 나서 시장님께 무슨 일이 일어났는지 말씀해줘야 해.
+dorian,dlg,EntryList/46/Text,0,하아. 여기서 대충 정리를 마치고 시장에게 무슨 일이 있었는지 알려야겠어.
 dorian,dlg,EntryList/47/Text,0,"안녕, 여기서 잠시 자카리아스와 머물러 있을 거야, 혹시 그 집단이 도전적인 행동을 취하려고 한다면."
 dorian,dlg,EntryList/49/Text,0,정말 멋진 모험이었죠. 언젠가는 다시 함께 일해야 합니다.
 dorian,dlg,ReplyList/0/Text,0,"미안해, 길을 잃은 것 같아. 당신은 누구야?"
@@ -879,12 +879,12 @@ dragonfly,dlg,EntryList/3/Text,0,"내가 말을 할 수 있다는 걸 알고 놀
 dragonfly,dlg,EntryList/4/Text,0,이 곳은 위더월드입니다. 적어도 지금은 그렇게 불리죠. 스프리건이 권력을 차지하기 전에는 글림머우드라고 불렸었습니다.
 dragonfly,dlg,EntryList/5/Text,0,"스프리건, 악의 요정 생물, 거미처럼 덜 호기심이 많고 훨씬 더 위험하다"
 dragonfly,dlg,EntryList/6/Text,0,몇 달 전에 이 곳에 도착해 버벅을 죽였어
-dragonfly,dlg,EntryList/7/Text,0,"그리고 그 포털이 열린 이후로 스프리건은 그 코포츠들을 지상세계에서 혼란을 일으키기 위해 보내고 있습니다. 나무임프, 스터지, 가지부실, 그리고 바늘나무들이 지나갔으며, 심지어는 불세출의 요정들도 있었죠!"
+dragonfly,dlg,EntryList/7/Text,0,"그리고 그 차원문이 열린 이후로 스프리건은 부하들을 보내 필멸자의 세계를 황폐화하고 있습니다. 우드 임프, 스터지, 트위그 블라이트, 그리고 니들맨이 지나가는 것을 보았고, 심지어 언실리 요정까지 있었죠!"
 dragonfly,dlg,EntryList/8/Text,0,"이 숲은 평화로운 곳이었지만, 가장 오래된 나무들은 불태워지고 있고, 다른 나무들은 숲을 여행하는 것을 방해하기 위해 굽이 을 형성하고 있습니다."
 dragonfly,dlg,EntryList/10/Text,0,단기 기억 손실이군?
 dragonfly,dlg,EntryList/11/Text,0,몇 달 전에 스프리건이 이곳에 도착해서 숲을 유지했던 브로니를 죽였는데 그 이후로 그는 나무를 파괴하고
 dragonfly,dlg,EntryList/12/Text,0,"스프리건을 죽였나? 내 지식이야 없겠지만, 그래도 재주가 아주 없진 않군!"
-dragonfly,dlg,ReplyList/0/Text,0,곤충에 대한 시간은 없어.
+dragonfly,dlg,ReplyList/0/Text,0,벌레 따위에게 쓸 시간은 없어.
 dragonfly,dlg,ReplyList/1/Text,0,말하는 바람나비!
 dragonfly,dlg,ReplyList/2/Text,0,오... 나는 <FirstName>이다.
 dragonfly,dlg,ReplyList/3/Text,0,그래... 사파이어... 나는 어디에 있나?
@@ -990,7 +990,7 @@ empyrea,dlg,ReplyList/1/Text,0,그래.
 fallon,dlg,EntryList/0/Text,0,제발 여기서 나가게 해.
 fallon,dlg,EntryList/1/Text,0,누가... 당신은 누구니?
 fallon,dlg,EntryList/3/Text,0,걱정된다고? 당연히 걱정해야지! 날 안전하게 지키라고 큰돈을 줬잖아! 덤 포리스트에서 인간형 괴물 무리에게 강도당하고 공격받으라고 준 돈이 아니야. 들판과 숲을 몇 마일이나 달아나면서 워그 추적자들의 소리가 바람을 타고 들리게 하라고 준 것도 아니라고.
-fallon,dlg,EntryList/4/Text,0,그리고 나는 확실히 그의 침대에 잠들도록 돈을 지불하지 않았어. 내가 지역 미치광이들에게 발자국을 내면서 외치며 끌려가는 동안!
+fallon,dlg,EntryList/4/Text,0,"그리고 지역 미치광이들에게 발버둥 치며 비명을 지르며 끌려가는 동안, 그가 자기 침대에서 편히 자라고 내게 돈을 준 건 확실히 아니었지!"
 fallon,dlg,EntryList/5/Text,0,"곧 다른 곳으로 끌려갈 거라는 건 알고 있었지만, 적어도 포로를 한 명 더 잡을 때까지는 아니었어. 오그든이 홀리호크 코티지에 온 새 방문자들이 캐묻지 못하게 막을 때까지 이동을 최소화하고 싶다고 말하는 걸 들었거든."
 fallon,dlg,EntryList/6/Text,0,"그들이 나를 어디로 데려가려 했는지는 모르지만, 마을 밖으로 데려가려던 건 분명해."
 fallon,dlg,EntryList/7/Text,0,몇 시간 전에 오그든에게 명령을 내렸는데 데릭 데슬리라는 이름이었는데
@@ -1053,7 +1053,7 @@ fire_elemental,dlg,EntryList/3/Text,0,그냥 내 이름을 소리치세요. '샤
 fire_elemental,dlg,EntryList/5/Text,0,"아, 그건 훨씬 더 낫다. 그건 그렇고, 샤자카는 내 이름이 아니야. 냉혈을 가진 사람에게 이름을 붙이는 것은 어리석은 짓이야. 하지만 샤자카는 나를 구슬에서 해방시키는 단어야. 그리고 그 모든 세월이 지나면서, 나는 너무 배고프다."
 fire_elemental,dlg,EntryList/6/Text,0,"제발, 제약에서 나를 해방해, 냉혈한."
 fire_elemental,dlg,EntryList/7/Text,0,"당신은 아는 것이 많군요. 하지만 그 결계는 사람을 잘 믿지 않는 냉혈한의 예방 조치일 뿐이었습니다. 저는 수년 전에 여기에 살던 냉혈한 중 한 명에게 소환되었습니다. 의심할 여지 없이 그는 제가 자신을 위해 사소한 일이라도 해주길 기대했겠지만, 저에게 지시를 내리기도 전에 그 바보는 죽어버렸죠."
-fire_elemental,dlg,EntryList/8/Text,0,"그래, 지금 나를 풀어줄 거야, 맞나? 냉혈?"
+fire_elemental,dlg,EntryList/8/Text,0,"그래, 이제 날 풀어주겠다는 거지, 이 냉혈한 자식아?"
 fire_elemental,dlg,ReplyList/0/Text,0,너를 풀어달라고? 하지만 넌 갇혀 있는 것처럼 보이지 않는데.
 fire_elemental,dlg,ReplyList/2/Text,0,고려하겠습니다.
 fire_elemental,dlg,ReplyList/3/Text,0,내가 뭘 해야겠어?
@@ -1065,10 +1065,10 @@ fisher,dlg,EntryList/0/Text,0,*담담*
 fisher,dlg,EntryList/1/Text,0,한 번 그 녹색 과일을 먹었는데 며칠 동안 어지러웠었어.
 fisher_marsh,dlg,EntryList/0/Text,0,*담담*
 fisher_marsh,dlg,EntryList/1/Text,0,습지에 조심해. 여기 많은 것들이 <class>를 먹는다고 해.
-flowers,dlg,EntryList/0/Text,0,이 보라색 꽃은 염려스러운 숲에서 환영의 색채를 제공한다.
+flowers,dlg,EntryList/0/Text,0,이 보라색 꽃들은 험악한 숲에 반가운 색채의 활기를 불어넣어 준다.
 flowers,dlg,EntryList/1/Text,0,<StartAction>[식물 도메인]</Start> 이 보라색 꽃은 예견의 숲에서 환영의 색의 폭발을 제공합니다. 당신은이 꽃을 자연 세계에 속하는 것으로 인식하지 못하며 약간 병든 냄새에 대해 경계합니다.
 flowers,dlg,EntryList/2/Text,0,<StartAction>[드루이드 또는 레인저]</Start> 이 보라색 꽃은 예견의 숲에서 환영의 색의 폭발을 제공합니다. 이 꽃은 자연 세계에 속하는 것으로 인식하지 못하며 약간 병든 냄새에 대해 경계합니다.
-flowers,dlg,EntryList/3/Text,0,이 보라색 꽃은 염려스러운 숲에서 환영의 색채를 제공한다.
+flowers,dlg,EntryList/3/Text,0,이 보라색 꽃들은 험악한 숲에 반가운 색채의 활기를 불어넣어 준다.
 flowers,dlg,ReplyList/0/Text,0,가자
 flowers,dlg,ReplyList/1/Text,0,꽃의 냄새를 맡게.
 flowers,dlg,ReplyList/2/Text,0,가자
@@ -1087,7 +1087,7 @@ fontmonk,dlg,EntryList/0/Text,0,어둠이 빨리 사라지길 바라!
 fontmonk,dlg,EntryList/2/Text,0,나는 감시자가 다시 새벽의 합창을 울리는 날이 오기를 기도한다.
 fontmonk,dlg,EntryList/3/Text,0,"두려워하지 마시오, 우리의 기도는 세상을 다시 빛으로 인도할 것이다."
 fontmonk,dlg,EntryList/4/Text,0,왜 펠로르는 우리를 버렸나?
-fontmonk,dlg,EntryList/5/Text,0,세상이 어둠 속에 빠져 있는 동안 둔전한 대화는 할 시간이 없습니다.
+fontmonk,dlg,EntryList/5/Text,0,세상이 어둠에 잠겨 있는 동안 쓸데없는 잡담을 나눌 시간은 없다.
 frog,dlg,EntryList/0/Text,0,*크로크*
 fruitseller,dlg,EntryList/0/Text,0,오늘 내가 일하는 유일한 사람이야?
 galen,dlg,EntryList/1/Text,0,"메리카를 찬양하노라! 레이디 레인더의 응답이 없어서 샘플을 보낸 것에 만족하지 않았다는 걸 가정했나이다. 오, 하나, 이 돈으로는 앞으로 몇 달간의 생활을 여유롭게 할 수 있을 것이니라!"
@@ -1100,7 +1100,7 @@ galen,dlg,EntryList/7/Text,0,"실제로는 아니지만... 하지만 무역은 �
 galen,dlg,EntryList/8/Text,0,"그리고 마을 사람들은... 글쎄... 특별히 친절하지 않아요. 오를랜에 온 우리를 환영하러 찾아온 사람도 없고, 우리가 이웃을 찾아가도 집에 아무도 없어요."
 galen,dlg,EntryList/9/Text,0,하지만 시간이 지나면서 그들은 우리를 받아들일 거라 확신한다. 이 마을의 일부 지역 주민들이 외부인들을 받아들이는 데는 오랜 시간이 걸릴 수 있단다.
 galen,dlg,EntryList/10/Text,0,"좋은 건 아니야. 호초크와 호히일에서 몇 번 문의가 왔지만 확실한 건 없어. 실제로 우리가 이리로 온 이후로는 거의 거래가 없었어, 지나가는 상인들도 완전히 사라졌어."
-galen,dlg,EntryList/11/Text,0,"좋은 일이 아니었지만, 레인더 여사가 러그를 원한다고 확인했으니, 앞으로 몇 달 동안은 계속할 수 있을 것 같습니다. 그래도 불구하고, 그때까지 무역이 조금이라도 활성화되기를 희망합니다."
+galen,dlg,EntryList/11/Text,0,"상황이 좋지는 않았지만, 레인더 여사께서 양탄자 두 장을 원하신다고 확인해 주셨으니 앞으로 몇 달 동안은 버틸 수 있을 겁니다. 그때쯤이면 장사도 좀 나아지기를 바랄 뿐입니다."
 galen,dlg,EntryList/12/Text,0,나와 하나는 결혼 후 여기로 이사와서 사업을 시작했습니다. 이 부동산은 무역 경로의 가장자리에 있어 항상 번영해온 마을에 비해 놀랍게도 저렴했습니다.
 galen,dlg,EntryList/13/Text,0,"전 주인이 갑자기 이사하여 빠른 판매를 원했지만, 나는 그를 만난 적이 없었습니다. 사원들은 사찰에서 거래를 처리하도록 맡겨졌습니다."
 galen,dlg,EntryList/15/Text,0,"안녕하세요, 이제 모든 사람이 더 친절해 보입니다."
@@ -1117,7 +1117,7 @@ galen,dlg,ReplyList/11/Text,0,"시간 내 주셔서 감사합니다, 직조 장�
 galen,dlg,ReplyList/12/Text,0,마을에서 이상한 일이 벌어지고 있다는 걸 알아봤나?
 galen,dlg,ReplyList/15/Text,0,거래는 어때?
 galen,dlg,ReplyList/16/Text,0,올레인에는 어쩐 일로 오셨나요?
-galen,dlg,ReplyList/18/Text,0,"고마워요, 주인 웨이버님, 곧 다시 말씀 나누겠습니다."
+galen,dlg,ReplyList/18/Text,0,"고마워요, 웨이버 장인님, 곧 다시 얘기하죠."
 galen,dlg,ReplyList/19/Text,0,좀 더 얘기해볼까요?
 galen,dlg,ReplyList/20/Text,0,아무 것도 필요 없어요.
 galen,dlg,ReplyList/21/Text,0,- 얘기 좀 할 수 있어?
@@ -1170,7 +1170,7 @@ gossamer,dlg,EntryList/9/Text,0,에스메랄드는 우리의 요정 드래곤입
 gossamer,dlg,EntryList/10/Text,0,"몰라. 우리가 어디든 그녀를 찾으려고 해봤지만, 그래도 당신이 우리보다 크니까 더 크게 소리칠 수 있을 것 같아."
 gossamer,dlg,EntryList/11/Text,0,"네가 원하는 대로. 우리도 에메랄드를 스스로 찾기 위해 더 열심히 노력해야 해. 네 발이 크다, 이제 가봐."
 gossamer,dlg,EntryList/12/Text,0,이제 무엇을 할까요? 그리고 큰 발에 조심해.
-gossamer,dlg,EntryList/13/Text,0,요정들은 약속을 깨지 않아요. 당신들은 인간처럼 혼동스러워요.
+gossamer,dlg,EntryList/13/Text,0,요정들은 절대 약속을 어기지 않아요. 우리를 인간과 혼동하지 마세요.
 gossamer,dlg,EntryList/14/Text,0,"그리고 도와줄 수 있도록, 내가 당신을 위해 Fey Way를 열어줄게."
 gossamer,dlg,EntryList/15/Text,0,너희들은 이 땅을 지나가는 비밀 통로가잖아
 gossamer,dlg,EntryList/16/Text,0,버섯 고리 중 하나에 들어가 이동하면 됩니다. 페이 웨이를 이용하면 더 빠르게 수색하고 더 많은 장소에 갈 수 있습니다.
@@ -1229,7 +1229,7 @@ gossamer,dlg,ReplyList/27/Text,0,다른 질문 하나 해볼까요?
 gossamer,dlg,ReplyList/28/Text,0,에메랄드에 대해 다시 말해.
 gossamer,dlg,ReplyList/29/Text,0,그녀가 어디 있을지 아세요?
 gossamer,dlg,ReplyList/30/Text,0,"나가보겠지만, 지금은 작별인사를 한다."
-gossamer,dlg,ReplyList/31/Text,0,나가 시도해볼게. 다른 질문은 안 해도 돼?
+gossamer,dlg,ReplyList/31/Text,0,노력해 볼게. 다른 걸 물어봐도 될까?
 gossamer,dlg,ReplyList/36/Text,0,"안녕, 고사머."
 gossamer,dlg,ReplyList/37/Text,0,"안녕하세요, 고스마어"
 gossamer,dlg,ReplyList/38/Text,0,"어머, 금을 찾으려면 어디로 가야 하나?"
@@ -1370,7 +1370,7 @@ gruck,dlg,ReplyList/9/Text,0,슬라이더를 무너뜨리는 데 함께 가시�
 gruck,dlg,ReplyList/10/Text,0,- 네 마음대로
 gruck,dlg,ReplyList/11/Text,0,"내 편이 아니라면 적이다. 죽어라, 고블린!"
 gruck,dlg,ReplyList/12/Text,0,어쩔 수 없이 물어볼게
-gruck,dlg,ReplyList/13/Text,0,이 맛있는 고블린 스크루드를 주면 같이 가겠습니까?
+gruck,dlg,ReplyList/13/Text,0,이 맛있는 고블린 스튜를 준다면 나와 함께 가겠나?
 gruck,dlg,ReplyList/14/Text,0,"됐어, 그 스튜는 '비상시'를 위해 아껴두고 싶거든. 아마 다른 방법으로 거래를 해볼 수도 있겠지?"
 gruck,dlg,ReplyList/15/Text,0,"먹지 않아, 어쨌든 고블린 요리는 별로 좋아하지 않아."
 gruck,dlg,ReplyList/22/Text,0,내가 당신의 생각을 바꿀 수 있는 방법이 없나요?
@@ -1386,7 +1386,7 @@ gruck,dlg,ReplyList/40/Text,0,"아무 것도 없어, 그대로 계속해."
 gruck,dlg,ReplyList/41/Text,0,"고마워요, 그루크, 도움이 됐어요."
 gruck,dlg,ReplyList/42/Text,0,"그루크, 가자!"
 gruck,dlg,ReplyList/43/Text,0,내가 물어볼 게 있어.
-gruck,dlg,ReplyList/44/Text,0,"우리가 찾은 함정은 건드리지 마고, 그냥 내게 맡겨라."
+gruck,dlg,ReplyList/44/Text,0,"찾아낸 함정은 건드리지 말고, 그냥 내게 맡겨라."
 gruck,dlg,ReplyList/45/Text,0,당신이 발견한 함정을 처리할 수 있을까요?
 gruck,dlg,ReplyList/46/Text,0,"제가 열지 못하는 자물쇠가 있다면, 네가 도우려 나서지 않았으면 좋겠어."
 gruck,dlg,ReplyList/47/Text,0,"내가 풀지 못하는 자물쇠를 찾거든, 와서 도와주게."
@@ -1487,7 +1487,7 @@ hammond,dlg,ReplyList/14/Text,0,"잠깐만, 내가 물어볼 게 하나 있어."
 hannah,dlg,EntryList/0/Text,0,갈렌과 결혼한 지 5개월이 됐어. 정말 행복해!
 hannah,dlg,EntryList/1/Text,0,레이디 레인더의 편지를 전해 주셔서 고마워요. 제 남편은 카펫 작업을 재개할 수 있어서 매우 기뻐요.
 hannah,dlg,EntryList/2/Text,0,이번이 제 처음인 파티예요! 흥미롭지 않나요?
-haskali,dlg,EntryList/1/Text,0,"시, 내가 알았을지도 몰라. 이번에도 아내의 불평을 또 한 주 더 들어야 할 것 같아."
+haskali,dlg,EntryList/1/Text,0,"하, 알아챘어야 했는데. 또 일주일 동안 아내의 잔소리를 듣게 생겼군."
 haskali,dlg,EntryList/2/Text,0,"예, 최근 1년간 사업이 악화되어 왔지만, 최근 몇 달 동안은 거의 말라버렸다."
 haskali,dlg,EntryList/3/Text,0,"음... <sir/madam>가 무역의 부족에 대해 너무 걱정하고 있기 때문에, 아마도 <he/she>#는 작은 '교류'에 참여하고 싶어할까요?"
 haskali,dlg,EntryList/4/Text,0,"제가 사랑하는 아내에게 끊임없이 상기시켜 주는 3개의 초록석 보석 가방이 있습니다. 만약 당신이 그것들을 사서 혀를 절제한다면, 저는 더 오래 동안 <sir/madam>와 함께 현재 사건에 대해 이야기할 시간을 찾을 수 있을 것이라고 확신합니다. 세 가지에 대해 20개의 금 동전을 말할까요?"
@@ -1548,7 +1548,7 @@ haskali,dlg,ReplyList/25/Text,0,다시 이지 오리베에 대해 말해봐.
 haskali,dlg,ReplyList/28/Text,0,"고마워, 하스칼리"
 haskali,dlg,ReplyList/29/Text,0,다른 것에 대해 얘기할 수 있을까요?
 haskali,dlg,ReplyList/30/Text,0,이지 올리베로라는 상인을 아시나요?
-haskali,dlg,ReplyList/31/Text,0,"호초크의 상인협회는 그의 석방을 위해 몸값을 받은 편지가 있었지만, 납치자들이 누구인지 정확히 파악하기는 힘들었습니다."
+haskali,dlg,ReplyList/31/Text,0,"호초크의 상인 길드로 그의 석방을 요구하는 몸값 요구 편지가 도착했습니다만, 납치범들이 정확히 누구인지 알아내기가 어려웠습니다."
 haskali,dlg,ReplyList/32/Text,0,"아니, 고마워요"
 haskali,dlg,ReplyList/33/Text,0,"아니, 하지만 다른 문제에 대해 말하고 싶다."
 haskali,dlg,ReplyList/34/Text,0,마지막으로 언제 봤나?
@@ -1573,7 +1573,7 @@ hermit,dlg,EntryList/2/Text,0,그리고 그들은 날 오븐으로 끌고 가서
 hermit,dlg,EntryList/3/Text,0,"최근 무슨 일이 일어나고 있는지 모르겠지만, 보통 주변에 몇 마리 야생동물들이 있지만, 밤에 이상한 소리들이 들리는데, 저는 며칠 동안 나무에서 지켜보고 있다는 느낌을 받았습니다."
 hermit,dlg,EntryList/4/Text,0,다시 한번 감사합니다. 밤에 머물 수 있는 곳이 필요하시다면 여기에 피난처로 이용해 주세요.
 hermit,dlg,ReplyList/0/Text,0,무슨 일이 있었나요?
-hermit,dlg,ReplyList/3/Text,0,네가 먹기에 가치가 있는 고기가 있다고 생각했을 때 놀랐어.
+hermit,dlg,ReplyList/3/Text,0,네 몸뚱이에 먹을 만한 고기가 붙어 있다고 생각했다니 놀랍군.
 hermit,dlg,ReplyList/4/Text,0,나는 내가 도착한 시점에 대해 다행이었다.
 hilgeth,dlg,EntryList/0/Text,0,내 딸과 이야기하고 있으니 방해하지 마세요.
 hollyhock_chair,dlg,EntryList/0/Text,0,지금은 앉아 있을 시간이 아닙니다!
@@ -1639,7 +1639,7 @@ illian,dlg,EntryList/34/Text,0,네?
 illian,dlg,ReplyList/0/Text,0,나는 <FullName>이다. 당신은 누구신가요?
 illian,dlg,ReplyList/1/Text,0,"저는 <FullName>입니다. 이 성전은 악의 집소이고, 저는 이를 청결하게 하려고 합니다."
 illian,dlg,ReplyList/2/Text,0,그럼 당신도 이 지옥의 숭배자들과 함께 죽을 가능성이 높습니다.
-illian,dlg,ReplyList/3/Text,0,- 잠깐 말씀하실 수 있어?
+illian,dlg,ReplyList/3/Text,0,잠시 말씀 좀 나눌 수 있을까요?
 illian,dlg,ReplyList/4/Text,0,가야 하자
 illian,dlg,ReplyList/5/Text,0,"이 검을 가져가세요, 이건 당신 것 같아요."
 illian,dlg,ReplyList/6/Text,0,'발러르'라는 이름은 당신에게 어떤 의미가 있나요?
@@ -1729,7 +1729,7 @@ jasper,dlg,EntryList/13/Text,0,하지만 이 사제들은 우리가 1천개의 �
 jasper,dlg,EntryList/14/Text,0,"여기 1000개의 구리 동전을 찾기조차 힘들고, 더구나 금을 찾기는커녕 여기서 우리가 그런 수준의 보물을 얻었다고 생각하나? 만약 그런 보물을 얻었다면, 우리는 이 신을 버린 숲에서 캠핑을 했겠지?"
 jasper,dlg,EntryList/15/Text,0,"사제들은 알리콘 골곡 근처에 금이 남아있기를 기대하고 있었는데, 그것이 없자 우리는 먼저 찾았다고 생각하여 여기서 반환을 요구해 왔습니다. 하지만 우리는 몇 달 동안 알리콘 골곡 근처를 여행하지 않았으므로, 여기서 누군가가 그 금을 가져간 것은 불가능합니다."
 jasper,dlg,EntryList/16/Text,0,", 저는 바깥의 한 지붕 아래 숨어있었고, 제가 있던 텐트에서 몇 초 후에 갓날아 나온 후 갓날아래의 화살이 불타는 것을 봤습니다. 저는 싸웠을 것입니다. 하지만 너무 많았어요. 우리는 완전히 깜짝 놀랐습니다."
-jasper,dlg,EntryList/17/Text,0,나는 너라면 더 오래 여기에 머무르지 않아야 한다. 해안이 안전해질 때까지는 떠나게 될 거야.
+jasper,dlg,EntryList/17/Text,0,내가 너라면 여기에 더 오래 머물지 않겠어. 해안이 안전해지면 나도 바로 떠날 거야.
 jasper,dlg,ReplyList/0/Text,0,"나는 생존자들을 볼 수 없었지만, 물러나는 소리를 들었을 때는 다행이었다. 그들이 너무 많아서 더 오래 버리지 못했기 때문이다."
 jasper,dlg,ReplyList/1/Text,0,공격에 대해 몇 가지 질문을 할 수 있겠나요?
 jasper,dlg,ReplyList/2/Text,0,"들을 이야기는 다 들었습니다. 이제 자유를 얻었으니, 고블린 무리가 돌아오기 전에 여기서 빠져나가야겠군요."
@@ -1831,7 +1831,7 @@ leopold,dlg,EntryList/6/Text,0,"하지만 내부 성소에 닿는다 해도, 내
 leopold,dlg,EntryList/8/Text,0,하지만 의식을 거행해야 하는 사적인 구역에는 들어가셔도 좋습니다. 다만 제 입문자들이 묵상하는 것을 방해하지 말아 주세요. 그들은 인류의 구원을 위해 기도하고 있습니다!
 leopold,dlg,EntryList/9/Text,0,"네가 할 수 있고, 펠로가 지혜를 주면, 나는 그들에게 대답할 것이다."
 leopold,dlg,EntryList/10/Text,0,"그것은 '충돌'이 아니라 Pelor 자신이 축복하고 있습니다. 그것은 두 가지의 본질을 포함 해 햇빛을 보호, 그리고 그들의 적을 해!"
-leopold,dlg,EntryList/11/Text,0,"자연스레, 그것은 태양의 자연 에너지를 활용하기 위해 낮 햇빛 아래에서Pelor의 사제에 의해 축복받은 해출의 헬멧입니다."
+leopold,dlg,EntryList/11/Text,0,당연하지요. 그것은 태양의 자연 에너지를 활용하기 위해 한낮의 태양 아래에서 펠로어의 사제가 축복을 내린 일출의 투구입니다.
 leopold,dlg,EntryList/12/Text,0,"복이 있으소서! 이것은 우리 수도원의 가장 거룩한 유물, 빛의 상자입니다! 페로 자신이 당신에게 이 유물을 짧은 시간 동안 맡겨주신 것을 보아하니 당신에게 특별한 복이 있나 봅니다."
 leopold,dlg,EntryList/13/Text,0,"그 책에 대해 몰라요? Pelor, <his/her> 영혼에 대한 자비가 있으세요! 그것은 Pelor에 대한 신성한 책입니다."
 leopold,dlg,EntryList/14/Text,0,펠로의 새벽의 반지는 신생에서 신입으로 가는 형제의 진보를 나타냅니다.
@@ -1840,7 +1840,7 @@ leopold,dlg,EntryList/16/Text,0,"나는 그걸 알아, 윌프럼 형제의 살�
 leopold,dlg,EntryList/17/Text,0,"물론, 그것은 태양의 방패입니다. 펠로의 황금 빛으로 가득 차 있습니다."
 leopold,dlg,EntryList/18/Text,0,"하! 드라이든 수도원장님께서 우리의 의지와 인내를 시험하러 너 같은 자들이 올 거라고 하시더군. 썩 꺼져라, 사기꾼아! 태양이 다시 동쪽에서 떠오를 때까지 우리의 기도는 멈추지 않을 것이다!"
 leopold,dlg,EntryList/19/Text,0,"날 속이지 마, 잘못된 자여. 태양이 뜨면 하늘의 지키는 자가 새벽 합창을 울릴 것이다. 그러나 그 때까지, 얼마나 오랜 시간이든, 우리는 태양이 이 세상에 돌아오기를 기도한다."
-leopold,dlg,EntryList/20/Text,0,"그는 위에서 기다리며, 새벽 정원에서 태양의 첫 빛을 기다립니다. 그러한 순간에 그는 대형 벨을 울려 퍼져Pelor의 복귀를 알릴 것입니다."
+leopold,dlg,EntryList/20/Text,0,그는 태양의 첫 빛을 받기 위해 위쪽의 새벽 정원에서 기다리고 있습니다. 빛이 비치면 그는 거대한 종을 울려 펠로르의 귀환을 알릴 것입니다.
 leopold,dlg,EntryList/21/Text,0,그는 태양의 귀환을 위한 개인적인 기도를 수행하기 위해 내부 성소로의 길인 내면의 빛의 방으로 물러났다. 이 방은 깨달음 의식을 통해 내부 성소에 도달하고 일련의 시험을 통과해야만 이르는 곳이다.
 leopold,dlg,EntryList/22/Text,0,"우리 수도원에 대해 들어본 적이 없는데, 먼 곳을 여행했어야 합니다."
 leopold,dlg,EntryList/23/Text,0,"우리 교단은 아침빛 형제단이라 불립니다. 우리는 규율과 헌신으로 매일 새벽 태양이 다시 떠오르게 했습니다. 하지만 지금은 어둡고 절망적인 시대입니다. 태양은 영원히 뜨지 않은 듯하고 세상은 어둠에 잠겼으며, 우리는 인류를 위한 의무를 다하지 못했습니다."
@@ -1849,7 +1849,7 @@ leopold,dlg,EntryList/25/Text,0,어둠이 빨리 사라지길 바라!
 leopold,dlg,EntryList/26/Text,0,"<Brother/Sister>, 방해를 최소화해 주시겠습니까? 중요한 일이 있습니다."
 leopold,dlg,EntryList/27/Text,0,"아주 잘, 하지만 빨리"
 leopold,dlg,EntryList/28/Text,0,"그것은 '충돌'이 아니라 Pelor 자신이 축복하고 있습니다. 그것은 두 가지의 본질을 포함 해 햇빛을 보호, 그리고 그들의 적을 해!"
-leopold,dlg,EntryList/29/Text,0,"자연스레, 그것은 태양의 자연 에너지를 활용하기 위해 낮 햇빛 아래에서Pelor의 사제에 의해 축복받은 해출의 헬멧입니다."
+leopold,dlg,EntryList/29/Text,0,당연하지요. 그것은 태양의 자연 에너지를 활용하기 위해 한낮의 태양 아래에서 펠로어의 사제가 축복을 내린 일출의 투구입니다.
 leopold,dlg,EntryList/30/Text,0,"복이 있으소서! 이것은 우리 수도원의 가장 거룩한 유물, 빛의 상자입니다! 페로 자신이 당신에게 이 유물을 짧은 시간 동안 맡겨주신 것을 보아하니 당신에게 특별한 복이 있나 봅니다."
 leopold,dlg,EntryList/31/Text,0,"그 책에 대해 몰라요? Pelor, <his/her> 영혼에 대한 자비가 있으세요! 그것은 Pelor에 대한 신성한 책입니다."
 leopold,dlg,EntryList/32/Text,0,그럴 것 같네요
@@ -1950,8 +1950,8 @@ lizardman,dlg,EntryList/0/Text,0,Sssslaargh와 Sssslaargh에 연락해 우리 Ss
 lizardman,dlg,EntryList/1/Text,0,동쪽의 동굴에서 멀리 떨어져 있어. 거기에는 마법사들이 살고 있어!
 lizardman,dlg,EntryList/2/Text,0,피가 뜨는 것을 좋아해요
 lizardman,dlg,EntryList/3/Text,0,환영합니다. 스슈루슬이 당신의 도착을 예고했습니다.
-lizardman,dlg,EntryList/4/Text,0,무더위에 있는 따뜻피는 안전하지 않아.
-lizardman,dlg,EntryList/5/Text,0,건조하고 따뜻하게 유지하기 위해 스케일이 있었으면 좋겠어?
+lizardman,dlg,EntryList/4/Text,0,너희 온혈족이 늪지대를 돌아다니는 건 위험해.
+lizardman,dlg,EntryList/5/Text,0,"몸을 마르게 유지해 줄 비늘이 있었으면 좋겠지 않나, 온혈종?"
 lizardman,dlg,EntryList/6/Text,0,트로글로다이트들은 곧 다시 빨리 공격할 거다.
 lizardman,dlg,EntryList/7/Text,0,트로글로다이트들이 공격하고 있어! 죽여라!
 lizardman,dlg,EntryList/8/Text,0,따뜻한 피의 자식으로서 잘 싸운다
@@ -1981,7 +1981,7 @@ llywillan,dlg,EntryList/2/Text,0,"예, 몇 가지입니다. 준비를 충분히 
 llywillan,dlg,EntryList/3/Text,0,교단원들을 발견하는 즉시 알려드리겠습니다.
 llywillan,dlg,EntryList/4/Text,0,"대화할 시간이 없어, 문에 있다!"
 llywillan,dlg,EntryList/6/Text,0,"가난한 도리안. 그 모든 세월 동안 우리는 함께 싸웠는데, 적어도 그는 몇몇 그 놈의 종파원들을 데리고 갔다."
-llywillan,dlg,EntryList/7/Text,0,숨을 쉬듯이. 여기서 정리하고 나서 시장님께 무슨 일이 일어났는지 말씀해줘야 해.
+llywillan,dlg,EntryList/7/Text,0,하아. 여기서 대충 정리를 마치고 시장에게 무슨 일이 있었는지 알려야겠어.
 llywillan,dlg,EntryList/8/Text,0,다음에 그 광신도들을 만나면 내 몫까지 한 대 걷어차 주라고.
 llywillan,dlg,EntryList/9/Text,0,네가 그 광신도들에게 한 방 먹여주었다고 들었어. 그뿐만 아니라 꽤 멋지게 처리했던데!
 llywillan,dlg,ReplyList/0/Text,0,나도 마찬가지야.
@@ -2026,7 +2026,7 @@ ma,dlg,ReplyList/10/Text,0,이지 오리베에 대해 들어보셨나요?
 ma,dlg,ReplyList/11/Text,0,"괜찮아, 나 가러 갈게."
 ma,dlg,ReplyList/12/Text,0,그들을 보고 죽였어. 날 기습하려던 한심한 시도는 되레 그들에게 역효과를 냈지.
 ma,dlg,ReplyList/13/Text,0,왜 나를 찾고 있어?
-ma,dlg,ReplyList/14/Text,0,나가 그들을 지켜볼게.
+ma,dlg,ReplyList/14/Text,0,내가 그들을 주시할게.
 magnash,dlg,EntryList/0/Text,0,안녕. 왜 여기 왔는지 확실히 모르겠어.
 magnash,dlg,EntryList/1/Text,0,내 이름은 마그나쉬야. 호초크의 건틀릿 용병 길드에서 용병으로 일하고 있지.
 magnash,dlg,EntryList/2/Text,0,저는 상인 패론이 고용한 용병 중 한 명이었습니다. 호홀에서 디임 숲을 거쳐 호초크까지의 여행에서 그와 그의 바그너들을 지키기 위해서요.
@@ -2103,7 +2103,7 @@ misha_cs,dlg,EntryList/3/Text,0,"당신은 미덕스럽고, 아콜리트님, 그
 misha_cs,dlg,ReplyList/0/Text,0,"당신들의 사악한 교단을 부수려 왔으니 무례하게 굴 수밖에. 이게 대체 무슨 짓거리요? 당장 그만두시오. 여사제여, 죽음을 맞이해라!"
 misha_cs,dlg,ReplyList/1/Text,0,"죄송합니다, 여사제님, 하스칼리 울을 체포하는 데 도움을 주고 있었습니다. 저는 이제 제 의무를 수행할 준비가 되었습니다."
 misha_cs,dlg,ReplyList/3/Text,0,'회합' 가운데 앉아라.
-misha_cs,dlg,ReplyList/4/Text,0,여신 앞에 무릎을 꿇으시오.
+misha_cs,dlg,ReplyList/4/Text,0,여사제 앞에 무릎을 꿇어라.
 misha_cs,dlg,ReplyList/5/Text,0,제단에 걸어 가
 misha_cs,dlg,ReplyList/6/Text,0,"미안해, 너무 졸렸어"
 mon_fountain,dlg,EntryList/0/Text,0,"이 수조의 물은 더 이상 흐르지 않음에도 불구하고 놀라울 정도로 깨끗해 보이고 냄새도 좋습니다.
@@ -2127,7 +2127,7 @@ monk_skel2,dlg,ReplyList/0/Text,0,도와줘서 반가워요
 monk_skel3,dlg,EntryList/0/Text,0,괴물이 우리에게 무슨 짓을 했는지 보세요!
 monk_skel3,dlg,ReplyList/0/Text,0,도와줘서 반가워요
 moreton,dlg,EntryList/0/Text,0,여기 계시군요. 강도 수용소에서 왔나 봅니다. 어둠의 잎 강도단의 일원인가요?
-moreton,dlg,EntryList/1/Text,0,"그러나 내 말투에 대해 사과드립니다. 저는 지금 심각한 일에 있습니다. 제 이름은 모레톤 만졸라이고, 호초치의 상인 협회 회장입니다."
+moreton,dlg,EntryList/1/Text,0,"어조가 거칠었다면 사과하지. 하지만 난 아주 진지한 일로 여기에 왔네. 내 이름은 모레톤 만졸라, 호초치 상인 길드의 길드마스터요."
 moreton,dlg,EntryList/2/Text,0,"난 여기로 왔다. 다크리프 강도들이 내게 빚을 지고 있다는 데 증거를 모으기 위해서이고, 그들의 무가치한 지도자를 상대로 내 조직이 협박당하거나 속아서는 안 된다는 것을 보여주기 위해서다."
 moreton,dlg,EntryList/3/Text,0,"길드의 상인을 안전하게 석방해 주는 대가로 몸값을 지불했음에도 포로가 풀려나지 않았습니다. 우리는 금화를 되찾고, 상인을 구출하며, 다크리프 도적단이 우리 길드에 가리키는 위협을 끝내기 위해 왔습니다."
 moreton,dlg,EntryList/4/Text,0,그리고 이지 오리베도 죽은 사람 중 하나였나요?
@@ -2181,7 +2181,7 @@ moreton,dlg,EntryList/55/Text,0,"네, 왜 우리는 주요 경로에서 벗어�
 moreton,dlg,EntryList/56/Text,0,"그래, 남자들은 길을 벗어나는 것에 대해 불안해합니다."
 moreton,dlg,EntryList/57/Text,0,"걱정할 게 없어요, 이 골짜기는 집으로 가는 단속도로입니다. 우리 같은 집단에 대한 최근 공격이 많이 있었던 주요 경로를 유지하는 것보다 더 안전한 경로입니다."
 moreton,dlg,EntryList/58/Text,0,"골목길들은 완전히 안전합니다. 이미 앞을 탐사해봤습니다. 걱정하지 마세요, 올파스님."
-moreton,dlg,EntryList/59/Text,0,"이 계획 변경에 대해 미리 알려주어야 했지, 키린. 이 탐험을 이끌고 있는 것은 누가 아닌가. 하지만 걱정할 필요는 없어 보인다. 계속해, 캡틴."
+moreton,dlg,EntryList/59/Text,0,"이런 계획 변경은 내게 미리 알려주었어야 했다, 키린. 이 원정을 이끄는 게 누군지 잊지 마라. 하지만 걱정할 필요는 없어 보이는군. 계속하게, 캡틴."
 moreton,dlg,EntryList/60/Text,0,"아주 잘, 선생님."
 moreton,dlg,EntryList/61/Text,0,이 경로에 대해 약간 불안해해 보이네요. <FirstName> 올파스와 그의 사람들을 동굴을 따라와 주시겠습니까?
 moreton,dlg,EntryList/63/Text,0,"배신자 키린, 난 너 뒤에서 길거리를 지나가면서 키린을 지나가면서 '내 등을 지켜라'고 말했다."
@@ -2297,7 +2297,7 @@ myron,dlg,EntryList/3/Text,0,지난 1년 동안 많은 사람들이 사라졌어
 myron,dlg,EntryList/4/Text,0,"오... 오, 아니, 이미 너무 많이 말했어. 이런 일에 대해 말하는 것은 너무 위험하다."
 myron,dlg,EntryList/9/Text,0,"<StartAction>[성공]</Start> 오, 오, 오, 오, 오. 아주 잘... 데슬리 씨가 저를 방문해서 말씀하셨어요. 만약 제가 여러분과 이야기한다면, 그는 제 목을 잘라버리겠다고요."
 myron,dlg,EntryList/10/Text,0,"그는 보통 골든 그레인 인에서 경찰관이나 신전의 사제들과 어울리곤 하며, 몇 달 동안 올레인에 머물렀습니다."
-myron,dlg,EntryList/11/Text,0,"난 그를 잘 몰라서, 하지만 그는 나쁜 놈이야, 널 봤자 바로 죽여버릴 거야. 그의 이름만 언급해도 떨리네. 그게 내가 알 수 있는 모든 거야, 솔직히. 부탁이야, 나를 지켜주렴!"
+myron,dlg,EntryList/11/Text,0,"그에 대해 잘 아는 건 아니지만, 아주 지독한 작자야. 눈만 마주쳐도 당장 너를 죽여버릴 걸. 그저 그의 이름만 입에 올리 내가 소름이 돋을 정도라고. 내가 아는 건 이게 다야, 정말이야. 제발, 나를 살려줘!"
 myron,dlg,EntryList/13/Text,0,"<StartAction>[성공]</Start> 오, 오, 오, 오. 데슬리 씨가 저를 방문해서 말씀하셨어요. 만약 제가 여러분과 이야기한다면, 목을 잘라버리겠다고요."
 myron,dlg,EntryList/14/Text,0,"그는 보통 골든 그레인 인에서 경찰관이나 신전의 사제들과 어울리곤 하며, 몇 달 동안 올레인에 머물렀습니다."
 myron,dlg,EntryList/15/Text,0,"저한테는 잘 몰라요, 하지만 못생긴 놈이야, 널 봐서 죽여버릴 거예요."
@@ -2335,7 +2335,7 @@ nadia,dlg,ReplyList/1/Text,0,"네, 그러합니다. 양이 어떤 소리를 내�
 net,dlg,EntryList/0/Text,0,거대한 비둘기들이 이 툴리우그 네트워크에 붙잡혀 잔인하게 굶어 죽게 되었습니다.
 net,dlg,ReplyList/0/Text,0,<StartAction>[ 떠나.]</Start>
 net,dlg,ReplyList/1/Text,0,<StartAction> [네트 제거.]</Start>
-noble,dlg,EntryList/0/Text,0,더 좋은 분들께 방해하지 않아야 한다.
+noble,dlg,EntryList/0/Text,0,어른들 말씀하실 때 끼어드는 게 아니야.
 noble,dlg,EntryList/1/Text,0,제 의복사의 이름을 알고 싶으신가요?
 noble,dlg,EntryList/2/Text,0,"난 청빈자들에게는 주지 않아, 가라."
 noble,dlg,EntryList/3/Text,0,오리베로 마스터에게 제가 아직도 그 보석들을 잘라내기를 기다리고 있다는 것을 상기시켜 주시기 바랍니다. 이 비참한 휴일이 끝나자마자
@@ -2348,7 +2348,7 @@ nowell,dlg,EntryList/1/Text,0,제 아내는 항상 공포에 떨고 있습니다
 nowell,dlg,EntryList/2/Text,0,"난 그녀를 위로하려고 하지만, 지난 해에 너무 많은 이상한 일이 일어났기 때문에, 결국 모든 것이 괜찮아질 거라고 설득할 수 없다."
 nowell,dlg,EntryList/3/Text,0,물론입니다.
 nowell,dlg,EntryList/4/Text,0,트로글로다이트? 그게 뭐예요? 하지만 우리 애들이 지난 몇 달간 뭔가를 무서워하긴 했어요. 젖도 잘 안 나오고 개울로 물을 마시러 내려가려고도 하지 않았어요.
-nowell,dlg,EntryList/6/Text,0,"아니면 좋지 않아, 부인할 수 없지. 최근 몇 달 동안 내 여자들이 우유를 많이 생산하지 않아서이고, 먹는 양도 예전 같지 않아."
+nowell,dlg,EntryList/6/Text,0,"별로 좋지 않아, 부인할 수 없는 사실이지. 내 암소들이 지난 몇 달 동안 우유를 별로 내지 못하고 있고 먹는 것도 예전 같지 않아."
 nowell,dlg,EntryList/7/Text,0,"그게 무언가를 놀라게 한 것 같아. 과거에는 하천으로 내려가서 물을 마시는 걸 좋아했지만, 요즘은 물가에 가까이 가지 못하게 되었다. 그들이 무엇 때문에 그런지 모르겠다."
 nowell,dlg,EntryList/8/Text,0,"그녀는 먼저 외곽 농장의 주인들이 사라지면서 걱정하기 시작했고, 그 다음에도 올레인에서 같은 일이 일어났습니다. 몇 년 동안 이곳에 살았던 사람들이 경고 없이 집을 떠났습니다."
 nowell,dlg,EntryList/9/Text,0,브램블 가족은 수년간 푸밍 무그 인을 운영했으나 어느 날 아침 그 곳은 설명 없이 문이 잠겨 있었다.
@@ -2370,12 +2370,12 @@ nowell_cs,dlg,EntryList/3/Text,0,"메리카의 가호가 있기를, 실비아가
 nowell_cs,dlg,EntryList/4/Text,0,물론입니다.
 nowell_cs,dlg,EntryList/5/Text,0,"도마뱀 같은 생물들? 뭐가 뜻이야? 내 여자들이 지난 몇 달 동안 무언가에 두려워하긴 했어. 우유가 잘 나오지 않았고, 하천으로 내려가서 마시지도 않았어."
 nowell_cs,dlg,EntryList/7/Text,0,물론입니다.
-nowell_cs,dlg,EntryList/8/Text,0,"아니면 좋지 않아, 부인할 수 없지. 최근 몇 달 동안 내 여자들이 우유를 많이 생산하지 않아서이고, 먹는 양도 예전 같지 않아."
+nowell_cs,dlg,EntryList/8/Text,0,"별로 좋지 않아, 부인할 수 없는 사실이지. 내 암소들이 지난 몇 달 동안 우유를 별로 내지 못하고 있고 먹는 것도 예전 같지 않아."
 nowell_cs,dlg,EntryList/9/Text,0,"그게 무언가를 놀라게 한 것 같아. 과거에는 하천으로 내려가서 물을 마시는 걸 좋아했지만, 요즘은 물가에 가까이 가지 못하게 되었다. 그들이 무엇 때문에 그런지 모르겠다."
 nowell_cs,dlg,EntryList/10/Text,0,"그녀는 먼저 외곽 농장의 주인들이 사라지면서 걱정하기 시작했고, 그 다음에도 올레인에서 같은 일이 일어났습니다. 몇 년 동안 이곳에 살았던 사람들이 경고 없이 집을 떠났습니다."
 nowell_cs,dlg,EntryList/11/Text,0,브램블 가족은 수년간 푸밍 무그 인을 운영했으나 어느 날 아침 그 곳은 설명 없이 문이 잠겨 있었다.
 nowell_cs,dlg,EntryList/12/Text,0,"내 좋은 아내도 마을 주민들 중 몇몇이 '변화'했다고 생각한다. 그녀는 지난 주 마을 상점에서 있었는데, 마치 윈리프레드와 토비아스가 그녀를 본 적이 없는 것 같다고 말했다. 나는 이 상황을 어떻게 해석해야 할지 모르지만, 최근 몇 달 동안 마을 분위기는 확실히 나빠진 것 같다."
-nowell_cs,dlg,EntryList/13/Text,0,"아니면 좋지 않아, 부인할 수 없지. 최근 몇 달 동안 내 여자들이 우유를 많이 생산하지 않아서이고, 먹는 양도 예전 같지 않아."
+nowell_cs,dlg,EntryList/13/Text,0,"별로 좋지 않아, 부인할 수 없는 사실이지. 내 암소들이 지난 몇 달 동안 우유를 별로 내지 못하고 있고 먹는 것도 예전 같지 않아."
 nowell_cs,dlg,EntryList/14/Text,0,"그게 무언가를 놀라게 한 것 같아. 과거에는 하천으로 내려가서 물을 마시는 걸 좋아했지만, 요즘은 물가에 가까이 가지 못하게 되었다. 그들이 무엇 때문에 그런지 모르겠다."
 nowell_cs,dlg,EntryList/15/Text,0,그녀가 걱정하기 시작한 것은 외곽 농장의 소유자들이 갑작스럽게 사라진 때였습니다. 그런 다음 올레인에서도 같은 일이 벌어졌습니다. 오랜 세월 이곳에 살던 사람들이 밤새서 떠나버렸습니다.
 nowell_cs,dlg,EntryList/16/Text,0,브램블 가족은 수년간 푸밍 무그 인을 운영했으나 어느 날 아침 그 곳은 설명 없이 문이 잠겨 있었다.
@@ -2397,7 +2397,7 @@ nowell_cs,dlg,ReplyList/17/Text,0,사업은 좀 어떠신가요?
 nowell_cs,dlg,ReplyList/19/Text,0,아주 특이한 것 같아요.
 nowell_cs,dlg,ReplyList/20/Text,0,다른 질문 하나 해볼까요?
 nowell_cs,dlg,ReplyList/21/Text,0,왜 아내가 이렇게 두려워졌나?
-oakman,dlg,EntryList/0/Text,0,"다름의 이름으로, 여기서 뭐하는 거야, 떠들썩한 멍청이!"
+oakman,dlg,EntryList/0/Text,0,"다름의 이름으로 여기서 뭐 하는 거야, 이 말도 안 되는 멍청아!"
 oakman,dlg,EntryList/1/Text,0,"내 말 못 들었어? 귀에 스터지 똥이라도 찼나? 넌 누구고, 여기서 뭘 하고 있지?"
 oakman,dlg,EntryList/2/Text,0,내 말 들어본 적 없어 귀가 찌꺼기로 가득 차 있어?
 oakman,dlg,EntryList/4/Text,0,"<StartCheck>[실패]</Start> 당신은 당신의 모욕을 작업해야합니다, <lad/lass>, 그것은 달 동안 누가 나에게 말한 가장 친절한 일이었습니다."
@@ -2421,7 +2421,7 @@ oakman,dlg,ReplyList/9/Text,0,식욕이 없어. 시간을 주셔서 감사합니
 oakman,dlg,ReplyList/10/Text,0,"아주 좋아, 좀 사고 싶어요."
 oakman,dlg,ReplyList/11/Text,0,난 당신에게 해를 끼치려고 하지 않으니 걱정하지 마십시오.
 oakman,dlg,ReplyList/12/Text,0,상관없어
-oakman,dlg,ReplyList/13/Text,0,적어도 더 못생겼으면 좋겠어. 뵙겠습니다.
+oakman,dlg,ReplyList/13/Text,0,적어도 더 못생겨질 수는 있겠군. 나중에 보지.
 oakman,dlg,ReplyList/14/Text,0,환영합니다.
 olfas,dlg,EntryList/0/Text,0,맨솔라 씨가 다른 말을 하지 않는 한 숲은 당신 같은 사람들에게 금지되어 있습니다.
 olfas,dlg,EntryList/1/Text,0,젠장! 나와 부하들은 그 산적 쓰레기들에게 본때를 보여줄 생각에 들떠 있었는데.
@@ -2445,7 +2445,7 @@ orboftesting,dlg,EntryList/3/Text,0,어느 쪽이냐?
 orboftesting,dlg,EntryList/4/Text,0,물론입니다. 어디로 가시겠습니까?
 orboftesting,dlg,ReplyList/0/Text,0,아무 것도 필요 없어요.
 orboftesting,dlg,ReplyList/1/Text,0,무기를 가져와
-orboftesting,dlg,ReplyList/2/Text,0,한계인의 인벤토리를 복사해
+orboftesting,dlg,ReplyList/2/Text,0,용병 인벤토리 복사.
 orboftesting,dlg,ReplyList/3/Text,0,휴식
 orboftesting,dlg,ReplyList/4/Text,0,경험치 5000 주세요
 orboftesting,dlg,ReplyList/5/Text,0,보물 목록 보기!
@@ -2495,7 +2495,7 @@ orboftesting,dlg,ReplyList/49/Text,0,러시모어스 남부
 orboftesting,dlg,ReplyList/50/Text,0,메리카 신전에서 안전합니다.
 orboftesting,dlg,ReplyList/51/Text,0,메리카 신전 경찰관
 orboftesting,dlg,ReplyList/52/Text,0,3레벨 라이어
-orboftesting,dlg,ReplyList/53/Text,0,1레벨 라이어 (입구)
+orboftesting,dlg,ReplyList/53/Text,0,소굴 1층 (입구)
 orboftesting,dlg,ReplyList/54/Text,0,1레벨 (블레이즈)
 orboftesting,dlg,ReplyList/55/Text,0,나무 구멍.
 orboftesting,dlg,ReplyList/56/Text,0,덤 숲 동굴
@@ -2503,7 +2503,7 @@ oswald,dlg,EntryList/0/Text,0,날 구해줘서 고마워
 oswald,dlg,EntryList/1/Text,0,"난 살아남을 거야, 하지만 이렇게 겨지는 것은 내 등에 큰 파장을 끼칠 거야"
 oswald,dlg,EntryList/2/Text,0,"올레인의 메리카 신전에서 정원을 유지하는데 도움을 주었었는데, 그 때 사제들은 실제로 아름다운 정원을 갖기 위해 노력했습니다."
 oswald,dlg,EntryList/3/Text,0,"몇 달 전부터 모두 이상하게 굴기 시작했고, 저를 이상한 시선으로 바라보며, 제가 지나갈 때마다 서로 속삭였습니다."
-oswald,dlg,EntryList/4/Text,0,"어느 날 밤, 다섯 명의 사제들이 방으로 들어와 저를 차고에 끌고 이곳으로 데려왔습니다. 그들은 몇 주 동안 저는 진흙 속에 갇힌 채, 냄새가 나는 트로그들에 의해 보호받았습니다."
+oswald,dlg,EntryList/4/Text,0,"어느 날 밤, 다섯 명의 사제가 방으로 들이닥쳐 나를 마차에 끌고 이곳으로 데려왔어. 그들은 냄새 나는 트로그들이 지키는 진흙탕 감옥에 나를 몇 주 동안 가두어 두었지."
 oswald,dlg,EntryList/5/Text,0,"어쨌든, 며칠 전, 그들은 저를 이 장소의 깊은 곳으로 데려가서 지하 호수를 건너갔습니다."
 oswald,dlg,EntryList/6/Text,0,호수의 한가운데에는 섬이 있었고 그 섬에는 상상할 수 있는 가장 무서운 생명체가 있었습니다.
 oswald,dlg,EntryList/7/Text,0,"트로글로다이트들은 모두 그녀 앞에 엎드렸고 나를 그녀 쪽으로 떠밀었다. 하지만 그녀는 나를 제물로 별로 대수롭지 않게 여기는 듯했고, 성난 쉭쉭 소리를 몇 번 내더니 미끄러지듯 사라졌다."
@@ -2797,10 +2797,10 @@ slaargh,dlg,EntryList/5/Text,0,"예스스. 여기부터 남동쪽으로 여행�
 slaargh,dlg,EntryList/6/Text,0,"예스스. 그들은 우리를 무시하고 심지어는 때로는 거래하기도 했지만, 오랜 달이 지나서 바뀌었어."
 slaargh,dlg,EntryList/7/Text,0,"그들은 그들의 신이 그들에게 말을 하였으며, 우리 성벽이 그들에게 넘겨져야 한다고 요구하였고, 나에게 그들의 신에게 충성을 맹세하도록 명령하였다."
 slaargh,dlg,EntryList/8/Text,0,저는 거절했고 그 이후로 그들은 늘어나고 있습니다. 그들은 우리를 공격하고 있습니다. 그들은 벽을 두 번이나 침해하고 있습니다.
-slaargh,dlg,EntryList/9/Text,0,"참신한 전사님, 그들은 우리 적을 물리치기 위해 당신과 함께 싸울 거예요!"
+slaargh,dlg,EntryList/9/Text,0,"환영할 만한 정보군요, 용감한 전사님. 그들이 우리의 적을 물리치기 위해 당신과 함께 싸울 것입니다!"
 slaargh,dlg,EntryList/10/Text,0,"당신은 어리석은 따뜻한 혈통이지만 조심하라! 트로글로다이트들은 많은 수로, 최근에는 많은 따뜻한 혈통들이 그들의 둥지에 들어갔으며, 심지어 습지의 뱀들과 도마뱀들조차도 그들의 통제 아래에 있는 것 같아."
 slaargh,dlg,EntryList/11/Text,0,"용기 있는 따뜻한 혈류가 되지만 조심하세요! 트로글로다이트는 많고 최근에는 많은 따뜻한 혈류가 그들의 유적에 들어왔고, 습지의 뱀과 도마뱀들조차도 그들의 통제하에 있는 것 같습니다."
-slaargh,dlg,EntryList/12/Text,0,"참신한 전사님, 그들은 우리 적을 물리치기 위해 당신과 함께 싸울 거예요!"
+slaargh,dlg,EntryList/12/Text,0,"환영할 만한 정보군요, 용감한 전사님. 그들이 우리의 적을 물리치기 위해 당신과 함께 싸울 것입니다!"
 slaargh,dlg,EntryList/13/Text,0,모든 거북이들은 물로 가득한 동굴에서 온혈을 먹고 살지 못해
 slaargh,dlg,EntryList/14/Text,0,"뭐야, 온혈?"
 slaargh,dlg,EntryList/15/Text,0,빠르게 벽의 구멍을 메우라! 우리는 공격을 받고 있다!
@@ -2816,7 +2816,7 @@ slaargh,dlg,ReplyList/3/Text,0,여기서 잠시 쉴 수 있나요?
 slaargh,dlg,ReplyList/4/Text,0,교환할 것이 있나요?
 slaargh,dlg,ReplyList/5/Text,0,트로글로다이트들의 동굴은 어디에 있는지 아세요?
 slaargh,dlg,ReplyList/6/Text,0,트로글로다이트들이 문제를 일으켜주셨나요?
-slaargh,dlg,ReplyList/9/Text,0,"난 유글루쉬를 만났습니다. 거북이 신의 둔장 깊숙이 들어가서, 당신 부족의 다른 구성원들과 함께 그를 해방시켰습니다."
+slaargh,dlg,ReplyList/9/Text,0,"난 파충류 신의 소굴 깊은 곳에서 유글루쉬를 만났고, 당신 부족의 다른 이들과 함께 그를 구해냈습니다."
 slaargh,dlg,ReplyList/10/Text,0,"트로글로다이트, 뱀파이어족... 어떤 차이를 볼 수 있는지 확실하지 않아."
 slaargh,dlg,ReplyList/11/Text,0,트로글로디트 군대와 그들의 거짓 신을 파괴하려고 합니다.
 slaargh,dlg,ReplyList/12/Text,0,"난 당신의 보디가드 우글러쉬를 유황 신의 유굴 속에서 만났고, 다른 부족원들과 함께 그를 해방시켰다."
@@ -2869,7 +2869,7 @@ test_align,dlg,ReplyList/7/Text,0,"<StartAction>좋은</Start> 나는 양심의 
 test_book,dlg,EntryList/3/Text,0,하데스의 회색 폐허는 그 안에 들어가는 사람들의 힘과 의지를 약화시킵니다.
 test_book,dlg,EntryList/4/Text,0,롤스는 어비스의 66번째 층인 데몬웹 피트를 다스린다.
 test_book,dlg,EntryList/5/Text,0,판데모니움의 광성 나는 바람은 사람을 미쳐버리게 만들 것이다!
-test_book,dlg,EntryList/6/Text,0,아이디얼릭 엘리시움의 축복!
+test_book,dlg,EntryList/6/Text,0,목가적인 엘리시움의 축복!
 test_book,dlg,EntryList/7/Text,0,"셀레스티아 또는 일곱 하늘은 법과 선의 상징이며,"
 test_book,dlg,EntryList/8/Text,0,"림보는 혼란의 평면으로, 악몽적인 생물들이 거주하고 있습니다."
 test_book,dlg,EntryList/9/Text,0,아르보레아는 자연의 정령들이 지키는 아름다운 자연 차원이다. 신화와 영웅담이 깃든 곳으로 이야기와 노래가 가득하다.
@@ -2948,7 +2948,7 @@ townskid,dlg,EntryList/3/Text,0,낯선 사람인가요?
 townskid,dlg,EntryList/4/Text,0,나는 고양이를 키워요.
 townskid,dlg,EntryList/5/Text,0,엄마가 내가 나쁜 짓을 하면 숲에서 혼자 남겨두겠다고 말했어.
 townsperson,dlg,EntryList/0/Text,0,좋은 날씨가 있어?
-townsperson,dlg,EntryList/1/Text,0,"보아도, 상인협회는 '팔목장갑' 용병협회로부터 보호 인원 수를 늘리기 위해 고용하고 있습니다."
+townsperson,dlg,EntryList/1/Text,0,보아하니 상인 길드에서 마차 호위 인원을 늘리기 위해 '건틀릿' 용병 길드로부터 사람들을 고용하고 있는 모양이다.
 townsperson,dlg,EntryList/2/Text,0,세상 주인이라도 된 것처럼 거만하게 서 있는 저 귀족들을 보았는가?
 townsperson,dlg,EntryList/3/Text,0,상인 조합의 경비원 한 명이 있습니다. 지난 몇 달 동안 숲에서 적어도 6개의 바그인이 사라졌다고 생각하죠.
 townsperson,dlg,EntryList/4/Text,0,오라네에서 식량 부족이 있는 게 사실인가요?
@@ -2965,7 +2965,7 @@ twiddle,dlg,EntryList/1/Text,0,"에스메랄드를 찾았어 고마워요, 애�
 uglush,dlg,EntryList/0/Text,0,"내버려두지 마, 온혈아."
 uglush,dlg,EntryList/1/Text,0,"감사합니다, 온혈사님, 당신의 기자회견은 놀라웠지만, 환영합니다."
 uglush,dlg,EntryList/2/Text,0,"그는 내 부족의 지도자고, 습지를 여행했다면 우리 캠프를 보지 못했다는 것은 놀랍다."
-uglush,dlg,EntryList/3/Text,0,트로그스는 최근 우리 캠프를 빼앗아가며 우리 부족의 많은 사람들을 포로로 잡아가고 있습니다.
+uglush,dlg,EntryList/3/Text,0,트로그들은 최근 우리 캠프를 습격하여 많은 부족민을 포로로 잡아갔습니다.
 uglush,dlg,EntryList/4/Text,0,하지만 이제 그들의 위협을 해소할 기회가 있습니다. 그들의 유적은 여기서 멀지 않습니다.
 uglush,dlg,EntryList/5/Text,0,스슬라아르크가 000아직 살아 있나? 나는 지하에 갇혀서 그를 지켜주지 못해 무력할 뿐이었다.
 uglush,dlg,EntryList/6/Text,0,그럼 트로그스에 대한 우리만의 습격을 해보자. 그들을 놀라게 해. 그들의 유적은 여기 멀지 않습니다. 우리는 그들과 함께 그들의 캠프에 공격하고 그들의 지도자를 죽일 것입니다!
@@ -3121,7 +3121,7 @@ winifred,dlg,ReplyList/5/Text,0,"듣기, 딸이 곤경에 빠진다면, 도와�
 winifred,dlg,ReplyList/6/Text,0,- 잘 됐어
 wolf1,dlg,EntryList/0/Text,0,*스나럴*
 wolf2,dlg,EntryList/0/Text,0,*Grrrr*
-wolf2,dlg,EntryList/1/Text,0,"*그르르.* 나 혼자 있게 해, 나는 경비 중이야."
+wolf2,dlg,EntryList/1/Text,0,"*그르르.* 혼자 내버려둬, 경비 서는 중이니까."
 wolf_temple,dlg,EntryList/0/Text,0,그르르. 네가 내 전직 주인보다 더 유능해 보이네. 나는 좀 더 따라갈까....
 wylie,dlg,EntryList/0/Text,0,네가 원하는 게 뭐냐? 네 것이 아닌 건 그 도둑질하는 손모가지를 치워라.
 wylie,dlg,EntryList/1/Text,0,제프 공작국의 상인들은 또한 궁금했습니다.
@@ -3181,14 +3181,14 @@ zakarias,dlg,EntryList/17/Text,0,저는 금단의 가공장과 일반 상점의 
 zakarias,dlg,EntryList/18/Text,0,"하지만, 저는 이미 두 명의 전직 모험 동료를 올레인으로 초대해 이 악의 뿌리를 뽑아내기 위해 도움을 청했습니다."
 zakarias,dlg,EntryList/19/Text,0,도리안과 류일란이라고 부르고 홀리하크 코테이지에 머물고 있어요. 정보 공유가 도움이 될 수 있다고 말씀해 주세요.
 zakarias,dlg,EntryList/20/Text,0,도리안과 류일란이라고 부르고 홀리하크 코테이지에 머물고 있어요. 정보 공유가 도움이 될 수 있다고 말씀해 주세요.
-zakarias,dlg,EntryList/21/Text,0,"훌륭해, 그러면 더 이상 말하지 않을 거야."
+zakarias,dlg,EntryList/21/Text,0,"좋아, 그렇다면 더 이상 너를 붙잡아두지 않겠다."
 zakarias,dlg,EntryList/24/Text,0,"잘했어, <FirstName>. 신앙집단이 주얼러와 그의 아내를 납치하려는 시도는 좌절됐어!"
 zakarias,dlg,EntryList/25/Text,0,"저는 도리안과 류빌란과 이 문제를 논의했습니다. 그리고 우리는 교단에 대한 반격이 시작될 때라는 것에 동의했습니다. 그들은 실패한 납치 시도로 인해 혼란스러워하고 있을 것이며, 적어도 일시적으로 그들의 숫자가 줄어들었을 것입니다."
 zakarias,dlg,EntryList/27/Text,0,"적색 가운은 납치 시도에 참여한 사제 한 명에게서 회수되었다. 이를 착용하면 성전의 주요 문을 통과할 만큼 충분히 은폐될 수 있지만, 더 멀리 가지 못할 것 같다."
-zakarias,dlg,EntryList/28/Text,0,안에 들어가면 거기서 벌어지고 있는 일을 조사하고 남은 종파 활동을 뿌리치지 않고 제거하길 원합니다. 저는 고위 사제와 성녀가 오래 전부터 종파에 의해 개종되었을 거라고 확신합니다. 만약 그들을 죽여야 한다면 그렇게 해야겠죠.
-zakarias,dlg,EntryList/29/Text,0,그리고 신파의 운영을 지휘하는 사람들과 관련된 어떤 것이라도 찾을 수 있다면 훨씬 더 좋습니다.
+zakarias,dlg,EntryList/28/Text,0,"안으로 들어가서 무슨 일이 벌어지고 있는지 조사하고, 남은 광신도 집단의 활동을 소탕해 주기 바랍니다. 고위 사제와 여사제는 이미 오래전에 그 광신도들에게 포섭되었을 게 분명하니, 만약 그들을 죽여야 한다면... 어쩔 수 없지."
+zakarias,dlg,EntryList/29/Text,0,그리고 교단의 활동을 지휘하는 자들과 관련된 무언가를 찾을 수 있다면 더욱 좋을 것입니다.
 zakarias,dlg,EntryList/30/Text,0,"만약 도와줄 수 있다면, 도와드릴게."
-zakarias,dlg,EntryList/31/Text,0,당신이 사용할 수 있는 무기를 래프에서 가져갈 수 있습니다. 또한 모험의 날 동안 수집한 몇 가지 보물을 모아 놓았습니다. 보러 가시겠습니까?
+zakarias,dlg,EntryList/31/Text,0,필요한 무기가 있다면 진열대에서 아무거나 가져가도 좋다. 내 모험 시절에 모아둔 보물들도 좀 있지. 구경해 보겠나?
 zakarias,dlg,EntryList/32/Text,0,"메리카 신전의 주요 문을 통과할 수 있어야 한다. 나는 준 붉은 사제 가운을 입고 들어가서, 거기서 일어나고 있는 일들을 조사하고 남은 사교 활동을 뿌리친다."
 zakarias,dlg,EntryList/33/Text,0,"메리카는 수확의 여신이며, 오르레인 설립 이후로 그녀를 위한 사원이 세워져 있습니다."
 zakarias,dlg,EntryList/34/Text,0,하지만 대제사장 아브라모와 여사제 미사데비가 거의 1년 전 순례로 떠났다.
@@ -3230,7 +3230,7 @@ zakarias,dlg,ReplyList/21/Text,0,자카리아스 시장님 감사합니다. 저�
 zakarias,dlg,ReplyList/22/Text,0,좋은 <day/night>.
 zakarias,dlg,ReplyList/23/Text,0,- 잘 됐어
 zakarias,dlg,ReplyList/27/Text,0,됐어.
-zakarias,dlg,ReplyList/28/Text,0,물론이죠. 아마 그럴 거야. 성전에서 제 주자가 어디 있는지 알 수 있을지도 몰라. 뭘 해야 하나?
+zakarias,dlg,ReplyList/28/Text,0,물론이죠. 성전에 제 주인의 행방에 대한 단서가 남아있을지도 몰라요. 제가 뭘 해야 하죠?
 zakarias,dlg,ReplyList/31/Text,0,- 잘 됐어
 zakarias,dlg,ReplyList/32/Text,0,몇 가지 질문이 있어
 zakarias,dlg,ReplyList/33/Text,0,"그건 다야, 고마워."
@@ -3362,7 +3362,7 @@ alicorncaves,git,Creature List/6/FirstName,0,박쥐
 alicorncaves,git,Creature List/6/Description,0,"이 날개를 달고 있는 야생 설치류는 본인들만의 관점에서 위협적으로 여겨지지 않지만, 전통적인 민속에서는 뱀파이어와 무덤 속의 존재와 연관되어 있습니다."
 alicorncaves,git,Creature List/7/FirstName,0,비세일리 요정
 alicorncaves,git,Creature List/7/Description,0,"선자질의 시리 요정들, 예를 들어, 픽시와 스프리트, 비시리 요정들 은 왜곡되고 악한 사촌들 이다. 그들은 곤충 날개, 긴 얇은 팔, 넓은, 큰 코의 얼굴을 가지고 있다. 그들은 더 친절한 요정 사람들을 괴롭히는 것을 즐기고, 자연적으로 분비된 독으로 그들의 주변을 오염시키고, 그들의 서식지를 공유할 만큼 불행한 사람들을 독성한다."
-alicorncaves,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,스프리건 갑옷
+alicorncaves,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,스프리건 가죽
 alicorncaves,git,Creature List/8/FirstName,0,스카우트
 alicorncaves,git,Creature List/8/Description,0,"이 시체의 옷은 모레톤 만졸라의 스카우트 중 한 명임을 나타내고 있으며, 시체는 아직 따뜻하지만 이미 부분적으로 먹힌 상태입니다."
 alicorncaves,git,Creature List/8/ItemList/2/LocalizedName,0,수드롭
@@ -3477,7 +3477,7 @@ alicorncaves,git,Placeable List/90/LocName,0,부시 - 풀 덤불 01
 alicorncaves,git,Placeable List/91/LocName,0,부시 - 풀 덤불 01
 alicorncaves,git,Placeable List/92/LocName,0,부시 - 풀 덤불 01
 alicorncaves,git,Placeable List/93/LocName,0,부시 - 풀 덤불 01
-area,git,Creature List/0/FirstName,0,올파스 대령
+area,git,Creature List/0/FirstName,0,올파스 대위
 area,git,Creature List/0/Description,0,"이 참전 용사는 호초크 상인 조합에 의해 고용된 것을 나타내는 상징으로 장식된 갑옷을 착용하고 있으며, 그는 엄격하고 확신에 차 있는 태도를 보이지만, 약간 웃음이 나올 만한 머리결로 망쳐진다."
 area,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,올파스의 판금
 area,git,Creature List/1/FirstName,0,상인 협회 경비병
@@ -3648,9 +3648,9 @@ area,git,WaypointList/61/LocalizedName,0,지도 설명
 area,git,WaypointList/61/MapNote,0,숲 개방지
 area,git,WaypointList/62/MapNote,0,참나무 숲
 area,git,Placeable List/13/LocName,0,뼈
-area,git,Placeable List/13/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+area,git,Placeable List/13/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 area,git,Placeable List/14/LocName,0,뼈
-area,git,Placeable List/14/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+area,git,Placeable List/14/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 area,git,Placeable List/14/ItemList/1/LocalizedName,0,금화
 area,git,Placeable List/15/LocName,0,시체 쌓임
 area,git,Placeable List/15/Description,0,"이 시체는 심각하게 부패해 있다. 하지만 근처의 사스키야 식물은 영양분을 쉽게 흡수하고 있으며, 식물의 작은 가지들이 부패하는 몸 안에서 자라고 있는 것 같다."
@@ -3701,7 +3701,7 @@ area,git,Placeable List/76/ItemList/1/Description,0,이 작고 달콤한 주황�
 area001,git,Creature List/0/FirstName,0,부진 한 여행자
 area001,git,Creature List/1/FirstName,0,강도
 area001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,산적 스터디드
-area001,git,Creature List/1/Equip_ItemList/0/Description,0,다임 숲의 다크리프 강도들이 착용한 갈라진 가죽 갑옷
+area001,git,Creature List/1/Equip_ItemList/0/Description,0,딤 숲의 다크리프 강도들이 착용하는 가죽 누비 갑옷.
 area001,git,WaypointList/0/LocalizedName,0,이정표
 area001,git,WaypointList/1/LocalizedName,0,이정표
 area001,git,WaypointList/2/LocalizedName,0,이정표
@@ -3853,7 +3853,7 @@ area002,git,Placeable List/19/LocName,0,매복 제어자
 area002,git,Placeable List/21/LocName,0,비바람에 바랜 간판
 area002,git,Placeable List/21/Description,0,"이 돌 위의 글자들은 침식된 잡초로 가려져 있으며, 요소들에 의해 희미해졌지만, '폰텐미어 애비'라는 단어는 여전히 보일 정도이다."
 area002,git,Placeable List/44/Description,0,"햇빛에 의해 흰색으로 된 인간 뼈의 덩어리가 바닥에 누워 있으며, 가장 날카로운 눈을 제외한 모든 사람들에게는 그 주위에 튀어나온 다이아지들에 의해 감춰져 있습니다."
-area002,git,Placeable List/45/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+area002,git,Placeable List/45/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 area002,git,Placeable List/46/LocName,0,선드롭 관목
 area002,git,Placeable List/46/Description,0,이 작은 관목에는 잎사귀 깊숙이 작은 오렌지색 과실이 자라고 있습니다.
 area002,git,Placeable List/46/ItemList/0/LocalizedName,0,수드롭
@@ -3877,7 +3877,7 @@ area003,git,Creature List/1/Description,0,이 도블린의 표기들은 숲에�
 area003,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,현혹된 생명체의 피부
 area003,git,Door List/0/LocName,0,문
 area003,git,Door List/1/LocName,0,문
-area003,git,Door List/1/Description,0,"이 간단한 문은 거친 나무로 만들어져 있으며, 부적절한 핀계에 달려 있다."
+area003,git,Door List/1/Description,0,거칠게 다듬은 나무로 만든 이 수수한 문은 아귀가 맞지 않는 경첩에 매달려 있다.
 area003,git,Door List/2/LocName,0,문
 area003,git,SoundList/0/LocName,0,벽난로와 팬티스
 area003,git,Placeable List/13/LocName,0,빈 통
@@ -3899,7 +3899,7 @@ area003,git,Placeable List/35/LocName,0,빈 통
 area003,git,Placeable List/36/LocName,0,빈 통
 area004,git,Placeable List/4/LocName,0,요리장
 area004,git,Placeable List/4/Description,0,이 철 냄비에서 나는 냄새는 구역질나게 나옵니다.
-area004,git,Placeable List/4/ItemList/0/LocalizedName,0,고블린 스텔우
+area004,git,Placeable List/4/ItemList/0/LocalizedName,0,고블린 스튜
 area004,git,Placeable List/4/ItemList/0/Description,0,이 작은 요리 냄비에는 당신이 본 적이 있거나 냄새가 맡은 가장 혐오스러운 튀김이 들어 있습니다.
 area004,git,Placeable List/7/LocName,0,빈 통
 area004,git,Placeable List/8/LocName,0,빈 상자 1
@@ -4014,17 +4014,17 @@ area007,git,Creature List/4/Description,0,"이 거미 크기의 생물 은 녹�
 area007,git,Encounter List/0/LocalizedName,0,마비식물
 area007,git,SoundList/0/LocName,0,블러드하크
 area007,git,StoreList/0/LocName,0,오크먼 상점
-area007,git,StoreList/0/StoreList/4/ItemList/0/LocalizedName,0,모시 케이크
+area007,git,StoreList/0/StoreList/4/ItemList/0/LocalizedName,0,이끼 케이크
 area007,git,StoreList/0/StoreList/4/ItemList/0/DescIdentified,0,"이 작은 갈색 케이크는 이끼와 버섯으로 만든다. 이끼 케이크의 효능은 재료를 어떻게 섞었느냐에 따라 크게 다르므로, 효과를 알아내는 유일한 방법은 먹어 보는 것이다."
-area007,git,StoreList/0/StoreList/4/ItemList/1/LocalizedName,0,모시 케이크
+area007,git,StoreList/0/StoreList/4/ItemList/1/LocalizedName,0,이끼 케이크
 area007,git,StoreList/0/StoreList/4/ItemList/1/DescIdentified,0,"이 작은 갈색 케이크는 이끼와 버섯으로 만든다. 이끼 케이크의 효능은 재료를 어떻게 섞었느냐에 따라 크게 다르므로, 효과를 알아내는 유일한 방법은 먹어 보는 것이다."
-area007,git,StoreList/0/StoreList/4/ItemList/2/LocalizedName,0,모시 케이크
+area007,git,StoreList/0/StoreList/4/ItemList/2/LocalizedName,0,이끼 케이크
 area007,git,StoreList/0/StoreList/4/ItemList/2/DescIdentified,0,"이 작은 갈색 케이크는 이끼와 버섯으로 만든다. 이끼 케이크의 효능은 재료를 어떻게 섞었느냐에 따라 크게 다르므로, 효과를 알아내는 유일한 방법은 먹어 보는 것이다."
-area007,git,StoreList/0/StoreList/4/ItemList/3/LocalizedName,0,모시 케이크
+area007,git,StoreList/0/StoreList/4/ItemList/3/LocalizedName,0,이끼 케이크
 area007,git,StoreList/0/StoreList/4/ItemList/3/DescIdentified,0,"이 작은 갈색 케이크는 이끼와 버섯으로 만든다. 이끼 케이크의 효능은 재료를 어떻게 섞었느냐에 따라 크게 다르므로, 효과를 알아내는 유일한 방법은 먹어 보는 것이다."
-area007,git,StoreList/0/StoreList/4/ItemList/4/LocalizedName,0,모시 케이크
+area007,git,StoreList/0/StoreList/4/ItemList/4/LocalizedName,0,이끼 케이크
 area007,git,StoreList/0/StoreList/4/ItemList/4/DescIdentified,0,"이 작은 갈색 케이크는 이끼와 버섯으로 만든다. 이끼 케이크의 효능은 재료를 어떻게 섞었느냐에 따라 크게 다르므로, 효과를 알아내는 유일한 방법은 먹어 보는 것이다."
-area007,git,StoreList/0/StoreList/4/ItemList/5/LocalizedName,0,모시 케이크
+area007,git,StoreList/0/StoreList/4/ItemList/5/LocalizedName,0,이끼 케이크
 area007,git,StoreList/0/StoreList/4/ItemList/5/DescIdentified,0,"이 작은 갈색 케이크는 이끼와 버섯으로 만든다. 이끼 케이크의 효능은 재료를 어떻게 섞었느냐에 따라 크게 다르므로, 효과를 알아내는 유일한 방법은 먹어 보는 것이다."
 area007,git,TriggerList/0/LocalizedName,0,새로운 일반제
 area007,git,TriggerList/8/LocalizedName,0,새로운 일반제
@@ -4041,7 +4041,7 @@ area007,git,Placeable List/37/LocName,0,페이스 마스크
 area007,git,Placeable List/39/LocName,0,가시 벽
 area007,git,Placeable List/41/LocName,0,불꽃 마크
 area007,git,Placeable List/43/LocName,0,페이스 마스크
-area007,git,Placeable List/50/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+area007,git,Placeable List/50/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 area007,git,Placeable List/51/LocName,0,로완 나무
 area007,git,Placeable List/51/Description,0,"로반은 흰색 꽃 때문에 요정 나무로 알려져 있다. '스피커'라는 대체 명칭은 약초학자들이 이 나무에 부여하는 '스피커' 또는 생명을 주는 힘을 가리킨다. 민속에서는 로반을 마녀와 마법으로부터 보호하는 나무로 묘사하고 있으며, 이 나무의 주민들이 피해를 입지 않은 몇 가지 나무 중 하나로서, 아마도 bunda 약간의 진실이 있습니다."
 area007,git,Placeable List/51/ItemList/0/LocalizedName,0,로완 베리
@@ -4084,17 +4084,17 @@ area009,git,Placeable List/51/ItemList/2/DescIdentified,0,"이 미세한 파우�
 banditcamp,git,Creature List/0/FirstName,0,강도
 banditcamp,git,Creature List/0/Description,0,이 강도들은 다크리프 강도들이죠. 이 강도들은 당신을 잡은 커플 중 한 명처럼 보입니다.
 banditcamp,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,산적 스터디드
-banditcamp,git,Creature List/0/Equip_ItemList/0/Description,0,다임 숲의 다크리프 강도들이 착용한 갈라진 가죽 갑옷
+banditcamp,git,Creature List/0/Equip_ItemList/0/Description,0,딤 숲의 다크리프 강도들이 착용하는 가죽 누비 갑옷.
 banditcamp,git,Creature List/1/FirstName,0,강도
 banditcamp,git,Creature List/1/Description,0,이 강도들은 다크리프 강도들이죠. 이 강도들은 시트처럼 생겼습니다.
 banditcamp,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,산적 스터디드
-banditcamp,git,Creature List/1/Equip_ItemList/0/Description,0,다임 숲의 다크리프 강도들이 착용한 갈라진 가죽 갑옷
+banditcamp,git,Creature List/1/Equip_ItemList/0/Description,0,딤 숲의 다크리프 강도들이 착용하는 가죽 누비 갑옷.
 banditcamp,git,Creature List/2/FirstName,0,괴물
 banditcamp,git,Creature List/2/Description,0,이 도블린의 표기들은 숲에서 온 레드 스타 부족에 대한 충성을 나타냅니다.
 banditcamp,git,Creature List/3/FirstName,0,강도
 banditcamp,git,Creature List/3/Description,0,"이 강도는 어둠의 잎사귀 강도단의 구성원이며, 그들은 어두운 숲에 거주하고 있습니다."
 banditcamp,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,산적 스터디드
-banditcamp,git,Creature List/3/Equip_ItemList/0/Description,0,다임 숲의 다크리프 강도들이 착용한 갈라진 가죽 갑옷
+banditcamp,git,Creature List/3/Equip_ItemList/0/Description,0,딤 숲의 다크리프 강도들이 착용하는 가죽 누비 갑옷.
 banditcamp,git,Creature List/4/FirstName,0,괴물
 banditcamp,git,Creature List/4/Description,0,이 도블린의 표기들은 숲에서 온 레드 스타 부족에 대한 충성을 나타냅니다.
 banditcamp,git,Creature List/5/FirstName,0,괴물
@@ -4247,7 +4247,7 @@ banditcamp,git,Placeable List/118/Description,0,의심스럽게 둘러보지만 
 banditchiefstent,git,Creature List/0/FirstName,0,자스퍼
 banditchiefstent,git,Creature List/0/Description,0,이 거칠게 보이는 콧수염의 방랑자는 다크리프 산적 클랜의 일원입니다.
 banditchiefstent,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,산적 스터디드
-banditchiefstent,git,Creature List/0/Equip_ItemList/0/Description,0,다임 숲의 다크리프 강도들이 착용한 갈라진 가죽 갑옷
+banditchiefstent,git,Creature List/0/Equip_ItemList/0/Description,0,딤 숲의 다크리프 강도들이 착용하는 가죽 누비 갑옷.
 banditchiefstent,git,Door List/0/LocName,0,문
 banditchiefstent,git,Placeable List/1/LocName,0,목에 걸린 인간 머리
 banditchiefstent,git,Placeable List/1/Description,0,다크레프 강도단의 우두머리인 테란 스탄의 효수된 머리입니다.
@@ -4617,12 +4617,12 @@ desertedfarmhous,git,Creature List/1/FirstName,0,표
 desertedfarmhous,git,Creature List/1/Description,0,나무 테이블이 비자연적인 힘으로 생동감을 띠는 것처럼 보인다.
 desertedfarmhous,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,Slam1d4
 desertedfarmhous,git,Creature List/2/FirstName,0,상자
-desertedfarmhous,git,Creature List/2/Description,0,"날아다니는 상자, 마치 당신을 완전히 삼키려는 것처럼 보입니다!"
+desertedfarmhous,git,Creature List/2/Description,0,당신을 통째로 삼키려는 듯한 날아다니는 상자입니다!
 desertedfarmhous,git,Creature List/3/FirstName,0,의자
 desertedfarmhous,git,Creature List/3/Description,0,비자연적인 힘으로 움직이는 의자.
 desertedfarmhous,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,Slam1d4
 desertedfarmhous,git,Door List/1/LocName,0,문
-desertedfarmhous,git,Door List/1/Description,0,"이 간단한 문은 거친 나무로 만들어져 있으며, 부적절한 핀계에 달려 있다."
+desertedfarmhous,git,Door List/1/Description,0,거칠게 다듬은 나무로 만든 이 수수한 문은 아귀가 맞지 않는 경첩에 매달려 있다.
 desertedfarmhous,git,List/0/LocalizedName,0,돌도끼
 desertedfarmhous,git,List/0/Description,0,이 원시적인 도끼는 돌고래로 만들어졌으며 과 모시로 무작위 나무 에 묶여 있습니다.
 desertedfarmhous,git,TriggerList/0/LocalizedName,0,새로운 일반제
@@ -4800,7 +4800,7 @@ feytreasurecave,git,Placeable List/18/LocName,0,상자
 feytreasurecave,git,Placeable List/18/Description,0,보물 상자처럼 보이는 나무 가장자리를 느낄 수 있습니다.
 foamingmugcel001,git,Creature List/0/FirstName,0,트로글로디이트
 foamingmugcel001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-foamingmugcel001,git,Creature List/0/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+foamingmugcel001,git,Creature List/0/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 foamingmugcel001,git,Creature List/1/FirstName,0,트로글로디이트
 foamingmugcel001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,돌도끼
 foamingmugcel001,git,Creature List/1/Equip_ItemList/0/Description,0,이 원시적인 도끼는 돌고래로 만들어졌으며 과 모시로 무작위 나무 에 묶여 있습니다.
@@ -4838,11 +4838,11 @@ foamingmugcel001,git,Placeable List/41/LocName,0,빈 가방 1
 foamingmugcel001,git,Placeable List/42/LocName,0,빈 가방 1
 foamingmuginn,git,Door List/0/LocName,0,문
 foamingmuginn,git,Door List/1/LocName,0,문
-foamingmuginn,git,Door List/1/Description,0,"이 간단한 문은 거친 나무로 만들어져 있으며, 부적절한 핀계에 달려 있다."
+foamingmuginn,git,Door List/1/Description,0,거칠게 다듬은 나무로 만든 이 수수한 문은 아귀가 맞지 않는 경첩에 매달려 있다.
 foamingmuginn,git,Door List/2/LocName,0,문
-foamingmuginn,git,Door List/2/Description,0,"이 간단한 문은 거친 나무로 만들어져 있으며, 부적절한 핀계에 달려 있다."
+foamingmuginn,git,Door List/2/Description,0,거칠게 다듬은 나무로 만든 이 수수한 문은 아귀가 맞지 않는 경첩에 매달려 있다.
 foamingmuginn,git,Door List/3/LocName,0,문
-foamingmuginn,git,Door List/3/Description,0,"이 간단한 문은 거친 나무로 만들어져 있으며, 부적절한 핀계에 달려 있다."
+foamingmuginn,git,Door List/3/Description,0,거칠게 다듬은 나무로 만든 이 수수한 문은 아귀가 맞지 않는 경첩에 매달려 있다.
 foamingmuginn,git,WaypointList/0/LocalizedName,0,이정표
 foamingmuginn,git,Placeable List/1/LocName,0,시체 쌓임
 foamingmuginn,git,Placeable List/1/Description,0,"그 사람이 처음에는 거의 소유하고 있지 않았거나, 그 사람의 모든 것이 빼앗겼을 수도 있습니다."
@@ -4954,10 +4954,10 @@ fontenmereabbey,git,Creature List/20/FirstName,0,고블린 샤먼
 fontenmereabbey,git,Creature List/20/Description,0,이 도블린의 표기들은 숲에서 온 레드 스타 부족에 대한 충성을 나타냅니다.
 fontenmereabbey,git,Creature List/20/Equip_ItemList/2/LocalizedName,0,현혹된 생명체의 피부
 fontenmereabbey,git,Creature List/21/FirstName,0,해골 수도사
-fontenmereabbey,git,Creature List/21/Description,0,승려의 애니메이션 골격
+fontenmereabbey,git,Creature List/21/Description,0,어느 수도사의 움직이는 해골.
 fontenmereabbey,git,Creature List/21/ItemList/0/LocalizedName,0,리켄
 fontenmereabbey,git,Creature List/22/FirstName,0,해골 수도사
-fontenmereabbey,git,Creature List/22/Description,0,승려의 애니메이션 골격
+fontenmereabbey,git,Creature List/22/Description,0,어느 수도사의 움직이는 해골.
 fontenmereabbey,git,Creature List/22/ItemList/0/LocalizedName,0,리켄
 fontenmereabbey,git,Creature List/23/FirstName,0,어린 워그
 fontenmereabbey,git,Creature List/23/Description,0,"워그는 사악한 성향과 기묘한 지능을 지닌 강력한 늑대입니다. 다행히 이 워그는 완전히 성장하려면 멀었습니다. 이들은 종종 고블린들과 함께 발견되며, 고블린들의 탈것이자 보호자 역할을 합니다."
@@ -4969,7 +4969,7 @@ fontenmereabbey,git,Creature List/25/FirstName,0,고블린 중위
 fontenmereabbey,git,Creature List/25/Description,0,이 도블린의 표기들은 숲에서 온 레드 스타 부족에 대한 충성을 나타냅니다.
 fontenmereabbey,git,Creature List/25/Equip_ItemList/4/LocalizedName,0,현혹된 생명체의 피부
 fontenmereabbey,git,Creature List/26/FirstName,0,해골 수도사
-fontenmereabbey,git,Creature List/26/Description,0,승려의 애니메이션 골격
+fontenmereabbey,git,Creature List/26/Description,0,어느 수도사의 움직이는 해골.
 fontenmereabbey,git,Creature List/26/ItemList/0/LocalizedName,0,리켄
 fontenmereabbey,git,Creature List/27/FirstName,0,쥐
 fontenmereabbey,git,Creature List/28/FirstName,0,어린 워그
@@ -5104,14 +5104,14 @@ fontenmereabbey,git,Placeable List/144/ItemList/0/DescIdentified,0,이 반지는
 fontenmereabbey,git,Placeable List/145/LocName,0,화장실 좌변기
 fontenmereabbey,git,Placeable List/163/LocName,0,냄새가 나는 구름
 fontenmereabbey,git,Placeable List/164/LocName,0,글꼴
-fontenmereabbey,git,Placeable List/164/Description,0,이 무너지는 병은 여전히 작은 양의 거룩한 물을 유지합니다.
-fontenmereabbey,git,Placeable List/168/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+fontenmereabbey,git,Placeable List/164/Description,0,이 허물어져 가는 성수반에는 아직도 소량의 성수가 남아 있다.
+fontenmereabbey,git,Placeable List/168/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 fontenmereabbey,git,Placeable List/168/ItemList/0/LocalizedName,0,태양 수리검
 fontenmereabbey,git,Placeable List/168/ItemList/0/DescIdentified,0,이 수리검은 종종 펠로르의 수도사들이 그의 정의로운 분노를 전달하기 위해 사용한다.
 fontenmereabbey,git,Placeable List/168/ItemList/1/LocalizedName,0,펠로르의 노랑 의복
 fontenmereabbey,git,Placeable List/168/ItemList/1/Description,0,이 노란 옷은 폰텐미어 수도원의 수도승들이 입는 전형적인 복장입니다.
 fontenmereabbey,git,Placeable List/172/LocName,0,글꼴
-fontenmereabbey,git,Placeable List/172/Description,0,이 무너지는 병은 여전히 작은 양의 거룩한 물을 유지합니다.
+fontenmereabbey,git,Placeable List/172/Description,0,이 허물어져 가는 성수반에는 아직도 소량의 성수가 남아 있다.
 fontenmereabbey,git,Placeable List/177/LocName,0,캐비닛
 fontenmereabbey,git,Placeable List/177/Description,0,이 썩어 가는 장식장은 떨어지는 바위와 흘러간 세월을 간신히 버텨 냈다.
 fontenmereabbey,git,Placeable List/177/ItemList/0/LocalizedName,0,펠로르의 빨간 자주색 옷
@@ -5343,10 +5343,10 @@ fontenmereabbey,git,Placeable List/514/ItemList/0/DescIdentified,0,"새벽 정�
 
 그 나무에서 떨어진 가지와 오렌지 빛 보석을 마법사의 솥에서 합치면 펠로르의 신성한 빛이 깃든 요정불꽃 마법봉이 만들어진다."
 fontenmereabbey,git,Placeable List/515/LocName,0,[NWN2] 침대가 부서진
-fontenmereabbey,git,Placeable List/516/Description,0,이상한 종이들이 흩어져 있는 것 같아.
-fontenmereabbey,git,Placeable List/517/Description,0,이상한 종이들이 흩어져 있는 것 같아.
-fontenmereabbey,git,Placeable List/518/Description,0,이상한 종이들이 흩어져 있는 것 같아.
-fontenmereabbey,git,Placeable List/539/Description,0,이상한 종이들이 흩어져 있는 것 같아.
+fontenmereabbey,git,Placeable List/516/Description,0,빛바란 종이들이 흩어져 있다.
+fontenmereabbey,git,Placeable List/517/Description,0,빛바란 종이들이 흩어져 있다.
+fontenmereabbey,git,Placeable List/518/Description,0,빛바란 종이들이 흩어져 있다.
+fontenmereabbey,git,Placeable List/539/Description,0,빛바란 종이들이 흩어져 있다.
 fontenmereabbey,git,Placeable List/558/LocName,0,엔피레아의 눈물
 fontenmereabbey,git,Placeable List/558/Description,0,"에피리아의 평면 도시는 셀레스티아 산의 다섯 번째 층인 메르티온에 있는 차가운 맑은 산 호수의 가장자리에 위치하고 있습니다. 이 도시는 많은 치유의 분수와 치유의 물로 알려져 있습니다. 때때로 좋은 사제가 악행이나 어두운 마술을 성지에서 수행할 때, 원자물 평면과 셀레스티아 사이에 작은 균열이 생성됩니다. 이 균열을 통해 에피리아의 물이 흐르며 강력한 복원적 특성을 가지고 있습니다. 그러한 장소는 '에피리아의 눈물'로 알려져 있습니다. 에피리아의 눈물에서 마시는 것은 음주에게 하루 종일 휴식을 취하는 효과가 있습니다. 그러나, 첫 번째 음료를 취한 후에 물의 흐름이 멈출 가능성이 높습니다. 음주자는 이 계획을 유지하기 위해 필요한 미묘한 지식을 가지고 있지 않으면."
 fontenmereabbey,git,Placeable List/559/LocName,0,엔피레아의 눈물
@@ -5361,8 +5361,8 @@ fontenmereabbey,git,Placeable List/565/LocName,0,빈 상자 1
 fontenmereabbey,git,Placeable List/565/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 fontenmereabbey,git,Placeable List/566/LocName,0,빈 상자 1
 fontenmereabbey,git,Placeable List/566/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
-fontenmereabbey,git,Placeable List/567/Description,0,이상한 종이들이 흩어져 있는 것 같아.
-fontenmereabbey,git,Placeable List/568/Description,0,이상한 종이들이 흩어져 있는 것 같아.
+fontenmereabbey,git,Placeable List/567/Description,0,빛바란 종이들이 흩어져 있다.
+fontenmereabbey,git,Placeable List/568/Description,0,빛바란 종이들이 흩어져 있다.
 fontenmereabbey,git,Placeable List/569/Description,0,두꺼운 웅덩이가 무너지는 기둥을 가로지르며
 fontenmereabbey,git,Placeable List/571/LocName,0,빈 상자 1
 fontenmereabbey,git,Placeable List/571/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
@@ -5480,7 +5480,7 @@ garathshut,git,Creature List/0/Description,0,이 어두운 사제는 짙은 녹�
 garathshut,git,Creature List/0/ItemList/0/LocalizedName,0,왕관
 garathshut,git,Creature List/0/ItemList/0/DescIdentified,0,금잎으로 장식된 단순한 왕관에 '모르투스 카데버로섬'이라는 글이 새겨져 있다.
 garathshut,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,키우스의 반지
-garathshut,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,"키우스, 반신의 죽은 자를 기리기 위해 만들어진 이 뼈 반지는 착용자에게 음 에너지 평면과 약한 연결을 제공합니다. 어두운 사제들은 이 뼈 반지를 적에게 해를 끼치거나 죽은 자들을 치유하는 데 특히 유용하다고 생각합니다."
+garathshut,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,언데드의 반신 키우스를 기리기 위해 만들어진 이 뼈 반지는 착용자에게 네거티브 에너지 플레인과의 희미한 연결을 제공합니다. 사악한 사제들은 이 반지를 사용하여 적에게 해를 입히고 언데드 하수인을 치유하는 데 특히 유용하게 씁니다.
 garathshut,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,현혹된 생명체의 피부
 garathshut,git,Creature List/1/FirstName,0,와이트
 garathshut,git,Creature List/4/FirstName,0,스켈레톤 마지
@@ -5505,7 +5505,7 @@ garathshut,git,Placeable List/22/Description,0,위에서 보이지 않는 곳에
 garathshut,git,Placeable List/23/LocName,0,그림 - 소형 노파
 garathshut,git,Placeable List/24/LocName,0,유물
 garathshut,git,Placeable List/24/Description,0,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
-garathshut,git,Placeable List/25/LocName,0,화로 - 넓어
+garathshut,git,Placeable List/25/LocName,0,화로 - 대형
 garathshut,git,Placeable List/27/LocName,0,메리카 방패
 garathshut,git,Placeable List/27/Description,0,태피스트리.
 garathshut,git,Placeable List/28/LocName,0,메리카 방패
@@ -5537,16 +5537,16 @@ gardenoftheda001,git,Creature List/0/Description,0,암살자 포도나무는 생
 gardenoftheda001,git,Door List/0/LocName,0,문
 gardenoftheda001,git,Door List/1/LocName,0,문
 gardenoftheda001,git,SoundList/0/LocName,0,수도원 탑
-gardenoftheda001,git,WaypointList/6/MapNote,0,폰텐미어 아비리에
+gardenoftheda001,git,WaypointList/6/MapNote,0,폰텐미어 수도원으로
 gardenoftheda001,git,WaypointList/7/MapNote,0,남서쪽의 숲 차원문
 gardenoftheda001,git,WaypointList/8/MapNote,0,석묘
 gardenoftheda001,git,Placeable List/15/Description,0,햄프 로프가 탑에서 내려오게 됩니다.
 gardenoftheda001,git,Placeable List/18/LocName,0,묵상 의자
 gardenoftheda001,git,Placeable List/18/Description,0,비바람에 닳은 이 돌 벤치에 앉아 몇 시간이고 보낼 수 있을 것 같다.
-gardenoftheda001,git,Placeable List/20/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+gardenoftheda001,git,Placeable List/20/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 gardenoftheda001,git,Placeable List/20/ItemList/1/LocalizedName,0,브리스키니스 벨트
 gardenoftheda001,git,Placeable List/20/ItemList/1/DescIdentified,0,"이 벨트는 가속 마법사가 뱀의 피부로 만든 것으로 착용자의 균형, 민첩성, 그리고 조정력을 크게 향상시킵니다."
-gardenoftheda001,git,Placeable List/26/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+gardenoftheda001,git,Placeable List/26/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 gardenoftheda001,git,Placeable List/31/LocName,0,태양 방패
 gardenoftheda001,git,Placeable List/31/Description,0,태피스트리.
 gardenoftheda001,git,Placeable List/35/LocName,0,주황 나무 가지
@@ -5672,7 +5672,7 @@ goldengraininn,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,힐게스의
 goldengraininn,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,현혹된 생명체의 피부
 goldengraininn,git,Creature List/3/FirstName,0,스니그로트
 goldengraininn,git,Creature List/3/LastName,0,루트
-goldengraininn,git,Creature List/3/Description,0,"이 콧수염을 만드는 남자는 숙소의 요리사지만, 그의 위생과 철저함은 매우 미흡하다."
+goldengraininn,git,Creature List/3/Description,0,"이 턱수염을 기른 이는 여관의 요리사지만, 위생과 맨정신을 유지하는 수준은 턱없이 부족하다."
 goldengraininn,git,Creature List/3/ItemList/2/LocalizedName,0,비밀 방 열쇠
 goldengraininn,git,Creature List/3/ItemList/2/Description,0,정교한 디자인의 단단한 청동 열쇠
 goldengraininn,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,스니그로트의 징박힌 가죽 갑옷
@@ -5781,7 +5781,7 @@ goldengraininn,git,Placeable List/150/LocName,0,이중등걸이
 goldengraininn,git,Placeable List/150/Description,0,스콘스
 goldengraininnce,git,Creature List/0/FirstName,0,데릭
 goldengraininnce,git,Creature List/0/LastName,0,데슬리
-goldengraininnce,git,Creature List/0/Description,0,"이 중년 남자는 왼 눈에 패치가 있으며, 자신 있게 두 번의 검을 휘두르며 순수한 악의 기운을 풍긴다."
+goldengraininnce,git,Creature List/0/Description,0,이 중년 남자는 왼쪽 눈에 안대를 하고 있다. 그는 자신 있게 쌍검을 휘두르며 순수한 악의 기운을 뿜어낸다.
 goldengraininnce,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,볼트
 goldengraininnce,git,Creature List/0/Equip_ItemList/2/Description,0,이 작은 칼은 비자연적인 에너지로 번지며 소리가 난다.
 goldengraininnce,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,"이 칼날은 전기 에너지를 내뿜습니다. 손잡이는 구리로 만들었고, 칼자루 끝은 푸른 용의 비늘로 장식했습니다."
@@ -5900,7 +5900,7 @@ goldengraintunne,git,Creature List/6/FirstName,0,구울
 goldengraintunne,git,Creature List/7/FirstName,0,펠론
 goldengraintunne,git,Creature List/7/Description,0,이 중세 상인은 골든 그레인 인스 아래의 포로였던 시절의 무모한 모습을 보이지만 여전히 도전의 분위기를 유지하고 있습니다.
 goldengraintunne,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,팰런의 누더기
-goldengraintunne,git,Creature List/8/FirstName,0,녹색 슬림
+goldengraintunne,git,Creature List/8/FirstName,0,그린 슬라임
 goldengraintunne,git,Creature List/8/Description,0,"오즈는 형태를 변형할 수 있는 생명체로, 먹이만을 위해 존재한다. 그들은 전 세계의 지하 지역에 살고 있으며, 살아있는 것이나 죽은 것의 유기물 찾기 위해 동굴, 유적지, 던전을 탐색한다."
 goldengraintunne,git,Creature List/8/ItemList/0/LocalizedName,0,녹색 슬라임 체액
 goldengraintunne,git,Creature List/8/ItemList/0/Description,0,녹색 슬라임 진액 한 병.
@@ -6481,10 +6481,10 @@ lairlevel1,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,얼음
 lairlevel1,git,Creature List/15/Equip_ItemList/1/DescIdentified,0,"겨울늑대의 힘줄로 만든 시위와 배리어 산맥의 가장 질긴 상록수로 만든 손잡이를 갖춘 이 활은 만지면 차갑고, 화살에 맞은 이에게는 더욱 매섭게 차갑습니다."
 lairlevel1,git,Creature List/16/FirstName,0,트로글로디이트
 lairlevel1,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel1,git,Creature List/16/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel1,git,Creature List/16/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel1,git,Creature List/17/FirstName,0,트로글로디이트
 lairlevel1,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel1,git,Creature List/17/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel1,git,Creature List/17/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel1,git,Creature List/18/FirstName,0,좀비 일꾼
 lairlevel1,git,Creature List/18/Description,0,이 좀비는 소굴의 물을 퍼내 늪으로 다시 내보내라는 명령을 충실히 따르고 있다.
 lairlevel1,git,Creature List/18/Equip_ItemList/1/LocalizedName,0,몬크 좀비 속성
@@ -6493,10 +6493,10 @@ lairlevel1,git,Creature List/19/Description,0,이 좀비는 소굴의 물을 퍼
 lairlevel1,git,Creature List/19/Equip_ItemList/1/LocalizedName,0,몬크 좀비 속성
 lairlevel1,git,Creature List/20/FirstName,0,트로글로디이트
 lairlevel1,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel1,git,Creature List/20/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel1,git,Creature List/20/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel1,git,Creature List/21/FirstName,0,트로글로디이트
 lairlevel1,git,Creature List/21/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel1,git,Creature List/21/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel1,git,Creature List/21/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel1,git,Creature List/22/FirstName,0,에어윈
 lairlevel1,git,Creature List/22/Description,0,"은, 진흙이 은 이 남자는 낡은 옷으로 옷을 입고"
 lairlevel1,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,이윈의 낡은 옷가지
@@ -6565,7 +6565,7 @@ lairlevel1,git,Creature List/51/Description,0,이 모양모양 생물은 어두�
 lairlevel1,git,Creature List/51/Equip_ItemList/0/LocalizedName,0,오크레 젤리 슬램
 lairlevel1,git,Creature List/53/FirstName,0,트로글로디이트
 lairlevel1,git,Creature List/53/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel1,git,Creature List/53/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel1,git,Creature List/53/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel1,git,Creature List/54/FirstName,0,툴리우그 투사
 lairlevel1,git,Creature List/54/Description,0,"붐우그는 개구리 머리, 회색, 녹색, 또는 황색 피부를 가진 양서류 인형물이다. 긴 발자국, 반짝이는 혀를 가지고 있으며 비로 싸웁니다. 붐우그로서의 삶은 거칠고 잔인하고 젖어있다. 그들의 사제들은 종종 통제 할 수 없는 생물들을 불러 불러내는 것으로 유명하다."
 lairlevel1,git,Creature List/54/ItemList/0/LocalizedName,0,곤충 용기
@@ -6590,7 +6590,7 @@ lairlevel1,git,WaypointList/16/MapNote,0,2레벨 라이어 출구
 lairlevel1,git,WaypointList/17/MapNote,0,경비실
 lairlevel1,git,WaypointList/21/MapNote,0,대기실
 lairlevel1,git,WaypointList/32/LocalizedName,0,지도 설명
-lairlevel1,git,WaypointList/32/MapNote,0,숭배의 보물 방
+lairlevel1,git,WaypointList/32/MapNote,0,교단 보물실
 lairlevel1,git,WaypointList/33/MapNote,0,버섯 농장
 lairlevel1,git,WaypointList/34/MapNote,0,구조물 현장
 lairlevel1,git,WaypointList/39/LocalizedName,0,지도 설명
@@ -6889,7 +6889,7 @@ lairlevel2,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,진흙 뱀 물�
 lairlevel2,git,Creature List/13/FirstName,0,좀비 일꾼
 lairlevel2,git,Creature List/13/Description,0,이 좀비는 소굴의 물을 퍼내 늪으로 다시 내보내라는 명령을 충실히 따르고 있다.
 lairlevel2,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,몬크 좀비 속성
-lairlevel2,git,Creature List/14/FirstName,0,거구 녹색 슬림
+lairlevel2,git,Creature List/14/FirstName,0,대형 그린 슬라임
 lairlevel2,git,Creature List/14/Description,0,"오즈는 형태를 변형할 수 있는 생명체로, 먹이만을 위해 존재한다. 그들은 전 세계의 지하 지역에 살고 있으며, 살아있는 것이나 죽은 것의 유기물 찾기 위해 동굴, 유적지, 던전을 탐색한다."
 lairlevel2,git,Creature List/15/FirstName,0,좀비 일꾼
 lairlevel2,git,Creature List/15/Description,0,이 좀비는 소굴의 물을 퍼내 늪으로 다시 내보내라는 명령을 충실히 따르고 있다.
@@ -6904,7 +6904,7 @@ lairlevel2,git,Creature List/22/FirstName,0,마그나시
 lairlevel2,git,Creature List/22/Description,0,이 근육질 반오크는 엄숙한 표정을 짓고 있으며 무거운 대검을 휘두르고 있습니다.
 lairlevel2,git,Creature List/22/Equip_ItemList/2/LocalizedName,0,현혹된 생명체의 피부
 lairlevel2,git,Creature List/23/FirstName,0,하피
-lairlevel2,git,Creature List/23/Description,0,"악성과도 더 비참한 존재를 상상하기는 어렵다. 그의 부드러운 노래는 불운한 희생자들을 노예로 매료시키지만, 하리프가 현재 노예에게 지루함을 느끼면 그는 노예를 삼키고 새로운 먹이를 사냥하기 시작한다."
+lairlevel2,git,Creature List/23/Description,0,"하피보다 더 악랄하고 비참한 피조물은 상상하기 어렵다. 그들의 감미로운 노랫소리는 불운한 희생자들을 예속시키지만, 하피가 현재의 노예에증 질리면 그 하인을 잡아먹고 새로운 먹이를 찾아 다시 사냥을 시작한다."
 lairlevel2,git,Creature List/24/FirstName,0,타고르
 lairlevel2,git,Creature List/24/Description,0,"이 반엘프는 각진 특징과 긴 밝은 머리카락을 가지고 있으며, 이는 은색 머리띠와 해산물 껍데기로 유지됩니다."
 lairlevel2,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,가죽 갑옷 +2
@@ -6918,35 +6918,35 @@ lairlevel2,git,Creature List/26/Equip_ItemList/1/LocalizedName,0,상자 시체 �
 lairlevel2,git,Creature List/26/Equip_ItemList/2/LocalizedName,0,상자 시체 속성
 lairlevel2,git,Creature List/27/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/27/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/27/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/27/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/28/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/28/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/28/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/28/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/29/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/29/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/29/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/29/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/30/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/30/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/30/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/30/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/31/FirstName,0,도마뱀인
 lairlevel2,git,Creature List/32/FirstName,0,도마뱀인
 lairlevel2,git,Creature List/33/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/33/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/33/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/33/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/33/ItemList/2/LocalizedName,0,트로글로다이트 키
 lairlevel2,git,Creature List/33/ItemList/2/Description,0,트로글로다이트의 시체에서 빼낸 열쇠
 lairlevel2,git,Creature List/34/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/34/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/34/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/34/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/35/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/35/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/35/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/35/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/36/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/36/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/36/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/36/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/37/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/37/ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/37/ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/37/ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/38/FirstName,0,트로글로다이트 지도자
 lairlevel2,git,Creature List/38/ItemList/0/LocalizedName,0,트로글로다이트 지도자의 열쇠
 lairlevel2,git,Creature List/38/ItemList/0/Description,0,트로글로다이트 족장의 시체에서 빼낸 열쇠.
@@ -6956,16 +6956,16 @@ lairlevel2,git,Creature List/40/FirstName,0,곰팡이 좀비
 lairlevel2,git,Creature List/40/Description,0,"화두 스포를 흡입하여 생물이 죽으면 부패하는 시체는 더 많은 곰팡이 성장을 위한 숙주로 변한다. 악의의 사제는 이 시체를 생동감시켜 곰팡이 좀비를 만들 수 있다. 이 생물이 정상적인 좀비와 비슷하지만, 독성 스포로 덮여 있어 생물이 강력하게 공격당할 때마다 독성 구름을 방출한다."
 lairlevel2,git,Creature List/43/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/43/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/43/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/43/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/44/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/44/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/44/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/44/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/45/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/45/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/45/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/45/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/46/FirstName,0,트로글로디이트
 lairlevel2,git,Creature List/46/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel2,git,Creature List/46/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel2,git,Creature List/46/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel2,git,Creature List/47/FirstName,0,트로글로다이트 사제
 lairlevel2,git,Creature List/48/FirstName,0,거대 나 Lizard
 lairlevel2,git,Creature List/48/Description,0,"거대한 모니터 리자드는 길이가 5피트가 넘으며, 질병을 품은 물기로 끔찍한 상처를 입힐 수 있습니다."
@@ -6987,7 +6987,7 @@ lairlevel2,git,Creature List/56/Equip_ItemList/0/LocalizedName,0,지네 물기
 lairlevel2,git,Creature List/57/FirstName,0,괴물 지네
 lairlevel2,git,Creature List/57/Description,0,"거대 지네는 먹이처럼 보이는 것은 무엇이든 공격하며, 턱으로 물어 독을 주입합니다."
 lairlevel2,git,Creature List/57/Equip_ItemList/0/LocalizedName,0,지네 물기
-lairlevel2,git,Creature List/58/FirstName,0,"괴물 백발, 거대한"
+lairlevel2,git,Creature List/58/FirstName,0,대형 괴물 지네
 lairlevel2,git,Creature List/58/Description,0,"거대 지네는 먹이처럼 보이는 것은 무엇이든 공격하며, 턱으로 물어 독을 주입합니다."
 lairlevel2,git,Creature List/58/Equip_ItemList/0/LocalizedName,0,지네 거대 물기
 lairlevel2,git,Creature List/59/FirstName,0,부리우그
@@ -7065,7 +7065,7 @@ lairlevel2,git,WaypointList/10/MapNote,0,덩굴
 lairlevel2,git,WaypointList/11/LocalizedName,0,지도 설명
 lairlevel2,git,WaypointList/11/MapNote,0,구덩이 함정
 lairlevel2,git,WaypointList/14/MapNote,0,무장장
-lairlevel2,git,WaypointList/15/MapNote,0,3레벨 진영 출구
+lairlevel2,git,WaypointList/15/MapNote,0,소굴 3층 출구
 lairlevel2,git,WaypointList/28/MapNote,0,죽음의 방
 lairlevel2,git,WaypointList/60/LocalizedName,0,지도 설명
 lairlevel2,git,WaypointList/60/MapNote,0,가라트 프리모의 창가
@@ -7079,7 +7079,7 @@ lairlevel2,git,Placeable List/62/Description,0,이 장식되지 않은 나무 �
 lairlevel2,git,Placeable List/66/LocName,0,바닥 레버
 lairlevel2,git,Placeable List/72/Description,0,이 지하 소굴의 물을 빼내 다시 늪으로 내보내는 데 쓰이는 여러 펌프 중 하나다.
 lairlevel2,git,Placeable List/73/Description,0,이 지하 소굴의 물을 빼내 다시 늪으로 내보내는 데 쓰이는 여러 펌프 중 하나다.
-lairlevel2,git,Placeable List/78/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+lairlevel2,git,Placeable List/78/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 lairlevel2,git,Placeable List/80/LocName,0,갑옷인형
 lairlevel2,git,Placeable List/80/Description,0,갑옷을 보관하기 위한 인형
 lairlevel2,git,Placeable List/83/Description,0,양동이 머리와 짚으로 채운 가슴을 가진 전투 연습용 인형은 전혀 위협적으로 보이지 않는다.
@@ -7103,23 +7103,23 @@ lairlevel2,git,Placeable List/101/Description,0,두꺼운 금속띠가 배럴판
 lairlevel2,git,Placeable List/115/LocName,0,사크
 lairlevel2,git,Placeable List/115/Description,0,옷 가방.
 lairlevel2,git,Placeable List/116/Description,0,바닥에서 튀어나온 무거운 레버는 아래쪽에 있는 어떤 보이지 않는 메커니즘을 제어한다.
-lairlevel2,git,Placeable List/119/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+lairlevel2,git,Placeable List/119/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 lairlevel2,git,Placeable List/119/ItemList/0/LocalizedName,0,원소 보호 반지
 lairlevel2,git,Placeable List/120/Description,0,이 지하 소굴의 물을 빼내 다시 늪으로 내보내는 데 쓰이는 여러 펌프 중 하나다.
 lairlevel2,git,Placeable List/121/LocName,0,오스왈드
 lairlevel2,git,Placeable List/121/Description,0,이 늙은이를 고문하기 위해 메피스들에게 남겨두고 방치한 것이다.
 lairlevel2,git,Placeable List/134/LocName,0,상자 시체 조종자
-lairlevel2,git,Placeable List/135/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
-lairlevel2,git,Placeable List/136/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+lairlevel2,git,Placeable List/135/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
+lairlevel2,git,Placeable List/136/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 lairlevel2,git,Placeable List/138/LocName,0,"더러운, 건조한 패치, 소형"
 lairlevel2,git,Placeable List/142/Description,0,바닥에서 올라온 얇은 레버는 아래쪽에 있는 어떤 미지의 기계를 조절합니다.
 lairlevel2,git,Placeable List/143/LocName,0,십자가에 못 박힌 여자
 lairlevel2,git,Placeable List/143/Description,0,이 가난한 여성은 가장 야만적인 방법으로 십자가에 못 박혔습니다.
 lairlevel2,git,Placeable List/145/LocName,0,십자가의 피
 lairlevel2,git,Placeable List/148/LocName,0,십자가의 피
-lairlevel2,git,Placeable List/149/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+lairlevel2,git,Placeable List/149/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 lairlevel2,git,Placeable List/150/LocName,0,시체 쌓임
-lairlevel2,git,Placeable List/150/Description,0,이 시체는 물린 흔적로 가득 차 있습니다.
+lairlevel2,git,Placeable List/150/Description,0,이 시체는 물린 자국으로 가득하다.
 lairlevel2,git,Placeable List/151/LocName,0,빈 시체 3
 lairlevel2,git,Placeable List/151/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 lairlevel2,git,Placeable List/152/Description,0,가방은 부피가 많고 가득 차 보입니다.
@@ -7256,7 +7256,7 @@ lairlevel2,git,Placeable List/478/LocName,0,부패한 식물
 lairlevel2,git,Placeable List/478/Description,0,썩은 식물의 쌓임새.
 lairlevel2,git,Placeable List/481/LocName,0,숨기기
 lairlevel2,git,Placeable List/485/Description,0,이 장식되지 않은 나무 프레임은 창을 보관하는 데 사용됩니다.
-lairlevel2,git,Placeable List/489/LocName,0,물고기장
+lairlevel2,git,Placeable List/489/LocName,0,생선 건조대
 lairlevel2,git,Placeable List/489/Description,0,한 항아리
 lairlevel2,git,Placeable List/492/LocName,0,빈 상자 1
 lairlevel2,git,Placeable List/492/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
@@ -7307,16 +7307,16 @@ lairlevel3,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,습지 뱀의 �
 lairlevel3,git,Creature List/2/FirstName,0,트로글로다이트 전사
 lairlevel3,git,Creature List/3/FirstName,0,트로글로디이트
 lairlevel3,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel3,git,Creature List/3/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel3,git,Creature List/3/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel3,git,Creature List/4/FirstName,0,트로글로디이트
 lairlevel3,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel3,git,Creature List/4/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel3,git,Creature List/4/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel3,git,Creature List/5/FirstName,0,트로글로디이트
 lairlevel3,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel3,git,Creature List/5/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel3,git,Creature List/5/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel3,git,Creature List/6/FirstName,0,트로글로디이트
 lairlevel3,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel3,git,Creature List/6/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel3,git,Creature List/6/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel3,git,Creature List/7/FirstName,0,트로글로다이트 샤먼
 lairlevel3,git,Creature List/8/FirstName,0,물 메피트
 lairlevel3,git,Creature List/9/FirstName,0,엑스플릭티카 디필루스
@@ -7327,7 +7327,7 @@ lairlevel3,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,나가 물기
 lairlevel3,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,나가의 가죽
 lairlevel3,git,Creature List/10/FirstName,0,트로글로디이트
 lairlevel3,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-lairlevel3,git,Creature List/10/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+lairlevel3,git,Creature List/10/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 lairlevel3,git,Creature List/11/FirstName,0,트로글로디이트
 lairlevel3,git,Creature List/12/FirstName,0,툴리우그 투사
 lairlevel3,git,Creature List/12/Description,0,"붐우그는 개구리 머리, 회색, 녹색, 또는 황색 피부를 가진 양서류 인형물이다. 긴 발자국, 반짝이는 혀를 가지고 있으며 비로 싸웁니다. 붐우그로서의 삶은 거칠고 잔인하고 젖어있다. 그들의 사제들은 종종 통제 할 수 없는 생물들을 불러 불러내는 것으로 유명하다."
@@ -7343,13 +7343,13 @@ lairlevel3,git,WaypointList/2/MapNote,0,파충류 신의 섬
 lairlevel3,git,WaypointList/27/MapNote,0,고향으로
 lairlevel3,git,Placeable List/0/LocName,0,배
 lairlevel3,git,Placeable List/0/Description,0,작은 배는 튼튼하고 좋은 상태입니다.
-lairlevel3,git,Placeable List/1/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+lairlevel3,git,Placeable List/1/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 lairlevel3,git,Placeable List/10/LocName,0,빈 시체 2
 lairlevel3,git,Placeable List/10/Description,0,쥐가 시체의 손가락을 씹고 귀를 긁고 있어 시체가 여기 있는 것처럼 보입니다.
 lairlevel3,git,Placeable List/11/LocName,0,빈 시체 4
 lairlevel3,git,Placeable List/11/Description,0,죽음 속에서 가슴을 내비치는 남자의 얼굴은 두려움에 얼어붙은 것처럼 보인다. 그가 어떻게 죽었는지 궁금하다.
 lairlevel3,git,Placeable List/19/LocName,0,나가 제어자
-lairlevel3,git,Placeable List/22/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+lairlevel3,git,Placeable List/22/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 lairlevel3,git,Placeable List/28/LocName,0,두개골 기둥
 lairlevel3,git,Placeable List/29/LocName,0,두개골 기둥
 lairlevel3,git,Placeable List/30/LocName,0,두개골 기둥
@@ -7362,10 +7362,10 @@ lairlevel3,git,Placeable List/39/LocName,0,빈 시체 2
 lairlevel3,git,Placeable List/39/Description,0,쥐가 시체의 손가락을 씹고 귀를 긁고 있어 시체가 여기 있는 것처럼 보입니다.
 lairlevel3,git,Placeable List/40/LocName,0,빈 시체 2
 lairlevel3,git,Placeable List/40/Description,0,쥐가 시체의 손가락을 씹고 귀를 긁고 있어 시체가 여기 있는 것처럼 보입니다.
-lairlevel3,git,Placeable List/41/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
-lairlevel3,git,Placeable List/42/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
-lairlevel3,git,Placeable List/43/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
-lairlevel3,git,Placeable List/46/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+lairlevel3,git,Placeable List/41/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
+lairlevel3,git,Placeable List/42/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
+lairlevel3,git,Placeable List/43/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
+lairlevel3,git,Placeable List/46/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 lairlevel3,git,Placeable List/56/LocName,0,배
 lairlevel3,git,Placeable List/56/Description,0,작은 배는 튼튼하고 좋은 상태입니다.
 lairlevel3,git,Placeable List/58/LocName,0,녹색 빛
@@ -7525,7 +7525,7 @@ marshdwelling,git,Placeable List/26/Description,0,"이 나무 상자는 일시�
 marshdwelling,git,Placeable List/32/LocName,0,캐비닛
 marshdwelling,git,Placeable List/32/Description,0,물로 손상된 캐비넷
 marshdwelling,git,Placeable List/32/ItemList/0/LocalizedName,0,태양광 씨앗
-marshdwelling,git,Placeable List/32/ItemList/0/Description,0,몇 개의 수박씨.
+marshdwelling,git,Placeable List/32/ItemList/0/Description,0,해바라기 씨 한 줌.
 marshdwelling,git,Placeable List/48/LocName,0,작업대 효과
 marshdwelling,git,Placeable List/48/Description,0,"불꽃이 치고 타오르며, 그 화염의 열로 모든 것을 소비한다."
 maspindlesfarm,git,Creature List/0/FirstName,0,엄마
@@ -7598,7 +7598,7 @@ maspindlesfarm,git,Placeable List/79/LocName,0,빈 가방 1
 mausoleum,git,Creature List/0/FirstName,0,불원자
 mausoleum,git,Door List/0/LocName,0,문
 mausoleum,git,Placeable List/0/LocName,0,사코파거
-mausoleum,git,Placeable List/1/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+mausoleum,git,Placeable List/1/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 mausoleum,git,Placeable List/1/ItemList/0/LocalizedName,0,펠로르의 파란 옷
 mausoleum,git,Placeable List/1/ItemList/0/Description,0,이 하늘 푸른 의복은 폰텐미어 수도원의 수도사들이 입는 옷의 전형입니다.
 mausoleum,git,Placeable List/1/ItemList/1/LocalizedName,0,불꽃 장갑
@@ -7794,7 +7794,7 @@ mayorupper,git,Placeable List/63/Description,0,할아버지 시계
 mayorupper,git,Placeable List/68/LocName,0,"판금, 백색 스테이크"
 mayorupper,git,Placeable List/68/Description,0,뜨거운 스테이크 저녁 식사.
 mayorupper,git,Placeable List/69/LocName,0,"접시, 흰색, 스튜"
-mayorupper,git,Placeable List/69/Description,0,뜨거운 스텔프 판
+mayorupper,git,Placeable List/69/Description,0,따뜻한 스튜 한 접시.
 mayorupper,git,Placeable List/70/LocName,0,치즈 휠 (전체)
 mayorupper,git,Placeable List/70/Description,0,전체 치즈 휠
 mayorupper,git,Placeable List/71/LocName,0,치즈 휠 쌓기
@@ -7809,7 +7809,7 @@ mayorupper,git,Placeable List/89/LocName,0,"도화장, 성, 시골"
 mayorupper,git,Placeable List/90/LocName,0,"테이베스트리, 라이온"
 mayorupper,git,Placeable List/91/LocName,0,"테이베스트리, 라이온"
 mayorupper,git,Placeable List/100/LocName,0,"접시, 흰색, 스튜"
-mayorupper,git,Placeable List/100/Description,0,뜨거운 스텔프 판
+mayorupper,git,Placeable List/100/Description,0,따뜻한 스튜 한 접시.
 mayorupper,git,Placeable List/102/LocName,0,[NWN2] 바구니 - 과일
 mayorupper,git,Placeable List/103/LocName,0,[NWN2] 바구니 - 과일
 mayorupper,git,Placeable List/104/LocName,0,치즈 휠
@@ -8109,7 +8109,7 @@ orlane,git,WaypointList/92/MapNote,0,밀리
 orlane,git,WaypointList/93/MapNote,0,셀빈 드레이크의 농장
 orlane,git,WaypointList/94/LocalizedName,0,이정표
 orlane,git,WaypointList/94/MapNote,0,빌마 메리디의 캐빈
-orlane,git,WaypointList/95/MapNote,0,스프인드의 농장
+orlane,git,WaypointList/95/MapNote,0,스핀들의 농장
 orlane,git,WaypointList/96/MapNote,0,장지
 orlane,git,WaypointList/98/MapNote,0,올레인에게: 동쪽 경계
 orlane,git,WaypointList/99/MapNote,0,올레인에게: 외곽 농장
@@ -8132,7 +8132,7 @@ orlane,git,Placeable List/8/LocName,0,일반 상점
 orlane,git,Placeable List/8/Description,0,일반 상점
 orlane,git,Placeable List/9/LocName,0,거품 가득한 머그 여관
 orlane,git,Placeable List/9/Description,0,"이 표지판은 잡초로 덮여 있고 페인트가 벗겨져 있어 글씨가 거의 보이지 않습니다. ""버블링 마그""라는 단어가 보입니다."
-orlane,git,Placeable List/10/LocName,0,스프인드의 농장
+orlane,git,Placeable List/10/LocName,0,스핀들의 농장
 orlane,git,Placeable List/10/Description,0,무질서하게 그린 표지판에 '스핀드의 농장'이라고 적혀 있다.
 orlane,git,Placeable List/12/LocName,0,홀리호크 코티지
 orlane,git,Placeable List/12/Description,0,홀리호크 코티지
@@ -8368,7 +8368,7 @@ pocketdimension,git,Creature List/0/Description,0,"친절한 인상의 은발 �
 pocketdimension,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,람네의 갈대옷
 pocketdimension,git,StoreList/0/LocName,0,주머니 상점
 pocketdimension,git,StoreList/0/StoreList/1/ItemList/79/LocalizedName,0,요정의 창 +1
-pocketdimension,git,StoreList/0/StoreList/1/ItemList/79/Description,0,"이 무기를 잡을 때 때때로 작은 철학 소리가 들릴 수 있으며, 이는 이 창의 머리 부분에서 울려오는 것 같습니다."
+pocketdimension,git,StoreList/0/StoreList/1/ItemList/79/Description,0,"이 무기를 쥘 때 가끔씩 웃음소리 같은 작은 풍경 소리가 들리며, 창끝에서 울려 나오는 것처럼 느껴집니다."
 pocketdimension,git,StoreList/0/StoreList/1/ItemList/79/DescIdentified,0,요정들이 만든 이 마법 창에는 보름달빛 아래 픽시 가루를 뿌렸습니다. 이 무기에 맞은 자는 주변 공기에서 종소리처럼 울리는 요정들의 웃음에 정신이 팔립니다.
 pocketdimension,git,StoreList/0/StoreList/2/ItemList/78/LocalizedName,0,상급 회복 물약
 pocketdimension,git,StoreList/0/StoreList/2/ItemList/78/DescIdentified,0,"이 포션은 부정 에너지를 전달하는 생물들에 의해 빼앗긴 생명력을 회복시킵니다. 어두운 액체는 살아있는 존재 근처에서 빛나지만, 성분은 구별할 수 없습니다."
@@ -8377,11 +8377,11 @@ pocketdimension,git,StoreList/0/StoreList/2/ItemList/79/DescIdentified,0,"돌 �
 pocketdimension,git,StoreList/0/StoreList/3/ItemList/21/Description,0,엘프 문자와 샘이 그려진 단순한 은 반지
 pocketdimension,git,StoreList/0/StoreList/3/ItemList/21/DescIdentified,0,아보레아의 숲에서 제작된 이 반지는 치유의 엘프 신인 나랄리스 아날로르의 가장 헌신적인 종들에 의해 만들어졌습니다. 이 반지를 착용하는 사람들은 모든 종류의 감염과 질병에 면역입니다.
 pocketdimension,git,StoreList/0/StoreList/3/ItemList/22/LocalizedName,0,산성의 마법봉
-pocketdimension,git,StoreList/0/StoreList/3/ItemList/22/DescIdentified,0,녹색 드래곤의 침에서 만들어진 이 와드는 선택된 대상에 침식적인 산성 화살을 발사합니다.
+pocketdimension,git,StoreList/0/StoreList/3/ItemList/22/DescIdentified,0,녹색 드래곤의 송곳니로 만들어진 이 마법봉은 선택한 목표물에 부식성의 산성 화살을 발사한다.
 prisonerstent,git,Creature List/0/FirstName,0,산적 경비병
 prisonerstent,git,Creature List/0/Description,0,이 강도들은 다크리프 강도들이죠. 이 강도들은 다크리프 강도들이죠.
 prisonerstent,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,산적 스터디드
-prisonerstent,git,Creature List/0/Equip_ItemList/0/Description,0,다임 숲의 다크리프 강도들이 착용한 갈라진 가죽 갑옷
+prisonerstent,git,Creature List/0/Equip_ItemList/0/Description,0,딤 숲의 다크리프 강도들이 착용하는 가죽 누비 갑옷.
 prisonerstent,git,Creature List/1/FirstName,0,죄수
 prisonerstent,git,Door List/0/LocName,0,문
 prisonerstent,git,SoundList/0/LocName,0,반딧불이
@@ -8421,9 +8421,11 @@ ramneslab,git,StoreList/0/StoreList/2/ItemList/61/DescIdentified,0,"돌 가 ?? �
 ramneslab,git,StoreList/0/StoreList/3/ItemList/10/LocalizedName,0,지성의 막대
 ramneslab,git,StoreList/0/StoreList/3/ItemList/10/DescIdentified,0,"알트랙스는 플라네스 북쪽 차가운 울프 클랜의 야만족 지도자로, 라이벌 클랜의 마법사로부터 이 막대를 획득했다. 그의 새로 얻은 정신 능력은 그를 더 신중하고 고려된 지도자로 만들었지만, 이는 그의 이전 급한 용기와 모순되었고, 곧 그의 클랜원들에 의해 전복되었다. 그들은 먼저 싸우고 나중에 질문을 던지는 의지를 가지고 있었다."
 ramneslab,git,StoreList/0/StoreList/3/ItemList/11/LocalizedName,0,산성의 마법봉
-ramneslab,git,StoreList/0/StoreList/3/ItemList/11/DescIdentified,0,녹색 드래곤의 침에서 만들어진 이 와드는 선택된 대상에 침식적인 산성 화살을 발사합니다.
+ramneslab,git,StoreList/0/StoreList/3/ItemList/11/DescIdentified,0,녹색 드래곤의 송곳니로 만들어진 이 마법봉은 선택한 목표물에 부식성의 산성 화살을 발사한다.
 ramneslab,git,StoreList/0/StoreList/4/ItemList/7/LocalizedName,0,천족 기름
-ramneslab,git,StoreList/0/StoreList/4/ItemList/7/DescIdentified,0,이 축복받은 기름으로 치장된 무기로 타격을 당하는 외부인은 천상의 빛나는 겉보기에서 고통스러운 화상을 입게 될 것입니다.
+ramneslab,git,StoreList/0/StoreList/4/ItemList/7/DescIdentified,0,"이 축복받은 기름이 발린 무기에 맞은 외부인은 천상의 성물에서 뿜어져 나오는 고통스러운 화상을 입게 됩니다.
+
+(기름을 바르려면 근접 무기나 근접 무기를 장착한 생명체를 대상으로 사용하세요)"
 ramneslab,git,WaypointList/2/LocalizedName,0,이정표
 ramneslab,git,Placeable List/0/LocName,0,알케미스트 의 기기
 ramneslab,git,Placeable List/0/Description,0,이 테이블에 있는 거품과 유통에서 불쾌한 냄새가 난다.
@@ -8495,16 +8497,16 @@ rushmoornorth,git,Creature List/2/FirstName,0,트로글로디이트
 rushmoornorth,git,Creature List/3/FirstName,0,트로글로디이트
 rushmoornorth,git,Creature List/4/FirstName,0,트로글로디이트
 rushmoornorth,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-rushmoornorth,git,Creature List/4/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+rushmoornorth,git,Creature List/4/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 rushmoornorth,git,Creature List/5/FirstName,0,트로글로디이트
 rushmoornorth,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-rushmoornorth,git,Creature List/5/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+rushmoornorth,git,Creature List/5/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 rushmoornorth,git,Creature List/6/FirstName,0,트로글로디이트
 rushmoornorth,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-rushmoornorth,git,Creature List/6/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+rushmoornorth,git,Creature List/6/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 rushmoornorth,git,Creature List/7/FirstName,0,트로글로디이트
 rushmoornorth,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-rushmoornorth,git,Creature List/7/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+rushmoornorth,git,Creature List/7/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 rushmoornorth,git,Creature List/8/FirstName,0,그림자 그림자
 rushmoornorth,git,Creature List/8/Description,0,"그림자 모양의 인물, 은폐된 안개 속에서 거의 보이지 않습니다."
 rushmoornorth,git,Creature List/9/FirstName,0,그림자 그림자
@@ -8612,7 +8614,7 @@ rushmoornorth,git,Placeable List/9/Description,0,자연에서 찾아볼 수 있�
 rushmoornorth,git,Placeable List/10/LocName,0,움직이는 모래
 rushmoornorth,git,Placeable List/11/LocName,0,움직이는 모래
 rushmoornorth,git,Placeable List/11/Description,0,자연에서 찾아볼 수 있는 그런 것 같은 것
-rushmoornorth,git,Placeable List/12/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+rushmoornorth,git,Placeable List/12/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 rushmoornorth,git,Placeable List/15/LocName,0,도마뱀인 컨트롤러
 rushmoornorth,git,Placeable List/22/LocName,0,피의
 rushmoornorth,git,Placeable List/22/Description,0,특유의 붉은빛 때문에 이름 붙은 블러드퍼런은 주로 늪지대나 습지 같은 축축한 환경에서 자란다. 또한 이 이름은 특정 야만인 부족들이 이 고사리의 잎을 얼마나 높이 평가하는지 암시하기도 한다.
@@ -8726,11 +8728,11 @@ rushmoornorth,git,Placeable List/155/LocName,0,습지 식물
 rushmoornorth,git,Placeable List/156/LocName,0,습지 식물
 rushmoornorth,git,Placeable List/159/LocName,0,"도마뱀인 항아리, 중형"
 rushmoornorth,git,Placeable List/159/Description,0,한 항아리
-rushmoornorth,git,Placeable List/160/LocName,0,물고기장
+rushmoornorth,git,Placeable List/160/LocName,0,생선 건조대
 rushmoornorth,git,Placeable List/160/Description,0,한 항아리
-rushmoornorth,git,Placeable List/162/LocName,0,물고기장
+rushmoornorth,git,Placeable List/162/LocName,0,생선 건조대
 rushmoornorth,git,Placeable List/162/Description,0,한 항아리
-rushmoornorth,git,Placeable List/163/LocName,0,물고기장
+rushmoornorth,git,Placeable List/163/LocName,0,생선 건조대
 rushmoornorth,git,Placeable List/163/Description,0,한 항아리
 rushmoornorth,git,Placeable List/164/LocName,0,작업 테이블
 rushmoornorth,git,Placeable List/164/Description,0,한 항아리
@@ -8748,7 +8750,7 @@ rushmoornorth,git,Placeable List/175/LocName,0,침몰한 집
 rushmoornorth,git,Placeable List/177/LocName,0,침몰한 집
 rushmoornorth,git,Placeable List/178/LocName,0,문
 rushmoornorth,git,Placeable List/178/Description,0,이끼로 뒤덮인 오래된 나무 문.
-rushmoornorth,git,Placeable List/179/LocName,0,마슈 문
+rushmoornorth,git,Placeable List/179/LocName,0,습지 문
 rushmoornorth,git,Placeable List/180/LocName,0,상인
 rushmoornorth,git,Placeable List/183/LocName,0,Wrm_Mirkwood_Medium
 rushmoornorth,git,Placeable List/197/LocName,0,Wrm_Mirkwood_Medium
@@ -8792,10 +8794,10 @@ rushmoorsouth,git,Creature List/6/FirstName,0,오그릴론
 rushmoorsouth,git,Creature List/8/FirstName,0,트로글로디이트
 rushmoorsouth,git,Creature List/9/FirstName,0,트로글로디이트
 rushmoorsouth,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-rushmoorsouth,git,Creature List/9/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+rushmoorsouth,git,Creature List/9/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 rushmoorsouth,git,Creature List/10/FirstName,0,트로글로디이트
 rushmoorsouth,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-rushmoorsouth,git,Creature List/10/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+rushmoorsouth,git,Creature List/10/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 rushmoorsouth,git,Creature List/11/FirstName,0,녹색 망바
 rushmoorsouth,git,Creature List/11/Description,0,머어족에 거주하는 독성 녹색 마바마뱀은 특이하게도 공격적이며 그들의 영토로 들어오는 사람들을 빨리 물어대는 경향이 있습니다.
 rushmoorsouth,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,습지 뱀의 독니
@@ -8946,13 +8948,13 @@ rushmoorsouth,git,Placeable List/6/LocName,0,모기
 rushmoorsouth,git,Placeable List/7/LocName,0,마쉬 남부 조력자
 rushmoorsouth,git,Placeable List/8/LocName,0,모기
 rushmoorsouth,git,Placeable List/9/LocName,0,모기
-rushmoorsouth,git,Placeable List/15/Description,0,"인간처럼 보이는 무언가가 쳐지는 불 속에서 구워지지만, 불꽃은 안전한 휴식처를 제공해야 한다."
-rushmoorsouth,git,Placeable List/17/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+rushmoorsouth,git,Placeable List/15/Description,0,"타오르는 모닥불 위에서 정체 모를 인간 형상의 무언가가 구워지고 있지만, 불꽃 자체는 안전한 휴식처를 제공해 줄 것입니다."
+rushmoorsouth,git,Placeable List/17/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 rushmoorsouth,git,Placeable List/18/LocName,0,움직이는 모래
 rushmoorsouth,git,Placeable List/19/LocName,0,서명
 rushmoorsouth,git,Placeable List/19/Description,0,비바람에 바랜 표지판에는 '위험! 늪지!'라고 적혀 있다.
 rushmoorsouth,git,Placeable List/20/LocName,0,움직이는 모래
-rushmoorsouth,git,Placeable List/21/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+rushmoorsouth,git,Placeable List/21/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 rushmoorsouth,git,Placeable List/22/LocName,0,움직이는 모래
 rushmoorsouth,git,Placeable List/23/LocName,0,피의
 rushmoorsouth,git,Placeable List/23/Description,0,특유의 붉은빛 때문에 이름 붙은 블러드퍼런은 주로 늪지대나 습지 같은 축축한 환경에서 자란다. 또한 이 이름은 특정 야만인 부족들이 이 고사리의 잎을 얼마나 높이 평가하는지 암시하기도 한다.
@@ -9025,7 +9027,7 @@ selvinshome,git,Placeable List/3/Description,0,스튜에서 구수하고 근사�
 selvinshome,git,Placeable List/4/LocName,0,"판금, 백색 스테이크"
 selvinshome,git,Placeable List/4/Description,0,뜨거운 스테이크 저녁 식사.
 selvinshome,git,Placeable List/5/LocName,0,"접시, 흰색, 스튜"
-selvinshome,git,Placeable List/5/Description,0,뜨거운 스텔프 판
+selvinshome,git,Placeable List/5/Description,0,따뜻한 스튜 한 접시.
 selvinshome,git,Placeable List/11/LocName,0,드래거의 상자
 selvinshome,git,Placeable List/12/LocName,0,[NWN2] 바구니 - 과일
 shack,git,Creature List/0/FirstName,0,나무
@@ -9053,7 +9055,7 @@ shack,git,Placeable List/9/LocName,0,빈 상자 1
 shack,git,Placeable List/9/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 shack,git,Placeable List/11/LocName,0,요강
 shack,git,Placeable List/11/Description,0,요강.
-shack,git,Placeable List/20/LocName,0,포트리아 - 알로에
+shack,git,Placeable List/20/LocName,0,화분 - 알로에
 shack,git,Placeable List/20/Description,0,화분에 심은 식물
 shack,git,Placeable List/22/LocName,0,에르미트
 shack,git,Placeable List/22/Description,0,이 가난한 사람이 악의적인 임프에 의해 오븐에 강제로 넣힌 것 같습니다.
@@ -9111,7 +9113,7 @@ storeroom,git,Placeable List/19/LocName,0,빈 통
 storeroom,git,Placeable List/33/LocName,0,늙은 칼 2
 storeroom,git,Placeable List/34/LocName,0,노인 헬멧 2
 storeroom,git,Placeable List/35/LocName,0,노인 헬멧 6
-storeroom,git,Placeable List/36/LocName,0,노인 대도끼 5
+storeroom,git,Placeable List/36/LocName,0,오래된 그레이트 액스 5
 storeroom,git,Placeable List/37/LocName,0,"병, 깨진 (일)"
 storeroom,git,Placeable List/37/Description,0,깨진 병
 subterranea,git,Creature List/0/FirstName,0,거인 병사 개미
@@ -9181,17 +9183,17 @@ subterranea,git,Creature List/44/Description,0,"이 지능적이고 이동 가�
 subterranea,git,Creature List/46/FirstName,0,블랙 스콜피온
 subterranea,git,Creature List/46/Description,0,스korpions는 공격적인 척추 없는 동물이 그들의 stingers에 치명적인 독을 가지고 있습니다.
 subterranea,git,Creature List/47/FirstName,0,스팅어
-subterranea,git,Creature List/47/Description,0,"스팅어는 스코피온의 몸부림을 가진 기묘한 켄타우르의 변형처럼 보입니다. 인간 반은 붉은 피부로, 털이 없고, 거의 비인간적으로 아름다워 보입니다. 그들의 얼굴은 초자연적으로 차분합니다."
+subterranea,git,Creature List/47/Description,0,"스팅어는 전갈의 하반신을 가진 켄타우로스의 기괴한 변종처럼 보인다. 인간의 상반신은 붉은 피부에 털이 없으며, 비인간적일 정도로 잘생겼다. 그들의 얼굴은 초자연적일 매리만큼 평온하다."
 subterranea,git,Creature List/48/FirstName,0,블랙 스콜피온
 subterranea,git,Creature List/48/Description,0,스korpions는 공격적인 척추 없는 동물이 그들의 stingers에 치명적인 독을 가지고 있습니다.
 subterranea,git,Creature List/49/FirstName,0,거대한 검은 전갈
 subterranea,git,Creature List/49/Description,0,스korpions는 공격적인 척추 없는 동물이 그들의 stingers에 치명적인 독을 가지고 있습니다.
 subterranea,git,Creature List/50/FirstName,0,스팅어
-subterranea,git,Creature List/50/Description,0,"스팅어는 스코피온의 몸부림을 가진 기묘한 켄타우르의 변형처럼 보입니다. 인간 반은 붉은 피부로, 털이 없고, 거의 비인간적으로 아름다워 보입니다. 그들의 얼굴은 초자연적으로 차분합니다."
+subterranea,git,Creature List/50/Description,0,"스팅어는 전갈의 하반신을 가진 켄타우로스의 기괴한 변종처럼 보인다. 인간의 상반신은 붉은 피부에 털이 없으며, 비인간적일 정도로 잘생겼다. 그들의 얼굴은 초자연적일 매리만큼 평온하다."
 subterranea,git,Creature List/51/FirstName,0,스팅어 마지
 subterranea,git,Creature List/51/Description,0,"스팅어는 스코피온의 몸부림을 가진 켄타우르의 이상한 변형처럼 보입니다. 인간 반은 붉은 피부와 털이 없고, 거의 비인간적으로 아름답습니다. 얼굴은 초자연적으로 평온합니다. 마법사들은 광범위하게 문신을 하고 있으며, 눈에는 괴상한 황금빛이 번쩍입니다."
 subterranea,git,Creature List/52/FirstName,0,스팅어
-subterranea,git,Creature List/52/Description,0,"스팅어는 스코피온의 몸부림을 가진 기묘한 켄타우르의 변형처럼 보입니다. 인간 반은 붉은 피부로, 털이 없고, 거의 비인간적으로 아름다워 보입니다. 그들의 얼굴은 초자연적으로 차분합니다."
+subterranea,git,Creature List/52/Description,0,"스팅어는 전갈의 하반신을 가진 켄타우로스의 기괴한 변종처럼 보인다. 인간의 상반신은 붉은 피부에 털이 없으며, 비인간적일 정도로 잘생겼다. 그들의 얼굴은 초자연적일 매리만큼 평온하다."
 subterranea,git,Creature List/53/FirstName,0,블랙 스콜피온
 subterranea,git,Creature List/53/Description,0,스korpions는 공격적인 척추 없는 동물이 그들의 stingers에 치명적인 독을 가지고 있습니다.
 subterranea,git,Creature List/54/FirstName,0,싹
@@ -9206,13 +9208,13 @@ subterranea,git,WaypointList/13/MapNote,0,동굴 출구
 subterranea,git,WaypointList/14/MapNote,0,스팅거 동굴
 subterranea,git,WaypointList/15/MapNote,0,미코니드 동굴
 subterranea,git,Placeable List/3/LocName,0,부스러기
-subterranea,git,Placeable List/41/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+subterranea,git,Placeable List/41/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 subterranea,git,Placeable List/42/LocName,0,곡물 자루
 subterranea,git,Placeable List/43/LocName,0,곡물 자루
 subterranea,git,Placeable List/44/LocName,0,곡물 자루
 subterranea,git,Placeable List/44/Description,0,"이 곡물 가방에는 ""켄턴 밀러, 오르레인""가 표시되어 있습니다."
 subterranea,git,Placeable List/45/LocName,0,곡물 자루
-subterranea,git,Placeable List/46/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+subterranea,git,Placeable List/46/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 subterranea,git,Placeable List/54/Description,0,땅 위에 인간형의 골이 쌓여 있습니다.
 subterranea,git,Placeable List/54/ItemList/1/LocalizedName,0,번개 반지
 subterranea,git,Placeable List/54/ItemList/1/Description,0,이 금 반지는 밝은 파란색 사피르로 장식되어 있으며 내부 반지에 번개가 새겨져 있습니다.
@@ -9275,7 +9277,8 @@ templefirstfloor,git,Creature List/7/ItemList/0/LocalizedName,0,성전 감방 �
 templefirstfloor,git,Creature List/7/ItemList/0/Description,0,메리카 신전의 대사실에 있는 작은 셀의 열쇠
 templefirstfloor,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,반판 갑옷 +1
 templefirstfloor,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,공포의 메이스
-templefirstfloor,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,"보통의 망치는 악몽의 여신 바라의 무덤을 훔치는 사제들에 의해 무덤에서 훔쳐집니다. 그런 다음 달이 없는 밤에, 괴물 늑대의 울음소리가 들릴 때 귀에 가깝게 의식을 거쳐 공포의 망치를 만들게 됩니다."
+templefirstfloor,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,"악몽의 여신 바라의 무덤을 도굴하는 사제들이 미라가 된 시체에서 평범한 메이스를 훔쳐낸다.
+그후 달이 없는 밤에 늑대인간의 울음소리가 들리는 곳에서 의식을 거쳐 공포의 메이스를 탄생시킨다."
 templefirstfloor,git,Creature List/7/Equip_ItemList/4/LocalizedName,0,현혹된 생명체의 피부
 templefirstfloor,git,Creature List/8/FirstName,0,애니메이션 서적 (로컬 히스토리)
 templefirstfloor,git,Creature List/8/Description,0,이 한때 신성한 지식의 서적들은 이 성전에서 현재 지배하고 있는 비자연적인 힘에 의해 저주받았습니다.
@@ -9341,7 +9344,7 @@ templefirstfloor,git,Creature List/38/Description,0,크롤링 클라우즈는 �
 templefirstfloor,git,Creature List/39/FirstName,0,크롤링 클로
 templefirstfloor,git,Creature List/39/Description,0,크롤링 클라우즈는 암흑 마법으로 생명을 얻은 인간형 동물의 절단된 손들이다. 네크로마커스와 악마적인 사제들은 '추가된 한 손'이 유용한 다양한 작업에 사용한다.
 templefirstfloor,git,Creature List/39/ItemList/0/LocalizedName,0,크롤링 클로
-templefirstfloor,git,Creature List/39/ItemList/0/DescIdentified,0,이 부패한 손은 크로킹 클로브의 잔해입니다.
+templefirstfloor,git,Creature List/39/ItemList/0/DescIdentified,0,이 썩어가는 손은 크롤링 클로의 잔해다.
 templefirstfloor,git,Creature List/40/Equip_ItemList/2/LocalizedName,0,현혹된 생명체의 피부
 templefirstfloor,git,Creature List/41/FirstName,0,성전 해골
 templefirstfloor,git,Creature List/42/FirstName,0,개과 좀비
@@ -9661,7 +9664,9 @@ templefirstfloor,git,Placeable List/396/LocName,0,[NWN2] 긴의자 5
 templefirstfloor,git,Placeable List/410/LocName,0,향불
 templefirstfloor,git,Placeable List/410/Description,0,"이 향연기는 달콤한 향유가 축적되어 있으며, 이를 다시 회수할 수 있습니다."
 templefirstfloor,git,Placeable List/410/ItemList/0/LocalizedName,0,천족 기름
-templefirstfloor,git,Placeable List/410/ItemList/0/DescIdentified,0,이 축복받은 기름으로 치장된 무기로 타격을 당하는 외부인은 천상의 빛나는 겉보기에서 고통스러운 화상을 입게 될 것입니다.
+templefirstfloor,git,Placeable List/410/ItemList/0/DescIdentified,0,"이 축복받은 기름이 발린 무기에 맞은 외부인은 천상의 성물에서 뿜어져 나오는 고통스러운 화상을 입게 됩니다.
+
+(기름을 바르려면 근접 무기나 근접 무기를 장착한 생명체를 대상으로 사용하세요)"
 templeofmerik001,git,Creature List/0/FirstName,0,성전 해골
 templeofmerik001,git,Creature List/1/FirstName,0,성전 해골
 templeofmerik001,git,Creature List/2/FirstName,0,성전 해골
@@ -9699,10 +9704,10 @@ templeofmerik001,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,신전의
 templeofmerik001,git,Creature List/12/Equip_ItemList/3/LocalizedName,0,현혹된 생명체의 피부
 templeofmerik001,git,Creature List/13/FirstName,0,트로글로디이트
 templeofmerik001,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-templeofmerik001,git,Creature List/13/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+templeofmerik001,git,Creature List/13/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 templeofmerik001,git,Creature List/14/FirstName,0,트로글로디이트
 templeofmerik001,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,트로글로다이트 창
-templeofmerik001,git,Creature List/14/Equip_ItemList/0/Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+templeofmerik001,git,Creature List/14/Equip_ItemList/0/Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 templeofmerik001,git,Creature List/15/FirstName,0,메리카의 무사
 templeofmerik001,git,Creature List/15/Description,0,"이 깎은 머리 승려는 빨간 옷을 입고 있으며, 그 몸에 장식된 녹색 문신은 근육을 둘러싸고 얽힌 뱀과 비슷하다."
 templeofmerik001,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,신전의 수도사의 옷
@@ -9724,7 +9729,7 @@ templeofmerik001,git,Creature List/20/FirstName,0,황소 조각상
 templeofmerik001,git,Creature List/20/Description,0,황소상
 templeofmerik001,git,Creature List/21/FirstName,0,늑대 조각상
 templeofmerik001,git,Creature List/21/Description,0,늑대의 조각상.
-templeofmerik001,git,Creature List/22/FirstName,0,수달 조각상
+templeofmerik001,git,Creature List/22/FirstName,0,사슴 조각상
 templeofmerik001,git,Creature List/22/Description,0,鹿의 동상
 templeofmerik001,git,Creature List/23/FirstName,0,돼지상징
 templeofmerik001,git,Creature List/23/Description,0,돼지상징
@@ -9766,7 +9771,7 @@ templeofmerik001,git,WaypointList/8/MapNote,0,내부 예배당
 templeofmerik001,git,WaypointList/10/MapNote,0,일리안 여사의 방
 templeofmerik001,git,WaypointList/12/MapNote,0,동상실
 templeofmerik001,git,WaypointList/14/MapNote,0,계단 위로
-templeofmerik001,git,WaypointList/15/MapNote,0,청결한 수영장
+templeofmerik001,git,WaypointList/15/MapNote,0,정화의 물웅덩이
 templeofmerik001,git,WaypointList/16/MapNote,0,수도사의 셀
 templeofmerik001,git,WaypointList/18/MapNote,0,글꼴
 templeofmerik001,git,WaypointList/19/LocalizedName,0,지도 설명
@@ -9823,7 +9828,7 @@ templeofmerik001,git,Placeable List/49/Description,0,"이 나무 상자는 일�
 templeofmerik001,git,Placeable List/50/LocName,0,빈 통
 templeofmerik001,git,Placeable List/51/LocName,0,빈 통
 templeofmerik001,git,Placeable List/52/LocName,0,빈 통
-templeofmerik001,git,Placeable List/53/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+templeofmerik001,git,Placeable List/53/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 templeofmerik001,git,Placeable List/56/LocName,0,나무 상자
 templeofmerik001,git,Placeable List/56/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 templeofmerik001,git,Placeable List/60/Description,0,이 폐허는 한때 근처의 조각상 머리였습니다.
@@ -9836,13 +9841,13 @@ templeofmerik001,git,Placeable List/82/Description,0,작은 흰색 그릇.
 templeofmerik001,git,Placeable List/82/ItemList/0/LocalizedName,0,트루플
 templeofmerik001,git,Placeable List/82/ItemList/0/Description,0,이 향미 있는 식용 곰팡이는 실제로 매우 희귀하고 맛있는 트루플입니다.
 templeofmerik001,git,Placeable List/92/LocName,0,뼈
-templeofmerik001,git,Placeable List/92/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+templeofmerik001,git,Placeable List/92/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 templeofmerik001,git,Placeable List/93/LocName,0,뼈
-templeofmerik001,git,Placeable List/93/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+templeofmerik001,git,Placeable List/93/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 templeofmerik001,git,Placeable List/94/LocName,0,뼈
-templeofmerik001,git,Placeable List/94/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+templeofmerik001,git,Placeable List/94/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 templeofmerik001,git,Placeable List/95/LocName,0,뼈
-templeofmerik001,git,Placeable List/95/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+templeofmerik001,git,Placeable List/95/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 templeofmerik001,git,Placeable List/96/Description,0,거룩한 물로 가득 차 있는 은 바닷물
 templeofmerik001,git,Placeable List/97/Description,0,거룩한 물로 가득 차 있는 은 바닷물
 templeofmerik001,git,Placeable List/98/Description,0,거룩한 물로 가득 차 있는 은 바닷물
@@ -9918,7 +9923,7 @@ templeofmerik001,git,Placeable List/304/LocName,0,종교용기
 templeofmerik001,git,Placeable List/304/Description,0,당신의 발소리가 항아리의 어두운 깊은 곳에서 울려 퍼지며 메아리칩니다.
 templeofmerik001,git,Placeable List/305/LocName,0,백색 받침대
 templeofmerik001,git,Placeable List/306/LocName,0,백색 받침대
-templeofmerik001,git,Placeable List/307/Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+templeofmerik001,git,Placeable List/307/Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 templeofmerik001,git,Placeable List/309/LocName,0,백색 받침대
 templeofmerik001,git,Placeable List/310/LocName,0,백색 받침대
 templeofmerik001,git,Placeable List/313/LocName,0,말아 놓은 두루마리
@@ -10132,7 +10137,7 @@ vilmascottage,git,Placeable List/10/LocName,0,그림 - 소형 화려한 남자
 vilmascottage,git,Placeable List/11/LocName,0,그림 - 소형 어머니
 vilmascottage,git,Placeable List/12/LocName,0,침대 - 오크
 vilmascottage,git,Placeable List/12/Description,0,침대
-vilmascottage,git,Placeable List/14/LocName,0,포트리아 - 알로에
+vilmascottage,git,Placeable List/14/LocName,0,화분 - 알로에
 vilmascottage,git,Placeable List/14/Description,0,화분에 심은 식물
 vilmascottage,git,Placeable List/15/LocName,0,할아버지 시계
 vilmascottage,git,Placeable List/15/Description,0,할아버지 시계
@@ -10201,7 +10206,7 @@ module,jrl,Categories/2/EntryList/3/Text,0,"파충류 신의 통치는 끝났습
 module,jrl,Categories/3/Name,0,포로 로 잡힌 도마뱀
 module,jrl,Categories/3/EntryList/0/Text,0,리저드폴크 족장인 스라어그는 트로글로다이트들이 자신의 경호원인 우글루쉬를 포함해 부족민 다수를 포로로 잡아갔다고 말했습니다. 나는 교단의 기지로 잠입할 때 발견하는 리저드폴크는 누구든 풀어주겠다고 그에게 약속했습니다.
 module,jrl,Categories/3/EntryList/1/Text,0,"해충 신 의 웅덩이에 깊이 있는 곳 에서, 저는 여러 개구리 들 의 포로 를 해방 시켰습니다. 그 들 가운데 에 해구리 들 의 수장 스라라르그 의 헌신적 인 경호 인 우글루시도 있었습니다."
-module,jrl,Categories/3/EntryList/2/Text,0,"스라어그, 거북이족의 족장, 트로글로다이트들이 그의 부족, 특히 경호원 우글루시를 포함하여 몇 명을 감금했다고 말해줬다. 만약 그를 만나게 되면, 어떤 거북이족이라도 석방할지 고려해볼 것이다."
+module,jrl,Categories/3/EntryList/2/Text,0,리저드폴크 족장인 스라어그가 트로글로다이트들이 자신의 경호원인 우글루시를 포함해 부족민 여러 명을 포로로 잡아갔다고 말했다. 우연히 그를 만나게 된다면 리저드폴크들을 풀어줄지 생각해 봐야겠어.
 module,jrl,Categories/4/Name,0,차드몬의 징벌
 module,jrl,Categories/4/EntryList/0/Text,0,"러시머 무어 습지에서 한 항구 끝에 한 번 울었을 때, 체드몬이라는 골격 선박사가 나타나서 슬픈 이야기를 들려주었습니다. 몇 년 전, 그는 자신의 배를 타고 습지를 가로질러 사람들을 운반함으로써 생계를 벌었습니다. 어느 날 밤, 그는 마녀의 군집에서 어린 소년을 구해 보트에서 안전하게 운반했습니다. 아쉽게도, 마녀들은 마침내 가난한 배인에게 복수를 받았고, 그 다음을 살해했습니다. 그는 마녀들이 그를 죽었을뿐만 아니라 그의 영혼을 사로잡았다고 생각합니다. 그의 골격 형태는 이제 영원히 습지로 운반되어 있습니다. 아마도 내가 할 수있는 일이 있다면 도움이 될 수 있습니다. 마녀의 동북 동쪽의 동굴에 있는 이 동굴을 추적 할 수 있습니다. 체드 러시모는 나에게 망할 종을 휩쓸 수 있도록 제안했습니다. 나는 이미 자신의 종을 휩쓸고 있는 문에 있는 모든 잠재적인 종을 휩쓸고 있다면, 나는 그에게 도움을 요청할 수 있습니다."
 module,jrl,Categories/4/EntryList/1/Text,0,마녀들의 웅덩이에 유리 잔을 찾았는데 그 안에는 필사적인 형태가 갇혀 있는 것 같습니다. 아마도 이것은 차드몬의 영혼일지도 모릅니다.
@@ -10228,7 +10233,7 @@ module,jrl,Categories/7/Name,0,파라딘이 쓰러졌어요
 module,jrl,Categories/7/EntryList/0/Text,0,"저는 유산의 팔라딘, 가치의 신을 만났어요. 하지만, 이일리안 오데가르드 여신은 용기가 상당히 부족해 보이며, 유산이 그녀를 버렸다는 인상을 받고 있습니다. 그녀의 취약한 정신 상태에서, 그녀는 점차 교단의 비열한 의식에 노출되어 귀신되고 있습니다. 만약 내가 그녀의 믿음을 강화하는 방법을 찾지 못한다면, 그녀의 영혼은 영원히 잃을 수 있습니다."
 module,jrl,Categories/7/EntryList/1/Text,0,미사 데비 대사에게 보낸 메모는 신조가 최근 릴리안 오데가르드 여신을 그들의 소리로 어떻게 전환했는지 상세히 설명했습니다. 그러나 그녀의 의지는 강력하고 그녀는 아직 완전히 숙련되지 않았습니다. 아마도 릴리안 여신을 가장자리에서 다시 데려오는 방법이 아직 있습니다.
 module,jrl,Categories/7/EntryList/2/Text,0,"밸루르 (Valour) 는 헤이로네우스의 거룩한 검으로, 그의 숙녀인 이일리안 오데가르드가 심각한 위험에 처해 있었다고 알려 주었다. 그녀는 메리카 사원을 조사하던 중 납치되었다. 최근 밸루르가 그녀의 신전 현존을 다시 감지했음에도 불구하고, 그녀의 신앙이 이제 매우 취약한 것처럼 보인다는 우려가 있습니다. 만약 발루르가 주변의 힘 현장에서 해방되어 이일리안 여신에게 돌아간다면, 팔라딘은 여전히 구원받을 수 있습니다. 발루르 (Valour) 는 골격 마그 (square) 와 그의 마법 요원 (assistant) 에 의해 감옥에 갇혔다고 말했다."
-module,jrl,Categories/7/EntryList/3/Text,0,"저는 성스러운 검 발러를 마법의 감옥에서 구해냈고, 이제 그 여주인 기사 여왕 일리안 오데가드에게 돌려줘야 합니다. 발러는 아마 여주인의 무너진 믿음을 회복시킬 수 있을 것입니다."
+module,jrl,Categories/7/EntryList/3/Text,0,"저는 마법의 감옥에서 성스러운 검 발러를 구해냈으며, 이제 그 주인인 팔라딘 일리안 오데가드 부인에게 돌려주어야 합니다. 발러가 주인의 무너져가는 믿음을 되찾아 줄 수 있기를 바랍니다."
 module,jrl,Categories/7/EntryList/4/Text,0,"저는 팔라딘 레이디 일리안 오데가르드를 어둠의 가장자리에서 구했습니다! 종파에 얽매이면서, 그녀의 저항 의지는 시간이 지날수록 약해져갔습니다. 그러나 거룩한 칼 발루의 귀환은 팔라딘에게 그녀의 진정한 자아를 상기시켰고, 종파의 영향력을 마음에서 배척했습니다."
 module,jrl,Categories/7/EntryList/5/Text,0,"밸루르 (Valour) 는 헤이로네우스의 거룩한 검으로, 그의 숙녀인 이일리안 오데가르드 (Lady Illian Odegaard) 가 심각한 위험에 처해 있었다고 알려 주었다. 그녀는 메리카 성전에 대한 조사 중 납치되었다. 최근 밸루르 (Valour) 는 그녀의 신원을 다시 발견했음에도 불구하고, 그녀의 신앙은 이제 매우 취약한 것으로 보인다. 만약 밸루르 (Valour) 가 주변의 힘 현장에서 해방되어 밸루르 (Lady Illian) 에게 돌아간다면, 팔라딘 (Paladine) 은 여전히 구원받을 수 있을 것이다. 밸루르 (Valour) 는 스켈레트 마그 (Skeletal mage) 와 그의 부조가 감옥에 갇혀 있었다고 말했다. 밸루르 (Valour) 는 마법 관을 제거할 충분한 힘을 가질 수 있다고 생각하는 막대를 소유하고 있다. 밸루르 (Valour) 와 그의 숙녀 (Mistress) 는 내가 신경쓰는 모든 것을 위해 감옥에 갇혀있을 수 있다."
 module,jrl,Categories/7/EntryList/6/Text,0,헤이로네우스의 성검 발러를 가두고 있는 마법의 역장으로부터 해방시킬 마법봉을 찾았다.
@@ -10264,7 +10269,7 @@ module,jrl,Categories/13/EntryList/5/Text,0,메리카의 동물 아바타를 불
 module,jrl,Categories/13/EntryList/6/Text,0,"메리카의 동물 아바타를 불러내기 위해 대사당의 석회회로 들어갔는데, 동물들이 저를 도와주지 않았죠."
 module,jrl,Categories/13/EntryList/7/Text,0,메리카의 동물 형상들을 소환하는 의식을 마치려고 대사제의 예배당에 있는 돌 원형 제단에 들어갔습니다. 하지만 아브라모를 물리친 지금은 사원에 당장 닥친 위협이 없으므로 그 형상들이 구하러 올 필요도 없습니다. 그래도 남은 공물을 바치면 그들이 고마워할 거라고 생각합니다.
 module,jrl,Categories/14/Name,0,독이 든 물웅덩이
-module,jrl,Categories/14/EntryList/0/Text,0,아쿠아라는 물의 요정이 제 도움을 청했습니다. 그녀의 수영장이 독에 오염되어 디임 숲의 동굴로 탈출하게 되었습니다. 그러나 그녀는 물 밖에서 짧은 시간만 생존할 수 있으므로 빨리 행동해야 합니다.
+module,jrl,Categories/14/EntryList/0/Text,0,"아쿠아라는 물의 요정이 내게 도움을 청했다. 디임 숲의 동굴에 있는 그녀의 연못이 오염되어 뭍으로 도망쳐야 했다오. 하지만 그녀는 물 밖에서는 오래 살아남지 못하므로, 그녀를 구하려면 서둘러야 하오."
 module,jrl,Categories/14/EntryList/1/Text,0,"저는 물의 닌파 아쿠아를 끔찍한 죽음으로부터 구했습니다. 스프리건이 그녀의 수영장을 독살했다는 것을 알게 되었고, 악의 요정을 죽인 후, 저는 그의 보물 중 항독을 구했습니다. 아쿠아는 그 약물을 사용하여 수영장의 물을 깨끗이 했습니다."
 module,jrl,Categories/14/EntryList/2/Text,0,"저는 물의 나임파인 아쿠아를 끔찍한 죽음으로부터 구했습니다. 그녀의 수영장은 독이 났지만, 제 치유 기술을 사용하여 항독제를 만들어내고, 남은 액체로 그녀의 수영장의 물을 깨끗이 해냈습니다.
 
@@ -10287,11 +10292,15 @@ module,jrl,Categories/17/Name,0,이지 오리베로의 추적
 module,jrl,Categories/17/EntryList/0/Text,0,"강도 수용소 남쪽에서 제 주인 에 관한 몇 가지 걱정스러운 소식을 알게 되었습니다. 호초크 의 상인 조합원 의 장인 모레톤 만졸라 와 함께 하초크 에서 암흑선 강도 수용소를 파괴하려는 의도로 여행 한 잘 무장 한 인대를 만나게 되었습니다. 그 협회는 암흑선 강도로부터 몸값 노트를 받았고, 분명히 제 주인 이지 오리베로 를 안전하게 돌려받으려면 천 개의 금 동전을 요구했습니다. 모레톤은 몸값이 지불되었으나, 이지지는 약속대로 돌려받지 못했다고 밝혔다. 그러나 수용소에서 감옥에 갇혀 있을 때, 이지지는 포로 잡혀 있었다는 것을 암시하는 아무 것도 보지 못했습니다. 그렇다면, 누가 몸값을 썼으며, 실제로는 제 주인 이지는 어디로 갔습니까?"
 module,jrl,Categories/17/EntryList/1/Text,0,키린은 우리를 치명적인 괴물 배신으로 이끌어서 자신의 사신으로 돈을 지불했다. 그의 무살 시체에 대한 편지에서는 최근의 사건에 대해 약간의 빛을 비추었다. 키린은 모레톤이 이지키의 납치와 그 후의 몸값 요구가 더크리프 강도들에 의해 수행되지 않았다는 것을 발견하는 것을 막기 위해 지시되었습니다. 그러나 강도들을 자신의 악의적인 활동에 가피로 사용한 신비로운 그룹에 의해 수행되었습니다.
 module,jrl,Categories/17/EntryList/2/Text,0,오라네의 보석사인 하스칼리 울 (Haskali Ull) 는 이지 오리베로 (Iggy Olivero) 에 대해 좋은 소식이 들려주었습니다. 실종된 주인 (master) 은 사라지기 직전에 불과 몇 달 전에 하스칼리를 방문했습니다.
-module,jrl,Categories/17/EntryList/3/Text,0,"올레인의 보석상 하스칼리 울이 내게 말했지만, 이지 오리베로가 사라지기 직전에 불과 몇 달 전에 그를 방문했다. 반역자 와일리 던이 내 주인에게 골든 그레인 인에서 밤을 보내라고 조언한 것 같다는 것 같다. 그 시설에서의 나의 경험을 고려하면, 이지가 오랫동안 종파의 손에 있었다고 두려워하고, 현재는 죽거나 그들을 위해 일하고 있을 것이라고 생각한다."
+module,jrl,Categories/17/EntryList/3/Text,0,"올레인의 보석상 하스칼리 울은 이지 오리베로가 실종되기 불과 몇 달 전에 자신을 찾아왔었다고 내게 말했다.
+
+내 스승은 배신자 와일리 던의 조언에 따라 골든 그레인 인에서 하룻밤을 묵었던 모양이다. 그곳에서 겪었던 내 경험으로 미루어 볼 때, 이지는 벌써 오래전에 이단들의 손에 넘어가 지금은 목숨을 잃었거나 그들의 수족이 되었을 것이 두렵다."
 module,jrl,Categories/17/EntryList/4/Text,0,"골든 그레인 인의 터널에서, 나는 내 주인의 상인 길드의 토큰을 발견했다. 아마도 나를 납치하려고 했던 같은 집단에 의해 숙소에서 납치되었을지도 모른다. 터널에는 그의 흔적이 없다. 이지의 운명을 결정하려면 교단의 운영에 대해 더 알아보아야 한다."
 module,jrl,Categories/17/EntryList/5/Text,0,"이리안 오데가드 여신 이지오리베로 씨는 이리안 오리베로 씨를 목격했습니다! 그녀는 종파에 의해 포로로 잡혔고, 아직 알려지지 않은 장소에서 지하에 있는 진흙이 가득한 복합 시설에 갇혔습니다."
 module,jrl,Categories/17/EntryList/6/Text,0,"이지 오리베로를 찾기 위한 오랜 수색은 마침내 끝났다! 일플리틱 디필루스를 물리친 후, 나는 내 주인이 그녀의 둥지에 갇혀 있는 것을 발견했다. 그의 구출에 대한 기쁨은 분명했고, 다음으로 먹이로 지정되었기 때문에 더욱 강렬했다."
-module,jrl,Categories/17/EntryList/7/Text,0,"내 주인은 실종된 것 같아! 휴힐 사업 여행에서 한 날 늦게 돌아오지 않았는데, 목적지까지 도달하지 않은 것 같기도 하다. 그의 바그런들은 최근 점점 더 위험해진 덤포 무역 경로를 따라 이동하고 있었다. 아마 그럴 거야, 나는 동문 밖으로 나가서 숲의 가장자리를 둘러보고 그를 찾아볼까."
+module,jrl,Categories/17/EntryList/7/Text,0,"주인님이 실종되었어! 훅힐로 출장을 갔다가 돌아오는 게 하루 늦어졌을 뿐만 아니라, 목적지에도 도착하지 못한 모양이야.
+
+그의 마차들은 최근 점점 더 위험해진 딤 포레스트 교역로를 따라 향하고 있었지. 동문 밖으로 나가 숲 주변을 둘러보며 그를 찾아봐야겠어."
 module,jrl,Categories/17/EntryList/8/Text,0,"저는 이그지를 교파가 포로로 잡은 지역을 찾았지만, 저는 너무 늦은 것 같습니다."
 module,jrl,Categories/18/Name,0,밀러의 전설
 module,jrl,Categories/18/EntryList/0/Text,0,"켄턴 밀러는 며칠 전에 오라네에 도착했어야 할 훅힐발 곡물 마차들을 찾아봐달라고 부탁했다. 그 화물들이 들어오면 마을의 심각한 식량 위기를 덜 수 있겠지만, 그들의 안전이 염려되는 상황이다.
@@ -10348,7 +10357,7 @@ module,jrl,Categories/22/EntryList/4/Text,0,"나는 그루크라는 괴물을 �
 module,jrl,Categories/22/EntryList/5/Text,0,"덤 숲 의 서쪽 가장자리 에 있는 오리베로 선생 을 찾아가는 동안, 덤 블레프 반도족 의 한 쌍 의 반도족 들 이 저를 함락 으로 잡았고, 덤 숲 의 깊은 곳 에 있는 그들의 캠프 로 데려갔다. 하지만, 오늘 새벽 에 레드 스타 부족 의 반도족 들 이 캠프 에 대한 파괴적 인 공격 을 일으켜, 반도 들 을 열고 그 들 의 텐트 를 태웠다. 나는 프라카 를 이용 하여 반도족 해탈꾼 들 을 통해 탈출 을 위해 싸웠다. 그럼에도 불구하고, 반도족 피신 소리가 들리지 않았을 때, 그들의 숫자는 압도적 인 것으로 밝혀질 수 있었다."
 module,jrl,Categories/23/Name,0,상점주의 딸
 module,jrl,Categories/23/EntryList/0/Text,0,"오라네의 일반 상점에서 둘러보다 십대 소녀의 일기를 발견했고, 이 문제에 대해 부모들에게 물어보자 그들은 딸 시리릴이 호초크에서 가족과 함께 머물고 있음을 말했다. 아무래도 큰 문제는 아니었지만, 그들의 답변은 내 질문에 대한 것들과는 좀 다른 느낌이었다."
-module,jrl,Categories/23/EntryList/1/Text,0,저는 시릴리 핀라를 정신분열한 대제인 아브라모의 손에서 구해냈습니다. 그녀의 부모들은 교단의 가르침에 사로잡혀 있었기 때문에 그녀는 시카리아스 오먼드 촌장에게 피난처를 구하기 위해 도망쳤습니다.
+module,jrl,Categories/23/EntryList/1/Text,0,"나는 미쳐버린 대제사장 아브라모의 손에서 시릴리 핀라를 구출했다. 그녀의 부모들은 교단의 가르침에 빠져들었기에, 그녀는 자카리아스 오먼드 촌장에게 피신하기 위해 도망쳤고, 촌장이라면 그녀에게 필요한 안전을 제공해 줄 것이라 확신한다."
 module,jrl,Categories/24/Name,0,트레인트 트러블
 module,jrl,Categories/24/EntryList/0/Text,0,"그널로트, 명예로운 디미드숲 트란트가 도움을 요청했습니다. 그의 '나무 떼'는 Twig Blights, 건강한 나무에 부착되어 수분을 빨아드리는 기생 나무와 같은 생물들로부터 위협을 받고 있습니다.
 
@@ -10412,7 +10421,7 @@ aqua,utc,Description,0,"님프는 자연의 육체적 아름다움을 구현한 
 ash,utc,FirstName,0,아쉬
 ash,utc,LastName,0,클레이보른
 assassin,utc,FirstName,0,암살자
-assassin,utc,Description,0,이 긴장된 인물은 검은 갑옷을 입고 있지만 얼굴 스카프로 얼굴을 가리고 있다. 그는 두 번의 검을 경멸스럽게 휘두르는 것처럼 쉽게 움직인다.
+assassin,utc,Description,0,이 날렵한 인물은 검은 갑옷을 입고 있지만 안면 스카프로 얼굴이 가려져 있다. 그는 거침없는 솜씨로 쌍검을 휘두른다.
 assassinvines,utc,FirstName,0,암살자의 덩굴
 assassinvines,utc,Description,0,암살자 포도나무는 생물을 먹이는 무의식적인 식물입니다.
 azer,utc,FirstName,0,아제르
@@ -10484,7 +10493,7 @@ bullywugwarrior,utc,FirstName,0,툴리우그 투사
 bullywugwarrior,utc,Description,0,"붐우그는 개구리 머리, 회색, 녹색, 또는 황색 피부를 가진 양서류 인형물이다. 긴 발자국, 반짝이는 혀를 가지고 있으며 비로 싸웁니다. 붐우그로서의 삶은 거칠고 잔인하고 젖어있다. 그들의 사제들은 종종 통제 할 수 없는 생물들을 불러 불러내는 것으로 유명하다."
 burntbandit,utc,FirstName,0,강도
 burntbandit,utc,Description,0,이 강도들은 다크리프 강도들이죠. 이 강도들은 시트처럼 생겼습니다.
-captainolfas,utc,FirstName,0,올파스 대령
+captainolfas,utc,FirstName,0,올파스 대위
 captainolfas,utc,Description,0,"이 참전 용사는 호초크 상인 조합에 의해 고용된 것을 나타내는 상징으로 장식된 갑옷을 착용하고 있으며, 그는 엄격하고 확신에 차 있는 태도를 보이지만, 약간 웃음이 나올 만한 머리결로 망쳐진다."
 castingclaw,utc,FirstName,0,캐스팅 클로우
 castingclaw,utc,Description,0,"크롤링 클로는 인간형 생물의 잘린 손에 암흑 마법으로 생명을 불어넣은 것입니다. 반면 캐스팅 클로는 인간형 부족의 샤먼과 주술사에게서 떼어 낸 것으로, 원래 주인의 비전 능력을 일부 간직하고 있습니다."
@@ -10530,14 +10539,14 @@ deadgnome,utc,Description,0,이 노움은 독성 연기를 들이마시고 질�
 deadox,utc,Description,0,가축 들 은 가축 들 을 뜯어 뜯어 뜯어 뜯어 뜯어 뜯는 데 잘 적합 합니다. 이 가축 들 은 안타깝게도 굶주림 으로 죽었습니다.
 deadscout,utc,FirstName,0,스카우트
 deadscout,utc,Description,0,"이 시체의 옷은 모레톤 만졸라의 스카우트 중 한 명임을 나타내고 있으며, 시체는 아직 따뜻하지만 이미 부분적으로 먹힌 상태입니다."
-deerstatue,utc,FirstName,0,수달 조각상
+deerstatue,utc,FirstName,0,사슴 조각상
 deerstatue,utc,Description,0,鹿의 동상
 demonwebspider,utc,FirstName,0,악마의 웹 스파이더
 demonwebspider,utc,Description,0,"애비시안 출신으로, 특히 데몬웹 구덩이에서 발견되는 데몬웹 거미들은 드라이더와 함께 사냥을 자주 하고, 인간의 육체를 곤충의 식사보다 훨씬 선호합니다."
 demrie,utc,FirstName,0,데미리
 derek,utc,FirstName,0,데릭
 derek,utc,LastName,0,데슬리
-derek,utc,Description,0,"이 중년 남자는 왼 눈에 패치가 있으며, 자신 있게 두 번의 검을 휘두르며 순수한 악의 기운을 풍긴다."
+derek,utc,Description,0,이 중년 남자는 왼쪽 눈에 안대를 하고 있다. 그는 자신 있게 쌍검을 휘두르며 순수한 악의 기운을 뿜어낸다.
 dfswhobgoblin,utc,FirstName,0,호브고블린
 dfswhobgoblin,utc,Description,0,호브고블린은 호그보글의 큰 친척이다. 그들은 조직적이고 공격적이며 다른 인류 종족과 싸우는 것을 즐긴다. 따라서 이 호그보글이 더 약한 호그보글들과 만족스럽게 일하는 것처럼 보이는 것은 다소 이상하다.
 dfswogre,utc,FirstName,0,오그레
@@ -10680,7 +10689,7 @@ grayooze,utc,FirstName,0,그레이 오즈
 grayooze,utc,Description,0,"오즈는 형태를 변형할 수 있는 생명체로, 먹이만을 위해 존재한다. 그들은 전 세계의 지하 지역에 살고 있으며, 살아있는 것이나 죽은 것의 유기물 찾기 위해 동굴, 유적지, 던전을 탐색한다."
 greenhag,utc,FirstName,0,그린 해그
 greenhag,utc,Description,0,"녹색 마녀는 황폐한 습지와 어두운 숲에서 발견된다. 그들은 심한 녹색 피부를 가지고 있으며, 어두운 얽히고 석연치 않은 머리카락이 틀어진 포도나무와 비슷하다."
-greenslime,utc,FirstName,0,녹색 슬림
+greenslime,utc,FirstName,0,그린 슬라임
 greenslime,utc,Description,0,"오즈는 형태를 변형할 수 있는 생명체로, 먹이만을 위해 존재한다. 그들은 전 세계의 지하 지역에 살고 있으며, 살아있는 것이나 죽은 것의 유기물 찾기 위해 동굴, 유적지, 던전을 탐색한다."
 grover,utc,FirstName,0,경찰관
 grover,utc,LastName,0,루스카달
@@ -10697,7 +10706,7 @@ hammond,utc,LastName,0,오스하우
 hannah,utc,FirstName,0,하나
 hannah,utc,LastName,0,웨이버
 harpy,utc,FirstName,0,하피
-harpy,utc,Description,0,"악성과도 더 비참한 존재를 상상하기는 어렵다. 그의 부드러운 노래는 불운한 희생자들을 노예로 매료시키지만, 하리프가 현재 노예에게 지루함을 느끼면 그는 노예를 삼키고 새로운 먹이를 사냥하기 시작한다."
+harpy,utc,Description,0,"하피보다 더 악랄하고 비참한 피조물은 상상하기 어렵다. 그들의 감미로운 노랫소리는 불운한 희생자들을 예속시키지만, 하피가 현재의 노예에증 질리면 그 하인을 잡아먹고 새로운 먹이를 찾아 다시 사냥을 시작한다."
 haskali,utc,FirstName,0,하스칼리
 haskali,utc,LastName,0,이리 와보라.
 haskali,utc,Description,0,올레인의 주얼러는 유행하는 보라색 빛나는 의복과 매치된 주얼리 체인을 입고 있다.
@@ -10757,7 +10766,7 @@ leoni,utc,LastName,0,밀러
 leoni,utc,Description,0,이 건장한 붉은 머리 소녀는 열다섯 살쯤 되었다.
 leucrotta,utc,FirstName,0,레크로타
 leucrotta,utc,Description,0,"렉루토타는 사슴의 몸과 다리, 퍼진 꼬리, 납작한 머리를 가진 동물로, 이러한 요소들의 조합으로 인해 끔찍하고 무서운 외모를 갖추고 있다. 그들은 배고프지 않더라도 사냥을 즐기는 야만적인 살인자들이다. 불행한 먹이를 괴롭힌 후, 그들의 사냥감의 절박한 비명을 모방하여 더 많은 잠재적 피해자들을 자신의 둥지로 유인한다."
-lgreenslime,utc,FirstName,0,거구 녹색 슬림
+lgreenslime,utc,FirstName,0,대형 그린 슬라임
 lgreenslime,utc,Description,0,"오즈는 형태를 변형할 수 있는 생명체로, 먹이만을 위해 존재한다. 그들은 전 세계의 지하 지역에 살고 있으며, 살아있는 것이나 죽은 것의 유기물 찾기 위해 동굴, 유적지, 던전을 탐색한다."
 libraryskeleton,utc,FirstName,0,성전 해골
 libraryskeletona,utc,FirstName,0,성전 해골
@@ -10804,7 +10813,7 @@ merchantguard001,utc,FirstName,0,상인 협회 경비병
 merchantguardhoc,utc,FirstName,0,상인 협회 경비병
 merchantguardhoc,utc,Description,0,이 검을 들고 있는 경비자는 호초크의 상인 조합에 의해 고용되었습니다.
 messenger,utc,FirstName,0,메신저
-messenger,utc,Description,0,이 신선한 얼굴을 가진 청년은 풍선 아래에서 두려운 눈빛으로 당신을 쳐다본다.
+messenger,utc,Description,0,풋풋한 얼굴의 소년이 후드 아래로 조심스럽게 당신을 쳐다본다.
 mirrorzombie,utc,FirstName,0,좀비 전사
 mirrorzombie,utc,Description,0,"시체들은 시신을 통해 부활시키고, 좀비들은 정신이 없는 죽은 자들로, 그들의 부패하는 장내의 굶주림의 고통에 만족하려고 돌아다니고 있습니다."
 misha,utc,FirstName,0,미샤
@@ -10830,7 +10839,7 @@ monkofmerikkaf,utc,Description,0,이 민첩한 여성 수도승은 붉은 누더
 monkskeleton,utc,FirstName,0,해골 수도사
 monkskeleton,utc,Description,0,시련을 통과하지 못한 승려의 살아 움직이는 해골
 monkskeletonnorm,utc,FirstName,0,해골 수도사
-monkskeletonnorm,utc,Description,0,승려의 애니메이션 골격
+monkskeletonnorm,utc,Description,0,어느 수도사의 움직이는 해골.
 monkzombie,utc,FirstName,0,몬크 좀비
 monkzombie,utc,Description,0,"이 승려의 시체는 악으로 차려졌고, 불의 원소가 이 거룩한 땅에 오랫동안 존재하면서 좀비 형태로 애니메이트되었다. 이 일전에 순수했던 영혼을 불사르는 것은 복이 될 것이다."
 monstrouscent,utc,FirstName,0,괴물 지네
@@ -10964,7 +10973,7 @@ smallfrog,utc,FirstName,0,개구리
 smallfrog,utc,Description,0,"개구리는 몸집이 짧고 꼬리가 없는 양서류로, 두꺼비 같은 몸집과 두드러진 눈, 깜빡이는 혀를 가진 개구리입니다."
 snigrot,utc,FirstName,0,스니그로트
 snigrot,utc,LastName,0,루트
-snigrot,utc,Description,0,"이 콧수염을 만드는 남자는 숙소의 요리사지만, 그의 위생과 철저함은 매우 미흡하다."
+snigrot,utc,Description,0,"이 턱수염을 기른 이는 여관의 요리사지만, 위생과 맨정신을 유지하는 수준은 턱없이 부족하다."
 spinedlizard,utc,FirstName,0,톱니 도마뱀
 spinedlizard,utc,Description,0,"등가죽 도마뱀은 얕은 물에서 뿌리와 풀을 파는 큰 강력한 생물이다. 그러나 그들은 쉽게 공황을 겪으며, 놀라서는 강력한 자연 방어력을 사용하여 맹수들을 쫓아내는 경향이 있다. 그 넓은 등은 큰 가시로 덮여 있어 육전에 참여하려는 자를 방해하고 찌르는 경향이 있다."
 spittingcobra,utc,FirstName,0,독을 뱉는 코브라
@@ -11095,7 +11104,7 @@ giantlizardenc2,ute,LocalizedName,0,거대 나 Lizard
 giantwaspenc,ute,LocalizedName,0,자이언트 와스프
 goblinbarracks,ute,LocalizedName,0,고블린 병영
 grayoozeenc,ute,LocalizedName,0,그레이 오즈
-greenslimeenc,ute,LocalizedName,0,녹색 슬림
+greenslimeenc,ute,LocalizedName,0,그린 슬라임
 jaguarencounter,ute,LocalizedName,0,재규어
 lairptrltrogenc,ute,LocalizedName,0,캠프 순찰 트로글로다이트
 lairtrollenc,ute,LocalizedName,0,로어 트롤
@@ -11174,7 +11183,7 @@ bailiffsbelt,uti,DescIdentified,0,도시 지역의 경찰관들이 선호하는 
 balanceboots,uti,LocalizedName,0,균형을 잡는 장화
 balanceboots,uti,DescIdentified,0,고양이가 득실거리는 트와일라이트 수도원의 수도사들이 만든 이 장화는 착용자에게 뛰어난 균형 감각과 민첩성을 준다.
 banditstudded,uti,LocalizedName,0,산적 스터디드
-banditstudded,uti,Description,0,다임 숲의 다크리프 강도들이 착용한 갈라진 가죽 갑옷
+banditstudded,uti,Description,0,딤 숲의 다크리프 강도들이 착용하는 가죽 누비 갑옷.
 barnkey,uti,LocalizedName,0,창고 열쇠
 barnkey,uti,Description,0,벨의 어머니가 갇혀 있는 올레네 동쪽 창고의 열쇠.
 beltofbrisknes,uti,LocalizedName,0,브리스키니스 벨트
@@ -11239,7 +11248,9 @@ capeofwinter,uti,DescIdentified,0,"이 저항의 망토는 크리스탈미스트
 carrots,uti,LocalizedName,0,당근
 carrots,uti,Description,0,한 당근 한 무리가
 celestialfire,uti,LocalizedName,0,천족 기름
-celestialfire,uti,DescIdentified,0,이 축복받은 기름으로 치장된 무기로 타격을 당하는 외부인은 천상의 빛나는 겉보기에서 고통스러운 화상을 입게 될 것입니다.
+celestialfire,uti,DescIdentified,0,"이 축복받은 기름이 발린 무기에 맞은 외부인은 천상의 성물에서 뿜어져 나오는 고통스러운 화상을 입게 됩니다.
+
+(기름을 바르려면 근접 무기나 근접 무기를 장착한 생명체를 대상으로 사용하세요)"
 cellarkey,uti,LocalizedName,0,지하실 열쇠
 cellarkey,uti,Description,0,도리안이 준 열쇠가 골든 그레인 인의 기저장으로 들어갈 수 있게 해
 centipedebite,uti,LocalizedName,0,지네 물기
@@ -11272,7 +11283,7 @@ coralnecklace,uti,Description,0,이 매력적인 목걸이는 작은 붉은 산�
 corn,uti,LocalizedName,0,자루에 든 옥수수
 corn,uti,Description,0,몇 개의 황금 옥수수 덩어리
 crawlingclawdead,uti,LocalizedName,0,크롤링 클로
-crawlingclawdead,uti,DescIdentified,0,이 부패한 손은 크로킹 클로브의 잔해입니다.
+crawlingclawdead,uti,DescIdentified,0,이 썩어가는 손은 크롤링 클로의 잔해다.
 crown,uti,LocalizedName,0,왕관
 crown,uti,DescIdentified,0,금잎으로 장식된 단순한 왕관에 '모르투스 카데버로섬'이라는 글이 새겨져 있다.
 cubeskin,uti,LocalizedName,0,젤라틴 큐브의 껍질
@@ -11283,16 +11294,17 @@ demrierags,uti,LocalizedName,0,데미리의 낡은 옷
 despair,uti,LocalizedName,0,절망
 despair,uti,DescIdentified,0,"이 아침별에서 예감의 감각이 배어난다. 때리면 그 느낌이 더욱 강해지고, 피해자는 절망과 슬픔에 빠진다."
 divinetouch,uti,LocalizedName,0,신성한 접촉
-divinetouch,uti,DescIdentified,0,"크롤링 클라브의 유해와 성수를 결합하여 만들어진 이 뼈아픈 장갑들은 이제 신성한 에너지로 충전되어 있다. 그러나 크롤링 클라브의 창조 과정에서 사용된 고대 마법의 일부를 여전히 보유하고 있으며, 이를 하루에 한 번 채널링하여 적을 질식시킬 수 있다.
+divinetouch,uti,DescIdentified,0,"크롤링 클로의 유해와 성수를 결합하여 만들어진 이 뼈 장갑은 이제 신성한 에너지로 깃들어 있다. 하지만 이 장갑은 크롤링 클로를 만들 때 사용된 강령술 마법의 일부를 여전히 간직하고 있으며, 하루에 한 번 이를 집중하여 적을 질식시킬 수 있습니다.
 
-주로 수도사에게 유용하지만, 어떤 캐릭터도 이러한 장갑을 착용할 수 있다. 그러나 무장하지 않고 싸우지 않는 한 공격력이나 피해량 보너스를 얻을 수 없다."
+주로 수도사에게 유용하지만, 어떤 캐릭터든 이 장갑을 착용할 수 있습니다. 하지만 맨손으로 싸우지 않으면 공격이나 피해 보너스의 혜택을 받을 수 없습니다."
 divinetouchscrol,uti,LocalizedName,0,신성한 접촉 두루마리
 divinetouchscrol,uti,DescIdentified,0,"끔찍한 크롤링 클라브 가 파괴 될 경우, 그 잔해 는 마법사 의 에 있는 성 물 과 결합 하여 신성한 힘 을 어 있는 마법 의 장갑 을 만들 수 있다. 그러나 장갑 들 은 종종 그 장갑 을 만드는데 사용 된 네크로맨틱 매직 의 남아 있는 흔적 을 보존 할 것 이라고 경고 해야 한다."
 doctrine,uti,LocalizedName,0,아침빛의 교리
 doctrine,uti,Description,0,"서방에서 태양이 사라질 때 인류는 다음 날 아침 다시 우리 세계에 빛과 따뜻함을 가져다 줄 것으로 기대할 수 있을 뿐이다. 태양의 신인 펠로에게 헌신과 헌신으로, 아침 빛의 형제단은 태양이 일상의 주기를 유지하도록 노력합니다. 태양이 사라지고 세계가 추워지고 어두워지면, 형제는 북쪽으로 돌아와 기도와 묵상함으로써 태양이 얼어붙은 은신에서 떠오를 것을 기꺼이 의지하는 데에 자신의 에너지를 집중해야 합니다. 형제단의 헌신이 가치가 있다고 인정된다면, 펠로 는 그의 신성한 키린, 스타 생각,를 타고 태양을 추운 북쪽에서 동부에서 새롭게 떠오르는 겨울 밤으로 인도합니다. 그렇지 않으면 인류는 새벽에 이르기까지 운명되어 있습니다."
 donavansmail,uti,LocalizedName,0,도나반의 편지
 dreadmace,uti,LocalizedName,0,공포의 메이스
-dreadmace,uti,DescIdentified,0,"보통의 망치는 악몽의 여신 바라의 무덤을 훔치는 사제들에 의해 무덤에서 훔쳐집니다. 그런 다음 달이 없는 밤에, 괴물 늑대의 울음소리가 들릴 때 귀에 가깝게 의식을 거쳐 공포의 망치를 만들게 됩니다."
+dreadmace,uti,DescIdentified,0,"악몽의 여신 바라의 무덤을 도굴하는 사제들이 미라가 된 시체에서 평범한 메이스를 훔쳐낸다.
+그후 달이 없는 밤에 늑대인간의 울음소리가 들리는 곳에서 의식을 거쳐 공포의 메이스를 탄생시킨다."
 elemshieldpot,uti,LocalizedName,0,원소 방패 물약
 elemshieldpot,uti,DescIdentified,0,"이 거품이 이는 붉은 액체는 마신 자에게 극단적인 원소 피해로부터의 보호를 주고, 너무 가까이 다가오는 모든 자를 태우는 불꽃 오라로 감싸 줍니다.
 
@@ -11312,13 +11324,13 @@ femalemonkoutfit,uti,LocalizedName,0,여성 수도사의 옷
 feyantidote,uti,LocalizedName,0,항독 약
 feyantidote,uti,DescIdentified,0,이 특이한 색의 항독은 언세이리 페리의 보물 가운데 발견되었습니다. 대부분의 흔한 독을 치료하는 것 외에도 언세이리 페리의 항독은 생물의 독소를 중화시킵니다.
 feyspear,uti,LocalizedName,0,요정의 창 +1
-feyspear,uti,Description,0,"이 무기를 잡을 때 때때로 작은 철학 소리가 들릴 수 있으며, 이는 이 창의 머리 부분에서 울려오는 것 같습니다."
+feyspear,uti,Description,0,"이 무기를 쥘 때 가끔씩 웃음소리 같은 작은 풍경 소리가 들리며, 창끝에서 울려 나오는 것처럼 느껴집니다."
 feyspear,uti,DescIdentified,0,요정들이 만든 이 마법 창에는 보름달빛 아래 픽시 가루를 뿌렸습니다. 이 무기에 맞은 자는 주변 공기에서 종소리처럼 울리는 요정들의 웃음에 정신이 팔립니다.
 firespikeflower,uti,LocalizedName,0,불꽃초
 firespikeflower,uti,Description,0,불꽃등의 붉은 꽃.
 fish001,uti,LocalizedName,0,물고기
 fish001,uti,Description,0,"이 물고기는 알리콘 동굴 입구 바로 안쪽에 발견되었습니다. 세 마리의 뼈만 남아 있었고, 이 네 번째 물고기는 부분적으로 먹이로 쓰였습니다. 이것은 테트라입니다, 눈먼 동굴 물고기의 일종입니다."
-fistsoffury,uti,LocalizedName,0,분노의 권투
+fistsoffury,uti,LocalizedName,0,분노의 주먹
 fistsoffury,uti,DescIdentified,0,"돌수건의 잔인한 야만인 지상사들이 창조했으며, 전장에서 격노 상태에서 살해된 야만인의 손을 잘라 만든다는 소문이 있습니다."
 flameberries,uti,LocalizedName,0,불꽃
 flameberries,uti,Description,0,메리카 신성당에서 만든 붉은 타오른 열매의 세 개. 이 타오른 열매는 촉각에 따뜻하고 동물 동반자에게만 먹이도록 되어 있습니다.
@@ -11327,7 +11339,7 @@ flameberriesscro,uti,DescIdentified,0,자연을 진정한 헌신자인 사람이
 flamingaxe,uti,LocalizedName,0,화염 도끼
 flamingaxe,uti,DescIdentified,0,그들을 창조한 에프레티의 불의 힘으로 강화된 이 검은들은 화염이 폭발하여 목표물에 닿을 때마다 폭발합니다.
 flamingdart,uti,LocalizedName,0,불타는 칼날
-flamingdart,uti,DescIdentified,0,그들을 창조한 에프레티의 불의 힘으로 강화된 화염dí는 목표물에 착지할 때 폭발합니다.
+flamingdart,uti,DescIdentified,0,그것들을 창조한 에프리티의 화염으로 강화된 이 다트들은 목표물에 명중하면 불길을 뿜으며 폭발합니다.
 flamingshuriken,uti,LocalizedName,0,불타는 수리검
 flamingshuriken,uti,DescIdentified,0,"이 수리검은 만든 이프리트의 불꽃 힘이 깃들어 있어, 목표에 닿으면 불꽃과 함께 폭발한다."
 flamspherebite,uti,LocalizedName,0,불타는 구슬 물리기
@@ -11360,13 +11372,13 @@ globeofseeing,uti,LocalizedName,0,보는 구체
 globeofseeing,uti,Description,0,이 작은 물로 가득 찬 구슬을 들여다보면 표면에 파동이 퍼져난다. 자신을 미지의 적과 싸우는 그림 속에서 잠시 발견할 수 있다고 생각한다. 수분 동안 물을 들여다보는 것은 미래에 대한 희귀한 통찰력을 준다.
 gloomwingskin,uti,LocalizedName,0,희미한 피부
 gnomeoutfit,uti,LocalizedName,0,노움 의상
-goblinstew,uti,LocalizedName,0,고블린 스텔우
+goblinstew,uti,LocalizedName,0,고블린 스튜
 goblinstew,uti,Description,0,이 작은 요리 냄비에는 당신이 본 적이 있거나 냄새가 맡은 가장 혐오스러운 튀김이 들어 있습니다.
 gogglesminute,uti,LocalizedName,0,세밀한 시야를 위한 고글
 grapes,uti,LocalizedName,0,포도
 grapes,uti,Description,0,익은 포도 몇 개.
 grayoozeskin,uti,LocalizedName,0,회색 점액 가죽
-grayoozeslam,uti,LocalizedName,0,그레이 구름 폭격
+grayoozeslam,uti,LocalizedName,0,그레이 우즈 강타
 greendress,uti,LocalizedName,0,녹색 드레스
 greenhagclaw,uti,LocalizedName,0,녹색 하그 발톱
 greenhagprops,uti,LocalizedName,0,그린 해그 특성
@@ -11428,7 +11440,7 @@ hoodofhiding,uti,LocalizedName,0,숨기기 모자
 hoodofhiding,uti,Description,0,이 검은 뚜 은 가장 좁은 틈을 밖에 볼 수 없습니다.
 hoodofhiding,uti,DescIdentified,0,"이 검은 뚜 은 가장 좁은 틈만 가지고 있습니다. 검은 색으로 염색된 옷으로 만들어져 있으며, 착용자가 밤에 녹을 수 있습니다."
 howlersspine,uti,LocalizedName,0,호울러의 척추
-howlersspine,uti,Description,0,이 화살은 그들의 핸드가 무서운 호얼러로 그려져 있습니다.
+howlersspine,uti,Description,0,이 화살들의 자루에는 끔찍한 하울러의 문양이 새겨져 있다.
 howlersspine,uti,DescIdentified,0,"이 화살에는 무서운 호울러가 그려져 있습니다. 화살이 맞는다면, 불행한 대상은 판데모니움에서 울리는 호울러의 비명을 듣고 생사가 걸린 달리기에 들어갑니다!"
 huecuvaclaw,uti,LocalizedName,0,후쿠바 크라우
 huecuvaskin,uti,LocalizedName,0,후쿠바 피부
@@ -11479,11 +11491,11 @@ lawkeeper,uti,DescIdentified,0,"칼날에 새겨진 룬은 이 검의 이름이 
 하지만 원래 받은 이들 가운데 지금도 검을 가진 사람은 거의 없습니다. 대부분은 민병대가 가져갔거나 부유한 후원자가 믿을 만한 경호원에게 주었습니다."
 leonsoutfit,uti,LocalizedName,0,레오니의 의복
 leucrottabite,uti,LocalizedName,0,루크로타의 물기
-leucrottaskin,uti,LocalizedName,0,레크로타 갑옷
+leucrottaskin,uti,LocalizedName,0,레크로타 가죽
 lilyleaf,uti,LocalizedName,0,백합 잎
 lilyleaf,uti,Description,0,'메리카의 리리'의 잎은 다양한 질병을 치료하는 것으로 알려져 있습니다.
 litsunstick,uti,LocalizedName,0,태양 스틱
-litsunstick,uti,Description,0,이 자외선 스틱은 고통의 조각상의 불 속에서 켜졌습니다.
+litsunstick,uti,Description,0,이 선스틱은 고통의 동상의 불길 속에서 점화되었습니다.
 llywillanstudded,uti,LocalizedName,0,리윌란의 징박힌 가죽 갑옷
 lukeleather,uti,LocalizedName,0,루카의 가죽
 magberry,uti,LocalizedName,0,마그베리
@@ -11562,7 +11574,7 @@ moradinsmakers,uti,DescIdentified,0,모라딘의 성전에서 숙련된 드워�
 moretonsarmor,uti,LocalizedName,0,모레톤의 갑옷
 mosquitobite,uti,LocalizedName,0,모기 물림
 mosquitoskin,uti,LocalizedName,0,모시 피부
-mosscake,uti,LocalizedName,0,모시 케이크
+mosscake,uti,LocalizedName,0,이끼 케이크
 mosscake,uti,DescIdentified,0,"이 작은 갈색 케이크는 이끼와 버섯으로 만든다. 이끼 케이크의 효능은 재료를 어떻게 섞었느냐에 따라 크게 다르므로, 효과를 알아내는 유일한 방법은 먹어 보는 것이다."
 mosscakeheal,uti,LocalizedName,0,이끼 케이크(회복)
 mosscakeheal,uti,DescIdentified,0,"이 작은 갈색 과자는 이끼와 버섯으로 만들었으며, 치유 효과가 있다고 장담한 오크맨이 당신에게 주었습니다."
@@ -11704,7 +11716,7 @@ ringelemprot,uti,LocalizedName,0,원소 보호 반지
 ringofironwil,uti,LocalizedName,0,무쇠같은 의지의 반지
 ringofironwil,uti,DescIdentified,0,이 단순한 철띠는 착용자의 의지를 강화하고 강력한 마법을 저지하는 데 도움을 줍니다.
 ringofkyuss,uti,LocalizedName,0,키우스의 반지
-ringofkyuss,uti,DescIdentified,0,"키우스, 반신의 죽은 자를 기리기 위해 만들어진 이 뼈 반지는 착용자에게 음 에너지 평면과 약한 연결을 제공합니다. 어두운 사제들은 이 뼈 반지를 적에게 해를 끼치거나 죽은 자들을 치유하는 데 특히 유용하다고 생각합니다."
+ringofkyuss,uti,DescIdentified,0,언데드의 반신 키우스를 기리기 위해 만들어진 이 뼈 반지는 착용자에게 네거티브 에너지 플레인과의 희미한 연결을 제공합니다. 사악한 사제들은 이 반지를 사용하여 적에게 해를 입히고 언데드 하수인을 치유하는 데 특히 유용하게 씁니다.
 ringoflightning,uti,LocalizedName,0,번개 반지
 ringoflightning,uti,Description,0,이 금 반지는 밝은 파란색 사피르로 장식되어 있으며 내부 반지에 번개가 새겨져 있습니다.
 ringoflightning,uti,DescIdentified,0,"이 황금 반지는 희미한 파란색 사피어로 장식되어 있으며, 전기 에너지로 빛나고 있습니다. 이 반지는 폭풍 속에서 가장 높은 산에 서서 금속을 폭풍 거인들이 하늘을 번개로 채우는 동안 전기로 충전된 대기와 노출시킨 것으로 만들어진다고 합니다. 반지는 착용자에게 전기 에너지에 대한 저항력을 제공하며, 자신들의 번개를 던지도록 하는 능력을 부여합니다."
@@ -11714,7 +11726,7 @@ ringofthefey,uti,LocalizedName,0,페이의 반지
 ringofthefey,uti,DescIdentified,0,"이 금 반지는 특이하게도 가볍고, 요정의 민첩함과 예민한 감각을 착용자에게 전달한다. 이 선택된 아이템은 요정의 수수께끼를 올바르게 해결하여 얻었다."
 robesofmerikka,uti,LocalizedName,0,메리카의 망토
 robesofmerikka,uti,DescIdentified,0,"메리카 수도사 순례단에 의해 착용되는 이 의복은 섬세하게 가공된 실크로 만들어져 있으며, 모시로 내포되어 있다. 의복의 소리 흡수 특성은 움직임의 진동을 통해 먹이를 감지하는 생물들에게 착용자를 정확하게 찾아내는 것을 어렵게 한다."
-rodofechoes,uti,LocalizedName,0,에코의 루드
+rodofechoes,uti,LocalizedName,0,메아리의 막대
 rodofechoes,uti,DescIdentified,0,"이 막대기에서 때로는 낮은 찬송가가 울려 퍼진다. 그 안에 저장된 기도의 힘은 소란스러운 소음을 일으키는 데 사용될 수 있으며, 혹은 진지한 성찰의 침묵을 창조할 수도 있다."
 rodofhealing,uti,LocalizedName,0,엔피레아의 막대
 rodofhealing,uti,DescIdentified,0,"이 막대들은 윤리와 재산의 신 알리투르를 가장 열심히 섬기는 신도들에 의해 만들어집니다. 알리투르의 왕국인 에피리아는 셀레스티아의 다섯 번째 계층에 위치해 있으며, 치유사와 병원, 그리고 수많은 치유 샘과 치료적인 물로 유명합니다."
@@ -11766,7 +11778,7 @@ shockerskin,uti,LocalizedName,0,충격 피부
 shriekerskin,uti,LocalizedName,0,스리커 속성
 shurikenone,uti,LocalizedName,0,리켄
 skeletonkey,uti,LocalizedName,0,만능키
-skeletonkey,uti,Description,0,푸밍 무그 인에서 암살자가 발견한 열쇠
+skeletonkey,uti,Description,0,포밍 머그 여관의 암살자에게서 발견한 열쇠.
 skull,uti,LocalizedName,0,머리골
 skull,uti,DescIdentified,0,인간의 두개골은 당신의 영혼 깊숙이 들여다보는 것 같습니다.
 skullreaper,uti,LocalizedName,0,사신의 해골
@@ -11791,12 +11803,12 @@ sprigganblood,uti,Description,0,스프리건 피의 병
 sprigganchain,uti,LocalizedName,0,스프리건 사슬
 spriggankey,uti,LocalizedName,0,스프리건 키
 spriggankey,uti,Description,0,악의 스프리건의 시체에서 발견된 키
-sprigganskin,uti,LocalizedName,0,스프리건 갑옷
+sprigganskin,uti,LocalizedName,0,스프리건 가죽
 staffofstriking,uti,LocalizedName,0,강타의 지팡이
 staffofstriking,uti,DescIdentified,0,이 나무로 만든 스태프는 켄타우르 클랜 리더들이 제작하고 때로는 선한 드루이드나 레인저들에게 선물로 주어진다.
 staffofthesun,uti,LocalizedName,0,화염
 staffofthesun,uti,Description,0,이 지팡이는 밝게 빛나며 손에 닿으면 따뜻합니다.
-staffofthesun,uti,DescIdentified,0,"태양 신인 펠로 (Pelor) 의 축복으로, 이 막대기는 그들의 소지자에게 화려한 공격 능력과 극한 온도를 견딜 수 있는 능력을 제공합니다."
+staffofthesun,uti,DescIdentified,0,태양의 신 펠롤의 축복을 받은 이 지팡이는 소지자에게 강력한 화염 공격 능력과 극한의 온도에 견디는 능력을 부여합니다.
 stirgequeenbite,uti,LocalizedName,0,스터지 여왕 물리기
 stolengold,uti,LocalizedName,0,장물
 stolengold,uti,Description,0,금 동전으로 가득한 가방은 상인협회가 이지 오리베의 석방에 대한 몸값으로 지불한 것이다.
@@ -11814,7 +11826,7 @@ sturnlongsword,uti,DescIdentified,0,이 검은 한때 지금보다 훨씬 강한
 summoningritual,uti,LocalizedName,0,소환 의식
 summoningritual,uti,Description,0,"이 손으로 작성된 노트와 다이어그램의 컬렉션은 불의 원소 정령을 소환하는 의식을 상세히 설명합니다. 명백히 이것은 때때로 아침 빛의 형제단에서 수행되며, 그들은 특정 의식에서 불의 원소 정령을 사용하고 경외합니다. 이 노트들은 불의 차원에서 특정 원소 정령, 즉 임모라투스를 소환하는 것을 언급합니다."
 sunflowerseeds,uti,LocalizedName,0,태양광 씨앗
-sunflowerseeds,uti,Description,0,몇 개의 수박씨.
+sunflowerseeds,uti,Description,0,해바라기 씨 한 줌.
 sunsphere,uti,LocalizedName,0,태양의 구체
 sunsphere,uti,DescIdentified,0,이 유리 구슬 안에서 작은 불꽃이 타오르고 있다. 사용하면 유리가 깨지며 불꽃 구슬이 소환되어 잠시 동안 주인을 섬기다가 불의 원소계에 있는 고향으로 돌아간다.
 sunstick,uti,LocalizedName,0,태양 스틱
@@ -11858,7 +11870,7 @@ trogkey,uti,Description,0,트로글로다이트의 시체에서 빼낸 열쇠
 troglodyteshield,uti,LocalizedName,0,트로글로다이트 방패
 troglodyteshield,uti,Description,0,이 가벼운 방패들은 사형수 나무의 껍질로 만들어져 내구성과 물 내성을 갖추고 있습니다.
 trogspear,uti,LocalizedName,0,트로글로다이트 창
-trogspear,uti,Description,0,이 잔인한 날개가 달린 창은 트로글로다이트들이 잔인한 상처를 입히는 데 선호합니다.
+trogspear,uti,Description,0,이 잔인하게 미늘이 달린 창은 먹잇감에게 치명적인 상처를 입힐 수 있어 트로글로다이트들이 즐겨 쓴다.
 trollcutter,uti,LocalizedName,0,트롤카터
 trollcutter,uti,DescIdentified,0,트롤 전쟁에서 시장 자카리아스 오먼드가 사용한 이 검은 트롤을 잘라내기 위해 매우 효과적이며
 truffle,uti,LocalizedName,0,트루플
@@ -11885,7 +11897,7 @@ volt,uti,LocalizedName,0,볼트
 volt,uti,Description,0,이 작은 칼은 비자연적인 에너지로 번지며 소리가 난다.
 volt,uti,DescIdentified,0,"이 칼날은 전기 에너지를 내뿜습니다. 손잡이는 구리로 만들었고, 칼자루 끝은 푸른 용의 비늘로 장식했습니다."
 wandacidarrow,uti,LocalizedName,0,산성의 마법봉
-wandacidarrow,uti,DescIdentified,0,녹색 드래곤의 침에서 만들어진 이 와드는 선택된 대상에 침식적인 산성 화살을 발사합니다.
+wandacidarrow,uti,DescIdentified,0,녹색 드래곤의 송곳니로 만들어진 이 마법봉은 선택한 목표물에 부식성의 산성 화살을 발사한다.
 wandbellowing,uti,LocalizedName,0,고함의 마법봉
 wandbellowing,uti,DescIdentified,0,"안드로스핀크스의 발톱으로 만들고 만티코어의 포효가 들리는 거리에서 마법을 부여한 이 막대는, 적을 제압할 수 있는 엄청나게 큰 소리를 낼 수 있다."
 wandofacid,uti,LocalizedName,0,산의 막대
@@ -11985,7 +11997,7 @@ goldcoinpile,utp,LocName,0,금 동전 쌓임
 guardgravestone,utp,Description,0,이 무덤은 이 지역에서 쉽게 구할 수 있는 바위와 돌을 사용하여 빠르게 만들어졌습니다.
 hoe,utp,LocName,0,어떻게
 houseplant,utp,LocName,0,집 식물
-humanbones,utp,Description,0,땅 위에 인간의 골기가 쌓여 있습니다.
+humanbones,utp,Description,0,바닥에 인간의 뼈무더기가 널려 있습니다.
 knife,utp,LocName,0,칼
 lamp,utp,LocName,0,램프
 lantern,utp,LocName,0,랜턴

@@ -1,7 +1,7 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
 aarcl003,uti,LocalizedName,0,12836,투사의 갑옷
 amysteriouspacka,uti,LocalizedName,0,-1,수상한 박스
-barkeepclothes,uti,LocalizedName,0,-1,바텐더의 옷옷
+barkeepclothes,uti,LocalizedName,0,-1,술집 주인의 옷
 begger1clot001,uti,LocalizedName,0,-1,거지의 옷 1
 begger1clot002,uti,LocalizedName,0,-1,거지의 옷 2벌
 bloodyledger,uti,DescIdentified,0,-1,"이렇게 명백하게 불안정한 여성에게는, 그녀가 호출될 때 직접적이고 세심한 자세를 취할 수 있었다. 이 사서도 그 증거다. 이 사서도 바다 시장에서 Ulan Aurintar 한 곳에서 구입한 노예에게 수술을 수행하는 과정을 상세히 설명합니다. Farasano Corano를 통해. 세계 와인의 원료는 노예들의 시체 안에 도시로 밀수되어, 이제 파괴된 창고에서 처리를 위해 Quillian로 운송되었습니다. 이 사서도 노예들의 ""손실률""이 "" 수용 가능한 매개 변수 내에서""라는 메모가 포함되어 있습니다. 또한 Ulan이 자신의 수익을 절감하고 있기 때문에 화가 났고 그는 피폐에 대한 소문을 내세웠지만 ""이 곧 중요하지 않습니다"". 사서도 또한 하라시라는 여성이 운영하는 거리의 레벨을 상세히 설명합니다. 그녀의 승무원들과 함께, 빈 빈 채로 판매하고, 그녀는 분노하고 있습니다."
@@ -17,12 +17,12 @@ cloth031,uti,LocalizedName,0,12928,남성 고급 창부 복장
 cloth032,uti,LocalizedName,0,12928,여성 고급 창부 복장
 cochranearmor,uti,LocalizedName,0,-1,코크레인 갑옷
 commoner1clothes,uti,LocalizedName,0,-1,평민의 옷 1
-commoner2clot001,uti,LocalizedName,0,-1,바텐더의 옷옷
+commoner2clot001,uti,LocalizedName,0,-1,술집 주인의 옷
 commoner2clot002,uti,LocalizedName,0,-1,프렌티스의 옷
 commoner2clot003,uti,LocalizedName,0,-1,페데루스 여관주인
 commoner2clot004,uti,LocalizedName,0,-1,하멜의 의류
-commoner2clot005,uti,LocalizedName,0,-1,파튼 낡은 옷 입은 것
-commoner2clot006,uti,LocalizedName,0,-1,파튼 낡은 옷 입은 것
+commoner2clot005,uti,LocalizedName,0,-1,파튼의 낡은 옷
+commoner2clot006,uti,LocalizedName,0,-1,파튼의 낡은 옷
 commoner2clot007,uti,LocalizedName,0,-1,파턴 낡은 옷 3벌
 commoner2clothes,uti,LocalizedName,0,-1,평민 옷 2
 commoner3clot001,uti,LocalizedName,0,-1,평민 옷 3
@@ -99,7 +99,7 @@ item014,uti,LocalizedName,0,-1,퀼리언의 갑옷
 item015,uti,LocalizedName,0,-1,해상 시장 상인 의상
 item016,uti,LocalizedName,0,-1,노예상의 두건
 item017,uti,LocalizedName,0,-1,영혼 거래의 후원자
-junkmerchantclot,uti,LocalizedName,0,-1,잡동사니 상인의 옷옷
+junkmerchantclot,uti,LocalizedName,0,-1,잡동사니 상인의 옷
 karinacommonercl,uti,LocalizedName,0,-1,카리나의 평민 옷
 kreshclothes,uti,LocalizedName,0,-1,크레시의 의류
 kylaclothes,uti,LocalizedName,0,-1,카일라의 옷
@@ -143,9 +143,9 @@ ringofsending,uti,LocalizedName,0,-1,전송의 반지
 seamarketwarehou,uti,Description,0,-1,"이 문서들은 시 마켓 구역에 있는 여러 창고의 권리와 소유 관계를 상세히 담고 있으며, 그중 하나는 노예상 울란 아우린타르에게 임대되어 있다. 울란에게서 아주 많은 수의 노예를 사들인 영수증이 첨부되어 있고, 노예들의 '회복 후' 상태를 언급한 메모도 있다. 무엇에서 회복하는지는 적혀 있지 않다."
 seamarketwarehou,uti,LocalizedName,0,-1,해상 시장 창고 증권
 slaveroutfit,uti,LocalizedName,0,-1,노예복장
-slavesofulanc001,uti,LocalizedName,0,-1,울란의 노예 여성 옷 입은 자들
-slavesofulanc003,uti,LocalizedName,0,-1,울란의 노예 옷 입은 남자들
-slavesofulanclot,uti,LocalizedName,0,-1,울란의 노예 옷 입은 남자들
+slavesofulanc001,uti,LocalizedName,0,-1,울란의 노예 여성 의복
+slavesofulanc003,uti,LocalizedName,0,-1,울란의 노예 의복
+slavesofulanclot,uti,LocalizedName,0,-1,울란의 노예 의복
 soulkey001,uti,Description,0,-1,부드러운 철제 열쇠
 soulkey001,uti,LocalizedName,0,-1,영혼 거래 열쇠
 spiritualistlett,uti,Description,0,-1,"나의 사랑하는 파라사노, 내 주택 필요에 대해 많은 감사를 드리고 싶습니다. 나는 당신과 동의합니다. 라트홀은 코라노만큼의 권위있는 집의 조언자에게는 장소가 아닙니다. 북부 시장은 매우 편안하고 내 연구와 명상에 필요한 바로 같은 조용합니다."

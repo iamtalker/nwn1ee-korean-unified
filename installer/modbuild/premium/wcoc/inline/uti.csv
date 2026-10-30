@@ -2,7 +2,7 @@ Resource,ResType,FieldPath,LangID,StrRef,Text
 1helmet,uti,DescIdentified,0,-1,미세하게 제작된 헬멧에 마법이 녹아있습니다.
 1helmet,uti,Description,0,-1,좋은 헬멧.
 1helmet,uti,LocalizedName,0,12850,+1 투구
-abyssalgloves,uti,DescIdentified,0,-1,"이 장갑의 털이 자연적으로 녹색인지, 아니면 염색되었는지 확실하지 않지만, 그 기원은 무엇이든 간에, 그것은 확실히 초자연적이며 언데드와 어떤 식으로든 연결되어 있습니다. 장갑의 내부는 완전히 안전하지만, 극심한 주의를 제외하고는 외부에 닿는 것은 강한 마비감을 유발합니다. 때때로, 이 장갑으로 강한 타격을 가하면, 받는 사람에게 극심한 피해를 입히는 충격이 방출됩니다."
+abyssalgloves,uti,DescIdentified,0,-1,"이 장갑의 털이 원래 초록색인지 염색된 것인지는 확실치 않지만, 그 기원이 무엇이든 간에 분명 초자연적이며 언데드와 어떤 식으로든 연관되어 있다. 장갑의 안쪽은 완전히 안전하지만, 극도로 조심하지 않고 바깥쪽을 만지면 극심한 마비가 온다. 때때로 이 장갑으로 강력한 타격을 가하면 대상에게 엄청난 피해를 주는 충격파가 방출된다."
 abyssalgloves,uti,Description,0,-1,녹색 털로 만든 장갑입니다. 털이 자연색인지 염색되었는지 확실하지 않습니다.
 abyssalgloves,uti,LocalizedName,0,-1,아비사리 장갑
 acidrobe,uti,DescIdentified,0,-1,"이 의복은 착용자에게 산에 저항할 수 있는 능력을 부여하고 있으며, 약간의 마법을 부여합니다."
@@ -156,7 +156,7 @@ bsoulsucker3,uti,LocalizedName,0,-1,"단검 +2, 영혼흡수자"
 caladneisgift,uti,DescIdentified,0,-1,이 막대기는 마녀왕의 힘을 저항하는 데 도움이 될 것입니다.
 caladneisgift,uti,LocalizedName,0,-1,칼라드니의 선물
 carnage,uti,DescIdentified,0,-1,이 비참한 외모의 은 무섭게 마법을 감추고 있어 을 때 놀라운 속도를 부여합니다.
-carnage,uti,Description,0,-1,"가벼운 링거, 겉보기에는 특별한 것이 아닌."
+carnage,uti,Description,0,-1,겉보기에는 평범해 보이는 가벼운 도리깨.
 carnage,uti,LocalizedName,0,-1,가축
 catoninetail,uti,DescIdentified,0,90996,"아홉 꼬리 채찍, 애칭으로는 그냥 '캣'이라 불리는 이것은 선원들이 처벌을 내릴 때 쓰는 도구입니다. '캣의 맛'은 배 위의 규율을 유지하는 간단한 방법입니다. 이 채찍은 특히 고약한 판본으로, 꼬리마다 강철 가시가 달려 있고 일종의 수지에 담가 놓았습니다."
 catoninetail,uti,Description,0,-1,검은 손잡고 많은 꼬리있는 지팡이.
@@ -195,7 +195,7 @@ chivalrousplate,uti,LocalizedName,0,-1,기사판금
 cloak,uti,LocalizedName,0,-1,망토
 cloak001,uti,LocalizedName,0,-1,망토
 cloak002,uti,LocalizedName,0,-1,망토
-cloakofbluedr,uti,DescIdentified,0,-1,"용 코트는 용의 보물을 찾는 용감한 (혹은 무모한) 모험가를 위해 특별히 설계되었습니다. 용 사냥꾼은 용 코트를 둘러싸고, 이 생물들의 끔찍한 호흡 무기로부터 자신을 보호할 수 있습니다."
+cloakofbluedr,uti,DescIdentified,0,-1,용 망토는 용의 보물을 노리는 용감한(혹은 무모한) 모험가들을 위해 특별히 제작되었습니다. 용 사냥꾼은 이 망토를 두름으로써 이 생물들의 끔찍한 브레스 공격으로부터 자신을 보호할 수 있습니다.
 cloakofbluedr,uti,Description,0,-1,"드래곤의 상징으로 꾸며진 선형, 사단복"
 cloakofbluedr,uti,LocalizedName,0,-1,청룡의 망토
 cloakofcyrric,uti,DescIdentified,0,-1,"이 옷은 사이릭의 상징이 새겨진 멋진 망토이다. 이 망토는 사이릭의 악한 추종자들이 거짓말과 속임수를 퍼뜨릴 때 그들을 돕기 위해 사용된다. 망토는 누구나 착용할 수 있지만, 사이릭의 추종자들은 이 망토를 착용할 때 추가적인 힘을 발견하게 된다."
@@ -207,13 +207,13 @@ cloakofdarknes,uti,LocalizedName,0,-1,암흑 망토
 cloakofearth,uti,DescIdentified,0,-1,이 오래된 옷차림 을 드루이드 들 이 폭풍 속 에서 수행 하는 고대 의식 에서 사용 하기 위해 만들었다. 그 옷차림 들 내 의 마법 은 아직도 실용적 으로 유용 할 만큼 강력 하다.
 cloakofearth,uti,Description,0,-1,양털로 만든 화려한 목깃 망토. 흙 같은 질감이 느껴진다.
 cloakofearth,uti,LocalizedName,0,-1,대지 망토
-cloakofgolddr,uti,DescIdentified,0,-1,"용 코트는 용의 보물을 찾는 용감한 (혹은 무모한) 모험가를 위해 특별히 설계되었습니다. 용 사냥꾼은 용 코트를 둘러싸고, 이 생물들의 끔찍한 호흡 무기로부터 자신을 보호할 수 있습니다."
+cloakofgolddr,uti,DescIdentified,0,-1,용 망토는 용의 보물을 노리는 용감한(혹은 무모한) 모험가들을 위해 특별히 제작되었습니다. 용 사냥꾼은 이 망토를 두름으로써 이 생물들의 끔찍한 브레스 공격으로부터 자신을 보호할 수 있습니다.
 cloakofgolddr,uti,Description,0,-1,"드래곤의 상징으로 꾸며진 선형, 사단복"
 cloakofgolddr,uti,LocalizedName,0,-1,금 용의 망토
 cloakofhelm,uti,DescIdentified,0,-1,"이 옷은 헬름의 상징이 있는 훌륭한 망토입니다. 이 망토는 헬름의 사제들과 성기사들이 사용하여 혼란의 힘에 대항하여 추가적인 보호를 제공합니다. 망토는 누구나 착용할 수 있지만, 헬름의 추종자들은 이 망토를 착용할 때 추가적인 힘을 발견할 것입니다."
 cloakofhelm,uti,Description,0,-1,그 위에 헬멧의 표지가 있는 아름다운 모피.
 cloakofhelm,uti,LocalizedName,0,-1,헬름의 망토
-cloakofreddra,uti,DescIdentified,0,-1,"용 코트는 용의 보물을 찾는 용감한 (혹은 무모한) 모험가를 위해 특별히 설계되었습니다. 용 사냥꾼은 용 코트를 둘러싸고, 이 생물들의 끔찍한 호흡 무기로부터 자신을 보호할 수 있습니다."
+cloakofreddra,uti,DescIdentified,0,-1,용 망토는 용의 보물을 노리는 용감한(혹은 무모한) 모험가들을 위해 특별히 제작되었습니다. 용 사냥꾼은 이 망토를 두름으로써 이 생물들의 끔찍한 브레스 공격으로부터 자신을 보호할 수 있습니다.
 cloakofreddra,uti,Description,0,-1,"드래곤의 상징으로 꾸며진 선형, 사단복"
 cloakofreddra,uti,LocalizedName,0,-1,붉은 용의 망토
 cloakofreflect,uti,DescIdentified,0,66552,유명한 블루 드래곤 사냥꾼 레드거 시그먼드슨 (Redgar Sigmundsson) 은 항상 그의 무기 보관소에서 가장 중요한 아이템이라고 주장했습니다. 이 비범한 코트는 빛을 잡고 반사하는 어떤 종류의 빛나는 물질로 만들어졌습니다. 번개로부터 보호를 위해 가장 잘 사용됩니다.
@@ -332,7 +332,7 @@ enchantingstone,uti,DescIdentified,0,62369,"An enchanting stone can be rubbed on
 
 <c ÿÿ>Use: Cast on the melee weapon of your choice. Note: Do not use the Enchanting Stone on a weapon that already has a +1 (or more) bonus to hit/damage, nor on a ranged weapon.<cÿÿÿ>"
 enchantingstone,uti,LocalizedName,0,62367,매력의 돌
-enchantring,uti,DescIdentified,0,-1,"보호 반지의 훨씬 더 향상된 버전으로, 아마도 작은 기술자에 의해 만들어진 것 같습니다."
+enchantring,uti,DescIdentified,0,-1,"보호의 반지를 크게 강화한 버전으로, 아마 하급 장인이 만들었을 것이다."
 enchantring,uti,Description,0,-1,좋은 반지
 enchantring,uti,LocalizedName,0,-1,마법의 반지
 endlesscrossbow,uti,DescIdentified,0,-1,겉으로 보기에는 평범하지만 특별한 이 화살총은 자체 탄약이 필요하지 않습니다.
@@ -343,7 +343,7 @@ fatherhead,uti,LocalizedName,0,48893,네 아버지의 머리
 fearsomewand,uti,DescIdentified,0,14185,적들을 놀라게 하기 위해 사용되는 아주 기본적인 마법봉
 fearsomewand,uti,LocalizedName,0,14186,무서운 바구니
 fightingbrew,uti,DescIdentified,0,13440,호블린과 호블린이 만든 이 약은 전투에서 실력을 강화하는 데 사용됩니다.
-fightingbrew,uti,Description,0,-1,두꺼운 검은 액체는 냄비에서 얻을 수 있다.
+fightingbrew,uti,Description,0,-1,항아리에서 얻은 걸쭉하고 검은 액체.
 fightingbrew,uti,LocalizedName,0,13441,브루 싸우기
 finechainmail,uti,DescIdentified,0,-1,잘 만들어진 체인메일은 겉보기보다 훨씬 덜 무겁습니다.
 finechainmail,uti,LocalizedName,0,-1,좋은 사슬갑옷
@@ -355,7 +355,7 @@ firecape,uti,LocalizedName,0,66551,화염봉
 fireknife,uti,DescIdentified,0,-1,"불 칼은 코르미르의 추방 귀족들의 집단으로, 나라를 불안정하게 만들기 위해 살인을 저지르는 것을 목표로 한다. 한 이론에 따르면, 그들은 이러한 무기에서 이름을 따왔다는 것이다. 이 무기는 쉽게 숨길 수 있으며, 적들에게는 치명적이다."
 fireknife,uti,LocalizedName,0,-1,화염 나이프
 fireknifeleath,uti,DescIdentified,0,-1,불 칼의 고위 회원들이 사용하기 위해 마법으로 처리된 얇은 가죽 재킷입니다. 이 암살자 집단은 코르미르의 귀족을 파괴하기로 맹세했습니다.
-fireknifeleath,uti,Description,0,-1,"가죽으로 만든 고급 젠킨, 어두워지고 아마도 어떤 방식으로든 매법으로 수정된 것 같습니다."
+fireknifeleath,uti,Description,0,-1,가죽으로 만든 고급 가죽 조끼. 색이 어둡고 모종의 마법이 깃들어 있는 것 같다.
 fireknifeleath,uti,LocalizedName,0,-1,불의 칼 가죽
 firerobe,uti,DescIdentified,0,-1,"이 의복은 착용자에게 불에 저항할 수 있는 능력을 부여하고 있으며, 약간의 마법도 부여합니다."
 firerobe,uti,Description,0,-1,멋진 의상입니다.
@@ -376,7 +376,7 @@ forestersring,uti,LocalizedName,0,13459,포레스터의 반지
 frenzypotion,uti,DescIdentified,0,13440,호블린과 호블린이 만든 이 약은 전투에서 실력을 강화하는 데 사용됩니다.
 frenzypotion,uti,Description,0,-1,항아리에서 얻은 텁텁한 탕약.
 frenzypotion,uti,LocalizedName,0,13441,브루 싸우기
-frostbrand,uti,DescIdentified,0,-1,"검은 둥근 부분에 푸른색의 미세한 선들이 흐르고 있는 고급 검이다. 원래 이 검은 훌륭한 무기였지만, 어느 시점에 저주를 받았고, 일부 원래의 마법은 아직 남아 있다."
+frostbrand,uti,DescIdentified,0,-1,"날을 따라 푸른빛의 가느다란 물줄기가 흐르는 멋진 검. 원래는 훌륭한 무기였으나, 어떤 시점에 저주를 받아 원래의 마법력 중 일부만 남아 있다."
 frostbrand,uti,Description,0,-1,검날을 따라 푸른빛의 가늘고 희미한 물결이 흐르는 멋진 검이다.
 frostbrand,uti,LocalizedName,0,-1,프로스트브랜드
 fullplatev,uti,DescIdentified,0,-1,"이 아름답게 제작된 전체 판의 갑옷은 제작자의 표식이 없지만, 작은 마법을 지니고 있습니다."
@@ -604,7 +604,7 @@ longblight,uti,DescIdentified,0,-1,"이 기묘한 모양의 창날은 녹 때문
 longblight,uti,Description,0,-1,"이 특이한 모양의 창은 빛이 거의 검게 어두워 보이지만, 자세히 살펴보면 어떤 이상한 재료로 만들어졌다는 것을 알 수 있습니다."
 longblight,uti,LocalizedName,0,-1,긴 시간
 longbowyew,uti,DescIdentified,0,-1,"보통의 롱보이는 다르지 않습니다. 이 롱보이는 유에 의해 제작되었습니다. 롱보이는 표준 롱보보다 크게 크다. 이것은 더 약한 캐릭터에 도움이 되지 않을 것입니다 (강력 12보다 적은 것은 그것을 사용할 수 없습니다), 그러나 더 강한 캐릭터는 추가적인 롱을 사용할 수 있습니다. 롱보이는 마법이 아닙니다. 따라서 평균 롱보보다 몇 가지 금이 더 비싸습니다. 장비에 있어서, 롱보이는 강도에 따라 강력한 보너스를 부여합니다: +1 보너스 최소 = 14 +2 보너스 최소 = 17 +3 보너스 최소 = 20"
-longbowyew,uti,LocalizedName,0,-1,"장궁, 예우"
+longbowyew,uti,LocalizedName,0,-1,주나무 장궁
 longswordofhel,uti,DescIdentified,0,-1,"훌륭하게 제작된 균형감 있는 검으로, 이 장검들은 헬름에게 전념되어 있습니다."
 longswordofhel,uti,Description,0,-1,매우 잘 제작된 균형이 잘 잡힌 검이다.
 longswordofhel,uti,LocalizedName,0,-1,헬름의 장검
@@ -756,7 +756,7 @@ nightblade,uti,LocalizedName,0,-1,나이트 블레이드
 nightmarehoof,uti,LocalizedName,0,13222,악몽 호프
 nightmaskleather,uti,DescIdentified,0,-1,가죽의 얇은 이 어두워지고 밤 마스크의 고위원들에 의해 사용되기 위해 마술되어 착용자가 엄청나게 민첩하고 미묘하게 변합니다.
 nightmaskleather,uti,Description,0,-1,"가죽으로 만든 멋진 가죽 상의로, 어둡게 처리되었고 모종의 마법이 깃들어 있는 것 같다."
-nightmaskleather,uti,LocalizedName,0,-1,밤 마스크 가죽
+nightmaskleather,uti,LocalizedName,0,-1,나이트 마스크 가죽
 nightpotion,uti,DescIdentified,0,13440,"이 이상한 포션은 아마도 드워프가 만들어졌고, 표면에 진출할 때 사용되었습니다."
 nightpotion,uti,LocalizedName,0,13441,밤물약
 nobleplate,uti,DescIdentified,0,-1,"이 판금옷은 외관상 매우 장식적이지만 여전히 기능적이며, 아주 미세한 마법이 작용하고 있다. 아마도 어떤 기사단에 속했던 것일 것이다."
@@ -795,7 +795,7 @@ platinumtradeb,uti,LocalizedName,0,48893,플래티넘 트레이드 바
 plotwand,uti,LocalizedName,0,-1,플롯 마법봉
 poisonersglove,uti,DescIdentified,0,-1,초록색 장갑을 착용하면 가장 교육받지 못한 사람도 독의 사용과 회피에 전문가가 됩니다.
 poisonersglove,uti,Description,0,-1,명백한 특성 없이 녹색 장갑.
-poisonersglove,uti,LocalizedName,0,-1,독사 장갑
+poisonersglove,uti,LocalizedName,0,-1,독살자의 장갑
 polterblade,uti,DescIdentified,0,-1,"이 칼 안에 있는 롤터게이스트의 불안한 영은 이미 당신으로부터 정복당했고, 그 영은 이제 당신 명령에 따라 구속되어 있습니다. 하루에 두 번 그 힘은 당신 안에서 흐르도록 방출될 수 있습니다."
 polterblade,uti,LocalizedName,0,-1,어
 poltergeistprop,uti,LocalizedName,0,13195,폴터게이스트 물건
@@ -817,7 +817,7 @@ prayeramulet,uti,LocalizedName,0,-1,기도의 부적
 prayerring,uti,DescIdentified,0,-1,"기도 반지는 기도자리의 더 강력한 버전이며, 예배를 집중시키는 데 사용되며, 따라서 착용자의 신으로부터 더 큰 보너스를 얻습니다. 그들은 모든 사람이 사용할 수 있지만 사제 손에 가장 효과적입니다. 효과의 힘과 길이는 착용자의 수준에 따라 다르지만 최대 10 라운드까지 지속됩니다. 효과는 신에 따라 달라집니다."
 prayerring,uti,Description,0,-1,이 반지는 종교적인 상징으로 작업되었습니다.
 prayerring,uti,LocalizedName,0,-1,기도 반지
-precisioncrossb,uti,DescIdentified,0,-1,올바른 지점을 찍으면 이 가벼운 화살총은 볼트를 집어넣는데 힘을 가지고 있습니다.
+precisioncrossb,uti,DescIdentified,0,-1,"정확한 지점을 타격하면, 이 경이로운 석궁은 볼트를 적에게 깊숙이 박아 넣는 위력을 발휘합니다."
 precisioncrossb,uti,LocalizedName,0,-1,정확성 크로스보
 puremight,uti,DescIdentified,0,-1,"이 무거운 해마어는 속으로 부착된 것처럼 보이는 것에서 만들어져 있지만, 그 미련한 기술력은 단지 쇼일 뿐이다."
 puremight,uti,Description,0,-1,"무쇠처럼 보이는 무거운 머리 부분이 자루에 조잡하게 붙어 있는 망치입니다. 솜씨가 형편없는 걸까요, 아니면 일부러 그렇게 만든 걸까요?"
@@ -858,7 +858,7 @@ reddragonscale,uti,LocalizedName,0,13665,레드 용의 비늘
 retreathorn,uti,DescIdentified,0,62369,이 뿔나팔을 불면 모든 병사에게 전투에서 이탈해 원래 위치로 후퇴하라고 명령합니다.
 retreathorn,uti,LocalizedName,0,62367,후퇴하는 뿔
 rgreataxe,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
-rgreataxe,uti,LocalizedName,0,515,복제된 대도끼
+rgreataxe,uti,LocalizedName,0,515,개조된 그레이트액스
 rgreatsword,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
 rgreatsword,uti,LocalizedName,0,167,재제작된 대검
 rhalberd,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
@@ -898,7 +898,7 @@ rkatana,uti,LocalizedName,0,1535,재제작된 카타나
 rkukri,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
 rkukri,uti,LocalizedName,0,1536,재제작된 쿠크리
 rlightflail,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
-rlightflail,uti,LocalizedName,0,176,'경도리깨' 재제작
+rlightflail,uti,LocalizedName,0,176,개량형 경량 도리깨
 rlighthammer,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
 rlighthammer,uti,LocalizedName,0,1531,재제작된 경량 망치
 rlongsword,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
@@ -931,7 +931,7 @@ rope,uti,LocalizedName,0,13490,밧줄
 royalbandedmai,uti,DescIdentified,0,-1,"이 띠 된 갑옷 은 특정 제조자 의 흔적 을 가지고 있지 않지만, 이 옷 은 훌륭 한 공예품 이다. 사용 된 염료 는 역사 에서 어느 때 에는 왕 의 소유자 를 암시 한다. 착용자 는 보호 받을 뿐 아니라 시간이 지남 에 따라 치유 될 것 이다."
 royalbandedmai,uti,LocalizedName,0,12843,왕실 철판 갑옷
 rquarterstaff,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
-rquarterstaff,uti,LocalizedName,0,1544,복제된 육척봉
+rquarterstaff,uti,LocalizedName,0,1544,재련된 육척봉
 rrapier,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
 rrapier,uti,LocalizedName,0,1545,재조성된 세검
 rscimitar,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
@@ -953,7 +953,7 @@ runebracer,uti,DescIdentified,0,-1,"팔찌는 띠에 글씨가 새겨져 있으�
 runebracer,uti,Description,0,-1,띠 주변에 글씨가 새겨진 팔찌와 명확하게 새겨진 단 하나의 룬
 runebracer,uti,LocalizedName,0,-1,룬 브레이서
 rwarhammer,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
-rwarhammer,uti,LocalizedName,0,178,리포지드 전쟁망치
+rwarhammer,uti,LocalizedName,0,178,재련된 전쟁망치
 sailorsclothes,uti,LocalizedName,0,12930,선원 의복
 saintlyhelm,uti,DescIdentified,0,-1,이 아름다운 헬멧에는 악으로부터 착용자를 보호하는 마법이 걸려 있습니다.
 saintlyhelm,uti,Description,0,-1,이상한 헬멧
@@ -1007,7 +1007,7 @@ silverarrows,uti,DescIdentified,0,-1,실버 톱니 화살가 비싸지만 늑대
 silverarrows,uti,Description,0,-1,실버 톱니 화살가 비싸지만 늑대 짐승에 대항하는데 유용하다
 silverarrows,uti,LocalizedName,0,-1,은화살
 silverchalice,uti,DescIdentified,0,-1,"이것은 작은 은색 주전자로, 잎 모티브가 있습니다. 그 원래는 알 수 없지만, 이 주전자는 매일 맑은 액체로 채워집니다. 마실 때마다 이 액체는 작은 치유력을 가지고 있습니다."
-silverchalice,uti,Description,0,-1,작은 은색 주전자에 잎 모티브가 있습니다.
+silverchalice,uti,Description,0,-1,나뭇잎 무늬가 새겨진 작고 은빛 성찬컵.
 silverchalice,uti,LocalizedName,0,13665,은잔
 silverknife,uti,DescIdentified,0,-1,은과 차가운 철로 만들어진 단단한 합금 블레이드로 세련된 창이다.
 silverknife,uti,Description,0,-1,은빛으로 된 날을 가진 이상하게 생긴 단검.
@@ -1030,14 +1030,14 @@ sliver,uti,Description,0,-1,아주 날카로운 톱니가 있는 얇은 도끼.
 sliver,uti,LocalizedName,0,-1,슬라이버
 smithsclothes,uti,LocalizedName,0,12835,대장장이의 옷
 smithsgloves,uti,DescIdentified,0,-1,"이와 같은 한 쌍의 장갑은 위대한 용공인에 의해 사용된 것으로 알려져 있다. 그는 도공 대회에서 사용하기 위해 장갑을 향상시켰다. 그는 평범한 장갑 한 쌍을 마법으로 강화하여 판사들로부터 감지되지 않기를 바랐다. 그가 성공했는지는 기록에 남아 있지 않지만, 이 아이디어는 곧 따라졌다는 것이 알려져 있다."
-smithsgloves,uti,Description,0,-1,갈색 가죽 장갑으로서
+smithsgloves,uti,Description,0,-1,갈색 가죽 장갑 한 켤레.
 smithsgloves,uti,LocalizedName,0,-1,대장장이의 장갑
 snakeproperti001,uti,LocalizedName,0,-1,하이브리드 뱀 속성
 snakeproperties,uti,LocalizedName,0,-1,뱀 속성
 snakeskincloak,uti,DescIdentified,0,66552,이 옷은 특정 종류의 뱀의 피부로 만들어져 마법에 쉽게 적응할 수 있습니다. 종종 그 뱀의 형태로 마법이 나타납니다.
 snakeskincloak,uti,Description,0,-1,어떤 파충류의 피부로 만든 긴 방복.
 snakeskincloak,uti,LocalizedName,0,66551,뱀피부 망토
-snakestaff,uti,DescIdentified,0,-1,"이 막대기는 어두운 나무로 만들어져 있으며, 철로 묶여 있고, 무거운 납 끝으로 끝이 달려 있다. 그 안에는 고대 마법이 작용하여 코브라가 막대기에 묶여 있다. 막대기가 상대방을 공격할 때 코브라의 머리가 끝에서 튀어나와 물려 먹으려고 한다. 하루에 한 번 코브라는 막대기에서 풀릴 수 있지만, 지능이 없어 눈에 보이는 적만 공격한다."
+snakestaff,uti,DescIdentified,0,-1,"이 지팡이는 어두운 나무로 만들고 철로 묶었으며, 무거운 납 마개로 끝을 장식했다. 그 안에는 코브라를 지팡이에 결박하는 고대 마법이 깃들어 있다. 지팡이가 적을 타격하면 코브라의 머리가 끝부분에서 튀어나와 물려고 한다. 하루에 한 번 코브라를 지팡이에서 풀어줄 수 있으나, 지능이 없어 눈에 보이는 적만 공격한다."
 snakestaff,uti,Description,0,-1,"어두운 나무로 만든 지팡이로, 철로 감싸고 끝에 묵직한 납이 달려 있다."
 snakestaff,uti,LocalizedName,0,-1,뱀장어
 softleatherboo,uti,DescIdentified,0,-1,아주 훌륭한 가죽 신발이 있습니다. 마법적이지는 않지만 훌륭한 공작품입니다.
@@ -1097,7 +1097,7 @@ symbolofnature,uti,Description,0,62368,사슬에 작은 기호입니다.
 symbolofnature,uti,LocalizedName,0,62367,자연의 상징
 szassmorgsmac,uti,LocalizedName,0,177,스사스 모그의 망치
 thebrute,uti,DescIdentified,0,-1,"이 무기들은 아무리 세심하게 다루려 해도 쉽게 손상되지 않는다. 칼날은 약간 둥글게 다듬어져 있으며, 도끼 머리 뒤에 있는 거대한 무게는 도끼보다는 거대한 망치처럼 느껴진다."
-thebrute,uti,Description,0,-1,크고 무거운 대검이다. 날은 둥근 것이다.
+thebrute,uti,Description,0,-1,크고 무거운 양손 도끼이다. 날이 무뎌져 있다.
 thebrute,uti,LocalizedName,0,-1,괴물
 thebutcher,uti,DescIdentified,0,-1,가끔은 거친 힘으로 미묘함을 희생하는 것이 가장 좋습니다. 가살기는 직접적인 접근을 좋아하는 사람들을 위한 무기입니다.
 thebutcher,uti,Description,0,-1,날이 무거운 시미터.
@@ -1171,7 +1171,7 @@ wandofdeath,uti,LocalizedName,0,-1,죽음의 마법봉
 wandofdispelli,uti,DescIdentified,0,14203,"어드벤처와 민병대에 판매되는 모든 물건들 중, 비전 분리 마법봉이 마법사와 마법사들 사이에서 가장 많은 반대의견과 논쟁을 일으킨다. 시장은 부인할 수 없지만, 어떤 사람들은 매법사들이 그들의 종족 중 한 명의 죽음을 의미할 수 있는 것을 판매하는 것을 불안하게 생각한다. 판매자들은 논쟁을 방해하지 않는다. 논란은 수요 증가를 의미한다."
 wandofdispelli,uti,LocalizedName,0,14204,비전 분열의 마법봉
 wandofflames,uti,LocalizedName,0,-1,불꽃 마법봉
-wandoflight,uti,DescIdentified,0,-1,이 간단한 마법사 막대들은 마법의 명령에 따라 빛을 발한다.
+wandoflight,uti,DescIdentified,0,-1,이 단순한 마법봉들은 마법 명령에 따라 빛을 낸다.
 wandoflight,uti,Description,0,-1,단순한 마법대
 wandoflight,uti,LocalizedName,0,-1,빛의 막대
 wandoftheheav,uti,LocalizedName,0,14200,하늘의 마법봉
@@ -1266,7 +1266,7 @@ wcjshield63,uti,LocalizedName,0,-1,주스트 방패
 wcjshield64,uti,LocalizedName,0,-1,주스트 방패
 wcjshield66,uti,LocalizedName,0,-1,주스트 방패
 wcjshield67,uti,LocalizedName,0,-1,주스트 방패
-whitemail,uti,DescIdentified,0,-1,"이 스프링 스틸 스핀트 메일은 여러 축복으로 마법으로 강화되었다. 라탄더, 헬프, 타이르, 템푸스의 종류는 전국에서 흔히 볼 수 있지만, 이들 모두는 언데드와의 싸움에 사용된다. 때로는 그 신들의 추종자들은 선택한 갑옷이 추가적인 힘을 갖게 되며, 그들은 갑옷을 착용할 때 이런 힘이 풀린다."
+whitemail,uti,DescIdentified,0,-1,"이 탄력 있는 강철로 만든 스프린트 메일 갑옷은 여러 축복을 받아 마법적으로 강화되었습니다. 라샌더, 헬름, 타이르, 템푸스 등의 종류는 대륙 전역에서 흔히 볼 수 있으며, 모두 언데드와 싸우는 데 사용됩니다. 때로는 이 신들의 추종자들이 입수한 갑옷에 추가적인 능력이 깃들어 있는 것을 발견하기도 하는데, 이 능력은 갑옷을 착용할 때 활성화됩니다."
 whitemail,uti,Description,0,-1,이 릴리트 메일 의복은 매우 가벼운 합금으로 만들어져 있습니다. 뛰어난 수공은 분명합니다.
 whitemail,uti,LocalizedName,0,12838,화이트메일
 whitestagbad,uti,DescIdentified,0,48895,"전설적인 순백색 수사슴의 가죽. 불행히도 심하게 손상되기는 했지만, 거의 확실히 꽤 돈이 될 것이다."
@@ -1287,7 +1287,7 @@ will,uti,LocalizedName,0,-1,의지
 witnessdoc,uti,DescIdentified,0,48895,"여주인에게서 받은 이 문서는 론드로 하드헬름에게 더 높은 임금을 지급하겠다고 약속하지만, 모르펜 선술집의 맨더의 서명이 필요하다. 원한다면 이 문서를 론드로에게 줄 수 있다."
 witnessdoc,uti,LocalizedName,0,48893,증언서
 wizardsboots,uti,DescIdentified,0,-1,"이 오래된 부츠는 겉으로 보기보다 더 가치 있습니다. 그 부츠에 본질적인 힘을 누가 넣었는지는 확실하지 않지만, 낮은 수준의 마술에 노출되어서 수년에 걸쳐 이러한 힘을 증가시켰다는 것은 확실합니다."
-wizardsboots,uti,Description,0,-1,한 마디의 낡은 부츠가 가죽에 이상한 기호가 새겨져 있습니다.
+wizardsboots,uti,Description,0,-1,가죽에 이상한 문양이 새겨진 낡은 부츠 한 켤레.
 wizardsboots,uti,LocalizedName,0,-1,마법사의 장화
 wl1props,uti,LocalizedName,0,12937,마녀왕의 속성(쉬운 난이도)
 woodsmansoutfi,uti,DescIdentified,0,-1,숲에서 사는 사람들이 많이 입는 옷입니다. 이 옷의 스타일은 당신에게 매우 익숙해 보입니다.

@@ -1,7 +1,9 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
 aarcl012,uti,DescIdentified,0,-1,사악한 메갈로트가 스티지아의 불길에서 만들어낸 갑옷들은 그들의 고향의 뜨거운 열기로부터 그들을 보호한다.
 aarcl012,uti,LocalizedName,0,12843,메갈로트의 철판 갑옷
-acidflask,uti,DescIdentified,0,-1,이 무거운 병 안에는 산소산 거품이 있습니다. 이는 폭발물과 같은 무기입니다. 적을 표적으로 지정하고 브레이스 디멘지에 주의하세요.
+acidflask,uti,DescIdentified,0,-1,"이 무거운 플라스크 안에서 산이 부글거리며 끓고 있습니다.
+
+이것은 수류탄 같은 무기입니다. 적을 목표로 삼고 광역 피해를 조심하십시오."
 acidflask,uti,LocalizedName,0,-1,산성 유리병
 alchemistsfire,uti,DescIdentified,0,-1,"연금술사의 불은 공기와 접촉할 때 불이 붙는 끈적한 액체입니다. 이는 폭발물과 같은 무기입니다. 적을 표적으로 정하시고, 스플래시 피해를 주의하세요."
 alchemistsfire,uti,LocalizedName,0,-1,연금술사의 불
@@ -98,7 +100,9 @@ hg_watereleprops,uti,LocalizedName,0,13192,HG 물의 원소 정령 속성
 hge_fireeleslam,uti,LocalizedName,0,13227,불의 원소 정령 타격 HGE
 holysymbol,uti,DescIdentified,0,-1,"신성한 상징으로, 공격에도 사용될 수 있지만 매우 효과적으로는 아닙니다."
 holysymbol,uti,LocalizedName,0,-1,신성한 상징
-holywaterflask,uti,DescIdentified,0,-1,"신실한 사제들의 축복을 받은 이 물은 대부분의 유령에게 해를 끼치는 긍정적 에너지로 가득 차 있습니다. 이는 폭발물과 같은 무기입니다. 적을 표적으로 지정하고, 분사 피해를 경계하십시오."
+holywaterflask,uti,DescIdentified,0,-1,"신실한 사제들의 축복을 받은 이 물은 대부분의 언데드에게 유해한 긍정적 에너지를 품고 있습니다.
+
+이것은 폭발물과 같은 무기입니다. 적을 향해 던지고 광역 피해에 주의하십시오."
 holywaterflask,uti,LocalizedName,0,-1,성수
 invisstalkerprop,uti,LocalizedName,0,13193,스탈커 속성
 it_creitem022,uti,LocalizedName,0,13069,브록 속성
@@ -120,11 +124,11 @@ it_mmidmisc006,uti,LocalizedName,0,13378,생고기
 it_mpotion024,uti,DescIdentified,0,52941,짙은 붉은색이거나 옅은 노란색인 와인은 발효하고 숙성시킨 포도를 압착해 만듭니다. 이 와인은 유난히 훌륭한 빈티지입니다.
 it_mpotion024,uti,LocalizedName,0,13452,숙성 와인
 kingsarmor001,uti,DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
-kingsarmor001,uti,LocalizedName,0,-1,포근한 왕의 갑옷
+kingsarmor001,uti,LocalizedName,0,-1,누비 왕의 갑옷
 kingsarmor002,uti,DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 kingsarmor002,uti,LocalizedName,0,-1,왕의 가죽
 kingsarmor003,uti,DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
-kingsarmor003,uti,LocalizedName,0,-1,스터드 장군 갑옷
+kingsarmor003,uti,LocalizedName,0,-1,스터디드 킹즈 아머
 kingsarmor004,uti,DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
 kingsarmor004,uti,LocalizedName,0,-1,왕의 저울
 kingsarmor005,uti,DescIdentified,0,-1,왕을 섬기는 남녀가 입는 이 갑옷은 전투와 의식에서 모두 사용하도록 만들어졌습니다.
@@ -146,7 +150,9 @@ mcloth012,uti,DescIdentified,0,67731,스티지안 깊은 곳의 많은 문화들
 mcloth012,uti,LocalizedName,0,67726,티브라란의 가죽
 medicinebag,uti,DescIdentified,0,-1,"이 키트 에는 약초, 연약, 붕대, 그리고 다른 유익 한 물질 이 가득 하다. 이 약물은 피출 을 막기 위해 사용 될 수 있으며, 독이나 질병 을 치료 하고, 쉬는 환자들의 회복률 을 높일 수 있습니다."
 medicinebag,uti,LocalizedName,0,-1,의약품 주머니
-oilflask,uti,DescIdentified,0,-1,"기름칠된 수건이 이 병의 입을 막고 있습니다. 이는 그레나드와 같은 무기입니다. 적을 표적으로 설정하고, 분사 피해를 경계하세요."
+oilflask,uti,DescIdentified,0,-1,"기름에 젖은 헝겊이 이 병의 입구를 막고 있습니다.
+
+수류탄과 같은 무기입니다. 적에게 던져 명중시키고 광역 피해를 조심하십시오."
 oilflask,uti,LocalizedName,0,-1,기름병
 onearmedrobes,uti,DescIdentified,0,-1,이 이상한 옷의 왼쪽 소매는 마치 한 팔이 있는 사람을 위한 것처럼 꿰매져 있습니다.
 onearmedrobes,uti,LocalizedName,0,-1,한팔의 의복
