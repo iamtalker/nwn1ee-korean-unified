@@ -49,7 +49,7 @@ it_mneck002,uti,DescIdentified,0,-1,"심비아의 작은 주왕인 자진 몰티
 it_mneck002,uti,LocalizedName,0,-1,생명력 호신부 +2
 it_mneck025,uti,DescIdentified,0,56634,페로스의 예배당에서 위대한 지도자였던 테베의 힘은 그녀의 생명을 기리기 위해 매년 그녀의 사망일을 축하합니다.
 it_mneck026,uti,DescIdentified,0,56634,페로스의 예배당에서 위대한 지도자였던 테베의 힘은 그녀의 생명을 기리기 위해 매년 그녀의 사망일을 축하합니다.
-it_mpotion009,uti,DescIdentified,0,13424,"이 약은 소질한 도둑들과 겁쟁이 패러다인의 찌꺼기로, 발라타 전역에서 널리 알려져 있습니다."
+it_mpotion009,uti,DescIdentified,0,13424,엉터리 도둑들과 비겁한 팔라딘들의 지팡이인 이 물약들은 발라타 전역에서 널리 알려져 있다.
 it_mpotion020,uti,DescIdentified,0,13446,이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며 발라타의 동굴에서 자주 사용됩니다.
 it_mring002,uti,DescIdentified,0,40089,"이런 반지는 몇 개만 존재하고, 거의 모든 반지는 매우 강력한 마법사들의 소유이다. 그러한 반지를 소유하는 것은 지위의 상징이다."
 it_mring003,uti,DescIdentified,0,40089,"이런 반지는 몇 개만 존재하고, 거의 모든 반지는 매우 강력한 마법사들의 소유이다. 그러한 반지를 소유하는 것은 지위의 상징이다."
@@ -216,7 +216,7 @@ os_trip_belt,uti,DescIdentified,0,-1,"이 벨트는 웨어랫 트립이 베켓 �
 os_trip_belt,uti,Description,0,-1,이 벨트는 서 벡트의 집에서 가져왔어요.
 os_trip_belt,uti,LocalizedName,0,-1,벨처 벨트
 os_trip_hide,uti,LocalizedName,0,-1,트립의 소유물
-os_trip_talsmn,uti,DescIdentified,0,-1,"이것은 트립의 마법의 타리스마로, 더러운 늙은 쥐의 두개골이 가죽 줄에 매달려 있다. 트립은 종종 두개골을 씹고, 행운을 가져다 준다고 믿는다. 그는 이 매력을 놓지 않을 것이다."
+os_trip_talsmn,uti,DescIdentified,0,-1,이것은 트립의 마법 부적이자 가죽끈에 매달린 더럽고 오래된 쥐의 두개골이다. 트립은 이 두개골을 자주 씹으며 행운을 가져다준다고 믿는다. 그는 이 부적을 절대 손에서 놓지 않는다.
 os_trip_talsmn,uti,LocalizedName,0,-1,트립의 레스커탈리스만
 os_tripclaws001,uti,LocalizedName,0,-1,트립의 발톱 1
 os_tripclaws002,uti,LocalizedName,0,-1,트립의 발톱 2
@@ -226,7 +226,7 @@ os_tripsamulet,uti,Description,0,-1,"이것은 트립의 냄새가 나는 오래
 os_tripsamulet,uti,LocalizedName,0,-1,트립의 호신부
 os_warriorring,uti,LocalizedName,0,13484,투사의 반지
 os_wolfpelt,uti,LocalizedName,0,-1,늑대 털가죽
-pzl_mobilemirror,uti,DescIdentified,0,-1,당신은 이 거대한 돌 프레임의 빛나는 표면에 의해 만들어진 자신의 반사로 다시 한번 바라봅니다.
+pzl_mobilemirror,uti,DescIdentified,0,-1,당신은 거대한 석조 테두리를 가진 거울의 반짝이는 표면에 비친 자신의 모습을 바라봅니다.
 pzl_mobilemirror,uti,LocalizedName,0,-1,신비한 거울
 q1_dan_helm,uti,LocalizedName,0,-1,단의 헬멧
 q1_danberry,uti,DescIdentified,0,58566,이 열매는 단베리 덤불에서 만든 열매입니다.
@@ -320,7 +320,7 @@ q3ac_key_gold,uti,LocalizedName,0,-1,황금 열쇠
 q3ac_key_shell,uti,LocalizedName,0,-1,껍데기 키
 q3ac_key_silver,uti,LocalizedName,0,-1,오염된 은 열쇠
 q3ac_key_skull,uti,LocalizedName,0,-1,두개골 열쇠
-q3ac_key_tooth,uti,LocalizedName,0,-1,치아 키
+q3ac_key_tooth,uti,LocalizedName,0,-1,이빨 열쇠
 q3af_stn_blue,uti,LocalizedName,0,-1,파란 유리
 q3af_stn_green,uti,LocalizedName,0,-1,녹색 유리
 q3af_stn_orange,uti,LocalizedName,0,-1,주황 유리
@@ -336,7 +336,7 @@ stuff4,uti,LocalizedName,0,-1,물건4
 themaskedhelm,uti,LocalizedName,0,-1,마스크를 쓴 헬멧
 wblmhw012,uti,LocalizedName,0,14012,글라시의 망치
 wbwmln008,uti,DescIdentified,0,14051,"이 활은 처음에는 원시적으로 보일 수 있지만, 겉보기보다 더 강력한 무기임을 숨기고 있다. 발라타의 극북에서 가장 자주 발견되지만, 불행히도, 그들은 또한 콜드 톤드 오크 침략자들의 손에 자주 들려 있다. 대부분의 관찰자들은 화살의 끝을 볼 수 있을 때까지 활을 본 적이 없을 정도다."
-wbwmln008,uti,LocalizedName,0,14052,차가운 혀 화살
+wbwmln008,uti,LocalizedName,0,14052,차가운 혀 활
 wmgmrd007,uti,DescIdentified,0,58589,발라타에 있는 막대와 레드는 지속적으로 충전이 필요하여 부족해졌습니다. 이런 물건들을 충전할 수 있는 강력한 마법사들이 너무 적기 때문입니다.
 wplmss008,uti,DescIdentified,0,14242,"브라이어스파이크는 거대한 깃털로 덮인 짐승에서 뽑아낸 것처럼 보이지만, 사용된 방법들은 매우 정교합니다."
 wswmbs006,uti,LocalizedName,0,14295,법정부 의원

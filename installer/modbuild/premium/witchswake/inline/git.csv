@@ -21,7 +21,7 @@ brogansarm,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,이 튼튼�
 brogansarm,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,대장장이 가죽
 brogansarm,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,-1,WW 세부 종족: 케이른 드워프
 brogansarm,git,Creature List/1/FirstName,0,-1,앙마르
-brogansarm,git,Creature List/1/ItemList/0/DescIdentified,0,-1,이것은 브로건의 팔에 있는 앙마르의 집의 열쇠입니다.
+brogansarm,git,Creature List/1/ItemList/0/DescIdentified,0,-1,이것은 브로건스 암에 있는 앙마르의 집 열쇠입니다.
 brogansarm,git,Creature List/1/ItemList/0/LocalizedName,0,-1,앙마르의 집 키
 brogansarm,git,Creature List/1/LastName,0,-1,로크스피터
 brogansarm,git,Creature List/10/Description,0,12415,"이 날 수 없는, 집집 새 는 부드러운 육류 와 거의 매일 튀는 달걀 으로서 모두 소중 히 여긴다."
@@ -262,9 +262,9 @@ brogansarm2,git,Placeable List/46/LocName,0,14657,제이거 슈타인파어
 brogansarm2,git,SoundList/0/LocName,0,-1,귀뚜라미
 brogansarm2,git,SoundList/1/LocName,0,-1,두꺼비 루프
 brogansarm2,git,SoundList/2/LocName,0,-1,멀리서 천둥치는 소리
-brogansarm2,git,SoundList/3/LocName,0,-1,풍기 인테리어
-brogansarm2,git,SoundList/4/LocName,0,-1,풍기 인테리어
-brogansarm2,git,SoundList/5/LocName,0,-1,풍기 인테리어
+brogansarm2,git,SoundList/3/LocName,0,-1,외풍이 드는 실내
+brogansarm2,git,SoundList/4/LocName,0,-1,외풍이 드는 실내
+brogansarm2,git,SoundList/5/LocName,0,-1,외풍이 드는 실내
 brogansarm2,git,SoundList/6/LocName,0,-1,마법 차원문 물
 brogansarm2,git,TriggerList/0/LocalizedName,0,14759,광산 영화
 brogansarm2,git,TriggerList/1/LocalizedName,0,14759,바로우 사이트 컷신 트리거
@@ -378,7 +378,7 @@ councillorgreinl,git,Placeable List/20/ItemList/0/LocalizedName,0,13445,올빼�
 councillorgreinl,git,Placeable List/20/ItemList/1/DescIdentified,0,13446,"이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며, 페룬의 동굴에서 자주 사용됩니다."
 councillorgreinl,git,Placeable List/20/ItemList/1/LocalizedName,0,13447,전승지식의 물약
 councillorgreinl,git,Placeable List/20/LocName,0,5650,보관장
-councillorgreinl,git,Placeable List/4/Description,0,14607,"반짝이는 탁자 아래에는 작은 뽑이가 펼쳐져 있으며, 필요할 때 책상으로 사용될 수 있습니다."
+councillorgreinl,git,Placeable List/4/Description,0,14607,반짝이는 탁자 아래로 작은 서랍이 튀어나와 있다. 필요할 때 책상 대용으로 쓸 수 있는 모양이다.
 councillorgreinl,git,Placeable List/4/LocName,0,5655,책상
 councillorgreinl,git,Placeable List/6/Description,0,14589,"두꺼운 타루 촛불은 철 발판 위에 낮게 불고 아래 바닥에 작은 덩굴들이 형성되어 있으며, 그 바닥에 떨어진 타루가 축적되어 있다."
 councillorgreinl,git,Placeable List/6/LocName,0,5703,가지달린 촛대
@@ -398,9 +398,9 @@ embattledcaverns,git,Door List/3/Description,0,-1,이 무거운 돌 문의 표�
 embattledcaverns,git,Door List/3/LocName,0,5349,피투성이 문
 embattledcaverns,git,Door List/4/Description,0,-1,이 무거운 돌 문의 표면에는 피의 얼룩과 신비한 표적이 있습니다.
 embattledcaverns,git,Door List/4/LocName,0,5349,피투성이 문
-embattledcaverns,git,Door List/5/Description,0,-1,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+embattledcaverns,git,Door List/5/Description,0,-1,무쇠 띠로 동여매어진 이 돌문은 튼튼한 경첩에 무겁게 매달려 있다.
 embattledcaverns,git,Door List/5/LocName,0,5349,돌 문
-embattledcaverns,git,Door List/6/Description,0,-1,철조로 묶인 이 돌문은 단단한 핀자에 걸쳐 무거운 듯합니다.
+embattledcaverns,git,Door List/6/Description,0,-1,무쇠 띠로 동여매어진 이 돌문은 튼튼한 경첩에 무겁게 매달려 있다.
 embattledcaverns,git,Door List/6/LocName,0,5349,돌 문
 embattledcaverns,git,Door List/7/Description,0,-1,은 이 금속으로 덮인 문의 한때 부드러운 표면을 습니다.
 embattledcaverns,git,Door List/7/LocName,0,5349,철제 문.
@@ -589,7 +589,7 @@ helgashouse,git,List/23/DescIdentified,0,52941,짙은 붉은색이거나 옅은 
 helgashouse,git,List/23/LocalizedName,0,13452,숙성 와인
 helgashouse,git,Placeable List/1/Description,0,14589,"두꺼운 타루 촛불은 철 발판 위에 낮게 불고 아래 바닥에 작은 덩굴들이 형성되어 있으며, 그 바닥에 떨어진 타루가 축적되어 있다."
 helgashouse,git,Placeable List/1/LocName,0,5703,가지달린 촛대
-helgashouse,git,Placeable List/2/Description,0,14702,식물은 뿌리가 묶인 냄비 안에 공간이 협소해 보입니다.
+helgashouse,git,Placeable List/2/Description,0,14702,식물이 뿌리가 꽉 찬 화분 안에서 비좁아 보인다.
 helgashouse,git,Placeable List/2/LocName,0,5726,화분
 helgashouse,git,Placeable List/3/Description,0,14598,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 helgashouse,git,Placeable List/3/ItemList/6/DescIdentified,0,-1,이것은 브로건의 팔에 있는 길드홀 전시품의 열쇠입니다.
@@ -651,7 +651,7 @@ homeofthenightha,git,Creature List/1/ItemList/9/DescIdentified,0,-1,"이 손으�
 homeofthenightha,git,Creature List/1/ItemList/9/LocalizedName,0,-1,타로 카드 - 미덕의 아이
 homeofthenightha,git,Door List/0/Description,0,-1,이 무거운 돌 문의 표면에는 피의 얼룩과 신비한 표적이 있습니다.
 homeofthenightha,git,Door List/0/LocName,0,5349,피투성이 문
-homeofthenightha,git,Placeable List/16/Description,0,14607,"반짝이는 탁자 아래에는 작은 뽑이가 펼쳐져 있으며, 필요할 때 책상으로 사용될 수 있습니다."
+homeofthenightha,git,Placeable List/16/Description,0,14607,반짝이는 탁자 아래로 작은 서랍이 튀어나와 있다. 필요할 때 책상 대용으로 쓸 수 있는 모양이다.
 homeofthenightha,git,Placeable List/16/ItemList/0/DescIdentified,0,-1,"이 작은 깃털, , 밧줄의 뭉치는 일종의 레비테이션 페티시스처럼 보입니다. 하지만 그것을 활성화하는 방법은 없을 것 같지만,"
 homeofthenightha,git,Placeable List/16/ItemList/0/Description,0,-1,"깃털, 밀랍, 노끈을 작게 묶은 것을 살펴보지만 어디에 쓰는 물건인지 알 수 없다."
 homeofthenightha,git,Placeable List/16/ItemList/0/LocalizedName,0,-1,깃털 페티시
@@ -668,7 +668,7 @@ homeofthenightha,git,SoundList/3/LocName,0,-1,물방울 소리
 homeofthenightha,git,SoundList/4/LocName,0,-1,횃불 불꽃 (소)
 homeofthenightha,git,SoundList/5/LocName,0,-1,횃불 불꽃 (소)
 homeofthenightha,git,SoundList/6/LocName,0,-1,가축
-homeofthenightha,git,SoundList/7/LocName,0,-1,풍기 인테리어
+homeofthenightha,git,SoundList/7/LocName,0,-1,외풍이 드는 실내
 homeofthenightha,git,SoundList/8/LocName,0,-1,실외의 노래하는 여성
 homeofthenightha,git,SoundList/9/LocName,0,-1,에테르화 누출 루프
 homeofthenightha,git,StoreList/0/LocName,0,-1,나이트 헤그 매장
@@ -1272,9 +1272,9 @@ planeofsorrow2,git,SoundList/8/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow2,git,SoundList/9/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow2,git,TriggerList/0/LocalizedName,0,14759,좀도둑 살해자
 planeofsorrow2,git,TriggerList/1/LocalizedName,0,14759,좀도둑 살해자
-planeofsorrow2,git,TriggerList/10/LocalizedName,0,14759,필치블 오프
+planeofsorrow2,git,TriggerList/10/LocalizedName,0,14759,소매치기 불가
 planeofsorrow2,git,TriggerList/2/LocalizedName,0,14759,훔칠 수 있음: 켬
-planeofsorrow2,git,TriggerList/3/LocalizedName,0,14759,필치블 오프
+planeofsorrow2,git,TriggerList/3/LocalizedName,0,14759,소매치기 불가
 planeofsorrow2,git,TriggerList/4/LocalizedName,0,14759,훔칠 수 있음: 켬
 planeofsorrow2,git,TriggerList/5/LocalizedName,0,14759,스티지아 게이트 닫는 자
 planeofsorrow2,git,TriggerList/6/LocalizedName,0,14759,스티지아 게이트 닫는 자
@@ -1498,9 +1498,9 @@ planeofsorrow3,git,SoundList/8/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow3,git,SoundList/9/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrow3,git,TriggerList/0/LocalizedName,0,14759,좀도둑 살해자
 planeofsorrow3,git,TriggerList/1/LocalizedName,0,14759,좀도둑 살해자
-planeofsorrow3,git,TriggerList/10/LocalizedName,0,14759,필치블 오프
+planeofsorrow3,git,TriggerList/10/LocalizedName,0,14759,소매치기 불가
 planeofsorrow3,git,TriggerList/2/LocalizedName,0,14759,훔칠 수 있음: 켬
-planeofsorrow3,git,TriggerList/3/LocalizedName,0,14759,필치블 오프
+planeofsorrow3,git,TriggerList/3/LocalizedName,0,14759,소매치기 불가
 planeofsorrow3,git,TriggerList/4/LocalizedName,0,14759,훔칠 수 있음: 켬
 planeofsorrow3,git,TriggerList/5/LocalizedName,0,14759,스티지아 게이트 닫는 자
 planeofsorrow3,git,TriggerList/6/LocalizedName,0,14759,스티지아 게이트 닫는 자
@@ -1705,9 +1705,9 @@ planeofsorrows,git,SoundList/8/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrows,git,SoundList/9/LocName,0,-1,횃불 불꽃 (소)
 planeofsorrows,git,TriggerList/0/LocalizedName,0,14759,좀도둑 살해자
 planeofsorrows,git,TriggerList/1/LocalizedName,0,14759,좀도둑 살해자
-planeofsorrows,git,TriggerList/10/LocalizedName,0,14759,필치블 오프
+planeofsorrows,git,TriggerList/10/LocalizedName,0,14759,소매치기 불가
 planeofsorrows,git,TriggerList/2/LocalizedName,0,14759,훔칠 수 있음: 켬
-planeofsorrows,git,TriggerList/3/LocalizedName,0,14759,필치블 오프
+planeofsorrows,git,TriggerList/3/LocalizedName,0,14759,소매치기 불가
 planeofsorrows,git,TriggerList/4/LocalizedName,0,14759,훔칠 수 있음: 켬
 planeofsorrows,git,TriggerList/5/LocalizedName,0,14759,스티지아 게이트 닫는 자
 planeofsorrows,git,TriggerList/6/LocalizedName,0,14759,스티지아 게이트 닫는 자
@@ -2454,7 +2454,7 @@ theelkenherd,git,SoundList/1/LocName,0,-1,물 찰랑이는 소리
 theelkenherd,git,SoundList/2/LocName,0,-1,물 찰랑이는 소리
 theelkenherd,git,TriggerList/0/LocalizedName,0,14759,엘켄트나무 트리거
 theelkenherd,git,TriggerList/1/LocalizedName,0,14759,라그텔그 킬러
-theelkenherd,git,WaypointList/0/LocalizedName,0,-1,베르너하르트의 포스트
+theelkenherd,git,WaypointList/0/LocalizedName,0,-1,베르너하르트의 초소
 theelkenherd,git,WaypointList/0/MapNote,0,-1,목장주
 theelkenherd,git,WaypointList/1/LocalizedName,0,-1,라그태그 포스트
 theelkenherd,git,WaypointList/2/LocalizedName,0,14814,엘켄트나무
@@ -2743,13 +2743,13 @@ tourofsorrow,git,TriggerList/10/LocalizedName,0,14759,스티지아 게이트 닫
 tourofsorrow,git,TriggerList/11/LocalizedName,0,14759,스티지아 게이트 닫는 자
 tourofsorrow,git,TriggerList/12/LocalizedName,0,14759,스티지아 게이트 닫는 자
 tourofsorrow,git,TriggerList/13/LocalizedName,0,14759,스티지아 게이트 닫는 자
-tourofsorrow,git,TriggerList/14/LocalizedName,0,14759,필치블 오프
+tourofsorrow,git,TriggerList/14/LocalizedName,0,14759,소매치기 불가
 tourofsorrow,git,TriggerList/2/LocalizedName,0,14759,훔칠 수 있음: 켬
-tourofsorrow,git,TriggerList/3/LocalizedName,0,14759,필치블 오프
+tourofsorrow,git,TriggerList/3/LocalizedName,0,14759,소매치기 불가
 tourofsorrow,git,TriggerList/4/LocalizedName,0,14759,훔칠 수 있음: 켬
 tourofsorrow,git,TriggerList/5/LocalizedName,0,14759,밤 여왕 투어 1
 tourofsorrow,git,TriggerList/6/LocalizedName,0,14759,밤 여왕 투어 2
-tourofsorrow,git,TriggerList/7/LocalizedName,0,14759,밤 여고리 투어 4
+tourofsorrow,git,TriggerList/7/LocalizedName,0,14759,나이트 해그 투어 4
 tourofsorrow,git,TriggerList/8/LocalizedName,0,14759,나이트 해그 투어 3
 tourofsorrow,git,TriggerList/9/LocalizedName,0,14759,스티지아 게이트 닫는 자
 tourofsorrow,git,WaypointList/0/LocalizedName,0,14816,투어 스폰포인트

@@ -45,15 +45,15 @@ are_raidcutscene,git,Creature List/9/FirstName,0,3100,홉고블린 병사 2
 are_raidcutscene,git,Door List/1/Description,0,9078,거칠게 다듬은 나무로 만든 이 수수한 문은 아귀가 맞지 않는 경첩에 매달려 있다.
 are_raidcutscene,git,Door List/1/LocName,0,5349,문
 are_raidcutscene,git,Placeable List/1/LocName,0,-1,부시
-are_raidcutscene,git,Placeable List/10/LocName,0,52998,나무 기둥
-are_raidcutscene,git,Placeable List/11/LocName,0,52998,나무 기둥
-are_raidcutscene,git,Placeable List/12/LocName,0,52998,나무 기둥
-are_raidcutscene,git,Placeable List/13/LocName,0,52998,나무 기둥
-are_raidcutscene,git,Placeable List/14/LocName,0,52998,나무 기둥
+are_raidcutscene,git,Placeable List/10/LocName,0,52998,나뭇그루터기
+are_raidcutscene,git,Placeable List/11/LocName,0,52998,나뭇그루터기
+are_raidcutscene,git,Placeable List/12/LocName,0,52998,나뭇그루터기
+are_raidcutscene,git,Placeable List/13/LocName,0,52998,나뭇그루터기
+are_raidcutscene,git,Placeable List/14/LocName,0,52998,나뭇그루터기
 are_raidcutscene,git,Placeable List/15/Description,0,66885,"나무, 잘라낼 준비가 되어 있습니다."
 are_raidcutscene,git,Placeable List/15/LocName,0,52998,쓰러진 나무
-are_raidcutscene,git,Placeable List/16/LocName,0,52998,나무 기둥
-are_raidcutscene,git,Placeable List/17/LocName,0,52998,나무 기둥
+are_raidcutscene,git,Placeable List/16/LocName,0,52998,나뭇그루터기
+are_raidcutscene,git,Placeable List/17/LocName,0,52998,나뭇그루터기
 are_raidcutscene,git,Placeable List/19/LocName,0,-1,TNO 비어 아 SM
 are_raidcutscene,git,Placeable List/20/LocName,0,-1,TNO 비어 아 SM
 are_raidcutscene,git,Placeable List/21/LocName,0,-1,TNO 비어 아 SM
@@ -64,9 +64,9 @@ are_raidcutscene,git,Placeable List/25/LocName,0,-1,TNO 비어 아 SM
 are_raidcutscene,git,Placeable List/26/LocName,0,-1,TNO 비어 아 SM
 are_raidcutscene,git,Placeable List/27/LocName,0,-1,TNO 비어 아 SM
 are_raidcutscene,git,Placeable List/5/LocName,0,14611,TNO 마차
-are_raidcutscene,git,Placeable List/7/LocName,0,52998,나무 기둥
-are_raidcutscene,git,Placeable List/8/LocName,0,52998,나무 기둥
-are_raidcutscene,git,Placeable List/9/LocName,0,52998,나무 기둥
+are_raidcutscene,git,Placeable List/7/LocName,0,52998,나뭇그루터기
+are_raidcutscene,git,Placeable List/8/LocName,0,52998,나뭇그루터기
+are_raidcutscene,git,Placeable List/9/LocName,0,52998,나뭇그루터기
 are_raidcutscene,git,SoundList/0/LocName,0,67830,환경 식 & 새벽
 are_raidcutscene,git,TriggerList/0/LocalizedName,0,14759,인트로 쿠츠센 트리거: 호그볼린 습격 3
 are_raidcutscene,git,TriggerList/1/LocalizedName,0,14759,인트로 쿠츠센 트리거: 호그볼린 습격 2
@@ -343,7 +343,7 @@ area004,git,Placeable List/0/LocName,0,-1,TNO 와일로나 트리 Lg
 area004,git,Placeable List/10/LocName,0,-1,TNO 주위의 새
 area004,git,Placeable List/11/LocName,0,-1,TNO 주위의 새
 area004,git,Placeable List/15/LocName,0,-1,TNO 나무 5 SM
-area004,git,Placeable List/16/LocName,0,-1,TNO 대나무 3 Lg
+area004,git,Placeable List/16/LocName,0,-1,TNO 나무 3 Lg
 area004,git,Placeable List/17/LocName,0,-1,TNO 나무 6 SM
 area004,git,Placeable List/18/LocName,0,-1,TNO 나무 7 Md
 area004,git,Placeable List/19/LocName,0,-1,TNO 나무 5 Md
@@ -422,7 +422,7 @@ area005,git,Creature List/21/Description,0,-1,마구간 지기로 고용된 어�
 area005,git,Creature List/21/FirstName,0,12634,안정된 소년
 area005,git,Creature List/22/Description,0,-1,"글, 썬더스톤의 유일한 축산자리"
 area005,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,12914,호스터의 의복
-area005,git,Creature List/22/Equip_ItemList/1/DescIdentified,0,13454,"마법 반지를 제작할 수 있는 사람들은 더 좋은 재료로 더 좋은 보석을 만들 수 있으며, 그 위에 더 강력한 마법을 부여할 수 있다는 것을 곧 알게 된다. 보호 반지 중 더 강력한 것은 종종 처음의 결과물이다."
+area005,git,Creature List/22/Equip_ItemList/1/DescIdentified,0,13454,"마법 장신구를 제작할 수 있는 이들은 더 좋은 재료로 더 뛰어난 물건을 만들 수 있으며, 그에 더 강력한 마법이 깃든다는 사실을 곧 깨닫게 된다. 상급 보호의 반지는 흔히 그 첫 번째 결과물이다."
 area005,git,Creature List/22/Equip_ItemList/1/Description,0,-1,단순한 금 반지에 단 하나의 반귀한 돌이 솔리타리 스타일로 장식되어 있습니다.
 area005,git,Creature List/22/Equip_ItemList/1/LocalizedName,0,13453,더 강력한 보호의 반지
 area005,git,Creature List/22/Equip_ItemList/2/DescIdentified,0,-1,"이 반지들은 많은 상인들이 착용합니다. 보석에 담긴 가치도 있지만, 미묘한 마법적 힘도 깃들어 있습니다."
@@ -508,7 +508,7 @@ area005,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,-1,보라색 용�
 area005,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,보라색 용 라이온 메일
 area005,git,Creature List/4/Equip_ItemList/1/DescIdentified,0,-1,"스프링 스틸로 제작된 표준 장검의 우수한 버전으로, 보라색 용의 장교나 소급 귀족이 주문하기도 합니다."
 area005,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,166,더 뛰어난 장검
-area005,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,-1,보라색 용의 표지를 내포한 방패. 이 방패는 높은 계급의 장교들만 사용한다.
+area005,git,Creature List/4/Equip_ItemList/2/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 area005,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 area005,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,-1,PDK 망토
 area005,git,Creature List/4/FirstName,0,-1,보라용 라이온어
@@ -568,7 +568,7 @@ area005,git,Door List/14/Description,0,9078,표준 문
 area005,git,Door List/14/LocName,0,5349,문
 area005,git,Door List/15/Description,0,9078,거칠게 다듬은 나무로 만든 이 수수한 문은 아귀가 맞지 않는 경첩에 매달려 있다.
 area005,git,Door List/15/LocName,0,5349,문
-area005,git,Door List/16/Description,0,9078,번개의 표지판으로 들어가는 단단한 나무 문
+area005,git,Door List/16/Description,0,9078,'천둥의 간판'으로 이어지는 단단한 나무 문.
 area005,git,Door List/17/Description,0,9078,무덤사 집 문
 area005,git,Door List/17/LocName,0,5349,잠긴 문
 area005,git,Door List/18/Description,0,9078,이 목재 문은 잠겨 있습니다. 여기 들어오는 이유가 없습니다.
@@ -739,7 +739,7 @@ area005,git,Placeable List/36/LocName,0,14578,궤짝 (정적)
 area005,git,Placeable List/37/LocName,0,14578,나무 상자
 area005,git,Placeable List/38/LocName,0,14578,궤짝 (정적)
 area005,git,Placeable List/39/LocName,0,14578,궤짝 (정적)
-area005,git,Placeable List/40/LocName,0,-1,TNO 그루터기
+area005,git,Placeable List/40/LocName,0,-1,TNO 재고
 area005,git,Placeable List/56/Description,0,68824,풀밭 한 조각.
 area005,git,Placeable List/56/LocName,0,9268,TNO 잔디밭
 area005,git,Placeable List/57/Description,0,68824,풀밭 한 조각.
@@ -1100,7 +1100,7 @@ area008,git,Creature List/5/Description,0,-1,썬더스톤의 지역인
 area008,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,12923,상위급 하인 최고의 옷 입힌
 area008,git,Creature List/5/FirstName,0,-1,평민
 area008,git,Creature List/6/Description,0,-1,썬더스톤의 지역인
-area008,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,12923,낚시꾼/해상 용병 최고의 옷 남자
+area008,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,12923,어부/선원 남성용 정장
 area008,git,Creature List/6/FirstName,0,-1,평민
 area008,git,Creature List/7/Description,0,-1,썬더스톤의 지역인
 area008,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,12923,낚시꾼/해상 용병 최고의 옷 Fem
@@ -1181,7 +1181,7 @@ area009,git,Creature List/8/Description,0,-1,썬더스톤의 지역인
 area009,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,12923,농부 최고의 옷 Fem
 area009,git,Creature List/8/FirstName,0,-1,평민
 area009,git,Creature List/9/Description,0,-1,썬더스톤의 지역인
-area009,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,12923,하등급 하인 최고의 옷 남자
+area009,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,12923,하급 하인용 남성용 최고급 옷
 area009,git,Creature List/9/FirstName,0,-1,평민
 area009,git,Door List/1/Description,0,9078,이 목재 문은 잠겨 있습니다. 여기 들어오는 이유가 없습니다.
 area009,git,Door List/1/LocName,0,5349,잠긴 문
@@ -1212,7 +1212,7 @@ area010,git,Creature List/1/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/1/FirstName,0,-1,호클린 경비병
@@ -1220,7 +1220,7 @@ area010,git,Creature List/10/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/10/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/10/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/10/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/10/FirstName,0,-1,호클린 경비병
@@ -1228,7 +1228,7 @@ area010,git,Creature List/11/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/11/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/11/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/11/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/11/FirstName,0,-1,호클린 경비병
@@ -1236,7 +1236,7 @@ area010,git,Creature List/12/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/12/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/12/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/12/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/12/FirstName,0,-1,호클린 경비병
@@ -1244,7 +1244,7 @@ area010,git,Creature List/13/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/13/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/13/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/13/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/13/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/13/FirstName,0,-1,호클린 경비병
@@ -1263,7 +1263,7 @@ area010,git,Creature List/6/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/6/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/6/FirstName,0,-1,호클린 경비병
@@ -1271,7 +1271,7 @@ area010,git,Creature List/7/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/7/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/7/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/7/FirstName,0,-1,호클린 경비병
@@ -1279,7 +1279,7 @@ area010,git,Creature List/8/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/8/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/8/FirstName,0,-1,호클린 경비병
@@ -1287,7 +1287,7 @@ area010,git,Creature List/9/Description,0,-1,호클린 경의 가문
 area010,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 area010,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 area010,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-area010,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+area010,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 area010,git,Creature List/9/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 area010,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 area010,git,Creature List/9/FirstName,0,-1,호클린 경비병
@@ -1495,7 +1495,7 @@ area016,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,얼음 의상
 area016,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,-1,이 브레이저는 분명 짐승의 주인 말라르에게 바쳐진 것이다. 말라르의 축복을 받은 착용자는 사냥의 갈증을 진정으로 즐길 수 있다. 말라르의 추종자가 이 브레이저를 착용하면 추가적인 힘을 얻게 된다.
 area016,git,Creature List/10/Equip_ItemList/1/Description,0,-1,약간 장식된 팔목 장식물.
 area016,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,-1,말라르의 손목 보호대
-area016,git,Creature List/10/Equip_ItemList/4/DescIdentified,0,13454,"마법 반지를 제작할 수 있는 사람들은 더 좋은 재료로 더 좋은 보석을 만들 수 있으며, 그 위에 더 강력한 마법을 부여할 수 있다는 것을 곧 알게 된다. 보호 반지 중 더 강력한 것은 종종 처음의 결과물이다."
+area016,git,Creature List/10/Equip_ItemList/4/DescIdentified,0,13454,"마법 장신구를 제작할 수 있는 이들은 더 좋은 재료로 더 뛰어난 물건을 만들 수 있으며, 그에 더 강력한 마법이 깃든다는 사실을 곧 깨닫게 된다. 상급 보호의 반지는 흔히 그 첫 번째 결과물이다."
 area016,git,Creature List/10/Equip_ItemList/4/Description,0,-1,단순한 금 반지에 단 하나의 반귀한 돌이 솔리타리 스타일로 장식되어 있습니다.
 area016,git,Creature List/10/Equip_ItemList/4/LocalizedName,0,13453,더 강력한 보호의 반지
 area016,git,Creature List/10/FirstName,0,-1,홉고블린 주술사
@@ -1838,7 +1838,7 @@ area020,git,Creature List/0/Equip_ItemList/1/DescIdentified,0,-1,보라색 용�
 area020,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,-1,보라색 용 라이온 메일
 area020,git,Creature List/0/Equip_ItemList/2/DescIdentified,0,-1,"악마 용과의 전쟁 이후, 이 칼은 코르미르에서 꽤 흔해졌습니다. 그들은 보라색 용을 장비하기 위해 대량으로 제조되었습니다. 왜냐하면 가즈네스에게 해를 끼칠 수 있는 것은 냉철기뿐이었기 때문입니다."
 area020,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,-1,냉기 무쇠 칼날
-area020,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,-1,보라색 용의 표지를 내포한 방패. 이 방패는 높은 계급의 장교들만 사용한다.
+area020,git,Creature List/0/Equip_ItemList/3/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 area020,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 area020,git,Creature List/0/FirstName,0,-1,보라용 라이온어
 area020,git,Creature List/1/Description,0,-1,"보라색 용의 '리온어'이며, 코르미르의 정규 군인들입니다. 이 남녀들은 최근 가즈네스와의 전쟁 이후 힘들고 경험이 풍부해졌습니다."
@@ -1848,7 +1848,7 @@ area020,git,Creature List/1/Equip_ItemList/1/DescIdentified,0,-1,보라색 용�
 area020,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,보라색 용 라이온 메일
 area020,git,Creature List/1/Equip_ItemList/2/DescIdentified,0,-1,"악마 용과의 전쟁 이후, 이 칼은 코르미르에서 꽤 흔해졌습니다. 그들은 보라색 용을 장비하기 위해 대량으로 제조되었습니다. 왜냐하면 가즈네스에게 해를 끼칠 수 있는 것은 냉철기뿐이었기 때문입니다."
 area020,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,-1,냉기 무쇠 칼날
-area020,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,-1,보라색 용의 표지를 내포한 방패. 이 방패는 높은 계급의 장교들만 사용한다.
+area020,git,Creature List/1/Equip_ItemList/3/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 area020,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 area020,git,Creature List/1/FirstName,0,-1,보라용 라이온어
 area020,git,Creature List/2/Description,0,-1,"보라색 용의 '리온어'이며, 코르미르의 정규 군인들입니다. 이 남녀들은 최근 가즈네스와의 전쟁 이후 힘들고 경험이 풍부해졌습니다."
@@ -1858,7 +1858,7 @@ area020,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,-1,보라색 용�
 area020,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,-1,보라색 용 라이온 메일
 area020,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,-1,"악마 용과의 전쟁 이후, 이 칼은 코르미르에서 꽤 흔해졌습니다. 그들은 보라색 용을 장비하기 위해 대량으로 제조되었습니다. 왜냐하면 가즈네스에게 해를 끼칠 수 있는 것은 냉철기뿐이었기 때문입니다."
 area020,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,-1,냉기 무쇠 칼날
-area020,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,-1,보라색 용의 표지를 내포한 방패. 이 방패는 높은 계급의 장교들만 사용한다.
+area020,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 area020,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 area020,git,Creature List/2/FirstName,0,-1,보라용 라이온어
 area020,git,Creature List/3/FirstName,0,12423,"평민, 남성"
@@ -1912,7 +1912,7 @@ area021,git,Placeable List/20/LocName,0,-1,TNO 통
 area021,git,Placeable List/21/LocName,0,-1,TNO 통 2
 area021,git,Placeable List/27/LocName,0,-1,TNO 비치 B SM
 area021,git,Placeable List/28/LocName,0,-1,TNO 부시 2
-area021,git,Placeable List/29/LocName,0,52998,나무 기둥
+area021,git,Placeable List/29/LocName,0,52998,나뭇그루터기
 area021,git,Placeable List/3/LocName,0,-1,TNO 나무 1 Sm
 area021,git,Placeable List/31/LocName,0,-1,TNO 나무 1 Sm
 area021,git,Placeable List/32/LocName,0,-1,TNO 나무 1 Sm
@@ -1968,7 +1968,7 @@ area022,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,-1,보라색 드�
 area022,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,184,보라색 용 갑옷
 area022,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,-1,"스프링 스틸로 제작된 표준 장검의 우수한 버전으로, 보라색 용의 장교나 소급 귀족이 주문하기도 합니다."
 area022,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,166,더 뛰어난 장검
-area022,git,Creature List/3/Equip_ItemList/3/DescIdentified,0,-1,보라색 용의 표지를 내포한 방패. 이 방패는 높은 계급의 장교들만 사용한다.
+area022,git,Creature List/3/Equip_ItemList/3/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 area022,git,Creature List/3/Equip_ItemList/3/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 area022,git,Creature List/3/FirstName,0,-1,퍼플 드래곤 오버스워드
 area022,git,Creature List/4/Equip_ItemList/0/DescIdentified,0,-1,썬더스톤 군대의 갑옷.
@@ -2051,7 +2051,7 @@ area025,git,Creature List/1/FirstName,0,-1,배신자
 area025,git,Creature List/2/Description,0,3101,"홉고블린은 고블린의 더 큰 사촌이다. 조직적이고 공격적이며, 다른 인간형 종족과의 전쟁을 즐긴다."
 area025,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,-1,이 화살은 용감한 사람조차도 쫓아낼 것이다.
 area025,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,1517,어두운 화살
-area025,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,13894,이 총알은 어떤 종류의 혈전해소제로 덮여 있어 피해자는 피를 흘려 죽게 됩니다.
+area025,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,13894,"이 탄환에는 일종의 항응고제가 발려 있어, 피해자는 과다출혈로 사망하게 됩니다."
 area025,git,Creature List/2/Equip_ItemList/2/Description,0,-1,"작은 돌은 으로 만들어져 있고, 끈적 인 물질로 덮여 있습니다."
 area025,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,13893,출혈자
 area025,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,13881,"각 볼트는 고대 룬으로 마크되어 있습니다. 볼트가 맞을 때, 그것이 희생자의 힘을 빼앗는 것 같습니다."
@@ -2060,7 +2060,7 @@ area025,git,Creature List/2/FirstName,0,3100,홉고블린 스카우트
 area025,git,Creature List/3/Description,0,3101,"홉고블린은 고블린의 더 큰 사촌이다. 조직적이고 공격적이며, 다른 인간형 종족과의 전쟁을 즐긴다."
 area025,git,Creature List/3/Equip_ItemList/1/DescIdentified,0,-1,이 화살은 용감한 사람조차도 쫓아낼 것이다.
 area025,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,1517,어두운 화살
-area025,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,13894,이 총알은 어떤 종류의 혈전해소제로 덮여 있어 피해자는 피를 흘려 죽게 됩니다.
+area025,git,Creature List/3/Equip_ItemList/2/DescIdentified,0,13894,"이 탄환에는 일종의 항응고제가 발려 있어, 피해자는 과다출혈로 사망하게 됩니다."
 area025,git,Creature List/3/Equip_ItemList/2/Description,0,-1,"작은 돌은 으로 만들어져 있고, 끈적 인 물질로 덮여 있습니다."
 area025,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,13893,출혈자
 area025,git,Creature List/3/Equip_ItemList/3/DescIdentified,0,13881,"각 볼트는 고대 룬으로 마크되어 있습니다. 볼트가 맞을 때, 그것이 희생자의 힘을 빼앗는 것 같습니다."
@@ -2113,7 +2113,7 @@ area027,git,Placeable List/1/Description,0,14577,다양한 물품을 보관할 �
 area027,git,Placeable List/10/Description,0,68824,"더러워지거나 진흙을 만드는 것 말고는 거의 아무 데도 쓸 수 없는, 넓은 흙바닥."
 area027,git,Placeable List/10/LocName,0,9268,TNO의 흙 부분
 area027,git,Placeable List/14/LocName,0,-1,TNO 와일로우 트리 SM
-area027,git,Placeable List/15/LocName,0,52998,나무 기둥
+area027,git,Placeable List/15/LocName,0,52998,나뭇그루터기
 area027,git,Placeable List/16/LocName,0,-1,TNO 부시
 area027,git,Placeable List/17/LocName,0,-1,TNO 와일로우 트리 SM
 area027,git,Placeable List/18/LocName,0,68931,안개가
@@ -2678,7 +2678,7 @@ barrow,git,Creature List/23/Equip_ItemList/0/DescIdentified,0,-1,보라색 용�
 barrow,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,-1,보라색 용 라이온 메일
 barrow,git,Creature List/23/Equip_ItemList/1/DescIdentified,0,-1,"악마 용과의 전쟁 이후, 이 칼은 코르미르에서 꽤 흔해졌습니다. 그들은 보라색 용을 장비하기 위해 대량으로 제조되었습니다. 왜냐하면 가즈네스에게 해를 끼칠 수 있는 것은 냉철기뿐이었기 때문입니다."
 barrow,git,Creature List/23/Equip_ItemList/1/LocalizedName,0,-1,냉기 무쇠 칼날
-barrow,git,Creature List/23/Equip_ItemList/2/DescIdentified,0,-1,보라색 용의 표지를 내포한 방패. 이 방패는 높은 계급의 장교들만 사용한다.
+barrow,git,Creature List/23/Equip_ItemList/2/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 barrow,git,Creature List/23/Equip_ItemList/2/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 barrow,git,Creature List/23/Equip_ItemList/3/LocalizedName,0,-1,보라색 용 공무원 망토
 barrow,git,Creature List/23/FirstName,0,-1,에드거
@@ -2748,7 +2748,7 @@ barrow,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,-1,보라색 용의
 barrow,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,-1,보라색 용 라이온 메일
 barrow,git,Creature List/9/Equip_ItemList/2/DescIdentified,0,-1,"악마 용과의 전쟁 이후, 이 칼은 코르미르에서 꽤 흔해졌습니다. 그들은 보라색 용을 장비하기 위해 대량으로 제조되었습니다. 왜냐하면 가즈네스에게 해를 끼칠 수 있는 것은 냉철기뿐이었기 때문입니다."
 barrow,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,-1,냉기 무쇠 칼날
-barrow,git,Creature List/9/Equip_ItemList/3/DescIdentified,0,-1,보라색 용의 표지를 내포한 방패. 이 방패는 높은 계급의 장교들만 사용한다.
+barrow,git,Creature List/9/Equip_ItemList/3/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 barrow,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 barrow,git,Creature List/9/FirstName,0,-1,죽은 보라 용
 barrow,git,Door List/1/Description,0,-1,무거운 돌 문이 있다. 가까이 가면서 주의 깊게 들어보는 것이 좋다.
@@ -3071,7 +3071,7 @@ castlewyvernw002,git,Creature List/13/FirstName,0,-1,해적
 castlewyvernw002,git,Creature List/14/Description,0,-1,가장 세련되고 힘든 사람이만 해적 계급의 정상에 올릴 수 있습니다.
 castlewyvernw002,git,Creature List/14/Equip_ItemList/1/DescIdentified,0,-1,이 화살에는 비행 중에 불꽃이 번진 미미한 마법이 걸려 있습니다.
 castlewyvernw002,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,-1,불꽃 화살
-castlewyvernw002,git,Creature List/14/Equip_ItemList/2/DescIdentified,0,13894,이 총알은 어떤 종류의 혈전해소제로 덮여 있어 피해자는 피를 흘려 죽게 됩니다.
+castlewyvernw002,git,Creature List/14/Equip_ItemList/2/DescIdentified,0,13894,"이 탄환에는 일종의 항응고제가 발려 있어, 피해자는 과다출혈로 사망하게 됩니다."
 castlewyvernw002,git,Creature List/14/Equip_ItemList/2/Description,0,-1,"작은 돌은 으로 만들어져 있고, 끈적 인 물질로 덮여 있습니다."
 castlewyvernw002,git,Creature List/14/Equip_ItemList/2/LocalizedName,0,13893,출혈자
 castlewyvernw002,git,Creature List/14/Equip_ItemList/3/DescIdentified,0,13881,"각 볼트는 고대 룬으로 마크되어 있습니다. 볼트가 맞을 때, 그것이 희생자의 힘을 빼앗는 것 같습니다."
@@ -3087,13 +3087,13 @@ castlewyvernw002,git,Creature List/15/FirstName,0,-1,해적
 castlewyvernw002,git,Creature List/16/Description,0,-1,"발레토는 헐락 숲 가장자리를 베는 목재 상인으로, 자신의 농장이 발레토로부터 렌트된 만큼 잘 알려져 있습니다. 그는 드래곤 호수를 건너 해외로 상품을 운송합니다."
 castlewyvernw002,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,-1,장갑과 함께 아름다운 옷.
 castlewyvernw002,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,12835,발레토의 재킷
-castlewyvernw002,git,Creature List/16/Equip_ItemList/1/DescIdentified,0,-1,마지막 순간의 전환으로 어떤 공격도 부분적으로 피할 수 있습니다. 이는 빠른 장화의 비밀력량입니다.
+castlewyvernw002,git,Creature List/16/Equip_ItemList/1/DescIdentified,0,-1,"마지막 순간의 비틀기로, 어떤 공격이든 부분적으로 피할 수 있습니다. 이것이 날렵한 장화의 숨겨진 힘입니다."
 castlewyvernw002,git,Creature List/16/Equip_ItemList/1/Description,0,-1,단순한 부츠입니다. 특별한 점은 없습니다.
 castlewyvernw002,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,-1,교묘한 장화
 castlewyvernw002,git,Creature List/16/Equip_ItemList/2/DescIdentified,0,-1,"팔찌의 띠에는 글자가 새겨져 있으며, 한 개의 룬이 명확히 새겨져 있습니다. 이 팔찌에는 작은 보호 마법이 작용하고 있습니다."
 castlewyvernw002,git,Creature List/16/Equip_ItemList/2/Description,0,-1,띠 주변에 글씨가 새겨진 팔찌와 명확하게 새겨진 한 룬.
 castlewyvernw002,git,Creature List/16/Equip_ItemList/2/LocalizedName,0,-1,룬 브레이서
-castlewyvernw002,git,Creature List/16/Equip_ItemList/3/DescIdentified,0,13454,"마법 반지를 제작할 수 있는 사람들은 더 좋은 재료로 더 좋은 보석을 만들 수 있으며, 그 위에 더 강력한 마법을 부여할 수 있다는 것을 곧 알게 된다. 보호 반지 중 더 강력한 것은 종종 처음의 결과물이다."
+castlewyvernw002,git,Creature List/16/Equip_ItemList/3/DescIdentified,0,13454,"마법 장신구를 제작할 수 있는 이들은 더 좋은 재료로 더 뛰어난 물건을 만들 수 있으며, 그에 더 강력한 마법이 깃든다는 사실을 곧 깨닫게 된다. 상급 보호의 반지는 흔히 그 첫 번째 결과물이다."
 castlewyvernw002,git,Creature List/16/Equip_ItemList/3/Description,0,-1,단순한 금 반지에 단 하나의 반귀한 돌이 솔리타리 스타일로 장식되어 있습니다.
 castlewyvernw002,git,Creature List/16/Equip_ItemList/3/LocalizedName,0,13453,더 강력한 보호의 반지
 castlewyvernw002,git,Creature List/16/Equip_ItemList/4/DescIdentified,0,13460,"This odd-looking ring is made of some kind of green wood and carved with leaves around the band. As well as slowly healing the wearer, this ring seems to call upon the power of Silvanus to grant other powers.
@@ -3123,7 +3123,7 @@ castlewyvernw002,git,Creature List/16/ItemList/5/LocalizedName,0,-1,해적 키
 castlewyvernw002,git,Creature List/2/Description,0,-1,가장 세련되고 힘든 사람이만 해적 계급의 정상에 올릴 수 있습니다.
 castlewyvernw002,git,Creature List/2/Equip_ItemList/1/DescIdentified,0,-1,이 화살에는 비행 중에 불꽃이 번진 미미한 마법이 걸려 있습니다.
 castlewyvernw002,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,-1,불꽃 화살
-castlewyvernw002,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,13894,이 총알은 어떤 종류의 혈전해소제로 덮여 있어 피해자는 피를 흘려 죽게 됩니다.
+castlewyvernw002,git,Creature List/2/Equip_ItemList/2/DescIdentified,0,13894,"이 탄환에는 일종의 항응고제가 발려 있어, 피해자는 과다출혈로 사망하게 됩니다."
 castlewyvernw002,git,Creature List/2/Equip_ItemList/2/Description,0,-1,"작은 돌은 으로 만들어져 있고, 끈적 인 물질로 덮여 있습니다."
 castlewyvernw002,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,13893,출혈자
 castlewyvernw002,git,Creature List/2/Equip_ItemList/3/DescIdentified,0,13881,"각 볼트는 고대 룬으로 마크되어 있습니다. 볼트가 맞을 때, 그것이 희생자의 힘을 빼앗는 것 같습니다."
@@ -3305,7 +3305,7 @@ castlewyvernw002,git,WaypointList/38/LocalizedName,0,14817,PC 재시작 포인�
 castlewyvernw002,git,WaypointList/39/LocalizedName,0,14817,떠돌아다니는 괴물 웨이포인트
 castlewyvernw002,git,WaypointList/41/LocalizedName,0,14814,플래시 PIN
 castlewyvernw002,git,WaypointList/41/MapNote,0,14815,발레토의 방실
-castlewyvernw003,git,Creature List/0/Description,0,12577,"마법적인 상징으로 새겨진 돌 골렘은 강력한 적이다. 육체적으로 강력하고, 특히 산소를 제외하고는 매우 어렵게 해를 입힐 수 있다."
+castlewyvernw003,git,Creature List/0/Description,0,12577,"신비로운 상징들이 새겨진 돌 골렘은 엄청난 적이다. 육체적으로 강력할 뿐만 아니라, 산성을 이용하는 방법 외에는 피해를 주기 매우 어렵다."
 castlewyvernw003,git,Creature List/0/FirstName,0,12578,돌 수호자
 castlewyvernw003,git,Placeable List/11/LocName,0,-1,TNO 큰 사과나무
 castlewyvernw003,git,Placeable List/12/LocName,0,-1,TNO 사과나무 Sm
@@ -3332,7 +3332,7 @@ castlewyvernw003,git,Placeable List/40/LocName,0,-1,검기둥
 castlewyvernw003,git,Placeable List/41/LocName,0,-1,검기둥
 castlewyvernw003,git,Placeable List/42/LocName,0,-1,검기둥
 castlewyvernw003,git,Placeable List/43/LocName,0,-1,칼날 방벽
-castlewyvernw003,git,Placeable List/45/Description,0,14674,시안색의 스파크가 추운 밤 공기에서 윙윙거리는 것처럼 지상에서 일어난다.
+castlewyvernw003,git,Placeable List/45/Description,0,14674,시안색의 스파크가 서늘한 밤공기 속의 도깨비불처럼 지상에서 피어오른다.
 castlewyvernw003,git,Placeable List/46/LocName,0,-1,칼날 방벽
 castlewyvernw003,git,Placeable List/49/LocName,0,-1,칼날 방벽
 castlewyvernw003,git,Placeable List/5/Description,0,68921,바닥에 더 거친 돌이 보인다.
@@ -3691,7 +3691,7 @@ castlewyvernwate,git,Placeable List/0/LocName,0,68931,모래
 castlewyvernwate,git,Placeable List/1/Description,0,68932,모래가 여기에 씻겨졌어요.
 castlewyvernwate,git,Placeable List/1/LocName,0,68931,모래
 castlewyvernwate,git,Placeable List/16/Description,0,14555,이 배럴은 단단히 막혀 있습니다.
-castlewyvernwate,git,Placeable List/16/LocName,0,5691,아시드 통
+castlewyvernwate,git,Placeable List/16/LocName,0,5691,산성 용액 통
 castlewyvernwate,git,Placeable List/2/Description,0,68932,모래가 여기에 씻겨졌어요.
 castlewyvernwate,git,Placeable List/2/LocName,0,68931,모래
 castlewyvernwate,git,Placeable List/3/Description,0,68932,모래가 여기에 씻겨졌어요.
@@ -3866,7 +3866,7 @@ castlewyverwa002,git,Placeable List/136/Description,0,14595,이 무거운 경목
 castlewyverwa002,git,Placeable List/136/LocName,0,5348,단단한 가슴
 castlewyverwa002,git,Placeable List/137/Description,0,14595,이 무거운 경목 상자는 철로 보강되어 있어서 물리적 공격에 거의 끄떡없습니다.
 castlewyverwa002,git,Placeable List/137/LocName,0,5348,단단한 가슴
-castlewyverwa002,git,Placeable List/138/Description,0,14596,"금속 톱니가 이 화려한 상자의 나무 작업을 관통하며, 그 밑바탕의 강도를 드러내고 있다."
+castlewyverwa002,git,Placeable List/138/Description,0,14596,"이 화려한 상자의 목공예 표면에는 금속 장식이 박혀 있어, 탄탄한 내구성을 보여준다."
 castlewyverwa002,git,Placeable List/138/LocName,0,5348,긴 가슴
 castlewyverwa002,git,Placeable List/139/Description,0,14597,이 상자는 매우 두껍고 밀도가 높은 나무로 만들어져 거의 파괴되지 않습니다.
 castlewyverwa002,git,Placeable List/139/LocName,0,5348,목재 강박
@@ -4153,15 +4153,15 @@ castlewyverwater,git,Placeable List/8/LocName,0,-1,TNO 소형 아치 창문
 castlewyverwater,git,Placeable List/86/Description,0,12330,큰 발자국 흔적.
 castlewyverwater,git,Placeable List/87/Description,0,12330,이 흔적을 확인하려면 좀 더 가까이 가야 한다.
 castlewyverwater,git,Placeable List/88/Description,0,12330,이 흔적을 확인하려면 좀 더 가까이 가야 한다.
-castlewyverwater,git,Placeable List/89/LocName,0,-1,"빛나리, 파란색"
+castlewyverwater,git,Placeable List/89/LocName,0,-1,"빛기둥, 파란색"
 castlewyverwater,git,Placeable List/9/LocName,0,-1,TNO 소형 아치 창문
-castlewyverwater,git,Placeable List/90/LocName,0,-1,"빛나리, 파란색"
-castlewyverwater,git,Placeable List/91/LocName,0,-1,"빛나리, 파란색"
-castlewyverwater,git,Placeable List/92/LocName,0,-1,"빛나리, 파란색"
-castlewyverwater,git,Placeable List/93/LocName,0,-1,"빛나리, 파란색"
-castlewyverwater,git,Placeable List/94/LocName,0,-1,"빛나리, 파란색"
-castlewyverwater,git,Placeable List/95/LocName,0,-1,"빛나리, 파란색"
-castlewyverwater,git,Placeable List/96/LocName,0,-1,"빛나리, 파란색"
+castlewyverwater,git,Placeable List/90/LocName,0,-1,"빛기둥, 파란색"
+castlewyverwater,git,Placeable List/91/LocName,0,-1,"빛기둥, 파란색"
+castlewyverwater,git,Placeable List/92/LocName,0,-1,"빛기둥, 파란색"
+castlewyverwater,git,Placeable List/93/LocName,0,-1,"빛기둥, 파란색"
+castlewyverwater,git,Placeable List/94/LocName,0,-1,"빛기둥, 파란색"
+castlewyverwater,git,Placeable List/95/LocName,0,-1,"빛기둥, 파란색"
+castlewyverwater,git,Placeable List/96/LocName,0,-1,"빛기둥, 파란색"
 castlewyverwater,git,Placeable List/98/LocName,0,-1,부서진 기둥
 castlewyverwater,git,Placeable List/99/Description,0,68826,마구간으로 통하는 녹슨 철문.
 castlewyverwater,git,Placeable List/99/LocName,0,68825,마굿간 문
@@ -4208,7 +4208,7 @@ crownbarrow,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,178,루비 전�
 crownbarrow,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,1551,루비 방패
 crownbarrow,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,13152,루비 골렘 속성
 crownbarrow,git,Creature List/0/FirstName,0,12578,루비 골렘
-crownbarrow,git,Creature List/0/ItemList/0/DescIdentified,0,-1,"진한 보석 골렘의 심장, 결함이 없는 루비."
+crownbarrow,git,Creature List/0/ItemList/0/DescIdentified,0,-1,"산산조각 난 젬 골렘의 심장, 완벽한 루비."
 crownbarrow,git,Creature List/0/ItemList/0/LocalizedName,0,-1,루비 골렘 심장
 crownbarrow,git,Creature List/1/Description,0,12577,"에메랄드 골렘은 어두운 녹색의 면을 가지고 있으며, 종종 눈에는 스파크가 있습니다. 에메랄드 골렘이 어떻게 조각되더라도 천천히 여성 형태로 변합니다. 다른 보석 골렘과 마찬가지로, 그들은 대부분의 마법에 면역력이 있지만 빅비의 주문은 정상적으로 영향을 미칩니다."
 crownbarrow,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,178,에메랄드 전쟁망치
@@ -4457,7 +4457,7 @@ dla_dartgames,git,Creature List/2/Description,0,-1,썬더스톤의 지역인
 dla_dartgames,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,12923,농부 최고의 옷 남성
 dla_dartgames,git,Creature List/2/FirstName,0,-1,평민
 dla_dartgames,git,Creature List/3/Description,0,-1,썬더스톤의 지역인
-dla_dartgames,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,12923,낚시꾼/해상 용병 최고의 옷 남자
+dla_dartgames,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,12923,어부/선원 남성용 정장
 dla_dartgames,git,Creature List/3/FirstName,0,-1,평민
 dla_dartgames,git,Creature List/4/Description,0,-1,썬더스톤의 지역인
 dla_dartgames,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,12923,하위 레벨 하위 레벨 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하우스
@@ -5354,10 +5354,10 @@ poltersfort,git,Door List/5/Description,0,-1,철로 틀린 오래된 하지만 �
 poltersfort,git,Door List/5/LocName,0,-1,문을 지키
 poltersfort,git,Door List/6/Description,0,-1,이 오래된 문은 막혀 있습니다.
 poltersfort,git,Door List/6/LocName,0,5349,봉쇄된 문
-poltersfort,git,Door List/7/Description,0,-1,"작은 레버가 붙어 있는 금속 포트클리스와 함께, 요새 내부에서 제어해야 하는 잠금 메커니즘이 다행히 열려있었다."
+poltersfort,git,Door List/7/Description,0,-1,작은 레버가 옆에 있는 서로 맞물린 금속 격자문. 요새 내부에서 조작해야 하는 잠금 장치는 다행히도 열려 있었다.
 poltersfort,git,Door List/7/LocName,0,5349,철창살문
 poltersfort,git,Door List/8/Description,0,9070,"이 녹슨 덮힌 문이지만, 그 밑에 문은 여전히 튼튼하다."
-poltersfort,git,Door List/9/Description,0,9078,"이 간단한 문은 가공되지 않은 나무로 만들어져 있으며, 시간이 지나면서 부적절하게 달린 갈고리 위에 흔들립니다."
+poltersfort,git,Door List/9/Description,0,9078,대충 다듬은 나무로 만든 이 평범한 문은 세월에 닳아 아귀가 맞지 않는 경첩 위에 달려 있습니다.
 poltersfort,git,Door List/9/LocName,0,5349,견고한 문
 poltersfort,git,Encounter List/0/LocalizedName,0,-1,홉고블린 & 오거 풀세트
 poltersfort,git,Placeable List/0/LocName,0,-1,TNO 버치 C Md
@@ -5375,7 +5375,7 @@ poltersfort,git,Placeable List/2/LocName,0,-1,TNO 버치 C SM
 poltersfort,git,Placeable List/20/LocName,0,-1,TNO 나무 4 SM
 poltersfort,git,Placeable List/21/LocName,0,-1,TNO 나무 6 대
 poltersfort,git,Placeable List/3/LocName,0,-1,TNO 나무 2 Md
-poltersfort,git,Placeable List/35/LocName,0,-1,TNO 대나무 3 Lg
+poltersfort,git,Placeable List/35/LocName,0,-1,TNO 나무 3 Lg
 poltersfort,git,Placeable List/36/LocName,0,-1,TNO 나무 5 SM
 poltersfort,git,Placeable List/37/LocName,0,-1,TNO 나무 1 대
 poltersfort,git,Placeable List/38/LocName,0,-1,TNO 나무 5 SM
@@ -5405,7 +5405,7 @@ poltersfort,git,Placeable List/61/LocName,0,5800,사다리 꼭대기
 poltersfort,git,Placeable List/67/LocName,0,-1,횃불
 poltersfort,git,Placeable List/68/LocName,0,-1,횃불
 poltersfort,git,Placeable List/69/LocName,0,-1,횃불
-poltersfort,git,Placeable List/7/LocName,0,-1,TNO 대나무 3 Lg
+poltersfort,git,Placeable List/7/LocName,0,-1,TNO 나무 3 Lg
 poltersfort,git,Placeable List/70/LocName,0,14616,TNO 깃발 E24
 poltersfort,git,Placeable List/71/LocName,0,14616,TNO 깃발 E24
 poltersfort,git,Placeable List/72/LocName,0,14616,TNO 깃발 E24
@@ -5551,7 +5551,7 @@ poltersfortapp,git,Placeable List/31/LocName,0,66697,말뚝
 poltersfortapp,git,Placeable List/32/LocName,0,-1,장벽
 poltersfortapp,git,Placeable List/4/LocName,0,-1,TNO 나무 1 Sm
 poltersfortapp,git,Placeable List/5/LocName,0,-1,TNO 나무 2 대
-poltersfortapp,git,Placeable List/6/LocName,0,-1,TNO 대나무 3 Lg
+poltersfortapp,git,Placeable List/6/LocName,0,-1,TNO 나무 3 Lg
 poltersfortapp,git,Placeable List/7/LocName,0,-1,TNO 나무 5 SM
 poltersfortapp,git,Placeable List/8/LocName,0,-1,TNO 나무 3 SM
 poltersfortapp,git,Placeable List/9/LocName,0,-1,TNO 나무 2 SM
@@ -5634,10 +5634,10 @@ tennantfarmsofsl,git,Placeable List/68/LocName,0,83439,화기궤짝
 tennantfarmsofsl,git,Placeable List/69/LocName,0,-1,부시
 tennantfarmsofsl,git,Placeable List/82/ItemList/0/DescIdentified,0,58562,"한 끝에서 원시적인 손잡이를 가진 로프의 길이가 있습니다. <c ÿÿ> 참고: 로프를 사용하는 옵션은 당신이 절벽 가장자리, 구멍, 셔프 등이 가능한 지역에 접근할 때 자동으로 제공됩니다. 그러나 당신이 (또는 손잡이) 가 재고에 로프를 가지고 있다면만.<cÿÿÿ>"
 tennantfarmsofsl,git,Placeable List/82/ItemList/0/LocalizedName,0,13490,밧줄
-tennantfarmsofsl,git,Placeable List/83/LocName,0,52998,나무 기둥
-tennantfarmsofsl,git,Placeable List/84/LocName,0,52998,나무 기둥
-tennantfarmsofsl,git,Placeable List/85/LocName,0,52998,나무 기둥
-tennantfarmsofsl,git,Placeable List/86/LocName,0,52998,나무 기둥
+tennantfarmsofsl,git,Placeable List/83/LocName,0,52998,나뭇그루터기
+tennantfarmsofsl,git,Placeable List/84/LocName,0,52998,나뭇그루터기
+tennantfarmsofsl,git,Placeable List/85/LocName,0,52998,나뭇그루터기
+tennantfarmsofsl,git,Placeable List/86/LocName,0,52998,나뭇그루터기
 tennantfarmsofsl,git,Placeable List/87/Description,0,14730,농장에서 친구 중 한 명의 시체가 있다....
 tennantfarmsofsl,git,Placeable List/87/ItemList/0/DescIdentified,0,58570,과 이 가득한 텐더 박스
 tennantfarmsofsl,git,Placeable List/87/ItemList/0/LocalizedName,0,13498,티더박스
@@ -5678,7 +5678,7 @@ thunderstonetour,git,Creature List/15/Description,0,-1,호클린 경의 가문
 thunderstonetour,git,Creature List/15/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 thunderstonetour,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 thunderstonetour,git,Creature List/15/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-thunderstonetour,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+thunderstonetour,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 thunderstonetour,git,Creature List/15/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 thunderstonetour,git,Creature List/15/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 thunderstonetour,git,Creature List/15/FirstName,0,-1,호클린 경비병
@@ -5686,7 +5686,7 @@ thunderstonetour,git,Creature List/16/Description,0,-1,호클린 경의 가문
 thunderstonetour,git,Creature List/16/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 thunderstonetour,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 thunderstonetour,git,Creature List/16/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-thunderstonetour,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+thunderstonetour,git,Creature List/16/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 thunderstonetour,git,Creature List/16/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 thunderstonetour,git,Creature List/16/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 thunderstonetour,git,Creature List/16/FirstName,0,-1,호클린 경비병
@@ -5723,7 +5723,7 @@ thunderstonetour,git,Creature List/20/Equip_ItemList/1/DescIdentified,0,-1,보�
 thunderstonetour,git,Creature List/20/Equip_ItemList/1/LocalizedName,0,-1,보라색 용 라이온 메일
 thunderstonetour,git,Creature List/20/Equip_ItemList/2/DescIdentified,0,-1,"악마 용과의 전쟁 이후, 이 칼은 코르미르에서 꽤 흔해졌습니다. 그들은 보라색 용을 장비하기 위해 대량으로 제조되었습니다. 왜냐하면 가즈네스에게 해를 끼칠 수 있는 것은 냉철기뿐이었기 때문입니다."
 thunderstonetour,git,Creature List/20/Equip_ItemList/2/LocalizedName,0,-1,냉기 무쇠 칼날
-thunderstonetour,git,Creature List/20/Equip_ItemList/3/DescIdentified,0,-1,보라색 용의 표지를 내포한 방패. 이 방패는 높은 계급의 장교들만 사용한다.
+thunderstonetour,git,Creature List/20/Equip_ItemList/3/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 thunderstonetour,git,Creature List/20/Equip_ItemList/3/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 thunderstonetour,git,Creature List/20/Equip_ItemList/4/LocalizedName,0,-1,PDK 망토
 thunderstonetour,git,Creature List/20/FirstName,0,-1,보라용 라이온어
@@ -5740,7 +5740,7 @@ thunderstonetour,git,Creature List/23/Description,0,-1,썬더스톤의 지역인
 thunderstonetour,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,12923,사냥꾼 최고의 옷 유니섹스
 thunderstonetour,git,Creature List/23/FirstName,0,-1,평민
 thunderstonetour,git,Creature List/24/Description,0,-1,썬더스톤의 지역인
-thunderstonetour,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,12923,낚시꾼/해상 용병 최고의 옷 남자
+thunderstonetour,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,12923,어부/선원 남성용 정장
 thunderstonetour,git,Creature List/24/FirstName,0,-1,부유한 평민
 thunderstonetour,git,Creature List/25/Description,0,-1,썬더스톤의 지역인
 thunderstonetour,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,12923,로컬 의복
@@ -5765,7 +5765,7 @@ thunderstonetour,git,Creature List/30/Description,0,-1,썬더스톤의 지역인
 thunderstonetour,git,Creature List/30/Equip_ItemList/0/LocalizedName,0,12923,농부 최고의 옷 Fem
 thunderstonetour,git,Creature List/30/FirstName,0,-1,평민
 thunderstonetour,git,Creature List/31/Description,0,-1,썬더스톤의 지역인
-thunderstonetour,git,Creature List/31/Equip_ItemList/0/LocalizedName,0,12923,하등급 하인 최고의 옷 남자
+thunderstonetour,git,Creature List/31/Equip_ItemList/0/LocalizedName,0,12923,하급 하인용 남성용 최고급 옷
 thunderstonetour,git,Creature List/31/FirstName,0,-1,평민
 thunderstonetour,git,Creature List/32/Description,0,-1,썬더스톤의 지역인
 thunderstonetour,git,Creature List/32/Equip_ItemList/0/LocalizedName,0,12923,하위 레벨 하위 레벨 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하우스
@@ -5930,13 +5930,13 @@ thunderstonetour,git,Placeable List/76/LocName,0,-1,TNO 소형 아치 창 2
 thunderstonetour,git,Placeable List/77/LocName,0,-1,TNO 발코니 C
 thunderstonetour,git,Placeable List/78/LocName,0,-1,TNO 발코니 문
 thunderstonetour,git,Placeable List/79/LocName,0,-1,TNO 발코니 C
-thunderstonetour,git,Placeable List/8/LocName,0,-1,TNO 대나무 3 Lg
+thunderstonetour,git,Placeable List/8/LocName,0,-1,TNO 나무 3 Lg
 thunderstonetour,git,Placeable List/80/LocName,0,-1,TNO 발코니 문
 thunderstonetour,git,Placeable List/81/LocName,0,-1,활쏘기 표적 (북쪽)
 thunderstonetour,git,Placeable List/82/LocName,0,-1,활쏘기 표적 (남쪽)
 thunderstonetour,git,Placeable List/83/LocName,0,-1,궁술 난사 (북)
 thunderstonetour,git,Placeable List/84/LocName,0,-1,아처리 와일드샷 (남쪽)
-thunderstonetour,git,Placeable List/85/LocName,0,-1,궁중 화살사 미스 노스 1
+thunderstonetour,git,Placeable List/85/LocName,0,-1,궁술 미스 노스 1
 thunderstonetour,git,Placeable List/86/LocName,0,-1,활사격 미스 북 2
 thunderstonetour,git,Placeable List/87/LocName,0,-1,궁사 미스 사우스 1
 thunderstonetour,git,Placeable List/88/LocName,0,-1,궁사 미스 사우스 2
@@ -6020,10 +6020,10 @@ tno_joust,git,Creature List/0/FirstName,0,-1,주전의 주인
 tno_joust,git,Creature List/1/Description,0,-1,가벼운 전투마.
 tno_joust,git,Creature List/1/FirstName,0,-1,경전마
 tno_joust,git,Creature List/10/Description,0,-1,썬더스톤의 지역인
-tno_joust,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,12923,낚시꾼/해상 용병 최고의 옷 남자
+tno_joust,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,12923,어부/선원 남성용 정장
 tno_joust,git,Creature List/10/FirstName,0,-1,평민
 tno_joust,git,Creature List/11/Description,0,-1,썬더스톤의 지역인
-tno_joust,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,12923,하등급 하인 최고의 옷 남자
+tno_joust,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,12923,하급 하인용 남성용 최고급 옷
 tno_joust,git,Creature List/11/FirstName,0,-1,평민
 tno_joust,git,Creature List/12/Description,0,-1,썬더스톤의 지역인
 tno_joust,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,12923,발병 최고의 옷 유니섹스
@@ -6038,7 +6038,7 @@ tno_joust,git,Creature List/15/Description,0,-1,썬더스톤의 지역인
 tno_joust,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,12923,농부 최고의 옷 남성
 tno_joust,git,Creature List/15/FirstName,0,-1,평민
 tno_joust,git,Creature List/16/Description,0,-1,썬더스톤의 지역인
-tno_joust,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,12923,낚시꾼/해상 용병 최고의 옷 남자
+tno_joust,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,12923,어부/선원 남성용 정장
 tno_joust,git,Creature List/16/FirstName,0,-1,평민
 tno_joust,git,Creature List/17/Description,0,-1,호클린 가의 소규모 귀족
 tno_joust,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,12904,호클린 여인 귀족 옷
@@ -6119,7 +6119,7 @@ tno_joust,git,Creature List/37/Description,0,-1,호클린 경의 가문
 tno_joust,git,Creature List/37/Equip_ItemList/0/DescIdentified,0,-1,금속 헬멧
 tno_joust,git,Creature List/37/Equip_ItemList/0/LocalizedName,0,90531,금속 헬멧
 tno_joust,git,Creature List/37/Equip_ItemList/1/DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
-tno_joust,git,Creature List/37/Equip_ItemList/1/LocalizedName,0,-1,호클린 우편
+tno_joust,git,Creature List/37/Equip_ItemList/1/LocalizedName,0,-1,호클린 메일
 tno_joust,git,Creature List/37/Equip_ItemList/3/DescIdentified,0,-1,호클린의 상징을 지닌 방패
 tno_joust,git,Creature List/37/Equip_ItemList/3/LocalizedName,0,-1,호클린 방패
 tno_joust,git,Creature List/37/FirstName,0,-1,호클린 경비병
@@ -6142,7 +6142,7 @@ tno_joust,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,-1,트럼펫
 tno_joust,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,-1,망토
 tno_joust,git,Creature List/6/FirstName,0,-1,트럼펫 연주자
 tno_joust,git,Creature List/7/Description,0,-1,썬더스톤의 지역인
-tno_joust,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,12923,하등급 하인 최고의 옷 남자
+tno_joust,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,12923,하급 하인용 남성용 최고급 옷
 tno_joust,git,Creature List/7/FirstName,0,-1,평민
 tno_joust,git,Creature List/8/Description,0,-1,썬더스톤의 지역인
 tno_joust,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,12923,사냥꾼 최고의 옷 유니섹스
@@ -6154,7 +6154,7 @@ tno_joust,git,Door List/1/LocName,0,5349,TJTWest
 tno_joust,git,Placeable List/0/Description,0,14662,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 tno_joust,git,Placeable List/0/LocName,0,5800,준비
 tno_joust,git,Placeable List/1/LocName,0,-1,TNO 나무 3 SM
-tno_joust,git,Placeable List/10/LocName,0,52998,나무 기둥
+tno_joust,git,Placeable List/10/LocName,0,52998,나뭇그루터기
 tno_joust,git,Placeable List/11/LocName,0,-1,창 시합 명단 4
 tno_joust,git,Placeable List/12/LocName,0,-1,창 시합 명단 4
 tno_joust,git,Placeable List/13/LocName,0,-1,창 시합 명단 4
@@ -6219,7 +6219,7 @@ tno_joust,git,TriggerList/5/LocalizedName,0,14760,TJTN북
 tno_joust,git,TriggerList/6/LocalizedName,0,14759,_joust_crash
 tno_joust,git,TriggerList/7/LocalizedName,0,14759,도둑질 트리거
 tno_joust,git,TriggerList/8/LocalizedName,0,14759,1라인 트리거
-tno_joust,git,WaypointList/0/Description,0,-1,이 장소가 경마 장면의 시작 위치입니다.
+tno_joust,git,WaypointList/0/Description,0,-1,이곳은 창 시합 컷씬이 시작되는 위치입니다.
 tno_joust,git,WaypointList/14/Description,0,-1,이쪽은 장기전 라운드가 끝나면 이동하는 곳입니다.
 tno_joust,git,WaypointList/15/MapNote,0,-1,호클린 성으로
 tno_joust,git,WaypointList/16/MapNote,0,-1,토너먼트 장소
@@ -6365,7 +6365,7 @@ ttgmelee,git,Creature List/0/FirstName,0,12617,근접전의 달인
 ttgmelee,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,12923,발병 최고의 옷 유니섹스
 ttgmelee,git,Creature List/1/FirstName,0,-1,평민
 ttgmelee,git,Creature List/10/Description,0,-1,썬더스톤의 지역인
-ttgmelee,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,12923,하등급 하인 최고의 옷 남자
+ttgmelee,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,12923,하급 하인용 남성용 최고급 옷
 ttgmelee,git,Creature List/10/FirstName,0,-1,평민
 ttgmelee,git,Creature List/11/Description,0,-1,썬더스톤의 지역인
 ttgmelee,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,12923,하위 레벨 하위 레벨 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하우스

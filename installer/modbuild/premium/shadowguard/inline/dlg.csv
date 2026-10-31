@@ -4,7 +4,7 @@ ak_st_0_disciple,dlg,EntryList/2/Text,0,-1,"<< 소유자의 일기 탐구를 ""J
 ak_st_0_disciple,dlg,EntryList/3/Text,0,-1,"<< 소유자의 저널 검색을 ""JT_PREL_KARA_2""로 설정합니다 >>"
 ak_st_0_disciple,dlg,EntryList/4/Text,0,-1,"<< ""N_TALK_SWITCH""를 활성화하면 ""N_MODULE_STAGE""는 0이 됩니다. >>"
 ak_st_0_disciple,dlg,EntryList/5/Text,0,-1,"<< 이 대화 노드는 ""N_TALK_SWITCH"" 변수를 다시 설정하는 것 외에는 아무것도 하지 않습니다 >>"
-ak_st_0_ghasaran,dlg,EntryList/1/Text,0,-1,"죽을 준비를 하거, 바보!"
+ak_st_0_ghasaran,dlg,EntryList/1/Text,0,-1,"죽을 준비를 해라, 바보 녀석!"
 ak_st_0_ghasaran,dlg,EntryList/10/Text,0,-1,"멍청아, 내가 아무 것도 안 해야 돼, 특히 너 같은 비참한 <man/woman>의 명령에 따라야 돼!"
 ak_st_0_ghasaran,dlg,EntryList/11/Text,0,-1,"<StartAction>[Ghasaran snickers at you.]</Start> 예, 내가..."
 ak_st_0_ghasaran,dlg,EntryList/12/Text,0,-1,"남자들! 문을 지키고, 이 바보들의 피를 흘려 죽음의 어머니를 찬양해!"
@@ -39,7 +39,7 @@ ak_st_0_ghasaran,dlg,EntryList/38/Text,0,-1,"<< 소유자의 저널 검색을 ""
 ak_st_0_ghasaran,dlg,EntryList/39/Text,0,-1,"<< ""N_TALK_SWITCH""를 활성화하면 ""N_MODULE_STAGE""는 0이 됩니다. >>"
 ak_st_0_ghasaran,dlg,EntryList/4/Text,0,-1,"<StartAction>[가사란이 사악하게 낄낄거린다.]</Start> 맞아, 하지만 넌 이제 나에게 더 이상 쓸모도 없지... 하지만 걱정하지 마라. 네 영혼은 죽음의 어머니께 바쳐질 것이고, 그 희생은 그녀를 아주 기쁘게 할 테니까..."
 ak_st_0_ghasaran,dlg,EntryList/40/Text,0,-1,"<< 이 대화 노드는 ""N_TALK_SWITCH"" 변수를 다시 설정하는 것 외에는 아무것도 하지 않습니다 >>"
-ak_st_0_ghasaran,dlg,EntryList/5/Text,0,-1,"이제 죽으려면 준비하거라, 바보!"
+ak_st_0_ghasaran,dlg,EntryList/5/Text,0,-1,"자, 이제 죽을 준비를 해라, 바보 같은 녀석!"
 ak_st_0_ghasaran,dlg,EntryList/6/Text,0,-1,<StartAction>[가사란은 막대를 낮추고 전투에 참여하도록 준비하고 있습니다. 그의 사람들은 열망으로 싸움을 뛰어들습니다.]</Start>
 ak_st_0_ghasaran,dlg,EntryList/7/Text,0,-1,<StartAction>[가사라란이 당신 쪽을 향해 찬성하는 표정을 짓습니다.]</Start> 그래서 Dy'nesh의 딸을 손에 잡았군요! 어둠의 어머니는 기뻐하실 것입니다...
 ak_st_0_ghasaran,dlg,EntryList/8/Text,0,-1,"<Race> <man/woman>, 우릴 엘프 마녀로 데려가서 잘 해냈지만..."
@@ -188,7 +188,7 @@ cut_alia,dlg,EntryList/53/Text,0,-1,네가 판단에 대해 그렇게 강하게 
 cut_alia,dlg,EntryList/54/Text,0,-1,"목적에 이르는 방법은 여러 가지가 있지만, 삶의 어떤 길은 다른 것보다 더 위험합니다. 객관적으로 생각하길 바라며, 그게 내가 요구하는 전부입니다."
 cut_alia,dlg,EntryList/55/Text,0,-1,"고맙습니다, <FirstName>. 야키르의 영혼은 이번 생의 죄에 대한 대가를 치르게 될 것이며, 영혼의 순환을 통해 정화되어 다음 생에는 새로운 기회를 얻게 될 것입니다. 그 결정을 내리기 얼마나 힘들었을지 잘 알고 있습니다."
 cut_alia,dlg,EntryList/56/Text,0,-1,"와-와! 이렇게 유창한 말은 처음 들어 봐요, <FirstName>! 좋든 싫든, 아버지의 고귀한 혈통이 당신 혈관에 진하게 흐르고 있네요... 좋은 일이에요, <Lord/Lady> <LastName>, 자랑스러워할 일이고요!"
-cut_alia,dlg,EntryList/57/Text,0,-1,"네가 결정을 내린 것 같군, <FirstName>. 정신을 지하세계로 보내야 했는데, 하지만 나는 네 의도가 좋았다고 믿어."
+cut_alia,dlg,EntryList/57/Text,0,-1,"네가 결정을 내린 것 같군, <FirstName>. 영혼을 저승으로 돌려보냈어야 했지만, 네 의도는 좋았다고 믿는다."
 cut_alia,dlg,EntryList/58/Text,0,-1,"그럴 수도 있겠지. 오, 그렇게 쳐다보지 마! 난 이상주의자고 너나 잔토스처럼 가까운 사람을 잃어본 적이 없다는 건 나도 알아... 하지만 그렇다 해도, 객관적으로 볼 수 있는 게 아니라면 다른 사람을 함부로 판단해서는 안 돼."
 cut_alia,dlg,EntryList/6/Text,0,-1,"아카데미에서의 시간은 정말 빨리 지나가지요, 그렇지 않나요... 저로 말할 것 같으면, 여러분 모두를 너무나 사랑하지만 숲으로 돌아가지 않을 수 없네요. 드루이드 평의회에서 돌아오면 진정한 드루이드로 임명해 주겠다고 했거든요."
 cut_alia,dlg,EntryList/7/Text,0,-1,"정통 드루이드이자 제국의 진정한 시민이시군! <FirstName>님, 그건 정말 멋지지 않겠습니까?"
@@ -223,7 +223,7 @@ cut_janthos,dlg,EntryList/1/Text,0,-1,"안녕하세요, <FirstName>! 오늘 우�
 cut_janthos,dlg,EntryList/10/Text,0,-1,"It's always about my golems, isn't it Alia? <StartAction>[Sigh.]</Start> Where is your father, <FirstName>? I'd have expected he'd be here today."
 cut_janthos,dlg,EntryList/11/Text,0,-1,"적대적인 대전이 필요 없어, <FirstName>."
 cut_janthos,dlg,EntryList/12/Text,0,-1,"저는 그가 살아남을 것이라고 믿습니다. 그는 당신을 매우 소중히 생각하지만, 공동체의 법관으로서는 상당한 짐을 진 상태입니다. 당신의 입장과 마찬가지로 그의 입장도 이해해 보시는 것이 좋겠습니다."
-cut_janthos,dlg,EntryList/13/Text,0,-1,대법관이라는 직위는 가장 강한 사람에게도 무거운 짐입니다. 하지만 저는 당신의 아버지가 이것을 놓칠 것이라고 심각하게 의심하지 않습니다. 눈을 뜨고 주의를 기울이세요; 저는 그가 곧 여기에 있을 것이라고 확신합니다.
+cut_janthos,dlg,EntryList/13/Text,0,-1,대법관이라는 직위는 가장 강인한 이들에게도 무거운 짐입니다. 하지만 당신의 아버지가 이 일을 놓칠 리는 만무하다고 진심으로 생각합니다. 눈을 크게 뜨고 계십시오. 곧 여기에 도착하실 겁니다.
 cut_janthos,dlg,EntryList/14/Text,0,-1,분명 올 거야. 솔직히 아직 안 온 게 놀라워. 그가 교관들과 자네의 진척을 논의하러 아카데미에 들른 횟수를 셀 수도 없을 지경이거든.
 cut_janthos,dlg,EntryList/15/Text,0,-1,"자 토스가 옳다고 확신합니다. 아버지의 사무실은 충분히 가깝고, 의식이 끝나기 전에 여기 있을 것이라고 확신합니다."
 cut_janthos,dlg,EntryList/16/Text,0,-1,더 알고 싶은 게 있나요?
@@ -244,7 +244,7 @@ cut_janthos,dlg,EntryList/29/Text,0,-1,이... 나는 네 말을 이해합니다.
 cut_janthos,dlg,EntryList/3/Text,0,-1,내 부모님은 겨울의 눈 폭풍 때 죽었습니다. 강도들이 숲속의 우리 집에 와서 내 아버지의 양심은 그들을 눈 속에 얼어붙게 하지 않았습니다. 그는 문을 열고 그들을 초대했습니다.
 cut_janthos,dlg,EntryList/30/Text,0,-1,"판결은 그렇게 내려졌군요. <FirstName>님, 감사합니다. 영혼을 해방시키는 것보다 라카의 보살핌 아래 두는 것이 더 많은 선한 결과를 낳으리라 확신합니다."
 cut_janthos,dlg,EntryList/31/Text,0,-1,"I agree wholeheartedly. The victims of Yakir's vile actions can rest easy tonight. Thanks again, <FirstName>."
-cut_janthos,dlg,EntryList/4/Text,0,-1,"아버지께서는 따뜻한 마음을 가진 분이셨습니다. 세 명의 여행자들은 겨울 폭풍을 기다리기 위해 식사를 제공받았고, 불 옆에 따뜻한 곳을 차지했습니다. 한 시간도 채 되지 않아 그들은 본래의 모습을 드러냈습니다."
+cut_janthos,dlg,EntryList/4/Text,0,-1,아버지께서는 따뜻한 마음을 가진 분이셨다. 세 명의 여행자에게 겨울 폭풍이 지나갈 때까지 음식과 모닥불 옆의 따뜻한 자리를 내어주셨지. 하지만 한 시간도 채 되지 않아 그들은 본색을 드러냈다.
 cut_janthos,dlg,EntryList/5/Text,0,-1,"어머니는 눈보라를 뚫고 나를 아카데미로 보냈어요. 도움을 청해 돌아와야 한다고 했지만, 그건 다 핑계였죠. 어머니는 다가올 학살에서 내가 확실히 도망칠 수 있게 하려던 것뿐이었어요."
 cut_janthos,dlg,EntryList/6/Text,0,-1,"제가 사관학교에 도착했을 때, 범행은 이미 이루어져 있었다. 제국 경비병들이 현장을 조사한 후, 저는 제국의 보호자로, 결국 사관학교의 보호자로 지정되었다."
 cut_janthos,dlg,EntryList/7/Text,0,-1,하지만 이는 슬픈 이야기입니다. 다른 주제로 우리가 이야기할 수는 없나요?
@@ -524,7 +524,7 @@ ghaar_capt_anagr,dlg,ReplyList/4/Text,0,-1,왜 우리와 함께 안 오죠?
 ghaar_capt_anagr,dlg,ReplyList/41/Text,0,-1,왜 이 침입자들이 가라카를 공격했나요?
 ghaar_capt_anagr,dlg,ReplyList/48/Text,0,-1,우리는 통제 돌에 대한 권력을 되찾아야 한다.
 ghaar_capt_anagr,dlg,ReplyList/5/Text,0,-1,"그럼 신들이 당신을 지켜주길 바랍니다, 캡틴."
-ghaar_capt_anagr,dlg,ReplyList/51/Text,0,-1,내 멍청한 아버지는 죽었어.
+ghaar_capt_anagr,dlg,ReplyList/51/Text,0,-1,구제불능인 내 아버지가 스스로 목숨을 버렸어.
 ghaar_capt_anagr,dlg,ReplyList/52/Text,0,-1,아버지가 돌아가셨어요. 네가 들은 폭발이 아버지의 목숨을 앗아갔어.
 ghaar_capt_anagr,dlg,ReplyList/6/Text,0,-1,"아주 잘, 캡틴."
 ghaar_capt_anagr,dlg,ReplyList/61/Text,0,-1,"그는 죽었어, 캡틴..."
@@ -550,7 +550,7 @@ ghaar_capt_anagr,dlg,ReplyList/92/Text,0,-1,하지만 그는 나를 불러왔어
 ghaar_capt_anagr,dlg,ReplyList/93/Text,0,-1,"그건 삶과 죽음의 문제야, 선장님!"
 ghaar_capt_anagr,dlg,ReplyList/94/Text,0,-1,시장 지역에서 누군가 나를 죽이려고 했다!
 ghaar_capt_anagr,dlg,ReplyList/95/Text,0,-1,미켈 라벤클라우가 나를 죽이려 한다.
-ghaar_capt_anagr,dlg,ReplyList/96/Text,0,-1,차누른 총리가 내 아버지를 죽이려 한다.
+ghaar_capt_anagr,dlg,ReplyList/96/Text,0,-1,바르훈 총리가 내 아버지를 죽이려고 한다.
 ghaar_capt_anagr,dlg,ReplyList/97/Text,0,-1,그저 직감일 뿐이야
 ghaar_citizen,dlg,EntryList/1/Text,0,-1,"사실, 이 아름다운 도시가 끝났습니다."
 ghaar_citizen,dlg,EntryList/10/Text,0,-1,오카리스 <LastName> 판사는 북부 야만족과 동맹을 맺고 전쟁을 막기 위해 열심히 일해왔다고 들었습니다
@@ -864,7 +864,7 @@ ghaar_ghan,dlg,ReplyList/24/Text,0,-1,"아직 포기하지 마, 까한."
 ghaar_ghan,dlg,ReplyList/26/Text,0,-1,모든 것이 스스로 해결되곤 합니다.
 ghaar_ghan,dlg,ReplyList/27/Text,0,-1,"당신의 뜻대로, ..."
 ghaar_ghan,dlg,ReplyList/28/Text,0,-1,네 영혼 브로치가 여기 있어.
-ghaar_ghan,dlg,ReplyList/30/Text,0,-1,내가 새 브로치의 주인인 줄 알았어...
+ghaar_ghan,dlg,ReplyList/30/Text,0,-1,내가 영혼의 브로치를 가진 새로운 행운아인가...
 ghaar_ghan,dlg,ReplyList/31/Text,0,-1,<StartAction> </Start> 하지만 나는 공정한 경기에서 밀로크로부터 이겼어!
 ghaar_ghan,dlg,ReplyList/32/Text,0,-1,"실제로, 나 혼자 사용할 거야..."
 ghaar_ghan,dlg,ReplyList/33/Text,0,-1,도박에 돈을 다 빼앗겼구나!
@@ -1124,7 +1124,7 @@ ghaar_janthos,dlg,ReplyList/39/Text,0,-1,"그건... 무서운 거, 제인토스.
 ghaar_janthos,dlg,ReplyList/4/Text,0,-1,"이 모든 게 네 잘못이야, 얀토스!"
 ghaar_janthos,dlg,ReplyList/40/Text,0,-1,흥미로운 말을 할 게 있나?
 ghaar_janthos,dlg,ReplyList/41/Text,0,-1,정말 대단한 업적이죠.
-ghaar_janthos,dlg,ReplyList/44/Text,0,-1,"자네의 실험을 맡아줄게, 제노스씨."
+ghaar_janthos,dlg,ReplyList/44/Text,0,-1,"그린스, 자네의 땜질은 이만 혼자 내버려두는 게 좋겠군."
 ghaar_janthos,dlg,ReplyList/46/Text,0,-1,전력 공급원 좀 찾을 수 있을지도 몰라
 ghaar_janthos,dlg,ReplyList/47/Text,0,-1,<StartAction>[주문숙련] [골렘을 직접 조사.]</Start>
 ghaar_janthos,dlg,ReplyList/48/Text,0,-1,이리리움을 시도해 본 적이 있나?
@@ -1224,7 +1224,7 @@ ghaar_mikel,dlg,EntryList/4/Text,0,-1,<StartAction>[미켈 래븐클로가 앞�
 ghaar_mikel,dlg,EntryList/40/Text,0,-1,전 당신과 휴전을 맺을 준비가 되어 있습니다. 당신이 나를 위해 똑같이 할 수 있다면.
 ghaar_mikel,dlg,EntryList/41/Text,0,-1,"<StartAction>[한숨을 쉰다.]</Start> <FirstName>, 날 믿든가 아니면 이 방에서 너를 처단할 수밖에 없어. 유혈 사태는 피하고 싶지만, 그러려면 네 협조가 필요하다."
 ghaar_mikel,dlg,EntryList/42/Text,0,-1,"좋아. 이제 우리 거래의 내 몫을 다해 네 목숨을 노리는 자가 누구인지 알려주지. 만약 이 정보를 다른 사람에게 발설한다면, 난 그런 건 들은 적도 없다고 발뺌할 테니 경고해 두마."
-ghaar_mikel,dlg,EntryList/43/Text,0,-1,"나는 만약 오해가 없다면, 아버지의 가까운 조언자였던 바르후누 총리에게 고용된 적이 있습니다. 보이러스는 당신의 가문을 종식시키고 가라크 도시를 자신이 계승하고 싶어하는 것 같습니다."
+ghaar_mikel,dlg,EntryList/43/Text,0,-1,"내가 틀리지 않았다면, 당신 아버지의 측근인 바르훈 재상에게 고용되었었죠. 그는 당신의 가문을 끝내고 가라크 시를 자신이 차지하려는 것 같군요."
 ghaar_mikel,dlg,EntryList/44/Text,0,-1,<StartAction>[한숨.]</Start> 네가 약속을 지킬 거라 믿은 내가 어리석었지. 아주 좋아! 마이클 레이븐클로를 쓰러뜨리는 게 그리 쉽지는 않을 거다!
 ghaar_mikel,dlg,EntryList/45/Text,0,-1,"재상 바훈은 내 시간을 쓸 가치가 없다는 걸 증명했어! 네 암살 계약도 어겼으니, 이제 이 벌레 같은 자와는 더는 거래하지 않겠다!"
 ghaar_mikel,dlg,EntryList/46/Text,0,-1,그의 동기는 모르지만 그의 본성에 어울리는 짓 같군요. 나는 바르훈과 일하는 데 지쳤습니다. 그는 약속을 지키는 데 명예롭지 못했거든요. 당신이 그를 제대로 처리해 주길 바랍니다.
@@ -1271,14 +1271,14 @@ ghaar_mikel,dlg,ReplyList/41/Text,0,-1,잊어! 날 암살하려 했던 사람과
 ghaar_mikel,dlg,ReplyList/42/Text,0,-1,이게 좀 더 좋은 일이 아니면 오늘 당신의 인생은 끝나는 거야!
 ghaar_mikel,dlg,ReplyList/44/Text,0,-1,내 흥미를 끌 만한 얘기를 대체 뭘 할 수 있다는 거지?
 ghaar_mikel,dlg,ReplyList/46/Text,0,-1,난 널 믿을 수 없었어!
-ghaar_mikel,dlg,ReplyList/47/Text,0,-1,"난 너와 거래는 하지 않겠어! 오, 이 문제는 전투에서 해결해 보자!"
+ghaar_mikel,dlg,ReplyList/47/Text,0,-1,"너와는 거래 안 해! 자, 전투로 끝을 보자고!"
 ghaar_mikel,dlg,ReplyList/48/Text,0,-1,좋소. 당신이 지키는 한 나도 휴전 약속을 지키겠다고 맹세하오.
 ghaar_mikel,dlg,ReplyList/49/Text,0,-1,생각이 바뀌었나 봐. 그냥 널 죽일 거 같아.
-ghaar_mikel,dlg,ReplyList/5/Text,0,-1,"실제로, 더 좋은 생각이 있는데... 왜냐하면 널 그냥 죽여버리는 건 어떨까?"
+ghaar_mikel,dlg,ReplyList/5/Text,0,-1,사실 더 좋은 생각이 있는데... 차라리 널 죽여버리는 건 어떨까?
 ghaar_mikel,dlg,ReplyList/50/Text,0,-1,"그래, 그래. 어서 말해버려!"
 ghaar_mikel,dlg,ReplyList/51/Text,0,-1,"만약 당신의 말이 맞다면, 당신의 참여를 비밀로 할 것입니다."
 ghaar_mikel,dlg,ReplyList/52/Text,0,-1,정보를 알려 줘서 고맙군. 이제 널 죽일 차례야.
-ghaar_mikel,dlg,ReplyList/53/Text,0,-1,왜 바르후의 신뢰를 배신해서 이런 말을 해주었나?
+ghaar_mikel,dlg,ReplyList/53/Text,0,-1,어째서 바르훈의 신뢰를 저버리고 내게 이런 말을 하는가?
 ghaar_mikel,dlg,ReplyList/55/Text,0,-1,바르후나는 항상 아버지의 지위를 원했습니다.
 ghaar_mikel,dlg,ReplyList/57/Text,0,-1,"난 널 믿지 않아, 넌 그냥 책임을 떠넘기려고 해."
 ghaar_mikel,dlg,ReplyList/60/Text,0,-1,"바르훈? 바르훈이 이 배후에 있다고?! 아니, 이 교활한 녀석..."
@@ -1311,7 +1311,7 @@ ghaar_mylok,dlg,EntryList/8/Text,0,-1,"<StartCheck>[실패]</Start> <StartAction
 ghaar_mylok,dlg,EntryList/9/Text,0,-1,"<StartAction>[성공] [당신은 미록의 주의를 끌지 않고 그의 주머니에 있는 사슬을 능숙하게 감싸 쥐었다. 주머니에 브로치를 슬쩍 넣었지만, 그는 당신이 훔친 것을 전혀 눈치채지 못한 눈치다.]</Start>"
 ghaar_mylok,dlg,ReplyList/0/Text,0,-1,<StartAction>[남자를 떠나라.]</Start>
 ghaar_mylok,dlg,ReplyList/1/Text,0,-1,"미안합니다, '밀로크'라고 불리는 분이신가요?"
-ghaar_mylok,dlg,ReplyList/10/Text,0,-1,"""영혼 브루치""라고 불리는 마법의pendant을 찾는 데 도움이 될 수 있다고 들었습니다."
+ghaar_mylok,dlg,ReplyList/10/Text,0,-1,"""소울 브로치""라는 마법 펜던트를 찾는 것을 도와줄 수 있다고 들었습니다. 그게 필요한데, 마침 며칠 전에 그런 물건을 얻으셨다더군요."
 ghaar_mylok,dlg,ReplyList/11/Text,0,-1,내가 너한테 브루쉬를 사줄까?
 ghaar_mylok,dlg,ReplyList/12/Text,0,-1,지금 그럴 만한 골드는 없어.
 ghaar_mylok,dlg,ReplyList/13/Text,0,-1,<StartAction>[ 떠나.]</Start>
@@ -1476,14 +1476,14 @@ ghaar_varhun,dlg,EntryList/6/Text,0,-1,<StartAction>[바룬 총리가 방 침입
 ghaar_varhun,dlg,EntryList/7/Text,0,-1,"Settle down, Chancellor. We simply wish to have a chat with you. <FirstName> here believes you may have some information regarding a plot against Magistrate Okaris..."
 ghaar_varhun,dlg,EntryList/8/Text,0,-1,"난, 바르후누 총리는, 그런 배신에 굴복하지 않을거야!"
 ghaar_varhun,dlg,EntryList/9/Text,0,-1,"이런, 의원님. 그렇게 화를 내실 필요는 없습니다. 저는 그저 <lad/lass>에게 <his/her> 주장에 아무런 진실도 없음을 안심시켜 주고 싶었을 뿐입니다. 어차피 두려워하실 이유는 없잖습니까... 그렇지 않습니까?"
-ghaar_varhun,dlg,ReplyList/0/Text,0,-1,"Varhun, 마지막으로 말하고 싶은 것이 있으신가요? 그들이 당신을 처형대에 보내기 전에."
+ghaar_varhun,dlg,ReplyList/0/Text,0,-1,"Varhun, 그들이 당신을 처형대에 보내기 전에, 마지막으로 남길 유언이라도 있는가?"
 ghaar_varhun,dlg,ReplyList/1/Text,0,-1,"당신의 날이 끝났어, 바르후누 총장님!"
 ghaar_varhun,dlg,ReplyList/10/Text,0,-1,"고마워, 캡틴."
 ghaar_varhun,dlg,ReplyList/11/Text,0,-1,"이것은 아직 끝나지 않았어, 바르후누..."
 ghaar_varhun,dlg,ReplyList/13/Text,0,-1,나와 이 편지에 대해 좀 이야기 해볼 필요가 있어 보여...
 ghaar_varhun,dlg,ReplyList/15/Text,0,-1,저는 단지 인사하러 왔습니다.
 ghaar_varhun,dlg,ReplyList/16/Text,0,-1,<StartAction>[나이든 차관 발훈이 일에 열중하도록 내버려 둔다.]</Start>
-ghaar_varhun,dlg,ReplyList/17/Text,0,-1,소리가 내 아버지를 별로 신경 쓰지 않는 것 같네요.
+ghaar_varhun,dlg,ReplyList/17/Text,0,-1,"내 아버지를 별로 좋아하지 않는 것 같군요, 재상..."
 ghaar_varhun,dlg,ReplyList/18/Text,0,-1,"아카데미의 교관이 제국의 정예 훈련 시설에서 저를 주시하고 있다고 언급하셨습니다. 그분이 당신이 이 정보를 엿듣는 것을 들었다고 하셔서, 이에 대해 더 자세히 들을 수 있을까 했습니다."
 ghaar_varhun,dlg,ReplyList/2/Text,0,-1,"바르훈 총장, 귀하는 오카리스 대법관과 샤라칸 제국에 대한 반역 혐의로 체포되었습니다."
 ghaar_varhun,dlg,ReplyList/21/Text,0,-1,"하루 동안 당신을 충분히 봤어, 총독님... 이제 나가겠습니다."
@@ -1496,7 +1496,7 @@ ghaar_varhun,dlg,ReplyList/28/Text,0,-1,"나는 당신이 미켈을 통해 나�
 ghaar_varhun,dlg,ReplyList/29/Text,0,-1,네 말이 맞아요
 ghaar_varhun,dlg,ReplyList/3/Text,0,-1,"협박은 그만해, 바르훈!"
 ghaar_varhun,dlg,ReplyList/31/Text,0,-1,아직은 아닐 수도 있지만 곧 할 수 있을 겁니다.
-ghaar_varhun,dlg,ReplyList/33/Text,0,-1,여기 내가 쓴 편지가 있어... 내 죽음을 계획하는 편지
+ghaar_varhun,dlg,ReplyList/33/Text,0,-1,네가 쓴 것으로 추정되는 편지가 한 통 있더군... 내 죽음을 주도하는 내용의...
 ghaar_varhun,dlg,ReplyList/34/Text,0,-1,"아버지가 어떻게 되든 별로 상관없지만, 내 안전은 확실히 하고 싶어..."
 ghaar_varhun,dlg,ReplyList/36/Text,0,-1,이게 다 당신 때문이냐?
 ghaar_varhun,dlg,ReplyList/37/Text,0,-1,내 아버지에게 무슨 계획을 세웠나?
@@ -1533,7 +1533,7 @@ ghaar_zhiram,dlg,EntryList/6/Text,0,-1,통제 돌의 주된 목적은 가라크�
 ghaar_zhiram,dlg,EntryList/7/Text,0,-1,"보시다시피, 컨트롤 돌 안에 갇힌 거대한 힘을 활용하면, 우리는 임페리얼 디스트릭트의 모든 문들을 둘러싸고 무제한적으로 보호 방패를 올릴 수 있습니다. 이러한 방패는 모든 형태의 피해에 강하며, 대단한 방어라 할 수 있습니다!"
 ghaar_zhiram,dlg,EntryList/8/Text,0,-1,"하지만 우리의 방어 시스템 외에도, 통제 돌은 황제 지역에서 돌아다니는 마법적 건축물을 운영합니다. 이 거대한 노동자들은 우리 대신 무거운 육체적 노동을 무의식적으로 수행하면서 약간의 편안함을 누릴 수 있게 해줍니다."
 ghaar_zhiram,dlg,EntryList/9/Text,0,-1,"I'm afraid that is quite impossible at the moment, <lad/lass>. The stone must be kept active to allow the constructs to operate. Unfortunately, while the stone is in operation, it is extremely dangerous to manipulate."
-ghaar_zhiram,dlg,ReplyList/0/Text,0,-1,저는 지람으로 지나가고 있어.
+ghaar_zhiram,dlg,ReplyList/0/Text,0,-1,"그냥 지나가는 길이야, 지람."
 ghaar_zhiram,dlg,ReplyList/10/Text,0,-1,컨트롤 돌을 봐도 되나?
 ghaar_zhiram,dlg,ReplyList/12/Text,0,-1,"여기서 너무 많은 시간을 보냈어, 지람..."
 ghaar_zhiram,dlg,ReplyList/14/Text,0,-1,구조물은 위험해 보인다. 만약 그들이 우리를 공격한다면 어떨까?
@@ -1564,7 +1564,7 @@ hench_bruk,dlg,EntryList/111/Text,0,-1,"판단하기 어려울 수도 있지만,
 hench_bruk,dlg,EntryList/112/Text,0,-1,"아주 잘, 내가 마지막 순간까지 기다린다."
 hench_bruk,dlg,EntryList/113/Text,0,-1,"좋아, 내가 가장 좋은 생각으로 할게."
 hench_bruk,dlg,EntryList/114/Text,0,-1,전방에 미리 탐색할 필요는 없어. 여기는 안전해.
-hench_bruk,dlg,EntryList/115/Text,0,-1,나가 뭘 찾을 수 있을지 봐야겠다.
+hench_bruk,dlg,EntryList/115/Text,0,-1,무엇을 찾을 수 있는지 알아보겠어.
 hench_bruk,dlg,EntryList/116/Text,0,56222,잠시 쉬게 해줘서 도와줄게
 hench_bruk,dlg,EntryList/117/Text,0,-1,"<< 소유자의 일기 탐색을 ""JT_PREL_TARI""로 설정합니다 >>"
 hench_bruk,dlg,EntryList/12/Text,0,-1,헤헤헤헤헤!
@@ -1791,7 +1791,7 @@ hench_kara,dlg,EntryList/167/Text,0,-1,그럼 영이 이 영역에 어떤 목적
 hench_kara,dlg,EntryList/168/Text,0,-1,"<StartAction>[어색한 침묵이 감돌다가, 마침내 카라의 억눌린 킥킥거림으로 깨진다. 더 이상 참지 못한 그녀는 처량한 웃음을 터뜨린다.]</Start>"
 hench_kara,dlg,EntryList/169/Text,0,-1,"아이고, 첫인상이 나빴군요, 안 그렇습니까? 보석을 훔치고, 영혼을 소환하고, 게다가 호된 꾸지람까지. 부디 사과를 받아 주시고 설명할 기회를 주세요..."
 hench_kara,dlg,EntryList/17/Text,0,-1,<StartAction>[이 아름다운 엘프 처녀는 당신이 다가올 때 매력적인 미소를 짓는다.]</Start>
-hench_kara,dlg,EntryList/171/Text,0,-1,[엘프 여성이 넬기르의 손에 허무하게 싸우고 있습니다.] 나 떠나지 않으면 후회하는 법을 배우게 될 것이다!
+hench_kara,dlg,EntryList/171/Text,0,-1,"[엘프 여성이 넬기르의 붙잡힌 손아귀에서 벗어나려고 헛되이 발버둥 칩니다.] 나를 놓아라, 그렇지 않으면 후회하게 될 것이다!"
 hench_kara,dlg,EntryList/172/Text,0,-1,"<lad/lass>, 좀 바쁘다는 걸 알아보지 못하나? 꼭 누군가를 방해하고 싶다면, 저 불행한 상인에게 방해해 보는 게 어떨까?"
 hench_kara,dlg,EntryList/173/Text,0,-1,"<StartAction>[카라는 지친 기색이 역력하면서도 증오가 가득한 눈으로 당신을 바라본다.]</Start> 이... 이 배신자 버러지 같은 놈! 네가... 네가 내 블러드스톤을 가져갔어, 내가... 내가 너와 화해하려고 한 후에 말이야!"
 hench_kara,dlg,EntryList/174/Text,0,-1,"<StartAction>[Kara moves as though to strike against you, but her legs are still weak from her trance, and she stumbles to the ground.]</Start> A curse upon you, <lad/lass>! May you rot in the hells for what you have done!"
@@ -1902,9 +1902,9 @@ hench_kara,dlg,EntryList/6/Text,0,-1,"환영합니다, <FirstName>님..."
 hench_kara,dlg,EntryList/60/Text,0,-1,"그렇게 계속될 수도 있었겠지, 운명이 달리 정하지 않았다면... 나는 도시의 젊은 귀족과 사랑에 빠졌고, 우리는 봄의 첫날 결혼하기로 했어."
 hench_kara,dlg,EntryList/61/Text,0,-1,"어머니는 내 결혼을 지지하셨다. ""손길""이 부족한 딸인 나를 은근히 없애고 싶어 하셨기 때문이리라... 하지만 결혼식 날 밤, 나의 운명을 영원히 바꿔놓을 일이 일어났다."
 hench_kara,dlg,EntryList/62/Text,0,-1,아카나는 꿈에서 어머니를 방문해서 내가 선택받은 사람이 될 것이라고 말했어요.
-hench_kara,dlg,EntryList/63/Text,0,-1,"와이치는 아카나의 말을 부인할 수 없으며, 어머니는 제 사제들에게 제 결혼식을 중단하라고 명령했습니다. 교회로 돌격하여, 아카나의 사악한 종들은 제 신랑과 나를 외치며 데려갔습니다."
+hench_kara,dlg,EntryList/63/Text,0,-1,"와이치는 아카나의 말을 거역할 수 없었고, 어머니는 제 제자들에게 내 결혼식을 중단시키라고 명했습니다. 교회로 쳐들어온 아카나의 부정한 하인들은 비명을 지르는 내 신랑과 나를 억지로 끌고 갔습니다..."
 hench_kara,dlg,EntryList/64/Text,0,-1,"우리는 어머니 앞에 끌려갔고, 어머니는 내 신랑을 아카나에게 바치는 제물로 희생시키라고 명령하셨다. 나는 공포와 슬픔 속에서 신랑이 산 채로 불태워지는 모습을 지켜볼 수밖에 없었다…"
-hench_kara,dlg,EntryList/65/Text,0,-1,그날 밤 어머니를 저주하고 아카나의 뜻을 절대 복종하지 않겠다고 맹세했습니다. 그녀의 대답은 아카나의 제자들에게 나를 수개월 동안 고문해 달라고 맡겼다는 것이었습니다. 저를 무자비하게 괴롭히는 것을.
+hench_kara,dlg,EntryList/65/Text,0,-1,"그날 밤 어머니를 저주했고, 아카나의 뜻에 절대 복종하지 않겠다고 맹세했습니다. 그에 대한 대답으로 저를 아카나의 제자들에게 넘겨 몇 달 동안 끝없는 고문을 받게 했죠..."
 hench_kara,dlg,EntryList/66/Text,0,-1,"결국, 저는 아카나의 곁에서 제 운명을 보았다고 주장하며 감옥에서 나오게 되었습니다. 어머니는 기뻐했고, 어느 날 의 마녀로 통치하기 위해 제 훈련을 시작하도록 보냈습니다."
 hench_kara,dlg,EntryList/67/Text,0,-1,"그러나 나는 그들을 모두 속였으며, 기회가 찾아왔을 때, 나는 시에서 도망치면서 내 멘토들을 죽였으며, 다시는 돌아오지 않겠다고 맹세했고, 오늘날까지 맹세를 지키고 있습니다."
 hench_kara,dlg,EntryList/68/Text,0,-1,"그때부터 어머니는 끊임없이 저를 추적하며 아카나의 제자들을 거듭 보냈습니다. 그때마다 저는 그들을 따돌렸지만, 그들의 숫자는 점점 불어나고 있었고... 또 다른 위협마저 나타났습니다..."
@@ -1986,7 +1986,7 @@ hench_kara,dlg,ReplyList/159/Text,0,-1,네글거의 테이블에서 불러온 �
 hench_kara,dlg,ReplyList/16/Text,0,-1,마지막 초진에 대해 말해 줄 수 있는 게 있나요?
 hench_kara,dlg,ReplyList/161/Text,0,-1,왜 이 블러드스톤을 훔쳤어?
 hench_kara,dlg,ReplyList/164/Text,0,-1,거짓말은 그만! 즉시 입힌 피해를 수리해라!
-hench_kara,dlg,ReplyList/165/Text,0,-1,난 네글거의 서까래에서 이 영령을 제거하는 것을 보고 싶어...
+hench_kara,dlg,ReplyList/165/Text,0,-1,넬기르의 가판대에서 이 영혼을 쫓아내는 걸 꼭 봐야겠어...
 hench_kara,dlg,ReplyList/167/Text,0,-1,넬길은 힘들었을지도 모르지만 그 유령은 그의 사업을 망치고 있습니다.
 hench_kara,dlg,ReplyList/173/Text,0,-1,마르키우스는 당신과 이야기하고 싶어 했습니다.
 hench_kara,dlg,ReplyList/176/Text,0,-1,<StartAction>[ 떠나.]</Start>
@@ -2172,7 +2172,7 @@ hench_lyen,dlg,EntryList/51/Text,0,-1,"<StartAction>[마르키우스의 얼굴�
 hench_lyen,dlg,EntryList/52/Text,0,-1,"괜... 괜찮아, <FirstName>. 어쩌면... 어쩌면 너무 오랫동안 혼자만 간직해 왔는지도 몰라... 좋아... 이번엔 털어놓는 것도 좋은 일이야..."
 hench_lyen,dlg,EntryList/53/Text,0,-1,"<StartAction>[마르키우스의 눈이 약간 젖어들면서 그는 그림에 그려진 행복한 얼굴들을 따라 손을 움직입니다.]</Start> 이것은 한때 제 가족이었고, <FirstName>... 그리고 행복한 가족이었죠..."
 hench_lyen,dlg,EntryList/54/Text,0,-1,"<StartAction>[그 사진을 보면 단순한 남자와 여자의 얼굴에 넓은 미소를 볼 수 있습니다. 그 아래에는 두 명의 어린 소녀와 십대, 만발한 소년이 앉아 있습니다. 이는 오직 마르키우스 자신만이 될 수 있습니다...]</Start>"
-hench_lyen,dlg,EntryList/55/Text,0,-1,"우리는 평범한 사람들이었어, <FirstName>. 북쪽 농부들이었지. 우리에게는 부가 별로 중요하지 않았어. 왜냐하면 우리는 서로의 회사에서 행복했고, 문명의 속임수와 방탕으로부터 멀리 떨어져 살았거든..."
+hench_lyen,dlg,EntryList/55/Text,0,-1,"우리는 소박한 사람들, 북부 지방의 목축민들이었지, <FirstName>. 문명 사회의 기만과 방탕에서 멀리 떨어져 서로 함께 있는 것만으로도 행복을 느꼈기에, 우리에게 재물은 아무런 의미가 없었어..."
 hench_lyen,dlg,EntryList/56/Text,0,-1,"12년 전, 제 여동생의 7번째 생일에, 여행하는 상인들이라는 주장을 하는 사람들이 우리 문으로 와서"
 hench_lyen,dlg,EntryList/57/Text,0,-1,"그 남자들의 배신을 알게 된 것은 바로 그날 밤이었다네. 그들은 블러드호크였어, 해안을 항해하며 납치할 무방비한 사람들을 찾아다니던 잔인한 노예상인들이었지..."
 hench_lyen,dlg,EntryList/58/Text,0,-1,제 어머니와 아버지는 쓸모가 없을 정도로 늙었다며 노예상인들이 잔인하게 도살해 버렸습니다... 바로 제 여동생과 제 눈앞에서 말이죠...
@@ -2183,7 +2183,7 @@ hench_lyen,dlg,EntryList/61/Text,0,-1,"수년 동안 그는 나를 자신의 배
 hench_lyen,dlg,EntryList/62/Text,0,-1,"블러드호크의 감시 아래 몇 년을 보내고 나서 탈출할 기회를 잡았어. 우리는 여기서 훨씬 북쪽에 정박해 있었고, 고요한 밤중에 배 경비병에게 몰래 다가가 목을 베고 마을로 달아났지."
 hench_lyen,dlg,EntryList/63/Text,0,-1,"블러드하크들은 나를 찾지 않았다. 나는 단지 소년이었고, 그들에게는 큰 의미가 없었으니까. 그러나 나는 저들이 나의 과거를 파괴한 것에 대한 복수를 맹세했다."
 hench_lyen,dlg,EntryList/64/Text,0,-1,"지난 6년 동안, 나는 불쌍한 채로 블러드하크를 사냥해왔고, 내가 발견한 모든 것을 죽였어."
-hench_lyen,dlg,EntryList/65/Text,0,-1,"그림자 경호는 샤라칸 제국에서 블러드하크의 기지를 차단하려고 했으며, 한 번의 작전 중에 나는 그들의 목표를 찾아주는데 도움을 주었습니다."
+hench_lyen,dlg,EntryList/65/Text,0,-1,"섀도우가드는 샤라칸 제국에서 블러드하크의 기지들을 소탕하려 했고, 그들의 작전 중 한 번 나는 그들이 사냥감을 찾는 것을 도왔다."
 hench_lyen,dlg,EntryList/66/Text,0,-1,오버로드는 내 성과로 만족하셨을 것 같아요. 그 후 그는 나를 여기 데려오겠다고 제안했습니다.
 hench_lyen,dlg,EntryList/67/Text,0,-1,그때부터 운명이 우리를 데려가는 곳마다 블러드하크를 찾아왔고 마침내 가라크에 있는 조르다크에게 복수를 받았어요
 hench_lyen,dlg,EntryList/68/Text,0,-1,"아직도 여동생이 어떻게 되었는지 궁금합니다. 어쩌면 그녀는 여전히 블러드하크의 의지에 종속된 노예로 남아, 어떤 귀족의 집에 억류된 채 강제로 생활하고 있을지도 모릅니다."
@@ -2205,7 +2205,7 @@ hench_lyen,dlg,EntryList/81/Text,0,-1,"일부 동료 여행자들은 나와 함�
 hench_lyen,dlg,EntryList/82/Text,0,-1,"라카의 축복, <FirstName>... 우리가 더 이야기 할 수 있었으면 좋겠어요 하지만 지금 내 생각과 함께 혼자 있어야 합니다."
 hench_lyen,dlg,EntryList/83/Text,0,-1,"<StartAction>[그것으로, 마르키우스 올브라이트는 돌아와 떠나고, 그의 형태는 어둠 속에서 사라지고 가라크의 도시 아래까지 도달한다...]</Start>"
 hench_lyen,dlg,EntryList/84/Text,0,-1,우리가 가능한 빨리 출발해 롤드하크와 Ravenclaw Tavern에 맞서고 그들의 노예 기지의 위치를 알아낼 수 있는지 보자
-hench_lyen,dlg,EntryList/85/Text,0,-1,"와, <FirstName>. 함께, 당신과 나는 Ravenclaw 선술집에 가서, 이 범죄자들과 옆으로 직면할 것입니다."
+hench_lyen,dlg,EntryList/85/Text,0,-1,"이리 오게, <FirstName>. 나와 함께 레이븐클로 선술집으로 가서 저 범죄자들에게 나란히 맞서는 거다..."
 hench_lyen,dlg,EntryList/86/Text,0,-1,"앞장서세요, <FirstName>... 이 도시는 저보다 당신이 더 잘 아시니까요. 필요하실 때 도울 준비가 되어 있으니 안심하십시오..."
 hench_lyen,dlg,EntryList/87/Text,0,-1,지금 다른 동료가랑 바쁘고 있는 것 같군 <FirstName>.
 hench_lyen,dlg,EntryList/88/Text,0,-1,"You have done much for me already, <FirstName>. However, I have learned that Bloodhawks have thrived here and have a much larger force then I anticipated..."
@@ -2320,7 +2320,7 @@ hench_mark,dlg,EntryList/113/Text,0,-1,"나는 오버로드를 아버지처럼 �
 hench_mark,dlg,EntryList/114/Text,0,-1,타린은 가끔은 문제가 되기도 하고 범죄 조직의 일에 개입하기도 합니다.
 hench_mark,dlg,EntryList/115/Text,0,-1,"하지만 하플링은 좋은 마음을 가지고 있으며, 북쪽 지역을 그렇게 넓게 여행한 사람은 거의 없습니다. 타린과 같은 동반자를 자랑스럽게 생각하며, 우리 성격의 큰 차이에도 불구하고..."
 hench_mark,dlg,EntryList/116/Text,0,-1,"<StartAction>[마르키우스의 얼굴이 조금 어두워지며, 입꼬리가 살짝 찌푸려지는 것이 보입니다.]</Start> 카라는 어두운 영혼이긴 하지만, 우리 계급 안에서 쓸모가 아예 없는 건 아니지..."
-hench_mark,dlg,EntryList/117/Text,0,-1,"카라가 자신의 목적을 위해만 일한다는 점을 완전히 믿을 수는 없습니다. <FirstName>님도 이 점을 기억하는 것이 좋겠습니다. 전투에서 동맹으로 의지할 수는 있지만, 그의 매력에 주의하십시오."
+hench_mark,dlg,EntryList/117/Text,0,-1,"카라는 오직 자신의 목적만을 위해 움직이므로 그녀를 온전히 신뢰한다고 말할 수는 없습니다. <FirstName>님도 그 점을 명심하는 것이 좋을 겁니다. 전투에서 동맹으로 믿을 수는 있지만, 그녀의 매혹을 조심하십시오..."
 hench_mark,dlg,EntryList/118/Text,0,-1,"<StartAction>[마르키우스는 잠시 동안 생각에서 길을 잃어 버린 것처럼 보이지만 처음에는 그가 대답할 것이라고 생각하지 않습니다. 마침내 그는 다시 당신을 쳐다보고, 그의 얼굴에 어두운 표정을 가지고 있습니다.]</Start>"
 hench_mark,dlg,EntryList/119/Text,0,-1,"오랜 시간 동안 아무도 물어보지 않은 질문입니다. 하지만 당신에게는 그 믿을 수 있는 사람인 것 같네요... <FirstName>아, 나는 그림자 경호자들 사이에서 어떻게 오게 되었는지 말씀드리겠습니다."
 hench_mark,dlg,EntryList/12/Text,0,-1,"<StartAction>[마르키우스는 하콘 옆으로 서둘러 가서 그의 안부를 걱정하는 것처럼 보인다.]</Start> 하콘, 괜찮으세요?"
@@ -2331,7 +2331,7 @@ hench_mark,dlg,EntryList/123/Text,0,-1,"가족을 자랑스럽게 만들기로 �
 hench_mark,dlg,EntryList/124/Text,0,-1,"신비로운 마법사가 아버지의 농장 저택에 자리를 잡았다는 소식이 내 귀에 들어왔고, 우리 가문의 많은 영지민이 그의 존재를 두려워했다."
 hench_mark,dlg,EntryList/125/Text,0,-1,"이 새로운 수수께끼를 마주하기 위해 집으로 돌아가고 싶었지만, 아버지는 머물면서 훈련을 끝마치라고 격려하셨고... 그리고... 착한 아들로서 그에 따랐습니다..."
 hench_mark,dlg,EntryList/126/Text,0,-1,"내가 진실을 알았다면, 나는 아버지의 편으로 달려갔을 것입니다. 이 신비한 마법사는 크림슨 예언자 그 자체로..."
-hench_mark,dlg,EntryList/127/Text,0,-1,"배신과 속임수의 불쾌한 말들을 내뱉으며, 크림슨 예언자는 아버지에게 반란을 일으켰다. 그의 많은 악행들 중 처음이었다. 올브라이트 배론은 예언자의 새로운 군대의 불길에 타버리고, 제 가족과 함께 소실되었다."
+hench_mark,dlg,EntryList/127/Text,0,-1,"배신과 기만의 더러운 말을 내뱉으며, 크림슨 예언자는 내 아버지에게 반란을 일으켰으니, 그것이 그의 수많은 흉악한 행실의 시작이었다. 올브라이트 남작령은 예언자의 새 군대가 지른 불에 타버렸고, 내 가족도 그와 함께 사라졌다."
 hench_mark,dlg,EntryList/128/Text,0,-1,"내 가족은 크림슨 예언자의 반란의 첫 희생자가 되었고, 나는 그의 배신을 잊지 않았다."
 hench_mark,dlg,EntryList/129/Text,0,-1,"몇 년 후, 당신의 아버지가 예언자와 그의 동료들을 추적하기 위한 새로운 조직에 대해 제게 다가와서, 저는 그 조직에 가입하라고 요청했습니다."
 hench_mark,dlg,EntryList/13/Text,0,-1,"<StartAction>[마녀가 머리를 흔들고 있습니다.]</Start> 크림슨 예언자! 그는 어디, 마르키우스?! 우리는... 우리는 그 보석과 함께 탈출을 허용해서는 안된다!"
@@ -2358,7 +2358,7 @@ hench_mark,dlg,EntryList/148/Text,0,-1,"<StartAction>[마르키우스가 당신�
 hench_mark,dlg,EntryList/149/Text,0,-1,"<StartAction>[마르키우스는 치유용 마약을 담은 병을 제거하고, 부드럽게 상처에 적용합니다.]</Start> 나는 당신이 당신의 짧은 삶의 끝을 거의 피할 것이라고 말할 것입니다, 내 친구."
 hench_mark,dlg,EntryList/15/Text,0,-1,"<StartAction>[하르콘이 큰 소리로 맹세한다.]</Start> 그림자수비대를 보이저로 데려가라, 마르키우스! 우리는 즉시 예언자 뒤를 따라 항해해야 한다!"
 hench_mark,dlg,EntryList/150/Text,0,-1,"<FullName>, 끔찍한 음모가 벌어지고 있다는 걸 두려워합니다."
-hench_mark,dlg,EntryList/151/Text,0,-1,"가라크에서 누군가가 네 아버지를 죽게 하는 이유가 있다고 들었습니다. 하지만 왜 그런지는 모르겠습니다. 오카리스와 같은 사람은 제국에게 큰 비극이 될 것이니, 나는 무엇이든 해서 막기로 결심했습니다."
+hench_mark,dlg,EntryList/151/Text,0,-1,"가라크의 누군가가 네 아버지를 죽이고 싶어 하는 이유가 있다는 소문을 들었지만, 어째서인지는 모른다. 오카리스 같은 인물을 제국이 잃는 것은 엄청난 비극일 테니, 내가 할 수 있는 일을 다해 막을 생각이다."
 hench_mark,dlg,EntryList/152/Text,0,-1,"좋소, <FullName>. 내 도움이 반갑지 않다는 걸 알겠으니 이 일은 내 방식대로 조사하겠소. 이만 물러가겠소."
 hench_mark,dlg,EntryList/153/Text,0,-1,"당신이 이 문제가 스스로 해결될 것이라고 생각한다면 바보야, <FullName>님. 하지만 당신의 뜻대로 해보세요. 적어도 저는 이 문제를 너무 늦기 전에 해결하려고 노력할 것입니다."
 hench_mark,dlg,EntryList/154/Text,0,-1,<StartAction>[마르키우스는 편에 칼을 찔렀습니다.]</Start> 네 아버지와 저는 꽤 오랜 역사를 가지고 있습니다.<FullName> 그는 내게 검수술과 명예의 길을 가르쳐 주었습니다.
@@ -2368,7 +2368,7 @@ hench_mark,dlg,EntryList/157/Text,0,-1,"더 이야기하고 싶지만, 심상치
 hench_mark,dlg,EntryList/158/Text,0,-1,"이 사건에 대해 더 자세히 살펴보고 이 공격의 원인을 알아낼 수 있는지 알아보고 그 동안, 당신 아버지에게 당신이 처하고 있는 위험에 대해 경고하는 것이 현명할 것입니다."
 hench_mark,dlg,EntryList/159/Text,0,-1,"<StartAction>[Markius' jaw clench's.]</Start>So be it, <FullName>. Keep safe, and avoid any unwanted attention, for these streets may remain dangerous for you."
 hench_mark,dlg,EntryList/16/Text,0,-1,"해콘, 이제 예언자를 막을 수 없어 그의 배는 비자연적인 바람을 타고 날아가고 있어"
-hench_mark,dlg,EntryList/160/Text,0,-1,"걱정 마, <FullName>. 나 이외에도 널 안전하게 지키려는 다른 사람들이 있어."
+hench_mark,dlg,EntryList/160/Text,0,-1,"조심스럽게 행동하고 눈에 띄지 않는 것을 추천합니다. 걱정 마세요, <FullName>. 나 외에도 당신을 안전하게 지키려는 이들이 또 있으니..."
 hench_mark,dlg,EntryList/161/Text,0,-1,"<FullName>, 특히 부적절한 사람이 다가간다면 주의를 기울여 주시기 바랍니다."
 hench_mark,dlg,EntryList/162/Text,0,-1,당신 의 적 들 은 다시 공격 을 희망 할 수 있습니다. 당신 의 존재 는 도움 이 아니라 책임 이 될 것 입니다.
 hench_mark,dlg,EntryList/163/Text,0,-1,"I bid you farewell, for now. Should I discover any information that would prove of importance to you or your father, I will contact you immediately. May Rakha bless you and keep you safe, <FullName>."
@@ -2461,7 +2461,7 @@ hench_mark,dlg,EntryList/29/Text,0,-1,"제 동료들 모두와 대화를 나누�
 hench_mark,dlg,EntryList/3/Text,0,-1,원하는 대로
 hench_mark,dlg,EntryList/30/Text,0,-1,"이 순간 당신을 도울 수 없습니다, <FirstName>. 하콘은 크림슨 예언자에 맞서기 위해 내 힘을 필요로 합니다. 그래도 걱정하지 마세요. 제 동료들이 당신을 잘 돌봐줄 것입니다."
 hench_mark,dlg,EntryList/31/Text,0,-1,"<FirstName>님, 각각의 사람과 이야기해 보시는 것이 좋을 것 같습니다. 이렇게 하면 제 동반자들 중 당신의 취향에 가장 맞는 사람을 알아낼 수 있을 것입니다."
-hench_mark,dlg,EntryList/32/Text,0,-1,"<FirstName>님, 빨리 해주세요. 시간이 얼마 남지 않았습니다. 그리고 크림슨 예언자는 여전히 대면되어야 합니다. 지금 가서 동반자를 선택하세요."
+hench_mark,dlg,EntryList/32/Text,0,-1,"<FirstName>님, 서둘러 주세요. 시간이 별로 없습니다. 게다가 크림슨 예언자와도 아직 맞서야 합니다. 자, 가서 동료를 선택하세요."
 hench_mark,dlg,EntryList/33/Text,0,-1,"<StartAction>[당신은 Markius Albright를 만나고 아름다운 젊은 엘프 여성과 열심히 이야기하고 있습니다.] </Start> 카라, 시장 지역에 대해 어떤 소식을 가지고 있나? 이 전투에서는 어떻게 되었나?"
 hench_mark,dlg,EntryList/34/Text,0,-1,"가라크 전체가 크림슨 예언자의 추종자들에게 넘어질 것으로 보인다. 마르키우스, 우리는 빨리 보이저로 가야 합니다."
 hench_mark,dlg,EntryList/35/Text,0,-1,크림슨 예언자는 시장에서 목격됐나요?
@@ -2580,7 +2580,7 @@ hench_mark,dlg,ReplyList/17/Text,0,-1,"사실, 저는 제 길을 가겠습니다
 hench_mark,dlg,ReplyList/170/Text,0,-1,난 아직도 당신을 잘 믿지 못해...
 hench_mark,dlg,ReplyList/173/Text,0,-1,그 소식은 나쁘군. 누가 이 일을 벌였는지 알아내야 해!
 hench_mark,dlg,ReplyList/174/Text,0,-1,시끄러운 소리로 날 성가시게 하지 말고 꺼져라!
-hench_mark,dlg,ReplyList/175/Text,0,-1,내가 또다른 시도를 할 때까지 가만히 기다려야 할까?
+hench_mark,dlg,ReplyList/175/Text,0,-1,내 목숨을 노린 또 다른 시도가 일어날 때까지 그저 손 놓고 기다려야 한단 말인가?
 hench_mark,dlg,ReplyList/176/Text,0,-1,"아주 잘 해, 당신의 검색에 행운을 기원합니다, 마르키우스."
 hench_mark,dlg,ReplyList/177/Text,0,-1,왜 나는 당신의 탐색에 합류하지 않을까요?
 hench_mark,dlg,ReplyList/18/Text,0,-1,"나를 따라가지 않겠나, 마르키우스?"
@@ -2635,7 +2635,7 @@ hench_mark,dlg,ReplyList/246/Text,0,-1,왼손에 아이템을 장비하세요.
 hench_mark,dlg,ReplyList/247/Text,0,-1,오른손에 아이템을 장착하세요.
 hench_mark,dlg,ReplyList/248/Text,0,-1,생각을 바꿨어. 너한테 장착해 주고 싶은 아이템이 없네.
 hench_mark,dlg,ReplyList/249/Text,0,-1,<StartAction>[더보기]</Start>
-hench_mark,dlg,ReplyList/250/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11015>
+hench_mark,dlg,ReplyList/250/Text,0,-1,<CUSTOM11015>을(를) 장비로 사용하겠습니다.
 hench_mark,dlg,ReplyList/251/Text,0,-1,장비를 착용시키고 싶습니다: <CUSTOM11014>
 hench_mark,dlg,ReplyList/252/Text,0,-1,<CUSTOM11013>을(를) 장비로 착용해 주십시오.
 hench_mark,dlg,ReplyList/253/Text,0,-1,알도 (<CUSTOM11012>)
@@ -2708,7 +2708,7 @@ hench_mark,dlg,ReplyList/360/Text,0,-1,나는 그걸 마음에 넣어두마...
 hench_mark,dlg,ReplyList/361/Text,0,-1,"<< ""N_TALK_SWITCH""를 활성화하면 ""N_MODULE_STAGE""는 0이 됩니다. >>"
 hench_mark,dlg,ReplyList/38/Text,0,-1,여러분들은 누구죠?
 hench_mark,dlg,ReplyList/39/Text,0,-1,왜 내 안전에 대해 이렇게 관심이 있으니?
-hench_mark,dlg,ReplyList/41/Text,0,-1,난 너희들과 어디서도 가지 않을 거야!
+hench_mark,dlg,ReplyList/41/Text,0,-1,너희 같은 부랑자들과는 어디도 같이 안 갈 거야!
 hench_mark,dlg,ReplyList/42/Text,0,-1,나는 스스로 도시를 벗어나게 될 거야.
 hench_mark,dlg,ReplyList/43/Text,0,-1,"제안에 감사합니다, 하지만 당신의 도움은 필요 없습니다."
 hench_mark,dlg,ReplyList/44/Text,0,-1,좋습니다. 당신의 배에 함께 타겠습니다.
@@ -2841,7 +2841,7 @@ Ghan's Hand: 1 4 1: Total 5]</Start>"
 hench_tarin,dlg,EntryList/176/Text,0,-1,"미안하네, 친구들, 하지만 이번에도 늙은 타린이 이겼군! <StartAction>[타린이 활짝 웃으며 큰 금화 더미를 자기 쪽으로 끌어모은다.]</Start>"
 hench_tarin,dlg,EntryList/177/Text,0,-1,"<FirstName>, 네가 우승자 같군! 훌륭한 솜씨야, 축하하네! <StartAction>[타린이 테이블 너머로 금화 무더기를 당신에게 밀어줍니다.]</Start>"
 hench_tarin,dlg,EntryList/178/Text,0,-1,"<StartAction>[ 갑자기, 큰 미노타우르, 칸의 눈은 크게 니다.]</Start> 운명은 당신을 저주하고, 당신을 저주합니다!<StartAction>[손잡이의 강력한 흔들림으로, 칸은 전면에 있는 테이블을 무너뜨리고, 모든 곳에 비행하는 카드를 보내고 있습니다.]</Start>"
-hench_tarin,dlg,EntryList/179/Text,0,-1,"정말 그가 그렇게 말했나? 그럼 그가 나를 그렇게 생각하는 것이라면, 저를 영광스럽게 생각하세요."
+hench_tarin,dlg,EntryList/179/Text,0,-1,"정말요? 그가 그렇게 말했나요? 원, 그 양반이 날 그렇게 여겨 준다면야, 영광으로 생각해야겠군요."
 hench_tarin,dlg,EntryList/18/Text,0,-1,"You lent me your aid against Nightcrawler's men, now let me give you mine! I have all manner of useful roguish skills, all of which I am willing to put at your disposal, <FirstName>!"
 hench_tarin,dlg,EntryList/180/Text,0,-1,"<< ""N_TALK_SWITCH""를 활성화하면 ""N_MODULE_STAGE""는 0이 됩니다. >>"
 hench_tarin,dlg,EntryList/181/Text,0,56145,"What can ol' Tarin Lightfingers do for you, <CUSTOM6004>?"
@@ -2951,7 +2951,7 @@ hench_tarin,dlg,EntryList/58/Text,0,-1,하지만 제 운이 끝나고 파로스�
 hench_tarin,dlg,EntryList/59/Text,0,-1,"그래서 저는 그림자 경호원으로 들어가서, 파로스 나이트크롤러의 그림자로부터 영원히 벗어나리라 생각했습니다. 하지만 가라크에서 그의 사람들과 만나서 모든 것이 바뀌었고, 이제 저는 결코 안전하지 않을 거라고 알게 되었습니다."
 hench_tarin,dlg,EntryList/6/Text,0,-1,"가다름 기뻐합니다, <FirstName>. 의자에 앉혀진다면 그늘감호는 당신에게 딱 맞을 것입니다."
 hench_tarin,dlg,EntryList/60/Text,0,-1,"그래서, 저는 몇 년 동안 제가 저장한 모든 금을 여기 모았습니다. 그리고 저는 이 빚을 한 번이나 다 갚을 계획입니다."
-hench_tarin,dlg,EntryList/61/Text,0,-1,"실제로 그렇소, <lad/lass>, 사실이라면 이 저주받은 빚이 내 머리에서 사라질 때 나는 만족할 것이오."
+hench_tarin,dlg,EntryList/61/Text,0,-1,"그렇고말고, <lad/lass>, 그렇고말고. 사실 이 저주받은 빚더미에서 벗어나게 된다면 정말 기쁠 거요..."
 hench_tarin,dlg,EntryList/62/Text,0,-1,"곧 빚을 갚으러 가겠지만, 그 여행은 아직 앞에 놓여 있습니다."
 hench_tarin,dlg,EntryList/63/Text,0,-1,"<< ""N_TALK_SWITCH""를 활성화하면 ""N_MODULE_STAGE""는 1. >>"
 hench_tarin,dlg,EntryList/64/Text,0,-1,내 목숨을 구해줘서 고마워 <FirstName> 너한테 어떻게 갚을 수 있을지 모르겠어
@@ -3107,7 +3107,7 @@ hench_tarin,dlg,ReplyList/288/Text,0,-1,오른손에 아이템을 장착하세�
 hench_tarin,dlg,ReplyList/289/Text,0,-1,생각을 바꿨어. 너한테 장착해 주고 싶은 아이템이 없네.
 hench_tarin,dlg,ReplyList/29/Text,0,-1,우리 지도자 마르키우스 올브라이트에 대해 말해 줄 수 있는 게 뭐죠?
 hench_tarin,dlg,ReplyList/290/Text,0,-1,<StartAction>[더보기]</Start>
-hench_tarin,dlg,ReplyList/291/Text,0,-1,알도를 장비로 사용해주세요: <CUSTOM11015>
+hench_tarin,dlg,ReplyList/291/Text,0,-1,<CUSTOM11015>을(를) 장비로 사용하겠습니다.
 hench_tarin,dlg,ReplyList/292/Text,0,-1,장비를 착용시키고 싶습니다: <CUSTOM11014>
 hench_tarin,dlg,ReplyList/293/Text,0,-1,<CUSTOM11013>을(를) 장비로 착용해 주십시오.
 hench_tarin,dlg,ReplyList/294/Text,0,-1,알도 (<CUSTOM11012>)
@@ -3354,7 +3354,7 @@ merch_gems,dlg,ReplyList/49/Text,0,-1,<StartAction>[설득]</Start> 400골드로
 merch_gems,dlg,ReplyList/5/Text,0,-1,그런 말도 안 되는 시간 없어!
 merch_gems,dlg,ReplyList/51/Text,0,-1,<StartAction>[설득]</Start> 300골드면 거래 성사요.
 merch_gems,dlg,ReplyList/53/Text,0,-1,"나는 도와주겠지만, 보상은 필요 없어..."
-merch_gems,dlg,ReplyList/55/Text,0,-1,200골드 편은 공평한 것 같습니다.
+merch_gems,dlg,ReplyList/55/Text,0,-1,200골드면 적당한 것 같군요.
 merch_gems,dlg,ReplyList/56/Text,0,-1,더 많은 정보를 얻으면 다시 올게요
 merch_gems,dlg,ReplyList/7/Text,0,-1,좀 더 시간을 줘요
 merch_gems,dlg,ReplyList/9/Text,0,-1,이 시체를 배수관에서 찾았는데...
@@ -3436,7 +3436,7 @@ neut_eter_spirit,dlg,ReplyList/0/Text,0,-1,'< END MODULE HERE >'
 neut_eter_spirit,dlg,ReplyList/3/Text,0,-1,아직은 아니야.
 neut_eter_spirit,dlg,ReplyList/5/Text,0,-1,준비됐어요
 okaris,dlg,EntryList/1/Text,0,-1,"<< 소유자의 저널 검색을 ""JT_ST_2_MAIN""로 설정합니다 >>"
-okaris,dlg,EntryList/10/Text,0,-1,"그래서 당신은 나를 이렇게 경멸하게 된 거야? 나는... 나는 네가 나를 비난하지 않는다고 비난할 수는 없어, 아버지로서의 나가 실패했으니까, 그렇지?"
+okaris,dlg,EntryList/10/Text,0,-1,"그럼 나를 그렇게 경멸하게 된 건가? 내... 내가 널 비난할 수는 없겠지. 왜냐하면... 나는 아버지로서 실패했으니까, 그렇지 않나?"
 okaris,dlg,EntryList/11/Text,0,-1,"<StartAction>[너의 아버지의 얼굴에 큰 상처가 나타납니다.]</Start> 난 무슨 말을 해야 할지 모르겠지만,<FirstName>..."
 okaris,dlg,EntryList/12/Text,0,-1,"이... 이처럼 우리 둘 사이가 악화되길 바라지 않았는데, 제 <CUSTOM6001>... 저는 아직 우리 갈등을 해결할 시간이 남아 있지 않을까 희망합니다."
 okaris,dlg,EntryList/13/Text,0,-1,"<FirstName>, 네가 옳았어 내가 해야 할 것처럼 널 도와주지 않았는데..."
@@ -3562,7 +3562,7 @@ pharos_st_0_comm,dlg,EntryList/22/Text,0,-1,뭘 기다리고 있어? 통과하�
 pharos_st_0_comm,dlg,EntryList/23/Text,0,-1,"<StartAction> [너의 무기를 빠르게 흔들고, 경비자는 죽은 침체로 땅에 떨어진다...]</Start>"
 pharos_st_0_comm,dlg,EntryList/24/Text,0,-1,나이트크롤러 사업이야 너한테 어떤 것이 좋을지 알면...
 pharos_st_0_comm,dlg,EntryList/25/Text,0,-1,"왜 앉아서 우리와 함께하지 않겠습니까, <lad/lass>?"
-pharos_st_0_comm,dlg,EntryList/26/Text,0,-1,"여기서 술을 즐기려고 하는데, 왜 다른 사람을 찾아 방해하지 않는지 <lad/lass>..."
+pharos_st_0_comm,dlg,EntryList/26/Text,0,-1,"우리 여기서 한잔 즐기려는 참이니까, 귀찮게 할 다른 사람이나 찾아보지 그래, <lad/lass>..."
 pharos_st_0_comm,dlg,EntryList/27/Text,0,-1,"<< 소유자의 일기 탐색을 ""JT_PREL_TARI""로 설정합니다 >>"
 pharos_st_0_comm,dlg,EntryList/28/Text,0,-1,"<< ""N_TALK_SWITCH""를 활성화하면 ""N_MODULE_STAGE""는 0이 됩니다. >>"
 pharos_st_0_comm,dlg,EntryList/29/Text,0,-1,"<< 이 대화 노드는 ""N_TALK_SWITCH"" 변수를 다시 설정하는 것 외에는 아무것도 하지 않습니다 >>"
@@ -3592,7 +3592,7 @@ pharos_st_0_comm,dlg,ReplyList/5/Text,0,-1,이 셀 뒤에 뭐가 있어?
 pharos_st_0_comm,dlg,ReplyList/7/Text,0,-1,<StartAction>[ 떠나.]</Start>
 pharos_st_0_comm,dlg,ReplyList/8/Text,0,-1,<StartAction>[지혜]</Start> 우리의 공동 친구 할고크가 나를 보냈습니다.
 pharos_st_0_comm,dlg,ReplyList/9/Text,0,-1,<StartAction>[지능]</Start> 할고크가 죄수를 데려오라고 보냈어.
-pharos_st_0_malt,dlg,EntryList/1/Text,0,-1,"그래, 하플링을 해방시켰군... 네가 이 방에서 나가도록 내버려두지 않을 거란 걸 알지?"
+pharos_st_0_malt,dlg,EntryList/1/Text,0,-1,"그래, 하플링을 풀어주었더군요... 네가 그를 이 방에서 내보내도록 가만두지 않을 거라는 걸 알 텐데?"
 pharos_st_0_malt,dlg,EntryList/10/Text,0,-1,"말더, 할고크가 배를 타고 도착한 것 같네요."
 pharos_st_0_malt,dlg,EntryList/11/Text,0,-1,"잠깐만요, <lad/lass>님, 거래가 되나요?"
 pharos_st_0_malt,dlg,EntryList/12/Text,0,-1,어쩌면 너희 제국주의자들은 모두가 주장하는 만큼 귀족이 아닐지도 몰라
@@ -3754,7 +3754,7 @@ sc_bh_lair,dlg,ReplyList/3/Text,0,-1,그럼 본격적으로 시작합시다. 이
 sc_bh_lair,dlg,ReplyList/6/Text,0,-1,"네 이름을 알았다면 더 좋았겠지만, 즐거웠습니다."
 sc_st_0_academy,dlg,EntryList/0/Text,0,-1,'< ACTOR 5 >'
 sc_st_0_academy,dlg,EntryList/1/Text,0,-1,"<StartAction>[당신은 일어나서 뻗고, 이 작은 방의 돌 바닥에 부드러운 발걸음을 걷습니다. ""나는 늙고 있다""는 것을 깨닫게 됩니다. 그러나 항상 그렇게는 아니었다, 당신은 자신에게 말하며, 다시 펜을 향해, 잉크를 담아.]</Start>"
-sc_st_0_academy,dlg,EntryList/10/Text,0,-1,그의 임무로 바쁜 아버지는 거의 시간 내에 어머니와 마지막 몇 마디 나누기 위해 도착하지 않았습니다.
+sc_st_0_academy,dlg,EntryList/10/Text,0,-1,"아버지께서는 밀린 임무로 너무나 바쁘신 나머지, 어머니께서 이 세상을 영영 떠나시기 전에 겨우겨우 시간 맞춰 도착해 마지막 인사를 나누셨습니다..."
 sc_st_0_academy,dlg,EntryList/11/Text,0,-1,"어머니의 장례식 후, 아버지와 나는 운명이 어떻게 내게 닥칠지에 대한 어색한 결정을 내려야 했습니다. 여러 면에서, 남쪽 농장에서 머무르고 자신의 운명을 결정하는 것이 더 선호되었을 것입니다."
 sc_st_0_academy,dlg,EntryList/12/Text,0,-1,"하지만 아버지는 다른 생각을 하고 계셨어요. 아버지의 뜻에 따라 저는 가라크의 제국 시민들 사이에서 살게 되었고, 아버지의 보살핌 아래 제국 학술원에서 수련을 마쳤죠."
 sc_st_0_academy,dlg,EntryList/13/Text,0,-1,이 야생 땅에서의 삶은 남부의 문명화된 도시와는 매우 다른 것으로 밝혀졌습니다. 그리고 저는 가라크에 있는 새로운 집 속에서 완전히 외롭습니다.
@@ -3771,11 +3771,11 @@ sc_st_0_academy,dlg,EntryList/22/Text,0,-1,'< CUTSCENE ACTOR LIST >'
 sc_st_0_academy,dlg,EntryList/24/Text,0,-1,"나의 젊은 날의 대부분 동안, 나는 샤라칸 제국의 남부 도시들에서 자라났으며 제국 중심지의 선진적인 아카데미에서 훈련을 받으며 그 평화로운 땅에서의 어린 시절을 뒤로했다."
 sc_st_0_academy,dlg,EntryList/25/Text,0,-1,"제 아버지의 이름은 오카리스<LastName>였고, 그는 샤라칸 군대의 장군으로 라카 황제의 호의를 받았습니다. 그의 명성은 어머니와 나에게는 거의 모든 소원이 이루어지게 해주었고, 우리는 고급스럽고 편안한 삶을 살았습니다."
 sc_st_0_academy,dlg,EntryList/26/Text,0,-1,"하지만 아버지를 거의 보지 못했다. 아버지는 항상 북쪽에서 캠페인을 벌였고, 집에서의 단순한 즐거움을 좋아하지 않으셨다. 그래서 어머니와 나는 그의 방문을 기다리는 동안 몇 년이 흘렀다."
-sc_st_0_academy,dlg,EntryList/27/Text,0,-1,"저는 아버지를 그저 방문한 낯선 사람으로서는 더 이상 알고 싶지 않았고, 항상 그는 같은 느낌을 가지고 있던 것 같았습니다."
+sc_st_0_academy,dlg,EntryList/27/Text,0,-1,"고백하건대, 나는 아버지라는 존재를 그저 가끔 찾아오는 낯선 사람 이상으로 알고 싶어 할 마음이 없었다. 그리고 그도 나와 똑같이 느꼈던 것 같은데..."
 sc_st_0_academy,dlg,EntryList/28/Text,0,-1,"하지만 운명은 종종 우리가 예상치 못한 방향으로 흘러가는 법. 1370년, 어머니는 남부 전역에 퍼진 붉은 역병에 걸려 누우셨습니다. 불과 3개월 만에 어머니는 돌아가셨고, 저는 부유한 농장에 홀로 남겨졌지요..."
 sc_st_0_academy,dlg,EntryList/29/Text,0,-1,아버지는 최근 야생 개척지의 최외곽에 위치한 제국의 식민지이자 가라크 시의 통치 집정관 자리에 취임하셨습니다.
 sc_st_0_academy,dlg,EntryList/3/Text,0,-1,<StartAction>[좌절감에 찬 당신의 마음은 가라크에서의 추억을 떠올리게 합니다. 졸업 당일이 지금도 당신을 괴롭히고 있습니다...]</Start>
-sc_st_0_academy,dlg,EntryList/30/Text,0,-1,그의 임무로 바쁜 아버지는 거의 시간 내에 어머니와 마지막 몇 마디 나누기 위해 도착하지 않았습니다.
+sc_st_0_academy,dlg,EntryList/30/Text,0,-1,"아버지께서는 밀린 임무로 너무나 바쁘신 나머지, 어머니께서 이 세상을 영영 떠나시기 전에 겨우겨우 시간 맞춰 도착해 마지막 인사를 나누셨습니다..."
 sc_st_0_academy,dlg,EntryList/31/Text,0,-1,"어머니의 장례식 후, 아버지와 나는 운명이 어떻게 내게 닥칠지에 대한 어색한 결정을 내려야 했습니다. 여러 면에서, 남쪽 농장에서 머무르고 자신의 운명을 결정하는 것이 더 선호되었을 것입니다."
 sc_st_0_academy,dlg,EntryList/32/Text,0,-1,"하지만 아버지는 다른 생각을 하고 계셨어요. 아버지의 뜻에 따라 저는 가라크의 제국 시민들 사이에서 살게 되었고, 아버지의 보살핌 아래 제국 학술원에서 수련을 마쳤죠."
 sc_st_0_academy,dlg,EntryList/33/Text,0,-1,이 야생 땅에서의 삶은 남부의 문명화된 도시와는 매우 다른 것으로 밝혀졌습니다. 그리고 저는 가라크에 있는 새로운 집 속에서 완전히 외롭습니다.
@@ -3787,10 +3787,10 @@ sc_st_0_academy,dlg,EntryList/38/Text,0,-1,"나의 젊은 날의 대부분 동�
 sc_st_0_academy,dlg,EntryList/39/Text,0,-1,"제 아버지의 이름은 오카리스<LastName>였고, 그는 샤라칸 군대의 장군으로 라카 황제의 호의를 받았습니다. 그의 명성은 어머니와 나에게는 거의 모든 소원이 이루어지게 해주었고, 우리는 고급스럽고 편안한 삶을 살았습니다."
 sc_st_0_academy,dlg,EntryList/4/Text,0,-1,"제 어린 시절의 대부분 동안 저는 샤라칸 제국의 남쪽 도시에서 나이가 들었고, 제국의 중심부의 고급 학술관들 사이에서 훈련받았고, 평화로운 땅들 사이에서 <man/woman>로 진입했습니다."
 sc_st_0_academy,dlg,EntryList/40/Text,0,-1,"하지만 아버지를 거의 보지 못했다. 아버지는 항상 북쪽에서 캠페인을 벌였고, 집에서의 단순한 즐거움을 좋아하지 않으셨다. 그래서 어머니와 나는 그의 방문을 기다리는 동안 몇 년이 흘렀다."
-sc_st_0_academy,dlg,EntryList/41/Text,0,-1,"저는 아버지를 그저 방문한 낯선 사람으로서는 더 이상 알고 싶지 않았고, 항상 그는 같은 느낌을 가지고 있던 것 같았습니다."
+sc_st_0_academy,dlg,EntryList/41/Text,0,-1,"고백하건대, 나는 아버지라는 존재를 그저 가끔 찾아오는 낯선 사람 이상으로 알고 싶어 할 마음이 없었다. 그리고 그도 나와 똑같이 느꼈던 것 같은데..."
 sc_st_0_academy,dlg,EntryList/42/Text,0,-1,"하지만 운명은 종종 우리가 예상치 못한 방향으로 흘러가는 법. 1370년, 어머니는 남부 전역에 퍼진 붉은 역병에 걸려 누우셨습니다. 불과 3개월 만에 어머니는 돌아가셨고, 저는 부유한 농장에 홀로 남겨졌지요..."
 sc_st_0_academy,dlg,EntryList/43/Text,0,-1,아버지는 최근 야생 개척지의 최외곽에 위치한 제국의 식민지이자 가라크 시의 통치 집정관 자리에 취임하셨습니다.
-sc_st_0_academy,dlg,EntryList/44/Text,0,-1,그의 임무로 바쁜 아버지는 거의 시간 내에 어머니와 마지막 몇 마디 나누기 위해 도착하지 않았습니다.
+sc_st_0_academy,dlg,EntryList/44/Text,0,-1,"아버지께서는 밀린 임무로 너무나 바쁘신 나머지, 어머니께서 이 세상을 영영 떠나시기 전에 겨우겨우 시간 맞춰 도착해 마지막 인사를 나누셨습니다..."
 sc_st_0_academy,dlg,EntryList/45/Text,0,-1,"어머니의 장례식 후, 아버지와 나는 운명이 어떻게 내게 닥칠지에 대한 어색한 결정을 내려야 했습니다. 여러 면에서, 남쪽 농장에서 머무르고 자신의 운명을 결정하는 것이 더 선호되었을 것입니다."
 sc_st_0_academy,dlg,EntryList/46/Text,0,-1,"하지만 아버지는 다른 생각을 하고 계셨어요. 아버지의 뜻에 따라 저는 가라크의 제국 시민들 사이에서 살게 되었고, 아버지의 보살핌 아래 제국 학술원에서 수련을 마쳤죠."
 sc_st_0_academy,dlg,EntryList/47/Text,0,-1,이 야생 땅에서의 삶은 남부의 문명화된 도시와는 매우 다른 것으로 밝혀졌습니다. 그리고 저는 가라크에 있는 새로운 집 속에서 완전히 외롭습니다.
@@ -3800,7 +3800,7 @@ sc_st_0_academy,dlg,EntryList/5/Text,0,-1,"제 아버지는 샤라칸 군대의 
 sc_st_0_academy,dlg,EntryList/50/Text,0,-1,그 당시에 모르고 있던 것은 곧 제 운명을 영원히 바꿀 변화가 올 것이라는 것이었다.
 sc_st_0_academy,dlg,EntryList/51/Text,0,-1,"지금 되돌아보면, 모든 것이 그 운명적인 날부터 시작된 것 같습니다. 제국 사관학교에 소집되어 졸업식을 치렀을 때..."
 sc_st_0_academy,dlg,EntryList/6/Text,0,-1,"하지만 아버지를 거의 보지 못했다. 아버지는 항상 북쪽에서 캠페인을 벌였고, 집에서의 단순한 즐거움을 좋아하지 않으셨다. 그래서 어머니와 나는 그의 방문을 기다리는 동안 몇 년이 흘렀다."
-sc_st_0_academy,dlg,EntryList/7/Text,0,-1,"저는 아버지를 그저 방문한 낯선 사람으로서는 더 이상 알고 싶지 않았고, 항상 그는 같은 느낌을 가지고 있던 것 같았습니다."
+sc_st_0_academy,dlg,EntryList/7/Text,0,-1,"고백하건대, 나는 아버지라는 존재를 그저 가끔 찾아오는 낯선 사람 이상으로 알고 싶어 할 마음이 없었다. 그리고 그도 나와 똑같이 느꼈던 것 같은데..."
 sc_st_0_academy,dlg,EntryList/8/Text,0,-1,"하지만 운명은 종종 우리가 예상치 못한 방향으로 흘러가는 법. 1370년, 어머니는 남부 전역에 퍼진 붉은 역병에 걸려 누우셨습니다. 불과 3개월 만에 어머니는 돌아가셨고, 저는 부유한 농장에 홀로 남겨졌지요..."
 sc_st_0_academy,dlg,EntryList/9/Text,0,-1,아버지는 최근 야생 개척지의 최외곽에 위치한 제국의 식민지이자 가라크 시의 통치 집정관 자리에 취임하셨습니다.
 sc_st_0_academy,dlg,ReplyList/1/Text,0,-1,<StartAction>[문서를 쪼개서 바닥에 던져라.]</Start>
@@ -3845,7 +3845,7 @@ sc_st_0_grn_hall,dlg,EntryList/31/Text,0,-1,"<StartAction>[그렇게 말하고, 
 sc_st_0_grn_hall,dlg,EntryList/32/Text,0,-1,"<StartAction> [당신의 아버지는 당신의 입구를 알아차리지 않습니다, 그는 그의 앞에 서있는 <Race> 남자와 대화하는 데 매우 바빴습니다.]</Start> 그래서 하콘, 말해주세요... 당신은 당신과 마법사들이 이 보석의 본질을 결정했습니까?"
 sc_st_0_grn_hall,dlg,EntryList/33/Text,0,-1,"<StartAction>[당신은 아버지와 이야기하는 남자를 알아본다. 그는 오늘 일찍 시장 지구에서, 그 신비로운 예언자가 기이하게 나타났을 때 본 바로 그 사람이다...]</Start>"
 sc_st_0_grn_hall,dlg,EntryList/34/Text,0,-1,"가아리스의 잃어버린 시대의 유물처럼 보입니다, 마기스트레이트 오카리스님... 샤라카를 위해 봉사한 이래로 이렇게 경이로운 마법 공예품은 본 적이 없습니다."
-sc_st_0_grn_hall,dlg,EntryList/35/Text,0,-1,"<StartAction>[방에 있는 다른 남자가, 오랜 전투를 겪은 사람의 자세로 행동하는 늙은 남자가 시작합니다.]</Start> 오카리스, 이 기적을 어디서 찾았는지 말해줘."
+sc_st_0_grn_hall,dlg,EntryList/35/Text,0,-1,"<StartAction>[방 안의 다른 사람, 수많은 전투를 겪은 이의 당당함을 지닌 노인이 말을 꺼냅니다.]</Start> 오카리스, 이 경이로운 물건을 어디서 구했는지 말해주어야겠소..."
 sc_st_0_grn_hall,dlg,EntryList/36/Text,0,-1,<StartAction>[당신 아버지의 얼굴에 평소의 자신감과는 어울리지 않는 근심스러운 표정이 떠오릅니다.]</Start> 그건 지난주에야 북쪽에서 반란군과 싸우던 내 부하들이 도시로 가져왔소…
 sc_st_0_grn_hall,dlg,EntryList/37/Text,0,-1,보고서에 따르면 제 군대는 이상한 발굴 현장에 도착했습니다. 크림슨 예언자의 색깔을 달리고 있었습니다.
 sc_st_0_grn_hall,dlg,EntryList/38/Text,0,-1,하지만 그들은 현장의 혼란을 발견했습니다. 광산업자들 사이에서 배신 행위가 벌어졌던 것 같습니다.
@@ -3863,7 +3863,7 @@ sc_st_0_grn_hall,dlg,EntryList/49/Text,0,-1,"저는 바를 감옥으로 내보�
 sc_st_0_grn_hall,dlg,EntryList/5/Text,0,-1,"<StartAction>[하르콘이 방에서 화를 내며 뛰쳐나가자, 아버지는 길게 한숨을 내쉰다.]</Start> 그가 떠나는 걸 보니 안타깝기보다는 오히려 다행이군요... 난 그 녀석이 별로 마음에 들지 않았거든..."
 sc_st_0_grn_hall,dlg,EntryList/50/Text,0,-1,"<StartAction>[노인이 오카리스를 어깨에 부드럽게 두드리며 칭찬합니다.]</Start> 그리고 그건 좋은 결정이었습니다, 내 오래된 친구. 걱정하지 마세요, 우리는 이 문제를 밑까지 파헤치겠습니다."
 sc_st_0_grn_hall,dlg,EntryList/51/Text,0,-1,"<StartAction>[당신의 아버지가 고개를 끄덕이지만 여전히 불편한 것처럼 보입니다.]</Start> 만약 누군가가 이 상황을 처리할 수 있다면, 그것은 당신과 당신의 사람들이, Vhorkas..."
-sc_st_0_grn_hall,dlg,EntryList/52/Text,0,-1,하지만 이 유적에 대해 조심해 달라고 부탁드릴게. 왜냐하면 이 유적은 접촉하는 모든 사람에게는 상당히 불안한 영향을 끼치는 것 같거든... 그냥 주의를 기울여라.
+sc_st_0_grn_hall,dlg,EntryList/52/Text,0,-1,하지만 이 유물을 다룰 때는 각별히 조심해 주셨으면 합니다. 이것과 접촉하는 모든 이에게 상당히 불길한 영향을 미치는 것 같으니까요. 그냥... 조심 또 조심하십시오...
 sc_st_0_grn_hall,dlg,EntryList/53/Text,0,-1,"<StartAction>[하르콘이 네 아버지의 경고에 지루해한 것 같다.]</Start> 오카리스, 그냥 보석을 내게 넘겨주면,"
 sc_st_0_grn_hall,dlg,EntryList/54/Text,0,-1,"<StartAction>[당신의 아버지는 <Race>인 남자의 제안을 고려하고 있지만 천천히 머리를 흔들고 있습니다.]</Start> 아니, 하콘, 나는 이 보석을 찰탄라로 보내는 것에 불편함을 느끼고 싶지 않아... 적어도 그 보석의 진정한 목적을 알 때까지는."
 sc_st_0_grn_hall,dlg,EntryList/55/Text,0,-1,"<StartAction>[하르콘은 오카리스의 거부에 조금 화가 나 보인다.]</Start> 나는 라카의 고위 요술사이고, 스스로의 판단을 존중한다. 우리가 처리할 수 있는 능력을 가지고 나서겠다!"
@@ -3942,7 +3942,7 @@ sc_st_0_open_1,dlg,EntryList/4/Text,0,-1,"예, 예, 예... <StartAction>[귀족�
 sc_st_0_open_1,dlg,EntryList/40/Text,0,-1,"이 소식은 곤란한 소식입니다... 크림슨 예언자가 제국 경비병들을 부패시키는데 성공했다면, 우리가 예상했던 것보다 훨씬 더 나쁜 일이 벌어질 것입니다... 즉시 마르키우스에게 알리고야 말아야 합니다."
 sc_st_0_open_1,dlg,EntryList/41/Text,0,-1,"<StartAction>[당당하게 걸어오는 젊은이가 동료들에게 다가온다. 기사다운 체격에 무거운 갑옷을 걸쳤고, 오랜 수련을 거친 듯 능숙하게 옆구리의 검을 다룬다. 위협적인 상대처럼 보인다.]</Start>"
 sc_st_0_open_1,dlg,EntryList/42/Text,0,-1,"마르키우스 올브라이트, 라카의 엘리트 밴드 리더, 귀족, 비록 엄중한 전사, 마르키우스는"
-sc_st_0_open_1,dlg,EntryList/43/Text,0,-1,"필요 없어, 마르키우스... 이미 황제로부터 보고를 받았는데, 북부 지역 곳곳에서 예언자의 요원들이 움직이기 시작했다고 합니다. 보이면 샤라카가 곧 전쟁에 휘말릴지도 모릅니다."
+sc_st_0_open_1,dlg,EntryList/43/Text,0,-1,"그럴 필요는 없다, 마르키우스... 이미 황제로부터 북부 지역 전역에 예언자의 첩자들이 움직이기 시작했다는 보고를 받았네. 샤라카도 곧 전쟁에 휘말리게 될 것 같군..."
 sc_st_0_open_1,dlg,EntryList/44/Text,0,-1,"But we may yet be able to foil the Prophet's plans, if we move quickly. Come. I have arranged for <FirstName> to ready the ship. We have work to be done."
 sc_st_0_open_1,dlg,EntryList/45/Text,0,-1,"이들은 라카의 가장 은밀한 정예 요원이자, 가장 신뢰받는 심복들입니다. 그리고 저는 그들의 신입이지요..."
 sc_st_0_open_1,dlg,EntryList/46/Text,0,-1,"배가 준비되었습니다, 마르키우스님. 언제든 떠날 수 있습니다."
@@ -3975,7 +3975,7 @@ sc_st_0_open_1,dlg,EntryList/7/Text,0,-1,"<StartAction>[경비병이 코웃음 �
 sc_st_0_open_1,dlg,EntryList/70/Text,0,-1,"오랫동안 고통받던 이들은 라카의 이름을 높이 찬양했으나, 이 땅의 폭군들은 위대한 구원자를 자신들의 지배에 대한 위협으로 여겼다..."
 sc_st_0_open_1,dlg,EntryList/71/Text,0,-1,라카에게 영광이 있으소서 우리를 우리의 곤경에서 구하여 독재의 쇠사슬에서 구해 주시옵소서
 sc_st_0_open_1,dlg,EntryList/72/Text,0,-1,너희 마음을 더 이상 불안하게 하지 마라... 어둠의 시간에 너희에게 돌아온 희망이다.
-sc_st_0_open_1,dlg,EntryList/73/Text,0,-1,내 길에서 물러나! 저주받은 자들! 어떻게 용기를 내서 카그림 저주받은 왕 앞에서 서니?!
+sc_st_0_open_1,dlg,EntryList/73/Text,0,-1,"내 길에서 비켜라! 꺼져라, 이 똥개들아! 감히 저주받은 왕 카그림의 길을 가로막다니?!"
 sc_st_0_open_1,dlg,EntryList/74/Text,0,-1,보자기들! 모두들! <StartAction>[미친 왕은 악한 시선으로 마법사 라카를 노려본다.]</Start> 그리고 당신... 당신이 이 모든 혼란의 주범이 아니냐?
 sc_st_0_open_1,dlg,EntryList/75/Text,0,-1,"<StartAction>[라카는 왕을 향해 차분히 서서, 독재자의 잔인한 힘 앞에서도 두려움을 보이지 않는다.]</Start> 저는 단지 그들에게 희망을 주고 싶습니다. 왜냐하면 그들은 너무나도 적은 희망을 보았기 때문이죠. 당신의 백성들이 겪고 있는 고통을 보지 못하십니까?"
 sc_st_0_open_1,dlg,EntryList/76/Text,0,-1,"<StartAction>[왕이 경멸하듯 낄낄 웃는다.]</Start> 내가 보기엔 건방진 바보 녀석뿐인데... 일몰도 보지 못하고 죽게 생겼구나! 이놈들아, 이 성가신 녀석을 치워라!"
@@ -4080,7 +4080,7 @@ sc_st_1_cp_confr,dlg,EntryList/8/Text,0,-1,"Your days are finished, Prophet! You
 sc_st_1_cp_confr,dlg,EntryList/9/Text,0,-1,"<StartAction>[하르콘이 크림슨 예언자에 대한 마법을 풀어주면서, 빨간색 의복을 입은 인물 주변에서 이상한 마법의 сфера이 발생하고, 마법이 그에게 도달하기 전에 마법을 멈추고...]</Start>"
 sc_st_1_open,dlg,EntryList/0/Text,0,-1,'< ACTOR 5 >'
 sc_st_1_open,dlg,EntryList/1/Text,0,-1,'< ACTOR 4 >'
-sc_st_1_open,dlg,EntryList/10/Text,0,-1,이건 중요하지 않다. 오카리스의 도움은 필요없다... 우리는 단지 스스로 문제를 해결해야 한다. 가라크가 불과 피로 떨어져야 한다면 그대로 둬!
+sc_st_1_open,dlg,EntryList/10/Text,0,-1,"상관없다. 이 일에 오카리스의 도움 따위는 필요 없어... 우리 스스로 해결하면 그만이다. 가라크가 불과 피로 멸망해야 한다면, 기꺼이 그렇게 해주마!"
 sc_st_1_open,dlg,EntryList/11/Text,0,-1,"도시에 대한 공격이 시작되었고, 모든 사람들은 크림슨 경로의 추종자들의 끔찍한 힘에 떨게 될 것이다! 곧, 신성한 분들아, 우리는 승리를 이룰 것이다!"
 sc_st_1_open,dlg,EntryList/12/Text,0,-1,"이제, 내가 도시에서 처리해야 할 다른 일이 있습니다. 우리로부터 훔쳐진 것은 어떤 비용으로든 되찾아야 합니다. 라카는 나에게 대항할 수 있다고 생각하는 바보였습니다!"
 sc_st_1_open,dlg,EntryList/13/Text,0,-1,대법관의 아이? <him/her>에게 어떻게 해야 할까요?
@@ -4182,7 +4182,7 @@ st_0_ac_tst_wrai,dlg,EntryList/5/Text,0,-1,"네가 상상하는 것보다 훨씬
 st_0_ac_tst_wrai,dlg,EntryList/6/Text,0,-1,우리는 한때 자랑스럽고 강한 민족이었는데... 정복받고 흡수되는 것을 요구하지 않고 저항하는 것이 아니라 싸우고 있습니다.
 st_0_ac_tst_wrai,dlg,EntryList/7/Text,0,-1,"우리는 네가 강하다는 걸 안다, 제국인아, 하지만 소중한 아카데미에서 네 약점에 대해서는 아무것도 가르쳐 주지 않던가? 허리에 나무 검을 찬 아이처럼 으스대며 떠들어대는구나."
 st_0_ac_tst_wrai,dlg,EntryList/8/Text,0,-1,제국이 죽인 사람들? 내 손에 있는 피의 양이 네 손에 비하면 열 배나 더 많다! ...그들은 진실을 보지 못하는 어리석은 놈들이었다! 그들은 라카의 이름으로 살았다가 죽었다. 내가 제안한 죽음은 그들에게 너무 좋은 것이었다.
-st_0_ac_tst_wrai,dlg,EntryList/9/Text,0,-1,"당신이 비명을 지르지만, 그 벌레를 남겨두는 것과 같나? 귀중한 제국도 우리에게 똑같이 해주었다. 전쟁의 본성이고, 나는 그것에 대해 의심할 필요가 없었다."
+st_0_ac_tst_wrai,dlg,EntryList/9/Text,0,-1,"파리 한 마리는 때려잡으면서 구더기들은 곪도록 내버려 두겠다는 건가? 당신들의 소중한 제국도 우리에게 똑같이 짓거릴 했지. 전쟁이란 원래 그런 법이고, 난 그것에 대해 의심할 필요를 느낀 적이 없다."
 st_0_ac_tst_wrai,dlg,ReplyList/0/Text,0,-1,그만. 이제 너를 심판할 때다.
 st_0_ac_tst_wrai,dlg,ReplyList/1/Text,0,-1,당신의 범죄에 대해 말해봐.
 st_0_ac_tst_wrai,dlg,ReplyList/2/Text,0,-1,너는 어떤 심판을 원하는가?
