@@ -25,7 +25,7 @@ archery_ref,dlg,EntryList/3/Text,0,-1,"정말? 경쟁에서 점수를 내지 못
 archery_ref,dlg,EntryList/4/Text,0,-1,"다음 라운드의 점수를 기록해 두세요. 그러면 다음 상대방과 비교할 때 앞서 있을 수도 있고 뒤처질 수도 있습니다. 어쨌든 표준 점수를 사용합니다: 흰색은 1점, 검은색은 3점, 파란색은 5점, 빨간색은 7점, 그리고 당연히 금은 9점입니다. 이렇게 되면 어떻게 생각하시나요? 참여하시겠습니까?"
 archery_ref,dlg,EntryList/5/Text,0,-1,썬더스톤의 규칙은 승부차기에서 도전자가 승리한다는 겁니다
 archery_ref,dlg,EntryList/6/Text,0,-1,아주 좋습니다! 상대방을 불러드리겠습니다.
-archery_ref,dlg,EntryList/7/Text,0,-1,돈이 좀 부족하군요? 어딘가에 잊어버렸나 봅니다. 찾아보는 게 좋겠네요. 10개의 황금 사자는 입장료입니다.
+archery_ref,dlg,EntryList/7/Text,0,-1,돈이 좀 모자라나 보지? 어딘가에 두고 온 게 분명하겠지? 가서 찾아오는 게 좋을 거야. 입장료는 황금 사자 10개다.
 archery_ref,dlg,EntryList/8/Text,0,-1,"농담하는 거 아니야, 친구? 말 타고는 들어올 수 없다고!"
 archery_ref,dlg,EntryList/9/Text,0,-1,"이봐, 친구, 화살통에 석궁 화살이 충분하지 않잖아. 18개는 있어야 해. 대회가 끝나기 전에 나갈 생각이 아니라면 말이야!"
 archery_ref,dlg,ReplyList/0/Text,0,-1,지금은 아니야.
@@ -56,8 +56,8 @@ badknight,dlg,EntryList/23/Text,0,-1,그렇다면 다행이야. 도움이 돼서
 badknight,dlg,EntryList/24/Text,0,-1,"지금 내가 좀 바쁘다는 걸 이해하시겠죠. 새 무덤을 서둘러 주문하고 싶으실 테니 자리를 비워 드리죠, 응?"
 badknight,dlg,EntryList/25/Text,0,-1,"하지만, 나는... 절대 안 했어!"
 badknight,dlg,EntryList/26/Text,0,-1,당신 가족들은 당신이 그들에게 끼치는 수치심에 대해 혐오감을 느끼고 있을 거예요.
-badknight,dlg,EntryList/27/Text,0,-1,그런 행동은 부끄러운 것이었어. 이럴 만큼 부끄러워해야 해.
-badknight,dlg,EntryList/28/Text,0,-1,그런 행동은 부끄러운 것이었어. 이럴 만큼 부끄러워해야 해.
+badknight,dlg,EntryList/27/Text,0,-1,정말 수치스러운 행동이야. 부끄러운 줄 알아야 해.
+badknight,dlg,EntryList/28/Text,0,-1,정말 수치스러운 행동이야. 부끄러운 줄 알아야 해.
 badknight,dlg,EntryList/29/Text,0,-1,"지금은 아니라고, 제발!"
 badknight,dlg,EntryList/3/Text,0,-1,왜 무덤에 대해 말하고 싶은가?
 badknight,dlg,EntryList/30/Text,0,-1,안녕하세요
@@ -141,7 +141,7 @@ bridgeboulder,dlg,ReplyList/6/Text,0,-1,<StartAction>[다른 방법을 시도해
 bridgeboulder,dlg,ReplyList/7/Text,0,-1,<StartCheck>[합산 근력]</Start>
 bridgeboulder,dlg,ReplyList/8/Text,0,-1,<StartAction> [DONE]</Start>
 broadhand,dlg,EntryList/0/Text,0,-1,잡들 여기에
-broadhand,dlg,EntryList/1/Text,0,-1,"제 고객이 특정 물건을 훔쳐간 것 같습니다. 이 물건을 돌려주고 싶어 합니다. 보이로는, 이 물건은 템푸스 성지의 마그누스 사제가 가지고 있는 것 같습니다. 이 물건이 사제의 손에 어떻게 들어간지는 확실하지 않지만, 다시 돌려받아야 합니다. 그렇게 하면 800 금사자 금액을 지불합니다. 이 일에 관심이 있으신가요?"
+broadhand,dlg,EntryList/1/Text,0,-1,"제 의뢰인 중 한 명이 특정 물건을 도둑맞아서 그것을 되찾고 싶어 합니다. 그 물건은 현재 템푸스 성소의 마그누스 사제 손에 들어간 것 같습니다. 어떻게 사제의 손에 들어가게 되었는지는 확실하지 않지만, 아무튼 돌려받아야 합니다. 일을 완수해 주시면 800 골드 라이언을 지불하겠습니다. 관심이 있으신가요?"
 broadhand,dlg,EntryList/10/Text,0,-1,훌륭합니다. 그것을 얻으면 제게 가져오세요. 보수를 드리겠습니다. 뿔이 손상되지 않도록 조심해 주세요.
 broadhand,dlg,EntryList/100/Text,0,-1,토너먼트가 진행 중이면 동쪽 거리로 가면 경기장에 접근할 수 있습니다.
 broadhand,dlg,EntryList/101/Text,0,-1,호클린 경의 성은 썬더스톤의 남쪽 끝에 있습니다. 놓칠 수 없습니다. 큰 돌 구조물입니다.
@@ -165,7 +165,7 @@ broadhand,dlg,EntryList/117/Text,0,-1,그럼 나 없이 계속해야 돼 난 <CU
 broadhand,dlg,EntryList/118/Text,0,-1,그럼 다시 업무로 돌아가시죠?
 broadhand,dlg,EntryList/119/Text,0,-1,아직 모으는 중이다. 조금만 참아다오. 구할 수 있는 건 전부 가져다주마.
 broadhand,dlg,EntryList/12/Text,0,-1,그럼 당신의 요청은 나에게 하셔야 합니다. 저는 클라이언트의 이름을 말씀드리지 않을 거예요.
-broadhand,dlg,EntryList/120/Text,0,-1,나가 할 수 있는 모든 정보를 다 주었어. 더 이상 필요한 게 없어.
+broadhand,dlg,EntryList/120/Text,0,-1,내가 아는 정보는 다 줬어. 더 이상 줄 건 없어.
 broadhand,dlg,EntryList/121/Text,0,-1,"쉬워요. 얼마나 급하게 필요하십니까? 원하시는 만큼 빨리 드릴수록, 더 많은 사람을 고용해야 하기에 비용이 더 들 것입니다."
 broadhand,dlg,EntryList/122/Text,0,-1,그건 10 골든 라이온이 들 거야. 어때?
 broadhand,dlg,EntryList/123/Text,0,-1,그건 20 골드 라이온이 들겠군요. 어떠신가요?
@@ -220,7 +220,7 @@ broadhand,dlg,EntryList/167/Text,0,-1,"입구를 찾지 못했을 뿐만 아니�
 broadhand,dlg,EntryList/168/Text,0,-1,그 밖엔 뭐라도 있었나요?
 broadhand,dlg,EntryList/169/Text,0,-1,저는 여기서 교훈이 있다고 생각합니다. 정직은 일반적으로 제가 발견한 가장 좋은 정책입니다.
 broadhand,dlg,EntryList/17/Text,0,-1,"호클린 성 내부를 살펴볼 사람이 필요하다. 의뢰인께서는 그 성으로 통하는 비밀 입구가 있는지 알고 싶어 하시는데, 외부에서는 아무것도 찾지 못한 모양이다. 정보가 유용하므로 보람은 200 골든 라이온으로 하겠다."
-broadhand,dlg,EntryList/170/Text,0,-1,"잘했어, <FirstName>! 방금 200골드를 잃었어!"
+broadhand,dlg,EntryList/170/Text,0,-1,"잘했어, <FirstName>! 방금 200 골든 라이온을 날려먹었잖아!"
 broadhand,dlg,EntryList/171/Text,0,-1,<StartAction> [성공] </Start> 정말? 제 다른 소식통이 찾을 수 없었다는 것에 놀랐습니다.
 broadhand,dlg,EntryList/172/Text,0,-1,"<StartAction>[성공]</Start> 당신은 열심히 노력했고, 그 점에 대해 고마워요. 제 클라이언트는 이 소식을 환영할 것입니다. 고마워."
 broadhand,dlg,EntryList/173/Text,0,-1,"저는 항상 솔직한 답변을 높이 평가합니다. 적어도 당신이 보셨다고 믿습니다. 그런 경우, 원래 제안된 대로 돈을 받게 될 것입니다."
@@ -243,7 +243,7 @@ broadhand,dlg,EntryList/188/Text,0,-1,"네, 그건 당신이 유능한 사람이
 broadhand,dlg,EntryList/189/Text,0,-1,"좋아, 다음 일을 더 맡기기 전에 신중히 생각해야겠군. 다음번에는 네가 날 배신할 수 없다는 걸 확실히 아는 일을 맡길 거야. 같은 교훈을 두 번 배울 필요는 없어."
 broadhand,dlg,EntryList/19/Text,0,-1,"좋아, 다른 게 있었나요?"
 broadhand,dlg,EntryList/190/Text,0,-1,그래서 당신이 원하는 게 있었나?
-broadhand,dlg,EntryList/191/Text,0,-1,"나는 네게 신뢰를 주지 못해, <FirstName>. 네가 호른을 가지고 있었지만, 다른 일을 선택한 것 같아."
+broadhand,dlg,EntryList/191/Text,0,-1,"<FirstName>, 네가 나를 신뢰할 수 있을지 모르겠군. 네가 뿔피리를 가지고 있었지만, 그것으로 다른 무언가를 하려고 했던 것 같아."
 broadhand,dlg,EntryList/192/Text,0,-1,잘 생각해 보겠다. 지금은 당신을 믿어볼게. 더 필요한 것이 있나?
 broadhand,dlg,EntryList/193/Text,0,-1,"<StartAction>[성공]</Start> 네, 그렇게 들었습니다만 직접 확인해보고 싶었군요. 뿔을 얻을 다른 방법이나, 혹은 다른 뿔을 찾아야겠군요..."
 broadhand,dlg,EntryList/194/Text,0,-1,"네, 그게 내가 들은거였지만... 다른 방법을 찾아야 할거야."
@@ -255,7 +255,7 @@ broadhand,dlg,EntryList/199/Text,0,-1,"훌륭합니다! 여기 약속한 금이 
 broadhand,dlg,EntryList/2/Text,0,-1,당신의 선택이 확실한가? 다시는 그 일자리를 제안하지 않을 것이다.
 broadhand,dlg,EntryList/20/Text,0,-1,내 모든 고객들은 비밀이야. 내가 말했잖아.
 broadhand,dlg,EntryList/200/Text,0,-1,"당신에게 의지할 수 있을 것 같군요, <FirstName> 님. 혹시 제가 도와드릴 일이 있을까요?"
-broadhand,dlg,EntryList/201/Text,0,-1,위협은 내게는 신경 쓸 일이 아니야. 당신의 죽음은 곧 내 죽음 뒤따를 거야. 뿔을 주실 거예요? 아니면 안 주실 거예요? 이건 값보다 더 비싸게 사려는 거야.
+broadhand,dlg,EntryList/201/Text,0,-1,위협은 내게 통하지 않아. 네 죽음은 내 뒤를 곧 따르게 될 거다. 뿔을 줄 거야 말 거야? 난 이거 가치보다 더 많이 쳐주고 사는 거라고.
 broadhand,dlg,EntryList/202/Text,0,-1,"너무 오래 생각하지 마, 내 클라이언트는 영원히 기다리지 않을거야."
 broadhand,dlg,EntryList/203/Text,0,-1,<StartAction> [성공] </Start> 로드 마르빈 헌트크론이 우승 트로피를 팔기를 좋아한다는 걸 알아요
 broadhand,dlg,EntryList/204/Text,0,-1,그냥 내게서 왔다고 말하지 마. 그는 당신이 다른 소스에서 알고 있다고 가정할 것입니다. 어쨌든 그가 신경쓰지 않을 가능성이 있습니다.
@@ -286,7 +286,7 @@ broadhand,dlg,EntryList/39/Text,0,-1,지난 주에 살인 사건이 있었습니
 broadhand,dlg,EntryList/4/Text,0,-1,"더 많은 세부 사항은 안 돼, 당신이 그 일을 맡지 않으면, 그게 이 일에 대한 규칙입니다."
 broadhand,dlg,EntryList/40/Text,0,-1,내 소식통은 한 저녁에 상인 임엘다가 혼자 썬더스톤을 떠났다는 것을 보았다고 말했다. 이런 시기에는 누가 그런 일을 하고 싶겠는가?
 broadhand,dlg,EntryList/41/Text,0,-1,"마지막으로 발레토의 배가 썬더스톤에 왔을 때, 배에 상아가 실린 것 같았어. 그는 목재 상인이라던데. 이멜다라는 상인을 위해 몰래 짐을 나르는 걸지도 몰라. 참 이상하지. 둘은 항상 서로를 싫어하는 척하거든."
-broadhand,dlg,EntryList/42/Text,0,-1,세미비아 국경에서 많은 움직임이 일어나고 있습니다. 그들은 침략을 준비하고 있을지도 모릅니다. 이것이 왜 보라색 용들이 침략자들을 쫓는 것보다 그들의 바락에 더 많은 시간을 보내는 이유를 설명할 수 있습니다.
+broadhand,dlg,EntryList/42/Text,0,-1,현재 세비아 국경 부근에서 움직임이 심상치 않다. 침략을 준비하고 있는 것일지도 모른다. 퍼플 드래곤들이 약탈자를 쫓는 것보다 병영에서 더 많은 시간을 보내는 이유가 바로 그 때문일 것이다.
 broadhand,dlg,EntryList/43/Text,0,-1,순백색 수사슴에 대한 소문을 들어본 적 있으신가요? 사냥꾼들은 이 동물에 대해 현지 전설을 가지고 있습니다. 이 동물은 잡을 수 없을 정도로 빠르다고 합니다. 몇몇 귀족들은 이 동물을 사냥하는 것을 목표로 삼았습니다.
 broadhand,dlg,EntryList/44/Text,0,-1,"새 대장장이가 훌륭하다고들 해요, 예전에는 마법 무기도 벼렸다고 하고요. 물론 요즘은 일반 무기조차 부족해서 그럴 기회가 거의 없지만요."
 broadhand,dlg,EntryList/45/Text,0,-1,그녀는 다시 마법 작업의 기회를 환영할 것이라고 확신합니다.
@@ -305,7 +305,7 @@ broadhand,dlg,EntryList/56/Text,0,-1,왜 발레토가 해적 해적이 없는 �
 broadhand,dlg,EntryList/57/Text,0,-1,와이번 워터 호수에서 해적들이 해적들을 잡지 못해
 broadhand,dlg,EntryList/58/Text,0,-1,"요즘 해적들은 다양한 모습을 보이는데, 많은 가면을 쓰는 것 같습니다."
 broadhand,dlg,EntryList/59/Text,0,-1,해군이 노력하지 않고 있다고 암시하는 것은 아니겠지요? 제 사촌 아예산더가 제독이니까요.
-broadhand,dlg,EntryList/6/Text,0,-1,마그누스는 확실히 그 것을 떠나지 않을 것입니다. 왜냐하면 그 성질이 마법의 무기를 만드는 데 특히 유용하다는 것을 알고 있기 때문입니다. 그리고 템푸스의 사제로서 그는 그것을 떠나지 않을 만큼 큰 관심을 가지고 있을 것입니다.
+broadhand,dlg,EntryList/6/Text,0,-1,"마그누스는 절대 그것을 내놓지 않을 것입니다. 마법 무기를 만드는 데 그 성질이 특히 유용하다는 것을 그가 잘 알고 있을 테고, 템푸스의 사제로서도 그냥 지나치기에는 너무 큰 관심을 가질 테니까요."
 broadhand,dlg,EntryList/60/Text,0,-1,"아니, 에드거, 집 근처를 찾아보는 것이 코르미르 해군보다 더 현명할 것이라고 생각한다."
 broadhand,dlg,EntryList/61/Text,0,-1,"일부 해적들은 항상 해적일 수는 없지만, 다른 해적들도 말꾼을 좋아하지 않아서는 안 된다는 걸 그대로 두자."
 broadhand,dlg,EntryList/62/Text,0,-1,최신의 거론은 길버트 호클린 경에 관한 것인데 그는 파산됐고
@@ -322,7 +322,7 @@ broadhand,dlg,EntryList/71/Text,0,-1,"인문 인사르는 첫 쟁전을 치를 �
 broadhand,dlg,EntryList/72/Text,0,-1,오른쪽으로 기울은 기사라면 창을 깨고 포인트를 잃게 될 것입니다. 인문은 인기가 있고 잘하면 군중을 기쁘게 할 것입니다.
 broadhand,dlg,EntryList/73/Text,0,-1,"<CUSTOM1065>가 다음 창 시합에 출전할 예정이에요. 시합에 거의 나오지 않아서 거의 알려지지 않았죠. 제 친구가 그녀의 참모진으로 일하는데, <CUSTOM1065>가 만만치 않다고 하더군요."
 broadhand,dlg,EntryList/74/Text,0,-1,"그녀의 선호하는 공격은 높고 넓은 편이라고 들었는데, 상대방은 그녀의 힘을 가지고 있다고 생각하지 않아 항상 창 뒤에서 몸을 숙여 더 강한 힘을 내려고 하여 결국 말에서 떨어지곤 한다."
-broadhand,dlg,EntryList/75/Text,0,-1,다음 대회에서 여자 선수의 우승을 보는 것은 좋을 것 같아. 다른 유스터들도 상대를 과소평가하지 말게 가르쳐야겠어.
+broadhand,dlg,EntryList/75/Text,0,-1,다음 대회에서는 여성 참가자가 우승하는 모습을 보면 좋겠어. 다른 창 시합 참가자들이 상대를 과소평가하면 안 된다는 걸 확실히 깨닫게 될 테니까.
 broadhand,dlg,EntryList/76/Text,0,-1,나도 동의해. 만약 내가 될 수만 있다면... 하지만 지금은 다른 길을 선택했어.
 broadhand,dlg,EntryList/77/Text,0,-1,그 정보는 그녀가 여기 오면 유용할 것 같습니다. 전쟁 전 아라벨에서 대회에서 똑같은 일을 한 것을 본 적이 있습니다.
 broadhand,dlg,EntryList/78/Text,0,-1,"요즘 화제는 대부분 유명한 모험가 <CUSTOM1064>에 관한 것으로, 다음 창 시합에 나설지도 모른답니다."
@@ -666,7 +666,7 @@ caladnei2,dlg,EntryList/24/Text,0,-1,마녀왕이 곧 우리에게 다가올 거
 caladnei2,dlg,EntryList/25/Text,0,-1,빨리 해라! 준비되면 알려주게.
 caladnei2,dlg,EntryList/26/Text,0,-1,그럼 이걸 받는 게 좋겠군. 이 뿔들은 전투에서 부하들을 통제하는 데 도움이 될 거야.
 caladnei2,dlg,EntryList/27/Text,0,-1,철수 나팔을 불면 병사들은 즉시 교전을 중단하고 원래의 위치로 후퇴할 것입니다. 이는 적 마법사가 있을 때 아군 병사들이 뭉치는 것을 방지하는 데 특히 유용할 수 있습니다.
-caladnei2,dlg,EntryList/28/Text,0,-1,"만약 당신이 충돌 호른을 울리면, 모든 부대가 전격으로 진출해 바우로까지 도달하려고 노력할 것입니다."
+caladnei2,dlg,EntryList/28/Text,0,-1,돌격 나팔을 불면 모든 부대가 전방으로 진격하여 고인돌에 도달하려 할 것입니다.
 caladnei2,dlg,EntryList/29/Text,0,-1,"기억하라, 치열한 전투 중에는 모든 이가 나팔 소리를 듣지 못할 테니 항상 부대원들을 주시해야 한다. 하지만 <CUSTOM1021> <FirstName>, 너 또한 직접 싸워야 한다. 그렇지 않으면 반드시 패배할 것이다."
 caladnei2,dlg,EntryList/3/Text,0,-1,잠시 생각해보게. 이게 내 첫 전투는 아니니 분명 자네에게 조언해 줄 수 있을 걸네. 부대를 배치할 준비가 되면 그때 내 생각을 말해주겠네.
 caladnei2,dlg,EntryList/30/Text,0,-1,"자, 위치를 잡고 준비하게. 필요하면 내가 준 막대로 용기를 북돋우되, 무덤 안에서 무엇을 마주칠지 모르니 자신을 위해 아껴 두게. 이제부터는 쉴 틈이 없고, 전투가 시작되면 나도 도와줄 수 없으니 조심하게, <CUSTOM1021> <FirstName>."
@@ -739,12 +739,12 @@ commander1,dlg,EntryList/1/Text,0,-1,뭐야?
 commander1,dlg,EntryList/10/Text,0,-1,시내 남쪽 끝에 있습니다.
 commander1,dlg,EntryList/11/Text,0,-1,템푸스 성지는 모든 사람들을 위한 곳입니다. 주요 광장으로 가서 남쪽에 위치해 있습니다.
 commander1,dlg,EntryList/12/Text,0,-1,"가까운 곳은 잊어버려. 최고의 여관은 광장 동쪽의 퍼니처스 페이트야. 다리에서 가장 가까운 선더 사인은 그 절반도 못 하고, 곰의 소굴은 물론 지금은 문을 닫았지."
-commander1,dlg,EntryList/13/Text,0,-1,"저는 번개의 표시를 추천합니다. 그것은 다리 근처에 있습니다. 물론 가구 운명도 있지만, 실제로는 너무 시끄러워요. 그런 곳이 더 맞다면, 광장 동쪽에 있습니다."
+commander1,dlg,EntryList/13/Text,0,-1,"천둥의 간판 여관을 추천합니다. 다리와 가장 가까운 곳이죠. 물론 여행객들을 맞이하는 가구의 운명 여관도 있지만, 거기는 안이 너무 시끄러워집니다. 그런 분위기를 더 좋아하신다면 광장 동쪽에 있습니다."
 commander1,dlg,EntryList/14/Text,0,-1,"썬더스톤에는 두 개의 숙소가 있는데, 곰 동굴은 닫혀 있고, 드래곤 동굴은 군인들을 환영합니다. 썬더스 힌트는 다리 근처에서 남동쪽으로 조금 떨어져 있습니다. 가구 운명은 주 광장의 동쪽에 있습니다. 둘 다 활기찬 장소입니다."
 commander1,dlg,EntryList/15/Text,0,-1,"안녕 다시요, 다리를 막지 마세요!"
 commander1,dlg,EntryList/16/Text,0,-1,"환영하네, 이방인. 코르미르가 처음이라면 집정회 밖에 게시된 이 땅의 법을 읽어보도록 하게."
 commander1,dlg,EntryList/17/Text,0,-1,특히 적절한 모험가 헌장 없이 무기를 소지하는 것은 불법이라는 점을 기억하십시오. 또한 외국 화폐는 가능한 한 빨리 골든 라이언이나 무역 증표로 환전해야 합니다. 썬더스톤에서는 외국 화폐를 받지 않습니다.
-commander1,dlg,EntryList/18/Text,0,-1,평화연합으로 무기를 보관해 주시기 바랍니다. 우리는 헬멧과 방패를 제거하는 것을 선호합니다. 시대가 어려울지라도 법은 여전히 적용됩니다.
+commander1,dlg,EntryList/18/Text,0,-1,무기에 평화 결계를 채워 주시기 바랍니다. 또한 투구와 방패는 벗어두는 것을 권장합니다. 시대가 험할지라도 법은 여전히 유효하니까요.
 commander1,dlg,EntryList/19/Text,0,-1,네. 무기를 뽑지 않겠다는 표시로 모든 무기에 평화의 끈을 감아야 합니다. 거의 시행하지는 않지만 법은 여전히 유효합니다. 모범을 보여 주시면 좋겠습니다.
 commander1,dlg,EntryList/2/Text,0,-1,"물론, 뭘 찾고 있어?"
 commander1,dlg,EntryList/20/Text,0,-1,"농장에 대한 침습이었나요? 무관심한 소리 들리려는 건 아니지만, 침습은 너무 흔합니다."
@@ -793,7 +793,7 @@ commander1,dlg,ReplyList/7/Text,0,-1,감사합니다.
 commander1,dlg,ReplyList/8/Text,0,-1,감사합니다.
 commander1,dlg,ReplyList/9/Text,0,-1,감사합니다.
 commoner,dlg,EntryList/0/Text,0,-1,무슨 일이야?
-commoner,dlg,EntryList/1/Text,0,-1,"제가 말씀드렸듯이, 저는 격문에 큰 관심이 없습니다."
+commoner,dlg,EntryList/1/Text,0,-1,"말씀드렸다시피, 저는 험담 따위에는 별 관심이 없습니다."
 commoner,dlg,EntryList/10/Text,0,-1,<StartAction>[만약 원하시면 완료된 섹션에 이 내용을 추가할 수 있습니다.]</Start>
 commoner,dlg,EntryList/100/Text,0,-1,그거 그냥 전설 같은 거 아니었어? 매일 밤 지어놓은 건물을 다 허물어버리는 유령이 살던 곳 말이야? 참 재미있는 이야기였지...
 commoner,dlg,EntryList/101/Text,0,-1,폴터의 요새... 폴터의 요새... 왜 그 이름이 친숙해 보이나?
@@ -812,7 +812,7 @@ commoner,dlg,EntryList/112/Text,0,-1,호클린 경의 성은 썬더스톤의 남
 commoner,dlg,EntryList/113/Text,0,-1,시내 남쪽 끝에 있습니다.
 commoner,dlg,EntryList/114/Text,0,-1,템푸스 성지는 모든 사람들을 위한 곳입니다. 주요 광장으로 가서 남쪽에 위치해 있습니다.
 commoner,dlg,EntryList/115/Text,0,-1,"가까운 곳은 잊어버려. 최고의 여관은 광장 동쪽의 퍼니처스 페이트야. 다리에서 가장 가까운 선더 사인은 그 절반도 못 하고, 곰의 소굴은 물론 지금은 문을 닫았지."
-commoner,dlg,EntryList/116/Text,0,-1,"저는 번개의 표시를 추천합니다. 그것은 다리 근처에 있습니다. 물론 가구 운명도 있지만, 실제로는 너무 시끄러워요. 그런 곳이 더 맞다면, 광장 동쪽에 있습니다."
+commoner,dlg,EntryList/116/Text,0,-1,"천둥의 간판 여관을 추천합니다. 다리와 가장 가까운 곳이죠. 물론 여행객들을 맞이하는 가구의 운명 여관도 있지만, 거기는 안이 너무 시끄러워집니다. 그런 분위기를 더 좋아하신다면 광장 동쪽에 있습니다."
 commoner,dlg,EntryList/117/Text,0,-1,"썬더스톤에는 두 개의 숙소가 있는데, 곰 동굴은 닫혀 있고, 드래곤 동굴은 군인들을 환영합니다. 썬더스 힌트는 다리 근처에서 남동쪽으로 조금 떨어져 있습니다. 가구 운명은 주 광장의 동쪽에 있습니다. 둘 다 활기찬 장소입니다."
 commoner,dlg,EntryList/118/Text,0,-1,<CUSTOM1021> <FirstName> <CUSTOM1053>라는 걸 다 들었어. 필요한 게 있으면 말씀해 주세요.
 commoner,dlg,EntryList/119/Text,0,-1,그들은 당신을 <CUSTOM1021> <FirstName> <CUSTOM1053>이라고 부르나요?
@@ -880,7 +880,7 @@ commoner,dlg,EntryList/62/Text,0,-1,우리는 모두 매우 흥분해 있습니�
 commoner,dlg,EntryList/63/Text,0,-1,"그는 유명한 창 시합 선수입니다. 그를 구경하는 건 아주 흥미롭겠지만, 제 사촌 말로는 그가 항상 투구를 노린다고 하더군요. 기사들이 투구를 그냥 숙이기만 해도 누구나 그를 이길 수 있을 겁니다!"
 commoner,dlg,EntryList/64/Text,0,-1,<CUSTOM1064>을 보고 싶어요. 그는 도보로도 용감한 싸움꾼으로 알려져 있습니다.
 commoner,dlg,EntryList/65/Text,0,-1,다음 토너먼트에 대한 주요 대화입니다. 나는 <CUSTOM1063>이 좋은 기회를 가지고 있다고 생각합니다. 그렇지 않나? 그의 주요 약점은 항상 왼쪽으로 낮은 곳을 목표로 하는 것이라고 할 수 있습니다.
-commoner,dlg,EntryList/66/Text,0,-1,"그는 너무 자주 그렇게 하지만, 적대자가 충분히 오른쪽으로 기울어진다는 것만으로도 쉽게 점수를 얻는 것 같아 보입니다. 랜스를 깨트리는 것은 그의 전문가처럼 보입니다."
+commoner,dlg,EntryList/66/Text,0,-1,"그는 너무 자주 그러지만, 적들이 충분히 오른쪽으로 기울어지는 덕분에 승리를 거두는 것 같군. 랜스 부수기로 쉽게 점수를 따는 게 그의 특기인 모양이야."
 commoner,dlg,EntryList/67/Text,0,-1,"사실, 한 번 마르세ಂಬರ್에서 운전을 봤는데, 그도 똑같은 짓을 했다."
 commoner,dlg,EntryList/68/Text,0,-1,<CUSTOM1062>는 다음 대회의 창 시합에서 꽤 주목받지만 늘 낮게 겨누지. 다른 기사 중 하나가 방패만 내리지 않으면 쉽게 이길 것 같아.
 commoner,dlg,EntryList/69/Text,0,-1,"저는 많은 창 시합을 보아왔는데, 그런 식으로는 쉽게 점수를 내주고 맙니다. 상대가 정확하게 타격해 창이 부러지거든요."
@@ -1475,13 +1475,13 @@ dla_melpitmaster,dlg,EntryList/16/Text,0,-1,"하지만 당신은 '마지막 남�
 dla_melpitmaster,dlg,EntryList/17/Text,0,-1,"음, 당신은 <CUSTOM5002>와 같은 '킬'을 얻었지만, 이전에 쓰러진 것처럼 패배했다고 간주됩니다."
 dla_melpitmaster,dlg,EntryList/18/Text,0,-1,"그 싸움은 힘들었지만 <sir/madam>, 좋은 소식이 있습니다. 비록 전투가 끝날 때까지 발에 서있지 못했지만 베라마네드 코사 (<CUSTOM5005>maned <CUSTOM5001>) 가 총체적으로 '살아'는 것 같지만..."
 dla_melpitmaster,dlg,EntryList/19/Text,0,-1,"잘 싸웠어, <sir/madam> 마지막 <man/woman>일 뿐 아니라 <CUSTOM5005> 또한 <CUSTOM5001>의 '살인'에 승리했다."
-dla_melpitmaster,dlg,EntryList/2/Text,0,-1,확실히. 무엇이죠?
+dla_melpitmaster,dlg,EntryList/2/Text,0,-1,물론입니다. 무엇인가요?
 dla_melpitmaster,dlg,EntryList/20/Text,0,-1,여기 마지막 남자 대회의 우승을 차지한 수익이 있습니다.
 dla_melpitmaster,dlg,EntryList/21/Text,0,-1,너는 미래의 챔피언이 될 것 같아. 다음 전투에서 널 보는 게 기대된다!
 dla_melpitmaster,dlg,EntryList/22/Text,0,-1,"축하해, <sir/madam>!"
 dla_melpitmaster,dlg,EntryList/23/Text,0,-1,"<CUSTOM5006> 경기의 챔피언으로 선포합니다. <sir/madam>에게 축하드립니다! 그리고 100개의 황금 사자, 여러분의 상입니다!"
 dla_melpitmaster,dlg,EntryList/24/Text,0,-1,싸움에 집중하라!
-dla_melpitmaster,dlg,EntryList/3/Text,0,-1,여기 다른 나라에서 온 몇몇 전문가들이 있습니다. 우리는 그들에 대해 별로 알지 못합니다. 반엘프 여성 피브링 크로운은 꽤 인기 있습니다. 무기전에서도 사이라 브론 퓨트슬버는 명성을 얻기 시작했습니다.
+dla_melpitmaster,dlg,EntryList/3/Text,0,-1,여기 우리가 잘 모르는 다른 땅 출신의 전문가들이 꽤 있습니다. 반엘프 여인 피브링 크로운은 꽤 인기가 있습니다. 브론 헌트실버 경도 근접전에서 명성을 얻고 있고요.
 dla_melpitmaster,dlg,EntryList/4/Text,0,-1,"물론, 아직 모든 사람이 이름을 적지 않았지만, 레이디 로웬 트루실버가 들어간다면 인기가 많을 거예요. 에드거 경은 그녀의 사촌이라서, 하지만 마르드 패튼은 지역 챔피언입니다. 관중들은 그를 지지할 거예요."
 dla_melpitmaster,dlg,EntryList/5/Text,0,-1,"스탠다드 썬더스톤 규칙, <sir/madam>. 모든 전투자들은 무기를 들고 걸로 싸우고, 한 명이 남기기 전까지 싸우고, 혼자나 동원들과 함께 갈 수 있고, 원하는 것을 함께 싸워갈 수 있습니다. 우리는 더 많은 피를 흘리는 상처를 위해 준비된 라탄더의 사제입니다. 아직까지 사망자가 없었습니다."
 dla_melpitmaster,dlg,EntryList/6/Text,0,-1,"비록 우리는 몇 차례 아슬아슬한 접전이 있었지만... 진정한 관중 환호용이었죠! 어쨌든, 가장 많은 적을 처치한 사람에게는 끝까지 살아남든 아니 상관없이 100골드 라이언이 수여됩니다. 그리고 최후의 생존자에게는 20골드 라이언의 별도 상금이 주어집니다."
@@ -1539,7 +1539,7 @@ doornoopen3,dlg,EntryList/1/Text,0,-1,호클린 성 문이 잠겨있으니 호�
 doornoopen4,dlg,EntryList/0/Text,0,-1,[이 문은 반대편에 봉쇄되어 있습니다.]
 doornoopen5,dlg,EntryList/0/Text,0,-1,[소음] 트크론 경이 현재 거주지 안 있어
 doornoopen6,dlg,EntryList/0/Text,0,-1,"<FirstName> 경, 드래곤의 동굴은 기사들을 위한 장소가 아니라 군인들을위한 곳입니다."
-doornoopen6,dlg,EntryList/1/Text,0,-1,"친구, 보라색 용들만 용의 동굴에서 술을 마신다. 다른 시설을 찾는 것이 좋다. 광장의 가구 운명은 좋은 곳이다."
+doornoopen6,dlg,EntryList/1/Text,0,-1,"친구, 용의 둥지에는 보라색 용 기사들만 드나드는 곳이라네. 다른 곳을 알아보는 게 좋을 거야. 광장에 있는 '가구의 운명'이 괜찮은 곳이지."
 doornoopen6,dlg,EntryList/2/Text,0,-1,드래곤의 소굴은 군인 전용이다. 길거리 잡배나 말썽을 찾는 모험가는 사절이니 다른 곳을 알아봐라!
 doorpfeast,dlg,EntryList/0/Text,0,-1,<StartAction>[폴터 요새의 동쪽 탑으로 통하는 길이다.]</Start>
 doorpfeast,dlg,EntryList/1/Text,0,-1,"<StartAction>[문이 여전히 꽉 끼어 있지만, 힘껏 밀자 열립니다...]</Start>"
@@ -1688,7 +1688,7 @@ edgar,dlg,EntryList/183/Text,0,-1,하지만 그건 예상할 수 밖에 없는 �
 edgar,dlg,EntryList/184/Text,0,-1,그리고 당신 가문의 과오로 인해 라신다가 더 이상 오랫동안 고통받지 않기를 바랍니다.
 edgar,dlg,EntryList/185/Text,0,-1,나도 그렇게 희망해.
 edgar,dlg,EntryList/186/Text,0,-1,이상한 곳이네.
-edgar,dlg,EntryList/187/Text,0,-1,"토름이 우리를 지켜주셔서 감사하지만, 그 냄새는 매우 불쾌합니다!"
+edgar,dlg,EntryList/187/Text,0,-1,"토름이시여, 냄새가 아주 고약하군요!"
 edgar,dlg,EntryList/188/Text,0,-1,"나온 것 같아, 그 버섯들이 있는 곳에서."
 edgar,dlg,EntryList/189/Text,0,-1,그리고... 오... 티르에 의해... 얼마나 냄새가 나는지!
 edgar,dlg,EntryList/19/Text,0,77921,누가 이 도움을 필요로 하는가?
@@ -1714,7 +1714,7 @@ edgar,dlg,EntryList/206/Text,0,-1,이곳은 거울을 남기기에 이상한 곳
 edgar,dlg,EntryList/207/Text,0,-1,이것들은 분명 어떤 종류의 마법 거울이다. 빛을 반사하지 않고 오직 마법만 반사하는 거울에 대해 들어본 적은 있지만.
 edgar,dlg,EntryList/208/Text,0,-1,"거울은 크지만, 충분히 작아서 들 수는 있지만, 오래 들고 다니지는 못할 것 같습니다. 저는 이 거울들이 성안에서 어떤 용도로 사용되는 것이라 추측합니다."
 edgar,dlg,EntryList/209/Text,0,-1,관리인이 퍼즐에 거울과 빛줄기가 관련되어 있다고 했어요. 이것들을 챙겨 가는 게 좋겠어요.
-edgar,dlg,EntryList/21/Text,0,77921,누구를 손을 얹으면 좋겠나?
+edgar,dlg,EntryList/21/Text,0,77921,누구한테 손을 봐주면 되겠나?
 edgar,dlg,EntryList/210/Text,0,-1,별 쓸모가 없어. 이걸로는 머리도 손질할 수 없다고!
 edgar,dlg,EntryList/211/Text,0,-1,그들이 중요하기 때문에 여기에 가만히 서 있는 거겠지.
 edgar,dlg,EntryList/212/Text,0,-1,제 생각엔 쓸모없어 보이지만 <FirstName>한테 데려가고 싶다면
@@ -1805,7 +1805,7 @@ edgar,dlg,EntryList/29/Text,0,77915,"<FirstName>, 그것이 좋은 생각이라�
 edgar,dlg,EntryList/290/Text,0,-1,"확실하진 않지만 꽤 체계적이야. 약탈하기 좋은 곳이란 걸 알고 있거나, 이 습격의 배후에 있는 자가 무언가를 찾고 있는 거겠지. 물론 그게 뭔지는 전혀 모르겠지만."
 edgar,dlg,EntryList/291/Text,0,-1,"우리는 많은 침략자들을 이 바위묘지로 추적하고, 그들을 함정에 빠뜨렸습니다. 일이 잘 진행되고 있을 때, 바깥에 배치된 스카우트 중 한 명이 제2군이 다가오고 있다고 경고했습니다."
 edgar,dlg,EntryList/292/Text,0,-1,두 개의 세력으로 을 때리는 일은 없었기 때문에 스카우트가 알려줬거나 길을 잃고 잘못된 을 때렸죠.
-edgar,dlg,EntryList/293/Text,0,-1,"나와 몇 명의 남자들이 옆 통로로 몰려갔고, 적들을 처리하고 주요 통로로 다시 돌아갔다. 나머지 군사들은 더 깊숙이 배우로 들어갔다. 싸움은 배우에서 벌어지고, 거기서 도움이 필요하다."
+edgar,dlg,EntryList/293/Text,0,-1,"나와 몇 명의 부하들이 옆 통로로 밀려 들어갔다. 우리는 적들을 처치하고 주 통로로 다시 뚫고 나아갔다. 내 부하 중 나머지는 무덤 깊숙이 밀려 들어갔다. 그곳에서 싸움이 벌어지고 있으며, 나는 당신이 그리로 가서 도와주기를 바란다."
 edgar,dlg,EntryList/294/Text,0,-1,"네놈을 구해줘, 내놈을 구해줘. 몇 분 후에 다시 전투를 준비할 거야. 하지만 날 기다리지 마."
 edgar,dlg,EntryList/295/Text,0,-1,그럼 왜 여기 왔어?
 edgar,dlg,EntryList/296/Text,0,-1,정말 그래? 숲에서 걸어가고 있었나?
@@ -1835,7 +1835,7 @@ edgar,dlg,EntryList/34/Text,0,77914,"시도하는 것과 성공하는 것 사이
 edgar,dlg,EntryList/35/Text,0,77914,"이럴 때 나를 많이 도와줄 수는 없을 것 같지만, 그래도 시도해볼게. 더 필요한 것이 있으면 말해."
 edgar,dlg,EntryList/36/Text,0,77914,"알았어, 적들을 주시할게. 좋은 계획이야 <CUSTOM1020>. 더 필요한 것이 있나?"
 edgar,dlg,EntryList/37/Text,0,-1,이 부분에서 실패했다면 죄송합니다. 어떻게 더 도와드릴 수 있을까요?
-edgar,dlg,EntryList/38/Text,0,77914,"자원을 그렇게 낭비하는 것 같아, <FirstName>이지만, 네가 뭘 하는지 잘 알겠지. 다른 필요한 것이 있나?"
+edgar,dlg,EntryList/38/Text,0,77914,"자원을 그렇게 낭비하는 것 같군요, <FirstName>. 하지만 당신이 뭘 하는지 잘 알고 있겠죠. 더 필요한 것이 있습니까?"
 edgar,dlg,EntryList/39/Text,0,77914,"직접적인 접근 방식입니다. 섬세함이 부족하지만, 그렇게 선호합니다. 더 무엇인가요?"
 edgar,dlg,EntryList/4/Text,0,-1,저는 에드릭 트루실버 씨의 아들인 에드거 트루실버입니다.
 edgar,dlg,EntryList/40/Text,0,77914,그럼 다른 게 있나요?
@@ -1855,7 +1855,7 @@ edgar,dlg,EntryList/52/Text,0,-1,네. 사실 나는 이 모든 일에 토름의 
 edgar,dlg,EntryList/53/Text,0,89931,"이건 그냥 긁힌 것뿐이야, <FirstName> 걱정할 필요 없어. 면도하다 더 심하게 베인 적도 있는걸."
 edgar,dlg,EntryList/54/Text,0,-1,그 밖엔 뭐라도 있었나요?
 edgar,dlg,EntryList/55/Text,0,89932,이보다 더 나쁠 때도 있었지. 하지만 이 많은 피를 갑옷에서 닦아내는 건 정말 고역이군. 붕대 좀 남는 게 있다면 사양하지 않겠네.
-edgar,dlg,EntryList/56/Text,0,-1,그렇지 않으면 잘 처리할 것 같아.
+edgar,dlg,EntryList/56/Text,0,-1,그렇지 않아도 내가 알아서 할 테니.
 edgar,dlg,EntryList/57/Text,0,89933,이상처는 몇 가지 더한 흉터를 남길 것이 확실해. 기억할 수 있는 어떤 전투보다 나쁜 상태야. 하지만 불평은 하지 않아야지. 상처는 예상되는 일이니까.
 edgar,dlg,EntryList/58/Text,0,89930,<FirstName> 저는 사실 아무것도 볼 수 없어요. 이제까지 알아차렸으면 좋겠네요! 아무래도 지금 상황에 대해 무엇을 할 수 있을지 확신이 없네요...
 edgar,dlg,EntryList/59/Text,0,89934,"괜찮아, 내가 감당할 수 없는 건 없어, 그냥 불타는 것 같아. 아마 조금 중독되었을지도 모르겠어."
@@ -2001,7 +2001,7 @@ edgar,dlg,ReplyList/362/Text,0,-1,여기서 무슨 일이 벌어졌어요?
 edgar,dlg,ReplyList/365/Text,0,-1,치유가 필요하세요?
 edgar,dlg,ReplyList/366/Text,0,-1,난 더 이상 싸우고 싶지 않아.
 edgar,dlg,ReplyList/367/Text,0,-1,<StartCheck>[속임수]</Start> 소리가 나서 조사를 하러 왔어.
-edgar,dlg,ReplyList/369/Text,0,-1,나를 찾아왔어
+edgar,dlg,ReplyList/369/Text,0,-1,널 찾아왔어.
 edgar,dlg,ReplyList/37/Text,0,78369,상급 마법 무기
 edgar,dlg,ReplyList/370/Text,0,-1,난 나머지 적들을 찾아서 죽여버리겠어.
 edgar,dlg,ReplyList/372/Text,0,-1,난 <FullName>입니다.
@@ -2017,7 +2017,7 @@ edgar,dlg,ReplyList/382/Text,0,-1,여기서 무슨 일이 벌어졌어요?
 edgar,dlg,ReplyList/385/Text,0,-1,치유가 필요하세요?
 edgar,dlg,ReplyList/386/Text,0,-1,난 더 이상 싸우고 싶지 않아.
 edgar,dlg,ReplyList/387/Text,0,-1,<StartCheck>[속임수]</Start> 소리가 나서 조사를 하러 왔어.
-edgar,dlg,ReplyList/389/Text,0,-1,나를 찾아왔어
+edgar,dlg,ReplyList/389/Text,0,-1,널 찾아왔어.
 edgar,dlg,ReplyList/39/Text,0,78364,독수리의 위엄
 edgar,dlg,ReplyList/40/Text,0,-1,신의 은총
 edgar,dlg,ReplyList/41/Text,0,-1,주문해제
@@ -2120,7 +2120,7 @@ farms,dlg,ReplyList/3/Text,0,-1,우리는 잠시 멈추고 무엇을 해야 할�
 farms,dlg,ReplyList/5/Text,0,-1,여기서는 안전하지 않아. 여기서 나가야 해.
 farms,dlg,ReplyList/6/Text,0,-1,여기 남은 것을 확인해 보아야 한다.
 ffcommoner,dlg,EntryList/0/Text,0,-1,무슨 일이야?
-ffcommoner,dlg,EntryList/1/Text,0,-1,"제가 말씀드렸듯이, 저는 격문에 큰 관심이 없습니다."
+ffcommoner,dlg,EntryList/1/Text,0,-1,"말씀드렸다시피, 저는 험담 따위에는 별 관심이 없습니다."
 ffcommoner,dlg,EntryList/10/Text,0,-1,<StartAction>[만약 원하시면 완료된 섹션에 이 내용을 추가할 수 있습니다.]</Start>
 ffcommoner,dlg,EntryList/100/Text,0,-1,그거 그냥 전설 같은 거 아니었어? 매일 밤 지어놓은 건물을 다 허물어버리는 유령이 살던 곳 말이야? 참 재미있는 이야기였지...
 ffcommoner,dlg,EntryList/101/Text,0,-1,폴터의 요새... 폴터의 요새... 왜 그 이름이 친숙해 보이나?
@@ -2139,7 +2139,7 @@ ffcommoner,dlg,EntryList/112/Text,0,-1,호클린 경의 성은 썬더스톤의 �
 ffcommoner,dlg,EntryList/113/Text,0,-1,시내 남쪽 끝에 있습니다.
 ffcommoner,dlg,EntryList/114/Text,0,-1,템푸스 성지는 모든 사람들을 위한 곳입니다. 주요 광장으로 가서 남쪽에 위치해 있습니다.
 ffcommoner,dlg,EntryList/115/Text,0,-1,"가까운 곳은 잊어버려. 최고의 여관은 광장 동쪽의 퍼니처스 페이트야. 다리에서 가장 가까운 선더 사인은 그 절반도 못 하고, 곰의 소굴은 물론 지금은 문을 닫았지."
-ffcommoner,dlg,EntryList/116/Text,0,-1,"저는 번개의 표시를 추천합니다. 그것은 다리 근처에 있습니다. 물론 가구 운명도 있지만, 실제로는 너무 시끄러워요. 그런 곳이 더 맞다면, 광장 동쪽에 있습니다."
+ffcommoner,dlg,EntryList/116/Text,0,-1,"천둥의 간판 여관을 추천합니다. 다리와 가장 가까운 곳이죠. 물론 여행객들을 맞이하는 가구의 운명 여관도 있지만, 거기는 안이 너무 시끄러워집니다. 그런 분위기를 더 좋아하신다면 광장 동쪽에 있습니다."
 ffcommoner,dlg,EntryList/117/Text,0,-1,"썬더스톤에는 두 개의 숙소가 있는데, 곰 동굴은 닫혀 있고, 드래곤 동굴은 군인들을 환영합니다. 썬더스 힌트는 다리 근처에서 남동쪽으로 조금 떨어져 있습니다. 가구 운명은 주 광장의 동쪽에 있습니다. 둘 다 활기찬 장소입니다."
 ffcommoner,dlg,EntryList/118/Text,0,-1,<CUSTOM1021> <FirstName> <CUSTOM1053>라는 걸 다 들었어. 필요한 게 있으면 말씀해 주세요.
 ffcommoner,dlg,EntryList/119/Text,0,-1,그들은 당신을 <CUSTOM1021> <FirstName> <CUSTOM1053>이라고 부르나요?
@@ -2208,7 +2208,7 @@ ffcommoner,dlg,EntryList/62/Text,0,-1,우리는 모두 매우 흥분해 있습�
 ffcommoner,dlg,EntryList/63/Text,0,-1,"그는 유명한 창 시합 선수입니다. 그를 구경하는 건 아주 흥미롭겠지만, 제 사촌 말로는 그가 항상 투구를 노린다고 하더군요. 기사들이 투구를 그냥 숙이기만 해도 누구나 그를 이길 수 있을 겁니다!"
 ffcommoner,dlg,EntryList/64/Text,0,-1,<CUSTOM1064>을 보고 싶어요. 그는 도보로도 용감한 싸움꾼으로 알려져 있습니다.
 ffcommoner,dlg,EntryList/65/Text,0,-1,다음 토너먼트에 대한 주요 대화입니다. 나는 <CUSTOM1063>이 좋은 기회를 가지고 있다고 생각합니다. 그렇지 않나? 그의 주요 약점은 항상 왼쪽으로 낮은 곳을 목표로 하는 것이라고 할 수 있습니다.
-ffcommoner,dlg,EntryList/66/Text,0,-1,"그는 너무 자주 그렇게 하지만, 적대자가 충분히 오른쪽으로 기울어진다는 것만으로도 쉽게 점수를 얻는 것 같아 보입니다. 랜스를 깨트리는 것은 그의 전문가처럼 보입니다."
+ffcommoner,dlg,EntryList/66/Text,0,-1,"그는 너무 자주 그러지만, 적들이 충분히 오른쪽으로 기울어지는 덕분에 승리를 거두는 것 같군. 랜스 부수기로 쉽게 점수를 따는 게 그의 특기인 모양이야."
 ffcommoner,dlg,EntryList/67/Text,0,-1,"사실, 한 번 마르세ಂಬರ್에서 운전을 봤는데, 그도 똑같은 짓을 했다."
 ffcommoner,dlg,EntryList/68/Text,0,-1,<CUSTOM1062>는 다음 대회의 창 시합에서 꽤 주목받지만 늘 낮게 겨누지. 다른 기사 중 하나가 방패만 내리지 않으면 쉽게 이길 것 같아.
 ffcommoner,dlg,EntryList/69/Text,0,-1,"저는 많은 창 시합을 보아왔는데, 그런 식으로는 쉽게 점수를 내주고 맙니다. 상대가 정확하게 타격해 창이 부러지거든요."
@@ -2323,12 +2323,12 @@ fisherman,dlg,EntryList/0/Text,0,-1,"어떻게 도와드릴까요, <lad/lass>?"
 fisherman,dlg,EntryList/1/Text,0,-1,"내가 말하는 것보다 더 잘 듣게 되는데 그건 사실이지만, 다른 많은 사람들이 다른 말을 하겠지만..."
 fisherman,dlg,EntryList/10/Text,0,-1,"<lad/lass>에도 가끔 내려오곤 해. 달빛에서 보시면 좋겠네, 그것이 어둠 속에서 빛나는 것처럼요."
 fisherman,dlg,EntryList/11/Text,0,-1,"내 다리를 끌고 있잖아? 잠깐만요, 대가로 뭔가를 주지 않고 그걸 벗기지 않을거야."
-fisherman,dlg,EntryList/12/Text,0,-1,"이 돌에는 마법이 있다고 생각해, 하지만 어떻게 사용하는지 모르겠어. 이 돌을 가져와서는 영을 즐기자!"
+fisherman,dlg,EntryList/12/Text,0,-1,"자, 시작하지. 내 생각엔 이 돌에 약간의 마법이 깃들어 있는 것 같은데, 나로서는 어떻게 쓰는지를 모르겠단 말이지. 이걸 가져가게, 그럼 술을 즐겨보자고!"
 fisherman,dlg,EntryList/13/Text,0,-1,위스키 냄새가 나네요
 fisherman,dlg,EntryList/14/Text,0,-1,"그래, <lad/lass>가 맞네. 실수하지 마. 한잔 해보자."
 fisherman,dlg,EntryList/15/Text,0,-1,"와인? 와인은 좀 거드름 피우는 고급 술이라 생각하지만, 네 청이라면 거절하지 않지!"
 fisherman,dlg,EntryList/16/Text,0,-1,"아아! 그래, 좋아!"
-fisherman,dlg,EntryList/17/Text,0,-1,"난 그들 중 한 명이고, 내 경험으로는 오랫동안 이야기할 수 있나니."
+fisherman,dlg,EntryList/17/Text,0,-1,난 그들 중 하나야. 내 경험상 한참 동안 떠들 수도 있지.
 fisherman,dlg,EntryList/18/Text,0,-1,"그래, 그 이야기는 끝내지 않았잖아, 그렇지?"
 fisherman,dlg,EntryList/19/Text,0,-1,"아, 그렇지만 그건 당신이 장난을 치려는지, 이야기를 들어보려는지, 아니면 재미를 위해 여기 계신지에 달려 있습니다."
 fisherman,dlg,EntryList/2/Text,0,-1,"하지만 당신이 그렇게 묻고 있으니, 저는 많은 이상한 이야기들을 가지고 있습니다. 대부분은 소설보다 더 많은 진실을 담고 있지만, 요즘은 저를 믿는 사람이 거의 없네요. 저는 해적들의 이야기, 마법으로 가득 찬 성, 신비한 동물들에 대한 이야기들을 가지고 있습니다..."
@@ -2345,7 +2345,7 @@ fisherman,dlg,EntryList/29/Text,0,-1,"본토에서 갈 수 있는 경로가 있�
 fisherman,dlg,EntryList/3/Text,0,-1,"이봐, 이렇게 해보는 것도 정말 오랜만이군. 재미있지 않나? 시간도 때울 겸 술병이나 하나 까자고, <CUSTOM1052>. 뭐 가진 거라도 좀 있나?"
 fisherman,dlg,EntryList/30/Text,0,-1,"서쪽 모래줄을 따라 호수로 들어가고, 안개가 물 위에 있을 때 섬으로 인도할 것이다. 안개가 사라지면 결코 볼 수 없는 섬이다."
 fisherman,dlg,EntryList/31/Text,0,-1,난 안 돼. 위험해. 해적들이나 용의 敌이 되고 싶진 않거든. 게다가 모래톱을 지켜보는 와이번들도 있어. 혼자서 건너려는 뱃사람이 있다면 누구든 가만두지 않을 걸.
-fisherman,dlg,EntryList/32/Text,0,-1,"너한테는 아마, 제 <lad/lass>이겠지만, 그건 아니야. 여기서 조롱하러 온다면 다른 곳으로 가라. 이건 제 집이야."
+fisherman,dlg,EntryList/32/Text,0,-1,"너한테는 그렇겠지, 내 <lad/lass>야, 하지만 난 그런 사람이 아니다. 조롱하러 온 거라면 다른 데나 가거라. 여긴 내 집이다."
 fisherman,dlg,EntryList/33/Text,0,-1,지금은 이야기를 들려드리는 기분이 별로 없어.
 fisherman,dlg,EntryList/34/Text,0,-1,<StartAction>[성공]</Start> 충분히 맞다.
 fisherman,dlg,EntryList/35/Text,0,-1,"이곳은 그들이 가득한 곳 <CUSTOM1052>. 내가 한 번 썬더스톤에 가서 신고했었지. 그 때문에 머리를 잃었을 수도 있었지만, 아무도 신경 쓰지 않아서 요즘은 대부분 제 물고기를 해적들에게 팔고 있다. 육지 사람들은 참 바보 같은 거야. 아마 그럴 거야, 내가 해적으로 살았어야 했을지도 몰라."
@@ -2596,7 +2596,7 @@ godfroy,dlg,EntryList/178/Text,0,-1,그리고... 오... 티르에 의해... 얼�
 godfroy,dlg,EntryList/179/Text,0,-1,"그리고... 전쟁의 주군, 그 끔찍한 냄새가 뭐죠?"
 godfroy,dlg,EntryList/18/Text,0,86380,그럼 다른 게 있나요?
 godfroy,dlg,EntryList/180/Text,0,-1,그리고... 오... 달콤한 라탄더... 냄새가 얼마나 나는지!
-godfroy,dlg,EntryList/181/Text,0,-1,"토름이 우리를 지켜주셔서 감사하지만, 그 냄새는 매우 불쾌합니다!"
+godfroy,dlg,EntryList/181/Text,0,-1,"토름이시여, 냄새가 아주 고약하군요!"
 godfroy,dlg,EntryList/182/Text,0,-1,"나온 것 같아, 그 버섯들이 있는 곳에서."
 godfroy,dlg,EntryList/183/Text,0,-1,"다리 위에 조심해, 미끄러워."
 godfroy,dlg,EntryList/184/Text,0,-1,"이 다리는 꽤 최근에 들어왔고, 몇 년 동안 성의 일부가 잔해로 가득한 것 같고, 와이번바포는 그것을 파고 내려고 해"
@@ -2684,7 +2684,7 @@ godfroy,dlg,EntryList/261/Text,0,-1,"왕국의 문제들 중 일부는 그의 �
 godfroy,dlg,EntryList/262/Text,0,-1,"얘야, 상상력이 또 지나치구나. 드래곤은 어린 시절 동화에 나오는 게 아니라 위험하고 심술궂은 도마뱀이라는 걸 기억하려무나. 어쨌든 우리는 드래곤이 아니라 미살라를 찾고 있다."
 godfroy,dlg,EntryList/263/Text,0,-1,실제로는 와이번바포르가 위험한 용이 아니라는 말을 들어봤습니다.
 godfroy,dlg,EntryList/264/Text,0,-1,잘 알게 될 거라 생각해.
-godfroy,dlg,EntryList/265/Text,0,-1,이 곳은 해골고장이야!
+godfroy,dlg,EntryList/265/Text,0,-1,이곳은 납골당이야!
 godfroy,dlg,EntryList/266/Text,0,-1,싸움 소리가 들리나? 안에서 전투가 벌어지고 있는 것 같아!
 godfroy,dlg,EntryList/267/Text,0,-1,주변에 녀석들이 더 있을 거야. 어서 몇 마리라도 죽이고 싶군. 레나의 죽음은 대가를 치르게 해야 해!
 godfroy,dlg,EntryList/268/Text,0,-1,에드거 트루실버는 지휘관으로서 좋은 명성을 가지고 있어 보병들을 발병시켜서
@@ -2990,7 +2990,7 @@ gravedigger,dlg,EntryList/22/Text,0,-1,"고마워요, 바로 처리할게요. �
 gravedigger,dlg,EntryList/23/Text,0,-1,음모 없이 무덤을 짓지 않아요
 gravedigger,dlg,EntryList/24/Text,0,-1,장례를 원한다면 면허증을 보여줘야 해.
 gravedigger,dlg,EntryList/25/Text,0,-1,하지만 잔해는 보이지 않아. 아무것도 없이 무덤을 만들 수는 없어.
-gravedigger,dlg,EntryList/26/Text,0,-1,"아, 그래. 괜찮아. 이제 정원에서의 제대로 된 무덤을 위해 10 골든 라이온을 지불해야 해. 왕실의 규칙이 있고, 내 규칙이 아니야. 그건 정원에서 토지를 얻는 특권의 일부분이야."
+gravedigger,dlg,EntryList/26/Text,0,-1,"그래, 좋아. 이제 제대로 된 무덤 값을 지불해야 해. 내 규칙이 아니라 왕실 사무국의 규칙이지. 그건 정원에 묘지를 얻는 특권의 일부야. 10 골든 라이온이면 하나 마련해 줄 수 있지."
 gravedigger,dlg,EntryList/27/Text,0,-1,그럼 다시 오시면 좋겠습니다. 저는 기다리고 있을게요.
 gravedigger,dlg,EntryList/28/Text,0,-1,"자네 면허를 보긴 했다만, 제대로 된 묘석 값을 치르지 않으면 낭패를 볼 거야. 내 솜씨가 워낙 좋아서 더 싸게는 안 해."
 gravedigger,dlg,EntryList/29/Text,0,-1,좋아. 그럼 왕실 사무국에 알리겠네. 이제 정신을 못 차리는구나. 하지만 선택은 네 몫이었어.
@@ -3079,7 +3079,7 @@ groom,dlg,EntryList/18/Text,0,-1,"내가 당신을 안다고 생각하진 마세
 groom,dlg,EntryList/19/Text,0,-1,우스꽝이야 <mister/missus> 우린 친구가 될 거 알아
 groom,dlg,EntryList/2/Text,0,-1,"물론, 뭘 찾고 있어?"
 groom,dlg,EntryList/20/Text,0,-1,걱정 마
-groom,dlg,EntryList/21/Text,0,-1,"물론이죠. 그냥 너를 놀려드렸지, <CUSTOM1021> <LastName>."
+groom,dlg,EntryList/21/Text,0,-1,"그럼, 당연하지. 그냥 농담이었어, <CUSTOM1021> <LastName>."
 groom,dlg,EntryList/3/Text,0,-1,아마 당신이 찾고 있는 물건은 마그루크의 가게에 있습니다. 그는 광장 북쪽에 있습니다.
 groom,dlg,EntryList/4/Text,0,-1,동쪽 끝으로 가서 대회가 열린다.
 groom,dlg,EntryList/5/Text,0,-1,장난이 나니? 이 거대 사각형이야
@@ -3155,12 +3155,12 @@ hawklin1,dlg,EntryList/34/Text,0,-1,"호클린 경, 우리 아버지의 기억�
 hawklin1,dlg,EntryList/35/Text,0,-1,그 일을 해야 할 의무는 없습니다. 라헤랄센은 이곳 퍼플 드래곤의 지휘관입니다. 그래도 습격을 막기 위해 할 수 있는 일은 이미 하고 있습니다.
 hawklin1,dlg,EntryList/36/Text,0,-1,"그럼에도 불구하고, 당신은 필요하다는 것을 알 수 있습니다, 그리고 당신의 아버지를 기억하는 아마도 내가 할 수있는 것이 있습니다..."
 hawklin1,dlg,EntryList/37/Text,0,-1,나가 할 수 있는 모든 걸 할 거야. 네가 어떤 생각을 했는지 말해봐.
-hawklin1,dlg,EntryList/38/Text,0,-1,"당신의 상태를 보아하니, 단순히 조금의 돈보다 더 많은 돈이 필요할 것 같고, 나는 그것마저 절약할 수 없으니."
+hawklin1,dlg,EntryList/38/Text,0,-1,"네 꼴을 보니 푼돈보다는 훨씬 큰돈이 필요하겠는데, 어쨌든 내겐 여유가 없군."
 hawklin1,dlg,EntryList/39/Text,0,-1,"아니, '적은 돈'은 내게 부족해, <FirstName>."
 hawklin1,dlg,EntryList/4/Text,0,-1,적어도 네가 말해줬잖아
 hawklin1,dlg,EntryList/40/Text,0,-1,"<FirstName> 호클린 경, 우리는 다른 사람들을 보호하고 싶습니다."
 hawklin1,dlg,EntryList/41/Text,0,-1,"레나의 죽음으로 복수를 받고 싶고, 자네가 이 공습을 막고 싶다고 들었어"
-hawklin1,dlg,EntryList/42/Text,0,-1,"아버지께 대한 존경심으로, 당신을 도와주고 싶지만, 당신은 나쁜 시기에 찾아왔습니다. 저는 당신을 스쿠퍼로 받아들이고 복수를 추구할 수 있는 길을 제공할 수 있지만, 저는...즉, 현재로서는 그렇게 할 수 없습니다."
+hawklin1,dlg,EntryList/42/Text,0,-1,"아버님에 대한 예우로, 당신을 아주 도와주고 싶지만, 지금은 찾아온 시기가 좋지 않군요. 당신을 종자로 받아들여 복수를 이룰 길을 열어주고 싶지만, 저는... 음, 이렇게 말하죠, 지금으로서는 그럴 수가 없습니다."
 hawklin1,dlg,EntryList/43/Text,0,-1,난 이미 모든 노력을 다하고 있지만... 사실은 내가 감당할 수 없는 군인들이 필요하다는 거야.
 hawklin1,dlg,EntryList/44/Text,0,-1,"아주 잘, 당신에게 제안이 있어..."
 hawklin1,dlg,EntryList/45/Text,0,-1,"만일 네가 창 시합에 참가하여 유능한 전사임을 증명한다면, 나와 동료들의 시종으로 삼아 주겠다. 내가 네게 맡긴 일은 결코 쉽지 않으나, 그렇다고 너를 가볍게 받아들일 수도 없는 노릇이다."
@@ -3334,7 +3334,7 @@ hawklin2,dlg,EntryList/193/Text,0,-1,하지만 그런 요구는 사실 필요 �
 hawklin2,dlg,EntryList/194/Text,0,-1,"<FirstName>, 죄송하지만 제가 그 비용을 낼 수는 없었습니다. 발레토에게 이미 큰 빚을 지고 있고, 그는 헌장 비용까지 더했습니다. 제 상선들이 계속 해적에게 약탈당한다면, 빚을 갚기 위해 이 성마저 팔아야 할 겁니다."
 hawklin2,dlg,EntryList/195/Text,0,-1,폴터 요새 내부의 리더를 찾아 죽여야 한다. 그를 죽이면 나머지 병력은 혼란스러워져서 나에게 지원을 모아 그들을 제거할 시간이 될 것이다.
 hawklin2,dlg,EntryList/196/Text,0,-1,"We know the location of Polter's Fort, so you should travel there once you are ready <StartAction>[The option to travel there is now available when leaving Thunderstone.]</Start>."
-hawklin2,dlg,EntryList/197/Text,0,-1,떠나기 전에 준비하십시오. 요새는 반드시 위험한 장소일 것입니다. 심지어 여행 자체도 위험할 수 있습니다. 경로 주변에는 숙소가 없으므로 위험을 줄일 수 없습니다.
+hawklin2,dlg,EntryList/197/Text,0,-1,떠나기 전에 준비를 철저히 하십시오. 요새는 분명 위험한 곳이고 가는 길마저 위험할 것입니다. 위험을 줄여줄 여관도 경로상에는 없습니다.
 hawklin2,dlg,EntryList/198/Text,0,-1,틀림없이 요새 안에서 이번 습격의 배후를 찾을 수 있을 것이다. 우리가 죽여야 하는 자는 바로 그 우두머리라는 걸 굳이 말할 필요도 없겠지.
 hawklin2,dlg,EntryList/199/Text,0,-1,조심해. 전면 공격으로는 승리할 수 없어. 전투를 선택하라.
 hawklin2,dlg,EntryList/2/Text,0,-1,"<FirstName>, 잊지 마십시오. 당신은 아직 아버지의 유골을 지니고 다닙니다. 그것부터 먼저 처리해야 합니다."
@@ -3344,7 +3344,7 @@ hawklin2,dlg,EntryList/201/Text,0,-1,"<CUSTOM1020>, 고드프로이, 용서해 �
 hawklin2,dlg,EntryList/202/Text,0,-1,에드거가 아직 살아 있는 사람들을 위해 걱정하는 건 옳습니다. <FirstName>와 내가 우리 문제들에 대해 걱정하지게 해
 hawklin2,dlg,EntryList/203/Text,0,-1,코르미르가 평화를 알게 되는 때가 되었다. 이 지역에서 너무 오랫동안 전투의 소리가 들렸다.
 hawklin2,dlg,EntryList/204/Text,0,-1,"호클린 경, 우리를 믿으십시오. 우리는 실패하지 않을 것입니다."
-hawklin2,dlg,EntryList/205/Text,0,-1,"당신은 코르메릴이 되려는 사람일지 모르지만, 당신의 말을 지키리라 생각하기에 충분히 알고 있습니다."
+hawklin2,dlg,EntryList/205/Text,0,-1,"당신은 코르메릴일지 모르지만, 당신이 약속을 지킬 것이라는 점을 믿을 만큼은 당신에 대해 잘 알고 있습니다."
 hawklin2,dlg,EntryList/206/Text,0,-1,후! 우리가 필요한 만큼은 당신을 신뢰할게.
 hawklin2,dlg,EntryList/207/Text,0,-1,"용기는 우리의 것이 될 것이요, 아버님과 아버님의 문제도 해결될 것입니다!"
 hawklin2,dlg,EntryList/208/Text,0,-1,"그럴지도 모르지, 내 사랑. 그럴지도. 하지만 마지막 아이를 잃는다면 안 돼. 이제 조심해."
@@ -3359,7 +3359,7 @@ hawklin2,dlg,EntryList/215/Text,0,-1,"내 딸도 당신과 함께 있습니다. 
 hawklin2,dlg,EntryList/216/Text,0,-1,아버지!
 hawklin2,dlg,EntryList/217/Text,0,-1,"그래 맞아! 아무튼 그녀를 믿어도 돼, 그러니 제발 그녀도 잘 돌봐줘."
 hawklin2,dlg,EntryList/218/Text,0,-1,물어볼 필요도 없습니다. 저는 당신 편입니다.
-hawklin2,dlg,EntryList/219/Text,0,-1,"다리에서 일어난 혼란에 대해 죄송합니다. 오버스워드 라헤럴슨은 수년간 스스로에게 법을 세우고 있었고, 분명히 당신이 약탈한 것으로 주장할 수 있는 모든 것을 벗기려 했습니다."
+hawklin2,dlg,EntryList/219/Text,0,-1,"다리에서의 일로 끼친 민폐는 사과하오. 오버스워드 라헤럴슨은 수년 동안 제멋대로 행동해 왔으며, 당신이 약탈한 것이라고 주장할 수 있는 건 모조리 빼앗으려 했던 것이 분명하오."
 hawklin2,dlg,EntryList/22/Text,0,-1,"<CUSTOM1021> <FirstName>, 이건 해적들에게 큰 반향이 될 겁니다."
 hawklin2,dlg,EntryList/220/Text,0,-1,아마 그랬지만 법에 따라 행동했지. 스카이더미는 어드벤처스 헌장과 같은 권리를 부여하지 않는다. 엄밀히 말하면 발레토가 우리를 구제하지 않았다면 라헤랄슨은 당신의 소유물을 빼앗아 왕국의 추방을 할 수 있었을 것이다.
 hawklin2,dlg,EntryList/221/Text,0,-1,나에겐 전혀 중요하지 않지만 발레토는 좋은 점을 제기했습니다.
@@ -3449,7 +3449,7 @@ hawklin2,dlg,EntryList/37/Text,0,-1,하지만 이제 이 문제는 제쳐두도�
 hawklin2,dlg,EntryList/38/Text,0,-1,"죽은 자로, 나와 코르미르나 법과는 전혀 무관하게. 외교적 마찰을 피하면서 동시에 이 스파이들을 침묵시켜야 한다."
 hawklin2,dlg,EntryList/39/Text,0,-1,"이것은 더러운 일처럼 보일 수도 있지만, 코르미르에 필요한 일이죠."
 hawklin2,dlg,EntryList/4/Text,0,-1,"아버지의 장례를 치르는 것은 기사로서의 행동을 보여주는 좋은 시작일 것이다. 솔직히 말해, 네가 이를 잊어버렸다는 것은 놀랍다."
-hawklin2,dlg,EntryList/40/Text,0,-1,"그럼 오래 기다리지 마라. 번개의 신호 앞에 있는 집을 찾아 들어가서 그 안에 있는 사람들을 죽여라. 저는 이미 그 안에 있는 사람들을 확인해봤으니, 아이들 또는 무관한 시민은 없었다."
+hawklin2,dlg,EntryList/40/Text,0,-1,그럼 오래 지체하지 마라. 번개의 표지판 맞은편에 있는 집을 찾아 들어가 그 안에 있는 자들을 죽여라. 안에 누가 있는지 이미 확인해 두었으니 아이들이나 무관한 시민은 없다.
 hawklin2,dlg,EntryList/41/Text,0,-1,그리고 코르미르는 당신에게 감사해요 <FirstName>.
 hawklin2,dlg,EntryList/42/Text,0,-1,"아버지, 저희를 믿으셔도 좋습니다."
 hawklin2,dlg,EntryList/43/Text,0,-1,"솔직히, 캐서린이 관여하지 않았으면 좋겠어요. 하지만 <FirstName>에게 내가 할 준비가 되지 않은 일을 부탁할 수는 없어요."
@@ -3737,7 +3737,7 @@ hawklin3,dlg,EntryList/15/Text,0,-1,"내가 당신에게 선택권을 줬어 <Fi
 hawklin3,dlg,EntryList/16/Text,0,-1,하지만 이제 이 문제는 제쳐두도록 하겠습니다. 더 이상 말씀 있으신 것이 있으신가요?
 hawklin3,dlg,EntryList/17/Text,0,-1,"죽은 자로, 나와 코르미르나 법과는 전혀 무관하게. 외교적 마찰을 피하면서 동시에 이 스파이들을 침묵시켜야 한다."
 hawklin3,dlg,EntryList/18/Text,0,-1,"이것은 더러운 일처럼 보일 수도 있지만, 코르미르에 필요한 일이죠."
-hawklin3,dlg,EntryList/19/Text,0,-1,"그럼 오래 기다리지 마라. 번개의 신호 앞에 있는 집을 찾아 들어가서 그 안에 있는 사람들을 죽여라. 저는 이미 그 안에 있는 사람들을 확인해봤으니, 아이들 또는 무관한 시민은 없었다."
+hawklin3,dlg,EntryList/19/Text,0,-1,그럼 오래 지체하지 마라. 번개의 표지판 맞은편에 있는 집을 찾아 들어가 그 안에 있는 자들을 죽여라. 안에 누가 있는지 이미 확인해 두었으니 아이들이나 무관한 시민은 없다.
 hawklin3,dlg,EntryList/2/Text,0,-1,무슨 일이야?
 hawklin3,dlg,EntryList/20/Text,0,-1,그리고 코르미르는 당신에게 감사해요 <FirstName>.
 hawklin3,dlg,EntryList/21/Text,0,-1,"아버지, 저희를 믿으셔도 좋습니다."
@@ -3836,7 +3836,7 @@ horn1,dlg,EntryList/17/Text,0,-1,그렇군요.
 horn1,dlg,EntryList/18/Text,0,-1,좋은 생각이야!
 horn1,dlg,EntryList/19/Text,0,-1,그의 집은 여기서 멀지 않습니다. 도시의 동쪽에 있는 강변에 있습니다.
 horn1,dlg,EntryList/2/Text,0,-1,"나도 그렇게 생각했고, 좋은 생각 같아."
-horn1,dlg,EntryList/20/Text,0,-1,"헤러크 숲에 유니콘들이 있을 거라는 소문이 있습니다. 아마 그들은 숲 민중이 사냥되고 있고, 사냥을 하는 것은 헌트크로운이입니다."
+horn1,dlg,EntryList/20/Text,0,-1,"헐락 숲에 유니콘이 산다는 소문이 있습니다. 아마 사냥당하고 있는 이들이 바로 숲의 일족일 테고, 그 사냥을 벌이는 건 헌트크로운이겠지요."
 horn1,dlg,EntryList/21/Text,0,-1,"맨티스가 먼저 숲사람들을 사냥하는 자가 누구인지 알아보라고 부탁했는데, 그 뒤 사냥에 열중하고 별난 전리품을 원하는 헌트크라운이 최근 유니콘의 뿔을 잃었다는 사실을 알게 되다니 이상하지 않나요?"
 horn1,dlg,EntryList/3/Text,0,-1,얼마 전 더스톤과 그 밖의 많은 귀족들과 함께 성에서 축제가 있었습니다. 저녁식사 때 저는 마빈 헌트크로언 경과 옆에 앉아 있었습니다. 그는 사냥을 계속하고 있었는데 저는 그를 절반 정도만 들었어요. 하지만 지금은 그가 유니콘을 사냥하는 것이 합법적이라고 하고 싶다고 말하는 것을 기억합니다. 왜냐하면 그는 항상 유니콘 경을 원했기 때문입니다.
 horn1,dlg,EntryList/4/Text,0,-1,당신은 우연이라고 생각하시나요?
@@ -3925,9 +3925,9 @@ horseuse2,dlg,EntryList/0/Text,0,-1,<StartAction>[There is enough room here for 
 horseuse2,dlg,ReplyList/0/Text,0,-1,- 아니
 horseuse2,dlg,ReplyList/1/Text,0,-1,그래.
 huntcrown,dlg,EntryList/0/Text,0,-1,나가 어떻게 도와드릴 수 있나?
-huntcrown,dlg,EntryList/1/Text,0,-1,"그런 정보를 공유하고 싶진 않아, 그래도 사냥꾼이라면 스태그는 잡고 싶은 상대일 테니까."
+huntcrown,dlg,EntryList/1/Text,0,-1,그런 정보를 그대와 나누고 싶진 않군. 나 역시 사냥꾼이고 수사슴은 누구나 탐내는 전리품이니까.
 huntcrown,dlg,EntryList/10/Text,0,-1,이 대화로 지쳤어. 정말 원하는 게 있었나?
-huntcrown,dlg,EntryList/100/Text,0,-1,당신의 업적이 제 귀에 들어왔습니다. 그 망할 호브글린들의 죽음 소식을 듣고는 참으로 기쁩니다. 헐락 숲은 이제 매우 불쾌한 장소가 되어 사냥을 완전히 망치고 있습니다.
+huntcrown,dlg,EntryList/100/Text,0,-1,당신의 업적이 제 귀에 들어왔습니다. 그 망할 홉고블린들이 그렇게 많이 죽었다는 소식을 들으니 참으로 기쁘군요. 헐락 숲은 아주 불쾌한 곳이 되어 사냥을 완전히 망치고 있었거든요.
 huntcrown,dlg,EntryList/101/Text,0,-1,아니면 당신을 레이디 <FullName>으로 부르면 좋을까요? 저는 기사로 봉호받은 여성에 대한 올바른 표현이 무엇인지 항상 확신할 수 없습니다. 당신이 선호하는 것을 말씀해주실 수 있겠습니까?
 huntcrown,dlg,EntryList/102/Text,0,-1,안녕하세요 <CUSTOM1013> <FullName>.
 huntcrown,dlg,EntryList/103/Text,0,-1,"당신은 누구죠? 솔직히, 집사에게 길에서 아무나 들이지 말라고 말해야겠군요. 알다시피 여긴 자선 단체가 아니에요!"
@@ -4079,7 +4079,7 @@ huntcrown,dlg,ReplyList/52/Text,0,-1,난 당신을 믿지 않아. 뭔가 숨기�
 huntcrown,dlg,ReplyList/53/Text,0,-1,다른 질문을 들어볼게.
 huntcrown,dlg,ReplyList/54/Text,0,-1,"<StartCheck>[위협]</Start> 네가 다시 숲민족을 사냥하지 않겠다는 서약을 쓰지 않으면, 내가 신고할 것이다."
 huntcrown,dlg,ReplyList/58/Text,0,-1,내가 틀렸었나 보군.
-huntcrown,dlg,ReplyList/6/Text,0,-1,난 당신이 숲 민족을 사냥하고 있다고 믿는 이유가 있습니다.
+huntcrown,dlg,ReplyList/6/Text,0,-1,내게는 당신이 숲의 일족을 사냥해왔다고 믿을 만한 이유가 있습니다.
 huntcrown,dlg,ReplyList/60/Text,0,-1,"아니, 그만해"
 huntcrown,dlg,ReplyList/62/Text,0,-1,그렇소.
 huntcrown,dlg,ReplyList/63/Text,0,-1,난 팔라딘이야. 거짓말은 쉽게 알아볼 수 있어.
@@ -4277,7 +4277,7 @@ imelda,dlg,ReplyList/98/Text,0,-1,"웃긴 건 아니지, 내 아버지도 그런
 imelda,dlg,ReplyList/99/Text,0,-1,- 그래요
 imeldaend,dlg,EntryList/0/Text,0,-1,"난 무죄야, 넌 알고 있어."
 innfate,dlg,EntryList/0/Text,0,-1,나가 어떻게 도와드릴 수 있나?
-innfate,dlg,EntryList/1/Text,0,-1,"제가 말씀드렸듯이, 저는 격문에 큰 관심이 없습니다."
+innfate,dlg,EntryList/1/Text,0,-1,"말씀드렸다시피, 저는 험담 따위에는 별 관심이 없습니다."
 innfate,dlg,EntryList/10/Text,0,-1,그건 별로 스포츠맨답지 않은 짓이야. 상대에 대한 정보를 모으는 것과 일부러 방해하는 것은 다르지.
 innfate,dlg,EntryList/100/Text,0,-1,외팔이 마거크의 가게는 가격이 가장 좋고 모험가들이 가장 많이 찾는 곳입니다. 전쟁 이후 재고가 부족하지만 여전히 도시에서 가장 좋은 상점이죠. 광장 북쪽의 마구간 옆에서 찾을 수 있습니다.
 innfate,dlg,EntryList/101/Text,0,-1,6개 상금 거래소로 가자고 추천합니다. 모든 것이 있습니다.
@@ -4348,7 +4348,7 @@ innfate,dlg,EntryList/64/Text,0,-1,우리는 모두 매우 흥분해 있습니�
 innfate,dlg,EntryList/65/Text,0,-1,"그는 유명한 창 시합 선수입니다. 그를 구경하는 건 아주 흥미롭겠지만, 제 사촌 말로는 그가 항상 투구를 노린다고 하더군요. 기사들이 투구를 그냥 숙이기만 해도 누구나 그를 이길 수 있을 겁니다!"
 innfate,dlg,EntryList/66/Text,0,-1,<CUSTOM1064>을 보고 싶어요. 그는 도보로도 용감한 싸움꾼으로 알려져 있습니다.
 innfate,dlg,EntryList/67/Text,0,-1,다음 토너먼트에 대한 주요 대화입니다. 나는 <CUSTOM1063>이 좋은 기회를 가지고 있다고 생각합니다. 그렇지 않나? 그의 주요 약점은 항상 왼쪽으로 낮은 곳을 목표로 하는 것이라고 할 수 있습니다.
-innfate,dlg,EntryList/68/Text,0,-1,"그는 너무 자주 그렇게 하지만, 적대자가 충분히 오른쪽으로 기울어진다는 것만으로도 쉽게 점수를 얻는 것 같아 보입니다. 랜스를 깨트리는 것은 그의 전문가처럼 보입니다."
+innfate,dlg,EntryList/68/Text,0,-1,"그는 너무 자주 그러지만, 적들이 충분히 오른쪽으로 기울어지는 덕분에 승리를 거두는 것 같군. 랜스 부수기로 쉽게 점수를 따는 게 그의 특기인 모양이야."
 innfate,dlg,EntryList/69/Text,0,-1,"사실, 한 번 마르세ಂಬರ್에서 운전을 봤는데, 그도 똑같은 짓을 했다."
 innfate,dlg,EntryList/7/Text,0,-1,사실인지 모르겠네요.
 innfate,dlg,EntryList/70/Text,0,-1,<CUSTOM1062>는 다음 대회의 창 시합에서 꽤 주목받지만 늘 낮게 겨누지. 다른 기사 중 하나가 방패만 내리지 않으면 쉽게 이길 것 같아.
@@ -4452,7 +4452,7 @@ innfate,dlg,ReplyList/97/Text,0,-1,어디에서 상인들과 거래할 수 있�
 innfate,dlg,ReplyList/98/Text,0,-1,말까지 포함하면 가축입니다.
 innfate,dlg,ReplyList/99/Text,0,-1,감사합니다.
 innsign,dlg,EntryList/0/Text,0,-1,나가 어떻게 도와드릴 수 있나?
-innsign,dlg,EntryList/1/Text,0,-1,"제가 말씀드렸듯이, 저는 격문에 큰 관심이 없습니다."
+innsign,dlg,EntryList/1/Text,0,-1,"말씀드렸다시피, 저는 험담 따위에는 별 관심이 없습니다."
 innsign,dlg,EntryList/10/Text,0,-1,그건 별로 스포츠맨답지 않은 짓이야. 상대에 대한 정보를 모으는 것과 일부러 방해하는 것은 다르지.
 innsign,dlg,EntryList/11/Text,0,-1,"레디 아리안네 피츠코르메릴이 주스트에 참여한다는 소문이 많이 돌고 있습니다. 그녀는 코르메릴과 관련이 있기 때문이지만, 그녀가 주스트에서 뛰어난 실력자라는 점도 큰 이유입니다. 하지만 창이 그녀에게는 약간 무거워, 종종 방패의 바닥 부분을 공격합니다. 최근에 조기 와이번스퍼는 그녀를 주스트에서 물리쳤는데, 한 쪽으로 기울어진 것이 결정적이었습니다."
 innsign,dlg,EntryList/12/Text,0,-1,<StartAction>[만약 원하시면 완료된 섹션에 이 내용을 추가할 수 있습니다.]</Start>
@@ -4470,7 +4470,7 @@ innsign,dlg,EntryList/22/Text,0,-1,소문은 새로운 것이 아니라고는 �
 innsign,dlg,EntryList/23/Text,0,-1,지난 주에 살인 사건이 있었습니다. 썬더스톤에 새로 온 불행한 기사 한 명이 숲으로 유혹되어 살해당했습니다. 왕실의 에이전트 티오도르 후림은 공격당했다고 주장하는 여성이 유혹했다고 생각하며 그를 공격했습니다.
 innsign,dlg,EntryList/24/Text,0,-1,내 사촌이 일 저녁에 썬더스톤을 혼자 떠나는 상인 이멜다를 봤다고 했다. 이런 시기에 누가 그런 일을 하고 싶겠는가?
 innsign,dlg,EntryList/25/Text,0,-1,"마지막으로 발레토의 배가 썬더스톤에 왔을 때, 배에 상아가 실린 것 같았어. 그는 목재 상인이라던데. 이멜다라는 상인을 위해 몰래 짐을 나르는 걸지도 몰라. 참 이상하지. 둘은 항상 서로를 싫어하는 척하거든."
-innsign,dlg,EntryList/26/Text,0,-1,세미비아 국경에서 많은 움직임이 일어나고 있습니다. 그들은 침략을 준비하고 있을지도 모릅니다. 이것이 왜 보라색 용들이 침략자들을 쫓는 것보다 그들의 바락에 더 많은 시간을 보내는 이유를 설명할 수 있습니다.
+innsign,dlg,EntryList/26/Text,0,-1,현재 세비아 국경 부근에서 움직임이 심상치 않다. 침략을 준비하고 있는 것일지도 모른다. 퍼플 드래곤들이 약탈자를 쫓는 것보다 병영에서 더 많은 시간을 보내는 이유가 바로 그 때문일 것이다.
 innsign,dlg,EntryList/27/Text,0,-1,"상품을 살 수만 있다면 정당한 소유자가 누구인지는 상관없다고 생각하신다면, 앨리스 브로드핸드를 찾아가세요. 그녀는 식스 코퍼스 무역조합에 자주 어슬렁거립니다."
 innsign,dlg,EntryList/28/Text,0,-1,웽글의 마구간에 새로 온 대장장이를 적극 추천합니다. 마법 물건을 다루는 솜씨가 놀랍습니다. 물론 요즘은 일반 무기가 워낙 부족해서 마법을 부여할 기회가 거의 없지만요.
 innsign,dlg,EntryList/29/Text,0,-1,그녀는 다시 마법 작업의 기회를 환영할 것이라고 확신합니다.
@@ -4514,7 +4514,7 @@ innsign,dlg,EntryList/62/Text,0,-1,우리는 모두 매우 흥분해 있습니�
 innsign,dlg,EntryList/63/Text,0,-1,그는 유명한 창 시합 선수입니다. 항상 투구를 노리긴 하지만 그가 경기를 하는 모습을 보는 것은 아주 흥미진진할 것입니다. 투구만 숙이면 어떤 기사라도 그를 이길 수 있을 텐데요!
 innsign,dlg,EntryList/64/Text,0,-1,<CUSTOM1064>을 보고 싶어요. 그는 도보로도 용감한 싸움꾼으로 알려져 있습니다.
 innsign,dlg,EntryList/65/Text,0,-1,다음 토너먼트에 대한 주요 대화입니다. 나는 <CUSTOM1063>이 좋은 기회를 가지고 있다고 생각합니다. 그렇지 않나? 그의 주요 약점은 항상 왼쪽으로 낮은 곳을 목표로 하는 것이라고 할 수 있습니다.
-innsign,dlg,EntryList/66/Text,0,-1,"그는 너무 자주 그렇게 하지만, 적대자가 충분히 오른쪽으로 기울어진다는 것만으로도 쉽게 점수를 얻는 것 같아 보입니다. 랜스를 깨트리는 것은 그의 전문가처럼 보입니다."
+innsign,dlg,EntryList/66/Text,0,-1,"그는 너무 자주 그러지만, 적들이 충분히 오른쪽으로 기울어지는 덕분에 승리를 거두는 것 같군. 랜스 부수기로 쉽게 점수를 따는 게 그의 특기인 모양이야."
 innsign,dlg,EntryList/67/Text,0,-1,"사실, 한 번 마르세ಂಬರ್에서 운전을 봤는데, 그도 똑같은 짓을 했다."
 innsign,dlg,EntryList/68/Text,0,-1,<CUSTOM1062>는 다음 대회의 창 시합에서 꽤 주목받지만 늘 낮게 겨누지. 다른 기사 중 하나가 방패만 내리지 않으면 쉽게 이길 것 같아.
 innsign,dlg,EntryList/69/Text,0,-1,"저는 많은 창 시합을 보아왔는데, 그런 식으로는 쉽게 점수를 내주고 맙니다. 상대가 정확하게 타격해 창이 부러지거든요."
@@ -4675,7 +4675,7 @@ jenny,dlg,ReplyList/10/Text,0,-1,그건 말도 안 되는 요청이다.
 jenny,dlg,ReplyList/11/Text,0,-1,안녕히 계시오.
 jenny,dlg,ReplyList/12/Text,0,-1,또 다른 질문을 드리고 싶습니다.
 jenny,dlg,ReplyList/13/Text,0,-1,그 대가로 뭔가를 주셔야 합니다.
-jenny,dlg,ReplyList/14/Text,0,-1,그럼 잊어버리지.
+jenny,dlg,ReplyList/14/Text,0,-1,그럼 됐어.
 jenny,dlg,ReplyList/15/Text,0,-1,당신이 가지고 있는 금은 얼마입니까?
 jenny,dlg,ReplyList/16/Text,0,-1,순백색 수사슴은 어디에 있을 수 있나?
 jenny,dlg,ReplyList/17/Text,0,-1,계속 해
@@ -4830,7 +4830,7 @@ jonas,dlg,EntryList/77/Text,0,-1,저희가 정말로 그 사실인걸 희망합�
 jonas,dlg,EntryList/78/Text,0,-1,하지만 우리가 호클린 씨와 얘기하기 전에 먼저 우리 아버지의 묘지에 묻어달라고 요청에 대해 알아보자.
 jonas,dlg,EntryList/79/Text,0,-1,"길버트 호클린 경은 좋은 평판을 가지고 있으며, 그는 그 평판을 살리길 바랍니다."
 jonas,dlg,EntryList/8/Text,0,-1,"<FirstName>! 제발, 내가 아는 대로 말해줄게, 하지만 너무 오래하지 마! 네가 나를 믿지 않아도 돼, 하지만 이 힘은 나를 죽이고 있어!"
-jonas,dlg,EntryList/80/Text,0,-1,이 곳은 해골고장이야!
+jonas,dlg,EntryList/80/Text,0,-1,이곳은 납골당이야!
 jonas,dlg,EntryList/81/Text,0,-1,싸움 소리가 들리나? 안에서 전투가 벌어지고 있는 것 같아!
 jonas,dlg,EntryList/82/Text,0,-1,주위에 놈들이 더 있을 게 분명해. 그러길 바란다. 내 레나를 대신해서 이 쓰레기들에게 갚아줘야 할 빚이 있으니 말이야.
 jonas,dlg,EntryList/83/Text,0,-1,어서 <FirstName>! 다른 호보블린을 사냥해!
@@ -4963,7 +4963,7 @@ kathryn,dlg,EntryList/106/Text,0,-1,"위쪽에는 포트클리도 있고, 해적
 kathryn,dlg,EntryList/107/Text,0,-1,여기는 습기찬 것 같다...
 kathryn,dlg,EntryList/108/Text,0,-1,이 곳은 죽은 자들의 묘지야. 난 이곳을 침략하는 것에 대해 확신이 없어.
 kathryn,dlg,EntryList/109/Text,0,-1,"그렇게 지루하게 굴지 마, 고드프로이. 아직 여기 남아 있는 것들이라면 주인이 그리워할 리도 없잖아, 그렇지?"
-kathryn,dlg,EntryList/11/Text,0,-1,만약 당신이 생각을 바꾸면 이 성에서 잠시 떠나고 싶군요
+kathryn,dlg,EntryList/11/Text,0,-1,"글쎄, 생각이 바뀌시면 전 정말 당신을 따라 이 성을 잠시 벗어나고 싶군요."
 kathryn,dlg,EntryList/110/Text,0,-1,"캐서린 여사님, 그게 진정한 의미는 아닌 것 같습니다. 만약 누군가 무덤을 침공한다면 어떻게 생각하시겠습니까?"
 kathryn,dlg,EntryList/111/Text,0,-1,"상관없어, 내가 죽었을 거야?"
 kathryn,dlg,EntryList/112/Text,0,-1,우리 주변을 둘러보도록 하자. 이 무덤에 남아있는 모든 것은 이제 주인에게는 필요하지 않아 보인다!
@@ -5019,7 +5019,7 @@ kathryn,dlg,EntryList/157/Text,0,-1,바람에 소금 냄새가 난다. 우리는
 kathryn,dlg,EntryList/158/Text,0,-1,이 호수의 물은 거의 바닷물처럼 염분이 섞여 있다. 그래서 호숫가에는 농장이 흔치 않다.
 kathryn,dlg,EntryList/159/Text,0,-1,심지어 호수에도 상어가 있다는 말을 읽었어!
 kathryn,dlg,EntryList/16/Text,0,-1,다시 합류할 준비는 되셨나요?
-kathryn,dlg,EntryList/160/Text,0,-1,하지만 우리가 수영을 가리려나 보지.
+kathryn,dlg,EntryList/160/Text,0,-1,하지만 수영을 하러 갈 일은 없을 것 같군.
 kathryn,dlg,EntryList/161/Text,0,-1,"저도 똑같은 내용을 읽었지만, 수영을 하지 않는다면 이 임무에서는 그들을 걱정할 필요가 없을 것 같습니다."
 kathryn,dlg,EntryList/162/Text,0,-1,"When we decided we had to move from the King's Forest, my mother thought we should become fishermen on the lake. Father and I thought it would be better to go with your family, <FirstName>, and continue farming."
 kathryn,dlg,EntryList/163/Text,0,-1,결국 우리가 가장 잘 알고 있던 일이어서 그렇게 나쁜 결정이 아니었던 것 같았어요
@@ -5036,7 +5036,7 @@ kathryn,dlg,EntryList/172/Text,0,-1,하지만 그건 예상할 수 밖에 없는
 kathryn,dlg,EntryList/173/Text,0,-1,그리고 당신 가문의 과오로 인해 라신다가 더 이상 오랫동안 고통받지 않기를 바랍니다.
 kathryn,dlg,EntryList/174/Text,0,-1,나도 그렇게 희망해.
 kathryn,dlg,EntryList/175/Text,0,-1,이상한 곳이네.
-kathryn,dlg,EntryList/176/Text,0,-1,"토름이 우리를 지켜주셔서 감사하지만, 그 냄새는 매우 불쾌합니다!"
+kathryn,dlg,EntryList/176/Text,0,-1,"토름이시여, 냄새가 아주 고약하군요!"
 kathryn,dlg,EntryList/177/Text,0,-1,"나온 것 같아, 그 버섯들이 있는 곳에서."
 kathryn,dlg,EntryList/178/Text,0,-1,그리고... 오... 티르에 의해... 얼마나 냄새가 나는지!
 kathryn,dlg,EntryList/179/Text,0,-1,"그리고... 전쟁의 주군, 그 끔찍한 냄새가 뭐죠?"
@@ -5221,7 +5221,7 @@ kathryn,dlg,EntryList/81/Text,0,-1,에드거의 사촌인 아드미랄 아이스
 kathryn,dlg,EntryList/82/Text,0,-1,트루실버스 가문은 늘 파이어 나이브즈의 표적 목록 상단에 올라 있었지. 그 정도는 나도 알고 있어.
 kathryn,dlg,EntryList/83/Text,0,-1,어렸을 때 항상 친절했지 에드거.
 kathryn,dlg,EntryList/84/Text,0,-1,"저는 아버지께 작은 상징이 무엇을 의미하는지 물었습니다. 저는 그 작은 상징을 들은 적이 있다는 생각이 들었지만, 어디서 들은 것인지 기억나지 않았습니다. 아버지는 매우 겁에 질려서, 어디서 보았는지 물었습니다. 제가 그 장소를 말했을 때, 그는 너무 충격을 받아 앉아야 했습니다."
-kathryn,dlg,EntryList/85/Text,0,-1,"난 완전히 바보였어, <FirstName>. 작은 상징은 불 칼의 상징이었어, 코르미르 귀족을 살해하는 데 헌신한 암살자 집단인 파이어 나이프스의 상징이었어. 에피는 천천히 나를 훈련시켜, 내가 그들을 위해 훔칠 수도 있고, 어쩌면 나를 채용할 수도 있었다. 에피가 에이전트로 밝혀지자, 그녀는 도망쳤어. 더 나쁜 것은, 나는 내 자신의 생명을 심각한 위험에 빠뜨렸어."
+kathryn,dlg,EntryList/85/Text,0,-1,"난 완전히 바보였어, <FirstName>. 그 작은 문장은 코르미르의 귀족들을 암살하는 데 헌신하는 암살자 집단인 파이어 나이프의 문장이었어. 에피는 나를 서서히 훈련시켜 그들을 위해 도둑질을 시키거나, 어쩌면 나를 조직원으로 끌어들이려 했던 거야. 에피가 첩자로 드러나자 그녀는 도망쳐버렸지. 설상가상으로 나 스스로를 심각한 위험에 빠뜨린 셈이었어."
 kathryn,dlg,EntryList/86/Text,0,-1,그래서 아버지께서 저를 매우 감시하셨죠. 불 칼은 언젠가는 날 찾아올 겁니다.
 kathryn,dlg,EntryList/87/Text,0,-1,난 귀족이고 다른 사람들처럼 좋은 표적이죠. 누가 알죠?
 kathryn,dlg,EntryList/88/Text,0,-1,"어쨌든, 지금은 그 문제를 걱정할 이유가 없어, 그렇나? 다른 것이 필요하진 않나?"
@@ -5394,7 +5394,7 @@ keeper,dlg,EntryList/14/Text,0,-1,"오, 그런 것에는 관심 없어! 빛줄�
 keeper,dlg,EntryList/15/Text,0,-1,"구경하고 싶다면 아래층으로 내려가야 할 겁니다. 아래쪽은 조심하세요. 주인이 트로글로다이트들을 시켜 오래된 통로 중 일부를 치우게 만들었거든요. 주인이 뭔가 찾아내려는 참입니다. 그 트로그들은 불쾌한 녀석들이고, 길들였든 아니든 사악한 본성을 갖고 있거든요."
 keeper,dlg,EntryList/16/Text,0,-1,"마녀주들이 이 성을 가졌던 시절의 잔해들 중 일부는 있다고 생각합니다. 예배당에는 일종의 문이 있지만, 그것은 이 성의 차원에 맞지 않는 무더운 동굴에 들어갑니다. 그것은 매력적인 개념이 아니겠습니까?"
 keeper,dlg,EntryList/17/Text,0,-1,"그 방에 무엇이 있는지 잘 모르겠지만, 그 안은 냄새가 나 보다. 언급하지 않았다면 말이다."
-keeper,dlg,EntryList/18/Text,0,-1,와이버너? 물론 보셨겠죠? 그들은 대부분 성 지붕에 살고 있습니다. 매우 쾌적한 생물은 아니지만 주인이 그들을 통제하고 있습니다. 아마 키스톤은 그들의 둥지에 있을지도 모르겠습니다. 단순히 냄새만으로도 모든 사람들을 멀리하게 만듭니다!
+keeper,dlg,EntryList/18/Text,0,-1,"와이번들이요? 물론 보셨겠죠? 대개 성 지붕에 살고 있답니다. 그리 유쾌한 생물은 아니지만, 주인님이 통제하고 계시지요. 아마 키스톤은 그들의 둥지인지 뭔지 하는 곳에 있을 겁니다. 냄새만으로도 사람들이 접근을 못 하니까요!"
 keeper,dlg,EntryList/19/Text,0,-1,발과 피나클
 keeper,dlg,EntryList/2/Text,0,-1,"아니요. 주인님께서 저를 오래된 도서관에 보내어 그것을 언급하는 모든 책을 가져오게 하셨어요. 왜 그런지는 모르겠지만, 주인님께서 와이번 왕관에 대해 걱정하고 계신 것 같아요."
 keeper,dlg,EntryList/20/Text,0,-1,"잘 모르겠지만, 계속해."
@@ -5596,7 +5596,7 @@ lacinda,dlg,EntryList/217/Text,0,-1,그리고... 오... 티르에 의해... 얼�
 lacinda,dlg,EntryList/218/Text,0,-1,"그리고... 전쟁의 주군, 그 끔찍한 냄새가 뭐죠?"
 lacinda,dlg,EntryList/219/Text,0,-1,그리고... 오... 달콤한 라탄더... 냄새가 얼마나 나는지!
 lacinda,dlg,EntryList/22/Text,0,-1,"If we are to be squires, I think we will have to behave better to the ladies, <FirstName>."
-lacinda,dlg,EntryList/220/Text,0,-1,"토름이 우리를 지켜주셔서 감사하지만, 그 냄새는 매우 불쾌합니다!"
+lacinda,dlg,EntryList/220/Text,0,-1,"토름이시여, 냄새가 아주 고약하군요!"
 lacinda,dlg,EntryList/221/Text,0,-1,"나온 것 같아, 그 버섯들이 있는 곳에서."
 lacinda,dlg,EntryList/222/Text,0,-1,"다리 위에 조심해, 미끄러워."
 lacinda,dlg,EntryList/223/Text,0,-1,"이 다리는 꽤 최근에 들어왔고, 몇 년 동안 성의 일부가 잔해로 가득한 것 같고, 와이번바포는 그것을 파고 내려고 해"
@@ -5668,7 +5668,7 @@ lacinda,dlg,EntryList/282/Text,0,-1,우린 성을 찾았습니다.
 lacinda,dlg,EntryList/283/Text,0,-1,"지금은 미살라를 찾아야 한다. 이 장치를 정지시킬 방법을 찾는 게 그리 쉽지는 않을 것 같다. 내가 읽어본 바에 따르면, 네테레스인들은 미살라의 통제를 그렇게 쉽게 허용하지 않았으니까."
 lacinda,dlg,EntryList/284/Text,0,-1,더 많이 기억했으면 좋았겠지만...
 lacinda,dlg,EntryList/285/Text,0,-1,"당신의 지식은 우리에게 귀중할 것임을 확신합니다, 라키나다."
-lacinda,dlg,EntryList/286/Text,0,-1,"에드거님, 당신의 믿음은 참으로 칭찬이지만, 불행히도 그것은 잘못된 것 같습니다."
+lacinda,dlg,EntryList/286/Text,0,-1,"에드거, 당신의 믿음은 참으로 고맙지만 불행히도 잘못된 곳을 향한 것 같군요."
 lacinda,dlg,EntryList/287/Text,0,-1,난 우리 문제들의 끝이 멀지 않은지 확신합니다.
 lacinda,dlg,EntryList/288/Text,0,-1,이제 드래곤을 찾는 거야. 정말 믿을 수 없지? 드래곤을 찾고 있어! 역사서에서 읽은 드래곤 이야기 같아...
 lacinda,dlg,EntryList/289/Text,0,-1,"""그리고 캐서린과 <FirstName>이 위대한 성으로 다가갔다..."""
@@ -5680,7 +5680,7 @@ lacinda,dlg,EntryList/293/Text,0,-1,"왕국의 문제들 중 일부는 그의 �
 lacinda,dlg,EntryList/294/Text,0,-1,"얘야, 상상력이 또 지나치구나. 드래곤은 어린 시절 동화에 나오는 게 아니라 위험하고 심술궂은 도마뱀이라는 걸 기억하려무나. 어쨌든 우리는 드래곤이 아니라 미살라를 찾고 있다."
 lacinda,dlg,EntryList/295/Text,0,-1,실제로는 와이번바포르가 위험한 용이 아니라는 말을 들어봤습니다.
 lacinda,dlg,EntryList/296/Text,0,-1,잘 알게 될 거라 생각해.
-lacinda,dlg,EntryList/297/Text,0,-1,이 곳은 해골고장이야!
+lacinda,dlg,EntryList/297/Text,0,-1,이곳은 납골당이야!
 lacinda,dlg,EntryList/298/Text,0,-1,싸움 소리가 들리나? 안에서 전투가 벌어지고 있는 것 같아!
 lacinda,dlg,EntryList/299/Text,0,-1,주변에 녀석들이 더 있을 거야. 어서 몇 마리라도 죽이고 싶군. 레나의 죽음은 대가를 치르게 해야 해!
 lacinda,dlg,EntryList/3/Text,0,-1,"코르메릴이 무기를 들기란 어려운 시대에도 불구하고 비난받는 일이니, 나는 다른 기술을 배우는 데 시간을 보냈다. 어려운 시기에는 숨기고 속이는 방법에 의존해야 했고, 도난조차 부끄러워 인정하기를 꺼린다."
@@ -5775,7 +5775,7 @@ lacinda,dlg,EntryList/90/Text,0,-1,네?
 lacinda,dlg,EntryList/91/Text,0,89922,나는 거의 즐거워하고 있다고 말할 수 있겠나? 나는 마침내 의미 있는 일을 하고 있는 것 같아.
 lacinda,dlg,EntryList/92/Text,0,-1,"어쨌든, 더 필요한 게 없나요?"
 lacinda,dlg,EntryList/93/Text,0,-1,"나는 참을성이 없어, <FirstName>. 이 모든 걸 끝내고 승리가 우리의 것 같으면 좋겠어. 그렇지 않아도 괜찮아."
-lacinda,dlg,EntryList/94/Text,0,89931,"상처와 파열음이 몇 개 있지만, 정신을 둔화시키는 것은 없어. 우리 일정을 계속하자."
+lacinda,dlg,EntryList/94/Text,0,89931,"약간 긁히고 멍이 들긴 했지만, 내 의지를 꺾을 정도는 아니야. 자, 우리의 임무를 계속하자고."
 lacinda,dlg,EntryList/95/Text,0,-1,그럼 다른 일은 없나?
 lacinda,dlg,EntryList/96/Text,0,89932,"나는 지금 좀 나빠졌어, <FirstName>. 이 상처는 날 죽일 정도는 아니지만 고통스러워."
 lacinda,dlg,EntryList/97/Text,0,89933,나는 피를 흘리고 심하게 다쳤다.
@@ -5983,7 +5983,7 @@ latim,dlg,EntryList/15/Text,0,-1,"라틴, 내가 이 <man/woman>로 가야겠어
 latim,dlg,EntryList/16/Text,0,-1,"<StartAction>[Success]</Start> Latim, I think I must go with this <man/woman> or <he/she> will hurt you."
 latim,dlg,EntryList/17/Text,0,-1,"엘레오너 내 꽃, 만약 그것이 네 바람이라면, 함께 있을 수 있는 방법을 찾아볼까 합니다."
 latim,dlg,EntryList/18/Text,0,-1,지금 그녀를 돌봐라 아니면 나뿐만 아니라 내 아버지도 책임을 질 거야
-latim,dlg,EntryList/19/Text,0,-1,"<sir/madam>, 따라오겠습니다."
+latim,dlg,EntryList/19/Text,0,-1,"갑시다, <sir/madam>. 따라오십시오."
 latim,dlg,EntryList/2/Text,0,-1,우리가 계획을 가지고 있어.
 latim,dlg,EntryList/20/Text,0,-1,엄마는 절대 이해하지 못하겠지. 라티미와는 결혼해야 하지만 엄마는 그냥 나를 아이로 생각해.
 latim,dlg,EntryList/21/Text,0,-1,"난 세미비아의 주인의 아들이고, 어떤 여자에게도 좋은 남편이야. 엘레너는 나를 선택할 권리가 있어."
@@ -6061,10 +6061,10 @@ londro,dlg,EntryList/31/Text,0,-1,날 출입 금지하겠다고? 하지만...
 londro,dlg,EntryList/32/Text,0,-1,만더는 나를 여기서 막지 않을 거야. 나는 그의 최고의 고객이야!
 londro,dlg,EntryList/33/Text,0,-1,"<StartAction>[성공]</Start>이런 비열한 수법을 쓰다니... 하지만, 알았어. 제길, 술은 끊겠다고!"
 londro,dlg,EntryList/34/Text,0,-1,뭐? 난...
-londro,dlg,EntryList/35/Text,0,-1,날려버리지... 난 당신을 무서워하지 않아!
+londro,dlg,EntryList/35/Text,0,-1,날 겁주려고... 난 안 무서워!
 londro,dlg,EntryList/36/Text,0,-1,"<StartAction>[성공] </Start> 아주 잘, 나는 당신에게 맹세를 합니다. 술을 끊을 것입니다."
 londro,dlg,EntryList/37/Text,0,-1,그래!
-londro,dlg,EntryList/38/Text,0,-1,맥주가 들어가지 않으면 맹세를 기억하길 바라겠습니다!
+londro,dlg,EntryList/38/Text,0,-1,술이 깨도 그 맹세를 기억하고 있기를 빌어야겠군요!
 londro,dlg,EntryList/39/Text,0,-1,"아니, 그런 맹세는 하고 싶지 않아!"
 londro,dlg,EntryList/4/Text,0,-1,"알겠습니다, 맥주 가격이 올라갔다고요. 하지만 제가 아는 게 별로 없습니다. 저는 하루 종일 수강장에서 일합니다."
 londro,dlg,EntryList/40/Text,0,-1,"<StartAction>[성공] </Start> 아주 잘, 나는 당신에게 맹세를 합니다. 술을 끊을 것입니다."
@@ -6188,7 +6188,7 @@ londro,dlg,ReplyList/66/Text,0,-1,그럴 만하네. 내가 실패했으니 네�
 londro,dlg,ReplyList/68/Text,0,-1,이 일로 당신을 신고할 거야!
 londro,dlg,ReplyList/69/Text,0,-1,"아니, 너랑은 이제 족해."
 londro,dlg,ReplyList/7/Text,0,-1,"고마워, 그만해"
-londro,dlg,ReplyList/71/Text,0,-1,반정신으로 널 때리고 싶네.
+londro,dlg,ReplyList/71/Text,0,-1,네 녀석을 당장 쓰러뜨리고 싶군.
 londro,dlg,ReplyList/73/Text,0,-1,거짓말인 거 알아. 팔라딘은 속일 수 없어.
 londro,dlg,ReplyList/74/Text,0,-1,별로 신경 쓰지 않는 것 같아.
 londro,dlg,ReplyList/75/Text,0,-1,그래 보인다.
@@ -6286,7 +6286,7 @@ magnus,dlg,ReplyList/11/Text,0,-1,아뇨
 magnus,dlg,ReplyList/12/Text,0,-1,그렇소.
 magnus,dlg,ReplyList/13/Text,0,-1,상점에서요.
 magnus,dlg,ReplyList/14/Text,0,-1,나는 몸이 불편하다. 아마도 당신이 도와줄 수 있을 것 같아?
-magnus,dlg,ReplyList/15/Text,0,-1,그 정도면 고마워.
+magnus,dlg,ReplyList/15/Text,0,-1,"그 정도면 됐어, 고마워."
 magnus,dlg,ReplyList/16/Text,0,-1,저에게 저주받은 물건이 있어.
 magnus,dlg,ReplyList/18/Text,0,-1,여기 있네
 magnus,dlg,ReplyList/19/Text,0,-1,약화 효과를 치료해 줘야 한다.
@@ -6391,7 +6391,7 @@ magurk,dlg,EntryList/3/Text,0,-1,"<FirstName>, 이제 내가 당신을 충분히
 magurk,dlg,EntryList/30/Text,0,-1,"하! 그건 저도 이미 다 대비해 뒀습니다. 자, 이리 오세요. 저 혼자 팔 하나로 상대해야 할 손님이 한둘이 아니라서요. 뭘 좀 사러 오신 건가요, 아니면 그냥 구경만 하시는 건가요?"
 magurk,dlg,EntryList/4/Text,0,-1,"전 왕의 십자군에서 투이건 호르드에 맞서 싸웠고, 코르미르의 봉사에서 팔을 잃었기에 기쁘고, 이기 때문이 아니라"
 magurk,dlg,EntryList/5/Text,0,-1,그 정도면 충분하네요. 무엇을 사려고 하시나요?
-magurk,dlg,EntryList/6/Text,0,-1,"이제 그야말로 용기와 로맨스의 이야기입니다. 어떻게 아내를 얻었는지, 그녀가 이미 죽었지만 라탄더는 그녀의 기억을 축복하리라. 그녀는 이미 나와 약혼되어 있었지만 노예들에게 훔쳐갔어요."
+magurk,dlg,EntryList/6/Text,0,-1,"그야말로 용기와 로맨스의 이야기지요. 아내를 어떻게 얻었냐면요, 비록 지금은 고인이 되었지만 라탄더께서 그녀의 영혼을 축복하시기를. 원래 저와 약혼한 사이였는데, 노예상들에게 납치당했었답니다."
 magurk,dlg,EntryList/7/Text,0,-1,난 그녀를 따라 바다를 건너 먼 땅으로 폭풍과 해적 공격을 겪으며 노예들의 항구까지 갔어.
 magurk,dlg,EntryList/8/Text,0,-1,"제가 그녀를 도매장에서 벗어난 순간 다시 훔쳤어요. 시장 중앙에서 그녀의 새로운 '주인'에게 머리를 쳤고, 어깨에 업어버렸습니다. 물론 제가 잡혔죠. 그들은 저를 도둑으로 비난했고, 벌은 팔이었습니다. 더 심해질뻔 했지만, 판사는 제 이야기에 너무 동요되어 둘 다 풀어주었습니다."
 magurk,dlg,EntryList/9/Text,0,-1,"그 시절 저는 헐타일 근처에서 모험을 하곤 했습니다. 그 이유를 기억나지 않지만, 어떤 이유에서인지 저는 몇몇 남자들과 함께 빈 죽음의 상자들로 가득한 카트를 타고 웨일론으로 내려갔습니다."
@@ -6446,7 +6446,7 @@ mander,dlg,EntryList/3/Text,0,-1,미아라고 안 될 건 또 뭔데? 진짜 지
 mander,dlg,EntryList/30/Text,0,-1,"<FirstName>, 관심 있는 분이라면 헐타일 스피릿이 있으나 재고가 줄어들고 있습니다..."
 mander,dlg,EntryList/4/Text,0,-1,"왜냐하면 그렇지 않은 것처럼, 그것은 커스트가 그것을 보호하고, 그리고 이 훌륭한 <man/woman>는 커스트와 싸우는 것을 기대하지 않습니다."
 mander,dlg,EntryList/5/Text,0,-1,스트는 습지에 살고 있습니다. 이곳은 썬더스톤으로 가는 도로 근처에 있습니다. 지역적 지식입니다. 그리고 도로가 가로지르는 하천을 따라 습지에 도달할 수 있습니다.
-mander,dlg,EntryList/6/Text,0,-1,"하지만 지도가 없다면, 당신은 단지 저주를 받은 곳을 찾을 수 있을 뿐, 보물은 찾을 수 없을 것입니다."
+mander,dlg,EntryList/6/Text,0,-1,하지만 지도가 없다면 보물이 아니라 저주받은 것들만 찾게 될 겁니다. 그게 핵심이죠.
 mander,dlg,EntryList/7/Text,0,-1,<CUSTOM1008> 골든 라이언들?
 mander,dlg,EntryList/8/Text,0,-1,"여기 네 지도가 있어, 코르스트가 널 기다리고 있을 때 대비해"
 mander,dlg,EntryList/9/Text,0,-1,"아쉽지만, 한두 해 더 기다리면 다른 사람이 나타날지도 모르죠!"
@@ -6544,7 +6544,7 @@ manthia,dlg,ReplyList/43/Text,0,-1,지금 그렇게 하겠소.
 manthia,dlg,ReplyList/44/Text,0,-1,숲민족은 아무것도 할 수 없나요?
 manthia,dlg,ReplyList/45/Text,0,-1,정보 주셔서 고마워.
 manthia,dlg,ReplyList/46/Text,0,-1,다른 질문을 해도 될까요?
-manthia,dlg,ReplyList/5/Text,0,-1,뇌물에는 관심이 없어. 제 문제가 있어.
+manthia,dlg,ReplyList/5/Text,0,-1,뇌물 따위엔 관심 없어. 내 일만으로도 골치 아프니까.
 manthia,dlg,ReplyList/6/Text,0,-1,거절해야 합니다. 다른 의무가 있어서요.
 manthia,dlg,ReplyList/7/Text,0,-1,안녕
 manthia,dlg,ReplyList/8/Text,0,-1,좋은 기회가 된다면 조사해 보겠습니다. 당신은 무엇을 알 수 있나요?
@@ -6578,7 +6578,7 @@ manthia2,dlg,EntryList/31/Text,0,-1,왜 안 그래?
 manthia2,dlg,EntryList/32/Text,0,-1,숲에서 강은 살아남을 수 있지만 약은 함께 살지 못하면 자연의 방식입니다.
 manthia2,dlg,EntryList/33/Text,0,-1,"한쪽의 눈에는 눈, 이에는 이지. 아니면 숲의 주민들이 헌트크라운 경보다 못하다는 거요?"
 manthia2,dlg,EntryList/34/Text,0,-1,우리는 당신이 믿음으로 우리에게 말했다... 그래서 그는 살아 있을 것이다.
-manthia2,dlg,EntryList/35/Text,0,-1,우리가 도움을 주신 것을 감사드립니다. 폰터 요새에 대한 정보를 드립니다.
+manthia2,dlg,EntryList/35/Text,0,-1,도와주셔서 감사합니다. 감사의 뜻으로 폴터 요새에 대한 정보를 제공해 드리겠습니다.
 manthia2,dlg,EntryList/36/Text,0,-1,"우리는 슬퍼하고, 우리가 당신을 위해 뭔가를 찾을 수 있기를 바랬습니다. 우리는 사냥을 기다릴 수 없습니다. 우리는 더 깊은 숲으로 철수해야 할 것입니다. 이 이유로, 우리는 다시 만날 수 없습니다."
 manthia2,dlg,EntryList/37/Text,0,-1,"하지만 우리가 떠나기 전에, 당신을 위해 뭔가를 가지고 있습니다."
 manthia2,dlg,EntryList/4/Text,0,-1,원하는 대로
@@ -6664,7 +6664,7 @@ margery,dlg,EntryList/9/Text,0,-1,지금 생각해보면 라티미 베이의 아
 margery,dlg,ReplyList/0/Text,0,-1,"감사하지만, 없습니다."
 margery,dlg,ReplyList/1/Text,0,-1,도와줄 수 있어?
 margery,dlg,ReplyList/12/Text,0,-1,난 개입하지 않을 거야
-margery,dlg,ReplyList/14/Text,0,-1,나는 그들과 대화를 나눴고 엘레너는 이 세미비아인에 대해 매혹되어 보인다.
+margery,dlg,ReplyList/14/Text,0,-1,그들과 이야기를 나누어 보니 엘레너가 이 세미비아인에게 푹 빠져 있는 것 같다.
 margery,dlg,ReplyList/15/Text,0,-1,"아니, 결혼하고 싶지만, 내가 설득해 왔어"
 margery,dlg,ReplyList/16/Text,0,-1,라티름 베이는 명예로운 사람으로 보였다.
 margery,dlg,ReplyList/19/Text,0,-1,이 문제는 해결되었네요.
@@ -6691,13 +6691,13 @@ margery,dlg,ReplyList/46/Text,0,-1,너스레는 그만 떨어. 그녀는 나타�
 margery,dlg,ReplyList/48/Text,0,-1,내게 어떤 이익이 있는가?
 margery,dlg,ReplyList/49/Text,0,-1,내가 그녀를 찾아볼 수 있어.
 margery,dlg,ReplyList/50/Text,0,-1,내가 뭘 할 수 있는지 보자
-margery,dlg,ReplyList/51/Text,0,-1,어디를 찾아볼지 모르겠나?
+margery,dlg,ReplyList/51/Text,0,-1,어디를 찾아봐야 할지 감이 좀 오나?
 margery,dlg,ReplyList/52/Text,0,-1,당신의 딸과 함께 목격된 세미비안에 대해 더 자세히 말해 줄 수 있나요?
 margery,dlg,ReplyList/53/Text,0,-1,"왜, 무엇이 문제인가요?"
 margery,dlg,ReplyList/6/Text,0,-1,라틴 베이는 쓰레기 같았어. 아마 노예상이었겠지.
 margery,dlg,ReplyList/9/Text,0,-1,라티름 베이는 매우 명예롭고 정직한 것 같았습니다.
 market,dlg,EntryList/0/Text,0,-1,- 무엇이 필요하신가요?
-market,dlg,EntryList/1/Text,0,-1,"제가 말씀드렸듯이, 저는 격문에 큰 관심이 없습니다."
+market,dlg,EntryList/1/Text,0,-1,"말씀드렸다시피, 저는 험담 따위에는 별 관심이 없습니다."
 market,dlg,EntryList/10/Text,0,-1,그건 별로 스포츠맨답지 않은 짓이야. 상대에 대한 정보를 모으는 것과 일부러 방해하는 것은 다르지.
 market,dlg,EntryList/11/Text,0,-1,"레디 아리안네 피츠코르메릴이 주스트에 참여한다는 소문이 많이 돌고 있습니다. 그녀는 코르메릴과 관련이 있기 때문이지만, 그녀가 주스트에서 뛰어난 실력자라는 점도 큰 이유입니다. 하지만 창이 그녀에게는 약간 무거워, 종종 방패의 바닥 부분을 공격합니다. 최근에 조기 와이번스퍼는 그녀를 주스트에서 물리쳤는데, 한 쪽으로 기울어진 것이 결정적이었습니다."
 market,dlg,EntryList/12/Text,0,-1,<StartAction>[만약 원하시면 완료된 섹션에 이 내용을 추가할 수 있습니다.]</Start>
@@ -6761,7 +6761,7 @@ market,dlg,EntryList/64/Text,0,-1,우리는 모두 매우 흥분해 있습니다
 market,dlg,EntryList/65/Text,0,-1,"그는 유명한 창 시합 선수입니다. 그를 구경하는 건 아주 흥미롭겠지만, 제 사촌 말로는 그가 항상 투구를 노린다고 하더군요. 기사들이 투구를 그냥 숙이기만 해도 누구나 그를 이길 수 있을 겁니다!"
 market,dlg,EntryList/66/Text,0,-1,<CUSTOM1064>을 보고 싶어요. 그는 도보로도 용감한 싸움꾼으로 알려져 있습니다.
 market,dlg,EntryList/67/Text,0,-1,다음 토너먼트에 대한 주요 대화입니다. 나는 <CUSTOM1063>이 좋은 기회를 가지고 있다고 생각합니다. 그렇지 않나? 그의 주요 약점은 항상 왼쪽으로 낮은 곳을 목표로 하는 것이라고 할 수 있습니다.
-market,dlg,EntryList/68/Text,0,-1,"그는 너무 자주 그렇게 하지만, 적대자가 충분히 오른쪽으로 기울어진다는 것만으로도 쉽게 점수를 얻는 것 같아 보입니다. 랜스를 깨트리는 것은 그의 전문가처럼 보입니다."
+market,dlg,EntryList/68/Text,0,-1,"그는 너무 자주 그러지만, 적들이 충분히 오른쪽으로 기울어지는 덕분에 승리를 거두는 것 같군. 랜스 부수기로 쉽게 점수를 따는 게 그의 특기인 모양이야."
 market,dlg,EntryList/69/Text,0,-1,"사실, 한 번 마르세ಂಬರ್에서 운전을 봤는데, 그도 똑같은 짓을 했다."
 market,dlg,EntryList/7/Text,0,-1,사실인지 모르겠네요.
 market,dlg,EntryList/70/Text,0,-1,<CUSTOM1062>는 다음 대회의 창 시합에서 꽤 주목받지만 늘 낮게 겨누지. 다른 기사 중 하나가 방패만 내리지 않으면 쉽게 이길 것 같아.
@@ -6867,7 +6867,7 @@ matron,dlg,EntryList/28/Text,0,-1,그런 것 같군요. 론드로가 우리에�
 matron,dlg,EntryList/29/Text,0,-1,"아마 그가 이렇게 반응한다면, 나는 이미 그에게 지불하고 있는 좋은 임금을 잊을 수도 있고, 그의 머리 위에 있는 지붕까지 잊을 수도 있을 거야."
 matron,dlg,EntryList/3/Text,0,-1,안녕하세요
 matron,dlg,EntryList/30/Text,0,-1,술 취한 사람의 말로 살인을 저지르겠나?
-matron,dlg,EntryList/31/Text,0,-1,날 죽이면 코르미르 전역에서 도적으로 몰릴 거야!
+matron,dlg,EntryList/31/Text,0,-1,나를 죽이면 코르미르 전역에서 지명수배자가 될 거야!
 matron,dlg,EntryList/32/Text,0,-1,"그런 식으로 말해서, 우리가 할 수 있는 모든 것을 해냈는지?"
 matron,dlg,EntryList/33/Text,0,-1,"<FirstName>, 그녀 말이 맞아. 일이 걷잡을 수 없게 됐어. 론드로에게 실패했다고 알리러 가자."
 matron,dlg,EntryList/34/Text,0,-1,<StartAction>[성공]</Start> 매우 잘...<StartAction>[매트론은 문장 조각에 스크롤합니다.]</Start>
@@ -6922,8 +6922,8 @@ matron,dlg,ReplyList/7/Text,0,-1,나는 론드로가 술을 그만두겠다고 �
 matron,dlg,ReplyList/9/Text,0,-1,"아니, 다 됐어"
 meleemaster,dlg,EntryList/0/Text,0,-1,걸어오세요. 근접전에 참여하고 싶다면 걸어오세요!
 meleemaster,dlg,EntryList/1/Text,0,-1,그래 <sir/madam>
-meleemaster,dlg,EntryList/2/Text,0,-1,확실히. 무엇이죠?
-meleemaster,dlg,EntryList/3/Text,0,-1,여기 다른 나라에서 온 몇몇 전문가들이 있습니다. 우리는 그들에 대해 별로 알지 못합니다. 반엘프 여성 피브링 크로운은 꽤 인기 있습니다. 무기전에서도 사이라 브론 퓨트슬버는 명성을 얻기 시작했습니다.
+meleemaster,dlg,EntryList/2/Text,0,-1,물론입니다. 무엇인가요?
+meleemaster,dlg,EntryList/3/Text,0,-1,여기 우리가 잘 모르는 다른 땅 출신의 전문가들이 꽤 있습니다. 반엘프 여인 피브링 크로운은 꽤 인기가 있습니다. 브론 헌트실버 경도 근접전에서 명성을 얻고 있고요.
 meleemaster,dlg,EntryList/4/Text,0,-1,"물론 아직 모든 사람이 이름을 밝히지는 않았지만, 로웬 트루실버 여인이 들어간다면 인기가 많을 거예요. 에드거 경은 그녀의 사촌이라서 그녀가 참가하면 인기가 많을 것입니다. 하지만 마르드 패튼은 지역 챔피언이므로, 사람들이 그를 지지할 거예요."
 meleemaster,dlg,EntryList/5/Text,0,-1,"스탠다드 썬더스톤 규칙, <sir/madam>. 모든 전투자들은 무기를 들고 걸로 싸우고, 한 명이 남기기 전까지 싸우고, 혼자나 동원들과 함께 갈 수 있고, 원하는 것을 함께 싸워갈 수 있습니다. 우리는 더 많은 피를 흘리는 상처를 위해 준비된 라탄더의 사제입니다. 아직까지 사망자가 없었습니다."
 meleemaster,dlg,EntryList/6/Text,0,-1,"아슬아슬한 경기가 몇 번 있었지... 관중을 정말 열광시킨 경기들이었어! 어쨌든 가장 많이 '처치한' 사람의 상금은 금화 100라이언이고, 마지막까지 살아남은 사람에게도 금화 20라이언을 줘."
@@ -6940,7 +6940,7 @@ meleemaster,dlg,ReplyList/6/Text,0,-1,규칙은 뭐예요?
 meleemaster,dlg,ReplyList/8/Text,0,-1,나가고 싶어요.
 mia,dlg,EntryList/0/Text,0,-1,"현재는 아니에요, 사랑하는 분. 좀 바빠요."
 morfen,dlg,EntryList/0/Text,0,-1,- 무엇이 필요하신가요?
-morfen,dlg,EntryList/1/Text,0,-1,"제가 말씀드렸듯이, 저는 격문에 큰 관심이 없습니다."
+morfen,dlg,EntryList/1/Text,0,-1,"말씀드렸다시피, 저는 험담 따위에는 별 관심이 없습니다."
 morfen,dlg,EntryList/10/Text,0,-1,오버스워드 라헤럴슨이 공주 알루사이어와 관계를 맺었어야 한다고 생각합니다. 그렇지 않으면 그녀는 그의 이색적인 행동에 대해 아무런 대응도 하지 않는 것을 용납할 수 없을 것이라고 생각합니다!
 morfen,dlg,EntryList/11/Text,0,-1,요즘 세상엔 사람들이 참 별일도 다 뻔뻔하게 넘긴단 말이야.
 morfen,dlg,EntryList/12/Text,0,-1,공주 경관에 대한 의견을 어떻게 표현하느냐에 대해 조심해야 합니다.
@@ -6994,7 +6994,7 @@ morfen,dlg,EntryList/55/Text,0,-1,<CUSTOM1064>가 대회에 출전할 것이라�
 morfen,dlg,EntryList/56/Text,0,-1,"그는 유명한 창 시합 선수입니다. 그를 구경하는 건 아주 흥미롭겠지만, 제 사촌 말로는 그가 항상 투구를 노린다고 하더군요. 기사들이 투구를 그냥 숙이기만 해도 누구나 그를 이길 수 있을 겁니다!"
 morfen,dlg,EntryList/57/Text,0,-1,<CUSTOM1064>을 보고 싶어요. 그는 도보로도 용감한 싸움꾼으로 알려져 있습니다.
 morfen,dlg,EntryList/58/Text,0,-1,썬더스톤의 대회에 대한 이야기가 한창입니다. <CUSTOM1063>가 우승할 가능성이 높다고 보지 않나요? 그의 가장 큰 약점은 항상 왼쪽 아래를 겨냥한다는 것입니다.
-morfen,dlg,EntryList/59/Text,0,-1,"그는 너무 자주 그렇게 하지만, 적대자가 충분히 오른쪽으로 기울어진다는 것만으로도 쉽게 점수를 얻는 것 같아 보입니다. 랜스를 깨트리는 것은 그의 전문가처럼 보입니다."
+morfen,dlg,EntryList/59/Text,0,-1,"그는 너무 자주 그러지만, 적들이 충분히 오른쪽으로 기울어지는 덕분에 승리를 거두는 것 같군. 랜스 부수기로 쉽게 점수를 따는 게 그의 특기인 모양이야."
 morfen,dlg,EntryList/6/Text,0,-1,지난주에 론드로가 에일을 너무 많이 마시고 술집 문에 도끼를 던지기 시작했어. 나무에 난 자국이 아직도 보여.
 morfen,dlg,EntryList/60/Text,0,-1,"사실, 한 번 마르세ಂಬರ್에서 운전을 봤는데, 그도 똑같은 짓을 했다."
 morfen,dlg,EntryList/61/Text,0,-1,<CUSTOM1062>는 다음 대회의 창 시합에서 꽤 주목받지만 늘 낮게 겨누지. 다른 기사 중 하나가 방패만 내리지 않으면 쉽게 이길 것 같아.
@@ -7234,7 +7234,7 @@ purpledragon1,dlg,EntryList/14/Text,0,-1,호클린 경의 성은 썬더스톤의
 purpledragon1,dlg,EntryList/15/Text,0,-1,시내 남쪽 끝에 있습니다.
 purpledragon1,dlg,EntryList/16/Text,0,-1,템푸스 성지는 모든 사람들을 위한 곳입니다. 주요 광장으로 가서 남쪽에 위치해 있습니다.
 purpledragon1,dlg,EntryList/17/Text,0,-1,"가까운 곳은 잊어버려. 최고의 여관은 광장 동쪽의 퍼니처스 페이트야. 다리에서 가장 가까운 선더 사인은 그 절반도 못 하고, 곰의 소굴은 물론 지금은 문을 닫았지."
-purpledragon1,dlg,EntryList/18/Text,0,-1,"저는 번개의 표시를 추천합니다. 그것은 다리 근처에 있습니다. 물론 가구 운명도 있지만, 실제로는 너무 시끄러워요. 그런 곳이 더 맞다면, 광장 동쪽에 있습니다."
+purpledragon1,dlg,EntryList/18/Text,0,-1,"천둥의 간판 여관을 추천합니다. 다리와 가장 가까운 곳이죠. 물론 여행객들을 맞이하는 가구의 운명 여관도 있지만, 거기는 안이 너무 시끄러워집니다. 그런 분위기를 더 좋아하신다면 광장 동쪽에 있습니다."
 purpledragon1,dlg,EntryList/19/Text,0,-1,"썬더스톤에는 두 개의 숙소가 있는데, 곰 동굴은 닫혀 있고, 드래곤 동굴은 군인들을 환영합니다. 썬더스 힌트는 다리 근처에서 남동쪽으로 조금 떨어져 있습니다. 가구 운명은 주 광장의 동쪽에 있습니다. 둘 다 활기찬 장소입니다."
 purpledragon1,dlg,EntryList/2/Text,0,-1,요즘은 자기 돈을 벌어야 하는데 많은 사람들이 모험을 택할 겁니다.
 purpledragon1,dlg,EntryList/20/Text,0,-1,서둘러 가면 좋을 거야. 나는 직무를 수행 중이야.
@@ -7332,7 +7332,7 @@ salvatori1,dlg,EntryList/1/Text,0,-1,나가 어떻게 도와드릴 수 있나?
 salvatori1,dlg,EntryList/10/Text,0,-1,"저는 조나스 <LastName>이고, 이 분은 제 <brother/sister> <FirstName><CUSTOM1006>는요."
 salvatori1,dlg,EntryList/11/Text,0,-1,"아, 네, 내 새로운 농장을 빌려줄 거야?"
 salvatori1,dlg,EntryList/12/Text,0,-1,뭐? 그 소식은 정말 끔찍해! 어떻게 이런 일이 계속 발생할 수 있어!
-salvatori1,dlg,EntryList/13/Text,0,-1,"오, 당신들의 손실에 대해 매우 죄송합니다... 그리고 더 많은 농장이 타버렸습니다. 사람들이 죽었군요... 이런 랜더러들은 어디에서 오는 건가요?"
+salvatori1,dlg,EntryList/13/Text,0,-1,"오, 여러분의 피해에 대해 심심한 유감을 표합니다... 그리고 내 농장들도 더 불탔지요. 사람들이 죽어나가고... 이 약탈자들은 대체 어디서 오는 건가요?"
 salvatori1,dlg,EntryList/14/Text,0,-1,"현재 많은 습격이 일어나고 있습니다. 반드시 막아야 합니다! 가정이 파괴되고 사람들이 죽어가고 있습니다. 목재 사업까지 망가지고 있으며, 코르미르는 이를 감당할 여유가 없습니다."
 salvatori1,dlg,EntryList/15/Text,0,-1,"이 시대는 비즈니스를 하는 것이 어려운 시기이며, 더욱이 땅에서 생계를 유지하려는 가난한 사람들에게는 더욱 나쁜 시기입니다."
 salvatori1,dlg,EntryList/16/Text,0,-1,하지만 아마도 그 일을 막을 수 있는 사람은 아무도 없습니다.
@@ -7343,7 +7343,7 @@ salvatori1,dlg,EntryList/2/Text,0,-1,"네, 그렇습니다. 우리는 마찬가�
 salvatori1,dlg,EntryList/20/Text,0,-1,습격은 나도 큰 타격을 입었어. 이미 예방하는 데 많은 투자를 했지. 더 이상은 감당할 수 없어.
 salvatori1,dlg,EntryList/21/Text,0,-1,목재의 카라밴이 썬더스톤으로 향하고 있습니다. 우리가 도착할 때까지 경호자로 데려갈 수 있습니다. 썬더스톤에서 길버트 호클린 경을 찾아보세요.
 salvatori1,dlg,EntryList/22/Text,0,-1,확실해? 위험할 수도 있습니다.
-salvatori1,dlg,EntryList/23/Text,0,-1,"물론 그건 당신의 선택입니다. 하지만 모펜으로 가는 길은 곧 폐쇄될 가능성이 높기 때문에, 당신보다 먼저 여기서 모든 일을 마무리하는 것이 좋습니다."
+salvatori1,dlg,EntryList/23/Text,0,-1,"물론 그건 당신의 선택입니다. 하지만 곧 모펜으로 가는 길이 폐쇄될 것 같으니, 그 전에 여기서 볼일을 모두 마무리하는 것을 조언합니다."
 salvatori1,dlg,EntryList/24/Text,0,-1,"아니, 하지만 난 혼자 여행하는 것보다 더 안전한 방법을 제안해드릴게."
 salvatori1,dlg,EntryList/25/Text,0,-1,돈을 바라고 하는 게 아니라 안전을 위해 제안하는 거야. 받아들이든 말든 알아서 해. 내가 줄 수 있는 건 이게 전부니까.
 salvatori1,dlg,EntryList/26/Text,0,-1,"<StartAction>[성공]</Start> , 그래요. 아주 잘, 내가 당신에게 5 개의 황금 사자의 단방향 수수료를 지불할게요."
@@ -7373,7 +7373,7 @@ salvatori1,dlg,ReplyList/23/Text,0,-1,정보 감사합니다. 지금 가야 합�
 salvatori1,dlg,ReplyList/24/Text,0,-1,침략자들이 공격한 땅이 당신의 땅이었어. 어떻게 해야 하나?
 salvatori1,dlg,ReplyList/26/Text,0,-1,"우리는 돈이 없어서, 우리가 당신한테 빌린 것 같군. 도와줄 수 있겠니?"
 salvatori1,dlg,ReplyList/27/Text,0,-1,복수를 원합니다. 도와줄 수 있나요?
-salvatori1,dlg,ReplyList/28/Text,0,-1,"알았어, 그럼 나가게 될 거야"
+salvatori1,dlg,ReplyList/28/Text,0,-1,"알겠습니다, 그럼 이만 물러나겠습니다."
 salvatori1,dlg,ReplyList/29/Text,0,-1,도와줄 수 있는 것이 없나요?
 salvatori1,dlg,ReplyList/30/Text,0,-1,관심 없습니다. 혼자 여행할 거예요.
 salvatori1,dlg,ReplyList/31/Text,0,-1,생각을 바꾸었어. 당신과 함께 가겠어.
@@ -7406,7 +7406,7 @@ salvatori2,dlg,EntryList/17/Text,0,-1,"아무 문제도 없지, 말했듯이, �
 salvatori2,dlg,EntryList/18/Text,0,-1,토너먼트는 행운을 되찾을 수 있는 기회를 제공해야 합니다.
 salvatori2,dlg,EntryList/19/Text,0,-1,네가 <CUSTOM1023>이므로 조금 더 특별한 보상을 받을 자격이 있어. 강도들의 말 중 하나가 살아남았어. 네가 그걸 얻은 거야. 왜 그걸 안 받아볼까?
 salvatori2,dlg,EntryList/2/Text,0,-1,"<man/woman>, 썬더스톤으로 가자."
-salvatori2,dlg,EntryList/20/Text,0,-1,"아름다운 해가 뜨는 것 같네요, 그래도 적어도 빨간 하늘을 즐길 수 있을 것 같아."
+salvatori2,dlg,EntryList/20/Text,0,-1,"멋진 일출을 볼 수 있을 것 같네요, 붉은 하늘이 아주 예쁘겠어요. 어차피 억지로 보는 거니 즐기는 게 좋겠네요."
 salvatori2,dlg,EntryList/21/Text,0,-1,"We've got a spot of trouble. We'll have to stop here for a moment since the wheel is loose on that wagon. Make yourself useful and scout about, my <lad/lass>. I don't want to get caught unawares on the road."
 salvatori2,dlg,EntryList/22/Text,0,-1,"다른 곳보다도 안전하고, 반작동 바퀴가 있는 카는 차 없는 카보다 더 좋겠어. 만약 우리가 도망쳐야 한다면 카는 그렇게 계속 있을지도 몰라. 우리는 썬더스톤에서 멀지 않으니 괜찮을 거야. 하지만 주의를 기울여야 해."
 salvatori2,dlg,EntryList/23/Text,0,-1,"하지만, 우리는 그냥 앉아서 볼 수는 없어. 부동화를 지키는 중이고, 네가 지켜야 할 카라반이 있기 때문이다."
@@ -7464,7 +7464,7 @@ salvatori3,dlg,EntryList/37/Text,0,-1,아버지의 모든 돈을 빼앗는 것�
 salvatori3,dlg,EntryList/38/Text,0,-1,"Well, there's a sight I had not expected to see. So you're the one causing the disturbance in the castle, <FirstName>."
 salvatori3,dlg,EntryList/39/Text,0,-1,"I'm disappointed <FirstName>. You seemed such a sensible <lad/lass>, and after all I've done for you."
 salvatori3,dlg,EntryList/4/Text,0,-1,내가 못하면 내가 해적인 걸 알면 코르미르에서 나가야 돼
-salvatori3,dlg,EntryList/40/Text,0,-1,"<FirstName> 나 없었다면, 보라색 용들에 의해 당신의 재산을 약탈당하고 감옥에 가졌을 것이다! 나는 모험가의 헌장을 사서 너를 위해 사용했고, 그 비용은 묻지 않았다."
+salvatori3,dlg,EntryList/40/Text,0,-1,"이봐 <FirstName>! 내가 아니었더라면 너는 퍼플 드래곤즈에게 재산을 다 빼앗기고 감옥에 갇혔을 거라고! 네 몫의 모험가 허가서도 내가 사줬고, 그 비용을 달라고 한 적도 없잖아."
 salvatori3,dlg,EntryList/41/Text,0,-1,"폴터 요새에서의 습격이 중단된 것은 우리 모두에게 도움이 되었음을 부인할 수 없습니다. 만약 당신이 감옥에 갔다면, 습격자들과 대처할 사람이 없었을 것입니다."
 salvatori3,dlg,EntryList/42/Text,0,-1,"복수를 받았고, 호클린이 승리했고, 와이번바포는 그의 계획에 대한 간섭이 중단됐고, 더 적은 무고한 사람들이 습격으로 사망하고, 다른 사람들은 당신이 겪은 불행을 피할 수 있습니다."
 salvatori3,dlg,EntryList/43/Text,0,-1,"이건 장난이 아니야, 발레토. 코르미르를 사랑했다면 네가 직접 헌장 값을 지불했겠지, 길버트 경에게 청구하지는 않았을 거다."
@@ -7538,7 +7538,7 @@ sembians,dlg,EntryList/10/Text,0,-1,"그건 똑똑한 제안이야, 보드프로
 sembians,dlg,EntryList/11/Text,0,-1,다른 사람들이 걱정하고 우리의 일을 해야 한다고 생각합니다.
 sembians,dlg,EntryList/12/Text,0,-1,"아빠한테 말해주면 안 돼, 넌 이 일을 하고 싶지 않아."
 sembians,dlg,EntryList/13/Text,0,-1,잠시나마 걱정하게 했잖아
-sembians,dlg,EntryList/14/Text,0,-1,"아빠에게 말하지 않으면, 지금 당장 가게 될 것 같아."
+sembians,dlg,EntryList/14/Text,0,-1,"아버지한테 이르지 않는다면, 지금 당장 너를 내버려 두고 갈지도 모르겠어."
 sembians,dlg,EntryList/15/Text,0,-1,"좋아, 어차피 너 안 도와줄 거야!"
 sembians,dlg,EntryList/16/Text,0,-1,당신은 남쪽 가장 가까운 이웃들이죠!
 sembians,dlg,EntryList/2/Text,0,-1,네가 결정하는 대로 따라가마마.
@@ -7589,7 +7589,7 @@ smith,dlg,EntryList/27/Text,0,-1,"아, 유니콘의 뿔을 갖고 계시군요. 
 smith,dlg,EntryList/28/Text,0,-1,"와이번 피는 더 흔한 재료로 사용되며, 그 독성은 마법 무기에게 잘 작용하여 사용자가 이를 저항하거나 자신의 이점으로 사용할 수 있게 합니다. 물론 와이번 피는 다른 능력도 가지고 있습니다."
 smith,dlg,EntryList/29/Text,0,-1,"레드 드래곤 스케일을 가지고 계시군요. 이건 불을 뿜는 능력처럼, 무기를 든 사람에게 용의 능력을 부여하는 매우 특이한 아이템입니다."
 smith,dlg,EntryList/3/Text,0,-1,"<StartAction>[물질의 양을 기준으로, 스미스는 무엇을 만들 수 있는지 자세히 설명합니다...]</Start>"
-smith,dlg,EntryList/30/Text,0,-1,"나프타 블렌드를 소지하였습니다. 이 안에 내포된 폭발성 성질은 조절되거나 증폭될 수 있으며, 용기된 무기에 불 기반의 특성을 부여합니다."
+smith,dlg,EntryList/30/Text,0,-1,"나프타 블렌드를 소지하고 있습니다. 이 물질의 폭발 성질을 제어하거나 증폭시켜, 제련된 무기에 화염 속성을 부여할 수 있습니다."
 smith,dlg,EntryList/31/Text,0,-1,"요정의 가루는 요정의 일반적인 특성을 부여합니다. 수면, 혼란, 또는 그들을 저항할 수 있는 능력입니다."
 smith,dlg,EntryList/32/Text,0,-1,보닥의 이빨 - 이는 무기에 언데드와의 싸우거나 심지어 언데드를 소환하는 데 필요한 덕목을 부여합니다.
 smith,dlg,EntryList/33/Text,0,-1,여기 다른 것은 없어요.
@@ -7616,7 +7616,7 @@ smith,dlg,EntryList/51/Text,0,-1,토너먼트가 진행 중이면 동쪽 거리�
 smith,dlg,EntryList/52/Text,0,-1,호클린 경의 성은 썬더스톤의 남쪽 끝에 있습니다. 놓칠 수 없습니다. 큰 돌 구조물입니다.
 smith,dlg,EntryList/53/Text,0,-1,시내 남쪽 끝에 있습니다.
 smith,dlg,EntryList/54/Text,0,-1,템푸스 성지는 모든 사람들을 위한 곳입니다. 주요 광장으로 가서 남쪽에 위치해 있습니다.
-smith,dlg,EntryList/55/Text,0,-1,"저는 번개의 표시를 추천합니다. 그것은 다리 근처에 있습니다. 물론 가구 운명도 있지만, 실제로는 너무 시끄러워요. 그런 곳이 더 맞다면, 광장 동쪽에 있습니다."
+smith,dlg,EntryList/55/Text,0,-1,"천둥의 간판 여관을 추천합니다. 다리와 가장 가까운 곳이죠. 물론 여행객들을 맞이하는 가구의 운명 여관도 있지만, 거기는 안이 너무 시끄러워집니다. 그런 분위기를 더 좋아하신다면 광장 동쪽에 있습니다."
 smith,dlg,EntryList/56/Text,0,-1,템푸스 신전의 사제 마그누스가 역사에 관해서는 적임자인 것 같아요. 그가 도와줄 수 있지 않을까요?
 smith,dlg,EntryList/57/Text,0,-1,"정말 그렇군요. 흥미롭군요. 당신을 위해 무언가를 만들어 드리고 싶지만, 그것은 가지고 계신 조각이 얼마나 되느냐에 따라 다릅니다. 이 정도라면 틀림없이 마법 무기를 만들 수 있겠지만, 많을수록 더 좋습니다. 게다가 무기에 추가적인 힘을 부여해 줄 특별한 재료도 구하셔야 합니다."
 smith,dlg,EntryList/58/Text,0,-1,네?
@@ -7741,7 +7741,7 @@ squirejoust,dlg,EntryList/10/Text,0,-1,"<CUSTOM2009>는 시니스터 페스를 �
 squirejoust,dlg,EntryList/11/Text,0,-1,시니스터 페스 스트라이크로 <CUSTOM2009>는 자신의 몸을 원하는 대로 위치시킬 수 있습니다. 이렇게 하면 시니스터 페스는 예측 불가능한 견제 스트라이크가 되어 종종 다소 느린 승리의 길이 될 수 있습니다. 왼쪽으로 기울지 않는다면 그녀를 이길 수 있을 것입니다. 왜 이를 시도하지 않겠습니까?
 squirejoust,dlg,EntryList/12/Text,0,-1,"<CUSTOM2009>는 Fess Pale 스트라이크를 사용합니다. 이것은 그가 당신 방패의 중심에 정확히 겨냥한다는 것을 의미합니다. 이 공격은 어렵지만, 방패를 잘 옆으로 비켜내지 않거나 공격을 피하지 않으면 당신을 낙마시킬 수 있습니다."
 squirejoust,dlg,EntryList/13/Text,0,-1,"Fess Pale 공격은 매우 신중한 겨냥이 필요하기 때문에 공격할 때 그는 몸을 가만히 두어야 합니다. 따라서 가장 좋은 기회는 몸의 중앙선을 따라 어느 곳에도 공격하는 것입니다. 스레임, Pale 또는 베이스는 일반적으로 그것을 할 것입니다. 왜 당신은 그것을 시도하지 않는가?"
-squirejoust,dlg,EntryList/14/Text,0,-1,"<CUSTOM2009>는 그의 랜서의 점을 데크스터 페스 바로 오른쪽 중앙에 위치시키려고 합니다. 데크스터 페스와 시니스터 페스는 같은 위치를 겨냥하며, '투너먼트 스트라이크'라고 불립니다. 이는 깨끗한 타격을 주고 종종 랜서가 깨질 때 포인트를 주기 때문입니다."
+squirejoust,dlg,EntryList/14/Text,0,-1,"<CUSTOM2009>은(는) 방패 중앙의 바로 오른쪽에 있는, 우리가 덱스터 페스라고 부르는 지점에 랜스의 끝을 겨누려 합니다. 왼쪽에 있는 같은 지점을 겨누는 시니스터 페스와 함께 덱스터 페스 모두 '토너먼트 스트라이크'라고 불립니다. 깔끔한 타격을 주며 랜스가 부러지면 대개 점수를 얻기 때문입니다."
 squirejoust,dlg,EntryList/15/Text,0,-1,"상대방의 취향이 그렇다는 걸 안다면 당신은 왼쪽으로 기울이거나 방패를 낮추어야 하며, 상대방은 오른쪽으로 기울이거나 투구를 내릴 수 없습니다. 어떻게 그들을 말에서 떨어뜨릴지 알아낼 수 있겠습니까?"
 squirejoust,dlg,EntryList/16/Text,0,-1,"<CUSTOM2009>는 시니스터 치프 타격을 사용합니다. 시니스터란 상대의 왼쪽을 의미하고, 치프는 방패의 상단을 의미하므로, 그녀는 당신의 왼쪽 위를 노립니다. 피하기 어렵고 낙마시키기는 쉽지 않은 다재다능한 공격 중 하나입니다. 마찬가지로 그녀는 방어 선택지가 풍부하여 낙마시키기 어려울 것입니다."
 squirejoust,dlg,EntryList/17/Text,0,-1,오른쪽으로 기울이는 것만이 이 공격을 막을 유일한 확실한 방어입니다. 하지만 그녀를 말에서 떨어뜨릴 수 있을까요? 한번 해 보시죠?
@@ -7941,7 +7941,7 @@ thiodor,dlg,ReplyList/69/Text,0,-1,아니오
 thiodor,dlg,ReplyList/70/Text,0,-1,아버지 시체를 케렘보르 정원에 묻기 위해 면허가 필요해요
 thiodor,dlg,ReplyList/71/Text,0,-1,그럼 갈게.
 thiodor,dlg,ReplyList/72/Text,0,-1,가족 묘지가 있어요.
-thiodor,dlg,ReplyList/73/Text,0,-1,<LastName>은 내 성 이름입니다.
+thiodor,dlg,ReplyList/73/Text,0,-1,<LastName>은 내 성이다.
 thiodor,dlg,ReplyList/74/Text,0,-1,그럼 갈게.
 thiodor,dlg,ReplyList/75/Text,0,-1,어떻게 당신의 생각을 바꿀 수 있을까?
 thiodor,dlg,ReplyList/76/Text,0,-1,저는 그렇게 많이 가지고 있지 않아.
@@ -8007,7 +8007,7 @@ thiodorjoust,dlg,EntryList/31/Text,0,-1,"This match has now been completed after
 <CUSTOM1021> <FullName> <CUSTOM1053> has <CUSTOM2006> points
 <CUSTOM2009> has <CUSTOM2007> points.
 I therefore proclaim <CUSTOM2009> as the winner of this match."
-thiodorjoust,dlg,EntryList/32/Text,0,-1,"오늘 토너먼트에서 패했으므로, 오늘의 경쟁에서 탈락했습니다. 하지만 잘 타셨습니다. 그래서 다음 토너먼트에서 다시 볼 수 있기를 바랍니다. 즐거운 경마를 즐기시기 바랍니다."
+thiodorjoust,dlg,EntryList/32/Text,0,-1,오늘 토너먼트에서 패배하여 탈락하셨습니다. 하지만 훌륭한 기수였으니 다음 토너먼트에서 다시 뵙기를 바랍니다. 남은 창 시합을 즐겨 주십시오.
 thiodorjoust,dlg,EntryList/33/Text,0,-1,"This match has now been completed after bout <CUSTOM2008>, and we have a winner of the match! The points are as follows:
 <CUSTOM1021> <FullName> <CUSTOM1053> has <CUSTOM2006> points
 <CUSTOM2009> has <CUSTOM2007> points.
@@ -8197,7 +8197,7 @@ wangle,dlg,EntryList/25/Text,0,-1,"만약 당신이 그렇다면, 저를 위해 
 wangle,dlg,EntryList/26/Text,0,-1,- 당신이 원하는 대로
 wangle,dlg,EntryList/27/Text,0,-1,"Shall we continue our discussion now, <mister/missus>? Ye wanted a horse I believe."
 wangle,dlg,EntryList/28/Text,0,-1,어떤 방식으로?
-wangle,dlg,EntryList/29/Text,0,-1,당신이 마음가짐을 바꾸면 하루 종일 여기 있을 거야!
+wangle,dlg,EntryList/29/Text,0,-1,마음대로 해. 마음이 바뀌면 하루 종일 여기 있을 테니까!
 wangle,dlg,EntryList/3/Text,0,-1,좀 보여주게.
 wangle,dlg,EntryList/30/Text,0,-1,"저는 제 대신 타는 사람을 찾고 있습니다. 요즘은 모션이 없어졌지만, 여자들이나 심지어 상주들이 주스트에서 타는 챔피언을 선택하는 것이 일반적이었습니다. 그것은 명예나 명예의 징조일 뿐입니다."
 wangle,dlg,EntryList/31/Text,0,-1,"서두르지 마. 운이 안 따르는 게 보이는군. 창 시합에 나가 내게 영광을 안겨 주겠나, 아니면 첫 라운드에서 떨어지겠나?"
@@ -8257,7 +8257,7 @@ wangle,dlg,EntryList/8/Text,0,-1,생각 바꾸면 날 찾을 줄 알잖아
 wangle,dlg,EntryList/80/Text,0,-1,시내 남쪽 끝에 있습니다.
 wangle,dlg,EntryList/81/Text,0,-1,템푸스 성지는 모든 사람들을 위한 곳입니다. 주요 광장으로 가서 남쪽에 위치해 있습니다.
 wangle,dlg,EntryList/82/Text,0,-1,"가까운 곳은 잊어버려. 최고의 여관은 광장 동쪽의 퍼니처스 페이트야. 다리에서 가장 가까운 선더 사인은 그 절반도 못 하고, 곰의 소굴은 물론 지금은 문을 닫았지."
-wangle,dlg,EntryList/83/Text,0,-1,"저는 번개의 표시를 추천합니다. 그것은 다리 근처에 있습니다. 물론 가구 운명도 있지만, 실제로는 너무 시끄러워요. 그런 곳이 더 맞다면, 광장 동쪽에 있습니다."
+wangle,dlg,EntryList/83/Text,0,-1,"천둥의 간판 여관을 추천합니다. 다리와 가장 가까운 곳이죠. 물론 여행객들을 맞이하는 가구의 운명 여관도 있지만, 거기는 안이 너무 시끄러워집니다. 그런 분위기를 더 좋아하신다면 광장 동쪽에 있습니다."
 wangle,dlg,EntryList/84/Text,0,-1,"썬더스톤에는 두 개의 숙소가 있는데, 곰 동굴은 닫혀 있고, 드래곤 동굴은 군인들을 환영합니다. 썬더스 힌트는 다리 근처에서 남동쪽으로 조금 떨어져 있습니다. 가구 운명은 주 광장의 동쪽에 있습니다. 둘 다 활기찬 장소입니다."
 wangle,dlg,EntryList/85/Text,0,-1,"마을 최고의 양육들! 여사님들, 남사님들, 제안 부탁드립니다. 오... 맞나요?"
 wangle,dlg,EntryList/9/Text,0,-1,"아주 잘, 난 이 말을 내 잔디밭으로 데려갈 수 있도록 하겠다."
@@ -8343,7 +8343,7 @@ wangle,dlg,ReplyList/8/Text,0,-1,그래.
 wangle,dlg,ReplyList/83/Text,0,-1,당신의 말들은 장비가 있나요?
 wangle,dlg,ReplyList/84/Text,0,-1,바드링에 대해 설명해줘.
 wangle,dlg,ReplyList/85/Text,0,-1,팩에 대해 말해봐.
-wangle,dlg,ReplyList/86/Text,0,-1,저는 수레받이에 대해 알고 싶습니다.
+wangle,dlg,ReplyList/86/Text,0,-1,안장에 대해 알고 싶습니다.
 wangle,dlg,ReplyList/87/Text,0,-1,어떤 종류의 말들을 가지고 있나요?
 wangle,dlg,ReplyList/88/Text,0,-1,저는 무거운 전마에 대해 알고 싶습니다.
 wangle,dlg,ReplyList/89/Text,0,-1,가벼운 전마에 대해 알고 싶습니다.

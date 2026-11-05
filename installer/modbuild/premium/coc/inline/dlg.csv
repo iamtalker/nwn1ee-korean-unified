@@ -93,7 +93,7 @@ irstrct_enforcer,dlg,EntryList/19/Text,0,-1,당신의 아이템 총 가격은 <C
 irstrct_enforcer,dlg,EntryList/2/Text,0,-1,전체 아이템 가격은 설정된 아이템 가격 한계 이하인: <CUSTOM500>gp까지 게임에 참여할 수 없습니다.
 irstrct_enforcer,dlg,EntryList/20/Text,0,-1,"챔피언스 오브 콘테스트는 파티 기반 PvP 모듈로, 웅장한 사투 속에서 다른 모험가들과 실력을 겨루는 곳입니다. 다른 플레이어를 처치하면 골드가 주어지며, 이를 이용해 장비와 다양한 아이템을 구입할 수 있습니다."
 irstrct_enforcer,dlg,EntryList/21/Text,0,-1,"전투 참가자들은 주 팀 영역에서 한 번씩 체크인해야 합니다. 각 팀이 잠겨있을 때 전투는 시작되며, 한 팀의 모든 구성원이 사망하거나 재생되거나 1포인트 미만으로 떨어질 때까지 계속됩니다."
-irstrct_enforcer,dlg,EntryList/22/Text,0,-1,한 타입점 아래로 떨어지는 전투원들은 피를 흘리기 시작합니다. 팀 동료의 치료를 받아 -10 타입점 전에 도달하지 않으면 전투를 재개할 수 있습니다.
+irstrct_enforcer,dlg,EntryList/22/Text,0,-1,체력이 1 미만으로 떨어진 전투원은 출혈 상태가 됩니다. 체력이 -10에 도달하기 전에 동료의 치료를 받으면 전투를 재개할 수 있습니다.
 irstrct_enforcer,dlg,EntryList/23/Text,0,-1,"투기장에 들어가면 모든 주문 효과가 사라집니다. 접수하기 전에 쉬고, 전투가 시작될 때까지 기다렸다가 주문을 사용하는 것이 좋습니다."
 irstrct_enforcer,dlg,EntryList/24/Text,0,-1,체크인 후 휴식을 취하면 자동으로 체크아웃 됩니다.
 irstrct_enforcer,dlg,EntryList/25/Text,0,-1,"각 라운드마다 우승팀은 상대 팀의 크기에 따라 금을 수여받습니다. 만약 한 팀이 5 번 승리하면, 그 팀은 경기의 승리자로 선언됩니다."
@@ -125,7 +125,7 @@ irstrct_enforcer,dlg,EntryList/48/Text,0,-1,"배틀마스터는 게임 옵션을
 irstrct_enforcer,dlg,EntryList/49/Text,0,-1,"챔피언스 오브 콘테스트는 파티 기반 PvP 모듈로, 웅장한 사투 속에서 다른 모험가들과 실력을 겨루는 곳입니다. 다른 플레이어를 처치하면 골드가 주어지며, 이를 이용해 장비와 다양한 아이템을 구입할 수 있습니다."
 irstrct_enforcer,dlg,EntryList/5/Text,0,-1,당신의 레벨이 게임 설정 레벨인 레벨 <CUSTOM500>이 될 때까지 게임에 참여할 수 없습니다. 레벨을 수정하고 싶으신가요?
 irstrct_enforcer,dlg,EntryList/50/Text,0,-1,"전투 참가자들은 주 팀 영역에서 한 번씩 체크인해야 합니다. 각 팀이 잠겨있을 때 전투는 시작되며, 한 팀의 모든 구성원이 사망하거나 재생되거나 1포인트 미만으로 떨어질 때까지 계속됩니다."
-irstrct_enforcer,dlg,EntryList/51/Text,0,-1,한 타입점 아래로 떨어지는 전투원들은 피를 흘리기 시작합니다. 팀 동료의 치료를 받아 -10 타입점 전에 도달하지 않으면 전투를 재개할 수 있습니다.
+irstrct_enforcer,dlg,EntryList/51/Text,0,-1,체력이 1 미만으로 떨어진 전투원은 출혈 상태가 됩니다. 체력이 -10에 도달하기 전에 동료의 치료를 받으면 전투를 재개할 수 있습니다.
 irstrct_enforcer,dlg,EntryList/52/Text,0,-1,"투기장에 들어가면 모든 주문 효과가 사라집니다. 접수하기 전에 쉬고, 전투가 시작될 때까지 기다렸다가 주문을 사용하는 것이 좋습니다."
 irstrct_enforcer,dlg,EntryList/53/Text,0,-1,체크인 후 휴식을 취하면 자동으로 체크아웃 됩니다.
 irstrct_enforcer,dlg,EntryList/54/Text,0,-1,"각 라운드마다 우승팀은 상대 팀의 크기에 따라 금을 수여받습니다. 만약 한 팀이 5 번 승리하면, 그 팀은 경기의 승리자로 선언됩니다."

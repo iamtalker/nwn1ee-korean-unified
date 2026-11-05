@@ -211,10 +211,10 @@ area010,git,Encounter List/3/LocalizedName,0,-1,악취를 내는 딱정벌레
 area010,git,Encounter List/4/LocalizedName,0,-1,워병단 NPC
 area010,git,Encounter List/5/LocalizedName,0,-1,워병단 NPC
 area010,git,Encounter List/6/LocalizedName,0,-1,워병단 NPC
-area010,git,Placeable List/13/ItemList/0/Description,0,-1,고 노화된 철제 키.
+area010,git,Placeable List/13/ItemList/0/Description,0,-1,두껍고 녹슨 철제 열쇠.
 area010,git,Placeable List/13/ItemList/0/LocalizedName,0,-1,철 열쇠
 area010,git,Placeable List/21/LocName,0,68869,상자
-area010,git,Placeable List/29/ItemList/0/Description,0,-1,고 노화된 철제 키.
+area010,git,Placeable List/29/ItemList/0/Description,0,-1,두껍고 녹슨 철제 열쇠.
 area010,git,Placeable List/29/ItemList/0/LocalizedName,0,-1,철 열쇠
 area010,git,Placeable List/35/Description,0,14531,"이 더러운, 영양실조한 사람은 최근 썰매 상처로 사망한 것으로 보인다."
 area010,git,Placeable List/37/Description,0,12330,3발의 발자국들이 어둠 속으로 사라져
@@ -284,7 +284,7 @@ area011,git,Placeable List/9/LocName,0,84565,책장
 area011,git,StoreList/0/LocName,0,-1,상인 바키퍼
 area011,git,WaypointList/1/MapNote,0,14815,지역 출입구
 area011,git,WaypointList/2/MapNote,0,14815,하라시의 아파트
-coranovilla001,git,Creature List/0/Description,0,-1,"이 거친 드워프는 돌과 더 작은 남자들을 깨뜨릴 수 있는 표정을 내보내고 있다. 그녀의 평범한 집사복은 밀가루나 먼지, 혹은 둘 다로 층층이 쌓여 있다. 그녀는 머리 위에 놓은 느슨한 묶음처럼 잘 관리되고 있지만, 유일하게 눈에 띄는 특징은 목에 걸린 목걸이로, 노예임을 나타내고 있다."
+coranovilla001,git,Creature List/0/Description,0,-1,"이 억센 드워프는 주름진 얼굴에 바위나 하급 인간이라도 부숴버릴 듯한 표정을 짓고 있다. 평범한 홈드레스에는 밀가루인지 먼지인지 모를 가루가, 어쩌면 둘 다 뒤섞여 겹겹이 쌓여 있다. 머리를 정수리에 대충 틀어 올린 것만 빼면 그녀의 몰골은 그럭저럭 잘 정돈되어 있다. 그 외에 눈에 띄는 유일한 특징은 목에 걸린 목걸이로, 그녀가 노예임을 나타내고 있다."
 coranovilla001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,이브온의 의상
 coranovilla001,git,Creature List/0/FirstName,0,-1,이본
 coranovilla001,git,Creature List/0/ItemList/2/DescIdentified,0,-1,전송 반지
@@ -326,7 +326,7 @@ coranovilla001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,귀족 �
 coranovilla001,git,Creature List/9/FirstName,0,-1,윈스럽
 coranovilla001,git,Door List/3/LocName,0,5349,문
 coranovilla001,git,Door List/4/LocName,0,5349,뒷문
-coranovilla001,git,Placeable List/0/Description,0,68936,책과 문서의 쌓임
+coranovilla001,git,Placeable List/0/Description,0,68936,책과 문서 무더기.
 coranovilla001,git,Placeable List/0/LocName,0,68935,쌓인 책
 coranovilla001,git,Placeable List/1/ItemList/0/Description,0,-1,이 문서 컬렉션에는 북부시장 구역에 있는 건물의 증명이 포함되어 있습니다. 꿈꾸는 알라다라가 빌려주는 건물입니다.
 coranovilla001,git,Placeable List/1/ItemList/0/LocalizedName,0,-1,북부 시장 부동산 권리증서
@@ -418,7 +418,7 @@ limbo,git,Creature List/2/ItemList/7/Description,0,-1,평범한 은 반지.
 limbo,git,Creature List/2/ItemList/7/LocalizedName,0,-1,전송의 반지
 limbo,git,Creature List/2/LastName,0,-1,고기
 limbo,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,노예복장
-limbo,git,Creature List/3/FirstName,0,-1,노예 상경비병
+limbo,git,Creature List/3/FirstName,0,-1,노예상 경비병
 midtownmunicipal,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
 midtownmunicipal,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,도시 경비병 갑옷
 midtownmunicipal,git,Creature List/0/FirstName,0,-1,도시 경비병
@@ -520,7 +520,7 @@ ratholestreets,git,Creature List/2/ItemList/3/DescIdentified,0,-1,"걸쭉하고 
 ratholestreets,git,Creature List/2/ItemList/3/Description,0,-1,"걸쭉하고 달콤해 보이는 보랏빛 액체가 든 병이다. 월드와인은 필멸자에게 꿈결 같은 상태를 일으킨다고 한다. 이 물질이 원래 어디서 왔든, *병*은 루스터스 루스트라는 술집에서 쓰던 술병을 다시 쓴 것처럼 보인다."
 ratholestreets,git,Creature List/2/ItemList/3/LocalizedName,0,-1,월드와인 물약
 ratholestreets,git,Creature List/2/LastName,0,-1,모닝듀
-ratholestreets,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,텔레스의 옷옷
+ratholestreets,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,텔레스의 옷
 ratholestreets,git,Creature List/3/FirstName,0,-1,텔레스
 ratholestreets,git,Creature List/3/ItemList/3/DescIdentified,0,-1,"걸쭉하고 달콤해 보이는 보랏빛 액체가 든 병이다. 월드와인은 필멸자에게 꿈결 같은 상태를 일으킨다고 한다. 이 물질이 원래 어디서 왔든, *병*은 루스터스 루스트라는 술집에서 쓰던 술병을 다시 쓴 것처럼 보인다."
 ratholestreets,git,Creature List/3/ItemList/3/Description,0,-1,"걸쭉하고 달콤해 보이는 보랏빛 액체가 든 병이다. 월드와인은 필멸자에게 꿈결 같은 상태를 일으킨다고 한다. 이 물질이 원래 어디서 왔든, *병*은 루스터스 루스트라는 술집에서 쓰던 술병을 다시 쓴 것처럼 보인다."
@@ -630,7 +630,7 @@ seamarket,git,Creature List/22/Equip_ItemList/0/LocalizedName,0,-1,크레시의 
 seamarket,git,Creature List/22/FirstName,0,-1,크레시
 seamarket,git,Creature List/22/LastName,0,-1,사슬 파괴자
 seamarket,git,Creature List/23/Equip_ItemList/0/LocalizedName,0,-1,노예복장
-seamarket,git,Creature List/23/FirstName,0,-1,노예 상경비병
+seamarket,git,Creature List/23/FirstName,0,-1,노예상 경비병
 seamarket,git,Creature List/26/FirstName,0,12618,시민
 seamarket,git,Creature List/29/FirstName,0,12416,왜소한 닭
 seamarket,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,도시 경비병의 이빨 투구
@@ -993,7 +993,7 @@ tunnels01,git,Creature List/1/Description,0,-1,"이 여자 는 사람 보다 더
 tunnels01,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,샤반의 갑옷
 tunnels01,git,Creature List/1/FirstName,0,-1,샤반
 tunnels01,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,노예복장
-tunnels01,git,Creature List/10/FirstName,0,-1,노예 상경비병
+tunnels01,git,Creature List/10/FirstName,0,-1,노예상 경비병
 tunnels01,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,노예복장
 tunnels01,git,Creature List/11/FirstName,0,-1,노예 몸집
 tunnels01,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,노예복장
@@ -1042,7 +1042,7 @@ tunnels01,git,Encounter List/1/LocalizedName,0,-1,지하도시 거미
 tunnels01,git,Encounter List/2/LocalizedName,0,-1,지하도시 거미
 tunnels01,git,Placeable List/226/LocName,0,68938,통
 tunnels01,git,Placeable List/227/LocName,0,68938,통
-tunnels01,git,TriggerList/0/LocalizedName,0,14759,시작 샤반 대화
+tunnels01,git,TriggerList/0/LocalizedName,0,14759,샤반 대화 시작
 tunnels01,git,TriggerList/1/LocalizedName,0,-1,일반 트리거 001
 tunnels01,git,WaypointList/1/LocalizedName,0,14817,지하도시 웨이포인트 테스트
 tunnels01,git,WaypointList/2/LocalizedName,0,14814,지도 설명
@@ -1119,7 +1119,7 @@ yourneighborhood,git,Placeable List/16/LocName,0,5800,CHAIR_JerkinsSit
 yourneighborhood,git,Placeable List/17/LocName,0,5800,CHAIR_ThrashgarSit
 yourneighborhood,git,Placeable List/18/LocName,0,14561,포프르의 특혜
 yourneighborhood,git,Placeable List/20/Description,0,14544,이 철자 구석은 위로 올라갈 수 있도록 기조되어 있는 것 같습니다. 그래서 사람이 지나갈 수 있습니다.
-yourneighborhood,git,Placeable List/20/LocName,0,14545,강력한 강철 갑옷
+yourneighborhood,git,Placeable List/20/LocName,0,14545,튼튼한 강철 상자
 yourneighborhood,git,Placeable List/23/Description,0,-1,문 앞 매트
 yourneighborhood,git,Placeable List/23/LocName,0,-1,당신의 아파트 입구
 yourneighborhood,git,Placeable List/24/Description,0,-1,문 앞 매트

@@ -192,7 +192,7 @@ area_beg_city,git,WaypointList/9/LocalizedName,0,14817,이정표
 area_beg_city002,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,황제 미늘 갑옷
 area_beg_city002,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,-1,반수검
 area_beg_city002,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,-1,장방패
-area_beg_city002,git,Creature List/0/FirstName,0,-1,제국 캡틴 아나그릴
+area_beg_city002,git,Creature List/0/FirstName,0,-1,제국 대위 아나그릴
 area_beg_city002,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,황제 투구
 area_beg_city002,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,황제 철판 갑옷
 area_beg_city002,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,-1,미늘창
@@ -262,7 +262,7 @@ area_beg_city002,git,Door List/0/LocName,0,5349,문
 area_beg_city002,git,Door List/1/LocName,0,5349,문
 area_beg_city002,git,Door List/2/LocName,0,5349,문
 area_beg_city002,git,Door List/3/LocName,0,5349,문
-area_beg_city002,git,Encounter List/0/LocalizedName,0,-1,단계 1 - 크림슨 따르는 자 (6)
+area_beg_city002,git,Encounter List/0/LocalizedName,0,-1,단계 1 - 크림슨 추종자 (6)
 area_beg_city002,git,Encounter List/1/LocalizedName,0,-1,크림슨 그룹
 area_beg_city002,git,Encounter List/2/LocalizedName,0,-1,크림슨 그룹
 area_beg_city002,git,Placeable List/10/Description,0,14642,등불은 주변을 더 따뜻한 색으로 밝혀준다. 그 빛에 감사하다는 생각이 든다.
@@ -476,13 +476,29 @@ area_city_gha003,git,Creature List/9/FirstName,0,-1,블러드하크
 area_city_gha003,git,Door List/3/Description,0,9071,은 이 금속으로 덮인 문의 한때 부드러운 표면을 습니다.
 area_city_gha003,git,Door List/3/LocName,0,5349,문
 area_city_gha003,git,Door List/6/LocName,0,5349,문
-area_city_gha003,git,Placeable List/12/ItemList/0/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
+area_city_gha003,git,Placeable List/12/ItemList/0/DescIdentified,0,-1,"그라민은 노던 리치의 시골 지역에서 발견되는 특이한 무리 동물로, 몸 전체에 온갖 식용 부위를 지니고 있다.
+
+그 혀는 맛있는 요리를 만드는 재료로 널리 알려져 있다.
+
+이 아이템은 전투 식량으로 사용할 수 있습니다. 휴식으로 이점을 얻으려면 인벤토리에 전투 식량을 가지고 있어야 합니다."
 area_city_gha003,git,Placeable List/12/ItemList/0/LocalizedName,0,-1,그라민어
-area_city_gha003,git,Placeable List/12/ItemList/1/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
+area_city_gha003,git,Placeable List/12/ItemList/1/DescIdentified,0,-1,"그라민은 노던 리치의 시골 지역에서 발견되는 특이한 무리 동물로, 몸 전체에 온갖 식용 부위를 지니고 있다.
+
+그 혀는 맛있는 요리를 만드는 재료로 널리 알려져 있다.
+
+이 아이템은 전투 식량으로 사용할 수 있습니다. 휴식으로 이점을 얻으려면 인벤토리에 전투 식량을 가지고 있어야 합니다."
 area_city_gha003,git,Placeable List/12/ItemList/1/LocalizedName,0,-1,그라민어
-area_city_gha003,git,Placeable List/12/ItemList/2/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
+area_city_gha003,git,Placeable List/12/ItemList/2/DescIdentified,0,-1,"그라민은 노던 리치의 시골 지역에서 발견되는 특이한 무리 동물로, 몸 전체에 온갖 식용 부위를 지니고 있다.
+
+그 혀는 맛있는 요리를 만드는 재료로 널리 알려져 있다.
+
+이 아이템은 전투 식량으로 사용할 수 있습니다. 휴식으로 이점을 얻으려면 인벤토리에 전투 식량을 가지고 있어야 합니다."
 area_city_gha003,git,Placeable List/12/ItemList/2/LocalizedName,0,-1,그라민어
-area_city_gha003,git,Placeable List/12/ItemList/3/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
+area_city_gha003,git,Placeable List/12/ItemList/3/DescIdentified,0,-1,"그라민은 노던 리치의 시골 지역에서 발견되는 특이한 무리 동물로, 몸 전체에 온갖 식용 부위를 지니고 있다.
+
+그 혀는 맛있는 요리를 만드는 재료로 널리 알려져 있다.
+
+이 아이템은 전투 식량으로 사용할 수 있습니다. 휴식으로 이점을 얻으려면 인벤토리에 전투 식량을 가지고 있어야 합니다."
 area_city_gha003,git,Placeable List/12/ItemList/3/LocalizedName,0,-1,그라민어
 area_city_gha003,git,Placeable List/12/LocName,0,5700,스튜 냄비
 area_city_gha003,git,Placeable List/2/Description,0,14595,곰팡이와 부패로 이 가죽으로 덮인 튼튼한 상자가 얼룩져 있습니다.
@@ -630,7 +646,11 @@ area_city_ghaa_r,git,Placeable List/3/ItemList/2/DescIdentified,0,-1,"주주 견
 area_city_ghaa_r,git,Placeable List/3/ItemList/2/LocalizedName,0,-1,주주 견과류
 area_city_ghaa_r,git,Placeable List/3/ItemList/3/DescIdentified,0,-1,"주주 견과는 주주라 식물에서 따온 견과로 야생 여행자들이 자주 찾는 대상이다. 특별히 배가 부르지 않지만, 이 견과는 문명 지역에서 멀리 떨어져 있을 때 식단을 대체할 수 있으며, 무기한으로 신선함을 유지하면서도 휴대하기가 매우 편리하다. 이 아이템은 급식으로 사용할 수 있다. 휴식을 취하기 위해서는 인벤토리에 급식 형태의 아이템을 가지고 있어야 한다."
 area_city_ghaa_r,git,Placeable List/3/ItemList/3/LocalizedName,0,-1,주주 견과류
-area_city_ghaa_r,git,Placeable List/3/ItemList/4/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
+area_city_ghaa_r,git,Placeable List/3/ItemList/4/DescIdentified,0,-1,"그라민은 노던 리치의 시골 지역에서 발견되는 특이한 무리 동물로, 몸 전체에 온갖 식용 부위를 지니고 있다.
+
+그 혀는 맛있는 요리를 만드는 재료로 널리 알려져 있다.
+
+이 아이템은 전투 식량으로 사용할 수 있습니다. 휴식으로 이점을 얻으려면 인벤토리에 전투 식량을 가지고 있어야 합니다."
 area_city_ghaa_r,git,Placeable List/3/ItemList/4/LocalizedName,0,-1,그라민어
 area_city_ghaa_r,git,Placeable List/3/LocName,0,5348,상자
 area_city_ghaa_r,git,TriggerList/0/LocalizedName,0,14759,새 일반
@@ -1061,7 +1081,7 @@ area_ghaa_gra001,git,Placeable List/44/LocName,0,5348,상자
 area_ghaa_gra001,git,Placeable List/49/Description,0,14550,두 개의 화살이 죽은 남자의 등에 꽂히고
 area_ghaa_gra001,git,Placeable List/50/Description,0,14640,황제당의 이 가난하고 단순한 종은 머리와 몸을 여러 번 쳐 맞았는 것 같습니다.
 area_ghaa_gra001,git,Placeable List/50/LocName,0,14641,하인의 시체
-area_ghaa_gra001,git,Placeable List/52/Description,0,14695,이 시체들의 대부분은 황제당의 경비와 종들로 이루어져 있습니다. 크림슨 추종자들은 아직 시체에서 귀중품을 모두 제거하지 않은 것 같습니다.
+area_ghaa_gra001,git,Placeable List/52/Description,0,14695,이 시체 더미는 제국 궁전의 경비병들과 하인들로 이루어진 것 같다. 크림슨의 추종자들이 아직 시체에서 귀중품을 챙겨가지 않은 모양이다.
 area_ghaa_gra001,git,Placeable List/52/LocName,0,5763,시체 쌓임
 area_ghaa_gra001,git,Placeable List/6/Description,0,14732,래카 황제의 돌 같은 시선이 당신을 내려다보고 있습니다.
 area_ghaa_gra001,git,Placeable List/6/LocName,0,14536,라카 황제의 동상
@@ -1127,7 +1147,7 @@ area_ghaa_grand_,git,Creature List/5/Equip_ItemList/1/DescIdentified,0,-1,베일
 area_ghaa_grand_,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,-1,베일의 호신부
 area_ghaa_grand_,git,Creature List/5/FirstName,0,-1,바르후누 총장
 area_ghaa_grand_,git,Creature List/5/ItemList/0/DescIdentified,0,-1,이 열쇠는 총리 바르후누의 소유에 있었다.
-area_ghaa_grand_,git,Creature List/5/ItemList/0/LocalizedName,0,-1,바르후의 키
+area_ghaa_grand_,git,Creature List/5/ItemList/0/LocalizedName,0,-1,바르후의 열쇠
 area_ghaa_grand_,git,Creature List/5/ItemList/1/DescIdentified,0,-1,"이 이상한 돌은 소규모 악성들을 불러모으키는 룬으로 덮여있었고, 바르후누와의 싸움에서 파괴됐습니다."
 area_ghaa_grand_,git,Creature List/5/ItemList/1/Description,0,-1,"이 돌은 가라크의 차르후누 총장에게서 발견된 것이며, 이상한 문자로 덮여 있지만, 이 돌에 대한 정확한 식별을 위한 지식이 부족합니다."
 area_ghaa_grand_,git,Creature List/5/ItemList/1/LocalizedName,0,-1,바르훈의 돌 (망가짐)
@@ -1140,7 +1160,7 @@ area_ghaa_grand_,git,Creature List/6/FirstName,0,-1,가라크 제국 경비병
 area_ghaa_grand_,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,황제 미늘 갑옷
 area_ghaa_grand_,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,-1,반수검
 area_ghaa_grand_,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,-1,장방패
-area_ghaa_grand_,git,Creature List/7/FirstName,0,-1,제국 캡틴 아나그릴
+area_ghaa_grand_,git,Creature List/7/FirstName,0,-1,제국 대위 아나그릴
 area_ghaa_grand_,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,황제 의상
 area_ghaa_grand_,git,Creature List/8/FirstName,0,-1,지람
 area_ghaa_grand_,git,Creature List/8/LastName,0,-1,가라크의 고위 요술사
@@ -1447,7 +1467,11 @@ ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/1/DescIdentified,0,-1,"샤
 
 이 아이템은 식량으로 사용할 수 있습니다. 휴식의 혜택을 받으려면 인벤토리에 어떤 형태로든 식량이 있어야 합니다."
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/1/LocalizedName,0,-1,차카라 과일
-ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/2/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
+ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/2/DescIdentified,0,-1,"그라민은 노던 리치의 시골 지역에서 발견되는 특이한 무리 동물로, 몸 전체에 온갖 식용 부위를 지니고 있다.
+
+그 혀는 맛있는 요리를 만드는 재료로 널리 알려져 있다.
+
+이 아이템은 전투 식량으로 사용할 수 있습니다. 휴식으로 이점을 얻으려면 인벤토리에 전투 식량을 가지고 있어야 합니다."
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/2/LocalizedName,0,-1,그라민어
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/3/DescIdentified,0,-1,"주주 견과는 주주라 식물에서 따온 견과로 야생 여행자들이 자주 찾는 대상이다. 특별히 배가 부르지 않지만, 이 견과는 문명 지역에서 멀리 떨어져 있을 때 식단을 대체할 수 있으며, 무기한으로 신선함을 유지하면서도 휴대하기가 매우 편리하다. 이 아이템은 급식으로 사용할 수 있다. 휴식을 취하기 위해서는 인벤토리에 급식 형태의 아이템을 가지고 있어야 한다."
 ghaarakmarket001,git,StoreList/0/StoreList/4/ItemList/3/LocalizedName,0,-1,주주 견과류
@@ -1670,7 +1694,7 @@ ghaarakmarket002,git,StoreList/0/StoreList/1/ItemList/9/LocalizedName,0,-1,시�
 ghaarakmarket002,git,StoreList/1/LocName,0,-1,표준 포션 상점
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/0/DescIdentified,0,13440,이 사제 물은 고난의 때에 사용되며 슬픔에 빠진 사람들을 위로하고 위대한 사람들을 겸손한 겁쟁이로 만든다.
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/0/LocalizedName,0,13441,지원의 물약
-ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/1/DescIdentified,0,13420,"이 도닉은 모든 종류의 독, 무기독, 질병에 대해 효과적입니다."
+ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/1/DescIdentified,0,13420,"이 강장제는 온갖 독, 광물성 독소, 질병, 그리고 모든 종류의 독에 대해 특효약입니다."
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/1/LocalizedName,0,13421,해독의 물약
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/10/DescIdentified,0,13412,"혈액의 흐름을 안정시키거나 뼈를 엮을 수 있는 힘으로, 이 약은 위험한 직업들 사이에서 흔하게 사용되고 있습니다."
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/10/LocalizedName,0,13413,심각한 상처 치료의 물약
@@ -1690,7 +1714,7 @@ ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/3/DescIdentified,0,13426,"
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/3/LocalizedName,0,13427,축복의 물약
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/4/DescIdentified,0,13438,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/4/LocalizedName,0,13439,황소의 근력 물약
-ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/5/DescIdentified,0,13436,이 반짝이는 포션은 음주자의 민첩을 크게 증가시킵니다.
+ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/5/DescIdentified,0,13436,이 반짝이는 물약은 마시는 사람의 민첩성을 크게 증가시켜 줍니다.
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/5/LocalizedName,0,13437,고양이의 우아함 물약
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/6/DescIdentified,0,13422,"화려 한 냄새 를 띠는 이 음료 는 화려 한 액체 로 만들어져 화려 한 콩 에 얹혀져 있으며, 그 이름 은 그 외모 에 따라 유래 되지 않았습니다."
 ghaarakmarket002,git,StoreList/1/StoreList/2/ItemList/6/LocalizedName,0,13423,맑은 정신을 부여하는 물약
@@ -1843,7 +1867,7 @@ ghaarakmarketdis,git,Placeable List/24/Description,0,14594,철로 묶여 있고 
 ghaarakmarketdis,git,Placeable List/24/ItemList/0/DescIdentified,0,-1,"스라크, 제국 경비대가 시장 구역을 감시하는 것을 강화함에 따라 블러드하크의 우리는 그들의 호기심한 눈 앞에서 우리의 경비를 강화해야 했습니다. 우리는 도시의 숨겨진 부문에 우리의 기지를 이전했습니다. 그리고 더 이상 우리의... 주식에 새로운 추가에 대해 직접 연락할 수 없습니다. 당분간, 나는 두 명의 내 사람을 Ravenclaw 타버너에 배치했습니다. 당신이 우리에게 연락해야 할 필요가 있다면 자유롭게 그들을 방문할 수 있습니다. 그들은 우리 조직과 함께 수행해야 할 모든 사업을 관리 할 것입니다. 나는 내 사람들이 낯선 사람들을 처리 할 때 모든 주의를 기울여야 한다고 지시했습니다. 그래서 내 다음 지침을 따르도록 조심하십시오. 당신이 연락할 필요가 있으면, Ravenclaw 타버너의 숙소로 이동하십시오. 내 사람들은 이 방 중 하나에 거주하고 있습니다. 당신은 문에 세 번 갈 수 있습니다. 문의 한 문구에서, 우리가 발견해야 할 문구에서 하나를 물어볼 것입니다. ""이 모든 사람들이 당신의 피의 흐름을 피할 수 있습니다. 그러나 나는 당신이 발견해야 할 것을 잊지 않을 것입니다. 그러나 그들은 모든 것을 잊을 수 있습니다."
 ghaarakmarketdis,git,Placeable List/24/ItemList/0/LocalizedName,0,-1,블러드하크 편지
 ghaarakmarketdis,git,Placeable List/24/ItemList/1/LocalizedName,0,-1,금화
-ghaarakmarketdis,git,Placeable List/24/ItemList/2/DescIdentified,0,13436,이 반짝이는 포션은 음주자의 민첩을 크게 증가시킵니다.
+ghaarakmarketdis,git,Placeable List/24/ItemList/2/DescIdentified,0,13436,이 반짝이는 물약은 마시는 사람의 민첩성을 크게 증가시켜 줍니다.
 ghaarakmarketdis,git,Placeable List/24/ItemList/2/LocalizedName,0,13437,고양이의 우아함 물약
 ghaarakmarketdis,git,Placeable List/24/LocName,0,5348,상자
 ghaarakmarketdis,git,Placeable List/25/Description,0,14594,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
@@ -1960,7 +1984,7 @@ ghaarakmarketdis,git,StoreList/0/StoreList/1/ItemList/9/LocalizedName,0,-1,시�
 ghaarakmarketdis,git,StoreList/1/LocName,0,-1,표준 포션 상점
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/0/DescIdentified,0,13440,이 사제 물은 고난의 때에 사용되며 슬픔에 빠진 사람들을 위로하고 위대한 사람들을 겸손한 겁쟁이로 만든다.
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/0/LocalizedName,0,13441,지원의 물약
-ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/1/DescIdentified,0,13420,"이 도닉은 모든 종류의 독, 무기독, 질병에 대해 효과적입니다."
+ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/1/DescIdentified,0,13420,"이 강장제는 온갖 독, 광물성 독소, 질병, 그리고 모든 종류의 독에 대해 특효약입니다."
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/1/LocalizedName,0,13421,해독의 물약
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/10/DescIdentified,0,13412,"혈액의 흐름을 안정시키거나 뼈를 엮을 수 있는 힘으로, 이 약은 위험한 직업들 사이에서 흔하게 사용되고 있습니다."
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/10/LocalizedName,0,13413,심각한 상처 치료의 물약
@@ -1980,7 +2004,7 @@ ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/3/DescIdentified,0,13426,"
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/3/LocalizedName,0,13427,축복의 물약
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/4/DescIdentified,0,13438,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/4/LocalizedName,0,13439,황소의 근력 물약
-ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/5/DescIdentified,0,13436,이 반짝이는 포션은 음주자의 민첩을 크게 증가시킵니다.
+ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/5/DescIdentified,0,13436,이 반짝이는 물약은 마시는 사람의 민첩성을 크게 증가시켜 줍니다.
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/5/LocalizedName,0,13437,고양이의 우아함 물약
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/6/DescIdentified,0,13422,"화려 한 냄새 를 띠는 이 음료 는 화려 한 액체 로 만들어져 화려 한 콩 에 얹혀져 있으며, 그 이름 은 그 외모 에 따라 유래 되지 않았습니다."
 ghaarakmarketdis,git,StoreList/1/StoreList/2/ItemList/6/LocalizedName,0,13423,맑은 정신을 부여하는 물약
@@ -2014,7 +2038,11 @@ ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/1/DescIdentified,0,-1,"샤
 
 이 아이템은 식량으로 사용할 수 있습니다. 휴식의 혜택을 받으려면 인벤토리에 어떤 형태로든 식량이 있어야 합니다."
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/1/LocalizedName,0,-1,차카라 과일
-ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/2/DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
+ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/2/DescIdentified,0,-1,"그라민은 노던 리치의 시골 지역에서 발견되는 특이한 무리 동물로, 몸 전체에 온갖 식용 부위를 지니고 있다.
+
+그 혀는 맛있는 요리를 만드는 재료로 널리 알려져 있다.
+
+이 아이템은 전투 식량으로 사용할 수 있습니다. 휴식으로 이점을 얻으려면 인벤토리에 전투 식량을 가지고 있어야 합니다."
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/2/LocalizedName,0,-1,그라민어
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/3/DescIdentified,0,-1,"주주 견과는 주주라 식물에서 따온 견과로 야생 여행자들이 자주 찾는 대상이다. 특별히 배가 부르지 않지만, 이 견과는 문명 지역에서 멀리 떨어져 있을 때 식단을 대체할 수 있으며, 무기한으로 신선함을 유지하면서도 휴대하기가 매우 편리하다. 이 아이템은 급식으로 사용할 수 있다. 휴식을 취하기 위해서는 인벤토리에 급식 형태의 아이템을 가지고 있어야 한다."
 ghaarakmarketdis,git,StoreList/3/StoreList/4/ItemList/3/LocalizedName,0,-1,주주 견과류

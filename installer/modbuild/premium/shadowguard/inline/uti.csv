@@ -123,7 +123,7 @@ it_arm_light_002,uti,LocalizedName,0,-1,가죽 갑옷
 it_arm_light_003,uti,LocalizedName,0,-1,징박은 가죽 갑옷
 it_arm_light_004,uti,LocalizedName,0,-1,생가죽 갑옷
 it_arm_light_005,uti,DescIdentified,0,-1,"이 갑옷은 샤라칸 제국의 우수한 갑옷 제작자들에 의해 제작되었습니다. 전투에서는 훨씬 더 내구성이 있으며, 착용자에게는 덜 무거워요."
-it_arm_light_005,uti,LocalizedName,0,-1,황제용 생가죽 갑옷
+it_arm_light_005,uti,LocalizedName,0,-1,제국군 생가죽 갑옷
 it_arm_light_006,uti,DescIdentified,0,-1,"이 갑옷은 샤라칸 제국의 우수한 갑옷 제작자들에 의해 제작되었습니다. 전투에서는 훨씬 더 내구성이 있으며, 착용자에게는 덜 무거워요."
 it_arm_light_006,uti,LocalizedName,0,-1,황제의 가죽 갑옷
 it_arm_light_007,uti,DescIdentified,0,-1,"이 갑옷은 샤라칸 제국의 우수한 갑옷 제작자들에 의해 제작되었습니다. 전투에서는 훨씬 더 내구성이 있으며, 착용자에게는 덜 무거워요."
@@ -245,7 +245,7 @@ it_arm_npc_903,uti,LocalizedName,0,-1,여종업원 옷 1
 it_arm_npc_904,uti,LocalizedName,0,-1,라자르의 커스텀 갑옷
 it_arm_npc_905,uti,LocalizedName,0,-1,타린의 커스텀 갑옷
 it_arm_npc_906,uti,LocalizedName,0,-1,사무엘의 커스텀 전신 판금 갑옷
-it_arm_npc_907,uti,LocalizedName,0,-1,크림슨 추종자 티셔츠 (왼 팔이 없다)
+it_arm_npc_907,uti,LocalizedName,0,-1,크림슨 추종자의 튜닉 (왼팔 없음)
 it_arm_npc_908,uti,LocalizedName,0,-1,윌러드의 맞춤 의상점
 it_arm_npc_910,uti,LocalizedName,0,-1,황제 시계관 의복
 it_arm_npc_911,uti,LocalizedName,0,-1,샤라카의 로브
@@ -291,11 +291,11 @@ it_arm_tsh_094,uti,DescIdentified,0,-1,라카의 방패
 it_arm_tsh_094,uti,LocalizedName,0,-1,라카의 방패
 it_arm_tsh_901,uti,DescIdentified,0,-1,라카의 방패
 it_arm_tsh_901,uti,LocalizedName,0,-1,라카의 방패
-it_carm_001,uti,LocalizedName,0,-1,글로스톤 숨기기
+it_carm_001,uti,LocalizedName,0,-1,글로스톤 가죽
 it_crea_hung_001,uti,DescIdentified,0,-1,[이것은 굶주림으로 입은 효과입니다.]
 it_crea_hung_001,uti,LocalizedName,0,-1,고통스런 굶주림 (1)
 it_crea_hung_002,uti,DescIdentified,0,-1,[이것은 굶주림으로 입은 효과입니다.]
-it_crea_hung_002,uti,LocalizedName,0,-1,배고픔 공격력 (2)
+it_crea_hung_002,uti,LocalizedName,0,-1,허기 (2)
 it_crea_hung_003,uti,DescIdentified,0,-1,[이것은 굶주림으로 입은 효과입니다.]
 it_crea_hung_003,uti,LocalizedName,0,-1,고통스러운 배고픔 (3)
 it_crea_hung_004,uti,DescIdentified,0,-1,[이것은 굶주림으로 입은 효과입니다.]
@@ -488,7 +488,11 @@ it_misc_meal_002,uti,DescIdentified,0,-1,"샤카라 열매는 크기에서 짐�
 
 이 아이템은 식량으로 사용할 수 있습니다. 휴식의 혜택을 받으려면 인벤토리에 어떤 형태로든 식량이 있어야 합니다."
 it_misc_meal_002,uti,LocalizedName,0,-1,차카라 과일
-it_misc_meal_003,uti,DescIdentified,0,-1,"그라민은 북부 강도 지역의 농촌 지역에서 발견되는 특이한 떼 동물로, 몸에 다양한 식용 부위를 지니고 있다. 그 혀는 맛있는 음식으로 널리 알려져 있다. 이 아이템은 비급으로 사용할 수 있으며, 휴식을 통해 어떤 이점을 얻으려면 인벤토리에 비급을 보유해야 한다."
+it_misc_meal_003,uti,DescIdentified,0,-1,"그라민은 노던 리치의 시골 지역에서 발견되는 특이한 무리 동물로, 몸 전체에 온갖 식용 부위를 지니고 있다.
+
+그 혀는 맛있는 요리를 만드는 재료로 널리 알려져 있다.
+
+이 아이템은 전투 식량으로 사용할 수 있습니다. 휴식으로 이점을 얻으려면 인벤토리에 전투 식량을 가지고 있어야 합니다."
 it_misc_meal_003,uti,LocalizedName,0,-1,그라민어
 it_misc_meal_004,uti,DescIdentified,0,-1,"주주 견과는 주주라 식물에서 따온 견과로 야생 여행자들이 자주 찾는 대상이다. 특별히 배가 부르지 않지만, 이 견과는 문명 지역에서 멀리 떨어져 있을 때 식단을 대체할 수 있으며, 무기한으로 신선함을 유지하면서도 휴대하기가 매우 편리하다. 이 아이템은 급식으로 사용할 수 있다. 휴식을 취하기 위해서는 인벤토리에 급식 형태의 아이템을 가지고 있어야 한다."
 it_misc_meal_004,uti,LocalizedName,0,-1,주주 견과류
@@ -504,13 +508,13 @@ it_misc_poti_001,uti,DescIdentified,0,13440,이 사제 물은 고난의 때에 �
 it_misc_poti_001,uti,LocalizedName,0,13441,지원의 물약
 it_misc_poti_002,uti,DescIdentified,0,-1,약하고 희석된 액체는 이 병 안에서 느리게 흐르고 있다.
 it_misc_poti_002,uti,LocalizedName,0,-1,에일
-it_misc_poti_003,uti,DescIdentified,0,13420,"이 도닉은 모든 종류의 독, 무기독, 질병에 대해 효과적입니다."
+it_misc_poti_003,uti,DescIdentified,0,13420,"이 강장제는 온갖 독, 광물성 독소, 질병, 그리고 모든 종류의 독에 대해 특효약입니다."
 it_misc_poti_003,uti,LocalizedName,0,13421,해독의 물약
 it_misc_poti_004,uti,DescIdentified,0,13426,"더 냉소적인 모험가들이 ""손잡이 사제""라고 부르는 이 성스러운 주입물은 보통의 모험가에게 큰 도움이 된다."
 it_misc_poti_004,uti,LocalizedName,0,13427,축복의 물약
 it_misc_poti_005,uti,DescIdentified,0,13438,어린 황소 들 의 경과와 심장 으로 만든 이 피 붉은 붓은 술 을 마시는 사람 에게 큰 육체적 인 힘 을 준다.
 it_misc_poti_005,uti,LocalizedName,0,13439,황소의 근력 물약
-it_misc_poti_006,uti,DescIdentified,0,13436,이 반짝이는 포션은 음주자의 민첩을 크게 증가시킵니다.
+it_misc_poti_006,uti,DescIdentified,0,13436,이 반짝이는 물약은 마시는 사람의 민첩성을 크게 증가시켜 줍니다.
 it_misc_poti_006,uti,LocalizedName,0,13437,고양이의 우아함 물약
 it_misc_poti_007,uti,DescIdentified,0,13422,"화려 한 냄새 를 띠는 이 음료 는 화려 한 액체 로 만들어져 화려 한 콩 에 얹혀져 있으며, 그 이름 은 그 외모 에 따라 유래 되지 않았습니다."
 it_misc_poti_007,uti,LocalizedName,0,13423,맑은 정신을 부여하는 물약
@@ -590,7 +594,7 @@ it_plot_010,uti,LocalizedName,0,-1,블러드하크 편지
 it_plot_011,uti,DescIdentified,0,-1,"[가라크의 차관 바르후의 소유물 가운데 발견된 이 편지에는 다음과 같다. ""채서님, 현재... 딜레마에 대한 도움을 청하는 당신의 요청에 응답하여 글을 쓰고 있습니다... 양쪽 모두와 저 둘 다 우리 양쪽의 주둥이인 판사 오카리스의 통치의 종말을 보고 싶어하는 것 같습니다. 우리는 한 번 만 판사에서 벗어날 수 있는 계획을 수립했습니다. 제가 도착했을 때 더 자세히 논의 할 것입니다. 적색 옷을 입은 예언자의 출현에 대해 듣게 된다면, 자신의 손에 맡기 위해 준비하십시오. 그 외에도, 당신은 제국 계급에서 자신의 발전을 위해 다른 방법을 선택할 수 있습니다. 순식간에 신중하게 사용하십시오. 그것은 우리의 조기 전에 밝혀지지 않을 것입니다. 적색의 예언자가 나타나면, 그것은 우리가 다른 목적에 적용 할 수 있는 필연적인 계획을 찾을 수 있습니다.]"
 it_plot_011,uti,LocalizedName,0,-1,바르후누 총리의 편지
 it_plot_012,uti,DescIdentified,0,-1,이 열쇠는 총리 바르후누의 소유에 있었다.
-it_plot_012,uti,LocalizedName,0,-1,바르후의 키
+it_plot_012,uti,LocalizedName,0,-1,바르후의 열쇠
 it_plot_013,uti,DescIdentified,0,-1,"칸타르, 우리 선조의 계획의 시간이 가까워지고 있습니다. 당신은 빨간 옷을 입은 낯선 예언자의 도착을 위해 눈을 감아야 합니다. 그의 출현은 판사 오카리스에 대한 우리의 계획의 시작을 알릴 것입니다. 당신의 명령은 모든 사람들이 볼 수 있는 야외에서 판사의 아이를 죽이는 것입니다. 그러한 타격은 확실히 가라크의 사람들의 믿음을 흔들고, 아마도 오카리스에 대한 충성심을 재고하게 만들 것입니다. 행위가 완료되면 나에게 돌아와, 나는 당신을 대대하게 보상합니다. - M."
 it_plot_013,uti,LocalizedName,0,-1,잔타의 편지
 it_plot_014,uti,DescIdentified,0,-1,이 열쇠는 가라크시 아래에 있는 블러드하크스의 둥지로 이어지는 함정 문을 열어줍니다.
@@ -636,7 +640,7 @@ it_plot_033,uti,DescIdentified,0,-1,이것은 알탄 타카로스의 버려진 �
 it_plot_033,uti,LocalizedName,0,-1,지나 타카로스의 시체
 it_plot_034,uti,DescIdentified,0,-1,"알탄 타카로스의 버려진 딸, 지나 타카로스입니다. 당신은 알탄을 찾는 것을 돕기 위해 타카로스 저택의 유적에서 그녀를 데리고 나왔습니다."
 it_plot_034,uti,LocalizedName,0,-1,지나 타카로스
-it_plot_035,uti,DescIdentified,0,-1,"이상한 돌로 만들어진 이 대형 심장은 성스러운 빛으로 비춰져 라카의 심장이라고 불리며, 샤라카의 사람들에게 큰 구원자의 동정과 헌신을 상징합니다."
+it_plot_035,uti,DescIdentified,0,-1,기묘한 돌을 깎아 만들어 성스러운 아우라를 뿜어내는 이것은 샤라카 백성들을 향한 위대한 구원자의 연민과 헌신의 상징인 '라카의 심장'이다.
 it_plot_035,uti,LocalizedName,0,-1,라카의 심장
 it_plot_036,uti,DescIdentified,0,-1,"작은 춤추는 불꽃이 만질 때도 기적으로 타지 않는 이 불꽃은 신앙의 불꽃 중 하나로, 위대한 구원자 라카와 아바란을 걸어가는 모든 사람들에게 대한 그의 자비의 영원한 유대를 상징합니다. 이 불꽃은 제국 사관학교의 라카 의식에서 라카 동상 근처에 놓인 브레이지어 하나를 켜는 데 사용될 수 있습니다."
 it_plot_036,uti,LocalizedName,0,-1,믿음 의 불꽃

@@ -11,7 +11,7 @@ acidrobe,uti,LocalizedName,0,-1,산성 로브
 acidstone,uti,DescIdentified,0,-1,"These strange stones are magic and can be rubbed along a weapon to enhance it's properties. They are particularly coveted by those with crafting skills.
 
 <c ÿÿ>Use: Cast on yourself. The item in your right hand will receive the effect. This item does not work on ranged weapons.<cÿÿÿ>"
-acidstone,uti,Description,0,-1,손에 뛰는 돌.
+acidstone,uti,Description,0,-1,손에서 쿵쾅거리는 돌.
 acidstone,uti,LocalizedName,0,-1,산성 돌
 adventurersbad,uti,DescIdentified,0,58570,"이 배지는 왕국 대표로부터 발급받은 것으로, 항상 착용하여 모험가로서의 법적 지위를 표시해야 합니다. 그러나 확인될 경우 유효한 모험자 헌장도 함께 가져야 합니다."
 adventurersbad,uti,LocalizedName,0,13498,모험가 배지
@@ -34,7 +34,9 @@ archersjerkin,uti,LocalizedName,0,12835,아처의 괴짜
 armletofguidance,uti,DescIdentified,0,-1,"이 팔찌 는 수도원 들 과 동종자 들 을 훈련 시키는데 사용 되어 그 들 이 나중 에 자신 들 이 익힐 수 있는 기술 을 조작 하는 데 도움 이 되었으며, 그 중 상당수 는 결코 수도원 으로 성공 하지 않을 운명 을 가진 사람 들 이 훔쳐갔읍니다."
 armletofguidance,uti,Description,0,-1,밴드 주변에 글씨가 새겨진 팔찌.
 armletofguidance,uti,LocalizedName,0,-1,지도의 팔찌
-armoroffrost,uti,DescIdentified,0,-1,이 섬세하게 제작된 가벼운 메일 코트는 희미한 파란색 빛을 띠고 있습니다. 착용자가 가슴에 있는 중앙 반지를 누르면 얼음 다가 날아갑니다. 시간이 지남에 따라 메일은 맞는 타격에서 에너지를 얻어 충전됩니다. <c ÿÿ> 물품의 모든 충전을 사용하면 먼지로 붕괴됩니다.<cÿÿÿ>
+armoroffrost,uti,DescIdentified,0,-1,"정교하게 제작된 이 가벼운 사슬 갑옷은 옅은 푸른빛을 냅니다. 착용자가 가슴 중앙의 고리를 누르면 얼음 단검이 솟구쳐 나옵니다. 시간이 지남에 따라 이 갑옷은 몸에 가해지는 타격에서 에너지를 흡수해 충전됩니다.
+
+<c ÿÿ>이 아이템의 충전 횟수를 모두 소모하면 먼지가 되어 부서집니다.<cÿÿÿ>"
 armoroffrost,uti,Description,0,-1,이 섬세하게 제작된 가벼운 메일 코트는 희미한 파란색의 빛깔을 가지고 있습니다.
 armoroffrost,uti,LocalizedName,0,12842,서리 갑옷
 artillersitarmo,uti,DescIdentified,0,-1,포병 장갑.
@@ -191,7 +193,7 @@ chaunteasscythe,uti,Description,0,-1,곡물을 절단하는 데 사용되는 단
 chaunteasscythe,uti,LocalizedName,0,-1,촌티아의 대낫
 chivalrousplate,uti,DescIdentified,0,-1,"이 판은 고도로 제작되어 있으며, 전문적으로 결합되어 있어 어떤 기사도 욕망할 만한 것이 된다. 착용할 때, 착용하는 자는 외모가 더 귀족적으로 보이고, 보는 자의 눈에는 지도자로 자리 잡는다."
 chivalrousplate,uti,Description,0,-1,고도로 제작되고 전문적으로 조합된 이 판은 어떤 기사라도 갈망할 것이라 할 수 있다.
-chivalrousplate,uti,LocalizedName,0,-1,기사판금
+chivalrousplate,uti,LocalizedName,0,-1,기사단 판금 갑옷
 cloak,uti,LocalizedName,0,-1,망토
 cloak001,uti,LocalizedName,0,-1,망토
 cloak002,uti,LocalizedName,0,-1,망토
@@ -276,7 +278,7 @@ diamondgreatswo,uti,LocalizedName,0,167,다이아몬드 대검
 dla_gamedart,uti,DescIdentified,0,-1,"이 작은 비늘 은 어떤 이국적 새 가 만든 껍데기, 코끼리, 그리고 미세 한 껍데기 로 만들어져 있습니다. 전투 에서 매우 유용 한 것 같지는 않지만, 어떤 종류의 놀이에 있어서 완벽하게 균형 잡힌 것 입니다. 또한 약간의 진동도 있습니다."
 dla_gamedart,uti,LocalizedName,0,1525,게임 다트
 dla_it_debugdump,uti,DescIdentified,0,-1,"이 항목은 말, 위치, 문 등을 대상으로 할 수 있습니다. 추가 정보를 얻을 수 있습니다."
-dla_it_debugdump,uti,LocalizedName,0,-1,베타 테스터 객체 오브젝트 디버그 데이터 덤프
+dla_it_debugdump,uti,LocalizedName,0,-1,베타 테스터 객체 디버그 데이터 덤프
 dla_joust_arm001,uti,LocalizedName,0,-1,적색 갑옷
 dla_joust_arm002,uti,LocalizedName,0,-1,호클린 기사갑
 dla_joust_arm003,uti,LocalizedName,0,-1,다채로운 갑옷
@@ -289,7 +291,7 @@ dla_joust_helm,uti,LocalizedName,0,-1,창 시합용 투구
 dla_joust_lance1,uti,LocalizedName,0,-1,"창, 노란색"
 dla_joust_lance2,uti,LocalizedName,0,-1,"랜스, 블루"
 dla_joust_lance3,uti,LocalizedName,0,-1,"랜스, 검은색"
-dla_joust_lance4,uti,LocalizedName,0,-1,"거창, 바레"
+dla_joust_lance4,uti,LocalizedName,0,-1,"창, 맨손"
 dla_joust_lanceb,uti,LocalizedName,0,-1,"랜스, 검은 기사"
 dla_joust_lanceh,uti,LocalizedName,0,-1,"랜스, 장소 보유자"
 dla_joust_shield,uti,LocalizedName,0,-1,투기 방패
@@ -363,12 +365,12 @@ firerobe,uti,LocalizedName,0,-1,화염의 로브
 firestone,uti,DescIdentified,0,-1,"These strange stones are magic and can be rubbed along a weapon to enhance it's properties. They are particularly coveted by those with crafting skills.
 
 <c ÿÿ>Use: Cast on yourself. The item in your right hand will receive the effect. This item does not work on ranged weapons.<cÿÿÿ>"
-firestone,uti,Description,0,-1,손에 뛰는 돌.
+firestone,uti,Description,0,-1,손에서 쿵쾅거리는 돌.
 firestone,uti,LocalizedName,0,-1,화석
 flamearrows,uti,DescIdentified,0,-1,이 화살에는 비행 중에 불꽃이 번진 미미한 마법이 걸려 있습니다.
 flamearrows,uti,LocalizedName,0,-1,불꽃 화살
 foeslayer,uti,DescIdentified,0,-1,템푸스에게 전용된 '피스 킬러'는 순수하고 단순한 전쟁의 전술재입니다. 이 템푸스의 균형은 모든 포지션에게 도움이 될 것이지만 템푸스를 따르는 사람들은 그것을 더 강력한 무기로 발견할 것입니다. 템푸스가 손에 들어가면 숨겨진 힘을 풀어줍니다.
-foeslayer,uti,Description,0,-1,탄탄하고 간단한 전투대검. 이 무기에 어떠한 흔적도 없습니다.
+foeslayer,uti,Description,0,-1,단단하고 단순한 전투도끼. 이 무기에는 아무런 표식도 없습니다.
 foeslayer,uti,LocalizedName,0,-1,발살기
 forestersring,uti,DescIdentified,0,13460,"이 이상한 모양의 반지는 녹색 나무로 만들어져 있으며, 반지를 둘러싼 곳에 잎이 새겨져 있다. 이 반지는 착용자를 천천히 치유하는 것 외에도 실바누스의 힘을 불러내 다른 능력을 부여하는 것으로 보인다. 실바누스의 신자들은 이 반지가 추가적인 숨겨진 이점을 가지고 있음을 알게 될 것이다."
 forestersring,uti,Description,0,-1,"이 이상한 모양의 반지는 녹색 나무로 만들어져 있으며, 반지를 둘러싼 잎으로 조각되어 있습니다."
@@ -423,7 +425,7 @@ greenheart,uti,LocalizedName,0,-1,그린하트
 harpbow,uti,DescIdentified,0,-1,"이 멋진 활들은 현의 장력 때문에 사용할 때 하프처럼 공명한다고 해서 그런 이름이 붙었습니다. 이것은 우연이 아닌데, 수년 전에 이상한 전사 바드 집단을 위해 만들어졌기 때문입니다. 고성능 무기일 뿐만 아니라 바드 사용자들의 능력도 증폭시켜 주지만, 활에서 나는 미세한 윙윙거리는 소리는 성가실 수 있습니다."
 harpbow,uti,Description,0,-1,"아주 세련된 복합 장궁, 준비된 스트링."
 harpbow,uti,LocalizedName,0,-1,하프 활
-hawklinmail,uti,DescIdentified,0,-1,호클린의 깃발을 착용한 체인메일 갑옷
+hawklinmail,uti,DescIdentified,0,-1,호클린 가문의 문장이 새겨진 사슬 갑옷.
 hawklinmail,uti,LocalizedName,0,-1,호클린 메일
 hawklinplate2,uti,DescIdentified,0,-1,호클린의 국호를 가진 판자복.
 hawklinplate2,uti,LocalizedName,0,-1,호클린 플래트 메일
@@ -478,7 +480,7 @@ huntsilvercloak,uti,LocalizedName,0,-1,사냥꾼 망토
 huntsilvermail,uti,DescIdentified,0,-1,헌츠실버의 문장이 그려진 체인메일 갑옷
 huntsilvermail,uti,LocalizedName,0,-1,헌츠실버 메일
 huntsilvershiel,uti,DescIdentified,0,-1,헌츠 실버 수호를 들고 있는 방패
-huntsilvershiel,uti,LocalizedName,0,-1,헌츠 실버 방패
+huntsilvershiel,uti,LocalizedName,0,-1,헌츠실버 방패
 hypnoticamulet,uti,DescIdentified,0,-1,이 구리 목걸이는 이상한 조화물을 가지고 있습니다. 조화물은 이상한 각도로 빛을 잡을 수 있습니다. 그 조화물 속의 힘에 암시합니다.
 hypnoticamulet,uti,Description,0,-1,이 구리 목걸이는 이상한 각도로 빛을 잡는 이상한 보석을 담고 있습니다.
 hypnoticamulet,uti,LocalizedName,0,-1,호신부
@@ -488,7 +490,7 @@ icerobe,uti,LocalizedName,0,-1,얼음 의상
 icestone,uti,DescIdentified,0,-1,"These strange stones are magic and can be rubbed along a weapon to enhance it's properties. They are particularly coveted by those with crafting skills.
 
 <c ÿÿ>Use: Cast on yourself. The item in your right hand will receive the effect. This item does not work on ranged weapons.<cÿÿÿ>"
-icestone,uti,Description,0,-1,손에 뛰는 돌.
+icestone,uti,Description,0,-1,손에서 쿵쾅거리는 돌.
 icestone,uti,LocalizedName,0,-1,얼음돌
 imeldasnote,uti,DescIdentified,0,-1,"이 쪽지를 얼핏 훑어보니 호크린 경의 사업 파트너인 상인 이멜다가 쓴 것이다:
 
@@ -527,11 +529,11 @@ keycwcchest3,uti,DescIdentified,0,-1,해적들의 둥지에서 발견된 열쇠
 keycwcchest3,uti,LocalizedName,0,-1,해적 키
 keycwcchest4,uti,DescIdentified,0,-1,발레토에서 열쇠가 발견되었다.
 keycwcchest4,uti,LocalizedName,0,-1,해적 키
-keycwulchest1,uti,DescIdentified,0,-1,해적에서 발견된 키
+keycwulchest1,uti,DescIdentified,0,-1,해적에게서 발견한 열쇠.
 keycwulchest1,uti,LocalizedName,0,-1,해적 키
 keycwulchest2,uti,DescIdentified,0,-1,발레토에서 열쇠가 발견되었다.
 keycwulchest2,uti,LocalizedName,0,-1,해적 키
-keycwuldoor1,uti,DescIdentified,0,-1,해적에서 발견된 키
+keycwuldoor1,uti,DescIdentified,0,-1,해적에게서 발견한 열쇠.
 keycwuldoor1,uti,LocalizedName,0,-1,해적 키
 keyhelmchest1,uti,DescIdentified,0,-1,해적의 키
 keyhelmchest1,uti,LocalizedName,0,-1,열쇠
@@ -547,7 +549,7 @@ keystone2,uti,DescIdentified,0,58570,이 기이한 돌은 손안에서 맥동한
 keystone2,uti,LocalizedName,0,13498,키스톤
 keystone3,uti,DescIdentified,0,58570,이 기이한 돌은 손안에서 맥동한다. 이런 돌은 네세릴인들이 일종의 열쇠로 쓰기도 했다.
 keystone3,uti,LocalizedName,0,13498,키스톤
-keystrongbox,uti,DescIdentified,0,-1,호클린 성의 강함함 열쇠
+keystrongbox,uti,DescIdentified,0,-1,호클린 성의 금고 열쇠.
 keystrongbox,uti,LocalizedName,0,-1,강박 키
 keytfschest,uti,DescIdentified,0,-1,"네 아버지는 항상 이 열쇠를 가지고 있었고, 그것이 아버지의 가방을 열 수 있었다."
 keytfschest,uti,LocalizedName,0,-1,아버지의 열쇠
@@ -598,10 +600,10 @@ lightningaxe,uti,DescIdentified,0,13213,이 마법의 던지기 도끼는 충돌
 lightningaxe,uti,Description,0,-1,투척용 도끼.
 lightningaxe,uti,LocalizedName,0,14405,번개 도끼
 lliirasstars,uti,DescIdentified,0,-1,"이 단순한 무기는 마법에 매료되어 있고, 그들이 직접 공격할 만큼 불행한 사람들에게 혼란을 불러일으킨다."
-lliirasstars,uti,Description,0,-1,"차원, 합금강 슈리케인"
+lliirasstars,uti,Description,0,-1,평범한 합금 강철 수리검.
 lliirasstars,uti,LocalizedName,0,-1,리리라의 별들
 longblight,uti,DescIdentified,0,-1,"이 기묘한 모양의 창날은 녹 때문에 거의 검게 보이지만, 자세히 보면 낯선 재료로 만들어졌음을 알 수 있다. 실바누스에게 봉헌된 이 창은 입힌 상처에 역병과 부패를 일으킨다. 실바누스의 신도가 휘두르면 창에 깃든 힘이 더욱 강해진다."
-longblight,uti,Description,0,-1,"이 특이한 모양의 창은 빛이 거의 검게 어두워 보이지만, 자세히 살펴보면 어떤 이상한 재료로 만들어졌다는 것을 알 수 있습니다."
+longblight,uti,Description,0,-1,"이 특이한 모양의 창은 날이 녹으로 거의 검게 변한 것처럼 보이지만, 자세히 살펴보면 낯선 재료로 만들어졌음을 알 수 있습니다."
 longblight,uti,LocalizedName,0,-1,긴 시간
 longbowyew,uti,DescIdentified,0,-1,"보통의 롱보이는 다르지 않습니다. 이 롱보이는 유에 의해 제작되었습니다. 롱보이는 표준 롱보보다 크게 크다. 이것은 더 약한 캐릭터에 도움이 되지 않을 것입니다 (강력 12보다 적은 것은 그것을 사용할 수 없습니다), 그러나 더 강한 캐릭터는 추가적인 롱을 사용할 수 있습니다. 롱보이는 마법이 아닙니다. 따라서 평균 롱보보다 몇 가지 금이 더 비싸습니다. 장비에 있어서, 롱보이는 강도에 따라 강력한 보너스를 부여합니다: +1 보너스 최소 = 14 +2 보너스 최소 = 17 +3 보너스 최소 = 20"
 longbowyew,uti,LocalizedName,0,-1,주나무 장궁
@@ -631,7 +633,7 @@ magicbean4,uti,DescIdentified,0,-1,콩 가방에서 뽑힌 마법콩.
 magicbean4,uti,LocalizedName,0,-1,마법콩
 magicbsword,uti,DescIdentified,0,-1,마법의 바스타드 소드
 magicbsword,uti,LocalizedName,0,-1,마법검
-magicclaymore,uti,DescIdentified,0,-1,"미세하게 제작된 무기, 덕목이 가미된 무기."
+magicclaymore,uti,DescIdentified,0,-1,덕목이 깃든 정교한 무기입니다.
 magicclaymore,uti,LocalizedName,0,-1,마법 클레이모어
 magicdagger,uti,DescIdentified,0,-1,마법으로 제작된 칼에 세련된 선들이 새겨져 있다.
 magicdagger,uti,LocalizedName,0,-1,마법 단검
@@ -643,17 +645,17 @@ magicdoubleaxe,uti,DescIdentified,0,-1,마법적인 힘이 깃든 훌륭한 무�
 magicdoubleaxe,uti,LocalizedName,0,-1,마법 쌍날도끼
 magicdoublesword,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magicdoublesword,uti,LocalizedName,0,-1,마법의 두 자루의 검
-magicfootflail,uti,DescIdentified,0,-1,"미세하게 제작된 무기, 덕목이 가미된 무기."
-magicfootflail,uti,LocalizedName,0,-1,마법 발대검
+magicfootflail,uti,DescIdentified,0,-1,덕목이 깃든 정교한 무기입니다.
+magicfootflail,uti,LocalizedName,0,-1,마법 발 도리깨
 magicgreataxe,uti,DescIdentified,0,-1,마법적인 힘이 깃든 훌륭한 무기.
 magicgreataxe,uti,LocalizedName,0,-1,마법 대도끼
 magichammer,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magichammer,uti,LocalizedName,0,-1,마법 철퇴
-magichandaxe,uti,DescIdentified,0,-1,"미세하게 제작된 무기, 덕목이 가미된 무기."
+magichandaxe,uti,DescIdentified,0,-1,덕목이 깃든 정교한 무기입니다.
 magichandaxe,uti,LocalizedName,0,-1,마법 손도끼
 magichorseflail,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magichorseflail,uti,LocalizedName,0,-1,마법의 말 도리깨
-magickama,uti,DescIdentified,0,-1,"미세하게 제작된 무기, 덕목이 가미된 무기."
+magickama,uti,DescIdentified,0,-1,덕목이 깃든 정교한 무기입니다.
 magickama,uti,LocalizedName,0,-1,마법 카마
 magickukri,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magickukri,uti,LocalizedName,0,-1,마법 쿠크리
@@ -683,7 +685,7 @@ magicstaff,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 �
 magicstaff,uti,LocalizedName,0,-1,마법 지팡이
 magicsword,uti,DescIdentified,0,-1,이 검은 덕목을 장식한 미세하게 제작된 칼입니다.
 magicsword,uti,LocalizedName,0,-1,마법검
-magicthrowingaxe,uti,DescIdentified,0,-1,미묘하게 균형 잡힌 마법 던전용 도끼.
+magicthrowingaxe,uti,DescIdentified,0,-1,균형이 잘 잡힌 마법 투척 도끼.
 magicthrowingaxe,uti,LocalizedName,0,-1,마법 투척도끼
 magictulwar,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magictulwar,uti,LocalizedName,0,-1,마법 툴워
@@ -709,7 +711,7 @@ mailoftheslee,uti,LocalizedName,0,-1,잠든 검의 갑옷
 matronsclothes,uti,LocalizedName,0,12835,매트론의 옷
 melfsrod,uti,DescIdentified,0,-1,멜프의 막대기는 마법사들이 산성 주문의 레퍼토리를 보관하기 위해 만들어졌습니다.
 melfsrod,uti,Description,0,-1,검은색 막대기.
-melfsrod,uti,LocalizedName,0,-1,멜프의 레드로드
+melfsrod,uti,LocalizedName,0,-1,멜프의 막대
 merchantschart,uti,DescIdentified,0,48895,이 상인의 헌법은 7일 동안 무기를 무관하게 들고 다니도록 허용하고 있습니다. 그래서 합법적으로 카라반을 방어할 수 있습니다.
 merchantschart,uti,LocalizedName,0,48893,상인의 헌장
 merchantsring,uti,DescIdentified,0,-1,"이 반지들은 많은 상인들이 착용합니다. 보석에 담긴 가치도 있지만, 미묘한 마법적 힘도 깃들어 있습니다."
@@ -832,9 +834,9 @@ purpledragonkn,uti,Description,0,-1,코르미르의 상징인 보라색 용이 �
 purpledragonkn,uti,LocalizedName,0,-1,보라빛 용기사 방패
 purpledragonli,uti,DescIdentified,0,-1,보라색 용의 가벼운 갑옷
 purpledragonli,uti,LocalizedName,0,-1,보라색 용의 빛 갑옷
-purpledragonlmai,uti,DescIdentified,0,-1,보라색 용의 갑옷.
+purpledragonlmai,uti,DescIdentified,0,-1,퍼플 드래곤즈의 사슬 갑옷.
 purpledragonlmai,uti,LocalizedName,0,-1,보라색 용 라이온 메일
-purpledragonma,uti,DescIdentified,0,-1,보라색 용의 갑옷.
+purpledragonma,uti,DescIdentified,0,-1,퍼플 드래곤즈의 사슬 갑옷.
 purpledragonma,uti,LocalizedName,0,-1,보라용 메일
 purpledragonov,uti,DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 purpledragonov,uti,LocalizedName,0,-1,보라색 드래곤 오버스word Shield
@@ -842,8 +844,8 @@ purpledragonsc,uti,DescIdentified,0,-1,보라색 용의 가벼운 갑옷.
 purpledragonsc,uti,LocalizedName,0,-1,보라색 용 스카우트 갑옷
 purpledragonscou,uti,DescIdentified,0,-1,보라색 용 스카우트의 표지를 보여주는 방패.
 purpledragonscou,uti,LocalizedName,0,-1,보라색 용 스카우트 방패
-purpleknowall,uti,DescIdentified,0,-1,"이 이상한 보라색 꽃은 수년 동안 채취 당일만큼 신선하게 유지됩니다. 그러나 꽃이 부서지고 생성된 양액의 작은 방울을 혀에 배치하면, 음주자는 몇 시간 동안 지속될 수 있는 통찰력의 파장을 느낄 수 있습니다. 물론 이것이 보라색 노알의 이름이 된 이유입니다."
-purpleknowall,uti,Description,0,-1,작은 보라색 꽃이 날아와도 이렇게 신선하지 않습니다.
+purpleknowall,uti,DescIdentified,0,-1,이 이상하고 보라색인 꽃은 꺾인 날처럼 몇 년 동안이나 신선하게 유지됩니다. 하지만 꽃을 으깨어 그 안에서 나온 작은 수액 방울을 혀에 올리면 마신 사람은 몇 시간 동안 지속되는 엄청난 통찰력을 느끼게 됩니다. 물론 이것이 퍼플 노올이 그런 이름을 얻게 된 이유입니다...
+purpleknowall,uti,Description,0,-1,방금 딴 것처럼 아주 신선한 작은 보라색 꽃.
 purpleknowall,uti,LocalizedName,0,-1,보라색 박식가
 rbastardsword,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
 rbastardsword,uti,LocalizedName,0,-1,재련된 바스타드 소드
@@ -853,7 +855,7 @@ rdagger,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 �
 rdagger,uti,LocalizedName,0,191,재제작된 단검
 rdiremace,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
 rdiremace,uti,LocalizedName,0,1526,재련된 다이어 메이스
-reddragonscale,uti,DescIdentified,0,-1,붉은 드래곤의 크기야. 그런 것들은 많은 마법 무기와 물품을 제작할 때 사용되므로 좋은 가격을 받는다.
+reddragonscale,uti,DescIdentified,0,-1,붉은 드래곤의 비늘이다. 이러한 재료들은 많은 마법 아이템을 제작하는 데 사용되기 때문에 꽤 비싼 값에 팔린다.
 reddragonscale,uti,LocalizedName,0,13665,레드 용의 비늘
 retreathorn,uti,DescIdentified,0,62369,이 뿔나팔을 불면 모든 병사에게 전투에서 이탈해 원래 위치로 후퇴하라고 명령합니다.
 retreathorn,uti,LocalizedName,0,62367,후퇴하는 뿔
@@ -872,7 +874,7 @@ ridersring,uti,Description,0,-1,띠가 은 구리 반지.
 ridersring,uti,LocalizedName,0,-1,라이더의 반지
 ringofchange,uti,DescIdentified,0,-1,"이 반지는 플래티넘으로 세련되게 제작된 둥근 컷 아메티스트가 장식된 반지입니다. 이 반지는 착용자를 3 번 변형시켜 강력한 존재로 변형시킬 수 있으며, 보통 몇 분 동안만 가능합니다. 이 특정 반지의 형태는 알려져 있지 않습니다."
 ringofchange,uti,Description,0,-1,플래티넘으로 세운 둥근 컷 아메티스트로 세운 세련된 반지
-ringofchange,uti,LocalizedName,0,-1,변경 반지
+ringofchange,uti,LocalizedName,0,-1,변화의 반지
 ringofflame,uti,DescIdentified,0,-1,"불꽃의 반지, 공격적인 주문을 필요로 하는 사람들에게 유용한 조각입니다."
 ringofflame,uti,Description,0,-1,미세하게 제작된 반지
 ringofflame,uti,LocalizedName,0,-1,불꽃 반지
@@ -883,7 +885,7 @@ ringofthecent,uti,DescIdentified,0,-1,"마법사 드로플리스는 켄타우르
 ringofthecent,uti,Description,0,-1,순수한 청동한 반지.
 ringofthecent,uti,LocalizedName,0,-1,센타우르의 반지
 ringofthorns,uti,DescIdentified,0,-1,"이 마법적인 구리 반지는 여러 가지 톱니 모양의 발사체를 가지고 있습니다. 명령어를 입력하면, 이 톱니들은 반지에서 선택한 적을 향해 발사됩니다."
-ringofthorns,uti,Description,0,-1,"이 은색 반지는 여러 가지 날카로운 손상부위를 가지고 있으며, 주의를 기울이지 않는 사람은 쉽게 자신을 다칠 수 있습니다."
+ringofthorns,uti,Description,0,-1,이 황동 반지는 몇 개의 날카로운 돌출부가 있어 주의하지 않으면 자칫 손을 베일 수 있다.
 ringofthorns,uti,LocalizedName,0,-1,용사의 반지
 ringofturning,uti,DescIdentified,0,-1,이 장식되지 않은 철반지는 사제 성품의 능력을 높이는 숨겨진 힘을 가지고 있습니다.
 ringofturning,uti,Description,0,-1,순수한 철무늬
@@ -909,7 +911,7 @@ rmagicaxe,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의
 rmagicaxe,uti,LocalizedName,0,-1,재제작된 마법 도끼
 rmorningstar,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
 rmorningstar,uti,LocalizedName,0,1541,개조된 가시철퇴
-robesofmight,uti,DescIdentified,0,-1,"힘의 의복은 각 공격에서 조금씩 흡수하여, 결국 착용자가 공기의 폭풍으로 방출할 수 있을 만큼의 힘을 저장합니다. 모든 힘이 의복에서 사라지면, 그들은 쓸모가 없게 되고 먼지로 변합니다."
+robesofmight,uti,DescIdentified,0,-1,"힘의 로브는 각 타격의 충격을 일부 흡수하며, 결국 착용자가 공포의 폭풍 형태로 방출할 수 있을 만큼의 힘을 축적합니다. 로브에서 모든 힘이 방출되면 쓸모없게 되어 먼지로 바스러질 것입니다."
 robesofmight,uti,Description,0,-1,가슴과 허리에 패드를 댄 로브 한 벌.
 robesofmight,uti,LocalizedName,0,-1,강력한 의복
 robesofretalia,uti,DescIdentified,0,-1,"복수의 의복은 각 공격을 조금씩 흡수하여, 결국 착용자가 마법을 통해 방출할 만큼 충격의력을 축적합니다. 의복에 남은 모든 힘이 소비되면, 그들은 쓸모 없게 되어 먼지로 붕괴됩니다."
@@ -971,7 +973,7 @@ scribingarrows,uti,Description,0,-1,이 부드러운 마법의 화살은 표적�
 scribingarrows,uti,LocalizedName,0,-1,화살을 작성하기
 sentientamulet,uti,DescIdentified,0,67520,"이 미술품 은 작은 미술품 으로 달린 얼굴 이 아닙니다. 이 미술품 은 일반 미술품 이 아닙니다. 얼굴 은 볼 수 있고 들을 수 있으며, 속삭이는 말 으로 숨겨진 위험 에 대해 착용자 에게 경고 합니다."
 sentientamulet,uti,Description,0,-1,에마일 얼굴로 조각된 이 자석은 분명히 마법적이지만 그 능력은 전혀 알 수 없습니다.
-sentientamulet,uti,LocalizedName,0,67521,감각 있는 호신부
+sentientamulet,uti,LocalizedName,0,67521,자아를 가진 부적
 shard1,uti,DescIdentified,0,58570,당신의 아버지는 전쟁이 끝난 후에도 이 칼의 조각들을 안전하게 보관하셨습니다. 칼날 자체는 아버지의 팔을 짓이기 꼬리 일격을 날렸던 그 악마의 용의 꼬리에 부러졌습니다. 아버지는 항상 이 무기가 마법의 힘을 지녔다고 주장하며 언젠가 다시 제련할 뜻을 품고 계셨지요.
 shard1,uti,LocalizedName,0,13498,마법 검의 파편
 shard2,uti,DescIdentified,0,-1,폴터 요새의 폴터가이스트가 소유했던 훌륭한 검에서 남은 유일한 부분. 성수를 뿌리자 무기가 파괴되어 몇 조각만 남게 되었다.
@@ -991,14 +993,14 @@ shockrobe,uti,LocalizedName,0,-1,충격의 로브
 shockstone,uti,DescIdentified,0,-1,"These strange stones are magic and can be rubbed along a weapon to enhance it's properties. They are particularly coveted by those with crafting skills.
 
 <c ÿÿ>Use: Cast on yourself. The item in your right hand will receive the effect. This item does not work on ranged weapons.<cÿÿÿ>"
-shockstone,uti,Description,0,-1,손에 뛰는 돌.
+shockstone,uti,Description,0,-1,손에서 쿵쾅거리는 돌.
 shockstone,uti,LocalizedName,0,-1,충격석
 sholywater,uti,DescIdentified,0,62351,"폴터가이스트를 퇴마하는 데 쓰는, 특별히 준비된 성수 한 병이다. 폴터가이스트에 뿌려야만 쓸 수 있다. 어려운 건 먼저 폴터가이스트를 제압하는 일이다."
 sholywater,uti,LocalizedName,0,62349,특별히 준비된 성수
 shriekstone,uti,DescIdentified,0,-1,"These strange stones are magic and can be rubbed along a weapon to enhance it's properties. They are particularly coveted by those with crafting skills.
 
 <c ÿÿ>Use: Cast on yourself. The item in your right hand will receive the effect. This item does not work on ranged weapons.<cÿÿÿ>"
-shriekstone,uti,Description,0,-1,손에 뛰는 돌.
+shriekstone,uti,Description,0,-1,손에서 쿵쾅거리는 돌.
 shriekstone,uti,LocalizedName,0,-1,스톤의 소리
 silvanusleathe,uti,DescIdentified,0,-1,이 가죽 갑옷은 알려지지 않은 동물의 갈색 피부로 만들어져 있으며 실바누스에게 전념되어 있습니다. 그것은 착용자에게 큰 오크의 저항을 부여합니다. 그리고 착용자가 실바누스를 숭배하면 갑옷을 착용하면 힘이 더 커집니다.
 silvanusleathe,uti,Description,0,-1,알려지지 않은 동물의 가죽으로 만든 가죽 갑옷
@@ -1009,7 +1011,7 @@ silverarrows,uti,LocalizedName,0,-1,은화살
 silverchalice,uti,DescIdentified,0,-1,"이것은 작은 은색 주전자로, 잎 모티브가 있습니다. 그 원래는 알 수 없지만, 이 주전자는 매일 맑은 액체로 채워집니다. 마실 때마다 이 액체는 작은 치유력을 가지고 있습니다."
 silverchalice,uti,Description,0,-1,나뭇잎 무늬가 새겨진 작고 은빛 성찬컵.
 silverchalice,uti,LocalizedName,0,13665,은잔
-silverknife,uti,DescIdentified,0,-1,은과 차가운 철로 만들어진 단단한 합금 블레이드로 세련된 창이다.
+silverknife,uti,DescIdentified,0,-1,은과 차가운 철로 만들어진 단단한 합금 날을 지닌 정교한 단검.
 silverknife,uti,Description,0,-1,은빛으로 된 날을 가진 이상하게 생긴 단검.
 silverknife,uti,LocalizedName,0,-1,은빛 단검
 silvermirror,uti,DescIdentified,0,-1,이 거울은 비추지 않고 대신 완벽한 은빛 광택만 보여 준다.
@@ -1019,7 +1021,7 @@ silvertradebar,uti,LocalizedName,0,48893,교역용 은괴
 skillstone,uti,DescIdentified,0,-1,"고대의 유물인 이 돌을 사용하면 아이템에 특성을 부여할 수 있습니다. 결과는 예측하기 어렵고 때로는 해로울 수도 있지만, 제작 능력이 있는 자의 손에서는 좀 더 확실한 효과를 낼 수 있습니다.
 
 <c ÿÿ>사용: 효과를 부여하려는 아이템에 사용합니다.<cÿÿÿ>"
-skillstone,uti,Description,0,-1,손에 뛰는 돌.
+skillstone,uti,Description,0,-1,손에서 쿵쾅거리는 돌.
 skillstone,uti,LocalizedName,0,-1,기술의 돌
 slam2d6dispel,uti,LocalizedName,0,13224,슬램 2d6 마법 해제
 slicer,uti,DescIdentified,0,-1,슬라이저 는 금색 칼과 에바니 손잡이가 있는 매우 얇은 톱니 입니다. 칼 자체 는 금 이 아니라 매우 날카로운 가장자리를 가지고 있는 마법적 합금 으로 만들어졌습니다.
@@ -1095,7 +1097,7 @@ swordoflight,uti,LocalizedName,0,-1,빛의 검
 symbolofnature,uti,DescIdentified,0,62369,이 작은 종교 상징은 알려지지 않은 신을 모티브로 한 것 같습니다. 숲 자체만큼이나 오래된 이 상징은 위로부터 번개를 불러내는 힘을 숨기고 있습니다.
 symbolofnature,uti,Description,0,62368,사슬에 작은 기호입니다.
 symbolofnature,uti,LocalizedName,0,62367,자연의 상징
-szassmorgsmac,uti,LocalizedName,0,177,스사스 모그의 망치
+szassmorgsmac,uti,LocalizedName,0,177,자스 모르그의 메이스
 thebrute,uti,DescIdentified,0,-1,"이 무기들은 아무리 세심하게 다루려 해도 쉽게 손상되지 않는다. 칼날은 약간 둥글게 다듬어져 있으며, 도끼 머리 뒤에 있는 거대한 무게는 도끼보다는 거대한 망치처럼 느껴진다."
 thebrute,uti,Description,0,-1,크고 무거운 양손 도끼이다. 날이 무뎌져 있다.
 thebrute,uti,LocalizedName,0,-1,괴물
@@ -1114,7 +1116,7 @@ thewatcher,uti,Description,0,-1,아주 세련된 반장검이 장갑에 눈의 �
 thewatcher,uti,LocalizedName,0,-1,감시자
 thewitchring,uti,DescIdentified,0,-1,"마법사 주군과의 연결이 끊겼음에도 이 반지는 그 자체로 여전히 강력하지만, 마법사 주군이 살아 있는 동안 이를 착용하는 것은 매우 위험합니다. 이 반지를 통해 마법사 주군은 가장 강한 의지력을 가진 자마저 조종하여, 착용자의 본래 성향과 상관없이 사악하고 악의적으로 행동하게 만들 수 있습니다. 게다가 이 반지를 지닌 자에게 살해당한 자들의 영혼은 마법사 주군 자신을 직접적으로 강화해 줍니다."
 thewitchring,uti,LocalizedName,0,-1,마법사 반지
-thievesboots,uti,DescIdentified,0,-1,도둑들의 부츠는 도둑들의 길드에서 제작되었습니다. 심지어 매우 무거운 채로 채워져 있더라도 작은 발에는 맞지 않을 것입니다.
+thievesboots,uti,DescIdentified,0,-1,도둑 길드를 위해 제작된 도둑의 부츠. 솜을 두둑이 채워 넣어도 작은 발에는 맞지 않을 것이다.
 thievesboots,uti,Description,0,-1,"단순한 구두, 꽤나 낡은 것 같고, 전혀 특별한 것이 아니다."
 thievesboots,uti,LocalizedName,0,-1,도둑들의 장화
 thunderhead,uti,DescIdentified,0,-1,"이 기묘한 폴액스는 날이 매우 큽니다. 표면을 따라 작은 전기 불꽃이 흐르고, 칼날이 무언가를 치면 강력한 충격을 내뿜습니다. 오래 사용하면 휘두르는 사람이 전격에 저항력을 갖게 됩니다."
@@ -1189,7 +1191,7 @@ wc_htc_helm,uti,LocalizedName,0,84264,헌트크라운 헬멧
 wc_htc_helm002,uti,LocalizedName,0,84264,헌츠실버 헬멧
 wc_htc_lord,uti,LocalizedName,0,12904,트 크라운 로드 체인
 wc_htc_soldier,uti,LocalizedName,0,12904,헌트크라운 병사
-wc_hunter_m,uti,LocalizedName,0,12923,사냥꾼 최고의 옷 유니섹스
+wc_hunter_m,uti,LocalizedName,0,12923,남녀공용 최고급 사냥꾼 의복
 wc_hwk_cook,uti,LocalizedName,0,12925,호클린 요리사
 wc_hwk_nobel_fem,uti,LocalizedName,0,12904,호클린 여인 귀족 옷
 wc_hwk_nobel_mal,uti,LocalizedName,0,12904,호클린 남자 귀족 옷
@@ -1198,7 +1200,7 @@ wc_local_u,uti,LocalizedName,0,12923,로컬 의복
 wc_local_u2,uti,LocalizedName,0,12923,로컬 의복
 wc_lservant_f,uti,LocalizedName,0,12923,하위 레벨 하위 레벨 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하위급 하우스
 wc_lservant_m,uti,LocalizedName,0,12923,하급 하인용 남성용 최고급 옷
-wc_servant_f,uti,LocalizedName,0,12923,상위급 하인 최고의 옷 입힌
+wc_servant_f,uti,LocalizedName,0,12923,상층부 하인 예복 (여)
 wc_servant_m,uti,LocalizedName,0,12923,상층 하인 최고급 의상 남성
 wcbook1,uti,DescIdentified,0,-1,"코르미르 왕국의 창건과 수자일 최초의 왕의 정체성은 학자들 사이에서 논쟁되고 있다. 한 소규모 학파의 생각에는 ""몬다르""라는 이름으로 알려진 농부가 수자일 정착지의 첫 번째 지도자이며, 따라서 진정한 ""첫 번째 왕""이라고 간주된다. 왕실의 역사학자들 사이에서 더 인기있는 이론은 온데스 오바르스키르가 실제로 코르미르의 첫 번째 왕이었다고 주장한다. 온데스 오바르스키르가 그의 시대에 그의 백성의 진정한 지도자였다는 논쟁은 없다. 그러나 온데스는 자신을 왕으로 서식하지 않았다. 실제로, 온데스는 왕의 칭호와 엘프스가 부여하거나 확증한 모든 왕관을 거부했다. 온데스는 그의 후손들 사이에서 고소로 ""오바르스키르의 왕은 사실 코르미르의 첫 번째 왕이었다""고 주장한다. 오바르스키르 왕실의 일종인 오바르스키르 왕과 약 1,350 년 전 경연한 경연한 경연한 경연한 경연한 경연대회에서 오바르스키르 왕과 오바르스키르 왕관의"
 wcbook1,uti,LocalizedName,0,-1,오바르스키르 집 - 코르미르 왕실
