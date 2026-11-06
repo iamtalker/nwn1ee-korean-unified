@@ -45,7 +45,7 @@ acererak_1,dlg,ReplyList/0/Text,0,"""당신은 누구십니까? 이 모든 것�
 acererak_1,dlg,ReplyList/2/Text,0,"""나는 신화들을 위해 왔어요. 내 이름은 당신들의 관심은 아닙니다""."
 acererak_1,dlg,ReplyList/8/Text,0,"""내 이름은 <FullName>이다. 당신과 이 곳에 대해 더 말해봐."""
 acererak_1,dlg,ReplyList/10/Text,0,"""나는 이 신화를 가져오기 위해 여기 왔습니다""."
-acererak_1,dlg,ReplyList/13/Text,0,"""당신의 신화 속에서 특별한 점은 무엇인가?"""
+acererak_1,dlg,ReplyList/13/Text,0,"""당신의 미살라에 특별한 점이라도 있나요?"""
 acererak_1,dlg,ReplyList/16/Text,0,"""카르수스와 오래된 네테릴에 대해 더 말해봐."""
 acererak_1,dlg,ReplyList/25/Text,0,"""파이어임에게 무슨 일이 있었나요?"""
 acererak_1,dlg,ReplyList/27/Text,0,"""어떻게 이 사건에서 당신의 신화 속이 살아남았을까?"""
@@ -147,7 +147,7 @@ endconv,dlg,EntryList/4/Text,0,"""카르수스, 그 바보. 나는 내 신자들
 endconv,dlg,EntryList/5/Text,0,"""미스트릴이 그런 것들을 사용했다고 생각하냐? 그 날부터 그런 유물들은 금지되어 있고, 그대로 두는 것이 좋다."""
 endconv,dlg,EntryList/6/Text,0,"""미스트릴은 카르수스만큼이나 어리석었고, 그녀의 후계자들도 마찬가지였지. 아니면 이 미살라를 수 세기 동안 엘프들 사이에 숨겨둔 다른 이유라도 있는 걸까?"""
 endconv,dlg,EntryList/7/Text,0,"<StartAction>[놀란]</Start>""그게 무슨 뜻이야?"""
-endconv,dlg,EntryList/8/Text,0,"""걱정마, 곧 알게 될 거야, 이 유물과 함께 숲에서 무슨 비밀 계획을 짓고 있었는지.""<StartAction>[결국 당신에게 돌아온다]</Start>""내 아이여, 이것을 내게 넘겨줘. 너는 파에룬에 혼란과 파괴를 가져오기 위해 내가 선택한 사람으로서 시작할 거야!"""
+endconv,dlg,EntryList/8/Text,0,"""걱정 마라, 네가 이 숲에서 이 유물로 어떤 음모를 꾸미고 있었는지 곧 알게 될 테니.""<StartAction>[마침내 당신을 돌아보며]</Start>""이것을 넘겨다오, 내 아이야. 너는 파에룬에 혼란과 파괴를 불러올 나의 선택받은 자가 될 것이다!"""
 endconv,dlg,EntryList/11/Text,0,"""어머니가 시도하셨잖아요. 기억 안 나세요?"""
 endconv,dlg,EntryList/12/Text,0,"""<FirstName>, 저 악한 신들이 우위를 점하기 위해 서로 어떻게 싸우는지 보아라."""
 endconv,dlg,EntryList/13/Text,0,"""만약 그들이 이 유물을 통제한다면, 세계는 혼란에 빠질 것이고, 권력 간의 균형은 큰 위험에 처할 것이다."""
@@ -207,7 +207,7 @@ gario_1,dlg,EntryList/11/Text,0,"""아, 그래, 그건 쉽네. 나는 산을 표
 gario_1,dlg,EntryList/12/Text,0,"""내가 뭘 할 수 있을지 알아보겠소..."""
 gario_1,dlg,EntryList/13/Text,0,"""아, 그래, 그건 쉽네. 나는 산을 표면에 처리할 거야... 끝났어."""
 gario_1,dlg,EntryList/14/Text,0,"""나는 여전히 제 특별한 선택의 보너스 무기와 갑옷을 가지고 있습니다. 그들은 매우 가치 있습니다."
-gario_1,dlg,ReplyList/0/Text,0,"""나는 이 갑옷을 인간 엘리트 전사 중 한 명에서 찾았다. 그것은 꽤 견고하지만 색깔이 마음에 들지 않는다. 표면 주민들은 빛나는 경향이 있어 어두운 갑옷을 선호한다. 이것에 대해 무엇인가 도와줄 수 있겠나?"""
+gario_1,dlg,ReplyList/0/Text,0,"""인간 정예 전사들 중 하나에게서 이 갑옷을 얻었지. 꽤 튼튼하긴 한데 색깔이 마음에 안 드단 말이야. 지상 놈들은 번쩍번쩍 빛나는 걸 좋아하지만, 난 어두운색 사슬 갑옷이 더 좋거든. 이걸 어떻게 어떻게 좀 손봐줄 수 있겠나?"""
 gario_1,dlg,ReplyList/3/Text,0,"""나는 이 갑옷을 찾았다. 이 갑옷은 어떤 대제사장 에게서 왔고, 아주 좋지만, 그 색깔은 마음에 들지 않는다. 그 표면 거주자 들 은 밝게 빛나는 경향이 있고, 저는 어두운 우편을 선호 합니다."
 gario_1,dlg,ReplyList/6/Text,0,"""무기를 주실 수 있으신가요?"""
 gario_1,dlg,ReplyList/7/Text,0,"""아니, 다시 생각해봤어요""."
@@ -215,7 +215,7 @@ gario_1,dlg,ReplyList/8/Text,0,"""네. 그 특별한 무기와 갑옷을 보여�
 gario_1,dlg,ReplyList/9/Text,0,"""방어를 위해 머물렀던 사람들은 엘프의 화살에 대항할 기회가 없었다."""
 gario_1,dlg,ReplyList/10/Text,0,"""동료들을 내버려두고 온 것에 대해 죄책감도 안 드나?"""
 gario_1,dlg,ReplyList/11/Text,0,"""음, 좋은 말이야."""
-gario_1,dlg,ReplyList/12/Text,0,"""나는 이 갑옷을 인간 엘리트 전사 중 한 명에서 찾았다. 그것은 꽤 견고하지만 색깔이 마음에 들지 않는다. 표면 주민들은 빛나는 경향이 있어 어두운 갑옷을 선호한다. 이것에 대해 무엇인가 도와줄 수 있겠나?"""
+gario_1,dlg,ReplyList/12/Text,0,"""인간 정예 전사들 중 하나에게서 이 갑옷을 얻었지. 꽤 튼튼하긴 한데 색깔이 마음에 안 드단 말이야. 지상 놈들은 번쩍번쩍 빛나는 걸 좋아하지만, 난 어두운색 사슬 갑옷이 더 좋거든. 이걸 어떻게 어떻게 좀 손봐줄 수 있겠나?"""
 gario_1,dlg,ReplyList/15/Text,0,"""나는 이 갑옷을 찾았다. 이 갑옷은 어떤 대제사장 에게서 왔고, 아주 좋지만, 그 색깔은 마음에 들지 않는다. 그 표면 거주자 들 은 밝게 빛나는 경향이 있고, 저는 어두운 우편을 선호 합니다."
 gario_1,dlg,ReplyList/18/Text,0,"""무기를 주실 수 있으신가요?"""
 gario_1,dlg,ReplyList/19/Text,0,"""아니, 다시 생각해봤어요""."
@@ -421,7 +421,7 @@ llomir_5,dlg,ReplyList/22/Text,0,"너 자신에 대해 좀 더 말해다오, 라
 llomir_5,dlg,ReplyList/23/Text,0,당신은 우리가 멘조베란잔으로 돌아갈 수 있을 거라 생각하지 않나?
 llomir_5,dlg,ReplyList/24/Text,0,어쩌면 우리는 빈손으로 돌아오지 않을 거야.
 llomir_5,dlg,ReplyList/25/Text,0,미래가 무엇을 가져올지 보자.
-llomir_5,dlg,ReplyList/26/Text,0,"맞아, 우리들이 죽었을 거야."
+llomir_5,dlg,ReplyList/26/Text,0,맞다. 이건 우리들의 죽음을 의미했을 것이다.
 llomir_5,dlg,ReplyList/27/Text,0,내가 롤트에서 미엘리키로 돌아갔을 때 숲의 여인이 날 햇빛으로부터 보호하겠다고 약속했고
 llomir_5,dlg,ReplyList/28/Text,0,그녀는 자녀 들 에게 주변 사람 들 과 평화 로 살 수 있게 하고 서로 용납 할 수 있게 가르칩니다. 하지만 여전히 필요하다면 자기 를 방어 할 수 있게 조심해야 합니다.
 llomir_5,dlg,ReplyList/29/Text,0,원하는 대로
@@ -488,8 +488,8 @@ redcrystal,dlg,ReplyList/4/Text,0,나는 위대한 힘을 가진 마법 무기�
 redcrystal,dlg,ReplyList/6/Text,0,"""평생 쓸 수 있는 것보다 더 많은 금을 갖고 있었으면 좋겠어."""
 redcrystal,dlg,ReplyList/8/Text,0,나는 강력한 유물을 찾기 위해 왔어. 이미 그것을 소지하고 있으면 좋겠지만.
 redcrystal,dlg,ReplyList/9/Text,0,"""내가 다시 고민해볼게."""
-redcrystal,dlg,ReplyList/10/Text,0,"""아세레라크의 라이어에 있었으면 좋겠어."""
-redcrystal,dlg,ReplyList/12/Text,0,"""왜 나가 그들을 당신과 공유해야 하나?"""
+redcrystal,dlg,ReplyList/10/Text,0,"""아세레라크의 소굴에 있었으면 좋겠어."""
+redcrystal,dlg,ReplyList/12/Text,0,"""내가 왜 그것들을 당신과 나눠야 하지?"""
 redcrystal,dlg,ReplyList/13/Text,0,"""내 머릿속에서 나가, 끔찍한 기기!"""
 redcrystal,dlg,ReplyList/14/Text,0,"""그럼 나 혼자 있게 해."""
 redcrystal,dlg,ReplyList/15/Text,0,"""그래, 이제 내 머릿속에서 나가세요."""
@@ -673,7 +673,7 @@ acerakentrance,git,Encounter List/1/LocalizedName,0,아세라크의 종들
 acerakentrance,git,Encounter List/2/LocalizedName,0,아세라크의 종사자3
 acerakentrance,git,Encounter List/3/LocalizedName,0,아세라크의 종사자2
 acerakentrance,git,Encounter List/4/LocalizedName,0,모미서비스
-acerakentrance,git,Encounter List/5/LocalizedName,0,악마견
+acerakentrance,git,Encounter List/5/LocalizedName,0,사악한 개들
 acerakentrance,git,List/0/LocalizedName,0,에म्ब리엘 의 편지
 acerakentrance,git,List/0/Description,0,"임브릴, 우리는 곧 이 해안에서 가장 강력한 엘프 집의 통치에 복무할 것입니다. 나는 당신의 성공에 많은 믿음을 가지고 있습니다. 비록 이 임무의 시기는 우리가 성공적으로"
 acerakentrance,git,SoundList/0/LocName,0,외풍이 드는 실내
@@ -788,16 +788,16 @@ acerakentrance,git,Placeable List/15/Description,0,의심스럽게 둘러보지�
 acerakentrance,git,Placeable List/17/LocName,0,뼈
 acerakentrance,git,Placeable List/17/Description,0,땅 위에 슬픈 인간형 뼈 무리가 쌓여 있었다.
 acerakentrance,git,Placeable List/19/LocName,0,석관
-acerakentrance,git,Placeable List/19/Description,0,"돌 덮개는 무거워, 도둑들을 밖으로 내보내기와 죽은 자들을 안으로 묻기 위해 설계된 것 같습니다."
+acerakentrance,git,Placeable List/19/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 acerakentrance,git,Placeable List/19/ItemList/0/LocalizedName,0,고대 무덤 열쇠
 acerakentrance,git,Placeable List/20/LocName,0,석관
 acerakentrance,git,Placeable List/20/Description,0,새혈에 새겨진 불분명한 메시지가 무덤 옆으로 새겨져 있습니다. 이 사르코파거를 어떤 죽은 신자가 고향이라고 부르는지 궁금합니다.
 acerakentrance,git,Placeable List/21/LocName,0,석관
-acerakentrance,git,Placeable List/21/Description,0,"돌 덮개는 무거워, 도둑들을 밖으로 내보내기와 죽은 자들을 안으로 묻기 위해 설계된 것 같습니다."
+acerakentrance,git,Placeable List/21/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 acerakentrance,git,Placeable List/22/LocName,0,투명 물체
 acerakentrance,git,Placeable List/22/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 acerakentrance,git,Placeable List/30/LocName,0,바위
-acerakentrance,git,Placeable List/30/Description,0,"큰, 단단한 광석 조각이 땅에서 튀어나와 있습니다."
+acerakentrance,git,Placeable List/30/Description,0,땅에서 크고 단단한 화강암 조각이 튀어나와 있다.
 acerakentrance,git,Placeable List/36/LocName,0,바닥 도안
 acerakentrance,git,Placeable List/36/Description,0,마법사에게는 의미가 있을 법한 복잡한 룬이 이어져 있다. 하지만 처음 만든 마법사에게나 의미가 있을지도 모른다.
 acerakentrance,git,Placeable List/38/LocName,0,사슬로프
@@ -868,7 +868,7 @@ acerakentrance,git,Placeable List/194/LocName,0,재의 항아리
 acerakentrance,git,Placeable List/194/Description,0,당신의 발소리가 항아리의 어두운 깊은 곳에서 울려 퍼지며 메아리칩니다.
 acerakentrance,git,Placeable List/197/LocName,0,쌓인 책
 acerakentrance,git,Placeable List/197/Description,0,"책들은 서로 겹쳐서 쌓여 있었고, 마치 누군가가 책들을 돌려보내는 과정에서 방해받았던 것처럼 리임이나 논리적인 요소가 거의 없었다."
-acerakentrance,git,Placeable List/197/ItemList/0/LocalizedName,0,해체된 네더레스 책
+acerakentrance,git,Placeable List/197/ItemList/0/LocalizedName,0,부서진 네더 제국 도서
 acerakentrance,git,Placeable List/197/ItemList/0/Description,0,이 책에는 네테리즈의 미미화 의식의 절차를 설명하는 텍스트와 다이어그램이 포함되어 있습니다.
 acerakentrance,git,Placeable List/198/LocName,0,썩은 통
 acerakentrance,git,Placeable List/198/Description,0,두꺼운 금속띠가 배럴판을 감싸며 밀폐를 확실히 합니다.
@@ -878,7 +878,7 @@ acerakentrance,git,Placeable List/200/LocName,0,썩은 통
 acerakentrance,git,Placeable List/200/Description,0,두꺼운 금속띠가 배럴판을 감싸며 밀폐를 확실히 합니다.
 acerakentrance,git,Placeable List/201/LocName,0,책장
 acerakentrance,git,Placeable List/201/Description,0,이 책 들 은 여러 가지 다른 언어 로 기록 된 것 처럼 보입니다.
-acerakentrance,git,Placeable List/201/ItemList/0/LocalizedName,0,해체된 네더레스 책
+acerakentrance,git,Placeable List/201/ItemList/0/LocalizedName,0,부서진 네더 제국 도서
 acerakentrance,git,Placeable List/201/ItemList/0/Description,0,이 책에는 네테리즈의 미미화 의식의 절차를 설명하는 텍스트와 다이어그램이 포함되어 있습니다.
 acerakentrance,git,Placeable List/201/ItemList/1/LocalizedName,0,화려한 썩은 책
 acerakentrance,git,Placeable List/201/ItemList/1/Description,0,텍스트와 다이어그램은 주인이나 상사들에게 어떻게 제대로 섬기어야 하는지 암시하고 있습니다. 고문과 반박의 장면이 많이 등장합니다.
@@ -902,9 +902,9 @@ acerakentrance,git,Placeable List/217/Description,0,"침대는 깨끗하고 부�
 acerakentrance,git,Placeable List/217/ItemList/0/LocalizedName,0,금화
 acerakentrance,git,Placeable List/218/LocName,0,썩은 침대
 acerakentrance,git,Placeable List/218/Description,0,"침대는 깨끗하고 부드럽게 덮여 있으며, 깃털 베개와 부드러운 천단이 시트 위에 덮여 있습니다."
-acerakentrance,git,Placeable List/221/LocName,0,진한 책 더미
+acerakentrance,git,Placeable List/221/LocName,0,먼지 쌓인 책 무더기
 acerakentrance,git,Placeable List/221/Description,0,"책들은 서로 겹쳐서 쌓여 있었고, 마치 누군가가 책들을 돌려보내는 과정에서 방해받았던 것처럼 리임이나 논리적인 요소가 거의 없었다."
-acerakentrance,git,Placeable List/221/ItemList/0/LocalizedName,0,해체된 네더레스 책
+acerakentrance,git,Placeable List/221/ItemList/0/LocalizedName,0,부서진 네더 제국 도서
 acerakentrance,git,Placeable List/221/ItemList/0/Description,0,이 책에는 네테리즈의 미미화 의식의 절차를 설명하는 텍스트와 다이어그램이 포함되어 있습니다.
 acerakentrance,git,Placeable List/222/LocName,0,곰팡이 슨 책장
 acerakentrance,git,Placeable List/222/Description,0,이 책 들 은 여러 가지 다른 언어 로 기록 된 것 처럼 보입니다.
@@ -974,9 +974,9 @@ acerakentrance,git,Placeable List/325/ItemList/0/Description,0,"이 책은 훌�
 acerakentrance,git,Placeable List/327/LocName,0,석관
 acerakentrance,git,Placeable List/327/Description,0,새혈에 새겨진 불분명한 메시지가 무덤 옆으로 새겨져 있습니다. 이 사르코파거를 어떤 죽은 신자가 고향이라고 부르는지 궁금합니다.
 acerakentrance,git,Placeable List/328/LocName,0,석관
-acerakentrance,git,Placeable List/328/Description,0,"돌 덮개는 무거워, 도둑들을 밖으로 내보내기와 죽은 자들을 안으로 묻기 위해 설계된 것 같습니다."
+acerakentrance,git,Placeable List/328/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 acerakentrance,git,Placeable List/329/LocName,0,석관
-acerakentrance,git,Placeable List/329/Description,0,"돌 덮개는 무거워, 도둑들을 밖으로 내보내기와 죽은 자들을 안으로 묻기 위해 설계된 것 같습니다."
+acerakentrance,git,Placeable List/329/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 acerakentrance,git,Placeable List/342/LocName,0,화염 대장간
 acerakentrance,git,Placeable List/342/Description,0,거센 바람이 대장간의 불길을 부채질한다. 공기가 찌는 듯이 더워져 머리가 멍해지고 제정신을 차리기 힘들다.
 acerakentrance,git,Placeable List/343/LocName,0,부식된 통
@@ -2074,7 +2074,7 @@ area003,git,Door List/16/LocName,0,문
 area003,git,Door List/17/LocName,0,문
 area003,git,Encounter List/0/LocalizedName,0,아세라크의 종사자2
 area003,git,Encounter List/1/LocalizedName,0,아세라크의 종들
-area003,git,Encounter List/2/LocalizedName,0,악마견
+area003,git,Encounter List/2/LocalizedName,0,사악한 개들
 area003,git,List/0/LocalizedName,0,썩은 전신 판금 갑옷
 area003,git,List/3/LocalizedName,0,보나르의 투구
 area003,git,List/3/Description,0,이 평범해 보이는 투구는 완전히 흔해 보인다.
@@ -4234,7 +4234,7 @@ bearskinrug002,utp,LocName,0,곰가죽 융단
 bearskinrug002,utp,Description,0,"이 강력한 동물의 피부가 매력적인 카펫으로 변해왔고, 마치 당신을 바라보고 있는 것처럼 느껴집니다."
 bearskinrug003,utp,LocName,0,가죽 장대
 bearskinrug003,utp,Description,0,"이 강력한 동물의 피부가 매력적인 카펫으로 변해왔고, 마치 당신을 바라보고 있는 것처럼 느껴집니다."
-bearskinrug004,utp,LocName,0,곰머리
+bearskinrug004,utp,LocName,0,곰 머리
 bearskinrug004,utp,Description,0,"이 강력한 동물의 피부가 매력적인 카펫으로 변해왔고, 마치 당신을 바라보고 있는 것처럼 느껴집니다."
 bearskinrug005,utp,LocName,0,고양이 머리
 bearskinrug005,utp,Description,0,"이 강력한 동물의 피부가 매력적인 카펫으로 변해왔고, 마치 당신을 바라보고 있는 것처럼 느껴집니다."
@@ -4421,7 +4421,7 @@ tirnanog_treepac,utp,LocName,0,TN_Tree_Spruce_A_Lrg
 vampire_shad001,utp,LocName,0,관
 vampire_shad001,utp,Description,0,사코파그스의 무거운 덮개는 장식이 없는 돌로 만들어졌습니다.
 vibrantpurplepri,utp,LocName,0,비브란트 보라색 프리즘 이온 스톤
-vibrantpurplepri,utp,Description,0,활기찬 보라색 광사 돌
+vibrantpurplepri,utp,Description,0,선명한 보라색 프리즘 아이언 스톤
 0weak001,utt,LocalizedName,0,실명 함정
 backtothecamp,utt,LocalizedName,0,캠프로 돌아가
 backtothecavemaz,utt,LocalizedName,0,동굴 미로로 돌아가

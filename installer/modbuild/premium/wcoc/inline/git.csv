@@ -371,7 +371,7 @@ area004,git,Placeable List/44/LocName,0,83443,바위
 area004,git,Placeable List/5/Description,0,12330,이 흔적을 확인하려면 좀 더 가까이 가야 한다.
 area004,git,Placeable List/9/Description,0,12330,이 흔적을 확인하려면 좀 더 가까이 가야 한다.
 area004,git,SoundList/0/LocName,0,67830,환경 식 & 새벽
-area004,git,SoundList/7/LocName,0,67790,촉발된 사운드
+area004,git,SoundList/7/LocName,0,67790,재생된 사운드
 area004,git,TriggerList/0/LocalizedName,0,14760,육상 전환 템플릿
 area004,git,TriggerList/1/LocalizedName,0,14759,음성 트리거
 area004,git,TriggerList/2/LocalizedName,0,14759,에드거 체커
@@ -440,9 +440,15 @@ area005,git,Creature List/25/Description,0,-1,썬더스톤의 지역인
 area005,git,Creature List/25/FirstName,0,-1,평민
 area005,git,Creature List/26/Description,0,-1,말이다.
 area005,git,Creature List/26/FirstName,0,-1,말
-area005,git,Creature List/26/ItemList/1/DescIdentified,0,62369,"Hultail 증류주는 강한 술로 유명하다. 술을 마신 인비버는 거의 즉시 술 취함 상태가 되지만, 이 상태에서는 강력한 근력과 무적감을 느끼게 된다. 2분 동안 지속되는 효과: 술 취함 -1을 맞추기 어려움, 근력 +1, 의지 내성 +2.
+area005,git,Creature List/26/ItemList/1/DescIdentified,0,62369,"헐테일 증류주는 독한 술로 유명하다. 술을 마신 이는 거의 즉시 짧은 시간 동안 취하게 되지만, 취기와 함께 엄청난 힘과 무적의 감각을 느끼게 된다.
 
-2분 반 동안 지속되는 효과: 감지 기술 -3."
+2분 동안 지속되는 효과:
+취함 - 공격 등급 -1
+근력 +1
+의지 내성 +2.
+
+2분 반 동안 지속되는 효과:
+관찰 기술 -3."
 area005,git,Creature List/26/ItemList/1/LocalizedName,0,62367,헐타일 증류주
 area005,git,Creature List/27/Description,0,-1,썬더스톤의 지역인
 area005,git,Creature List/27/Equip_ItemList/0/LocalizedName,0,12923,농부 최고의 옷 남성
@@ -855,7 +861,7 @@ area006,git,StoreList/0/StoreList/0/ItemList/10/Description,0,-1,이상한 헬�
 area006,git,StoreList/0/StoreList/0/ItemList/10/LocalizedName,0,-1,성스러운 헬멧
 area006,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,-1,"이 체인메일은 마법으로 충전되어 착용자의 방어력을 증가시키고, 특히 부정적 힘에 대항하여 더욱 효과적입니다."
 area006,git,StoreList/0/StoreList/0/ItemList/11/Description,0,-1,푸른빛이 살짝 도는 사슬 갑옷.
-area006,git,StoreList/0/StoreList/0/ItemList/11/LocalizedName,0,-1,귀족의 마음의 편지
+area006,git,StoreList/0/StoreList/0/ItemList/11/LocalizedName,0,-1,고결한 심장의 사슬갑옷
 area006,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,-1,이 가죽 벨트는 착용 시 빛을 발한다.
 area006,git,StoreList/0/StoreList/0/ItemList/12/Description,0,-1,한 가죽의 벨트.
 area006,git,StoreList/0/StoreList/0/ItemList/12/LocalizedName,0,-1,빛 벨트
@@ -1103,7 +1109,7 @@ area008,git,Creature List/6/Description,0,-1,썬더스톤의 지역인
 area008,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,12923,어부/선원 남성용 정장
 area008,git,Creature List/6/FirstName,0,-1,평민
 area008,git,Creature List/7/Description,0,-1,썬더스톤의 지역인
-area008,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,12923,낚시꾼/해상 용병 최고의 옷 Fem
+area008,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,12923,어부/선원용 최고급 의복 (여성)
 area008,git,Creature List/7/FirstName,0,-1,평민
 area008,git,Creature List/9/Description,0,-1,가구의 운명 여관 주인이여
 area008,git,Creature List/9/FirstName,0,12696,여관 주인
@@ -1374,7 +1380,7 @@ area010,git,Placeable List/89/Description,0,14615,바나르 - 꿰매서 염색 -
 area010,git,Placeable List/89/LocName,0,14616,호클린 기
 area010,git,Placeable List/90/Description,0,14615,바나르 - 꿰매서 염색 - 관심의 지점을 나타내는 표지
 area010,git,Placeable List/90/LocName,0,14616,호클린 기
-area010,git,TriggerList/0/LocalizedName,0,14759,듣기 트리거
+area010,git,TriggerList/0/LocalizedName,0,14759,트리거
 area010,git,TriggerList/1/LocalizedName,0,14759,비밀 트리거
 area010,git,TriggerList/2/LocalizedName,0,14759,스피커 트리거
 area010,git,TriggerList/3/LocalizedName,0,14759,지도 핀 활성화
@@ -1418,7 +1424,7 @@ area013,git,Creature List/0/Description,0,3101,"홉고블린은 고블린의 더
 area013,git,Creature List/0/FirstName,0,3100,홉고블린 병사
 area013,git,Creature List/0/ItemList/0/DescIdentified,0,13440,호블린과 호블린이 만든 이 약은 전투에서 실력을 강화하는 데 사용됩니다.
 area013,git,Creature List/0/ItemList/0/Description,0,-1,항아리에서 얻은 텁텁한 탕약.
-area013,git,Creature List/0/ItemList/0/LocalizedName,0,13441,브루 싸우기
+area013,git,Creature List/0/ItemList/0/LocalizedName,0,13441,전투 맥주
 area013,git,Creature List/1/Description,0,3101,"홉고블린은 고블린의 더 큰 사촌이다. 조직적이고 공격적이며, 다른 인간형 종족과의 전쟁을 즐긴다."
 area013,git,Creature List/1/FirstName,0,3100,홉고블린 병사
 area013,git,Door List/0/Description,0,-1,나무 문입니다.
@@ -1453,7 +1459,7 @@ area014,git,Placeable List/8/LocName,0,-1,TNO 나무 6 Md
 area014,git,Placeable List/9/Description,0,66698,말을 묶을 수 있는 목줄대.
 area014,git,Placeable List/9/LocName,0,66697,말뚝
 area014,git,SoundList/1/LocName,0,67830,환경 식 & 새벽
-area014,git,TriggerList/1/LocalizedName,0,14759,듣기 트리거
+area014,git,TriggerList/1/LocalizedName,0,14759,트리거
 area014,git,TriggerList/2/LocalizedName,0,14759,음성 트리거
 area014,git,TriggerList/3/LocalizedName,0,14759,대화 트리거
 area014,git,TriggerList/4/LocalizedName,0,-1,DLA 산이 없는 지역
@@ -1654,22 +1660,22 @@ area016,git,Placeable List/93/Description,0,14596,개인 소지품을 넣는 발
 area016,git,Placeable List/93/LocName,0,5348,발자국
 area016,git,SoundList/0/LocName,0,67794,경보
 area016,git,SoundList/6/LocName,0,67906,부엌
-area016,git,TriggerList/0/LocalizedName,0,14759,듣기 트리거
-area016,git,TriggerList/1/LocalizedName,0,14759,듣기 트리거
+area016,git,TriggerList/0/LocalizedName,0,14759,트리거
+area016,git,TriggerList/1/LocalizedName,0,14759,트리거
 area016,git,TriggerList/10/LocalizedName,0,14759,지도 핀 활성화
 area016,git,TriggerList/11/LocalizedName,0,14759,지도 핀 활성화
 area016,git,TriggerList/12/LocalizedName,0,14759,음성 트리거
 area016,git,TriggerList/13/LocalizedName,0,14759,음성 트리거
 area016,git,TriggerList/14/LocalizedName,0,14759,음성 트리거
 area016,git,TriggerList/15/LocalizedName,0,14759,음성 트리거
-area016,git,TriggerList/16/LocalizedName,0,14759,듣기 트리거
-area016,git,TriggerList/17/LocalizedName,0,14759,듣기 트리거
+area016,git,TriggerList/16/LocalizedName,0,14759,트리거
+area016,git,TriggerList/17/LocalizedName,0,14759,트리거
 area016,git,TriggerList/18/LocalizedName,0,14759,자동 저장 트리거
-area016,git,TriggerList/19/LocalizedName,0,14759,듣기 트리거
-area016,git,TriggerList/2/LocalizedName,0,14759,듣기 트리거
+area016,git,TriggerList/19/LocalizedName,0,14759,트리거
+area016,git,TriggerList/2/LocalizedName,0,14759,트리거
 area016,git,TriggerList/20/LocalizedName,0,14759,지도 핀 활성화
-area016,git,TriggerList/3/LocalizedName,0,14759,듣기 트리거
-area016,git,TriggerList/4/LocalizedName,0,14759,듣기 트리거
+area016,git,TriggerList/3/LocalizedName,0,14759,트리거
+area016,git,TriggerList/4/LocalizedName,0,14759,트리거
 area016,git,TriggerList/5/LocalizedName,0,14759,지도 핀 활성화
 area016,git,TriggerList/6/LocalizedName,0,14759,지도 핀 활성화
 area016,git,TriggerList/7/LocalizedName,0,14759,지도 핀 활성화
@@ -1797,13 +1803,13 @@ area019,git,Placeable List/0/Description,0,68932,"이 제단은 이 예배당의
 area019,git,Placeable List/0/ItemList/0/DescIdentified,0,62369,"An enchanting stone can be rubbed on a weapon to temporarily enhance it. The more skillful the crafter, the better the enhancement, which typically lasts about 4 minutes. Truly great weaponsmiths can sometimes make the enhancement stick permanently, although no smith has managed to get one of these stones to work on a weapon that already has an enhancement bonus on it.
 
 <c ÿÿ>Use: Cast on the melee weapon of your choice. Note: Do not use the Enchanting Stone on a weapon that already has a +1 (or more) bonus to hit/damage, nor on a ranged weapon.<cÿÿÿ>"
-area019,git,Placeable List/0/ItemList/0/LocalizedName,0,62367,매력의 돌
+area019,git,Placeable List/0/ItemList/0/LocalizedName,0,62367,마법 부여석
 area019,git,Placeable List/0/LocName,0,68931,제단
 area019,git,Placeable List/1/Description,0,84584,받침대 위에 놓인 수정구가 이상한 힘으로 맥동하고 있다.
 area019,git,Placeable List/1/ItemList/0/DescIdentified,0,62369,"An enchanting stone can be rubbed on a weapon to temporarily enhance it. The more skillful the crafter, the better the enhancement, which typically lasts about 4 minutes. Truly great weaponsmiths can sometimes make the enhancement stick permanently, although no smith has managed to get one of these stones to work on a weapon that already has an enhancement bonus on it.
 
 <c ÿÿ>Use: Cast on the melee weapon of your choice. Note: Do not use the Enchanting Stone on a weapon that already has a +1 (or more) bonus to hit/damage, nor on a ranged weapon.<cÿÿÿ>"
-area019,git,Placeable List/1/ItemList/0/LocalizedName,0,62367,매력의 돌
+area019,git,Placeable List/1/ItemList/0/LocalizedName,0,62367,마법 부여석
 area019,git,Placeable List/1/LocName,0,84569,발판 에 있는 공
 area019,git,Placeable List/10/Description,0,68932,잔해 더미.
 area019,git,Placeable List/10/LocName,0,68931,자갈
@@ -1818,8 +1824,8 @@ area019,git,Placeable List/7/LocName,0,68931,조각상
 area019,git,TriggerList/0/LocalizedName,0,14759,대화 트리거
 area019,git,TriggerList/1/LocalizedName,0,14759,스폰너 트리거
 area019,git,TriggerList/2/LocalizedName,0,14759,음성 트리거
-area019,git,TriggerList/3/LocalizedName,0,14759,듣기 트리거
-area019,git,TriggerList/4/LocalizedName,0,14759,듣기 트리거
+area019,git,TriggerList/3/LocalizedName,0,14759,트리거
+area019,git,TriggerList/4/LocalizedName,0,14759,트리거
 area019,git,TriggerList/5/LocalizedName,0,83150,잔해 인카운터
 area019,git,TriggerList/6/LocalizedName,0,14759,지도 핀 활성화
 area019,git,TriggerList/7/LocalizedName,0,91371,"WC 감탄사, 비작위"
@@ -1890,7 +1896,7 @@ area020,git,WaypointList/9/LocalizedName,0,14817,셰프 로이포인트
 area021,git,Creature List/0/Description,0,12439,"전설적인 순백색 수사슴, 헐락 숲의 거의 신비에 가까운 생물이다. 많은 사냥꾼들이 그 가죽을 노렸지만 너무나 날랬다."
 area021,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,-1,순백색 수사슴 숨음
 area021,git,Creature List/0/FirstName,0,12441,순백색 수사슴
-area021,git,Creature List/0/ItemList/0/DescIdentified,0,48895,전설적인 순백색 수사슴의 가죽은 거의 확실히 몇몇 돈을 값지게 할 것입니다.
+area021,git,Creature List/0/ItemList/0/DescIdentified,0,48895,전설적인 흰 수사슴의 가죽. 틀림없이 꽤 돈이 될 것이다.
 area021,git,Creature List/0/ItemList/0/LocalizedName,0,48893,순백색 수사슴 숨음
 area021,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,-1,대형 방패
 area021,git,Creature List/2/Description,0,-1,"전쟁 이후, 강도들은 코르미르의 길들, 특히 킹의 숲과 헐락 숲에서 흔한 일이 되었다."
@@ -2438,21 +2444,21 @@ area031,git,Placeable List/76/LocName,0,-1,TNO 통
 area031,git,Placeable List/77/LocName,0,-1,TNO 통
 area031,git,Placeable List/83/Description,0,84191,이 구조의 색깔과 냄새는 이를 요리하는 것이 좋지 않을 것이라고 생각하게 한다.
 area031,git,Placeable List/83/LocName,0,83443,구조
-area031,git,Placeable List/87/Description,0,66885,"큰, 단단한 광석 조각이 땅에서 튀어나와 있습니다."
+area031,git,Placeable List/87/Description,0,66885,땅에서 크고 단단한 화강암 조각이 튀어나와 있다.
 area031,git,Placeable List/88/Description,0,66888,지상에 슬픈 인간형 뼈 무리가 있습니다.
 area031,git,Placeable List/89/Description,0,14531,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
-area031,git,Placeable List/95/Description,0,66885,"큰, 단단한 광석 조각이 땅에서 튀어나와 있습니다."
+area031,git,Placeable List/95/Description,0,66885,땅에서 크고 단단한 화강암 조각이 튀어나와 있다.
 area031,git,Placeable List/97/Description,0,14596,"화려하게 조각된 이 상자의 목재 표면 위로 금속 징들이 튀어나와 있다. 훌륭한 솜씨로 미루어 볼 때, 이 금고는 대중에게 전시할 목적으로 만들어진 것 같다."
 area031,git,SoundList/6/LocName,0,67941,돌살대
-area031,git,TriggerList/0/LocalizedName,0,14759,듣기 트리거
-area031,git,TriggerList/1/LocalizedName,0,14759,듣기 트리거
+area031,git,TriggerList/0/LocalizedName,0,14759,트리거
+area031,git,TriggerList/1/LocalizedName,0,14759,트리거
 area031,git,TriggerList/10/LocalizedName,0,14759,지도 핀 활성화
 area031,git,TriggerList/11/LocalizedName,0,14759,비밀 트리거
 area031,git,TriggerList/13/LocalizedName,0,91371,"WC 감탄사, 비작위"
 area031,git,TriggerList/14/LocalizedName,0,14759,뱀파이어 트리거
 area031,git,TriggerList/15/LocalizedName,0,14759,빛 트리거
 area031,git,TriggerList/18/LocalizedName,0,14759,대화 트리거
-area031,git,TriggerList/2/LocalizedName,0,14759,듣기 트리거
+area031,git,TriggerList/2/LocalizedName,0,14759,트리거
 area031,git,TriggerList/3/LocalizedName,0,14759,PFUD발견2
 area031,git,TriggerList/4/LocalizedName,0,14759,지도 핀 활성화
 area031,git,TriggerList/5/LocalizedName,0,14759,음악Trigger
@@ -2580,7 +2586,7 @@ barrow,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,-1,냉기 무쇠 �
 barrow,git,Creature List/10/Equip_ItemList/3/DescIdentified,0,-1,보라색 용의 방패는 거의 모든 코르미르 블레이드에서 태어났다.
 barrow,git,Creature List/10/Equip_ItemList/3/LocalizedName,0,-1,보라용 카이트
 barrow,git,Creature List/10/FirstName,0,-1,죽은 보라 용
-barrow,git,Creature List/11/Description,0,-1,죽은 보라색 용 활사격수
+barrow,git,Creature List/11/Description,0,-1,죽은 퍼플 드래곤 궁수.
 barrow,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,보라색 용의 가벼운 갑옷
 barrow,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,보라색 용의 빛 갑옷
 barrow,git,Creature List/11/FirstName,0,-1,죽은 보라 용
@@ -2680,7 +2686,7 @@ barrow,git,Creature List/23/Equip_ItemList/1/DescIdentified,0,-1,"악마 용과�
 barrow,git,Creature List/23/Equip_ItemList/1/LocalizedName,0,-1,냉기 무쇠 칼날
 barrow,git,Creature List/23/Equip_ItemList/2/DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨진 방패. 이 방패는 특히 고위 장교들만 휴대한다.
 barrow,git,Creature List/23/Equip_ItemList/2/LocalizedName,0,-1,보라색 드래곤 오버스word Shield
-barrow,git,Creature List/23/Equip_ItemList/3/LocalizedName,0,-1,보라색 용 공무원 망토
+barrow,git,Creature List/23/Equip_ItemList/3/LocalizedName,0,-1,보라 용 장교 망토
 barrow,git,Creature List/23/FirstName,0,-1,에드거
 barrow,git,Creature List/23/LastName,0,-1,트루세르버
 barrow,git,Creature List/24/Description,0,-1,"홉고블린은 고블린의 더 큰 사촌이다. 조직적이고 공격적이며, 다른 인간형 종족과의 전쟁을 즐긴다."
@@ -2735,7 +2741,7 @@ barrow,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,-1,냉기 무쇠 칼
 barrow,git,Creature List/7/Equip_ItemList/3/DescIdentified,0,-1,보라색 용의 방패는 거의 모든 코르미르 블레이드에서 태어났다.
 barrow,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,-1,보라용 카이트
 barrow,git,Creature List/7/FirstName,0,-1,죽은 보라 용
-barrow,git,Creature List/8/Description,0,-1,죽은 보라색 용 스카우트
+barrow,git,Creature List/8/Description,0,-1,죽은 보라 용 정찰병.
 barrow,git,Creature List/8/Equip_ItemList/0/DescIdentified,0,-1,보라색 용의 가벼운 갑옷.
 barrow,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,보라색 용 스카우트 갑옷
 barrow,git,Creature List/8/Equip_ItemList/2/DescIdentified,0,-1,보라색 용 스카우트의 표지를 보여주는 방패.
@@ -2905,7 +2911,7 @@ barrow,git,Placeable List/90/Description,0,84191,돌 조각이 깨진 것 같아
 barrow,git,Placeable List/90/LocName,0,83443,바위
 barrow,git,Placeable List/91/Description,0,84191,돌 조각이 깨진 것 같아.
 barrow,git,Placeable List/91/LocName,0,83443,바위
-barrow,git,TriggerList/0/LocalizedName,0,14759,듣기 트리거
+barrow,git,TriggerList/0/LocalizedName,0,14759,트리거
 barrow,git,TriggerList/10/LocalizedName,0,14759,에드거 우더
 barrow,git,TriggerList/11/LocalizedName,0,14759,에드거 타커
 barrow,git,TriggerList/12/LocalizedName,0,-1,참견 트리거 무시
@@ -2952,7 +2958,7 @@ castlewyvernw001,git,Creature List/4/FirstName,0,-1,해적
 castlewyvernw001,git,Creature List/4/ItemList/1/DescIdentified,0,58570,과 이 가득한 텐더 박스
 castlewyvernw001,git,Creature List/4/ItemList/1/LocalizedName,0,13498,티더박스
 castlewyvernw001,git,Door List/10/Description,0,9070,무거운 금속 문입니다. 은 것은 물론 물과 잘 맞지 않습니다.
-castlewyvernw001,git,Door List/10/LocName,0,5349,노란 문
+castlewyvernw001,git,Door List/10/LocName,0,5349,녹슨 문
 castlewyvernw001,git,Door List/11/Description,0,-1,"오래된 무거운 금속 문인데, 녹으로 덮여 있어도 확실히 방수입니다."
 castlewyvernw001,git,Door List/11/LocName,0,5349,문
 castlewyvernw001,git,Door List/12/Description,0,-1,성만큼이나 오래된 이 문은 악의 모양을 하고 있습니다.
@@ -3024,7 +3030,7 @@ castlewyvernw001,git,TriggerList/12/LocalizedName,0,14759,키퍼 스토퍼
 castlewyvernw001,git,TriggerList/14/LocalizedName,0,14759,대화 트리거
 castlewyvernw001,git,TriggerList/15/LocalizedName,0,14759,보호자 트리거
 castlewyvernw001,git,TriggerList/2/LocalizedName,0,14759,음성 트리거
-castlewyvernw001,git,TriggerList/5/LocalizedName,0,14759,듣기 트리거
+castlewyvernw001,git,TriggerList/5/LocalizedName,0,14759,트리거
 castlewyvernw001,git,TriggerList/6/LocalizedName,0,14759,지도 핀 활성화
 castlewyvernw001,git,TriggerList/7/LocalizedName,0,14759,지도 핀 활성화
 castlewyvernw001,git,TriggerList/8/LocalizedName,0,14759,지도 핀 활성화
@@ -3112,7 +3118,7 @@ castlewyvernw002,git,Creature List/16/Equip_ItemList/6/LocalizedName,0,-1,흡수
 castlewyvernw002,git,Creature List/16/FirstName,0,-1,발레토
 castlewyvernw002,git,Creature List/16/ItemList/0/DescIdentified,0,48895,이것은 큰 금액을 나타내는 실버 트레이드 바입니다. 코르미르와 다른 국가에서 상인들이 코르미르 화폐를 가지고 있지 않은 경우 종종 무역 바를 사용합니다.
 castlewyvernw002,git,Creature List/16/ItemList/0/LocalizedName,0,48893,교역용 은괴
-castlewyvernw002,git,Creature List/16/ItemList/1/DescIdentified,0,13440,"이 이상한 포션은 아마도 드워프가 만들어졌고, 표면에 진출할 때 사용되었습니다."
+castlewyvernw002,git,Creature List/16/ItemList/1/DescIdentified,0,13440,이 이상한 물약들은 아마 드로우들이 만들어서 지상으로 나올 때 사용하던 것일 것이다.
 castlewyvernw002,git,Creature List/16/ItemList/1/LocalizedName,0,13441,밤물약
 castlewyvernw002,git,Creature List/16/ItemList/3/DescIdentified,0,-1,해적들의 둥지에서 발견된 열쇠
 castlewyvernw002,git,Creature List/16/ItemList/3/LocalizedName,0,-1,해적 키
@@ -3261,7 +3267,7 @@ castlewyvernw002,git,TriggerList/1/LocalizedName,0,14759,지도 핀 활성화
 castlewyvernw002,git,TriggerList/10/LocalizedName,0,91371,"WC 감탄사, 비작위"
 castlewyvernw002,git,TriggerList/11/LocalizedName,0,14759,자동 저장 트리거
 castlewyvernw002,git,TriggerList/12/LocalizedName,0,91371,"WC 감탄사, 비작위"
-castlewyvernw002,git,TriggerList/14/LocalizedName,0,14759,듣기 트리거
+castlewyvernw002,git,TriggerList/14/LocalizedName,0,14759,트리거
 castlewyvernw002,git,TriggerList/15/LocalizedName,0,14759,지도 핀 활성화
 castlewyvernw002,git,TriggerList/17/LocalizedName,0,14759,지도 핀 활성화
 castlewyvernw002,git,TriggerList/18/LocalizedName,0,-1,참견 트리거 무시
@@ -3270,10 +3276,10 @@ castlewyvernw002,git,TriggerList/2/LocalizedName,0,14759,지도 핀 활성화
 castlewyvernw002,git,TriggerList/3/LocalizedName,0,14759,지도 핀 활성화
 castlewyvernw002,git,TriggerList/4/LocalizedName,0,14759,지도 핀 활성화
 castlewyvernw002,git,TriggerList/5/LocalizedName,0,14759,지도 핀 활성화
-castlewyvernw002,git,TriggerList/6/LocalizedName,0,14759,듣기 트리거
-castlewyvernw002,git,TriggerList/7/LocalizedName,0,14759,듣기 트리거
+castlewyvernw002,git,TriggerList/6/LocalizedName,0,14759,트리거
+castlewyvernw002,git,TriggerList/7/LocalizedName,0,14759,트리거
 castlewyvernw002,git,TriggerList/8/LocalizedName,0,14759,음성 트리거
-castlewyvernw002,git,TriggerList/9/LocalizedName,0,14759,듣기 트리거
+castlewyvernw002,git,TriggerList/9/LocalizedName,0,14759,트리거
 castlewyvernw002,git,WaypointList/17/MapNote,0,14815,올라가는 계단과 내려가는 계단
 castlewyvernw002,git,WaypointList/18/MapNote,0,14815,내려가는 계단
 castlewyvernw002,git,WaypointList/19/LocalizedName,0,14814,플래시 PIN
@@ -4025,7 +4031,7 @@ castlewyverwa002,git,TriggerList/5/LocalizedName,0,14759,슬립 트리거
 castlewyverwa002,git,TriggerList/6/LocalizedName,0,14759,슬립 트리거
 castlewyverwa002,git,TriggerList/7/LocalizedName,0,14759,대화 트리거
 castlewyverwa002,git,TriggerList/8/LocalizedName,0,14759,대화 트리거
-castlewyverwa002,git,TriggerList/9/LocalizedName,0,14759,듣기 트리거
+castlewyverwa002,git,TriggerList/9/LocalizedName,0,14759,트리거
 castlewyverwa002,git,WaypointList/0/LocalizedName,0,14817,떠돌아다니는 괴물 웨이포인트
 castlewyverwa002,git,WaypointList/1/LocalizedName,0,14817,떠돌아다니는 괴물 웨이포인트
 castlewyverwa002,git,WaypointList/2/LocalizedName,0,14817,떠돌아다니는 괴물 웨이포인트
@@ -4215,7 +4221,7 @@ crownbarrow,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,178,에메랄�
 crownbarrow,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,1551,에메랄드 방패
 crownbarrow,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,13152,에메랄드 골렘의 속성
 crownbarrow,git,Creature List/1/FirstName,0,12578,에메랄드 골렘
-crownbarrow,git,Creature List/1/ItemList/0/DescIdentified,0,-1,"진한 보석 골렘의 심장, 결함이 없는 에스메랄다."
+crownbarrow,git,Creature List/1/ItemList/0/DescIdentified,0,-1,"산스러진 젬 골렘의 심장이자, 흠 없는 에메랄드."
 crownbarrow,git,Creature List/1/ItemList/0/LocalizedName,0,-1,에메랄드 골렘 하트
 crownbarrow,git,Creature List/2/Description,0,12577,"이 10피트 고렘은 기사나 전사의 모습으로 조각되어 있습니다. 공격하기 전에 종종 태양광선 능력을 사용하며, 각 개별 공격 전에 완벽한 일격 힘을 사용할 가능성이 높습니다."
 crownbarrow,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,167,다이아몬드 대검
@@ -4611,7 +4617,7 @@ hawklincastle,git,Door List/18/LocName,0,5349,잠긴 문
 hawklincastle,git,Door List/19/Description,0,9070,"이 녹슨 덮힌 문이지만, 그 밑에 문은 여전히 튼튼하다."
 hawklincastle,git,Door List/19/LocName,0,5349,잠긴 문
 hawklincastle,git,Door List/2/Description,0,9070,은 쪽에 철문만 있으면서도 은 밑에는 여전히 강하다.
-hawklincastle,git,Door List/2/LocName,0,5349,노란 문
+hawklincastle,git,Door List/2/LocName,0,5349,녹슨 문
 hawklincastle,git,Door List/20/Description,0,9070,"이 녹슨 덮힌 문이지만, 그 밑에 문은 여전히 튼튼하다."
 hawklincastle,git,Door List/20/LocName,0,5349,잠긴 문
 hawklincastle,git,Door List/21/Description,0,9078,이 목재 문은 잠겨 있습니다. 여기 들어오는 이유가 없습니다.
@@ -4621,7 +4627,7 @@ hawklincastle,git,Door List/22/LocName,0,-1,문
 hawklincastle,git,Door List/23/Description,0,9070,"이 녹슨 덮힌 문이지만, 그 밑에 문은 여전히 튼튼하다."
 hawklincastle,git,Door List/23/LocName,0,5349,오래된 은 문
 hawklincastle,git,Door List/3/Description,0,9070,은 쪽에 철문만 있으면서도 은 밑에는 여전히 강하다.
-hawklincastle,git,Door List/3/LocName,0,5349,노란 문
+hawklincastle,git,Door List/3/LocName,0,5349,녹슨 문
 hawklincastle,git,Door List/4/Description,0,9078,이 목재 문은 잠겨 있습니다. 여기 들어오는 이유가 없습니다.
 hawklincastle,git,Door List/4/LocName,0,5349,잠긴 문
 hawklincastle,git,Door List/5/Description,0,9078,이 목재 문은 잠겨 있습니다. 여기 들어오는 이유가 없습니다.
@@ -4659,8 +4665,8 @@ hawklincastle,git,Placeable List/20/Description,0,14615,바나르 - 꿰매서 �
 hawklincastle,git,Placeable List/20/LocName,0,14616,PDK 깃발
 hawklincastle,git,Placeable List/21/Description,0,66698,말을 묶을 수 있는 목줄대.
 hawklincastle,git,Placeable List/21/LocName,0,66697,말뚝
-hawklincastle,git,Placeable List/22/LocName,0,-1,TNO 거구의 창문 2개
-hawklincastle,git,Placeable List/23/LocName,0,-1,TNO 거구의 창문 2개
+hawklincastle,git,Placeable List/22/LocName,0,-1,TNO 큰 창문 2
+hawklincastle,git,Placeable List/23/LocName,0,-1,TNO 큰 창문 2
 hawklincastle,git,Placeable List/24/LocName,0,-1,TNO 대형 아치 창문
 hawklincastle,git,Placeable List/25/LocName,0,-1,TNO 대형 아치 창문
 hawklincastle,git,Placeable List/26/LocName,0,-1,TNO 대형 아치 창문
@@ -4887,7 +4893,7 @@ lakewyvernwater,git,Placeable List/8/LocName,0,-1,TNO 나무 1 Sm
 lakewyvernwater,git,SoundList/0/LocName,0,68000,덤스 다운 워터
 lakewyvernwater,git,SoundList/1/LocName,0,68000,덤스 다운 워터
 lakewyvernwater,git,SoundList/2/LocName,0,67830,환경 식 & 새벽
-lakewyvernwater,git,TriggerList/0/LocalizedName,0,14759,듣기 트리거
+lakewyvernwater,git,TriggerList/0/LocalizedName,0,14759,트리거
 lakewyvernwater,git,TriggerList/1/LocalizedName,0,14759,스팟 트리거
 lakewyvernwater,git,TriggerList/10/LocalizedName,0,14759,지도 핀 활성화
 lakewyvernwater,git,TriggerList/11/LocalizedName,0,91371,"WC 감탄사, 비작위"
@@ -5064,7 +5070,7 @@ ontheroad,git,SoundList/2/LocName,0,68000,덤스 다운 워터
 ontheroad,git,SoundList/3/LocName,0,68000,덤스 다운 워터
 ontheroad,git,TriggerList/0/LocalizedName,0,14760,ONRSouth
 ontheroad,git,TriggerList/1/LocalizedName,0,14759,스팟 트리거
-ontheroad,git,TriggerList/3/LocalizedName,0,14759,듣기 트리거
+ontheroad,git,TriggerList/3/LocalizedName,0,14759,트리거
 ontheroad,git,WaypointList/1/LocalizedName,0,14817,떠돌아다니는 괴물 웨이포인트
 ontheroad,git,WaypointList/10/MapNote,0,-1,모펜에게
 ontheroad,git,WaypointList/2/LocalizedName,0,14817,떠돌아다니는 괴물 웨이포인트
@@ -5130,7 +5136,7 @@ ontheroadcar,git,SoundList/2/LocName,0,68000,덤스 다운 워터
 ontheroadcar,git,SoundList/3/LocName,0,68000,덤스 다운 워터
 ontheroadcar,git,TriggerList/0/LocalizedName,0,14760,ONRSouth
 ontheroadcar,git,TriggerList/2/LocalizedName,0,14759,스팟 트리거
-ontheroadcar,git,TriggerList/3/LocalizedName,0,14759,듣기 트리거
+ontheroadcar,git,TriggerList/3/LocalizedName,0,14759,트리거
 ontheroadcar,git,TriggerList/4/LocalizedName,0,14759,설정VariableTrigger
 ontheroadcar,git,TriggerList/5/LocalizedName,0,14759,체크 트리거
 ontheroadcar,git,TriggerList/6/LocalizedName,0,-1,참견 트리거 무시
@@ -5561,7 +5567,7 @@ poltersfortapp,git,TriggerList/0/LocalizedName,0,14760,PFAN북
 poltersfortapp,git,TriggerList/1/LocalizedName,0,14759,맨메이커
 poltersfortapp,git,TriggerList/2/LocalizedName,0,14759,포트알람
 poltersfortapp,git,TriggerList/3/LocalizedName,0,14759,만티스 대화 트리거
-poltersfortapp,git,TriggerList/4/LocalizedName,0,14759,듣기 트리거
+poltersfortapp,git,TriggerList/4/LocalizedName,0,14759,트리거
 poltersfortapp,git,TriggerList/5/LocalizedName,0,14760,육상 전환 템플릿
 poltersfortapp,git,WaypointList/1/MapNote,0,-1,폴터의 요새로
 poltersfortapp,git,WaypointList/13/LocalizedName,0,14817,PC 재시작 포인트
@@ -5600,8 +5606,8 @@ tennantfarmsofsl,git,Creature List/7/Description,0,12415,죽은 닭.
 tennantfarmsofsl,git,Creature List/8/Description,0,12415,죽은 닭.
 tennantfarmsofsl,git,Creature List/9/Description,0,12427,죽은 소.
 tennantfarmsofsl,git,Creature List/9/FirstName,0,12428,암소
-tennantfarmsofsl,git,Encounter List/0/LocalizedName,0,-1,늑대들의 떼
-tennantfarmsofsl,git,Encounter List/1/LocalizedName,0,-1,늑대들의 떼
+tennantfarmsofsl,git,Encounter List/0/LocalizedName,0,-1,청소부 늑대들
+tennantfarmsofsl,git,Encounter List/1/LocalizedName,0,-1,청소부 늑대들
 tennantfarmsofsl,git,Placeable List/44/Description,0,84582,불탄 통.
 tennantfarmsofsl,git,Placeable List/44/LocName,0,84567,불에 탄 통
 tennantfarmsofsl,git,Placeable List/45/Description,0,84581,이 오래된 상자는 타오르는 농촌의 불에서 살아남았습니다. 이 상자 안에서 아버지께서 가장 소중한 물건들을 보관하셨다는 것을 알고 있습니다.
@@ -5638,7 +5644,7 @@ tennantfarmsofsl,git,Placeable List/83/LocName,0,52998,나뭇그루터기
 tennantfarmsofsl,git,Placeable List/84/LocName,0,52998,나뭇그루터기
 tennantfarmsofsl,git,Placeable List/85/LocName,0,52998,나뭇그루터기
 tennantfarmsofsl,git,Placeable List/86/LocName,0,52998,나뭇그루터기
-tennantfarmsofsl,git,Placeable List/87/Description,0,14730,농장에서 친구 중 한 명의 시체가 있다....
+tennantfarmsofsl,git,Placeable List/87/Description,0,14730,농장에 있던 친구들 중 하나의 시체다...
 tennantfarmsofsl,git,Placeable List/87/ItemList/0/DescIdentified,0,58570,과 이 가득한 텐더 박스
 tennantfarmsofsl,git,Placeable List/87/ItemList/0/LocalizedName,0,13498,티더박스
 tennantfarmsofsl,git,Placeable List/88/Description,0,12330,이 흔적을 확인하려면 좀 더 가까이 가야 한다.
@@ -6083,7 +6089,7 @@ tno_joust,git,Creature List/26/Description,0,-1,헌트크로운 가문의 소규
 tno_joust,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,12904,헌트크라운 부르타러
 tno_joust,git,Creature List/26/FirstName,0,12422,헌트크라운 하급 귀족
 tno_joust,git,Creature List/27/Description,0,-1,썬더스톤의 지역인
-tno_joust,git,Creature List/27/Equip_ItemList/0/LocalizedName,0,12923,낚시꾼/해상 용병 최고의 옷 Fem
+tno_joust,git,Creature List/27/Equip_ItemList/0/LocalizedName,0,12923,어부/선원용 최고급 의복 (여성)
 tno_joust,git,Creature List/27/FirstName,0,-1,평민
 tno_joust,git,Creature List/28/Description,0,-1,썬더스톤의 지역인
 tno_joust,git,Creature List/28/Equip_ItemList/0/LocalizedName,0,12923,농부 최고의 옷 Fem
@@ -6220,7 +6226,7 @@ tno_joust,git,TriggerList/6/LocalizedName,0,14759,_joust_crash
 tno_joust,git,TriggerList/7/LocalizedName,0,14759,도둑질 트리거
 tno_joust,git,TriggerList/8/LocalizedName,0,14759,1라인 트리거
 tno_joust,git,WaypointList/0/Description,0,-1,이곳은 창 시합 컷씬이 시작되는 위치입니다.
-tno_joust,git,WaypointList/14/Description,0,-1,이쪽은 장기전 라운드가 끝나면 이동하는 곳입니다.
+tno_joust,git,WaypointList/14/Description,0,-1,창 시합 라운드가 끝나면 이동하게 되는 곳입니다.
 tno_joust,git,WaypointList/15/MapNote,0,-1,호클린 성으로
 tno_joust,git,WaypointList/16/MapNote,0,-1,토너먼트 장소
 tno_joust,git,WaypointList/21/LocalizedName,0,14817,이정표

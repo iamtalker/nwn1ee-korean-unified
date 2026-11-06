@@ -25,7 +25,7 @@ id1_bossplot_har,uti,DescIdentified,0,-1,"이것은 알 수 없는 봉인으로 
 id1_bossplot_har,uti,LocalizedName,0,-1,아비사엘 인구조사
 id1_bossplot_mag,uti,DescIdentified,0,-1,"이마스카르의 사커라브 Amulet은 군락어미인 마그리스의 의지를 무너뜨리기 위해 할래스터가 사용하는 미술품입니다. 그 없이는, 생물과 그녀의 하위원들은 언더타운을 떠나게 될 것입니다."
 id1_bossplot_mag,uti,LocalizedName,0,-1,이마스카르의 스카라브 호신부
-id1_bossplot_mas,uti,DescIdentified,0,-1,"이 보석은 마스테리우스, 라시크 왕의 영혼을 담고 있는 것 같습니다. 보석 자체는 실제 용도가 보이지 않습니다. 실제로 보석 내부에 작은 인물을 볼 수 있고, 재미로 한 번은 살짝 흔들어 보았습니다. 작은 인물은 이것에 웃지 않는 것 같습니다."
+id1_bossplot_mas,uti,DescIdentified,0,-1,"이 보석은 리치 왕 마스테리우스의 영혼을 담고 있는 것으로 보인다. 보석 자체에는 특별한 용도가 없는 것 같다. 보석 안쪽을 자세히 보면 작은 형체가 보이는데, 장난삼아 한번 가볍게 흔들어 본 적이 있다. 그 작은 형체는 그리 유쾌해 보이지 않았다."
 id1_bossplot_mas,uti,LocalizedName,0,-1,리치킹의 영혼
 id1_gem_01_01,uti,Description,0,-1,"엄브리의 자부심으로, 엘프의 일꾼들이 축적하는 해 진주는 가장 깊은 바다 골짜기에서 거대한 해삼의 입에서 형성되며, 가장 가혹한 환경에서도 생존한다. 이 유형의 보석은 종종 마법의 조리법의 구성 요소로 사용된다. 이 보석은 어두운 색을 띠며 내부에 빛이 없다."
 id1_gem_01_01,uti,LocalizedName,0,-1,어둠의 해안 진주
@@ -362,7 +362,7 @@ id_potion018,uti,LocalizedName,0,90920,하급 주문 망토 물약
 id_potion019,uti,DescIdentified,0,90921,흡수자 주변에 장벽을 생성하여 모든 들어오는 주문과 마법 같은 능력을 흡수합니다. 붕괴하기 전에 최대 1d8+8 레벨의 주문까지 흡수할 수 있습니다.
 id_potion019,uti,LocalizedName,0,90920,주문 망토 물약
 id_potion020,uti,DescIdentified,0,90921,"흡수기 주위에는 장벽을 만들어 내며, 모든 입력된 마법을 흡수할 수 있습니다."
-id_potion020,uti,LocalizedName,0,90920,물약으로 만든 상급 주문 망토
+id_potion020,uti,LocalizedName,0,90920,상급 주문 망토 물약
 id_potion021,uti,DescIdentified,0,90921,이 매술은 흡수자에게 10/+5의 손상을 줄여줍니다. 매술 수준에 10 점의 인접한 손상을 흡수합니다.
 id_potion021,uti,LocalizedName,0,90920,돌 피부 물약
 id_potion022,uti,DescIdentified,0,90921,"마신 자에게 20/+5의 피해 감소를 부여한다. 이 주문은 소멸하기 전까지 주문 레벨당 10포인트의 근접 피해를 흡수하며, 최대 150포인트까지 흡수한다."
@@ -408,7 +408,7 @@ id_potion039,uti,DescIdentified,0,90921,"마신 자는 야만인과 유사한 �
 id_potion039,uti,LocalizedName,0,90920,피 펀지 약
 id_potion040,uti,DescIdentified,0,90921,"주입자의 색상은 주변 환경에 맞게 변하고, 모든 Hide 체크에 대해 +10의 자격 보너스를 얻습니다."
 id_potion040,uti,LocalizedName,0,90920,위장 물약
-id_potion041,uti,DescIdentified,0,90921,"음식물 섭취자는 모든 죽음의 마법, 마법 같은 능력, 그리고 효과에 면역이 됩니다."
+id_potion041,uti,DescIdentified,0,90921,"마신 자는 모든 죽음의 마법, 마법 효과 및 유사 마법 능력에 면역이 됩니다."
 id_potion041,uti,LocalizedName,0,90920,죽음 방비 물약
 id_potion042,uti,DescIdentified,0,90921,"음주자는 마비, 느린, 얽히는 효과에 면역이 됩니다."
 id_potion042,uti,LocalizedName,0,90920,자유 이동 물약
@@ -422,9 +422,9 @@ id_potion046,uti,DescIdentified,0,90921,"음수자는 마법 저항이 12로 설
 id_potion046,uti,LocalizedName,0,90920,주문 저항 물약
 id_potion047,uti,DescIdentified,0,90921,"음수자는 다음과 같은 보너스를 얻습니다. 매술 레벨당 1 추가 히트 포인트, 강도는 18으로 증가합니다 (이런 강도는 이미 18이거나 이상이면 더 높지 않습니다), 그리고 기본 공격 보너스는 같은 수준의 전투기의 수준으로 향상됩니다."
 id_potion047,uti,LocalizedName,0,90920,신성한 권능 물약
-id_potion048,uti,DescIdentified,0,90921,"능력 점수, 방어도(AC), 공격 및 손해 롤, 주문 저항성, 구제 투어와 면역 손상에 대한 처벌을 적용하는 모든 마법적이고 비범적이며 초자연적인 효과를 제거합니다. 이 약은 또한 모든 수준의 배출과 시각장애 및 청각 장애의 영향을 없애습니다. 저주 또는 질병의 효과는 없앨 수 없습니다."
+id_potion048,uti,DescIdentified,0,90921,"능력치, 방어 등급(AC), 공격 및 피해 굴림, 주문 저항, 내성 판정, 그리고 피해 면역에 페널티를 주는 모든 마법적, 특수적, 초자연적 효과를 제거합니다. 또한 모든 레벨 흡수, 실명 및 청력 상실 효과도 제거합니다. 저주나 질병의 효과는 제거하지 못합니다."
 id_potion048,uti,LocalizedName,0,90920,회복 물약
-id_potion049,uti,DescIdentified,0,90921,"상급 회복은 대부분의 일시적이고 모든 영구적인 부정적인 효과를 제거하며, 수면 배출도 포함됩니다. 정신적 악영향이나 이동 속도 감소의 효과는 제거하지 않습니다. 또한 흡수자는 풀 히트 포인트까지 회복됩니다."
+id_potion049,uti,DescIdentified,0,90921,"상급 회복은 시전자에게 걸린 대부분의 일시적 효과와 모든 영구적인 부정적 효과를 제거하며, 레벨 흡수도 포함됩니다. 정신적 악영향이나 이동 속도 감소 효과는 제거하지 않습니다. 또한 시전자의 생명력을 완전히 회복시킵니다."
 id_potion049,uti,LocalizedName,0,90920,상급 회복 투약
 id_potion050,uti,DescIdentified,0,90921,물약을 마신 사람은 초자연적 능력치 피해와 레벨 흡수를 포함한 모든 음에너지 공격에 면역이 됩니다.
 id_potion050,uti,LocalizedName,0,90920,음 에너지 보호 물약

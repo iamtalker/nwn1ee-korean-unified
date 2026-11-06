@@ -230,7 +230,7 @@ captive_1,dlg,EntryList/31/Text,0,"<StartAction>[머리를 흔들]</Start> ""그
 captive_1,dlg,EntryList/32/Text,0,"""고문실로 가서 던전 마스터의 책상을 열어. 그 안에 이 문의 열쇠가 들어 있을 거야."""
 captive_1,dlg,EntryList/33/Text,0,"<StartAction>[쓴웃음을 짓는다]</Start> ""대단한 농담이군..."""
 captive_1,dlg,ReplyList/0/Text,0,"""키를 찾지 못했어."""
-captive_1,dlg,ReplyList/2/Text,0,"""키는 내 손에 있어. 이제 유물에 대해 알고 있는 것을 말해줘."""
+captive_1,dlg,ReplyList/2/Text,0,"""열쇠는 내게 있어. 이제 유물에 대해 아는 대로 말해."""
 captive_1,dlg,ReplyList/3/Text,0,"""먼저 정보입니다."""
 captive_1,dlg,ReplyList/4/Text,0,"""유물에 대한 모든 것을 알기 전에는 열쇠를 주지 않겠다."""
 captive_1,dlg,ReplyList/5/Text,0,그래서 우리는 거래합약이 없습니다.
@@ -318,7 +318,7 @@ drow_mis1_fin,dlg,ReplyList/5/Text,0,"""내가 너의 말을 잊어 버리지만
 drow_mis1_fin,dlg,ReplyList/6/Text,0,"불행한 자여, 내 명령에 의문을 제기하지 마라. 내가 네게 명령한 대로 행동하고, 나를 실망시키지 않도록 하라. 나는 분명히 했느냐?"
 drow_mis1_fin,dlg,ReplyList/7/Text,0,"""좋아요, 해고됐습니다""."
 drow_mis1_fin,dlg,ReplyList/8/Text,0,"""그들 중 일부는 아직 이 지역에 있을지도 모른다. 이 동굴을 지키고 있거라. 나는 우리 지도자에게 보고할 것이다."""
-drow_mis1_fin,dlg,ReplyList/9/Text,0,"""나는 당신이 말한 것을 잊을 것이다, 그러나 경고를 드린다. 만약 너가 나를 실망시키면, 너는 매우 후회할 것이다. 중위 알'크라나일?"""
+drow_mis1_fin,dlg,ReplyList/9/Text,0,"""네가 한 말은 묻어두겠지만, 경고하마. 나를 실망시키면 뼈저리게 후회하게 될 것이다. 알'크라나일 중위?"""
 drow_mis1_fin,dlg,ReplyList/10/Text,0,"불행한 자여, 내 명령에 의문을 제기하지 마라. 내가 네게 명령한 대로 행동하고, 나를 실망시키지 않도록 하라. 나는 분명히 했느냐?"
 drow_mis1_fin,dlg,ReplyList/11/Text,0,"""좋아, 알크라날 중위!"""
 drow_mis1_fin,dlg,ReplyList/12/Text,0,"""그들 중 일부는 아직 이 지역에 있을지도 모른다. 이 동굴을 지키고 있거라. 나는 우리 지도자에게 보고할 것이다."""
@@ -420,7 +420,7 @@ llomir_2,dlg,ReplyList/4/Text,0,"""무슨 일이죠?"""
 llomir_2,dlg,ReplyList/5/Text,0,"이 평판은 악취와 같아서, 그것을 씻는 데는 영원히 걸린다."
 llomir_2,dlg,ReplyList/6/Text,0,조금 더 존중한다면 훨씬 더 쉬워질 거다.
 llomir_2,dlg,ReplyList/7/Text,0,"""위해?"""
-llomir_2,dlg,ReplyList/8/Text,0,"""맞아! 내게 다시 화를 내는 사람은 정말 후회할 거야."""
+llomir_2,dlg,ReplyList/8/Text,0,"""그래! 다음번에 나를 화나게 하는 자는 뼈저리게 후회하게 될 거야."""
 llomir_2,dlg,ReplyList/9/Text,0,"""나는 권위를 높이기 위해 누군가를 처벌하지 않을 거야!"""
 llomir_2,dlg,ReplyList/11/Text,0,"""우리는 성공했다. 단 한 명도 살아남지 못했다."""
 llomir_2,dlg,ReplyList/12/Text,0,"""그녀가 걱정하는 다른 문제도 있다..."""
@@ -440,7 +440,7 @@ llomir_2,dlg,ReplyList/26/Text,0,그들은 먼지가 됐어. 내가 네 목숨�
 llomir_2,dlg,ReplyList/27/Text,0,나는 그 것을 우리 지도자에게 주었습니다.
 llomir_2,dlg,ReplyList/28/Text,0,이건 당신과는 관계없는 거다.
 llomir_2,dlg,ReplyList/29/Text,0,잠깐! 뭘 원하는 거야?
-llomir_2,dlg,ReplyList/30/Text,0,난 네 생명을 제안한다
+llomir_2,dlg,ReplyList/30/Text,0,네 목숨만은 살려주겠다...
 llomir_2,dlg,ReplyList/31/Text,0,"선택은 네 몫이야, 라로미르. 잘 고르게."
 llomir_2,dlg,ReplyList/32/Text,0,이 마법의 검은 어때?
 llomir_2,dlg,ReplyList/33/Text,0,"이 거래는 비밀이다. 명심해라, 그렇지 않으면 후회하게 될 것이다."
@@ -518,11 +518,11 @@ llomir_3,dlg,ReplyList/33/Text,0,"""내가 할 거야. 날 속이려고 하지 �
 llomir_3,dlg,ReplyList/34/Text,0,드로우 유물? 어떤 물건들을 찾았나?
 llomir_3,dlg,ReplyList/35/Text,0,좀 더 자세히 살펴보도록 하겠습니다.
 llomir_3,dlg,ReplyList/36/Text,0,"내 친구, 나는 칼에 관심이 있어."
-llomir_3,dlg,ReplyList/37/Text,0,고마워. 네 행운을 빌어.
+llomir_3,dlg,ReplyList/37/Text,0,고마워. 그대에게도 행운을 빌지.
 llomir_3,dlg,ReplyList/38/Text,0,"난 뚜 에 관심이 있어, 친구"
-llomir_3,dlg,ReplyList/39/Text,0,고마워. 네 행운을 빌어.
+llomir_3,dlg,ReplyList/39/Text,0,고마워. 그대에게도 행운을 빌지.
 llomir_3,dlg,ReplyList/40/Text,0,"반지에 관심이 있어, 친구."
-llomir_3,dlg,ReplyList/41/Text,0,고마워. 네 행운을 빌어.
+llomir_3,dlg,ReplyList/41/Text,0,고마워. 그대에게도 행운을 빌지.
 llomir_3,dlg,ReplyList/42/Text,0,"롤미어, 이걸 받으시오. 이미 충분히 얻었소."
 llomir_3,dlg,ReplyList/45/Text,0,"""이것이 내 비밀이야. 이게 뭐야?"""
 llomir_3,dlg,ReplyList/46/Text,0,"""당신에게는 당신의 기술이 있고 나에게는 내 기술이 있지. 이 지역에 대해 얘기해 보자고. 지금까지 뭘 찾아냈지?"""
@@ -568,7 +568,7 @@ nelad_1,dlg,EntryList/39/Text,0,"""그리고 우리는 당신이 없으면 그�
 nelad_1,dlg,EntryList/40/Text,0,"""그러나 사실 당신은... 우리를 떠나고 있습니다."""
 nelad_1,dlg,EntryList/41/Text,0,"""그렇지."""
 nelad_1,dlg,EntryList/42/Text,0,"""그렇습니다... 현재로는... 당신의 명령을 따르겠습니다."""
-nelad_1,dlg,EntryList/43/Text,0,"""안녕하세요, <FullName>. 무엇을 하셨나요?"""
+nelad_1,dlg,EntryList/43/Text,0,"""반갑네, <FullName>. 별일 없나?"""
 nelad_1,dlg,EntryList/44/Text,0,넌 다시 돌아왔어. 이 말은 무슨 의미일까?
 nelad_1,dlg,EntryList/45/Text,0,"알크라날, 누구냐?"
 nelad_1,dlg,EntryList/46/Text,0,"아, 이 알크라날이야. 이제 네가 누구에 대해 말하는지 알아."
@@ -576,7 +576,7 @@ nelad_1,dlg,EntryList/47/Text,0,- 무슨 소리야 ?
 nelad_1,dlg,EntryList/48/Text,0,알크라날?
 nelad_1,dlg,EntryList/49/Text,0,알크라날은 생존한 최고의 날카로운 슈팅 선수야.
 nelad_1,dlg,EntryList/50/Text,0,- 더 필요한 것이 있나?
-nelad_1,dlg,EntryList/51/Text,0,나보다 우월한 다른 사람들의 사안에 대해 들여다보지 않습니다.
+nelad_1,dlg,EntryList/51/Text,0,나보다 지위가 높은 이들의 사건에 참견하진 않아.
 nelad_1,dlg,EntryList/52/Text,0,네 뜻대로 해. 이제 고블린을 사냥하는 건 아닌 것 같군.
 nelad_1,dlg,EntryList/53/Text,0,"그게 다야. 앞서 말했듯이, 다른 사람들의 가방에 코를 꽂지 않아. 너도 마찬가지로 해야 해."
 nelad_1,dlg,EntryList/54/Text,0,토론이 없을 거예요?
@@ -587,7 +587,7 @@ nelad_1,dlg,EntryList/58/Text,0,아마 내 검술이 내 말솜씨에 밀려 조
 nelad_1,dlg,EntryList/60/Text,0,"""나? 나는 아무 말도 하지 않겠다. 나는 결코 다른 사람의 사건에 관여하지 않을 거다."""
 nelad_1,dlg,EntryList/61/Text,0,"""우리 모두 여기 있는 것 같아요""."
 nelad_1,dlg,EntryList/62/Text,0,"""명령관님, 암시로 대화하는 것이 과하게 말하는 것보다 낫습니다. 당신에게 무엇을 도와드릴까요?"""
-nelad_1,dlg,EntryList/63/Text,0,"""나는 확실히 할 것입니다, 지휘관. 당신은 내 무자비한... 진실을 의지할 수 있습니다."""
+nelad_1,dlg,EntryList/63/Text,0,"""물론이지요, 지휘관님. 제 무자비한... 진심을 기대하셔도 좋습니다."""
 nelad_1,dlg,EntryList/64/Text,0,"""아, 제가 예의를 잊었군요. 부디 용서해 주십시오, 지휘관 <FullName>. 다른 사람과 대화하는 데 익숙하지 않아서요. 무엇을 도와드릴까요?"""
 nelad_1,dlg,EntryList/65/Text,0,"""부하들은 얼마나 거느리고 있나?"""
 nelad_1,dlg,EntryList/66/Text,0,"""우리는 어떤 임무를 받게 될까?"""
@@ -672,13 +672,13 @@ nelad_1,dlg,ReplyList/71/Text,0,고마워. 조언 감사하고 이제 가야 해
 nelad_1,dlg,ReplyList/72/Text,0,내 결정을 내렸다. 넌 내 새로운 부관이야.
 nelad_1,dlg,ReplyList/73/Text,0,"토의는 없다, 넬라드. 받아들여야 할 것이다."
 nelad_1,dlg,ReplyList/74/Text,0,"날 실망시키지 마, 네라드. 나는 널 잘 지켜볼게."
-nelad_1,dlg,ReplyList/75/Text,0,한 사람의 운명은 다른 사람의 행운이다. 운명의 번개를 의심하지 마라.
+nelad_1,dlg,ReplyList/75/Text,0,누군가의 파멸은 다른 이의 행운이지. 행운의 장난을 의심하지 마라.
 nelad_1,dlg,ReplyList/76/Text,0,왜 나는 항상 당신의 말 속에서 독의 흔적을 느낄 수 있나?
 nelad_1,dlg,ReplyList/77/Text,0,이 대화가 지루해지네요. 추가로 사용할 수 있는 기술은 없나요?
 nelad_1,dlg,ReplyList/78/Text,0,"""이걸로 무슨 말을 하는가?"""
 nelad_1,dlg,ReplyList/79/Text,0,"""나는 리즈젠과 일름린의 사망에 아무 관련이 없었고, 스스로 살아남기 위해 충분한 어려움을 겪었다."""
 nelad_1,dlg,ReplyList/80/Text,0,"""당신은 수수께끼로 말하고 있습니다."""
-nelad_1,dlg,ReplyList/81/Text,0,"""앞으로도 계속해 주시면 좋겠지만, 지금은 이만 끝내자."""
+nelad_1,dlg,ReplyList/81/Text,0,"""앞으로도 계속하는 게 좋을 거야."""
 nelad_1,dlg,ReplyList/82/Text,0,"""당신은 지휘관님께 좀 더 친절해야 한다고 생각하지 않나?"""
 nelad_1,dlg,ReplyList/83/Text,0,"""나를 보좌할 새 부관이 필요해. 관심 있나?"""
 nelad_1,dlg,ReplyList/84/Text,0,"""우리는 꽤 많은 사람들에게 대비해야 할 것입니다."""
@@ -752,7 +752,7 @@ nelad_2,dlg,ReplyList/28/Text,0,"""주제를 바꿔보자."""
 nelad_2,dlg,ReplyList/29/Text,0,"""우리는 표면으로 가게 되었습니다. 왜 그런지 아는가?"""
 nelad_2,dlg,ReplyList/30/Text,0,"""말을 좀 더 조심하는 게 좋을 거야..."""
 nelad_2,dlg,ReplyList/31/Text,0,<StartAction>#</Start>#############################################################################
-nelad_2,dlg,ReplyList/32/Text,0,"""우리는 그것이 무엇인지 확인해 봐야겠네요, ... 소령님. 나는 당신을 지켜볼 것입니다."""
+nelad_2,dlg,ReplyList/32/Text,0,"""그건 두고 보죠, ... 중위. 당신을 주시하고 있겠습니다."""
 nelad_2,dlg,ReplyList/33/Text,0,"""네라드, 이건 네 관심사가 아니야."""
 nelad_2,dlg,ReplyList/34/Text,0,"""조심하겠다고 약속하지."""
 nelad_2,dlg,ReplyList/35/Text,0,"""무슨 일이죠?"""
@@ -806,9 +806,9 @@ nelad_4,dlg,ReplyList/4/Text,0,이 중상 치료 물약을 받아라.
 nelad_4,dlg,ReplyList/5/Text,0,이 중상 치료 포션들을 가지게.
 nelad_4,dlg,ReplyList/6/Text,0,이 가벼운 상처 치료 포션들을 가지게.
 piwiewien_1,dlg,EntryList/0/Text,0,"""스카우트! 당신과 말해야 해."""
-piwiewien_1,dlg,EntryList/1/Text,0,"""그러나 당신은 부대장으로 선택하셨나요, 지휘관?"""
+piwiewien_1,dlg,EntryList/1/Text,0,"""그래서 부관은 정하셨습니까, 지휘관님?"""
 piwiewien_1,dlg,EntryList/2/Text,0,그러나 이 일을 결정하는 것은 당신께 달려 있나니 나는 당신께 임무를 하고 있나이다
-piwiewien_1,dlg,EntryList/3/Text,0,"""좋은 선택이에요. 이미 임무가 있어."""
+piwiewien_1,dlg,EntryList/3/Text,0,"""좋은 선택이군요. 당신에게 맡길 임무가 이미 있습니다."""
 piwiewien_1,dlg,EntryList/4/Text,0,"""내가 분명하게 말하지 않나요? 당신은 지금 내 명령을 듣고 즉시 그것을 수행할 것입니다!"""
 piwiewien_1,dlg,EntryList/5/Text,0,"""잠깐만! 보상도 있을 수 있지만 먼저 가서 성공할거야. 방치한 대화는 없을거야. 이해가 됐어?"""
 piwiewien_1,dlg,EntryList/6/Text,0,"""이제 주의 깊게 들어라. 트리안디르는 우리의 발자국을 따라다니는 몬스터들을 감지했다. 아마 그들은 여전히 우리를 쫓고 있을지도 모른다. 우리는 함정을 놓고, 당신은 우리를 위해 이것을 해야 한다."""
@@ -872,7 +872,7 @@ piwiewien_1,dlg,ReplyList/28/Text,0,- 알았습니다.
 piwiewien_1,dlg,ReplyList/29/Text,0,"당신의 명령에 따르겠습니다, 여주님."
 piwiewien_1,dlg,ReplyList/30/Text,0,"""고마워, 주인님. 제 친구 라모르가 주요 세력을 이끌고 있다는 걸 듣고 기쁩니다."""
 piwiewien_1,dlg,ReplyList/31/Text,0,내가 승진했는데 내휘하에 배정된 부하가 하나도 없단 말인가?
-piwiewien_1,dlg,ReplyList/32/Text,0,"하지만 이것은 나는 단지 혼자라는 것을 의미합니다. 난 지휘관이라는 이름만으로는 지휘할 수 있지만, 실제로는 권력으로 지휘하는 것이 아닙니다."
+piwiewien_1,dlg,ReplyList/32/Text,0,"하지만 이것은 내가 오롯이 혼자라는 뜻이다. 나는 이름만 지휘관이지, 권력은 없다."
 piwiewien_1,dlg,ReplyList/33/Text,0,- 알았습니다.
 piwiewien_1,dlg,ReplyList/34/Text,0,"당신의 명령에 따르겠습니다, 여주님."
 piwiewien_1,dlg,ReplyList/35/Text,0,"""그럼 로미르와 내가 같은 계급으로 부대를 이끄는 건가요, 마님?"""
@@ -891,7 +891,7 @@ piwiewien_2,dlg,EntryList/9/Text,0,"""사상자 있나?"""
 piwiewien_2,dlg,EntryList/10/Text,0,"""나쁘지 않다. 자네가 지휘관으로서 적합한 선택인 것 같다."""
 piwiewien_2,dlg,EntryList/11/Text,0,"""그건 너무 나쁘다. 부상을 위해 귀중한 물품을 쓸 가치가 있는지 보자. 그 밖의 어떤 것도?"""
 piwiewien_2,dlg,EntryList/12/Text,0,"""그건 너무 나쁘다. 부상을 위해 귀중한 물품을 쓸 가치가 있는지 보자. 그 밖의 어떤 것도?"""
-piwiewien_2,dlg,EntryList/13/Text,0,이것은 용납할 수 없사옵니다. 남들의 생존에 더욱 주의하라. 그들이 단지 인간이라 하더라도 우리의 자원은 제한되어 있사옵니다.
+piwiewien_2,dlg,EntryList/13/Text,0,"""용납할 수 없는 일이다. 부하들의 생존에 좀 더 신경 쓰도록 해라. 비록 그들이 평범한 인간들에 불과할지라도, 우리의 자원은 한정되어 있으니 말이다."""
 piwiewien_2,dlg,EntryList/14/Text,0,"""이런. 다른 사람 없나?"""
 piwiewien_2,dlg,EntryList/15/Text,0,"""좋아요. 어떻게 지역을 확보했나요?"""
 piwiewien_2,dlg,EntryList/16/Text,0,"""무지! 우리 뒤에는 더 많은 적들이 있을지도 모른다. 당신은 우리의 후진 방어력을 떨어뜨렸다. 나는 내 지휘관들이 똑똑할 것으로 기대한다! <StartAction>[왼 눈 을 올린다]</Start> 당신이 그 스비르프네블린에 성공했듯이 당신의 실패는 아무런 결과도 없을 수도 있다. 이번에는... 롬이르가 가서 모든 것을 바로 잡을 것이다""."
@@ -985,7 +985,7 @@ piwiewien_4,dlg,ReplyList/10/Text,0,"""당신의 명령에 따르겠습니다.""
 piwiewien_4,dlg,ReplyList/11/Text,0,"""내 여인...?"""
 piwiewien_4,dlg,ReplyList/12/Text,0,"""나는 작은 단품만 발견하고 사물들을 위해 트리안데르에게 팔았다""."
 piwiewien_4,dlg,ReplyList/13/Text,0,"""그는 모든 사람에게 물건을 팔지만 가격이 매우 높습니다."""
-piwiewien_4,dlg,ReplyList/15/Text,0,"""나는 당신에게 보너스를 보여주지 못한 시간이 없었습니다."""
+piwiewien_4,dlg,ReplyList/15/Text,0,"""아직 보상을 보여줄 시간이 없었군."""
 piwiewien_4,dlg,ReplyList/16/Text,0,"""누군가 내 명성을 흐릴려고 한다, 마스터. 하지만 당신의 지혜는 진실을 알아차릴 것이다."""
 piwiewien_4,dlg,ReplyList/17/Text,0,"""우리 여신께 맹세하건데, 중요한 것을 발견한 건 없어요""."
 piwiewien_4,dlg,ReplyList/18/Text,0,"""그들한텐 금화 몇 닢이랑 회복 포션 몇 개밖에 없었어. 이 끔찍한 노움 갑옷이랑 저급한 무기를 누가 쓰겠어? 그래서 내다 버렸지."""
@@ -1215,7 +1215,7 @@ thriandir_2,dlg,EntryList/37/Text,0,"<StartAction>[눈마개를 펴고]</Start>"
 thriandir_2,dlg,EntryList/38/Text,0,"""죽음은 우리 사회에서 항상 존재한다. 로틀의 무자비한 눈이 당신을 바라보면, 당신의 운명은 결정될 것이다."""
 thriandir_2,dlg,EntryList/39/Text,0,"<StartAction>[ 한숨 ]</Start> ""그렇지."""
 thriandir_2,dlg,EntryList/40/Text,0,"""우리는 서쪽으로 잠겨 있는 포털을 찾았어요. 강력한 마법 방어력으로 인해 모든 시도가 무효입니다. 한 번도 그 포털의 결계를 해제할 수 없었습니다. 우리는 대체 경로를 찾아야 합니다."""
-thriandir_2,dlg,EntryList/41/Text,0,"""나의 마법사 동물이 이 지역을 탐험하러 갔고, 그곳은 천장 아래에 있는 오래된 채굴 시스템으로 이어지는 공기 통로를 발견했습니다. 그것은 우리의 머리 위에 매우 높게 위치해 있습니다."""
+thriandir_2,dlg,EntryList/41/Text,0,"""제가 친숙한 동물을 보내 이 지역을 탐사하게 했는데, 오래된 채광 시설로 이어지는 환기 통로를 찾았습니다. 그것은 우리 머리 위, 천장 가까이에 있습니다."""
 thriandir_2,dlg,EntryList/42/Text,0,"""모르겠어. 구멍과 동굴의 미로로 이어져 있어. 누가 조사해봐야겠어."""
 thriandir_2,dlg,ReplyList/0/Text,0,"""수급이 필요하고, 정보도 필요해."""
 thriandir_2,dlg,ReplyList/2/Text,0,"""아니, 아직 쉬는 시간이 필요해."""
@@ -1223,7 +1223,7 @@ thriandir_2,dlg,ReplyList/4/Text,0,"""네, 그래요""."
 thriandir_2,dlg,ReplyList/6/Text,0,"""활동의 징후가 있나?"""
 thriandir_2,dlg,ReplyList/7/Text,0,"""멋진데. 정말 재미있겠는걸."""
 thriandir_2,dlg,ReplyList/8/Text,0,"""어떤 것들은 결합될 수 있다..."""
-thriandir_2,dlg,ReplyList/9/Text,0,"""내가 실패하면 여전히 그 문을 열 수는 있지만..."""
+thriandir_2,dlg,ReplyList/9/Text,0,"""내가 실패하더라도 자네가 여전히 저 문을 열 수 있을 거야."""
 thriandir_2,dlg,ReplyList/10/Text,0,"""그렇다면. 하지만 난 노력해볼게."""
 thriandir_2,dlg,ReplyList/11/Text,0,"""당신은 이 포털을 열 수 없을 거예요?"""
 thriandir_2,dlg,ReplyList/12/Text,0,"""당신이 할 수 있다면 충분하다."""
@@ -1298,7 +1298,7 @@ thriandir_4,dlg,EntryList/11/Text,0,"""좋게 선택했습니다. 더 많은 결
 thriandir_4,dlg,EntryList/12/Text,0,"""더 많은 결정석을 발견한 후에 다시 오세요."""
 thriandir_4,dlg,EntryList/13/Text,0,"""음, 꽤 많은 결정석을 찾았군요. 매우 유용할 것 같습니다. 5개의 불 글로브는 어떠세요?"""
 thriandir_4,dlg,EntryList/14/Text,0,"""우리는 멘조베란잔에 있지 않습니다. 그 다섯 개의 구체는 현재 내가 가진 전부입니다."""
-thriandir_4,dlg,EntryList/15/Text,0,"""그러면 당신은 또한 그들이 당신에게 아무 가치도 없다는 것을 알 수 있습니다. 당신이 그들을 어떻게 저술시킬 수 있는지 알기 전까지는."""
+thriandir_4,dlg,EntryList/15/Text,0,"""그렇다면 당신은 또한, 그것들에 마법을 부여하는 법을 알기 전까지는 그것들이 아무런 가치도 없다는 것을 알고 있겠군요."""
 thriandir_4,dlg,EntryList/16/Text,0,"""전능한 마법사와 신비한 지식이 필요해""..."
 thriandir_4,dlg,EntryList/17/Text,0,"""나는 마법의 구슬을 만드는 것에 관한 책을 가지고 있지만 비용이 많이 든다..."""
 thriandir_4,dlg,EntryList/18/Text,0,"""25개의 크리스탈을 주세요."""
@@ -1336,7 +1336,7 @@ thriandir_4,dlg,ReplyList/16/Text,0,"""이것만으로는 부족해. 이걸 얻�
 thriandir_4,dlg,ReplyList/18/Text,0,"""그들을 얻기 위해 지뢰에 속아 들어가야 했습니다. 더 많은 것을 원해요""."
 thriandir_4,dlg,ReplyList/19/Text,0,"""맞습니다. 그렇다면, 그 다섯 개의 불구슬을 주시면 거래가 성립됩니다."""
 thriandir_4,dlg,ReplyList/20/Text,0,"""나를 속이지 마. 그 크리스탈의 가치를 충분히 잘 알고 있어..."""
-thriandir_4,dlg,ReplyList/21/Text,0,"""그들을 엔스펠로 매료시킬 수 있는 비밀을 줘."""
+thriandir_4,dlg,ReplyList/21/Text,0,"""그들에게 마법을 걸 비밀을 알려다오."""
 thriandir_4,dlg,ReplyList/22/Text,0,"""나는 이 문제를 해결할 수 있습니다. 그 지구를 만들 수 있는 지식을 주세요""."
 thriandir_4,dlg,ReplyList/23/Text,0,"""당신의 가격은 얼마입니까?"""
 thriandir_4,dlg,ReplyList/24/Text,0,"""그것에 대해 1000gp를 줄게."""
@@ -1356,7 +1356,7 @@ thriandir_4,dlg,ReplyList/39/Text,0,"""나는 아직 만족스럽지 않다. 그
 thriandir_4,dlg,ReplyList/40/Text,0,"""내가 다시 생각해 봤어."""
 thriandir_4,dlg,ReplyList/41/Text,0,"""두 개의 가속 물약과 5개의 불글로브를 주면 거래가 되겠습니다."""
 thriandir_4,dlg,ReplyList/43/Text,0,"""투명화 물약 두 병과 불구슬 다섯 개를 주면 거래가 되겠습니다."""
-thriandir_4,dlg,ReplyList/45/Text,0,"""나는 그 독글로브를 좋아하지 않아. 다른 것을 줘."""
+thriandir_4,dlg,ReplyList/45/Text,0,"""그 독 구슬들은 마음에 안 드는군요. 다른 걸로 주십시오."""
 thriandir_4,dlg,ReplyList/46/Text,0,"""나는 수락한다."""
 thriandir_4,dlg,ReplyList/48/Text,0,"""이제 충분해. 동의한다."""
 thriandir_4,dlg,ReplyList/50/Text,0,"""이제 충분해. 동의한다."""
@@ -2802,7 +2802,11 @@ outpostfirstfloo,git,Placeable List/5/ItemList/0/Description,0,"이 책 은 표�
 outpostfirstfloo,git,Placeable List/5/ItemList/0/DescIdentified,0,"세일다린은 이리티리족과 다른 ""검은 엘프들""을 태양의 빛을 견딜 수 없는 검은 피부, 흰 털의 생물로 변화시켰습니다. 다른 엘프들이 ""dhearaow"" (신신도자) 이라고 부르는 이 생물들은 엘프 공동체에서 쫓겨났으며, 심지어 엘프들의 생명의 원천인 태양으로부터도 분리되었습니다. 그들은 언더크로 도망쳐 서로 싸웠으며, 때때로 그들의 표면 친척과 그 길을 걸을 수 있는 모든 사람을 공격했습니다."
 outpostfirstfloo,git,Placeable List/5/ItemList/1/LocalizedName,0,일리티리의 형벌과 재판
 outpostfirstfloo,git,Placeable List/5/ItemList/1/Description,0,"이 책은 스비르프네블린의 언어로 작성되어 있습니다. 글은 매우 복잡하고 장식적이며, 현재는 단 한 단어도 해독할 수 없습니다."
-outpostfirstfloo,git,Placeable List/5/ItemList/1/DescIdentified,0,저는 상위 동굴의 거미 생물들에 대한 혐오스러운 진실을 발견했습니다. 일리티리의 연합군에 대한 마지막 공격이 실패하자 롤스는 분노했습니다. 그녀는 남은 세력을 동굴에서 재집합시키고 처벌로 거미와 엘프의 한 부분씩이 섞인 끔찍한 생물로 변하게 만들었습니다.
+outpostfirstfloo,git,Placeable List/5/ItemList/1/DescIdentified,0,"나는 위쪽 동굴에 사는 거미 생물들에 대한 끔찍한 진실을 알아냈습니다.
+
+연합군에 대한 일리티리의 최후의 공격이 실패로 끝나자 롤스는 분노했습니다. 그녀는 남은 부하들을 동굴에 집결시키고는, 벌로 그들을 상반신은 엘프, 하반신은 거미인 끔찍한 괴물로 만들어 버렸습니다.
+
+나는 우리 군대에 그 비정상적인 괴물들과 접촉하지 말라고 명령했습니다."
 outpostfirstfloo,git,Placeable List/11/LocName,0,책장
 outpostfirstfloo,git,Placeable List/11/Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 outpostfirstfloo,git,Placeable List/13/LocName,0,책장
@@ -4329,7 +4333,7 @@ it_mbelt027,uti,DescIdentified,0,"성공적 인 상인 로저 델포스는 도�
 it_mbelt029,uti,LocalizedName,0,민첩성 벨트 +2
 it_mbelt029,uti,DescIdentified,0,"성공적 인 상인 로저 델포스는 도둑 반신조합을 결성하기 위해 도둑들에게 돈을 지불하여 워터디프의 상인들을 지키기 위해 보안 전문가가 될 수 있도록 했다. 경비자들은 강도들을 수사하기 위해 홀드 페르슨 주문을 사용하도록 훈련받았다. 이 보안 조치에 대항하기 위해 도둑들의 조합은 마법 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 조합 사이의 격상되는 전쟁에서, 이들 벨트 중 상당수는 보금점과 장비 매장으로 진입했다."
 it_mneck006,uti,LocalizedName,0,권능의 호신부
-it_mneck006,uti,DescIdentified,0,"게르바자 (Ger'baza) 는 필사적 정신이 이해할 수 있는 것보다 더 많은 힘을 추구하는 고대 리치였다. 권능의 호신부를 만들기 위해 포획된 영혼들을 합쳐서, 제르 바자는 자신의 성공에 놀라며 수많은 변형을 만들었다. 그러나 상식은 그를 실패했다; 모든 목걸이를 일조로 착용하려고 시도하면서 그레바사는 조용하게 존재에서 지워졌다. 구슬은 기적적으로 살아남았다."
+it_mneck006,uti,DescIdentified,0,"게르바자는 필사자의 정신이 가늠할 수 있는 것보다 더 큰 권능을 갈구하던 고대 리치였다. 포획된 영혼들을 융합하여 권능의 호신부를 만든 게르바자는 자신의 성공에 경탄하며 수많은 아종을 만들어냈다. 그러나 그에게는 상식이라는 것이 결여되어 있었으니, 목걸이들을 한꺼번에 전부 착용하려다 그만 게르바자는 세상에서 조용히 지워지고 말았다. 그 호신부들은 기적적으로 살아남았다."
 it_mpotion025,uti,LocalizedName,0,치명상처 치료의 물약
 it_mpotion025,uti,DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 it_mpotion026,uti,LocalizedName,0,중간 상처 치료 물약
@@ -4438,7 +4442,11 @@ thedrow002,uti,Description,0,"이 책은 스비르프네블린의 언어로 작�
 thedrow002,uti,DescIdentified,0,저는 이제 거의 200 년 동안 일리티리족을 연구했습니다. 제 모든 수사에서 다음과 같은 결론에 도달했습니다. - 일리티리족은 그들의 여신 롤트의 비합리적이고 악성적인 성질의 희생자입니다. - 롤트는 폭력과 혼란에서 힘을 얻습니다. 그 독이 자신과 적들에게 부과합니다. - 그들의 사회의 잔인함으로 인해 일리티리족은 믿을 수 없을 정도로 강력하고 강해졌습니다. - 일리티리족의 힘은 그들이 연합하면 쉽게 세계를 정복 할 수 있습니다.
 thedrow003,uti,LocalizedName,0,일리티리의 형벌과 재판
 thedrow003,uti,Description,0,"이 책은 스비르프네블린의 언어로 작성되어 있습니다. 글은 매우 복잡하고 장식적이며, 현재는 단 한 단어도 해독할 수 없습니다."
-thedrow003,uti,DescIdentified,0,저는 상위 동굴의 거미 생물들에 대한 혐오스러운 진실을 발견했습니다. 일리티리의 연합군에 대한 마지막 공격이 실패하자 롤스는 분노했습니다. 그녀는 남은 세력을 동굴에서 재집합시키고 처벌로 거미와 엘프의 한 부분씩이 섞인 끔찍한 생물로 변하게 만들었습니다.
+thedrow003,uti,DescIdentified,0,"나는 위쪽 동굴에 사는 거미 생물들에 대한 끔찍한 진실을 알아냈습니다.
+
+연합군에 대한 일리티리의 최후의 공격이 실패로 끝나자 롤스는 분노했습니다. 그녀는 남은 부하들을 동굴에 집결시키고는, 벌로 그들을 상반신은 엘프, 하반신은 거미인 끔찍한 괴물로 만들어 버렸습니다.
+
+나는 우리 군대에 그 비정상적인 괴물들과 접촉하지 말라고 명령했습니다."
 thedrow004,uti,LocalizedName,0,드로우의 역사 1
 thedrow004,uti,Description,0,"이 책 은 표면 에 사는 사람 들 의 언어 로 작성 되어 있으며, 다른 언어 로 일부 해설 이 추가 되었습니다."
 thedrow004,uti,DescIdentified,0,"만 년도 더 전에 일리시르 국가의 검은 피부 엘프들은 사악한 신들의 영향에 빠져 선한 엘프 국가들을 공격했습니다. 
@@ -4475,7 +4483,7 @@ wandofagility,uti,LocalizedName,0,민첩성 마법봉
 wandofarmour,uti,LocalizedName,0,방어 마법 마법봉
 wandofbasicsummo,uti,LocalizedName,0,기본 소환 마법봉
 wandofblindness,uti,LocalizedName,0,실명의 완드
-wandofboom,uti,LocalizedName,0,호리자칼의 웨이드
+wandofboom,uti,LocalizedName,0,호리자칼의 지팡이
 wandofcharms,uti,LocalizedName,0,주문의 마법봉
 wandofclairaudie,uti,LocalizedName,0,청명의 마법봉검
 wandofclarity,uti,LocalizedName,0,명확한 마법봉
@@ -4585,7 +4593,7 @@ nelad_share,utt,LocalizedName,0,나라드_셰어
 newgeneric001,utt,LocalizedName,0,시작
 newtransition001,utt,LocalizedName,0,캠프로 가는 통로
 newtransition002,utt,LocalizedName,0,지하광산으로
-newtransition003,utt,LocalizedName,0,크리스탈 광산으로
+newtransition003,utt,LocalizedName,0,수정 동굴로
 newtransition004,utt,LocalizedName,0,지하 호수로
 newtransition005,utt,LocalizedName,0,광산 시설로 돌아가기
 newtransition006,utt,LocalizedName,0,납골당에서 광산 갱도로

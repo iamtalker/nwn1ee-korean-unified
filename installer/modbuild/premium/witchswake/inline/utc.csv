@@ -68,7 +68,7 @@ etherealfilcher,utc,Description,0,-1,"비록 당신에게 나쁜 의도를 품�
 etherealfilcher,utc,FirstName,0,-1,에테르 필처
 ghast001,utc,Description,0,12551,"이 언데드 시체 포식자들은 하급 친척인 구울보다 더 치명적이고 교활하며, 희생자를 마비시키는 능력까지 갖추고 있습니다."
 ghast001,utc,FirstName,0,12552,가스트
-ghoulrat,utc,Description,0,3104,"이 쥐는 부패한 시체의 냄새가 남아 있으며, 그 뾰족한 눈에는 지각이 없는 무식한 굶주림이 느껴진다."
+ghoulrat,utc,Description,0,3104,"이 쥐에게서는 썩어가는 시체 냄새가 풍기고, 초점 없는 작은 눈에서는 맹목적인 굶주림이 느껴진다."
 ghoulrat,utc,FirstName,0,3103,구울 쥐
 goblina001,utc,Description,0,12565,"고블린은 종종 귀찮게 여겨지지만, 통제되지 않은 인구는 보통 문명화된 지역에 심각한 위협이 될 수 있습니다. 이는 고블린 아동입니다."
 goblina001,utc,FirstName,0,12567,고블린
@@ -126,7 +126,7 @@ sum_eld_air_elem,utc,FirstName,0,12356,소환된 대기의 원소 정령_엘더
 sum_eld_ear_elem,utc,FirstName,0,12515,소환된 대지의 원소 정령 엘더
 sum_eld_fir_elem,utc,FirstName,0,12531,소환된 상급 불의 정령
 sum_eld_wat_elem,utc,FirstName,0,12800,소환된 물의 선조 원소 정령
-sum_fie_boar,utc,FirstName,0,12397,부름 받은 마족 돼지
+sum_fie_boar,utc,FirstName,0,12397,소환된 마족 멧돼지
 sum_fie_dir_boar,utc,FirstName,0,12399,마족 흉포한 멧돼지 소환
 sum_fie_dir_rat,utc,FirstName,0,-1,마족 흉포한 시궁쥐 소환
 sum_fie_dir_tigr,utc,FirstName,0,12448,소환된 마계의 흉포한 호랑이
@@ -180,7 +180,7 @@ unknownsoldie002,utc,Description,0,-1,이 엘프는 목표에 집중해서 당�
 unknownsoldie002,utc,FirstName,0,-1,알 수 없는 병사
 unknownsoldie003,utc,Description,0,-1,이 엘프는 전투에 너무 집중해서 도움을 청할 수 없어
 unknownsoldie003,utc,FirstName,0,-1,알 수 없는 병사
-unknownsoldie004,utc,Description,0,-1,이 고블린은 전투에 너무 집중해서 당신의 도움 청을 듣지 못한다.
+unknownsoldie004,utc,Description,0,-1,이 노움은 전투에 너무 집중한 나머지 당신의 간절한 도움 요청을 듣지 못한다.
 unknownsoldie004,utc,FirstName,0,-1,알 수 없는 병사
 unknownsoldie005,utc,Description,0,-1,이 노움은 검술에 너무 몰두한 나머지 도움을 청하는 당신의 소리를 듣지 못한다.
 unknownsoldie005,utc,FirstName,0,-1,알 수 없는 병사
@@ -305,9 +305,9 @@ ww_sty_gargen001,utc,Description,0,12624,다양한 스티지안 왕들의 뼈대
 ww_sty_gargen001,utc,FirstName,0,12625,가르겐피엔드
 ww_sty_gargenfie,utc,Description,0,12624,다양한 스티지안 왕들의 뼈대 반려동물인 가르겐피엔드는 고향의 메스꺼운 연기가 있는 가운데 사냥꾼과 추적자입니다.
 ww_sty_gargenfie,utc,FirstName,0,12625,가르겐피엔드
-ww_sty_hellio001,utc,Description,0,12528,"그들은 예측 불가능한 만큼 악행을 저지르며, 스티지안 깊은 곳에서는 헬리온들이 흔히 볼 수 있습니다."
+ww_sty_hellio001,utc,Description,0,12528,예측할 수 없을 정도로 장난기가 넘치는 헬리온은 스티지아의 심층부에서 흔히 볼 수 있는 존재다.
 ww_sty_hellio001,utc,FirstName,0,12529,헬리온
-ww_sty_hellion,utc,Description,0,12528,"그들은 예측 불가능한 만큼 악행을 저지르며, 스티지안 깊은 곳에서는 헬리온들이 흔히 볼 수 있습니다."
+ww_sty_hellion,utc,Description,0,12528,예측할 수 없을 정도로 장난기가 넘치는 헬리온은 스티지아의 심층부에서 흔히 볼 수 있는 존재다.
 ww_sty_hellion,utc,FirstName,0,12529,헬리온
 ww_sty_megalo001,utc,Description,0,12557,"금으로 장식되어 있고 불꽃이 둘러싸인 메갈로트족은 스티지아해에서 해적처럼 항해하며, 내륙에서는 유목민처럼 약탈을 벌입니다."
 ww_sty_megalo001,utc,FirstName,0,12558,메갈로트
