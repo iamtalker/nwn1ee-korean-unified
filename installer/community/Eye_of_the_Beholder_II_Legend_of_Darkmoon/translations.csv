@@ -22,7 +22,7 @@ dmforest_north,are,Name,0,다크문 숲 동쪽
 frostgiantprison,are,Name,0,아주루 탑 - 서리 거인 감옥
 hiddenstairway,are,Name,0,다크문 숲 - 하위 레벨 1
 intro_cs_01,are,Name,0,소개 - 워터딥의 거리
-introduction,are,Name,0,워터딥의 길들 - 긴급한 모임
+introduction,are,Name,0,워터딥의 거리 - 긴급한 모임
 khelbenshome,are,Name,0,소개 - 켈벤의 집
 rustynailfinal,are,Name,0,물 깊이 - 은 손톱 타베른 - 2층
 silvertowerhalls,are,Name,0,은탑 2레벨 믿음의 시험 남쪽
@@ -139,7 +139,7 @@ ct1_crimsonring2,dlg,ReplyList/2/Text,0,<StartCheck> 아니...</Start>
 ct1_crimsonring2,dlg,ReplyList/3/Text,0,<StartAction> 그래...</Start>
 ct1_insal,dlg,EntryList/0/Text,0,"<StartAction>""내 친구들, 제발 가세요. 더 이상 아무도 나를 위해 할 수 있는 게 없습니다"".</Start>"
 ct1_insal,dlg,EntryList/1/Text,0,"<StartAction>""이전에 카타콤에서 석방한 작은 도둑인 인살이 강력한 마법의 벽 뒤에서 갇혀있어. 마법과 무기로 힘 벽을 손상시키려 해도 아무런 효과가 없다.""</Start>"
-ct1_insal,dlg,EntryList/2/Text,0,"""내 친구들아, 너희가 다시 나를 도울 수 있었으면 좋겠다. 그러나 나는 영원히 갇혀있을까 두려워한다! 내가 빌린 것을 돌려주었으면 좋겠지만, 드란은 내 모든 것을 빼앗아갔다. 그래도 나는 그의 것을 부동화시킬 수 있었다! 그것은 비밀의 동전이다. 나는 그 목적에 대해 확신하지 못하지만, 너희가 필요로 할 것을 알고 있다. 그것을 가지고 가라, 그가 돌아오기 전에."
+ct1_insal,dlg,EntryList/2/Text,0,"""내 친구들이여, 다시 날 도와줄 수 있었으면 좋겠지만 난 영원히 갇혀버린 것 같구나! 너희에게 빌린 걸 돌려주고 싶지만, 드란이 내 모든 걸 빼앗아 갔어. 그래도 그의 물건 하나 만큼은 지켜냈지! 비밀의 동전이야. 용도는 잘 모르지만 너희에게 필요할 거라는 걸 알겠어. 그가 돌아오기 전에 이걸 가지고 떠나."
 ct1_insal,dlg,ReplyList/0/Text,0,끝...
 ct1_insal,dlg,ReplyList/1/Text,0,계속...
 ct1_insal,dlg,ReplyList/2/Text,0,"<StartAction>""인살을 운명에 맡기고 떠난다.""</Start>"
@@ -388,7 +388,7 @@ eb_hen_amber,dlg,EntryList/125/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/126/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/127/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/128/Text,0,"네, 그럴 것 같아."
-eb_hen_amber,dlg,EntryList/135/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_amber,dlg,EntryList/135/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_amber,dlg,EntryList/136/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_amber,dlg,EntryList/137/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_amber,dlg,EntryList/138/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -403,7 +403,7 @@ eb_hen_amber,dlg,EntryList/146/Text,0,"잘 됐어, 난 몸싸움을 피하겠지
 eb_hen_amber,dlg,EntryList/147/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_amber,dlg,EntryList/148/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_amber,dlg,EntryList/149/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_amber,dlg,EntryList/150/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_amber,dlg,EntryList/150/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_amber,dlg,EntryList/151/Text,0,물론 전투가 시작될 때 난 여전히 마법을 사용하겠다. 하지만 나는 또한 뒤로 물러서서서 멀리서 무기로 공격할거야. 적들이 너무 가까이 가면 무기를 바꿔줄거야.
 eb_hen_amber,dlg,EntryList/153/Text,0,- 잘 됐어
 eb_hen_amber,dlg,EntryList/154/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
@@ -434,7 +434,7 @@ eb_hen_amber,dlg,EntryList/190/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/191/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/192/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/193/Text,0,"네, 그럴 것 같아."
-eb_hen_amber,dlg,EntryList/200/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_amber,dlg,EntryList/200/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_amber,dlg,EntryList/201/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_amber,dlg,EntryList/202/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_amber,dlg,EntryList/203/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -448,13 +448,13 @@ eb_hen_amber,dlg,EntryList/211/Text,0,"잘 됐어, 난 몸싸움을 피하겠지
 eb_hen_amber,dlg,EntryList/212/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_amber,dlg,EntryList/213/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_amber,dlg,EntryList/214/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_amber,dlg,EntryList/215/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_amber,dlg,EntryList/215/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_amber,dlg,EntryList/216/Text,0,뭐하고 싶은데?
 eb_hen_amber,dlg,EntryList/217/Text,0,"잘 됐어, 난 몸싸움을 피하겠지만, 만약 갇히는 상황이 발생하면 예외로 할게."
 eb_hen_amber,dlg,EntryList/218/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_amber,dlg,EntryList/219/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_amber,dlg,EntryList/220/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_amber,dlg,EntryList/221/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_amber,dlg,EntryList/221/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_amber,dlg,EntryList/223/Text,0,- 잘 됐어
 eb_hen_amber,dlg,EntryList/224/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_amber,dlg,EntryList/230/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
@@ -484,7 +484,7 @@ eb_hen_amber,dlg,EntryList/260/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/261/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/262/Text,0,"네, 그럴 것 같아."
 eb_hen_amber,dlg,EntryList/263/Text,0,"네, 그럴 것 같아."
-eb_hen_amber,dlg,EntryList/270/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_amber,dlg,EntryList/270/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_amber,dlg,EntryList/271/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_amber,dlg,EntryList/272/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_amber,dlg,EntryList/273/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -523,7 +523,7 @@ eb_hen_amber,dlg,EntryList/315/Text,0,- 잘 됐어
 eb_hen_amber,dlg,EntryList/316/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_amber,dlg,EntryList/322/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
 eb_hen_amber,dlg,EntryList/323/Text,0,"아주 잘, 내가 직접 전투를 하지 않으면만 당신을 치유할 수 있습니다."
-eb_hen_amber,dlg,EntryList/329/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_amber,dlg,EntryList/329/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_amber,dlg,EntryList/330/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_amber,dlg,EntryList/331/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_amber,dlg,EntryList/332/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -538,7 +538,7 @@ eb_hen_amber,dlg,EntryList/341/Text,0,"잘 됐어, 난 몸싸움을 피하겠지
 eb_hen_amber,dlg,EntryList/342/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_amber,dlg,EntryList/343/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_amber,dlg,EntryList/344/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_amber,dlg,EntryList/345/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_amber,dlg,EntryList/345/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_amber,dlg,EntryList/346/Text,0,"""오. 알았어!"""
 eb_hen_amber,dlg,EntryList/347/Text,0,정말 나를 떠나게 하려나?
 eb_hen_amber,dlg,EntryList/348/Text,0,"""나는 정말로 모든 것을 고려하면 가장 좋을 것 같아."""
@@ -843,7 +843,7 @@ eb_hen_calandra,dlg,EntryList/17/Text,0,"""만티스 계란, 여기가 주식식
 eb_hen_calandra,dlg,EntryList/18/Text,0,"""음, 여기에 언데드 전사가 많이 보여. 사악한 사제가 활발히 움직이고 있어. 우리도 방어할 준비를 해야겠어."""
 eb_hen_calandra,dlg,EntryList/21/Text,0,"""잠깐만 <FirstName>, 여기서 뭔가 이상한 것 같아; 어떤 종류의 숨겨진 물건이 보이네요. 이 지역을 더 철저히 조사해야겠어."""
 eb_hen_calandra,dlg,EntryList/24/Text,0,"""가고일들... 전에 가고일과 싸운 적 있는 친구에게서 이야기를 들었어. 그 친구가 가고일에 관해 들려준 이야기는 좋지 않았어. 경계를 늦추지 말아야 해."""
-eb_hen_calandra,dlg,EntryList/25/Text,0,"""결국, 우리는 그 끔찍한 오래된 동굴에서 벗어났습니다. 아마 그럴 거야, 앞으로 가기 전에 여기서 잠시 휴식을 취할 수 있을까?"""
+eb_hen_calandra,dlg,EntryList/25/Text,0,"""드디어 그 끔찍하고 오래된 던전에서 벗어났군요. 움직이기 전에 여기서 잠시 쉬어갈까요?"""
 eb_hen_calandra,dlg,EntryList/26/Text,0,"""그거 들었어? 거리에서 벽에 긁는 소리가 들렸어. 여기서는 조심해야 해, 이 곳은 매우 안전하지 않은 것 같아."""
 eb_hen_calandra,dlg,EntryList/27/Text,0,"""이 던전에서 나갈 다른 길을 찾아야 할 것 같아요. 돌아가는 길이 막혀 버렸어요."""
 eb_hen_calandra,dlg,EntryList/28/Text,0,"""여긴 너무 어둡게 느껴져. 어떻게 길을 찾을 수 있을까?"""
@@ -935,7 +935,7 @@ eb_hen_calandra,dlg,EntryList/132/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/133/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/134/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/135/Text,0,"네, 그럴 것 같아."
-eb_hen_calandra,dlg,EntryList/142/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_calandra,dlg,EntryList/142/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_calandra,dlg,EntryList/143/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_calandra,dlg,EntryList/144/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_calandra,dlg,EntryList/145/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -950,7 +950,7 @@ eb_hen_calandra,dlg,EntryList/153/Text,0,"잘 됐어, 난 몸싸움을 피하겠
 eb_hen_calandra,dlg,EntryList/154/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_calandra,dlg,EntryList/155/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_calandra,dlg,EntryList/156/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_calandra,dlg,EntryList/157/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_calandra,dlg,EntryList/157/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_calandra,dlg,EntryList/158/Text,0,물론 전투가 시작될 때 난 여전히 마법을 사용하겠다. 하지만 나는 또한 뒤로 물러서서서 멀리서 무기로 공격할거야. 적들이 너무 가까이 가면 무기를 바꿔줄거야.
 eb_hen_calandra,dlg,EntryList/160/Text,0,- 잘 됐어
 eb_hen_calandra,dlg,EntryList/161/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
@@ -981,7 +981,7 @@ eb_hen_calandra,dlg,EntryList/197/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/198/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/199/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/200/Text,0,"네, 그럴 것 같아."
-eb_hen_calandra,dlg,EntryList/207/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_calandra,dlg,EntryList/207/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_calandra,dlg,EntryList/208/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_calandra,dlg,EntryList/209/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_calandra,dlg,EntryList/210/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -995,13 +995,13 @@ eb_hen_calandra,dlg,EntryList/218/Text,0,"잘 됐어, 난 몸싸움을 피하겠
 eb_hen_calandra,dlg,EntryList/219/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_calandra,dlg,EntryList/220/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_calandra,dlg,EntryList/221/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_calandra,dlg,EntryList/222/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_calandra,dlg,EntryList/222/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_calandra,dlg,EntryList/223/Text,0,뭐하고 싶은데?
 eb_hen_calandra,dlg,EntryList/224/Text,0,"잘 됐어, 난 몸싸움을 피하겠지만, 만약 갇히는 상황이 발생하면 예외로 할게."
 eb_hen_calandra,dlg,EntryList/225/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_calandra,dlg,EntryList/226/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_calandra,dlg,EntryList/227/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_calandra,dlg,EntryList/228/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_calandra,dlg,EntryList/228/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_calandra,dlg,EntryList/230/Text,0,- 잘 됐어
 eb_hen_calandra,dlg,EntryList/231/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_calandra,dlg,EntryList/237/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
@@ -1031,7 +1031,7 @@ eb_hen_calandra,dlg,EntryList/267/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/268/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/269/Text,0,"네, 그럴 것 같아."
 eb_hen_calandra,dlg,EntryList/270/Text,0,"네, 그럴 것 같아."
-eb_hen_calandra,dlg,EntryList/277/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_calandra,dlg,EntryList/277/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_calandra,dlg,EntryList/278/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_calandra,dlg,EntryList/279/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_calandra,dlg,EntryList/280/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -1070,7 +1070,7 @@ eb_hen_calandra,dlg,EntryList/322/Text,0,- 잘 됐어
 eb_hen_calandra,dlg,EntryList/323/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_calandra,dlg,EntryList/329/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
 eb_hen_calandra,dlg,EntryList/330/Text,0,"아주 잘, 내가 직접 전투를 하지 않으면만 당신을 치유할 수 있습니다."
-eb_hen_calandra,dlg,EntryList/336/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_calandra,dlg,EntryList/336/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_calandra,dlg,EntryList/337/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_calandra,dlg,EntryList/338/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_calandra,dlg,EntryList/339/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -1085,7 +1085,7 @@ eb_hen_calandra,dlg,EntryList/348/Text,0,"잘 됐어, 난 몸싸움을 피하겠
 eb_hen_calandra,dlg,EntryList/349/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_calandra,dlg,EntryList/350/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_calandra,dlg,EntryList/351/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_calandra,dlg,EntryList/352/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_calandra,dlg,EntryList/352/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_calandra,dlg,EntryList/353/Text,0,"""오. 알았어!"""
 eb_hen_calandra,dlg,EntryList/354/Text,0,"그게 당신이 원하는 것이라면, 서로 좀 더 잘 알아보는 게 좋을 것 같아."
 eb_hen_calandra,dlg,EntryList/370/Text,0,"""루스카네에서, 우리 는 지역적 도적 한 명 에게서 방해 를 받기 위해 고용 되었는데, 그는 한 반 오크 갱단 의 지도자 가 한 물건 을 찾고 있었습니다. 그 들 의 임무 는 항구 인근 에 있는 술집 에서 사물 을 달리고 있었습니다. 그 일 은 그가 눈에 띄지 않고 들어와 나오면서 문제를 일으키는 것 이었다. 간단한 계획. 루스카네 는 단순 한 일 을 하지 않았다""."
@@ -1104,7 +1104,7 @@ eb_hen_calandra,dlg,EntryList/380/Text,0,"""우리는 그 격앙된 발언을 �
 eb_hen_calandra,dlg,EntryList/381/Text,0,"도둑은 그냥 서 있었고, 스프터링을 하고, 바르드는 도박을 마치게 된 것처럼 미소를 짓고 있었다. 나머지 사람들은 논쟁하기엔 너무 피곤했고, 신경쓰기엔 너무 고통스러웠어요. 우리는 그를 고무하고, 치료사와 딱딱한 음료수를 찾기 위해 돌아갔어요. 그는 고맙다는 말을 하지 않았습니다. 하지만 다시 말하지만, 우리는 결코 묻지 않았습니다."
 eb_hen_calandra,dlg,EntryList/383/Text,0,"우리는 움직이지 않았습니다. 그냥 잔디밭에 어져, 마비됐습니다. 그들은 모든 것을 파괴했습니다. ""</Start> 그녀는 잠시 멈추고 자신을 작곡합니다. <StartAction> ""나는 그 슬림이 그보다 더 썩은 무언가에 의해 끔찍한 결말을 맞았으면 좋겠다""."
 eb_hen_calandra,dlg,EntryList/384/Text,0,"네, 맞습니다. 하지만 희망은 가끔은 우리가 가진 모든 것일 수 있어요."
-eb_hen_calandra,dlg,EntryList/385/Text,0,"""우리는 워터딥으로 여행 중이었는데, 어느 날 저녁, 우리 캠프는 악성 늑대 떼가 공격당했다. 혼란 속에서 우리는 숲 속으로 분리되었다. 나는 안전을 희망하며 이 사원에 피난처를 찾았다. 하지만 한 번 안으로 들어갔을 때, 나는 신부들이 잠든 드워프를 납치하는 것을 목격했다. 그때는 내가 바깥에 갇혀 있는 늑대들과 안에는 어두운 신부들이 있다는 것을 깨달았다."""
+eb_hen_calandra,dlg,EntryList/385/Text,0,"""우리는 워터딥으로 가던 중이었는데, 어느 날 저녁 우리 캠프가 흉악한 늑대 떼의 습격을 받았소. 혼란 속에서 우리는 숲속으로 흩어졌고, 난 안전을 바라이며 이 사원으로 피신했지. 하지만 안으로 들어서자마자 사제들이 잠든 드워프를 납치하는 것을 목격했소. 그때 알았지. 밖에는 늑대들이, 안에는 사악한 사제들이 도사리고 있는 함정에 빠졌다는 걸."""
 eb_hen_calandra,dlg,EntryList/386/Text,0,"""그들과 싸우려 했지만 거의 순식간에 제압당했소. 마지막으로 기억하는 건 어둠뿐이고, 머리가 지끈거리는 채 감방에서 깨어났소.."""
 eb_hen_calandra,dlg,EntryList/387/Text,0,"""가족이 떠돌이 용병단에게 도륙당한 뒤로 언니와 저는 전사로 훈련받았어요."" 그녀의 목소리가 떨린다. ""그 일이 벌어졌을 때 우리는 헛간 건초 다락에 숨어 있었어요. 우리는 다시는 그렇게 약하고 무력해지고 싶지 않았어요."""
 eb_hen_calandra,dlg,EntryList/388/Text,0,"""대상 경호나 호위 같은 몇 가지 일을 겪은 후에는 우리도 단단히 단련되었다고 생각했습니다. 하지만 그러다 다른 세력을 만났죠. 힘을 앗아가서 우리가 그 헛간에서처럼 무력하게 만들 수 있는 그런 세력이요."" 그녀는 잠시 말을 멈추고 낮고 으스스한 목소리로 말했다. ""마법이요."""
@@ -1118,7 +1118,7 @@ eb_hen_calandra,dlg,ReplyList/0/Text,0,<StartAction> 여자에게 자신을 소�
 eb_hen_calandra,dlg,ReplyList/1/Text,0,"죄송하지만, 지금 제 파티에는 당신을 수용할 공간이 없습니다. 성전 입구로 가서 저를 기다리세요. 성전 입구에서 당신의 도움은 성전 안으로 들어오려는 사람들을 경고하는 데 매우 유용할 것입니다."
 eb_hen_calandra,dlg,ReplyList/2/Text,0,다음에 만나요!
 eb_hen_calandra,dlg,ReplyList/4/Text,0,같이 가자고 부탁하지만 다른 사람이 있을 곳이 없어요.
-eb_hen_calandra,dlg,ReplyList/5/Text,0,나가 그녀를 찾으면 반드시 그녀에게 알릴 것이다.
+eb_hen_calandra,dlg,ReplyList/5/Text,0,내가 그녀를 찾게 되면 반드시 그 사실을 알리도록 하마.
 eb_hen_calandra,dlg,ReplyList/6/Text,0,"네, 우리와 함께해 주시면 감사하겠습니다."
 eb_hen_calandra,dlg,ReplyList/9/Text,0,"적들을 살펴보게. 가까이 있을 경우 전투에 참여하되, 그렇지 않으면 다시 돌아와라."
 eb_hen_calandra,dlg,ReplyList/10/Text,0,이 지역에서 몇 가지 물건을 모아올 수 있을까요?
@@ -1479,7 +1479,7 @@ eb_hen_ileria,dlg,EntryList/125/Text,0,"아침에 경비병이 밥을 주러 왔
 
 그다음 기억나는 건... 쓰러졌던 그 자리 그대로 감방에 누워 있었다는 것이다. 모든 게 아직 흐릿하다. 조각들뿐. 파편들뿐이다."
 eb_hen_ileria,dlg,EntryList/126/Text,0,드로와 그들이 한 일을 생각하면 흥분되죠
-eb_hen_ileria,dlg,EntryList/128/Text,0,"저는 어르신들과 성전이 워터딥과 관련이 있다고 생각합니다. 몇 년 전, 오크들이 성전을 공격했습니다. 우리는 도움을 청했지만, 워터딥은 등을 돌렸습니다. 복원대는 없었고, 답변도 없었습니다."
+eb_hen_ileria,dlg,EntryList/128/Text,0,"저는 그렇다고 생각합니다, 저기, 원로들과 성전은 워터딥과 깊은 인연이 있습니다. 몇 년 전에 성전이 오크 무리의 공격을 받았지요. 우리는 원조를 요청했지만, 워터딥은 등을 돌렸습니다. 지원군도 없었고, 답변도 없었습니다."
 eb_hen_ileria,dlg,EntryList/129/Text,0,"다행스럽게도, 한 무리의 여행자들이 근처에 있었습니다. 그들은 우리를 도와왔고, 우리는 함께 오크들을 쫓아냈죠. 전투가 끝난 후, 장로들은 워터디프의 주왕들에게 메시지를 보냈습니다."
 eb_hen_ileria,dlg,EntryList/130/Text,0,"불행히도, 장로들은 화가 남았습니다. 그들은 워터딥의 침묵을 잊지 않았고, 이제 도시가 도움을 청할 때는 등을 돌립니다."
 eb_hen_ileria,dlg,EntryList/131/Text,0,"그렇다고 그들의 잘못이나, 맹세한 이들을 보호해야 할 의무가 정당화되는 것은 아닙니다. 원로들은 틀렸습니다. 워터딥이 이 악에 무너진다면 그들도 함께 멸망하리라는 것을 그들은 깨달아야 합니다."
@@ -1517,7 +1517,7 @@ eb_hen_ileria,dlg,ReplyList/17/Text,0,"""그래, 난쟁이 전당으로 돌아�
 eb_hen_ileria,dlg,ReplyList/25/Text,0,"네, 가셔야 합니다."
 eb_hen_ileria,dlg,ReplyList/136/Text,0,"""아니, 지금은 여기까지야."""
 eb_hen_ileria,dlg,ReplyList/291/Text,0,"그래, 가자"
-eb_hen_ileria,dlg,ReplyList/335/Text,0,"""아니요, 지금은 그쳤어요."""
+eb_hen_ileria,dlg,ReplyList/335/Text,0,"""아니요, 지금은 됐어요."""
 eb_hen_ileria,dlg,ReplyList/375/Text,0,잠시 멈추고 잠시 대화를 나눠보자.
 eb_hen_ileria,dlg,ReplyList/391/Text,0,성전을 떠난 것을 후회하십니까?
 eb_hen_ileria,dlg,ReplyList/392/Text,0,잘 들었어요
@@ -1652,7 +1652,7 @@ eb_hen_insal,dlg,ReplyList/6/Text,0,이 지역에서 몇 가지 물건을 모아
 eb_hen_insal,dlg,ReplyList/16/Text,0,"네, 가셔야 합니다."
 eb_hen_insal,dlg,ReplyList/127/Text,0,"""아니, 지금은 여기까지야."""
 eb_hen_insal,dlg,ReplyList/282/Text,0,"그래, 가자"
-eb_hen_insal,dlg,ReplyList/326/Text,0,"""아니요, 지금은 그쳤어요."""
+eb_hen_insal,dlg,ReplyList/326/Text,0,"""아니요, 지금은 됐어요."""
 eb_hen_sanraal,dlg,EntryList/0/Text,0,"""여기가 바로 드란의 은신처군, 우리가 싸워온 모든 것이 이 순간을 위한 것이었어. 그의 방에 들어가기 전에 단단히 준비해야 해."""
 eb_hen_sanraal,dlg,EntryList/1/Text,0,"""이는 함정이다. 마인 플레이어들의 정신 공격에 주의하라. 빨리 죽여라. 그렇지 않으면 우리 모두 멸망할 것이다."""
 eb_hen_sanraal,dlg,EntryList/2/Text,0,"""어둠의 마법사들! 빨리 처리해라. 그렇지 않으면 우리 모두 죽을 것이다."""
@@ -1672,7 +1672,7 @@ eb_hen_sanraal,dlg,EntryList/17/Text,0,"""만티스 계란, 여기가 주식식�
 eb_hen_sanraal,dlg,EntryList/18/Text,0,"""음, 여기에 언데드 전사가 많이 보여. 사악한 사제가 활발히 움직이고 있어. 우리도 방어할 준비를 해야겠어."""
 eb_hen_sanraal,dlg,EntryList/21/Text,0,"""잠깐만 <FirstName>, 여기서 뭔가 이상한 것 같아; 어떤 종류의 숨겨진 물건이 보이네요. 이 지역을 더 철저히 조사해야겠어."""
 eb_hen_sanraal,dlg,EntryList/24/Text,0,"""가고일들... 전에 가고일과 싸운 적 있는 친구에게서 이야기를 들었어. 그 친구가 가고일에 관해 들려준 이야기는 좋지 않았어. 경계를 늦추지 말아야 해."""
-eb_hen_sanraal,dlg,EntryList/25/Text,0,"""결국, 우리는 그 끔찍한 오래된 동굴에서 벗어났습니다. 아마 그럴 거야, 앞으로 가기 전에 여기서 잠시 휴식을 취할 수 있을까?"""
+eb_hen_sanraal,dlg,EntryList/25/Text,0,"""드디어 그 끔찍하고 오래된 던전에서 벗어났군요. 움직이기 전에 여기서 잠시 쉬어갈까요?"""
 eb_hen_sanraal,dlg,EntryList/26/Text,0,"""그거 들었어? 거리에서 벽에 긁는 소리가 들렸어. 여기서는 조심해야 해, 이 곳은 매우 안전하지 않은 것 같아."""
 eb_hen_sanraal,dlg,EntryList/27/Text,0,"""이 던전에서 나갈 다른 길을 찾아야 할 것 같아요. 돌아가는 길이 막혀 버렸어요."""
 eb_hen_sanraal,dlg,EntryList/28/Text,0,"""여긴 너무 어둡게 느껴져. 어떻게 길을 찾을 수 있을까?"""
@@ -1682,7 +1682,7 @@ eb_hen_sanraal,dlg,EntryList/31/Text,0,"""우리는 여기서 조심해야 합�
 eb_hen_sanraal,dlg,EntryList/32/Text,0,"북쪽 벽에서 기호가 나오는 것 같네요. 비밀 통로를 찾아서 그 지역을 검색해야 합니다""."
 eb_hen_sanraal,dlg,EntryList/33/Text,0,"<StartAction> 어두운 엘프가 혼란스러운 모습을 보이게 합니다. 그의 어두운 피부는 아마 그는 졸음입니다. </Start> ""어디 있어요? 표면으로 말해주세요!"""
 eb_hen_sanraal,dlg,EntryList/35/Text,0,"<StartAction>San-Raal는 당신의 답변에 실망한 것처럼 보이며, 그는 당신의 부활을 이해하고 감사하고 작별인사를 하고 있다고 말합니다. ""</Start>"
-eb_hen_sanraal,dlg,EntryList/37/Text,0,"""어느 한 번의 익사에도 너무 무서워서 능숙한 마법사의 도움을 거절하냐? 경의적 지혜이든 단순한 어리석은 짓이든 나에게는 중요하지 않다. 표면 거주자, 네 길을 가거라. 칼레스 나우스 (Khaless nau uss mzild taga dosstan) 는 너 자신 외에는 누구에게도 신뢰하지 마라. 내가 휴식을 취하고 마술을 준비하자마자 이 고집된 곳에서 나만의 길을 찾을 것이다. 너는 갈 수 있다""."
+eb_hen_sanraal,dlg,EntryList/37/Text,0,"""단 한 명의 드로우가 두려워 실력 있는 마법사의 도움을 마다하겠다고? 신중한 지혜인지 아니면 단순한 멍청함인지 내 알 바 아니지만, 네 뜻대로 해라, 지상인아. 칼레스 나우스 즈다 타가 도스탄 — 그 누구보다 너 자신을 믿어라. 휴식을 취하고 마법을 준비하는 대로 이 저주받은 곳에서 나갈 길을 찾을 것이다. 꺼져라."""
 eb_hen_sanraal,dlg,EntryList/38/Text,0,"좋아, 이제 나가자고. 이 감방에는 진작에 넌덜머리가 났으니까."
 eb_hen_sanraal,dlg,EntryList/39/Text,0,이제 내 능력은 필요해?
 eb_hen_sanraal,dlg,EntryList/44/Text,0,우린 여기서 충분히 안전하다고 생각해.
@@ -1731,7 +1731,7 @@ eb_hen_sanraal,dlg,EntryList/95/Text,0,- 잘 됐어
 eb_hen_sanraal,dlg,EntryList/96/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_sanraal,dlg,EntryList/102/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
 eb_hen_sanraal,dlg,EntryList/103/Text,0,"아주 잘, 내가 직접 전투를 하지 않으면만 당신을 치유할 수 있습니다."
-eb_hen_sanraal,dlg,EntryList/109/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_sanraal,dlg,EntryList/109/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_sanraal,dlg,EntryList/110/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_sanraal,dlg,EntryList/111/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_sanraal,dlg,EntryList/112/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -1746,7 +1746,7 @@ eb_hen_sanraal,dlg,EntryList/121/Text,0,"잘 됐어, 난 몸싸움을 피하겠�
 eb_hen_sanraal,dlg,EntryList/122/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_sanraal,dlg,EntryList/123/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_sanraal,dlg,EntryList/124/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_sanraal,dlg,EntryList/125/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_sanraal,dlg,EntryList/125/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_sanraal,dlg,EntryList/126/Text,0,물론 전투가 시작될 때 난 여전히 마법을 사용하겠다. 하지만 나는 또한 뒤로 물러서서서 멀리서 무기로 공격할거야. 적들이 너무 가까이 가면 무기를 바꿔줄거야.
 eb_hen_sanraal,dlg,EntryList/128/Text,0,- 잘 됐어
 eb_hen_sanraal,dlg,EntryList/129/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
@@ -1777,7 +1777,7 @@ eb_hen_sanraal,dlg,EntryList/165/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/166/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/167/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/168/Text,0,"네, 그럴 것 같아."
-eb_hen_sanraal,dlg,EntryList/175/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_sanraal,dlg,EntryList/175/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_sanraal,dlg,EntryList/176/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_sanraal,dlg,EntryList/177/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_sanraal,dlg,EntryList/178/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -1791,7 +1791,7 @@ eb_hen_sanraal,dlg,EntryList/186/Text,0,"잘 됐어, 난 몸싸움을 피하겠�
 eb_hen_sanraal,dlg,EntryList/187/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_sanraal,dlg,EntryList/188/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_sanraal,dlg,EntryList/189/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_sanraal,dlg,EntryList/190/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_sanraal,dlg,EntryList/190/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_sanraal,dlg,EntryList/193/Text,0,- 잘 됐어
 eb_hen_sanraal,dlg,EntryList/194/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_sanraal,dlg,EntryList/200/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
@@ -1821,7 +1821,7 @@ eb_hen_sanraal,dlg,EntryList/230/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/231/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/232/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/233/Text,0,"네, 그럴 것 같아."
-eb_hen_sanraal,dlg,EntryList/240/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_sanraal,dlg,EntryList/240/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_sanraal,dlg,EntryList/241/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_sanraal,dlg,EntryList/242/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_sanraal,dlg,EntryList/243/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -1836,13 +1836,13 @@ eb_hen_sanraal,dlg,EntryList/251/Text,0,"잘 됐어, 난 몸싸움을 피하겠�
 eb_hen_sanraal,dlg,EntryList/252/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_sanraal,dlg,EntryList/253/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_sanraal,dlg,EntryList/254/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_sanraal,dlg,EntryList/255/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_sanraal,dlg,EntryList/255/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_sanraal,dlg,EntryList/256/Text,0,뭐하고 싶은데?
 eb_hen_sanraal,dlg,EntryList/257/Text,0,"잘 됐어, 난 몸싸움을 피하겠지만, 만약 갇히는 상황이 발생하면 예외로 할게."
 eb_hen_sanraal,dlg,EntryList/258/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_sanraal,dlg,EntryList/259/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_sanraal,dlg,EntryList/260/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_sanraal,dlg,EntryList/261/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_sanraal,dlg,EntryList/261/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_sanraal,dlg,EntryList/263/Text,0,- 잘 됐어
 eb_hen_sanraal,dlg,EntryList/264/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_sanraal,dlg,EntryList/270/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
@@ -1872,7 +1872,7 @@ eb_hen_sanraal,dlg,EntryList/300/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/301/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/302/Text,0,"네, 그럴 것 같아."
 eb_hen_sanraal,dlg,EntryList/303/Text,0,"네, 그럴 것 같아."
-eb_hen_sanraal,dlg,EntryList/310/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_sanraal,dlg,EntryList/310/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_sanraal,dlg,EntryList/311/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_sanraal,dlg,EntryList/312/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_sanraal,dlg,EntryList/313/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -2105,7 +2105,7 @@ eb_hen_sanraal,dlg,ReplyList/948/Text,0,"""그게 무슨 뜻이야?"""
 eb_hen_sanraal,dlg,ReplyList/950/Text,0,"흥미진진한 생각이지만, 시간만이 당신이 맞았는지 알 수 있을 것이다."
 eb_hen_sanraal,dlg,ReplyList/951/Text,0,좀 더 이야기 나눠 보겠습니다. 여러분의 이야기를 매우 흥미롭게 생각합니다.
 eb_hen_sanraal,dlg,ReplyList/952/Text,0,"""바에라운은 누구니?"""
-eb_hen_sanraal,dlg,ReplyList/953/Text,0,"""목사가 어떻게 많은 드로우를 그들의 집을 버리고 표면으로 자신을 따르도록 설득했을까?"""
+eb_hen_sanraal,dlg,ReplyList/953/Text,0,"""그 사제가 어떻게 그토록 많은 드로우를 설득해 고향을 버리고 자신을 따라 지상으로 올라오게 만든 거지?"""
 eb_hen_sanraal,dlg,ReplyList/955/Text,0,"""이 곳은 기억하는 것보다 많이 달라진 것 같아?"""
 eb_hen_sanraal,dlg,ReplyList/956/Text,0,"""그렇게 드로우가 삶을 빚진 사람에게 감사하는 말입니까?"""
 eb_hen_sanraal,dlg,ReplyList/957/Text,0,"물론이죠. 점수는 당신이 세우시고, 나는 우리를 살아남게 하겠습니다. 이제 가보죠."
@@ -2137,7 +2137,7 @@ eb_hen_shorn,dlg,EntryList/17/Text,0,"""만티스 계란, 여기가 주식식장
 eb_hen_shorn,dlg,EntryList/18/Text,0,"""음, 여기에 언데드 전사가 많이 보여. 사악한 사제가 활발히 움직이고 있어. 우리도 방어할 준비를 해야겠어."""
 eb_hen_shorn,dlg,EntryList/21/Text,0,"""잠깐만 <FirstName>, 여기서 뭔가 이상한 것 같아; 어떤 종류의 숨겨진 물건이 보이네요. 이 지역을 더 철저히 조사해야겠어."""
 eb_hen_shorn,dlg,EntryList/24/Text,0,"""가고일들... 전에 가고일과 싸운 적 있는 친구에게서 이야기를 들었어. 그 친구가 가고일에 관해 들려준 이야기는 좋지 않았어. 경계를 늦추지 말아야 해."""
-eb_hen_shorn,dlg,EntryList/25/Text,0,"""결국, 우리는 그 끔찍한 오래된 동굴에서 벗어났습니다. 아마 그럴 거야, 앞으로 가기 전에 여기서 잠시 휴식을 취할 수 있을까?"""
+eb_hen_shorn,dlg,EntryList/25/Text,0,"""드디어 그 끔찍하고 오래된 던전에서 벗어났군요. 움직이기 전에 여기서 잠시 쉬어갈까요?"""
 eb_hen_shorn,dlg,EntryList/26/Text,0,"""그거 들었어? 거리에서 벽에 긁는 소리가 들렸어. 여기서는 조심해야 해, 이 곳은 매우 안전하지 않은 것 같아."""
 eb_hen_shorn,dlg,EntryList/27/Text,0,"""이 던전에서 나갈 다른 길을 찾아야 할 것 같아요. 돌아가는 길이 막혀 버렸어요."""
 eb_hen_shorn,dlg,EntryList/28/Text,0,"""여긴 너무 어둡게 느껴져. 어떻게 길을 찾을 수 있을까?"""
@@ -2230,7 +2230,7 @@ eb_hen_shorn,dlg,EntryList/129/Text,0,- 잘 됐어
 eb_hen_shorn,dlg,EntryList/130/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_shorn,dlg,EntryList/136/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
 eb_hen_shorn,dlg,EntryList/137/Text,0,"아주 잘, 내가 직접 전투를 하지 않으면만 당신을 치유할 수 있습니다."
-eb_hen_shorn,dlg,EntryList/143/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_shorn,dlg,EntryList/143/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_shorn,dlg,EntryList/144/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_shorn,dlg,EntryList/145/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_shorn,dlg,EntryList/146/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -2245,7 +2245,7 @@ eb_hen_shorn,dlg,EntryList/155/Text,0,"잘 됐어, 난 몸싸움을 피하겠지
 eb_hen_shorn,dlg,EntryList/156/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_shorn,dlg,EntryList/157/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_shorn,dlg,EntryList/158/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_shorn,dlg,EntryList/159/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_shorn,dlg,EntryList/159/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_shorn,dlg,EntryList/161/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
 eb_hen_shorn,dlg,EntryList/162/Text,0,"아주 잘, 내가 직접 전투를 하지 않으면만 당신을 치유할 수 있습니다."
 eb_hen_shorn,dlg,EntryList/164/Text,0,"네, 무엇을 도와드릴까요?"
@@ -2275,7 +2275,7 @@ eb_hen_shorn,dlg,EntryList/193/Text,0,"네, 그럴 것 같아."
 eb_hen_shorn,dlg,EntryList/194/Text,0,"네, 그럴 것 같아."
 eb_hen_shorn,dlg,EntryList/198/Text,0,- 잘 됐어
 eb_hen_shorn,dlg,EntryList/199/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
-eb_hen_shorn,dlg,EntryList/208/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_shorn,dlg,EntryList/208/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_shorn,dlg,EntryList/209/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_shorn,dlg,EntryList/210/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_shorn,dlg,EntryList/211/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -2290,13 +2290,13 @@ eb_hen_shorn,dlg,EntryList/220/Text,0,"잘 됐어, 난 몸싸움을 피하겠지
 eb_hen_shorn,dlg,EntryList/221/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_shorn,dlg,EntryList/222/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_shorn,dlg,EntryList/223/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_shorn,dlg,EntryList/224/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_shorn,dlg,EntryList/224/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_shorn,dlg,EntryList/225/Text,0,뭐하고 싶은데?
 eb_hen_shorn,dlg,EntryList/226/Text,0,"잘 됐어, 난 몸싸움을 피하겠지만, 만약 갇히는 상황이 발생하면 예외로 할게."
 eb_hen_shorn,dlg,EntryList/227/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_shorn,dlg,EntryList/228/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_shorn,dlg,EntryList/229/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_shorn,dlg,EntryList/230/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_shorn,dlg,EntryList/230/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_shorn,dlg,EntryList/232/Text,0,- 잘 됐어
 eb_hen_shorn,dlg,EntryList/233/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_shorn,dlg,EntryList/239/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
@@ -2326,7 +2326,7 @@ eb_hen_shorn,dlg,EntryList/269/Text,0,"네, 그럴 것 같아."
 eb_hen_shorn,dlg,EntryList/270/Text,0,"네, 그럴 것 같아."
 eb_hen_shorn,dlg,EntryList/271/Text,0,"네, 그럴 것 같아."
 eb_hen_shorn,dlg,EntryList/272/Text,0,"네, 그럴 것 같아."
-eb_hen_shorn,dlg,EntryList/279/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_shorn,dlg,EntryList/279/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_shorn,dlg,EntryList/280/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_shorn,dlg,EntryList/281/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_shorn,dlg,EntryList/282/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -2386,7 +2386,7 @@ eb_hen_shorn,dlg,EntryList/352/Text,0,"""<Laddie/Lassie>, 전투와 명예의 �
 eb_hen_shorn,dlg,EntryList/353/Text,0,"""워터딥, 맞아... 하지만 정확한 도시는 아니야. 우리는 그 도시 아래에 오래전에 조각된 터널과 홀에서 살고 있어. 우리 족은 그레이 피크 산맥에서 추방된 후 여기로 왔어. 우리의 고향이 불과 배신으로 인해 잃어버린 곳이었지."""
 eb_hen_shorn,dlg,EntryList/354/Text,0,"""그렇게"" 그는 ""우리는 시작한다"". ""그건 내 <lad/lass>입니다. ""그건 이야기에서 긴 이야기이지만, 나는 그것을 간략하게 하려고 노력하겠다. 당신은 알다시피, 이제 몇 달 동안 나는 고대, 그림자화된 성전의 꿈-비전으로 괴롭혔습니다. 어둠 속에 감싸고 신비로 가득했습니다."
 eb_hen_shorn,dlg,EntryList/355/Text,0,"저는 그 사원에 어두운 무언가가 도사리고 있다는 느낌에 이끌려 찾아가지 않을 수 없었습니다. 저주받은 곳에 닿기까지 며칠을 여행하며 모퉁이마다 위험을 예상했죠. 하지만 도착해 보니 악의 흔적은 전혀 없고, 여행자를 두 팔 벌려 맞아 주는 성직자 무리뿐이었습니다."
-eb_hen_shorn,dlg,EntryList/356/Text,0,"""이 성전이 꿈에서 본 것과 확신이 들었음에도 불구하고, 외부에서 악의의 징후를 발견하지 못했다. 토지를 간단히 살펴보았지만, 이상하거나 악한 징후는 발견되지 않았다. 이에 꿈이 다른 의미를 가지고 있음을 의심하기 시작했다. 아마도 나는 여기 오는 목적은 악과 대결하기 위해서가 아니라, 아직 도착하지 않은 악한 힘을 물리치기 위해 교사들에게 도움을 주기 위함일 것이다."""
+eb_hen_shorn,dlg,EntryList/356/Text,0,"이곳이 내 꿈속에서 본 사원이라는 확신이 들었음에도, 겉보기엔 악의 흔적을 찾을 수 없었다. 경내를 대충 둘러보았으나 여전히 이상하거나 부정한 것은 발견되지 않았고, 나는 이 꿈이 다른 의미를 담고 있는 것은 아닌가 의심하기 시작했다. 어쩌면 나는 악에 맞서기 위해서가 아니라, 아직 도착하지 않은 부정한 세력으로부터 성직자들을 돕기 위해 이곳에 오게 된 것인지도 모른다."
 eb_hen_shorn,dlg,EntryList/357/Text,0,"아니, 그들은 그 저주받은 곳의 성벽 안에 머물라고 했어. 그리고 수염도 없는 겁쟁이들은 기다리다가, 내가 안전하다고 믿고 사원에서 푹 자게 내버려 뒀지."
 eb_hen_shorn,dlg,EntryList/358/Text,0,"그들은 나에게 어떤 종류의 마법을 걸었나 보다 - 나는 그들이 무엇을 했는지 전혀 몰랐다. 그러나 깨어났을 때, 나는 그 세포에 갇혀 있었다. 저주를, 두 얼굴의 사제들! ""조른은 땅에 뱉어, 그의 눈은 분노로 불타는""."
 eb_hen_shorn,dlg,EntryList/361/Text,0,제 망치는 당신이 사용하실 수 있습니다.
@@ -2532,7 +2532,7 @@ eb_hen_shorn,dlg,ReplyList/773/Text,0,마법을 낭비하고 있어. 적이 어�
 eb_hen_shorn,dlg,ReplyList/775/Text,0,항상 주문을 사용해야 한다고 생각해! 적들이 그냥 우스운 상대가 아니라면 아끼지 말고 써.
 eb_hen_shorn,dlg,ReplyList/777/Text,0,내가 전에 말한 모든 것을 잊고 마법을 쓸 때 본능을 믿으면 좋겠어
 eb_hen_shorn,dlg,ReplyList/872/Text,0,"그래, 가자"
-eb_hen_shorn,dlg,ReplyList/916/Text,0,"""아니요, 지금은 그쳤어요."""
+eb_hen_shorn,dlg,ReplyList/916/Text,0,"""아니요, 지금은 됐어요."""
 eb_hen_shorn,dlg,ReplyList/956/Text,0,"<StartAction>""잠깐 멈추고 대화를 하자""</Start>"
 eb_hen_shorn,dlg,ReplyList/972/Text,0,"""그건 큰 손실이야. 당신 부족이 언젠가 돌아와 빼앗긴 것을 되찾을 수 있을 거라고 믿습니까?"""
 eb_hen_shorn,dlg,ReplyList/974/Text,0,"""잠깐만, 신디아의 배신으로 왕이 쓰러진 클랜 출신인가요?"""
@@ -2660,7 +2660,7 @@ eb_hen_tanglor,dlg,EntryList/120/Text,0,- 잘 됐어
 eb_hen_tanglor,dlg,EntryList/121/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_tanglor,dlg,EntryList/127/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
 eb_hen_tanglor,dlg,EntryList/128/Text,0,"아주 잘, 내가 직접 전투를 하지 않으면만 당신을 치유할 수 있습니다."
-eb_hen_tanglor,dlg,EntryList/134/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_tanglor,dlg,EntryList/134/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_tanglor,dlg,EntryList/135/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_tanglor,dlg,EntryList/136/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_tanglor,dlg,EntryList/137/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -2675,7 +2675,7 @@ eb_hen_tanglor,dlg,EntryList/146/Text,0,"잘 됐어, 난 몸싸움을 피하겠�
 eb_hen_tanglor,dlg,EntryList/147/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_tanglor,dlg,EntryList/148/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_tanglor,dlg,EntryList/149/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_tanglor,dlg,EntryList/150/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_tanglor,dlg,EntryList/150/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_tanglor,dlg,EntryList/153/Text,0,- 잘 됐어
 eb_hen_tanglor,dlg,EntryList/154/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_tanglor,dlg,EntryList/160/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
@@ -2705,7 +2705,7 @@ eb_hen_tanglor,dlg,EntryList/190/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/191/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/192/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/193/Text,0,"네, 그럴 것 같아."
-eb_hen_tanglor,dlg,EntryList/200/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_tanglor,dlg,EntryList/200/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_tanglor,dlg,EntryList/201/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_tanglor,dlg,EntryList/202/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_tanglor,dlg,EntryList/203/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -2720,7 +2720,7 @@ eb_hen_tanglor,dlg,EntryList/211/Text,0,"잘 됐어, 난 몸싸움을 피하겠�
 eb_hen_tanglor,dlg,EntryList/212/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_tanglor,dlg,EntryList/213/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_tanglor,dlg,EntryList/214/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_tanglor,dlg,EntryList/215/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_tanglor,dlg,EntryList/215/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_tanglor,dlg,EntryList/216/Text,0,물론 전투가 시작될 때 난 여전히 마법을 사용하겠다. 하지만 나는 또한 뒤로 물러서서서 멀리서 무기로 공격할거야. 적들이 너무 가까이 가면 무기를 바꿔줄거야.
 eb_hen_tanglor,dlg,EntryList/218/Text,0,- 잘 됐어
 eb_hen_tanglor,dlg,EntryList/219/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
@@ -2751,7 +2751,7 @@ eb_hen_tanglor,dlg,EntryList/255/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/256/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/257/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/258/Text,0,"네, 그럴 것 같아."
-eb_hen_tanglor,dlg,EntryList/265/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_tanglor,dlg,EntryList/265/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_tanglor,dlg,EntryList/266/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_tanglor,dlg,EntryList/267/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_tanglor,dlg,EntryList/268/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -2765,13 +2765,13 @@ eb_hen_tanglor,dlg,EntryList/276/Text,0,"잘 됐어, 난 몸싸움을 피하겠�
 eb_hen_tanglor,dlg,EntryList/277/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_tanglor,dlg,EntryList/278/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_tanglor,dlg,EntryList/279/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_tanglor,dlg,EntryList/280/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_tanglor,dlg,EntryList/280/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_tanglor,dlg,EntryList/281/Text,0,뭐하고 싶은데?
 eb_hen_tanglor,dlg,EntryList/282/Text,0,"잘 됐어, 난 몸싸움을 피하겠지만, 만약 갇히는 상황이 발생하면 예외로 할게."
 eb_hen_tanglor,dlg,EntryList/283/Text,0,그들은 날 무방비로 잡지 않을거야!
 eb_hen_tanglor,dlg,EntryList/284/Text,0,"판단하기 어렵지만, 내가 할 수 있는 건 알아볼게."
 eb_hen_tanglor,dlg,EntryList/285/Text,0,"좋아, 마지막 순간까지 기다리겠어!"
-eb_hen_tanglor,dlg,EntryList/286/Text,0,"좋아, 나는 가장 잘하는 일을 할 거야."
+eb_hen_tanglor,dlg,EntryList/286/Text,0,좋아. 내 생각에 가장 좋다고 판단되는 대로 하겠어.
 eb_hen_tanglor,dlg,EntryList/288/Text,0,- 잘 됐어
 eb_hen_tanglor,dlg,EntryList/289/Text,0,"너무 당황스럽네요, 당장 해결해 줄게요"
 eb_hen_tanglor,dlg,EntryList/295/Text,0,가까운 거리에서 공격을 받더라도 당신을 치유하려고 노력할 거예요.
@@ -2801,7 +2801,7 @@ eb_hen_tanglor,dlg,EntryList/325/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/326/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/327/Text,0,"네, 그럴 것 같아."
 eb_hen_tanglor,dlg,EntryList/328/Text,0,"네, 그럴 것 같아."
-eb_hen_tanglor,dlg,EntryList/335/Text,0,"왜, 내가 지금 하는 일에 문제가 있나 봅니다?"
+eb_hen_tanglor,dlg,EntryList/335/Text,0,"아니, 내가 지금 하는 일에 무슨 문제라도 있나?"
 eb_hen_tanglor,dlg,EntryList/336/Text,0,"아주 잘, 하지만 난 여전히 가까운 장거리 전투에서 당신을 치유하지 않을거야."
 eb_hen_tanglor,dlg,EntryList/337/Text,0,"아주 잘, 나는 둘 다 공격 주문을 던지고 필요할 때 당신을 치유할 것입니다."
 eb_hen_tanglor,dlg,EntryList/338/Text,0,"아주 잘, 난 공격 마법을 던지지 않을거야 그리고 내가 가까운 장거리 전투에서 당신을 치유하지 않을거야."
@@ -2863,7 +2863,7 @@ eb_hen_tanglor,dlg,EntryList/409/Text,0,"</Start>""태글러의 시선이 멀리
 eb_hen_tanglor,dlg,EntryList/410/Text,0,"""나는 하루 종일 숲 속에서 사슴을 추적하고 있었어. 그를 내려치고 잘 얻은 식사로 배를 채운 후, 저녁 하늘 아래에서 누워 있었다. 달은 높이 매달려 조용히 빛나고 있었어. 그러다 갑자기, 마치 번개가 내 몸에 내려친 것처럼 느껴졌어. 번쩍이는 순간, 나는 더 이상 숲 속에 있지 않았어. 나는 이 성전 앞에 서 있었어."""
 eb_hen_tanglor,dlg,EntryList/411/Text,0,"""나는 그것을 보기 전에 느꼈다 – 순수한 악, 성전에서 열을 뿜어내듯이 굴러나왔다. 문이 열리자, 죽은 자들이 쏟아져 나왔다. 그리고 그가 나타났다: 인간 사제, 초록색 불꽃이 번쩍이는 눈을 가진 그의 증오가 강렬하여 목에 칼처럼 느껴졌다."""
 eb_hen_tanglor,dlg,EntryList/412/Text,0,"""나는 캠프에서 깨어났고, 불은 아직 약하게 타고 있었다. 하지만 나는 더 이상 똑같지 않았다. 세한린은 손을 내밀어, 나를 더 큰 무언가로 끌어들였다. 그녀는 나를 여기로 데려왔고, 나를 통해 그녀는 이 성전이 무너지는 것을 보게 될 것이다."""
-eb_hen_tanglor,dlg,EntryList/413/Text,0,"탕글러는 기억에서 돌아와 주변을 둘러보며 짜증내듯 말했다: ""이 저주받은 곳이 죽은 사람들을 모아 순위를 높이려고 한 것은 이번이 처음이 아니야. 우리가 뭔가를 하지 않으면 멈추지 않을 거야."""
+eb_hen_tanglor,dlg,EntryList/413/Text,0,"""탱글러는 잠시 멍하니 과거를 떠올리다가 주변을 둘러보며 툴툴거렸다. ""이 저주받은 곳이 시체들로 세력을 불리려 한 게 이번이 처음이 아니야. 우리가 뭔가 조치를 취하지 않으면 멈추지 않을 거야."""
 eb_hen_tanglor,dlg,EntryList/414/Text,0,"죄송하지만, 지금 이 대화를 계속하고 싶지 않아요. 여기서 끊어보겠습니다."
 eb_hen_tanglor,dlg,EntryList/417/Text,0,내 칼은 자네의 명령에 따르게 해라.
 eb_hen_tanglor,dlg,EntryList/418/Text,0,"""당신이 돌아왔군요, 다시 도움이 필요하십니까?"""
@@ -3052,7 +3052,7 @@ eb_hen_tanglor,dlg,ReplyList/966/Text,0,마법을 낭비하고 있어. 적이 �
 eb_hen_tanglor,dlg,ReplyList/968/Text,0,항상 주문을 사용해야 한다고 생각해! 적들이 그냥 우스운 상대가 아니라면 아끼지 말고 써.
 eb_hen_tanglor,dlg,ReplyList/970/Text,0,내가 전에 말한 모든 것을 잊고 마법을 쓸 때 본능을 믿으면 좋겠어
 eb_hen_tanglor,dlg,ReplyList/1065/Text,0,"그래, 가자"
-eb_hen_tanglor,dlg,ReplyList/1109/Text,0,"""아니요, 지금은 그쳤어요."""
+eb_hen_tanglor,dlg,ReplyList/1109/Text,0,"""아니요, 지금은 됐어요."""
 eb_hen_tanglor,dlg,ReplyList/1149/Text,0,"<StartAction>""잠깐 멈추고 대화를 하자""</Start>"
 eb_hen_tanglor,dlg,ReplyList/1165/Text,0,"""당신은 드란이 예전의 그가 아니라고 몇 번이나 언급했었죠. 만약 그가 드로우가 아니라면 대체 무엇이었나요?"""
 eb_hen_tanglor,dlg,ReplyList/1166/Text,0,"""그때 무슨 일이 있었나?"""
@@ -3188,7 +3188,7 @@ in_dm_dungonmstr,dlg,EntryList/14/Text,0,"이 프로젝트는 네버윈터 나�
 in_dm_dungonmstr,dlg,EntryList/15/Text,0,"이 모험은 비밀들로 가득 차 있을 것이다. 눈을 뜨지 않으면 숨겨진 버튼, 보이지 않는 벽, 함정들을 발견할 것이다. 은밀한 물체를 드러내기 위해, ""다른 것""이라고 생각하는 벽에 걸어 올라가면 자동적으로 발견할 것이다. 때로는 모험에서 발전하기 위해 그렇게 할 수밖에 없다. 숨겨진 벽이나 버튼은 다른 것들과 다르게 보일 수 있다. 아이템은 ""이상한 장소""에 배치될 수도 있고, 벽은 내부의 나머지 부분과 다르게 보일 수도 있다. 항상 눈을 뜨게 하라. 특히 ""죽은 끝""에 직면할 때."
 in_dm_dungonmstr,dlg,EntryList/16/Text,0,"이 이야기는 생존 모험으로, 이야기를 접으면 상인들의 부족함이 분명해집니다. 사용할 물건은 발견하는 대로입니다. 판매할 수 없더라도 몇 가지 물건을 지니고 다니는 것을 추천합니다. 일부 퍼즐은 물건을 제공해야만 넘길 수 있습니다."
 in_dm_dungonmstr,dlg,EntryList/17/Text,0,"이 일은 쉽다. 그냥 그들과 얘기해, 그들의 가방에 한 번 보라고 물어봐요. 그들은 당신에게 줄 겁니다. 모험 중에 발견한 물건들로 채워라. 그리고 당신이 끝냈다고 말해주세요."
-in_dm_dungonmstr,dlg,EntryList/18/Text,0,"네, 음식. 당신의 모험 동안 당신은 ""라션""이라고 불리는 특정 물체를 만나게 될 것입니다. 이것들은 배고픔을 달래는 음식 패키지입니다. 24시간 게임 시간(48분)마다 당신의 재고에서 한 라션을 소비하게 됩니다. 만약 당신이 그러한 물체를 가지고 있지 않으면, 당신은 굶주리고 약해질 것이며, 결국 당신은 *gulp*로 죽을 수도 있습니다. 내 옆 테이블에는 시작하기 위해 몇 가지 음식이 있습니다."
+in_dm_dungonmstr,dlg,EntryList/18/Text,0,"그렇습니다, 음식입니다. 모험을 하다 보면 ""식량""이라 불리는 특정 물품을 만나게 될 것입니다. 이는 허기를 채워주는 식량 꾸러미입니다. 게임 시간으로 24시간(현실 시간 48분)마다 인벤토리에서 식량 하나가 소모됩니다. 만약 이런 아이템을 가지고 다니지 않는다면 굶주리게 되고, 약해지며, 결국에는 *꿀꺽* 죽을지도 모릅니다. 제 옆 테이블에 시작할 때 쓸 수 있는 음식이 좀 있으니 가져가세요."
 in_dm_dungonmstr,dlg,EntryList/19/Text,0,"이 모듈에서 당신은 먹어야 합니다. 그렇지 않으면 당신은 굶주릴 것입니다. 당신은 동맹에게 무기와 방어구를 장비할 수 있습니다. 이 모듈에는 상인이 없습니다. 이 모험이 숨겨진 벽, 함정과 같은 것들이 가득하며, 당신은 항상 주의를 기울여야 합니다."
 in_dm_dungonmstr,dlg,ReplyList/0/Text,0,"이봐, 나도 다 아니까 그냥 파티 리더한테 순간 이동시켜 줘서 게임을 계속하게 해달라고."
 in_dm_dungonmstr,dlg,ReplyList/1/Text,0,확인
@@ -3247,7 +3247,7 @@ merchant_forest,dlg,EntryList/5/Text,0,"제 가게에 관심 있는 몇 가지 �
 merchant_forest,dlg,EntryList/6/Text,0,"안녕, 여행자. 나는 Aengus입니다. 우리의 겸손한 캠프에 오신 것을 환영합니다. 나는 당신의 시간을 빌릴 수 있습니까? 나는 급한 도움이 필요하고, 나는 당신을 보장합니다, 당신의 도움이 보상되지 않을 것입니다."
 merchant_forest,dlg,EntryList/7/Text,0,"물론, 무엇을 알고 싶으세요?"
 merchant_forest,dlg,EntryList/8/Text,0,"이곳은 오래된 암흑의 숲이고, 모든 곳에서 위험들이 가득합니다. 이 숲은 당신을 행복하게 먹일 것입니다. 당신이 걸어다니는 곳에서 조심하세요. 그리고 부진된 길을 멀리 벗어나지 마십시오. 만약 당신이 조심하지 않거나, 또는 여기에 있는 위험들에 대한 준비가 되지 않는다면, 그것은 당신의 종말입니다."
-merchant_forest,dlg,EntryList/9/Text,0,"저는 당신이 이 숲에서 사는 늑대의 울음소리를 들었을 것이라고 확신합니다. 하지만 몇 일 전에 도착한 이후 몇 차례의 공격을 막아야 했고, 그건 아마도 당신의 걱정거리가 될 것보다 덜한 문제일 것입니다."
+merchant_forest,dlg,EntryList/9/Text,0,"이 숲에 사는 늑대들의 울음소리는 이미 들으셨겠군요. 며칠 전에 이곳에 도착한 이래로 몇 번의 습격을 막아내야 했습니다만, 아마 그건 앞으로 겪을 걱정거리들에 비하면 아무것도 아닐 겁니다."
 merchant_forest,dlg,EntryList/10/Text,0,"다행히 이곳에는 불타는 도끼를 든 숙련된 드워프 전사가 있어서 저 성가신 늑대들을 막아 내는 데 도움이 됩니다. 드워프가 대개 그렇듯 싸움에 능하고, 늑대들은 불을 좋아하지 않아 자주 피하려 합니다."
 merchant_forest,dlg,EntryList/11/Text,0,"숲 속에 아주 오래된 무덤지에 대해 말해 주던 나이든 신사가 기억나는군. 아주, 아주 숲 깊은 곳에 있었지만 말이야. 아주 오래전에 옛 영웅들을 묻었던 곳이었지. 그 나이든 양반이 자신이 알던 누군가가 그곳에 묻혔다고 했던 것 같은데, 어쩌면 예전에 알던 사람이었을까? 확실히는 모르겠군."
 merchant_forest,dlg,EntryList/12/Text,0,"오, 조심해. 묘지는 흥미로운 곳처럼 보일 수 있지만, 그 주변에서 무엇이 숨어 있을지 모른다. 무덤은 항상 그림자 같은 캐릭터와 육식 동물을 끌어들이는 것처럼 보인다."
@@ -3444,7 +3444,7 @@ st3_khelbenconta,dlg,EntryList/3/Text,0,"<StartAction> 걱정스러운 모습은
 st3_khelbenconta,dlg,EntryList/4/Text,0,"""더크문""은 이제 강력한 마법의 장벽으로 둘러싸여 있습니다. 나조차도 그것을 깨지 못합니다. 나는 다시 연락할 수 없을 수도 있습니다. 내 동료들과 나는 할 수 있는 모든 것을 하고 있습니다. 하지만 이 분야의 힘은 지속적으로 증가하고 있습니다. 나는... ""<StartAction> Khelben와의 연락이 갑자기 끊어졌습니다.</Start>"
 st3_khelbenconta,dlg,ReplyList/0/Text,0,더 많은...
 st3_khelbenconta,dlg,ReplyList/1/Text,0,"“우리는 다크문이 훨씬 더 오래된 또 다른 건축물, 아마도 다크 엘프의 기원을 둔 곳 위에 지어졌다고 믿습니다. 이 지역에서 죽음과 파괴의 환영 때문에 우리의 잠이 방해받았습니다. 우리는 이 교단의 신도들에게 시험이나 통과 의식의 일부일지도 모를 수많은 기괴한 생물들과 싸워왔습니다.”"
-st3_khelbenconta,dlg,ReplyList/2/Text,0,"""또 한 가지 더 있습니다. 우리는 이 성전의 과부하임을 주장하는 명예로운 선생님을 만났습니다. 그는 자신을 드란 드라고르라고 불렀습니다."""
+st3_khelbenconta,dlg,ReplyList/2/Text,0,"""또 한 가지 더 있습니다. 우리는 이 신전의 영주를 자처하는 품위 있는 신사를 만났습니다. 그는 자신을 드란 드라고르라고 불렀습니다."""
 st3_khelbenconta,dlg,ReplyList/3/Text,0,더 많은...
 st3_khelbenconta,dlg,ReplyList/4/Text,0,<StartAction> 끝...</Start>
 st_1_apperition1,dlg,EntryList/0/Text,0,"<StartAction>""더크월의 자녀들을 환영합니다"".</Start>"
@@ -3503,10 +3503,10 @@ st_3_beholdfeast,dlg,EntryList/0/Text,0,<StartAction> 당신은 타락한 모험
 st_3_beholdfeast,dlg,EntryList/1/Text,0,"""어머, 몇몇은 도망쳤나 보네. 돌아와 줘서 고마워. 너희는 내 저녁 식사로 훌륭한 디저트가 되겠어."""
 st_3_beholdfeast,dlg,ReplyList/0/Text,0,더 많은...
 st_3_beholdhelp,dlg,EntryList/1/Text,0,끝...
-st_3_beholdhelp,dlg,ReplyList/0/Text,0,"어느 정도로 보아, 네가 필요로 하는 것은 없어 의심한다."
+st_3_beholdhelp,dlg,ReplyList/0/Text,0,왠지 내가 필요한 걸 갖고 있을 리가 없다고 생각하는군.
 st_3_beholdstuck,dlg,EntryList/0/Text,0,"<StartAction> 당신은 재미있는 시야를 보게 됩니다. 한 관람객은 천장의 구멍에 갇히게 되었습니다. </Start> ""아hh... 죄송합니다... 죄송합니다... 여기 갇혀있는 것 같습니다. 제발 한 손 좀 주세요. 당신의 도움 없이는 나는 확실히 굶어죽을 것입니다""."
 st_3_beholdstuck,dlg,ReplyList/0/Text,0,<StartAction> 그를 죽여라</Start>
-st_3_beholdstuck,dlg,ReplyList/3/Text,0,"어느 정도로 보아, 네가 필요로 하는 것은 없어 의심한다."
+st_3_beholdstuck,dlg,ReplyList/3/Text,0,왠지 내가 필요한 걸 갖고 있을 리가 없다고 생각하는군.
 st_3_beholdsupri,dlg,EntryList/0/Text,0,"<StartAction>""당신들은 다크문의 수행사제가 아니군."" 당신들이 여기까지 온 사실을 전하께서 아시면 기뻐하지 않으실 것이다. 그러니 내 동료들과 내가 지금 너희를 막아야 한다.""</Start>"
 st_3_fourkeysand,dlg,EntryList/0/Text,0,열쇠 4개와 문 1개. 더 많은 것을 얻으려면 찾아내라.
 st_hr_telbkdisab,dlg,EntryList/0/Text,0,<StartAction>방패를 검색하면 곧 작은 버튼을 찾습니다. 버튼을 누르고 싶습니까?</Start>
@@ -3596,7 +3596,7 @@ tavern_innkeeper,dlg,ReplyList/3/Text,0,나가겠습니다.
 tavern_innkeeper,dlg,ReplyList/4/Text,0,여기 먹을 것이 있나?
 tavern_innkeeper,dlg,ReplyList/5/Text,0,나가겠습니다.
 tavern_innkeeper,dlg,ReplyList/6/Text,0,"미안하지만, 다음에 다시 만나보도록."
-tavern_innkeeper,dlg,ReplyList/7/Text,0,"좋은 대가를 지불할 필요도 없습니다, 저는 여러분의 서비스에 있습니다."
+tavern_innkeeper,dlg,ReplyList/7/Text,0,"보답은 필요 없습니다, 나으리. 기꺼이 돕겠습니다."
 tavern_innkeeper,dlg,ReplyList/8/Text,0,별일 아니니 신경 쓰지 마세요. 이제 처리해야 할 쥐들이 좀 있어서 이만 실례합니다.
 tavern_innkeeper,dlg,ReplyList/9/Text,0,돈만 제대로 준다면 너를 도와줄 시간 정도는 낼 수 있을 것 같은데. 어떤 걸 생각하고 있나?
 tavern_innkeeper,dlg,ReplyList/10/Text,0,"사실 더 높은 숫자를 생각하고 있었는데, 800골드로 당신의 작은 문제를 해결해 보시면 어떨까요?"
@@ -3643,10 +3643,10 @@ traven_dwarf,dlg,EntryList/10/Text,0,"입구 안쪽을 들여다보니 온통 �
 traven_dwarf,dlg,EntryList/11/Text,0,"<StartAction>노인은 잠시 웃더니 말했다.</Start> 친구야, 너무 서두르지 마. 당신의 감정을 이해하지만, 나의 설명을 들어보시오. 사전에 우리는 무덤에 들어가기 위해 마법사가 필요하다는 것을 알고 있었다. 우리가 이 작은 모험에 모집한 마법사는 죽음 기사와 함께하지 않았다면 가지 않았을 것이다."
 traven_dwarf,dlg,EntryList/12/Text,0,처음에는 당신처럼 죽음의 기사를 믿거나 함께 다니는 데 거부감이 있었소. 하지만 이 죽음의 기사는 달랐소. 과거의 모든 악행을 속죄하려 애쓰고 있었으니까. 죽음의 기사들은 타락한 기사들이오.
 traven_dwarf,dlg,EntryList/13/Text,0,"이 죽음의 기사도 어떻게든 변모했고, 그는 좋은 일을 하고 싶어했습니다. 우리는 이 문제에 있어서 선택의 여지가 거의 없었습니다. 마법사는 죽음의 기사도 우리와 함께 여행한다는 것에 대해 매우 확고했습니다. 만약 그가 우리와 함께 여행하지 못한다면 마법사는 오지 않을 것입니다. 그리고 우리는 마법사가 필요했습니다. 그래서 다른 마법사가 없기 때문에 선택의 여지가 거의 없었습니다."
-traven_dwarf,dlg,EntryList/14/Text,0,"마지스는 우리에게 안전을 약속하며, 죽음의 기사를 책임진다고 했습니다. 그는 어떻게든 이 죽음의 기사가 좋은 기사라고 믿고 있었고, 진정으로 악의 길을 벗어나려고 노력하고 있었다고 말했습니다. 어쨌든, 처음에는 매우 의심스러웠습니다."
+traven_dwarf,dlg,EntryList/14/Text,0,"마지스는 우리에게 안전을 약속하며, 죽음의 기사를 전적으로 신뢰했습니다. 그는 어떻게든 이 죽음의 기사가 선하며 진정으로 악의 길을 청산하려 노력하고 있다고 확신하고 있었습니다. 말할 것도 없이, 나 역시 처음에는 매우 회의적이었습니다."
 traven_dwarf,dlg,EntryList/15/Text,0,"하지만 함께 무덤을 여행한 후, 저는 죽음의 기사들의 행동이 악이 아닌 좋은 것임을 확인했습니다. 이 부분에 대해 더 자세히 설명하고 싶지만, 신전을 통과하는 우리의 진행을 계속하는 것이 좋지 않겠습니까?"
 traven_dwarf,dlg,EntryList/16/Text,0,"어쨌든 그들이 그렇게 하는 동안 저는 동상을 보러 갔습니다. 저는 그것이 일종의 마법으로 생각했고, 어둠을 일으킨 것 같았습니다. 그래서 가방을 뒤져서 도움이 될 만한 것을 찾았습니다."
-traven_dwarf,dlg,EntryList/17/Text,0,"저는 ""지속적인 빛의 불꽃""이라는 이름의 불을 찾았는데, 이는 실제로 지속적인 빛 마법으로 매료된 불이었습니다. 계속적인 빛은 마법적인 어둠을 없애는 것이므로, 저는 불을 어둠 속으로 밀어 넣었습니다."
+traven_dwarf,dlg,EntryList/17/Text,0,"주변을 뒤지다가 '지속적인 빛의 횃불'을 찾아냈습니다. 사실은 그냥 지속적인 빛 마법을 걸어둔 횃불이었죠. 지속적인 빛은 마법적인 어둠을 상쇄할 수 있다는 걸 알았기에, 저는 그 횃불을 칠흑 같은 어둠 속으로 들이밀었습니다."
 traven_dwarf,dlg,EntryList/18/Text,0,"하지만 그때는 제 불꽃을 끌고 있는 것 같고, 그 불꽃이 내 팔을 끌어내기 전까지 그냥 내버려두는 것 같았어요."
 traven_dwarf,dlg,EntryList/19/Text,0,"그래서 저는 하스에게 소리쳤다. 빠른 식별 마법으로 동상의 입 안에 있는 어둠의 원인을 알아냈다. 왜냐하면 ""어둠""은 실제로 파괴의 구역이었고, 운이 좋게 전사만 잃었으며, 저 자신은 그 저주받은 물건에 빨려들지 않았다!"
 traven_dwarf,dlg,EntryList/20/Text,0,이 시점에서 나드야는 어둠에 닿지 않도록 조심하며 석상과 입 부분을 더 자세히 살펴본다. 이런 식으로 보호되는 걸 보니 입구의 잠금장치일 것이라 짐작하며 버튼이나 열쇠 구멍 같은 것이 있는지 확인하려는 것이다.
@@ -4332,7 +4332,7 @@ area002,git,Placeable List/204/Description,0,이 훌륭 한 포도주 병 은 �
 area002,git,Placeable List/205/LocName,0,"그릇 - 백색, 스튜"
 area002,git,Placeable List/205/Description,0,뜨끈한 스튜 한 그릇은 길 위의 억센 모험가들에게 반가운 음식이다. 하지만 스튜에 정확히 무엇이 들어 있는지는 오래된 수수께끼로 남아 있다.
 area002,git,Placeable List/206/LocName,0,"보울 - 백색, 콩"
-area002,git,Placeable List/206/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+area002,git,Placeable List/206/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 area002,git,Placeable List/207/LocName,0,"의자 - 등받이 없는 의자, 목재, 두색"
 area002,git,Placeable List/208/LocName,0,"의자 - 등받이 없는 의자, 목재, 두색"
 area002,git,Placeable List/209/LocName,0,"의자 - 등받이 없는 의자, 목재, 두색"
@@ -4362,7 +4362,7 @@ area002,git,Placeable List/221/Description,0,이 무거운 도자기 머그잔�
 area002,git,Placeable List/222/LocName,0,초록색 머그잔 - 가득 참
 area002,git,Placeable List/222/Description,0,이 무거운 도자기 머그잔은 벽난로 옆 추운 밤에 뜨거운 음료를 마시는 데 제격이다.
 area002,git,Placeable List/223/LocName,0,"보울 - 백색, 콩"
-area002,git,Placeable List/223/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+area002,git,Placeable List/223/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 area002,git,Placeable List/224/LocName,0,"그릇 - 백색, 스튜"
 area002,git,Placeable List/224/Description,0,뜨끈한 스튜 한 그릇은 길 위의 억센 모험가들에게 반가운 음식이다. 하지만 스튜에 정확히 무엇이 들어 있는지는 오래된 수수께끼로 남아 있다.
 area002,git,Placeable List/225/LocName,0,"컵, 갈색 - 비어 있음"
@@ -4384,7 +4384,7 @@ area002,git,Placeable List/232/Description,0,이 황금 잔의 윤기 나는 빛
 area002,git,Placeable List/233/LocName,0,"잔, 금 - 비어 있음"
 area002,git,Placeable List/233/Description,0,이 황금 잔의 윤기 나는 빛깔이 쉽게 눈길을 끈다.
 area002,git,Placeable List/234/LocName,0,"컵, 나무 - 가득"
-area002,git,Placeable List/234/Description,0,이 부드러운 목조 잔은 겸손한 단순함에서 더 화려한 사촌들과 실질적으로 동등합니다.
+area002,git,Placeable List/234/Description,0,꾸밈없는 소박함을 지닌 이 매끄러운 나무 잔은 더 화려한 여타 잔들의 실용적인 대용품입니다.
 area002,git,Placeable List/235/LocName,0,"잔, 보석으로 장식된 - 가득"
 area002,git,Placeable List/235/Description,0,이 우아한 보석한 잔은 왕이나 여왕의 입술에 적합합니다.
 area002,git,Placeable List/236/LocName,0,"잔, 보석 장식 - 비어 있는 잔"
@@ -4392,7 +4392,7 @@ area002,git,Placeable List/236/Description,0,이 우아한 보석한 잔은 왕�
 area002,git,Placeable List/237/LocName,0,"잔, 은 - 비어 있음"
 area002,git,Placeable List/237/Description,0,이 은잔은 미세하게 새겨진 문양으로 덮여 있어 보기에 아름답습니다.
 area002,git,Placeable List/238/LocName,0,"잔, 나무 - 비어 있음"
-area002,git,Placeable List/238/Description,0,이 부드러운 목조 잔은 겸손한 단순함에서 더 화려한 사촌들과 실질적으로 동등합니다.
+area002,git,Placeable List/238/Description,0,꾸밈없는 소박함을 지닌 이 매끄러운 나무 잔은 더 화려한 여타 잔들의 실용적인 대용품입니다.
 area002,git,Placeable List/239/LocName,0,"컵, 갈색 - 비어 있음"
 area002,git,Placeable List/239/Description,0,이 무거운 도자기 머그잔은 벽난로 옆 추운 밤에 뜨거운 음료를 마시는 데 제격이다.
 area002,git,Placeable List/240/LocName,0,"컵, 갈색 - 비어 있음"
@@ -4478,7 +4478,7 @@ area003,git,Creature List/14/Description,0,"""지상상어""라고 적당히 불
 area003,git,Creature List/14/ItemList/0/LocalizedName,0,머리골
 area003,git,Creature List/14/ItemList/0/DescIdentified,0,아주 오래되어 낡은 인간형 생물의 두개골입니다.
 area003,git,Creature List/14/ItemList/1/LocalizedName,0,썩은 음식
-area003,git,Creature List/14/ItemList/1/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+area003,git,Creature List/14/ItemList/1/DescIdentified,0,상해서 썩어버린 식량.
 area003,git,Creature List/14/ItemList/2/LocalizedName,0,주요 노트
 area003,git,Creature List/14/ItemList/2/DescIdentified,0,불레트 부대의 활동이 줄어들면서 열쇠는 지상의 이 방으로 옮겨졌습니다.
 area003,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,할퀴기3d6 +4
@@ -4601,7 +4601,7 @@ area003,git,Placeable List/80/LocName,0,누름판 23E
 area003,git,Placeable List/81/LocName,0,누름판 23C
 area003,git,Placeable List/82/LocName,0,누름판 23A
 area003,git,Placeable List/83/LocName,0,누름판 23B
-area003,git,Placeable List/85/LocName,0,"""심신과 육체가 하나가 될 때, 미래가 스스로를 드러낸다"""
+area003,git,Placeable List/85/LocName,0,"""심장과 몸, 영혼이 하나로 만날 때, 미래가 스스로를 드러내는 법이지."""
 area003,git,Placeable List/86/LocName,0,물막이
 area003,git,Placeable List/87/LocName,0,카펫
 area003,git,Placeable List/88/LocName,0,푸른 환영의 벽
@@ -5023,7 +5023,7 @@ area005,git,List/5/LocalizedName,0,용비늘 갑옷
 area005,git,List/6/LocalizedName,0,소검 +3
 area005,git,List/7/LocalizedName,0,잔인한 망치 +3
 area005,git,List/8/LocalizedName,0,손목 보호대 -2
-area005,git,List/8/DescIdentified,0,"이 물건들은 처음에는 단순한 손목이나 팔 경호처럼 보이지만, 착용자에게는 보이지 않는 힘의 필드로 둘러싸여 있으며, 평범한 갑옷처럼 보호를 제공합니다. 아마도 어떤 해체된 민방대의 창고에서 나온 것 같습니다."
+area005,git,List/8/DescIdentified,0,"이 물건들은 처음에는 단순한 손목이나 팔 보호구처럼 보이지만, 착용자 주위를 보이지 않는 역장으로 감싸 일반 갑옷과 마찬가지로 보호해 준다. 아마 해산된 민병대의 무기고에서 나온 것 같다."
 area005,git,List/9/LocalizedName,0,막
 area005,git,List/9/DescIdentified,0,매우 오래되고 낡은 대퇴골이다.
 area005,git,List/10/LocalizedName,0,막
@@ -5053,7 +5053,7 @@ area005,git,Placeable List/4/Description,0,땅 위에 슬픈 인간형 뼈 무�
 area005,git,Placeable List/5/LocName,0,전리품 주머니
 area005,git,Placeable List/5/Description,0,"가방은 반 열려 있으며, 채우기 직전에 버려진 것처럼 보인다."
 area005,git,Placeable List/5/ItemList/0/LocalizedName,0,썩은 음식
-area005,git,Placeable List/5/ItemList/0/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+area005,git,Placeable List/5/ItemList/0/DescIdentified,0,상해서 썩어버린 식량.
 area005,git,Placeable List/5/ItemList/1/LocalizedName,0,활력의 물약
 area005,git,Placeable List/6/LocName,0,타락한 모험가
 area005,git,Placeable List/7/LocName,0,뼈
@@ -5312,7 +5312,7 @@ area006,git,Placeable List/5/LocName,0,바닥 레버
 area006,git,Placeable List/5/Description,0,바닥에서 튀어나온 무거운 레버는 아래쪽에 있는 어떤 보이지 않는 메커니즘을 제어한다.
 area006,git,Placeable List/6/LocName,0,긴의자
 area006,git,Placeable List/6/Description,0,이 벤치의 탄탄한 판들은 수년간의 사용으로 부드러워졌습니다.
-area006,git,Placeable List/6/ItemList/1/LocalizedName,0,구리 키
+area006,git,Placeable List/6/ItemList/1/LocalizedName,0,구리 열쇠
 area006,git,Placeable List/7/LocName,0,차원문 제어
 area006,git,Placeable List/7/Description,0,"이 돌기둥에는 여러 물건을 떠올리게 하는 소켓이 많이 있습니다. 십자가 모양 하나, 커다란 부적 모양 하나, 구슬 모양 하나, 칼 모양 하나, 목걸이 모양 하나, 막대나 홀 모양 하나, 반지 모양 하나, 보석 모양 하나가 있습니다."
 area006,git,Placeable List/8/LocName,0,스톤포탈 에펙트2
@@ -5354,7 +5354,7 @@ area006,git,Placeable List/71/LocName,0,성의 단단한 성벽
 area006,git,Placeable List/72/LocName,0,성의 단단한 성벽
 area006,git,Placeable List/73/LocName,0,상자
 area006,git,Placeable List/73/Description,0,"금속 톱니 들 은 이 장식 된 상자 의 목조 를 뚫고 니다. 그 톱니 톱니 톱니 톱니 들 은 훌륭 한 공작품 으로 판단 해 볼 때, 이 상자 는 대중 에게 전시 하기 위해 고안 된 것 같다."
-area006,git,Placeable List/73/ItemList/1/LocalizedName,0,방사 완드
+area006,git,Placeable List/73/ItemList/1/LocalizedName,0,미사일 완드
 area006,git,Placeable List/73/ItemList/1/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 최초의 마법사 는 명백 히 튀어 나갔으며, 대중 에게 미묘 한 힘을 방출 한 혐의 를 받고 있다는 대중적 인 설 이 있다. 대부분의 마법사 와 마법사 들 은 오늘날 모든 막대 의 창조자 가 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 하며, 이 점 을 조롱 한다."
 area006,git,Placeable List/73/ItemList/2/LocalizedName,0,트로펠렛씨
 area006,git,Placeable List/73/ItemList/2/Description,0,"처음 보기에 이 돌 은 작은 보석 처럼 보이지만, 그 돌 은 촉각 에 따뜻 하 고 자세히 살펴보면 작은 씨앗 으로 보인다."
@@ -5689,7 +5689,7 @@ area006,git,Placeable List/375/LocName,0,바닥 레버
 area006,git,Placeable List/420/LocName,0,바닥 레버
 area006,git,Placeable List/421/LocName,0,긴의자
 area006,git,Placeable List/421/Description,0,이 벤치의 탄탄한 판들은 수년간의 사용으로 부드러워졌습니다.
-area006,git,Placeable List/421/ItemList/1/LocalizedName,0,구리 키
+area006,git,Placeable List/421/ItemList/1/LocalizedName,0,구리 열쇠
 area006,git,Placeable List/422/ItemList/1/LocalizedName,0,양식
 area006,git,Placeable List/422/ItemList/1/DescIdentified,0,고기 조각.
 area006,git,Placeable List/422/ItemList/2/LocalizedName,0,양식
@@ -5701,22 +5701,22 @@ area006,git,Placeable List/424/ItemList/0/LocalizedName,0,파란 보석
 area006,git,Placeable List/425/LocName,0,녹색 수정
 area006,git,Placeable List/425/ItemList/0/LocalizedName,0,녹색 보석
 area006,git,Placeable List/426/LocName,0,노랑 수정
-area006,git,Placeable List/426/ItemList/0/LocalizedName,0,구리 키
+area006,git,Placeable List/426/ItemList/0/LocalizedName,0,구리 열쇠
 area006,git,Placeable List/427/LocName,0,CreatePortal
 area006,git,Placeable List/427/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 area006,git,Placeable List/428/LocName,0,부드러운 흙 자국
-area006,git,Placeable List/429/LocName,0,흙 부분 중간
-area006,git,Placeable List/430/LocName,0,흙 부분 중간
-area006,git,Placeable List/431/LocName,0,흙 부분 중간
-area006,git,Placeable List/432/LocName,0,흙 부분 중간
-area006,git,Placeable List/433/LocName,0,흙 부분 중간
+area006,git,Placeable List/429/LocName,0,중간 크기 흙더미
+area006,git,Placeable List/430/LocName,0,중간 크기 흙더미
+area006,git,Placeable List/431/LocName,0,중간 크기 흙더미
+area006,git,Placeable List/432/LocName,0,중간 크기 흙더미
+area006,git,Placeable List/433/LocName,0,중간 크기 흙더미
 area006,git,Placeable List/444/LocName,0,카펫34
 area006,git,Placeable List/446/LocName,0,카펫34
 area006,git,Placeable List/447/LocName,0,카펫34
 area006,git,Placeable List/448/LocName,0,카펫34
 area006,git,Placeable List/449/LocName,0,카펫34
 area006,git,Placeable List/450/LocName,0,타락 한 전사
-area006,git,Placeable List/450/ItemList/2/LocalizedName,0,구리 키
+area006,git,Placeable List/450/ItemList/2/LocalizedName,0,구리 열쇠
 area006,git,Placeable List/452/LocName,0,스톤게임 효과1_
 area006,git,Placeable List/452/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 area006,git,Placeable List/453/LocName,0,스톤다거 효과3_
@@ -5737,7 +5737,7 @@ area006,git,Placeable List/458/ItemList/2/LocalizedName,0,얼음 화살
 area006,git,Placeable List/458/ItemList/3/LocalizedName,0,얼음 화살
 area006,git,Placeable List/459/LocName,0,궤짝
 area006,git,Placeable List/459/Description,0,철로 묶여서 무거운 잠금으로 묶인 이 무거운 상자 는 분명 가치 있는 무언가를 보호하기 위한 것이었다.
-area006,git,Placeable List/459/ItemList/0/LocalizedName,0,타론의 마법대검
+area006,git,Placeable List/459/ItemList/0/LocalizedName,0,탈론의 지팡이
 area006,git,Placeable List/459/ItemList/0/DescIdentified,0,"파워의 스태프 는 대부분의 마법사들에게 즉시 익숙하며, 거의 미스터리 연구의 아이콘이다. 그러한 스태프의 본질적인 유용성은 많은 사람들이 제작되거나 임무를 맡게 된 결과로 인해, 특정 역사가 보통 군중에서 사라집니다."
 area006,git,Placeable List/460/LocName,0,단검궤짝
 area006,git,Placeable List/460/Description,0,철로 묶여서 무거운 잠금으로 묶인 이 무거운 상자 는 분명 가치 있는 무언가를 보호하기 위한 것이었다.
@@ -5774,7 +5774,7 @@ area006,git,Placeable List/479/LocName,0,하늘빛 수호자
 area006,git,Placeable List/480/LocName,0,성의 단단한 성벽
 area006,git,Placeable List/481/LocName,0,성의 단단한 성벽
 area006,git,Placeable List/482/LocName,0,성의 단단한 성벽
-area006,git,Placeable List/489/ItemList/0/LocalizedName,0,구리 키
+area006,git,Placeable List/489/ItemList/0/LocalizedName,0,구리 열쇠
 area006,git,Placeable List/491/LocName,0,주위의 촛불 06
 area006,git,Placeable List/492/LocName,0,주위의 촛불 06
 area006,git,Placeable List/493/LocName,0,주위의 촛불 06
@@ -5892,7 +5892,7 @@ area007,git,Placeable List/41/ItemList/1/LocalizedName,0,활력의 물약
 area007,git,Placeable List/45/ItemList/1/LocalizedName,0,활력의 물약
 area007,git,Placeable List/45/ItemList/2/LocalizedName,0,활력의 물약
 area007,git,Placeable List/49/ItemList/3/LocalizedName,0,썩은 음식
-area007,git,Placeable List/49/ItemList/3/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+area007,git,Placeable List/49/ItemList/3/DescIdentified,0,상해서 썩어버린 식량.
 area007,git,Placeable List/51/LocName,0,바닥 도안
 area007,git,Placeable List/51/Description,0,마법사에게 의미있는 것처럼 보이는 복잡한 룬 시리즈는 처음 만든 마법사에게만 의미있는 것처럼 보입니다
 area007,git,Placeable List/52/LocName,0,발광하는 구슬
@@ -6591,7 +6591,7 @@ area009,git,Placeable List/87/LocName,0,바닥 피 - 오래된 3
 area009,git,Placeable List/88/LocName,0,바닥 피 - 오래된 2
 area009,git,Placeable List/89/LocName,0,바닥 그만 3
 area009,git,Placeable List/90/LocName,0,바닥 그만 3
-area009,git,Placeable List/92/LocName,0,흙 부분 중간
+area009,git,Placeable List/92/LocName,0,중간 크기 흙더미
 area009,git,Placeable List/94/LocName,0,반쯤 뜯어먹힌 시체
 area010,git,Creature List/0/FirstName,0,방패 수호자
 area010,git,Creature List/0/Description,0,주문사들이 만들고 특별한 부적으로 조종하는 방패 수호자는 전투에서 주로 방어 역할을 하며 흔들림 없는 충성심으로 주인을 지킵니다.
@@ -7153,19 +7153,19 @@ area012,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,3d8+4
 area012,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,3d8+4
 area012,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 area012,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-area012,git,Creature List/1/FirstName,0,더 큰 수호자 데이몬
+area012,git,Creature List/1/FirstName,0,그레이터 가디언 데몬
 area012,git,Creature List/1/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 area012,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,3d8+4
 area012,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,3d8+4
 area012,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 area012,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-area012,git,Creature List/2/FirstName,0,더 큰 수호자 데이몬
+area012,git,Creature List/2/FirstName,0,그레이터 가디언 데몬
 area012,git,Creature List/2/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 area012,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,3d8+4
 area012,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,3d8+4
 area012,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 area012,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-area012,git,Creature List/3/FirstName,0,더 큰 수호자 데이몬
+area012,git,Creature List/3/FirstName,0,그레이터 가디언 데몬
 area012,git,Creature List/3/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 area012,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,3d8+4
 area012,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,3d8+4
@@ -7883,7 +7883,7 @@ area015,git,Placeable List/72/LocName,0,촛불 02 (주위의)
 area015,git,Placeable List/73/LocName,0,촛불 02 (주위의)
 area015,git,Placeable List/74/LocName,0,문
 area015,git,Placeable List/74/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
-azuretower3east,git,Creature List/0/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/0/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/0/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,3d8+4
@@ -7895,25 +7895,25 @@ azuretower3east,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/1/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/2/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/2/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/2/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/2/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/3/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/3/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/3/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/3/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/3/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/4/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/4/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/4/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/4/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/4/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/5/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/5/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/5/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,3d8+4
@@ -7925,85 +7925,85 @@ azuretower3east,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/6/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/7/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/7/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/7/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/7/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/7/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/8/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/8/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/8/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/9/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/9/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/9/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/9/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/9/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/10/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/10/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/10/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/10/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/10/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/11/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/11/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/11/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/11/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/12/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/12/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/12/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/12/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/12/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/12/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/13/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/13/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/13/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/13/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/13/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/13/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/14/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/14/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/14/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/14/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/14/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/15/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/15/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/15/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/15/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/15/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/15/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/15/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/16/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/16/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/16/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/16/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/17/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/17/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/17/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/17/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/17/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/18/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/18/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/18/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/18/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/18/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/18/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/19/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/19/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/19/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/19/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/19/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/19/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/19/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/20/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/20/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/20/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/20/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/20/Equip_ItemList/1/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/20/Equip_ItemList/2/LocalizedName,0,데몬비트3d12
 azuretower3east,git,Creature List/20/Equip_ItemList/3/LocalizedName,0,데몬의 속성
-azuretower3east,git,Creature List/21/FirstName,0,더 큰 수호자 데이몬
+azuretower3east,git,Creature List/21/FirstName,0,그레이터 가디언 데몬
 azuretower3east,git,Creature List/21/Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 azuretower3east,git,Creature List/21/Equip_ItemList/0/LocalizedName,0,3d8+4
 azuretower3east,git,Creature List/21/Equip_ItemList/1/LocalizedName,0,3d8+4
@@ -8695,7 +8695,7 @@ azuretower4south,git,Placeable List/371/ItemList/0/DescIdentified,0,이 곳에�
 azuretower4south,git,Placeable List/373/LocName,0,귀환 차원문
 azuretower4south,git,Placeable List/373/Description,0,앞에 당신은 부드럽게 빛나는 포털이 있습니다. 어디로 연결되는지 궁금합니다.
 azuretower4south,git,Placeable List/374/LocName,0,마법 스파크
-azuretower4south,git,Placeable List/375/LocName,0,"""메두사 라이어""에서는 동료들을 남겨두고 있습니다."
+azuretower4south,git,Placeable List/375/LocName,0,"""메두사 소굴"" 동료들을 남겨두고 가기"
 azuretower4south,git,Placeable List/376/ItemList/0/LocalizedName,0,일기 항목 431
 azuretower4south,git,Placeable List/376/ItemList/0/Description,0,"저널 엔트리 431 우리는 몇 가지 한 무덤 현장을 만났습니다. 그러나 그 거주자들은 최근에 인간으로 묻혔고, 따라서 토르자크 주민이 될 수 없었습니다. 이 지역에서 인간 정착지가 없는 것 같습니다. 이것은 좋습니다. 사람들은 항상 길을 방해하고 진정한 고고학을 훨씬 더 어렵게 만듭니다. 저는 지하실 안의 드로 건설의 흔적을 찾기 위해 그 지역을 검색하기 시작했습니다. 이 모든 시간이 지나면서 여전히 왕권을 지킬 가능성이 가장 높은 곳이기 때문에."
 azuretower4south,git,Placeable List/376/ItemList/0/DescIdentified,0,"저널 엔트리 431 우리는 몇 가지 한 무덤 현장을 만났습니다. 그러나 그 거주자들은 최근에 인간으로 묻혔고, 따라서 토르자크 주민이 될 수 없었습니다. 이 지역에서 인간 정착지가 없는 것 같습니다. 이것은 좋습니다. 사람들은 항상 길을 방해하고 진정한 고고학을 훨씬 더 어렵게 만듭니다. 저는 지하실 안의 드로 건설의 흔적을 찾기 위해 그 지역을 검색하기 시작했습니다. 이 모든 시간이 지나면서 여전히 왕권을 지킬 가능성이 가장 높은 곳이기 때문에."
@@ -8826,7 +8826,7 @@ catacombs_lv2_n,git,Placeable List/12/Description,0,"당신 앞에 작은 제단
 catacombs_lv2_n,git,Placeable List/18/LocName,0,시체 쌓임
 catacombs_lv2_n,git,Placeable List/18/Description,0,죽음 속에서 가슴을 내비치는 남자의 얼굴은 두려움에 얼어붙은 것처럼 보인다. 그가 어떻게 죽었는지 궁금하다.
 catacombs_lv2_n,git,Placeable List/23/LocName,0,무기 거치대
-catacombs_lv2_n,git,Placeable List/23/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+catacombs_lv2_n,git,Placeable List/23/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 catacombs_lv2_n,git,Placeable List/23/ItemList/0/LocalizedName,0,발톱
 catacombs_lv2_n,git,Placeable List/23/ItemList/1/LocalizedName,0,잠자리
 catacombs_lv2_n,git,Placeable List/25/LocName,0,파이어볼 런셔
@@ -8991,7 +8991,7 @@ catacombs_lv3n,git,Placeable List/24/Description,0,작은 압력판이 아래쪽
 catacombs_lv3n,git,Placeable List/25/LocName,0,석관
 catacombs_lv3n,git,Placeable List/25/ItemList/0/LocalizedName,0,쿨이 있네
 catacombs_lv3n,git,Placeable List/25/ItemList/1/LocalizedName,0,보호 손목 보호대 +5
-catacombs_lv3n,git,Placeable List/25/ItemList/1/DescIdentified,0,"이 물건들은 처음에는 단순한 손목이나 팔 경호처럼 보이지만, 착용자에게는 보이지 않는 힘의 필드로 둘러싸여 있으며, 평범한 갑옷처럼 보호를 제공합니다. 아마도 어떤 해체된 민방대의 창고에서 나온 것 같습니다."
+catacombs_lv3n,git,Placeable List/25/ItemList/1/DescIdentified,0,"이 물건들은 처음에는 단순한 손목이나 팔 보호구처럼 보이지만, 착용자 주위를 보이지 않는 역장으로 감싸 일반 갑옷과 마찬가지로 보호해 준다. 아마 해산된 민병대의 무기고에서 나온 것 같다."
 catacombs_lv3n,git,Placeable List/26/LocName,0,석관
 catacombs_lv3n,git,Placeable List/26/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 catacombs_lv3n,git,Placeable List/26/ItemList/0/LocalizedName,0,육척봉 +3
@@ -9015,8 +9015,8 @@ catacombs_lv3n,git,Placeable List/255/LocName,0,던전 환영술 벽 01
 catacombs_lv3n,git,Placeable List/259/LocName,0,던전 환영술 벽 01
 catacombs_lv3n,git,Placeable List/260/LocName,0,던전 환영술 벽 01
 catacombs_lv3n,git,Placeable List/285/LocName,0,큰 흙무더기
-catacombs_lv3n,git,Placeable List/299/LocName,0,흙 부분 중간
-catacombs_lv3n,git,Placeable List/300/LocName,0,흙 부분 중간
+catacombs_lv3n,git,Placeable List/299/LocName,0,중간 크기 흙더미
+catacombs_lv3n,git,Placeable List/300/LocName,0,중간 크기 흙더미
 catacombs_lv3n,git,Placeable List/493/LocName,0,던전 단단한 벽 06
 catacombs_lv3n,git,Placeable List/494/LocName,0,던전 단단한 벽 06
 catacombs_lv3n,git,Placeable List/495/LocName,0,던전 단단한 벽 06
@@ -9119,8 +9119,8 @@ dmforest_north,git,Placeable List/111/ItemList/2/LocalizedName,0,녹슨 사슬 �
 dmforest_north,git,Placeable List/112/LocName,0,표기 없는 무덤
 dmforest_north,git,Placeable List/112/Description,0,"당신은 표기되지 않은 무덤을 발견했습니다. 십자가에 적힌 글은 너무 오래되어 읽을 수 없고, 시간이 지나면서 흐려졌습니다."
 dmforest_north,git,Placeable List/112/ItemList/1/LocalizedName,0,썩은 가죽 갑옷
-dmforest_north,git,Placeable List/113/LocName,0,흙 부분 중간
-dmforest_north,git,Placeable List/114/LocName,0,흙 부분 중간
+dmforest_north,git,Placeable List/113/LocName,0,중간 크기 흙더미
+dmforest_north,git,Placeable List/114/LocName,0,중간 크기 흙더미
 dmforest_north,git,Placeable List/115/LocName,0,표기 없는 무덤
 dmforest_north,git,Placeable List/115/Description,0,"당신은 표기되지 않은 무덤을 발견했습니다. 십자가에 적힌 글은 너무 오래되어 읽을 수 없고, 시간이 지나면서 흐려졌습니다."
 dmforest_north,git,Placeable List/115/ItemList/0/LocalizedName,0,썩은 가죽 갑옷
@@ -9149,8 +9149,8 @@ dmforest_north,git,Placeable List/122/LocName,0,램프 4b
 dmforest_north,git,Placeable List/123/LocName,0,랜턴
 dmforest_north,git,Placeable List/124/LocName,0,랜턴
 dmforest_north,git,Placeable List/125/LocName,0,흙더미
-dmforest_north,git,Placeable List/126/LocName,0,흙 부분 중간
-dmforest_north,git,Placeable List/127/LocName,0,흙 부분 중간
+dmforest_north,git,Placeable List/126/LocName,0,중간 크기 흙더미
+dmforest_north,git,Placeable List/127/LocName,0,중간 크기 흙더미
 dmforest_north,git,Placeable List/128/LocName,0,흙더미
 dmforest_north,git,Placeable List/129/LocName,0,신호등 1
 dmforest_north,git,Placeable List/130/LocName,0,신호등 1
@@ -9314,8 +9314,8 @@ dmforest_north,git,Placeable List/329/LocName,0,"VFX: 안개 (50m), 중간"
 dmforest_north,git,Placeable List/332/LocName,0,랜턴
 dmforest_north,git,Placeable List/333/LocName,0,랜턴
 dmforest_north,git,Placeable List/334/LocName,0,랜턴
-dmforest_north,git,Placeable List/335/LocName,0,흙 부분 중간
-dmforest_north,git,Placeable List/336/LocName,0,흙 부분 중간
+dmforest_north,git,Placeable List/335/LocName,0,중간 크기 흙더미
+dmforest_north,git,Placeable List/336/LocName,0,중간 크기 흙더미
 dmforest_north,git,Placeable List/337/LocName,0,벽 Cobweb 톱월 2
 dmforest_north,git,Placeable List/338/LocName,0,벽 Cobweb 보트월 2
 dmforest_north,git,Placeable List/374/LocName,0,다크문 묘지
@@ -9475,7 +9475,7 @@ hiddenstairway,git,Placeable List/42/LocName,0,[LOK] 벽 오염 3
 hiddenstairway,git,Placeable List/70/LocName,0,전리품 주머니
 hiddenstairway,git,Placeable List/70/Description,0,무거운 가방은 동전의 소리와 함께 춤을 추고 있습니다.
 hiddenstairway,git,Placeable List/70/ItemList/0/LocalizedName,0,썩은 음식
-hiddenstairway,git,Placeable List/70/ItemList/0/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+hiddenstairway,git,Placeable List/70/ItemList/0/DescIdentified,0,상해서 썩어버린 식량.
 hiddenstairway,git,Placeable List/72/LocName,0,쇠살대
 hiddenstairway,git,Placeable List/73/LocName,0,쇠살대
 hiddenstairway,git,Placeable List/74/LocName,0,쇠살대
@@ -9492,7 +9492,7 @@ hiddenstairway,git,Placeable List/127/LocName,0,블러드트레일 2
 hiddenstairway,git,Placeable List/128/LocName,0,블러드트레일 2
 hiddenstairway,git,Placeable List/129/LocName,0,혈흔 1
 hiddenstairway,git,Placeable List/130/LocName,0,블러드트레일 2
-hiddenstairway,git,Placeable List/131/LocName,0,혈투 4
+hiddenstairway,git,Placeable List/131/LocName,0,블러드트레일 4
 hiddenstairway,git,Placeable List/132/LocName,0,블러드트레일 2
 hiddenstairway,git,Placeable List/133/LocName,0,혈흔 1
 hiddenstairway,git,Placeable List/134/LocName,0,핏자국 6
@@ -9511,9 +9511,9 @@ hiddenstairway,git,Placeable List/146/LocName,0,핏자국 4
 hiddenstairway,git,Placeable List/147/LocName,0,블러드트레일 2
 hiddenstairway,git,Placeable List/148/LocName,0,혈흔 1
 hiddenstairway,git,Placeable List/149/LocName,0,핏자국 8
-hiddenstairway,git,Placeable List/161/LocName,0,허브 - 지면 15b
+hiddenstairway,git,Placeable List/161/LocName,0,풀 - 지면 15b
 hiddenstairway,git,Placeable List/162/LocName,0,잡초 - 땅 15c
-hiddenstairway,git,Placeable List/163/LocName,0,허브 - 지면 15b
+hiddenstairway,git,Placeable List/163/LocName,0,풀 - 지면 15b
 hiddenstairway,git,Placeable List/164/LocName,0,허브 - 지면 15a
 hiddenstairway,git,Placeable List/165/LocName,0,잡초 - 땅 14디
 hiddenstairway,git,Placeable List/166/LocName,0,허브 - 땅 14c
@@ -9544,12 +9544,12 @@ intro_cs_01,git,Creature List/0/FirstName,0,워터딥 경비병
 intro_cs_01,git,Creature List/0/Description,0,경비대는 워터딥의 유일하게 공인된 영주가 직접 훈련시키고 선발한 워터딥 전사들의 정예 부대입니다.
 intro_cs_01,git,Door List/5/LocName,0,문
 intro_cs_01,git,WaypointList/4/LocalizedName,0,러스티 나일 선술집
-intro_cs_01,git,WaypointList/4/MapNote,0,은 손톱 선술집
+intro_cs_01,git,WaypointList/4/MapNote,0,러스티 네일 선술집
 intro_cs_01,git,WaypointList/5/LocalizedName,0,OA_SP_카메라_01
 intro_cs_01,git,WaypointList/6/LocalizedName,0,OA_SP_카메라_02
 intro_cs_01,git,WaypointList/7/LocalizedName,0,OA_SP_카메라_03
 intro_cs_01,git,WaypointList/8/LocalizedName,0,OA_SP_카메라_04
-intro_cs_01,git,Placeable List/0/LocName,0,은 손톱 선술집
+intro_cs_01,git,Placeable List/0/LocName,0,러스티 네일 선술집
 intro_cs_01,git,Placeable List/1/LocName,0,가로등
 intro_cs_01,git,Placeable List/1/Description,0,가로등 기둥은 거친 밤공기에 패이고 상처투성이다.
 intro_cs_01,git,Placeable List/98/LocName,0,잊혀진 것 - 잔해
@@ -9562,9 +9562,9 @@ introduction,git,Creature List/0/Description,0,경비대는 워터딥의 유일�
 introduction,git,TriggerList/0/LocalizedName,0,내가 뭘 원했지?
 introduction,git,WaypointList/4/LocalizedName,0,켈벤스의 집
 introduction,git,WaypointList/4/MapNote,0,켈벤스의 집
-introduction,git,WaypointList/5/LocalizedName,0,은 손톱 선술집
-introduction,git,WaypointList/5/MapNote,0,은 손톱 선술집
-introduction,git,Placeable List/0/LocName,0,은 손톱 선술집
+introduction,git,WaypointList/5/LocalizedName,0,러스티 네일 선술집
+introduction,git,WaypointList/5/MapNote,0,러스티 네일 선술집
+introduction,git,Placeable List/0/LocName,0,러스티 네일 선술집
 introduction,git,Placeable List/1/LocName,0,가로등
 introduction,git,Placeable List/1/Description,0,가로등 기둥은 거친 밤공기에 패이고 상처투성이다.
 introduction,git,Placeable List/2/LocName,0,가로등
@@ -9674,11 +9674,11 @@ silvertowerhalls,git,Placeable List/1/Description,0,의심스럽게 둘러보지
 silvertowerhalls,git,Placeable List/2/LocName,0,전리품 주머니
 silvertowerhalls,git,Placeable List/2/Description,0,작은 가방은 세밀하게 짜인 얇은 면으로 만들어져 있습니다.
 silvertowerhalls,git,Placeable List/2/ItemList/0/LocalizedName,0,썩은 음식
-silvertowerhalls,git,Placeable List/2/ItemList/0/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+silvertowerhalls,git,Placeable List/2/ItemList/0/DescIdentified,0,상해서 썩어버린 식량.
 silvertowerhalls,git,Placeable List/2/ItemList/1/LocalizedName,0,썩은 음식
-silvertowerhalls,git,Placeable List/2/ItemList/1/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+silvertowerhalls,git,Placeable List/2/ItemList/1/DescIdentified,0,상해서 썩어버린 식량.
 silvertowerhalls,git,Placeable List/2/ItemList/2/LocalizedName,0,썩은 음식
-silvertowerhalls,git,Placeable List/2/ItemList/2/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+silvertowerhalls,git,Placeable List/2/ItemList/2/DescIdentified,0,상해서 썩어버린 식량.
 silvertowerhalls,git,Placeable List/3/LocName,0,상자
 silvertowerhalls,git,Placeable List/3/Description,0,"이상한 룬과 그림자, 아마도 미묘한 자연, 이 은폐된 강박의 옆구리에 불태워졌습니다."
 silvertowerhalls,git,Placeable List/4/LocName,0,시체 쌓임
@@ -9914,7 +9914,7 @@ silvertowertesto,git,Creature List/5/FirstName,0,만티스 투사
 silvertowertesto,git,Creature List/5/Description,0,트리크린 (Mantis warriors) 은 기도하는 마티스와 비슷한 지능적 인 곤충이다. 그들은 잠을 자 필요가 없으며 낮이나 밤 내내 활동할 수 있다.
 silvertowertesto,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,독성 블레이드
 silvertowertesto,git,Creature List/5/Equip_ItemList/3/LocalizedName,0,마티스바이트
-silvertowertesto,git,Creature List/6/FirstName,0,죽어가는 마티스 투사
+silvertowertesto,git,Creature List/6/FirstName,0,죽어가는 사마귀 전사
 silvertowertesto,git,Creature List/6/Description,0,트리크린 (Mantis warriors) 은 기도하는 마티스와 비슷한 지능적 인 곤충이다. 그들은 잠을 자 필요가 없으며 낮이나 밤 내내 활동할 수 있다.
 silvertowertesto,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,독성 블레이드
 silvertowertesto,git,Creature List/6/Equip_ItemList/3/LocalizedName,0,마티스바이트
@@ -10097,7 +10097,7 @@ silvertowertesto,git,Placeable List/19/ItemList/0/LocalizedName,0,녹색 눈 - �
 silvertowertesto,git,Placeable List/19/ItemList/1/LocalizedName,0,녹색 눈 - 오른쪽
 silvertowertesto,git,Placeable List/20/LocName,0,받침대
 silvertowertesto,git,Placeable List/20/Description,0,"낮은 기둥은 알바스터색으로 빛나며, 그 그림자가 조각난 기둥을 따라 흐른다."
-silvertowertesto,git,Placeable List/20/ItemList/0/LocalizedName,0,구리 키
+silvertowertesto,git,Placeable List/20/ItemList/0/LocalizedName,0,구리 열쇠
 silvertowertesto,git,Placeable List/20/ItemList/1/LocalizedName,0,유리 구슬
 silvertowertesto,git,Placeable List/20/ItemList/2/LocalizedName,0,사마귀 우상
 silvertowertesto,git,Placeable List/21/LocName,0,벽 버튼
@@ -10275,7 +10275,7 @@ silvertowertesto,git,Placeable List/253/LocName,0,거대한 동상
 silvertowertesto,git,Placeable List/254/LocName,0,거대한 동상
 silvertowertesto,git,Placeable List/255/LocName,0,양탄자 2
 silvertowertesto,git,Placeable List/256/LocName,0,거대한 동상
-silvertowertesto,git,Placeable List/259/LocName,0,죽어가는 마티스 투사
+silvertowertesto,git,Placeable List/259/LocName,0,죽어가는 사마귀 전사
 silvertowertesto,git,Placeable List/259/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 silvertowertesto,git,Placeable List/260/LocName,0,양탄자 2
 silvertowertesto,git,Placeable List/261/LocName,0,거대한 동상
@@ -10297,7 +10297,7 @@ silvertowertesto,git,Placeable List/272/Description,0,화석 은 부드럽고 �
 silvertowertesto,git,Placeable List/272/ItemList/0/LocalizedName,0,열쇠
 silvertowertesto,git,Placeable List/272/ItemList/0/DescIdentified,0,이 곳에서는 현재 레벨의 키를 발견할 때 키의 예비 복사본을 찾을 수 있습니다. 누군가의 게임이 충돌하거나 플레이어가 자신의 캐릭터 또는 게임을 저장하지 않고 떠날 경우만 이 키를 가져야합니다. 충돌이 발생하면 게임은 캐릭터를 저장하는 데 매우 좋은 일을하지 않습니다. 일단 돌아와 인벤토리를 확인하면 키가 빠진 것을 알게 될 것입니다. 이것은 구명 풀의 목적입니다. 이러한 키를 등장용으로만 사용하십시오. 그렇지 않으면 당신은 단지 자신을 속이고 있습니다. 그들을 찾는 경험.
 silvertowertesto,git,Placeable List/274/LocName,0,타락한 모험가
-silvertowertesto,git,Placeable List/274/ItemList/0/LocalizedName,0,구리 키
+silvertowertesto,git,Placeable List/274/ItemList/0/LocalizedName,0,구리 열쇠
 silvertowertesto,git,Placeable List/277/LocName,0,귀환 차원문
 silvertowertesto,git,Placeable List/277/Description,0,앞에 당신은 부드럽게 빛나는 포털이 있습니다. 어디로 연결되는지 궁금합니다.
 silvertowertesto,git,Placeable List/278/LocName,0,타락한 모험가
@@ -10306,7 +10306,7 @@ silvertowertesto,git,Placeable List/285/Description,0,바닥에 작은 잔해가
 silvertowertesto,git,Placeable List/285/ItemList/0/LocalizedName,0,바위
 silvertowertesto,git,Placeable List/288/LocName,0,타락한 모험가
 silvertowertesto,git,Placeable List/288/ItemList/0/LocalizedName,0,썩은 음식
-silvertowertesto,git,Placeable List/288/ItemList/0/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+silvertowertesto,git,Placeable List/288/ItemList/0/DescIdentified,0,상해서 썩어버린 식량.
 silvertowertesto,git,Placeable List/289/LocName,0,타락한 모험가
 silvertowertesto,git,Placeable List/307/ItemList/0/LocalizedName,0,저주 해제 물약
 silvertowertesto,git,Placeable List/307/ItemList/0/DescIdentified,0,모든 저주와 저주 효과는 대상 생물에서 해제됩니다.
@@ -10363,7 +10363,7 @@ silvertowertesto,git,Placeable List/407/ItemList/0/DescIdentified,0,매우 오�
 silvertowertesto,git,Placeable List/408/LocName,0,핏자국 7
 silvertowertesto,git,Placeable List/409/LocName,0,핏자국 5
 silvertowertesto,git,Placeable List/410/LocName,0,핏자국 4
-silvertowertesto,git,Placeable List/411/LocName,0,혈투 4
+silvertowertesto,git,Placeable List/411/LocName,0,블러드트레일 4
 silvertowertesto,git,Placeable List/412/LocName,0,혈흔 1
 silvertowertesto,git,Placeable List/413/LocName,0,핏자국 3
 silvertowertesto,git,Placeable List/414/LocName,0,핏자국 8
@@ -10989,7 +10989,7 @@ silvertowerthene,git,WaypointList/18/LocalizedName,0,이정표
 silvertowerthene,git,WaypointList/20/LocalizedName,0,이정표
 silvertowerthene,git,Placeable List/0/LocName,0,타락한 모험가
 silvertowerthene,git,Placeable List/0/Description,0,땅 위에 슬픈 인간형 뼈 무리가 쌓여 있었다.
-silvertowerthene,git,Placeable List/0/ItemList/0/LocalizedName,0,구리 키
+silvertowerthene,git,Placeable List/0/ItemList/0/LocalizedName,0,구리 열쇠
 silvertowerthene,git,Placeable List/0/ItemList/1/LocalizedName,0,막
 silvertowerthene,git,Placeable List/19/LocName,0,믿음은 열쇠
 silvertowerthene,git,Placeable List/19/Description,0,그라니트 무덤은 신중하게 조각되었습니다.
@@ -11686,7 +11686,7 @@ st2_north,git,Placeable List/345/LocName,0,푸른 커튼
 st2_north,git,Placeable List/346/LocName,0,핏자국 4
 st2_north,git,Placeable List/347/LocName,0,타락한 모험가
 st2_north,git,Placeable List/347/ItemList/0/LocalizedName,0,썩은 음식
-st2_north,git,Placeable List/347/ItemList/0/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+st2_north,git,Placeable List/347/ItemList/0/DescIdentified,0,상해서 썩어버린 식량.
 st2_north,git,Placeable List/348/LocName,0,핏자국 8
 st2_north,git,Placeable List/349/LocName,0,신성한 웅덩이
 st2_north,git,Placeable List/349/Description,0,화석 은 부드럽고 촉각 이 차갑다. 이 수영장은 잃어버린 중요 한 물건 들 이 나타난다.
@@ -12082,9 +12082,9 @@ templeug1,git,Placeable List/8/LocName,0,던전 단단한 벽 06
 templeug1,git,Placeable List/8/Description,0,비밀 문을 찾았습니다. 이는 흥미로운 곳으로 이끌 것으로 보입니다.
 templeug1,git,Placeable List/9/LocName,0,던전 단단한 벽 06
 templeug1,git,Placeable List/9/Description,0,비밀 문을 찾았습니다. 이는 흥미로운 곳으로 이끌 것으로 보입니다.
-templeug1,git,Placeable List/11/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/12/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/13/LocName,0,흙 부분 중간
+templeug1,git,Placeable List/11/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/12/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/13/LocName,0,중간 크기 흙더미
 templeug1,git,Placeable List/177/ItemList/0/LocalizedName,0,그레이 키
 templeug1,git,Placeable List/178/ItemList/0/LocalizedName,0,인살의 단검
 templeug1,git,Placeable List/178/ItemList/1/LocalizedName,0,인살의 가죽 갑옷
@@ -12205,17 +12205,17 @@ templeug1,git,Placeable List/349/LocName,0,설탕
 templeug1,git,Placeable List/349/Description,0,가방은 작고 형편없이 꿰매진 것 같습니다.
 templeug1,git,Placeable List/350/LocName,0,오리
 templeug1,git,Placeable List/350/Description,0,자루가 불룩하고 가득 찬 것 같다.
-templeug1,git,Placeable List/354/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/355/LocName,0,흙 부분 중간
+templeug1,git,Placeable List/354/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/355/LocName,0,중간 크기 흙더미
 templeug1,git,Placeable List/356/LocName,0,흙더미
 templeug1,git,Placeable List/357/LocName,0,흙더미
-templeug1,git,Placeable List/362/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/363/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/364/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/365/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/375/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/376/LocName,0,흙 부분 중간
-templeug1,git,Placeable List/377/LocName,0,흙 부분 중간
+templeug1,git,Placeable List/362/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/363/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/364/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/365/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/375/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/376/LocName,0,중간 크기 흙더미
+templeug1,git,Placeable List/377/LocName,0,중간 크기 흙더미
 templeug1,git,Placeable List/379/LocName,0,배너
 templeug1,git,Placeable List/380/LocName,0,배너
 templeug1,git,Placeable List/385/LocName,0,배너
@@ -12308,8 +12308,8 @@ templeug1,git,Placeable List/601/ItemList/0/DescIdentified,0,"보리스,
 templeug1,git,Placeable List/601/ItemList/1/LocalizedName,0,귀환의 물약
 templeug1,git,Placeable List/601/ItemList/1/DescIdentified,0,레벨 시작점으로 빠르게 돌아가는 데 사용됩니다.
 templeug1,git,Placeable List/601/ItemList/2/LocalizedName,0,북바람
-templeug1,git,Placeable List/601/ItemList/2/Description,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
-templeug1,git,Placeable List/601/ItemList/2/DescIdentified,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
+templeug1,git,Placeable List/601/ItemList/2/Description,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
+templeug1,git,Placeable List/601/ItemList/2/DescIdentified,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
 templeug1,git,Placeable List/614/LocName,0,배너
 templeug1,git,Placeable List/615/LocName,0,하수
 templeug1,git,Placeable List/615/Description,0,"작은 바람이 물 표면을 가르며, 당신의 반사가 살아 있는 것처럼 보입니다."
@@ -12442,29 +12442,29 @@ templeug2sp,git,WaypointList/6/Description,0,이 방향 지점은 '비홀더의 
 templeug2sp,git,WaypointList/6/MapNote,0,카타콤바 - 하위 레벨 3
 templeug2sp,git,Placeable List/0/LocName,0,전리품 주머니
 templeug2sp,git,Placeable List/0/Description,0,자루가 불룩하고 가득 찬 것 같다.
-templeug2sp,git,Placeable List/0/ItemList/2/LocalizedName,0,구리 키
+templeug2sp,git,Placeable List/0/ItemList/2/LocalizedName,0,구리 열쇠
 templeug2sp,git,Placeable List/1/ItemList/0/LocalizedName,0,막
 templeug2sp,git,Placeable List/1/ItemList/0/DescIdentified,0,매우 오래되고 낡은 대퇴골이다.
 templeug2sp,git,Placeable List/1/ItemList/1/LocalizedName,0,썩은 음식
-templeug2sp,git,Placeable List/1/ItemList/1/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+templeug2sp,git,Placeable List/1/ItemList/1/DescIdentified,0,상해서 썩어버린 식량.
 templeug2sp,git,Placeable List/1/ItemList/2/LocalizedName,0,머리골
 templeug2sp,git,Placeable List/1/ItemList/2/DescIdentified,0,아주 오래되어 낡은 인간형 생물의 두개골입니다.
 templeug2sp,git,Placeable List/2/ItemList/0/LocalizedName,0,막
 templeug2sp,git,Placeable List/2/ItemList/0/DescIdentified,0,매우 오래되고 낡은 대퇴골이다.
 templeug2sp,git,Placeable List/2/ItemList/1/LocalizedName,0,썩은 음식
-templeug2sp,git,Placeable List/2/ItemList/1/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+templeug2sp,git,Placeable List/2/ItemList/1/DescIdentified,0,상해서 썩어버린 식량.
 templeug2sp,git,Placeable List/3/ItemList/0/LocalizedName,0,머리골
 templeug2sp,git,Placeable List/3/ItemList/0/DescIdentified,0,아주 오래되어 낡은 인간형 생물의 두개골입니다.
 templeug2sp,git,Placeable List/3/ItemList/1/LocalizedName,0,썩은 음식
-templeug2sp,git,Placeable List/3/ItemList/1/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+templeug2sp,git,Placeable List/3/ItemList/1/DescIdentified,0,상해서 썩어버린 식량.
 templeug2sp,git,Placeable List/4/ItemList/0/LocalizedName,0,머리골
 templeug2sp,git,Placeable List/4/ItemList/0/DescIdentified,0,아주 오래되어 낡은 인간형 생물의 두개골입니다.
 templeug2sp,git,Placeable List/4/ItemList/1/LocalizedName,0,썩은 음식
-templeug2sp,git,Placeable List/4/ItemList/1/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+templeug2sp,git,Placeable List/4/ItemList/1/DescIdentified,0,상해서 썩어버린 식량.
 templeug2sp,git,Placeable List/5/ItemList/0/LocalizedName,0,막
 templeug2sp,git,Placeable List/5/ItemList/0/DescIdentified,0,매우 오래되고 낡은 대퇴골이다.
 templeug2sp,git,Placeable List/5/ItemList/1/LocalizedName,0,썩은 음식
-templeug2sp,git,Placeable List/5/ItemList/1/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+templeug2sp,git,Placeable List/5/ItemList/1/DescIdentified,0,상해서 썩어버린 식량.
 templeug2sp,git,Placeable List/9/LocName,0,해골 뼈
 templeug2sp,git,Placeable List/9/Description,0,누군가 이 두개골을 쌓아놓았어.
 templeug2sp,git,Placeable List/11/LocName,0,해골 뼈
@@ -12542,41 +12542,41 @@ templeug2sp,git,Placeable List/95/LocName,0,[LOK] 기둥 - 사각형 반
 templeug2sp,git,Placeable List/96/LocName,0,문
 templeug2sp,git,Placeable List/100/LocName,0,던전 단단한 벽 01
 templeug2sp,git,Placeable List/101/LocName,0,던전 단단한 벽 01
-templeug2sp,git,Placeable List/102/LocName,0,흙 부분 중간
+templeug2sp,git,Placeable List/102/LocName,0,중간 크기 흙더미
 templeug2sp,git,Placeable List/103/LocName,0,[LOK] 벽 거미줄 바닥벽 1
 templeug2sp,git,Placeable List/104/LocName,0,[LOK] 벽 거미줄 바닥벽 1
 templeug2sp,git,Placeable List/108/LocName,0,던전 단단한 벽 01
-templeug2sp,git,Placeable List/109/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/110/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/111/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/112/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/113/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/185/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/186/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/203/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/204/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/211/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/212/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/239/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/240/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/275/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/276/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/284/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/285/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/290/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/291/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/292/LocName,0,흙 부분 중간
+templeug2sp,git,Placeable List/109/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/110/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/111/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/112/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/113/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/185/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/186/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/203/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/204/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/211/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/212/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/239/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/240/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/275/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/276/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/284/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/285/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/290/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/291/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/292/LocName,0,중간 크기 흙더미
 templeug2sp,git,Placeable List/293/LocName,0,흙더미
-templeug2sp,git,Placeable List/300/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/301/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/302/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/303/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/304/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/333/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/334/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/335/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/358/LocName,0,흙 부분 중간
-templeug2sp,git,Placeable List/359/LocName,0,흙 부분 중간
+templeug2sp,git,Placeable List/300/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/301/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/302/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/303/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/304/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/333/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/334/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/335/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/358/LocName,0,중간 크기 흙더미
+templeug2sp,git,Placeable List/359/LocName,0,중간 크기 흙더미
 templeug2sp,git,Placeable List/369/LocName,0,타락한 모험가
 templeug2sp,git,Placeable List/369/ItemList/3/LocalizedName,0,저주 해제 물약
 templeug2sp,git,Placeable List/369/ItemList/3/DescIdentified,0,모든 저주와 저주 효과는 대상 생물에서 해제됩니다.
@@ -12800,7 +12800,9 @@ templeug3,git,Placeable List/92/LocName,0,불구리 발산기 1
 templeug3,git,Placeable List/95/LocName,0,던전 단단한 벽 01
 templeug3,git,Placeable List/96/LocName,0,타락한 모험가
 templeug3,git,Placeable List/96/ItemList/5/LocalizedName,0,일지의 일부
-templeug3,git,Placeable List/96/ItemList/5/DescIdentified,0,"""이 지하도서관의 건축은 놀랍고 흥미로워 보인다. 드워프와 그들이 숨겨진 통로와 비밀에 대한 열정에 대해 알고 있다. 반드시 찾아봐야 한다."""
+templeug3,git,Placeable List/96/ItemList/5/DescIdentified,0,"일기장에서 찢어낸 듯한 메모 조각이다.
+
+""이 지하 묘지의 건축 양식은 경이롭고 흥미롭다. 드로우들이 숨겨진 비밀 통로에 얼마나 집착하는지는 잘 알고 있지. 반드시 찾아내야 해..."""
 templeug3,git,Placeable List/98/LocName,0,죽은 죄수
 templeug3,git,Placeable List/99/LocName,0,죽은 죄수
 templeug3,git,Placeable List/100/LocName,0,죽은 죄수
@@ -12917,10 +12919,10 @@ templeug3,git,Placeable List/289/LocName,0,기둥 - 잔해 1
 templeug3,git,Placeable List/290/LocName,0,기둥 - 평방형 잔해 2
 templeug3,git,Placeable List/291/LocName,0,기둥 - 잔해 4
 templeug3,git,Placeable List/292/LocName,0,기둥 - 잔해 3
-templeug3,git,Placeable List/293/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/294/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/300/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/301/LocName,0,흙 부분 중간
+templeug3,git,Placeable List/293/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/294/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/300/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/301/LocName,0,중간 크기 흙더미
 templeug3,git,Placeable List/305/LocName,0,마법 용기 01
 templeug3,git,Placeable List/306/LocName,0,서식 가방
 templeug3,git,Placeable List/307/LocName,0,마법 용기 02
@@ -12931,27 +12933,27 @@ templeug3,git,Placeable List/311/LocName,0,서식 가방
 templeug3,git,Placeable List/312/LocName,0,서식 가방
 templeug3,git,Placeable List/312/ItemList/1/DescIdentified,0,"이런 물건을 만드는 이들은 잔혹하거나 배신적이라는 비난을 자주 받아 이름을 쉽게 밝히지 않습니다. 마비의 마법봉은 유용하지만, 강인한 전사들이 무력화되어 온갖 끔찍한 일을 당했다는 이야기와 늘 엮입니다. 그런 이야기는 술집 손님들에게 환영받지 못하죠."
 templeug3,git,Placeable List/329/LocName,0,큰 흙무더기
-templeug3,git,Placeable List/344/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/345/LocName,0,흙 부분 중간
+templeug3,git,Placeable List/344/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/345/LocName,0,중간 크기 흙더미
 templeug3,git,Placeable List/349/LocName,0,흙더미
 templeug3,git,Placeable List/350/LocName,0,흙더미
-templeug3,git,Placeable List/351/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/352/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/353/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/359/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/360/LocName,0,흙 부분 중간
+templeug3,git,Placeable List/351/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/352/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/353/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/359/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/360/LocName,0,중간 크기 흙더미
 templeug3,git,Placeable List/419/LocName,0,바닥 레버
 templeug3,git,Placeable List/419/Description,0,바닥에서 튀어나온 무거운 레버는 아래쪽에 있는 어떤 보이지 않는 메커니즘을 제어한다.
 templeug3,git,Placeable List/424/LocName,0,서식 가방
 templeug3,git,Placeable List/543/LocName,0,큰 흙무더기
 templeug3,git,Placeable List/582/LocName,0,약화된 바위
-templeug3,git,Placeable List/585/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/586/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/587/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/588/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/589/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/590/LocName,0,흙 부분 중간
-templeug3,git,Placeable List/603/LocName,0,흙 부분 중간
+templeug3,git,Placeable List/585/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/586/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/587/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/588/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/589/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/590/LocName,0,중간 크기 흙더미
+templeug3,git,Placeable List/603/LocName,0,중간 크기 흙더미
 templeug3,git,Placeable List/611/LocName,0,벽 Cobweb 보트월 1
 templeug3,git,Placeable List/612/LocName,0,벽 Cobweb 보트월 2
 templeug3,git,Placeable List/613/LocName,0,벽 Cobweb 톱월 2
@@ -12978,15 +12980,15 @@ templeug3,git,Placeable List/643/LocName,0,핏자국
 templeug3,git,Placeable List/644/LocName,0,핏자국
 templeug3,git,Placeable List/645/LocName,0,핏자국
 templeug3,git,Placeable List/646/LocName,0,핏자국
-templeug3,git,Placeable List/664/LocName,0,흙 부분 중간
+templeug3,git,Placeable List/664/LocName,0,중간 크기 흙더미
 templeug3,git,Placeable List/732/LocName,0,전리품 주머니
 templeug3,git,Placeable List/732/Description,0,내용물이 쏟아지지 않도록 가방 고리가 걸려 단단히 고정되어 있다.
 templeug3,git,Placeable List/732/ItemList/1/LocalizedName,0,일지의 일부
 templeug3,git,Placeable List/732/ItemList/1/DescIdentified,0,"이건 일지에서 찢어낸 기록의 일부다.
 ""이 지하 묘지의 건축은 놀랍고도 흥미롭다. 드로우가 숨겨진 비밀 통로에 얼마나 집착하는지 알고 있다. 반드시 찾아내야 한다..."""
 templeug3,git,Placeable List/732/ItemList/5/LocalizedName,0,동풍
-templeug3,git,Placeable List/732/ItemList/5/Description,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
-templeug3,git,Placeable List/732/ItemList/5/DescIdentified,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
+templeug3,git,Placeable List/732/ItemList/5/Description,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
+templeug3,git,Placeable List/732/ItemList/5/DescIdentified,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
 templeug3,git,Placeable List/732/ItemList/6/LocalizedName,0,귀환의 물약
 templeug3,git,Placeable List/732/ItemList/6/DescIdentified,0,레벨 시작점으로 빠르게 돌아가는 데 사용됩니다.
 templeug3,git,Placeable List/733/LocName,0,타락한 모험가
@@ -13307,9 +13309,9 @@ templeug4,git,Placeable List/374/Description,0,"이 카펫은 아름답게 짜�
 templeug4,git,Placeable List/377/LocName,0,스톤 크로스 에펙트3
 templeug4,git,Placeable List/377/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 templeug4,git,Placeable List/378/LocName,0,CreateGemEffect2
-templeug4,git,Placeable List/458/LocName,0,흙 부분 중간
-templeug4,git,Placeable List/459/LocName,0,흙 부분 중간
-templeug4,git,Placeable List/465/LocName,0,흙 부분 중간
+templeug4,git,Placeable List/458/LocName,0,중간 크기 흙더미
+templeug4,git,Placeable List/459/LocName,0,중간 크기 흙더미
+templeug4,git,Placeable List/465/LocName,0,중간 크기 흙더미
 templeug4,git,Placeable List/586/LocName,0,던전 단단한 벽 06
 templeug4,git,Placeable List/587/LocName,0,던전 환영술 벽 06
 templeug4,git,Placeable List/588/LocName,0,던전 환영술 벽 06
@@ -13320,7 +13322,7 @@ templeug4,git,Placeable List/592/LocName,0,던전 환영술 벽 06
 templeug4,git,Placeable List/596/LocName,0,타락한 모험가
 templeug4,git,Placeable List/596/ItemList/0/LocalizedName,0,활력의 물약
 templeug4,git,Placeable List/596/ItemList/4/LocalizedName,0,썩은 음식
-templeug4,git,Placeable List/596/ItemList/4/DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+templeug4,git,Placeable List/596/ItemList/4/DescIdentified,0,상해서 썩어버린 식량.
 templeug4,git,Placeable List/596/ItemList/5/LocalizedName,0,막
 templeug4,git,Placeable List/596/ItemList/5/DescIdentified,0,매우 오래되고 낡은 대퇴골이다.
 templeug4,git,Placeable List/633/LocName,0,문 레버
@@ -13331,8 +13333,8 @@ templeug4,git,Placeable List/637/LocName,0,상자
 templeug4,git,Placeable List/637/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 templeug4,git,Placeable List/637/ItemList/0/LocalizedName,0,다크문 키
 templeug4,git,Placeable List/637/ItemList/1/LocalizedName,0,남풍
-templeug4,git,Placeable List/637/ItemList/1/Description,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
-templeug4,git,Placeable List/637/ItemList/1/DescIdentified,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
+templeug4,git,Placeable List/637/ItemList/1/Description,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
+templeug4,git,Placeable List/637/ItemList/1/DescIdentified,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
 templeug4,git,Placeable List/644/LocName,0,타락한 모험가
 templeug4,git,Placeable List/645/LocName,0,핏자국 2
 templeug4,git,Placeable List/646/LocName,0,타락한 모험가
@@ -13352,7 +13354,7 @@ templeug4,git,Placeable List/674/LocName,0,블러드트레일 2
 templeug4,git,Placeable List/675/LocName,0,블러드트레일 2
 templeug4,git,Placeable List/676/LocName,0,혈흔 1
 templeug4,git,Placeable List/677/LocName,0,블러드트레일 2
-templeug4,git,Placeable List/678/LocName,0,혈투 4
+templeug4,git,Placeable List/678/LocName,0,블러드트레일 4
 templeug4,git,Placeable List/679/LocName,0,혈흔 1
 templeug4,git,Placeable List/680/LocName,0,블러드트레일 2
 templeug4,git,Placeable List/681/LocName,0,블러드트레일 2
@@ -13745,8 +13747,8 @@ templeug5,git,Placeable List/4/ItemList/1/LocalizedName,0,수호자 판금
 templeug5,git,Placeable List/4/ItemList/2/LocalizedName,0,가시못 투구
 templeug5,git,Placeable List/4/ItemList/4/LocalizedName,0,황혼의 수호자
 templeug5,git,Placeable List/4/ItemList/5/LocalizedName,0,서풍
-templeug5,git,Placeable List/4/ItemList/5/Description,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
-templeug5,git,Placeable List/4/ItemList/5/DescIdentified,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
+templeug5,git,Placeable List/4/ItemList/5/Description,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
+templeug5,git,Placeable List/4/ItemList/5/DescIdentified,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
 templeug5,git,Placeable List/5/LocName,0,죽은 투사
 templeug5,git,Placeable List/5/Description,0,땅 위에 슬픈 인간형 뼈 무리가 쌓여 있었다.
 templeug5,git,Placeable List/5/ItemList/0/LocalizedName,0,막
@@ -13894,31 +13896,31 @@ templeug5,git,Placeable List/505/LocName,0,클레이 병
 templeug5,git,Placeable List/505/Description,0,당신의 발소리가 항아리의 어두운 깊은 곳에서 울려 퍼지며 메아리칩니다.
 templeug5,git,Placeable List/506/LocName,0,클레이 병
 templeug5,git,Placeable List/506/Description,0,당신의 발소리가 항아리의 어두운 깊은 곳에서 울려 퍼지며 메아리칩니다.
-templeug5,git,Placeable List/507/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/508/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/509/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/510/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/511/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/512/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/513/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/514/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/515/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/546/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/547/LocName,0,흙 부분 중간
+templeug5,git,Placeable List/507/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/508/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/509/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/510/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/511/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/512/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/513/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/514/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/515/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/546/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/547/LocName,0,중간 크기 흙더미
 templeug5,git,Placeable List/548/LocName,0,큰 흙무더기
 templeug5,git,Placeable List/549/LocName,0,큰 흙무더기
 templeug5,git,Placeable List/550/LocName,0,큰 흙무더기
 templeug5,git,Placeable List/551/LocName,0,큰 흙무더기
 templeug5,git,Placeable List/552/LocName,0,큰 흙무더기
-templeug5,git,Placeable List/553/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/554/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/555/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/556/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/557/LocName,0,흙 부분 중간
+templeug5,git,Placeable List/553/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/554/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/555/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/556/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/557/LocName,0,중간 크기 흙더미
 templeug5,git,Placeable List/558/LocName,0,큰 흙무더기
 templeug5,git,Placeable List/593/LocName,0,큰 흙무더기
 templeug5,git,Placeable List/604/LocName,0,큰 흙무더기
-templeug5,git,Placeable List/639/LocName,0,흙 부분 중간
+templeug5,git,Placeable List/639/LocName,0,중간 크기 흙더미
 templeug5,git,Placeable List/726/LocName,0,던전 단단한 벽 06
 templeug5,git,Placeable List/727/LocName,0,던전 단단한 벽 06
 templeug5,git,Placeable List/728/LocName,0,던전 단단한 벽 06
@@ -13931,8 +13933,8 @@ templeug5,git,Placeable List/750/LocName,0,타락한 모험가
 templeug5,git,Placeable List/751/LocName,0,타락한 모험가
 templeug5,git,Placeable List/754/LocName,0,클레이 병
 templeug5,git,Placeable List/754/Description,0,당신의 발소리가 항아리의 어두운 깊은 곳에서 울려 퍼지며 메아리칩니다.
-templeug5,git,Placeable List/755/LocName,0,흙 부분 중간
-templeug5,git,Placeable List/756/LocName,0,흙 부분 중간
+templeug5,git,Placeable List/755/LocName,0,중간 크기 흙더미
+templeug5,git,Placeable List/756/LocName,0,중간 크기 흙더미
 templeug5,git,Placeable List/762/LocName,0,타르 뿜어내기
 templeug5,git,Placeable List/763/LocName,0,큰 흙무더기
 templeug5,git,Placeable List/766/LocName,0,소형 구덩이
@@ -14095,7 +14097,7 @@ thedarkmoonfores,git,Creature List/8/FirstName,0,도프
 thedarkmoonfores,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,도프스 클라우1d8
 thedarkmoonfores,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,도프스 클라우1d8
 thedarkmoonfores,git,Creature List/8/Equip_ItemList/2/LocalizedName,0,도프스 비트
-thedarkmoonfores,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,맥스 속성
+thedarkmoonfores,git,Creature List/8/Equip_ItemList/3/LocalizedName,0,최대 속성
 thedarkmoonfores,git,Door List/0/LocName,0,문
 thedarkmoonfores,git,Door List/1/LocName,0,문
 thedarkmoonfores,git,Door List/2/LocName,0,견고한 문
@@ -14169,7 +14171,7 @@ thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/25/DescIdentified,0,알려
 thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/26/LocalizedName,0,장식 반지
 thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/27/LocalizedName,0,미사일 폭풍의 주문 마법봉
 thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/28/LocalizedName,0,번개의 마법봉
-thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/28/DescIdentified,0,"번개 마법봉은 적어도 초기 제작 단계에서는 매우 불안정하다. 경험이 부족한 마법사들은 실험실에서 갑작스러운 폭풍이나 충전된 안개를 경험하기도 했으며, 적절한 주문을 제대로 낭독하지 못했기 때문이다. 고령의 마법사들은 잘못된 의식을 가진 토큰을 순환시켜 간접적으로 마법사로서의 겸손을 가르치려 했다는 이야기가 있다."
+thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/28/DescIdentified,0,번개 마법봉은 적어도 초기 제작 단계에서는 매우 불안정하다. 경험이 부족한 많은 시전자들은 올바른 방식으로 적절한 주문을 외우지 못해 자신의 실험실이 갑작스러운 폭풍이나 전하를 띤 안개에 휩싸이곤 했다. 원로 마법사들은 간접적으로나마 겸손을 가르치고자 결함 있는 의식이 적힌 서책들이 유통되도록 방치했다고 전해진다.
 thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/31/LocalizedName,0,더 큰 생명 을 가진 직원
 thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/31/DescIdentified,0,"신실한 자들은 생명의 지팡이가 신의 의지를 현현시킨 것이라고 가르친다. 이에 대해서는 논란의 여지가 있지만, 이러한 아이템들은 우연이든 필연이든 진정으로 의로운 이들의 손에 들어가곤 한다. 그럼에도 불구하고 시중에 유통되는 이러한 지팡이의 수를 보면 기적적인 기원설은 다소 신빙성이 없어 보인다."
 thedarkmoonfores,git,StoreList/3/StoreList/3/ItemList/32/LocalizedName,0,생명의 지팡이
@@ -14489,7 +14491,7 @@ module,jrl,Categories/5/Name,0,도서관으로 가기 - 장비 구입
 module,jrl,Categories/5/EntryList/0/Text,0,도서관에 가서 켈벤의 보조에게 장비 구매에 대해 이야기해보세요.
 module,jrl,Categories/5/EntryList/1/Text,0,"당신은 도서관을 찾았고, 켈벤의 조력자인 이리라와 대화를 나눴습니다. 장비를 구매한 후에는 다시 켈벤에게 돌아가세요."
 module,jrl,Categories/6/Name,0,묘지 재료
-module,jrl,Categories/6/EntryList/0/Text,0,"로렐과 상의한 후, 그녀는 민감한 약물을 완성하기 위해 필요로 하는 세 가지 희귀한 성분을 수집하기 위해 근처의 묘지로 여행을 요청합니다. 이 성분은 암달 묘지와 그 주변에서만 찾을 수 있습니다. 그러나 이러한 성분을 찾는 모든 탐구는 루핀 공격의 위험과 숲 속에 거주하는 강력한 악의 불만족으로 가득차 있을 것입니다."
+module,jrl,Categories/6/EntryList/0/Text,0,"로렐과 상의한 후, 그녀는 민감한 물약을 완성하기 위해 필요로 하는 세 가지 희귀한 재료를 모으기 위해 근처의 묘지로 가 달라고 부탁합니다. 이 재료들은 다크문 묘지와 그 주변에서만 찾을 수 있지만, 재료를 찾기 위한 여정은 늑대인간들의 공격 위험과 숲속에 도사린 강력한 악의 불만으로 가득할 것입니다."
 module,jrl,Categories/6/EntryList/1/Text,0,로렐이 Gypsy 캠프에서 필요로 하는 세 가지 재료 중 하나를 찾았다.
 module,jrl,Categories/6/EntryList/2/Text,0,집시 캠프의 로렐이 필요로 하는 세 가지 재료 중 두 개를 찾았습니다.
 module,jrl,Categories/6/EntryList/3/Text,0,로렐이 원했던 세 가지 재료들을 모두 찾아냈어 로렐에게 돌아가
@@ -14508,9 +14510,9 @@ module,jrl,Categories/10/Name,0,수수께끼의 전당 - 완료!
 module,jrl,Categories/10/EntryList/0/Text,0,잘했어! 수수께끼의 시험을 통과했어!
 module,jrl,Categories/11/Name,0,수수께끼의 홀 1 - 거부물
 module,jrl,Categories/11/EntryList/0/Text,0,"한 사람의 쓰레기,는 다른 사람의 금이고, 당신의 굶주림은 내 축제입니다."
-module,jrl,Categories/11/EntryList/1/Text,0,"시간의 황폐함을 맛보는 것은 참 즐거워요. 들어보세요!
+module,jrl,Categories/11/EntryList/1/Text,0,"시간의 황폐함을 맛보는 것은 참으로 즐거운 일이로다. 내 노래를 들어라!
 
-한 부분의 퍼즐이 완성되었습니다."
+퍼즐의 한 부분이 완성되었습니다."
 module,jrl,Categories/12/Name,0,수수께끼의 홀 2 - 탐욕 으로 태어난 물건
 module,jrl,Categories/12/EntryList/0/Text,0,"탐욕으로 태어난 아이템이 내게 필요하지.
  
@@ -14545,7 +14547,7 @@ module,jrl,Categories/16/EntryList/1/Text,0,"복수는 모든 맛 중에서 가�
 module,jrl,Categories/17/Name,0,퍼즐 홀 7 - 파크
 module,jrl,Categories/17/EntryList/0/Text,0,난 건조하고 건조해 液体 좀 줘서 울게
 module,jrl,Categories/17/EntryList/1/Text,0,이제 노래할 수 있게 해줘요
-module,jrl,Categories/18/Name,0,"수수께끼의 홀 8 - 주사위 굴리기, 마법, 또는 오래된"
+module,jrl,Categories/18/Name,0,"수수께끼의 전당 8 - 주사위 굴리기, 마법, 또는 오래된 것"
 module,jrl,Categories/18/EntryList/0/Text,0,"아무리 바싹 말랐어도.
 
 아무리 말려 있어도.
@@ -14576,8 +14578,8 @@ module,jrl,Categories/20/EntryList/2/Text,0,"불쌍한 하플링에게 연민을
 module,jrl,Categories/20/EntryList/3/Text,0,"은근슬쩍 훔쳐 달아난 배은망덕한 녀석! 인살이 일행을 떠났지만, 황급히 도망치기 전에 짐을 뒤져 중요한 보급품 몇 가지를 훔쳐 갔습니다. 왠지 이 작은 도둑과의 악연은 여기서 끝이 아닐 것 같은 예감이 듭니다."
 module,jrl,Categories/20/EntryList/4/Text,0,"당신은 반아 인살을 다시 만났다. 그는 당신에게서 훔쳤지만, 당신은 그를 위해 동정심을 느끼지 않을 수 없습니다. 그는 이 끔찍한 성전에서 드란 드래그고르에 의해 한 번이 아니라 두 번 갇혔다. 그러나 이번에는 영원히 될 것 같습니다. 감사하지 않은 작은 속임수 도둑! 인살은 당신의 그룹에서 도망쳤지만, 당신의 짐을 통과하고 급히 떠나면서 몇 가지 중요한 물품을 훔치기 전에 아닙니다. 어떤 식으로든 당신은 작은 도둑을 마지막으로 볼 수 없다는 느낌을 얻습니다. 가난한 반아에게 대한 후회를 느끼면서 당신은 그를 해방시켰습니다. 그는 당신에게 합류 할 것을 제안한 자유에 감사하며, 당신은 그를 당신과 함께 데려갈 수 있도록 동의했습니다. 당신은 작은 차가운 세포에 갇힌 작은 반아이를 만났습니다."
 module,jrl,Categories/21/Name,0,다크문 신전 조사
-module,jrl,Categories/21/EntryList/0/Text,0,"추운 날씨와는 달리, ""드란""이라는 이름을 발견했을 때, 이 모든 것의 배후가 그가 될 수 있을까?"
-module,jrl,Categories/21/EntryList/1/Text,0,"두 명의 성전사들 앞에서 귀를 기울이면서, 그들은 ""드란""이라는 이름의 한 사람을 언급했는데, 그들의 목소리에서 두려움과 존경심이 느껴졌으나, 그 사람은 누구인가?"
+module,jrl,Categories/21/EntryList/0/Text,0,"묘하게도 당신은 ""드란""이라는 이름을 접하게 됩니다. 이 모든 것의 배후가 그란 말인가?"
+module,jrl,Categories/21/EntryList/1/Text,0,"사원 성직자 두 명의 대화를 엿듣던 중, 그들은 '드란'이라는 인물을 언급했다. 목소리에 담긴 공포로 보아 성직자들에게 상당한 두려움과 경외심을 심어주는 듯한데, 과연 그는 누구인가?"
 module,jrl,Categories/21/EntryList/2/Text,0,"사라진 신자들을 찾아서 켈벤 블랙스태프에 대한 예측된 비전처럼 보이는 것을 이야기했습니다. 지금까지의 진전을 설명한 후, 켈벤은 여러분께 성전의 어두운 비밀을 더 자세히 조사하라고 요청했습니다."
 module,jrl,Categories/21/EntryList/3/Text,0,"당신은 마침내 이 성전의 주인인 수수께끼의 호스트 드란 드래고르와 마주쳤습니다. 비꼬는 듯한 위협을 늘어놓은 끝에, 그는 당신을 은탑 꼭대기에 가두어 버렸고, 이제 이 신비로운 성전의 더 깊은 곳으로 나아가기 위해 다시 한번 앞으로 나아가는 것 외에는 다른 길이 없습니다."
 module,jrl,Categories/21/EntryList/4/Text,0,"당신은 암흑달 출신의 사제처럼 보이는 악령을 만났습니다. 당신은 시험을 당하고 있는 것 같습니다. 악령은 신앙의 시험에 대해 언급하며, 당신은 준비를 해야 한다고 말했습니다."
@@ -14671,7 +14673,7 @@ module,jrl,Categories/36/EntryList/4/Text,0,"숲 속의 비밀 지하 동굴을 
 module,jrl,Categories/36/EntryList/5/Text,0,숲에서 급히 만든 듯한 비밀 묘지를 발견했습니다. 갓 판 무덤들이 가득합니다. 무덤들은 최근에 다시 드러난 것처럼 보입니다.
 module,jrl,Categories/36/EntryList/6/Text,0,"당신은 매우 화난 여인을 만났습니다. 그녀는 사라진 여동생을 찾고 있다고 주장했습니다. 숲에서 여동생을 찾고 있을 때, 그녀는 성전에 우연히 도착하여 신사들에게 도움을 청했습니다. 당신이 그녀로부터 더 많은 정보를 얻으려고 하려는데, 그녀는 더 많은 질문을 할 기회가 없었을 때 밖으로 달려갔습니다. 그녀는 여동생을 찾아가야 한다고 말했습니다."
 module,jrl,Categories/36/EntryList/7/Text,0,어둡고 불길한 지하 성전에서 성직자들이 나쁜 짓을 꾸미고 있음을 짐작게 하는 단서를 찾았다. 조릴의 편지가 이러한 의심을 뒷받침했다.
-module,jrl,Categories/36/EntryList/9/Text,0,"당신은 Darkmoon 성전의 끔찍한 비밀을 발견했습니다. 깊은 곳 아래에서는 신자들이 끔찍한 목적을 가지고 거대한 무사전사 군대를 소집하고 있습니다. 당신은 실종의 진실을 알게 되었지만, 여전히 이 끔찍한 행위 뒤에 누가 있는지 모르며, 성전에서 살아나가기 위한 문제도 남아 있습니다."
+module,jrl,Categories/36/EntryList/9/Text,0,"당신은 다크문 사원의 끔찍한 비밀을 발견했습니다. 깊은 지하에서 성직자들이 사악하지만 아직 밝혀지지 않은 목적을 위해 거대한 언데드 전사 군단을 소환하고 있었습니다. 실종 사건의 진실은 알게 되었지만, 이 사악한 짓의 배후가 누구인지는 여전히 알 수 없으며, 사원에서 살아 나가는 문제도 아직 남아 있습니다."
 module,jrl,Categories/36/EntryList/10/Text,0,당신은 다크문 숲 깊은 곳에서 집시 야영지를 발견했다. 이곳에서 신전에 관한 정보를 얻을 수 있을지도 모른다.
 module,jrl,Categories/36/EntryList/11/Text,0,숲 나무를 통해 기운이 불고 있는 이상한 바람이 불고 있습니다. 어두운 주변을 둘러보고 밤 공기를 채우는 밝은 안개가 보입니다. 멀리 떨어져서 늑대의 울음을 듣고 잠시 자신을 생각하며 왜 켈벤이 숲을 통해 길을 찾으려고하는 동안 어둠의 달을 찾기 위해 당신을 이 장소로 이동시켰는지 궁금합니다. 앞으로 바라보면 숲을 가로지르는 좁은 흙길이 보입니다. 숲과 어둠의 달 안에 무엇이 숨어있는지 알아내려고 노력하는 동안 당신의 여행은 여기에서 시작됩니다.
 module,jrl,Categories/36/EntryList/12/Text,0,"암흑의 달의 표적을 받고 입을 통과한 후, 수정 벽 앞에 에메랄드 아저우드 수호자가 갇혀 있는 것을 발견했습니다. 크리스탈 해머 없이는 벽을 뚫을 수 없었습니다. 이제 아저우드 탑에 액세스할 수 있습니다."
@@ -14762,7 +14764,7 @@ bulette_opendoor,utc,Description,0,"""지상상어""라고 적당히 불리는 �
 calandra,utc,FirstName,0,칼라드라
 commale001,utc,FirstName,0,일리라
 commanderboris,utc,FirstName,0,보리스 대령
-cornugon_a,utc,FirstName,0,더 큰 수호자 데이몬
+cornugon_a,utc,FirstName,0,그레이터 가디언 데몬
 cornugon_a,utc,Description,0,"두려움 없는 전투자, 대몬 은 바테즈 의 엘리트 쇼크 군 의 일원 이다. 이 괴물 들 은 끔찍 한 덩어리 로 덮여 있는 이자 들 이 그들의 적 들 을 鞭子 와 꼬리 로 수 있으며, 그들의 희생자 들 은 지옥 의 상처 로 피 를 흘려 죽게 할 수 있습니다."
 cornugon_a001,utc,FirstName,0,트롤로크 호크
 cornugon_a001,utc,Description,0,"동물은 인간형과 돼지, 독수리, 염소 같은 공격적인 동물이 결합된 마법의 창조물입니다. 그들은 약 8-10 피트 높이고 근육의 몸을 가지고 있습니다."
@@ -14861,7 +14863,7 @@ lich002,utc,FirstName,0,리치 아르치웰렌
 lizard,utc,FirstName,0,도마뱀
 lizard001,utc,FirstName,0,도마뱀
 lizard002,utc,FirstName,0,도마뱀
-mantisdying,utc,FirstName,0,죽어가는 마티스 투사
+mantisdying,utc,FirstName,0,죽어가는 사마귀 전사
 mantisdying,utc,Description,0,트리크린 (Mantis warriors) 은 기도하는 마티스와 비슷한 지능적 인 곤충이다. 그들은 잠을 자 필요가 없으며 낮이나 밤 내내 활동할 수 있다.
 mantiswarrior,utc,FirstName,0,만티스 투사
 mantiswarrior,utc,Description,0,트리크린 (Mantis warriors) 은 기도하는 마티스와 비슷한 지능적 인 곤충이다. 그들은 잠을 자 필요가 없으며 낮이나 밤 내내 활동할 수 있다.
@@ -15110,7 +15112,7 @@ bonekey,uti,LocalizedName,0,뼈 열쇠
 borisarmor,uti,LocalizedName,0,전신 판금 갑옷
 borisshield,uti,LocalizedName,0,대형 방패
 bracersofprotect,uti,LocalizedName,0,보호 손목 보호대 +5
-bracersofprotect,uti,DescIdentified,0,"이 물건들은 처음에는 단순한 손목이나 팔 경호처럼 보이지만, 착용자에게는 보이지 않는 힘의 필드로 둘러싸여 있으며, 평범한 갑옷처럼 보호를 제공합니다. 아마도 어떤 해체된 민방대의 창고에서 나온 것 같습니다."
+bracersofprotect,uti,DescIdentified,0,"이 물건들은 처음에는 단순한 손목이나 팔 보호구처럼 보이지만, 착용자 주위를 보이지 않는 역장으로 감싸 일반 갑옷과 마찬가지로 보호해 준다. 아마 해산된 민병대의 무기고에서 나온 것 같다."
 brasscoin,uti,LocalizedName,0,동전
 brasscoin,uti,Description,0,"이것은 보통의 청동 동전처럼 보이지만, 동전의 외부에는 해독할 수 없는 특별한 표시가 있습니다. 이 동전은 특별한 용도로 사용될 수 있는 것 같습니다."
 brasscoin,uti,DescIdentified,0,"이것은 보통의 청동 동전처럼 보이지만, 동전의 외부에는 해독할 수 없는 특별한 표시가 있습니다. 이 동전은 특별한 용도로 사용될 수 있는 것 같습니다."
@@ -15137,7 +15139,7 @@ cloth028,uti,LocalizedName,0,산 라알의 망토
 cloth029,uti,LocalizedName,0,앰버스 망토
 completesetof001,uti,LocalizedName,0,엘프 뼈의 완전세트
 completesetofelf,uti,LocalizedName,0,엘프 뼈의 완전세트
-copperkey,uti,LocalizedName,0,구리 키
+copperkey,uti,LocalizedName,0,구리 열쇠
 createfoodite001,uti,LocalizedName,0,신들의 은총
 createfoodite001,uti,DescIdentified,0,이 놀라운 아이템은 그것을 사용하는 사람에게 음식을 줄 것입니다.
 crimsonkey,uti,LocalizedName,0,크림슨 키
@@ -15164,8 +15166,8 @@ dransdress,uti,DescIdentified,0,코르미르 왕조의 전직 마법인 판저�
 dranskey,uti,LocalizedName,0,드란스 키
 drowblade01,uti,LocalizedName,0,Drow Blade
 eastwind,uti,LocalizedName,0,동풍
-eastwind,uti,Description,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
-eastwind,uti,DescIdentified,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
+eastwind,uti,Description,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
+eastwind,uti,DescIdentified,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
 eb2_it_recall,uti,LocalizedName,0,귀환의 물약
 eb2_it_recall,uti,DescIdentified,0,레벨 시작점으로 빠르게 돌아가는 데 사용됩니다.
 eb_amber_bones,uti,LocalizedName,0,암버의 뼈
@@ -15225,7 +15227,7 @@ hen_sanraal_pers,uti,DescIdentified,0,"심지어 죽음도 샌랄에게 Darkmoon
 hen_shorn_pers,uti,LocalizedName,0,쇼른의 룬석
 hen_shorn_pers,uti,DescIdentified,0,당신은 어둠의 신전 던전에서 샤른을 반드시 죽게 될뻔한 상황에서 구해준 사람입니다. 이 물건은 그의 영원한 감사의 표시로 주어집니다.
 hen_tanglor_pers,uti,LocalizedName,0,탱글로의 카드 덱
-hen_tanglor_pers,uti,DescIdentified,0,이 카드 덱은 Darkmoon 신전에서 구출한 반엘프 탕글러가 당신에게 선물로 주었습니다.
+hen_tanglor_pers,uti,DescIdentified,0,이 카드 덱은 다크문 사원에서 구출한 반엘프 탕글러가 영원한 감사의 표시로 당신에게 준 것입니다.
 hiltoftalon,uti,LocalizedName,0,탈론의 검자루
 hiltoftalon,uti,Description,0,어떤 무기의 자루처럼 보입니다. 중요한 물건일 수도 있습니다.
 hiltoftalon,uti,DescIdentified,0,어떤 무기의 자루처럼 보입니다. 중요한 물건일 수도 있습니다.
@@ -15282,7 +15284,7 @@ it_mboots005,uti,DescIdentified,0,"페릴 드래곤헌터(Feryl Dragonhunter)는
 it_mbracer003,uti,LocalizedName,0,손목 보호대
 it_mbracer003,uti,DescIdentified,0,이 물건들은 마법이 아닌 특성을 가진 단순한 팔 보호구처럼 보입니다.
 it_mbracer008,uti,LocalizedName,0,손목 보호대 -2
-it_mbracer008,uti,DescIdentified,0,"이 물건들은 처음에는 단순한 손목이나 팔 경호처럼 보이지만, 착용자에게는 보이지 않는 힘의 필드로 둘러싸여 있으며, 평범한 갑옷처럼 보호를 제공합니다. 아마도 어떤 해체된 민방대의 창고에서 나온 것 같습니다."
+it_mbracer008,uti,DescIdentified,0,"이 물건들은 처음에는 단순한 손목이나 팔 보호구처럼 보이지만, 착용자 주위를 보이지 않는 역장으로 감싸 일반 갑옷과 마찬가지로 보호해 준다. 아마 해산된 민병대의 무기고에서 나온 것 같다."
 it_mcloak007,uti,LocalizedName,0,켈벤의 망토
 it_mglove029,uti,LocalizedName,0,노랑 장미의 가속 장갑 +3
 it_mneck002,uti,LocalizedName,0,비자연적 갑옷의 부적 -2
@@ -15416,7 +15418,7 @@ maarcl071,uti,LocalizedName,0,엘프 생가죽 갑옷 +2
 maarcl072,uti,LocalizedName,0,썩은 가죽 갑옷
 maarcl073,uti,LocalizedName,0,썩은 가죽 갑옷
 maarcl074,uti,LocalizedName,0,썩은 가죽 갑옷
-maarcl081,uti,LocalizedName,0,용피부 갑옷
+maarcl081,uti,LocalizedName,0,용가죽 갑옷
 maarcl081,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
 maarcl084,uti,LocalizedName,0,암버스 갑옷
 maarcl089,uti,LocalizedName,0,조나의 보호 망토 +2
@@ -15436,7 +15438,7 @@ mapajcoin,uti,DescIdentified,0,"이것은 청동 동전 MAPAJ입니다. 동전�
 margoylehide,uti,LocalizedName,0,마고일 재산
 markofdarkmoon,uti,LocalizedName,0,암흑달의 표지
 markofdarkmoon,uti,DescIdentified,0,이것은 암흑의 달의 상징입니다. 그것은 암흑의 성전의 상징입니다. 이 상징을 가지고 있는 사람들은 암흑의 달의 성전의 종입니다. 당신은 이 상징을 항상 가지고 있어야 합니다.
-maxproperties,uti,LocalizedName,0,맥스 속성
+maxproperties,uti,LocalizedName,0,최대 속성
 mcloth012,uti,LocalizedName,0,환영의 의복
 mcloth012,uti,DescIdentified,0,코르미르 왕조의 전직 마법인 판저다하스트는 한때 높은 명성을 가진 성실한 모험가였다. 그는 마법사 서클에서 인기를 얻었던 이유 중 하나는 알도 (모험가의 로브) 를 창조했기 때문이었다. 마술사들은 항상 미스터리한 마법을 던질 수 있는 능력에 의해 부착된 한계와 싸웠다. 이 의복은 매그에게 타격으로 인한 피해를 흡수할 수 있게 함으로써 동전 전투자와의 만남을 생존하는 우위를 제공합니다.
 mcloth013,uti,LocalizedName,0,환영의 의복
@@ -15451,8 +15453,8 @@ miscsmall,uti,LocalizedName,0,기타 소형
 miscthin,uti,LocalizedName,0,얇은 잡동사니
 nobfiresaltail,uti,LocalizedName,0,노블파이어SalamanderTail
 northwind,uti,LocalizedName,0,북바람
-northwind,uti,Description,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
-northwind,uti,DescIdentified,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
+northwind,uti,Description,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
+northwind,uti,DescIdentified,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
 oddcopperkey,uti,LocalizedName,0,이상한 구리 키
 oldwomansleather,uti,LocalizedName,0,종자의 튜닉
 oldwomansletter,uti,LocalizedName,0,노파의 편지
@@ -15462,7 +15464,9 @@ oltecsreport,uti,DescIdentified,0,"이전 편지에 Khelben는 Oltec, City Guard
 parchement,uti,LocalizedName,0,패드아머
 parchement,uti,DescIdentified,0,내 마지막 말입니다. 드란과 그의 부하들과 용감하게 싸웠지만 아쉽게도 겁쟁이들이 나를 물리쳤어요. 나는 이 방에 죽게 되었습니다.
 partofjournal,uti,LocalizedName,0,일지의 일부
-partofjournal,uti,DescIdentified,0,"""이 지하도서관의 건축은 놀랍고 흥미로워 보인다. 드워프와 그들이 숨겨진 통로와 비밀에 대한 열정에 대해 알고 있다. 반드시 찾아봐야 한다."""
+partofjournal,uti,DescIdentified,0,"일기장에서 찢어낸 듯한 메모 조각이다.
+
+""이 지하 묘지의 건축 양식은 경이롭고 흥미롭다. 드로우들이 숨겨진 비밀 통로에 얼마나 집착하는지는 잘 알고 있지. 반드시 찾아내야 해..."""
 partofjournal001,uti,LocalizedName,0,일지의 일부
 partofjournal001,uti,DescIdentified,0,"이 글은 일기에서 뽑아낸 내용입니다. ""나는 숨겨진 수준으로 가는 길을 찾았다고 생각합니다."
 partofjournal002,uti,LocalizedName,0,일지의 일부
@@ -15487,7 +15491,7 @@ rodofdispellm,uti,LocalizedName,0,해제의 마법 막대
 rodofdispellm,uti,Description,0,"이 마법은 특정 대상에서 모든 마법 효과를 제거하려고 시도합니다. 또한 그룹으로 여러 생물들을 대상으로 할 수 있으며, 각 생물에서 가장 강력한 마법 효과를 제거하려고 시도합니다."
 rodofdispellm,uti,DescIdentified,0,"이 마법은 특정 대상에서 모든 마법 효과를 제거하려고 시도합니다. 또한 그룹으로 여러 생물들을 대상으로 할 수 있으며, 각 생물에서 가장 강력한 마법 효과를 제거하려고 시도합니다."
 rottenfood,uti,LocalizedName,0,썩은 음식
-rottenfood,uti,DescIdentified,0,먹거리가 흐려지고 부패해졌어요
+rottenfood,uti,DescIdentified,0,상해서 썩어버린 식량.
 rustedlongsword,uti,LocalizedName,0,녹슨 장검
 rustedlongsword,uti,DescIdentified,0,이 무기의 칼은 으로 부패하여 칼을 저하하고 약화시켰다.
 rustyblade,uti,LocalizedName,0,녹슨 검
@@ -15513,14 +15517,14 @@ skullkey,uti,LocalizedName,0,두개골 열쇠
 soulgem,uti,LocalizedName,0,영혼석
 soulgem,uti,DescIdentified,0,이 섬세하게 잘라지고 다듬은 돌은 겉모습으로는 평범한 보석과 구별할 수 없다.
 southwind,uti,LocalizedName,0,남풍
-southwind,uti,Description,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
-southwind,uti,DescIdentified,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
+southwind,uti,Description,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
+southwind,uti,DescIdentified,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
 sphereoffire,uti,LocalizedName,0,불의 지구
 sphereoffire,uti,DescIdentified,0,불빛의 아우라와 함께 알려지지 않은 힘의 구슬이 방출됩니다.
 spiderkey,uti,LocalizedName,0,스파이더 키
 staffofprotect,uti,LocalizedName,0,보호 직원
 staffofprotect,uti,DescIdentified,0,"파워의 스태프 는 대부분의 마법사들에게 즉시 익숙하며, 거의 미스터리 연구의 아이콘이다. 그러한 스태프의 본질적인 유용성은 많은 사람들이 제작되거나 임무를 맡게 된 결과로 인해, 특정 역사가 보통 군중에서 사라집니다."
-staffoftalon,uti,LocalizedName,0,타론의 마법대검
+staffoftalon,uti,LocalizedName,0,탈론의 지팡이
 staffoftalon,uti,DescIdentified,0,"파워의 스태프 는 대부분의 마법사들에게 즉시 익숙하며, 거의 미스터리 연구의 아이콘이다. 그러한 스태프의 본질적인 유용성은 많은 사람들이 제작되거나 임무를 맡게 된 결과로 인해, 특정 역사가 보통 군중에서 사라집니다."
 starfire,uti,LocalizedName,0,별불꽃
 starfirescepte,uti,LocalizedName,0,별 불의 왕자
@@ -15535,7 +15539,7 @@ stonedagger,uti,DescIdentified,0,이 돌단검에는 독특한 룬 마크가 새
 stonegem,uti,LocalizedName,0,돌 보석 차원문 키
 stonegem,uti,DescIdentified,0,이 돌 보석에는 독특한 룬 마크가 새겨져 있습니다. 이 물건은 매우 중요합니다.
 talisman,uti,LocalizedName,0,타리스만
-talisman,uti,DescIdentified,0,"켈벤은 당에게 이 타리스마를 주고, 당이 드란의 강력한 마법으로부터 보호받기 위해 드란의 하인들에게 스스로를 죽일 수 있도록 허용해야 한다고 경고했습니다."
+talisman,uti,DescIdentified,0,"켈벤은 일행에게 이 부적을 건네며, 드란이 일행에게 시전하려는 강력한 마법으로부터 보호받으려면 드란의 부하들에게 스스로 목숨을 내어주어야 한다고 경고했다."
 talon4,uti,LocalizedName,0,타론
 talonaxe,uti,LocalizedName,0,타론
 talonbow,uti,LocalizedName,0,타론
@@ -15615,12 +15619,12 @@ wdbmqs010,uti,LocalizedName,0,라레스의 치명타 스태프 +2
 wentlykelsosjour,uti,LocalizedName,0,웬티 켈소스 저널
 wentlykelsosjour,uti,DescIdentified,0,"Wently Kelso's Journal Khelben 또한 Wently Kelso's Journal Khelben에 의해 작성된 저널 항목의 표본을 전했습니다. 나는 외로운 학자 Wently Kelso가 작성한 표면으로 침투했다. 내 두개골은 광명하고 빛나는 큰 미사일과 제 자신을 묘사하는 ""명예로운 고고학자"". JOURNAL ENTRY 356 내가 주의 깊게 워터디프의 하천에서 나 자신을 끌어당기 때, 내 손은 특히 슬슬한 돌에 미끄러졌다. 그러나 내가 떨어질 때 나는 그 돌이 내 상처받은 손에서 피를 흘린 것을 깨달았다. 나는 전개골로 침투했다. 내 두개골은 큰 반짝이 빛나는 큰 미사일과 나의 비석이 미사일. 나는 얼마나 많은 시간 동안 나는 알 수 있습니다. 나는 내 몸 전체에 따뜻한 감동을 느리게 느리게 느리게 느리게 느리게 느낍니다. 나는 내 눈을 짝이 짝이 짝이 짝이 짝이 짝이 짝이 짝이 짝이 짝이 짝이 짝이 짝이 짝이"
 westwind,uti,LocalizedName,0,서풍
-westwind,uti,Description,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
-westwind,uti,DescIdentified,0,"노래방 바깥에 바람과 구름의 새가 새겨져 있으며, 이것은 성전 벽에 있는 것들과 매우 비슷합니다. 아마 그럴 거야, 이 뿔은 큰 중요성을 가지고 있을 것이다."
+westwind,uti,Description,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
+westwind,uti,DescIdentified,0,"뿔피리 바깥쪽에는 바람과 구름 문양이 새겨져 있는데, 사원 벽에서 보았던 것들과 매우 흡사하다. 이 뿔피리는 뭔가 대단히 중요한 물건일지도 모른다."
 wmdwraxe004,uti,LocalizedName,0,왜성 사더리
 wmdwraxe006,uti,LocalizedName,0,라스티 와라크세
 wmgmrd006,uti,LocalizedName,0,돌을 제거하는 막대
-wmgmrd006,uti,DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
+wmgmrd006,uti,DescIdentified,0,이 주문은 석화된 생물을 원래 상태로 되돌리고 생명과 소지품을 회복시킵니다.
 wmgmrd007,uti,LocalizedName,0,마비의 막대
 wmgmrd007,uti,DescIdentified,0,"이런 물건을 만드는 이들은 잔혹하거나 배신적이라는 비난을 자주 받아 이름을 쉽게 밝히지 않습니다. 마비의 마법봉은 유용하지만, 강인한 전사들이 무력화되어 온갖 끔찍한 일을 당했다는 이야기와 늘 엮입니다. 그런 이야기는 술집 손님들에게 환영받지 못하죠."
 wmgst008,uti,LocalizedName,0,산라알의 지팡이
@@ -15634,7 +15638,7 @@ wmgwn005,uti,LocalizedName,0,주문해제 마법봉
 wmgwn006,uti,LocalizedName,0,마법 화살 마법봉
 wmgwn007,uti,LocalizedName,0,미사일 폭풍의 주문 마법봉
 wmgwn008,uti,LocalizedName,0,번개의 마법봉
-wmgwn008,uti,DescIdentified,0,"번개 마법봉은 적어도 초기 제작 단계에서는 매우 불안정하다. 경험이 부족한 마법사들은 실험실에서 갑작스러운 폭풍이나 충전된 안개를 경험하기도 했으며, 적절한 주문을 제대로 낭독하지 못했기 때문이다. 고령의 마법사들은 잘못된 의식을 가진 토큰을 순환시켜 간접적으로 마법사로서의 겸손을 가르치려 했다는 이야기가 있다."
+wmgwn008,uti,DescIdentified,0,번개 마법봉은 적어도 초기 제작 단계에서는 매우 불안정하다. 경험이 부족한 많은 시전자들은 올바른 방식으로 적절한 주문을 외우지 못해 자신의 실험실이 갑작스러운 폭풍이나 전하를 띤 안개에 휩싸이곤 했다. 원로 마법사들은 간접적으로나마 겸손을 가르치고자 결함 있는 의식이 적힌 서책들이 유통되도록 방치했다고 전해진다.
 wmgwn009,uti,DescIdentified,0,"이런 물건을 만드는 이들은 잔혹하거나 배신적이라는 비난을 자주 받아 이름을 쉽게 밝히지 않습니다. 마비의 마법봉은 유용하지만, 강인한 전사들이 무력화되어 온갖 끔찍한 일을 당했다는 이야기와 늘 엮입니다. 그런 이야기는 술집 손님들에게 환영받지 못하죠."
 wplmhb004,uti,LocalizedName,0,아크 어선더 +2
 wplmhb012,uti,LocalizedName,0,거머리
@@ -15766,8 +15770,8 @@ bloodstain008,utp,LocName,0,핏자국 6
 bloodstain009,utp,LocName,0,핏자국 7
 bloodstain010,utp,LocName,0,핏자국 8
 bloodtrail002,utp,LocName,0,블러드트레일 2
-bloodtrail003,utp,LocName,0,혈투 3
-bloodtrail004,utp,LocName,0,혈투 4
+bloodtrail003,utp,LocName,0,블러드트레일 3
+bloodtrail004,utp,LocName,0,블러드트레일 4
 bloodtrail005,utp,LocName,0,피벽 1
 bloodtrail006,utp,LocName,0,피벽 3
 bloodtrail007,utp,LocName,0,피벽 7
@@ -15879,7 +15883,7 @@ dias,utp,LocName,0,다이아스
 dias001,utp,LocName,0,펼침막
 dirtpatch001,utp,LocName,0,흙더미
 dirtpatch002,utp,LocName,0,큰 흙무더기
-dirtpatch003,utp,LocName,0,흙 부분 중간
+dirtpatch003,utp,LocName,0,중간 크기 흙더미
 drowbanner,utp,LocName,0,Drow Banner
 drowbox,utp,LocName,0,드로우 상자
 dungeonillusionw,utp,LocName,0,던전 환영술 벽 06
@@ -15938,7 +15942,7 @@ firebowl,utp,LocName,0,화로 01
 firebowl02,utp,LocName,0,화로 02
 fireplace,utp,LocName,0,화로
 flag009,utp,LocName,0,커튼
-floorhewenlarg,utp,LocName,0,바닥 헤웬 거구
+floorhewenlarg,utp,LocName,0,대형 거친 바닥
 floorhewenmedi,utp,LocName,0,깎은 바닥 (중간)
 floorhewensma001,utp,LocName,0,벽
 floorhewensmall,utp,LocName,0,바닥 헤웬 작은
@@ -16026,7 +16030,7 @@ mantisegg,utp,LocName,0,마티스 계란
 mythallar,utp,LocName,0,미살라
 nonpit,utp,LocName,0,구덩이 아님
 nonpit,utp,Description,0,마법사에게 의미있는 것처럼 보이는 복잡한 룬 시리즈는 처음 만든 마법사에게만 의미있는 것처럼 보입니다
-obelisk,utp,LocName,0,던전 마스터의 부속품
+obelisk,utp,LocName,0,던전 마스터의 악세서리
 obelisk,utp,Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 oblisk01,utp,LocName,0,오블리스크 01
 oblisk02,utp,LocName,0,오블리스크 02

@@ -157,7 +157,7 @@ oilflask,uti,LocalizedName,0,-1,기름병
 onearmedrobes,uti,DescIdentified,0,-1,이 이상한 옷의 왼쪽 소매는 마치 한 팔이 있는 사람을 위한 것처럼 꿰매져 있습니다.
 onearmedrobes,uti,LocalizedName,0,-1,한팔의 의복
 paladinsbadgeofc,uti,DescIdentified,0,-1,팔라딘 은 악 에 직면 하는 데 있어서 용기 를 가지고 유명 합니다. 그러한 용기 는 전염성 있는 선물 입니다. 이 간단한 사자 를 통해 말 하는 빠른 축복 은 함께 여행 하는 사람 들 의 두려움 을 진정 시키는데 도움 이 될 것 입니다.
-paladinsbadgeofc,uti,Description,0,-1,"당신이 가까이 있을 때, 친구들에게 용기를 주울 수 있습니다."
+paladinsbadgeofc,uti,Description,0,-1,근처에 있는 동료들에게 용기를 불어넣어 주는 능력이다.
 paladinsbadgeofc,uti,LocalizedName,0,-1,팔라딘 의 용기 의 수술
 paladinsholysymb,uti,DescIdentified,0,-1,"이것은 당신의 성스러운 교단의 상징이며, 선택한 신의 의로움과 직접적인 연결을 제공합니다. 이를 통해 근처의 악의 존재들의 아우라를 식별할 수 있습니다. 상징에 간단한 기도를 낭송하면 근처의 아우라에 대한 일반적인 감각을 얻을 수 있습니다. 기도를 연속적으로 세 번 낭송하면 그 아우라의 특정 원천에 집중하는 데 도움이 됩니다."
 paladinsholysymb,uti,LocalizedName,0,-1,성기사의 신성한 상징
@@ -251,7 +251,7 @@ ww1_exhibitskey,uti,LocalizedName,0,-1,전시실 열쇠
 ww1_finescabbard,uti,DescIdentified,0,-1,"이 껍데기 에 우아 한 패턴 이 압축 되어 있으며, 장식 된 은 그 을 표기 한다. 입 과 끝 에 있는 금속 작품 은 으로 인베스트 되어 있다."
 ww1_finescabbard,uti,LocalizedName,0,-1,고급 칼집
 ww1_gleeriderarm,uti,DescIdentified,0,-1,이 가죽 갑옷은 고대 엘프 스칼드 계열인 Gleeriders가 한 때 착용한 스타일로 제작되었습니다. 노래들은 여전히 그들이 어떤 죽음에도 불구하고 어떻게 웃는지에 대해 이야기합니다.
-ww1_gleeriderarm,uti,LocalizedName,0,-1,글리더의 갑옷
+ww1_gleeriderarm,uti,LocalizedName,0,-1,글리라이더의 갑옷
 ww1_goldring,uti,DescIdentified,0,-1,이 우아한 반지는 진정한 금의 따뜻한 빛을 띠고 있습니다. 궁중이나 귀족의 손에 어울리는 것처럼 보입니다.
 ww1_goldring,uti,LocalizedName,0,-1,고급금반지
 ww1_graveaxe,uti,DescIdentified,0,-1,어떤 알려지지 않은 전사의 무덤을 표시하는 이 큰 대상은 서서히 에 굴복하고 있습니다.
@@ -307,7 +307,9 @@ ww1_tarotsorrow,uti,DescIdentified,0,-1,"이 손으로 그린 타로 카드는 �
 ww1_tarotsorrow,uti,LocalizedName,0,-1,타로 카드 - 슬픔의 아이
 ww1_tarottraitor,uti,DescIdentified,0,-1,이 손 으로 칠 된 타로트 카드 는 오래되고 잘 지어진 카드 이다. 마녀의 손 으로 부터 추출 된 이 카드 는 미래 를 나타낼 것 이라고 한다. 이 카드 는 위 에 있는 공중 에 매달린 금 한 잔 을 향해 갈고 있는 인물을 묘사 한다. 이 인물의 손 은 피 로 빨 고 턱 은 험난 한 결단 에 놓여 있다.
 ww1_tarottraitor,uti,LocalizedName,0,-1,타로 카드 - 배신자
-ww1_tarotvirtue,uti,DescIdentified,0,-1,"이 손으로 그려진 타로 카드는 오래되고 잘 착용되어 있으며, 마법사의 손에서 나온 것으로 알려져 있다. 과거를 상징한다고 한다. 이 카드는 폭풍우가 칠해진 하늘 아래 서 있는 흰색 의복을 입은 인물을 묘사하고 있으며, 빛의 쏘이는 인물의 상승한 얼굴에 비춰져 신성한 빛을 발산한다."
+ww1_tarotvirtue,uti,DescIdentified,0,-1,"이 수제 타로 카드는 오래되고 낡았다. 워락의 손에서 뽑힌 이 카드는 과거를 상징한다고 전해진다.
+
+이 카드는 폭풍우 치는 하늘 아래 서 있는 흰 로브 차림의 인물을 묘사하고 있다. 인물이 치켜든 얼굴 위로 빛줄기가 내리쬐며 신성한 광채를 뿜어내고 있다."
 ww1_tarotvirtue,uti,LocalizedName,0,-1,타로 카드 - 미덕의 아이
 ww1_templekey,uti,DescIdentified,0,-1,이 열쇠는 오래 전에 만들어진 것 처럼 보입니다. 금속은 매우 오염되어 있지만 여전히 노화 상태가 없습니다.
 ww1_templekey,uti,LocalizedName,0,-1,고대의 열쇠

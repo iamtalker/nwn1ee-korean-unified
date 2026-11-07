@@ -40,7 +40,7 @@ lvl7_urd_w,are,Name,0,레벨 7 - 서쪽 의 상단
 lvl8_lrd_n,are,Name,0,8단계 - 북부
 lvl8_lrd_s,are,Name,0,8단계 - 서부
 lvl8_lrd_w,are,Name,0,레벨 8 - 드로우 아웃캐스트 - 동부
-secretwaterfalls,are,Name,0,비밀 레벨 - 숨겨진 폭포
+secretwaterfalls,are,Name,0,비밀 지역 - 숨겨진 폭포
 severalnightsago,are,Name,0,몇 밤 전...
 sewers002,are,Name,0,레벨 1 - 하수구 - 남쪽
 sewers1,are,Name,0,레벨 1 - 하수구 - 북쪽
@@ -49,7 +49,7 @@ sewerslevel2b,are,Name,0,레벨 2 - 중간 하수구 - 서쪽
 sewerslevel3,are,Name,0,3레벨 - 하수구 - 북쪽
 sewerslevel3b,are,Name,0,레벨 3 - 하수구 - 남쪽
 sewerslv3w,are,Name,0,3레벨 - 하수구 - 서쪽
-sub2ds,are,Name,0,하위 레벨 2: 죽음 섹션
+sub2ds,are,Name,0,하층 구역 2: 죽음의 구역
 waterdeepdungeon,are,Name,0,워터딥 - 도시 던전
 waterdeepoutskir,are,Name,0,워터딥 외곽 지역
 waterdeepseweren,are,Name,0,워터딥 - 도시 하수구 입구
@@ -88,15 +88,15 @@ eb_armun,dlg,EntryList/29/Text,0,"저는 이 모든 사태를 이해하려고 �
 eb_armun,dlg,EntryList/30/Text,0,"만약 당신이 말하는 것이 사실이라면, 당신이 말하는 이 악한 힘은 분명히 그 암흑의 의도를 수행하기 위해 드로우프들을 조종하고 있을 것이다. 그들은 더 큰, 더 음험한 계획의 도구일 뿐이다."
 eb_armun,dlg,EntryList/32/Text,0,"그래, 그건 드그나르와 그의 아들이야; 돈으로 살 수 있는 가장 좋은 검과 찌르를 가지고 있다."
 eb_armun,dlg,EntryList/33/Text,0,듀그나르는 여기 동쪽에서 찾을 수 있습니다.
-eb_armun,dlg,EntryList/34/Text,0,도르는 내 위치에서 남동쪽에 있습니다.
+eb_armun,dlg,EntryList/34/Text,0,도르훔은 내 위치에서 남동쪽에 있습니다.
 eb_armun,dlg,EntryList/35/Text,0,북동쪽 분수 너머에 우리의 성직자를 찾을 수 있습니다.
-eb_armun,dlg,EntryList/36/Text,0,그녀는 많은 치유 포션과 마법 물건들을 가지고 있어 당신에게 유용할 수 있을 것 같습니다. 그 외에는 어떤 성직자가도 가지고 있을 수 있는 표준 물건들을 가지고 있습니다.
+eb_armun,dlg,EntryList/36/Text,0,그녀는 당신에게 유용할 만한 치유 포션과 마법 용품을 많이 가지고 있습니다. 그 외에는 성직자라면 누구나 가지고 다닐 만한 일반적인 물품들을 지니고 있습니다.
 eb_armun,dlg,EntryList/37/Text,0,"암, 돌 문은 수백 년 전에 우리 조상들이 만든 고대 유물이지. 그것들을 사용하려면 알맞은 돌 문 열쇠만 있으면 되네. 문에 다가간 뒤 문에 열쇠를 갖다 대면 문이 열리며 길을 터 줄 거야."
 eb_armun,dlg,EntryList/39/Text,0,"<StartAction>왜들은 사랑하는 왕의 기적적인 귀환을 축하하는 기쁨으로 발발합니다. 그들의 응원소음은 큰 홀들을 통해 울고, 새로운 희망으로 공기를 채우고 있습니다. 아르무네는 경외심과 감사로 가득한 그의 표정을 당신에게 돌립니다. </Start> ""희망 자체를 넘어, 당신은 케이르가 왕자를 우리에게 다시 가져왔고 우리 왕을 다시 살렸다. 우리는 불가능하다고 생각했던 것을 성취했습니다. 우리는 어떻게 감사의 빚을 갚을 수 있습니까?"""
 eb_armun,dlg,EntryList/41/Text,0,"<StartAction>왕 티르고호가 말을 이어간다,</Start> 전설에 따르면 산 속 깊숙이에 7층 아래에 숨겨진 고대 왕좌실이 있다고 한다. 이 왕좌실 안에는 북벽에 내장된 비밀 문이 숨겨져 있다. 이 문 너머에는 긴 지하 통로가 펼쳐져 있으며, 그 통로의 끝에는 고대 포털이 있다. 이 포털은 통과하는 사람들을 워터딥 동쪽의 땅으로 이동시킨다는 전설이 전해진다."
 eb_armun,dlg,EntryList/42/Text,0,"만약 제 사람들이 우리의 조상들의 고향을 찾기 위해 계속 노력한다면, 필연적으로 나타르 자신과 마주칠 것입니다. 신디아의 말로 보아, 나타르는 우리 고대 도시의 중심에 본거지를 세웠다는 것이 분명해 보입니다. 만약 이것이 사실이라면, 내 친구, 당신은 엄청난 도전을 맞이하게 될 것입니다. 그를 물리치는 것이 집으로 돌아가는 길을 확보하는 유일한 방법일 수도 있습니다."
 eb_armun,dlg,EntryList/43/Text,0,"아쉽게도 그녀는 언더다크로 탈출했고, 이번이 마지막 소식이 되길 희망합니다. 그러나 신디아처럼 빠른 사고력을 가진 사람이라면 그렇게 쉽게 억제되지 않을까 두려워합니다."
-eb_armun,dlg,EntryList/45/Text,0,"뉴스는 빠르게 퍼지네, 친구여. 당신이 딜리나르를 위해 무엇을 했는지 들었네. 그리고 나는 개인적으로 그녀의 책을 되찾기 위해 고생해주심에 감사하네. 당신은 그 책이 그녀와 우리 사람들에게 얼마나 큰 의미를 가지고 있는지 모를 뿐임을 모르네."
+eb_armun,dlg,EntryList/45/Text,0,"소문은 빠르게 퍼지는 법이지, 친구여. 네가 딜리나르를 위해 한 일에 대해 들었네. 그녀의 책을 되찾아주려고 애써준 것에 대해 직접 고맙다는 말을 하고 싶었어. 그 책이 그녀와 우리 동족에게 얼마나 큰 의미를 갖는지 넌 모를 거야."
 eb_armun,dlg,EntryList/46/Text,0,"<StartAction>아르문은 당신의 부탁을 곰곰이 생각하며 잠시 얼굴을 찡그린다.</Start> 당신이 우리를 위해 해 준 일이 있으니, 동전 몇 닢쯤은 더 줄 수 있겠지. 많진 않지만 한동안은 버틸 만할 거야."
 eb_armun,dlg,EntryList/48/Text,0,"그래, 다시 돌아왔군! 말해보게, 우리 대의에 힘을 보태주러 온 건가? 이런 힘든 시기에 자네처럼 든든한 동맹이 있다면 정말 큰 도움이 될 텐데."
 eb_armun,dlg,EntryList/49/Text,0,그럼 나도 손을 봐주지 못해.
@@ -141,7 +141,7 @@ eb_armun,dlg,ReplyList/21/Text,0,"그래, <FirstName>은 이미 상황을 알려
 eb_armun,dlg,ReplyList/22/Text,0,"네, 이제 그녀를 만나러 가볼게, 친구여."
 eb_armun,dlg,ReplyList/23/Text,0,왕의 상태가 변했나요?
 eb_armun,dlg,ReplyList/24/Text,0,정말 죄송합니다. 제 최선을 다해 도와드리겠습니다. 필요한 도움이 무엇이든 제공하겠습니다.
-eb_armun,dlg,ReplyList/25/Text,0,"하위 지하벙커를 탐험하던 중, 우리는 자신을 사로의 마법사라고 칭하는 어두운 악마 마법사와 마주쳤습니다. 그 이름은 당신에게 어떤 의미가 있습니까?"
+eb_armun,dlg,ReplyList/25/Text,0,"하층 광산을 탐험하던 중, 우리는 자신을 사로라고 부르는 어둡고 사악한 마법사와 마주쳤습니다. 그 이름이 당신에게 어떤 의미가 있습니까?"
 eb_armun,dlg,ReplyList/26/Text,0,"이제 말씀드릴 수 있겠습니다. 그는 워터디프에 대해 악의적인 계획을 세웠고. 그는 임박한 익사 공격에 대해 알고 있었고, 혼란을 자신의 이익을 위해 사용하려고 했습니다. 그의 계획은 젠아타르가 가장 약해질 때까지 기다렸으며, 그가 공격하고 제거하고 자신의 위치를 잡을 수 있도록 했습니다."
 eb_armun,dlg,ReplyList/27/Text,0,"이제 그를 두려워하실 필요는 없습니다. 내가 그를 물리쳐 악한 음모를 끝장냈으니까요. 하지만 그가 흥미로운 이야기를 했습니다. 드워프들이 강력한 마법 유물을 가지고 있다고 주장하더군요. 그의 말로는 그 유물이 비홀더의 눈자루로 만들어졌고, 비홀더에게 영향을 줄 수 있는 몇 안 되는 물건 중 하나라고 합니다. 그런 유물에 대해 아시는 바가 있습니까?"
 eb_armun,dlg,ReplyList/28/Text,0,"네, 이것은 그가 말한 유물일 거예요---의심의 여지가 없습니다."
@@ -236,7 +236,7 @@ eb_coffin,dlg,EntryList/2/Text,0,"당신의 공격이 시체에 흔적을 남기
 eb_coffin,dlg,EntryList/3/Text,0,도끼를 집어 들고 녀석의 목을 베어버려야겠어—그럼 저 망할 녀석도 끝장날 테니 말이야!
 eb_coffin,dlg,EntryList/4/Text,0,뱀파이어들을 파괴할 수 있는 유일한 방법은 그들의 저주받은 심장을 가로지르는 나무줄기
 eb_coffin,dlg,EntryList/5/Text,0,뱀파이어들을 파괴할 수 있는 유일한 방법은 그들의 저주받은 심장을 가로지르는 나무줄기
-eb_coffin,dlg,EntryList/6/Text,0,"악한 존재인 뱀파이어들. 과거에도 그들과 몇 차례의 접촉을 해왔습니다. 그들을 진정으로 끝내는 유일한 방법은 그들의 저주받은 심장에 나무 주걱을 꽂는 것입니다. 그렇지 않으면, 그들은 다시 일어날 것입니다."
+eb_coffin,dlg,EntryList/6/Text,0,"참 흉악한 생물들이지, 저 뱀파이어들은. 예전에 나도 그들과 꽤 많이 엮였었지. 그들을 완전히 끝장내는 유일한 방법은 저주받은 심장에 말뚝을 박아 넣는 거야. 그렇지 않으면 계속 살아나올 테니까."
 eb_coffin,dlg,EntryList/7/Text,0,뱀파이어들을 파괴할 수 있는 유일한 방법은 그들의 저주받은 심장을 가로지르는 나무줄기
 eb_coffin,dlg,EntryList/8/Text,0,"<FirstName>, 신전에 있을 때 언데드에 관한 책을 읽었는데, 뱀파이어를 죽이는 유일한 방법은 나무 말뚝을 심장에 박는 것이라고 하더군."
 eb_coffin,dlg,EntryList/9/Text,0,끝
@@ -287,7 +287,7 @@ eb_delinar,dlg,EntryList/8/Text,0,"<StartAction> 델리나르가 이레리아의
 eb_delinar,dlg,EntryList/9/Text,0,"아니, 내가 왜 그걸 못 봤지! 정말 고마워, 이렐리아. 네가 내가 찾던 답을 찾아낼 줄 알았어. 당장 이 새로운 혼합물을 만들어야겠군."
 eb_delinar,dlg,EntryList/10/Text,0,나는 그의 몸에서 흐르는 독을 늦추지 못했지만 우리가 곧 치료법을 찾지 못하면 우리 왕이 그를 삼킨 흑사병에 굴복할 것입니다.
 eb_delinar,dlg,EntryList/13/Text,0,"성스러운 이름으로, 정말 찾으셨군요! 책을 돌려주셔서 정말 감사합니다, <FirstName>. 우리 왕에게 아직 희망이 있을지도 모릅니다."
-eb_delinar,dlg,EntryList/14/Text,0,"당신이 기대했던 것보다 훨씬 더 많은 일을 해냈습니다. 약속대로, 여기 아주 특별한 반지입니다. 잘 사용하시길 바랍니다."
+eb_delinar,dlg,EntryList/14/Text,0,"당신은 누구나 기대했던 것 이상의 일을 해냈습니다. 약속대로 아주 특별한 반지를 드리니, 유용하게 쓰이길 바랍니다."
 eb_delinar,dlg,EntryList/15/Text,0,"몇 주 전, 저장실 의 한 장 의 벽 을 일부 큰 반 지능적 인 튜닝 스파이더 가 침해 하였다. 우리 전사 와 나 는 저장 된 장비 의 상당 부분을 복구 하고 침습 이 퍼지기 전 에 홀 의 문 을 봉쇄 할 수 있었다. 하지만, 전투 도중 내 의약품 책 을 사용하여 군인의 상처를 치유 하고 있을 때, 위 에서 蜘蛛 들 의 한 집단 이 우리 에게 내려왔고, 우리 는 도망 하게 되자, 내 책 을 내 손 에서 때렸다."
 eb_delinar,dlg,EntryList/16/Text,0,"아, 그렇군요. 우리 드워프들도 창고 통로를 다시 쓰고 싶으니, 친절하게도 침입로를 봉쇄해 주신다면 정말 감사하겠습니다."
 eb_delinar,dlg,EntryList/17/Text,0,"북쪽으로 이어지는 통로를 따라가세요. 저장실의 문은 서쪽에 있는 첫 번째 문입니다. 이 열쇠를 사용해 문을 열어야 합니다. 벽에 있는 구멍을 막기 위해, 거미들의 무리로부터 도망치면서 홀에 남겨둔 특별한 폭약통을 찾아야 합니다. 그것은 천장의 바위를 붕괴시켜 구멍을 덮기 위해 추가적인 힘을 가진 특별한 설계로 만들어졌습니다. 따라서 폭발할 때는 멀리 떨어져 있어야 합니다. 행운을 빕니다, 필요할 것입니다."
@@ -310,7 +310,7 @@ eb_delinar,dlg,ReplyList/11/Text,0,물약을 좀 살펴봐도 되겠습니까?
 eb_delinar,dlg,ReplyList/13/Text,0,<StartAction> 몇 분 지나면 Ileria는 이렇게 외치죠. </Start> 문제는 무엇인지 알 수 있습니다. 왜 mandrake 뿌리를 첨가하지 않는가? 독을 늦추기 위해 필요한 효과와 힘을 얻을 수 있습니다.
 eb_delinar,dlg,ReplyList/14/Text,0,반갑습니다. 친구들을 위해 할 수 있는 최소한의 일이었습니다.
 eb_delinar,dlg,ReplyList/15/Text,0,왕은 어때요?
-eb_delinar,dlg,ReplyList/16/Text,0,저는 우리가 신디아를 찾기 위해 더 가까워지고 있다고 생각합니다. 매 단계마다 많은 악마들이 우리를 막으려고 시도하고 있습니다.
+eb_delinar,dlg,ReplyList/16/Text,0,우리가 신디아를 찾는 데 점점 다가서고 있다는 느낌이 듭니다. 매 순간마다 우리를 가로막으려는 많은 악의적인 피조물들 때문에 고생을 겪었죠. 분명 가까워지고 있을 겁니다.
 eb_delinar,dlg,ReplyList/17/Text,0,"델리나르를 두려워하지 마, 난 이 익사한 신디아를 찾아내서 내가 그녀를 죽이기 전에 그녀의 목숨을 구해줄 거야"
 eb_delinar,dlg,ReplyList/18/Text,0,안녕히 계시오.
 eb_delinar,dlg,ReplyList/19/Text,0,난 당신의 치료서를 찾아왔어
@@ -351,7 +351,7 @@ eb_drow_spy,dlg,EntryList/10/Text,0,"<StartAction>""드로우 스파이들은 �
 eb_drow_spy,dlg,EntryList/12/Text,0,"속임수, 속임수, 네 속임수들은 내게 헛되이 있어"
 eb_drow_spy,dlg,EntryList/13/Text,0,"조금 더 다가오세요. 당신의 제안이 저를 궁금하게 합니다. 만약 제가 특정 세부사항을 공유한다면, 이 장소에서 안전하게 탈출할 수 있도록 보장해주실 수 있나요? 그 대가로, 적절한 보상이 이루어질 때까지 당신의 안전을 보장하고, 충성심을 인정하겠습니다."
 eb_drow_spy,dlg,EntryList/16/Text,0,"어떤 종류의 정보가 필요하신가요? 구체적으로 말씀해 주시면, 공유하는 것이 제 이해관계와 맞는지 판단할 수 있습니다."
-eb_drow_spy,dlg,EntryList/17/Text,0,"당신이 제게 완전히 솔직하지 않다는 느낌을 떨칠 수 없습니다. 당신의 말 속에, 어떤 말을 내뱉지 않은 부분이 있어, 그게 당신이 제게 속하려는 것 같다는 생각이 듭니다."
+eb_drow_spy,dlg,EntryList/17/Text,0,"당신이 내게 완전히 솔직하지 않다는 느낌을 떨칠 수가 없군요. 당신의 말 속에 뭔가 털어놓지 않은 진실이 있으며, 그것은 당신이 나를 속이려 들지도 모른다는 점을 암시하고 있습니다."
 eb_drow_spy,dlg,EntryList/19/Text,0,"<StartAction> 드로우는 당신을 얼어붙고 경멸스러운 눈빛으로 수정해 얼굴에 뱉어내기 전에, 당신을 향한 그의 경멸은 분명하고 혐오로 붓고 있습니다.</Start>"
 eb_drow_spy,dlg,EntryList/20/Text,0,"<StartAction>경멸에 찬 비웃음과 함께 드로우가 당신을 노려보았고, 그의 경멸감은 뚜렷이 느껴졌다. 지상 엘프에 대한 증오를 강조하듯 그는 당신의 발치에 침을 뱉었고, 그 행동에는 혐오감과 적대감이 가득했다.</Start>"
 eb_drow_spy,dlg,ReplyList/0/Text,0,"암흑 엘프님, 이름이 있으신가요? 아니면 여전히 그늘진 혈통으로만 말씀드릴까요?"
@@ -395,7 +395,7 @@ eb_dungeon_guard,dlg,EntryList/8/Text,0,난 앞으로 문제가 있을거 같아
 eb_dungeon_guard,dlg,EntryList/9/Text,0,안녕하세요!
 eb_dungeon_guard,dlg,EntryList/10/Text,0,괴롭히지 마세요!
 eb_dungeon_guard,dlg,EntryList/11/Text,0,부탁이지만 한 걸음 물러서세요!
-eb_dwarf_prsnr,dlg,EntryList/0/Text,0,네가 내 주변을 잘 지켜보는 게 좋을 거야.
+eb_dwarf_prsnr,dlg,EntryList/0/Text,0,"내 앞에서 행동 조심하는 게 좋을 거야, 바보야."
 eb_evil_ghost,dlg,EntryList/0/Text,0,"이리 가까이 오거라, 어리석은 필멸자들여. 그래... 그래, 감히 이 버려진 영역으로 발을 들여보거라. 성스러운 돌을 찾고 있느냐? 한심한 바보들! 너희는 결코 그 돌을 손에 넣지 못할 것이다. 자, 내 아이들이 너희의 썩어가는 살점으로 잔치를 벌일 것이다!"
 eb_evil_ghost,dlg,EntryList/1/Text,0,"자, 온혈종아. 이제 최후를 맞을 준비를 해라. 이곳에 깃든 어둠이 너를 파멸시킬 것이다."
 eb_evil_ghost,dlg,EntryList/2/Text,0,이제 침입자들을 죽여라! 따뜻한 피를 흘리게 해라! 모두를 파괴해라!
@@ -452,7 +452,7 @@ eb_gulmeth,dlg,EntryList/13/Text,0,"네, 네, 여기, 이 검을 받아가세요
 eb_gulmeth,dlg,ReplyList/0/Text,0,<StartCheck> 구르메트를 제거하고 마법의 아이템을 얻으시겠습니까? </Start>
 eb_gulmeth,dlg,ReplyList/1/Text,0,<StartAction>아이템을 받고 그를 놓아주겠습니까?</Start>
 eb_gulmeth,dlg,ReplyList/2/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
-eb_gulmeth,dlg,ReplyList/3/Text,0,"이제 가거라, 코볼드! 마음을 바꿀 테니 네가 배신한 놈처럼 대접할 거다!"
+eb_gulmeth,dlg,ReplyList/3/Text,0,"이제 꺼져라, 코볼드 녀석! 마음을 바꿔서 네놈 같은 배신자 쥐새끼를 다루기 전에 말이야!"
 eb_gulmeth,dlg,ReplyList/4/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
 eb_gulmeth,dlg,ReplyList/5/Text,0,"이제 시작해, 코볼드, 내가 네 비참한 삶을 살리라는 생각을 하기 전에!"
 eb_gulmeth,dlg,ReplyList/6/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
@@ -460,7 +460,7 @@ eb_gulmeth,dlg,ReplyList/7/Text,0,"이제 꺼져, 코볼드. 네가 배신자라
 eb_gulmeth,dlg,ReplyList/8/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
 eb_gulmeth,dlg,ReplyList/9/Text,0,"이제 가거라, 생각을 바꾸기 전에."
 eb_gulmeth,dlg,ReplyList/10/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
-eb_gulmeth,dlg,ReplyList/11/Text,0,"이제 가거라, 코볼드! 마음을 바꿀 시간이 없다. 널 내 칼의 살아있는 표적으로 만들기 전에!"
+eb_gulmeth,dlg,ReplyList/11/Text,0,"자, 꺼져라, 코볼드! 마음을 바꿔서 널 내 단검의 살아있는 표적으로 만들어 버리기 전에!"
 eb_gulmeth,dlg,ReplyList/12/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
 eb_gulmeth,dlg,ReplyList/13/Text,0,"이제 가거라, 코볼드, 내가 마음을 바꾸기 전에 쥐들이 네 몸을 먹을 것이다!"
 eb_gulmeth,dlg,ReplyList/14/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
@@ -472,7 +472,7 @@ eb_gulmeth,dlg,ReplyList/19/Text,0,"이제 꺼져, 코볼드. 네가 배신자�
 eb_gulmeth,dlg,ReplyList/20/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
 eb_gulmeth,dlg,ReplyList/21/Text,0,"이제 시작해, 코볼드, 내가 네 비참한 삶을 살리라는 생각을 하기 전에!"
 eb_gulmeth,dlg,ReplyList/22/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
-eb_gulmeth,dlg,ReplyList/23/Text,0,"이제 가거라, 코볼드! 마음을 바꿀 테니 네가 배신한 놈처럼 대접할 거다!"
+eb_gulmeth,dlg,ReplyList/23/Text,0,"이제 꺼져라, 코볼드 녀석! 마음을 바꿔서 네놈 같은 배신자 쥐새끼를 다루기 전에 말이야!"
 eb_gulmeth,dlg,ReplyList/24/Text,0,"자네의 리더가 내가 여기 온 이유 중 하나야. 확신할 수 있소, 곧 그를 처리할 거야. 하지만 먼저, 약속한 마법품은 어때?"
 eb_gulmeth,dlg,ReplyList/25/Text,0,"이제 시작해, 코볼드, 내가 네 비참한 삶을 살리라는 생각을 하기 전에!"
 eb_hafling_prsnr,dlg,EntryList/0/Text,0,난 당신의 고통을 예술의 형태로 끌어올릴 수 있다.
@@ -631,7 +631,7 @@ eb_hen_beohram,dlg,EntryList/0/Text,0,"""가고일 동상들...나의 친구가 
 eb_hen_beohram,dlg,EntryList/1/Text,0,"""이게 뭐지... 벽에 걸린 그림이 다른 것 같아; 좀 더 자세히 살펴봐야겠어."""
 eb_hen_beohram,dlg,EntryList/2/Text,0,"""잠깐만 <FirstName>; 이 지역에서 뭔가 이상하다고 느껴집니다. 저는 그 근처에 함정이 있다는 것을 감지합니다."""
 eb_hen_beohram,dlg,EntryList/3/Text,0,"""이것은 일종의 수수께끼처럼 보입니다. 아마도 우리는 이 깃발들을 좀 더 자세히 살펴봐야 할 것 같습니다. 왜냐하면 그들은 어떤 종류의 단서를 제공 할 수 있기 때문입니다""."
-eb_hen_beohram,dlg,EntryList/5/Text,0,"""그 여자야, 드로우 블리시 씨디아, 도망치지 마! 젊은 왕자를 어디에 두고 있는지 알아내야 한다."""
+eb_hen_beohram,dlg,EntryList/5/Text,0,"""저 여자야, 드로우 년 신디아잖아. 도망치게 두지 마! 젊은 왕자를 어디에 숨겨두었는지 알아내야 한다."""
 eb_hen_beohram,dlg,EntryList/8/Text,0,"<StartAction>베오람은 분노로 내려다봅니다.</Start> 어떻게 여기까지 왔는지, 그리고 당신은 누구인가?"
 eb_hen_beohram,dlg,EntryList/10/Text,0,"신범죄가 세로에서 활동하고 있다는 소문이 퍼지기 시작했을 때, 저는 시간을 낭비하지 않았습니다. 저는 동료 경호자들을 모아 그를 상대로 여기까지 지휘했습니다. 하지만... 그 후 일어난 일들의 기억은 여전히 흐릿합니다."
 eb_hen_beohram,dlg,EntryList/11/Text,0,"제 삶과 제 임무 모두 계속되는 것이 얼마나 행운인가! 이 탐구에 함께 할 수 있도록 허락해주시면 영광이 될 것입니다. <StartAction> 베오람의 눈은 새로운 목적으로 빛나고, 그의 결단력은 그의 동반자임을 제공함에 따라 강화됩니다.</Start>"
@@ -745,7 +745,7 @@ eb_hen_beohram,dlg,ReplyList/21/Text,0,"<StartAction>""지금은 다른 어떤 �
 eb_hen_beohram,dlg,ReplyList/26/Text,0,"그래, 떠날 시간이다."
 eb_hen_beohram,dlg,ReplyList/137/Text,0,"""아니, 지금은 여기까지야."""
 eb_hen_beohram,dlg,ReplyList/205/Text,0,"베오람, 잠시 멈춰 이야기를 나눠 보겠습니다. 계속하기 전에 많은 것을 논의하고 싶습니다."
-eb_hen_beohram,dlg,ReplyList/206/Text,0,아무 것도 없지 않아. 그냥 둬.
+eb_hen_beohram,dlg,ReplyList/206/Text,0,아니야. 신경 쓰지 마.
 eb_hen_beohram,dlg,ReplyList/207/Text,0,"베오람, 검이 엘프 왕에게 받은 선물이라고 했지만 그분의 이름은 말해주지 않았군요. 그렇게 대단한 인물이 아직도 우리 사이에 살아있단 말입니까?"
 eb_hen_beohram,dlg,ReplyList/208/Text,0,"그들의 기억이 당신에게 조금도 남아있지 않단 말인가요? 비오르람, 분명 뭔가 있을 겁니다. 스쳐 지나간 모습이라오, 한 마디 말이라오, 아니면 그들에 대한 아주 희미한 기억 조각이라도 말입니다!"
 eb_hen_beohram,dlg,ReplyList/209/Text,0,네 아버지? 그는 그들의 이름을 알고 있었겠죠.
@@ -819,7 +819,7 @@ eb_hen_dof,dlg,EntryList/0/Text,0,<StartAction> 당신은 다음 식사로 코�
 eb_hen_dof,dlg,EntryList/1/Text,0,"<StartAction>""개 를 해방 한 후, 당신은 그에게 약간의 먹이를 주며 그의 귀 뒤 에 애정 으로 긁기 시작 합니다. 그 개 는 자기 의 승인 을 나타내면서 더 많은 관심 을 받기 위해 몸 을 당신 에게 밀어 넣습니다"".</Start>"
 eb_hen_dof,dlg,EntryList/2/Text,0,"개는 당신을 좋아하게 되었고, 이제는 당신을 신뢰하는 것 같습니다."
 eb_hen_dof,dlg,EntryList/3/Text,0,개에게 가만히 있으라고 말한 후 얼굴에 보실 수 있습니다. 당신이 떠나는 것을 보고 슬프다.
-eb_hen_dof,dlg,EntryList/4/Text,0,도프가 가슴으로 뛰어들어 얼굴을 빠르게 씻어보려고 합니다. 당신을 따라오려는 열정과 의지를 나타내며 흥분한 상태입니다.
+eb_hen_dof,dlg,EntryList/4/Text,0,도프가 당신의 가슴으로 뛰어올라 얼굴을 핥으려 하며 당신을 따르고 싶어 하는 흥분과 의지를 보여줍니다.
 eb_hen_dof,dlg,EntryList/5/Text,0,짖어요!
 eb_hen_dof,dlg,EntryList/8/Text,0,짖어요!
 eb_hen_dof,dlg,EntryList/10/Text,0,도프는 실망한 듯 머리를 내려놓는다.
@@ -888,7 +888,7 @@ eb_hen_dorhum,dlg,EntryList/15/Text,0,"""나는 휴식을 취하고 싶다. 발�
 eb_hen_dorhum,dlg,EntryList/16/Text,0,"""보아라, 어떤 졸음입니다. 그것은 두개골 쪼개 시간입니다. 그들을 내버려 두십시오. 나는 그들의 피를 내 도끼에 원."
 eb_hen_dorhum,dlg,EntryList/17/Text,0,"""배고픈 사람 또 없나요? 아, 커다란 맥주잔에 뼈가 붙은 잘 익은 고기 한 점을 떠올리면 참..."""
 eb_hen_dorhum,dlg,EntryList/18/Text,0,"""거미가 더 있었으면 좋겠어. 그 괴물들을 죽이는 것만으로는 아직 성이 차지 않았거든."""
-eb_hen_dorhum,dlg,EntryList/19/Text,0,"""이제 떨어진 돌을 제거하기 위해서는 파우더 켈즈 중 하나를 사용해야 할 것 같아."""
+eb_hen_dorhum,dlg,EntryList/19/Text,0,"""떨어진 바위를 치우려면 화약 통이라도 써야 할 것 같네."""
 eb_hen_dorhum,dlg,EntryList/20/Text,0,"""네, 흑인 과부 거미들이 있어, 죽여보자""."
 eb_hen_dorhum,dlg,EntryList/21/Text,0,<StartAction>당신은 단단하고 억세 보이는 드워프 전사를 보게 된다.</Start> 그는 당신을 보고는 도움을 주겠다고 제안한다.
 eb_hen_dorhum,dlg,EntryList/22/Text,0,"저는 도르후마입니다. 그래서, 당신은 던지의 깊숙한 곳에 모험을 계획하고 있지 않습니까? ""<StartAction> 그의 목소리는 거칠고 숙련된 음색을 가지고 있습니다. 마치 당신을 키우고, 앞으로 다가올 일에 대해 정말로 준비가 되어 있는지 테스트하는 것처럼요.</Start>"
@@ -1004,7 +1004,7 @@ eb_hen_dorhum,dlg,ReplyList/230/Text,0,"왜 왕은 당신 아버지를 믿지 �
 eb_hen_dorhum,dlg,ReplyList/231/Text,0,계속...
 eb_hen_dorhum,dlg,ReplyList/232/Text,0,계속...
 eb_hen_dorhum,dlg,ReplyList/233/Text,0,"저는 왕실의 정치에 대해 잘 알지 못했지만, 그 자리에 있는 어떤 사람이 어떻게 불편함을 느낄 수 있는지 알 수 있습니다. 혈연 친척, 특히 당신의 아버지만큼 능력 있고 존경받는 사람은 왕좌에 대한 잠재적 경쟁자로 쉽게 볼 수 있습니다."
-eb_hen_dorhum,dlg,ReplyList/234/Text,0,"""저는 분명히 아버지와 그 형제가 화해할 수 있는 방법을 찾을 수 있을 것이라고 확신합니다. 가족의 연고는 양쪽이 자존심을 내려놓고 더 큰 이익을 위해 함께 노력한다면 회복될 수 있습니다."""
+eb_hen_dorhum,dlg,ReplyList/234/Text,0,"""당신의 아버지와 그 형제가 화해할 방법을 찾을 수 있을 거라 확신합니다. 두 사람 모두 자존심을 내려놓고 더 큰 선을 위해 함께 노력한다면 가족의 유대는 회복될 수 있습니다."""
 eb_hen_dorhum,dlg,ReplyList/235/Text,0,"당신 아버지가 아직 살아 있을 가능성이 있다고 믿나요? 강하고 결단력 있는 사람이시고, 만약 누군가가 이런 위험에 살아남을 수 있다면, 그 사람이겠죠. 하지만 시간이 지나면서 불확실성은 마음에 무거운 짐을 지고 있을 거예요. 정말로 어떻게 생각하시나요?"
 eb_hen_dorhum,dlg,ReplyList/236/Text,0,"""이 거미들을 지휘하는 드로우 여사제의 경우 어떨까요? 그녀가 아직 밖에 있다면, 그녀의 영향력은 이 모든 것에 대한 그림자처럼 작용합니다. 거미 하나만 죽이는 것만으로는 충분하지 않습니다 - 그녀가 남아 있으면 위협은 지속될 것입니다. 그녀를 막는 것이 다시 한 번 이러한 홀들이 진정으로 안전하다는 것을 보장할 유일한 방법일 수도 있습니다."""
 eb_hen_dorhum,dlg,ReplyList/237/Text,0,계속...
@@ -1028,7 +1028,7 @@ eb_hen_dorhum,dlg,ReplyList/256/Text,0,"네, 몇 주 전에 익사 스파이가 
 eb_hen_dorhum,dlg,ReplyList/257/Text,0,"동감이야. 나도 그 자를 내 맘대로 다루고 싶었지만, 감옥 문을 보호하는 마법 주문 때문에 갇혀 있었잖아."
 eb_hen_dorhum,dlg,ReplyList/258/Text,0,그래서 당신이 말하는 것은 당신이 그를 고문해서 말하도록 만들겠다는 것이야?
 eb_hen_dorhum,dlg,ReplyList/259/Text,0,그게 좀 과한 것 같지 않나?
-eb_hen_dorhum,dlg,ReplyList/260/Text,0,법을 자신의 손으로 집행할 수는 없습니다. 반드시 어떤 형태의 정의가 필요합니다.
+eb_hen_dorhum,dlg,ReplyList/260/Text,0,마음대로 법을 집행할 수는 없습니다. 분명 모종의 정의가 있어야 합니다.
 eb_hen_dorhum,dlg,ReplyList/261/Text,0,아마 그럴 거야. 나도 복수를 원할 거야.
 eb_hen_dorhum,dlg,ReplyList/262/Text,0,<StartAction> 당신은 잠시 도르후의 말을 생각해보고 앞으로 나아갈 때가 됐다고 결정합니다.</Start>
 eb_hen_dorhum,dlg,ReplyList/263/Text,0,"그건 네 문제 아냐, 털이 있는 새끼! 네 일을 맡아 내 일을 그만둬!"
@@ -1178,7 +1178,7 @@ eb_hen_ileria,dlg,ReplyList/20/Text,0,"<StartAction>""지금은 다른 어떤 �
 eb_hen_ileria,dlg,ReplyList/25/Text,0,"네, 가셔야 합니다."
 eb_hen_ileria,dlg,ReplyList/136/Text,0,"""아니, 지금은 여기까지야."""
 eb_hen_ileria,dlg,ReplyList/291/Text,0,"그래, 가자"
-eb_hen_ileria,dlg,ReplyList/335/Text,0,"""아니요, 지금은 그쳤어요."""
+eb_hen_ileria,dlg,ReplyList/335/Text,0,"""아니요, 지금은 됐어요."""
 eb_hen_ileria,dlg,ReplyList/375/Text,0,"잠시 멈추고 이야기해 봅시다. 때때로, 대화는 여행 자체만큼이나 중요할 수 있습니다."
 eb_hen_ileria,dlg,ReplyList/391/Text,0,성전을 떠난 것을 후회하십니까?
 eb_hen_ileria,dlg,ReplyList/392/Text,0,잘 들었어요
@@ -1249,12 +1249,12 @@ eb_hen_kirath,dlg,EntryList/32/Text,0,"그래서 거짓말하지 마시오... �
 eb_hen_kirath,dlg,EntryList/33/Text,0,"젠타르를 다 다 다듬은 후에 그를 방문해서, 저랑 놀아다니 얼마나 후회할지 보자!"
 eb_hen_kirath,dlg,EntryList/35/Text,0,"""말했잖아, 나는 잔아타르라는 자와 처리해야 할 급한 일이 있다고. 네놈의 끝없는 질문은 나를 방해할 뿐이야."
 eb_hen_kirath,dlg,EntryList/37/Text,0,"<StartAction> 키라트는 당신을 미소합니다</Start> 당신은 매우 관찰하고 있습니다<FirstName>. 내가 다루는 대부분의 사람들은 당신만큼 똑똑하지 않습니다. 나는 당신을 칭찬합니다. 그러나, 그는 누구 또는 무엇일 수 있는지에 대해 더 추가 할 것이 없습니다. 내가 아는 것은 그가 악의 계획을 실행하기 전에 그를 막아야 한다는 것입니다."
-eb_hen_kirath,dlg,EntryList/38/Text,0,다시요? 좋습니다... 좀 더 기다릴 수 있을 것 같습니다.
+eb_hen_kirath,dlg,EntryList/38/Text,0,또인가? 아주 좋아... 조금 더 어울려주지.
 eb_hen_kirath,dlg,EntryList/39/Text,0,"아니, 난 아직 뇌의 연구를 마치지 않았어."
 eb_hen_kirath,dlg,EntryList/40/Text,0,왜 생각하지? 내 허락 없이 내 도시를 위협하고 있어!
 eb_hen_kirath,dlg,EntryList/41/Text,0,"""이 멍청한 사람들은 단지 도시를 관리한다고 믿어요. 나는 여기의 진정한 권력자이고, 나는 누구로부터도, 특히 칸타르 같은 신생들에게도 굴욕을 용납하지 않을 것입니다!"
 eb_hen_kirath,dlg,EntryList/42/Text,0,! ! ! ! ! ! ! ! ! ! ! ! !
-eb_hen_kirath,dlg,EntryList/43/Text,0,"""에가드! 내 암살자가 살아있다! 그것은 일리스티드... 특히 모든 방어와 대비 상황을 피한 매우 현명한 것이었다. 나는 그 동물에서 내 오래된 몸의 뇌 조직을 되찾아야 한다! 누가 그것이 어떤 비밀을 밝혀낼 수 있을지 모른다. 또는 그 도둑질로 인해 나는 무엇을 잃었는지 모른다! 저 악한 생물은 이 레벨에 아직 존재한다-나는 반드시 찾아내야 한다."""
+eb_hen_kirath,dlg,EntryList/43/Text,0,"""이런 젠장! 내 암살자가 살아있어! 일일시드였군... 내 모든 보호 마법과 비상 주문을 피해갈 정도로 엄청나게 교활한 녀석이었어. 그 짐승한테서 예전 몸의 뇌 조직을 되찾아야 해! 그 녀석이 어떤 비밀을 알아냈을지, 혹은 내가 도둑맞은 것 때문에 무엇을 잃었을지 누가 아나! 그 더러운 생물은 아직 이 층 어딘가에 있다. 반드시 찾아내야 해."""
 eb_hen_kirath,dlg,EntryList/44/Text,0,<StartAction>흠흠!</Start> 여기서 무엇이 걸려 있는지 제대로 이해하지 못하신 것 같군요. 다중우주의 비밀이 걸려 있습니다! 일리시드의 뇌가 현실의 근간을 뒤흔들기 전에 회수해야 합니다!
 eb_hen_kirath,dlg,EntryList/45/Text,0,"""좋아, 네가 가라앉는 길로 가거라. 나 없이 잔타르 앞에서 죽을 거다. 나는 여기에 머물러 암살자를 찾을 것이다!"""
 eb_hen_kirath,dlg,EntryList/46/Text,0,"좋다. 나와 함께 오고, 나는 도적을 찾아볼게!"
@@ -1800,7 +1800,7 @@ eb_koran,dlg,EntryList/13/Text,0,그건 긴 이야기일 거예요. 그래서 �
 eb_koran,dlg,EntryList/15/Text,0,또한 그때 드로우들이 대홀들을 공격하기로 결정했습니다. 우리는 탐험을 중단하고 드워프들을 도우러 와서 그들의 공격을 물리치는 데 힘을 보태야 했습니다.
 eb_koran,dlg,EntryList/16/Text,0,"그렇긴 하죠, <lad/lass>. 하지만 안타깝게도 저는 제 자리를 비울 수 없고, 드로우가 다시 쳐들어올까 봐 두려워하는 드워프들도 왕을 무방비 상태로 내버려 둘 생각은 없으니까요."
 eb_koran,dlg,EntryList/18/Text,0,"저는 신부로부터 특별한 마법의 보석들을 받았는데, 저는 그 보석들을 떠나고 싶습니다."
-eb_koran,dlg,EntryList/19/Text,0,"친구여, 듣고서 기쁘다. 이제 떠나기 전에 몇 가지 알아두어야 할 것이 있다. 먼저, 공기가 독해졌네. 금을 파다 보면 와르드들이 우연히 가스 주머니를 열어버리고, 이제는 독스러운 공기가 퍼져 있어. 가능하다면 아래에 오래 머물지 않는 것이 좋네."
+eb_koran,dlg,EntryList/19/Text,0,"친구여, 그 말을 들으니 기쁘군. 자, 떠나기 전에 알아두어야 할 몇 가지가 있네. 첫째로, 공기가 오염되었어. 드워프들이 금을 캐다가 우연히 가스 주머니들을 터뜨리는 바람에 공기가 독성으로 변해버렸지. 그러니 가급적 아래에 오래 머물지 않도록 하게."
 eb_koran,dlg,EntryList/20/Text,0,나쁜 소식이 있습니다. 사악한 언데드 박쥐들이 계속 이 지역에 들끓고 있습니다. 어디서 오는지 알아낼 틈이 없었으니 아래에 가면 경계를 늦추지 마세요.
 eb_koran,dlg,EntryList/21/Text,0,표면으로 돌아갈 준비가 되면 몇 번 끈을 당기면 제가 올려드리겠습니다.
 eb_koran,dlg,ReplyList/0/Text,0,안녕히 계시오.
@@ -1858,7 +1858,7 @@ eb_lordpiergeiro,dlg,EntryList/27/Text,0,"그는 유능한 삼림관이자 화�
 eb_lordpiergeiro,dlg,EntryList/28/Text,0,"그의 가장 어리고 최근에 들어온 제자는 게미단이라는 아이였는데, 그는 이 아이를 두고 '내가 수년 동안 본 중에서 가장 놀라운 직관적 마법 이해력을 지닌 아이'라고 묘사했다. 게다가 그는 야만 시대 이후 북부의 인간들이 행해온 마법의 역사와 전통, 지식에 있어 최고의 권위자로 여겨지고 있다."
 eb_lordpiergeiro,dlg,EntryList/29/Text,0,켈벤이 미스트라의 선택받은 자 중 하나라는 믿음이 널리 받아들여지고 있습니다. 이 지위 덕분에 그는 다른 선택받은 자들과 직접 거의 끊임없이 소통할 수 있습니다.
 eb_lordpiergeiro,dlg,EntryList/30/Text,0,"그는 매우 존경받는 동시에 두려워지는 개인으로, 그의 말은 가장 무험하거나 어리석은 사람들을 제외하고는 모두가 매우 신중하게 따르고 있다."
-eb_lordpiergeiro,dlg,EntryList/31/Text,0,"미스트라는 마법과 가능성의 여신이며, 이는 페룬에서 가장 강력한 신 중 하나로, 아마도 모든 영역에서 가장 강력한 신이기도 합니다."
+eb_lordpiergeiro,dlg,EntryList/31/Text,0,"미스트라는 마법의 여신이자 곧 가능성의 여신이다. 그녀는 페이룬 전체를 통틀어, 어쩌면 렐름스페이스 전체에서 가장 강력한 신일 것이다."
 eb_lordpiergeiro,dlg,EntryList/32/Text,0,많은 사람들이 그녀를 페룬의 더 큰 세력 중 가장 위대한 것으로 보는 편이다. 그녀는 최초의 마법사에게 기술을 가르쳐 준 것으로 알려져 있다. 또한 많은 종족들이 마법을 사용할 수 있도록 도와준 것으로 소문이 난다.
 eb_lordpiergeiro,dlg,EntryList/33/Text,0,그녀는 새로 만들어지는 모든 주문과 마법 아이템을 심사해 각 영역에서 사용을 허가할지 결정하기도 합니다.
 eb_lordpiergeiro,dlg,EntryList/34/Text,0,틀림없습니다. 이틀 전 경비대장 올텍이 드로우 첩자를 붙잡았습니다. 심문 중 드로우는 섬뜩한 계획을 털어놓았습니다.
@@ -1891,7 +1891,7 @@ eb_lordpiergeiro,dlg,EntryList/69/Text,0,다른 질문이 있나요?
 eb_lordpiergeiro,dlg,EntryList/70/Text,0,나갈 때 오른쪽에 있는 첫 번째 문으로 가세요. 네빈이 틀림없이 도와줄 겁니다.
 eb_lordpiergeiro,dlg,EntryList/71/Text,0,네버윈터에서 보여준 영웅은 전 세계적으로 잘 알려져 있습니다. 네버윈터에서 보여준 용기는 초월할 수 없습니다. 켈벤은 당신이 이 악을 이길 수있는 유일한 사람이라고 믿습니다.
 eb_lordpiergeiro,dlg,EntryList/72/Text,0,"켈벤은 워터디프의 통치자 중 한 명으로 활동하고 있으며, 워터디프, 실버마운, 선다바르, 네버윈터 등 북부 지역의 도시들을 포함한 주님의 동맹의 통일을 유지하는데 중추적인 역할을 한다."
-eb_lordpiergeiro,dlg,EntryList/73/Text,0,"""켈벤은 사건과 트렌드를 형성하기 위해 끊임없이 움직이며, 항상 미래를 내다보는 통찰력 있는 계획을 세운다. 그는 지혜롭고 마법 능력이 뛰어난 대장으로, 워터딥의 주왕들에 조언자로 활동하며, 그의 상징적인 대리기로 알려져 있다."""
+eb_lordpiergeiro,dlg,EntryList/73/Text,0,"""켈벤은 끊임없이 상황과 흐름을 조율하며, 항상 먼 미래를 내다보고 계획을 세운다. 그는 지혜와 마법적 능력이 뛰어난 강력한 대마법사이자 워터딥 영주들의 조문가로, 그가 휘두르는 상징적인 지팡이로 잘 알려져 있다."""
 eb_lordpiergeiro,dlg,EntryList/74/Text,0,"그는 유능한 삼림관이자 화가일 뿐만 아니라 말코르 하르펠, 라에랄, 나인, 사벤그리프와 같은 수많은 저명한 마법사들의 멘토이기도 하다."
 eb_lordpiergeiro,dlg,EntryList/75/Text,0,"그의 가장 어리고 최근에 들어온 제자는 게미단이라는 아이였는데, 그는 이 아이를 두고 '내가 수년 동안 본 중에서 가장 놀라운 직관적 마법 이해력을 지닌 아이'라고 묘사했다. 게다가 그는 야만 시대 이후 북부의 인간들이 행해온 마법의 역사와 전통, 지식에 있어 최고의 권위자로 여겨지고 있다."
 eb_lordpiergeiro,dlg,EntryList/76/Text,0,켈벤이 미스트라의 선택받은 자 중 하나라는 믿음이 널리 받아들여지고 있습니다. 이 지위 덕분에 그는 다른 선택받은 자들과 직접 거의 끊임없이 소통할 수 있습니다.
@@ -1906,7 +1906,7 @@ eb_lordpiergeiro,dlg,EntryList/84/Text,0,"이 악성 범죄 주인은 스파이 
 eb_lordpiergeiro,dlg,EntryList/85/Text,0,나갈 때 오른쪽에 있는 첫 번째 문으로 가세요. 네빈이 틀림없이 도와줄 겁니다.
 eb_lordpiergeiro,dlg,EntryList/86/Text,0,"네버윈터에서 보여준 영웅심은 전국에 널리 알려져 있으며, 당신의 독특한 용기는 당신의 성격을 증명합니다. 케블란은 당신 혼자만이 이 떠오르는 악을 직면하고 물리칠 수 있는 힘과 결단력을 갖추고 있음을 확신하고 있으며, 저는 그의 믿음을 완전히 공유합니다."
 eb_lordpiergeiro,dlg,EntryList/87/Text,0,"켈벤은 워터디프의 통치자 중 한 명으로 활동하고 있으며, 워터디프, 실버마운, 선다바르, 네버윈터 등 북부 지역의 도시들을 포함한 주님의 동맹의 통일을 유지하는데 중추적인 역할을 한다."
-eb_lordpiergeiro,dlg,EntryList/88/Text,0,"""켈벤은 사건과 트렌드를 형성하기 위해 끊임없이 움직이며, 항상 미래를 내다보는 통찰력 있는 계획을 세운다. 그는 지혜롭고 마법 능력이 뛰어난 대장으로, 워터딥의 주왕들에 조언자로 활동하며, 그의 상징적인 대리기로 알려져 있다."""
+eb_lordpiergeiro,dlg,EntryList/88/Text,0,"""켈벤은 끊임없이 상황과 흐름을 조율하며, 항상 먼 미래를 내다보고 계획을 세운다. 그는 지혜와 마법적 능력이 뛰어난 강력한 대마법사이자 워터딥 영주들의 조문가로, 그가 휘두르는 상징적인 지팡이로 잘 알려져 있다."""
 eb_lordpiergeiro,dlg,EntryList/89/Text,0,"그는 유능한 삼림관이자 화가일 뿐만 아니라 말코르 하르펠, 라에랄, 나인, 사벤그리프와 같은 수많은 저명한 마법사들의 멘토이기도 하다."
 eb_lordpiergeiro,dlg,EntryList/90/Text,0,"그의 가장 어리고 최근에 들어온 제자는 게미단이라는 아이였는데, 그는 이 아이를 두고 '내가 수년 동안 본 중에서 가장 놀라운 직관적 마법 이해력을 지닌 아이'라고 묘사했다. 게다가 그는 야만 시대 이후 북부의 인간들이 행해온 마법의 역사와 전통, 지식에 있어 최고의 권위자로 여겨지고 있다."
 eb_lordpiergeiro,dlg,EntryList/91/Text,0,켈벤이 미스트라의 선택받은 자 중 하나라는 믿음이 널리 받아들여지고 있습니다. 이 지위 덕분에 그는 다른 선택받은 자들과 직접 거의 끊임없이 소통할 수 있습니다.
@@ -2190,7 +2190,7 @@ eb_lordpiergeiro,dlg,ReplyList/210/Text,0,"만약 기회를 주시다면, 도와
 eb_lordpiergeiro,dlg,ReplyList/211/Text,0,"난 당신의 제안을 받아들이고, 내가 할 수 있는 모든 것을 다 하여 당신을 도울 것이다. 이제, 무엇을 해야 하는지 말해줄래?"
 eb_lordpiergeiro,dlg,ReplyList/212/Text,0,워터디프의 문제들은 내 문제가 아니야 다른 곳에서 도움을 찾아
 eb_lordpiergeiro,dlg,ReplyList/213/Text,0,확실히 다른 사람을 찾을 수 있을 거라 생각해.
-eb_lordpiergeiro,dlg,ReplyList/214/Text,0,"주여, 당신께서 옳으시니, 저는 판단에 실패하여 사함을 구하오니."
+eb_lordpiergeiro,dlg,ReplyList/214/Text,0,생각해보니 주님의 말씀이 옳사옵니다. 제 판단의 잘못을 겸허히 용서 구하옵니다.
 eb_lordpiergeiro,dlg,ReplyList/216/Text,0,확실합니다. 고맙지만 이만 작별해야겠습니다.
 eb_lordpiergeiro,dlg,ReplyList/218/Text,0,워터딥을 위해 목숨을 걸어야 한다면 무엇을 받게 될까?
 eb_lordpiergeiro,dlg,ReplyList/219/Text,0,이것이 궁금하다. 당신이 나에게 어떤 임무를 요구하나?
@@ -2371,7 +2371,7 @@ eb_riddle_rat,dlg,ReplyList/11/Text,0,"아니, 당신은 이미 많은 도움을
 eb_riddle_rat,dlg,ReplyList/12/Text,0,"<StartAction> 당신은 작은 쥐의 귀 뒤에 손가락을 긁고, 이것이 그가 긁기를 좋아하는 곳이라는 것을 알고, 그리고 그 작은 쥐에게 그의 친절에 감사한다.</Start>"
 eb_riddle_rat,dlg,ReplyList/13/Text,0,와! 말하는 쥐라고? 내 말을 어떻게 알아듣는 거지?
 eb_riddle_rat,dlg,ReplyList/14/Text,0,이 미친놈이 당신에게 이런 짓을 하게 만들 만큼 대체 무슨 일을 한 겁니까?
-eb_riddle_rat,dlg,ReplyList/15/Text,0,"무슨 일이든, 당신은 그 임무를 수행할 자격이 있었어."
+eb_riddle_rat,dlg,ReplyList/15/Text,0,"무슨 임무였든, 네가 자초한 일임에 틀림없어."
 eb_riddle_rat,dlg,ReplyList/16/Text,0,내가 당신을 너무 빨리 판단했군요. 섣부른 짐작을 하기 전에 모든 사실을 들어야 했어요. 제 무례를 용서해 주시겠습니까?
 eb_riddle_rat,dlg,ReplyList/17/Text,0,나는 도와줄 수 있는 방법이 있었으면 좋겠어.
 eb_riddle_rat,dlg,ReplyList/18/Text,0,만약 그가 당신에게 이렇게 끔찍한 저주를 내리도록 해준다면 그 임무는 조용한 일이어야 합니다.
@@ -2467,7 +2467,7 @@ eb_sara,dlg,ReplyList/2/Text,0,"내가 발견한 것을 보여드리기 전에, 
 eb_sara,dlg,ReplyList/3/Text,0,"그래, 그래, 하지만 칭찬이 날 설득하지는 못해. 원래 거래의 두배를 원해. 네, 1000 골드 동화로 당신 누이의 유골을 주겠다. 받아들이거나 놓치거나."
 eb_sara,dlg,ReplyList/5/Text,0,여기... 그녀로부터 찾은 것은 이것입니다.
 eb_sara,dlg,ReplyList/6/Text,0,당신과의 비즈니스를 하며 큰 즐거움을 느꼈습니다.
-eb_sara,dlg,ReplyList/7/Text,0,"난 네 여동생의 유골들을 찾았어. 그들은 하수도 남부 지역에 있었어. 그녀의 유골이 부활을 시도하기에는 충분하지 않았다는 것을 말씀드리며 죄송해. 정말 죄송해, 사라. 나는 그녀를 구하기 위해 충분한 시간을 벌 수 있었다면 좋았을 텐데. 사라, 가장 깊은 애도를 바치게 되어 죄송해."
+eb_sara,dlg,ReplyList/7/Text,0,"난... 네 여동생의 유골을 찾았어. 하수도 남부 지역에 있더군. 부활을 시도하기에는 유골이 너무 손상되어 있었다는 유감스러운 소식을 전해야겠어. 정말 유감이야, 사라--시간 맞춰 가서 그녀를 구할 수 있었더라면 좋았을 텐데. 깊은 조의를 표한다."
 eb_sara,dlg,ReplyList/8/Text,0,"""사라, 이 혐오스러운 행위에 대해 자신을 비난할 수는 없다. 그것은 네 잘못이 아니야. 네 여동생은 훨씬 더 큰 사건의 희생자였고, 우리 모두가 예측할 수 없었던 악의적인 음모의 희생자였어. 하지만 나는 너에게 이렇게 약속해: 그녀의 죽음은 헛되지 않을 거야. 나는 모든 것을 다 하겠어. 정의가 이루어지고 그녀의 기억이 존중되도록."""
 eb_sara,dlg,ReplyList/9/Text,0,"그게 바로 내가 말하는 거야, 골드!"
 eb_sara,dlg,ReplyList/11/Text,0,"""보상은 필요 없어, 사라. 너와 네 여동생을 더 많이 도와주지 못한 게 아쉬울 뿐이지."""
@@ -2544,7 +2544,7 @@ eb_sewer_guard,dlg,EntryList/13/Text,0,"아무도 확실하지 않습니다. 우
 eb_sewer_guard,dlg,EntryList/14/Text,0,"네, <Lad/Lass>가 있었으나, 그 중 어느 누구도 보고 듣지 못했습니다. 워터디프의 신부들이 도움을 요청한다면, 당신의 명성은 높은 성격이어야 합니다."
 eb_sewer_guard,dlg,EntryList/16/Text,0,"단지 소문일 뿐이란다, <lad/lass>. 어떤 이들은 드로우가 워터딥 공격을 계획하고 있다고 생각하고, 또 어떤 이들은 마법사들의 부정한 마법이 잘못된 탓이라고 생각하지. 하지만 이들은 전부 소문일 뿐이며 아직 아무런 실체가 없다네."
 eb_sewer_guard,dlg,EntryList/18/Text,0,"그래, 난 드로우를 쫓아다니는 경비원 중 하나였어"
-eb_sewer_guard,dlg,EntryList/19/Text,0,한 마디도 하지 않겠네. 그 드로우들은 매우 미묘하고 날카롭다; 작은 놈은 거의 우리에게 도망치려 했다! 실제로는 다리 옆 풀밭에서 잡은 거야.
+eb_sewer_guard,dlg,EntryList/19/Text,0,"아무 말도 안 하더군, 유감스럽게도. 그 드로우들은 아주 은밀하고 눈치가 빨라서, 그 자그마한  녀석은 하마터면 놓칠 뻔했지! 사실 다리 건너편 풀숲 저쪽에 있는 걸 우리가 잡았지."
 eb_sewer_guard,dlg,EntryList/20/Text,0,"그는 몇 가지 물건들을 가지고 있었습니다. 실제로 살펴볼 가치가 없는 물건들, 그리고 편지도 있었지만, 경비원 올테크 대장이 가져갔어요."
 eb_sewer_guard,dlg,EntryList/21/Text,0,"내가 아는 한, 그는 전면적으로 경비를 받고 있다. 올테크와 검은지팡이 켈벤이 그를 여전히 심문하고 있다고 들었다. 불행한 놈에게는 결코 쾌적한 일이 아닐 것이다!"
 eb_sewer_guard,dlg,EntryList/23/Text,0,"하수관 은 많은 노동자 들 이 매일 하수관 을 깨끗 하게 하거나 하수관 을 깨끗 하게 하거나 직접 하수관 을 유지 하게 하는 곳 이다. 즉, 최근 까지. 이제 노동자 들 은 그 곳 으로 내려갈 수 없을 것 을 두려워 하고 있습니다."
@@ -2572,7 +2572,7 @@ eb_sewer_guard,dlg,ReplyList/3/Text,0,워터딥의 모든 문제들이 무엇 �
 eb_sewer_guard,dlg,ReplyList/4/Text,0,소문이 적처럼 치명적일 수 있습니다. 특히 사람들이 그 소리에 믿기 시작한다면요.
 eb_sewer_guard,dlg,ReplyList/5/Text,0,고맙고 안녕하세요
 eb_sewer_guard,dlg,ReplyList/6/Text,0,2일 전에 잡힌 드로우 스파이에 대해 말해 줄 수 있는 게 뭐야?
-eb_sewer_guard,dlg,ReplyList/7/Text,0,드로우가 잡았을 때 무엇을 말했나?
+eb_sewer_guard,dlg,ReplyList/7/Text,0,드로우를 붙잡았을 때 무슨 말이라도 하던가?
 eb_sewer_guard,dlg,ReplyList/8/Text,0,"그가 여기서 무엇을 하고 있었는지, 또 워터딥의 군주들을 염탐하려 한 이유를 알려줄 만한 물건을 지니고 있었나요?"
 eb_sewer_guard,dlg,ReplyList/9/Text,0,이 편지에는 이 악의 범죄 주인이 누군지 알아내는데 도움이 될 만한 내용이 있었나요?
 eb_sewer_guard,dlg,ReplyList/10/Text,0,흥미롭군요. 피해야 할 괴물이 어떤 종류인지 혹시 아십니까?
@@ -2589,7 +2589,7 @@ eb_sewer_guard,dlg,ReplyList/20/Text,0,워터딥의 모든 문제들이 무엇 �
 eb_sewer_guard,dlg,ReplyList/21/Text,0,소문이 적처럼 치명적일 수 있습니다. 특히 사람들이 그 소리에 믿기 시작한다면요.
 eb_sewer_guard,dlg,ReplyList/22/Text,0,고맙고 안녕하세요
 eb_sewer_guard,dlg,ReplyList/23/Text,0,두 밤 전에 잡힌 드로우 스파이에 대해 말해줄래?
-eb_sewer_guard,dlg,ReplyList/24/Text,0,드로우가 잡았을 때 무엇을 말했나?
+eb_sewer_guard,dlg,ReplyList/24/Text,0,드로우를 붙잡았을 때 무슨 말이라도 하던가?
 eb_sewer_guard,dlg,ReplyList/25/Text,0,"그가 여기서 무엇을 하고 있었는지, 또 워터딥의 군주들을 염탐하려 한 이유를 알려줄 만한 물건을 지니고 있었나요?"
 eb_sewer_guard,dlg,ReplyList/26/Text,0,드로우 스파이는 어디 보관돼 있어?
 eb_sewer_guard,dlg,ReplyList/27/Text,0,"네, 도움 주셔서 감사합니다. 그리고 주신 정보도 감사합니다. 잘가세요."
@@ -2620,7 +2620,7 @@ eb_sewer_guard,dlg,ReplyList/52/Text,0,워터딥의 모든 문제들이 무엇 �
 eb_sewer_guard,dlg,ReplyList/53/Text,0,소문이 적처럼 치명적일 수 있습니다. 특히 사람들이 그 소리에 믿기 시작한다면요.
 eb_sewer_guard,dlg,ReplyList/54/Text,0,고맙고 안녕하세요
 eb_sewer_guard,dlg,ReplyList/55/Text,0,2일 전에 잡힌 드로우 스파이에 대해 말해 줄 수 있는 게 뭐야?
-eb_sewer_guard,dlg,ReplyList/56/Text,0,드로우가 잡았을 때 무엇을 말했나?
+eb_sewer_guard,dlg,ReplyList/56/Text,0,드로우를 붙잡았을 때 무슨 말이라도 하던가?
 eb_sewer_guard,dlg,ReplyList/57/Text,0,"그가 여기서 무엇을 하고 있었는지, 또 워터딥의 군주들을 염탐하려 한 이유를 알려줄 만한 물건을 지니고 있었나요?"
 eb_sewer_guard,dlg,ReplyList/58/Text,0,이 편지에는 이 악의 범죄 주인이 누군지 알아내는데 도움이 될 만한 내용이 있었나요?
 eb_sewer_guard,dlg,ReplyList/59/Text,0,흥미롭군요. 피해야 할 괴물이 어떤 종류인지 혹시 아십니까?
@@ -2689,7 +2689,7 @@ eb_taghor_mines,dlg,EntryList/4/Text,0,"""<StartAction>실 안으로 들어가�
 eb_taghor_mines,dlg,EntryList/6/Text,0,"드로!! <StartAction>타고르는 혐오로 뱉는다. ""그래, 드로가 우리에게 전염병이 되었다. 전투에서, 나는 그들의 칼에 나의 종이 될 것이라고 생각했던 것을 직면했다. 우리 왕은 심각하게 부상당했고, 젊은 왕자는 잡혔다. 나는 추격했다, 그러나 그들은 근처의 고대 돌 포털을 통해 탈출했다. 열쇠 없이는, 나는 따라갈 수 없었다. 이제 나는 여기에 갇혀있다, 내 친척과 분리되어, 내 백성으로 돌아가기 전에 나의 힘을 되찾고 - 또는 사냥을 재개. 다행히 나는 이 오래된 캠프에 넘어섰고, 내 백성으로 돌아가기 전에 여기에 잠시 휴식을 결정했다."
 eb_taghor_mines,dlg,EntryList/7/Text,0,"드로 스파이, 당신은 말한다? 9 지옥에 의해, 이것이 사실이라면, 나는 즉시 내 백성으로 돌아가야 한다 - 그들은 이 악과 그의 계획에 대해 듣고 있어야합니다. 왕이 병든 동안 우리의 친척의 대변인 아르문을 찾아. 당신은 아래 레벨에서 내 사람들을 찾을 것입니다. 아르문 당신을 도울 것입니다; 그에게 빨리 가."
 eb_taghor_mines,dlg,EntryList/8/Text,0,"예! <lad/lass> 그 광물들은 암흑적이고 배신적인데, 우리가 왜성들조차도 억제할 수 없는 위험들로 가득 차 있습니다. 우리는 몇 년 전에 그들을 버렸으며, 그 이후로 수많은 거미들이 그들을 자궁으로 만들었습니다. 만약 당신이 모험을 계획한다면, 당신의 지능을 유지하십시오. 한 가지 잘못된 발걸음이 많은 문제를 초래할 수 있습니다."
-eb_taghor_mines,dlg,EntryList/11/Text,0,"거미를 조심하세요 -- 그 물은 매우 독성이 강합니다. 항독 포션을 준비해두세요. 골렘들에 대해서는, 그들은 강력한 놈들이라지만 지성이 느리고 움직임이 느리죠. 당신은 그들을 잘 다릴 수 있을 거예요, 하지만 조심하세요. 밖에서 자신을 죽일 리 없으니 조심스럽게 다루세요."
+eb_taghor_mines,dlg,EntryList/11/Text,0,"거미를 조심하게. 물리면 독이 아주 강하거든. 독에 대비해 해독제를 꼭 챙기게나. 골렘의 경우는, 힘만 센 멍청하고 느려터진 녀석들이라네. 잘 상대할 수 있겠지만 조심하게나. 밖에서 허무하게 목숨을 잃지 말라고."
 eb_taghor_mines,dlg,EntryList/12/Text,0,"떠나기 전에 거래 좀 해 보지 않겠소? 내놓을 건 많지 않지만, 당신에게 쓸모 있는 물건이 있을지도 모르오."
 eb_taghor_mines,dlg,ReplyList/0/Text,0,"타고르! 여왕 거미를 처치했는데, 알주머니를 살펴보니 불임이었습니다. 이 광산을 뒤덮은 알을 전부 낳은 건 이 여왕일 리가 없습니다."
 eb_taghor_mines,dlg,ReplyList/1/Text,0,더 많은...
@@ -2699,7 +2699,7 @@ eb_taghor_mines,dlg,ReplyList/4/Text,0,제가 떠나기 전에 잠시 물건들�
 eb_taghor_mines,dlg,ReplyList/5/Text,0,안녕히 계시오.
 eb_taghor_mines,dlg,ReplyList/6/Text,0,"태고르, 더 필요한 물품이 있어. 당신이 가지고 있는 것을 보여줄 수 있겠나?"
 eb_taghor_mines,dlg,ReplyList/7/Text,0,"반갑다, 타고르! 나는 <FirstName>이다."
-eb_taghor_mines,dlg,ReplyList/8/Text,0,나는 워터딥의 주인들의 대장인 검은지팡이 켈벤에 의해 매우 시급한 임무로 보내졌습니다. 말할 수 없는 악의 존재가 어터딥의 도시에 대한 분노를 불러일으키기 위해 드로우와 불성스러운 동맹을 맺는 계획을 꾸미고 있습니다. 도시가 어둠에 잠기기 전에 그 계획을 파헤쳐야 합니다.
+eb_taghor_mines,dlg,ReplyList/8/Text,0,나는 워터딥 군주의 대마법사인 검은지팡이 켈벤의 엄명으로 매우 시급한 임무를 띠고 파견되었습니다. 말로 다할 수 없는 사악한 존재가 드로우와 불경한 동맹을 맺고 워터딥 시에 분노를 퍼붓기 위한 음모를 꾸미고 있습니다. 어둠이 도시를 집어삼키기 전에 그 흉계를 밝혀내야 합니다.
 eb_taghor_mines,dlg,ReplyList/9/Text,0,"이건 정말 걱정스러운 소식이야. 만약 드로우가 당신이 주장하는 것처럼 왜성들을 공격하고 있다면, 그것은 우리가 포로된 드로우 스파이에서 얻은 이야기를 확인합니다. 이 악의적인 존재가 누구든, 분명히 그는 체계적으로 그의 길에 있는 모든 사람을 제거하고 있습니다."
 eb_taghor_mines,dlg,ReplyList/10/Text,0,"잠깐, 타고르... 이 오래된 광산에 좀 더 깊이 들어가기 전에, 어떤 정보를 알려줄 수 있겠나?"
 eb_taghor_mines,dlg,ReplyList/11/Text,0,더 많은...
@@ -2749,7 +2749,7 @@ eb_tyrra,dlg,ReplyList/2/Text,0,"티라, 여행 중 이상한 오벨리스크를
 eb_tyrra,dlg,ReplyList/3/Text,0,"""조언에 감사드립니다. 다음에 하나 만나면 더 자세히 조사할게요."""
 eb_tyrra,dlg,ReplyList/4/Text,0,"안녕하세요, 티라, 저는 <FirstName> 정말 도움이 필요한 여성에게 도움을 주는 영광이었습니다. 제가 물어볼 수 있다면, 왜 이 저주받은 곳으로 들어갔을까요? 그리고 어떻게 수많은 위험을 견뎌내면서도 그 기옥에 깊숙이 들어가게 되었을까요?"
 eb_tyrra,dlg,ReplyList/5/Text,0,"""나는 당신의 손실에 대해 진심으로 죄송합니다. 당신의 친구들은 숭고한 사유를 위해 용감하게 싸웠고, 그들의 희생은 존중되어야 합니다. 그들의 기억을 추모하는 가장 좋은 방법은 그들이 시작한 싸움을 이어가는 것입니다. 당신이 기꺼이하고 능력이 있다면, 제나타르를 파괴하기 위한 나의 탐구에 함께하기를 영광스럽게 생각합니다. 함께, 우리는 그들의 유산을 이어가 이 임무를 완수할 수 있습니다."""
-eb_tyrra,dlg,ReplyList/6/Text,0,"미안해, 물어봤는데"
+eb_tyrra,dlg,ReplyList/6/Text,0,물어본 내가 미행이지...
 eb_tyrra,dlg,ReplyList/7/Text,0,"""나는 완전히 집에 돌아가려는 당신의 욕구를 이해합니다 — 나는 그것도 느낍니다. 하지만 우리는 Xanathar의 악의 계획이 성공하지 않도록 막아야 합니다. 그가 Waterdeep를 파괴하는 것을 성공시킨다면, 그의 악성은 통제되지 않고 퍼져서 아무도 그의 손에서 벗어나지 않을 것입니다. 그를 멈추는 것이 우리가 소중히 여기는 것을 보호하는 유일한 기회입니다, 어떤 비용이 들더라도."
 eb_tyrra,dlg,ReplyList/8/Text,0,"""나는 우리가 잘 관리할 것이라고 확신합니다. 그리고 당신의 조언을 반드시 따를 것입니다. 이제 말씀해 주시겠습니까? 혹시 앞으로의 여행에 도움이 될 만한 신선한 물품을 가지고 계신가요? 그들은 앞으로의 여정에 매우 중요할 수 있습니다."""
 eb_tyrra,dlg,ReplyList/9/Text,0,안녕히 계시오.
@@ -2787,7 +2787,7 @@ eb_waterdeep,dlg,EntryList/0/Text,0,"워터디프 (Waterdeep) 는 북부 남서�
 eb_waterdeep,dlg,ReplyList/0/Text,0,끝이야
 eb_xanathar,dlg,EntryList/0/Text,0,<StartAction> 공격</Start>
 eb_xanathar,dlg,EntryList/2/Text,0,"아, 얼마나 나에게도 비극적인 일인가,"" Xanathar는 수많은 눈에서 잔인한 빛을 발산하며 뒤틀린 미소를 지어 보인다. ""나는 당신이 내 종들에게 헛수고를 하며, 내가 신중하게 제작한 함정들을 뚫어가는 것을 철저히 즐겼다. 자연스럽게, 모든 함정과 세부 사항은 모두 내 디자인에 의해 이루어졌으며, 그 큰 계획 역시 마찬가지로 - 모든 워터딥을 내 지배 아래로 끌어들이는 것 역시. 그리고 곧, 모든 이가 나에게 무릎을 꿇을 것이다!"
-eb_xanathar,dlg,EntryList/3/Text,0,"자연히, 당신은 내 기발한 계획을 방해할 수 없습니다. ""Xanathar는 냉혹한 권위로 선언한다. 지금 내 앞에 무릎을 꿇고, 아마도 - 단지 아마도 - 나는 당신에게 자비의 한 조각을 보여줄 것이다. 저항하면, 당신은 내 힘의 완전한 분노를 맞이할 것이다!"
+eb_xanathar,dlg,EntryList/3/Text,0,"당연히 내 기발한 계획을 망치는 짓은 용납할 수 없다,"" 자나사르가 오싹할 정도로 위엄 있는 목소리로 선언한다. ""지금 내 앞에 무릎을 꿇어라. 어쩌면—정말 어쩌면—자비라는 것을 베풀어 줄지도 모르니. 거역한다면 내 분노가 어떤 것인지 뼈저리게 느끼게 될 것이다!"
 eb_xanathar,dlg,EntryList/4/Text,0,"네, 네 뜻대로 해, 유감스러운 인간아. 네 불복함이 너의 멸망을 더욱 만족스럽게 만들 것이다."
 eb_xanathar,dlg,ReplyList/1/Text,0,계속...
 eb_xanathar,dlg,ReplyList/2/Text,0,계속...
@@ -2856,7 +2856,7 @@ oa_billybeholder,dlg,EntryList/4/Text,0,"만약 당신이 떨어지면, 당신�
 oa_billybeholder,dlg,EntryList/5/Text,0,<StartAction>하지만 동료들에 대해 미리 경고해 두어야겠군.</Start> 동료들은 플레이어만큼 빠르게 반응하지 못해 때로는 아래층으로 떨어지기도 하지. 이런 일이 일어나도 너무 걱정하지 마라. 다음 층으로 이동하거나 귀환의 물약을 사용하면 동료가 다시 합류하여 함께 여행할 테니 말이다.
 oa_billybeholder,dlg,EntryList/6/Text,0,우리가 시작하기 전에 다른 것이 알고 싶은 게 있나요?
 oa_billybeholder,dlg,EntryList/7/Text,0,"이 독특한 막대 는 아름답게 제작 되어 있으며, 선명한 금 재료 로 만들어져 있으며, 푸른 구구 를 가지고 있다. 그 위 에 룬 으로 새겨져 있다. 그 의 일부 는 관람자 의 눈 스틱 으로 만들어졌으며, 따라서 관람자 에게 영향을 줄 수 있는 몇 안 되는 마법 의 물품 중 하나 이다."
-oa_billybeholder,dlg,EntryList/8/Text,0,"티르고 왕이 혼수 상태에서 회복되면, 그는 워터딥의 영웅들에게 넘겨줄 것입니다. 당신은 그것을 Xanathar의 함정에 강제로 사용하여 그를 죽일 수 있습니다. 막대기를 사용하면, 한 번에 몇 피트씩 뒤로 밀어내며, 당신이 켜진 함정에 그를 강제로 몰아넣을 때까지 밀어낼 수 있습니다."
+oa_billybeholder,dlg,EntryList/8/Text,0,"티르고 왕이 혼수 상태에서 깨어나면, 그 마법봉을 워터딥의 영웅들에게 넘겨줄 것입니다. 당신은 이 마법봉을 사용하여 제저탈을 그의 함정으로 밀어 넣어 처치할 수 있습니다. 마법봉을 사용할 때마다 그는 몇 피트씩 뒤로 밀려나며, 결국 빛나는 함정 속으로 그를 밀어 넣을 수 있게 됩니다."
 oa_billybeholder,dlg,EntryList/9/Text,0,우리가 시작하기 전에 다른 것이 알고 싶은 게 있나요?
 oa_billybeholder,dlg,EntryList/10/Text,0,더 많은...
 oa_billybeholder,dlg,EntryList/11/Text,0,더 많은...
@@ -2953,7 +2953,7 @@ well_of_healing,dlg,EntryList/0/Text,0,"나는 치유의 우물이다. 당신이
 well_of_healing,dlg,EntryList/1/Text,0,치유를 받으시겠습니까?
 well_of_healing,dlg,EntryList/2/Text,0,"내가 이를 결정할 권한이 없습니다. 당신이 내 능력에서 이익을 얻고자 한다면 금을 지불하십시오. 그렇지 않다면, 당신은 자유롭게 떠나실 수 있습니다. 선택은 전적으로 당신의 것입니다."
 well_of_healing,dlg,ReplyList/1/Text,0,"5000골드는 좀 비싸 보이는데, 우물이 그토록 많은 골드로 무얼 하려는 거지?"
-well_of_healing,dlg,ReplyList/2/Text,0,값비싼 무가치한 돌 조각에게는 잊어버리라고.
+well_of_healing,dlg,ReplyList/2/Text,0,"됐어, 비싸기만 하고 쓸모없는 돌 조각 같으니."
 well_of_healing,dlg,ReplyList/3/Text,0,"아주 잘, 내가 금을 지불할거야."
 well_of_healing,dlg,ReplyList/4/Text,0,"아니요, 됐습니다!"
 well_of_healing,dlg,ReplyList/5/Text,0,"그래, 제발!"
@@ -4072,33 +4072,33 @@ level10xanath001,git,Placeable List/58/Description,0,사코파그스의 무거�
 level10xanath001,git,Placeable List/63/LocName,0,오벨리스크
 level10xanath001,git,Placeable List/63/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 level10xanath001,git,Placeable List/65/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/65/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/65/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/66/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/66/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/66/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/67/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/67/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/67/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/68/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/68/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/68/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/69/LocName,0,오벨리스크
 level10xanath001,git,Placeable List/69/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 level10xanath001,git,Placeable List/71/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/71/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/71/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/72/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/72/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/72/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/73/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/73/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/73/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/74/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/74/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/74/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/75/LocName,0,오벨리스크
 level10xanath001,git,Placeable List/75/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 level10xanath001,git,Placeable List/77/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/77/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/77/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/78/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/78/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/78/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/79/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/79/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/79/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/80/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/80/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/80/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/81/LocName,0,무덤
 level10xanath001,git,Placeable List/81/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 level10xanath001,git,Placeable List/81/ItemList/0/LocalizedName,0,금화
@@ -4124,13 +4124,13 @@ level10xanath001,git,Placeable List/86/ItemList/2/LocalizedName,0,금화
 level10xanath001,git,Placeable List/87/LocName,0,오벨리스크
 level10xanath001,git,Placeable List/87/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 level10xanath001,git,Placeable List/89/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/89/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/89/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/90/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/90/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/90/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/91/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/91/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/91/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/92/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/92/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/92/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/93/LocName,0,무덤
 level10xanath001,git,Placeable List/93/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 level10xanath001,git,Placeable List/93/ItemList/0/LocalizedName,0,귀환의 물약
@@ -4138,13 +4138,13 @@ level10xanath001,git,Placeable List/93/ItemList/0/DescIdentified,0,곤경에 처
 level10xanath001,git,Placeable List/94/LocName,0,오벨리스크
 level10xanath001,git,Placeable List/94/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 level10xanath001,git,Placeable List/96/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/96/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/96/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/97/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/97/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/97/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/98/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/98/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/98/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/99/LocName,0,공포의 돌
-level10xanath001,git,Placeable List/99/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanath001,git,Placeable List/99/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanath001,git,Placeable List/102/LocName,0,무덤
 level10xanath001,git,Placeable List/102/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 level10xanath001,git,Placeable List/102/ItemList/0/LocalizedName,0,금화
@@ -4182,119 +4182,119 @@ level10xanath001,git,Placeable List/139/Description,0,"관심 지점을 나타�
 level10xanath001,git,Placeable List/140/LocName,0,빛줄기
 level10xanath001,git,Placeable List/140/Description,0,불타는 오렌지색 빛이 보이지 않는 곳에서 내려옵니다.
 level10xanath001,git,Placeable List/153/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/153/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/153/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/154/LocName,0,월 리오
-level10xanath001,git,Placeable List/154/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/155/LocName,0,월오크
-level10xanath001,git,Placeable List/155/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/154/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/155/LocName,0,월 옥스
+level10xanath001,git,Placeable List/155/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/156/LocName,0,월 리오
-level10xanath001,git,Placeable List/156/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/156/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/157/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/157/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/157/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/158/LocName,0,월 리오
-level10xanath001,git,Placeable List/158/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/158/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/159/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/159/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/159/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/160/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/160/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/161/LocName,0,월오크
-level10xanath001,git,Placeable List/161/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/162/LocName,0,월오크
-level10xanath001,git,Placeable List/162/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/160/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/161/LocName,0,월 옥스
+level10xanath001,git,Placeable List/161/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/162/LocName,0,월 옥스
+level10xanath001,git,Placeable List/162/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/163/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/163/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/163/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/164/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/164/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/164/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/165/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/165/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/165/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/166/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/166/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/166/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/167/LocName,0,월 리오
-level10xanath001,git,Placeable List/167/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/167/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/168/LocName,0,월 리오
-level10xanath001,git,Placeable List/168/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/168/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/169/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/169/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/169/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/170/LocName,0,월 리오
-level10xanath001,git,Placeable List/170/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/170/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/171/LocName,0,월 리오
-level10xanath001,git,Placeable List/171/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/172/LocName,0,월오크
-level10xanath001,git,Placeable List/172/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/173/LocName,0,월오크
-level10xanath001,git,Placeable List/173/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/171/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/172/LocName,0,월 옥스
+level10xanath001,git,Placeable List/172/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/173/LocName,0,월 옥스
+level10xanath001,git,Placeable List/173/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/174/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/174/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/174/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/175/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/175/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/175/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/176/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/176/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/176/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/177/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/177/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/177/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/178/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/178/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/178/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/179/LocName,0,월 리오
-level10xanath001,git,Placeable List/179/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/179/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/180/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/180/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/181/LocName,0,월오크
-level10xanath001,git,Placeable List/181/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/180/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/181/LocName,0,월 옥스
+level10xanath001,git,Placeable List/181/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/182/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/182/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/182/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/183/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/183/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/183/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/184/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/184/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/184/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/185/LocName,0,월 리오
-level10xanath001,git,Placeable List/185/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/186/LocName,0,월오크
-level10xanath001,git,Placeable List/186/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/185/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/186/LocName,0,월 옥스
+level10xanath001,git,Placeable List/186/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/187/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/187/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/187/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/188/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/188/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/189/LocName,0,월오크
-level10xanath001,git,Placeable List/189/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/190/LocName,0,월오크
-level10xanath001,git,Placeable List/190/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/188/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/189/LocName,0,월 옥스
+level10xanath001,git,Placeable List/189/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/190/LocName,0,월 옥스
+level10xanath001,git,Placeable List/190/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/191/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/191/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/191/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/192/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/192/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/192/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/193/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/193/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/193/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/194/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/194/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/194/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/195/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/195/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/195/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/196/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/196/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/196/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/197/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/197/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/197/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/198/LocName,0,월 리오
-level10xanath001,git,Placeable List/198/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/198/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/199/LocName,0,월 리오
-level10xanath001,git,Placeable List/199/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/200/LocName,0,월오크
-level10xanath001,git,Placeable List/200/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/199/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/200/LocName,0,월 옥스
+level10xanath001,git,Placeable List/200/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/201/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/201/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/201/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/202/LocName,0,월 리오
-level10xanath001,git,Placeable List/202/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/202/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/203/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/203/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/203/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/204/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/204/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/204/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/205/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/205/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/205/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/206/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/206/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/206/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/207/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/207/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/207/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/208/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/208/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/208/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/209/LocName,0,성벽의 사나이들
-level10xanath001,git,Placeable List/209/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/209/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/210/LocName,0,알코브
 level10xanath001,git,Placeable List/210/ItemList/0/LocalizedName,0,얼음 폭풍의 막대
 level10xanath001,git,Placeable List/211/LocName,0,"""드로우가 보물로 여기는 것으로 그 보물을 대체하라."""
@@ -4307,19 +4307,19 @@ level10xanath001,git,Placeable List/215/LocName,0,핏자국 3
 level10xanath001,git,Placeable List/216/LocName,0,핏자국 7
 level10xanath001,git,Placeable List/217/LocName,0,핏자국 8
 level10xanath001,git,Placeable List/220/LocName,0,월 리오
-level10xanath001,git,Placeable List/220/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/220/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/221/LocName,0,월 리오
-level10xanath001,git,Placeable List/221/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/221/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/222/LocName,0,월 리오
-level10xanath001,git,Placeable List/222/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/222/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/223/LocName,0,월 드래곤
-level10xanath001,git,Placeable List/223/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/223/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/224/LocName,0,월 리오
-level10xanath001,git,Placeable List/224/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/225/LocName,0,월오크
-level10xanath001,git,Placeable List/225/Description,0,켄쿠 침검
-level10xanath001,git,Placeable List/226/LocName,0,월오크
-level10xanath001,git,Placeable List/226/Description,0,켄쿠 침검
+level10xanath001,git,Placeable List/224/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/225/LocName,0,월 옥스
+level10xanath001,git,Placeable List/225/Description,0,켄쿠 발톱
+level10xanath001,git,Placeable List/226/LocName,0,월 옥스
+level10xanath001,git,Placeable List/226/Description,0,켄쿠 발톱
 level10xanath001,git,Placeable List/227/LocName,0,차원문 좋음
 level10xanath001,git,Placeable List/228/LocName,0,차원문 보통
 level10xanath001,git,Placeable List/229/LocName,0,대형 바닥 타일01
@@ -4635,15 +4635,15 @@ level10xanathars,git,StoreList/0/StoreList/3/ItemList/12/LocalizedName,0,엘프�
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/12/DescIdentified,0,"마인세릴 로스트본은 마라르의 강력한 사제였으며, 많은 피를 흘린 싸움이나 전투를 즐겼지만, 그러한 전투는 너무 빨리 끝났다고 느꼈다. 마인세릴은 트롤의 재생 능력을 연구하면서 일반 전투장보다 재생 전사장에서 더 많은 엔터테인먼트 가치를 얻을 수 있다고 확신했다. 그래서 그는 여러 강력한 반지의 제작을 위탁했습니다. 반지가 완료되면, 그는 특히 악의적인 전사들에게 배포했습니다."
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/13/LocalizedName,0,반사 호신부 +4
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/13/DescIdentified,0,"고위 하퍼 제러보암 캔터는 하퍼 첩자들의 정신과 비밀을 지키기 위해 이 부적들을 만들도록 의뢰했다. 불행히도 제러보암은 이것을 착용한 채 붙잡힌 최초의 하퍼 첩자 중 하나였고, 부적이 벗겨지자 의지가 약한 이 음유시인의 정신은 아는 것을 모두 불어 버렸다."
-level10xanathars,git,StoreList/0/StoreList/3/ItemList/24/LocalizedName,0,방사 완드
+level10xanathars,git,StoreList/0/StoreList/3/ItemList/24/LocalizedName,0,미사일 완드
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/24/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/25/LocalizedName,0,얼음 폭풍의 막대
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/26/LocalizedName,0,더 큰 불볼트 마법봉
-level10xanathars,git,StoreList/0/StoreList/3/ItemList/26/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level10xanathars,git,StoreList/0/StoreList/3/ItemList/26/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/27/LocalizedName,0,번개 부르기 대형 마법봉
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/27/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/28/LocalizedName,0,화염의 마법봉
-level10xanathars,git,StoreList/0/StoreList/3/ItemList/28/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level10xanathars,git,StoreList/0/StoreList/3/ItemList/28/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/29/LocalizedName,0,번개 부르기 마법봉
 level10xanathars,git,StoreList/0/StoreList/3/ItemList/29/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level10xanathars,git,TriggerList/0/LocalizedName,0,새 일반
@@ -4699,7 +4699,7 @@ level10xanathars,git,Placeable List/3/ItemList/0/DescIdentified,0,"우리는 층
 level10xanathars,git,Placeable List/3/ItemList/1/LocalizedName,0,맑은 정신을 부여하는 물약
 level10xanathars,git,Placeable List/3/ItemList/1/DescIdentified,0,그을리고 톡 쏘는 콩에 뜨거운 액체를 부어 만든 이 독한 냄새의 음료는 그 생김새에서 이름이 유래된 것이 아니다. 이 음료는 정신에 영향을 미치는 주문으로부터 정신을 맑게 하고 강화하는 데 도움을 준다.
 level10xanathars,git,Placeable List/3/ItemList/4/LocalizedName,0,석화 해제로드
-level10xanathars,git,Placeable List/3/ItemList/4/DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
+level10xanathars,git,Placeable List/3/ItemList/4/DescIdentified,0,이 주문은 석화된 생물을 원래 상태로 되돌리고 생명과 소지품을 회복시킵니다.
 level10xanathars,git,Placeable List/5/LocName,0,당기는 사슬
 level10xanathars,git,Placeable List/5/Description,0,그 사슬은 당신 위에 있는 보이지 않는 구멍으로 사라져서 숨겨진 메커니즘을 활성화할 것으로 보입니다.
 level10xanathars,git,Placeable List/6/LocName,0,통
@@ -4713,7 +4713,7 @@ level10xanathars,git,Placeable List/9/LocName,0,통
 level10xanathars,git,Placeable List/9/Description,0,두꺼운 금속띠가 배럴판을 감싸며 밀폐를 확실히 합니다.
 level10xanathars,git,Placeable List/9/ItemList/0/LocalizedName,0,금화
 level10xanathars,git,Placeable List/11/ItemList/0/LocalizedName,0,석화 해제로드
-level10xanathars,git,Placeable List/11/ItemList/0/DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
+level10xanathars,git,Placeable List/11/ItemList/0/DescIdentified,0,이 주문은 석화된 생물을 원래 상태로 되돌리고 생명과 소지품을 회복시킵니다.
 level10xanathars,git,Placeable List/12/LocName,0,크리스 테일러
 level10xanathars,git,Placeable List/12/Description,0,쥐가 시체의 손가락에 씹고 귀에 긁고 시체가 여기 있는 것처럼 보입니다.
 level10xanathars,git,Placeable List/12/ItemList/0/LocalizedName,0,냉기의 원뿔
@@ -4814,13 +4814,13 @@ level10xanathars,git,Placeable List/39/Description,0,의심스럽게 둘러보�
 level10xanathars,git,Placeable List/40/LocName,0,오벨리스크
 level10xanathars,git,Placeable List/40/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 level10xanathars,git,Placeable List/43/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/43/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/43/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/44/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/44/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/44/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/45/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/45/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/45/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/46/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/46/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/46/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/47/LocName,0,무덤
 level10xanathars,git,Placeable List/47/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 level10xanathars,git,Placeable List/48/LocName,0,무덤
@@ -4844,23 +4844,23 @@ level10xanathars,git,Placeable List/55/Description,0,"돌 뚜껑은 무거웠고
 level10xanathars,git,Placeable List/56/LocName,0,오벨리스크
 level10xanathars,git,Placeable List/56/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 level10xanathars,git,Placeable List/58/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/58/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/58/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/59/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/59/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/59/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/60/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/60/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/60/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/61/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/61/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/61/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/64/LocName,0,오벨리스크
 level10xanathars,git,Placeable List/64/Description,0,이 고대 오벨리스크는 여기서 사용된 어두운 힘을 암시합니다.
 level10xanathars,git,Placeable List/66/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/66/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/66/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/67/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/67/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/67/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/68/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/68/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/68/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/69/LocName,0,공포의 돌
-level10xanathars,git,Placeable List/69/Description,0,이 돌판의 고대 문자는 아직 알아볼 수 없습니다.
+level10xanathars,git,Placeable List/69/Description,0,이 돌판에 새겨진 고대 문자들은 더 이상 알아볼 수 없습니다.
 level10xanathars,git,Placeable List/74/LocName,0,흔적
 level10xanathars,git,Placeable List/74/Description,0,이 흔적은 인간형 존재의 것 같습니다.
 level10xanathars,git,Placeable List/75/LocName,0,흔적
@@ -4922,66 +4922,66 @@ level10xanathars,git,Placeable List/134/Description,0,두꺼운 금속띠가 배
 level10xanathars,git,Placeable List/134/ItemList/0/LocalizedName,0,금화
 level10xanathars,git,Placeable List/135/LocName,0,흔적
 level10xanathars,git,Placeable List/135/Description,0,이 흔적은 인간형 존재의 것 같습니다.
-level10xanathars,git,Placeable List/136/LocName,0,월오크
-level10xanathars,git,Placeable List/136/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/136/LocName,0,월 옥스
+level10xanathars,git,Placeable List/136/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/137/LocName,0,월 리오
-level10xanathars,git,Placeable List/137/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/137/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/138/LocName,0,월 드래곤
-level10xanathars,git,Placeable List/138/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/138/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/139/LocName,0,월 리오
-level10xanathars,git,Placeable List/139/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/139/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/140/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/140/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/140/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/141/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/141/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/141/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/142/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/142/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/142/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/143/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/143/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/143/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/144/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/144/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/144/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/145/LocName,0,월 리오
-level10xanathars,git,Placeable List/145/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/145/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/146/LocName,0,월 드래곤
-level10xanathars,git,Placeable List/146/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/146/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/147/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/147/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/147/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/148/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/148/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/148/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/149/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/149/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/149/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/150/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/150/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/150/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/151/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/151/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/151/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/152/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/152/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/152/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/153/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/153/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/153/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/154/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/154/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/154/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/155/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/155/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/155/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/156/LocName,0,월 리오
-level10xanathars,git,Placeable List/156/Description,0,켄쿠 침검
-level10xanathars,git,Placeable List/157/LocName,0,월오크
-level10xanathars,git,Placeable List/157/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/156/Description,0,켄쿠 발톱
+level10xanathars,git,Placeable List/157/LocName,0,월 옥스
+level10xanathars,git,Placeable List/157/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/158/LocName,0,월 드래곤
-level10xanathars,git,Placeable List/158/Description,0,켄쿠 침검
-level10xanathars,git,Placeable List/159/LocName,0,월오크
-level10xanathars,git,Placeable List/159/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/158/Description,0,켄쿠 발톱
+level10xanathars,git,Placeable List/159/LocName,0,월 옥스
+level10xanathars,git,Placeable List/159/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/160/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/160/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/160/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/161/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/161/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/161/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/162/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/162/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/162/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/163/LocName,0,성벽의 사나이들
-level10xanathars,git,Placeable List/163/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/163/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/164/LocName,0,월 리오
-level10xanathars,git,Placeable List/164/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/164/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/165/LocName,0,월 드래곤
-level10xanathars,git,Placeable List/165/Description,0,켄쿠 침검
+level10xanathars,git,Placeable List/165/Description,0,켄쿠 발톱
 level10xanathars,git,Placeable List/166/LocName,0,흔적
 level10xanathars,git,Placeable List/166/Description,0,이 흔적은 인간형 존재의 것 같습니다.
 level10xanathars,git,Placeable List/167/LocName,0,아스프
@@ -5113,15 +5113,15 @@ level11xanath001,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,3d8+4
 level11xanath001,git,Creature List/6/FirstName,0,흡혈귀
 level11xanath001,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,흡혈귀 갑옷 2
 level11xanath001,git,Creature List/7/FirstName,0,흡혈귀 마법학자
-level11xanath001,git,Creature List/7/Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+level11xanath001,git,Creature List/7/Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 level11xanath001,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,흡혈귀 코트 마법사 2
 level11xanath001,git,Creature List/8/FirstName,0,흡혈귀 도적
-level11xanath001,git,Creature List/8/Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+level11xanath001,git,Creature List/8/Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 level11xanath001,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,흡혈귀 의상 사제2
 level11xanath001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,살무사의 둥지
 level11xanath001,git,Creature List/8/Equip_ItemList/1/DescIdentified,0,"살무사의 둥지의 다트는 치열하며, 끝부분은 깔끔하게 배열된 손가락 모양의 이빨로 덮여 있어 뱀의 침과 같은 독을 효과적으로 전달한다. 이러한 무기는 북쪽의 짐승 부족에서 유래되었을 수 있지만, 최근에 사용이 확산되었다."
 level11xanath001,git,Creature List/9/FirstName,0,흡혈귀 투사
-level11xanath001,git,Creature List/9/Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+level11xanath001,git,Creature List/9/Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 level11xanath001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,흡혈귀 갑옷 2
 level11xanath001,git,Creature List/9/Equip_ItemList/1/LocalizedName,0,뱀파이어 바스타드 소드 +5
 level11xanath001,git,Creature List/9/Equip_ItemList/1/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
@@ -5364,11 +5364,11 @@ level11xanath001,git,Placeable List/39/LocName,0,무덤
 level11xanath001,git,Placeable List/39/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 level11xanath001,git,Placeable List/40/LocName,0,무덤
 level11xanath001,git,Placeable List/40/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
-level11xanath001,git,Placeable List/41/LocName,0,스포어 중간
+level11xanath001,git,Placeable List/41/LocName,0,포자 매체
 level11xanath001,git,Placeable List/42/LocName,0,스포르
 level11xanath001,git,Placeable List/43/LocName,0,소형 스포르
 level11xanath001,git,Placeable List/44/LocName,0,소형 스포르
-level11xanath001,git,Placeable List/45/LocName,0,스포어 중간
+level11xanath001,git,Placeable List/45/LocName,0,포자 매체
 level11xanath001,git,Placeable List/46/LocName,0,스포어 빅
 level11xanath001,git,Placeable List/47/LocName,0,스포르
 level11xanath001,git,Placeable List/48/LocName,0,소형 스포르
@@ -5401,11 +5401,11 @@ level11xanath001,git,Placeable List/78/LocName,0,스포르
 level11xanath001,git,Placeable List/79/LocName,0,소형 스포르
 level11xanath001,git,Placeable List/80/LocName,0,소형 스포르
 level11xanath001,git,Placeable List/81/LocName,0,제물
-level11xanath001,git,Placeable List/83/LocName,0,스포어 중간
+level11xanath001,git,Placeable List/83/LocName,0,포자 매체
 level11xanath001,git,Placeable List/84/LocName,0,스포어 빅
 level11xanath001,git,Placeable List/85/LocName,0,스포르
 level11xanath001,git,Placeable List/86/LocName,0,스포어 빅
-level11xanath001,git,Placeable List/87/LocName,0,스포어 중간
+level11xanath001,git,Placeable List/87/LocName,0,포자 매체
 level11xanath001,git,Placeable List/88/LocName,0,스포르
 level11xanath001,git,Placeable List/89/LocName,0,소형 스포르
 level11xanath001,git,Placeable List/90/LocName,0,소형 스포르
@@ -5534,7 +5534,7 @@ level11xanath001,git,Placeable List/284/LocName,0,핏자국 5
 level11xanath001,git,Placeable List/285/LocName,0,핏자국 7
 level11xanath001,git,Placeable List/286/LocName,0,핏자국 8
 level11xanath001,git,Placeable List/287/LocName,0,핏자국 6
-level11xanath001,git,Placeable List/288/LocName,0,긴검 1
+level11xanath001,git,Placeable List/288/LocName,0,롱소드 1
 level11xanath001,git,Placeable List/291/LocName,0,악을 무찌르다
 level11xanath001,git,Placeable List/292/LocName,0,악을 무찌르다
 level11xanath001,git,Placeable List/293/LocName,0,해골 유해
@@ -5713,7 +5713,7 @@ level11xanathars,git,Creature List/0/FirstName,0,'리치'의 모리안
 level11xanathars,git,Creature List/0/Description,0,"야망에 의해, 어떤 강력한 마녀들은 죽음을 속이고 싶어합니다. 성공한 사람들은 리쉬가 되고 실패한 사람들은 애호가로 던져집니다."
 level11xanathars,git,Creature List/0/ItemList/0/LocalizedName,0,죽음의 가면
 level11xanathars,git,Creature List/0/ItemList/0/DescIdentified,0,"이것은 마법사 또는 마녀를 위해 만들어진 특별한 아이템입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 만든"
-level11xanathars,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,모리안의 갈대옷
+level11xanathars,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,모리안의 로브
 level11xanathars,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,모리안의 직원
 level11xanathars,git,Creature List/0/Equip_ItemList/9/LocalizedName,0,리치 속성
 level11xanathars,git,Door List/0/LocName,0,문
@@ -5855,19 +5855,19 @@ level11xanathars,git,Placeable List/17/LocName,0,죽은 사제
 level11xanathars,git,Placeable List/17/Description,0,땅 위에 슬픈 인간형 뼈 무리가 쌓여 있었다.
 level11xanathars,git,Placeable List/18/LocName,0,스포르
 level11xanathars,git,Placeable List/19/LocName,0,스포르
-level11xanathars,git,Placeable List/20/LocName,0,스포어 중간
-level11xanathars,git,Placeable List/21/LocName,0,스포어 중간
+level11xanathars,git,Placeable List/20/LocName,0,포자 매체
+level11xanathars,git,Placeable List/21/LocName,0,포자 매체
 level11xanathars,git,Placeable List/22/LocName,0,스포르
 level11xanathars,git,Placeable List/23/LocName,0,제물
 level11xanathars,git,Placeable List/24/LocName,0,제물
-level11xanathars,git,Placeable List/27/LocName,0,스포어 중간
-level11xanathars,git,Placeable List/28/LocName,0,스포어 중간
-level11xanathars,git,Placeable List/29/LocName,0,스포어 중간
-level11xanathars,git,Placeable List/30/LocName,0,스포어 중간
+level11xanathars,git,Placeable List/27/LocName,0,포자 매체
+level11xanathars,git,Placeable List/28/LocName,0,포자 매체
+level11xanathars,git,Placeable List/29/LocName,0,포자 매체
+level11xanathars,git,Placeable List/30/LocName,0,포자 매체
 level11xanathars,git,Placeable List/31/LocName,0,붉은 구름
 level11xanathars,git,Placeable List/32/LocName,0,붉은 구름
-level11xanathars,git,Placeable List/34/LocName,0,스포어 중간
-level11xanathars,git,Placeable List/35/LocName,0,스포어 중간
+level11xanathars,git,Placeable List/34/LocName,0,포자 매체
+level11xanathars,git,Placeable List/35/LocName,0,포자 매체
 level11xanathars,git,Placeable List/42/LocName,0,귀환 차원문
 level11xanathars,git,Placeable List/42/Description,0,앞에 당신은 부드럽게 빛나는 포털이 있습니다. 어디로 연결되는지 궁금합니다.
 level11xanathars,git,Placeable List/43/LocName,0,관
@@ -6093,13 +6093,13 @@ level11xanathb,git,Creature List/7/FirstName,0,지성 포식귀
 level11xanathb,git,Creature List/8/FirstName,0,지성 포식귀
 level11xanathb,git,Creature List/9/FirstName,0,지성 포식귀
 level11xanathb,git,Creature List/10/FirstName,0,흡혈귀 도적
-level11xanathb,git,Creature List/10/Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+level11xanathb,git,Creature List/10/Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 level11xanathb,git,Creature List/10/ItemList/0/LocalizedName,0,뱀파이어 코트 사제
 level11xanathb,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,뱀파이어 코트 로그
 level11xanathb,git,Creature List/10/Equip_ItemList/1/LocalizedName,0,살무사의 둥지
 level11xanathb,git,Creature List/10/Equip_ItemList/1/DescIdentified,0,"살무사의 둥지의 다트는 치열하며, 끝부분은 깔끔하게 배열된 손가락 모양의 이빨로 덮여 있어 뱀의 침과 같은 독을 효과적으로 전달한다. 이러한 무기는 북쪽의 짐승 부족에서 유래되었을 수 있지만, 최근에 사용이 확산되었다."
 level11xanathb,git,Creature List/11/FirstName,0,흡혈귀 사제
-level11xanathb,git,Creature List/11/Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+level11xanathb,git,Creature List/11/Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 level11xanathb,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,뱀파이어 코트 사제
 level11xanathb,git,Creature List/13/FirstName,0,매춘부
 level11xanathb,git,Creature List/14/FirstName,0,희생자
@@ -6238,7 +6238,7 @@ level11xanathb,git,Placeable List/13/Description,0,새혈에 새겨져 있는 �
 level11xanathb,git,Placeable List/14/LocName,0,석관
 level11xanathb,git,Placeable List/14/Description,0,새혈에 새겨져 있는 무덤 옆에는 해독할 수 없는 메시지가 새겨져 있습니다.
 level11xanathb,git,Placeable List/14/ItemList/0/LocalizedName,0,석화 해제로드
-level11xanathb,git,Placeable List/14/ItemList/0/DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
+level11xanathb,git,Placeable List/14/ItemList/0/DescIdentified,0,이 주문은 석화된 생물을 원래 상태로 되돌리고 생명과 소지품을 회복시킵니다.
 level11xanathb,git,Placeable List/15/LocName,0,석관
 level11xanathb,git,Placeable List/15/Description,0,새혈에 새겨져 있는 무덤 옆에는 해독할 수 없는 메시지가 새겨져 있습니다.
 level11xanathb,git,Placeable List/16/LocName,0,석관
@@ -6275,13 +6275,13 @@ level11xanathb,git,Placeable List/27/Description,0,"돌 뚜껑은 무거웠고, 
 level11xanathb,git,Placeable List/28/LocName,0,스포르
 level11xanathb,git,Placeable List/29/LocName,0,스포르
 level11xanathb,git,Placeable List/30/LocName,0,스포르
-level11xanathb,git,Placeable List/31/LocName,0,스포어 중간
-level11xanathb,git,Placeable List/32/LocName,0,스포어 중간
-level11xanathb,git,Placeable List/33/LocName,0,스포어 중간
+level11xanathb,git,Placeable List/31/LocName,0,포자 매체
+level11xanathb,git,Placeable List/32/LocName,0,포자 매체
+level11xanathb,git,Placeable List/33/LocName,0,포자 매체
 level11xanathb,git,Placeable List/37/LocName,0,스포르
-level11xanathb,git,Placeable List/38/LocName,0,스포어 중간
-level11xanathb,git,Placeable List/39/LocName,0,스포어 중간
-level11xanathb,git,Placeable List/40/LocName,0,스포어 중간
+level11xanathb,git,Placeable List/38/LocName,0,포자 매체
+level11xanathb,git,Placeable List/39/LocName,0,포자 매체
+level11xanathb,git,Placeable List/40/LocName,0,포자 매체
 level11xanathb,git,Placeable List/41/LocName,0,제물
 level11xanathb,git,Placeable List/42/LocName,0,제물
 level11xanathb,git,Placeable List/43/LocName,0,붉은 구름
@@ -6347,11 +6347,11 @@ level11xanathb,git,Placeable List/115/LocName,0,제물
 level11xanathb,git,Placeable List/116/LocName,0,제물
 level11xanathb,git,Placeable List/117/LocName,0,스포르
 level11xanathb,git,Placeable List/118/LocName,0,스포어 빅
-level11xanathb,git,Placeable List/119/LocName,0,스포어 중간
+level11xanathb,git,Placeable List/119/LocName,0,포자 매체
 level11xanathb,git,Placeable List/120/LocName,0,소형 스포르
 level11xanathb,git,Placeable List/121/LocName,0,소형 스포르
 level11xanathb,git,Placeable List/122/LocName,0,스포르
-level11xanathb,git,Placeable List/123/LocName,0,스포어 중간
+level11xanathb,git,Placeable List/123/LocName,0,포자 매체
 level11xanathb,git,Placeable List/124/LocName,0,스포르
 level11xanathb,git,Placeable List/125/LocName,0,소형 스포르
 level11xanathb,git,Placeable List/126/LocName,0,소형 스포르
@@ -6379,10 +6379,10 @@ level11xanathb,git,Placeable List/139/LocName,0,큰 잔디
 level11xanathb,git,Placeable List/139/Description,0,땅에서 크고 단단한 화강암 조각이 튀어나와 있다.
 level11xanathb,git,Placeable List/140/LocName,0,스포르
 level11xanathb,git,Placeable List/141/LocName,0,스포어 빅
-level11xanathb,git,Placeable List/142/LocName,0,스포어 중간
+level11xanathb,git,Placeable List/142/LocName,0,포자 매체
 level11xanathb,git,Placeable List/143/LocName,0,소형 스포르
 level11xanathb,git,Placeable List/144/LocName,0,소형 스포르
-level11xanathb,git,Placeable List/145/LocName,0,스포어 중간
+level11xanathb,git,Placeable List/145/LocName,0,포자 매체
 level11xanathb,git,Placeable List/146/LocName,0,스포어 빅
 level11xanathb,git,Placeable List/147/LocName,0,소형 스포르
 level11xanathb,git,Placeable List/148/LocName,0,소형 스포르
@@ -6741,20 +6741,20 @@ level11xanathw,git,Placeable List/25/LocName,0,부서진 창살 1
 level11xanathw,git,Placeable List/26/LocName,0,무덤
 level11xanathw,git,Placeable List/26/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 level11xanathw,git,Placeable List/27/LocName,0,스포르
-level11xanathw,git,Placeable List/28/LocName,0,스포어 중간
+level11xanathw,git,Placeable List/28/LocName,0,포자 매체
 level11xanathw,git,Placeable List/29/LocName,0,스포어 빅
-level11xanathw,git,Placeable List/30/LocName,0,스포어 중간
+level11xanathw,git,Placeable List/30/LocName,0,포자 매체
 level11xanathw,git,Placeable List/31/LocName,0,스포르
-level11xanathw,git,Placeable List/32/LocName,0,스포어 중간
-level11xanathw,git,Placeable List/33/LocName,0,스포어 중간
-level11xanathw,git,Placeable List/34/LocName,0,스포어 중간
-level11xanathw,git,Placeable List/35/LocName,0,스포어 중간
+level11xanathw,git,Placeable List/32/LocName,0,포자 매체
+level11xanathw,git,Placeable List/33/LocName,0,포자 매체
+level11xanathw,git,Placeable List/34/LocName,0,포자 매체
+level11xanathw,git,Placeable List/35/LocName,0,포자 매체
 level11xanathw,git,Placeable List/36/LocName,0,제물
 level11xanathw,git,Placeable List/37/LocName,0,제물
 level11xanathw,git,Placeable List/38/LocName,0,스포르
 level11xanathw,git,Placeable List/39/LocName,0,스포르
-level11xanathw,git,Placeable List/40/LocName,0,스포어 중간
-level11xanathw,git,Placeable List/41/LocName,0,스포어 중간
+level11xanathw,git,Placeable List/40/LocName,0,포자 매체
+level11xanathw,git,Placeable List/41/LocName,0,포자 매체
 level11xanathw,git,Placeable List/42/LocName,0,스포어 빅
 level11xanathw,git,Placeable List/46/LocName,0,붉은 구름
 level11xanathw,git,Placeable List/47/LocName,0,붉은 구름
@@ -6977,7 +6977,7 @@ level11xanathw,git,Placeable List/234/LocName,0,악을 무찌르다
 level11xanathw,git,Placeable List/235/LocName,0,해골 양초
 level11xanathw,git,Placeable List/236/LocName,0,악을 무찌르다
 level11xanathw,git,Placeable List/241/LocName,0,해골 투사
-level11xanathw,git,Placeable List/242/LocName,0,긴검 1
+level11xanathw,git,Placeable List/242/LocName,0,롱소드 1
 level11xanathw,git,Placeable List/243/LocName,0,핏자국 7
 level11xanathw,git,Placeable List/244/LocName,0,핏자국 6
 level11xanathw,git,Placeable List/245/LocName,0,핏자국 5
@@ -7094,15 +7094,15 @@ level11xanathw,git,Placeable List/375/LocName,0,핏자국 3
 level11xanathw,git,Placeable List/376/LocName,0,핏자국 8
 level11xanathw,git,Placeable List/377/LocName,0,영웅의 조각상
 level11xanathw,git,Placeable List/378/LocName,0,영웅의 조각상
-level11xanathw,git,Placeable List/379/LocName,0,"불꽃 (정지하지 않은, 제거 가능한)"
+level11xanathw,git,Placeable List/379/LocName,0,"불꽃 (동적, 제거 가능)"
 level11xanathw,git,Placeable List/379/Description,0,"불꽃이 치고 타오르며, 그 화염의 열로 모든 것을 소비한다."
-level11xanathw,git,Placeable List/380/LocName,0,"불꽃 (정지하지 않은, 제거 가능한)"
+level11xanathw,git,Placeable List/380/LocName,0,"불꽃 (동적, 제거 가능)"
 level11xanathw,git,Placeable List/380/Description,0,"불꽃이 치고 타오르며, 그 화염의 열로 모든 것을 소비한다."
-level11xanathw,git,Placeable List/381/LocName,0,"불꽃 (정지하지 않은, 제거 가능한)"
+level11xanathw,git,Placeable List/381/LocName,0,"불꽃 (동적, 제거 가능)"
 level11xanathw,git,Placeable List/381/Description,0,"불꽃이 치고 타오르며, 그 화염의 열로 모든 것을 소비한다."
-level11xanathw,git,Placeable List/382/LocName,0,"불꽃 (정지하지 않은, 제거 가능한)"
+level11xanathw,git,Placeable List/382/LocName,0,"불꽃 (동적, 제거 가능)"
 level11xanathw,git,Placeable List/382/Description,0,"불꽃이 치고 타오르며, 그 화염의 열로 모든 것을 소비한다."
-level11xanathw,git,Placeable List/383/LocName,0,"불꽃 (정지하지 않은, 제거 가능한)"
+level11xanathw,git,Placeable List/383/LocName,0,"불꽃 (동적, 제거 가능)"
 level11xanathw,git,Placeable List/383/Description,0,"불꽃이 치고 타오르며, 그 화염의 열로 모든 것을 소비한다."
 level11xanathw,git,Placeable List/384/LocName,0,혈액 (제거 가능)
 level11xanathw,git,Placeable List/384/Description,0,"불꽃이 치고 타오르며, 그 화염의 열로 모든 것을 소비한다."
@@ -7350,7 +7350,7 @@ level12xanatha,git,Placeable List/2/ItemList/0/DescIdentified,0,"이 약물은 �
 level12xanatha,git,Placeable List/2/ItemList/1/LocalizedName,0,퀴미비의 여러 주머니 갑옷
 level12xanatha,git,Placeable List/2/ItemList/1/DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
 level12xanatha,git,Placeable List/2/ItemList/2/LocalizedName,0,회복의 막대
-level12xanatha,git,Placeable List/2/ItemList/2/DescIdentified,0,이 강력한 아이템들은 전투 중에 소진된 레벨을 빠르게 회복할 수 있게 해준다.
+level12xanatha,git,Placeable List/2/ItemList/2/DescIdentified,0,이 강력한 아이템을 사용하면 전투 중에 소진된 레벨을 빠르게 회복할 수 있습니다.
 level12xanatha,git,Placeable List/2/ItemList/3/LocalizedName,0,석화 해제로드
 level12xanatha,git,Placeable List/3/LocName,0,누름판 - 1
 level12xanatha,git,Placeable List/3/Description,0,작은 압력판이 아래쪽에 숨겨진 메커니즘을 활성화시키는 것 같습니다.
@@ -7368,7 +7368,7 @@ level12xanatha,git,Placeable List/8/LocName,0,책장
 level12xanatha,git,Placeable List/8/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
 level12xanatha,git,Placeable List/8/ItemList/0/LocalizedName,0,금화
 level12xanatha,git,Placeable List/8/ItemList/1/LocalizedName,0,더 큰 불볼트 마법봉
-level12xanatha,git,Placeable List/8/ItemList/1/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level12xanatha,git,Placeable List/8/ItemList/1/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level12xanatha,git,Placeable List/9/LocName,0,책장
 level12xanatha,git,Placeable List/9/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
 level12xanatha,git,Placeable List/10/LocName,0,책장
@@ -7431,11 +7431,11 @@ level12xanatha,git,Placeable List/40/Description,0,철로 묶여 있고 무거�
 level12xanatha,git,Placeable List/40/ItemList/0/LocalizedName,0,번개 부르기 마법봉
 level12xanatha,git,Placeable List/40/ItemList/0/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level12xanatha,git,Placeable List/40/ItemList/1/LocalizedName,0,더 큰 불볼트 마법봉
-level12xanatha,git,Placeable List/40/ItemList/1/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level12xanatha,git,Placeable List/40/ItemList/1/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level12xanatha,git,Placeable List/40/ItemList/2/LocalizedName,0,석화 해제로드
-level12xanatha,git,Placeable List/40/ItemList/2/DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
+level12xanatha,git,Placeable List/40/ItemList/2/DescIdentified,0,이 주문은 석화된 생물을 원래 상태로 되돌리고 생명과 소지품을 회복시킵니다.
 level12xanatha,git,Placeable List/40/ItemList/3/LocalizedName,0,회복의 막대
-level12xanatha,git,Placeable List/40/ItemList/3/DescIdentified,0,이 강력한 아이템들은 전투 중에 소진된 레벨을 빠르게 회복할 수 있게 해준다.
+level12xanatha,git,Placeable List/40/ItemList/3/DescIdentified,0,이 강력한 아이템을 사용하면 전투 중에 소진된 레벨을 빠르게 회복할 수 있습니다.
 level12xanatha,git,Placeable List/41/LocName,0,상자
 level12xanatha,git,Placeable List/41/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 level12xanatha,git,Placeable List/41/ItemList/0/LocalizedName,0,회복
@@ -7447,7 +7447,7 @@ level12xanatha,git,Placeable List/41/ItemList/2/DescIdentified,0,"이 우유가 
 level12xanatha,git,Placeable List/41/ItemList/3/LocalizedName,0,상급 올빼미의 지혜 물약
 level12xanatha,git,Placeable List/41/ItemList/3/DescIdentified,0,"이 우유가 붉은 색의 약은 음주자의 주변 환경에 대한 인식을 열어주며, 정신을 겨냥한 영향에 더 잘 관찰하고 더 잘 저항하게 만든다."
 level12xanatha,git,Placeable List/41/ItemList/4/LocalizedName,0,더 큰 불볼트 마법봉
-level12xanatha,git,Placeable List/41/ItemList/4/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level12xanatha,git,Placeable List/41/ItemList/4/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level12xanatha,git,Placeable List/41/ItemList/5/LocalizedName,0,번개 부르기 대형 마법봉
 level12xanatha,git,Placeable List/41/ItemList/5/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level12xanatha,git,Placeable List/41/ItemList/6/LocalizedName,0,죽음 방비 물약
@@ -7468,7 +7468,7 @@ level12xanatha,git,Placeable List/46/ItemList/2/DescIdentified,0,이 강력 한 
 level12xanatha,git,Placeable List/46/ItemList/3/LocalizedName,0,죽음 방비 물약
 level12xanatha,git,Placeable List/46/ItemList/3/DescIdentified,0,"대상 생물은 모든 죽음의 주문, 마법 능력, 그리고 효과에 면역이 됩니다."
 level12xanatha,git,Placeable List/46/ItemList/4/LocalizedName,0,석화 해제로드
-level12xanatha,git,Placeable List/46/ItemList/4/DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
+level12xanatha,git,Placeable List/46/ItemList/4/DescIdentified,0,이 주문은 석화된 생물을 원래 상태로 되돌리고 생명과 소지품을 회복시킵니다.
 level12xanatha,git,Placeable List/47/LocName,0,상자
 level12xanatha,git,Placeable List/47/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 level12xanatha,git,Placeable List/47/ItemList/1/LocalizedName,0,회복
@@ -7492,7 +7492,7 @@ level12xanatha,git,Placeable List/49/ItemList/0/DescIdentified,0,"이 약물은 
 level12xanatha,git,Placeable List/49/ItemList/1/LocalizedName,0,하급 회복의 물약
 level12xanatha,git,Placeable List/49/ItemList/1/DescIdentified,0,"이 포션은 부정 에너지를 전달하는 생물들에 의해 빼앗긴 생명력을 회복시킵니다. 어두운 액체는 살아있는 존재 근처에서 빛나지만, 성분은 구별할 수 없습니다."
 level12xanatha,git,Placeable List/49/ItemList/2/LocalizedName,0,더 큰 불볼트 마법봉
-level12xanatha,git,Placeable List/49/ItemList/2/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level12xanatha,git,Placeable List/49/ItemList/2/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level12xanatha,git,Placeable List/49/ItemList/3/LocalizedName,0,상급 올빼미의 지혜 물약
 level12xanatha,git,Placeable List/49/ItemList/3/DescIdentified,0,"이 우유가 붉은 색의 약은 음주자의 주변 환경에 대한 인식을 열어주며, 정신을 겨냥한 영향에 더 잘 관찰하고 더 잘 저항하게 만든다."
 level12xanatha,git,Placeable List/49/ItemList/4/LocalizedName,0,해 를 끼치는 막대
@@ -8068,7 +8068,7 @@ level12xanathars,git,Placeable List/4/ItemList/1/LocalizedName,0,번개 부르�
 level12xanathars,git,Placeable List/4/ItemList/1/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level12xanathars,git,Placeable List/4/ItemList/2/LocalizedName,0,웬틀리 켈소의 일지 노트
 level12xanathars,git,Placeable List/4/ItemList/2/Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 ""명확 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터디프 의 하천 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
-level12xanathars,git,Placeable List/4/ItemList/2/DescIdentified,0,우리는 이 방에서 거대한 눈이 팔대석에 앉아 있다는 것을 발견하여 놀랐습니다. 정말 놀라운 작품입니다. 그 눈에 구슬을 넣으면 어떻게 될지 궁금합니다.
+level12xanathars,git,Placeable List/4/ItemList/2/DescIdentified,0,우리는 이 방의 받침대 위에 거대한 눈이 놓여 있는 것을 보고 놀랐습니다. 정말 놀라운 예술품입니다. 저 눈에 구슬을 넣으면 어떻게 될지 궁금합니다.
 level12xanathars,git,Placeable List/6/LocName,0,누름판 - 1
 level12xanathars,git,Placeable List/6/Description,0,작은 압력판이 아래쪽에 숨겨진 메커니즘을 활성화시키는 것 같습니다.
 level12xanathars,git,Placeable List/11/LocName,0,빛줄기
@@ -8116,11 +8116,11 @@ level12xanathars,git,Placeable List/25/ItemList/2/DescIdentified,0,"이 우유�
 level12xanathars,git,Placeable List/25/ItemList/3/LocalizedName,0,번개 부르기 대형 마법봉
 level12xanathars,git,Placeable List/25/ItemList/3/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 level12xanathars,git,Placeable List/25/ItemList/4/LocalizedName,0,더 큰 불볼트 마법봉
-level12xanathars,git,Placeable List/25/ItemList/4/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level12xanathars,git,Placeable List/25/ItemList/4/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level12xanathars,git,Placeable List/25/ItemList/5/LocalizedName,0,죽음 방비 물약
 level12xanathars,git,Placeable List/25/ItemList/5/DescIdentified,0,"대상 생물은 모든 죽음의 주문, 마법 능력, 그리고 효과에 면역이 됩니다."
 level12xanathars,git,Placeable List/25/ItemList/6/LocalizedName,0,석화 해제로드
-level12xanathars,git,Placeable List/25/ItemList/6/DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
+level12xanathars,git,Placeable List/25/ItemList/6/DescIdentified,0,이 주문은 석화된 생물을 원래 상태로 되돌리고 생명과 소지품을 회복시킵니다.
 level12xanathars,git,Placeable List/26/LocName,0,상자
 level12xanathars,git,Placeable List/26/Description,0,"이상한 루나와 그림자, 아마도 미묘한 자연, 이 은신 덮여 있는 강박의 옆구리에 불태워졌습니다."
 level12xanathars,git,Placeable List/26/ItemList/0/LocalizedName,0,회복
@@ -8132,7 +8132,7 @@ level12xanathars,git,Placeable List/27/ItemList/0/DescIdentified,0,"이 종류 �
 level12xanathars,git,Placeable List/28/LocName,0,상자
 level12xanathars,git,Placeable List/28/Description,0,"이 화려한 상자의 목재에는 금속 스터드 박혀 있다. 정교한 솜씨로 미루어 볼 때, 이 금고는 대중에게 과시하기 위해 만들어진 것 같다."
 level12xanathars,git,Placeable List/28/ItemList/0/LocalizedName,0,더 큰 불볼트 마법봉
-level12xanathars,git,Placeable List/28/ItemList/0/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level12xanathars,git,Placeable List/28/ItemList/0/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level12xanathars,git,Placeable List/28/ItemList/1/LocalizedName,0,얼음 폭풍의 막대
 level12xanathars,git,Placeable List/29/LocName,0,상자
 level12xanathars,git,Placeable List/29/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
@@ -8143,7 +8143,7 @@ level12xanathars,git,Placeable List/29/ItemList/1/DescIdentified,0,"카스터 �
 level12xanathars,git,Placeable List/30/LocName,0,빛나는 깃털 받침대
 level12xanathars,git,Placeable List/30/Description,0,"낮은 기둥은 알바스터색으로 빛나며, 그 그림자가 조각난 기둥을 따라 흐른다."
 level12xanathars,git,Placeable List/40/LocName,0,"""실체는 바위, 힘은 물약, 생동감은 구슬로"""
-level12xanathars,git,Placeable List/40/Description,0,"먼저 돌을 하나 넣고, 다음에는 치유 물약을 하나 추가하세요."
+level12xanathars,git,Placeable List/40/Description,0,"먼저 돌을 하나 넣고, 다음에는 생명을 불어넣기 위해 강력한 치유 물약을 하나 추가하세요."
 level12xanathars,git,Placeable List/42/LocName,0,연금술사의 기구
 level12xanathars,git,Placeable List/42/Description,0,이 테이블에 있는 거품과 유통에서 불쾌한 냄새가 난다.
 level12xanathars,git,Placeable List/42/ItemList/0/LocalizedName,0,힐링의 포션
@@ -8714,7 +8714,7 @@ level4s,git,Placeable List/167/LocName,0,핏자국 2
 level4s,git,Placeable List/168/LocName,0,핏자국 8
 level4s,git,Placeable List/169/LocName,0,혈흔 1
 level4s,git,Placeable List/170/LocName,0,블러드트레일 2
-level4s,git,Placeable List/171/LocName,0,혈투 4
+level4s,git,Placeable List/171/LocName,0,블러드트레일 4
 level4s,git,Placeable List/172/LocName,0,블러드트레일 2
 level4s,git,Placeable List/173/LocName,0,핏자국 5
 level4s,git,Placeable List/174/LocName,0,핏자국 7
@@ -10263,8 +10263,8 @@ level4upperle001,git,WaypointList/3/LocalizedName,0,이정표
 level4upperle001,git,WaypointList/4/LocalizedName,0,이정표
 level4upperle001,git,WaypointList/5/LocalizedName,0,레벨 4 - 북부 광산
 level4upperle001,git,WaypointList/5/MapNote,0,레벨 4 - 북부 광산
-level4upperle001,git,WaypointList/6/LocalizedName,0,레벨 4 - 동부 길드하우스
-level4upperle001,git,WaypointList/6/MapNote,0,레벨 4 - 동부 길드하우스
+level4upperle001,git,WaypointList/6/LocalizedName,0,4층 - 동쪽 광산
+level4upperle001,git,WaypointList/6/MapNote,0,4층 - 동쪽 광산
 level4upperle001,git,Placeable List/0/LocName,0,거미 고치
 level4upperle001,git,Placeable List/0/Description,0,엉킨 거미줄 덩어리가 고치의 중심부를 둘러싸고 있습니다.
 level4upperle001,git,Placeable List/1/LocName,0,부패한 몸체
@@ -11352,7 +11352,7 @@ level4upperlevel,git,StoreList/0/StoreList/1/ItemList/36/DescIdentified,0,"이 �
 level4upperlevel,git,StoreList/0/StoreList/1/ItemList/37/LocalizedName,0,드워프 전쟁망치 +1
 level4upperlevel,git,StoreList/0/StoreList/1/ItemList/38/LocalizedName,0,혼돈 파괴자
 level4upperlevel,git,StoreList/0/StoreList/1/ItemList/38/DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
-level4upperlevel,git,StoreList/0/StoreList/1/ItemList/39/LocalizedName,0,니니지 +2의 별
+level4upperlevel,git,StoreList/0/StoreList/1/ItemList/39/LocalizedName,0,닌지의 별 +2
 level4upperlevel,git,StoreList/0/StoreList/1/ItemList/39/DescIdentified,0,"닌지는 골든 마을의 영적 가이드였지만, 강도들이 마을을 포위하면서 제작자로 일하게 되었다. 그는 방어자들이 반격할 수 있도록 이 무기들과 다른 무기들을 제작하였고, 금속 작업에 능숙하지 않았음에도 불구하고, 그의 지도하는 영령들에 감사의 마음을 전하며 망치의 각 성공적인 타격을 위해 고마움을 표했다. 이 별들이 여전히 존재하는 것은 그의 믿음의 강도를 증명한다."
 level4upperlevel,git,StoreList/0/StoreList/1/ItemList/40/LocalizedName,0,불지옥 쿠크리 +2
 level4upperlevel,git,StoreList/0/StoreList/1/ItemList/40/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
@@ -11381,7 +11381,7 @@ level4upperlevel,git,StoreList/0/StoreList/3/ItemList/21/LocalizedName,0,더 높
 level4upperlevel,git,StoreList/0/StoreList/3/ItemList/21/DescIdentified,0,"이 반지는 현자와 음유시인 모두에게 탐내는 물건이며, 정신이 멍한 교수 중 한 명은 이 '학자의 친구' 덕분에 학문적 명성을 얻기도 했습니다. 마법 아이템을 감정하는 더 실용적인 용도로 사용하는 모험가들에게도 이 반지는 못지않게 가치 있습니다."
 level4upperlevel,git,StoreList/0/StoreList/3/ItemList/22/LocalizedName,0,빛나는 반지
 level4upperlevel,git,StoreList/0/StoreList/3/ItemList/22/DescIdentified,0,"이 반지는 모험가들에게 훌륭한 빛의 소스로, 두 손을 무기와 장비에 사용할 수 있게 해줍니다."
-level4upperlevel,git,StoreList/0/StoreList/3/ItemList/28/LocalizedName,0,방사 완드
+level4upperlevel,git,StoreList/0/StoreList/3/ItemList/28/LocalizedName,0,미사일 완드
 level4upperlevel,git,StoreList/0/StoreList/3/ItemList/28/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 level4upperlevel,git,StoreList/0/StoreList/3/ItemList/29/LocalizedName,0,얼음 폭풍의 막대
 level4upperlevel,git,StoreList/0/StoreList/4/ItemList/18/LocalizedName,0,유리병에 담긴 기름
@@ -11437,7 +11437,7 @@ level4upperlevel,git,Placeable List/1/ItemList/2/LocalizedName,0,드워프 키
 level4upperlevel,git,Placeable List/2/LocName,0,나무 상자
 level4upperlevel,git,Placeable List/2/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 level4upperlevel,git,Placeable List/3/LocName,0,무기 거치대
-level4upperlevel,git,Placeable List/3/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+level4upperlevel,git,Placeable List/3/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 level4upperlevel,git,Placeable List/4/LocName,0,죽은 드워프
 level4upperlevel,git,Placeable List/4/Description,0,땅 위에 슬픈 인간형 뼈 무리가 쌓여 있었다.
 level4upperlevel,git,Placeable List/4/ItemList/1/LocalizedName,0,금화
@@ -14786,58 +14786,58 @@ level6lowerle001,git,Placeable List/118/Description,0,작은 켄쿠의 둥지는
 level6lowerle001,git,Placeable List/119/LocName,0,켄쿠 네스트
 level6lowerle001,git,Placeable List/119/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerle001,git,Placeable List/120/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/120/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/120/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/121/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/122/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/122/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/122/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/123/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/124/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/124/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/124/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/125/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/126/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/126/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/126/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/127/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/128/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/128/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/128/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/129/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/130/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/130/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/130/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/131/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/131/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/131/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/132/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/133/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/133/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/133/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/134/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/135/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/135/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/135/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/136/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/137/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/137/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/137/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/138/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/139/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/140/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/140/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/140/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/141/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/142/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/142/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/142/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/143/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/144/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/144/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/144/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/145/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/146/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/146/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/146/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/147/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/148/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/148/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/148/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/149/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/150/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/150/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/150/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/151/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/151/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/151/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/152/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/153/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/154/LocName,0,행잉 클로
-level6lowerle001,git,Placeable List/154/Description,0,켄쿠 침검
+level6lowerle001,git,Placeable List/154/Description,0,켄쿠 발톱
 level6lowerle001,git,Placeable List/155/LocName,0,블루 플레임
 level6lowerle001,git,Placeable List/156/LocName,0,핏자국 8
 level6lowerle001,git,Placeable List/157/LocName,0,혈흔 1
@@ -15408,17 +15408,17 @@ level6lowerlevel,git,Placeable List/113/LocName,0,오래된 던전 단단한 벽
 level6lowerlevel,git,Placeable List/114/LocName,0,오래된 던전 단단한 벽
 level6lowerlevel,git,Placeable List/115/LocName,0,오래된 던전 단단한 벽
 level6lowerlevel,git,Placeable List/116/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/116/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/116/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/117/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/117/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/117/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/118/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/118/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/118/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/119/LocName,0,켄쿠 알
-level6lowerlevel,git,Placeable List/119/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/119/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/120/LocName,0,켄쿠 알
-level6lowerlevel,git,Placeable List/120/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/120/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/121/LocName,0,켄쿠 알
-level6lowerlevel,git,Placeable List/121/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/121/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/122/LocName,0,켄쿠 네스트
 level6lowerlevel,git,Placeable List/122/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerlevel,git,Placeable List/123/LocName,0,켄쿠 네스트
@@ -15436,7 +15436,7 @@ level6lowerlevel,git,Placeable List/128/Description,0,작은 켄쿠의 둥지는
 level6lowerlevel,git,Placeable List/129/LocName,0,켄쿠 네스트
 level6lowerlevel,git,Placeable List/129/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerlevel,git,Placeable List/130/LocName,0,켄쿠 알
-level6lowerlevel,git,Placeable List/130/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/130/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/131/LocName,0,켄쿠 네스트
 level6lowerlevel,git,Placeable List/131/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerlevel,git,Placeable List/132/LocName,0,켄쿠 네스트
@@ -15482,30 +15482,30 @@ level6lowerlevel,git,Placeable List/152/Description,0,작은 켄쿠의 둥지는
 level6lowerlevel,git,Placeable List/153/LocName,0,켄쿠 네스트
 level6lowerlevel,git,Placeable List/153/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerlevel,git,Placeable List/155/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/155/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/155/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/156/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/156/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/156/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/157/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/158/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/159/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/160/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/161/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/162/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/162/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/162/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/163/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/164/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/164/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/164/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/165/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/166/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/166/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/166/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/167/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/168/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/168/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/168/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/169/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/169/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/169/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/170/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/171/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/171/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/171/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/172/LocName,0,켄쿠 네스트
 level6lowerlevel,git,Placeable List/172/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerlevel,git,Placeable List/173/LocName,0,켄쿠 네스트
@@ -15515,12 +15515,12 @@ level6lowerlevel,git,Placeable List/174/Description,0,작은 켄쿠의 둥지는
 level6lowerlevel,git,Placeable List/175/LocName,0,켄쿠 네스트
 level6lowerlevel,git,Placeable List/175/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerlevel,git,Placeable List/176/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/176/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/176/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/177/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/178/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/178/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/178/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/179/LocName,0,행잉 클로
-level6lowerlevel,git,Placeable List/179/Description,0,켄쿠 침검
+level6lowerlevel,git,Placeable List/179/Description,0,켄쿠 발톱
 level6lowerlevel,git,Placeable List/180/LocName,0,블루 플레임
 level6lowerlevel,git,Placeable List/181/LocName,0,암흑 기둥
 level6lowerlevel,git,Placeable List/181/ItemList/0/LocalizedName,0,고대 돌
@@ -16101,7 +16101,7 @@ level6lowerlvn,git,Placeable List/4/Description,0,이 상자는 낮고 평평하
 level6lowerlvn,git,Placeable List/4/ItemList/0/LocalizedName,0,힐링의 포션
 level6lowerlvn,git,Placeable List/4/ItemList/0/DescIdentified,0,"이 약물은 환원, 치유 및 치유의 훌륭한 효과입니다. 마치 치유 마법을 통해 대부분의 병을 치료하는 것처럼요."
 level6lowerlvn,git,Placeable List/4/ItemList/2/LocalizedName,0,금화
-level6lowerlvn,git,Placeable List/4/ItemList/4/LocalizedName,0,구리 키
+level6lowerlvn,git,Placeable List/4/ItemList/4/LocalizedName,0,구리 열쇠
 level6lowerlvn,git,Placeable List/4/ItemList/6/LocalizedName,0,돌 글자
 level6lowerlvn,git,Placeable List/4/ItemList/6/Description,0,돌 글리프의 표면에는 제거할 수 없는 녹색 보석이 박혀 있습니다. 또한 글리프에는 숫자 1이 새겨져 있습니다.
 level6lowerlvn,git,Placeable List/4/ItemList/6/DescIdentified,0,"돌 문양을 자세히 살펴보니, 표면에 드워프 기원의 특별한 표시들이 보이며 문양의 오른쪽 측면에는 숫자 3이 더욱 눈에 띄게 깊게 새겨져 있고 중앙에는 숫자 2, 오른쪽 측면에는 숫자 1이 새겨져 있다. 이 표시들은 드워프 기원의 것으로 특별한 목적을 수행할지도 모른다."
@@ -16309,7 +16309,7 @@ level6lowerlvn,git,Placeable List/202/LocName,0,오래된 던전 단단한 벽
 level6lowerlvn,git,Placeable List/203/LocName,0,오래된 던전 단단한 벽
 level6lowerlvn,git,Placeable List/204/LocName,0,오래된 던전 단단한 벽
 level6lowerlvn,git,Placeable List/211/LocName,0,켄쿠 알
-level6lowerlvn,git,Placeable List/211/Description,0,켄쿠 침검
+level6lowerlvn,git,Placeable List/211/Description,0,켄쿠 발톱
 level6lowerlvn,git,Placeable List/213/LocName,0,켄쿠 네스트
 level6lowerlvn,git,Placeable List/213/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerlvn,git,Placeable List/214/LocName,0,켄쿠 네스트
@@ -16321,10 +16321,10 @@ level6lowerlvn,git,Placeable List/216/Description,0,작은 켄쿠의 둥지는 �
 level6lowerlvn,git,Placeable List/217/LocName,0,켄쿠 네스트
 level6lowerlvn,git,Placeable List/217/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 level6lowerlvn,git,Placeable List/220/LocName,0,행잉 클로
-level6lowerlvn,git,Placeable List/220/Description,0,켄쿠 침검
+level6lowerlvn,git,Placeable List/220/Description,0,켄쿠 발톱
 level6lowerlvn,git,Placeable List/221/LocName,0,블루 플레임
 level6lowerlvn,git,Placeable List/222/LocName,0,행잉 클로
-level6lowerlvn,git,Placeable List/222/Description,0,켄쿠 침검
+level6lowerlvn,git,Placeable List/222/Description,0,켄쿠 발톱
 level6lowerlvn,git,Placeable List/223/LocName,0,암흑 기둥
 level6lowerlvn,git,Placeable List/223/ItemList/0/LocalizedName,0,고대 돌
 level6lowerlvn,git,Placeable List/223/ItemList/0/DescIdentified,0,이 고대 돌은 나중에 필요할 특별한 아이템입니다.
@@ -17320,7 +17320,7 @@ level9lowera,git,Placeable List/202/LocName,0,핏자국 3
 level9lowera,git,Placeable List/203/LocName,0,핏자국 8
 level9lowera,git,Placeable List/204/LocName,0,혈흔 1
 level9lowera,git,Placeable List/205/LocName,0,블러드트레일 2
-level9lowera,git,Placeable List/206/LocName,0,혈투 4
+level9lowera,git,Placeable List/206/LocName,0,블러드트레일 4
 level9lowera,git,Placeable List/207/LocName,0,핏자국 8
 level9lowera,git,Placeable List/208/LocName,0,핏자국 7
 level9lowera,git,Placeable List/209/LocName,0,핏자국 8
@@ -17356,12 +17356,12 @@ level9lowerreach,git,Creature List/0/ItemList/0/LocalizedName,0,그림자 속삭
 level9lowerreach,git,Creature List/0/ItemList/0/DescIdentified,0,"이 세트는 Rogue를 위해 설계되었습니다. 이 세트는 Rick ""Dark"" Francis에 의해 MOD 시야를 위해 만들어졌습니다."
 level9lowerreach,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,미노곤 화염 거인 대도끼
 level9lowerreach,git,Creature List/1/FirstName,0,녹 괴물
-level9lowerreach,git,Creature List/1/Description,0,"다른 대부분의 전투자들은 오크 군대를 상대하는 것보다 빛나지 않는 몬스터와 맞서는 것을 더 선호한다. 이 생물들은 금속 물건을 손상시키고 먹어치우며, 무수히 많은 모험가들의 갑옷, 방패, 그리고 무기를 파괴해 왔다."
+level9lowerreach,git,Creature List/1/Description,0,"대부분의 전사들은 녹슨 괴물과 맞닥뜨리는 것보다 오크 군대와 싸우는 쪽을 택할 것이다. 이 생물들은 금속 물건을 부식시키고 먹어치우며, 수많은 모험가들의 갑옷과 방패, 무기를 망가뜨려 왔다."
 level9lowerreach,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,괴물 안테나
 level9lowerreach,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,괴물 안테나
 level9lowerreach,git,Creature List/1/Equip_ItemList/2/LocalizedName,0,러스트 몬스터의 물기
 level9lowerreach,git,Creature List/2/FirstName,0,녹 괴물
-level9lowerreach,git,Creature List/2/Description,0,"다른 대부분의 전투자들은 오크 군대를 상대하는 것보다 빛나지 않는 몬스터와 맞서는 것을 더 선호한다. 이 생물들은 금속 물건을 손상시키고 먹어치우며, 무수히 많은 모험가들의 갑옷, 방패, 그리고 무기를 파괴해 왔다."
+level9lowerreach,git,Creature List/2/Description,0,"대부분의 전사들은 녹슨 괴물과 맞닥뜨리는 것보다 오크 군대와 싸우는 쪽을 택할 것이다. 이 생물들은 금속 물건을 부식시키고 먹어치우며, 수많은 모험가들의 갑옷과 방패, 무기를 망가뜨려 왔다."
 level9lowerreach,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,괴물 안테나
 level9lowerreach,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,괴물 안테나
 level9lowerreach,git,Creature List/2/Equip_ItemList/2/LocalizedName,0,러스트 몬스터의 물기
@@ -18025,7 +18025,7 @@ level9lowers,git,Placeable List/15/Description,0,그 사슬은 당신 위에 있
 level9lowers,git,Placeable List/16/LocName,0,상자
 level9lowers,git,Placeable List/16/Description,0,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
 level9lowers,git,Placeable List/16/ItemList/0/LocalizedName,0,화염의 마법봉
-level9lowers,git,Placeable List/16/ItemList/0/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+level9lowers,git,Placeable List/16/ItemList/0/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 level9lowers,git,Placeable List/16/ItemList/1/LocalizedName,0,맑은 정신을 부여하는 물약
 level9lowers,git,Placeable List/16/ItemList/1/DescIdentified,0,그을리고 톡 쏘는 콩에 뜨거운 액체를 부어 만든 이 독한 냄새의 음료는 그 생김새에서 이름이 유래된 것이 아니다. 이 음료는 정신에 영향을 미치는 주문으로부터 정신을 맑게 하고 강화하는 데 도움을 준다.
 level9lowers,git,Placeable List/16/ItemList/2/LocalizedName,0,지구력의 물약
@@ -18687,7 +18687,7 @@ lordsofwaterdeep,git,WaypointList/12/MapNote,0,시티 던전으로
 lordsofwaterdeep,git,Placeable List/0/LocName,0,옥좌
 lordsofwaterdeep,git,Placeable List/0/Description,0,"황금의 왕좌는 마법이나 역사의 무게로 인해 자신감과 권위를 풍기며, 이 왕좌를 자신의 자리로 삼은 통치자들은 현명하다."
 lordsofwaterdeep,git,Placeable List/15/LocName,0,무기 거치대
-lordsofwaterdeep,git,Placeable List/15/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+lordsofwaterdeep,git,Placeable List/15/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 lordsofwaterdeep,git,Placeable List/16/LocName,0,책장
 lordsofwaterdeep,git,Placeable List/16/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
 lordsofwaterdeep,git,Placeable List/17/LocName,0,책장
@@ -18916,9 +18916,9 @@ lostancienta,git,List/1/LocalizedName,0,신성한 방패
 lostancienta,git,List/2/LocalizedName,0,성스러운 수호자 갑옷
 lostancienta,git,List/2/DescIdentified,0,"이 성스러운 갑옷은 대여사제 알리아에게서 물려받아 선의 수호자들에게 전해졌으며, 보통 성기사나 성직자들이 착용했습니다."
 lostancienta,git,List/3/LocalizedName,0,화염의 마법봉
-lostancienta,git,List/3/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+lostancienta,git,List/3/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 lostancienta,git,List/5/LocalizedName,0,회복의 막대
-lostancienta,git,List/5/DescIdentified,0,이 강력한 아이템들은 전투 중에 소진된 레벨을 빠르게 회복할 수 있게 해준다.
+lostancienta,git,List/5/DescIdentified,0,이 강력한 아이템을 사용하면 전투 중에 소진된 레벨을 빠르게 회복할 수 있습니다.
 lostancienta,git,List/6/LocalizedName,0,술사 열쇠
 lostancienta,git,SoundList/0/LocName,0,외풍이 드는 실내
 lostancienta,git,SoundList/1/LocName,0,좀비 신음소리
@@ -19022,7 +19022,7 @@ lostancienta,git,Placeable List/39/Description,0,"이상한 루나와 그림자,
 lostancienta,git,Placeable List/40/LocName,0,석관
 lostancienta,git,Placeable List/40/Description,0,"돌 뚜껑은 무거웠고, 도둑들이 들어오는 것을 막는 동시에 죽은 자를 안쪽에 가두어 두기 위해 설계되었다."
 lostancienta,git,Placeable List/40/ItemList/0/LocalizedName,0,회복의 막대
-lostancienta,git,Placeable List/40/ItemList/0/DescIdentified,0,이 강력한 아이템들은 전투 중에 소진된 레벨을 빠르게 회복할 수 있게 해준다.
+lostancienta,git,Placeable List/40/ItemList/0/DescIdentified,0,이 강력한 아이템을 사용하면 전투 중에 소진된 레벨을 빠르게 회복할 수 있습니다.
 lostancienta,git,Placeable List/41/LocName,0,석관
 lostancienta,git,Placeable List/41/Description,0,사코파그스의 무거운 덮개는 장식이 없는 돌로 만들어졌습니다.
 lostancienta,git,Placeable List/42/LocName,0,관
@@ -19144,18 +19144,18 @@ lostancienta,git,Placeable List/143/LocName,0,핏자국 3
 lostancienta,git,Placeable List/144/LocName,0,핏자국 5
 lostancienta,git,Placeable List/145/LocName,0,핏자국 6
 lostancienta,git,Placeable List/146/LocName,0,핏자국 4
-lostancienta,git,Placeable List/155/LocName,0,혈투 4
+lostancienta,git,Placeable List/155/LocName,0,블러드트레일 4
 lostancienta,git,Placeable List/156/LocName,0,블러드트레일 2
 lostancienta,git,Placeable List/157/LocName,0,혈흔 1
-lostancienta,git,Placeable List/158/LocName,0,혈투 3
-lostancienta,git,Placeable List/159/LocName,0,혈투 4
-lostancienta,git,Placeable List/160/LocName,0,혈투 4
-lostancienta,git,Placeable List/161/LocName,0,혈투 3
+lostancienta,git,Placeable List/158/LocName,0,블러드트레일 3
+lostancienta,git,Placeable List/159/LocName,0,블러드트레일 4
+lostancienta,git,Placeable List/160/LocName,0,블러드트레일 4
+lostancienta,git,Placeable List/161/LocName,0,블러드트레일 3
 lostancienta,git,Placeable List/162/LocName,0,핏자국 2
 lostancienta,git,Placeable List/163/LocName,0,핏자국 3
 lostancienta,git,Placeable List/164/LocName,0,핏자국 4
 lostancienta,git,Placeable List/165/LocName,0,핏자국 6
-lostancienta,git,Placeable List/166/LocName,0,혈투 4
+lostancienta,git,Placeable List/166/LocName,0,블러드트레일 4
 lostancienta,git,Placeable List/167/LocName,0,핏자국 5
 lostancienta,git,Placeable List/168/LocName,0,핏자국 7
 lostancienta,git,Placeable List/170/LocName,0,핏자국 7
@@ -19232,7 +19232,7 @@ lostancienta,git,Placeable List/249/LocName,0,핏자국 5
 lostancienta,git,Placeable List/250/LocName,0,핏자국 6
 lostancienta,git,Placeable List/251/LocName,0,핏자국 4
 lostancienta,git,Placeable List/252/LocName,0,핏자국 5
-lostancienta,git,Placeable List/253/LocName,0,긴검 1
+lostancienta,git,Placeable List/253/LocName,0,롱소드 1
 lostancienta,git,Placeable List/254/LocName,0,롱스word 2
 lostancienta,git,Placeable List/255/LocName,0,핏자국 4
 lostancienta,git,Placeable List/256/LocName,0,흙 부분 대형
@@ -19881,7 +19881,7 @@ lostancienttomb,git,Placeable List/12/LocName,0,돌살대
 lostancienttomb,git,Placeable List/12/Description,0,"여기에 몇 개의 작은 돌들이 모여 있으며, 밋밋한 표면이 깨끗하게 씻겨져 있습니다."
 lostancienttomb,git,Placeable List/48/LocName,0,석관
 lostancienttomb,git,Placeable List/48/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
-lostancienttomb,git,Placeable List/48/ItemList/0/LocalizedName,0,방사 완드
+lostancienttomb,git,Placeable List/48/ItemList/0/LocalizedName,0,미사일 완드
 lostancienttomb,git,Placeable List/48/ItemList/0/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 lostancienttomb,git,Placeable List/48/ItemList/1/LocalizedName,0,라탄더의 헬멧
 lostancienttomb,git,Placeable List/48/ItemList/1/Description,0,라탄더는 아침의 군주로도 알려져 있다.
@@ -21846,8 +21846,8 @@ lv5barracks,git,WaypointList/40/LocalizedName,0,드워프 대강당으로
 lv5barracks,git,WaypointList/40/MapNote,0,드워프 대강당으로
 lv5barracks,git,WaypointList/41/LocalizedName,0,레벨 5 - 서부 광산
 lv5barracks,git,WaypointList/41/MapNote,0,레벨 5 - 서부 광산
-lv5barracks,git,WaypointList/42/LocalizedName,0,레벨 5 - 동부 길드하우스
-lv5barracks,git,WaypointList/42/MapNote,0,레벨 5 - 동부 길드하우스
+lv5barracks,git,WaypointList/42/LocalizedName,0,레벨 5 - 광산 동부
+lv5barracks,git,WaypointList/42/MapNote,0,레벨 5 - 광산 동부
 lv5barracks,git,WaypointList/43/LocalizedName,0,레벨 5 - 서부 광산
 lv5barracks,git,WaypointList/43/MapNote,0,레벨 5 - 서부 광산
 lv5barracks,git,WaypointList/44/LocalizedName,0,레벨 5 - 서부 광산
@@ -21876,17 +21876,17 @@ lv5barracks,git,Placeable List/24/Description,0,이 벤치의 탄탄한 판들�
 lv5barracks,git,Placeable List/25/LocName,0,"조각상, 드워프"
 lv5barracks,git,Placeable List/26/LocName,0,"조각상, 드워프"
 lv5barracks,git,Placeable List/27/LocName,0,무기 거치대
-lv5barracks,git,Placeable List/27/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+lv5barracks,git,Placeable List/27/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 lv5barracks,git,Placeable List/28/LocName,0,무기 거치대
-lv5barracks,git,Placeable List/28/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+lv5barracks,git,Placeable List/28/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 lv5barracks,git,Placeable List/29/LocName,0,무기 거치대
-lv5barracks,git,Placeable List/29/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+lv5barracks,git,Placeable List/29/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 lv5barracks,git,Placeable List/29/ItemList/0/LocalizedName,0,파괴자 +1
 lv5barracks,git,Placeable List/29/ItemList/0/DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 lv5barracks,git,Placeable List/30/LocName,0,무기 거치대
-lv5barracks,git,Placeable List/30/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+lv5barracks,git,Placeable List/30/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 lv5barracks,git,Placeable List/31/LocName,0,무기 거치대
-lv5barracks,git,Placeable List/31/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+lv5barracks,git,Placeable List/31/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 lv5barracks,git,Placeable List/32/LocName,0,긴의자
 lv5barracks,git,Placeable List/32/Description,0,이 벤치의 탄탄한 판들은 수년간의 사용으로 부드러워졌습니다.
 lv5barracks,git,Placeable List/47/LocName,0,상자
@@ -21913,11 +21913,11 @@ lv5barracks,git,Placeable List/178/Description,0,뜨끈한 스튜 한 그릇은 
 lv5barracks,git,Placeable List/179/LocName,0,"그릇 - 백색, 스튜"
 lv5barracks,git,Placeable List/179/Description,0,뜨끈한 스튜 한 그릇은 길 위의 억센 모험가들에게 반가운 음식이다. 하지만 스튜에 정확히 무엇이 들어 있는지는 오래된 수수께끼로 남아 있다.
 lv5barracks,git,Placeable List/180/LocName,0,"보울 - 백색, 콩"
-lv5barracks,git,Placeable List/180/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5barracks,git,Placeable List/180/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5barracks,git,Placeable List/181/LocName,0,"보울 - 백색, 콩"
-lv5barracks,git,Placeable List/181/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5barracks,git,Placeable List/181/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5barracks,git,Placeable List/182/LocName,0,"보울 - 백색, 콩"
-lv5barracks,git,Placeable List/182/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5barracks,git,Placeable List/182/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5barracks,git,Placeable List/183/LocName,0,"그릇 - 백색, 스튜"
 lv5barracks,git,Placeable List/183/Description,0,뜨끈한 스튜 한 그릇은 길 위의 억센 모험가들에게 반가운 음식이다. 하지만 스튜에 정확히 무엇이 들어 있는지는 오래된 수수께끼로 남아 있다.
 lv5barracks,git,Placeable List/184/LocName,0,"그릇 - 백색, 스튜"
@@ -21929,7 +21929,7 @@ lv5barracks,git,Placeable List/186/Description,0,뜨끈한 스튜 한 그릇은 
 lv5barracks,git,Placeable List/187/LocName,0,"그릇 - 백색, 스튜"
 lv5barracks,git,Placeable List/187/Description,0,뜨끈한 스튜 한 그릇은 길 위의 억센 모험가들에게 반가운 음식이다. 하지만 스튜에 정확히 무엇이 들어 있는지는 오래된 수수께끼로 남아 있다.
 lv5barracks,git,Placeable List/188/LocName,0,"보울 - 백색, 콩"
-lv5barracks,git,Placeable List/188/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5barracks,git,Placeable List/188/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5barracks,git,Placeable List/189/LocName,0,"그릇 - 백색, 스튜"
 lv5barracks,git,Placeable List/189/Description,0,뜨끈한 스튜 한 그릇은 길 위의 억센 모험가들에게 반가운 음식이다. 하지만 스튜에 정확히 무엇이 들어 있는지는 오래된 수수께끼로 남아 있다.
 lv5barracks,git,Placeable List/190/LocName,0,"그릇 - 백색, 스튜"
@@ -22233,17 +22233,17 @@ lv5greathall,git,StoreList/1/StoreList/3/ItemList/14/DescIdentified,0,"고대에
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/15/LocalizedName,0,하급 마도사의 지팡이
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/15/DescIdentified,0,"이 종류 의 스태프 는 예술가의 공예 의 최고점 이며, 각각의 스태프 는 매술가 의 수십 년 의 연구 의 최고점 을 나타낸다. 그 들 의 창조 의 비밀 이 거의 사라진 상태 로서, 그러한 스태프 는 살아있는 마법사 들 의 손 보다 고대 용 들 의 무리 에서 더 많이 발견 된다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/16/LocalizedName,0,화염의 마법봉
-lv5greathall,git,StoreList/1/StoreList/3/ItemList/16/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+lv5greathall,git,StoreList/1/StoreList/3/ItemList/16/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/17/LocalizedName,0,번개 부르기 대형 마법봉
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/17/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/18/LocalizedName,0,번개 부르기 마법봉
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/18/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/19/LocalizedName,0,더 큰 불볼트 마법봉
-lv5greathall,git,StoreList/1/StoreList/3/ItemList/19/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+lv5greathall,git,StoreList/1/StoreList/3/ItemList/19/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/20/LocalizedName,0,얼음 폭풍의 막대
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/21/LocalizedName,0,하위 소환의 마법봉
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/21/DescIdentified,0,"소환의 마법봉에 깃든 마법은 잊힌 짐승 토템을 따르던 이들이 만든 고대 마법에 크게 빚지고 있습니다. 하지만 현대의 마법봉을 신의 영감을 받은 도구라고 하기는 어렵습니다. 소서러와 위저드는 여러 곳에서 영감을 얻으므로, 완성된 주문은 한때 속했던 의식과 거의 닮지 않을 수도 있습니다."
-lv5greathall,git,StoreList/1/StoreList/3/ItemList/22/LocalizedName,0,방사 완드
+lv5greathall,git,StoreList/1/StoreList/3/ItemList/22/LocalizedName,0,미사일 완드
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/22/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/33/LocalizedName,0,햇빛의 신성한 지팡이
 lv5greathall,git,StoreList/1/StoreList/3/ItemList/34/LocalizedName,0,돌 피부 막대
@@ -22342,7 +22342,7 @@ lv5greathall,git,Placeable List/13/Description,0,이 벤치의 탄탄한 판들�
 lv5greathall,git,Placeable List/15/LocName,0,스미티 풀
 lv5greathall,git,Placeable List/15/Description,0,"석탄은 부드럽고 부드럽고, 물은 어디서 시작되는지 알기 힘들죠."
 lv5greathall,git,Placeable List/26/LocName,0,무기 거치대
-lv5greathall,git,Placeable List/26/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+lv5greathall,git,Placeable List/26/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 lv5greathall,git,Placeable List/29/LocName,0,책장
 lv5greathall,git,Placeable List/29/Description,0,눈이 어지러울 만큼 다양한 저술이 당신이 이해할 수 없는 방식으로 분류되어 있다. 그중 상당수는 아예 외국어로 쓰인 듯하다.
 lv5greathall,git,Placeable List/29/ItemList/0/LocalizedName,0,금화
@@ -22458,7 +22458,7 @@ lv5greathall,git,Placeable List/139/Description,0,이 상자는 낮고 평평하
 lv5greathall,git,Placeable List/139/ItemList/0/LocalizedName,0,불의 원소 정령 엑스
 lv5greathall,git,Placeable List/139/ItemList/0/DescIdentified,0,이 도끼는 하그렌이라는 고대 왜성 검은 도끼의 흔적을 띠고 있다. 하그렌은 특히 더 깊은 왜성 광산에서 발견되는 거미의 막대한 양을 기 위해 이 불 도끼를 만들어 냈다. 하그렌은 또한 소재된 불 원자로부터 얻은 특별한 마법 부분을 사용했으며 도끼가 불에 손상을 줄 수 있는 능력을 더해 주며 도끼에게 불의 빛깔을 주었다. 이 도끼는 수년간 왜성들이 쉽게 거미를 죽이기 위해 일반적으로 사용했다. 수 년 동안 왜성 스티히는 이 고대 지식을 전달하여 대부분의 왜성 검은 도끼 가게에서 찾을 수 있는 이러한 마법 도끼를 재현했다.
 lv5greathall,git,Placeable List/146/LocName,0,무기 거치대
-lv5greathall,git,Placeable List/146/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+lv5greathall,git,Placeable List/146/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 lv5greathall,git,Placeable List/150/LocName,0,소형 거미줄
 lv5greathall,git,Placeable List/150/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 lv5greathall,git,Placeable List/151/LocName,0,소형 거미줄
@@ -22541,7 +22541,7 @@ lv5greathall,git,Placeable List/236/LocName,0,치료제
 lv5greathall,git,Placeable List/236/Description,0,관심 지점을 표시하는 표지판
 lv5greathall,git,Placeable List/237/LocName,0,델리나르의 가게
 lv5greathall,git,Placeable List/237/Description,0,관심 지점을 표시하는 표지판
-lv5greathall,git,Placeable List/244/LocName,0,배틀아이크스 1
+lv5greathall,git,Placeable List/244/LocName,0,배틀액스 1
 lv5greathall,git,Placeable List/245/LocName,0,배틀액스 2
 lv5greathall,git,Placeable List/246/LocName,0,배틀아엑스 3
 lv5greathall,git,Placeable List/247/LocName,0,배틀아이크스 4
@@ -22578,7 +22578,7 @@ lv5greathall,git,Placeable List/326/LocName,0,용암
 lv5greathall,git,Placeable List/327/LocName,0,용암
 lv5greathall,git,Placeable List/328/LocName,0,용암
 lv5greathall,git,Placeable List/329/LocName,0,용암
-lv5greathall,git,Placeable List/330/LocName,0,배틀아이크스 1
+lv5greathall,git,Placeable List/330/LocName,0,배틀액스 1
 lv5greathall,git,Placeable List/331/LocName,0,양탄자
 lv5greathall,git,Placeable List/332/LocName,0,양탄자
 lv5greathall,git,Placeable List/333/LocName,0,양탄자
@@ -22708,15 +22708,15 @@ lv5greathall,git,Placeable List/428/Description,0,이 병의 내용은 소실되
 lv5greathall,git,Placeable List/429/LocName,0,병 - 비어 있는
 lv5greathall,git,Placeable List/429/Description,0,이 병의 내용은 소실되고 지금은 빈 상태입니다.
 lv5greathall,git,Placeable List/430/LocName,0,"보울 - 백색, 콩"
-lv5greathall,git,Placeable List/430/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5greathall,git,Placeable List/430/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5greathall,git,Placeable List/431/LocName,0,"보울 - 백색, 콩"
-lv5greathall,git,Placeable List/431/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5greathall,git,Placeable List/431/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5greathall,git,Placeable List/432/LocName,0,"보울 - 백색, 콩"
-lv5greathall,git,Placeable List/432/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5greathall,git,Placeable List/432/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5greathall,git,Placeable List/433/LocName,0,"보울 - 백색, 콩"
-lv5greathall,git,Placeable List/433/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5greathall,git,Placeable List/433/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5greathall,git,Placeable List/434/LocName,0,"보울 - 백색, 콩"
-lv5greathall,git,Placeable List/434/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+lv5greathall,git,Placeable List/434/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 lv5greathall,git,Placeable List/435/LocName,0,촛불 04 (주위의)
 lv5greathall,git,Placeable List/436/LocName,0,주위의 촛불 05
 lv5greathall,git,Placeable List/437/LocName,0,촛불 04 (주위의)
@@ -23313,7 +23313,7 @@ lvl4sw,git,Placeable List/112/LocName,0,직선 경로
 lvl4sw,git,Placeable List/113/LocName,0,Y 트랙 R
 lvl4sw,git,Placeable List/114/LocName,0,좌회전 선로
 lvl4sw,git,Placeable List/115/LocName,0,마지막 트랙
-lvl4sw,git,Placeable List/116/LocName,0,Y 트레킹
+lvl4sw,git,Placeable List/116/LocName,0,Y 트랙
 lvl4sw,git,Placeable List/117/LocName,0,마지막 트랙
 lvl4sw,git,Placeable List/118/LocName,0,광산 수레
 lvl4sw,git,Placeable List/119/LocName,0,직선 경로
@@ -23364,9 +23364,9 @@ lvl4sw,git,Placeable List/157/Description,0,신중하게 설정된 관심 지점
 lvl4sw,git,Placeable List/158/LocName,0,바닥 레버
 lvl4sw,git,Placeable List/158/Description,0,바닥에서 튀어나온 무거운 레버는 아래쪽에 있는 어떤 보이지 않는 메커니즘을 제어한다.
 lvl4sw,git,Placeable List/159/LocName,0,Y 트랙 R
-lvl4sw,git,Placeable List/160/LocName,0,Y 트레킹
+lvl4sw,git,Placeable List/160/LocName,0,Y 트랙
 lvl4sw,git,Placeable List/161/LocName,0,Y 트랙 R
-lvl4sw,git,Placeable List/162/LocName,0,Y 트레킹
+lvl4sw,git,Placeable List/162/LocName,0,Y 트랙
 lvl4sw,git,Placeable List/163/LocName,0,바위
 lvl4sw,git,Placeable List/163/Description,0,땅에서 크고 단단한 화강암 조각이 튀어나와 있다.
 lvl4sw,git,Placeable List/164/LocName,0,바위
@@ -23377,7 +23377,7 @@ lvl4sw,git,Placeable List/166/LocName,0,바위
 lvl4sw,git,Placeable List/166/Description,0,땅에서 크고 단단한 화강암 조각이 튀어나와 있다.
 lvl4sw,git,Placeable List/168/LocName,0,녹슨 광산 수레
 lvl4sw,git,Placeable List/169/LocName,0,Y 트랙 R
-lvl4sw,git,Placeable List/170/LocName,0,Y 트레킹
+lvl4sw,git,Placeable List/170/LocName,0,Y 트랙
 lvl4sw,git,Placeable List/172/LocName,0,대형 거미줄
 lvl4sw,git,Placeable List/172/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 lvl4sw,git,Placeable List/173/LocName,0,소형 거미줄
@@ -24486,19 +24486,19 @@ lvl6lowerlevcent,git,Placeable List/138/LocName,0,작은 버섯
 lvl6lowerlevcent,git,Placeable List/139/LocName,0,작은 버섯
 lvl6lowerlevcent,git,Placeable List/140/LocName,0,작은 버섯
 lvl6lowerlevcent,git,Placeable List/143/LocName,0,켄쿠 알
-lvl6lowerlevcent,git,Placeable List/143/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/143/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/144/LocName,0,켄쿠 알
-lvl6lowerlevcent,git,Placeable List/144/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/144/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/145/LocName,0,켄쿠 알
-lvl6lowerlevcent,git,Placeable List/145/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/145/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/146/LocName,0,켄쿠 알
-lvl6lowerlevcent,git,Placeable List/146/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/146/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/147/LocName,0,켄쿠 알
-lvl6lowerlevcent,git,Placeable List/147/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/147/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/148/LocName,0,켄쿠 알
-lvl6lowerlevcent,git,Placeable List/148/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/148/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/149/LocName,0,켄쿠 알
-lvl6lowerlevcent,git,Placeable List/149/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/149/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/150/LocName,0,켄쿠 네스트
 lvl6lowerlevcent,git,Placeable List/150/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 lvl6lowerlevcent,git,Placeable List/151/LocName,0,켄쿠 네스트
@@ -24538,34 +24538,34 @@ lvl6lowerlevcent,git,Placeable List/171/Description,0,작은 켄쿠의 둥지는
 lvl6lowerlevcent,git,Placeable List/172/LocName,0,켄쿠 네스트
 lvl6lowerlevcent,git,Placeable List/172/Description,0,작은 켄쿠의 둥지는 땅에 흩어져 있습니다.
 lvl6lowerlevcent,git,Placeable List/174/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/174/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/174/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/175/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/176/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/176/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/176/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/177/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/178/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/178/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/178/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/179/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/180/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/180/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/180/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/181/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/182/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/182/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/182/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/183/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/184/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/184/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/184/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/185/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/186/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/186/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/186/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/187/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/188/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/188/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/188/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/189/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/190/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/190/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/190/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/191/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/192/LocName,0,행잉 클로
-lvl6lowerlevcent,git,Placeable List/192/Description,0,켄쿠 침검
+lvl6lowerlevcent,git,Placeable List/192/Description,0,켄쿠 발톱
 lvl6lowerlevcent,git,Placeable List/193/LocName,0,블루 플레임
 lvl6lowerlevcent,git,Placeable List/221/LocName,0,흙 부분 Md
 lvl6lowerlevcent,git,Placeable List/222/LocName,0,흙 부분 Md
@@ -25028,7 +25028,7 @@ lvl7_urd_c,git,Placeable List/148/LocName,0,핏자국 8
 lvl7_urd_c,git,Placeable List/149/LocName,0,핏자국 7
 lvl7_urd_c,git,Placeable List/150/LocName,0,혈흔 1
 lvl7_urd_c,git,Placeable List/151/LocName,0,블러드트레일 2
-lvl7_urd_c,git,Placeable List/152/LocName,0,혈투 4
+lvl7_urd_c,git,Placeable List/152/LocName,0,블러드트레일 4
 lvl7_urd_c,git,Placeable List/153/LocName,0,블러드트레일 2
 lvl7_urd_c,git,Placeable List/154/LocName,0,블러드트레일 2
 lvl7_urd_c,git,Placeable List/155/LocName,0,핏자국 7
@@ -25041,7 +25041,7 @@ lvl7_urd_c,git,Placeable List/161/LocName,0,혈흔 1
 lvl7_urd_c,git,Placeable List/162/LocName,0,핏자국 8
 lvl7_urd_c,git,Placeable List/163/LocName,0,블러드트레일 2
 lvl7_urd_c,git,Placeable List/164/LocName,0,블러드트레일 2
-lvl7_urd_c,git,Placeable List/165/LocName,0,혈투 4
+lvl7_urd_c,git,Placeable List/165/LocName,0,블러드트레일 4
 lvl7_urd_c,git,Placeable List/166/LocName,0,핏자국 7
 lvl7_urd_c,git,Placeable List/167/Description,0,불특정 가치의 작은 장식품들.
 lvl7_urd_c,git,Placeable List/168/Description,0,불특정 가치의 작은 장식품들.
@@ -25202,7 +25202,7 @@ lvl7_urd_n,git,Placeable List/26/LocName,0,바닥 레버
 lvl7_urd_n,git,Placeable List/26/Description,0,바닥에서 올라온 얇은 레버는 아래쪽에 있는 어떤 미지의 기계를 조절합니다.
 lvl7_urd_n,git,Placeable List/27/LocName,0,Drow Banner
 lvl7_urd_n,git,Placeable List/27/Description,0,"관심 지점을 나타내는, 바느질하고 염색한 깃발."
-lvl7_urd_n,git,Placeable List/29/LocName,0,"이야샤, 백조의 여신"
+lvl7_urd_n,git,Placeable List/29/LocName,0,"이야샤, 비둘기의 여신"
 lvl7_urd_n,git,Placeable List/30/LocName,0,투명 물체
 lvl7_urd_n,git,Placeable List/30/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 lvl7_urd_n,git,Placeable List/31/LocName,0,투명 물체
@@ -25848,13 +25848,13 @@ lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/14/DescIdentified,0,이 막대�
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/15/LocalizedName,0,반사 호신부 +4
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/15/DescIdentified,0,"고위 하퍼 제러보암 캔터는 하퍼 첩자들의 정신과 비밀을 지키기 위해 이 부적들을 만들도록 의뢰했다. 불행히도 제러보암은 이것을 착용한 채 붙잡힌 최초의 하퍼 첩자 중 하나였고, 부적이 벗겨지자 의지가 약한 이 음유시인의 정신은 아는 것을 모두 불어 버렸다."
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/17/LocalizedName,0,화염의 마법봉
-lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/17/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/17/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/18/LocalizedName,0,번개 부르기 대형 마법봉
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/18/DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/19/LocalizedName,0,더 큰 불볼트 마법봉
-lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/19/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/19/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/20/LocalizedName,0,얼음 폭풍의 막대
-lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/21/LocalizedName,0,방사 완드
+lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/21/LocalizedName,0,미사일 완드
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/21/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/27/LocalizedName,0,이사의 하급 마법 미사일 마법봉
 lvl8_lrd_n,git,StoreList/0/StoreList/3/ItemList/29/LocalizedName,0,도피의 반지
@@ -25977,7 +25977,7 @@ lvl8_lrd_n,git,Placeable List/38/ItemList/1/LocalizedName,0,금화
 lvl8_lrd_n,git,Placeable List/38/ItemList/2/LocalizedName,0,금화
 lvl8_lrd_n,git,Placeable List/42/LocName,0,사냥의 신 아르비누스
 lvl8_lrd_n,git,Placeable List/43/LocName,0,"우르텐고르, 단조의 신"
-lvl8_lrd_n,git,Placeable List/44/LocName,0,"이야샤, 백조의 여신"
+lvl8_lrd_n,git,Placeable List/44/LocName,0,"이야샤, 비둘기의 여신"
 lvl8_lrd_n,git,Placeable List/53/LocName,0,소형 거미줄
 lvl8_lrd_n,git,Placeable List/53/Description,0,의심스럽게 둘러보지만 아무것도 보이지 않습니다.
 lvl8_lrd_n,git,Placeable List/54/LocName,0,소형 거미줄
@@ -26218,7 +26218,7 @@ lvl8_lrd_s,git,Placeable List/50/LocName,0,트라이더 박스
 lvl8_lrd_s,git,Placeable List/50/Description,0,이 궤짝은 보통 드로우가 사는 언더다크 지역에서 발견되는 검고 반짝이는 돌로 만든 듯하다.
 lvl8_lrd_s,git,Placeable List/50/ItemList/0/LocalizedName,0,웬틀리 켈소의 일지 노트
 lvl8_lrd_s,git,Placeable List/50/ItemList/0/Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 자신 을 ""명གྲགས་ 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터 딥 의 세로 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
-lvl8_lrd_s,git,Placeable List/50/ItemList/0/DescIdentified,0,"베넷이 지하에 너무 오래 있었는지라, 우리는 다시 왔던 길로 돌아가라고 압박하고 있다고 생각한다."
+lvl8_lrd_s,git,Placeable List/50/ItemList/0/DescIdentified,0,내 생각엔 베넷이 지하에 너무 오래 있었던 모양이야. 우리가 왔던 길로 다시 돌아가자고 성화네.
 lvl8_lrd_s,git,Placeable List/50/ItemList/1/LocalizedName,0,금화
 lvl8_lrd_s,git,Placeable List/50/ItemList/2/LocalizedName,0,금화
 lvl8_lrd_s,git,Placeable List/51/LocName,0,죽은 성직자
@@ -27317,9 +27317,9 @@ sewers002,git,Placeable List/59/LocName,0,"""2층 하수구"""
 sewers002,git,Placeable List/59/Description,0,신중하게 설정된 관심 지점을 표시하는 마커
 sewers002,git,Placeable List/60/LocName,0,상자
 sewers002,git,Placeable List/60/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
-sewers002,git,Placeable List/60/ItemList/0/LocalizedName,0,방사 완드
+sewers002,git,Placeable List/60/ItemList/0/LocalizedName,0,미사일 완드
 sewers002,git,Placeable List/60/ItemList/0/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
-sewers002,git,Placeable List/60/ItemList/1/LocalizedName,0,구리 키
+sewers002,git,Placeable List/60/ItemList/1/LocalizedName,0,구리 열쇠
 sewers002,git,Placeable List/61/LocName,0,상자
 sewers002,git,Placeable List/61/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 sewers002,git,Placeable List/61/ItemList/1/LocalizedName,0,금화
@@ -27733,7 +27733,7 @@ sewers1,git,Placeable List/352/LocName,0,아이비 - 오르는 덩굴 12a
 sewers1,git,Placeable List/353/LocName,0,아이비 - 기술 12b
 sewers1,git,Placeable List/354/LocName,0,아이비 - 기계 12c
 sewers1,git,Placeable List/355/LocName,0,아이비 - 등반 12d
-sewers1,git,Placeable List/356/LocName,0,아이비 - 기계 13g
+sewers1,git,Placeable List/356/LocName,0,아이비 - 덩굴 13g
 sewers1,git,Placeable List/357/LocName,0,INV_CaveinEffect
 sewerslevel2,git,Creature List/0/FirstName,0,좀비
 sewerslevel2,git,Creature List/0/Description,0,"시체들은 시신을 통해 부활시키고, 좀비들은 정신이 없는 죽은 자들로, 그들의 부패하는 장내의 굶주림의 고통에 만족하려고 돌아다니고 있습니다."
@@ -27874,7 +27874,7 @@ sewerslevel2,git,List/4/DescIdentified,0,"파워의 스태프 는 대부분의 �
 sewerslevel2,git,List/5/LocalizedName,0,언데드의 방패
 sewerslevel2,git,List/5/DescIdentified,0,"곤경의 시기, 라탄더는 영토를 돌아다니는 무사들의 수가 혼란스러웠다. 이를 견제하기 위해 그는 그의 여러 추종자들에게 이러한 방패를 만드는 방법을 가르쳤다. 방패는 이제 무사자를 사냥하고 파괴하는 가장 큰 능력을 보이는 신자들에게 주어진다."
 sewerslevel2,git,List/6/LocalizedName,0,화염의 마법봉
-sewerslevel2,git,List/6/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+sewerslevel2,git,List/6/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 sewerslevel2,git,List/7/LocalizedName,0,드루울의 죽은 살인자
 sewerslevel2,git,List/9/LocalizedName,0,은 도끼
 sewerslevel2,git,List/9/DescIdentified,0,은 도끼
@@ -28621,7 +28621,7 @@ sewerslevel2,git,Placeable List/642/LocName,0,"VFX: 안개 (50m), 낮은"
 sewerslevel2,git,Placeable List/645/LocName,0,벽 버튼
 sewerslevel2,git,Placeable List/646/LocName,0,벽 버튼
 sewerslevel2,git,Placeable List/647/LocName,0,벽 버튼
-sewerslevel2,git,Placeable List/649/LocName,0,도움의 편지
+sewerslevel2,git,Placeable List/649/LocName,0,도움의 서
 sewerslevel2,git,Placeable List/649/Description,0,벽 버튼을 활성화하려면 오른쪽 클릭하고 던지기 도끼가 장착되어 있는 동안 BASH 옵션을 선택해야 합니다. 경고: 사용 옵션을 선택하지 마십시오. 그렇지 않으면 넘어지는 구멍을 건너 달립니다. 당신은 벽 버튼을 목표로 던지기 때문에 바닥 구멍을 닫습니다. 우리는 원래 벽 버튼을 변경했습니다. 왜냐하면 그것은 항상 적대적이기 때문에 그리고 동반자들은 항상 벽 버튼을 공격하기 위해 떨어지는 열린 구멍을 건너 달립니다.
 sewerslevel2,git,Placeable List/650/ItemList/0/LocalizedName,0,산성 저항의 호신부
 sewerslevel2,git,Placeable List/651/LocName,0,바닥 그을음 1
@@ -29575,9 +29575,9 @@ sewerslevel3,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,"엘민스
 sewerslevel3,git,StoreList/0/StoreList/0/ItemList/18/LocalizedName,0,나이트셰이드 갑옷
 sewerslevel3,git,StoreList/0/StoreList/1/ItemList/5/LocalizedName,0,화염의 바스타드 소드
 sewerslevel3,git,StoreList/0/StoreList/1/ItemList/5/DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
-sewerslevel3,git,StoreList/0/StoreList/1/ItemList/9/LocalizedName,0,니니지 +2의 별
+sewerslevel3,git,StoreList/0/StoreList/1/ItemList/9/LocalizedName,0,닌지의 별 +2
 sewerslevel3,git,StoreList/0/StoreList/1/ItemList/9/DescIdentified,0,"닌지는 골든 마을의 영적 가이드였지만, 강도들이 마을을 포위하면서 제작자로 일하게 되었다. 그는 방어자들이 반격할 수 있도록 이 무기들과 다른 무기들을 제작하였고, 금속 작업에 능숙하지 않았음에도 불구하고, 그의 지도하는 영령들에 감사의 마음을 전하며 망치의 각 성공적인 타격을 위해 고마움을 표했다. 이 별들이 여전히 존재하는 것은 그의 믿음의 강도를 증명한다."
-sewerslevel3,git,StoreList/0/StoreList/1/ItemList/10/LocalizedName,0,니니지 +2의 별
+sewerslevel3,git,StoreList/0/StoreList/1/ItemList/10/LocalizedName,0,닌지의 별 +2
 sewerslevel3,git,StoreList/0/StoreList/1/ItemList/10/DescIdentified,0,"닌지는 골든 마을의 영적 가이드였지만, 강도들이 마을을 포위하면서 제작자로 일하게 되었다. 그는 방어자들이 반격할 수 있도록 이 무기들과 다른 무기들을 제작하였고, 금속 작업에 능숙하지 않았음에도 불구하고, 그의 지도하는 영령들에 감사의 마음을 전하며 망치의 각 성공적인 타격을 위해 고마움을 표했다. 이 별들이 여전히 존재하는 것은 그의 믿음의 강도를 증명한다."
 sewerslevel3,git,StoreList/0/StoreList/1/ItemList/12/LocalizedName,0,드워프 전쟁망치
 sewerslevel3,git,StoreList/0/StoreList/1/ItemList/13/LocalizedName,0,아스트랄 카마 +1
@@ -29595,10 +29595,10 @@ sewerslevel3,git,StoreList/0/StoreList/2/ItemList/1/LocalizedName,0,치명상처
 sewerslevel3,git,StoreList/0/StoreList/2/ItemList/1/DescIdentified,0,사람들을 죽음의 문턱에서 되살릴 수 있는 힘을 지닌 물약들이라 값이 쌀 리 없습니다.
 sewerslevel3,git,StoreList/0/StoreList/2/ItemList/23/LocalizedName,0,귀환의 물약
 sewerslevel3,git,StoreList/0/StoreList/2/ItemList/23/DescIdentified,0,곤경에 처한 때 쓰이는 이 사제 물들은 기억의 포털로 돌아갑니다. 한 잔은 한 번만 사용할 수 있습니다.
-sewerslevel3,git,StoreList/0/StoreList/3/ItemList/16/LocalizedName,0,방사 완드
+sewerslevel3,git,StoreList/0/StoreList/3/ItemList/16/LocalizedName,0,미사일 완드
 sewerslevel3,git,StoreList/0/StoreList/3/ItemList/16/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 sewerslevel3,git,StoreList/0/StoreList/3/ItemList/17/LocalizedName,0,화염의 마법봉
-sewerslevel3,git,StoreList/0/StoreList/3/ItemList/17/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+sewerslevel3,git,StoreList/0/StoreList/3/ItemList/17/DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 sewerslevel3,git,StoreList/0/StoreList/3/ItemList/18/LocalizedName,0,빛나는 반지
 sewerslevel3,git,StoreList/0/StoreList/3/ItemList/18/DescIdentified,0,"이 반지는 모험가들에게 훌륭한 빛의 소스로, 두 손을 무기와 장비에 사용할 수 있게 해줍니다."
 sewerslevel3,git,StoreList/0/StoreList/3/ItemList/19/LocalizedName,0,저항 반지
@@ -29655,9 +29655,11 @@ sewerslevel3,git,Placeable List/3/LocName,0,상자
 sewerslevel3,git,Placeable List/3/Description,0,"이상한 루나와 그림자, 아마도 미묘한 자연, 이 은신 덮여 있는 강박의 옆구리에 불태워졌습니다."
 sewerslevel3,git,Placeable List/3/ItemList/0/LocalizedName,0,금화
 sewerslevel3,git,Placeable List/3/ItemList/2/LocalizedName,0,배드스태버 +3
-sewerslevel3,git,Placeable List/3/ItemList/3/LocalizedName,0,구리 키
+sewerslevel3,git,Placeable List/3/ItemList/3/LocalizedName,0,구리 열쇠
 sewerslevel3,git,Placeable List/4/LocName,0,RATS
-sewerslevel3,git,Placeable List/4/Description,0,빠른 접근 순간이동 시스템 고대 순간이동기들은 지도의 한 지역에서 다른 지역으로 빠르게 이동했습니다.
+sewerslevel3,git,Placeable List/4/Description,0,"신속 이동 순간이동 시스템
+
+지도상의 한 지역에서 다른 지역으로 빠르게 이동할 때 사용하는 고대 순간이동기입니다."
 sewerslevel3,git,Placeable List/5/LocName,0,나무 상자
 sewerslevel3,git,Placeable List/5/Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 sewerslevel3,git,Placeable List/5/ItemList/0/LocalizedName,0,금화
@@ -29706,7 +29708,7 @@ sewerslevel3,git,Placeable List/16/ItemList/1/LocalizedName,0,금화
 sewerslevel3,git,Placeable List/17/LocName,0,상자
 sewerslevel3,git,Placeable List/17/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
 sewerslevel3,git,Placeable List/18/LocName,0,부패하는 시체
-sewerslevel3,git,Placeable List/18/Description,0,많은 부패한 시체들의 시체 냄새가 공기를 가득 채우고 있습니다.
+sewerslevel3,git,Placeable List/18/Description,0,수많은 부패한 시체 더미가 뿜어내는 악취가 공기를 가득 채운다.
 sewerslevel3,git,Placeable List/18/ItemList/0/LocalizedName,0,웬틀리 켈소의 일지 노트
 sewerslevel3,git,Placeable List/18/ItemList/0/Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 ""명확 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터디프 의 하천 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
 sewerslevel3,git,Placeable List/18/ItemList/0/DescIdentified,0,하수도 가스 악취에 머리가 핑핑 돈다. 안내자 베넷은 이곳이 도마뱀 인간들에게 완벽한 환경이라고 알려 주었다. 경계를 늦추지 말아야 한다.
@@ -31393,7 +31395,7 @@ sewerslevel3b,git,Placeable List/65/Description,0,"이 화려한 상자의 목�
 sewerslevel3b,git,Placeable List/65/ItemList/0/LocalizedName,0,금화
 sewerslevel3b,git,Placeable List/70/LocName,0,상자
 sewerslevel3b,git,Placeable List/70/Description,0,철로 묶여 있고 무거운 잠금이 달린 이 무거운 상자는 분명히 가치 있는 무언가를 보호하기 위해 만들어진 것 같았다.
-sewerslevel3b,git,Placeable List/70/ItemList/0/LocalizedName,0,방사 완드
+sewerslevel3b,git,Placeable List/70/ItemList/0/LocalizedName,0,미사일 완드
 sewerslevel3b,git,Placeable List/70/ItemList/0/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 sewerslevel3b,git,Placeable List/71/LocName,0,누름판 - 1
 sewerslevel3b,git,Placeable List/71/Description,0,작은 압력판이 아래쪽에 숨겨진 메커니즘을 활성화시키는 것 같습니다.
@@ -31475,19 +31477,19 @@ sewerslevel3b,git,Placeable List/144/Description,0,작은 압력판이 아래쪽
 sewerslevel3b,git,Placeable List/145/LocName,0,누름판 - 1
 sewerslevel3b,git,Placeable List/145/Description,0,작은 압력판이 아래쪽에 숨겨진 메커니즘을 활성화시키는 것 같습니다.
 sewerslevel3b,git,Placeable List/149/LocName,0,대형 현수막
-sewerslevel3b,git,Placeable List/149/Description,0,켄쿠 침검
+sewerslevel3b,git,Placeable List/149/Description,0,켄쿠 발톱
 sewerslevel3b,git,Placeable List/150/LocName,0,대형 현수막
-sewerslevel3b,git,Placeable List/150/Description,0,켄쿠 침검
+sewerslevel3b,git,Placeable List/150/Description,0,켄쿠 발톱
 sewerslevel3b,git,Placeable List/151/LocName,0,소형 깃발
-sewerslevel3b,git,Placeable List/151/Description,0,켄쿠 침검
+sewerslevel3b,git,Placeable List/151/Description,0,켄쿠 발톱
 sewerslevel3b,git,Placeable List/152/LocName,0,소형 깃발
-sewerslevel3b,git,Placeable List/152/Description,0,켄쿠 침검
+sewerslevel3b,git,Placeable List/152/Description,0,켄쿠 발톱
 sewerslevel3b,git,Placeable List/153/LocName,0,소형 깃발
-sewerslevel3b,git,Placeable List/153/Description,0,켄쿠 침검
+sewerslevel3b,git,Placeable List/153/Description,0,켄쿠 발톱
 sewerslevel3b,git,Placeable List/154/LocName,0,대형 현수막
-sewerslevel3b,git,Placeable List/154/Description,0,켄쿠 침검
+sewerslevel3b,git,Placeable List/154/Description,0,켄쿠 발톱
 sewerslevel3b,git,Placeable List/155/LocName,0,소형 깃발
-sewerslevel3b,git,Placeable List/155/Description,0,켄쿠 침검
+sewerslevel3b,git,Placeable List/155/Description,0,켄쿠 발톱
 sewerslevel3b,git,Placeable List/156/LocName,0,카운터
 sewerslevel3b,git,Placeable List/157/LocName,0,양탄자
 sewerslevel3b,git,Placeable List/158/LocName,0,안크
@@ -32835,7 +32837,9 @@ sewerslv3w,git,WaypointList/23/MapNote,0,3단계 - 남쪽 하수구
 sewerslv3w,git,WaypointList/24/LocalizedName,0,EOB_Spawn_point
 sewerslv3w,git,WaypointList/24/MapNote,0,추종자 부활 지점
 sewerslv3w,git,Placeable List/0/LocName,0,RATS
-sewerslv3w,git,Placeable List/0/Description,0,빠른 접근 순간이동 시스템 고대 순간이동기들은 지도의 한 지역에서 다른 지역으로 빠르게 이동했습니다.
+sewerslv3w,git,Placeable List/0/Description,0,"신속 이동 순간이동 시스템
+
+지도상의 한 지역에서 다른 지역으로 빠르게 이동할 때 사용하는 고대 순간이동기입니다."
 sewerslv3w,git,Placeable List/1/LocName,0,4레벨까지
 sewerslv3w,git,Placeable List/1/Description,0,신중하게 설정된 관심 지점을 표시하는 마커
 sewerslv3w,git,Placeable List/2/LocName,0,4레벨까지
@@ -33749,7 +33753,7 @@ sub2ds,git,Placeable List/104/Description,0,두 개의 화살이 죽은 남자�
 sub2ds,git,Placeable List/104/ItemList/0/LocalizedName,0,금화
 sub2ds,git,Placeable List/106/LocName,0,죄수 시체
 sub2ds,git,Placeable List/106/Description,0,죽음 속에서 가슴을 내비치는 남자의 얼굴은 두려움에 얼어붙은 것처럼 보인다. 그가 어떻게 죽었는지 궁금하다.
-sub2ds,git,Placeable List/106/ItemList/0/LocalizedName,0,방사 완드
+sub2ds,git,Placeable List/106/ItemList/0/LocalizedName,0,미사일 완드
 sub2ds,git,Placeable List/106/ItemList/0/DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 sub2ds,git,Placeable List/110/LocName,0,경비원장
 sub2ds,git,Placeable List/110/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
@@ -33770,7 +33774,7 @@ sub2ds,git,Placeable List/113/Description,0,고약한 냄새가 나는 시체 �
 sub2ds,git,Placeable List/113/ItemList/0/LocalizedName,0,두 번째 죽음의 화살
 sub2ds,git,Placeable List/113/ItemList/0/DescIdentified,0,"이 화살은 목표물을 뚫고, 부딪히면 알케미칼 산 분비물이 분사되어 언데드에게 추가 산성 피해를 입히기도 합니다."
 sub2ds,git,Placeable List/113/ItemList/1/LocalizedName,0,엘프의 활
-sub2ds,git,Placeable List/113/ItemList/1/DescIdentified,0,기본적인 엘프 화살
+sub2ds,git,Placeable List/113/ItemList/1/DescIdentified,0,기본적인 엘프 활
 sub2ds,git,Placeable List/114/LocName,0,경비병
 sub2ds,git,Placeable List/114/Description,0,두 개의 화살이 죽은 남자의 등에 꽂히고
 sub2ds,git,Placeable List/114/ItemList/1/LocalizedName,0,돌불 도끼 +1
@@ -33930,12 +33934,12 @@ sub2ds,git,Placeable List/300/LocName,0,핏자국 6
 sub2ds,git,Placeable List/301/LocName,0,핏자국 8
 sub2ds,git,Placeable List/302/LocName,0,혈흔 1
 sub2ds,git,Placeable List/303/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/304/LocName,0,혈투 3
+sub2ds,git,Placeable List/304/LocName,0,블러드트레일 3
 sub2ds,git,Placeable List/305/LocName,0,핏자국 3
 sub2ds,git,Placeable List/306/LocName,0,핏자국 2
 sub2ds,git,Placeable List/307/LocName,0,핏자국 3
 sub2ds,git,Placeable List/308/LocName,0,핏자국 7
-sub2ds,git,Placeable List/309/LocName,0,혈투 4
+sub2ds,git,Placeable List/309/LocName,0,블러드트레일 4
 sub2ds,git,Placeable List/310/LocName,0,핏자국 2
 sub2ds,git,Placeable List/311/LocName,0,핏자국 4
 sub2ds,git,Placeable List/312/LocName,0,블러드트레일 2
@@ -33945,7 +33949,7 @@ sub2ds,git,Placeable List/315/LocName,0,핏자국 7
 sub2ds,git,Placeable List/316/LocName,0,핏자국 5
 sub2ds,git,Placeable List/317/LocName,0,핏자국 4
 sub2ds,git,Placeable List/318/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/319/LocName,0,혈투 4
+sub2ds,git,Placeable List/319/LocName,0,블러드트레일 4
 sub2ds,git,Placeable List/320/LocName,0,혈흔 1
 sub2ds,git,Placeable List/321/LocName,0,핏자국 8
 sub2ds,git,Placeable List/322/LocName,0,핏자국 8
@@ -33981,11 +33985,11 @@ sub2ds,git,Placeable List/360/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/361/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/362/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/363/LocName,0,혈흔 1
-sub2ds,git,Placeable List/364/LocName,0,혈투 4
+sub2ds,git,Placeable List/364/LocName,0,블러드트레일 4
 sub2ds,git,Placeable List/365/LocName,0,핏자국 8
 sub2ds,git,Placeable List/366/LocName,0,핏자국 5
 sub2ds,git,Placeable List/367/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/368/LocName,0,혈투 4
+sub2ds,git,Placeable List/368/LocName,0,블러드트레일 4
 sub2ds,git,Placeable List/369/LocName,0,혈흔 1
 sub2ds,git,Placeable List/370/LocName,0,블러드트레일 2
 sub2ds,git,Placeable List/371/LocName,0,블러드트레일 2
@@ -34000,8 +34004,8 @@ sub2ds,git,Placeable List/379/LocName,0,핏자국 3
 sub2ds,git,Placeable List/380/LocName,0,핏자국 3
 sub2ds,git,Placeable List/381/LocName,0,혈흔 1
 sub2ds,git,Placeable List/382/LocName,0,블러드트레일 2
-sub2ds,git,Placeable List/383/LocName,0,혈투 4
-sub2ds,git,Placeable List/384/LocName,0,혈투 4
+sub2ds,git,Placeable List/383/LocName,0,블러드트레일 4
+sub2ds,git,Placeable List/384/LocName,0,블러드트레일 4
 sub2ds,git,Placeable List/385/LocName,0,핏자국 7
 sub2ds,git,Placeable List/386/LocName,0,핏자국 6
 sub2ds,git,Placeable List/387/LocName,0,핏자국 3
@@ -34024,7 +34028,7 @@ sub2ds,git,Placeable List/403/LocName,0,핏자국 3
 sub2ds,git,Placeable List/404/LocName,0,핏자국 3
 sub2ds,git,Placeable List/405/LocName,0,핏자국 8
 sub2ds,git,Placeable List/406/LocName,0,소형 깃발
-sub2ds,git,Placeable List/406/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/406/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/407/LocName,0,부서진 의자 1
 sub2ds,git,Placeable List/408/LocName,0,부서진 의자 1
 sub2ds,git,Placeable List/409/LocName,0,경비자 시체
@@ -34044,27 +34048,27 @@ sub2ds,git,Placeable List/420/Description,0,얼굴이 아래로 향해 있어서
 sub2ds,git,Placeable List/421/LocName,0,경비자 시체
 sub2ds,git,Placeable List/421/Description,0,얼굴이 아래로 향해 있어서 피해자가 남자인지 여자인지 알아보기 어렵다.
 sub2ds,git,Placeable List/422/LocName,0,대형 현수막
-sub2ds,git,Placeable List/422/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/422/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/423/LocName,0,대형 현수막
-sub2ds,git,Placeable List/423/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/423/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/424/LocName,0,소형 깃발
-sub2ds,git,Placeable List/424/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/424/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/425/LocName,0,소형 깃발
-sub2ds,git,Placeable List/425/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/425/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/426/LocName,0,대형 현수막
-sub2ds,git,Placeable List/426/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/426/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/427/LocName,0,소형 깃발
-sub2ds,git,Placeable List/427/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/427/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/428/LocName,0,소형 깃발
-sub2ds,git,Placeable List/428/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/428/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/429/LocName,0,대형 현수막
-sub2ds,git,Placeable List/429/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/429/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/430/LocName,0,소형 깃발
-sub2ds,git,Placeable List/430/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/430/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/431/LocName,0,소형 깃발
-sub2ds,git,Placeable List/431/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/431/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/432/LocName,0,소형 깃발
-sub2ds,git,Placeable List/432/Description,0,켄쿠 침검
+sub2ds,git,Placeable List/432/Description,0,켄쿠 발톱
 sub2ds,git,Placeable List/433/LocName,0,피벽 7
 sub2ds,git,Placeable List/434/LocName,0,혈벽 9
 sub2ds,git,Placeable List/435/LocName,0,혈벽 6
@@ -34350,7 +34354,7 @@ waterdeepdungeon,git,Placeable List/218/Description,0,이 훌륭 한 포도주 �
 waterdeepdungeon,git,Placeable List/219/LocName,0,"그릇 - 백색, 스튜"
 waterdeepdungeon,git,Placeable List/219/Description,0,뜨끈한 스튜 한 그릇은 길 위의 억센 모험가들에게 반가운 음식이다. 하지만 스튜에 정확히 무엇이 들어 있는지는 오래된 수수께끼로 남아 있다.
 waterdeepdungeon,git,Placeable List/220/LocName,0,"보울 - 백색, 콩"
-waterdeepdungeon,git,Placeable List/220/Description,0,이 녹은 버터로 데운 뜨거운 콩 국물은 맛있어 보입니다.
+waterdeepdungeon,git,Placeable List/220/Description,0,버터를 녹인 따뜻한 완두콩 한 그릇이 맛있어 보인다.
 waterdeepdungeon,git,Placeable List/221/LocName,0,병 - 파랑
 waterdeepdungeon,git,Placeable List/221/Description,0,이 훌륭 한 포도주 병 은 유명한 와인 공장 의 특징 을 지니고 있습니다.
 waterdeepdungeon,git,Placeable List/222/LocName,0,병 - 파랑
@@ -34675,7 +34679,7 @@ waterdeepseweren,git,Placeable List/195/LocName,0,부시 02
 waterdeepseweren,git,Placeable List/195/Description,0,땅에서 크고 단단한 화강암 조각이 튀어나와 있다.
 waterdeepseweren,git,Placeable List/196/LocName,0,숨겨진 전리품 주머니
 waterdeepseweren,git,Placeable List/196/ItemList/0/LocalizedName,0,폐 파괴자
-waterdeepseweren,git,Placeable List/196/ItemList/2/LocalizedName,0,리브 스퍼레이더
+waterdeepseweren,git,Placeable List/196/ItemList/2/LocalizedName,0,늑골 확장기
 waterdeepseweren,git,Placeable List/196/ItemList/3/LocalizedName,0,신의 은총 호신부
 waterdeepseweren,git,Placeable List/196/ItemList/3/DescIdentified,0,"게르바자 (Ger'baza) 는 필사적 인 정신이 이해할 수 있는 것보다 더 많은 힘을 추구하는 고대 리치였다. 신의 은총 아뮬레트를 만들기 위해 포획된 영혼을 합쳐서 제르 바자는 자신의 성공에 놀라며 수많은 변형을 만들었다. 그러나 상식은 그를 실패했다; 모든 목걸이를 일조로 착용하려고 시도하면서, 그르바사는 조용하게 존재에서 지워졌다. Amulet는 기적적으로 살아남았다."
 waterdeepseweren,git,Placeable List/196/ItemList/5/LocalizedName,0,붉은색 보석
@@ -35258,7 +35262,9 @@ module,jrl,Categories/6/Name,0,세 명의 리치 형제를 모두 물리치세�
 module,jrl,Categories/6/EntryList/0/Text,0,"리치 하나가 쓰러졌으나, 당신의 임무는 아직 끝나지 않았습니다. 그의 사악한 형제 둘이 여전히 그림자 속에 숨어 어두운 영향력으로 이 땅을 오염시키고 있습니다.
 
 그들을 사냥하라. 그들의 통치를 끝내라. 그들의 악의 흔적이 하나도 남지 않게 하라."
-module,jrl,Categories/6/EntryList/1/Text,0,"한 놈이 파괴되고, 또 다른 놈이 사라져갔지만, 당신의 임무는 아직 끝나지 않았습니다. 마지막 형제가 남아 있습니다. 그림자 속에 숨어 있고, 그의 비참한 존재는 이 버려진 지하정글의 깊숙한 곳에 남아 있습니다. 그를 찾아라. 파괴하라. 그의 악이 남아있지 않도록 해라."
+module,jrl,Categories/6/EntryList/1/Text,0,"한 리치가 쓰러졌고, 또 다른 리치가 최후를 맞이했다. 하지만 당신의 임무는 아직 끝나지 않았다. 마지막 형제가 남아 있다. 그림자에 휩싸인 채, 그의 사악한 존재가 이 버려진 던전 깊은 곳에 맴돌고 있다.
+
+그를 찾아라. 처단하라. 그의 악이 조금도 남지 않게 해라."
 module,jrl,Categories/6/EntryList/2/Text,0,"켈 , 모드로, 모리안은 멸망했다. 그들의 패배로 심각한 위협이 소멸되었다. 한때 이 깊이를 질식시킨 어둠은 후퇴하기 시작하며 평화와 안정의 첫 번째 징후가 왕국 내에서 돌고 있습니다."
 module,jrl,Categories/6/EntryList/3/Text,0,베넷의 잃어버린 저널에서 세 명의 악성 리치 형제가 이 깊은 곳을 뒤쫓고 있는 것으로 알려졌습니다.
 module,jrl,Categories/7/Name,0,도르
@@ -35266,7 +35272,7 @@ module,jrl,Categories/7/EntryList/0/Text,0,"왜성들을 찾은 것은 환영의
 module,jrl,Categories/7/EntryList/1/Text,0,도럼은 아버지를 찾는 데 도움을 청합니다. 그는 아버지가 거미 여왕 근처의 광산 안에 있을 것으로 믿고 있습니다. 거미 여왕 근처에서 시작하여 검색을 진행하세요. 이는 도럼의 아버지를 찾는 것이 연합을 강화하고 앞으로의 위협을 더 잘 이해하는 데 중요할 수 있기 때문입니다.
 module,jrl,Categories/7/EntryList/2/Text,0,"당신은 켈고르를, 도루무의 아버지로 다시 부활시켰습니다. 이 기적적인 행동은 당신과 도루무의 관계를 강화시키며, 당신의 모험에 새로운 희망과 활력을 불어넣습니다."
 module,jrl,Categories/8/Name,0,드로우 노트
-module,jrl,Categories/8/EntryList/0/Text,0,"도루 스파이 가 도망 가면서 놓인 잃어버린 메모 를 발견 한 것 이다. 그 에 이렇게 적혀 있다. ""지금부터 두 밤 후 에 세로 로 돌아 가십시오. 당신 을 만나고 그 에 대한 추가 지침 을 받게 될 것 입니다"". 불행 히, 그 메모 의 나머지 부분 은 읽을 수 없다. 그러나 이 조각 은 의미 있는 일 이 계획 되어 있는 것 을 알려 줍니다. 그 음모 의 전체 범위를 밝히기 위해 신속 하게 행동 해야 합니다."
+module,jrl,Categories/8/EntryList/0/Text,0,"도망치던 드로우 스파이가 떨어뜨린 잃어버린 쪽지를 발견했습니다. 이렇게 적혀 있습니다: ""이틀 뒤에 하수구로 돌아와라. 거기서 만나 추가 지시를..."" 안타깝게도 쪽지의 나머지 부분은 알아볼 수 없습니다. 하지만 이 조각을 통해 뭔가 중요한 일이 계획되어 있으며, 그 음모의 전모를 밝히기 위해 신속하게 행동해야 한다는 사실을 알 수 있습니다. 하수구가 그들의 음모를 저지할 열쇠를 쥐고 있을지도 모릅니다."
 module,jrl,Categories/9/Name,0,장로 거미 여왕
 module,jrl,Categories/9/EntryList/0/Text,0,"어린 여왕의 알주머니에 대해 타고르와 논의한 뒤, 그는 당신에게 더 아래쪽 광산까지 수색 범위를 넓혀 달라고 부탁했다. 그 깊은 곳에 또 다른 여왕 거미가 숨어 있을지도 모른다고 믿는다. 추가적인 위협을 밝혀내고 드워프들과 광산의 안전을 지키도록 철저히 조사하라. 이제 당신의 임무는 더 큰 위험이 도사릴지 모르는 위험천만한 아래층까지 이어진다."
 module,jrl,Categories/9/EntryList/1/Text,0,"당신은 성인 여왕 거미를 성공적으로 물리쳤습니다. 그녀의 패배로, 그녀의 새끼들이 더 이상 광산을 위협하지 않을 것으로 기대됩니다."
@@ -35287,7 +35293,7 @@ module,jrl,Categories/13/EntryList/0/Text,0,이 던전 내부에 도사린 악�
 module,jrl,Categories/13/EntryList/1/Text,0,"치유의 신성한 돌을 발견했으니, 그 힘을 회복하고 깨끗하게 하기 위해 훼손된 사술수중에 넣으세요."
 module,jrl,Categories/13/EntryList/2/Text,0,해악적인 세력으로 오염된 심판의 웅덩이를 성공적으로 정화했습니다. 웅덩이 안을 더 자세히 살펴보세요 - 깊숙이 숨겨진 중요한 것이 있을 수 있습니다.
 module,jrl,Categories/14/Name,0,용병
-module,jrl,Categories/14/EntryList/0/Text,0,"도루움, 견고한 와성 전투수로, 이제 당신의 편에 합류했습니다."
+module,jrl,Categories/14/EntryList/0/Text,0,"도루움, 굳건한 드워프 전사가 이제 당신의 행렬에 합류했습니다."
 module,jrl,Categories/14/EntryList/1/Text,0,마법사 카리스가 이제 당신의 파티에 합류했습니다.
 module,jrl,Categories/14/EntryList/2/Text,0,교활한 도둑 토드 업힐이 이제 당신의 동료가 되었습니다.
 module,jrl,Categories/14/EntryList/3/Text,0,"이레리아라는 숙련된 성직자가 이제 당신의 모험에 합류했습니다. 치유 능력과 신성한 지혜로, 그녀는 당신의 여정에 귀중한 동반자로 함께할 것입니다."
@@ -35336,7 +35342,7 @@ module,jrl,Categories/26/Name,0,루그나르의 드워프 도끼
 module,jrl,Categories/26/EntryList/0/Text,0,"당신은 루그나르의 잃어버린 어斧을 성공적으로 발견하고 그의 형제의 유물을 발견했습니다. 무거운 마음으로, 당신은 어 큰 홀로 귀의하는 을 가져가고, 루그나르가 당신의 귀환을 간절히 기다리고 있습니다. 어斧을 루그나르에게 제시하고 그의 형제의 비극적인 운명에 대해 엄숙하게 알려줍니다."
 module,jrl,Categories/26/EntryList/1/Text,0,"루그나르가 아끼던 드워프 도끼를 무사히 돌려주었습니다. 당신의 노고에 감사하며, 그는 당신이 선택한 무기 하나를 업그레이드해 주겠다고 제안합니다."
 module,jrl,Categories/26/EntryList/2/Text,0,"숙련된 용공인 루그나르는 당신에게 진심으로 요청합니다. 그는 그의 잃어버린 형제를 찾기 위해 당신의 도움을 청합니다. 형제는 광산의 깊은 곳으로 모험을 떠났지만 돌아오지 않았습니다. 또한, 루그나르는 고대 드워프 도끼를 되찾아오라고 요청합니다. 세대를 거치며 전해져 내려온 소중한 가족 유산입니다. 당신의 임무는 두 가지입니다: 루그나르의 형제를 찾아내고 존경받는 드워프 도끼를 되찾는 것입니다."
-module,jrl,Categories/26/EntryList/3/Text,0,"루그나르는 잃어버린 형제의 운명을 발견하고 가족 유산의 창을 되찾아준 것에 감사의 마음을 표하며, 여러분의 무기를 업그레이드했습니다. 이 개선은 무기함을 강화하고, 향후 전투에서 중요한 우위를 제공할 것입니다."
+module,jrl,Categories/26/EntryList/3/Text,0,루그나르는 잃어버린 형제의 운명을 밝혀내고 가문의 유산인 도끼를 찾아준 것에 대한 감사의 표시로 당신의 무기 중 하나를 강화해 주었습니다. 이 강화는 분명 당신의 전력을 한층 높여주어 다가올 전투에서 결정적인 우위를 점하게 해줄 것입니다.
 module,jrl,Categories/27/Name,0,마라를 탐색하라
 module,jrl,Categories/27/EntryList/0/Text,0,사라를 도와 마라라는 사라의 잃어버린 여동생을 찾도록 하세요. 마라를 찾으면 사라가 포털에서 기다리고 있다는 사실을 알려주세요.
 module,jrl,Categories/27/EntryList/1/Text,0,"마라의 유골을 손에 넣었으니, 사라에게 돌아가서 잃어버린 여동생의 유골을 건네주어 그녀가 마음의 평안을 찾고 슬픔을 매듭짓게 해주어라."
@@ -35452,7 +35458,7 @@ module,jrl,Categories/45/EntryList/8/Text,0,"웬틀리 켈소 저널 출입 62. 
 module,jrl,Categories/46/Name,0,웬틀리 켈소 의 비밀
 module,jrl,Categories/46/EntryList/0/Text,0,베넷이 이 모든 층을 검색한 후 많은 비밀 문들을 지적했습니다. 이 비밀 방들을 자세히 조사한 후 우리는 많은 보물을 발견했습니다.
 module,jrl,Categories/46/EntryList/1/Text,0,"우리가 여기 비밀 문을 찾기까지 한 시간 동안 헤맸는데, 안내원인 벤네트가 가리키자 그 문이 얼마나 잘 숨겨져 있는지 참 신기했어."
-module,jrl,Categories/46/EntryList/2/Text,0,우리는 이 방에서 거대한 눈이 팔대석에 앉아 있다는 것을 발견하여 놀랐습니다. 정말 놀라운 작품입니다. 그 눈에 구슬을 넣으면 어떻게 될지 궁금합니다.
+module,jrl,Categories/46/EntryList/2/Text,0,우리는 이 방의 받침대 위에 거대한 눈이 놓여 있는 것을 보고 놀랐습니다. 정말 놀라운 예술품입니다. 저 눈에 구슬을 넣으면 어떻게 될지 궁금합니다.
 module,jrl,Categories/47/Name,0,칸타르
 module,jrl,Categories/47/EntryList/0/Text,0,"당신의 궁극적인 목표는 잔타르의 라이어를 찾아내고 그의 공포의 통치를 한 번에 끝내는 것입니다. 이 무서운 임무는 당신의 모든 용기와 힘, 그리고 현명함을 필요로 합니다. 배신의 깊은 곳을 항해하고, 기다리고 있는 수많은 도전을 극복하고, 잔타르의 요새에서 그를 직면합니다."
 module,jrl,Categories/47/EntryList/1/Text,0,"가장 두려워하는 생물의 가장 큰 약점은 그림자 속에 숨어서 모든 것을 볼 수 있지만, 보이지 않는 능력입니다. 당신의 모임이 칸타르의 부서진 몸의 잔해들을 통해 탐색하는 동안, 텔레포터가 주위를 활성화합니다. 칸타르의 유적이 눈에 보이지 않는 동안, 모든 사람들은 앞으로의 도전을 위해 엄숙하게 준비하고, 그들의 마음은 ""지금은 무엇입니까?""라는 질문으로 가득합니다. 이 탐구에서 당신의 성공은 중요한 승리를 표시합니다. 그러나 새로운 모험과 전투가 기다리고 있습니다. 당신의 승리의 성취에 축하합니다! 당신의 여행의 다음 장으로!"
@@ -35465,7 +35471,7 @@ anya,utc,FirstName,0,아냐
 araneadeathspide,utc,FirstName,0,아라네아 죽음의 스파이더
 armorstand,utc,FirstName,0,갑옷 거치대
 armun001,utc,FirstName,0,아르문
-average_xorn,utc,FirstName,0,일반 Xorn
+average_xorn,utc,FirstName,0,평균적인 쏜
 average_xorn,utc,Description,0,"은 지구 초원적 평면으로부터의 꾼이다. 의 넓은 몸체는 돌과 같은 소재로 이루어져 있다. 머리 위에 크고 강력한 입이 있으며, 세 개의 긴 팔로 둘러싸여 있으며, 날카로운 발톱으로 톱니가 있다. 은 돌, 흙 또는 금속을 제외한 거의 다른 종류의 땅을 지나갈 수 있다. 물고기가 물로 헤엄치는 것처럼 쉽게. 그 은 터널이나 구멍을 남기지 않는다."
 beastxvim001,utc,FirstName,0,쯔빔의 사냥개
 beastxvim001,utc,Description,0,악의 신인 이야흐투 엑스비먼이 만져버린 이 반려견은 끔찍한 변신을 겪으며 그의 지옥의 의지의 요원이 되었습니다.
@@ -35584,7 +35590,7 @@ ebtaghorhall,utc,FirstName,0,타고르
 elder_xorn,utc,FirstName,0,제일드 쏜
 elder_xorn,utc,Description,0,"은 지구 초원적 평면으로부터의 꾼이다. 의 넓은 몸체는 돌과 같은 소재로 이루어져 있다. 머리 위에 크고 강력한 입이 있으며, 세 개의 긴 팔로 둘러싸여 있으며, 날카로운 발톱으로 톱니가 있다. 은 돌, 흙 또는 금속을 제외한 거의 다른 종류의 땅을 지나갈 수 있다. 물고기가 물로 헤엄치는 것처럼 쉽게. 그 은 터널이나 구멍을 남기지 않는다."
 esmerelda,utc,FirstName,0,에스메렐다
-esmerelda,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+esmerelda,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 evil_ghost,utc,FirstName,0,사악한 유령
 evil_ghost,utc,Description,0,"그림자는 살아있는 어둠의 피조물로, 생명과 빛을 똑같이 맹렬하게 증오한다. 그들의 손길은 존재하지 않는 것의 냉기를 남기기 때문에 매우 위험한 상대이다."
 evilmage001,utc,FirstName,0,악의 마법사 사로스
@@ -35804,7 +35810,7 @@ myconid,utc,FirstName,0,미코노이드
 myconid,utc,Description,0,"미코니드, 혹은 균사인은 언더다크의 오지에서 살아가는 지능을 가진 곰팡이 종족이다. 폭력을 극도로 꺼리는 조심스러운 생물들로, 누구를 정복할 생각은 전혀 없으며 그저 내버려 두기를 선호한다. 인간의 형태를 띤 걸어 다니는 버섯처럼 생겼으며, 육체는 부어오른 스펀지 같고 보라색에서 회색까지 다양한 색상을 띤다."
 myconid001,utc,FirstName,0,미코니드 고장노
 myconid001,utc,Description,0,"미코니드, 혹은 균사인은 언더다크의 오지에서 살아가는 지능을 가진 곰팡이 종족이다. 폭력을 극도로 꺼리는 조심스러운 생물들로, 누구를 정복할 생각은 전혀 없으며 그저 내버려 두기를 선호한다. 인간의 형태를 띤 걸어 다니는 버섯처럼 생겼으며, 육체는 부어오른 스펀지 같고 보라색에서 회색까지 다양한 색상을 띤다."
-myconid002,utc,FirstName,0,미코노이드 씨앗
+myconid002,utc,FirstName,0,미코노이드 새싹
 myconid002,utc,Description,0,"미코니드, 혹은 균사인은 언더다크의 오지에서 살아가는 지능을 가진 곰팡이 종족이다. 폭력을 극도로 꺼리는 조심스러운 생물들로, 누구를 정복할 생각은 전혀 없으며 그저 내버려 두기를 선호한다. 인간의 형태를 띤 걸어 다니는 버섯처럼 생겼으며, 육체는 부어오른 스펀지 같고 보라색에서 회색까지 다양한 색상을 띤다."
 myconid003,utc,FirstName,0,미코니드 그랜드 엘더
 myconid003,utc,Description,0,"미코니드, 혹은 균사인은 언더다크의 오지에서 살아가는 지능을 가진 곰팡이 종족이다. 폭력을 극도로 꺼리는 조심스러운 생물들로, 누구를 정복할 생각은 전혀 없으며 그저 내버려 두기를 선호한다. 인간의 형태를 띤 걸어 다니는 버섯처럼 생겼으며, 육체는 부어오른 스펀지 같고 보라색에서 회색까지 다양한 색상을 띤다."
@@ -35855,7 +35861,7 @@ royalguard001,utc,FirstName,0,왕실 경비병
 royalguard001,utc,Description,0,"이 사람은 진지하고 차분해 보이고, 그의 갑옷은 완벽하게 유지되어 있습니다. 분명히 그는 자신의 의무를 가장 중요하게 생각하고 있는 것 같습니다."
 rugnar,utc,FirstName,0,루그나르
 rustmonsterba002,utc,FirstName,0,녹 괴물
-rustmonsterba002,utc,Description,0,"다른 대부분의 전투자들은 오크 군대를 상대하는 것보다 빛나지 않는 몬스터와 맞서는 것을 더 선호한다. 이 생물들은 금속 물건을 손상시키고 먹어치우며, 무수히 많은 모험가들의 갑옷, 방패, 그리고 무기를 파괴해 왔다."
+rustmonsterba002,utc,Description,0,"대부분의 전사들은 녹슨 괴물과 맞닥뜨리는 것보다 오크 군대와 싸우는 쪽을 택할 것이다. 이 생물들은 금속 물건을 부식시키고 먹어치우며, 수많은 모험가들의 갑옷과 방패, 무기를 망가뜨려 왔다."
 shadow001,utc,FirstName,0,그림자
 shadow001,utc,Description,0,"그림자는 살아있는 어둠의 피조물로, 생명과 빛을 똑같이 맹렬하게 증오한다. 그들의 손길은 존재하지 않는 것의 냉기를 남기기 때문에 매우 위험한 상대이다."
 shfiend001,utc,FirstName,0,그림자 마귀
@@ -35960,65 +35966,65 @@ valeria,utc,FirstName,0,발레리아
 valeria,utc,Description,0,"드로우는 엘프의 사악한 아종으로, 위험한 언더다크의 깊은 지하에 살고 있습니다."
 vampire01,utc,FirstName,0,흡혈귀
 vampire011,utc,FirstName,0,흡혈귀 투사
-vampire011,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire011,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire012,utc,FirstName,0,흡혈귀 투사
-vampire012,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire012,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire013,utc,FirstName,0,흡혈귀 마법학자
-vampire013,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire013,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire014,utc,FirstName,0,흡혈귀
 vampire015,utc,FirstName,0,흡혈귀 사제
-vampire015,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire015,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire016,utc,FirstName,0,흡혈귀 도적
-vampire016,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire016,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire017,utc,FirstName,0,흡혈귀
 vampire018,utc,FirstName,0,흡혈귀 투사
-vampire018,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire018,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire019,utc,FirstName,0,흡혈귀 마법학자
-vampire019,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire019,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire02,utc,FirstName,0,흡혈귀 투사
-vampire02,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire02,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire020,utc,FirstName,0,흡혈귀 도적
-vampire020,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire020,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire021,utc,FirstName,0,흡혈귀 사제
-vampire021,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire021,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire022,utc,FirstName,0,흡혈귀 투사
-vampire022,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire022,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire024,utc,FirstName,0,흡혈귀 사제
-vampire024,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire024,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire025,utc,FirstName,0,흡혈귀 마법학자
-vampire025,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire025,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire026,utc,FirstName,0,흡혈귀 투사
-vampire026,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire026,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire027,utc,FirstName,0,흡혈귀
 vampire028,utc,FirstName,0,흡혈귀 도적
-vampire028,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire028,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire03,utc,FirstName,0,흡혈귀
 vampire030,utc,FirstName,0,흡혈귀 마법학자
-vampire030,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire030,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire031,utc,FirstName,0,흡혈귀 사제
-vampire031,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire031,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire032,utc,FirstName,0,흡혈귀 투사
-vampire032,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire032,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire033,utc,FirstName,0,흡혈귀
 vampire034,utc,FirstName,0,흡혈귀 마법학자
-vampire034,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire034,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire035,utc,FirstName,0,흡혈귀 도적
-vampire035,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire035,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire036,utc,FirstName,0,흡혈귀 사제
-vampire036,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire036,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire037,utc,FirstName,0,흡혈귀
 vampire04,utc,FirstName,0,흡혈귀 마법학자
-vampire04,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire04,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire05,utc,FirstName,0,흡혈귀 마법학자
-vampire05,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire05,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire06,utc,FirstName,0,흡혈귀
-vampire06,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire06,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire07,utc,FirstName,0,흡혈귀 사제
-vampire07,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire07,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire08,utc,FirstName,0,흡혈귀 도적
-vampire08,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire08,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vampire09,utc,FirstName,0,흡혈귀 도적
-vampire09,utc,Description,0,영원히 그들의 죽음에 묶여 있는 이 야간 맹수들은 세상에 그들의 불순종한 자손으로써 영원히 끊임없이 계획한다.
+vampire09,utc,Description,0,자신의 관과 묘지의 부정한 대지에 영원히 묶인 이 야행성 포식자들은 세상에 부정한 자손들을 가득 채우기 위해 끊임없이 음모를 꾸민다.
 vengefulspirit,utc,FirstName,0,복수의 영혼
 water001,utc,FirstName,0,물 원소 정령
 water001,utc,Description,0,격렬하고 폭풍우처럼 강력한 물 원소 정령은 그들을 낳은 물에서 멀리 모험할 수 없습니다.
@@ -36346,7 +36352,7 @@ cloth031,uti,LocalizedName,0,성스러운 수호자 갑옷
 cloth031,uti,DescIdentified,0,"이 성스러운 갑옷은 대여사제 알리아에게서 물려받아 선의 수호자들에게 전해졌으며, 보통 성기사나 성직자들이 착용했습니다."
 cloth060,uti,LocalizedName,0,마법사의 방어 로브
 copperhalfplat,uti,LocalizedName,0,코퍼판금 갑옷
-copperkey,uti,LocalizedName,0,구리 키
+copperkey,uti,LocalizedName,0,구리 열쇠
 creitemlic001,uti,LocalizedName,0,리치 속성
 crimsonhelm,uti,LocalizedName,0,크림슨 헬멧
 crimsonhelm,uti,DescIdentified,0,"이것은 바바리안, 파이터 및 팔라딘을 위해 설계된 세트 아이템 중 하나입니다. 이 세트 아이템은 리크 ""다크"" 프란시스"
@@ -36419,7 +36425,7 @@ drowcleaver001,uti,DescIdentified,0,"도끼의 원래 소유자는 익명의 왜
 drowdart,uti,LocalizedName,0,아다만틴 다트 +5
 drowdarts,uti,LocalizedName,0,드로우 다트
 drowkey,uti,LocalizedName,0,드로우 키
-drowlongsword5,uti,LocalizedName,0,일라조르의 드루우 긴 검
+drowlongsword5,uti,LocalizedName,0,일라조르의 드로우 롱소드
 drowmagerobes,uti,LocalizedName,0,드로우 마법학자 의복
 drowmagerobes001,uti,LocalizedName,0,드로우 여사제 로브
 drowshield004,uti,LocalizedName,0,드로우 방패 +3
@@ -36488,8 +36494,8 @@ eb_stone_item,uti,LocalizedName,0,돌 글자
 eb_stone_item,uti,Description,0,돌판의 표면에는 녹색 보석이 삽입되어 있어 이를 제거할 수 없습니다.
 eb_stone_item,uti,DescIdentified,0,"돌 글리프를 자세히 살펴보니, 표면에 드워프의 기원을 알 수 있는 특별한 표기가 있고, 왼쪽 부분에 더 깊이 절단된 1과, 중앙에 2, 오른쪽에 3이 각각 새겨져 있다. 이 표기는 드워프의 기원을 나타내며, 특별한 목적을 가지고 있을 수 있다."
 eb_tod_bones,uti,LocalizedName,0,토드의 뼈
-eb_tod_bones,uti,Description,0,당신 앞에 반프의 모든 뼈가 있습니다.
-eb_tod_bones,uti,DescIdentified,0,당신 앞에 반프의 모든 뼈가 있습니다.
+eb_tod_bones,uti,Description,0,당신 앞에 하플링의 뼈 무더기가 온전히 놓여 있습니다.
+eb_tod_bones,uti,DescIdentified,0,당신 앞에 하플링의 뼈 무더기가 온전히 놓여 있습니다.
 eliteravager,uti,LocalizedName,0,엘리트 파괴자
 eliteravager,uti,DescIdentified,0,"이 무기는 베오룬나의 우물에 있는 우스그르트 마을의 임시 대장간에서 일했던 숙련된 대장장이 드워프 바룬의 낙인을 지니고 있습니다. 그는 1373년 DR 후반에, 당시 북부 도시 네버윈터와 로즈 연합을 향해 진군하던 배신자 레이디 아리베스와의 전쟁을 돕기 위해 이것을 제작했습니다."
 elvenarmor,uti,LocalizedName,0,엘프 갑옷
@@ -36553,7 +36559,7 @@ greaterangurvad,uti,DescIdentified,0,"이러한 유형의 칼은 선택된 제�
 greatercalllig,uti,LocalizedName,0,번개 부르기 대형 마법봉
 greatercalllig,uti,DescIdentified,0,"번개 막대 는 적어도 그 건설 초기 단계 에서 매우 불안정 이다. 많은 경험 없는 투사 는 자신의 실험실 에서 갑작스러운 폭풍 또는 충전 된 안개 의 장소 를 발견 해 왔으며, 적절한 마법 을 제대로 하지 못했기 때문 이다. 고령 마법사 들 은 간접적으로 약간의 겸손 을 가르칠 희망 으로 잘못된 의식 을 가진 토마스 를 순환 시키도록 허용 했다고 한다."
 greaterfirebal,uti,LocalizedName,0,더 큰 불볼트 마법봉
-greaterfirebal,uti,DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
+greaterfirebal,uti,DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
 greatergauntlet,uti,LocalizedName,0,강력한 오우거 근력의 팔목장갑
 greatergauntlet,uti,DescIdentified,0,"이 마법 물건들은 수천 년 동안 존재해 왔지만, 그 인기는 결코 줄어들지 않는 것 같다. 최근, 칼림산의 모험가들 한 팀이 이와 같은 마법 물건들로 가득한 거대한 보물창고를 발견했다. 갑작스러운 마법 장갑의 유입에도 불구하고, 그 가치는 줄어들지 않고 전국의 모든 모험가들이 이 유용한 유물들의 도움을 청하고 있다."
 greaterowlsw,uti,LocalizedName,0,상급 올빼미의 지혜 물약
@@ -36644,7 +36650,7 @@ it_crewpb011,uti,LocalizedName,0,투사/상급 미라 슬램
 it_crewpb012,uti,LocalizedName,0,발러의 타격
 it_crewpb016,uti,LocalizedName,0,마루트슬램
 it_crewpb017,uti,LocalizedName,0,마루트슬램엘트
-it_crewpmimic001,uti,LocalizedName,0,애니메이션 객체 폭격
+it_crewpmimic001,uti,LocalizedName,0,움직이는 피조물의 강타
 it_crewps003,uti,LocalizedName,0,흉포한 시궁쥐 물림
 it_crewps005,uti,LocalizedName,0,모그 물림
 it_crewps007,uti,LocalizedName,0,바실리스크Bite4d8
@@ -36824,7 +36830,7 @@ maarcl021,uti,DescIdentified,0,"알도 (백룡 갑옷) 는 가볍고 강하며 �
 maarcl041,uti,LocalizedName,0,아다만틴 가슴판갑
 maarcl041,uti,DescIdentified,0,"이 갑옷 은 익사 가공 의 상표 를 지니고 있지만, 그 표준 에 따라도 명백 히 예외적 이다. 최근 에 여러 가지 예 들 이 발견 되었으며, 학자들은 이 의복 들 이 낮 빛 에 노출 된 후 보통 아다마틴 을 괴롭히는 부패 를 어떻게 피할 수 있는지 설명 할 수 없다. 명백 한 해답 은 이 물건 들 은 대장 길고 많은 수의 표면 세계 여행 을 위해 의도 되어 있었을 것 이다."
 maarcl043,uti,LocalizedName,0,아르만의 갑옷
-maarcl050,uti,LocalizedName,0,모리안의 갈대옷
+maarcl050,uti,LocalizedName,0,모리안의 로브
 maarcl055,uti,LocalizedName,0,키르가르 공의 갑옷
 maarcl065,uti,LocalizedName,0,철판 갑옷+2
 maarcl065,uti,DescIdentified,0,이 마법 갑옷은 착용자에게 추가적인 보호를 제공하지만 특별한 제작자의 표식을 가지고 있지 않습니다.
@@ -36882,7 +36888,7 @@ mariproperties,uti,LocalizedName,0,마리릴 속성
 maritailslam,uti,LocalizedName,0,꼬리 슬램
 maskofdeath,uti,LocalizedName,0,죽음의 가면
 maskofdeath,uti,DescIdentified,0,"이것은 마법사 또는 마녀를 위해 만들어진 특별한 아이템입니다. 이 세트 아이템은 리크 ""다크"" 프랜시스가 만든"
-maxproperties,uti,LocalizedName,0,맥스 속성
+maxproperties,uti,LocalizedName,0,최대 속성
 mcloth003,uti,LocalizedName,0,아치마지의 의복
 mcloth003,uti,DescIdentified,0,"이 종류 의 대부분 의 물건 은 선 과 질서 의 하나 이나 더 많은 신 들 과 관련 된 표지 를 가지고 있다. 아마도 이것 은 마법사 들 사이 에 도덕적 행동 을 장려 하기 위한 시도 이며, 그 들 의 능력 을 다른 사람 들 에게 지배 하는 것 대신 책임 있는 방법으로 관리 하는 사람 들 을 보상 하는 것 이다."
 mcloth004,uti,LocalizedName,0,아치마지의 의복
@@ -37012,7 +37018,7 @@ notes033,uti,Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""
 notes033,uti,DescIdentified,0,"우리는 드로우 캠프에서 살아남았습니다. 표면으로 돌아갈 길이 없어, 우리에게 남은 선택은 계속 아래로 내려가는 것뿐입니다. 드로우는 우리를 두려워하는 것 같았습니다. 그들은 다음 단계로 우리를 따라가지 않을 것 같습니다."
 notes034,uti,LocalizedName,0,웬틀리 켈소의 일지 노트
 notes034,uti,Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 자신 을 ""명གྲགས་ 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터 딥 의 세로 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
-notes034,uti,DescIdentified,0,"베넷이 지하에 너무 오래 있었는지라, 우리는 다시 왔던 길로 돌아가라고 압박하고 있다고 생각한다."
+notes034,uti,DescIdentified,0,내 생각엔 베넷이 지하에 너무 오래 있었던 모양이야. 우리가 왔던 길로 다시 돌아가자고 성화네.
 notes035,uti,LocalizedName,0,웬틀리 켈소의 일지 노트
 notes035,uti,Description,0,"다음 페이지 는 ""바닷 깊은 아래 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 자신 을 ""명གྲགས་ 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터 딥 의 세로 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
 notes035,uti,DescIdentified,0,"베넷이 또 문제를 일으키고, 여전히 우리가 뒤돌아가서 우리가 온 곳으로 돌아가길 원한다."
@@ -37063,7 +37069,7 @@ notes050,uti,Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라�
 notes050,uti,DescIdentified,0,"우리는 층 전체를 수색했고 이곳이 아래층으로 내려가는 유일한 길인 것 같다. 문을 통해 살펴보았으나 계단도 보이지 않고 바닥도 보이지 않았기에, 나는 안내자를 그 안으로 밀어 넣었다. 거의 곧바로 쿵 하는 소리가 났다. 그렇게 깊지는 않은 모양이다."
 notes051,uti,LocalizedName,0,웬틀리 켈소의 일지 노트
 notes051,uti,Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 ""명확 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터디프 의 하천 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
-notes051,uti,DescIdentified,0,우리는 이 방에서 거대한 눈이 팔대석에 앉아 있다는 것을 발견하여 놀랐습니다. 정말 놀라운 작품입니다. 그 눈에 구슬을 넣으면 어떻게 될지 궁금합니다.
+notes051,uti,DescIdentified,0,우리는 이 방의 받침대 위에 거대한 눈이 놓여 있는 것을 보고 놀랐습니다. 정말 놀라운 예술품입니다. 저 눈에 구슬을 넣으면 어떻게 될지 궁금합니다.
 notes052,uti,LocalizedName,0,웬틀리 켈소의 일지 노트
 notes052,uti,Description,0,"다음 문서 는 ""Waterdeep 아래의 세계""라는 제목 의 노트 책 에서 나온다. 그 책 에는 ""명확 한 고고학자""인 웬티 켈소 (Wently Kelso) 의 일부 노트 들 이 포함되어 있다. 그 들 은 워터디프 의 하천 들 의 가장 깊은 깊이 에 대한 그의 탐험 을 기술 한다."
 notes052,uti,DescIdentified,0,"우리 가이드 벤넷은 이 홀들을 돌아다닐 때 끊임없이 혼란스러워하고 있습니다. 우리는 끝없이 순환하는 것처럼 보이지만, 지나가는 동안 새로운 것들을 발견하는 것처럼도 보입니다. 처음에는 이런 것들을 놓쳤었던 것 같습니다."
@@ -37164,7 +37170,7 @@ redgem,uti,DescIdentified,0,이 붉은 보석은 다른 보석들과는 달라 �
 redgem1,uti,LocalizedName,0,붉은색 보석
 redgem1,uti,DescIdentified,0,"붉은 보석을 살펴보니 다른 일반적인 보석과 다를 것 같아, 특별한 목적을 가지고 있는 것 같다."
 redgemkey,uti,LocalizedName,0,붉은색 보석 열쇠
-ribspreadder,uti,LocalizedName,0,리브 스퍼레이더
+ribspreadder,uti,LocalizedName,0,늑골 확장기
 ringofbless,uti,LocalizedName,0,축복의 반지
 ringofbronze,uti,LocalizedName,0,청동 반지
 ringofbronze,uti,DescIdentified,0,"이 브론즈 링은 무시해서는 안 되는 특별한 능력을 담고 있다.
@@ -37205,7 +37211,7 @@ rodofburning,uti,DescIdentified,0,이 막대기는 노움 마법사 자루가 �
 rodoffrostbite,uti,LocalizedName,0,동상의 막대
 rodoffrostbite,uti,DescIdentified,0,이 막대기는 노움 마법사 자루가 만든 여러 막대기 중 하나입니다. 자루는 네버윈터에 있는 모험가 아카데미의 교사입니다. 자루는 다른 학생보다 뛰어난 학생들에게 이 막대기를 나눠줍니다.
 rodofstoneflesh,uti,LocalizedName,0,석화 해제로드
-rodofstoneflesh,uti,DescIdentified,0,이 마법은 돌로 변한 생물을 정상 상태로 되돌려주고 생명과 물품을 회복시킵니다.
+rodofstoneflesh,uti,DescIdentified,0,이 주문은 석화된 생물을 원래 상태로 되돌리고 생명과 소지품을 회복시킵니다.
 rodofstoneski,uti,LocalizedName,0,돌 피부 막대
 rodofstoneski,uti,DescIdentified,0,"이 굽은 막대들은 활동적이지 않더라도 악의 분위기를 풍기며, 그들을 바라보는 모든 자들에게 불안을 줍니다. 한 적에게 불가사의한 공포의 파동을 발산할 수 있으며, 가장 거친 영혼마저도 깊은 두려움으로 가득 차게 합니다. 이 막대들은 분명 악의 욕구로 사용될 목적으로 만들어진 것입니다."
 royalguardarmo,uti,LocalizedName,0,왕실 경비병 갑옷
@@ -37535,20 +37541,20 @@ wmdwraxe007,uti,LocalizedName,0,도럼 드워프제 전투도끼
 wmdwraxe008,uti,LocalizedName,0,두개골 분쇄
 wmdwraxe009,uti,LocalizedName,0,죽음의 손
 wmgmrd006,uti,LocalizedName,0,회복의 막대
-wmgmrd006,uti,DescIdentified,0,이 강력한 아이템들은 전투 중에 소진된 레벨을 빠르게 회복할 수 있게 해준다.
+wmgmrd006,uti,DescIdentified,0,이 강력한 아이템을 사용하면 전투 중에 소진된 레벨을 빠르게 회복할 수 있습니다.
 wmgmrd007,uti,LocalizedName,0,석화 해제로드
 wmgst006,uti,LocalizedName,0,다로킨의 지팡이
 wmgst007,uti,LocalizedName,0,모리안의 직원
 wmgst008,uti,LocalizedName,0,켄쿠 지팡이
 wmgwn003,uti,LocalizedName,0,화염의 마법봉
-wmgwn003,uti,DescIdentified,0,"불의 마법봉은 수 세기 동안 연구하고 숭배되어온 마법의 학문을 바탕으로 하고 있으며, 그 종행자들은 그 개념의 기원을 결정할 수 없을 만큼 다양하다. 그러나 이러한 물건의 디자인에 있어서 가장 현대적인 정비는 화신 코스투를 숭배하는 풍습이 널리 퍼져 있는 타이에서 일어난 것으로 보일 수 있다."
-wmgwn005,uti,LocalizedName,0,방사 완드
+wmgwn003,uti,DescIdentified,0,"불의 마법봉은 수 세기 동안 연구되고 숭배되어 온 마법 체계에 기반을 두고 있으며, 그 술법사들이 너무 다양하여 이 개념이 어디서 비롯되었는지 단정할 수 없다. 하지만 그러한 물건의 디자인에 있어서 대부분의 현대적 개량은 불의 군주 코스수스에 대한 숭배가 널리 퍼진 타이에서 이루어졌다고 볼 수 있다."
+wmgwn005,uti,LocalizedName,0,미사일 완드
 wmgwn005,uti,DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 wmgwn006,uti,LocalizedName,0,이사의 하급 마법 미사일 마법봉
-wmgwn007,uti,LocalizedName,0,이삭의 더 큰 유도탄의 마법봉
+wmgwn007,uti,LocalizedName,0,이삭의 상급 미사일 마법봉
 wmgwn014,uti,LocalizedName,0,하위 소환의 마법봉
 wmgwn014,uti,DescIdentified,0,"소환의 마법봉에 깃든 마법은 잊힌 짐승 토템을 따르던 이들이 만든 고대 마법에 크게 빚지고 있습니다. 하지만 현대의 마법봉을 신의 영감을 받은 도구라고 하기는 어렵습니다. 소서러와 위저드는 여러 곳에서 영감을 얻으므로, 완성된 주문은 한때 속했던 의식과 거의 닮지 않을 수도 있습니다."
-wmgwn015,uti,LocalizedName,0,방사 완드
+wmgwn015,uti,LocalizedName,0,미사일 완드
 wmgwn015,uti,DescIdentified,0,"이 같은 물체 내 에서 마법 의 발사 를 포괄 한 첫 번째 마법사 는 분명 히 도래 하고 분자 한 것 으로 알려졌다는 인상적인 전설 이 있습니다. 대부분의 마법사 와 마법사 들 은 이 점 을 조롱 하며, 오늘날 모든 막대 의 창조자 들 이 죽인다면, 마법 은 참으로 매우 독점적 인 클럽 이 될 것 이라고 말 합니다."
 wplmhb003,uti,LocalizedName,0,족장의 미늘창 +5
 wplmhb009,uti,LocalizedName,0,파괴자 +1
@@ -37630,7 +37636,7 @@ wthmdt005,uti,LocalizedName,0,살무사의 둥지
 wthmdt005,uti,DescIdentified,0,"살무사의 둥지의 다트는 치열하며, 끝부분은 깔끔하게 배열된 손가락 모양의 이빨로 덮여 있어 뱀의 침과 같은 독을 효과적으로 전달한다. 이러한 무기는 북쪽의 짐승 부족에서 유래되었을 수 있지만, 최근에 사용이 확산되었다."
 wthmdt006,uti,LocalizedName,0,살무사의 둥지
 wthmdt006,uti,DescIdentified,0,"살무사의 둥지의 다트는 치열하며, 끝부분은 깔끔하게 배열된 손가락 모양의 이빨로 덮여 있어 뱀의 침과 같은 독을 효과적으로 전달한다. 이러한 무기는 북쪽의 짐승 부족에서 유래되었을 수 있지만, 최근에 사용이 확산되었다."
-wthmsh004,uti,LocalizedName,0,니니지 +2의 별
+wthmsh004,uti,LocalizedName,0,닌지의 별 +2
 wthmsh004,uti,DescIdentified,0,"닌지는 골든 마을의 영적 가이드였지만, 강도들이 마을을 포위하면서 제작자로 일하게 되었다. 그는 방어자들이 반격할 수 있도록 이 무기들과 다른 무기들을 제작하였고, 금속 작업에 능숙하지 않았음에도 불구하고, 그의 지도하는 영령들에 감사의 마음을 전하며 망치의 각 성공적인 타격을 위해 고마움을 표했다. 이 별들이 여전히 존재하는 것은 그의 믿음의 강도를 증명한다."
 wthmsh005,uti,LocalizedName,0,니니지 +4의 별
 wthmsh005,uti,DescIdentified,0,"닌지는 골든 마을의 영적 가이드였지만, 강도들이 마을을 포위하면서 제작자로 일하게 되었다. 그는 방어자들이 반격할 수 있도록 이 무기들과 다른 무기들을 제작하였고, 금속 작업에 능숙하지 않았음에도 불구하고, 그의 지도하는 영령들에 감사의 마음을 전하며 망치의 각 성공적인 타격을 위해 고마움을 표했다. 이 별들이 여전히 존재하는 것은 그의 믿음의 강도를 증명한다."
@@ -37670,8 +37676,8 @@ bloodstain005,utp,LocName,0,핏자국 6
 bloodstain006,utp,LocName,0,핏자국 7
 bloodstain007,utp,LocName,0,핏자국 8
 bloodtrail002,utp,LocName,0,블러드트레일 2
-bloodtrail003,utp,LocName,0,혈투 3
-bloodtrail004,utp,LocName,0,혈투 4
+bloodtrail003,utp,LocName,0,블러드트레일 3
+bloodtrail004,utp,LocName,0,블러드트레일 4
 bloodtrail1,utp,LocName,0,혈흔 1
 bloodwall002,utp,LocName,0,피벽 2
 bloodwall003,utp,LocName,0,피벽 3
@@ -37771,11 +37777,11 @@ castleillusion1,utp,LocName,0,환영의 성 벽 1
 chstdrwrs,utp,LocName,0,책장
 chstdrwrs,utp,Description,0,고대의 드래프트 은 에 의해 만질 수 있고 드래프트 자체는 소켓 안에 잘 맞지 않습니다.
 claw002,utp,LocName,0,행잉 클로
-claw002,utp,Description,0,켄쿠 침검
+claw002,utp,Description,0,켄쿠 발톱
 claw003,utp,LocName,0,행잉 클로
-claw003,utp,Description,0,켄쿠 침검
+claw003,utp,Description,0,켄쿠 발톱
 claw1,utp,LocName,0,행잉 클로
-claw1,utp,Description,0,켄쿠 침검
+claw1,utp,Description,0,켄쿠 발톱
 counter,utp,LocName,0,카운터
 delinarpkeg,utp,LocName,0,델리나르의 파우더 케그
 delinarpkeg,utp,Description,0,화약이 가득 찬 매우 인화성이 높은 통이다. 불을 붙이고 지옥처럼 도망쳐라. 이 통은 델리나르가 저장고 벽의 틈을 메울 수 있도록 특히 강력한 폭발을 일으키도록 개조한 것이다.
@@ -37785,11 +37791,11 @@ dirtpatchlg,utp,LocName,0,흙 부분 대형
 dirtpatchmd,utp,LocName,0,흙 부분 Md
 dnswall2,utp,LocName,0,던전 튼튼한 벽 2
 dragon,utp,LocName,0,월 드래곤
-dragon,utp,Description,0,켄쿠 침검
+dragon,utp,Description,0,켄쿠 발톱
 dragon001,utp,LocName,0,대형 현수막
-dragon001,utp,Description,0,켄쿠 침검
+dragon001,utp,Description,0,켄쿠 발톱
 dragon002,utp,LocName,0,소형 깃발
-dragon002,utp,Description,0,켄쿠 침검
+dragon002,utp,Description,0,켄쿠 발톱
 drow_note_,utp,LocName,0,드로우 노트
 drow_note_,utp,Description,0,"드래즈, 5일 후로 하수도로 돌아가서, 약속된 장소에서 만나게 될 것입니다. 도착하면 추가 지침을 받게됩니다."
 drowilluision2,utp,LocName,0,드로우 강력한 벽 2
@@ -37821,7 +37827,7 @@ eb_lghole001,utp,Description,0,치명적인 독성 가스를 내뿜는 중형 �
 eb_plc_anya,utp,LocName,0,인간 뼈
 eb_plc_beohram,utp,LocName,0,인간 뼈
 eb_plc_egg,utp,LocName,0,켄쿠 알
-eb_plc_egg,utp,Description,0,켄쿠 침검
+eb_plc_egg,utp,Description,0,켄쿠 발톱
 eb_plc_ileria,utp,LocName,0,하프엘프 뼈
 eb_plc_kirath,utp,LocName,0,하프엘프 뼈
 eb_plc_mara,utp,LocName,0,티플링 뼈
@@ -37958,7 +37964,7 @@ l11_ringhint3,utp,Description,0,조화 는 진실 이어야 한다
 lava,utp,LocName,0,용암
 leftturntrack,utp,LocName,0,좌회전 선로
 leo,utp,LocName,0,월 리오
-leo,utp,Description,0,켄쿠 침검
+leo,utp,Description,0,켄쿠 발톱
 lootbag006,utp,LocName,0,신디아의 전리품 주머니
 lootbag006,utp,Description,0,"가방은 반 열려 있으며, 채우기 직전에 버려진 것처럼 보인다."
 mage,utp,LocName,0,마법학자
@@ -38005,7 +38011,7 @@ magicorange001,utp,LocName,0,마법 스파크
 magicorange001,utp,Description,0,서늘한 밤공기 속에서 도깨비불처럼 주황색 불꽃이 땅 위로 떠오른다.
 maps001,utp,LocName,0,네 방향 지도
 men,utp,LocName,0,성벽의 사나이들
-men,utp,Description,0,켄쿠 침검
+men,utp,Description,0,켄쿠 발톱
 mushroom01,utp,LocName,0,중간 크기 버섯
 mushroom02,utp,LocName,0,커다란 버섯
 mushroom03,utp,LocName,0,작은 버섯
@@ -38016,8 +38022,8 @@ olddngill,utp,LocName,0,오래된 동굴 II 벽
 olddngill2,utp,LocName,0,오래된 동굴 II 벽
 olddngsolid,utp,LocName,0,오래된 던전 단단한 벽
 olddngsolid2,utp,LocName,0,오래된 던전 단단한 벽 2
-ox,utp,LocName,0,월오크
-ox,utp,Description,0,켄쿠 침검
+ox,utp,LocName,0,월 옥스
+ox,utp,Description,0,켄쿠 발톱
 petr_pc,utp,LocName,0,석화된 인간형
 petr_pc,utp,Description,0,한때는 동맹이었던 자다. 지금은 잘 다듬어진 조각상일 뿐이다.
 pilestones001,utp,LocName,0,돌 더미
@@ -38136,11 +38142,11 @@ silverkeybox3,utp,LocName,0,나무 상자
 silverkeybox3,utp,Description,0,"이 나무 상자는 일시적으로 보관할 것처럼 보이지만, 못이 느슨하게 박혀 있습니다."
 skelmage002,utp,LocName,0,해골 투사
 skelmage003,utp,LocName,0,해골 투사
-skullpole001,utp,LocName,0,배틀아이크스 1
+skullpole001,utp,LocName,0,배틀액스 1
 skullpole002,utp,LocName,0,배틀액스 2
 skullpole003,utp,LocName,0,배틀아엑스 3
 skullpole004,utp,LocName,0,배틀아이크스 4
-skullpole005,utp,LocName,0,긴검 1
+skullpole005,utp,LocName,0,롱소드 1
 skullpole006,utp,LocName,0,롱스word 2
 skullpole007,utp,LocName,0,긴검 3
 skullpole008,utp,LocName,0,롱스word 4
@@ -38161,7 +38167,7 @@ skullstatue,utp,LocName,0,두개골 조각상
 smallpit,utp,LocName,0,소형 구덩이
 smokeevil,utp,LocName,0,악을 무찌르다
 sporebig,utp,LocName,0,스포어 빅
-sporebig001,utp,LocName,0,스포어 중간
+sporebig001,utp,LocName,0,포자 매체
 sporelarge,utp,LocName,0,스포르
 sporemedium,utp,LocName,0,소형 스포르
 sporesmall,utp,LocName,0,스포르
@@ -38197,7 +38203,7 @@ x2_plc_pkeg,utp,LocName,0,화약 통
 x2_plc_pkeg,utp,Description,0,화약이 가득 찬 매우 폭발하기 쉬운 통이다. 불을 붙이고 미친 듯이 도망쳐라. 물리적으로 공격해 격발시킬 수 있으며 근처에 있는 모든 이에게 피해를 준다.
 xs_boulder,utp,LocName,0,바위
 xs_boulder,utp,Description,0,땅에서 크고 단단한 화강암 조각이 튀어나와 있다.
-ytrack,utp,LocName,0,Y 트레킹
+ytrack,utp,LocName,0,Y 트랙
 ytrackr,utp,LocName,0,Y 트랙 R
 ytracksplit,utp,LocName,0,Y 트랙 분기
 critternoises,uts,LocName,0,소리

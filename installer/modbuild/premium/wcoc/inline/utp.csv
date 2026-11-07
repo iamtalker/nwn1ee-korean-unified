@@ -72,7 +72,7 @@ joustlist1w,utp,LocName,0,-1,"창 시합 목록 1, 이동 가능"
 joustlist2,utp,LocName,0,-1,주스트 리스트 2
 joustlist2w,utp,LocName,0,-1,"Joust List 2, 걷을 수 있는"
 joustlist3,utp,LocName,0,-1,창 시합 목록 3
-joustlist3w,utp,LocName,0,-1,"주스트 리스트 3, 걷을 수 있는"
+joustlist3w,utp,LocName,0,-1,"창 시합 목록 3, 통행 가능"
 joustlist4,utp,LocName,0,-1,창 시합 명단 4
 joustlist4w,utp,LocName,0,-1,"주스트 리스트 4, 통과 가능"
 lancerack,utp,LocName,0,-1,랜스 거치대
@@ -80,9 +80,9 @@ oilbarrel,utp,Description,0,-1,무거운 기름 배럴입니다. 만약 불을 �
 oilbarrel,utp,LocName,0,-1,기름 통
 oilbarrel2,utp,Description,0,-1,무거운 기름 배럴입니다. 만약 불을 붙이면 아마 폭발할지도 모릅니다.
 oilbarrel2,utp,LocName,0,-1,기름 통
-pf_lightday,utp,Description,0,68932,위쪽에서 내려오는 빛이 찍는다.
+pf_lightday,utp,Description,0,68932,위에서 빛이 내리꽂힌다.
 pf_lightday,utp,LocName,0,68931,"빛기둥, 태양"
-pf_lightnight,utp,Description,0,68932,위쪽에서 내려오는 빛이 찍는다.
+pf_lightnight,utp,Description,0,68932,위에서 빛이 내리꽂힌다.
 pf_lightnight,utp,LocName,0,68931,"라이트샤프트, 달"
 recoverychest,utp,LocName,0,-1,회복궤짝
 silvermirror_plc,utp,Description,0,84186,이 거울은 비추지 않고 대신 완벽한 은빛 광택만 보여 준다.
@@ -252,13 +252,13 @@ tnotree7sm,utp,LocName,0,-1,TNO 나무 7 SM
 tnotree8lg,utp,LocName,0,-1,TNO 나무 8 대
 tnotree8md,utp,LocName,0,-1,TNO 나무 8 Md
 tnotree8sm,utp,LocName,0,-1,TNO 나무 8 SM
-tnotree9lg,utp,LocName,0,-1,TNO 나무 9 대
+tnotree9lg,utp,LocName,0,-1,TNO 나무 9 대형
 tnotree9md,utp,LocName,0,-1,TNO 나무 9 Md
 tnotree9sm,utp,LocName,0,-1,TNO 나무 9 SM
-tnotreealg,utp,LocName,0,-1,TNO 대나무 A Lg
+tnotreealg,utp,LocName,0,-1,TNO 나무 A 대형
 tnotreeamd,utp,LocName,0,-1,TNO 나무 A Md
 tnotreeasm,utp,LocName,0,-1,TNO 나무 A SM
-tnotreeblg,utp,LocName,0,-1,TNO 나무 대 L그루
+tnotreeblg,utp,LocName,0,-1,TNO 나무 B 대형
 tnotreebmd,utp,LocName,0,-1,TNO 나무 B Md
 tnotreebsm,utp,LocName,0,-1,TNO 나무 B Sm
 tnotreeclg,utp,LocName,0,-1,TNO 나무 C Lg
@@ -267,7 +267,7 @@ tnotreecsm,utp,LocName,0,-1,TNO 나무 C SM
 tnotreedark,utp,LocName,0,-1,TNO 어두운 나무
 tnotreelight,utp,LocName,0,-1,TNO 나무빛
 tnowagon,utp,LocName,0,14611,TNO 마차
-tnowillowtreelg,utp,LocName,0,-1,TNO 와일로나 트리 Lg
+tnowillowtreelg,utp,LocName,0,-1,TNO 버나무 Lg
 tnowillowtreemd,utp,LocName,0,-1,TNO 윌로우 트리 Md
 tnowillowtreesm,utp,LocName,0,-1,TNO 와일로우 트리 SM
 tnowindowal,utp,LocName,0,14616,TNO 대형 아치 창문
@@ -330,11 +330,11 @@ wcjars,utp,Description,0,84191,몇 개의 오래된 돌 주전자가 바닥에 �
 wcjars,utp,LocName,0,83443,
 wcjars001,utp,Description,0,84191,밑동이 땅에 박힌 오래된 돌 항아리가 서 있습니다.
 wcjars001,utp,LocName,0,83443,단지
-wclightl,utp,Description,0,68932,위쪽에서 내려오는 빛이 찍는다.
+wclightl,utp,Description,0,68932,위에서 빛이 내리꽂힌다.
 wclightl,utp,LocName,0,68931,대형 빛기둥
-wclightm,utp,Description,0,68932,위쪽에서 내려오는 빛이 찍는다.
+wclightm,utp,Description,0,68932,위에서 빛이 내리꽂힌다.
 wclightm,utp,LocName,0,68931,광선 중형
-wclights,utp,Description,0,68932,위쪽에서 내려오는 빛이 찍는다.
+wclights,utp,Description,0,68932,위에서 빛이 내리꽂힌다.
 wclights,utp,LocName,0,68931,빛기둥 소형
 wcmist,utp,LocName,0,68931,안개가
 wcrootsroof,utp,Description,0,84191,몇 개의 오래된 돌 주전자가 바닥에 방비처럼 서 있습니다.

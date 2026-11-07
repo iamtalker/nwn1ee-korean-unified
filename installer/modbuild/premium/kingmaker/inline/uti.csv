@@ -25,7 +25,7 @@ it_mbelt016,uti,DescIdentified,0,67769,수히리 자신 은 그 들 의 가장 �
 it_mbelt019,uti,DescIdentified,0,67773,"로저 델포스 (Ronger Delphos) 는 성공적 인 상인으로서 도둑 반대 협회를 결성하기 위해 보안 전문가가 되기 위하여 돈을 지불했다. 경비자들은 사람 포박 마법으로 막대기를 사용하도록 훈련받았으며, 이 수사 조치를 견제하기 위해서 도둑협회가 마술 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 교단 사이의 격상되는 전쟁에서 이러한 벨트 중 상당수는 보금점과 장비 매장에 진입하였다."
 it_mboots002,uti,DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
 it_mboots003,uti,DescIdentified,0,48317,텀블러들은 부유하고 강력한 귀족과 상인들을 실각시키기 위해 협력했던 암살자 집단이었다. 페니아스 4세 황제는 왕실로부터 거의 완전히 독립해 버린 발라타의 여러 지방을 다시 통제하기 위해 이들을 이용했다.
-it_mboots003,uti,LocalizedName,0,48316,작은 투머블
+it_mboots003,uti,LocalizedName,0,48316,하급 텀블러
 it_mboots005,uti,DescIdentified,0,48317,텀블러들은 부유하고 강력한 귀족과 상인들을 실각시키기 위해 협력했던 암살자 집단이었다. 페니아스 4세 황제는 왕실로부터 거의 완전히 독립해 버린 발라타의 여러 지방을 다시 통제하기 위해 이들을 이용했다.
 it_mboots005,uti,LocalizedName,0,48318,텀블러들
 it_mboots006,uti,DescIdentified,0,13336,인간과 엘프 사이에는 여러 차례의 전쟁이 일어났습니다. 인간들이 실제로 엘프들을 부츠로 만들어왔다는 사실을 발견한 이후로요. 엘프들은 마침내 인간들에게 정상적인 가죽으로 부츠를 제대로 만들 수 있는 방법을 가르쳤다고 믿습니다. 하지만 어떤 인간들의 어리석음을 과소평가해서는 안 됩니다.
@@ -217,7 +217,7 @@ os_trip_belt,uti,Description,0,-1,이 벨트는 서 벡트의 집에서 가져�
 os_trip_belt,uti,LocalizedName,0,-1,벨처 벨트
 os_trip_hide,uti,LocalizedName,0,-1,트립의 소유물
 os_trip_talsmn,uti,DescIdentified,0,-1,이것은 트립의 마법 부적이자 가죽끈에 매달린 더럽고 오래된 쥐의 두개골이다. 트립은 이 두개골을 자주 씹으며 행운을 가져다준다고 믿는다. 그는 이 부적을 절대 손에서 놓지 않는다.
-os_trip_talsmn,uti,LocalizedName,0,-1,트립의 레스커탈리스만
+os_trip_talsmn,uti,LocalizedName,0,-1,트립의 랫스컬 부적
 os_tripclaws001,uti,LocalizedName,0,-1,트립의 발톱 1
 os_tripclaws002,uti,LocalizedName,0,-1,트립의 발톱 2
 os_tripclaws003,uti,LocalizedName,0,-1,트립의 발톱 3
@@ -239,8 +239,8 @@ q1_hermitclub,uti,DescIdentified,0,-1,이 클럽은 외계인이 당신에게 �
 q1_hermitclub,uti,Description,0,-1,이 클럽은 외계인이 당신에게 줬어요. 그의 꿀을 훔친 코볼드들에 대해 말해줬다고.
 q1_hermitclub,uti,LocalizedName,0,-1,은둔자의 클럽
 q1_hermitstaff,uti,LocalizedName,0,14148,주어진 지부
-q1_honey,uti,DescIdentified,0,-1,"이 꿀은 산사의 벌집에서 온 것이며, 풍부하고 즐거운 냄새가 있습니다."
-q1_honey,uti,Description,0,-1,"이 꿀은 산사의 벌집에서 온 것이며, 풍부하고 즐거운 냄새가 있습니다."
+q1_honey,uti,DescIdentified,0,-1,은둔자의 벌집에서 얻은 꿀이다. 진하고 향긋한 냄새가 난다.
+q1_honey,uti,Description,0,-1,은둔자의 벌집에서 얻은 꿀이다. 진하고 향긋한 냄새가 난다.
 q1_honey,uti,LocalizedName,0,-1,아가씨
 q1_kaidala_seed,uti,DescIdentified,0,-1,이 작은 도토리는 동료인 카이달라가 신뢰의 의미로 준 선물이다. 그녀는 당신과 함께 이 도토리를 안전하게 심을 수 있는 장소를 찾기를 바라며 이를 건네주었다.
 q1_kaidala_seed,uti,LocalizedName,0,-1,아코른
@@ -315,7 +315,7 @@ q3_stonefireaxe,uti,DescIdentified,0,13928,돌불斧.
 q3_witherstick,uti,DescIdentified,0,14138,강력한 쿼터스태프
 q3_witherstick,uti,LocalizedName,0,14139,위더 스틱
 q3ac_key_barbed,uti,LocalizedName,0,-1,가시 키
-q3ac_key_copper,uti,LocalizedName,0,-1,구리 키
+q3ac_key_copper,uti,LocalizedName,0,-1,구리 열쇠
 q3ac_key_gold,uti,LocalizedName,0,-1,황금 열쇠
 q3ac_key_shell,uti,LocalizedName,0,-1,껍데기 키
 q3ac_key_silver,uti,LocalizedName,0,-1,오염된 은 열쇠

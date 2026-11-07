@@ -4,7 +4,7 @@ Resource,ResType,FieldPath,LangID,StrRef,Text
 1helmet,uti,LocalizedName,0,12850,+1 투구
 abyssalgloves,uti,DescIdentified,0,-1,"이 장갑의 털이 원래 초록색인지 염색된 것인지는 확실치 않지만, 그 기원이 무엇이든 간에 분명 초자연적이며 언데드와 어떤 식으로든 연관되어 있다. 장갑의 안쪽은 완전히 안전하지만, 극도로 조심하지 않고 바깥쪽을 만지면 극심한 마비가 온다. 때때로 이 장갑으로 강력한 타격을 가하면 대상에게 엄청난 피해를 주는 충격파가 방출된다."
 abyssalgloves,uti,Description,0,-1,녹색 털로 만든 장갑입니다. 털이 자연색인지 염색되었는지 확실하지 않습니다.
-abyssalgloves,uti,LocalizedName,0,-1,아비사리 장갑
+abyssalgloves,uti,LocalizedName,0,-1,심연의 장갑
 acidrobe,uti,DescIdentified,0,-1,"이 의복은 착용자에게 산에 저항할 수 있는 능력을 부여하고 있으며, 약간의 마법을 부여합니다."
 acidrobe,uti,Description,0,-1,멋진 의상입니다.
 acidrobe,uti,LocalizedName,0,-1,산성 로브
@@ -49,7 +49,7 @@ attercob,uti,LocalizedName,0,-1,아터코브
 bagofbeans,uti,DescIdentified,0,62361,"콩의 한 가방은 5~20개의 콩으로 가득 차 있다. 이 콩들 중 하나하나가 콩에서 조심스럽게 제거될 경우, 이상하고 멋진 힘을 가지고 있다."
 bagofbeans,uti,Description,0,62360,콩으로 가득한 가방.
 bagofbeans,uti,LocalizedName,0,62359,콩 주머니
-bagofbones,uti,DescIdentified,0,-1,"이 손가락 뼈의 가방은 적에게 던져질 수 있으며, 그 후에 가방이 터져 나옵니다. 그 안에 있는 뼈는 마법으로 커지고, 스스로 조립되어 무덤덤한 골격들로 변하여 공격을 시작합니다. 이 골격들은 어떠한 명령도 따르지 못하지만, 소환자의 적들을 계속 공격할 것입니다."
+bagofbones,uti,DescIdentified,0,-1,"이 손가락 뼈 주머니는 적에게 던질 수 있으며, 던지면 터지게 됩니다. 안에 있던 뼈들은 마법처럼 커져서 언데드 해골로 스스로 조립되고, 그 즉시 목표를 공격합니다. 해골들은 어떤 명령도 따를 수 없지만, 소환자의 적들을 계속해서 공격할 것입니다."
 bagofbones,uti,Description,0,-1,손가락 뼈가 들어있는 가방이나 그런 것들.
 bagofbones,uti,LocalizedName,0,-1,뼈가방
 bagofsnuff,uti,DescIdentified,0,58560,현재 코르미르 귀족들 사이에서 특히 유행하는 코담배 주머니. 냄새를 맡으면 재채기가 터져 몇 초간 이어진다. 모험가들은 이 발명품이 딱히 쓸모 있다고 생각하지 않는다.
@@ -420,10 +420,10 @@ greatwandoflight,uti,Description,0,-1,단순한 마법대
 greatwandoflight,uti,LocalizedName,0,-1,상급 빛의 마법봉
 greencloak,uti,LocalizedName,0,-1,올리브 망토
 greenheart,uti,DescIdentified,0,-1,이 작은 방패는 너도밤나무로 만들어졌으며 개암나무로 보강되어 있다. 실바누스의 축복을 받은 이 방패는 부자연스러운 존재와 싸우는 데 탁월하다. 실바누스의 신도라면 자신의 혈관 속에서 숲이 자라나는 것을 느낄 수 있을 것이다.
-greenheart,uti,Description,0,-1,나무로 만든 작은 방패에 해젤로 강화되어 있다.
+greenheart,uti,Description,0,-1,너도밤나무로 만들고 개암나무로 보강한 작은 방패.
 greenheart,uti,LocalizedName,0,-1,그린하트
 harpbow,uti,DescIdentified,0,-1,"이 멋진 활들은 현의 장력 때문에 사용할 때 하프처럼 공명한다고 해서 그런 이름이 붙었습니다. 이것은 우연이 아닌데, 수년 전에 이상한 전사 바드 집단을 위해 만들어졌기 때문입니다. 고성능 무기일 뿐만 아니라 바드 사용자들의 능력도 증폭시켜 주지만, 활에서 나는 미세한 윙윙거리는 소리는 성가실 수 있습니다."
-harpbow,uti,Description,0,-1,"아주 세련된 복합 장궁, 준비된 스트링."
+harpbow,uti,Description,0,-1,시위가 걸려 있는 아주 정교한 복합 장궁.
 harpbow,uti,LocalizedName,0,-1,하프 활
 hawklinmail,uti,DescIdentified,0,-1,호클린 가문의 문장이 새겨진 사슬 갑옷.
 hawklinmail,uti,LocalizedName,0,-1,호클린 메일
@@ -434,13 +434,13 @@ hawklinplatemai,uti,LocalizedName,0,-1,호클린 플래트 메일
 hawklinshield,uti,DescIdentified,0,-1,호클린의 상징을 지닌 방패
 hawklinshield,uti,LocalizedName,0,-1,호클린 방패
 helmcloak,uti,LocalizedName,0,-1,헬멧 코트
-helmdragonbronze,uti,DescIdentified,0,-1,"이 장식된 헬멧은 금속과 드래곤의 척추를 모방한 것들이 혼합된 재료로 만들어졌습니다. 척추는 모방품이지만, 헬멧은 드래곤의 일부 능력을 가지고 있습니다."
+helmdragonbronze,uti,DescIdentified,0,-1,"이 화려한 투구는 금속과 드래곤의 비늘처럼 보이는 것들을 조합하여 만들어졌습니다. 비늘은 모조품이지만, 이 투구는 드래곤의 능력을 일부 지니고 있습니다."
 helmdragonbronze,uti,Description,0,-1,금속과 척추와 같은 조합으로 만든 장식된 헬멧.
 helmdragonbronze,uti,LocalizedName,0,90531,청동용의 헬멧
-helmdragonred,uti,DescIdentified,0,-1,"이 장식된 헬멧은 금속과 드래곤의 척추를 모방한 것들이 혼합된 재료로 만들어졌습니다. 척추는 모방품이지만, 헬멧은 드래곤의 일부 능력을 가지고 있습니다."
+helmdragonred,uti,DescIdentified,0,-1,"이 화려한 투구는 금속과 드래곤의 비늘처럼 보이는 것들을 조합하여 만들어졌습니다. 비늘은 모조품이지만, 이 투구는 드래곤의 능력을 일부 지니고 있습니다."
 helmdragonred,uti,Description,0,-1,금속과 척추와 같은 조합으로 만든 장식된 헬멧.
 helmdragonred,uti,LocalizedName,0,90531,붉은 용의 헬멧
-helmdragonsilver,uti,DescIdentified,0,-1,"이 장식된 헬멧은 금속과 드래곤의 척추를 모방한 것들이 혼합된 재료로 만들어졌습니다. 척추는 모방품이지만, 헬멧은 드래곤의 일부 능력을 가지고 있습니다."
+helmdragonsilver,uti,DescIdentified,0,-1,"이 화려한 투구는 금속과 드래곤의 비늘처럼 보이는 것들을 조합하여 만들어졌습니다. 비늘은 모조품이지만, 이 투구는 드래곤의 능력을 일부 지니고 있습니다."
 helmdragonsilver,uti,Description,0,-1,금속과 척추와 같은 조합으로 만든 장식된 헬멧.
 helmdragonsilver,uti,LocalizedName,0,90531,은용의 헬멧
 helmofstoicism,uti,DescIdentified,0,-1,"이 고대 헬멧을 설계하거나 만든 사람들은 알려지지 않았지만, 그 헬멧은 세기 동안 유용하게 사용되었다."
@@ -471,9 +471,9 @@ huntcrownshield,uti,DescIdentified,0,-1,헌트크로운의 문장이 그려진 �
 huntcrownshield,uti,LocalizedName,0,-1,헌트크로운 방패
 huntcrownsoath,uti,DescIdentified,0,48895,이 문서는 헐락 숲의 숲 민속을 사냥하지 않겠다고 로드 마빈 헌트크라운이 맹세한 엄숙한 맹세입니다. 이 문서는 만티스 사타이로에게 그의 친척들의 사냥을 중단했다는 충분한 증거가 될 것입니다.
 huntcrownsoath,uti,LocalizedName,0,48893,헌트 크라운의 맹세
-huntersbow,uti,DescIdentified,0,14056,이 세련된 화살은 사냥을 훨씬 더 쉽게 해준다.
+huntersbow,uti,DescIdentified,0,14056,이 좋은 활들은 확실히 사냥 일을 훨씬 더 쉽게 만들어 준다.
 huntersbow,uti,LocalizedName,0,14057,사냥꾼의 활
-huntmastersclo,uti,DescIdentified,0,-1,"사냥의 가장 위대한 마스터들은 단순히 동물을 잘 다루는 사람들 뿐 아니라, 무리 속에서도 함께하는 사람들도 포함되었습니다. 사냥꾼들이 죽이기 위해 접근할 때, 사냥의 마스터는 초보자의 방황하는 화살로부터 보호를 필요로 했습니다."
+huntmastersclo,uti,DescIdentified,0,-1,"가장 위대한 사냥의 명인들은 단순히 동물들을 잘 다루는 것뿐만 아니라 무리 속으로 직접 파고드는 이들이었다. 사냥꾼들이 사냥감을 잡기 위해 몰려들 때, 사냥 대장은 초보자들의 빗나간 화살로부터 보호를 받아야 했다."
 huntmastersclo,uti,Description,0,-1,염색한 가장자리와 평평한 털의 옷.
 huntmastersclo,uti,LocalizedName,0,-1,헌트마스터의 망토
 huntsilvercloak,uti,LocalizedName,0,-1,사냥꾼 망토
@@ -786,7 +786,7 @@ performersarml,uti,Description,0,-1,밴드 주변에 글씨가 새겨진 팔찌.
 performersarml,uti,LocalizedName,0,-1,연주자의 팔찌
 pinpointarrows,uti,DescIdentified,0,-1,"핀포인트 화살을 처음 만들었던 사람은 알려지지 않았지만, 거의 확실하게 어두운 곳에서의 전투를 돕기 위한 시도였던 것 같다. 이 방법으로 챔피언은 적어도 화살로 맞힌 적을 찾아 처리할 수 있었다."
 pinpointarrows,uti,LocalizedName,0,-1,정점 화살
-pitilesssling,uti,DescIdentified,0,-1,이 반감각적인 반발건은 그 소유자로부터 일부 잔인함을 흡수하기 시작했다.
+pitilesssling,uti,DescIdentified,0,-1,이 슬링은 악명 높은 노상강도가 휘두르던 것이다. 언제부터인지 이 반쯤 지성을 가진 슬링은 주인의 잔인함을 조금씩 흡수하기 시작했다.
 pitilesssling,uti,Description,0,-1,어두운 문양이 수놓아진 슬링.
 pitilesssling,uti,LocalizedName,0,-1,무자비한 투석구
 platemail1,uti,LocalizedName,0,12838,판금 갑옷
@@ -886,7 +886,7 @@ ringofthecent,uti,Description,0,-1,순수한 청동한 반지.
 ringofthecent,uti,LocalizedName,0,-1,센타우르의 반지
 ringofthorns,uti,DescIdentified,0,-1,이 마법의 황동 반지에는 가시 같은 돌기가 여러 개 나 있다. 명령어을 외우면 이 가시들이 반지에서 발사되어 선택한 적을 공격한다.
 ringofthorns,uti,Description,0,-1,이 황동 반지는 몇 개의 날카로운 돌출부가 있어 주의하지 않으면 자칫 손을 베일 수 있다.
-ringofthorns,uti,LocalizedName,0,-1,용사의 반지
+ringofthorns,uti,LocalizedName,0,-1,가시의 반지
 ringofturning,uti,DescIdentified,0,-1,이 장식되지 않은 철반지는 사제 성품의 능력을 높이는 숨겨진 힘을 가지고 있습니다.
 ringofturning,uti,Description,0,-1,순수한 철무늬
 ringofturning,uti,LocalizedName,0,-1,회전의 반지
@@ -1008,7 +1008,7 @@ silvanusleathe,uti,LocalizedName,0,-1,실바누스의 가죽
 silverarrows,uti,DescIdentified,0,-1,실버 톱니 화살가 비싸지만 늑대 짐승에 대항하는데 유용하다
 silverarrows,uti,Description,0,-1,실버 톱니 화살가 비싸지만 늑대 짐승에 대항하는데 유용하다
 silverarrows,uti,LocalizedName,0,-1,은화살
-silverchalice,uti,DescIdentified,0,-1,"이것은 작은 은색 주전자로, 잎 모티브가 있습니다. 그 원래는 알 수 없지만, 이 주전자는 매일 맑은 액체로 채워집니다. 마실 때마다 이 액체는 작은 치유력을 가지고 있습니다."
+silverchalice,uti,DescIdentified,0,-1,"잎 문양이 새겨진 작고 은으로 된 성찬용 잔이다. 출처는 알 수 없지만, 매일 맑은 액체로 채워진다. 이 액체를 마시면 약간의 치유 능력이 발휘된다."
 silverchalice,uti,Description,0,-1,나뭇잎 무늬가 새겨진 작고 은빛 성찬컵.
 silverchalice,uti,LocalizedName,0,13665,은잔
 silverknife,uti,DescIdentified,0,-1,은과 차가운 철로 만들어진 단단한 합금 날을 지닌 정교한 단검.
@@ -1062,7 +1062,7 @@ spellprotector,uti,Description,0,-1,이 미술품은 분명히 마법이지만 �
 spellprotector,uti,LocalizedName,0,67521,마법 보호자
 spiderfigurine,uti,DescIdentified,0,-1,이 놀라운 힘의 형상은 거대 거미를 3번 불러낼 수 있습니다.
 spiderfigurine,uti,Description,0,-1,거미의 조각상
-spiderfigurine,uti,LocalizedName,0,-1,스파이더 인형
+spiderfigurine,uti,LocalizedName,0,-1,거미 조각상
 spiritualshield,uti,DescIdentified,0,-1,"이 속임수처럼 보이는 방패들은 특별한 명령어를 발음하기 전에는 착용자에게 추가적인 보호를 제공하지 않는다. 그 순간에 빛이 착용자 주위에서 춤추기 시작한다. 짧은 시간 동안, 몇 분 정도로, 착용자의 방어는 특히 마법과 정신 기반의 공격에 대항하여 크게 강화된다."
 spiritualshield,uti,Description,0,-1,중앙에 큰 금속 보스가 있는 단순한 나무 방패.
 spiritualshield,uti,LocalizedName,0,-1,영적 방패
@@ -1092,7 +1092,7 @@ supremeringof,uti,DescIdentified,0,13454,최상급 보호의 반지는 한평생
 supremeringof,uti,Description,0,-1,"단순한 금 반지에, 돋보기 모양으로 고정된 하나의 귀중한 보석이 박혀 있습니다."
 supremeringof,uti,LocalizedName,0,13453,최고의 보호의 반지
 swordoflight,uti,DescIdentified,0,-1,이 무기는 영적인 선인들의 손에 제작되었습니다. 악을 파괴하기 위해 만들어진 이 검들은 빛의 검으로 알려졌습니다.
-swordoflight,uti,Description,0,-1,"세련된 양손 검, 코끼리 가죽 핸들과 철 포메르가 있습니다."
+swordoflight,uti,Description,0,-1,"상아로 옻칠한 손잡이와 강철 폼멜이 달린, 정교하게 제작된 양손검."
 swordoflight,uti,LocalizedName,0,-1,빛의 검
 symbolofnature,uti,DescIdentified,0,62369,이 작은 종교 상징은 알려지지 않은 신을 모티브로 한 것 같습니다. 숲 자체만큼이나 오래된 이 상징은 위로부터 번개를 불러내는 힘을 숨기고 있습니다.
 symbolofnature,uti,Description,0,62368,사슬에 작은 기호입니다.
@@ -1106,7 +1106,7 @@ thebutcher,uti,Description,0,-1,날이 무거운 시미터.
 thebutcher,uti,LocalizedName,0,-1,도살자
 thejoustingman,uti,DescIdentified,0,-1,"조스팅은 코르미르와 다른 많은 나라에서 고대 전통이다. 평화의 시대에는 야구 기사와 상주들이 자신의 동료 또는 왕에게 자신의 능력을 증명하는 방법을 찾기 위해 특별히 설계된 을 통해 야구 기사와 상주를 제거하는 것이 항상 어려웠습니다. 조스팅은 한 기사에게 다른 기사보다 자신의 우월성을 증명하는 방법이되었습니다. 곧 그러한 경기가 더 정식화되었고, 심지어 대회를 개최하는 권리는 영향력의 원천이되었습니다. 조스팅은 이제 명성과 영향력 또는 심지어 권력을 얻기 위해 매우 인기있는 방법입니다. 야구 기사와 상주자의 목표는 특수하게 설계된 을 사용하여 상대방에게 자신의 능력을 증명하는 방법을 찾는 것입니다. 이러한 야구 기사들은 부상의 기회를 줄이기 위해 특별히 설계되었습니다. 그러나 완벽한 타격은 여전히 더 잘 알려진 야구 기사와 상주 선수에게 부상하는 기회를 줄이기 위해, 그리고 심지어 대회를 개최하는 권리는 영향력을 줄이기 위해 더 잘 알려져 있습니다. 상대방의 언어에 의해 상대방이 공격하는 것은 두 가지 방법을 사용해야 합니다. 야구 기사와 상주에게 공격하는 것이 더 어렵지만, 두 번째 타격의 경우, 두 번째 타격의 승자 또는 승자에게"
 thejoustingman,uti,Description,0,-1,"조스팅은 코르미르와 다른 많은 나라에서 고대 전통이다. 평화의 시대에는 야구 기사와 상주들이 자신의 동료 또는 왕에게 자신의 능력을 증명하는 방법을 찾기 위해 특별히 설계된 을 통해 야구 기사와 상주를 제거하는 것이 항상 어려웠습니다. 조스팅은 한 기사에게 다른 기사보다 자신의 우월성을 증명하는 방법이되었습니다. 곧 그러한 경기가 더 정식화되었고, 심지어 대회를 개최하는 권리는 영향력의 원천이되었습니다. 조스팅은 이제 명성과 영향력 또는 심지어 권력을 얻기 위해 매우 인기있는 방법입니다. 야구 기사와 상주자의 목표는 특수하게 설계된 을 사용하여 상대방에게 자신의 능력을 증명하는 방법을 찾는 것입니다. 이러한 야구 기사들은 부상의 기회를 줄이기 위해 특별히 설계되었습니다. 그러나 완벽한 타격은 여전히 더 잘 알려진 야구 기사와 상주 선수에게 부상하는 기회를 줄이기 위해, 그리고 심지어 대회를 개최하는 권리는 영향력을 줄이기 위해 더 잘 알려져 있습니다. 상대방의 언어에 의해 상대방이 공격하는 것은 두 가지 방법을 사용해야 합니다. 야구 기사와 상주에게 공격하는 것이 더 어렵지만, 두 번째 타격의 경우, 두 번째 타격의 승자 또는 승자에게"
-thejoustingman,uti,LocalizedName,0,-1,투지링 매뉴얼
+thejoustingman,uti,LocalizedName,0,-1,창 시합 설명서
 therighteousbl,uti,DescIdentified,0,-1,"이 고급 판금 갑옷에 붙여진 꽤 이상한 이름은 '더 리히티스 블랙'이다. 이 갑옷은 블랙 가드를 위해 특별히 설계되었지만, 누구나 사용할 수 있다. 다른 '더 리히티스' 갑옷들이 이 세트에 포함되었다는 소문이 있다."
 therighteousbl,uti,LocalizedName,0,12838,의로운 검은
 therighteouswh,uti,DescIdentified,0,-1,"이 고급 백색 판금 갑옷은 이른바 '공정한 백색'이라는 이름으로 불린다. 이 갑옷은 기사단원들을 위해 특별히 설계되었지만, 누구나 사용할 수 있다. 소문에 따르면, 같은 세트에 속한 다른 공정한 무장들도 제작되었다."
@@ -1182,7 +1182,7 @@ warriorfigure,uti,DescIdentified,0,-1,이 작은 전사상은 두 번 공포로�
 warriorfigure,uti,LocalizedName,0,13665,투사 형상
 wbwln003,uti,LocalizedName,0,170,장궁의 무한탄약 - NPC만
 wc_farmer_f,uti,LocalizedName,0,12923,농부 최고의 옷 Fem
-wc_farmer_m,uti,LocalizedName,0,12923,농부 최고의 옷 남성
+wc_farmer_m,uti,LocalizedName,0,12923,농부 최고 의복 남성
 wc_fisher_f,uti,LocalizedName,0,12923,어부/선원용 최고급 의복 (여성)
 wc_fisher_m,uti,LocalizedName,0,12923,어부/선원 남성용 정장
 wc_footsoldier_m,uti,LocalizedName,0,12923,발병 최고의 옷 유니섹스

@@ -52,10 +52,10 @@ alkranal_1,dlg,EntryList/9/Text,0,"""물론 아니야. 어두운 터널에서 �
 alkranal_1,dlg,EntryList/10/Text,0,"""물론이죠."""
 alkranal_1,dlg,ReplyList/0/Text,0,"""그것처럼 보입니다. 더 이상 그런 얘기를 듣고 싶지 않아요""."
 alkranal_1,dlg,ReplyList/1/Text,0,"""그놈은 그 아래에서 상자를 약탈하려고 할 때 함정에 잡혔어요""."
-alkranal_1,dlg,ReplyList/2/Text,0,"""나는 이야기하고 싶지만, 중요한 일들이 있어 참석해야 한다."""
+alkranal_1,dlg,ReplyList/2/Text,0,"""이야기를 나누고 싶지만, 참석해야 할 중요한 일들이 있어."""
 alkranal_1,dlg,ReplyList/4/Text,0,"""나는 그를 언더다크의 입구를 지키도록 남겨두었다."""
-alkranal_1,dlg,ReplyList/5/Text,0,"""나는 이야기하고 싶지만, 중요한 일들이 있어 참석해야 한다."""
-alkranal_1,dlg,ReplyList/7/Text,0,"""그는 나를 죽이려 했고, 그는 그럴 가치를 얻었다."""
+alkranal_1,dlg,ReplyList/5/Text,0,"""이야기를 나누고 싶지만, 참석해야 할 중요한 일들이 있어."""
+alkranal_1,dlg,ReplyList/7/Text,0,"""그는 나를 죽이려 했고, 그 대가를 치른 것뿐이야."""
 alkranal_1,dlg,ReplyList/8/Text,0,"""날 모욕하려 들지만 통하지 않을 거야. 날 내버려둬, 독을 뱉는 자여."""
 alkranal_1,dlg,ReplyList/9/Text,0,"""이건 네 관심사가 아니야, 알크라날. 자신의 일에 집중하는 게 현명할 거야."""
 alkranal_1,dlg,ReplyList/11/Text,0,"""나는 네라드를 방어해야 했다."""
@@ -70,7 +70,7 @@ alkranal_2,dlg,EntryList/6/Text,0,"""무슨 일이야? 아니면 내가 바쁜 �
 alkranal_2,dlg,EntryList/7/Text,0,"""인간들이 외부에서 공격을 시작했습니다. 우리는 출입문을 막아냈습니다만, 이 상태가 얼마나 오래 지속될지 모르겠습니다."""
 alkranal_2,dlg,EntryList/8/Text,0,트리안디르는 당신의 존재를 요구합니다. 아래층으로 가보세요.
 alkranal_2,dlg,EntryList/9/Text,0,"""언제나 똑같지... 네놈이...!"""
-alkranal_2,dlg,EntryList/10/Text,0,"""실제로... 돌아올 때까지 여기 머물고 이 지역을 지켜라."""
+alkranal_2,dlg,EntryList/10/Text,0,"""정말이지... 넌 여기 남아 내가 돌아올 때까지 이 구역을 지켜라."""
 alkranal_2,dlg,EntryList/11/Text,0,"<StartAction>[비열한 미소]</Start> ""지금은 혼자 있으니, 내 말대로 해야 해. 내 명령을 어기려 하지 마."""
 alkranal_2,dlg,EntryList/12/Text,0,<StartAction>[비열한 미소]</Start>###############################################################################
 alkranal_2,dlg,ReplyList/0/Text,0,"""너는 나를 기다리지 않았어. 나는 준비가 되지 않았지..."""
@@ -135,7 +135,7 @@ delade_1,dlg,ReplyList/15/Text,0,"""바라운을 위해 무릎을 꿇지 않을 
 delade_1,dlg,ReplyList/16/Text,0,"<StartAction>[ 무릎을 꿇고 얼굴을 덮]</Start>""오 마스크 입은 주님, 내가 간청하는 대로 저를 생각하시고 당신의 축복을 주시옵소서""."
 delade_1,dlg,ReplyList/19/Text,0,"""당신은 여성이군요. 왜 그런 작은 일만 하시나요?"""
 delade_1,dlg,ReplyList/20/Text,0,"""그런데 왜 그런 치유 같은 일을 하는 거지? 이 일행 중에 여자는 너뿐이잖아."""
-drow_1,dlg,EntryList/0/Text,0,"""표면세계. 내 인생에서 한 번도 그런 것을 보는 꿈도 꾸지 않았을 거라곤 생각지 못했소."""
+drow_1,dlg,EntryList/0/Text,0,"""지상 세계. 내 평생에 이곳을 보게 될 줄은 꿈에도 몰랐소."""
 drow_2,dlg,EntryList/0/Text,0,"""당신은 무죄를 증명하고 우리를 표면으로 데려왔습니다. 매우 인상적입니다."""
 drow_3,dlg,EntryList/0/Text,0,"""멘조베란잔에서 우리의 위업을 노래할 것이다."""
 drow_4,dlg,EntryList/0/Text,0,"""공기를 느끼나? 그것은 움직이고 있다."""
@@ -211,9 +211,9 @@ druid_1,dlg,EntryList/52/Text,0,"""당신은 여전히 미엘리키의 길을 �
 druid_1,dlg,EntryList/53/Text,0,"""내가 이 결정 이 당신 에게 어려운 것 을 이해 합니다. 당신 의 생각 을 바꾼다면 항상 환영 합니다""."
 druid_1,dlg,EntryList/54/Text,0,"""매우 잘했다. 그래서 마지막 테스트를 진행하고 3마리의 백색 사슴을 맹수들의 공격으로부터 보호해라. 살아남은 각 사슴에게 축복이 내려올 것이다. 행운을 빕니다."""
 druid_1,dlg,EntryList/55/Text,0,"""길이가 짧을수록 숲에 덜한 손상이 있을 것이라 생각한다. 하지만, 오래된 값진 나무나 드문 동물들이 있을 수도 있다. 이것도 고려해 보도록. 또 다른 질문을 드리겠습니다."""
-druid_1,dlg,EntryList/56/Text,0,"""숲을 산책하다 보면 굶주린 농민이 노인용 Jelen을 사냥하고 있네요. 결국 Jelen은 잡혔습니다. 당신은 무엇을 하겠습니까?"""
+druid_1,dlg,EntryList/56/Text,0,"""숲을 산책하다 보면 굶주린 농민이 늙은 사슴을 사냥하고 있는 것이 보입니다. 결국 사슴은 잡혔습니다. 당신은 어떻게 하겠습니까?"""
 druid_1,dlg,EntryList/57/Text,0,"""너 는 옳다. 맹수 들 은 노인과 병 을 먹는다. 그렇게 함 으로 자연 은 그 자녀 들 이 강력 하고 젊음을 보장 한다. 그러나 그것 은 우월 과 힘 과 아무 상관 이 없다. ""관심""과 고려 는 결코 낭비 되지 않는다. 이 교훈 을 배우면 더 낫다. 익사""."
-druid_1,dlg,EntryList/58/Text,0,"""이 말이 사실이라 해도 굶주린 사람이 숲의 무한한 자원에서 먹을 권리가 항상 있다. 자연의 법칙에 대해 더 배워보는 것이 좋겠다. 이 시험을 다시 받기 위해 다시 와야 할 때가 되면 돌아와라."""
+druid_1,dlg,EntryList/58/Text,0,"""비록 이 말이 사실이라 해도 굶주린 자에게는 언제나 숲의 마르지 않는 자원에서 음식을 얻을 권리가 있는 법이다. 자연의 이치에 대해 좀 더 배우는 것이 좋을 것이다. 이 시험을 다시 치를 준비가 되었을 때 돌아오너라."""
 druid_1,dlg,EntryList/59/Text,0,"""그래서 드디어 표면에 돌아왔어, 비참한 존재야""."
 druid_1,dlg,EntryList/60/Text,0,"<StartAction>[위협]</Start>세메모몬은 우리의 리더지, 주인이 아니다. 이 점을 잊지 마라... 어둠의 피를 가진 자... 정말로 당신의 말투는 나에게 좋지 않다... 비인간. 다행히 세메모몬이 임무를 맡기셨기에 너를 보내주셨다."
 druid_1,dlg,EntryList/61/Text,0,"""이상하네. 당신의 타락한 얼굴에도 순수함과 친절함이 느껴진다. 낯선 사람, 무엇이 당신을 내게 데려온 것인가, ...?"""
@@ -226,7 +226,7 @@ druid_1,dlg,EntryList/67/Text,0,"""아라우슈네는 장인들의 수호신이�
 druid_1,dlg,EntryList/68/Text,0,"""아라우슈네는 연인과의 사이에서 바에라운과 에일리스트레이라는 두 자녀를 낳았고 모든 게 순조로울 터였다. 하지만 운명의 직조공인 그녀의 사악한 본성이 점점 더 고개를 쳐들었다."""
 druid_1,dlg,EntryList/69/Text,0,"""결국 그녀는 세일다린의 첫 번째를 배신하여 악의 신인 가우나다우르, 말라와 다른 타락한 신들과 함께 아르반도르를 침략하려고 시도했다""."
 druid_1,dlg,EntryList/70/Text,0,"""아라우슈네가 범죄로 인해 애비스의 거미 악마로 추방되었고, 거기서 롤트라는 이름을 얻었다."""
-druid_1,dlg,EntryList/71/Text,0,"그러나 그녀는 자발적으로 가지 않았다. 범죄에 여러 번 봉사한 그녀의 추종자들, 어두운 엘프들은 평화와 질서를 회복하기 위해 표면에서 쫓겨났다."
+druid_1,dlg,EntryList/71/Text,0,"""하지만 그녀는 자발적으로 떠난 것이 아니었다. 그녀의 범죄에 수없이 가담했던 그녀의 추종자들인 다크 엘프들은 평화와 질서를 재구축하기 위해 지상에서 쫓겨났다."""
 druid_1,dlg,EntryList/72/Text,0,"""당신의 뜻대로 하겠습니다. 내 좋은 조언을 들어 이 숲을 떠나십시오."""
 druid_1,dlg,EntryList/73/Text,0,"""당신의 사회를 한번 살펴보면, 내 말이 진실임을 보게 될 것이다!"""
 druid_1,dlg,EntryList/74/Text,0,"""오, 고령들의 신화 돌. 당신은 너무 늦었어, 그들은 수백 년 전에 떠나자마자 그 돌을 가지고 갔어""."
@@ -252,7 +252,7 @@ druid_1,dlg,EntryList/93/Text,0,"너가 인내심을 보여주고 예의를 지�
 druid_1,dlg,EntryList/94/Text,0,미엘리키는 자녀들에게 치료와 도움을 줄 수 있는 모든 방법을 제공한다. 대량 파괴를 위한 강력한 마법은 필요하지 않다.
 druid_1,dlg,EntryList/95/Text,0,"""우리에게는 그런 작은 공동체에서 왕이나 리더가 필요없습니다."""
 druid_1,dlg,EntryList/96/Text,0,우리는 금과 은과 같은 보물을 필요로 하지 않습니다. 우리들의 보물은 우리 주변의 풍요로운 자연이 필요한 모든 것을 제공하는 것입니다.
-druid_1,dlg,EntryList/97/Text,0,"""악한 존재. 넌 완전히 망쳤어. 죄송하지만 더 이상 너를 위해 할 수 있는 일은 없다. 죽고 네 여신의 영원한 고통을 체험해 보라!"""
+druid_1,dlg,EntryList/97/Text,0,"""더러운 피조물. 넌 완전히 썩었어. 유감이지만 더 이상 널 위해 해줄 수 있는 게 없군. 죽어서 네 여신의 영원한 고통을 겪어라!"""
 druid_1,dlg,ReplyList/2/Text,0,나는 여전히 엘프들의 신화석을 찾고 있습니다.
 druid_1,dlg,ReplyList/5/Text,0,<StartAction> [ 무릎을 꿇] </Start>
 druid_1,dlg,ReplyList/17/Text,0,아니. 난 아직 엘프들의 미살라를 찾고 있다.
@@ -289,7 +289,7 @@ druid_1,dlg,ReplyList/53/Text,0,"""다음에 사슴이 우리 농장에 온다�
 druid_1,dlg,ReplyList/55/Text,0,"""나는 이 길을 전혀 만들지 않겠다."""
 druid_1,dlg,ReplyList/56/Text,0,"""나는 왕들을 설득해 길을 다른 곳에서 짓도록 노력할 것이다."""
 druid_1,dlg,ReplyList/57/Text,0,"""나는 숲을 조사하고 자연에 대한 피해를 최소화할 수 있는 경로를 찾아보겠다."""
-druid_1,dlg,ReplyList/60/Text,0,"""아니, 다시 생각해보겠지만, 지금은 로틀과 함께 있을 거다."""
+druid_1,dlg,ReplyList/60/Text,0,"""아냐, 다시 생각해보겠어. 일단은… 롤스와 함께 있겠어."""
 druid_1,dlg,ReplyList/62/Text,0,"""네, 그럴게."""
 druid_1,dlg,ReplyList/64/Text,0,"""숲을 관통하는 가장 짧은 경로를 찾아 인부들에게 그곳에 길을 닦으라고 조언하겠다."""
 druid_1,dlg,ReplyList/66/Text,0,"""나 는 늙은 동물 의 죽음 을 관심 을 갖지 않는다. 아무도 그런 것 들 을 관심 을 갖지 않는다""."
@@ -301,7 +301,7 @@ druid_1,dlg,ReplyList/73/Text,0,"""이게 표면 주민들의 대접인가? 심�
 druid_1,dlg,ReplyList/74/Text,0,"""나는 이미 표면 주민들의 편견에 대해 들었어. 나는 평화로 왔어."""
 druid_1,dlg,ReplyList/75/Text,0,"""표면세계는 나에게 강한 매력을 끈다."""
 druid_1,dlg,ReplyList/76/Text,0,"""표면 엘프들의 신들은 질투하여 우리 여신을 배신했고, 그녀의 백성들을 언더다크로 강제로 몰아넣었다."""
-druid_1,dlg,ReplyList/77/Text,0,"""너의 둔갑난리 같은 소리를 더 이상 들어주지 않겠다."""
+druid_1,dlg,ReplyList/77/Text,0,"""네 헛소리는 이제 더 안 듣겠다."""
 druid_1,dlg,ReplyList/78/Text,0,"""당신은 부정을 내뱉고 있습니다!"""
 druid_1,dlg,ReplyList/79/Text,0,"""당신의 이야기를 들어봐."""
 druid_1,dlg,ReplyList/85/Text,0,"""이 불신앙을 그만둬! 더 이상 들을 수 없다."""
@@ -398,7 +398,7 @@ iounstone_purple,dlg,ReplyList/9/Text,0,이온 돌에 마법을 저장하라
 iounstone_purple,dlg,ReplyList/10/Text,0,"그래, 마법을 보관하고 싶어요."
 iounstone_vibran,dlg,EntryList/0/Text,0,선명한 보라색 아이운 스톤에 주문을 걸어 보관할 수 있게 하세요.
 lilla,dlg,EntryList/0/Text,0,"""가자!"""
-lilla,dlg,EntryList/2/Text,0,"""갈아, 검은 악마!"""
+lilla,dlg,EntryList/2/Text,0,"""가라, 검은 악마야!"""
 lilla,dlg,EntryList/3/Text,0,"""우리는 이것에 대해 아무것도 모릅니다. 가자!"""
 lilla,dlg,EntryList/4/Text,0,"""웨스틴은 맞다. 너희들은 다름 아닌 악한 짐승들일 뿐!"""
 lilla,dlg,EntryList/5/Text,0,"<StartAction>[울기 시작합니다]</Start>""나를 내버려 두오... 끔찍한 짐승아..."""
@@ -417,7 +417,7 @@ llomir_1,dlg,EntryList/6/Text,0,"""우리는 그러한 작전을 위한 장비�
 llomir_1,dlg,EntryList/7/Text,0,"""나는 알고 있지만, 여기서 죽는다는 생각은 없다. 어떻게 해야 할지 모르겠지만, 혼자 돌아갈 길을 찾을 수 있다는 것을 확신한다. 강제로 그렇게 해야 한다 해도 말이다. 네가 어떻게 될 거야? 피위비엔과 함께 마지막까지 있을 거야?"""
 llomir_1,dlg,EntryList/8/Text,0,"""대부분의 군인들은 같은 생각을 하고, 그들은 내게 맞서 싸워서 목숨을 버리지 않을 것이다. 피위비엔 혼자서는 나에게 맞서기에는 역부족이다."""
 llomir_1,dlg,EntryList/9/Text,0,"""지혜롭게 선택하라. 이런 절망적인 시기에 힘을 분산하는 것은 어리석은 일이다."""
-llomir_1,dlg,EntryList/10/Text,0,좋은 일이다. 우리는 그 여자의 어리석은 명령을 따르기 위해 일시적으로 계속 진행할 것이다.
+llomir_1,dlg,EntryList/10/Text,0,좋다. 적절한 기회가 올 때까지 당분간은 그 어리석은 여자의 명령을 계속 따르겠다.
 llomir_1,dlg,ReplyList/0/Text,0,"""Lolth는 우리가 신화 돌을 찾아야 한다고 합니다."
 llomir_1,dlg,ReplyList/2/Text,0,"""무엇을 원하나, 라로미르?"""
 llomir_1,dlg,ReplyList/3/Text,0,"""알아. 피위비엔은 변변찮은 사냥꾼 무리가 아니라 군대를 데려왔어야 했어. 강가 야영지에 보급품을 두고 왔다는 사실도 생각하지 못했지."""
@@ -489,7 +489,7 @@ llomir_4,dlg,ReplyList/7/Text,0,"""전략을 바꿔야 한다."""
 llomir_4,dlg,ReplyList/8/Text,0,"""아, 아니요. 그냥 궁금하던 거예요. 이제 가자."""
 llomir_4,dlg,ReplyList/9/Text,0,"""이 지역을 더 이상 탐색하지 마라."""
 llomir_4,dlg,ReplyList/10/Text,0,"좋아, 이제 가자."
-llomir_4,dlg,ReplyList/11/Text,0,"""이 지역을 도와서 찾는 데 도와주십시오."""
+llomir_4,dlg,ReplyList/11/Text,0,"""이 지역을 수색하는 것 좀 도와주십시오."""
 llomir_4,dlg,ReplyList/12/Text,0,"좋아, 이제 가자."
 llomir_4,dlg,ReplyList/13/Text,0,"""문이나 상자를 여는 데 실패해도 날 돕지 마라."""
 llomir_4,dlg,ReplyList/14/Text,0,"좋아, 이제 가자."
@@ -516,7 +516,7 @@ llomir_4,dlg,ReplyList/34/Text,0,만약 이것이 사실이라면 남쪽으로 �
 llomir_4,dlg,ReplyList/36/Text,0,그들이 나타나자마자 그들을 빠르게 처리할 것이다.
 llomir_4,dlg,ReplyList/38/Text,0,"""아마 인간들은 더 많은 지원을 받고 있을지도 모른다."""
 llomir_4,dlg,ReplyList/39/Text,0,"""마을은 곧 인간 군대의 손에 넘어갈 것이다. 그리고 북쪽의 불빛들은 적군 또한 와 있다는 걸 보여주고 있지."""
-llomir_4,dlg,ReplyList/40/Text,0,"그러면 시간을 끊임없이 낭비하지 말고, 빨리 도망쳐야 한다."
+llomir_4,dlg,ReplyList/40/Text,0,"""그럼 낭비할 시간이 없다. 서둘러 탈출해야 해."""
 llomir_5,dlg,EntryList/0/Text,0,"""다시 함께 가고 싶니?"""
 llomir_5,dlg,EntryList/2/Text,0,"""그래서 혼자서 계속하고 싶니?"""
 llomir_5,dlg,EntryList/3/Text,0,"""아마 언젠가 다시 팀을 이룰지도 모르겠다."""
@@ -530,7 +530,7 @@ llomir_5,dlg,EntryList/10/Text,0,"""네가 원하는 대로 할 것이다."""
 llomir_5,dlg,EntryList/11/Text,0,"""네가 원하는 대로 할 것이다."""
 llomir_5,dlg,EntryList/12/Text,0,"""네가 원하는 대로 할 것이다."""
 llomir_5,dlg,EntryList/13/Text,0,"""빛이 눈을 찔러. 눈이 멀 정도로 밝아. 후드로 눈을 가리면 괜찮아질지도 모르겠지만, 그마저도 제대로 보기가 힘들군. 당신은 어때?"""
-llomir_5,dlg,EntryList/14/Text,0,"""나는 쉽게 속이지 않지만, 그는 독사처럼 위험하다."""
+llomir_5,dlg,EntryList/14/Text,0,"""나는 쉽게 속지 않지만 그는 속아 넘어갔다. 그는 독사만큼이나 위험하다."""
 llomir_5,dlg,EntryList/15/Text,0,"""그는 우리를 두려워하는 것 같습니다. 트리안더가 우리를 그의 군대에 받아들이기로 한 결정에 동의하지 않고 있어요."""
 llomir_5,dlg,EntryList/16/Text,0,"""트리안디르는 오늘 많은 병사들을 잃었습니다. 피위비엔의 병에서 일부를 얻은 것 같네요... 만약 제가 말씀드리는 것이 무엇인지 아시다면."""
 llomir_5,dlg,EntryList/17/Text,0,"""우리는 보게 될 것입니다. 나는 내 몫으로 문제를 피하려고 노력할 것입니다""."
@@ -562,7 +562,7 @@ llomir_5,dlg,ReplyList/4/Text,0,"""전략을 바꿔야 한다."""
 llomir_5,dlg,ReplyList/5/Text,0,"""아, 아니요. 그냥 궁금하던 거예요. 이제 가자."""
 llomir_5,dlg,ReplyList/6/Text,0,"""이 지역을 더 이상 탐색하지 마라."""
 llomir_5,dlg,ReplyList/7/Text,0,"좋아, 이제 가자."
-llomir_5,dlg,ReplyList/8/Text,0,"""이 지역을 도와서 찾는 데 도와주십시오."""
+llomir_5,dlg,ReplyList/8/Text,0,"""이 지역을 수색하는 것 좀 도와주십시오."""
 llomir_5,dlg,ReplyList/9/Text,0,"좋아, 이제 가자."
 llomir_5,dlg,ReplyList/10/Text,0,"""문이나 상자를 여는 데 실패해도 날 돕지 마라."""
 llomir_5,dlg,ReplyList/11/Text,0,"좋아, 이제 가자."
@@ -591,7 +591,7 @@ llomir_5,dlg,ReplyList/33/Text,0,맞다. 이건 우리들의 죽음을 의미했
 llomir_5,dlg,ReplyList/34/Text,0,"""내가 롤트에서 미엘리키로 개종했을 때, 숲의 여주인은 나를 태양으로부터 보호하겠다고 약속했고, 분명히 그녀는 그 약속을 지켰다."""
 llomir_5,dlg,ReplyList/35/Text,0,"""그녀는 자녀들에게 주변 환경과 평화롭게 살아가고 서로를 용납할 수 있도록 가르칩니다. 하지만 필요할 때는 자신들을 방어하기 위해 조심해야 합니다."""
 llomir_5,dlg,ReplyList/36/Text,0,"""당신이 원하는 대로""."
-llomir_5,dlg,ReplyList/37/Text,0,"""오래 밤, 롤스 (Lolth) 는 환상에서 내게 와서 태양으로부터 나를 보호하겠다고 약속했다. 여전히 효과가 있는 것 같다""."
+llomir_5,dlg,ReplyList/37/Text,0,"""지하 세계에 있을 때 롤스가 환속에 나타나 태양으로부터 나를 보호하겠다고 약속해 주었지. 아직도 그 힘이 유효한 것 같군."""
 llomir_5,dlg,ReplyList/38/Text,0,"트리안디르는 로틀의 힘이 표면에 미치지 못할 것이라고 말했지만, 그녀의 보호는 여전히 작동합니다."
 llomir_5,dlg,ReplyList/39/Text,0,"""네가 맞아. 조심해."""
 llomir_5,dlg,ReplyList/40/Text,0,"""물론, 그 여자 에게 더 이상 기도 하지 않음에도 불구하고, 그녀는 여전히 내게 그녀의 보호 를 부여 합니다. 이 일이 얼마나 오래 지속 될지 보자""."
@@ -673,7 +673,7 @@ nelad_1,dlg,EntryList/7/Text,0,"<StartAction>[눈물이 그의 눈에 고여]</S
 nelad_1,dlg,EntryList/8/Text,0,"""롤스가 내 영혼을 삼키고 영원히 끝없는 고통 속에서 고문당할 거라는 걸 알고 있잖아."""
 nelad_1,dlg,EntryList/9/Text,0,"""모든 사람이 이렇게 받을거야. 너도 그러하잖아. 어느 날 네가 그녀의 시험 중 하나를 통과하지 못해 내 끝없는 고통에 나랑 같이 갈 거야""."
 nelad_1,dlg,EntryList/10/Text,0,"<StartAction>[피를 뱉는 동안 웃음]</Start> ""나도 그녀의 편이었다. 얼마나 오랫동안 당신은 이 끝없는 음모와 계획을 살아남을 수 있을 것인가?"""
-nelad_1,dlg,EntryList/11/Text,0,"모든 것은 고문과 고통이 기다리고 있으며, 심지어 모부들조차도 그렇게 목숨을 끊는다. 그들은 은혜에서 떨어져 소멸된다."
+nelad_1,dlg,EntryList/11/Text,0,"""기다리는 것은 고문과 고통뿐이다. 심지어 대모들조차 그런 식으로 최후를 맞이하지. 은총을 잃고 소멸하는 것이다."""
 nelad_1,dlg,EntryList/12/Text,0,"""자비를 베풀고 내 생명을 끝내주시오 - 여기서 지금 즉시!"""
 nelad_1,dlg,EntryList/13/Text,0,"""이것이 롤스의 용기입니다. 날 죽여라, 아니면 난 건조자가 되겠다. 용기 있게 해, 난 끝없는 공포의 어둠에 빠져들게 해..."
 nelad_1,dlg,ReplyList/0/Text,0,배신자. 이 승리의 순간에 나를 공격할 용기가 있는가?
@@ -688,7 +688,7 @@ nelad_1,dlg,ReplyList/11/Text,0,"""이것이 당신이 마땅히 하는 일이�
 nelad_1,dlg,ReplyList/12/Text,0,"""헛소리를 하는군요. 난 거미 여왕의 가호를 받고 있습니다."""
 nelad_1,dlg,ReplyList/15/Text,0,"""이건 참 끔찍해!"""
 nelad_1,dlg,ReplyList/17/Text,0,"<StartAction>[사악한 미소]</Start> ""너는 위대한 거미 여왕님의 경이 중 하나가 될 것이다. 어쩌면 그 뒤에 내가 널 죽일지도 모르지..."""
-nelad_1,dlg,ReplyList/18/Text,0,하지만 당신은 거미 동굴에서와 함께 있었으니 선택의 여지가 없었습니다.
+nelad_1,dlg,ReplyList/18/Text,0,"""하지만 당신도 저와 함께 거미 동굴에 있었잖아요. 우리에게는 선택의 여지가 없었어요."""
 piwiewien_1,dlg,EntryList/0/Text,0,"""공격에 준비되셨습니까?"""
 piwiewien_1,dlg,EntryList/1/Text,0,"""이것이 우리의 유일한 기회다! 병사들은 이미 지상의 피를 맛보고 싶어 안달이 났다. 너희가 그들과 합류하든, 아니면 그들의 칼이 먼저 너희의 피를 보게 될 것이다!"""
 piwiewien_1,dlg,EntryList/2/Text,0,"""좋아요. 오른쪽 측면을 지휘하고 동쪽을 따라 마을에 도착할 때까지 북쪽을 따라가세요""."
@@ -704,7 +704,7 @@ piwiewien_1,dlg,EntryList/11/Text,0,"""우리는 그들이 방어 준비를 하�
 piwiewien_1,dlg,EntryList/12/Text,0,"""내가... 내가 널 때릴 때까지""..."
 piwiewien_1,dlg,EntryList/13/Text,0,<StartAction>[오랫동안 잠묵히 너를 쳐다본다]</Start>
 piwiewien_1,dlg,EntryList/15/Text,0,<StartAction>[가난]</Start>############################################
-piwiewien_1,dlg,EntryList/16/Text,0,"""이 부적절한 놈들이 어떻게 내 유물을 가져갈 용기를 가질 수 있을까? 말해봐! 어떻게 그들이 그럴 수 있을까?????"""
+piwiewien_1,dlg,EntryList/16/Text,0,"""어찌 그 가치 없는 쓰레기들이 감히 내 유물을 가져갈 용기를 낸단 말인가? 말해라! 어떻게 그들이 감히 그럴 수 있단 말이냐?????"""
 piwiewien_1,dlg,EntryList/18/Text,0,"<StartAction>[놀라며 당신을 쳐다보고]</Start> ""잠깐! 해임된 게 아니야!"""
 piwiewien_1,dlg,EntryList/20/Text,0,"<StartAction>[공포]</Start>""너... 너는..."""
 piwiewien_1,dlg,EntryList/21/Text,0,"<StartAction>[두려움에 떨며]</Start>""우리는 지상 엘프들의 고대 유물인 미살 석을 차지하러 왔습니다."""
@@ -722,7 +722,7 @@ piwiewien_1,dlg,EntryList/33/Text,0,"""그녀는 나에 대해 뭐라고 했어?
 piwiewien_1,dlg,EntryList/34/Text,0,"<StartAction>[급히]</Start> ""잠깐요, 다른 번 얘기해 보겠습니다."
 piwiewien_1,dlg,EntryList/35/Text,0,"어떻게 여신을 예배하는지 모르겠지만, 내 방식으로 해볼게요"
 piwiewien_1,dlg,EntryList/36/Text,0,다음에 내가 기도하라고 하면 무릎을 꿇고 명령대로 해. 이해했나?
-piwiewien_1,dlg,EntryList/37/Text,0,"<StartAction>[너에게 짜증난 시선을 주며] 아주 잘, 잊지 마세요"
+piwiewien_1,dlg,EntryList/37/Text,0,"<StartAction>[당신을 짜증스럽다는 듯 바라보며] 좋아, 잊지 마."
 piwiewien_1,dlg,EntryList/38/Text,0,좋아. 이걸 잊지 마세요.
 piwiewien_1,dlg,EntryList/39/Text,0,"이제 물러서시지요, 사령관님. 수 세기 만에 처음으로 지상에 발을 디디는 드로우로서의 명예는 이제 제가 가져가겠습니다."
 piwiewien_1,dlg,ReplyList/0/Text,0,"""아니, 마을을 공격하는 이 계획은 어리석은 것이다."""
@@ -745,7 +745,7 @@ piwiewien_1,dlg,ReplyList/22/Text,0,"""그럼 문제는 무엇인가?"""
 piwiewien_1,dlg,ReplyList/24/Text,0,"""왜 이 신화석을 여기서 찾길 기대했어?"""
 piwiewien_1,dlg,ReplyList/25/Text,0,"""하지만 미살 돌이 여기에 있었다면 지상으로 나가려던 우리 모두는 죽었을 것입니다."""
 piwiewien_1,dlg,ReplyList/26/Text,0,"""이제 어떻게 해야 할까요?"""
-piwiewien_1,dlg,ReplyList/27/Text,0,"""이 세상은 언더다크보다 훨씬 더 큰 새로운 세상이야."""
+piwiewien_1,dlg,ReplyList/27/Text,0,"""이곳은 언더다크보다 훨씬 거대한 새로운 세상이야. 어쩌면 모든..."""
 piwiewien_1,dlg,ReplyList/29/Text,0,"""이 미살라 돌에 대해 좀 더 말해줘."""
 piwiewien_1,dlg,ReplyList/30/Text,0,"""어떻게 작동시키거나 사용하나요?"""
 piwiewien_1,dlg,ReplyList/31/Text,0,"""진정하시는 게 좋을 겁니다, 안주인님. 수수께끼 같은 소리를 하고 계십니다."""
@@ -810,7 +810,7 @@ sl5_nooble,dlg,EntryList/11/Text,0,그렇군요.
 sl5_nooble,dlg,EntryList/12/Text,0,"그러나 몇 달 전에는 팔라딘이 되는 것을 꿈꾸었는데, 지금은 그저 작은 꿈처럼만 느껴진다."
 sl5_nooble,dlg,EntryList/13/Text,0,나는 사람이 어떤 사람이 되는 것은 퀘스트 그 자체보다도 여행을 통해 이루어진다는 것을 깨달았다. 몇 달 전의 나를 떠올려보면 왠지 촌구석 풋내기 같다는 생각이 든다.
 sl5_nooble,dlg,EntryList/14/Text,0,"네, 네, 네, 네, 네, 네, 네."
-sl5_nooble,dlg,EntryList/15/Text,0,"저는 이제 자신의 모습으로 성장하고 있습니다. 어두운 분노를 마음대로 불러올 수 있게 되었습니다. 지옥의 길은 부자들로 가득 차 있으며, 저는 곧 그들을 즐기고자 합니다."
+sl5_nooble,dlg,EntryList/15/Text,0,"내 안의 진정한 힘이 깨어나는 게 느껴진다. 이제 마음대로 어두운 분노를 끌어낼 수 있어. 지옥으로 가는 길은 재물로 포장되어 있으니, 곧 그 혜택을 누릴 수 있겠지."
 sl5_nooble,dlg,EntryList/16/Text,0,나는 원하는 대로 계속할 거다.
 sl5_nooble,dlg,EntryList/17/Text,0,"네, 주인님."
 sl5_nooble,dlg,EntryList/21/Text,0,"난 칼을 쓸 때 더 잘하는데, 그래도 노력할게."
@@ -846,17 +846,17 @@ tarnes_1,dlg,EntryList/9/Text,0,난쟁이들은 기계적으로 잠그고 말았
 tarnes_1,dlg,EntryList/10/Text,0,"동쪽의 해시계로 가서 통행어 ""멜론""을 말하라. 엘프 방언으로, 당신들 말로 '친구'라는 뜻이다."
 tarnes_1,dlg,EntryList/11/Text,0,마침내 이 고통은 끝났다....
 tarnes_1,dlg,EntryList/12/Text,0,"난 타네스 타네, 한때 녹색 타네스라고 불렸어."
-tarnes_1,dlg,EntryList/13/Text,0,"이 빛은 낮이고, 저는 평탄한 돌과 바위에서 표면 식물을 자랐습니다. 그들은 아름다운가요?"
+tarnes_1,dlg,EntryList/13/Text,0,"이 빛은 낮의 빛이고, 저는 평평한 돌과 바위에서 지상 식물들을 길러냈습니다. 아름답지 않나요?"
 tarnes_1,dlg,EntryList/14/Text,0,이 동굴은 수 세기 동안 내 집이었다.
 tarnes_1,dlg,EntryList/15/Text,0,"여러 년 동안 태양을 볼 수 없었지만, 이는 긴 이야기입니다."
-tarnes_1,dlg,EntryList/16/Text,0,"수백 년 전, 당신의 종족의 마지막 지상 침략 동안, 드워프, 스버프네블린, 고령 엘프들과 인간들은 동맹을 맺었습니다."
+tarnes_1,dlg,EntryList/16/Text,0,"수백 년 전, 당신 종족이 지상을 향해 마지막으로 습격해 왔을 때 드워프, 스버프네블린, 하이 엘프 그리고 인간들이 동맹을 맺었습니다."
 tarnes_1,dlg,EntryList/17/Text,0,<StartAction>[만족으로]</Start>####################################################################################################################################################################################################################################################
 tarnes_1,dlg,EntryList/18/Text,0,연합은 전투가 끝나면 이 지역을 강화하기로 결정했습니다.
-tarnes_1,dlg,EntryList/19/Text,0,"그래서 스비르프네블린은 하위 통로를 보호하기 위해 큰 포스트를 세웠고, 드워프들은 표면으로 나가는 출구 주변에 큰 미로를 만들었다."
+tarnes_1,dlg,EntryList/19/Text,0,"그래서 스비르프네블린은 하층 통로를 보호하기 위해 커다란 전초기지를 세웠고, 드워프들은 지상으로 통하는 출구 주변에 거대한 미로를 건설했다."
 tarnes_1,dlg,EntryList/20/Text,0,제 역할은 멍청이의 역할이었습니다.
 tarnes_1,dlg,EntryList/21/Text,0,"저는 마법 시설의 유지보수에 대한 책임을 지게 되었습니다. 제 생명력은 이 미로와 함께 이 동굴에 묶여 있으며, 제 몸도 마찬가지입니다."
 tarnes_1,dlg,EntryList/22/Text,0,<StartAction>[자신에게 이야기]</Start> 흥미로운 질문. 당신은 내가 오랫동안 기다렸던 적입니다. 왜 내가 당신에게 정보를 줄까요?
-tarnes_1,dlg,EntryList/23/Text,0,"도드라, 바보라고 생각하지 마. 나는 바보도 아니고, 미친 사람도 아니다! 하지만 당신의 성공은 내 성공이다. 나는 여기를 떠나고 싶으니, 당신은 반드시 성공해야 한다! 무엇이든 물어봐도 좋다."
+tarnes_1,dlg,EntryList/23/Text,0,"날 바보로 보지 마라, 드로우. 난 바보도 아니고 미치지도 않았어! 하지만 이번 일에 한해서는 네 성공이 곧 내 성공이다. 난 이곳을 떠나고 싶으니 너는 반드시 성공해야 해! 물어보면 대답해 주마."
 tarnes_1,dlg,EntryList/24/Text,0,좀 더 도움이 필요하면 다시 오세요.
 tarnes_1,dlg,EntryList/25/Text,0,입구 문만 통행 암호로 보호되어 있습니다. 하지만 마법 전송기와 함정도 있습니다.
 tarnes_1,dlg,EntryList/26/Text,0,"그들은 당신을 혼란스럽게 만들려고 만들어진 것들이다. 그냥 직접 확인해 보시오. 더 도움이 필요하면 여기에 있으니, 필요하시면 말씀해 주시오. 이제 가시오."
@@ -1039,13 +1039,13 @@ thriandir_4,dlg,ReplyList/53/Text,0,"""당장 썩 물러나라! 드로우는 햇
 thriandir_4,dlg,ReplyList/54/Text,0,"""당신은 미친 사람이다!"""
 thriandir_4,dlg,ReplyList/55/Text,0,"""너의 말투가 마음에 들지 않아, 트리안디르."""
 thriandir_4,dlg,ReplyList/56/Text,0,"""태양이 뜨고 밖은 눈부시게 밝습니다."""
-use_rope_1,dlg,EntryList/0/Text,0,노란 계단이 위쪽에 있는 트랩문으로 이어집니다.
+use_rope_1,dlg,EntryList/0/Text,0,낡은 사다리가 위쪽의 다락문으로 이어진다.
 use_rope_1,dlg,EntryList/1/Text,0,한 발걸음을 놓치면 바닥에 떨어진다.
 use_rope_1,dlg,EntryList/2/Text,0,계단을 올라가는 건 어렵지만 잘 해낼 수 있어
 use_rope_1,dlg,EntryList/3/Text,0,당신은 사다리를 쉽게 올라갑니다.
 use_rope_1,dlg,EntryList/4/Text,0,트래프 문까지 떠오른다.
 use_rope_1,dlg,ReplyList/1/Text,0,<StartAction>[오르기 시도]</Start>
-use_rope_2,dlg,EntryList/0/Text,0,노란 계단이 위쪽에 있는 트랩문으로 이어집니다.
+use_rope_2,dlg,EntryList/0/Text,0,낡은 사다리가 위쪽의 다락문으로 이어진다.
 use_rope_2,dlg,EntryList/1/Text,0,한 발걸음을 놓치면 바닥에 떨어진다.
 use_rope_2,dlg,EntryList/2/Text,0,계단을 올라가는 건 어렵지만 잘 해낼 수 있어
 use_rope_2,dlg,EntryList/3/Text,0,당신은 사다리를 쉽게 올라갑니다.
@@ -1120,13 +1120,13 @@ usestone_3,dlg,EntryList/13/Text,0,세기가 지나갔고 그 모든 시대는 �
 usestone_3,dlg,ReplyList/1/Text,0,<StartAction>[지식]</Start> 룬 문자를 해독해 보십시오.
 usestone_4,dlg,EntryList/0/Text,0,이 큰 기둥은 이상한 룬으로 덮여 있습니다.
 usestone_4,dlg,EntryList/1/Text,0,여기서 아무것도 읽을 수 없습니다.
-usestone_4,dlg,EntryList/2/Text,0,400여 겨울이 지나서 이리티리호가 새로운 공격을 시작하였다.
+usestone_4,dlg,EntryList/2/Text,0,일리티리가 지상으로 새로운 공격을 감행했을 때 400여 년의 세월이 흘렀다.
 usestone_4,dlg,EntryList/3/Text,0,이번에는 실 다논에 대한 공격에 대한 공격이 시작되는 숫자를 가지고 왔습니다.
 usestone_4,dlg,EntryList/4/Text,0,곧 그 공격들이 지상에 전초기지를 세우기 위한 것임이 명백해졌다.
 usestone_4,dlg,EntryList/5/Text,0,이것만큼은 길렌딜이 절대 허락하지 않을 일이었다.
 usestone_4,dlg,EntryList/6/Text,0,하지만 그들이 죽인 모든 암흑 엘프를 죽이면 두 배 더 많은 암흑 엘프가 다시 공격해 온다.
 usestone_4,dlg,EntryList/7/Text,0,"그런 확률에도 불구하고, 실 다노미는 혼자서는 안 돼"
-usestone_4,dlg,EntryList/8/Text,0,400여 겨울이 지나서 이리티리호가 새로운 공격을 시작하였다.
+usestone_4,dlg,EntryList/8/Text,0,일리티리가 지상으로 새로운 공격을 감행했을 때 400여 년의 세월이 흘렀다.
 usestone_4,dlg,EntryList/9/Text,0,이번에는 실 다논에 대한 공격에 대한 공격이 시작되는 숫자를 가지고 왔습니다.
 usestone_4,dlg,EntryList/10/Text,0,곧 그 공격들이 지상에 전초기지를 세우기 위한 것임이 명백해졌다.
 usestone_4,dlg,EntryList/11/Text,0,이것만큼은 길렌딜이 절대 허락하지 않을 일이었다.
@@ -1193,9 +1193,9 @@ westin,dlg,EntryList/26/Text,0,"""너희는 악한 짐승들이니, 왜 우리�
 westin,dlg,ReplyList/0/Text,0,"""고문이라, 아주 좋은 생각이네.... 내가 알고 싶은 걸 말해라, 그렇지 않으면 상상도 못 할 끔찍한 고통을 겪게 될 테니."""
 westin,dlg,ReplyList/2/Text,0,"""엄마, 늙은이 당신은 죽을 준비가 됐을지도 모르지만, 그 어린아이들은 어떻게 될까요? 당신은... 그들이 죽는 것을 볼 준비가 되었습니까?"""
 westin,dlg,ReplyList/3/Text,0,"""구성 안으로 어떻게 들어갈 수 있는지 말해줘! 지금 바로!"""
-westin,dlg,ReplyList/4/Text,0,"""말해주지 않으면 어린이 중 한 명이 고통받을 거다!"""
+westin,dlg,ReplyList/4/Text,0,"""말해라, 그렇지 않으면 아이들 중 하나가 고통받을 것이다!"""
 westin,dlg,ReplyList/9/Text,0,"""잠깐, 그가 말하게 해! 내가 어떻게 요새에 들어갈 수 있어, 작은 인간?"""
-westin,dlg,ReplyList/10/Text,0,"""빨리 해, 어린이."""
+westin,dlg,ReplyList/10/Text,0,"""빨리 해라, 꼬마야."""
 westin,dlg,ReplyList/11/Text,0,"""좋아요, 당신의 이야기가 우리에게 도움이 될지 보겠습니다""."
 westin,dlg,ReplyList/12/Text,0,"""방법이 있을 겁니다! 말해라, 그렇지 않으면 그가 고통받을 것이다!"""
 westin,dlg,ReplyList/13/Text,0,"""내가 요새에 어떻게 들어갈 수 있는지 말해줘, 그러면 혼자 둘 거야."""
@@ -4625,7 +4625,7 @@ forest,git,Placeable List/273/LocName,0,TN_Bramble_Lrg_Unwalkable
 forest,git,Placeable List/274/LocName,0,TN_Bramble_Lrg_Unwalkable
 forest,git,Placeable List/275/LocName,0,TN_Bramble_Lrg_Unwalkable
 forest,git,Placeable List/276/LocName,0,TN_Bramble_Lrg_Unwalkable
-forest,git,Placeable List/277/LocName,0,나무와 찍기
+forest,git,Placeable List/277/LocName,0,나무와 도끼
 forest,git,Placeable List/277/Description,0,새들이 너 위의 가지에서 놀며 기쁜 소리 지르고 있다.
 forest001,git,Door List/0/LocName,0,문
 forest001,git,Door List/0/Description,0,거칠게 다듬은 나무로 만든 이 수수한 문은 아귀가 맞지 않는 경첩에 매달려 있다.
@@ -8317,11 +8317,11 @@ maintowerfirs001,git,WaypointList/5/MapNote,0,지하층으로 가는 계단
 maintowerfirs001,git,WaypointList/6/LocalizedName,0,지도 설명
 maintowerfirs001,git,WaypointList/6/MapNote,0,2층 계단
 maintowerfirs001,git,Placeable List/0/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/0/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/0/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/1/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/1/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/1/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/2/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/2/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/2/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/2/ItemList/0/LocalizedName,0,쇠뇌 화살 +1
 maintowerfirs001,git,Placeable List/2/ItemList/0/DescIdentified,0,"이 마법 탄약은 공격 피해에 보너스가 붙어 있지만, 특정 제작자의 특징은 없습니다."
 maintowerfirs001,git,Placeable List/2/ItemList/1/LocalizedName,0,화염의 쇠뇌화살
@@ -8329,7 +8329,7 @@ maintowerfirs001,git,Placeable List/2/ItemList/1/DescIdentified,0,"불의 볼트
 maintowerfirs001,git,Placeable List/2/ItemList/2/LocalizedName,0,동상의 빙결화살
 maintowerfirs001,git,Placeable List/2/ItemList/2/DescIdentified,0,"촉각에 서리로 차는 이 볼트는 샤프트에 ""경고: 서리의 접촉""이라는 메시지가 새겨져 있습니다."""
 maintowerfirs001,git,Placeable List/3/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/3/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/3/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/3/ItemList/0/LocalizedName,0,볼트 +2
 maintowerfirs001,git,Placeable List/3/ItemList/0/DescIdentified,0,"이 마법 탄약은 공격 피해에 보너스가 붙어 있지만, 특정 제작자의 특징은 없습니다."
 maintowerfirs001,git,Placeable List/3/ItemList/1/LocalizedName,0,라이트닝 볼트
@@ -8337,9 +8337,9 @@ maintowerfirs001,git,Placeable List/3/ItemList/1/DescIdentified,0,번개가 충�
 maintowerfirs001,git,Placeable List/3/ItemList/2/LocalizedName,0,관통의 볼트
 maintowerfirs001,git,Placeable List/3/ItemList/2/DescIdentified,0,이 볼트는 목표물에 깊게 물려서 충돌에 추가적인 뚫림 피해를 줄 수 있도록 만들어졌습니다.
 maintowerfirs001,git,Placeable List/4/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/4/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/4/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/5/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/5/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/5/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/5/ItemList/1/LocalizedName,0,산성 화살
 maintowerfirs001,git,Placeable List/5/ItemList/1/DescIdentified,0,"이 화살은 목표물을 꿰뚫을 뿐만 아니라, 명중 시 연금술용 산을 사방으로 튀기게 합니다."
 maintowerfirs001,git,Placeable List/5/ItemList/2/LocalizedName,0,흡혈귀의 화살
@@ -8347,15 +8347,15 @@ maintowerfirs001,git,Placeable List/5/ItemList/2/DescIdentified,0,"이 화살의
 maintowerfirs001,git,Placeable List/5/ItemList/3/LocalizedName,0,관통 화살
 maintowerfirs001,git,Placeable List/5/ItemList/3/DescIdentified,0,이 화살는 목표물에 깊숙이 찔러 타격을 당하면 추가적인 뚫는 손상을 입게 됩니다.
 maintowerfirs001,git,Placeable List/6/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/6/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/6/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/7/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/7/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/7/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/8/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/8/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/8/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/9/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/9/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/9/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/10/LocName,0,무기 거치대
-maintowerfirs001,git,Placeable List/10/Description,0,무기는 나무 래크에 의지하여 방출을 기다리고 있습니다.
+maintowerfirs001,git,Placeable List/10/Description,0,무기들이 나무 거치대에 기대어 주인의 손길을 기다리고 있다.
 maintowerfirs001,git,Placeable List/10/ItemList/5/LocalizedName,0,검투사의 칼날
 maintowerfirs001,git,Placeable List/10/ItemList/5/DescIdentified,0,"오래전, 포르미안 사람들은 거대한 지하 도시와 광대하고 동굴적인 제국들을 건설했습니다. 전쟁 사회는 노예와 포로가 잔인한 재미를 위해 싸웠던 군중들의 피와 영광으로 드러났다. 그러한 군중 중 하나는 인간 애얀이었습니다. 그는 자신의 포르미안 마스터의 칼을 훔쳐서 그의 사랑인 조이와 함께 표면에 탈출하기 위해 사용했습니다."
 maintowerfirs001,git,Placeable List/13/LocName,0,통
@@ -9985,7 +9985,7 @@ thegrove,git,Placeable List/38/LocName,0,TN_Tree_Oak_A_Mdm
 thegrove,git,Placeable List/39/LocName,0,TN_Tree_Oak_A_Mdm
 thesage,git,Creature List/0/FirstName,0,마법사
 thesage,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,지혜 의 옷
-thesage,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,지혜의 수레
+thesage,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,현자의 지팡이
 thewaterfall,git,Door List/0/LocName,0,동굴에 있는 폭포
 thewaterfall,git,SoundList/0/LocName,0,큰 절벽의 폭포
 thewaterfall,git,SoundList/1/LocName,0,큰 절벽의 폭포
@@ -12402,7 +12402,7 @@ sywyn,utc,LastName,0,스텔스
 tarnes,utc,FirstName,0,타르네
 tarnes,utc,LastName,0,타인
 tb_goblina,utc,FirstName,0,고블린
-tb_goblina,utc,Description,0,"많은 모험가들은 고블린을 더 이상 방해꾼으로만 볼 수 없습니다. 그러나 주의를 기울이지 않으면, 그들은 빠르게 번식하여 문명 지역에 엄청난 위협으로 변할 수 있습니다."
+tb_goblina,utc,Description,0,많은 모험가들은 고블린을 그저 성가신 존재로만 여깁니다. 하지만 주의를 기울이지 않으면 그들은 순식간에 불어나 문명 지역에 엄청난 위협이 될 수 있습니다.
 test_crt_1,utc,FirstName,0,쿠거
 test_crt_1,utc,Description,0,"크고 강력한 야생 고양이인 쿠거는 산악 지역에 서식하며, 종종 황색이고 무늬가 없는 털로 식별됩니다."
 test_crt_2,utc,FirstName,0,불곰
@@ -12652,7 +12652,7 @@ summoningbowl,uti,DescIdentified,0,"이 그릇은 원래 다수의 언데드를 
 많은 강령술사들이 이런 소환용 그릇을 사용해 모든 생명체를 지속적으로 위협합니다."
 sword001,uti,LocalizedName,0,장검 +2 파이어버너
 sword001,uti,DescIdentified,0,"이 마법 무기는 공격과 피해를 위한 보너스를 가지고 있지만, 특정 제작자의 특징을 나타내지 않습니다."
-sywymsskull,uti,LocalizedName,0,시움의 골수
+sywymsskull,uti,LocalizedName,0,시움의 두개골
 sywymsskull,uti,DescIdentified,0,이것은 메노베르란잔의 대마법사 시움 퓨'n네트의 두개골입니다.
 thriapipe,uti,LocalizedName,0,트리안더의 파이프
 thriapipe,uti,DescIdentified,0,이 파이프를 불어버리면 트리안디르는 내 위치로 문을 열 수 있을 것이다. 내부 방어 구역 안에 있을 때 인간 요새에 들어가서 그를 불러오라고 원한다.
@@ -12681,7 +12681,7 @@ wandx,uti,LocalizedName,0,추방 의 막대
 waxmhn009,uti,LocalizedName,0,아이스 레이버 +1
 waxmhn009,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wblfl003,uti,LocalizedName,0,피위비엔의 링거질
-wblfl003,uti,DescIdentified,0,이 무기는 익사 여성들 중에서 고통과 고통을 가져다 주는 즐거움을 느끼는 것에만 만족하는 여성들 사이에서 가장 좋아하는 무기 중 하나입니다. 오로라 로스의 사제녀만이 이 무기를 사용할 수 있습니다.
+wblfl003,uti,DescIdentified,0,이 무기는 다른 피조물에게 고통과 괴로움을 가져다주는 것을 즐기는 드로우 여성들 사이에서 가장 선호되는 무기 중 하나입니다. 롤스의 여사제만이 이 무기를 사용할 수 있습니다.
 wblmcl013,uti,LocalizedName,0,강타의 곤봉
 wblmcl013,uti,DescIdentified,0,"이 곤봉들은 강력한 힘을 지니고 있어 골렘을 내리치면 그 구조체가 완전히, 즉시 파괴될 가능성이 큽니다."
 wblmfh009,uti,LocalizedName,0,약탈자 +1
@@ -12692,7 +12692,7 @@ wblmhw012,uti,LocalizedName,0,드로우드 드루미
 wblmhw012,uti,DescIdentified,0,이 무기는 드로우를 죽이기 위해 특별히 설계되었습니다.
 wblmml009,uti,LocalizedName,0,병사의 힘
 wblmml009,uti,DescIdentified,0,"알가로운드 군대의 중위원 들 은 이 무기 를 받았다고 한다. 하지만 그 무기 의 설계 에 대한 결점 에 대해 알려지지 않았다. 많은 와일더 들 은 죽었지만 모두 용감 하게 싸웠으며, 왕국 의 영웅 들 의 명예 를 받았다. 이 결함적 인 무기 에 대한 책임자 인 장군 들 은 처벌 을 피할 수 있었고, 오늘날 에는 존경 받는 죽은 사람 가운데 에 기억 을 받고 있다."
-wblmml010,uti,LocalizedName,0,해방의 메이스 +2
+wblmml010,uti,LocalizedName,0,파괴의 메이스 +2
 wblmml010,uti,DescIdentified,0,"이 무기는 네버윈터의 빛나는 기사 무기점, 빛나는 기사 무기점의 대장장이 마록의 마크를 지니고 있다. 그는 1373년 DR 초반에 이 무기를 제작하여 격리된 도시를 비통한 죽음으로부터 해방시키려는 영웅들을 돕기 위해 만들었다."
 wbwln002,uti,LocalizedName,0,노블의 장궁
 wbwmln005,uti,LocalizedName,0,엘프 궁정 활
@@ -12712,7 +12712,7 @@ wbwxl005,uti,DescIdentified,0,이 경쇠뇌는 특별히 우수한 품질을 가
 wdbmax007,uti,LocalizedName,0,아스코리아산 쌍날도끼
 wdbmax007,uti,DescIdentified,0,"셰어 근처에서 주장하는 신흥 강도 왕의 유배 피해자들에게 아스코리아산 쌍날도끼는 단순한 원주민 독재자가 몇 십 개의 조상 해적 금 상자, 새로 고용된 용병 군대, 그리고 그림자의 매개체로 교육받은 몇몇 인형 마법사들을 통해 무엇을 이룰 수 있는지 상징적으로 보여주는 물건이다. 그리고 사람 한 명이 더 이상 차이를 만들 수 없다고 말하는 사람들이 있다."
 wmgst004,uti,LocalizedName,0,마법 학자의 지팡이
-wmgst004,uti,DescIdentified,0,"이 종류의 마법사법주는 예술가의 공예술의 최고점이며, 각각의 마법사법주는 마스터 마법사가 수십 년 동안 연구한 결실을 보여준다. 그 창조의 비밀이 거의 잃어버린 상태에서, 고대 용의 무리에서 더 많은 마법사법주가 살아있는 마법사의 손에 비해 발견된다."
+wmgst004,uti,DescIdentified,0,"이러한 종류의 지팡이는 장인의 기술이 빚어낸 정점이며, 각각은 숙련된 마법사가 수십 년 동안 연구한 결실을 나타냅니다. 제작 비밀이 거의 잊혀진 지금, 이러한 지팡이는 살아있는 마법사의 손에서보다 고대 드래곤의 보물 덤더미에서 더 많이 발견됩니다."
 wswls003,uti,LocalizedName,0,장인제작 장검
 wswls003,uti,DescIdentified,0,이 장검은 특별한 품질입니다.
 wswls004,uti,LocalizedName,0,장인제작 장검
