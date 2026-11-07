@@ -325,7 +325,7 @@ id_mwhammer,uti,LocalizedName,0,178,전쟁망치
 id_mwhip,uti,LocalizedName,0,83617,채찍
 id_potion001,uti,DescIdentified,0,90921,"매술 기간 동안, 음취자는 모든 스팟 및 뷰 체크에 +10 보너스를 얻습니다."
 id_potion001,uti,LocalizedName,0,90920,투청/투시의 물약
-id_potion002,uti,DescIdentified,0,90921,"이 포션은 흡수자가 받은 모든 마법 효과를 제거하려고 시도합니다. 생물에서 효과를 제거하려면 흡수자는 1d20을 던지고, 마법의 등급당 +1(최대 +5)을 추가하여 DC 11 + 마법 효과의 캐스터 레벨을 넘는 점수를 얻어야 합니다."
+id_potion002,uti,DescIdentified,0,90921,이 물약은 마신 사람에게 걸린 모든 마법 효과를 벗겨 내려 합니다. 생물에게서 효과를 제거하려면 마신 사람이 1d20에 주문 레벨당 +1(최대 +5)을 더한 해제 판정을 굴려 11 + 마법 효과 시전자 레벨의 DC를 넘겨야 합니다.
 id_potion002,uti,LocalizedName,0,90920,하급 주문해제 물약
 id_potion003,uti,DescIdentified,0,90921,"이 포션은 단일 대상에게서 모든 마법 효과를 제거하려 합니다. 효과를 제거하기 위해, 복용자는 시전 자격 레벨당 +1(최대 +10)을 더한 1d20 해제굴림을 주문 효과의 시전 자격 레벨에 11을 더한 난이도와 비교하여 판정합니다."
 id_potion003,uti,LocalizedName,0,90920,주문해제 물약
@@ -382,7 +382,7 @@ id_potion026,uti,DescIdentified,0,90921,"마신 자는 다음 형태 중 하나�
 id_potion026,uti,LocalizedName,0,90920,변신 물약
 id_potion027,uti,DescIdentified,0,90921,"이 약물을 마신 자는 파괴적인 여러 무서운 생물 중 하나로 일시적으로 변종됩니다. 가능한 형태로는 레드 드래곤, 화염 거인, 발러, 데스 슬라드, 또는 철 골렘이 있습니다."
 id_potion027,uti,LocalizedName,0,90920,형상변이 물약
-id_potion028,uti,DescIdentified,0,90921,"예감은 음주자가 미래의 몇 순간을 볼 수 있게 해줍니다. 이는 그에게 30/+5의 손상 감소를 부여하고, 붕괴하기 전에 포션 레벨당 10 포인트의 근접 공격 손상을 흡수합니다."
+id_potion028,uti,DescIdentified,0,90921,"예감은 마시는 자가 미래를 몇 초 앞서 볼 수 있게 해준다. 사용자에게 30/+5의 피해 감소를 부여하며, 효과가 끝날 때까지 포션 등급당 10점의 근접 공격 피해를 흡수한다."
 id_potion028,uti,LocalizedName,0,90920,예감 물약
 id_potion029,uti,DescIdentified,0,90921,이 약물을 마시는 자는 악한 성격의 존재들에 대한 방어 보너스를 얻습니다.
 id_potion029,uti,LocalizedName,0,90920,악으로부터의 보호 물약
@@ -427,7 +427,7 @@ id_potion048,uti,LocalizedName,0,90920,회복 물약
 id_potion049,uti,DescIdentified,0,90921,"상급 회복은 시전자에게 걸린 대부분의 일시적 효과와 모든 영구적인 부정적 효과를 제거하며, 레벨 흡수도 포함됩니다. 정신적 악영향이나 이동 속도 감소 효과는 제거하지 않습니다. 또한 시전자의 생명력을 완전히 회복시킵니다."
 id_potion049,uti,LocalizedName,0,90920,상급 회복 투약
 id_potion050,uti,DescIdentified,0,90921,물약을 마신 사람은 초자연적 능력치 피해와 레벨 흡수를 포함한 모든 음에너지 공격에 면역이 됩니다.
-id_potion050,uti,LocalizedName,0,90920,음 에너지 보호 물약
+id_potion050,uti,LocalizedName,0,90920,음의 에너지 보호 물약
 id_potion051,uti,DescIdentified,0,90921,마시거나 사용하는 자의 체내에 남아 있는 모든 독이 제거됩니다.
 id_potion051,uti,LocalizedName,0,90920,독 중화 물약
 id_potion052,uti,DescIdentified,0,90921,모든 동맹국들은 시각과 청각 장애를 치료받습니다.

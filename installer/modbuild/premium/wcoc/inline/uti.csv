@@ -33,7 +33,7 @@ archersjerkin,uti,Description,0,-1,수수한 가죽 조끼.
 archersjerkin,uti,LocalizedName,0,12835,아처의 괴짜
 armletofguidance,uti,DescIdentified,0,-1,"이 팔찌 는 수도원 들 과 동종자 들 을 훈련 시키는데 사용 되어 그 들 이 나중 에 자신 들 이 익힐 수 있는 기술 을 조작 하는 데 도움 이 되었으며, 그 중 상당수 는 결코 수도원 으로 성공 하지 않을 운명 을 가진 사람 들 이 훔쳐갔읍니다."
 armletofguidance,uti,Description,0,-1,밴드 주변에 글씨가 새겨진 팔찌.
-armletofguidance,uti,LocalizedName,0,-1,지도의 팔찌
+armletofguidance,uti,LocalizedName,0,-1,인도자의 팔찌
 armoroffrost,uti,DescIdentified,0,-1,"정교하게 제작된 이 가벼운 사슬 갑옷은 옅은 푸른빛을 냅니다. 착용자가 가슴 중앙의 고리를 누르면 얼음 단검이 솟구쳐 나옵니다. 시간이 지남에 따라 이 갑옷은 몸에 가해지는 타격에서 에너지를 흡수해 충전됩니다.
 
 <c ÿÿ>이 아이템의 충전 횟수를 모두 소모하면 먼지가 되어 부서집니다.<cÿÿÿ>"
@@ -270,7 +270,7 @@ defender,uti,LocalizedName,0,-1,수호자
 deftboots,uti,DescIdentified,0,-1,"마지막 순간의 비틀기로, 어떤 공격이든 부분적으로 피할 수 있습니다. 이것이 날렵한 장화의 숨겨진 힘입니다."
 deftboots,uti,Description,0,-1,단순한 부츠입니다. 특별한 점은 없습니다.
 deftboots,uti,LocalizedName,0,-1,교묘한 장화
-deneirsdagger,uti,DescIdentified,0,-1,"이 거룩한 창은 데네이르에 의해 보호의 결계로 축복받았으며, 데네이르를 숭배하는 자들의 손에 그 힘이 커집니다."
+deneirsdagger,uti,DescIdentified,0,-1,이 거룩한 단검은 보호의 결계로 데네이르의 축복을 받았습니다. 데네이르를 숭배하는 자들의 손에 들릴 때 그 힘이 더욱 커집니다.
 deneirsdagger,uti,Description,0,-1,데네이르의 상징이 새겨진 장식용 단검.
 deneirsdagger,uti,LocalizedName,0,-1,데네이르의 단검
 diamondgolempr,uti,LocalizedName,0,13152,다이아몬드 골렘 속성
@@ -416,7 +416,7 @@ greatertruesigh,uti,DescIdentified,0,-1,"이 헬멧은 눈 틈에 얇고 투명�
 greatertruesigh,uti,Description,0,-1,이상한 헬멧
 greatertruesigh,uti,LocalizedName,0,-1,상급 진실시야 투구
 greatwandoflight,uti,DescIdentified,0,-1,"이 막대들은 마법의 명령에 빛을 줍니다. 불행히도, 그것을 사용할 수 있는 힘은 조금만 필요합니다."
-greatwandoflight,uti,Description,0,-1,단순한 마법대
+greatwandoflight,uti,Description,0,-1,단순한 마법봉
 greatwandoflight,uti,LocalizedName,0,-1,상급 빛의 마법봉
 greencloak,uti,LocalizedName,0,-1,올리브 망토
 greenheart,uti,DescIdentified,0,-1,이 작은 방패는 너도밤나무로 만들어졌으며 개암나무로 보강되어 있다. 실바누스의 축복을 받은 이 방패는 부자연스러운 존재와 싸우는 데 탁월하다. 실바누스의 신도라면 자신의 혈관 속에서 숲이 자라나는 것을 느낄 수 있을 것이다.
@@ -578,7 +578,7 @@ lathandersmace,uti,LocalizedName,0,-1,라탄더의 망치
 leatherarmor3,uti,LocalizedName,0,12835,가죽 갑옷
 leatherarmour002,uti,LocalizedName,0,12835,가죽 갑옷
 leatherarmour1,uti,LocalizedName,0,12835,가죽 갑옷
-leatherarmourv,uti,DescIdentified,0,-1,"이 가죽 젠킨은 제작자의 표식이 없지만, 작은 마법으로 충전되어 있습니다. 명백히, 오른쪽 팔에 더 무거운 보호는 방패를 사용하기 위한 것 같습니다."
+leatherarmourv,uti,DescIdentified,0,-1,이 가죽 조끼에는 제작자의 표식이 없지만 약한 마법이 깃들어 있습니다. 오른팔 쪽 보호 부위가 더 두꺼운 것으로 보아 방패와 함께 쓰도록 만든 것이 분명합니다.
 leatherarmourv,uti,LocalizedName,0,12835,고급 가죽 갑옷
 leatherchainhaub,uti,DescIdentified,0,-1,짧은 메일 하우베르크와 가죽 트레즈.
 leatherchainhaub,uti,LocalizedName,0,-1,가죽과 사슬 갑옷
@@ -607,13 +607,13 @@ longblight,uti,Description,0,-1,"이 특이한 모양의 창은 날이 녹으로
 longblight,uti,LocalizedName,0,-1,긴 시간
 longbowyew,uti,DescIdentified,0,-1,"보통의 롱보이는 다르지 않습니다. 이 롱보이는 유에 의해 제작되었습니다. 롱보이는 표준 롱보보다 크게 크다. 이것은 더 약한 캐릭터에 도움이 되지 않을 것입니다 (강력 12보다 적은 것은 그것을 사용할 수 없습니다), 그러나 더 강한 캐릭터는 추가적인 롱을 사용할 수 있습니다. 롱보이는 마법이 아닙니다. 따라서 평균 롱보보다 몇 가지 금이 더 비싸습니다. 장비에 있어서, 롱보이는 강도에 따라 강력한 보너스를 부여합니다: +1 보너스 최소 = 14 +2 보너스 최소 = 17 +3 보너스 최소 = 20"
 longbowyew,uti,LocalizedName,0,-1,주나무 장궁
-longswordofhel,uti,DescIdentified,0,-1,"훌륭하게 제작된 균형감 있는 검으로, 이 장검들은 헬름에게 전념되어 있습니다."
+longswordofhel,uti,DescIdentified,0,-1,"균형이 잘 잡힌 정교한 검으로, 이 롱소드들은 헬름에게 바쳐진 것입니다. 그 자체로도 훌륭한 무기이지만, 헬름의 추종자가 쥐면 더욱 강력해집니다."
 longswordofhel,uti,Description,0,-1,매우 잘 제작된 균형이 잘 잡힌 검이다.
 longswordofhel,uti,LocalizedName,0,-1,헬름의 장검
 longswordoftyr,uti,DescIdentified,0,-1,"티르와 혼란을 파괴하는 데 전념한 탁월한 균형을 자랑하는 잘 만들어진 긴 검입니다. 탁월한 무기로 자체적으로 이미 뛰어나지만, 티르의 신자에게 들려주면 더욱 강력해집니다."
 longswordoftyr,uti,Description,0,-1,매우 잘 제작된 균형이 잘 잡힌 검이다.
 longswordoftyr,uti,LocalizedName,0,-1,타이르의 장검
-lsousucker,uti,DescIdentified,0,-1,"이 검은 강력한 마법으로 가득 차 있으며, 적을 공격할 때 적의 영혼의 일부가 검에 빨려들어가 5%의 확률로 재앙적인 피해 (+2-24)를 입히고 5의 체력 회복을 하게 됩니다. 검이 적의 영혼을 빨 때마다 1개의 충전이 소비됩니다."
+lsousucker,uti,DescIdentified,0,-1,이 검에는 강력한 마법이 깃들어 있습니다. 적을 타격할 때 5% 확률로 적의 영혼 일부가 검 속으로 빨려 들어가 막대한 피해(+2-24)를 입히고 체력 5를 소모시킵니다. 검이 적의 영혼을 빨아들일 때마다 충전이 1회 소모됩니다.
 lsousucker,uti,LocalizedName,0,-1,"장검 +1, 영혼흡수"
 luckblade,uti,DescIdentified,0,-1,럭블레이드는 날카로운 쏘는 썰매를 가진 얇은 검이다. 손에 들고 있을 때 썰매를 가지고 있는 썰매도 운이 좋다고 보이게 된다. 이는 티모라에게 전념되어 있기 때문에 놀라운 일이 아니다. 티모라의 추종자들은 검의 힘을 강화할 수 있을 것이다.
 luckblade,uti,Description,0,-1,기묘하게 세로로 갈라진 갈비검
@@ -659,11 +659,11 @@ magickama,uti,DescIdentified,0,-1,덕목이 깃든 정교한 무기입니다.
 magickama,uti,LocalizedName,0,-1,마법 카마
 magickukri,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magickukri,uti,LocalizedName,0,-1,마법 쿠크리
-magiclongsword,uti,DescIdentified,0,-1,이 검은 덕목을 장식한 미세하게 제작된 칼입니다.
+magiclongsword,uti,DescIdentified,0,-1,이 검은 정교하게 제작되어 미덕이 깃든 날을 가지고 있습니다.
 magiclongsword,uti,LocalizedName,0,-1,마법의 긴 검
 magicmace,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magicmace,uti,LocalizedName,0,-1,마법 철퇴
-magicmap,uti,DescIdentified,0,-1,마법의 지도 마법을 사용하여 캐스터를 둘러싼 전체 지역을 밝힐 수 있습니다.
+magicmap,uti,DescIdentified,0,-1,마법 지도 주문을 사용하면 시전자를 중심으로 주변 지역 전체를 드러내거나(지도를 밝혀) 볼 수 있습니다.
 magicmap,uti,LocalizedName,0,-1,마법 지도
 magicmorningstar,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magicmorningstar,uti,LocalizedName,0,-1,마법의 아침별
@@ -673,7 +673,7 @@ magicrapier,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 �
 magicrapier,uti,LocalizedName,0,-1,마법세검
 magicscythe,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magicscythe,uti,LocalizedName,0,-1,마법 대낫
-magicshortsword,uti,DescIdentified,0,-1,이 검은 덕목을 장식한 미세하게 제작된 칼입니다.
+magicshortsword,uti,DescIdentified,0,-1,이 검은 정교하게 제작되어 미덕이 깃든 날을 가지고 있습니다.
 magicshortsword,uti,LocalizedName,0,-1,마법 단검
 magicshuriken,uti,DescIdentified,0,-1,마법의 슈리케인
 magicshuriken,uti,LocalizedName,0,-1,마법 수리검
@@ -683,7 +683,7 @@ magicspear,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 �
 magicspear,uti,LocalizedName,0,-1,마법의 도끼
 magicstaff,uti,DescIdentified,0,-1,"매우 세련된 무기, 특별한 덕을 지닌 무기."
 magicstaff,uti,LocalizedName,0,-1,마법 지팡이
-magicsword,uti,DescIdentified,0,-1,이 검은 덕목을 장식한 미세하게 제작된 칼입니다.
+magicsword,uti,DescIdentified,0,-1,이 검은 정교하게 제작되어 미덕이 깃든 날을 가지고 있습니다.
 magicsword,uti,LocalizedName,0,-1,마법검
 magicthrowingaxe,uti,DescIdentified,0,-1,균형이 잘 잡힌 마법 투척 도끼.
 magicthrowingaxe,uti,LocalizedName,0,-1,마법 투척도끼
@@ -827,7 +827,7 @@ puremight,uti,LocalizedName,0,-1,순수성
 purplecloak,uti,LocalizedName,0,-1,보라색 망토
 purpledragoncs,uti,DescIdentified,0,-1,퍼플 드래곤 성직자들의 문장이 새겨진 방패.
 purpledragoncs,uti,LocalizedName,0,-1,퍼플 드래곤 클레릭 쉴드
-purpledragonki,uti,DescIdentified,0,-1,보라색 용의 방패는 거의 모든 코르미르 블레이드에서 태어났다.
+purpledragonki,uti,DescIdentified,0,-1,"퍼플 드래곤의 방패, 코르미르의 거의 모든 블레이드가 지니고 다닌다."
 purpledragonki,uti,LocalizedName,0,-1,보라용 카이트
 purpledragonkn,uti,DescIdentified,0,-1,이 방패는 보라빛 용기사의 오래된 문장기를 담고 있습니다. 코르미르의 가장 훌륭한 기사들에게 주어진 이러한 방패들은 그들의 리더십 능력을 향상시키고 방어력을 강화했습니다.
 purpledragonkn,uti,Description,0,-1,코르미르의 상징인 보라색 용이 새겨진 방패
@@ -842,7 +842,7 @@ purpledragonov,uti,DescIdentified,0,-1,퍼플 드래곤즈의 문장이 새겨�
 purpledragonov,uti,LocalizedName,0,-1,보라색 드래곤 오버스word Shield
 purpledragonsc,uti,DescIdentified,0,-1,보라색 용의 가벼운 갑옷.
 purpledragonsc,uti,LocalizedName,0,-1,보라색 용 스카우트 갑옷
-purpledragonscou,uti,DescIdentified,0,-1,보라색 용 스카우트의 표지를 보여주는 방패.
+purpledragonscou,uti,DescIdentified,0,-1,퍼플 드래곤 정찰대의 문장이 새겨진 방패.
 purpledragonscou,uti,LocalizedName,0,-1,보라색 용 스카우트 방패
 purpleknowall,uti,DescIdentified,0,-1,이 이상하고 보라색인 꽃은 꺾인 날처럼 몇 년 동안이나 신선하게 유지됩니다. 하지만 꽃을 으깨어 그 안에서 나온 작은 수액 방울을 혀에 올리면 마신 사람은 몇 시간 동안 지속되는 엄청난 통찰력을 느끼게 됩니다. 물론 이것이 퍼플 노올이 그런 이름을 얻게 된 이유입니다...
 purpleknowall,uti,Description,0,-1,방금 딴 것처럼 아주 신선한 작은 보라색 꽃.
@@ -894,7 +894,7 @@ ringofwar,uti,DescIdentified,0,-1,"보호 반지의 강화된 버전으로, 아�
 ringofwar,uti,Description,0,-1,어떤 종류의 합금으로 된 테두리에 값싼 보석이 박혀 있는 괜찮은 반지.
 ringofwar,uti,LocalizedName,0,-1,전쟁 반지
 rkama,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
-rkama,uti,LocalizedName,0,1534,재작성된 카마
+rkama,uti,LocalizedName,0,1534,재련한 카마
 rkatana,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
 rkatana,uti,LocalizedName,0,1535,재제작된 카타나
 rkukri,uti,DescIdentified,0,-1,이 재조장된 무기는 오래된 마법의 칼로 만들어져 강력한 마법의 아이템을 만들어 냈습니다.
@@ -970,7 +970,7 @@ scimitarofspeed,uti,Description,0,-1,날이 무거운 시미터.
 scimitarofspeed,uti,LocalizedName,0,-1,속도의 시미터
 scribingarrows,uti,DescIdentified,0,-1,이 부드러운 마법의 화살은 표적의 육체를 '내기'하기 때문에 소산을 끝에서 분비합니다.
 scribingarrows,uti,Description,0,-1,이 부드러운 마법의 화살은 표적의 육체를 '내기'하기 때문에 소산을 끝에서 분비합니다.
-scribingarrows,uti,LocalizedName,0,-1,화살을 작성하기
+scribingarrows,uti,LocalizedName,0,-1,화살 제작
 sentientamulet,uti,DescIdentified,0,67520,"이 미술품 은 작은 미술품 으로 달린 얼굴 이 아닙니다. 이 미술품 은 일반 미술품 이 아닙니다. 얼굴 은 볼 수 있고 들을 수 있으며, 속삭이는 말 으로 숨겨진 위험 에 대해 착용자 에게 경고 합니다."
 sentientamulet,uti,Description,0,-1,에마일 얼굴로 조각된 이 자석은 분명히 마법적이지만 그 능력은 전혀 알 수 없습니다.
 sentientamulet,uti,LocalizedName,0,67521,자아를 가진 부적
@@ -1112,7 +1112,7 @@ therighteousbl,uti,LocalizedName,0,12838,의로운 검은
 therighteouswh,uti,DescIdentified,0,-1,"이 고급 백색 판금 갑옷은 이른바 '공정한 백색'이라는 이름으로 불린다. 이 갑옷은 기사단원들을 위해 특별히 설계되었지만, 누구나 사용할 수 있다. 소문에 따르면, 같은 세트에 속한 다른 공정한 무장들도 제작되었다."
 therighteouswh,uti,LocalizedName,0,12838,의로운 흰색
 thewatcher,uti,DescIdentified,0,-1,"이 바스타드 소드는 헬름 교회의 축복받은 무기입니다. 평신도들도 이 무기를 유용하게 쓸 수 있지만, 헬름을 따르는 자들이라면 검을 다룰 때 숨겨진 추가 능력을 개방하여 더욱 유용하게 사용할 수 있습니다."
-thewatcher,uti,Description,0,-1,아주 세련된 반장검이 장갑에 눈의 문양이 새겨져 있습니다.
+thewatcher,uti,Description,0,-1,건틀릿 위에 눈 문양이 새겨진 아주 정교한 바스타드 소드.
 thewatcher,uti,LocalizedName,0,-1,감시자
 thewitchring,uti,DescIdentified,0,-1,"마법사 주군과의 연결이 끊겼음에도 이 반지는 그 자체로 여전히 강력하지만, 마법사 주군이 살아 있는 동안 이를 착용하는 것은 매우 위험합니다. 이 반지를 통해 마법사 주군은 가장 강한 의지력을 가진 자마저 조종하여, 착용자의 본래 성향과 상관없이 사악하고 악의적으로 행동하게 만들 수 있습니다. 게다가 이 반지를 지닌 자에게 살해당한 자들의 영혼은 마법사 주군 자신을 직접적으로 강화해 줍니다."
 thewitchring,uti,LocalizedName,0,-1,마법사 반지
@@ -1174,7 +1174,7 @@ wandofdispelli,uti,DescIdentified,0,14203,"모험가와 민병대에게 판매�
 wandofdispelli,uti,LocalizedName,0,14204,비전 분열의 마법봉
 wandofflames,uti,LocalizedName,0,-1,불꽃 마법봉
 wandoflight,uti,DescIdentified,0,-1,이 단순한 마법봉들은 마법 명령에 따라 빛을 낸다.
-wandoflight,uti,Description,0,-1,단순한 마법대
+wandoflight,uti,Description,0,-1,단순한 마법봉
 wandoflight,uti,LocalizedName,0,-1,빛의 막대
 wandoftheheav,uti,LocalizedName,0,14200,하늘의 마법봉
 wandoftrapdet,uti,LocalizedName,0,-1,함정 감지 마법봉
@@ -1186,7 +1186,7 @@ wc_farmer_m,uti,LocalizedName,0,12923,농부 최고 의복 남성
 wc_fisher_f,uti,LocalizedName,0,12923,어부/선원용 최고급 의복 (여성)
 wc_fisher_m,uti,LocalizedName,0,12923,어부/선원 남성용 정장
 wc_footsoldier_m,uti,LocalizedName,0,12923,발병 최고의 옷 유니섹스
-wc_htc_butler,uti,LocalizedName,0,12904,헌트크라운 부르타러
+wc_htc_butler,uti,LocalizedName,0,12904,헌트크라운 집사
 wc_htc_helm,uti,LocalizedName,0,84264,헌트크라운 헬멧
 wc_htc_helm002,uti,LocalizedName,0,84264,헌츠실버 헬멧
 wc_htc_lord,uti,LocalizedName,0,12904,트 크라운 로드 체인

@@ -140,11 +140,11 @@ delade_1,dlg,ReplyList/32/Text,0,"""엄마, 꽤 인상적입니다""."
 delade_1,dlg,ReplyList/33/Text,0,"""나는 이 마법의 방패를 인간 대제사의 몸에서 발견했다. 당신은 이를 통해 신성한 마법을 시전할 수 있다. 어떻게 이런 일이 가능할까? 심지어 어떤 신이 이런 은총을 주었는지조차 모르겠다."""
 delade_1,dlg,ReplyList/35/Text,0,굴은 버려진 것처럼 보이지만 불의 냄새가 납니다.
 endconv,dlg,EntryList/0/Text,0,"""아, 내가 너를 보내서 나에게 신화를 찾아냈고 너는 나에게 고대 시대의 더 강력한 신화를 가져왔어."
-endconv,dlg,EntryList/1/Text,0,"""잠깐만! 이 유물은 사망자들이 사용할 정도로 위험해, 스파이더퀸!"""
+endconv,dlg,EntryList/1/Text,0,"""잠깐! 이 유물은 필멸자가 사용하기에는 너무 위험해, 스파이더퀸!"""
 endconv,dlg,EntryList/2/Text,0,"""너는 이 귀중한 보석을 너무 오래 숨기고 있었어, 놈. 이제 이 보석은 전쟁과 침략을 위해 다시 사용될 차례야!"""
 endconv,dlg,EntryList/3/Text,0,"""인간 마법사 카르수스가 그런 힘을 사용하려 했을 때 무슨 일이 일어났는지 아실 겁니다... 그리고 더 나은 목적을 위해서였다지만..."""
 endconv,dlg,EntryList/4/Text,0,"""카르수스, 그 바보. 나는 내 신자들이 신성으로 갈 수 있도록 절대 허락하지 않을 거야!"""
-endconv,dlg,EntryList/5/Text,0,"""미스트릴이 그런 것들을 사용했다고 생각하냐? 그 날부터 그런 유물들은 금지되어 있고, 그대로 두는 것이 좋다."""
+endconv,dlg,EntryList/5/Text,0,"""미스트릴이 그랬다고 생각하나? 그런 유물들은 그날 이후로 금지되었으니 건드리지 않는 것이 좋아."""
 endconv,dlg,EntryList/6/Text,0,"""미스트릴은 카르수스만큼이나 어리석었고, 그녀의 후계자들도 마찬가지였지. 아니면 이 미살라를 수 세기 동안 엘프들 사이에 숨겨둔 다른 이유라도 있는 걸까?"""
 endconv,dlg,EntryList/7/Text,0,"<StartAction>[놀란]</Start>""그게 무슨 뜻이야?"""
 endconv,dlg,EntryList/8/Text,0,"""걱정 마라, 네가 이 숲에서 이 유물로 어떤 음모를 꾸미고 있었는지 곧 알게 될 테니.""<StartAction>[마침내 당신을 돌아보며]</Start>""이것을 넘겨다오, 내 아이야. 너는 파에룬에 혼란과 파괴를 불러올 나의 선택받은 자가 될 것이다!"""
@@ -287,7 +287,7 @@ llomir_1,dlg,EntryList/24/Text,0,"""그렇다면 더 나은 삶에 대한 희망
 llomir_1,dlg,EntryList/25/Text,0,"""나는 오랜 세월 동안 테트니스 가문에서 지냈지만, 그들은 늘 나를 벌레 보듯 대했지."""
 llomir_1,dlg,EntryList/26/Text,0,"""피위비엔과 트리안디르는 마땅한 대가를 치렀다. 이기적인 목적을 위해 모든 것을 희생한 것일지도 모르지만, 어쩌면 그들이 마땅한 대가를 치렀을지도 모른다."""
 llomir_1,dlg,EntryList/27/Text,0,"""이 사건의 배후에 무엇이나 누군가가 있는지 정말 궁금합니다."""
-llomir_1,dlg,EntryList/28/Text,0,이곳은 죽음의 함정 같아서 불안한 기분이 듭니다.
+llomir_1,dlg,EntryList/28/Text,0,"""이곳은 불길한 예감이 들어. 여기는 죽음의 함정이야."""
 llomir_1,dlg,EntryList/29/Text,0,"""우리는 죽은 자 없는 좀비처럼 우리 동료들과 싸웠다""."
 llomir_1,dlg,EntryList/30/Text,0,"""나는 이 곳에서 죽음의 에너지와 힘을 느낄 수 있다."""
 llomir_1,dlg,EntryList/31/Text,0,"""인간이 말한 유명한 엘프 기념물인가요?"""
@@ -890,18 +890,18 @@ acerakentrance,git,Placeable List/206/Description,0,"농가 테이블은 칼자�
 acerakentrance,git,Placeable List/206/ItemList/0/LocalizedName,0,화려한 썩은 책
 acerakentrance,git,Placeable List/206/ItemList/0/Description,0,텍스트와 다이어그램은 주인이나 상사들에게 어떻게 제대로 섬기어야 하는지 암시하고 있습니다. 고문과 반박의 장면이 많이 등장합니다.
 acerakentrance,git,Placeable List/213/LocName,0,썩은 침대
-acerakentrance,git,Placeable List/213/Description,0,"침대는 깨끗하고 부드럽게 덮여 있으며, 깃털 베개와 부드러운 천단이 시트 위에 덮여 있습니다."
+acerakentrance,git,Placeable List/213/Description,0,"침구는 깨끗하고 푹신하며, 깃털 베개가 놓여 있고 시트 위로 부드러운 솜털 이불이 덮여 있습니다."
 acerakentrance,git,Placeable List/214/LocName,0,썩은 침대
-acerakentrance,git,Placeable List/214/Description,0,"침대는 깨끗하고 부드럽게 덮여 있으며, 깃털 베개와 부드러운 천단이 시트 위에 덮여 있습니다."
+acerakentrance,git,Placeable List/214/Description,0,"침구는 깨끗하고 푹신하며, 깃털 베개가 놓여 있고 시트 위로 부드러운 솜털 이불이 덮여 있습니다."
 acerakentrance,git,Placeable List/215/LocName,0,썩은 침대
-acerakentrance,git,Placeable List/215/Description,0,"침대는 깨끗하고 부드럽게 덮여 있으며, 깃털 베개와 부드러운 천단이 시트 위에 덮여 있습니다."
+acerakentrance,git,Placeable List/215/Description,0,"침구는 깨끗하고 푹신하며, 깃털 베개가 놓여 있고 시트 위로 부드러운 솜털 이불이 덮여 있습니다."
 acerakentrance,git,Placeable List/216/LocName,0,썩은 침대
-acerakentrance,git,Placeable List/216/Description,0,"침대는 깨끗하고 부드럽게 덮여 있으며, 깃털 베개와 부드러운 천단이 시트 위에 덮여 있습니다."
+acerakentrance,git,Placeable List/216/Description,0,"침구는 깨끗하고 푹신하며, 깃털 베개가 놓여 있고 시트 위로 부드러운 솜털 이불이 덮여 있습니다."
 acerakentrance,git,Placeable List/217/LocName,0,썩은 침대
-acerakentrance,git,Placeable List/217/Description,0,"침대는 깨끗하고 부드럽게 덮여 있으며, 깃털 베개와 부드러운 천단이 시트 위에 덮여 있습니다."
+acerakentrance,git,Placeable List/217/Description,0,"침구는 깨끗하고 푹신하며, 깃털 베개가 놓여 있고 시트 위로 부드러운 솜털 이불이 덮여 있습니다."
 acerakentrance,git,Placeable List/217/ItemList/0/LocalizedName,0,금화
 acerakentrance,git,Placeable List/218/LocName,0,썩은 침대
-acerakentrance,git,Placeable List/218/Description,0,"침대는 깨끗하고 부드럽게 덮여 있으며, 깃털 베개와 부드러운 천단이 시트 위에 덮여 있습니다."
+acerakentrance,git,Placeable List/218/Description,0,"침구는 깨끗하고 푹신하며, 깃털 베개가 놓여 있고 시트 위로 부드러운 솜털 이불이 덮여 있습니다."
 acerakentrance,git,Placeable List/221/LocName,0,먼지 쌓인 책 무더기
 acerakentrance,git,Placeable List/221/Description,0,"책들은 서로 겹쳐서 쌓여 있었고, 마치 누군가가 책들을 돌려보내는 과정에서 방해받았던 것처럼 리임이나 논리적인 요소가 거의 없었다."
 acerakentrance,git,Placeable List/221/ItemList/0/LocalizedName,0,부서진 네더 제국 도서
