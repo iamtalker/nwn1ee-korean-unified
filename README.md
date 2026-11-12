@@ -91,7 +91,7 @@ gcc -shared -O2 -o assets/version.dll hook/nwn_korean_hook.c hook/version_proxy.
 
 ## 지금까지의 진행 기록 (2026-11-12 기준, v0.2.55)
 
-번역은 기계번역(NLLB, CPU) → 로컬 LLM(Qwen2.5-7B) 감수 → 자동 규칙 검사와 표본 판정 → **3차 감수**(v0.2.3\~; Claude 가 의심 문장을 직접 읽고 교정) → **최종 검수**(GPT Codex 가 위험 문장을 점검하고 교정안을 확인)의 단계를 거쳤습니다. 방법은 [번역 방법서](https://github.com/iamtalker/game-translation-pipeline)에 정리했습니다.
+번역은 기계번역(NLLB, CPU) → 로컬 LLM(Qwen2.5-7B) 감수 → 자동 규칙 검사와 표본 판정 → **3차 감수**(v0.2.3\~; Claude 가 의심 문장을 직접 읽고 교정) → **최종 검수**(GPT-6 Luna, ChatGPT Pro 플랜으로 위험 문장을 점검하고 교정안을 확인)의 단계를 거쳤습니다. 방법은 [번역 방법서](https://github.com/iamtalker/game-translation-pipeline)에 정리했습니다.
 
 | 버전 | 한 일 | 왜 |
 |---|---|---|
