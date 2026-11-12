@@ -1,7 +1,7 @@
 Resource,ResType,FieldPath,LangID,StrRef,Text
 ac_yakirghost,utc,FirstName,0,-1,흑인 야키르의 영혼
 basicbarbarian,utc,FirstName,0,-1,기본 야만전사
-basicbard,utc,FirstName,0,-1,기본 바드
+basicbard,utc,FirstName,0,-1,기본 음유시인
 basiccleric,utc,FirstName,0,-1,기본 성직자
 basicdruid,utc,FirstName,0,-1,기본 드루이드
 basicdwarf,utc,FirstName,0,-1,기본 드워프
@@ -70,7 +70,7 @@ ct_comm_ph_man0,utc,FirstName,0,-1,나이트 크롤러 도적
 ct_comm_rc_guar,utc,FirstName,0,-1,래븐클라우드 경비병
 ct_comm_sc_ar_3,utc,FirstName,0,-1,스톰크로우 궁수
 ct_comm_sc_cm_3,utc,FirstName,0,-1,스톰크로우 지휘관
-ct_comm_sc_sr_3,utc,FirstName,0,-1,스톰크로우 소서러
+ct_comm_sc_sr_3,utc,FirstName,0,-1,스톰크로우 요술사
 ct_comm_sc_st_3,utc,FirstName,0,-1,스톰크로우 병사
 ct_comm_sg_zb_1,utc,Description,0,12826,"시체들은 시신을 통해 부활하고, 좀비들은 정신이 없는 죽은 사람들이며, 그들의 부패하는 장내의 굶주림의 고통에 만족하려고 합니다."
 ct_comm_sg_zb_1,utc,FirstName,0,12827,좀비
@@ -87,7 +87,7 @@ ct_comm_sh_dkwr,utc,FirstName,0,-1,드워프 항만 일꾼
 ct_comm_sh_gdrc,utc,FirstName,0,-1,제국 병사
 ct_comm_sh_ghgd,utc,FirstName,0,-1,가라크 제국 경비병
 ct_comm_sh_guar,utc,FirstName,0,-1,샤라칸 제국 경비병
-ct_comm_sh_prie,utc,FirstName,0,-1,샤라칸 사제
+ct_comm_sh_prie,utc,FirstName,0,-1,샤라칸 성직자
 ct_comm_sh_stg01,utc,FirstName,0,-1,제국 경비병
 ct_comm_sh_stg02,utc,FirstName,0,-1,제국 경비병
 ct_comm_sh_stg1,utc,FirstName,0,-1,제국 경비병
@@ -117,13 +117,13 @@ ct_nw_oldwoman1,utc,FirstName,0,12672,노파
 ct_nw_oldwoman2,utc,FirstName,0,12672,노파
 ct_op_hench_bruk,utc,FirstName,0,-1,브루쿠스
 ct_op_hench_bruk,utc,LastName,0,-1,블러드햄어
-ct_op_hench_kara,utc,Description,0,-1,"다이네시 왕조의 마지막인 이 검은 머리의 엘프 아름다움은 죽은 사람들과 대화할 수 있는 능력을 지니고 있습니다. 이 능력은 아카나 여신으로부터 주어진 선물이지만, 사제들은 이를 질투의 대상으로 여기며 욕되게 여기고 있습니다. 이제 그녀는 황제의 봉사자로, 그의 그림자 속에서 안전을 찾고 있습니다."
+ct_op_hench_kara,utc,Description,0,-1,"다이네시 왕조의 마지막인 이 검은 머리의 엘프 아름다움은 죽은 사람들과 대화할 수 있는 능력을 지니고 있습니다. 이 능력은 아카나 여신으로부터 주어진 선물이지만, 성직자들은 이를 질투의 대상으로 여기며 욕되게 여기고 있습니다. 이제 그녀는 황제의 봉사자로, 그의 그림자 속에서 안전을 찾고 있습니다."
 ct_op_hench_kara,utc,FirstName,0,-1,카라
 ct_op_hench_kara,utc,LastName,0,-1,다이네시
-ct_op_hench_lyen,utc,Description,0,-1,"조용하고 충직한 이 음울한 젊은 레인저는 어깨에 정체 모를 짐을 지고 있습니다. 그림자 속에서 황제의 눈과 귀 역할을 하며, 놓치는 것은 거의 없고 입 밖에 내는 것은 더 적습니다."
+ct_op_hench_lyen,utc,Description,0,-1,"조용하고 충직한 이 음울한 젊은 순찰자는 어깨에 정체 모를 짐을 지고 있습니다. 그림자 속에서 황제의 눈과 귀 역할을 하며, 놓치는 것은 거의 없고 입 밖에 내는 것은 더 적습니다."
 ct_op_hench_lyen,utc,FirstName,0,-1,리엔
 ct_op_hench_lyen,utc,LastName,0,-1,실버블레이드
-ct_op_hench_mark,utc,Description,0,-1,"엄준한 용모와 굳건한 심장을 지닌 이 전직 노예는 이제 황제의 비밀 현장 사령관으로 복무하고 있습니다. 전사이자 외교관이며 복수의 요원인 그는, 제국 그 자체로부터 제국을 보호합니다."
+ct_op_hench_mark,utc,Description,0,-1,"엄준한 용모와 굳건한 심장을 지닌 이 전직 노예는 이제 황제의 비밀 현장 사령관으로 복무하고 있습니다. 전사가자 외교관이며 복수의 요원인 그는, 제국 그 자체로부터 제국을 보호합니다."
 ct_op_hench_mark,utc,FirstName,0,-1,마키오스
 ct_op_hench_mark,utc,LastName,0,-1,올브라이트
 ct_op_hench_tari,utc,Description,0,-1,"모든 항구에서 도박 빚을 남기고 있는 이 강박적인 작은 반아이가 황제에게 봉사할 시간이 있다는 것은 놀라운 일이지만, 신뢰는 테이블에서의 승리와 비밀을 통해 얻어진다. 아마 그는 자신보다 더 좋은 도박꾼일지도 모른다."
@@ -229,18 +229,18 @@ ct_zomb_cf_foll,utc,FirstName,0,-1,크림슨 추종자 시체
 ct_zomb_sh_gdrc,utc,FirstName,0,-1,제국 병사의 시체
 gemli,utc,FirstName,0,-1,제밀리
 gemli,utc,LastName,0,-1,컨퍼런스
-hench_bruk,utc,Description,0,-1,"조용하고 충직한 이 음울한 젊은 레인저는 어깨에 정체 모를 짐을 지고 있습니다. 그림자 속에서 황제의 눈과 귀 역할을 하며, 놓치는 것은 거의 없고 입 밖에 내는 것은 더 적습니다."
+hench_bruk,utc,Description,0,-1,"조용하고 충직한 이 음울한 젊은 순찰자는 어깨에 정체 모를 짐을 지고 있습니다. 그림자 속에서 황제의 눈과 귀 역할을 하며, 놓치는 것은 거의 없고 입 밖에 내는 것은 더 적습니다."
 hench_bruk,utc,FirstName,0,-1,리엔
 hench_bruk,utc,LastName,0,-1,실버블레이드
-hench_kara,utc,Description,0,-1,"다이네시 왕조의 마지막인 이 검은 머리의 엘프 아름다움은 죽은 사람들과 대화할 수 있는 능력을 지니고 있습니다. 이 능력은 아카나 여신으로부터 주어진 선물이지만, 사제들은 이를 질투의 대상으로 여기며 욕되게 여기고 있습니다. 이제 그녀는 황제의 봉사자로, 그의 그림자 속에서 안전을 찾고 있습니다."
+hench_kara,utc,Description,0,-1,"다이네시 왕조의 마지막인 이 검은 머리의 엘프 아름다움은 죽은 사람들과 대화할 수 있는 능력을 지니고 있습니다. 이 능력은 아카나 여신으로부터 주어진 선물이지만, 성직자들은 이를 질투의 대상으로 여기며 욕되게 여기고 있습니다. 이제 그녀는 황제의 봉사자로, 그의 그림자 속에서 안전을 찾고 있습니다."
 hench_kara,utc,FirstName,0,-1,카라
 hench_kara,utc,LastName,0,-1,다이네시
 hench_ksha,utc,FirstName,0,-1,그림자 영혼
 hench_ksha_003,utc,FirstName,0,-1,그림자 영혼 (3레벨)
-hench_lyen,utc,Description,0,-1,"엄준한 용모와 굳건한 심장을 지닌 이 전직 노예는 이제 황제의 비밀 현장 사령관으로 복무하고 있습니다. 전사이자 외교관이며 복수의 요원인 그는, 제국 그 자체로부터 제국을 보호합니다."
+hench_lyen,utc,Description,0,-1,"엄준한 용모와 굳건한 심장을 지닌 이 전직 노예는 이제 황제의 비밀 현장 사령관으로 복무하고 있습니다. 전사가자 외교관이며 복수의 요원인 그는, 제국 그 자체로부터 제국을 보호합니다."
 hench_lyen,utc,FirstName,0,-1,마키오스
 hench_lyen,utc,LastName,0,-1,올브라이트
-hench_mark,utc,Description,0,-1,"엄준한 용모와 굳건한 심장을 지닌 이 전직 노예는 이제 황제의 비밀 현장 사령관으로 복무하고 있습니다. 전사이자 외교관이며 복수의 요원인 그는, 제국 그 자체로부터 제국을 보호합니다."
+hench_mark,utc,Description,0,-1,"엄준한 용모와 굳건한 심장을 지닌 이 전직 노예는 이제 황제의 비밀 현장 사령관으로 복무하고 있습니다. 전사가자 외교관이며 복수의 요원인 그는, 제국 그 자체로부터 제국을 보호합니다."
 hench_mark,utc,FirstName,0,-1,마키오스
 hench_mark,utc,LastName,0,-1,올브라이트
 hench_tari,utc,Description,0,-1,"모든 항구에서 도박 빚을 남기고 있는 이 강박적인 작은 반아이가 황제에게 봉사할 시간이 있다는 것은 놀라운 일이지만, 신뢰는 테이블에서의 승리와 비밀을 통해 얻어진다. 아마 그는 자신보다 더 좋은 도박꾼일지도 모른다."

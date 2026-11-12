@@ -150,7 +150,7 @@ ccaves,git,WaypointList/4/LocalizedName,0,14817,이빨 열쇠 길잡이
 ccaves,git,WaypointList/5/LocalizedName,0,14817,구리 키 웨이포인트
 ccaves,git,WaypointList/6/LocalizedName,0,14817,은 열쇠 웨이포인트
 ccaves,git,WaypointList/7/LocalizedName,0,14817,불의 원소 정령 웨이포인트
-ecumenicaltemple,git,Creature List/0/Description,0,-1,라파엘은 상인 신 칼라히의 사제입니다.
+ecumenicaltemple,git,Creature List/0/Description,0,-1,라파엘은 상인 신 칼라히의 성직자입니다.
 ecumenicaltemple,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,13798,금판금
 ecumenicaltemple,git,Creature List/0/FirstName,0,-1,라파엘
 ecumenicaltemple,git,Creature List/0/LastName,0,-1,레오날로멘
@@ -187,8 +187,8 @@ ecumenicaltemple,git,Placeable List/9/LocName,0,14734,쿨르 의 성당
 ecumenicaltemple,git,StoreList/0/LocName,0,-1,신전 상점
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,13809,"오래전에 멸종된 생물의 뼈로 만들어진 이 종류의 갑옷은 드물고 많은 사람들이 찾는다. 소문에 따르면, 발라타 북쪽에서 최근에 이러한 생물의 몇몇 골격이 발견되었다."
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,67761,"칼라히 신은 자기 추종자들에게 다른 사람과 대화할 때 ""꿀 혀""가 필요하다고 기대한다. 자연스럽게 그렇게 하지 못하는 사람들을 위해 항상 마법적인 증진이 있다. 많은 사람들은 이러한 증진을 단순한 자아 만족이라고 생각하지만, 많은 상인들은 그러한 도움으로 자기들의 이익을 두 배로 늘렸다고 맹세한다."
-ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/28/DescIdentified,0,67769,수히리 자신 은 그 들 의 가장 위대한 사제인 셀두나 라이 가 그녀의 명예 를 위해 일주일 동안 목회 한 때 이 벨트를 축복 한 것 이라고 한다. 수히리의 추종자들은 이 벨트를 죽은 자 들 과 싸운 전쟁 에서 계속 사용 한다.
-ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/29/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
+ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/28/DescIdentified,0,67769,수히리 자신 은 그 들 의 가장 위대한 성직자인 셀두나 라이 가 그녀의 명예 를 위해 일주일 동안 목회 한 때 이 벨트를 축복 한 것 이라고 한다. 수히리의 추종자들은 이 벨트를 죽은 자 들 과 싸운 전쟁 에서 계속 사용 한다.
+ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/29/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 성직자들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 성직자에 따라 크게 달라집니다."
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/33/DescIdentified,0,56655,9명의 신들의 신전은 광범위한 신념을 가진 추종자들이 사용할 수 있는 다양한 망토를 만들기 위해 시간과 에너지를 들였습니다.
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/34/DescIdentified,0,56653,9명의 신들의 신전은 광범위한 신념을 가진 추종자들이 사용할 수 있는 다양한 망토를 만들기 위해 시간과 에너지를 들였습니다.
 ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/35/DescIdentified,0,56651,9명의 신들의 신전은 광범위한 신념을 가진 추종자들이 사용할 수 있는 다양한 망토를 만들기 위해 시간과 에너지를 들였습니다.
@@ -230,16 +230,16 @@ emptybtlthree,git,StoreList/0/StoreList/0/ItemList/30/DescIdentified,0,40655,이
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/31/DescIdentified,0,12867,"수히리 태양 여신의 성직자들이 제작한 이 방패들은 태양의 황금 불꽃으로 끊임없이 빛나고 있다. 제작자의 기술과 의도에 따라, 일부 방패들은 더 강력한 힘을 지니고 있다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/32/DescIdentified,0,48287,"이 소박한 밧줄 허리띠는 사람의 허리에 두르면 맨손 전투 능력을 향상시켜 줍니다.
 
-빛나는 달 수도회가 라이벌 수도회의 공격을 받았을 때, 일부 수련생들은 평소보다 훨씬 빠르게 실력을 키워야 했습니다. 이 허리띠 덕분에 어린 수도승들은 놀라운 속도와 기예로 자신들의 수도회를 방어할 수 있었습니다."
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/33/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
+빛나는 달 수도회가 라이벌 수도회의 공격을 받았을 때, 일부 수련생들은 평소보다 훨씬 빠르게 실력을 키워야 했습니다. 이 허리띠 덕분에 어린 수도사들은 놀라운 속도와 기예로 자신들의 수도회를 방어할 수 있었습니다."
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/33/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 성직자들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 성직자에 따라 크게 달라집니다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/34/DescIdentified,0,67472,수히리의 추종자인 수도사들은 태양만큼 지속적이거나 위험한 것은 없다는 것을 알고 있다. 이 신발은 일출 교단 내에서 다양한 기술을 마스터한 자들에게 보상으로 수여된다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/35/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/36/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/37/DescIdentified,0,67588,"국경 경호원 들 은 전통적 으로 직무 에서 이 옷 을 착용 하고 있다. 최근 몇 년 동안 국경 경지 들 은 더욱 위험 해지고 있으며, 발라타 북부 지역 으로 진출 하기 의 의 의지가 적어지고 있다."
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/38/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 팔라딘들과 자주 동행한다.
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/39/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 팔라딘들과 자주 동행한다.
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/38/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 성기사들과 자주 동행한다.
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/39/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 성기사들과 자주 동행한다.
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/40/DescIdentified,0,-1,이 의복의 어두운 땅색은 마법의 보호 성질로 강화되어 있습니다.
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/40/LocalizedName,0,12918,대지 마법사 가운
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/40/LocalizedName,0,12918,대지 마법사가운
 emptybtlthree,git,TriggerList/0/LocalizedName,0,-1,"OS 단문, 고정"
 emptybtlthree,git,WaypointList/0/LocalizedName,0,14814,지도 참고: 에메랄드 힐스
 emptybtlthree,git,WaypointList/0/MapNote,0,14815,에메랄드 산지
@@ -677,8 +677,8 @@ q2b11,git,StoreList/0/StoreList/0/ItemList/15/DescIdentified,0,48317,텀블러�
 q2b11,git,StoreList/0/StoreList/0/ItemList/15/LocalizedName,0,48318,텀블러들
 q2b11,git,StoreList/0/StoreList/0/ItemList/16/DescIdentified,0,48317,텀블러들은 부유하고 강력한 귀족과 상인들을 실각시키기 위해 협력했던 암살자 집단이었다. 페니아스 4세 황제는 왕실로부터 거의 완전히 독립해 버린 발라타의 여러 지방을 다시 통제하기 위해 이들을 이용했다.
 q2b11,git,StoreList/0/StoreList/0/ItemList/16/LocalizedName,0,48316,하급 텀블러
-q2b11,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 팔라딘들과 자주 동행한다.
-q2b11,git,StoreList/0/StoreList/0/ItemList/18/DescIdentified,0,13369,"나이 든 사제 여인 밀라도린 은 나 와 그 동료 들 에게 나이 가 매우 빠르게 영향을 미치고 있으며, 그 들 의 손 들 을 흔들고 사제 의 직무 를 수행 하는 데 방해 가 되는 것 을 알게 되었다. 리코스 의 축복 으로, 밀라도린 은 그들의 손 들 을 안정 시키고 근육 통제 를 강화 하는 마법 의 장갑 을 만들었다. 몇 년 후, 젊은 리코소니아 인 한 사람 은 장갑 을 사용 한 혐의 로 잡혔습니다."
+q2b11,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 성기사들과 자주 동행한다.
+q2b11,git,StoreList/0/StoreList/0/ItemList/18/DescIdentified,0,13369,"나이 든 성직자 여인 밀라도린 은 나 와 그 동료 들 에게 나이 가 매우 빠르게 영향을 미치고 있으며, 그 들 의 손 들 을 흔들고 성직자의 직무 를 수행 하는 데 방해 가 되는 것 을 알게 되었다. 리코스 의 축복 으로, 밀라도린 은 그들의 손 들 을 안정 시키고 근육 통제 를 강화 하는 마법 의 장갑 을 만들었다. 몇 년 후, 젊은 리코소니아 인 한 사람 은 장갑 을 사용 한 혐의 로 잡혔습니다."
 q2b11,git,StoreList/0/StoreList/1/ItemList/38/DescIdentified,0,13925,"황제의 암살자들의 관심에서 벗어나기 위해 고군인 월리트 텐트는 요정인 카흐나하다로 도망쳤다. 평화와 아름다움은 이 땅에서 다른 모든 것 이상으로 높여져 있기 때문에 황제의 암살자들은 들어갈 수 없었다. 월리트가 떠나기로 결정했을 때, 요리는 그에게 전례 없는 선물을 주었다. 요정인 은 아름다움의 무기였지만 여전히 무기였다. 요정인 월리트에 준 요정인은 요정들이 세계에서 더 많이 살았고 큰 사람들에게 전쟁을 벌인 시대였다고 말했다."
 q2b11,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,13446,이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며 발라타의 동굴에서 자주 사용됩니다.
 q2b11,git,StoreList/0/StoreList/3/ItemList/6/DescIdentified,0,48923,"이 반지는 실제로 마법으로 만든 가죽 끈으로, 손가락을 감싸는 형태입니다. 가죽은 미묘하게 살색으로 가공되어 있어 착용할 때 쉽게 눈에 띄지 않습니다. 마찬가지로, 이 반지는 착용자가 배경에 자연스럽게 녹아들어 감지되지 않게 합니다."
@@ -694,8 +694,8 @@ q2b11,git,StoreList/1/StoreList/0/ItemList/15/DescIdentified,0,48317,텀블러�
 q2b11,git,StoreList/1/StoreList/0/ItemList/15/LocalizedName,0,48316,하급 텀블러
 q2b11,git,StoreList/1/StoreList/0/ItemList/16/DescIdentified,0,48317,텀블러들은 부유하고 강력한 귀족과 상인들을 실각시키기 위해 협력했던 암살자 집단이었다. 페니아스 4세 황제는 왕실로부터 거의 완전히 독립해 버린 발라타의 여러 지방을 다시 통제하기 위해 이들을 이용했다.
 q2b11,git,StoreList/1/StoreList/0/ItemList/16/LocalizedName,0,48318,텀블러들
-q2b11,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 팔라딘들과 자주 동행한다.
-q2b11,git,StoreList/1/StoreList/0/ItemList/18/DescIdentified,0,13369,"나이 든 사제 여인 밀라도린 은 나 와 그 동료 들 에게 나이 가 매우 빠르게 영향을 미치고 있으며, 그 들 의 손 들 을 흔들고 사제 의 직무 를 수행 하는 데 방해 가 되는 것 을 알게 되었다. 리코스 의 축복 으로, 밀라도린 은 그들의 손 들 을 안정 시키고 근육 통제 를 강화 하는 마법 의 장갑 을 만들었다. 몇 년 후, 젊은 리코소니아 인 한 사람 은 장갑 을 사용 한 혐의 로 잡혔습니다."
+q2b11,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,67487,성 솔라르의 제자들로도 불리는 황색 장미 수도회는 동료에게는 헌신적인 충성을 바치고 적에게는 철저한 파괴를 선사하는 것으로 유명하다. 이 수도회의 수도사들은 종주사의 기사들에게 신뢰할 수 있는 안내자이자 동반자로서 제이스의 성기사들과 자주 동행한다.
+q2b11,git,StoreList/1/StoreList/0/ItemList/18/DescIdentified,0,13369,"나이 든 성직자 여인 밀라도린 은 나 와 그 동료 들 에게 나이 가 매우 빠르게 영향을 미치고 있으며, 그 들 의 손 들 을 흔들고 성직자의 직무 를 수행 하는 데 방해 가 되는 것 을 알게 되었다. 리코스 의 축복 으로, 밀라도린 은 그들의 손 들 을 안정 시키고 근육 통제 를 강화 하는 마법 의 장갑 을 만들었다. 몇 년 후, 젊은 리코소니아 인 한 사람 은 장갑 을 사용 한 혐의 로 잡혔습니다."
 q2b11,git,StoreList/1/StoreList/1/ItemList/39/DescIdentified,0,13925,"황제의 암살자들의 관심에서 벗어나기 위해 고군인 월리트 텐트는 요정인 카흐나하다로 도망쳤다. 평화와 아름다움은 이 땅에서 다른 모든 것 이상으로 높여져 있기 때문에 황제의 암살자들은 들어갈 수 없었다. 월리트가 떠나기로 결정했을 때, 요리는 그에게 전례 없는 선물을 주었다. 요정인 은 아름다움의 무기였지만 여전히 무기였다. 요정인 월리트에 준 요정인은 요정들이 세계에서 더 많이 살았고 큰 사람들에게 전쟁을 벌인 시대였다고 말했다."
 q2b11,git,StoreList/1/StoreList/2/ItemList/3/DescIdentified,0,13446,이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며 발라타의 동굴에서 자주 사용됩니다.
 q2b11,git,StoreList/1/StoreList/3/ItemList/6/DescIdentified,0,48923,"이 반지는 실제로 마법으로 만든 가죽 끈으로, 손가락을 감싸는 형태입니다. 가죽은 미묘하게 살색으로 가공되어 있어 착용할 때 쉽게 눈에 띄지 않습니다. 마찬가지로, 이 반지는 착용자가 배경에 자연스럽게 녹아들어 감지되지 않게 합니다."
@@ -717,9 +717,9 @@ q2b14a,git,Creature List/14/Description,0,-1,고구려의 평범한 사람들은
 q2b14a,git,Creature List/14/FirstName,0,12423,평민
 q2b14a,git,Creature List/15/Description,0,-1,이 사람은 구석의 평범한 사람들 중 한 명입니다.
 q2b14a,git,Creature List/15/FirstName,0,12423,평민
-q2b14a,git,Creature List/2/Description,0,-1,이 드워프 바드는 거만할 정도로 당당한 태도를 취하고 있다.
+q2b14a,git,Creature List/2/Description,0,-1,이 드워프 음유시인은 거만할 정도로 당당한 태도를 취하고 있다.
 q2b14a,git,Creature List/2/FirstName,0,-1,커티스 경
-q2b14a,git,Creature List/2/LastName,0,-1,바드
+q2b14a,git,Creature List/2/LastName,0,-1,음유시인
 q2b14a,git,Creature List/3/Description,0,-1,여관 여종업원입니다.
 q2b14a,git,Creature List/3/FirstName,0,-1,바텐더
 q2b14a,git,Creature List/4/Description,0,-1,여관 여종업원입니다.
@@ -772,7 +772,7 @@ q2b9,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,40655,이 투구�
 q2b9,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,56605,"5년 전쯤에 카레 산악 마을에서 비정상적인 전통이 생겨났는데, 마을 주민들은 두 개의 줄이 형성되어 서로 맞대편으로 총을 쏘아 올리는데, 다른 사람이 지휘를 받으며 총을 쏘아 올릴 수 있었다. 타격을 받지 않은 사람은 남았지만, 다른 사람들은 모두 뒤로 물러나서서, 한 사람이 일어서게 될 때까지 마을로 가는 여행자들은 게임을 ""보고하는 것은 멋진 재미가 있지만, 참여하기 위해 당신은 멍청한 바보가 되어야 한다""라고 보고했다. 몇 년 후 몇 가지 불행한 사망 후 마을 주민들은 다시 꽉 차있는 목표물을 쏘아 올렸다."
 q2b9,git,StoreList/0/StoreList/0/ItemList/15/DescIdentified,0,56605,"5년 전쯤에 카레 산악 마을에서 비정상적인 전통이 생겨났는데, 마을 주민들은 두 개의 줄이 형성되어 서로 맞대편으로 총을 쏘아 올리는데, 다른 사람이 지휘를 받으며 총을 쏘아 올릴 수 있었다. 타격을 받지 않은 사람은 남았지만, 다른 사람들은 모두 뒤로 물러나서서, 한 사람이 일어서게 될 때까지 마을로 가는 여행자들은 게임을 ""보고하는 것은 멋진 재미가 있지만, 참여하기 위해 당신은 멍청한 바보가 되어야 한다""라고 보고했다. 몇 년 후 몇 가지 불행한 사망 후 마을 주민들은 다시 꽉 차있는 목표물을 쏘아 올렸다."
 q2b9,git,StoreList/0/StoreList/0/ItemList/16/DescIdentified,0,13336,인간과 엘프 사이에는 여러 차례의 전쟁이 일어났습니다. 인간들이 실제로 엘프들을 부츠로 만들어왔다는 사실을 발견한 이후로요. 엘프들은 마침내 인간들에게 정상적인 가죽으로 부츠를 제대로 만들 수 있는 방법을 가르쳤다고 믿습니다. 하지만 어떤 인간들의 어리석음을 과소평가해서는 안 됩니다.
-q2b9,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
+q2b9,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 성직자들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 성직자에 따라 크게 달라집니다."
 q2b9,git,StoreList/0/StoreList/0/ItemList/18/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 q2b9,git,StoreList/0/StoreList/0/ItemList/19/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 q2b9,git,StoreList/0/StoreList/0/ItemList/20/DescIdentified,0,67782,"이 마법 물품들은 수천 년 동안 존재해 왔지만, 그 인기는 결코 줄어들지 않는 것 같다. 최근에, 디리시의 모험가들 한 팀은 이와 같은 마법 물품들로 가득 찬 거대한 보물창고를 발견했다. 마법 장갑들의 갑작스러운 증가에도 불구하고, 그 가치는 줄지 않고, 전국의 모든 모험가들이 이 유용한 유물들의 도움을 갈구하고 있다."
@@ -810,7 +810,7 @@ q2c,git,Creature List/11/LastName,0,-1,신성
 q2c,git,Creature List/12/Description,0,-1,페란 페어핸드는 군대의 열성적인 길드마스터입니다. 그는 자신의 임무를 매우 진지하게 받아들입니다.
 q2c,git,Creature List/12/FirstName,0,-1,페란
 q2c,git,Creature List/12/LastName,0,-1,공평한 손
-q2c,git,Creature List/13/Description,0,-1,"딘슈알 라벨리스는 사제 길드를 이끄는 지옥불 같은 설교자이다. 심판의 신이자 전투의 군주인 파로스의 사제로서, 딘슈알은 신전을 감독하고 자신의 ""신도들""에게 엄청난 영향력을 행사한다."
+q2c,git,Creature List/13/Description,0,-1,"딘슈알 라벨리스는 성직자 길드를 이끄는 지옥불 같은 설교자이다. 심판의 신이자 전투의 군주인 파로스의 성직자로서, 딘슈알은 신전을 감독하고 자신의 ""신도들""에게 엄청난 영향력을 행사한다."
 q2c,git,Creature List/13/Equip_ItemList/0/LocalizedName,0,13828,다인슈알의 갑옷
 q2c,git,Creature List/13/FirstName,0,-1,다이노스
 q2c,git,Creature List/13/LastName,0,-1,라벨리
@@ -886,15 +886,15 @@ q2c013,git,Creature List/0/FirstName,0,-1,웬나
 q2c013,git,Placeable List/0/Description,0,84167,당신은 거대한 석조 테두리를 가진 거울의 반짝이는 표면에 비친 자신의 모습을 바라봅니다.
 q2c013,git,StoreList/0/LocName,0,14807,마지 스토어
 q2c013,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,40663,"이 스레임 의 가장자리 를 둘러싸고 튼튼 한 밧줄 을 엮어 놓으며, 그 밧줄 은 착용 하는 사람 의 전두 에 얹혀 있는 작은 보석 을 가지고 있다."
-q2c013,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
-q2c013,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
+q2c013,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 성직자들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 성직자에 따라 크게 달라집니다."
+q2c013,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 성직자들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 성직자에 따라 크게 달라집니다."
 q2c013,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 q2c013,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,13329,전설에 따르면 마법사의 시대가 끝나 갈 무렵 발라라타의 초대 황제는 희생자들이 쓰는 주문 대부분에 저항하는 듯한 사냥꾼들을 부렸다. 통치가 끝날 즈음 황제는 발라라타 전역의 마법사 대부분을 몰살시켰다. 오늘날에도 힘 있는 마법사는 드물다.
 q2c013,git,StoreList/0/StoreList/0/ItemList/8/DescIdentified,0,67729,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
 q2c013,git,StoreList/0/StoreList/0/ItemList/8/Description,0,-1,이건 마법의 옷이야
 q2c013,git,StoreList/0/StoreList/0/ItemList/9/DescIdentified,0,67731,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
 q2c013,git,StoreList/0/StoreList/0/ItemList/9/Description,0,-1,이건 마법의 옷이야
-q2c013,git,StoreList/0/StoreList/2/ItemList/111/DescIdentified,0,13424,엉터리 도둑들과 비겁한 팔라딘들의 지팡이인 이 물약들은 발라타 전역에서 널리 알려져 있다.
+q2c013,git,StoreList/0/StoreList/2/ItemList/111/DescIdentified,0,13424,엉터리 도둑들과 비겁한 성기사들의 지팡이인 이 물약들은 발라타 전역에서 널리 알려져 있다.
 q2c013,git,StoreList/0/StoreList/2/ItemList/112/DescIdentified,0,13446,이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며 발라타의 동굴에서 자주 사용됩니다.
 q2c013,git,StoreList/0/StoreList/3/ItemList/20/DescIdentified,0,58589,발라타에서는 마법봉과 막대의 마력을 지속적으로 충전해야 했기 때문에 물량이 부족해졌습니다. 이 물건들을 충전해 줄 강력한 마법사가 턱없이 부족하기 때문입니다.
 q2c013,git,StoreList/0/StoreList/3/ItemList/21/DescIdentified,0,13464,"라빈의 젊은 레시노는 끊임없이 그의 마음을 공격하는 목소리들 때문에 고통받았다. 그의 지역 교회에 간청하여 자신을 죽이기를 바란다. 교회는 그의 고통을 이해했지만, 특정한 악마적 영향을 식별할 수 없었다. 그래서 교회는 그의 생각을 깨끗하게 할 것으로 기대한 반지를 만들려고 노력했다. 하지만 반지가 그의 감각을 강화하긴 했지만, 목소리는 해결되지 않았고, 끝내 레시노는 스스로 목숨을 끊었다."
@@ -905,15 +905,15 @@ q2c013,git,StoreList/0/StoreList/3/ItemList/25/DescIdentified,0,40089,"이런 �
 q2c013,git,StoreList/0/StoreList/3/ItemList/26/DescIdentified,0,40089,"이런 반지는 몇 개만 존재하고, 거의 모든 반지는 매우 강력한 마법사들의 소유이다. 그러한 반지를 소유하는 것은 지위의 상징이다."
 q2c013,git,StoreList/1/LocName,0,14807,마지 스토어
 q2c013,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,40663,"이 스레임 의 가장자리 를 둘러싸고 튼튼 한 밧줄 을 엮어 놓으며, 그 밧줄 은 착용 하는 사람 의 전두 에 얹혀 있는 작은 보석 을 가지고 있다."
-q2c013,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
-q2c013,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
+q2c013,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 성직자들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 성직자에 따라 크게 달라집니다."
+q2c013,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 성직자들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 성직자에 따라 크게 달라집니다."
 q2c013,git,StoreList/1/StoreList/0/ItemList/13/DescIdentified,0,13349,"마법사 시대 의 유물 들 이 있는데, 이 브래저 들 은 여전히 대부분의 모험가 들 의 일반적인 장비 에서 발견 될 수 있습니다. 모험가 를 더 빠르고 더 힘들게 하는 모든 것 은 필수품 이다."
 q2c013,git,StoreList/1/StoreList/0/ItemList/14/DescIdentified,0,13329,전설에 따르면 마법사의 시대가 끝나 갈 무렵 발라라타의 초대 황제는 희생자들이 쓰는 주문 대부분에 저항하는 듯한 사냥꾼들을 부렸다. 통치가 끝날 즈음 황제는 발라라타 전역의 마법사 대부분을 몰살시켰다. 오늘날에도 힘 있는 마법사는 드물다.
 q2c013,git,StoreList/1/StoreList/0/ItemList/8/DescIdentified,0,67731,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
 q2c013,git,StoreList/1/StoreList/0/ItemList/8/Description,0,-1,이건 마법의 옷이야
 q2c013,git,StoreList/1/StoreList/0/ItemList/9/DescIdentified,0,67729,마법사의 시대에서 남아있던 이 옷은 견고하지만 꽤 흔합니다. 오래 지속되며 거의 소모되지 않습니다.
 q2c013,git,StoreList/1/StoreList/0/ItemList/9/Description,0,-1,이건 마법의 옷이야
-q2c013,git,StoreList/1/StoreList/2/ItemList/113/DescIdentified,0,13424,엉터리 도둑들과 비겁한 팔라딘들의 지팡이인 이 물약들은 발라타 전역에서 널리 알려져 있다.
+q2c013,git,StoreList/1/StoreList/2/ItemList/113/DescIdentified,0,13424,엉터리 도둑들과 비겁한 성기사들의 지팡이인 이 물약들은 발라타 전역에서 널리 알려져 있다.
 q2c013,git,StoreList/1/StoreList/2/ItemList/114/DescIdentified,0,13446,이 약은 모험가들과 학자들 사이에서 동등한 수요를 받고 있으며 발라타의 동굴에서 자주 사용됩니다.
 q2c013,git,StoreList/1/StoreList/3/ItemList/20/DescIdentified,0,13464,"라빈의 젊은 레시노는 끊임없이 그의 마음을 공격하는 목소리들 때문에 고통받았다. 그의 지역 교회에 간청하여 자신을 죽이기를 바란다. 교회는 그의 고통을 이해했지만, 특정한 악마적 영향을 식별할 수 없었다. 그래서 교회는 그의 생각을 깨끗하게 할 것으로 기대한 반지를 만들려고 노력했다. 하지만 반지가 그의 감각을 강화하긴 했지만, 목소리는 해결되지 않았고, 끝내 레시노는 스스로 목숨을 끊었다."
 q2c013,git,StoreList/1/StoreList/3/ItemList/21/DescIdentified,0,13464,"라빈의 젊은 레시노는 끊임없이 그의 마음을 공격하는 목소리들 때문에 고통받았다. 그의 지역 교회에 간청하여 자신을 죽이기를 바란다. 교회는 그의 고통을 이해했지만, 특정한 악마적 영향을 식별할 수 없었다. 그래서 교회는 그의 생각을 깨끗하게 할 것으로 기대한 반지를 만들려고 노력했다. 하지만 반지가 그의 감각을 강화하긴 했지만, 목소리는 해결되지 않았고, 끝내 레시노는 스스로 목숨을 끊었다."
@@ -972,7 +972,7 @@ q2c25,git,Creature List/0/LastName,0,-1,램프 라이트
 q2c25,git,Creature List/1/Description,0,-1,세라 블랙핸드는 땅주 소유자 협회의 협회장입니다.
 q2c25,git,Creature List/1/FirstName,0,-1,세라
 q2c25,git,Creature List/1/LastName,0,-1,블랙핸드
-q2c25,git,Creature List/2/Description,0,-1,스탠은 반 오크의 전직 모험가입니다. 그는 모험가들에게 가장 잘하는 일을 위해 돈을 지불하는 고용 사업을 운영하고 있습니다. 그는 또한 트레이드들의 길드 마스터입니다.
+q2c25,git,Creature List/2/Description,0,-1,스탠은 하프오크의 전직 모험가입니다. 그는 모험가들에게 가장 잘하는 일을 위해 돈을 지불하는 고용 사업을 운영하고 있습니다. 그는 또한 트레이드들의 길드 마스터입니다.
 q2c25,git,Creature List/2/FirstName,0,-1,스탠
 q2c25,git,Creature List/3/Description,0,-1,이 자는 요새 경비병 중 한 명이다.
 q2c25,git,Creature List/3/FirstName,0,-1,경비병
@@ -999,8 +999,8 @@ q2c25,git,WaypointList/10/LocalizedName,0,14814,군사 길드
 q2c25,git,WaypointList/10/MapNote,0,14815,군사 길드
 q2c25,git,WaypointList/11/LocalizedName,0,14814,상업
 q2c25,git,WaypointList/11/MapNote,0,14815,상업
-q2c25,git,WaypointList/12/LocalizedName,0,14814,지도 메모: 사제 길드
-q2c25,git,WaypointList/12/MapNote,0,14815,사제 길드 사무실
+q2c25,git,WaypointList/12/LocalizedName,0,14814,지도 메모: 성직자 길드
+q2c25,git,WaypointList/12/MapNote,0,14815,성직자 길드 사무실
 q2c25,git,WaypointList/13/LocalizedName,0,14814,지도 설명: 마법사 협회
 q2c25,git,WaypointList/13/MapNote,0,14815,마법사 길드 사무실
 q2c25,git,WaypointList/14/LocalizedName,0,14814,지도 표: 도둑들의 모임
@@ -1138,7 +1138,7 @@ q3k3,git,Door List/0/LocName,0,5349,문
 q3k3,git,Door List/1/LocName,0,5349,문
 q3k3,git,Placeable List/0/ItemList/3/LocalizedName,0,62349,수히리의 황금잔
 q3k3,git,Placeable List/2/ItemList/0/DescIdentified,0,67773,"로저 델포스 (Ronger Delphos) 는 성공적 인 상인으로서 도둑 반대 협회를 결성하기 위해 보안 전문가가 되기 위하여 돈을 지불했다. 경비자들은 사람 포박 마법으로 막대기를 사용하도록 훈련받았으며, 이 수사 조치를 견제하기 위해서 도둑협회가 마술 벨트를 구입하여 그러한 주문의 효과를 무효화시켰다. 두 교단 사이의 격상되는 전쟁에서 이러한 벨트 중 상당수는 보금점과 장비 매장에 진입하였다."
-q3k3,git,Placeable List/2/ItemList/1/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 사제들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 사제에 따라 크게 달라집니다."
+q3k3,git,Placeable List/2/ItemList/1/DescIdentified,0,13334,"상인과 여행의 신 칼라히의 성직자들이 축복을 내린 이 부츠는 가장 험난한 여정조차 더 쉽고 즐겁게 만들어 줍니다. 이는 착용자의 이동 속도를 높여주는 것이 아니라, 더 튼튼하게 만들고 고통에 대한 저항력을 높여주는 방식으로 이루어집니다. 이 부츠에는 여러 종류가 존재하며, 그 힘은 축복을 내린 성직자에 따라 크게 달라집니다."
 q3k3,git,SoundList/1/LocName,0,-1,일리시드 엘더 브레인
 q3k3,git,SoundList/2/LocName,0,-1,동굴 물방울 소리
 q3k3,git,TriggerList/1/LocalizedName,0,-1,"OS 단문, 고정"

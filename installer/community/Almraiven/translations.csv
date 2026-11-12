@@ -3,7 +3,7 @@ area,are,Name,0,알브라이벤 - 에메랄드 워드 - 러너스 엔드:
 area001,are,Name,0,알마라이벤 - 에메랄드 방어선 - 러너의 끝
 area002,are,Name,0,알마라이벤 - 독 워드 - 스트립: [블랙 샌즈]
 area003,are,Name,0,알브라이벤 - 메랄드 워드 - 빌라
-area004,are,Name,0,Almraiven - 트레이드 워드 - 하스쇼 라인: [영원 불타는 로그: 위층]
+area004,are,Name,0,Almraiven - 트레이드 워드 - 하스쇼 라인: [영원 불타는 도적: 위층]
 area005,are,Name,0,알마라이벤 - 부두 구역 - 로제틸 거리: [황혼 주점]
 area006,are,Name,0,알브라이벤 - 트레이드 워드 - 하스쇼 레인
 area007,are,Name,0,알마라이벤 - 에메랄드 워드 - 벤히의 익스프레스:
@@ -86,7 +86,7 @@ cotattrium,are,Name,0,알마라이벤 - 에메랄드 방비 - 벤히의 익스�
 cotirena,are,Name,0,알마라이벤 - 에메랄드 방비 - 벤히의 익스프레스: [생각의 방]
 cotwelcoming,are,Name,0,알마라이벤 - 에메랄드 방비 - 벤히의 익스프레스: [생각의 방]
 dockward,are,Name,0,알마레이벤 - 도크 방어구역 - 로세틸 거리
-ebl,are,Name,0,알브라이벤 - 트레이드 워드 - 하스쇼 레인: [영원 불타는 로그]
+ebl,are,Name,0,알브라이벤 - 트레이드 워드 - 하스쇼 레인: [영원 불타는 도적]
 home,are,Name,0,알마라이벤 - 엔클레이브 구역 - 룸 가: [집]
 htnew,are,Name,0,높은 탑
 kingscourt,are,Name,0,알마라이벤 - 엔클라브 수비병 - 킹스코트
@@ -159,11 +159,11 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 01_hench_re,dlg,EntryList/61/Text,0,"""네, 그건 합리적인 것 같다."""
 01_hench_re,dlg,EntryList/62/Text,0,"""도적 훈련의 특정 분야에서 훈련을 받고 싶으신가요?"""
 01_hench_re,dlg,EntryList/63/Text,0,"""네, 그건 합리적인 것 같다."""
-01_hench_re,dlg,EntryList/64/Text,0,"""레인저 훈련 중 특정 분야를 중점적으로 배우고 싶으십니까?"""
+01_hench_re,dlg,EntryList/64/Text,0,"""순찰자 훈련 중 특정 분야를 중점적으로 배우고 싶으십니까?"""
 01_hench_re,dlg,EntryList/65/Text,0,"""네, 그건 합리적인 것 같다."""
 01_hench_re,dlg,EntryList/66/Text,0,"""성기사 훈련의 특정 분야에서 훈련을 받기를 원하십니까?"""
 01_hench_re,dlg,EntryList/67/Text,0,"""네, 그건 합리적인 것 같다."""
-01_hench_re,dlg,EntryList/68/Text,0,"""몽크 수련의 특정 부분을 훈련받고 싶으십니까?"""
+01_hench_re,dlg,EntryList/68/Text,0,"""수도사 수련의 특정 부분을 훈련받고 싶으십니까?"""
 01_hench_re,dlg,EntryList/69/Text,0,"""네, 그건 합리적인 것 같다."""
 01_hench_re,dlg,EntryList/70/Text,0,전사 훈련 중 특정 분야를 연마하고 싶으신가요?
 01_hench_re,dlg,EntryList/71/Text,0,"""네, 그건 합리적인 것 같다."""
@@ -171,7 +171,7 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 01_hench_re,dlg,EntryList/73/Text,0,"""네, 그건 합리적인 것 같다."""
 01_hench_re,dlg,EntryList/74/Text,0,"""특정한 성직자 훈련 분야에 대해 훈련받을까요?"""
 01_hench_re,dlg,EntryList/75/Text,0,"""네, 그건 합리적인 것 같다."""
-01_hench_re,dlg,EntryList/76/Text,0,"""바드 훈련의 특정 분야에서 훈련을 받고 싶으신가요?"""
+01_hench_re,dlg,EntryList/76/Text,0,"""음유시인 훈련의 특정 분야에서 훈련을 받고 싶으신가요?"""
 01_hench_re,dlg,EntryList/77/Text,0,"""네, 그건 합리적인 것 같다."""
 01_hench_re,dlg,EntryList/78/Text,0,"""특정한 면에서 야만전사 훈련을 받기를 원하십니까?"""
 01_hench_re,dlg,EntryList/79/Text,0,"""<Deity>!"""
@@ -241,7 +241,7 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 01_hench_re,dlg,ReplyList/74/Text,0,"""제발장치 무기를 준비해 주세요""."
 01_hench_re,dlg,ReplyList/75/Text,0,"""무기를 장비해 주세요."""
 01_hench_re,dlg,ReplyList/76/Text,0,"""당신의 훈련에 대해 논의하고 싶습니다."""
-01_hench_re,dlg,ReplyList/77/Text,0,"""됐어, 현재 클래스 수련을 계속해라."""
+01_hench_re,dlg,ReplyList/77/Text,0,"""됐어, 현재 직업 수련을 계속해라."""
 01_hench_re,dlg,ReplyList/78/Text,0,"<StartAction>[추종자는 무기의 달인으로서만 레벨을 얻는다.]</Start> ""무기 마스터 훈련에만 집중하라."""
 01_hench_re,dlg,ReplyList/80/Text,0,"<StartAction>[추종자는 단지 변신술사로서 레벨을 얻는다.]</Start> ""변신술사 훈련에만 집중하라."""
 01_hench_re,dlg,ReplyList/82/Text,0,"<StartAction>[추종자는 적룡의 계승자로서만 레벨을 올릴 수 있다.]</Start> ""적룡의 계승자 훈련에만 집중하라."""
@@ -295,7 +295,7 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 01_hench_re,dlg,ReplyList/145/Text,0,"<StartAction>[추종자는 기본 몬크 패키지에서 레벨을 올릴 것입니다.]</Start> ""아니, 기본 몬크로 집중해 주세요."""
 01_hench_re,dlg,ReplyList/146/Text,0,"<StartAction>[추종자는 농부 수도사 패키지에서 레벨을 얻을 것입니다.]</Start> ""예, 농부 수도사로서 집중하시기 바랍니다."""
 01_hench_re,dlg,ReplyList/147/Text,0,"<StartAction>[추종자는 Devout Monk 패키지에서 레벨을 올릴 것입니다.]</Start> ""예, 제발 Devout Monk로 집중해 주십시오."""
-01_hench_re,dlg,ReplyList/148/Text,0,"<StartAction>[추종자가 재능 있는 몽크 패키지 레벨을 올립니다.]</Start> ""예, 재능 있는 몽크로서 집중하겠습니다."""
+01_hench_re,dlg,ReplyList/148/Text,0,"<StartAction>[추종자가 재능 있는 수도사 패키지 레벨을 올립니다.]</Start> ""예, 재능 있는 수도사로서 집중하겠습니다."""
 01_hench_re,dlg,ReplyList/149/Text,0,"<StartAction>[추종자는 스피릿 몬크 패키지에서 레벨을 올립니다.]</Start> ""예, 영혼 몬크로 집중해 주세요."""
 01_hench_re,dlg,ReplyList/150/Text,0,"<StartAction>[추종자는 전사로서만 레벨을 얻을 것이다.]</Start> ""전사 훈련에만 집중하라."""
 01_hench_re,dlg,ReplyList/152/Text,0,"<StartAction>[추종자는 기본 전사 패키지에서 레벨을 얻을 것입니다.]</Start> ""아니, 기본 전사로 집중해 주세요."""
@@ -306,17 +306,17 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 01_hench_re,dlg,ReplyList/157/Text,0,"<StartAction>[추종자는 드루이드로서만 레벨업을 한다.]</Start> ""드루이드 훈련에만 집중하라."""
 01_hench_re,dlg,ReplyList/159/Text,0,"<StartAction>[추종자는 기본 드루이드 패키지에 레벨을 얻을 것입니다.]</Start> ""아니, 기본 드루이드로 집중해 주세요."""
 01_hench_re,dlg,ReplyList/160/Text,0,"<StartAction>[추종자는 호크마스터 패키지에서 레벨을 올릴 것입니다.]</Start> ""예, 호크마스터로 집중해 주세요."""
-01_hench_re,dlg,ReplyList/161/Text,0,"<StartAction>[추종자가 죽음 드루이드 클래스로 레벨을 올립니다.]</Start> ""네, 죽음 드루이드에 집중하겠습니다."""
+01_hench_re,dlg,ReplyList/161/Text,0,"<StartAction>[추종자가 죽음 드루이드 직업로 레벨을 올립니다.]</Start> ""네, 죽음 드루이드에 집중하겠습니다."""
 01_hench_re,dlg,ReplyList/162/Text,0,"<StartAction>[추종자는 그레이 드루이드 패키지에서 레벨을 올릴 것이다.]</Start> ""예, 그레이 드루이드로서 집중해 주세요."""
 01_hench_re,dlg,ReplyList/163/Text,0,"<StartAction>[추종자는 인터로퍼 패키지에서 레벨을 올릴 것이다.]</Start> ""네, 인터로퍼로 집중해."""
 01_hench_re,dlg,ReplyList/164/Text,0,"<StartAction>[추종자는 성직자로만 레벨업할 것이다.]</Start> ""성직자 훈련에만 집중하라."""
 01_hench_re,dlg,ReplyList/166/Text,0,"<StartAction>[추종자는 기본 성직자 패키지에 레벨을 올릴 것이다.]</Start> ""아니, 기본 성직자로서 집중해 주세요."""
-01_hench_re,dlg,ReplyList/167/Text,0,"<StartAction>[추종자는 배틀사제 패키지에 레벨을 올릴 것이다.]</Start> ""예, 배틀사제로 집중해 주세요."""
+01_hench_re,dlg,ReplyList/167/Text,0,"<StartAction>[추종자는 배틀성직자 패키지에 레벨을 올릴 것이다.]</Start> ""예, 배틀성직자로 집중해 주세요."""
 01_hench_re,dlg,ReplyList/168/Text,0,"<StartAction>[수하는 원소술사 패키지로 레벨을 올린다.]</Start> ""네, 원소술사로 집중해 주세요."""
 01_hench_re,dlg,ReplyList/169/Text,0,"<StartAction>[추종자는 데드워커 패키지에서 레벨을 올릴 것이다.]</Start> ""예, 데드워커로서 집중해 주세요."""
 01_hench_re,dlg,ReplyList/170/Text,0,"<StartAction>[Henchman은 샤만 패키지에 레벨을 올릴 것입니다.]</Start> ""예, 제발 샤만으로서 집중하십시오""."
-01_hench_re,dlg,ReplyList/171/Text,0,"<StartAction>[추종자는 바드로서만 레벨업을 합니다.]</Start> ""바드 훈련에만 집중하라."""
-01_hench_re,dlg,ReplyList/173/Text,0,"<StartAction>[추종자는 기본 바드 패키지에서 레벨을 올릴 것입니다.]</Start> ""아니, 기본 바드로서 집중해 주세요."""
+01_hench_re,dlg,ReplyList/171/Text,0,"<StartAction>[추종자는 음유시인으로서만 레벨업을 합니다.]</Start> ""음유시인 훈련에만 집중하라."""
+01_hench_re,dlg,ReplyList/173/Text,0,"<StartAction>[추종자는 기본 음유시인 패키지에서 레벨을 올릴 것입니다.]</Start> ""아니, 기본 음유시인으로서 집중해 주세요."""
 01_hench_re,dlg,ReplyList/174/Text,0,"<StartAction>[추종자는 로레마스터 패키지에서 레벨을 올릴 것이다.]</Start> ""예, 로레마스터로서 집중해 주세요."""
 01_hench_re,dlg,ReplyList/175/Text,0,"<StartAction>[동료가 광대 계열로 레벨을 올립니다.]</Start> ""네, 광대로 특화해 주세요."""
 01_hench_re,dlg,ReplyList/176/Text,0,"<StartAction>[추종자는 하퍼 패키지에서 레벨을 올릴 것입니다.]</Start> ""예, 하퍼로 집중해 주세요."""
@@ -324,9 +324,9 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 01_hench_re,dlg,ReplyList/178/Text,0,"<StartAction>[추종자는 블레이드 패키지에서 레벨을 올릴 것입니다.]</Start> ""예, 블레이드처럼 집중해 주세요."""
 01_hench_re,dlg,ReplyList/179/Text,0,"<StartAction>[추종자는 야만전사로서만 레벨업을 합니다.]</Start> ""야만전사 훈련에만 집중하라."""
 01_hench_re,dlg,ReplyList/181/Text,0,"<StartAction>[추종자는 기본 야만전사 패키지에서 레벨을 얻을 것입니다.]</Start> ""아니, 기본 야만전사로 집중해."""
-01_hench_re,dlg,ReplyList/182/Text,0,"<StartAction>[추종자가 바바리안 오크 블러드 패키지로 레벨을 올립니다.]</Start> ""네, 바바리안 오크 블러드에 집중해 주세요."""
+01_hench_re,dlg,ReplyList/182/Text,0,"<StartAction>[추종자가 야만전사 오크 블러드 패키지로 레벨을 올립니다.]</Start> ""네, 야만전사 오크 블러드에 집중해 주세요."""
 01_hench_re,dlg,ReplyList/183/Text,0,"<StartAction>[헨치먼은 바바리아 야만자 패키지에 레벨을 올릴 것.]</Start> ""예, 바바리아 야만자처럼 집중해 주세요""."
-01_hench_re,dlg,ReplyList/184/Text,0,"<StartAction>[추종자가 바바리안 슬레이어 직업 레벨을 얻습니다.]</Start> ""네, 바바리안 슬레이어에 집중하겠습니다."""
+01_hench_re,dlg,ReplyList/184/Text,0,"<StartAction>[추종자가 야만전사 슬레이어 직업 레벨을 얻습니다.]</Start> ""네, 야만전사 슬레이어에 집중하겠습니다."""
 01_hench_re,dlg,ReplyList/185/Text,0,"<StartAction>[Henchman은 바바리아 야만자 패키지에 레벨을 올릴 것입니다.]</Start> ""예, 바바리아 야만자처럼 집중해 주세요""."
 01_hench_re,dlg,ReplyList/186/Text,0,"""야만전사 분노를 사용하시오."""
 01_hench_re,dlg,ReplyList/188/Text,0,"""지금 음유시인의 노래를 사용하세요""."
@@ -387,11 +387,11 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 69_hench_conv,dlg,EntryList/50/Text,0,"""네, 그건 합리적인 것 같다."""
 69_hench_conv,dlg,EntryList/51/Text,0,"""도적 훈련의 특정 분야에서 훈련을 받고 싶으신가요?"""
 69_hench_conv,dlg,EntryList/52/Text,0,"""네, 그건 합리적인 것 같다."""
-69_hench_conv,dlg,EntryList/53/Text,0,"""레인저 훈련 중 특정 분야를 중점적으로 배우고 싶으십니까?"""
+69_hench_conv,dlg,EntryList/53/Text,0,"""순찰자 훈련 중 특정 분야를 중점적으로 배우고 싶으십니까?"""
 69_hench_conv,dlg,EntryList/54/Text,0,"""네, 그건 합리적인 것 같다."""
 69_hench_conv,dlg,EntryList/55/Text,0,"""성기사 훈련의 특정 분야에서 훈련을 받기를 원하십니까?"""
 69_hench_conv,dlg,EntryList/56/Text,0,"""네, 그건 합리적인 것 같다."""
-69_hench_conv,dlg,EntryList/57/Text,0,"""몽크 수련의 특정 부분을 훈련받고 싶으십니까?"""
+69_hench_conv,dlg,EntryList/57/Text,0,"""수도사 수련의 특정 부분을 훈련받고 싶으십니까?"""
 69_hench_conv,dlg,EntryList/58/Text,0,"""네, 그건 합리적인 것 같다."""
 69_hench_conv,dlg,EntryList/59/Text,0,전사 훈련 중 특정 분야를 연마하고 싶으신가요?
 69_hench_conv,dlg,EntryList/60/Text,0,"""네, 그건 합리적인 것 같다."""
@@ -399,7 +399,7 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 69_hench_conv,dlg,EntryList/62/Text,0,"""네, 그건 합리적인 것 같다."""
 69_hench_conv,dlg,EntryList/63/Text,0,"""특정한 성직자 훈련 분야에 대해 훈련받을까요?"""
 69_hench_conv,dlg,EntryList/64/Text,0,"""네, 그건 합리적인 것 같다."""
-69_hench_conv,dlg,EntryList/65/Text,0,"""바드 훈련의 특정 분야에서 훈련을 받고 싶으신가요?"""
+69_hench_conv,dlg,EntryList/65/Text,0,"""음유시인 훈련의 특정 분야에서 훈련을 받고 싶으신가요?"""
 69_hench_conv,dlg,EntryList/66/Text,0,"""네, 그건 합리적인 것 같다."""
 69_hench_conv,dlg,EntryList/67/Text,0,"""특정한 면에서 야만전사 훈련을 받기를 원하십니까?"""
 69_hench_conv,dlg,EntryList/68/Text,0,"""<Deity>!"""
@@ -455,7 +455,7 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 69_hench_conv,dlg,ReplyList/60/Text,0,"""제발장치 무기를 준비해 주세요""."
 69_hench_conv,dlg,ReplyList/61/Text,0,"""무기를 장비해 주세요."""
 69_hench_conv,dlg,ReplyList/62/Text,0,"""당신의 훈련에 대해 논의하고 싶습니다."""
-69_hench_conv,dlg,ReplyList/63/Text,0,"""됐어, 현재 클래스 수련을 계속해라."""
+69_hench_conv,dlg,ReplyList/63/Text,0,"""됐어, 현재 직업 수련을 계속해라."""
 69_hench_conv,dlg,ReplyList/64/Text,0,"<StartAction>[추종자는 무기의 달인으로서만 레벨을 얻는다.]</Start> ""무기 마스터 훈련에만 집중하라."""
 69_hench_conv,dlg,ReplyList/66/Text,0,"<StartAction>[추종자는 단지 변신술사로서 레벨을 얻는다.]</Start> ""변신술사 훈련에만 집중하라."""
 69_hench_conv,dlg,ReplyList/68/Text,0,"<StartAction>[추종자는 적룡의 계승자로서만 레벨을 올릴 수 있다.]</Start> ""적룡의 계승자 훈련에만 집중하라."""
@@ -509,7 +509,7 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 69_hench_conv,dlg,ReplyList/131/Text,0,"<StartAction>[추종자는 기본 몬크 패키지에서 레벨을 올릴 것입니다.]</Start> ""아니, 기본 몬크로 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/132/Text,0,"<StartAction>[추종자는 농부 수도사 패키지에서 레벨을 얻을 것입니다.]</Start> ""예, 농부 수도사로서 집중하시기 바랍니다."""
 69_hench_conv,dlg,ReplyList/133/Text,0,"<StartAction>[추종자는 Devout Monk 패키지에서 레벨을 올릴 것입니다.]</Start> ""예, 제발 Devout Monk로 집중해 주십시오."""
-69_hench_conv,dlg,ReplyList/134/Text,0,"<StartAction>[추종자가 재능 있는 몽크 패키지 레벨을 올립니다.]</Start> ""예, 재능 있는 몽크로서 집중하겠습니다."""
+69_hench_conv,dlg,ReplyList/134/Text,0,"<StartAction>[추종자가 재능 있는 수도사 패키지 레벨을 올립니다.]</Start> ""예, 재능 있는 수도사로서 집중하겠습니다."""
 69_hench_conv,dlg,ReplyList/135/Text,0,"<StartAction>[추종자는 스피릿 몬크 패키지에서 레벨을 올립니다.]</Start> ""예, 영혼 몬크로 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/136/Text,0,"<StartAction>[추종자는 전사로서만 레벨을 얻을 것이다.]</Start> ""전사 훈련에만 집중하라."""
 69_hench_conv,dlg,ReplyList/138/Text,0,"<StartAction>[추종자는 기본 전사 패키지에서 레벨을 얻을 것입니다.]</Start> ""아니, 기본 전사로 집중해 주세요."""
@@ -520,17 +520,17 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 69_hench_conv,dlg,ReplyList/143/Text,0,"<StartAction>[추종자는 드루이드로서만 레벨업을 한다.]</Start> ""드루이드 훈련에만 집중하라."""
 69_hench_conv,dlg,ReplyList/145/Text,0,"<StartAction>[추종자는 기본 드루이드 패키지에 레벨을 얻을 것입니다.]</Start> ""아니, 기본 드루이드로 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/146/Text,0,"<StartAction>[추종자는 호크마스터 패키지에서 레벨을 올릴 것입니다.]</Start> ""예, 호크마스터로 집중해 주세요."""
-69_hench_conv,dlg,ReplyList/147/Text,0,"<StartAction>[추종자가 죽음 드루이드 클래스로 레벨을 올립니다.]</Start> ""네, 죽음 드루이드에 집중하겠습니다."""
+69_hench_conv,dlg,ReplyList/147/Text,0,"<StartAction>[추종자가 죽음 드루이드 직업로 레벨을 올립니다.]</Start> ""네, 죽음 드루이드에 집중하겠습니다."""
 69_hench_conv,dlg,ReplyList/148/Text,0,"<StartAction>[추종자는 그레이 드루이드 패키지에서 레벨을 올릴 것이다.]</Start> ""예, 그레이 드루이드로서 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/149/Text,0,"<StartAction>[추종자는 인터로퍼 패키지에서 레벨을 올릴 것이다.]</Start> ""네, 인터로퍼로 집중해."""
 69_hench_conv,dlg,ReplyList/150/Text,0,"<StartAction>[추종자는 성직자로만 레벨업할 것이다.]</Start> ""성직자 훈련에만 집중하라."""
 69_hench_conv,dlg,ReplyList/152/Text,0,"<StartAction>[추종자는 기본 성직자 패키지에 레벨을 올릴 것이다.]</Start> ""아니, 기본 성직자로서 집중해 주세요."""
-69_hench_conv,dlg,ReplyList/153/Text,0,"<StartAction>[추종자는 배틀사제 패키지에 레벨을 올릴 것이다.]</Start> ""예, 배틀사제로 집중해 주세요."""
+69_hench_conv,dlg,ReplyList/153/Text,0,"<StartAction>[추종자는 배틀성직자 패키지에 레벨을 올릴 것이다.]</Start> ""예, 배틀성직자로 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/154/Text,0,"<StartAction>[수하는 원소술사 패키지로 레벨을 올린다.]</Start> ""네, 원소술사로 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/155/Text,0,"<StartAction>[추종자는 데드워커 패키지에서 레벨을 올릴 것이다.]</Start> ""예, 데드워커로서 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/156/Text,0,"<StartAction>[Henchman은 샤만 패키지에 레벨을 올릴 것입니다.]</Start> ""예, 제발 샤만으로서 집중하십시오""."
-69_hench_conv,dlg,ReplyList/157/Text,0,"<StartAction>[추종자는 바드로서만 레벨업을 합니다.]</Start> ""바드 훈련에만 집중하라."""
-69_hench_conv,dlg,ReplyList/159/Text,0,"<StartAction>[추종자는 기본 바드 패키지에서 레벨을 올릴 것입니다.]</Start> ""아니, 기본 바드로서 집중해 주세요."""
+69_hench_conv,dlg,ReplyList/157/Text,0,"<StartAction>[추종자는 음유시인으로서만 레벨업을 합니다.]</Start> ""음유시인 훈련에만 집중하라."""
+69_hench_conv,dlg,ReplyList/159/Text,0,"<StartAction>[추종자는 기본 음유시인 패키지에서 레벨을 올릴 것입니다.]</Start> ""아니, 기본 음유시인으로서 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/160/Text,0,"<StartAction>[추종자는 로레마스터 패키지에서 레벨을 올릴 것이다.]</Start> ""예, 로레마스터로서 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/161/Text,0,"<StartAction>[동료가 광대 계열로 레벨을 올립니다.]</Start> ""네, 광대로 특화해 주세요."""
 69_hench_conv,dlg,ReplyList/162/Text,0,"<StartAction>[추종자는 하퍼 패키지에서 레벨을 올릴 것입니다.]</Start> ""예, 하퍼로 집중해 주세요."""
@@ -538,9 +538,9 @@ upstairs,are,Name,0,알마라이벤 - 에메랄드 구역 - 러너스 엔드: [�
 69_hench_conv,dlg,ReplyList/164/Text,0,"<StartAction>[추종자는 블레이드 패키지에서 레벨을 올릴 것입니다.]</Start> ""예, 블레이드처럼 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/165/Text,0,"<StartAction>[추종자는 야만전사로서만 레벨업을 합니다.]</Start> ""야만전사 훈련에만 집중하라."""
 69_hench_conv,dlg,ReplyList/167/Text,0,"<StartAction>[추종자는 기본 야만전사 패키지에서 레벨을 얻을 것입니다.]</Start> ""아니, 기본 야만전사로 집중해."""
-69_hench_conv,dlg,ReplyList/168/Text,0,"<StartAction>[추종자가 바바리안 오크 블러드 패키지로 레벨을 올립니다.]</Start> ""네, 바바리안 오크 블러드에 집중해 주세요."""
+69_hench_conv,dlg,ReplyList/168/Text,0,"<StartAction>[추종자가 야만전사 오크 블러드 패키지로 레벨을 올립니다.]</Start> ""네, 야만전사 오크 블러드에 집중해 주세요."""
 69_hench_conv,dlg,ReplyList/169/Text,0,"<StartAction>[헨치먼은 바바리아 야만자 패키지에 레벨을 올릴 것.]</Start> ""예, 바바리아 야만자처럼 집중해 주세요""."
-69_hench_conv,dlg,ReplyList/170/Text,0,"<StartAction>[추종자가 바바리안 슬레이어 직업 레벨을 얻습니다.]</Start> ""네, 바바리안 슬레이어에 집중하겠습니다."""
+69_hench_conv,dlg,ReplyList/170/Text,0,"<StartAction>[추종자가 야만전사 슬레이어 직업 레벨을 얻습니다.]</Start> ""네, 야만전사 슬레이어에 집중하겠습니다."""
 69_hench_conv,dlg,ReplyList/171/Text,0,"<StartAction>[Henchman은 바바리아 야만자 패키지에 레벨을 올릴 것입니다.]</Start> ""예, 바바리아 야만자처럼 집중해 주세요""."
 69_hench_conv,dlg,ReplyList/172/Text,0,"""야만전사 분노를 사용하시오."""
 69_hench_conv,dlg,ReplyList/174/Text,0,"""지금 음유시인의 노래를 사용하세요""."
@@ -746,7 +746,7 @@ _annex,dlg,ReplyList/113/Text,0,괴물 같은 재생력.
 _annex,dlg,ReplyList/114/Text,0,하급 무적의 구체
 _annex,dlg,ReplyList/115/Text,0,정신 차단
 _annex,dlg,ReplyList/116/Text,0,대규모 가속
-_annex,dlg,ReplyList/117/Text,0,마법 사제복.
+_annex,dlg,ReplyList/117/Text,0,마법 성직자복.
 _annex,dlg,ReplyList/118/Text,0,마법학자 갑옷
 _annex,dlg,ReplyList/119/Text,0,빛.
 _annex,dlg,ReplyList/120/Text,0,하급 주문 망토
@@ -1391,7 +1391,7 @@ _be_rnd_f1,dlg,EntryList/14/Text,0,"""빌라? 상점으로 북적이는 곳으�
 _be_rnd_f1,dlg,EntryList/16/Text,0,"""이 도시에 온 지는 고작 몇 주밖에 안 되었지만, 루비 구역만큼은 피해야 할 곳이라고 경고를 들었죠 말입니다."""
 _be_rnd_f1,dlg,EntryList/17/Text,0,"""룸 가라고요? 거기는 주거 지역 아니던가요? 그녀의 가게가 왜 거기에 있는지 이해가 가는군요. 옷감을 만들고 바느질할 사람들이 많은 곳이니까요."""
 _be_rnd_f1,dlg,EntryList/18/Text,0,"""시간이 있을 때 가야겠어."""
-_be_rnd_f1,dlg,EntryList/19/Text,0,"""나는 이미 오래 동안 그 도시 부분을 방문하려고 계획하고 있었는데, 밤에 휴식을 취할 수 있는 좋은 곳으로 에버불링 로그를 들었습니다."""
+_be_rnd_f1,dlg,EntryList/19/Text,0,"""나는 이미 오래 동안 그 도시 부분을 방문하려고 계획하고 있었는데, 밤에 휴식을 취할 수 있는 좋은 곳으로 에버불링 도적을 들었습니다."""
 _be_rnd_f1,dlg,EntryList/20/Text,0,"""아쩌면 내가 당신처럼 자신의 옷과 을 원털의 바늘에서 구입할 것이다. """
 _be_rnd_f1,dlg,EntryList/21/Text,0,"""불가능하다. 몇 주만 도시에 있었지만, 낮이나 저녁으로 길을 피해야 한다는 지시를 받았다."""
 _be_rnd_f1,dlg,EntryList/22/Text,0,"""마니의 가게가 집시 로즈웨이에 있었다면 그런 좋은 명성을 얻지 못했을 겁니다. 거기 있었다면 밤마다 털렸을걸요."""
@@ -3261,7 +3261,7 @@ _chelim,dlg,EntryList/42/Text,0,"""당신이 내게 그것을 얻기 위해 그�
 _chelim,dlg,EntryList/43/Text,0,<CUSTOM1004>첼림은 입맛을 다시며 눈빛으로는 속일 수 없는 반응을 드러냈다. 그녀가 넘어왔다!
 _chelim,dlg,EntryList/46/Text,0,"""네 피부는 창백해지고, 눈은 습하며, 입술은 건조해질 것이다. 네가 중독되지 않았다는 건 우리가 모두 알고 있는 사실이다."""
 _chelim,dlg,EntryList/47/Text,0,"""네, 당신은 약간 박혀있는 것처럼 보입니다. 나는 당신을 위해 추가로 50 다이너를 모을 수 있다고 확신합니다. 당신의 문제와 모든 것. 그것은 거래입니다""."
-_chelim,dlg,EntryList/48/Text,0,"""뭐라고? 네가 도와주기로 하기 전에 다락방에 이미 뭔가 있다고 말했잖아! 거기 뭔가 있다는 건 알고 있었잖아! 거미줄과 고치. 뭘 기대했는데, 꼬마 노움이라도?!"""
+_chelim,dlg,EntryList/48/Text,0,"""뭐라고? 네가 도와주기로 하기 전에 다락방에 이미 뭔가 있다고 말했잖아! 거기 뭔가 있다는 건 알고 있었잖아! 거미줄과 고치. 뭘 기대했는데, 꼬마 노움가라도?!"""
 _chelim,dlg,EntryList/49/Text,0,"""아이한테 도둑질을 하는 거야? 글쎄, 겉보기엔 아이처럼 보일지 몰라도 생각까지 아이 같지는 않다는 걸 곧 깨닫게 될 거야."""
 _chelim,dlg,EntryList/50/Text,0,"""로튼 릴리가 의뢰인에게 그림을 전달할 시간을 자정까지 주긴 했지만, 이제 내게서 빼앗겼으니 곧 내 목이 아니라 네 목에 현상금이 걸릴 거라고 확신한다."""
 _chelim,dlg,EntryList/51/Text,0,"""나이트셔드를 쫓아오지 말라고 기도해, 벅스다이버!"""
@@ -3446,12 +3446,12 @@ _cr_rnd_f2,dlg,EntryList/32/Text,0,"""카라밴 런에서 잘못된 방향을 �
 _cr_rnd_f2,dlg,EntryList/34/Text,0,<CUSTOM1004>안타의 아버지는 소매를 걷어 올리고 손가락 관절과 목을 꺾기 시작한다.
 _cr_rnd_f2,dlg,EntryList/36/Text,0,"""무슨 지루함!무슨 지루함!무슨 지루함! 우리는 길을 잃었고, 도난당했지만, 그린게임 가족도 만났고, 그 가족들의 숙소에서 머물게 해줬어요!"""
 _cr_rnd_f2,dlg,EntryList/37/Text,0,"""제생 처음으로 숙소에서 발견되는 튼튼한 枕이 아닌 부드러운 枕에 잠들게 됐어요!"""
-_cr_rnd_f2,dlg,EntryList/38/Text,0,"""아빠, 팔꿈치 좀 펴줘요, 이 가족이 필요한 건 모험이야! 노래하는 바르드의 이야기처럼!"""
+_cr_rnd_f2,dlg,EntryList/38/Text,0,"""아빠, 팔꿈치 좀 펴줘요, 이 가족이 필요한 건 모험이야! 노래하는 음유시인의 이야기처럼!"""
 _cr_rnd_f2,dlg,EntryList/42/Text,0,"""이제 우리 는 예전 처럼 일 하고, 우리 딸 을 걱정 하는 것 도 더 필요 하지 않습니다. 그린게임 가족 은 우리 를 자기 들 의 가족 으로 받아들이고 있습니다""."
 _cr_rnd_f2,dlg,EntryList/44/Text,0,<CUSTOM1004>이(가) 당신이 지나갈 때 혀를 쏙 내민다.
-_cr_rnd_f2,dlg,EntryList/46/Text,0,"""좋은 곳, 예, 하지만 엔터테인먼트가 없습니다. 아니. 바르드, 진짜 바르드 만나고 싶었어요. 엄마와 아빠가 방불에서 휴식을 취하고 있습니다""."
+_cr_rnd_f2,dlg,EntryList/46/Text,0,"""좋은 곳, 예, 하지만 엔터테인먼트가 없습니다. 아니. 음유시인, 진짜 음유시인만나고 싶었어요. 엄마와 아빠가 방불에서 휴식을 취하고 있습니다""."
 _cr_rnd_f2,dlg,EntryList/47/Text,0,<CUSTOM1004>안타는 어린아이 같은 미소를 지으며 몇 바퀴 핑그르르 돌더니 공용실을 가로질러 춤을 추며 갔다.
-_cr_rnd_f2,dlg,EntryList/49/Text,0,"""좋아요, 예, 하지만 엔터테인먼트도 없습니다. 바르드, 진짜 바르드 만나고 싶었어요. 엄마와 아빠가 방불 옆에서 휴식을 취하고 있습니다""."
+_cr_rnd_f2,dlg,EntryList/49/Text,0,"""좋아요, 예, 하지만 엔터테인먼트도 없습니다. 음유시인, 진짜 음유시인만나고 싶었어요. 엄마와 아빠가 방불 옆에서 휴식을 취하고 있습니다""."
 _cr_rnd_f2,dlg,EntryList/50/Text,0,<CUSTOM1004>안타는 어린아이 같은 미소를 지으며 몇 바퀴 핑그르르 돌더니 공용실을 가로질러 춤을 추며 갔다.
 _cr_rnd_f2,dlg,EntryList/51/Text,0,<CUSTOM1004> 안타는 혼자 춤을 추고 있다.
 _cr_rnd_f2,dlg,ReplyList/0/Text,0,계속해.
@@ -3621,7 +3621,7 @@ _cr_rnd_m2,dlg,EntryList/8/Text,0,"""그러나 물자가 부족해지면서 생�
 _cr_rnd_m2,dlg,EntryList/9/Text,0,"""더구나, 이 열도 큰 도움이 되지 않아."""
 _cr_rnd_m2,dlg,EntryList/10/Text,0,"""나는 테이 남쪽 알라오르 해안의 술팀이라는 도시 출신이야. 그곳으로 가는 건 언젠가 여유 있을 때 떠날 여행이지."""
 _cr_rnd_m2,dlg,EntryList/11/Text,0,"""혹은 차가운 맥주라도 마실까 했지만, 지금은 돌아가야 할 일이 있어서, 여기서 이야기하기에는 너무 오래 걸릴 일이니까."""
-_cr_rnd_m2,dlg,EntryList/12/Text,0,"""알타라고 부르면 됩니다, 제 전체 드워프 이름보다는 기억하기와 발음하기가 더 쉬워요."""
+_cr_rnd_m2,dlg,EntryList/12/Text,0,"""알타라고 부르면 됩니다, 제 전체 드워프이름보다는 기억하기와 발음하기가 더 쉬워요."""
 _cr_rnd_m2,dlg,EntryList/13/Text,0,"""그러나 내 속 속 속 깊은 곳의 동료, 당신은 나를 알타이 럼블록로크라고 부를 수 있습니다."
 _cr_rnd_m2,dlg,EntryList/15/Text,0,"""좋은 날이시네요 <lad/lass>."""
 _cr_rnd_m2,dlg,EntryList/16/Text,0,"""훌륭해! 훌륭한 서비스, 잘 해냈다. 이젠 우리의 일정을 다시 정상궤도에 맞출 수 있을 것이다!"""
@@ -3840,7 +3840,7 @@ _crun_rnd_f1,dlg,EntryList/27/Text,0,"""하지만... 하지만 그게 아시, �
 _crun_rnd_f1,dlg,EntryList/30/Text,0,"""만약 당신이 말하는 것이 사실이고, 이 늙은이를 괴롭히는 귀신들이라면, 그들을 버렸기 때문에 미안하다고 말해줘""."
 _crun_rnd_f1,dlg,EntryList/31/Text,0,<CUSTOM1004> 시라가 입술을 일그러뜨리며 잠시 생각했다. 그녀는 빵 조각도 한 번 들여다보며 그렇게 했다.
 _crun_rnd_f1,dlg,EntryList/32/Text,0,"""호텔의 입구는 집의 정문과 거의 같은 위치입니다. 지하실 계단은 집 뒤쪽에 있으며, 건물의 첫층에 있습니다."""
-_crun_rnd_f1,dlg,EntryList/33/Text,0,"""에버버닝 로그에 몇 번 가 봤어요. 새 구조를 기준으로 보면 계단은 지금 식료품 저장실이 있는 자리에 있었는데, 이제는 거기에 없다는 걸 알아요."""
+_crun_rnd_f1,dlg,EntryList/33/Text,0,"""에버버닝 도적에 몇 번 가 봤어요. 새 구조를 기준으로 보면 계단은 지금 식료품 저장실이 있는 자리에 있었는데, 이제는 거기에 없다는 걸 알아요."""
 _crun_rnd_f1,dlg,EntryList/34/Text,0,"창고는 닫혀 있고 아래로 계단이 없으며, 숙소는 와인 지하실조차 없다."
 _crun_rnd_f1,dlg,EntryList/35/Text,0,"""그렇지 않아. 토대는 단단한 바위였어. Faruk yn Ralan은 오래된 토대 위에 Everburning Log을 직접 세웠어. 왜 묻는 거야?"""
 _crun_rnd_f1,dlg,EntryList/36/Text,0,"""그건 확실 히 그랬습니다. 마치 어떤 가속물질이 불에 연료를 주었던 것 처럼요. 하지만 몇 일 후 밤에 돌아왔을 때, 저는 특별한 것 이 없었어요""."
@@ -3852,7 +3852,7 @@ _crun_rnd_f1,dlg,EntryList/41/Text,0,"""계단이 불에 싸인 후, 나는 옥�
 _crun_rnd_f1,dlg,EntryList/42/Text,0,"""그 방치가 내 목숨을 구해 주었다. 아시다시피, 옥탑은 트랩문으로 봉쇄되어 있었기 때문에, 작은 공간으로 들어오는 연기도 전혀 들어가지 못했다."""
 _crun_rnd_f1,dlg,EntryList/43/Text,0,"""나는 다락방 창문으로 빠져나와 지붕들을 가로질러 안전한 곳으로 갔어. 그때쯤에는 집 전체가 불길에 휩싸여 있었지."""
 _crun_rnd_f1,dlg,EntryList/44/Text,0,"""무역 구역의 술탄인 파룩 인 랄란에게 화재의 원인이 무엇인지 물어본 적이 없으니, 아니오라고 답해야겠군. 사고가 난 뒤 거리에서 들리는 소문으로는 소유자 중 한 명이 불을 질렀다고 하더군. 적어도 술탄은 그렇게 말했어."""
-_crun_rnd_f1,dlg,EntryList/45/Text,0,"""나는 그것이 화소였다고 의심합니다. 왜냐하면 얼마 지나지 않아, 다른 누군가에게 새로운 집 대신 에버버버닝 로그를 짓는 계획이 만들어졌기 때문입니다. 술탄은 항상 그 길거리의 수입원을 원했습니다."
+_crun_rnd_f1,dlg,EntryList/45/Text,0,"""나는 그것이 화소였다고 의심합니다. 왜냐하면 얼마 지나지 않아, 다른 누군가에게 새로운 집 대신 에버버버닝 도적을 짓는 계획이 만들어졌기 때문입니다. 술탄은 항상 그 길거리의 수입원을 원했습니다."
 _crun_rnd_f1,dlg,EntryList/46/Text,0,<CUSTOM1004> 시라는 잠시 멈추어 거리를 바라보다가 점점 커지는 저녁 그림자 속에서 얼굴을 감춘다.
 _crun_rnd_f1,dlg,EntryList/47/Text,0,"""나는 잠에서 일어나서 담배 냄새를 맡았는데, 잠시 동안 방불에서 불을 타고 있는 나무라고 생각해서 다시 침대에 들어가려고 했습니다. 얼마 지나지 않아 기침을 하게 되었습니다""."
 _crun_rnd_f1,dlg,EntryList/48/Text,0,"""내 방의 문이 갑자기 열리자 케사가 천을 얼굴에 가리고 서 있었고, 검은 연기가 문을 따라 천장까지 휘어져 올라갔다."""
@@ -3868,7 +3868,7 @@ _crun_rnd_f1,dlg,EntryList/57/Text,0,"""유령? 벽을 통과하며, 체인을 �
 _crun_rnd_f1,dlg,EntryList/58/Text,0,"""어릴 때 유령 이야기를 들은 기억은 있어요. 하지만 늘 그 이야기는 동생과 나를 겁주려고 들려준 거라고 생각했죠."""
 _crun_rnd_f1,dlg,EntryList/59/Text,0,"""그들이 지금 유령이라고 쳐요. 나더러 그걸로 뭘 하라는 거죠?"""
 _crun_rnd_f1,dlg,EntryList/60/Text,0,"""하스쇼 라인 에 우리 모두 살고 있던 집 에 불가 터졌는데, 그 집 에 우리 다섯 명 이 살았는데, 그 들 은 나 를 포함 하고 있지만, 그 불가에서 살아남은 사람 은 나뿐 이었다""."
-_crun_rnd_f1,dlg,EntryList/61/Text,0,"""나는 모든 걸 잃었는데, 무역 구역의 술탄은 대체 무슨 짓을 한 거지? 더 큰 이익을 낼 수 있다는 이유로 그 자리에 에버버닝 로그를 짓기로 계약했어."""
+_crun_rnd_f1,dlg,EntryList/61/Text,0,"""나는 모든 걸 잃었는데, 무역 구역의 술탄은 대체 무슨 짓을 한 거지? 더 큰 이익을 낼 수 있다는 이유로 그 자리에 에버버닝 도적을 짓기로 계약했어."""
 _crun_rnd_f1,dlg,EntryList/62/Text,0,"""파루크 인 랄란은 내 집이 불타 사라지기 전부터 호스슈 레인에 여관을 세워 가게들이 디나르를 더 벌도록, 자기 주머니도 더 채우도록 밀어붙이고 있었어요."""
 _crun_rnd_f1,dlg,EntryList/63/Text,0,<CUSTOM1004>###################################
 _crun_rnd_f1,dlg,EntryList/64/Text,0,'시라'는 내 이름이지만 친구들은 '시라'라고 부르기도 합니다.
@@ -4085,7 +4085,7 @@ _crun_rnd_m2,dlg,ReplyList/25/Text,0,안녕하세요
 _crun_rnd_m2,dlg,ReplyList/26/Text,0,물건 좀 보여줘
 _crun_rnd_m3,dlg,EntryList/0/Text,0,"""그래. 그래서? 흠... 뭐라고?"""
 _crun_rnd_m3,dlg,EntryList/1/Text,0,<CUSTOM1004>노움 남자는 당신이 몇 피트 떨어진 곳에 서 있다는 걸 알아채자 혼잣말을 멈춘다.
-_crun_rnd_m3,dlg,EntryList/2/Text,0,"""나는 노움이야! 그렇게 빤히 쳐다볼 필요 없어. 내가 네 시선을 잘못 읽은 거라면 사과할게!"""
+_crun_rnd_m3,dlg,EntryList/2/Text,0,"""나는 노움가야! 그렇게 빤히 쳐다볼 필요 없어. 내가 네 시선을 잘못 읽은 거라면 사과할게!"""
 _crun_rnd_m3,dlg,EntryList/3/Text,0,"""이번 바쁜 시장과 바쁜 도시 거리는 내 머릿속을 둥글게 달리고 있습니다! 나는 마을과 작은 강을 위해 무엇을 줄 것! """
 _crun_rnd_m3,dlg,EntryList/4/Text,0,"""이제... 내가 네게 충돌했나, 네가 나를 충돌했나?"""
 _crun_rnd_m3,dlg,EntryList/5/Text,0,<CUSTOM1004> 지상의 갈색 눈이 당신을 지켜보며 답을 기다리고 있습니다.
@@ -4441,12 +4441,12 @@ _desc_cell_sewer,dlg,ReplyList/7/Text,0,계속해.
 _desc_cell_sewer,dlg,ReplyList/8/Text,0,계속 가라.
 _desc_cell_sewer,dlg,ReplyList/9/Text,0,계속해.
 _desc_cell_sewer,dlg,ReplyList/10/Text,0,계속 가라.
-_desc_dar,dlg,EntryList/0/Text,0,<CUSTOM1004> 어린 소녀는 잘 보이지 않아 언제든 늑대인종이 될 수 있습니다.
+_desc_dar,dlg,EntryList/0/Text,0,<CUSTOM1004> 어린 소녀는 잘 보이지 않아 언제든 늑대종족이 될 수 있습니다.
 _desc_dar,dlg,EntryList/1/Text,0,<CUSTOM1004> 당신은 자신을 살펴보며 어린 소녀를 치유하기 위해 사라진 물건들을 찾는다.
 _desc_dar,dlg,EntryList/3/Text,0,<CUSTOM1004> 그들은 앞으로 뛰어들어 공격한다!
 _desc_dar,dlg,EntryList/4/Text,0,<CUSTOM1004> 굽히고 상처에 벨라돈나를 적용하고
 _desc_dar,dlg,EntryList/5/Text,0,"<CUSTOM1004> 그러나, 아무 일도 일어나지 않네! 변환은 완료되었어!"
-_desc_dar,dlg,EntryList/6/Text,0,<CUSTOM1004> 다윈은 잘 보이지 않아 언제든 늑대인종이 될 수 있어
+_desc_dar,dlg,EntryList/6/Text,0,<CUSTOM1004> 다윈은 잘 보이지 않아 언제든 늑대종족이 될 수 있어
 _desc_dar,dlg,EntryList/7/Text,0,<CUSTOM1004> 당신은 다윈을 치유하기 위해 사라진 물건들을 찾고 있습니다.
 _desc_dar,dlg,EntryList/9/Text,0,<CUSTOM1004> 그들은 앞으로 뛰어들어 공격한다!
 _desc_dar,dlg,EntryList/10/Text,0,<CUSTOM1004> 굽히고 상처에 벨라돈나를 적용하고
@@ -4584,8 +4584,8 @@ _desc_wun,dlg,EntryList/9/Text,0,<CUSTOM1004> 굽히고 상처에 벨라돈나�
 _desc_wun,dlg,EntryList/12/Text,0,"""그녀가 많이 약해져 있으니 지상으로 돌아가면 푹 쉬어야 할 거야. 그러고 보니, 내 집으로 돌아가는 길이 막혀 있군."""
 _desc_wun,dlg,EntryList/14/Text,0,"""그게 의미하는 것은 또 다른 출구도 있다는 뜻입니다. 이 냄새가 나는 터널들을 찾아서 출구를 찾아보도록 합시다."""
 _desc_wun,dlg,EntryList/15/Text,0,<CUSTOM1004>그녀는 약해서 다시 표면에 돌아오면 휴식을 취해야 할 것 같습니다.
-_desc_wun,dlg,EntryList/16/Text,0,<CUSTOM1004> 드라는 잘 보이지 않아 언제든 늑대인종이 될 수 있어
-_desc_wun,dlg,EntryList/17/Text,0,<CUSTOM1004> 드라는 잘 보이지 않아 언제든 늑대인종이 될 수 있어
+_desc_wun,dlg,EntryList/16/Text,0,<CUSTOM1004> 드라는 잘 보이지 않아 언제든 늑대종족이 될 수 있어
+_desc_wun,dlg,EntryList/17/Text,0,<CUSTOM1004> 드라는 잘 보이지 않아 언제든 늑대종족이 될 수 있어
 _desc_wun,dlg,ReplyList/0/Text,0,계속해.
 _desc_wun,dlg,ReplyList/1/Text,0,계속 가라.
 _desc_wun,dlg,ReplyList/2/Text,0,위드라를 치유해라.
@@ -6749,7 +6749,7 @@ _hl_rnd_f1,dlg,EntryList/8/Text,0,<CUSTOM1004> 그녀는 왼손으로 세 다이
 _hl_rnd_f1,dlg,EntryList/9/Text,0,<CUSTOM1004>###################################
 _hl_rnd_f1,dlg,EntryList/11/Text,0,<CUSTOM1004> 그녀는 왼손으로 5디나르를 주머니에 넣고 당신에게 미소를 지릅니다.
 _hl_rnd_f1,dlg,EntryList/12/Text,0,"""아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아... 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아, 아,"
-_hl_rnd_f1,dlg,EntryList/13/Text,0,"""걱정마, 난 네가 열심히 얻은 다이너를 사줄게 하지 않을거야. 난 피를 흘릴 수 있는 많은 멍청이들이 이 에버버버닝 로그에 머물고 있다""."
+_hl_rnd_f1,dlg,EntryList/13/Text,0,"""걱정마, 난 네가 열심히 얻은 다이너를 사줄게 하지 않을거야. 난 피를 흘릴 수 있는 많은 멍청이들이 이 에버버버닝 도적에 머물고 있다""."
 _hl_rnd_f1,dlg,EntryList/14/Text,0,"""당신은 길을 잃은 것 같네요. 트레이드 워드에 있다는 것을 모르고 계신가요? 하스쇼 레인에서 서 계시네요."""
 _hl_rnd_f1,dlg,EntryList/15/Text,0,"""나의 이름은 페잔이고, 이곳이 내 집입니다. 환영합니다."""
 _hl_rnd_f1,dlg,EntryList/16/Text,0,"""그럼 어떻게 도와드릴까요?"""
@@ -6867,7 +6867,7 @@ _hl_rnd_f2,dlg,EntryList/11/Text,0,<CUSTOM1004> 그녀는 왼손으로 세 다�
 _hl_rnd_f2,dlg,EntryList/12/Text,0,"<CUSTOM1004>당신이 몸을 더듬어 그녀에게 줄 디나르가 충분한지 살펴보는 동안, 그녀는 파리를 한 마리 더 잡는다."
 _hl_rnd_f2,dlg,EntryList/13/Text,0,<CUSTOM1004> 그녀는 왼손으로 5디나르를 주머니에 넣고는 벌레를 삼키고 말았다.
 _hl_rnd_f2,dlg,EntryList/14/Text,0,"""그래, 실라를 알고 있었어요. 그녀는 거리의 반대편에 있는 집에 살았지만 그 집은 더 이상 존재하지 않습니다. 한 달 전 화재로 불태웠어요""."
-_hl_rnd_f2,dlg,EntryList/15/Text,0,<CUSTOM1004> 그녀는 영원히 불타는 로그를 향해 고개를 끄덕인다.
+_hl_rnd_f2,dlg,EntryList/15/Text,0,<CUSTOM1004> 그녀는 영원히 불타는 도적을 향해 고개를 끄덕인다.
 _hl_rnd_f2,dlg,EntryList/16/Text,0,4명이 화재로 사망했지만 실라는 겨우 목숨을 구해 버렸다고 들었습니다.
 _hl_rnd_f2,dlg,EntryList/17/Text,0,"""이제 그녀가 살던 곳에는 영원히 꺼지지 않는 장작이 남아 있지. 화재 이후로 그녀를 본 적이 없으니 불에 타 죽었을지도 몰라. 무엇을 믿어야 할지 모르겠군."""
 _hl_rnd_f2,dlg,EntryList/18/Text,0,"""내가 어디 출신이든 네가 무슨 상관이야? 이 텐트가 보이지? 내가 여기서 나고 자랐어. 내가 사는 곳은 여기라고, 알겠어?"""
@@ -7202,7 +7202,7 @@ _hl_rnd_f8,dlg,EntryList/2/Text,0,<CUSTOM1004> 그녀는 옷으로 입술을 닦
 _hl_rnd_f8,dlg,EntryList/3/Text,0,"""당신은 원래 그렇게 테이블마다 뛰어다니며 식사하는 사람들을 방해하는 게 취미인가요?"""
 _hl_rnd_f8,dlg,EntryList/4/Text,0,"""드워카, 어떻게 생각해?"""
 _hl_rnd_f8,dlg,EntryList/5/Text,0,<CUSTOM1004>드웨르카는 빈 에일 병의 유리면에 비친 자신의 코를 들여다보며 골몰해 있다.
-_hl_rnd_f8,dlg,EntryList/6/Text,0,"""내 코가 정말 큰 것 같아? 아다바드가 나를 떠난 이유 때문이냐? 내가 이 일을 감당할 수 없어!"""
+_hl_rnd_f8,dlg,EntryList/6/Text,0,"""내 코가 정말 큰 것 같아? 아다음유시인이 나를 떠난 이유 때문이냐? 내가 이 일을 감당할 수 없어!"""
 _hl_rnd_f8,dlg,EntryList/8/Text,0,"""갈리크는 외로워 보이네, 가서 말을 걸어볼까?"""
 _hl_rnd_f8,dlg,EntryList/9/Text,0,"""평화와 조용함, 내가 먹는 동안 내가 요구하는 것뿐이야""."
 _hl_rnd_f8,dlg,ReplyList/0/Text,0,계속해.
@@ -7415,7 +7415,7 @@ _hl_rnd_m1,dlg,ReplyList/36/Text,0,안녕하세요
 _hl_rnd_m2,dlg,EntryList/0/Text,0,<CUSTOM1004> 이 인간 남성의 얼굴에 미소를 짓는 미소는 거리에서 그를 향해 다가오며 그의 상술은 가끔씩 흔들린다.
 _hl_rnd_m2,dlg,EntryList/3/Text,0,"""작고 작고 콤팩트한 물건을 찾고 있는데, 손목에 칼이나 칼을 감추는 것?"
 _hl_rnd_m2,dlg,EntryList/4/Text,0,"""그래, 무엇을 선택할까?"""
-_hl_rnd_m2,dlg,EntryList/5/Text,0,"""거리에서 아니죠. 저는 저녁에 에버버버닝 로그에서 임대하는 객실에서 일을 합니다. 관심 있는 분들은 약속하실 수 있습니다""."
+_hl_rnd_m2,dlg,EntryList/5/Text,0,"""거리에서 아니죠. 저는 저녁에 에버버버닝 도적에서 임대하는 객실에서 일을 합니다. 관심 있는 분들은 약속하실 수 있습니다""."
 _hl_rnd_m2,dlg,EntryList/6/Text,0,"""그래서 어떻게 생각해? 관심이 있나?"""
 _hl_rnd_m2,dlg,EntryList/7/Text,0,"""만약 당신이 마음을 바꾸면 내가 어떤 거리에 있는지 알겠지""."
 _hl_rnd_m2,dlg,EntryList/8/Text,0,"""그렇군요. 죄송합니다, 성함을 못 여쭈었네요."""
@@ -7464,17 +7464,17 @@ _hl_rnd_m3,dlg,EntryList/7/Text,0,"""말굽 골목을 서성이는 엔클라버�
 _hl_rnd_m3,dlg,EntryList/8/Text,0,<CUSTOM1004> 그의 눈이 거리를 가로질러 집으로 향하고 머리를 돌려 마치 무언가를 듣고 있는 것처럼
 _hl_rnd_m3,dlg,EntryList/9/Text,0,"""어디서 호스슈 레인에 오게 되었나?"""
 _hl_rnd_m3,dlg,EntryList/10/Text,0,"""시라, 이름도 잘 들리지 않아요, 미안해요""."
-_hl_rnd_m3,dlg,EntryList/11/Text,0,"""신경질적인 반오크라니! 내가 직접 볼 수만 있다면 좋을 텐데. 난 나 자신인 노움처럼 긴장된다고, 란! 저 길 건너의 망할 집 때문에 소름이 돋는단 말이야!"""
+_hl_rnd_m3,dlg,EntryList/11/Text,0,"""신경질적인 하프오크라니! 내가 직접 볼 수만 있다면 좋을 텐데. 난 나 자신인 노움처럼 긴장된다고, 란! 저 길 건너의 망할 집 때문에 소름이 돋는단 말이야!"""
 _hl_rnd_m3,dlg,EntryList/12/Text,0,"""밤에 벽 옆의 그림자는 두꺼워지고 어두워집니다. 때때로 창문에서 긴 입과 빈 눈을 가진 얼굴을 볼 수 있습니다""."
 _hl_rnd_m3,dlg,EntryList/13/Text,0,"""집이 비어 있는 걸 뻔히 알면서도 쿵쾅거리는 소리와 함께 기초 공사가 흔들리고 불빛이 깜빡거린다니까."""
-_hl_rnd_m3,dlg,EntryList/16/Text,0,"""보다시피 난 노움이야. 하프오크라는 점도 별 도움이 안 돼. 얼굴에 이렇게 두껍고 여분의 피부가 늘어져 시야를 가리는 데 익숙하지 않거든."""
-_hl_rnd_m3,dlg,EntryList/18/Text,0,"""아니요. 사실 저는 건강한 노움이랍니다. 뭐, 이 나이에 이 정도면 건강한 편이죠. 제가 정말 하프오크라도 되는 줄 아셨나요?"""
+_hl_rnd_m3,dlg,EntryList/16/Text,0,"""보다시피 난 노움가야. 하프오크라는 점도 별 도움이 안 돼. 얼굴에 이렇게 두껍고 여분의 피부가 늘어져 시야를 가리는 데 익숙하지 않거든."""
+_hl_rnd_m3,dlg,EntryList/18/Text,0,"""아니요. 사실 저는 건강한 노움가랍니다. 뭐, 이 나이에 이 정도면 건강한 편이죠. 제가 정말 하프오크라도 되는 줄 아셨나요?"""
 _hl_rnd_m3,dlg,EntryList/19/Text,0,"""발 때문인가 봐. 걸을 때마다 아주 아파서 앉아 있는 게 훨씬 편하거든. 지금은 너무 아파서 움직이지도 못할 지경이야."""
-_hl_rnd_m3,dlg,EntryList/20/Text,0,"""좋아, 장담하건대 난 인간 이름을 가진 노움일 뿐이야. 눈이 나쁘고 발이 아픈 하프오크처럼 보일 뿐이지. 그 이상도 이하도 아니라고."""
+_hl_rnd_m3,dlg,EntryList/20/Text,0,"""좋아, 장담하건대 난 인간이름을 가진 노움일 뿐이야. 눈이 나쁘고 발이 아픈 하프오크처럼 보일 뿐이지. 그 이상도 이하도 아니라고."""
 _hl_rnd_m3,dlg,EntryList/21/Text,0,"""나의 인간적인 면은 알브라이벤에서 왔고, 내 거친 면은 브라이트스타 호수에서 멀리, 멀리, 멀리 동쪽으로 떨어진 도시 칼라브에서 왔어요""."
 _hl_rnd_m3,dlg,EntryList/22/Text,0,"""내 안의 하프오크 혈통은 실험이 잘못된 결과야. 요즘은 발이 아주 시시때때로 아픈 걸 보면 영원히 이 모양일까 봐 두렵다고."""
 _hl_rnd_m3,dlg,EntryList/23/Text,0,"""거리를 걸어 올라가기가 너무 힘들어서 몇 주째 이 천막 밖에 발이 묶여 있어요. 주인이 저를 보고도 자기 집에서 비켜 달라고 말하기가 겁났나 봐요."""
-_hl_rnd_m3,dlg,EntryList/24/Text,0,"""나한테는 인간 이름이 있지. 당신 눈에는 하프오크로 보이겠지만 나는 그와는 거리가 멀다. 내 이름은 란이고, 줄임말 같은 게 아니야."""
+_hl_rnd_m3,dlg,EntryList/24/Text,0,"""나한테는 인간이름이 있지. 당신 눈에는 하프오크로 보이겠지만 나는 그와는 거리가 멀다. 내 이름은 란이고, 줄임말 같은 게 아니야."""
 _hl_rnd_m3,dlg,EntryList/25/Text,0,"""그게 또 너야?"""
 _hl_rnd_m3,dlg,ReplyList/0/Text,0,계속해.
 _hl_rnd_m3,dlg,ReplyList/1/Text,0,계속해.
@@ -8605,7 +8605,7 @@ _lilly,dlg,EntryList/13/Text,0,"""하나는 나를 보내 준 일. 또 하나는
 _lilly,dlg,EntryList/14/Text,0,"""그건 어떤 제안이냐?"""
 _lilly,dlg,EntryList/15/Text,0,"""나는 이 도시의 주민이 아니요, 내 고향은 다른 해안에 있소. 이것이 내가 당신에게 줄 수 있는 전부요. 나를 그토록 오랫동안 쫓아온 것에 대한 보답으로, 해볼 만한 거래요."""
 _lilly,dlg,EntryList/16/Text,0,"""훌륭하군. 내 말은 곧 내 약속이며, 술돌포르에서는 그것이 도리이고 약속을 지키는 것이 장사에 이로운 법이지. 내 말을 잘 들으라오."""
-_lilly,dlg,EntryList/17/Text,0,"""나는 에버버버닝 로그 북쪽 뒷 골목에서 하스쇼 레인에서 복제 열쇠를 숨겨놨어요. 이 열쇠는 숙소에서 임대 방을 열게 될 겁니다""."
+_lilly,dlg,EntryList/17/Text,0,"""나는 에버버버닝 도적 북쪽 뒷 골목에서 하스쇼 레인에서 복제 열쇠를 숨겨놨어요. 이 열쇠는 숙소에서 임대 방을 열게 될 겁니다""."
 _lilly,dlg,EntryList/18/Text,0,"""나가기 전에 가장 먼저 돌볼 건 당신입니다. 침대 끝의 바닥판 아래에 있는 세 가지 물건을 찾아보세요. 열쇠는 당신의 것입니다."""
 _lilly,dlg,EntryList/19/Text,0,"""자유롭게 원하는 시간에 방을 사용하십시오."""
 _lilly,dlg,EntryList/20/Text,0,"""벼랑 끝에 몰린 여자가 상대해야 하는 가장 위험한 부류라는 걸 모르나?"""
@@ -8909,7 +8909,7 @@ _luanu,dlg,EntryList/10/Text,0,"""그의 이름은 플라우스로, 거리에서
 _luanu,dlg,EntryList/11/Text,0,"""플라우스는 내가 아우렌 협회와 높은 탑의 연락자임을 알고 있으니 걱정하지 마라."""
 _luanu,dlg,EntryList/12/Text,0,"""밤에 그를 찾을 수 있는 곳은 '더 에버버버닝 로그'의 공용실입니다. 이 오솔길에 위치한 인기 숙소는 알마라이벤을 지나가는 사람들에게 인기가 있습니다."""
 _luanu,dlg,EntryList/13/Text,0,"""그는 당신을 다른 분야에서 도움이 될 수 있다고 생각할 수도 있습니다. 관심이 있다면 좋겠지만, 알고 있는 사실은, 당신이 그에게 아우렌 회원임을 증명할 수 없다면 그는 모든 것을 부인할 것입니다."""
-_luanu,dlg,EntryList/14/Text,0,"""그들은 정말 이상한 것들이다. 이 특정한 사망들은 특정 인종, 계급, 사회, 또는 연합의 대상이 아니었다."""
+_luanu,dlg,EntryList/14/Text,0,"""그들은 정말 이상한 것들이다. 이 특정한 사망들은 특정 종족, 계급, 사회, 또는 연합의 대상이 아니었다."""
 _luanu,dlg,EntryList/15/Text,0,"""더 무작위로 보이고 항상 밤에."""
 _luanu,dlg,EntryList/16/Text,0,"""신체의 운명은 더욱 미스터리하다. 이와 같은 방식으로 기록된 모든 사망 사례 중에서 시체는 단 한 개도 발견되지 않았다."""
 _luanu,dlg,EntryList/17/Text,0,"""사람이 살해당한 장소를 중심으로 피가 사방에 낭자하게 흩뿌려진 흔적뿐이다."""
@@ -9671,7 +9671,7 @@ _mr_rnd_f2,dlg,EntryList/13/Text,0,"""여러분은 이 주변을 둘러보시는
 _mr_rnd_f2,dlg,EntryList/14/Text,0,나는 엑클레이브 구의 러너스 엔드에 있는 스피팅 캐멜 호스텔에서 머물고 있습니다. 여기 내 집의 키가 있습니다.
 _mr_rnd_f2,dlg,EntryList/15/Text,0,"""만약 귀신들이 나타나지 않게 할 수 있다면, 몇 개의 디나르를 제공할 수 있지만 더 이상은 없다."""
 _mr_rnd_f2,dlg,EntryList/17/Text,0,"""이거 조사해줘서 고마워요, 네 이름을 못 들었어요""."
-_mr_rnd_f2,dlg,EntryList/24/Text,0,"""내 집 은 하스쇼 라인 의 무역 구역 에 위치 하고 있으며, 대중적 인 에버버버닝 로그 에서 불과 한 거리에 있습니다""."
+_mr_rnd_f2,dlg,EntryList/24/Text,0,"""내 집 은 하스쇼 라인 의 무역 구역 에 위치 하고 있으며, 대중적 인 에버버버닝 도적에서 불과 한 거리에 있습니다""."
 _mr_rnd_f2,dlg,EntryList/25/Text,0,"""나는 그들을 보았어! 밤중에 그들은 나의 집을 둘러싸고, 한 방에서 다른 방으로 떠돌아다닙니다!"""
 _mr_rnd_f2,dlg,EntryList/26/Text,0,"""물론 처음에는 바닥에만 부딪히는 정도였고, 문이 열리고 닫힐 때도 있었다. 집에 오래 살수록 이러한 방문은 더 자주 되었다."""
 _mr_rnd_f2,dlg,EntryList/27/Text,0,"""내 집에서 내 물건들을 치운 지 몇 주가 지났어. 내가 거기에 살고 있어서 유령들이 날 반기지 않는 거라고 생각했지."""
@@ -10338,8 +10338,8 @@ _noble3,dlg,EntryList/13/Text,0,"""여러분, 여러분. 이 주제에 대해 �
 _noble3,dlg,EntryList/14/Text,0,"""좋아, 우리는 골든컵에서 시간을 보내는 것을 좋아하니까, 시간이 있다면 언제든지 들려와도 좋다."""
 _noble3,dlg,EntryList/15/Text,0,"""그게 끝나면 골든 컵에서 같이 시간을 보낼 수 있을지도 몰라요""."
 _noble3,dlg,EntryList/16/Text,0,"""저녁에 안에서 편안히 앉아 쉬는 것을 좋아합니다."""
-_noble3,dlg,EntryList/17/Text,0,"""그곳의 엘프 와인은 아주 잘 넘어가지. 우리의 눈이 다시 마주칠 때까지."""
-_noble3,dlg,EntryList/18/Text,0,"""로임 가의 골든 고블렛이라니! 지하실에 보관 중인 엘프 와인과 함께 편안히 앉아 휴식을 취하기에 아주 좋은 곳이지."""
+_noble3,dlg,EntryList/17/Text,0,"""그곳의 엘프와인은 아주 잘 넘어가지. 우리의 눈이 다시 마주칠 때까지."""
+_noble3,dlg,EntryList/18/Text,0,"""로임 가의 골든 고블렛이라니! 지하실에 보관 중인 엘프와인과 함께 편안히 앉아 휴식을 취하기에 아주 좋은 곳이지."""
 _noble3,dlg,EntryList/19/Text,0,"""당신이 도착했을 때 어떻게 불러야 할까요?"""
 _noble3,dlg,EntryList/21/Text,0,"""<CUSTOM201>은 매우 독특한 이름입니다. 저는 여러분들이 어떤 지역에서 오셨는지 알기 위해 기대하고 있습니다."""
 _noble3,dlg,EntryList/22/Text,0,"""물론이지, 아슬히프. 우리 둘이 나누어 갖기에도 충분하고 남을 거라 확신하네."""
@@ -10357,8 +10357,8 @@ _noble3,dlg,EntryList/45/Text,0,<CUSTOM1004>뉴엘은 다가오면서 따뜻하�
 _noble3,dlg,EntryList/46/Text,0,"""골든 고블렛 주점에서 만나기로 한 걸 기대하고 있으니, 잊지 마세요."""
 _noble3,dlg,EntryList/47/Text,0,<CUSTOM1004>고급스러워 보이는 바느질 된 로브를 입은 인간 남성이 여기에 앉아 다가오는 당신을 위아래로 훑어본다. 그의 오른손이 밝은 파란색 눈 위로 부드럽게 늘어진 긴 회색 머리카락을 쓸어넘긴다.
 _noble3,dlg,EntryList/49/Text,0,"<CUSTOM1004>뉴엘, 아슬히프와 자린은 인내스럽게 앉아 있습니다."
-_noble3,dlg,EntryList/51/Text,0,"""그럼 앉으시오. '루비 레드 이야기'는 길고 엘프 와인은 독하니, 곧 의자에 앉은 걸 고마워하게 될 것이오."""
-_noble3,dlg,EntryList/53/Text,0,"""그럼 앉으시오. '루비 레드 이야기'는 길고 엘프 와인은 독하니, 곧 의자에 앉은 걸 고마워하게 될 것이오."""
+_noble3,dlg,EntryList/51/Text,0,"""그럼 앉으시오. '루비 레드 이야기'는 길고 엘프와인은 독하니, 곧 의자에 앉은 걸 고마워하게 될 것이오."""
+_noble3,dlg,EntryList/53/Text,0,"""그럼 앉으시오. '루비 레드 이야기'는 길고 엘프와인은 독하니, 곧 의자에 앉은 걸 고마워하게 될 것이오."""
 _noble3,dlg,EntryList/55/Text,0,"""보아라! 내 앞에 새로운 땅굴을 파는 사람이 서 있다."""
 _noble3,dlg,EntryList/56/Text,0,"""훌륭한 바느질 선택에 문양 직조도 실로 경이롭군."""
 _noble3,dlg,EntryList/57/Text,0,"""어떻게 생각하나, 제린. '울 속의 바늘'에서 나온 진짜 손바느질 로브라네?"""
@@ -10372,7 +10372,7 @@ _noble3,dlg,EntryList/66/Text,0,"""여사님들, 진정하십시오. 수입 와�
 _noble3,dlg,EntryList/67/Text,0,"""좋습니다. 골든 고블릿에서 즐거운 시간 보내시고, 시간이 되신다면 저희와 함께해 주시지요."""
 _noble3,dlg,EntryList/68/Text,0,"""그게 끝나면 골든 컵에서 같이 시간을 보낼 수 있을지도 몰라요""."
 _noble3,dlg,EntryList/69/Text,0,"""저녁에 여기에서 휴식을 취하는 것을 즐깁니다."""
-_noble3,dlg,EntryList/70/Text,0,"""이곳의 엘프 와인은 참 부드럽게 잘 넘어가는군. 다시 만날 때까지 안녕히."""
+_noble3,dlg,EntryList/70/Text,0,"""이곳의 엘프와인은 참 부드럽게 잘 넘어가는군. 다시 만날 때까지 안녕히."""
 _noble3,dlg,EntryList/71/Text,0,"""우리 가장 좋아하는 테이블에 함께해 주셔서 영광입니다."""
 _noble3,dlg,EntryList/72/Text,0,"""네 이름이 있어?"""
 _noble3,dlg,EntryList/74/Text,0,<CUSTOM1004>아슬히프가 당신에게 미소를 짓는 동안 부드러운 손이 당신의 팔을 밟는다.
@@ -10391,7 +10391,7 @@ _noble3,dlg,EntryList/91/Text,0,"""나는 단순히 우리의 새로운 손님�
 _noble3,dlg,EntryList/92/Text,0,"<CUSTOM1004>뉴엘은 빈 잔을 잡고 녹색 색의 병에서 어두운 보라색 모양의 액체를 붓습니다. 잔에 와인을 붓은 후, 그는 당신의 앞에 놓습니다."
 _noble3,dlg,EntryList/93/Text,0,"""자, 이제 우리가 약속했던 그 이야기와, 물론 내가 그토록 극찬했던 엘프의 와인 차례군요."""
 _noble3,dlg,EntryList/94/Text,0,"<CUSTOM1004>뉴엘, 아슬히프와 자린은 인내스럽게 앉아 있습니다."
-_noble3,dlg,EntryList/95/Text,0,"""이 지역에서 제공하는 최상의 수입 엘프 와인 중 일부를 놓치고 있습니다."""
+_noble3,dlg,EntryList/95/Text,0,"""이 지역에서 제공하는 최상의 수입 엘프와인 중 일부를 놓치고 있습니다."""
 _noble3,dlg,EntryList/96/Text,0,"""어쩌면 <lad/lass>(은)는 속이 약하거나, 여기서 파는 트롤 에일처럼 좀 더 야만적인 술을 선호할지도 모르지."""
 _noble3,dlg,EntryList/97/Text,0,"""좋을 대로 하세요, 하지만 새로운 이야기를 하고 들을 때는 늘 와인이 이야기를 더 가깝게 느끼게 해 준다는 걸 알게 됐어요."""
 _noble3,dlg,EntryList/98/Text,0,"""그야 뉴엘은 다른 것에는 가까이 갈 수도 없으니까 그렇지!"""
@@ -12302,7 +12302,7 @@ _rs_rnd_f4,dlg,EntryList/22/Text,0,"""네, 방금 말씀드린 라울렌이야. 
 _rs_rnd_f4,dlg,EntryList/23/Text,0,"""그래, 바로 그 여자야. 오늘 저녁엔 뒤쪽 벽 바로 옆에 있지. 쿠션과 스테인드글라스를 팔겠다고? 그녀가 곧 연주를 시작할 거야."""
 _rs_rnd_f4,dlg,EntryList/24/Text,0,"""그녀는 노래와 춤을 즐기고 싶다면 한두 가지 요청을 기꺼이 받아들인다."""
 _rs_rnd_f4,dlg,EntryList/25/Text,0,"""네, 방금 말씀드린 라울렌이야. 확실히 자신을 소개했지. 두 사람이 전에 만난 것 같아."""
-_rs_rnd_f4,dlg,EntryList/26/Text,0,"""그녀는 남부 지역의 유명한 바드입니다. 그녀는 어부 자리에서 놀아야 했지만 어떤 이유로든, 그녀는 그렇게 하지 않기로 결정했습니다""."
+_rs_rnd_f4,dlg,EntryList/26/Text,0,"""그녀는 남부 지역의 유명한 음유시인입니다. 그녀는 어부 자리에서 놀아야 했지만 어떤 이유로든, 그녀는 그렇게 하지 않기로 결정했습니다""."
 _rs_rnd_f4,dlg,EntryList/27/Text,0,"""카라밴 런에서 몇 블록 떨어진 곳에 그녀를 우연히 만났는데, 그녀의 기분은 그리 좋지 않았다."""
 _rs_rnd_f4,dlg,EntryList/28/Text,0,"""그녀는 이제 괜찮아 보이고, 편안해 보이는데, 노래와 춤을 좋아한다면, 한두 가지 요청을 기꺼이 받아들일 것이다."""
 _rs_rnd_f4,dlg,EntryList/29/Text,0,"""누구냐니 무슨 말이야? 아까 너희 둘이 이야기하는 걸 봤어. 그녀가 분명 자기소개를 했겠지. 너희 둘은 전에 만난 적 있는 것 같던데."""
@@ -12735,7 +12735,7 @@ _rs_rnd_m7,dlg,ReplyList/56/Text,0,계속해.
 _rune,dlg,EntryList/0/Text,0,<CUSTOM1004> 검은 눈은 이 인간 남성에게 다가갈 때 당신의 눈을 바라보고 있습니다. 한 장의 콧수염은 그의 얼굴의 대부분을 덮고 있습니다. 당신을 보고 기뻐하지 않는 얼굴입니다.
 _rune,dlg,EntryList/1/Text,0,"""예?"""
 _rune,dlg,EntryList/2/Text,0,"""조사라니, 이 시간에요?"""
-_rune,dlg,EntryList/3/Text,0,"""고등탑? 그것은 더 이상 존재하지 않는 사회의 소매자와 바드들에 의해 전해지는 긴 풍성한 이야기일 뿐이다""."
+_rune,dlg,EntryList/3/Text,0,"""고등탑? 그것은 더 이상 존재하지 않는 사회의 소매자와 음유시인들에 의해 전해지는 긴 풍성한 이야기일 뿐이다""."
 _rune,dlg,EntryList/5/Text,0,"""제나를 깨우는 동안 여기서 기다려 주세요. 여기 계시는 동안 그녀가 당신과 이야기를 나누고 싶어 할 겁니다."""
 _rune,dlg,EntryList/6/Text,0,"<CUSTOM1004>루인은 조용히 제나가 잠을 자는 곳으로 다가가서 그녀를 깨웁니다. 몇 분 후, 그녀는 테이블로 가서 앉습니다."
 _rune,dlg,EntryList/7/Text,0,"""만약 저녁에 오실 줄 알았다면 깨어있었을 거예요. 루네는 당신이 베자라 때문에 여기 왔다고 말해줬어요."""
@@ -12749,7 +12749,7 @@ _rune,dlg,EntryList/15/Text,0,내가 이브레 을 보며 그 밑바탕을 돌�
 _rune,dlg,EntryList/17/Text,0,"""그래서 심문을 던지는 목재들이 내 집으로 왔어요. ""네, 나는 에프레텀보다 지붕 아래 알칸디를 더 좋아하겠다""."
 _rune,dlg,EntryList/18/Text,0,<CUSTOM1004>인간 여성은 네 쪽으로 머리를 기울이고 눈은 붉고 볼은 젖어 있습니다.
 _rune,dlg,EntryList/19/Text,0,"""조사?"""
-_rune,dlg,EntryList/20/Text,0,"""고등탑? 그것은 더 이상 존재하지 않는 사회의 소매자와 바드들에 의해 전해지는 긴 풍성한 이야기일 뿐이다""."
+_rune,dlg,EntryList/20/Text,0,"""고등탑? 그것은 더 이상 존재하지 않는 사회의 소매자와 음유시인들에 의해 전해지는 긴 풍성한 이야기일 뿐이다""."
 _rune,dlg,EntryList/21/Text,0,"""룬, 이 도시의 다른 단체들은 베자라에게 무슨 일이 일어났는지 설명하기는커녕 우리를 도와주러 오지도 않았어."""
 _rune,dlg,EntryList/22/Text,0,<CUSTOM1004> 그녀의 눈이 커지며 처음으로 당신을 잘 살펴봅니다. 그녀는 루네를 쳐다보기 전에 말을 시작합니다.
 _rune,dlg,EntryList/23/Text,0,"""아마도 <he/she>는 정말로 이 높은 탑의 사람이겠지. 설령 아니라 해도, <he/she>가 도와주러 온 마당에 그게 무슨 상관이겠는가?"""
@@ -13074,7 +13074,7 @@ _shayla,dlg,EntryList/67/Text,0,"""엠메크의 오원회에서 졸업했을 때
 _shayla,dlg,EntryList/68/Text,0,"""그녀는 내 우본초, 맺어진 섬유와의 나의 유대감이다. 그녀 없이는 혼자서 섬유를 사용할 수 없을 정도로 너무 약해질 것이다."""
 _shayla,dlg,EntryList/69/Text,0,"""나는 그녀를 내 동반자, 내 친숙자 뿐 아니라 절친한 친구라고 생각한다""."
 _shayla,dlg,EntryList/70/Text,0,<CUSTOM1004> 포도나무와 잎이 쿼터스태프를 감싸며 춤추는 것처럼 보이면서 따뜻한 진동 소리를 내뿜습니다.
-_shayla,dlg,EntryList/72/Text,0,"""그들은 아그라론의 악명 높은 상인 라무엘에 의해 이끌리고 있으며, 그들과 함께 여행하는 바르드 울데름과 함께 도시를 오가며 노예를 팔고 살고 있다."""
+_shayla,dlg,EntryList/72/Text,0,"""그들은 아그라론의 악명 높은 상인 라무엘에 의해 이끌리고 있으며, 그들과 함께 여행하는 음유시인 울데름과 함께 도시를 오가며 노예를 팔고 살고 있다."""
 _shayla,dlg,EntryList/73/Text,0,"""그들은 해안을 따라 서쪽으로 이동해 왔고, 흑자 시장 상품, 노예 거래소 및 암울한 연결로 유명한 도시를 방문했습니다""."
 _shayla,dlg,EntryList/74/Text,0,"""알마라이벤은 카림산에 위치한 세 곳 모두의 지역적 요충지로, 카림포트 자체를 방문하지 않고도 이용할 수 있다."""
 _shayla,dlg,EntryList/75/Text,0,"""나는 이곳이 키라가 마침내 넘겨질 곳이라고 믿습니다. 만약 내가 그녀를 구할 수 없다면, 어둠 속에서 그녀를 추적하는 것은 거의 불가능할 것입니다."""
@@ -13407,7 +13407,7 @@ _shayla,dlg,ReplyList/191/Text,0,괴물 같은 재생력.
 _shayla,dlg,ReplyList/192/Text,0,하급 무적의 구체
 _shayla,dlg,ReplyList/193/Text,0,정신 차단
 _shayla,dlg,ReplyList/194/Text,0,대규모 가속
-_shayla,dlg,ReplyList/195/Text,0,마법 사제복.
+_shayla,dlg,ReplyList/195/Text,0,마법 성직자복.
 _shayla,dlg,ReplyList/196/Text,0,마법학자 갑옷
 _shayla,dlg,ReplyList/197/Text,0,빛.
 _shayla,dlg,ReplyList/198/Text,0,하급 주문 망토
@@ -13630,7 +13630,7 @@ _shayla,dlg,ReplyList/414/Text,0,괴물 같은 재생력.
 _shayla,dlg,ReplyList/415/Text,0,하급 무적의 구체
 _shayla,dlg,ReplyList/416/Text,0,정신 차단
 _shayla,dlg,ReplyList/417/Text,0,대규모 가속
-_shayla,dlg,ReplyList/418/Text,0,마법 사제복.
+_shayla,dlg,ReplyList/418/Text,0,마법 성직자복.
 _shayla,dlg,ReplyList/419/Text,0,마법학자 갑옷
 _shayla,dlg,ReplyList/420/Text,0,빛.
 _shayla,dlg,ReplyList/421/Text,0,하급 주문 망토
@@ -14355,7 +14355,7 @@ _sj_guard4,dlg,EntryList/30/Text,0,"""내 오랜 근무 기간 동안, 저택에
 _sj_guard4,dlg,EntryList/31/Text,0,"""어림짐작해 보자면, 하인들을 위한 새로운 수칙이겠지. 난 안 믿어!"""
 _sj_guard4,dlg,EntryList/32/Text,0,"""그래, 스프링윈 존스가 우리 모두를 같은 방향으로 이끌고 있다고 생각하네. 내 생각엔 그럴 때도 됐지! 가끔 여기엔 너무 혼란스러운 일이 많아, 특히 그가 사업차 자리를 비울 때는 더 그렇지."""
 _sj_guard4,dlg,EntryList/33/Text,0,"""그래서?"""
-_sj_guard4,dlg,EntryList/34/Text,0,"""아니, 이게 뭐야? 하프엘프 와인과 하프엘프 맥주를 대접하는 일꾼이라니! 아쉬가 내 얘기를 너한테 속삭이기라도 한 거야? 내가 이런 걸 좋아한다는 걸 네가 알 수 있는 방법은 이것밖에 없잖아!"""
+_sj_guard4,dlg,EntryList/34/Text,0,"""아니, 이게 뭐야? 하프엘프와인과 하프엘프 맥주를 대접하는 일꾼이라니! 아쉬가 내 얘기를 너한테 속삭이기라도 한 거야? 내가 이런 걸 좋아한다는 걸 네가 알 수 있는 방법은 이것밖에 없잖아!"""
 _sj_guard4,dlg,EntryList/35/Text,0,"""그게 신경쓰지 마. 여기 몇 개의 다이너가 있습니다. 총 50달러, 내가 너한테 친절한 것을 보며 주간을 더 많이 지불합니다. 보시다시피 <lad/lass>, 우리 경호는 그렇게 나쁘지 않습니다!"""
 _sj_guard4,dlg,EntryList/37/Text,0,"""이것 덕분에 남은 <day/night>가 아주 빠르게 지나가겠군. 다시 한번 고맙네, <lad/lass>!"""
 _sj_guard4,dlg,EntryList/38/Text,0,"""당신이 내 몫까지 한 병씩 몰래 빼돌렸군! 이야 <lad/lass>, 이대로라면 우리 아주 멋진 협력 관계가 되겠는가! 오크 와인만 부탁했는데 오크 에일도 가져왔잖아."""
@@ -15807,7 +15807,7 @@ _vi_rnd_f1,dlg,ReplyList/29/Text,0,미안하지만 아직 못 봤어.
 _vi_rnd_f1,dlg,ReplyList/30/Text,0,다윈을 찾으셨나요?
 _vi_rnd_f1,dlg,ReplyList/31/Text,0,안녕하세요
 _vi_rnd_f1,dlg,ReplyList/32/Text,0,"미안해, 애넥스. 다르위엔은 떠났어."
-_vi_rnd_f1,dlg,ReplyList/33/Text,0,다윈은 늑대인종이 되었습니다.
+_vi_rnd_f1,dlg,ReplyList/33/Text,0,다윈은 늑대종족이 되었습니다.
 _vi_rnd_f1,dlg,ReplyList/34/Text,0,난 다윈을 구하지 못했어.
 _vi_rnd_f1,dlg,ReplyList/35/Text,0,계속해.
 _vi_rnd_f1,dlg,ReplyList/36/Text,0,계속 가라.
@@ -16437,7 +16437,7 @@ _vi_rnd_f6,dlg,EntryList/11/Text,0,<CUSTOM1004>Gewia는 환영의 표정으로 �
 _vi_rnd_f6,dlg,EntryList/12/Text,0,<CUSTOM1004> 브린로는 맥주를 한 모금 마시면서 낮게 중얼거렸다. 그의 눈은 당신을 길게 쳐다보더니 멀어지며 머리를 흔들었다.
 _vi_rnd_f6,dlg,EntryList/15/Text,0,<CUSTOM1004>게비아는 맥주를 깊이 마시고 깊은 숨을 쉬었다.
 _vi_rnd_f6,dlg,EntryList/17/Text,0,<CUSTOM1004> 브린로는 컵을 들고 게비아의 맥주 컵에 맞습니다.
-_vi_rnd_f6,dlg,EntryList/19/Text,0,"""그곳, 북벽의 산속 깊이에는 탈라스산에 위치한 드워프 도시가 있습니다. 그 맛은 어둠 속의 버섯으로, 드워프 맥주를 만드는 데만 재배되는 것과 같습니다."""
+_vi_rnd_f6,dlg,EntryList/19/Text,0,"""그곳, 북벽의 산속 깊이에는 탈라스산에 위치한 드워프도시가 있습니다. 그 맛은 어둠 속의 버섯으로, 드워프 맥주를 만드는 데만 재배되는 것과 같습니다."""
 _vi_rnd_f6,dlg,EntryList/20/Text,0,"""타라스 맥주 공장에서 나온 것만큼 부드럽고 강한 다른 드워프 맥주도 없습니다."""
 _vi_rnd_f6,dlg,EntryList/21/Text,0,"<CUSTOM1004>게비아는 테이블 건너편의 브린로를 쳐다보더니, 대답하기 전에 은근한 미소를 짓는다."
 _vi_rnd_f6,dlg,EntryList/22/Text,0,"""알마라이벤이야, <lad/lass>, 내가 태어난 이래로 쭉. 떠나기 어려운 도시이고 내가 다른 곳에 살게 될 것 같지도 않지. 이 도시는 내가 필요한 모든 것을 가지고 있어."""
@@ -16616,7 +16616,7 @@ _vi_rnd_m2,dlg,EntryList/27/Text,0,"""피트는 그 지도를 몇 달 동안 계
 _vi_rnd_m2,dlg,EntryList/28/Text,0,"그러므로, 몇 시간 동안 일반실에서 몇몇 사람들과 어울린 후, 울부짖는 반시의 동행이 결성되었고, 우리는 붉은 원형 표시가 무엇을 의미하는지 알아보기 위해 출발했습니다."
 _vi_rnd_m2,dlg,EntryList/29/Text,0,"""내가, 토비 스타파이어, 활을 잘 잡고 있었다."
 _vi_rnd_m2,dlg,EntryList/30/Text,0,"""메이진, 네크로맨틱 에이티식스의 알려진 멤버로 지도에 표시된 것이 무엇인지 알기 위해 숲을 통한 하이킹에 매우 큰 관심을 보였다."""
-_vi_rnd_m2,dlg,EntryList/31/Text,0,"""마지막 네 번째는 옛 북쪽 땅 출신의 킬라인 윈터프로스트요. 숲의 영역을 누비는 레인저로, 나무들과 직접 대화할 수 있다고 주장하던 자지오."""
+_vi_rnd_m2,dlg,EntryList/31/Text,0,"""마지막 네 번째는 옛 북쪽 땅 출신의 킬라인 윈터프로스트요. 숲의 영역을 누비는 순찰자로, 나무들과 직접 대화할 수 있다고 주장하던 자지오."""
 _vi_rnd_m2,dlg,EntryList/32/Text,0,"""우린 참 어리석은 무리였지. 지도가 가리키는 게 뭔지 알아낸 건 그나마 덜 어리석었지만, 거기에 있는 던전에 기어들어간 건 정말 어리석은 짓이었어."""
 _vi_rnd_m2,dlg,EntryList/33/Text,0,"""나쁜 곳, 나쁜 곳, 그것은 <lad/lass>입니다. 그것은 Turmish 국가에 거주하는 Gulthmere 숲 밑에서 깊은 치명적인 Mazeyrinth입니다""."
 _vi_rnd_m2,dlg,EntryList/34/Text,0,"""나틀레흐에서 출발하면 나무의 고 야생적인 성장을 거쳐 3일간의 여행이 걸립니다."
@@ -17006,7 +17006,7 @@ _villa_gnome,dlg,EntryList/21/Text,0,"""내가 우연히 눈치채게 된 것은
 _villa_gnome,dlg,EntryList/22/Text,0,"""검은 텐타클, 그림자가 살아나고 있냐? 헤킨, 하루종일 술을 마시지 않았는지 확실하냐?"""
 _villa_gnome,dlg,EntryList/23/Text,0,“그때부터 나는 내 앞에 난 길을 달려서 빠져나갈 수 있을 때까지 미친 사람처럼 횃불을 사방으로 휘두르기 시작했다.”
 _villa_gnome,dlg,EntryList/24/Text,0,"""집까지 내달리는 동안 그 횃불을 손에 쥐고 있었지. 이제는 외출할 때마다 하나씩 들고 다니는데, 아내가 눈치채지 못하게 밤에 살짝 빠져나갈 수 있을 때가 바로 그때야."""
-_villa_gnome,dlg,EntryList/25/Text,0,"""그렇고말고요! 보시다시피 저는 노움이지만 이곳 알마라이벤에서 태어나지는 않았습니다. 빛나는 바다 건너의 도시 일스몽에서 왔지요."""
+_villa_gnome,dlg,EntryList/25/Text,0,"""그렇고말고요! 보시다시피 저는 노움가지만 이곳 알마라이벤에서 태어나지는 않았습니다. 빛나는 바다 건너의 도시 일스몽에서 왔지요."""
 _villa_gnome,dlg,EntryList/26/Text,0,"""나는 배에서 일하며, 발로 가보지 못한 다른 곳을 방문하는 일을 했다."""
 _villa_gnome,dlg,EntryList/27/Text,0,"""항구에서 처음 알마라이벤을 보았을 때, 나는 숨을 턱니다. 색상의 범위, 옷차림과 따뜻한 날씨는 저를 사로잡았습니다!"""
 _villa_gnome,dlg,EntryList/28/Text,0,"""그때부터 여기 있어."""
@@ -22713,10 +22713,10 @@ area037,git,Placeable List/71/ItemList/5/DescIdentified,0,"이 가는 디나르�
 area037,git,Placeable List/71/ItemList/6/LocalizedName,0,라벤더 슬라이스 디나르
 area037,git,Placeable List/71/ItemList/6/Description,0,"이 절단된 디나르는 특정한 방식으로 래벤더색으로 조각되고 그늘을 주어, 상인이나 거래자들이 단순히 보는 것만으로 가치를 알 수 있게 해준다. 이 래벤더색 절단된 디나르는 무역에서 20gp밖에 가치가 없다."
 area037,git,Placeable List/71/ItemList/6/DescIdentified,0,"이 절단된 디나르는 특정한 방식으로 래벤더색으로 조각되고 그늘을 주어, 상인이나 거래자들이 단순히 보는 것만으로 가치를 알 수 있게 해준다. 이 래벤더색 절단된 디나르는 무역에서 20gp밖에 가치가 없다."
-area037,git,Placeable List/71/ItemList/7/LocalizedName,0,로그 슬라이스 디나르
+area037,git,Placeable List/71/ItemList/7/LocalizedName,0,도적 슬라이스 디나르
 area037,git,Placeable List/71/ItemList/7/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area037,git,Placeable List/71/ItemList/7/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
-area037,git,Placeable List/71/ItemList/8/LocalizedName,0,로그 슬라이스 디나르
+area037,git,Placeable List/71/ItemList/8/LocalizedName,0,도적 슬라이스 디나르
 area037,git,Placeable List/71/ItemList/8/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area037,git,Placeable List/71/ItemList/8/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area037,git,Placeable List/71/ItemList/9/LocalizedName,0,빈 물약병
@@ -23481,7 +23481,7 @@ area042,git,Placeable List/73/ItemList/5/DescIdentified,0,"이 가는 디나르�
 area042,git,Placeable List/73/ItemList/6/LocalizedName,0,레드 슬라이버 디나르
 area042,git,Placeable List/73/ItemList/6/Description,0,"이 가는 디나르는 특별한 방식으로 조각되어 적색으로 그라데이션되어 있어 상인, 거래자 및 거래를 하는 사람들은 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 붉은 가는 디나르는 거래에서 1gp밖에 가치가 없다."
 area042,git,Placeable List/73/ItemList/6/DescIdentified,0,"이 가는 디나르는 특별한 방식으로 조각되어 적색으로 그라데이션되어 있어 상인, 거래자 및 거래를 하는 사람들은 단순히 그것을 보고 가치를 알 수 있게 해준다. 이 붉은 가는 디나르는 거래에서 1gp밖에 가치가 없다."
-area042,git,Placeable List/73/ItemList/7/LocalizedName,0,로그 슬라이스 디나르
+area042,git,Placeable List/73/ItemList/7/LocalizedName,0,도적 슬라이스 디나르
 area042,git,Placeable List/73/ItemList/7/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area042,git,Placeable List/73/ItemList/7/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area042,git,Placeable List/75/LocName,0,GI_Shelf
@@ -24090,10 +24090,10 @@ area048,git,Placeable List/40/ItemList/2/LocalizedName,0,나무 자루
 area048,git,Placeable List/40/ItemList/2/Description,0,이 부러진 테이블 다리는 횃불로 쓰기에 딱 좋은 크기다. 끝에 무언가를 감싸서 횃불로 만들 수만 있다면 좋을 텐데.
 area048,git,Placeable List/40/ItemList/2/DescIdentified,0,이 부러진 테이블 다리는 횃불로 쓰기에 딱 좋은 크기다. 끝에 무언가를 감싸서 횃불로 만들 수만 있다면 좋을 텐데.
 area048,git,Placeable List/43/LocName,0,목재궤짝
-area048,git,Placeable List/43/ItemList/0/LocalizedName,0,로그 슬라이스 디나르
+area048,git,Placeable List/43/ItemList/0/LocalizedName,0,도적 슬라이스 디나르
 area048,git,Placeable List/43/ItemList/0/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area048,git,Placeable List/43/ItemList/0/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
-area048,git,Placeable List/43/ItemList/1/LocalizedName,0,로그 슬라이스 디나르
+area048,git,Placeable List/43/ItemList/1/LocalizedName,0,도적 슬라이스 디나르
 area048,git,Placeable List/43/ItemList/1/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area048,git,Placeable List/43/ItemList/1/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area048,git,Placeable List/43/ItemList/2/LocalizedName,0,레드 슬라이버 디나르
@@ -25138,7 +25138,7 @@ area059,git,Placeable List/75/LocName,0,디나르의 쌓임
 area059,git,Placeable List/75/ItemList/0/LocalizedName,0,노랑 슬라이버 디나르
 area059,git,Placeable List/75/ItemList/0/Description,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
 area059,git,Placeable List/75/ItemList/0/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
-area059,git,Placeable List/75/ItemList/1/LocalizedName,0,로그 슬라이스 디나르
+area059,git,Placeable List/75/ItemList/1/LocalizedName,0,도적 슬라이스 디나르
 area059,git,Placeable List/75/ItemList/1/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area059,git,Placeable List/75/ItemList/1/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area059,git,Placeable List/75/ItemList/2/LocalizedName,0,레드 슬라이버 디나르
@@ -25291,7 +25291,7 @@ area061,git,StoreList/2/StoreList/3/ItemList/3/DescIdentified,0,"""세상에 아
 
 이 반지는 벤히의 특급 배송을 통해 캐스터즈 클레임에서 구입한 것이다."
 area061,git,StoreList/2/StoreList/3/ItemList/4/LocalizedName,0,요술사의 친구
-area061,git,StoreList/2/StoreList/3/ItemList/4/DescIdentified,0,"이 부적은 소서러에게 보너스를 부여합니다. 오직 소서러만이 이 부적의 힘을 경험하고 사용할 수 있습니다. 이 부적은 소서러에게 더 나은 주문 반사 능력을 제공합니다. 또한 마법으로 착용자인 소서러의 매력을 강화하여 2레벨 주문을 하나 더 기억할 수 있게 해 줍니다.
+area061,git,StoreList/2/StoreList/3/ItemList/4/DescIdentified,0,"이 부적은 요술사에게 보너스를 부여합니다. 오직 요술사만이 이 부적의 힘을 경험하고 사용할 수 있습니다. 이 부적은 요술사에게 더 나은 주문 반사 능력을 제공합니다. 또한 마법으로 착용자인 요술사의 매력을 강화하여 2레벨 주문을 하나 더 기억할 수 있게 해 줍니다.
 
 이 특정 아이템은 벤히 익스프레스의 '캐스터즈 클레임'에서 구입한 것입니다."
 area061,git,StoreList/2/StoreList/3/ItemList/5/LocalizedName,0,지도력 호신부
@@ -25638,7 +25638,7 @@ area063,git,Placeable List/30/LocName,0,영혼 단지
 area063,git,Placeable List/31/LocName,0,촛불 002
 area063,git,Placeable List/32/LocName,0,목재 저장 상자
 area063,git,Placeable List/32/Description,0,이 상자는 낮고 평평하여 상인의 거래 기록을 보관하고 정리하기에 적합한 것 같습니다.
-area063,git,Placeable List/32/ItemList/0/LocalizedName,0,에블린 사제복
+area063,git,Placeable List/32/ItemList/0/LocalizedName,0,에블린 성직자복
 area063,git,Placeable List/32/ItemList/0/Description,0,이 옷은 에블린 사상가회에서 손으로 꿰매진 연습생복입니다.
 area063,git,Placeable List/32/ItemList/0/DescIdentified,0,이 옷은 에블린 사상가회에서 손으로 꿰매진 연습생복입니다.
 area063,git,Placeable List/33/LocName,0,아름다운 그림
@@ -25662,7 +25662,7 @@ area063,git,Placeable List/60/Description,0,철로 묶여 있고 무거운 잠�
 area063,git,Placeable List/60/ItemList/0/LocalizedName,0,보라색 슬라이버 디나르
 area063,git,Placeable List/60/ItemList/0/Description,0,"이 디나르 조각은 특별한 방식으로 조각되어 보라색으로 그늘을 씌워져 있어 상인, 거래자 및 거래자들로 하여금 단순히 그것을 보면서 그 가치를 알 수 있게 해줍니다. 이 보라색 디나르 조각은 거래에서 2gp만 가치 있습니다."
 area063,git,Placeable List/60/ItemList/0/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 조각되어 보라색으로 그늘을 씌워져 있어 상인, 거래자 및 거래자들로 하여금 단순히 그것을 보면서 그 가치를 알 수 있게 해줍니다. 이 보라색 디나르 조각은 거래에서 2gp만 가치 있습니다."
-area063,git,Placeable List/60/ItemList/1/LocalizedName,0,로그 슬라이스 디나르
+area063,git,Placeable List/60/ItemList/1/LocalizedName,0,도적 슬라이스 디나르
 area063,git,Placeable List/60/ItemList/1/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area063,git,Placeable List/60/ItemList/1/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area063,git,Placeable List/60/ItemList/2/LocalizedName,0,별 모양의 디나르
@@ -26754,7 +26754,7 @@ area068,git,Placeable List/51/LocName,0,침대
 area068,git,Placeable List/58/ItemList/2/LocalizedName,0,좋은 화염 마노
 area068,git,Placeable List/58/ItemList/2/Description,0,"불마노는 얇은 갈색 층으로 형성되어 들어오는 빛을 굴절시켜 보석에 ""불""을 입힌다. 이 굴절은 종종 용의 비늘을 연상시키는 무늬를 이루어, 용족의 후예임을 자처하는 마법사들이 귀하게 여긴다. 잘 세공된 돌은 겉층을 갈아 내어 불꽃만 보이게 한다."
 area068,git,Placeable List/58/ItemList/2/DescIdentified,0,암시야 주문에도 사용되죠.
-area068,git,Placeable List/58/ItemList/3/LocalizedName,0,로그 슬라이스 디나르
+area068,git,Placeable List/58/ItemList/3/LocalizedName,0,도적 슬라이스 디나르
 area068,git,Placeable List/58/ItemList/3/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area068,git,Placeable List/58/ItemList/3/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area068,git,Placeable List/58/ItemList/4/LocalizedName,0,노랑 슬라이버 디나르
@@ -26888,7 +26888,7 @@ area071,git,Creature List/0/ItemList/1/DescIdentified,0,"이 조각된 디나르
 area071,git,Creature List/0/ItemList/2/LocalizedName,0,보라색 슬라이버 디나르
 area071,git,Creature List/0/ItemList/2/Description,0,"이 디나르 조각은 특별한 방식으로 조각되어 보라색으로 그늘을 씌워져 있어 상인, 거래자 및 거래자들로 하여금 단순히 그것을 보면서 그 가치를 알 수 있게 해줍니다. 이 보라색 디나르 조각은 거래에서 2gp만 가치 있습니다."
 area071,git,Creature List/0/ItemList/2/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 조각되어 보라색으로 그늘을 씌워져 있어 상인, 거래자 및 거래자들로 하여금 단순히 그것을 보면서 그 가치를 알 수 있게 해줍니다. 이 보라색 디나르 조각은 거래에서 2gp만 가치 있습니다."
-area071,git,Creature List/0/ItemList/3/LocalizedName,0,로그 슬라이스 디나르
+area071,git,Creature List/0/ItemList/3/LocalizedName,0,도적 슬라이스 디나르
 area071,git,Creature List/0/ItemList/3/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area071,git,Creature List/0/ItemList/3/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area071,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,황금 해골 반지
@@ -27059,10 +27059,10 @@ area074,git,StoreList/0/StoreList/1/ItemList/1/DescIdentified,0,"잠긴 물체�
 
 이 화살 묶음은 로제틸 거리에 있는 '어 핀치 오브 댓'이라는 현지 가게에서 만들었습니다."
 area074,git,StoreList/0/StoreList/3/ItemList/0/LocalizedName,0,골든 크로스
-area074,git,StoreList/0/StoreList/3/ItemList/0/Description,0,"""골든 크로스는 한때 우리 민족의 고위 사제들에게 착용되어 주어졌지만, 알마라이벤에 더 강력한 마법이 도입되면서 더 이상 착용되지 않았습니다. 나는 매우 저렴한 가격에 판매하고 있으니, 모두 사라지기 전에 하나를 사보세요!""
+area074,git,StoreList/0/StoreList/3/ItemList/0/Description,0,"""골든 크로스는 한때 우리 민족의 고위 성직자들에게 착용되어 주어졌지만, 알마라이벤에 더 강력한 마법이 도입되면서 더 이상 착용되지 않았습니다. 나는 매우 저렴한 가격에 판매하고 있으니, 모두 사라지기 전에 하나를 사보세요!""
 
 이 목걸이는 로세틸 거리에 위치한 로세틸이라는 지역 상점에서 판매되고 있습니다."
-area074,git,StoreList/0/StoreList/3/ItemList/0/DescIdentified,0,"""골든 크로스는 한때 우리 민족의 고위 사제들에게 착용되어 주어졌지만, 알마라이벤에 더 강력한 마법이 도입되면서 더 이상 착용되지 않았습니다. 나는 매우 저렴한 가격에 판매하고 있으니, 모두 사라지기 전에 하나를 사보세요!""
+area074,git,StoreList/0/StoreList/3/ItemList/0/DescIdentified,0,"""골든 크로스는 한때 우리 민족의 고위 성직자들에게 착용되어 주어졌지만, 알마라이벤에 더 강력한 마법이 도입되면서 더 이상 착용되지 않았습니다. 나는 매우 저렴한 가격에 판매하고 있으니, 모두 사라지기 전에 하나를 사보세요!""
 
 이 목걸이는 로세틸 거리에 위치한 로세틸이라는 지역 상점에서 판매되고 있습니다."
 area074,git,StoreList/0/StoreList/3/ItemList/1/LocalizedName,0,어둠 속의 번짐
@@ -27358,7 +27358,7 @@ area080,git,Placeable List/56/ItemList/2/DescIdentified,0,"이 밝은 주황색 
 area080,git,Placeable List/56/ItemList/3/LocalizedName,0,노랑 슬라이버 디나르
 area080,git,Placeable List/56/ItemList/3/Description,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
 area080,git,Placeable List/56/ItemList/3/DescIdentified,0,"이 디나르 조각은 특별한 방식으로 새겨져 노란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 노란색 디나르 조각은 거래에서 3gp만 가치 있습니다."
-area080,git,Placeable List/56/ItemList/4/LocalizedName,0,로그 슬라이스 디나르
+area080,git,Placeable List/56/ItemList/4/LocalizedName,0,도적 슬라이스 디나르
 area080,git,Placeable List/56/ItemList/4/Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area080,git,Placeable List/56/ItemList/4/DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 area080,git,Placeable List/56/ItemList/5/LocalizedName,0,라벤더 슬라이스 디나르
@@ -30093,9 +30093,9 @@ trade,git,StoreList/4/StoreList/4/ItemList/6/DescIdentified,0,이 돌은 제련�
 trade,git,StoreList/4/StoreList/4/ItemList/7/LocalizedName,0,수정 원추체
 trade,git,StoreList/4/StoreList/4/ItemList/7/DescIdentified,0,냉기의 원뿔을 사용해야 합니다.
 trade,git,StoreList/4/StoreList/4/ItemList/8/LocalizedName,0,당밀 한 방울
-trade,git,StoreList/4/StoreList/4/ItemList/8/DescIdentified,0,슬로우 스킬을 사용해야 한다.
+trade,git,StoreList/4/StoreList/4/ItemList/8/DescIdentified,0,슬로우 기술을 사용해야 한다.
 trade,git,StoreList/4/StoreList/4/ItemList/9/LocalizedName,0,당밀 한 방울
-trade,git,StoreList/4/StoreList/4/ItemList/9/DescIdentified,0,슬로우 스킬을 사용해야 한다.
+trade,git,StoreList/4/StoreList/4/ItemList/9/DescIdentified,0,슬로우 기술을 사용해야 한다.
 trade,git,StoreList/4/StoreList/4/ItemList/10/LocalizedName,0,독수리 깃털의
 trade,git,StoreList/4/StoreList/4/ItemList/10/DescIdentified,0,이글스플렌더 주문에서 사용되었습니다.
 trade,git,StoreList/4/StoreList/4/ItemList/11/LocalizedName,0,독수리 깃털의
@@ -30248,9 +30248,9 @@ trade,git,StoreList/4/StoreList/4/ItemList/75/DescIdentified,0,테샤의 끔찍�
 trade,git,StoreList/4/StoreList/4/ItemList/76/LocalizedName,0,타르트와 깃털
 trade,git,StoreList/4/StoreList/4/ItemList/76/DescIdentified,0,테샤의 끔찍한 웃음이 필요해
 trade,git,StoreList/4/StoreList/4/ItemList/77/LocalizedName,0,텐테클
-trade,git,StoreList/4/StoreList/4/ItemList/77/DescIdentified,0,에바드의 검은 촉수의 주요 구성 요소
+trade,git,StoreList/4/StoreList/4/ItemList/77/DescIdentified,0,에음유시인의 검은 촉수의 주요 구성 요소
 trade,git,StoreList/4/StoreList/4/ItemList/78/LocalizedName,0,텐테클
-trade,git,StoreList/4/StoreList/4/ItemList/78/DescIdentified,0,에바드의 검은 촉수의 주요 구성 요소
+trade,git,StoreList/4/StoreList/4/ItemList/78/DescIdentified,0,에음유시인의 검은 촉수의 주요 구성 요소
 trade,git,StoreList/4/StoreList/4/ItemList/79/LocalizedName,0,작은 활쏘기 표적
 trade,git,StoreList/4/StoreList/4/ItemList/79/DescIdentified,0,참된 타격을 시전해야 한다.
 trade,git,StoreList/4/StoreList/4/ItemList/80/LocalizedName,0,작은 활쏘기 표적
@@ -30815,7 +30815,7 @@ module,ifo,Mod_Description,0,"Amraiven [09.15.06] 공개 발매 이 모듈은 20
 module,jrl,Categories/0/Name,0,+++ 게임 종료 설정 +++
 module,jrl,Categories/0/EntryList/0/Text,0,"* 모험을 끝내는 당신의 캐릭터가 수출되고, 그리고 당신의 아이템과 탐구 정보가 저장되어 있는지 확인하려면, 당신을 미르 숲으로 데려가는 NPC와 이야기하십시오. 게임은 공식적으로 거기서 끝납니다. * 계속 플레이 당신이 당신의 임무를 완료했지만, 당신은 여전히 Almraiven을 탐구하고 부문 질문을 받고, 경험을 쌓거나 심지어 물건을 구입할 수 있습니다. 참고하십시오. * 당신이 준비가 되어 있다고 느낄 때 당신의 캐릭터와 정보를 저장하는 방법에 대한 메모를 저장하는 진행을 참조하십시오. * 재생 가능성 당신이 새로운 게임을 시작하면 Almraiven 데이터베이스가 깨끗하게됩니다! 즉, 당신이 방금 이 캐릭터로 계속했던 모험에서 모든 정보가 손실됩니다. 모험의 이 부분에서 당신이 한 것은 미르 숲으로 가져갈 것입니다. 이 캐릭터로 당신의 정보를 저장하는 모듈은 다음 끝에있는 Almraiven 데이터베이스의 마지막 모듈에 기초합니다."
 module,jrl,Categories/1/Name,0,알마라이벤 - 아말린의 정자 괴로움
-module,jrl,Categories/1/EntryList/0/Text,0,"위치: 킹스코트 상태: 불완전 한 아말린이라는 이름의 친근한 반 엘프가 자신의 뒷마당에서 짓고 있는 가제보를 완성하기 위해 몇 가지 자원을 조립하는 데 약간의 도움이 필요합니다. 그의 아내의 여동생은 에베레스카에서 온 중이며 그녀가 도착하기 전에 완성하기를 원했습니다. 아말린이 결혼하는 특성상, 그는 필요한 자원에 대해 시나르를 지출하기 위해 아내로부터 허가를 받아야합니다. 그래서 나는 그가 이전 결혼에서 받은 마법의 망막의 대가로 이러한 자원을 얻는 데 도움이 될 것을 제안했습니다. 아말린은 이 망막이 함정을 탐지하고 제거하는 능력을 가지고 있다고 언급했습니다. 나는 확실히 사용할 수 있습니다. 아말린이 나에게 요청한 물건은 손톱, 해마르 및 껍데기입니다."
+module,jrl,Categories/1/EntryList/0/Text,0,"위치: 킹스코트 상태: 불완전 한 아말린이라는 이름의 친근한 하프엘프가 자신의 뒷마당에서 짓고 있는 가제보를 완성하기 위해 몇 가지 자원을 조립하는 데 약간의 도움이 필요합니다. 그의 아내의 여동생은 에베레스카에서 온 중이며 그녀가 도착하기 전에 완성하기를 원했습니다. 아말린이 결혼하는 특성상, 그는 필요한 자원에 대해 시나르를 지출하기 위해 아내로부터 허가를 받아야합니다. 그래서 나는 그가 이전 결혼에서 받은 마법의 망막의 대가로 이러한 자원을 얻는 데 도움이 될 것을 제안했습니다. 아말린은 이 망막이 함정을 탐지하고 제거하는 능력을 가지고 있다고 언급했습니다. 나는 확실히 사용할 수 있습니다. 아말린이 나에게 요청한 물건은 손톱, 해마르 및 껍데기입니다."
 module,jrl,Categories/1/EntryList/1/Text,0,위치: 킹스코트 상태: 미완전으로 Amalin이 찾기를 요청한 3가지 물건 중 하나를 반환했습니다.
 module,jrl,Categories/1/EntryList/2/Text,0,"위치: 킹스코트
 상태: 미완료
@@ -30837,7 +30837,7 @@ module,jrl,Categories/1/EntryList/6/Text,0,"장소: 킹스코트
 아말린이 찾아 달라고 한 세 가지 물건 중 망치와 못 한 통, 둘을 돌려주었다.
 
 삽은 아직 돌려주지 못했다."
-module,jrl,Categories/1/EntryList/7/Text,0,"위치: 킹스코트 상태: 완전 아말린이라는 친구 반 엘프가 자신의 뒷마당에서 짓고 있는 가제보를 완성하기 위해 몇 가지 자원을 조립하는 데 도움이 필요합니다. 그의 아내의 여동생은 에베레스카에서 온 중이며 그녀가 도착하기 전에 완성하기를 원하고 있습니다. 아말린이 결혼하는 특성상, 그는 필요한 자원에 대해 그의 아내로부터 다이너를 지출하기 위해 허가를 받아야합니다. 그래서 나는 이전에 결혼한 곳에서 받은 마법의 망막의 대가로 이러한 자원을 얻는 데 도움이 될 것을 제안했습니다. 아말린은 이 망막이 함정을 감지하고 제거하는 능력을 가지고 있다고 언급했습니다. 내가 사용할 수 있는 것이 있습니다. 확실히 내가 아말린에게 돌아온 물건은 껍질, 해마르 및 손톱의 패키지였습니다."
+module,jrl,Categories/1/EntryList/7/Text,0,"위치: 킹스코트 상태: 완전 아말린이라는 친구 하프엘프가 자신의 뒷마당에서 짓고 있는 가제보를 완성하기 위해 몇 가지 자원을 조립하는 데 도움이 필요합니다. 그의 아내의 여동생은 에베레스카에서 온 중이며 그녀가 도착하기 전에 완성하기를 원하고 있습니다. 아말린이 결혼하는 특성상, 그는 필요한 자원에 대해 그의 아내로부터 다이너를 지출하기 위해 허가를 받아야합니다. 그래서 나는 이전에 결혼한 곳에서 받은 마법의 망막의 대가로 이러한 자원을 얻는 데 도움이 될 것을 제안했습니다. 아말린은 이 망막이 함정을 감지하고 제거하는 능력을 가지고 있다고 언급했습니다. 내가 사용할 수 있는 것이 있습니다. 확실히 내가 아말린에게 돌아온 물건은 껍질, 해마르 및 손톱의 패키지였습니다."
 module,jrl,Categories/2/Name,0,알마라이벤: 발동시킬 함정
 module,jrl,Categories/2/EntryList/0/Text,0,"로세틸 스트리트 STATUS: 완성. 카프트라는 거리의 한 사람 과 이야기 하는 동안, 나는 일찍 혹은 늦게 함정에 빠질 수 있다는 것을 알게 되었다. 카프트는 저에게 말했을 때 매우 구체적이었다. 그는 흰색 의복을 입은 3~4명의 남성이 금과 빨간색으로 그려져 있고, 아우렌을 위한 함정에 대해 논의하면서 지나갔다고 주장했습니다."
 module,jrl,Categories/3/Name,0,Almraiven: 알케미 연구
@@ -30902,8 +30902,8 @@ module,jrl,Categories/7/EntryList/6/Text,0,"위치: 카라반 런
 
 그러고는 북적이는 거리 속으로 자취를 감추었다."
 module,jrl,Categories/8/Name,0,알마라이벤 : 엑스 제스터의 상점
-module,jrl,Categories/8/EntryList/0/Text,0,위치: 하스쇼 라인 상태: 미완전하다 하스쇼 라인 거리에서 상품 딜러인 에이크스 제스터를 만났어요. 그는 저녁에 에버버버닝 로그에서 임대 객실에서만 사업을 합니다. 에이크스 제스터는 숙소의 2층에 오른쪽에 있는 마지막 문에 4번 두드리라고 했습니다. 그 다음에는 사업을 진행할 것입니다.
-module,jrl,Categories/8/EntryList/1/Text,0,위치: 하스쇼 라인 STATUS: 콤플렉트 엑스 제스터는 에버버버닝 로그 2층에 있는 임대 객실에서 만나서 유용하게 사용될 수 있는 몇 가지 마법 같은 물건들을 판매하고 있습니다. 그의 사업은 항상 저녁에 같은 임대 객실에서 진행됩니다.
+module,jrl,Categories/8/EntryList/0/Text,0,위치: 하스쇼 라인 상태: 미완전하다 하스쇼 라인 거리에서 상품 딜러인 에이크스 제스터를 만났어요. 그는 저녁에 에버버버닝 도적에서 임대 객실에서만 사업을 합니다. 에이크스 제스터는 숙소의 2층에 오른쪽에 있는 마지막 문에 4번 두드리라고 했습니다. 그 다음에는 사업을 진행할 것입니다.
+module,jrl,Categories/8/EntryList/1/Text,0,위치: 하스쇼 라인 STATUS: 콤플렉트 엑스 제스터는 에버버버닝 도적 2층에 있는 임대 객실에서 만나서 유용하게 사용될 수 있는 몇 가지 마법 같은 물건들을 판매하고 있습니다. 그의 사업은 항상 저녁에 같은 임대 객실에서 진행됩니다.
 module,jrl,Categories/9/Name,0,알마라이벤: 지하실 행
 module,jrl,Categories/9/EntryList/0/Text,0,"위치: 스프링윈 존스 에스테이트 상태: 아직 완성되지 않은 상태에서 스프링윈 존스 에스테이트 내부의 경호인 라프에게 동네 지하에 위치한 오크시스 와인을 구하기 위해 도움을 제공했습니다. 단지 종들만이 지하로 내려갈 수 있는 것 같습니다. 그리고 나는 이미 종들 의 옷을 입고 동네를 돌아다니고 있기 때문에, 나는 그 역할을 계속 할 수 있습니다."
 module,jrl,Categories/9/EntryList/1/Text,0,위치: 스프링윈 존스 에스테이트 상태: 불완전한 것: 잘 된 것 같습니다. 저는 지하에 위치한 매우 크고 잔인한 외모의 경호견을 먹여서 소금 고기를 가지고 있었기에 다행입니다. 그 개는 충분히 행복해 보였다. 그리고 고기를 다시 자신의 으로 가져가서 잔잔했습니다. 이 썩은 곳을 탐험할 수 있게 해 주었습니다.
@@ -31049,8 +31049,8 @@ module,jrl,Categories/13/EntryList/10/Text,0,"위치: 시내 상태 아래: 불�
 module,jrl,Categories/13/EntryList/11/Text,0,"위치: 도시 아래
 상태: 거의 완공
 
-나는 벨라돈나와 저주 해제 마법으로 다윈을 치료할 수 있었으며, 감염이 그녀를 위르폴크 공동체의 일원으로 바꾸는 것을 막았습니다. 다윈의 취약한 몸을 들고 있으며, 낮에 빌라에서 애넥스를 찾아 다윈을 돌려주어야 합니다. 저녁에는 에버버너링 로그에서 애넥스를 찾을 수 있습니다. 가능한 한 빨리 표면으로 돌아가야 합니다."
-module,jrl,Categories/13/EntryList/12/Text,0,"위치: 에버버링 로그 상태: 완전 에버버링 로그 에서 에넥스를 만나 다윈을 그녀에게 넘겨주었습니다. 그녀는 나에게 어떤 보상도 주지 않았음에도 불구하고, 그녀가 알름라이벤을 떠나면 기꺼이 함께 갈 것이라고 언급했습니다. 그녀의 회사를 원한다면, 지역 러너스샵에서 7733을 사용하여 그녀가 머물고 있는 곳을 알 수 있습니다. 그녀는 나에게 메시지를 남길 것이라고 언급했습니다."
+나는 벨라돈나와 저주 해제 마법으로 다윈을 치료할 수 있었으며, 감염이 그녀를 위르폴크 공동체의 일원으로 바꾸는 것을 막았습니다. 다윈의 취약한 몸을 들고 있으며, 낮에 빌라에서 애넥스를 찾아 다윈을 돌려주어야 합니다. 저녁에는 에버버너링 도적에서 애넥스를 찾을 수 있습니다. 가능한 한 빨리 표면으로 돌아가야 합니다."
+module,jrl,Categories/13/EntryList/12/Text,0,"위치: 에버버링 도적 상태: 완전 에버버링 도적에서 에넥스를 만나 다윈을 그녀에게 넘겨주었습니다. 그녀는 나에게 어떤 보상도 주지 않았음에도 불구하고, 그녀가 알름라이벤을 떠나면 기꺼이 함께 갈 것이라고 언급했습니다. 그녀의 회사를 원한다면, 지역 러너스샵에서 7733을 사용하여 그녀가 머물고 있는 곳을 알 수 있습니다. 그녀는 나에게 메시지를 남길 것이라고 언급했습니다."
 module,jrl,Categories/13/EntryList/13/Text,0,"위치: 빌라 상태: 빌라에 있는 Annex을 만나 다윈을 그녀에게 넘겨주었습니다. 그녀는 나에게 어떤 보상도 주지 않았지만, 그녀가 알브라이벤을 떠나면 기꺼이 함께 갈 것이라고 언급했습니다. 그녀의 회사를 원한다면, 지역 러너스샵에서 7733을 통해 그녀가 머물고 있는 곳을 알 수 있습니다. 그녀는 그녀가 나에게 메시지를 남길 것이라고 언급했습니다."
 module,jrl,Categories/13/EntryList/14/Text,0,"위치: 더 빌라
 상태: 미완료
@@ -31072,9 +31072,9 @@ module,jrl,Categories/14/Name,0,알브라이벤: 노인의 악마
 module,jrl,Categories/14/EntryList/0/Text,0,"위치: 하스쇼 라인 상태: 불완전 한 하스쇼 라인 에 있는 한 노인 은 귀신 들 또는 아마 악마 들 이 잡은 것 처럼 보인다. 그리고 나는 그의 마음을 되찾을 수 있도록 할 수 있는 모든 것을 제안했다. 차가운 속삭임과 다른 목소리가 노인의 입술에서 깨어나면서 나를 둘러싸고 형성되었다. 아쉬, 메라, 케사라는 이름들은 귀신들이 알고 있는 사람으로서 사용되었다. 그들이 말하는 이름은 시라, 또한 그들에게 실이라고도 알려져 있다. 이러한 귀신들이 어떤 종류의 화재에서 멸망한 것 같았다. 아마도 주변을 묻는 것은 좋은 시작일 것 같습니다."
 module,jrl,Categories/14/EntryList/1/Text,0,"위치: 하스쇼 라인 상태: 완전하지 않은 상태에서 시라에 대해 물어보기 위해 시간을 내기 시작했고, 시라가 불에 죽었다고 말한 페잔이라는 거리의 옆으로 갔습니다. 시라의 집은 이제 불에 죽었습니다. ""그녀와 그녀가 함께 살았던 모든 사람들은 불에 죽었습니다. 그녀를 전에 알지 못했지만 모든 사람들이 불 때문에 그녀를 알고 있습니다""."
 module,jrl,Categories/14/EntryList/2/Text,0,"위치: 하스쇼 라인 상태: 완전하지 않은 상태에서 시라를 둘러보기 위해 시간을 내기 시작했고 바도라라는 거리의 옆으로 왔으며, 시라가 그녀의 집에서 퍼진 화재에서 겨우 탈출했다고 말했다. ""그 화재로 4명이 사망했지만 시라가 겨우 목숨을 구했다고 들었습니다. 다시 건설되지 않았습니다""."
-module,jrl,Categories/14/EntryList/3/Text,0,"위치: 하스쇼 라인 상태: 불완전하다 시라를 둘러보기 위해 시간을 내기 시작했고 바도라라는 거리의 한쪽을 만났는데, 시라가 그녀의 집에서 퍼진 화재에서 겨우 탈출했다고 말했다. ""그 화재에서 4명이 사망했지만 시라가 겨우 목숨을 구했다고 들었습니다. 다시 건설되지 않았습니다"". 실라의 집이 있던 곳에 에버버버닝 로그가 현재 서 있지만, 바도라가 실라를 화재에서 탈출했다고 언급했지만, 실라가 화재 이후 시라를 본 적이 없으며 무엇을 믿어야 할지 확신하지 않습니다. 페잔에 대해서는 또 다른 거리의 한쪽에서, 그녀는 불에 사망했다고 들었습니다. ""그녀와 그녀가 살았던 모든 사람들은 불에 사망했습니다. 그녀의 손을 이전에는 알지 못했지만, 지금은 실라가 화재로 인해 알고 있습니다. 실라의 소유자는 모든 것을 공유 할 것입니다""."
-module,jrl,Categories/14/EntryList/4/Text,0,"위치: 하스쇼 라인 상태: 불완전 잘 시라가 그녀의 집을 파괴한 화재로 사망한 것 같거나 화재 이후 본 적이 없는 것 같습니다. 에버버버닝 로그의 바텐더 가리크조차도 그녀의 소식을 듣지 않았지만, 숙소가 현재 거주하는 곳에 집이 있었다는 것을 알고 있었다. 페잔이라는 거리의 한쪽은 시라가 그녀의 집에서 퍼진 화재로 사망했다고 말했다. 바도라가 시라를 화재에서 탈출했다고 언급했습니다. 그래서 시라가 늙은이가 듣고있는 영으로 사망했습니까? 늙은이가 단순히 미쳤습니까? 시라가 실제로 살아있거나 도시에서 다른 곳에서 있습니까? 그녀가 살아있다면, 나는 그녀의 이름을 위해 날카로운 귀를 기울여야합니다."
-module,jrl,Categories/14/EntryList/5/Text,0,"위치: 카라반 런 상태: 완전하지 않은 상태: 대부분의 경우 실라를 살아서 발견했습니다. 그녀는 트레이드 워드 내에 있는 카라반 런에서 거리에서 살고 있으며 그녀의 불타진 집과 관련해 많은 정보를 나와 공유했습니다. 그녀의 방동생들은 모두 불타는 동안 기내로 향했고 실라는 옥상당의 창문으로 탈출했습니다. 트레이드 워드의 술탄인 파루크 이 랄란은 소유자 중 한 명이 불을 일으켜 모든 사람들이 불타고 있다고 주장했다. 얼마 지나지 않아, 에버버버닝 로그가 주택이 있던 곳에 세워졌습니다. 집의 레이아웃과 관련하여, 빌라에 이르는 계단을 언급했습니다. 현재 옛 에버닝 로그의 메인 층에 있는 기내로 보관소가 있는 곳이다. 실라의 창당의 창당에 대한 수색이 있었으므로, 그 아래는 에버버버닝 로그가 세워져있었기 때문에, 아마도 에버버버닝 로그가 세워져 있던 곳에도 여전히 존재할 수 있습니다."
+module,jrl,Categories/14/EntryList/3/Text,0,"위치: 하스쇼 라인 상태: 불완전하다 시라를 둘러보기 위해 시간을 내기 시작했고 바도라라는 거리의 한쪽을 만났는데, 시라가 그녀의 집에서 퍼진 화재에서 겨우 탈출했다고 말했다. ""그 화재에서 4명이 사망했지만 시라가 겨우 목숨을 구했다고 들었습니다. 다시 건설되지 않았습니다"". 실라의 집이 있던 곳에 에버버버닝 도적이 현재 서 있지만, 바도라가 실라를 화재에서 탈출했다고 언급했지만, 실라가 화재 이후 시라를 본 적이 없으며 무엇을 믿어야 할지 확신하지 않습니다. 페잔에 대해서는 또 다른 거리의 한쪽에서, 그녀는 불에 사망했다고 들었습니다. ""그녀와 그녀가 살았던 모든 사람들은 불에 사망했습니다. 그녀의 손을 이전에는 알지 못했지만, 지금은 실라가 화재로 인해 알고 있습니다. 실라의 소유자는 모든 것을 공유 할 것입니다""."
+module,jrl,Categories/14/EntryList/4/Text,0,"위치: 하스쇼 라인 상태: 불완전 잘 시라가 그녀의 집을 파괴한 화재로 사망한 것 같거나 화재 이후 본 적이 없는 것 같습니다. 에버버버닝 도적의 바텐더 가리크조차도 그녀의 소식을 듣지 않았지만, 숙소가 현재 거주하는 곳에 집이 있었다는 것을 알고 있었다. 페잔이라는 거리의 한쪽은 시라가 그녀의 집에서 퍼진 화재로 사망했다고 말했다. 바도라가 시라를 화재에서 탈출했다고 언급했습니다. 그래서 시라가 늙은이가 듣고있는 영으로 사망했습니까? 늙은이가 단순히 미쳤습니까? 시라가 실제로 살아있거나 도시에서 다른 곳에서 있습니까? 그녀가 살아있다면, 나는 그녀의 이름을 위해 날카로운 귀를 기울여야합니다."
+module,jrl,Categories/14/EntryList/5/Text,0,"위치: 카라반 런 상태: 완전하지 않은 상태: 대부분의 경우 실라를 살아서 발견했습니다. 그녀는 트레이드 워드 내에 있는 카라반 런에서 거리에서 살고 있으며 그녀의 불타진 집과 관련해 많은 정보를 나와 공유했습니다. 그녀의 방동생들은 모두 불타는 동안 기내로 향했고 실라는 옥상당의 창문으로 탈출했습니다. 트레이드 워드의 술탄인 파루크 이 랄란은 소유자 중 한 명이 불을 일으켜 모든 사람들이 불타고 있다고 주장했다. 얼마 지나지 않아, 에버버버닝 도적이 주택이 있던 곳에 세워졌습니다. 집의 레이아웃과 관련하여, 빌라에 이르는 계단을 언급했습니다. 현재 옛 에버닝 도적의 메인 층에 있는 기내로 보관소가 있는 곳이다. 실라의 창당의 창당에 대한 수색이 있었으므로, 그 아래는 에버버버닝 도적이 세워져있었기 때문에, 아마도 에버버버닝 도적이 세워져 있던 곳에도 여전히 존재할 수 있습니다."
 module,jrl,Categories/14/EntryList/6/Text,0,위치: '영원 불타는 기록' 상태: '완전하지 않은 상태' '영원 불타는 기록'으로 돌아와서 아래의 기저장을 탐구했다. 그 곳에서 나는 존재가 사라지고 사라지는 영에 의해 붙잡혀있는 떠있는 불빛을 발견했다. 그녀의 촉수의 차가운 추운 느낌만 느껴졌다. 그 이상은 아무것도 없었다. 이 영과 소통하는 것은 필수입니다. '채널링의 약물을 만드는 것'은 이 작업에 도움이 될 것입니다.
 module,jrl,Categories/14/EntryList/7/Text,0,"위치: 사후불기록 상태: 불완전한 전원에서 사신 중 세 마신과 만나서 살해된 유물을 지키고 있습니다. 아쉬, 메라, 케사 등 각 신에게 도움을 줄 것을 제안했습니다. 한편으로는 파타는 죽은 땅에서 실종되었으며 유령 친구들은 최악의 것을 두려워합니다. 아쉬, 메라, 케사 등이 살아있는 땅에서의 시절에 그들에게 소중한 물체와 재회할 때, 그들은 해방 될 것입니다. 두 영역에서 더 이상 존재하지 않습니다. 아쉬는 어머니께서 준 은 목걸이를 찾습니다. 그녀는 손가락으로 손가락을 가리키고 다른 두 손가락으로 반지의 모양을 만들 수 있습니다. 마침내, 케사 는 오래된 어린 시절 장난감, 메라 곰이 그녀의 욕망이었습니다. 그들은 더 이상 집에 있는 물체에 대해 언급하지 않았습니다. 그리고 모든 물체들은 한 번만 남아있을 것입니다. 그러나 나머지 세 가지 물체들은 여전히 존재합니다."
 module,jrl,Categories/14/EntryList/8/Text,0,"위치: 카라반 런
@@ -31083,7 +31083,7 @@ module,jrl,Categories/14/EntryList/8/Text,0,"위치: 카라반 런
 실라와 이야기를 나누고 친구들의 운명에 대해 전해 주자, 그녀는 고향의 폐허를 몇 번 방문한 끝에 세 가지 물건 모두를 찾았다고 말했다. 그녀는 남은 디나르를 탈탈 털어 빌라 지역의 '스펙트럴즈 콜'에 유골함과 안치할 장소를 마련했다.
 
 실라는 친구들을 편히 쉬게 해줄 수 있도록 그 물건들을 가져가도 좋다고 했다."
-module,jrl,Categories/14/EntryList/9/Text,0,"위치: 스펙트럴의 호출 상태: 완성 직후 시라가 언급한 우른을 찾아내서 내부에서 세 가지 물건을 모두 제거했습니다. 아쉬가 요청한 은 목걸이, 메라스 구리 반지, 케사스 붓고 있는 곰. 이제 세 가지 물건들을 모두 가지고 있는 상태에서, 나는 안전하게 에버버버닝 로그 아래의 기저장으로 돌려보내며 고생한 영들을 한 번 영원히 휴식시킬 수 있습니다."
+module,jrl,Categories/14/EntryList/9/Text,0,"위치: 스펙트럴의 호출 상태: 완성 직후 시라가 언급한 우른을 찾아내서 내부에서 세 가지 물건을 모두 제거했습니다. 아쉬가 요청한 은 목걸이, 메라스 구리 반지, 케사스 붓고 있는 곰. 이제 세 가지 물건들을 모두 가지고 있는 상태에서, 나는 안전하게 에버버버닝 도적 아래의 기저장으로 돌려보내며 고생한 영들을 한 번 영원히 휴식시킬 수 있습니다."
 module,jrl,Categories/14/EntryList/10/Text,0,"장소: 영원불타는 나무
 상태: 거의 완료
 
@@ -31186,7 +31186,7 @@ module,jrl,Categories/20/EntryList/1/Text,0,"위치: 스펙트럴의 부름
 module,jrl,Categories/20/EntryList/2/Text,0,"위치: 스펙트럴의 호출 상태: 불완전한 암호 중 하나를 봉인하는 보호 방이 제거되었습니다. 이 특별한 파란색 빛의 샤프트는 적어도 말하지만 그들을 따라, 이제 잠금되지 않은 암호 문으로 나를 이끌어야 합니다."
 module,jrl,Categories/20/EntryList/3/Text,0,위치: 스펙트럴의 호출 상태: 불완전한 암호 중 하나를 봉인하는 보호 방이 제거되었습니다. 이 붉은 빛의 샤프들은 전혀 환영하지 않을 것 같습니다. 저는 근처에 잠금 없는 암호 문을 찾을 수 있을 것입니다.
 module,jrl,Categories/20/EntryList/4/Text,0,"위치: 스펙트럴의 호출 상태: 불완전합니다. 이것은 전혀 좋지 않습니다. 이 묘역을 봉쇄한 보호 구역을 제거한 후, 저는 이제 이 무덤 안으로 들어갔을 때 이 무덤 안에 갇혀 있습니다. 그것은 분명히 다른 보호 구역에 의해 보호됩니다."
-module,jrl,Categories/20/EntryList/5/Text,0,"위치: 루아누의 가정 상태: 불완전. 루아누는 플라우스라는 사람이 시체를 찾을 수 있도록 도와줄 수 있다고 알려줬는데, 결국은 그 시체를 해체하고 수집된 신체 부위를 사용하여 실험실 보조를 소환할 수 있다고 말했습니다. 루아누는 하스쇼 라인 상거래 구역에 위치한 에버버버닝 로그 인에서 저녁에 플라우스를 찾을 수 있다고 언급했습니다."
+module,jrl,Categories/20/EntryList/5/Text,0,"위치: 루아누의 가정 상태: 불완전. 루아누는 플라우스라는 사람이 시체를 찾을 수 있도록 도와줄 수 있다고 알려줬는데, 결국은 그 시체를 해체하고 수집된 신체 부위를 사용하여 실험실 보조를 소환할 수 있다고 말했습니다. 루아누는 하스쇼 라인 상거래 구역에 위치한 에버버버닝 도적 인에서 저녁에 플라우스를 찾을 수 있다고 언급했습니다."
 module,jrl,Categories/20/EntryList/6/Text,0,"위치: 가정 상태: 불완전 내 개인 연구실은 내가 더 높은 타워에서 공부했던 것보다 훨씬 작지만 충분해야 합니다. 제 조사에 필요한 장비는 여기 있지만, 새로운 연구실 보조원을 불러낼 수 있을 때까지 더 어려운 작업을 수행 할 수 없을 것입니다. 6 개월 이상 죽은 시체를 찾는 것은 내가 모르는 도시에서 수행하기가 어려울 수 있습니다. 아마도 저의 접촉 Luanu는 그러한 시체를 얻는 데 도움이 될 수 있습니다."
 module,jrl,Categories/20/EntryList/7/Text,0,"위치: 스펙트럴의 호출 상태: 거의 완료 되었습니다. 마지막 봉기는 해체되었고, 저는 724년으로 거슬러 올라가는 시체를 발견했습니다. 오쿠홀 하라브는 그의 이름입니다. 훨씬 오래된 이름입니다. 저는 그가 죽은 자들의 땅에서 휴가를 가지 않았으면 좋겠습니다. 왜냐하면 이 하라브는 제 새로운 실험실 보조가 될 것이기 때문입니다."
 module,jrl,Categories/20/EntryList/8/Text,0,"위치: 스펙트럴의 부름
@@ -31195,7 +31195,7 @@ module,jrl,Categories/20/EntryList/8/Text,0,"위치: 스펙트럴의 부름
 최종 봉인이 풀렸고 942년의 시체를 손에 넣었다. 그녀의 이름은 파디아 네블룬, 잔혹하고 피비린내 나던 시대의 이름이다.
 
 죽은 자들의 땅에서 전투에 휘말려 영혼을 속박당하지 않았기를 바란다. 이 파디아가 나의 새로운 실험실 조수가 될 것이기 때문이다."
-module,jrl,Categories/20/EntryList/9/Text,0,"위치: 에버버버닝 로그 상태: 불완전하다. 에버버버닝 로그에서 플라우스를 만나 시체에 대해 이야기 한 후, 나는 알름라이벤에 항해하는 배인 블러드 러너에 대한 정보에 대해 25 다이너를 지불하기로 결정했습니다. 플라우스는 이 배에는 마즈티카에서 embalmed 시체가 포함되어 있으며 한 사람이 내 필요에 부합할 수 있다고 언급했습니다. 나는 저녁에 스카이프가 엔터테인먼트를 위해 트와일라이트 타버너로 향하는 동안 속삭이는 것이 좋습니다. 기억하십시오. 나는 카라반 러ンの 가게에서 래프를 임대해야 할 뿐만 아니라 갑판에 올라가는 로프를 구입해야 할 것입니다."
+module,jrl,Categories/20/EntryList/9/Text,0,"위치: 에버버버닝 도적 상태: 불완전하다. 에버버버닝 도적에서 플라우스를 만나 시체에 대해 이야기 한 후, 나는 알름라이벤에 항해하는 배인 블러드 러너에 대한 정보에 대해 25 다이너를 지불하기로 결정했습니다. 플라우스는 이 배에는 마즈티카에서 embalmed 시체가 포함되어 있으며 한 사람이 내 필요에 부합할 수 있다고 언급했습니다. 나는 저녁에 스카이프가 엔터테인먼트를 위해 트와일라이트 타버너로 향하는 동안 속삭이는 것이 좋습니다. 기억하십시오. 나는 카라반 러ンの 가게에서 래프를 임대해야 할 뿐만 아니라 갑판에 올라가는 로프를 구입해야 할 것입니다."
 module,jrl,Categories/20/EntryList/10/Text,0,"위치: 블러드 러너  
 상태: 미완료
 
@@ -31341,7 +31341,7 @@ module,jrl,Categories/31/EntryList/4/Text,0,"장소 : 라일락 로프트
 module,jrl,Categories/31/EntryList/5/Text,0,위치: 라일크 로프트 상태: 완전 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로프트 로
 module,jrl,Categories/32/Name,0,알마레이벤: 뱀 물림
 module,jrl,Categories/32/EntryList/0/Text,0,"위치: Almraiven STATUS: 불완전 이레나 의 침대의 밑 에서 가져온 혈액 샘플 은 그 를 죽인 뱀 이 주입 한 독 때문 에 녹색 색 을 띠고 있습니다. 아마도 루아누 이나 플라우크 는 그 지역 에 있는 어떤 뱀 이도 몇 초 이내 사람 을 죽일 수 있는 능력을 가지고 있을 것 을 알고 있을 것 이다. 나는 단지 가 없고, 그 를 덮을 수 있는 도시 의 많은 곳 이 있다. . . ."
-module,jrl,Categories/32/EntryList/1/Text,0,"위치: 에버버버닝 로그 상태: 불완전 음, 저는 에버버버닝 로그에서 플라우스와 대화를 나눴습니다. 그는 때때로 독성 뱀을 다루는 사람의 이름을 알려줬습니다. 그는 Bado라는 이름의 동물 관리자를 방문하는 것을 제안했습니다. 도크 워드의 스트립에 위치한 동물 케이지에 대한 지침이 주어졌습니다. 그곳에서 몇 가지 답을 얻을 수 있지만 배를 타고만 갈 수 있습니다. 나는 워터 에드에서 하나를 임대 할 수 있어야 합니다. 무역 구역의 카라반 런에 위치한 가게."
+module,jrl,Categories/32/EntryList/1/Text,0,"위치: 에버버버닝 도적 상태: 불완전 음, 저는 에버버버닝 도적에서 플라우스와 대화를 나눴습니다. 그는 때때로 독성 뱀을 다루는 사람의 이름을 알려줬습니다. 그는 Bado라는 이름의 동물 관리자를 방문하는 것을 제안했습니다. 도크 워드의 스트립에 위치한 동물 케이지에 대한 지침이 주어졌습니다. 그곳에서 몇 가지 답을 얻을 수 있지만 배를 타고만 갈 수 있습니다. 나는 워터 에드에서 하나를 임대 할 수 있어야 합니다. 무역 구역의 카라반 런에 위치한 가게."
 module,jrl,Categories/32/EntryList/2/Text,0,"위치: 만드라크 루트 상태: 미완전하다 루아누와 이야기했는데 그녀는 큰 도움이 되지 않았다. 그녀는 하이 타워의 정보원이지만, 일반적으로 뱀이나 독에 대한 지식이 부족하다. 그녀는 현재 도크 워드에 위치한 스트립에서 시간을 보내는 여성과 이야기 할 것을 제안했다. 루아누는 나이라는 매력적인 뱀에 대한 예술을 가지고 있다고 언급했습니다. 그녀는 엔터테인터였기 때문에 왕국에서 더 치명적인 뱀에 대해 충분히 알고있을 수 있습니다. 루아누는 나이라의 집으로 안내를 줬지만 나는 배를 타고 갈 수 있습니다. 나는 워터 엣지, 트레이드 워드에있는 카라반 런에 위치한 가게에서 임대 할 수 있습니다."
 module,jrl,Categories/32/EntryList/3/Text,0,"위치: 개인 도서관 상태: 완공 직후 Almraiven 전역을 달리며 독성 뱀에 대해 한 두 가지 알고 있는 사람을 찾기 보다는, 저는 도서관에 모여서 독성 파충류에 대한 조사 연구를 하기로 결정했습니다. 이레나가 물었을 직전에 만들어진 음 소리가 蛇를 찾고 있다는 확실한 신호입니다. 많은 시간 후에, 저는 그것을 세 가지 종류의 蛇로 줄여주었지만, 그 중 두 가지는 이 영역의 특정 지역에서 발견되지 않습니다. 세 번째 뱀은 가능성이 있으며, 그것은 메두사의 머리에서 제거 된 蛇의 물음입니다. 아마도 루 메두나 또는 플라우스는 여기 근처에 있는 뱀에 대해 알고 있습니다. . ."
 module,jrl,Categories/32/EntryList/4/Text,0,"장소: 스트립 상태: 불완전. 나이라 와 만나자마자 그녀는 독성 뱀 과 유인물 에 관한 책 을 내놓았지만, 루아누가 날 보내셨다는 것 을 언급 한 후 에 그 는 친절 하게 하였다. 그녀는 길 을 끊임없이 지켜보고 어깨 를 뚫고 보며, 아무 문제도 없었기 때문 이다. 그녀는 문 을 열지 않거나 내 집 안 에 환영 하지 않았다. 그럼에도 불구하고, 이 ""Venom Within""라는 제목의 이 책 은 아이레나를 독살 시키기 위해 사용 된 돌 뱀 종류 에 대해 조금 더 밝혀 줄 수 있을 것 이다."
@@ -31448,7 +31448,7 @@ module,jrl,Categories/36/EntryList/11/Text,0,위치: 카라반 런 상태: 완�
 module,jrl,Categories/36/EntryList/12/Text,0,위치: 카라반 런 상태: 불완전한 카라반 런에서 거리에서 사는 시라와 코인 거래회사 서클 오브 코인 거래회사인 에디조의 상인과 이야기했습니다. 시라는 베야라가 살해된 날 그 러닝에서 없었다는 것을 언급했지만 매일 아침 베야라가 지나가며 에메랄드 워드 쪽으로 향한다고 언급했습니다. 시라는 베야라가 매일 아침 어디로 가고 있는지 알지 못했습니다. 에디조가 말한 것에서 이 이상한 존재에 대한 몇 가지 이름이 있습니다. 알마레이벤의 일부 사람들은 그것을 암흑으로 간주합니다. 에디조는 베야라가 살해된 밤에 대한 정보를 공유 할 수 없었습니다. 그는 사업을 위해 술돌포르에서 갔기 때문에. 나는 피시머너스 그릴에 있는 지미어와 함께 이야기하는 것을 잊지 말아야 합니다. 그리고 카라반런의 거리에 사는 두 명의 다른 사람들과 이야기합니다.
 module,jrl,Categories/36/EntryList/13/Text,0,"위치: 카라반 러닝 STATUS: 불완전하다 서리, 에디조, 타크와 이야기 한 후, 나는 두 개의 불구 마법을 던질 책임이 있을 수 있는 사람이 거리에서 몇 피트 이상 떠다니며 길고 날카로운 손가락을 가지고 있었다는 것을 알게 되었다. 베야라는 어머님들에게 그녀가 낚시꾼의 그릴에서 근무하고 실제로 알마리벤의 미스터리 사회 중 하나에서 연습생이 되기 위해 공부하고 있다고 말하면서 거짓말을 한 것 같습니다. 타크는 어떤 사회가 있었는지 몰랐습니다. 에디조가 이야기 한 것에서, 이 이상한 존재에 대해 몇 가지 이름이 있습니다. 알마리벤에서 일부는 그것을 어둠이라고 간주했습니다. 에디조는 밤에는 그가 솔돌르에서 살았던 것에 대해 아무 정보를 공유 할 수 없었습니다. 그릴 라운드에서 낚시꾼과 함께 죽인 다른 개체와 함께 일했던 것을 잊지 말아야 합니다."
 module,jrl,Categories/36/EntryList/14/Text,0,"위치: 카라반 런 상태: 불완전하다 서리, 에디조, 실라와 이야기 한 후, 두 개의 불구 마법을 던질 수 있었던 사람이 거리에서 몇 피트 이상 떠다니는 것을 알게 되었습니다. 실라는 베야라는 살해된 밤에 그녀는 레이에서 없었다고 언급했지만 매일 아침, 베야라는 지나가며 에메랄드 워드 쪽으로 향한다고 언급했습니다. 실라는 베야라는 매일 아침 어디로 가고 있는지 알지 못했습니다. 에디조가 말한 것에서, 이 이상한 존재에 대한 몇 가지 이름이 있습니다. 알브라이벤에서 일부는 그것을 암흑이라고 간주합니다. 에디조는 베야라는 살해된 밤에 대한 정보를 공유 할 수 없었습니다. 그는 사업을 위해 솔델도르에서 떠났기 때문에. 나는 피시머너스 그릴에 있는 거리와 함께 이야기하는 것을 잊지 말아야 합니다."
-module,jrl,Categories/36/EntryList/15/Text,0,"위치: 카라반 런 상태: 불완전 실라, 에디조, 타크와 이야기 한 후, 나는 두 개의 불구 마법을 던질 책임이 있을 수 있는 사람이 길 위의 몇 피트 이상 떠다니고 길고 날카로운 손가락을 가지고 있었다는 것을 알게 되었다. 베야라는 어머님에게 거짓말을 하고 있는 것 같습니다. 그녀는 어머너스 그릴에서 근무하고 실제로 알마리브의 미스터리한 사회 중 하나에서 연습생이 되기 위해 공부하고 있었다. 타크는 무슨 사회가 있었는지 몰랐습니다. 실라가 베야라는 살해된 밤에 그녀가 그릴라에 있지 않았다고 언급했지만 매일 아침, 베야라는 걸어 다니며 시리바르드로 향한다고 언급했습니다. 베야라는 매일 아침 어디로 가고 있는지 몰랐습니다. 에디조 에미르트에서 몇 가지 이상한 이름을 이야기했습니다. 그는 그릴라에서 죽은 다른 어떤 사람과도 정보를 공유하지 않아야 했다."
+module,jrl,Categories/36/EntryList/15/Text,0,"위치: 카라반 런 상태: 불완전 실라, 에디조, 타크와 이야기 한 후, 나는 두 개의 불구 마법을 던질 책임이 있을 수 있는 사람이 길 위의 몇 피트 이상 떠다니고 길고 날카로운 손가락을 가지고 있었다는 것을 알게 되었다. 베야라는 어머님에게 거짓말을 하고 있는 것 같습니다. 그녀는 어머너스 그릴에서 근무하고 실제로 알마리브의 미스터리한 사회 중 하나에서 연습생이 되기 위해 공부하고 있었다. 타크는 무슨 사회가 있었는지 몰랐습니다. 실라가 베야라는 살해된 밤에 그녀가 그릴라에 있지 않았다고 언급했지만 매일 아침, 베야라는 걸어 다니며 시리음유시인으로 향한다고 언급했습니다. 베야라는 매일 아침 어디로 가고 있는지 몰랐습니다. 에디조 에미르트에서 몇 가지 이상한 이름을 이야기했습니다. 그는 그릴라에서 죽은 다른 어떤 사람과도 정보를 공유하지 않아야 했다."
 module,jrl,Categories/36/EntryList/16/Text,0,"위치: 카라반 러너
 상태: 진행 중
 
@@ -31554,8 +31554,8 @@ module,jrl,Categories/38/EntryList/5/Text,0,"위치: 카라반 런
 module,jrl,Categories/38/EntryList/6/Text,0,"위치: 카라반 런 상태: 불완전 한 번 플라우스와 이야기 해봤는데 그는 나이트시드라고 불리는 도시 소속 단체로부터 이 에메랄드 반지를 받았다고 말했다. ""나이트시드 를 직접 다루고 싶지 않다. 그 반지를 들고 다니는 것조차 하지 않아야 한다. 그것을 제거하고 가능한 한 멀리 떨어져 나가라"". 나는 Cuttback Kat Alley의 그린 드립에서 아즈비우와 다시 이야기 해야 한다."
 module,jrl,Categories/38/EntryList/7/Text,0,위치: 그린 드립 상태: 완전: 저는 아즈부와 대화하기 위해 그린 드립으로 돌아왔습니다. 저는 에스마르달 반지의 소유자가 나이트시드라는 소속 단체에 속한 사람이라는 것을 그녀에게 말했습니다. 그녀는 돈을 지불하고 얼마 지나지 않아 이 시설을 떠났습니다.
 module,jrl,Categories/39/Name,0,알마레이벤: 루비 레드의 전설
-module,jrl,Categories/39/EntryList/0/Text,0,"위치: 룸 아브레인 상태: 완전하지 않은 상태에서 알브라이벤의 세 명의 주민을 만나게 되었습니다. 그들은 제가 원으로 된 바늘에서 구입한 바지에 깊은 인상을 받았습니다. 사실 그들은 저를 골든 컵에 초청하여 엘프 와인을 마시고 루비 레드라는 도둑질된 물건에 대한 이야기를 듣게 되었습니다. 뉴엘, 레이디 아슬리브, 레이디 자린은 룸 아브레인에서 저녁에 골든 컵에서 찾을 수 있습니다."
-module,jrl,Categories/39/EntryList/1/Text,0,"위치: 룸 아브레인 상태: 미완전합니다. 뉴엘, 레이디 아슬리브, 레이디 자린이 공유하고 싶은 루비 레드의 이야기를 듣기 위해 제 조사에서 잠시 시간을 내기로 결정했습니다. 로브에 이렇게 많은 금을 지출하는 것이 현지인들에게 보상되는 것을 아는 것이 좋습니다. 왜냐하면 나는 이야기뿐만 아니라 엘프 와인을 무료로 얻을 것이기 때문입니다. 다이너-그룹은 금이 풍부하게 된 사람을 부르는 것을 좋아합니다. 뉴엘, 레이디 아슬리브, 레이디 자린은 저녁에 룸 아브레인의 황금 잔에서 찾을 수 있습니다."
+module,jrl,Categories/39/EntryList/0/Text,0,"위치: 룸 아브레인 상태: 완전하지 않은 상태에서 알브라이벤의 세 명의 주민을 만나게 되었습니다. 그들은 제가 원으로 된 바늘에서 구입한 바지에 깊은 인상을 받았습니다. 사실 그들은 저를 골든 컵에 초청하여 엘프와인을 마시고 루비 레드라는 도둑질된 물건에 대한 이야기를 듣게 되었습니다. 뉴엘, 레이디 아슬리브, 레이디 자린은 룸 아브레인에서 저녁에 골든 컵에서 찾을 수 있습니다."
+module,jrl,Categories/39/EntryList/1/Text,0,"위치: 룸 아브레인 상태: 미완전합니다. 뉴엘, 레이디 아슬리브, 레이디 자린이 공유하고 싶은 루비 레드의 이야기를 듣기 위해 제 조사에서 잠시 시간을 내기로 결정했습니다. 로브에 이렇게 많은 금을 지출하는 것이 현지인들에게 보상되는 것을 아는 것이 좋습니다. 왜냐하면 나는 이야기뿐만 아니라 엘프와인을 무료로 얻을 것이기 때문입니다. 다이너-그룹은 금이 풍부하게 된 사람을 부르는 것을 좋아합니다. 뉴엘, 레이디 아슬리브, 레이디 자린은 저녁에 룸 아브레인의 황금 잔에서 찾을 수 있습니다."
 module,jrl,Categories/39/EntryList/2/Text,0,"루비 레드의 이야기는 적어도 재미있었지만 제 조사에 도움이 될 수 있는 이야기는 아닙니다. 뉴엘, 레이디 애슬리브, 레이디 자린이 나에게 말한 것에서 루비 레드는 첫 번째 보석 용을 낳은 계란이나 보석 또는 바람 자체에서 만들어진 이야기라고 합니다. 뉴엘은 루비 레드의 이야기와 그 역사와 그 유해에서 왔다는 것을 알려주고 싶었습니다. 레이디 애슬리브는 루비 레드가 알브라윈에 있을 수 있다고 생각했지만, 보석 드래곤이 우리 사이에서 걸어 다니며, 우리와 비슷하고 우리와 같은 말을 하는 것으로 생각했습니다. 그녀는 또한 거리에서 퍼지는 말에는 루비 레드의 이름을 가진 누군가가 루비 케인 맥클런의 사방에서 훔쳤을 가능성이 있다고 언급했습니다."
 module,jrl,Categories/40/Name,0,알마라이벤 : 틴
 module,jrl,Categories/40/EntryList/0/Text,0,"로터 릴리 (Rotten Rilley) 를 만나서 일하게 해줬습니다. 러너스 엔드 (Runner's End) 에 위치한 스피팅 릴리 (Spitting Camel) 에 있는 올센 (Olsen) 라는 사람이 있는데, 그는 릴리 (Rotten Rilley) 에게 릴리 (Tin) 라는 이름을 가진 사람을 찾으라고 요청했습니다. 나는 릴리 (Rotten Rilley) 와 대화하고, 릴리 (Rotten Rilley) 에 대해 알 수 있는 모든 것을 알아보고 그를 찾아야합니다. 릴리 (Rotten Rilley) 는 그가 내 진전을 지켜보고 있을 것이라고 언급했습니다. 그래서 의심할 여지 없이 나는 이미 추적기를 가지고 있습니다."
@@ -31616,14 +31616,14 @@ module,jrl,Categories/43/EntryList/2/Text,0,"위치: 카라반 런
 
 나는 나무 운반차를 알타이에게 전달했으므로 이제 그와 그의 형제는 일정에 맞춰 돌아와야 한다. 그는 감사의 말을 하였고, 제 시간에 대한 보상으로 몇 개의 디나르를 주었다."
 module,jrl,Categories/44/Name,0,알마라이벤 : 운드라의 경이
-module,jrl,Categories/44/EntryList/0/Text,0,위치: 만드라크 루트 STATUS: 불완전한 전날 밤에는 엘토리안이라는 반 엘프가 그의 두 여인의 일을 지켜보고 있는 거리를 우연히 만났다. 세 번째 여인인 웬드라는 고객에 의해 부상을 당했고 얼굴이 절단되었고 혀가 잘라졌다. 엘토리안은 웬드라의 동생이 엘토리안이 그의 여인을 잘 보호하지 않고 엘토리안이 웬드라를 전혀 볼 수 없다는 것을 배우는 것을 별로 좋아하지 않았다고 언급했다. 나는 도움을 제안했다. 아마도 웬드라 또는 그녀의 동생으로부터 이 고객이 누구인지에 대해 무언가를 배울 수 있고 왜 웬드라를 그렇게 잘 깎았는지에 대해 웬드라의 집을 러너스 엔드 에 있는 에메랄드 워드에서 찾을 수 있습니다.
+module,jrl,Categories/44/EntryList/0/Text,0,위치: 만드라크 루트 STATUS: 불완전한 전날 밤에는 엘토리안이라는 하프엘프가 그의 두 여인의 일을 지켜보고 있는 거리를 우연히 만났다. 세 번째 여인인 웬드라는 고객에 의해 부상을 당했고 얼굴이 절단되었고 혀가 잘라졌다. 엘토리안은 웬드라의 동생이 엘토리안이 그의 여인을 잘 보호하지 않고 엘토리안이 웬드라를 전혀 볼 수 없다는 것을 배우는 것을 별로 좋아하지 않았다고 언급했다. 나는 도움을 제안했다. 아마도 웬드라 또는 그녀의 동생으로부터 이 고객이 누구인지에 대해 무언가를 배울 수 있고 왜 웬드라를 그렇게 잘 깎았는지에 대해 웬드라의 집을 러너스 엔드 에 있는 에메랄드 워드에서 찾을 수 있습니다.
 module,jrl,Categories/44/EntryList/1/Text,0,"위치: 원드라의 집
 상태: 미완료
 
 원드라의 오빠 팔리스를 만났고, 그는 내가 그의 여동생을 살펴보게 허락했다. 침대 가까이에서 두꺼운 핏물 웅덩이를 밟았다. 원드라가 누운 침대보마저 끈적하고 붉게 젖어 있었다.
 
 그녀는 오래 살지 못할지도 모른다. 물질 추출 물약을 준비하면 원드라가 왜 이런 상태인지 알 수 있을지도 모른다."
-module,jrl,Categories/44/EntryList/2/Text,0,"위드라의 가정 상태: 완전하지 않은 상태에서 위드라의 집으로 돌아왔는데, 저는 Substance Lifter 술과 함께 침대 옆에 있는 피의 저울에 끓인 액체를 붓었습니다. 혈액 자체가 거품이 되고, 위드라가 침대에 옆에서 옆으로 튀어나가기 시작했어요. 위드라는 인간이지만, 피가 거품이라고 말할 정도로 거품이 튀어나왔어요. 저는 하이 타워에서 훈련하는 동안 혈액이 어떻게 반응하는지 보았고, 이 반응은 제가 아는 어떤 그룹과도 일치하지 않습니다. 혈액이 거품이 사라진 후 공기 중에 은의 냄새가 달렸다. 저는 도서관에서 더 자세히 연구해야 합니다."
+module,jrl,Categories/44/EntryList/2/Text,0,"위드라의 가정 상태: 완전하지 않은 상태에서 위드라의 집으로 돌아왔는데, 저는 Substance Lifter 술과 함께 침대 옆에 있는 피의 저울에 끓인 액체를 붓었습니다. 혈액 자체가 거품이 되고, 위드라가 침대에 옆에서 옆으로 튀어나가기 시작했어요. 위드라는 인간가지만, 피가 거품이라고 말할 정도로 거품이 튀어나왔어요. 저는 하이 타워에서 훈련하는 동안 혈액이 어떻게 반응하는지 보았고, 이 반응은 제가 아는 어떤 그룹과도 일치하지 않습니다. 혈액이 거품이 사라진 후 공기 중에 은의 냄새가 달렸다. 저는 도서관에서 더 자세히 연구해야 합니다."
 module,jrl,Categories/44/EntryList/3/Text,0,"위드라의 집 상태: 불완전. 발견한 책을 찾는 데 시간이 걸렸지만, 5시간 동안 읽은 후 매우 흥미로운 정보를 발견했고, 쉽게 참고할 수 있도록 책의 페이지를 표시했습니다."
 module,jrl,Categories/44/EntryList/4/Text,0,"위드라의 집 상태: 불완전.
 
@@ -31689,7 +31689,7 @@ module,jrl,Categories/45/EntryList/15/Text,0,"위치: 황혼의 선술집
 
 쪽지에 적힌 위치를 확인하려면 루아누나 플라우스와 이야기하는 것이 좋겠다."
 module,jrl,Categories/45/EntryList/16/Text,0,"위치: 만드라크 노선 상태: 업데이트, 불완전하다 루아누와 이야기를 나눴는데, 그녀는 무역선과 서쪽 도로 이용자들에 대한 소식이 미르 숲이 통제를 벗어난다고 말했다. 루아누는 내가 도크 워드나 스트립에서 배를 타고 보트를 찾도록 제안했습니다."
-module,jrl,Categories/45/EntryList/17/Text,0,"위치: 에버닝 로그
+module,jrl,Categories/45/EntryList/17/Text,0,"위치: 에버닝 도적
 상태: 업데이트됨, 미완료
 
 플라우스와 이야기를 나누었는데, 그는 상선들과 서쪽 길을 이용하는 여행자들의 말을 빌려 미르 숲이 통제 불능 상태로 자라나고 있다고 했다.
@@ -31739,22 +31739,22 @@ module,jrl,Categories/48/EntryList/1/Text,0,"장소: 개인 서재
 
 엘프어를 독학할 시간을 냈다. 이제 벤히 특급에 있는 엘프 남자를 이해하고 이야기할 수 있을 것이다."
 module,jrl,Categories/49/Name,0,동반자: 부록
-module,jrl,Categories/49/EntryList/0/Text,0,"이름: 부록 인종: 인간 성: 여성 계급: 드루이드 당신은 부록을 도와 다르위안을 찾았습니다. 그녀는 다르위안의 할머니를 방문하는 길에 함께 가던 젊은 소녀입니다. 그녀는 당신이 도시를 떠나게 될 경우 여행을 위해 당신과 함께 갈 것을 제안했습니다. 머지않아 미르 숲으로의 여행에 따라, 부록은 모험의 이 특정 부분에서 약간의 도움이 될 수 있습니다. 부록에 연락하려면 로컬 러너스샵에서 암호 번호 7733을 사용하여 메시지를 남겨주세요. 그녀가 당신을 만날 수있는 장소에 대해 그녀에게 메시지를 남깁니다. 그녀는 도착 할 때 당신을 기다리고있을 것입니다. 그리고 출발할 준비가되어 있습니다."
-module,jrl,Categories/49/EntryList/1/Text,0,이름: 부속 인종: 인간 성: 여성 직업: 드루이드 나는 러너의 가게를 통해 부속에게 메시지를 보냈고
+module,jrl,Categories/49/EntryList/0/Text,0,"이름: 부록 종족: 인간 성: 여성 계급: 드루이드 당신은 부록을 도와 다르위안을 찾았습니다. 그녀는 다르위안의 할머니를 방문하는 길에 함께 가던 젊은 소녀입니다. 그녀는 당신이 도시를 떠나게 될 경우 여행을 위해 당신과 함께 갈 것을 제안했습니다. 머지않아 미르 숲으로의 여행에 따라, 부록은 모험의 이 특정 부분에서 약간의 도움이 될 수 있습니다. 부록에 연락하려면 로컬 러너스샵에서 암호 번호 7733을 사용하여 메시지를 남겨주세요. 그녀가 당신을 만날 수있는 장소에 대해 그녀에게 메시지를 남깁니다. 그녀는 도착 할 때 당신을 기다리고있을 것입니다. 그리고 출발할 준비가되어 있습니다."
+module,jrl,Categories/49/EntryList/1/Text,0,이름: 부속 종족: 인간 성: 여성 직업: 드루이드 나는 러너의 가게를 통해 부속에게 메시지를 보냈고
 module,jrl,Categories/50/Name,0,동료: 팔리스 굿메인
-module,jrl,Categories/50/EntryList/0/Text,0,"이름: 팔리스 굿마네 인종: 인간 성: 남성 계급: 전투기 당신은 팔리스 굿마네가 거리에서 일하던 중 웨어포크가 만드레이크 루트에서 데려간 그의 여동생 웬드라를 찾는데 도움을 주었다. 그는 당신이 도시를 떠날 경우 당신과 함께 갈 것을 제안했습니다. 머지않아 미르 숲으로의 여행으로, 팔리스는 당신의 모험의 이 특정 부분에서 약간의 도움이 될 수 있습니다. 팔리스와 연락하려면 엔클라브 부문 내에 있는 러너스 엔드에있는 그의 집에서 그를 방문하십시오."
+module,jrl,Categories/50/EntryList/0/Text,0,"이름: 팔리스 굿마네 종족: 인간 성: 남성 계급: 전투기 당신은 팔리스 굿마네가 거리에서 일하던 중 웨어포크가 만드레이크 루트에서 데려간 그의 여동생 웬드라를 찾는데 도움을 주었다. 그는 당신이 도시를 떠날 경우 당신과 함께 갈 것을 제안했습니다. 머지않아 미르 숲으로의 여행으로, 팔리스는 당신의 모험의 이 특정 부분에서 약간의 도움이 될 수 있습니다. 팔리스와 연락하려면 엔클라브 부문 내에 있는 러너스 엔드에있는 그의 집에서 그를 방문하십시오."
 module,jrl,Categories/50/EntryList/1/Text,0,"이름: 팔리스 굿메인
 종족: 인간
 성별: 남성
-직업: 파이터
+직업: 전사
 
 팔리스와 이야기를 나눴고 집결지에서 만나자고 부탁했다. 여행 짐을 챙기고 나면 거기서 나를 만날 것이다."
 module,jrl,Categories/51/Name,0,동반자: 샤일라 샤이
-module,jrl,Categories/51/EntryList/0/Text,0,"이름: 샤일라 샤이 인종: 인간 성: 여성 클래스: 마법사 당신은 샤일라 샤이 여동생을 알브라이벤의 오래된 버전이 거주하는 도시의 거리에 있는 구 구 구 깊은 곳에서 찾을 수 있도록 도와줬다. 그녀는 당신이 여행을 떠나면 당신과 함께 갈 것을 제안했다. 머지않아 미르 숲으로의 여행으로, 샤일라 샤이 당신의 모험의 이 특정 부분에서 약간의 도움이 될 수 있습니다. 샤일라 샤이를 연락하려면 현지 러너스샵에서 9122 비밀번호를 사용하여 당신을 만날 수 있는 곳을 알려주세요. 그녀가 도착할 때 당신을 기다리고 있으며 출발할 준비가되어 있습니다."
+module,jrl,Categories/51/EntryList/0/Text,0,"이름: 샤일라 샤이 종족: 인간 성: 여성 직업: 마법사 당신은 샤일라 샤이 여동생을 알브라이벤의 오래된 버전이 거주하는 도시의 거리에 있는 구 구 구 깊은 곳에서 찾을 수 있도록 도와줬다. 그녀는 당신이 여행을 떠나면 당신과 함께 갈 것을 제안했다. 머지않아 미르 숲으로의 여행으로, 샤일라 샤이 당신의 모험의 이 특정 부분에서 약간의 도움이 될 수 있습니다. 샤일라 샤이를 연락하려면 현지 러너스샵에서 9122 비밀번호를 사용하여 당신을 만날 수 있는 곳을 알려주세요. 그녀가 도착할 때 당신을 기다리고 있으며 출발할 준비가되어 있습니다."
 module,jrl,Categories/51/EntryList/1/Text,0,"이름: 샤일라 샤이
 종족: 인간
 성별: 여성
-직업: 소서러
+직업: 요술사
 
 러너 상점을 통해 샤일라 샤이에게 메시지를 보내 집결지에서 만나자고 부탁했다. 도시를 떠날 준비를 하고 와 주길 바란다."
 module,jrl,Categories/52/Name,0,미르 숲: 결속 돌
@@ -31787,7 +31787,7 @@ module,jrl,Categories/53/EntryList/3/Text,0,"장소: 미르 숲, 상태: 완료
 
 채널링 물약이 효과를 발휘하고 마침내 볼로템프의 영과 이야기할 수 있게 되었습니다."
 module,jrl,Categories/54/Name,0,미르의 숲: 미르의 쌍둥이
-module,jrl,Categories/54/EntryList/0/Text,0,"위치: 미르 STATUS 의 숲: 불완전 한 곳: 숲 의 깊이를 탐구 하면서 에프레텀 소모어 협회의 일원 한 사람 이 죽어가는 레인저 하우브 에 접어들었습니다. 그의 깨진 껍질 은 고칠 수 없을 정도였다. 그의 몸 에 상처 가 있었고, 아마도 암흑 의 공격 이나 떠다니는 엮인 자 자신 이 있을 것 이다. 그 사람 은 말하지 않았다. 죽기 전 에 피가 피가 있는 입 에서 말 을 뱉었다. 그 말 은 아직도 내 마음 에 울고 있다. ""우리 는 바보 들, 우리 모두 바보 들! 숨겨진 것 은 떨어지고 에프레텀 은 떨어지고 있다. 우리 는 그것을 막을 수 없다. 두 사람 을 찾아... 그들을 쉬게 하라. 그 다음 에 그 장벽 이 깨질 것 이다""."
+module,jrl,Categories/54/EntryList/0/Text,0,"위치: 미르 STATUS 의 숲: 불완전 한 곳: 숲 의 깊이를 탐구 하면서 에프레텀 소모어 협회의 일원 한 사람 이 죽어가는 순찰자 하우브 에 접어들었습니다. 그의 깨진 껍질 은 고칠 수 없을 정도였다. 그의 몸 에 상처 가 있었고, 아마도 암흑 의 공격 이나 떠다니는 엮인 자 자신 이 있을 것 이다. 그 사람 은 말하지 않았다. 죽기 전 에 피가 피가 있는 입 에서 말 을 뱉었다. 그 말 은 아직도 내 마음 에 울고 있다. ""우리 는 바보 들, 우리 모두 바보 들! 숨겨진 것 은 떨어지고 에프레텀 은 떨어지고 있다. 우리 는 그것을 막을 수 없다. 두 사람 을 찾아... 그들을 쉬게 하라. 그 다음 에 그 장벽 이 깨질 것 이다""."
 module,jrl,Categories/54/EntryList/1/Text,0,위치: 미르의 숲 STATUS: 불완전하다 수녀 숙녀와 이야기 하면서 몇 달 전 에 두 쌍둥이인 아스트리드 와 올라브가 오염 된 나무에 의해 가장 먼저 살해되었다는 것을 알게 되었습니다. 몇 주 후 두 쌍둥이의 무덤을 만났습니다. 둘 다 발굴되었고 시신이 제거되었습니다. 그녀는 또한 최근에 한 쌍둥이 또는 두 쌍둥이를 부상을 위해 사용 된 제단을 언급했습니다. 이 제자는 서부 통로를 따라 탑에 위치했습니다. 나는 아스트리드 와 올라브의 뼈와 함께 살아있는 땅 에서 보관 한 물건을 찾아야 합니다. 이 것들은 그들의 무덤에 반환되어야 합니다.
 module,jrl,Categories/54/EntryList/2/Text,0,"장소: 미르 숲, 완료
 
@@ -31859,7 +31859,7 @@ _ts_rnd_f2,utc,Description,0,"밝은 주황색과 보라색의 드레스는 알�
 _ts_rnd_m5,utc,FirstName,0,인간 남성
 _ts_rnd_m5,utc,Description,0,"주황색, 갈색, 검은색 가죽 갑옷과 머리 위로 덮어쓴 두건이 이 남자를 비바람으로부터 지켜 준다. 허리춤에는 주머니와 작은 가방, 단검이 여럿 보이고, 오른쪽 장화에는 단검이 꽂혀 있다."
 _ts_rnd_m6,utc,FirstName,0,하프엘프 남자
-_ts_rnd_m6,utc,Description,0,"이 반 엘프의 귀가 뒤집어지고, 두 팔에 문신이 붙고, 목에 초록색 에스메랄드 목걸이가 달리고, 옷은 더럽지만 상관없어요."
+_ts_rnd_m6,utc,Description,0,"이 하프엘프의 귀가 뒤집어지고, 두 팔에 문신이 붙고, 목에 초록색 에스메랄드 목걸이가 달리고, 옷은 더럽지만 상관없어요."
 _zyll,utc,FirstName,0,[FOM] 인간 남성
 alarm_guard1,utc,FirstName,0,인간 남성
 alarm_guard1,utc,Description,0,이 사람의 눈은 끊임없이 움직이며 침입자를 찾고 있습니다.
@@ -32117,13 +32117,13 @@ crun_com_npc2,utc,Description,0,"이 여자가 입은 흰 드레스는 유난히
 crun_com_npc3,utc,FirstName,0,드워프 남자
 crun_com_npc3,utc,Description,0,"이 왜기는 바쁜 것 같고, 길거리에 흩어져 있는 나무 빔, 배, 도구들을 통해 움직이고 있습니다. 가끔씩 그는 눈을 들어 길거리를 바라보고 있지만, 곧 그 앞에 앉아 있는 배에서 일을 재개합니다."
 crun_com_npc4,utc,FirstName,0,하플링 남성
-crun_com_npc4,utc,Description,0,"이 하플링로부터 생선 냄새가 매우 강하게 느껴지고, 그는 거리에서 하프오크와 대화를 나누면서 손가락이 자주 떨린다. 때로는 당신 쪽을 쳐다보지만 오래는 보지 않는다."
+crun_com_npc4,utc,Description,0,"이 하플링으로부터 생선 냄새가 매우 강하게 느껴지고, 그는 거리에서 하프오크와 대화를 나누면서 손가락이 자주 떨린다. 때로는 당신 쪽을 쳐다보지만 오래는 보지 않는다."
 crun_com_npc5,utc,FirstName,0,하프오크 남자
 crun_com_npc5,utc,Description,0,어두운 눈빛이 거리에 서 있는 당신을 주시합니다. 거대한 어깨에 걸쳐진 사슬 갑옷이 이 하프오크의 배를 감싸고 있습니다. 두 팔은 울퉁불퉁한 근육과 문신으로 뒤덮여 있습니다.
 crun_com_npc6,utc,FirstName,0,인간 남성
 crun_com_npc6,utc,Description,0,이 인간 수컷은 산을 뛰어 넘고 산 나무의 그림자 아래에서 차갑게 서 있는 동안 그 앞에 서 있는 물을 건너고 있습니다. 때때로 그는 어린 아이를 가까이 데려와 옆에 서 있는 여성에게 조용히 이야기합니다.
 crun_com_npc7,utc,FirstName,0,하프엘프 여성
-crun_com_npc7,utc,Description,0,"이 반 엘프 암컷의 머리에 세운 얇은 모자가 있고, 그녀는 그 쪽으로 볼 때마다 어린 아이에게 미소를 짓고 있습니다. 그녀의 드레스는 훌륭한 품질이고, 그녀는 끊임없이 손을 흔들며 자신을 차갑게 합니다."
+crun_com_npc7,utc,Description,0,"이 하프엘프 암컷의 머리에 세운 얇은 모자가 있고, 그녀는 그 쪽으로 볼 때마다 어린 아이에게 미소를 짓고 있습니다. 그녀의 드레스는 훌륭한 품질이고, 그녀는 끊임없이 손을 흔들며 자신을 차갑게 합니다."
 crun_com_npc8,utc,FirstName,0,인간 소녀
 crun_com_npc8,utc,Description,0,"이 어린 소녀의 눈은 순진한 흥분으로 당신을 바라지만, 오랫동안 당신을 바라보지 않는다. 그렇게 많은 사람들이 지나가면서, 그녀의 눈은 한 사람에서 다른 사람으로 빠르게 번갈아가며 보인다."
 crun_com_npc9,utc,FirstName,0,인간 여성
@@ -32162,7 +32162,7 @@ drake_npc_night1,utc,Description,0,"이 인간 여성의 검은 머리카락은 
 drake_npc_night2,utc,FirstName,0,인간 여성
 drake_npc_night2,utc,Description,0,몸에 딱 붙는 천과 가죽으로 옷을 차려입은 인간 여성이 거리를 걸으며 매력을 뽐내고 있다! 그녀는 확실히 뭔가 흥미로운 일을 벌이고 싶어 하는 눈치다.
 drake_npc_night3,utc,FirstName,0,하프엘프 남자
-drake_npc_night3,utc,Description,0,이 반 엘프 남자 에 발견 된 다채로운 옷 과 의 컬렉션은 루비 워드의 색 이다. 이 도시 의 이 특정 지역 의 거주자 로 표시 됩니다. 다리 던지는 많은 사람들이 그의 벨트 와 허리에 휴식을 취 합니다. 그는 당신이 거리를 따라 이동하는 동안 당신을 관찰 합니다.
+drake_npc_night3,utc,Description,0,이 하프엘프 남자 에 발견 된 다채로운 옷 과 의 컬렉션은 루비 워드의 색 이다. 이 도시 의 이 특정 지역 의 거주자 로 표시 됩니다. 다리 던지는 많은 사람들이 그의 벨트 와 허리에 휴식을 취 합니다. 그는 당신이 거리를 따라 이동하는 동안 당신을 관찰 합니다.
 drake_sit_npc,utc,FirstName,0,인간 남성
 drake_sit_npc,utc,Description,0,매우 조심스러운 눈 쌍은 이 인간 남성에게 지나가는 모든 사람들을 보고 있습니다.
 dwarvenmale,utc,FirstName,0,드워프 남자
@@ -32424,7 +32424,7 @@ rend_npc_day4,utc,Description,0,이 반형 남자 는 머리 의 어두운 색 �
 rend_npc_day5,utc,FirstName,0,노움 남성
 rend_npc_day5,utc,Description,0,"이 기둥의 수컷은 포장된 물품차 앞에 길에서 쉬고 있습니다. 그리고 빨간색 천막 바로 밖에 있습니다. 때때로 그는 거리에 소리치고, 지나가는 사람들을 지나치게 합니다. 그는 물품 거래자입니다. 그가 당신이 그의 방향으로 바라보고 있다는 것을 알 때, 그는 당신을 흔들고 있습니다."
 rend_npc_day6,utc,FirstName,0,하프엘프 남자
-rend_npc_day6,utc,Description,0,"이 반 엘프 남자 의 눈 에는 장난감 한 번 빛나는 빛 이 흐른다. 이 반 엘프 남자 는 당신 을 보고 있습니다. 밝은 갈색 가죽 과 갈색 옷 은 그의 옷 의 대부분 을 이루고 있으며, 모자는 그의 얼굴 에서 태양 을 보호 합니다."
+rend_npc_day6,utc,Description,0,"이 하프엘프 남자 의 눈 에는 장난감 한 번 빛나는 빛 이 흐른다. 이 하프엘프 남자 는 당신 을 보고 있습니다. 밝은 갈색 가죽 과 갈색 옷 은 그의 옷 의 대부분 을 이루고 있으며, 모자는 그의 얼굴 에서 태양 을 보호 합니다."
 rend_npc_day7,utc,FirstName,0,하프오크 남자
 rend_npc_day7,utc,Description,0,"이 반오르크 남성이 그의 가슴을 가로질러 춤추고, 적색의 가죽 부츠가 그의 발가락을 따라 올라가고, 옷의 갑옷은 그의 허리와 팔을 포옹하고, 그의 오른손에는斧이 단단히 달려 있습니다."
 rend_sit1,utc,FirstName,0,인간 남성
@@ -32543,7 +32543,7 @@ tavern_npc_025,utc,Description,0,"이상하게 생긴 노움 남자를 찾고 �
 tavern_npc_026,utc,FirstName,0,단골손님
 tavern_npc_026,utc,Description,0,"이 노움 여성은 알마라이벤의 고급층 시민들을 위한 아주 유려한 모양의 햇빛 차단기 를 착용하고 있습니다. 그녀가 술을 입에 올릴 때마다, 그녀의 분홍색 손가락은 공기 중에 가상의 줄을 감아보는 것처럼 앞에 뻗칩니다."
 tavern_npc_027,utc,FirstName,0,단골손님
-tavern_npc_027,utc,Description,0,이 반 엘프 는 공동 의 방 에 있는 몇 명 의 손님 들 이 그녀의 머리카락 의 색 에 대해 농담 을 하고 있다는 점 에 인상적 인 것 처럼 보이지 않는다. 많은 반 엘프 들 은 나무 의 야생 의 색 에 일치 하는 머리카락 을 가지고 태어난다. 다른 사람 들 은 단순 히 이해 하지 않을 것 이다.
+tavern_npc_027,utc,Description,0,이 하프엘프는 공동 의 방 에 있는 몇 명 의 손님 들 이 그녀의 머리카락 의 색 에 대해 농담 을 하고 있다는 점 에 인상적 인 것 처럼 보이지 않는다. 많은 하프엘프 들 은 나무 의 야생 의 색 에 일치 하는 머리카락 을 가지고 태어난다. 다른 사람 들 은 단순 히 이해 하지 않을 것 이다.
 tavern_npc_028,utc,FirstName,0,단골손님
 tavern_npc_028,utc,Description,0,"이 인간 암컷의 눈의 황갈색 녹색 색만이 실크색의 베일을 뒤에서 볼 수 있습니다. 화려한 면모 뚜 은 그녀의 얼굴의 나머지 부분을 껴안고 있으며, 그녀는 누구와도 눈을 접촉하지 않는 길을 벗어나고 있는 것 같습니다."
 tavern_npc_029,utc,FirstName,0,단골손님
@@ -32571,7 +32571,7 @@ tavern_npc_039,utc,Description,0,"전형적인 선원복이 이 인간 여성의
 tavern_npc_040,utc,FirstName,0,단골손님
 tavern_npc_040,utc,Description,0,"여기 화려한 외모를 띠는 인간 남성이 있는데, 그는 공동실에서 최고의 옷을 입고 있는 것처럼 보입니다. 그의 긴 콧수염은 양쪽 끝에서 굴곡을 이룹니다. 때로는 손가락으로 놀이를 즐기는 것을 볼 수 있습니다."
 tavern_npc_041,utc,FirstName,0,단골손님
-tavern_npc_041,utc,Description,0,이 반 엘프 는 공동 의 방 에 있는 몇 명 의 손님 들 이 그녀의 머리카락 의 색 에 대해 농담 을 하고 있다는 점 에 인상적 인 것 처럼 보이지 않는다. 많은 반 엘프 들 은 나무 의 야생 의 색 에 일치 하는 머리카락 을 가지고 태어난다. 다른 사람 들 은 단순 히 이해 하지 않을 것 이다.
+tavern_npc_041,utc,Description,0,이 하프엘프는 공동 의 방 에 있는 몇 명 의 손님 들 이 그녀의 머리카락 의 색 에 대해 농담 을 하고 있다는 점 에 인상적 인 것 처럼 보이지 않는다. 많은 하프엘프 들 은 나무 의 야생 의 색 에 일치 하는 머리카락 을 가지고 태어난다. 다른 사람 들 은 단순 히 이해 하지 않을 것 이다.
 tavern_sit_013,utc,FirstName,0,알마라이벤 시터
 tavern_sit_014,utc,FirstName,0,알마라이벤 시터
 tavern_sit_015,utc,FirstName,0,알마라이벤 시터
@@ -33106,8 +33106,8 @@ book000a,uti,LocalizedName,0,알마라이벤의 망토
 book000a,uti,Description,0,"A M R A I V E N 이 페이지들은 각 구단, 사회, 상인 구단 및 그 주변 지역에 대한 정보로 가득합니다. 각 구단에는 서로 다른 위치에 경쟁하는 네 개의 구단이 있으며, 이 때문에 수년 동안 많은 주택과 비즈니스 장소가 해치되었습니다. 각 네 개의 구단 또는 거리에서 정보의 흐름을 제어하고 있으며, 여러 가게, 소매업자, 카라반, 상인들 및 침투자 등이 자신의 보호를 위해 지불하거나 살아서 사업을 수행하기 위해 돈을 지불합니다. 각 구단에는 사피어 사이크스 (Sapphire Psyx) 가 있습니다. 이 때문에 많은 가정과 비즈니스 장소가 해치되었습니다. 이 네 개의 구단이나 거리에서 정보의 흐름을 제어하고 있습니다. 그들은 각 구단이나 거리에서 잘 알려진 높은 거리에서 알려진 높은 거리를 탐구하는 능력과 함께, 그리고 몇 가지 구단 소속 사회에서 높은 자원을 탐구하는 능력에 의해 알려져 있습니다. 이 특정 구단 소속의 구성원들은 세 세 세 세 년 동안 그 자체를 직접적으로 통제하고 있습니다. 그러나 그 어떤 종류의 여성 구성원들 또는 그 이상의 강력한 힘을 가지고 있습니다. 그들은 그 자체와 함께 자금과 그"
 book000a,uti,DescIdentified,0,"A M R A I V E N 이 페이지들은 각 구단, 사회, 상인 구단 및 그 주변 지역에 대한 정보로 가득합니다. 각 구단에는 서로 다른 위치에 경쟁하는 네 개의 구단이 있으며, 이 때문에 수년 동안 많은 주택과 비즈니스 장소가 해치되었습니다. 각 네 개의 구단 또는 거리에서 정보의 흐름을 제어하고 있으며, 여러 가게, 소매업자, 카라반, 상인들 및 침투자 등이 자신의 보호를 위해 지불하거나 살아서 사업을 수행하기 위해 돈을 지불합니다. 각 구단에는 사피어 사이크스 (Sapphire Psyx) 가 있습니다. 이 때문에 많은 가정과 비즈니스 장소가 해치되었습니다. 이 네 개의 구단이나 거리에서 정보의 흐름을 제어하고 있습니다. 그들은 각 구단이나 거리에서 잘 알려진 높은 거리에서 알려진 높은 거리를 탐구하는 능력과 함께, 그리고 몇 가지 구단 소속 사회에서 높은 자원을 탐구하는 능력에 의해 알려져 있습니다. 이 특정 구단 소속의 구성원들은 세 세 세 세 년 동안 그 자체를 직접적으로 통제하고 있습니다. 그러나 그 어떤 종류의 여성 구성원들 또는 그 이상의 강력한 힘을 가지고 있습니다. 그들은 그 자체와 함께 자금과 그"
 book001,uti,LocalizedName,0,남쪽 드워프
-book001,uti,Description,0,이 페이지의 부피는 부드러운 가죽으로 묶여 있어 촉감이 더럽고 거칠게 느껴집니다. 페이지들은 두꺼우며 흙 같은 질감을 가지고 있습니다. 남쪽 드워프와Halruaa 국가를 찾는 이 책은 어렵지 않아야 합니다.
-book001,uti,DescIdentified,0,이 페이지의 부피는 부드러운 가죽으로 묶여 있어 촉감이 더럽고 거칠게 느껴집니다. 페이지들은 두꺼우며 흙 같은 질감을 가지고 있습니다. 남쪽 드워프와Halruaa 국가를 찾는 이 책은 어렵지 않아야 합니다.
+book001,uti,Description,0,이 페이지의 부피는 부드러운 가죽으로 묶여 있어 촉감이 더럽고 거칠게 느껴집니다. 페이지들은 두꺼우며 흙 같은 질감을 가지고 있습니다. 남쪽 드워프과Halruaa 국가를 찾는 이 책은 어렵지 않아야 합니다.
+book001,uti,DescIdentified,0,이 페이지의 부피는 부드러운 가죽으로 묶여 있어 촉감이 더럽고 거칠게 느껴집니다. 페이지들은 두꺼우며 흙 같은 질감을 가지고 있습니다. 남쪽 드워프과Halruaa 국가를 찾는 이 책은 어렵지 않아야 합니다.
 book002,uti,LocalizedName,0,내부의 독
 book002,uti,Description,0,"이 책은 초록색 뱀가죽으로 제본되어 있습니다. 책 표면을 손으로 쓸면 가죽의 매끄러운 감촉이 느껴집니다.
 
@@ -33223,12 +33223,12 @@ clothing_,uti,LocalizedName,0,의류 청사진
 clownoutfit,uti,LocalizedName,0,클로언 의복
 cnrgemcut005,uti,LocalizedName,0,가공된 다이아몬드
 cnrgemcut005,uti,Description,0,"이 투명한 결정은 자연에서 발견되는 가장 단단한 물질이다. 가장 귀중한 색은 명확한 파란색 흰색이다. 대부분의 작은 돌은 명확한 흰색 또는 비백색이지만, 다른 덜 귀중한 색 품종은 알려져 있습니다. 그 중 파란색, 분홍색, 콩, 차트루즈. 그 단단성 때문에 보석은 항상 가늘어지기보다는 겹쳐집니다."
-cnrgemcut005,uti,DescIdentified,0,이렇게 정교하게 만들어진 보석이라면 충분히 강력한 사제가 있을 경우 죽은 자 살리기에 사용할 수도 있습니다.
+cnrgemcut005,uti,DescIdentified,0,이렇게 정교하게 만들어진 보석이라면 충분히 강력한 성직자가 있을 경우 죽은 자 살리기에 사용할 수도 있습니다.
 cnrgemenchant005,uti,LocalizedName,0,마법 다이아몬드
 cnrgemenchant005,uti,Description,0,"이 투명한 결정은 자연에서 발견되는 가장 단단한 물질이다. 가장 귀중한 색은 명확한 파란색 흰색이다. 대부분의 작은 돌은 명확한 흰색 또는 비백색이지만, 다른 덜 귀중한 색 품종은 알려져 있습니다. 그 중 파란색, 분홍색, 콩, 차트루즈. 그 단단성 때문에 보석은 항상 가늘어지기보다는 겹쳐집니다."
-cnrgemenchant005,uti,DescIdentified,0,이렇게 정교하게 만들어진 보석은 충분히 강력한 사제가 있다면 부활을 시키는 데 사용할 수도 있습니다.
+cnrgemenchant005,uti,DescIdentified,0,이렇게 정교하게 만들어진 보석은 충분히 강력한 성직자가 있다면 부활을 시키는 데 사용할 수도 있습니다.
 cnrgemfine002,uti,LocalizedName,0,좋은 화염 마노
-cnrgemfine002,uti,Description,0,"화염 아가트는 얇은 갈색 층으로 형성되며, 들어오는 빛을 굴절시켜 보석에 ""불꽃""을 부여합니다. 이 굴절은 종종 드래곤의 비늘을 연상시키는 무늬를 만들어내며, 드래곤의 혈통을 이어받았다고 주장하는 소서러들에게 귀중하게 여겨집니다. 잘 세공된 돌은 바깥쪽 층을 갈아내어 오직 불꽃만이 보이도록 만듭니다."
+cnrgemfine002,uti,Description,0,"화염 아가트는 얇은 갈색 층으로 형성되며, 들어오는 빛을 굴절시켜 보석에 ""불꽃""을 부여합니다. 이 굴절은 종종 드래곤의 비늘을 연상시키는 무늬를 만들어내며, 드래곤의 혈통을 이어받았다고 주장하는 요술사들에게 귀중하게 여겨집니다. 잘 세공된 돌은 바깥쪽 층을 갈아내어 오직 불꽃만이 보이도록 만듭니다."
 cnrgemfine002,uti,DescIdentified,0,암시야 주문에도 사용되죠.
 cnrgraveyarddirt,uti,LocalizedName,0,묘지 흙
 cnrgraveyarddirt,uti,DescIdentified,0,이 작은 패키지의 흙은 저주받은 묘지 땅에서 가져온 것입니다. 구울의 손길 마법을 사용하기 위해 필수적인 재료입니다.
@@ -33667,7 +33667,7 @@ essencetear,uti,DescIdentified,0,이 컨테이너 안에 죽은 자들의 땅에
 evelynamulet,uti,LocalizedName,0,에블린 사상가 협회 부적
 evelynamulet,uti,Description,0,이 Amulet은 에블린 사상가들의 사회가 거주하는 생각실에 접근할 수 있게 해줍니다. 첫 번째 학기 시작을 위해 생각실에 도착하는 1학년 학생들에게 주어집니다.
 evelynamulet,uti,DescIdentified,0,이 Amulet은 에블린 사상가들의 사회가 거주하는 생각실에 접근할 수 있게 해줍니다. 첫 번째 학기 시작을 위해 생각실에 도착하는 1학년 학생들에게 주어집니다.
-evelynapprobe,uti,LocalizedName,0,에블린 사제복
+evelynapprobe,uti,LocalizedName,0,에블린 성직자복
 evelynapprobe,uti,Description,0,이 옷은 에블린 사상가회에서 손으로 꿰매진 연습생복입니다.
 evelynapprobe,uti,DescIdentified,0,이 옷은 에블린 사상가회에서 손으로 꿰매진 연습생복입니다.
 evelynrobe001,uti,LocalizedName,0,에블린 로브
@@ -33771,10 +33771,10 @@ gimyrbook,uti,LocalizedName,0,남쪽 드워프
 gimyrbook,uti,Description,0,"이 땅은 가혹하고 매우 건조하며 북쪽 땅과 비교해 더 크고 훨씬 더 강한 생물들이 살고 있다. 이러한 특수한 조건으로 남쪽 왜성은 전투에서 더 오래 지속하여 훨씬 더 큰 적들에게 더 큰 피해를 입히기 위해 전투 능력을 확장하게 되었다. 수백 년 동안 길러진 이 독특한 조합으로 베저커 왜성은 탄생했다. 베저커 왜성은 쉽게 분노하고 그들의 감정이 통제되지 않으면 베저커킹의 세 단계의 징후를 나타내기 시작할 수 있다. 두 번째 분노가 완료되면 베저커 왜성은 통제를 벗어났고, 짧은 시간 동안 전투에서 무거운 것을 일으켰다. 첫 번째 피해는 왜성은 그들을 괴롭히는 감정을 경험하기 시작했을 때입니다. 이 때문에 왜성은 두 번째 단계에 이르러 혈류의 물결이 혈류의 물결의 덩어리를 찌르고, 두 번째 단계에 이르러 세 번째 단계에 도달하기 쉽다. 이 단계에 도달하기 쉬운 단계에 도달하기 위해 이 세 번째 단계에 도달하기 시작하면, 이 단계에 도달하기 시작하면, 왜성은 매우 가벼워지고, 세 번째 단계에 도달하기 시작하면, 이 단계에 도달하기 시작하면, 이 단계"
 gimyrbook,uti,DescIdentified,0,"이 땅은 가혹하고 매우 건조하며 북쪽 땅과 비교해 더 크고 훨씬 더 강한 생물들이 살고 있다. 이러한 특수한 조건으로 남쪽 왜성은 전투에서 더 오래 지속하여 훨씬 더 큰 적들에게 더 큰 피해를 입히기 위해 전투 능력을 확장하게 되었다. 수백 년 동안 길러진 이 독특한 조합으로 베저커 왜성은 탄생했다. 베저커 왜성은 쉽게 분노하고 그들의 감정이 통제되지 않으면 베저커킹의 세 단계의 징후를 나타내기 시작할 수 있다. 두 번째 분노가 완료되면 베저커 왜성은 통제를 벗어났고, 짧은 시간 동안 전투에서 무거운 것을 일으켰다. 첫 번째 피해는 왜성은 그들을 괴롭히는 감정을 경험하기 시작했을 때입니다. 이 때문에 왜성은 두 번째 단계에 이르러 혈류의 물결이 혈류의 물결의 덩어리를 찌르고, 두 번째 단계에 이르러 세 번째 단계에 도달하기 쉽다. 이 단계에 도달하기 쉬운 단계에 도달하기 위해 이 세 번째 단계에 도달하기 시작하면, 이 단계에 도달하기 시작하면, 왜성은 매우 가벼워지고, 세 번째 단계에 도달하기 시작하면, 이 단계에 도달하기 시작하면, 이 단계"
 golden_cross,uti,LocalizedName,0,골든 크로스
-golden_cross,uti,Description,0,"""골든 크로스는 한때 우리 민족의 고위 사제들에게 착용되어 주어졌지만, 알마라이벤에 더 강력한 마법이 도입되면서 더 이상 착용되지 않았습니다. 나는 매우 저렴한 가격에 판매하고 있으니, 모두 사라지기 전에 하나를 사보세요!""
+golden_cross,uti,Description,0,"""골든 크로스는 한때 우리 민족의 고위 성직자들에게 착용되어 주어졌지만, 알마라이벤에 더 강력한 마법이 도입되면서 더 이상 착용되지 않았습니다. 나는 매우 저렴한 가격에 판매하고 있으니, 모두 사라지기 전에 하나를 사보세요!""
 
 이 목걸이는 로세틸 거리에 위치한 로세틸이라는 지역 상점에서 판매되고 있습니다."
-golden_cross,uti,DescIdentified,0,"""골든 크로스는 한때 우리 민족의 고위 사제들에게 착용되어 주어졌지만, 알마라이벤에 더 강력한 마법이 도입되면서 더 이상 착용되지 않았습니다. 나는 매우 저렴한 가격에 판매하고 있으니, 모두 사라지기 전에 하나를 사보세요!""
+golden_cross,uti,DescIdentified,0,"""골든 크로스는 한때 우리 민족의 고위 성직자들에게 착용되어 주어졌지만, 알마라이벤에 더 강력한 마법이 도입되면서 더 이상 착용되지 않았습니다. 나는 매우 저렴한 가격에 판매하고 있으니, 모두 사라지기 전에 하나를 사보세요!""
 
 이 목걸이는 로세틸 거리에 위치한 로세틸이라는 지역 상점에서 판매되고 있습니다."
 gp_high_1000gp,uti,LocalizedName,0,피 로즈 조각 된 디나르
@@ -33813,7 +33813,7 @@ gp_low_3gp,uti,DescIdentified,0,"이 디나르 조각은 특별한 방식으로 
 gp_low_4gp,uti,LocalizedName,0,블루 슬라이버 디나르
 gp_low_4gp,uti,Description,0,"이 시나리 조각은 특별한 방식으로 새겨져 파란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 파란색 시나리 조각은 무역에서 4gp만 가치 있습니다."
 gp_low_4gp,uti,DescIdentified,0,"이 시나리 조각은 특별한 방식으로 새겨져 파란색으로 어져 있어 상인, 거래자, 거래자 등이 단순히 그것을 보면서 그 가치를 알 수 있습니다. 이 파란색 시나리 조각은 무역에서 4gp만 가치 있습니다."
-gp_med_10gp,uti,LocalizedName,0,로그 슬라이스 디나르
+gp_med_10gp,uti,LocalizedName,0,도적 슬라이스 디나르
 gp_med_10gp,uti,Description,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 gp_med_10gp,uti,DescIdentified,0,이 반쪽 디나르는 상인과 거래꾼 등 거래하는 사람들이 보기만 해도 가치를 알 수 있도록 특정한 방식으로 새기고 붉은 빛으로 색을 입혔다. 이 붉은 반쪽 디나르는 거래에서 10gp의 가치밖에 없다.
 gp_med_20gp,uti,LocalizedName,0,라벤더 슬라이스 디나르
@@ -34015,7 +34015,7 @@ it_mthnmisc019,uti,LocalizedName,0,보석 장식
 it_mthnmisc019,uti,Description,0,"이것은 보석으로 장식한 조각입니다. 체리가 달린 가지에 작은 새가 앉아 있고, 체리 하나하나가 짙은 붉은빛으로 반짝입니다."
 it_mthnmisc019,uti,DescIdentified,0,"이것은 보석으로 장식한 조각입니다. 체리가 달린 가지에 작은 새가 앉아 있고, 체리 하나하나가 짙은 붉은빛으로 반짝입니다."
 it_sparscr003,uti,LocalizedName,0,산성 분사
-it_sparscr003,uti,DescIdentified,0,"시전자 레벨(s): 마법사 / 소서러 0
+it_sparscr003,uti,DescIdentified,0,"시전자 레벨(s): 마법사 / 요술사 0
 선천적인 레벨: 0
 학파: 소환술
 속성: 산성
@@ -34779,7 +34779,7 @@ tcsuit,uti,LocalizedName,0,페스터 팟의 갑옷
 tcsuit,uti,Description,0,"이것은 천, 가죽, 사슬을 꿰매어 만든 갑옷으로, 페스터 포트가 모험 중에 얻은 재료로 제작한 것이다."
 tcsuit,uti,DescIdentified,0,"이것은 천, 가죽, 사슬을 꿰매어 만든 갑옷으로, 페스터 포트가 모험 중에 얻은 재료로 제작한 것이다."
 tentacle,uti,LocalizedName,0,텐테클
-tentacle,uti,DescIdentified,0,에바드의 검은 촉수의 주요 구성 요소
+tentacle,uti,DescIdentified,0,에음유시인의 검은 촉수의 주요 구성 요소
 thiefcloth,uti,LocalizedName,0,가죽 갑옷
 thiefcloth,uti,Description,0,이 가죽 갑옷은 알마라이벤의 대부분 주민들이 구매할 수 있는 옷의 품질보다 뛰어납니다. 도적회는 이 갑옷을 착용합니다.
 thiefcloth,uti,DescIdentified,0,이 가죽 갑옷은 알마라이벤의 대부분 주민들이 구매할 수 있는 옷의 품질보다 뛰어납니다. 도적회는 이 갑옷을 착용합니다.
